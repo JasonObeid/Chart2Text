@@ -1,0 +1,18 @@
+run csv2gtable to create split sets from scraped .csv and .txt files
+
+extract vocab for each set:
+python3 extract_vocab.py --table ../data/valid/validData.txt --summary ../data/valid/validSummary.txt
+
+python3 preprocess_table_data.py --table ../data/valid/validData.txt --table_vocab ../data/valid/validData.txt_vocab --table_label ../data/valid/validDataLabel.txt
+
+python3 preprocess_summary_data.py --summary ../data/valid/validSummary.txt --summary_vocab ../data/valid/validSummary.txt_vocab --summary_label ../data/valid/validSummaryLabel.txt
+
+
+python3 preprocess_table_data.py --table ../data/test/testData.txt --table_vocab ../data/test/testData.txt_vocab --table_label ../data/test/testDataLabel.txt
+
+python3 preprocess_summary_data.py --summary ../data/test/testSummary.txt --summary_vocab ../data/test/testSummary.txt_vocab --summary_label ../data/test/testSummaryLabel.txt
+
+
+python3 preprocess_table_data.py --table ../data/train/trainData.txt --table_vocab ../data/train/trainData.txt_vocab --table_label ../data/train/trainDataLabel.txt
+
+python3 preprocess_summary_data.py --summary ../data/train/trainSummary.txt --summary_vocab ../data/train/trainSummary.txt_vocab --summary_label ../data/train/trainSummaryLabel.txt
