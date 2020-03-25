@@ -22,13 +22,15 @@ python3 model/train.py \
     --enc_n_layers 1 \
     --dec_n_layers 6 \
     --dropout 0.1 \
-    --save_periodic 1 \
+    --save_periodic 25 \
     --batch_size 6 \
     --beam_size 4 \
     --epoch_size 1000 \
     --max_epoch 200 \
     --eval_bleu True \
-    --validation_metrics valid_mt_bleu \
+    --validation_metrics valid_mt_bleu
+
+     \
     --reload_checkpoint checkpoint.pth
 
 

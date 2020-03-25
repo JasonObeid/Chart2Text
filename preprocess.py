@@ -43,22 +43,22 @@ for i in range(len(dataFiles)):
     xValueArr = []
     yValueArr = []
     for i in range(0,size):
-        #cleanXAxis = re.sub('[^0-9a-zA-Z] +', "", xAxis)
         cleanXAxis = re.sub('\s', '_', xAxis)
-        #cleanYAxis = re.sub('[^0-9a-zA-Z] +', "", yAxis)
+        cleanXAxis = re.sub('\*','',cleanXAxis)
+        cleanXAxis = re.sub('%', '', cleanXAxis)
         cleanYAxis = re.sub('\s', '_', yAxis)
+        cleanYAxis = re.sub('\*', '', cleanYAxis)
+        cleanYAxis = re.sub('%', '', cleanYAxis)
         xDataType = "x"
         yDataType = "y"
-        xValue = str(df.at[i,xAxis])
-        yValue = str(df.at[i,yAxis])
-        #cleanXValue = re.sub('[^0-9a-zA-Z] +', "", xValue)
+        xValue = str(df.at[i, xAxis])
+        yValue = str(df.at[i, yAxis])
         cleanXValue = re.sub('\s', '_', xValue)
-        #cleanYValue = re.sub('[^0-9a-zA-Z] +', "", yValue)
+        cleanXValue = re.sub('\*', '', cleanXValue)
+        cleanXValue = re.sub('%', '', cleanXValue)
         cleanYValue = re.sub('\s', '_', yValue)
-        #cleanXAxis = xAxis
-        #cleanYAxis = yAxis
-        #cleanXValue = xValue
-        #cleanYValue = yValue
+        cleanYValue = re.sub('\*', '', cleanYValue)
+        cleanYValue = re.sub('%', '', cleanYValue)
         xValueArr.append(cleanXValue)
         yValueArr.append(cleanYValue)
         dataMatchCount = 0
