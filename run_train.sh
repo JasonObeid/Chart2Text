@@ -1,3 +1,4 @@
+export CUDA_VISIBLE_DEVICES=1
 python3 model/train.py \
     --model_path "experiments" \
     --exp_name "chart2text-transformer" \
@@ -25,5 +26,11 @@ python3 model/train.py \
     --batch_size 6 \
     --beam_size 4 \
     --epoch_size 1000 \
+    --max_epoch 200 \
     --eval_bleu True \
-    --validation_metrics valid_mt_bleu
+    --validation_metrics valid_mt_bleu \
+    --reload_checkpoint checkpoint.pth
+
+
+
+python3 model/summarize.py --model_path best-valid_mt_bleu.pth --table_path data/test/testData.txt --output_path testOutput3.txt --beam_size 4

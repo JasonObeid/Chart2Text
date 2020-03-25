@@ -64,6 +64,7 @@ def build_model(params, src_dico, tgt_dico=None):
     """
     Build model.
     """
+    print(params)
     if params.encoder_only:
         # build
         encoder = TransformerEncoder(params, src_dico, with_output=True)

@@ -86,9 +86,6 @@ def main(params):
             #print(table_line)
             record_seq = [each.split('|') for each in table_line.split()]
             print(record_seq)
-            for x in record_seq:
-                print(x)
-                print(' ')
             assert all([len(x) == 4 for x in record_seq])
             enc_x1_ids.append(torch.LongTensor([source_dico.index(x[0]) for x in record_seq]))
             enc_x2_ids.append(torch.LongTensor([source_dico.index(x[1]) for x in record_seq]))
@@ -147,6 +144,7 @@ def main(params):
             target = " ".join([target_dico[sent[k].item()] for k in range(len(sent))])
             sys.stderr.write("%i / %i: %s\n" % (i + j, len(table_lines), target))
             outf.write(target + "\n")
+            print(target)
 
     outf.close()
 
