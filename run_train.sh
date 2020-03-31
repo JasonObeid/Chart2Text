@@ -27,7 +27,7 @@ python3 model/train.py \
     --beam_size 4 \
     --epoch_size 1000 \
     --max_epoch 200 \
-    --eval_bleu True \
+    --eval_bleu False \
     --validation_metrics valid_mt_bleu
 
      \

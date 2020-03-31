@@ -14,12 +14,16 @@ dataFiles.sort()
 captionFiles = os.listdir('dataset/captions')
 captionFiles.sort()
 
+titleFiles = os.listdir('dataset/titles')
+titleFiles.sort()
+
 dataArr = []
 dataLabelArr = []
 summaryArr = []
 summaryLabelArr = []
 labelList = []
-assert len(captionFiles) == len(dataFiles)
+
+assert len(captionFiles) == len(dataFiles) == len(titleFiles)
 
 
 def getChartType(x):
@@ -63,9 +67,9 @@ def checkToken(value, label):
     if value in caption:
         #print(value)
         bool = 1
-    elif label in caption:
-        print(label)
-        bool = 1
+    #elif label in caption:
+    #    print(label)
+    #    bool = 1
     else:
         bool = 0
     return bool
@@ -75,10 +79,16 @@ def checkToken(value, label):
 for i in range(len(dataFiles)):
     dataPath = 'dataset/data/'+ dataFiles[i]
     captionPath = 'dataset/captions/' + captionFiles[i]
+    titlePath = 'dataset/titles/' + titleFiles[i]
     caption = openCaption(captionPath)
+    title = openCaption(titlePath)
+    cleanTitle = cleanAxisValue(title)
     df, cols, size, xAxis, yAxis, chartType = openData(dataPath)
-    dataLabelLine = ""
-    dataLine = ""
+    #append chart title to start of data file, set data label for it to always be 1
+    dataLabelLine = "1 "
+    cleanXAxis = cleanAxisLabel(xAxis)
+    cleanYAxis = cleanAxisLabel(yAxis)
+    dataLine = 'Title|' + cleanTitle  + '|' + cleanXAxis + '|' + cleanYAxis + ' '
     summaryLabelLine = ""
     xValueArr = []
     yValueArr = []
@@ -89,9 +99,6 @@ for i in range(len(dataFiles)):
 
         xValue = str(df.at[i, xAxis])
         yValue = str(df.at[i, yAxis])
-
-        cleanXAxis = cleanAxisLabel(xAxis)
-        cleanYAxis = cleanAxisLabel(yAxis)
 
         cleanXValue = cleanAxisValue(xValue)
         cleanYValue = cleanAxisValue(yValue)
