@@ -1,8 +1,10 @@
 import os
 import pandas as pd
 import re
-from scripts.tokenizer import word_tokenize, detokenize
+from scripts.tokenizer import detokenize
+from random import shuffle
 from math import ceil
+import spacy
 import nltk
 nltk.download('punkt')
 #todo SHUFFLE SETS
@@ -19,6 +21,7 @@ summaryLabelArr = []
 labelList = []
 assert len(captionFiles) == len(dataFiles)
 
+
 def getChartType(x):
     if x.lower() == 'year':
         return 'line_chart'
@@ -26,56 +29,89 @@ def getChartType(x):
         return 'bar_chart'
 
 
-for i in range(len(dataFiles)):
-    dataPath = 'dataset/data/'+ dataFiles[i]
-    captionPath = 'dataset/captions/' + captionFiles[i]
+def openCaption(captionPath):
     with open(captionPath, 'r', encoding='utf-8') as captionFile:
         caption = captionFile.read()
+    return caption
+
+
+def openData(dataPath):
     df = pd.read_csv(dataPath)
     cols = df.columns
     size = df.shape[0]
     xAxis = cols[0]
     yAxis = cols[1]
     chartType = getChartType(xAxis)
+    return df, cols, size, xAxis, yAxis, chartType
+
+
+def cleanAxisLabel(label):
+    cleanLabel = re.sub('\s', '_', label)
+    cleanLabel = re.sub('\*', '', cleanLabel)
+    cleanLabel = re.sub('%', '', cleanLabel)
+    return cleanLabel
+
+
+def cleanAxisValue(value):
+    cleanValue = re.sub('\s', '_', value)
+    cleanValue = re.sub('\*', '', cleanValue)
+    cleanValue = re.sub('%', '', cleanValue)
+    return cleanValue
+
+
+def checkToken(value, label):
+    if value in caption:
+        #print(value)
+        bool = 1
+    elif label in caption:
+        print(label)
+        bool = 1
+    else:
+        bool = 0
+    return bool
+
+#nlp = spacy.load('en_core_web_md')
+
+for i in range(len(dataFiles)):
+    dataPath = 'dataset/data/'+ dataFiles[i]
+    captionPath = 'dataset/captions/' + captionFiles[i]
+    caption = openCaption(captionPath)
+    df, cols, size, xAxis, yAxis, chartType = openData(dataPath)
     dataLabelLine = ""
     dataLine = ""
     summaryLabelLine = ""
     xValueArr = []
     yValueArr = []
+    #iterate through each table row
     for i in range(0,size):
-        cleanXAxis = re.sub('\s', '_', xAxis)
-        cleanXAxis = re.sub('\*','',cleanXAxis)
-        cleanXAxis = re.sub('%', '', cleanXAxis)
-        cleanYAxis = re.sub('\s', '_', yAxis)
-        cleanYAxis = re.sub('\*', '', cleanYAxis)
-        cleanYAxis = re.sub('%', '', cleanYAxis)
         xDataType = "x"
         yDataType = "y"
+
         xValue = str(df.at[i, xAxis])
         yValue = str(df.at[i, yAxis])
-        cleanXValue = re.sub('\s', '_', xValue)
-        cleanXValue = re.sub('\*', '', cleanXValue)
-        cleanXValue = re.sub('%', '', cleanXValue)
-        cleanYValue = re.sub('\s', '_', yValue)
-        cleanYValue = re.sub('\*', '', cleanYValue)
-        cleanYValue = re.sub('%', '', cleanYValue)
+
+        cleanXAxis = cleanAxisLabel(xAxis)
+        cleanYAxis = cleanAxisLabel(yAxis)
+
+        cleanXValue = cleanAxisValue(xValue)
+        cleanYValue = cleanAxisValue(yValue)
+
         xValueArr.append(cleanXValue)
         yValueArr.append(cleanYValue)
+
         dataMatchCount = 0
-        if(cleanXValue in caption):
-            xbool = 1
+        xbool = checkToken(cleanXValue, cleanXAxis)
+        ybool = checkToken(cleanYValue, cleanYAxis)
+        if (xbool == 1):
             dataMatchCount += 1
-        else:
-            xbool = 0
-        if(cleanYValue in caption):
-            ybool = 1
+        if (ybool == 1):
             dataMatchCount += 1
-        else:
-            ybool = 0
+
         dataLabelLine = (dataLabelLine + str(xbool) + ' ' + str(ybool) + ' ')
         xRecord = (cleanXAxis + '|' + cleanXValue + '|' + xDataType + '|' + chartType)
         yRecord = (cleanYAxis + '|' + cleanYValue + '|' + yDataType + '|' + chartType)
         dataLine = dataLine + xRecord + ' ' + yRecord + ' '
+
     captionTokens = caption.rstrip().split()
     labelMap = []
     captionMatchCount = 0
@@ -87,7 +123,7 @@ for i in range(len(dataFiles)):
             tokenBool = 0
         labelMap.append(str(tokenBool))
     if captionMatchCount > 0 and dataMatchCount > 0:
-        print(captionMatchCount, dataMatchCount)
+        #print(captionMatchCount, dataMatchCount)
         summaryLabelLine = detokenize(labelMap)
         assert len(captionTokens) == len(summaryLabelLine.rstrip().split())
         labelList.append(labelMap)
@@ -150,3 +186,11 @@ with open('data/valid/validSummary.txt', mode='wt', encoding='utf8') as myfile10
     myfile10.writelines("%s\n" % line for line in validSummary)
 with open('data/valid/validSummaryLabel.txt', mode='wt', encoding='utf8') as myfile11:
     myfile11.writelines("%s\n" % line for line in validSummaryLabel)
+
+    # tokenVector = nlp(token)
+    # xVector =
+    # xSimilarity = tokenVector.similarity()
+    # ySimilarity = tokenVector.similarity(nlp(cleanYValue))
+    # print(token, cleanXValue, xSimilarity)
+    # print(token, cleanYValue, ySimilarity)
+    # print(' ')

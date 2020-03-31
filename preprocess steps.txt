@@ -1,3 +1,7 @@
+pip install spacy, nltk
+
+python -m spacy download en_core_web_lg
+
 run preprocess.py to preprocess data and create split sets from scraped .csv and .txt files
 
 
