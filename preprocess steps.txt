@@ -10,6 +10,7 @@ cd scripts
 python3 extract_vocab.py --table ../data/valid/validData.txt --summary ../data/valid/validSummary.txt
 python3 extract_vocab.py --table ../data/test/testData.txt --summary ../data/test/testSummary.txt
 python3 extract_vocab.py --table ../data/train/trainData.txt --summary ../data/train/trainSummary.txt
+python3 extract_vocab.py --table ../data/fineTune/data.txt --summary ../data/fineTune/summary.txt
 
 run xlm preprocess script for each file:
 cd model
@@ -26,3 +27,8 @@ python3 preprocess_summary_data.py --summary ../data/test/testSummary.txt --summ
 python3 preprocess_table_data.py --table ../data/train/trainData.txt --table_vocab ../data/train/trainData.txt_vocab --table_label ../data/train/trainDataLabel.txt
 
 python3 preprocess_summary_data.py --summary ../data/train/trainSummary.txt --summary_vocab ../data/train/trainSummary.txt_vocab --summary_label ../data/train/trainSummaryLabel.txt
+
+
+python3 preprocess_table_data.py --table ../data/fineTune/data.txt --table_vocab ../data/fineTune/data.txt_vocab --table_label ../data/fineTune/dataLabel.txt
+
+python3 preprocess_summary_data.py --summary ../data/fineTune/summary.txt --summary_vocab ../data/fineTune/summary.txt_vocab --summary_label ../data/fineTune/summaryLabel.txt
