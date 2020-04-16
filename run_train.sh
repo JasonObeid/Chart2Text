@@ -35,4 +35,4 @@ python3 model/train.py \
 
 
 
-python3 model/summarize.py --model_path periodic-80.pth --table_path data/test/testData.txt --output_path testOutput4.txt --beam_size 4
+python3 model/summarize.py --model_path checkpoint_4.16.pth --table_path data/test/testData.txt --output_path testOutput4.16.2.txt --beam_size 8

@@ -1,13 +1,13 @@
 import os
-import string
-
-import pandas as pd
 import re
-import scripts.tokenizer as tkn
-#from random import shuffle
-#from math import ceil
-#import spacy
+
+# from random import shuffle
+# from math import ceil
+# import spacy
 import nltk
+import pandas as pd
+
+import scripts.tokenizer as tkn
 
 nltk.download('punkt')
 # todo SHUFFLE SETS
@@ -63,43 +63,48 @@ def cleanAxisLabel(label):
 
 def cleanAxisValue(value):
     cleanValue = re.sub('\s', '_', value)
-    #tokenizedValue = tkn.word_tokenize(value)
-    #cleanValue = tkn.detokenize(tokenizedValue)
+    # tokenizedValue = tkn.word_tokenize(value)
+    # cleanValue = tkn.detokenize(tokenizedValue)
     cleanValue = re.sub('\*', '', cleanValue)
     cleanValue = re.sub('%', '', cleanValue)
     return cleanValue
 
 
 def checkToken(value, caption):
-    if value in caption:
-        bool = 1
-    else:
-        bool = 0
+    bool = 0
+    for word in caption.split():
+        if str(value).lower() in word.lower():
+            bool = 1
+            break
+            return bool
     return bool
 
 
+
 def compareToken(token, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis):
-    #check if token in title
+    # check if token in title
     for word in titleWords:
         if token.lower() in word.replace('_', ' ').lower():
-            #print(f'token:{token},  TitleValue:{word}')
+            # print(f'token:{token},  TitleValue:{word}')
             return 1
-    #check if token in chart values
+    # check if token in chart values
     for xWord, yWord in zip(xValueArr, yValueArr):
         if token.lower() in xWord.replace('_', ' ').lower():
-            #print(f'token:{token},  xValue:{xWord}')
+            # print(f'token:{token},  xValue:{xWord}')
             return 1
         elif token.lower() in yWord.replace('_', ' ').lower():
-            #print(f'token:{token},  yValue:{yWord}')
+            # print(f'token:{token},  yValue:{yWord}')
             return 1
-    #check if token in chart labels
+    # check if token in axis names
     if token.lower() in cleanXAxis.replace('_', ' ').lower():
-        #print(f'token:{token},  xLabel:{cleanXAxis}')
+        # print(f'token:{token},  xLabel:{cleanXAxis}')
         return 1
     elif token.lower() in cleanYAxis.replace('_', ' ').lower():
-        #print(f'token:{token},  yLabel:{cleanYAxis}')
+        # print(f'token:{token},  yLabel:{cleanYAxis}')
         return 1
     return 0
+
+
 # nlp = spacy.load('en_core_web_md')
 
 for i in range(len(dataFiles)):
@@ -111,12 +116,10 @@ for i in range(len(dataFiles)):
     cleanTitle = cleanAxisValue(title)
     df, cols, size, xAxis, yAxis, chartType = openData(dataPath)
     # append chart title to start of data file, set data label for it to always be 1
-    dataLabelLine = ""#"1 "
+    dataLabelLine = ""  # "1 "
     cleanXAxis = cleanAxisLabel(xAxis)
     cleanYAxis = cleanAxisLabel(yAxis)
-    #if (cleanYAxis == 'Number_of_YouTube_views_in_millions'):
-    #    AAAAA = dataPath
-    dataLine = ''#'Title|' + cleanTitle + '|' + cleanXAxis + '|' + cleanYAxis + ' '
+    dataLine = ''  # 'Title|' + cleanTitle + '|' + cleanXAxis + '|' + cleanYAxis + ' '
     summaryLabelLine = ""
     xValueArr = []
     yValueArr = []
@@ -152,7 +155,8 @@ for i in range(len(dataFiles)):
     captionMatchCount = 0
     print(' ')
     for token in captionTokens:
-        if(token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']):
+        if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but', 'is', 'of', 'it',
+                                  'on', '.', 'at', '(', ')', ',']):
             tokenBool = compareToken(token, title.split(), xValueArr, yValueArr, cleanXAxis, cleanYAxis)
             if tokenBool == 1:
                 captionMatchCount += 1
@@ -179,7 +183,6 @@ for i in range(len(dataFiles)):
         dataLabelArr.append(dataLabelLine)
         summaryArr.append(caption)
         summaryLabelArr.append(summaryLabelLine)
-
 
 assert len(dataArr) == len(dataLabelArr)
 assert len(summaryArr) == len(summaryLabelArr)
@@ -233,6 +236,30 @@ with open('data/valid/validSummary.txt', mode='wt', encoding='utf8') as myfile10
     myfile10.writelines("%s" % line for line in validSummary)
 with open('data/valid/validSummaryLabel.txt', mode='wt', encoding='utf8') as myfile11:
     myfile11.writelines("%s\n" % line for line in validSummaryLabel)
+
+with open('data/dataRatio.txt', mode='wt', encoding='utf8') as myfile12:
+    myfile12.write(str(dataRatioArr))
+with open('data/captionRatio.txt', mode='wt', encoding='utf8') as myfile13:
+    myfile13.write(str(captionRatioArr))
+
+import matplotlib.pyplot as plt
+plt.hist(dataRatioArr, 6)
+plt.savefig('data/data.png')
+plt.close('all')
+plt.hist(captionRatioArr, 6)
+plt.savefig('data/caption.png')
+plt.close('all')
+
+with open('data/fineTune/data.txt', mode='wt', encoding='utf8') as myfile14, \
+        open('data/fineTune/dataLabel.txt', mode='wt', encoding='utf8') as myfile15, \
+        open('data/fineTune/summary.txt', mode='wt', encoding='utf8') as myfile16, \
+        open('data/fineTune/summaryLabel.txt', mode='wt', encoding='utf8') as myfile17:
+    for i in range(0, len(captionRatioArr)):
+        if captionRatioArr[i] > 0.35:
+            myfile14.writelines(dataArr[i] + "\n")
+            myfile15.writelines(dataLabelArr[i] + "\n")
+            myfile16.writelines(summaryArr[i])
+            myfile17.writelines(summaryLabelArr[i] + "\n")
 
     # tokenVector = nlp(token)
     # xVector =
