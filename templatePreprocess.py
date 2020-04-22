@@ -153,11 +153,13 @@ for i in range(len(dataFiles)):
     labelMap = []
     captionMatchCount = 0
     print(' ')
-    for token in captionTokens:
+    for token, i in zip(captionTokens, range(0,len(captionTokens))):
         if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but', 'is', 'of', 'it',
                                   'on', '.', 'at', '(', ')', ',']):
-            tokenBool = compareToken(token, title.split(), xValueArr, yValueArr, cleanXAxis, cleanYAxis)
+            #MODIFY COMPARETOKEN, CREATE NEW FUNCTIONS TO FIGURE OUT WHAT TO ENCODE IN TEMPLATE PLACED IN TOKEN
+            newToken, tokenBool = compareToken(token, title.split(), xValueArr, yValueArr, cleanXAxis, cleanYAxis)
             if tokenBool == 1:
+                captionTokens[i] = newToken
                 captionMatchCount += 1
         else:
             tokenBool = 0
@@ -172,6 +174,8 @@ for i in range(len(dataFiles)):
         print(dataMatchCount, captionMatchCount)
         summaryLabelLine = tkn.detokenize(labelMap)
         assert len(captionTokens) == len(summaryLabelLine.rstrip().split())
+        #HERE TOO
+        newCaption = tkn.detokenize(captionTokens)
         print(title)
         print(xValueArr)
         print(yValueArr)
@@ -180,7 +184,7 @@ for i in range(len(dataFiles)):
         labelList.append(labelMap)
         dataArr.append(dataLine)
         dataLabelArr.append(dataLabelLine)
-        summaryArr.append(caption)
+        summaryArr.append(newCaption)
         summaryLabelArr.append(summaryLabelLine)
 
 assert len(dataArr) == len(dataLabelArr)

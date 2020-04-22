@@ -35,7 +35,7 @@ def get_parser():
 
     # main parameters
     parser.add_argument("--model_path", type=str, default="./model_training/", help="Experiment dump path")
-    parser.add_argument("--batch_size", type=int, default=16, help="Number of sentences per batch")
+    parser.add_argument("--batch_size", type=int, default=8, help="Number of sentences per batch")
 
     # model / output paths
     parser.add_argument("--table_path", type=str, default="", help="table path")
@@ -141,10 +141,11 @@ def main(params):
 
             # output translation
             source = table_lines[i + j].strip()
+            print(source)
             target = " ".join([target_dico[sent[k].item()] for k in range(len(sent))])
+            print(target)
             sys.stderr.write("%i / %i: %s\n" % (i + j, len(table_lines), target))
             outf.write(target + "\n")
-            print(target)
 
     outf.close()
 
