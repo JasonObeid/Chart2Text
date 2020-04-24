@@ -6,7 +6,7 @@ import re
 # import spacy
 import nltk
 import pandas as pd
-
+from text_to_num import text2num
 import scripts.tokenizer as tkn
 
 nltk.download('punkt')
@@ -25,6 +25,7 @@ dataLabelArr = []
 summaryArr = []
 summaryLabelArr = []
 labelList = []
+titleArr = []
 
 dataRatioArr = []
 captionRatioArr = []
@@ -81,30 +82,85 @@ def checkToken(value, caption):
 
 
 def compareToken(token, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis):
+    #check if numbers are in thousands, millions, billions, trillions
+    # check if token in chart values
+    for xWord, yWord, i in zip(xValueArr, yValueArr, range(0, len(xValueArr))):
+        if is_number(token.lower()) and is_word_number(xWord.replace('_', ' ').lower()):
+            token = float(token.lower())
+            xWord = text2num(xWord.replace('_', ' ').lower(), 'en')
+            return numberComparison(token, xWord, 'X')
+        elif is_word_number(token.lower()) and is_number(xWord.replace('_', ' ').lower()):
+            token = text2num(token.lower(), 'en')
+            xWord = float(token)
+            return numberComparison(token, xWord, 'X')
+        elif is_number(token.lower()) and is_word_number(yWord.replace('_', ' ').lower()):
+            token = float(token.lower())
+            yWord = text2num(yWord.replace('_', ' ').lower(), 'en')
+            return numberComparison(token, yWord, 'Y')
+        elif is_word_number(token.lower()) and is_number(yWord.replace('_', ' ').lower()):
+            token = text2num(token.lower(), 'en')
+            yWord = float(token)
+            return numberComparison(token, yWord, 'Y')
+        else:
+            if token.lower() in xWord.replace('_', ' ').lower():
+                # print(f'token:{token},  xValue:{xWord}')
+                return [1, f'templateXvalue[{i}]']
+            elif token.lower() in yWord.replace('_', ' ').lower():
+                # print(f'token:{token},  yValue:{yWord}')
+                return [1, f'templateYvalue[{i}]']
+    # check if token in axis names
+    #if len(cleanXAxis.split('_') > 0:
+    cleanXArr = cleanXAxis.split('_')
+    cleanYArr = cleanYAxis.split('_')
+    for xLabelword, i in zip(cleanXArr, range(0, len(cleanXArr))):
+        if token.lower() in xLabelword.lower():
+            # print(f'token:{token},  xLabel:{cleanXAxis}')
+            return [1, f'templateXlabel[{i}]']
+    #elif
+    for yLabelword, i in zip(cleanYArr, range(0, len(cleanYArr))):
+        if token.lower() in yLabelword.lower():
+            return [1, f'templateYlabel[{i}]']
     # check if token in title
-    for word in titleWords:
+    for word, i in zip(titleWords, range(0, len(titleWords))):
         if token.lower() in word.replace('_', ' ').lower():
             # print(f'token:{token},  TitleValue:{word}')
-            return 1
-    # check if token in chart values
-    for xWord, yWord in zip(xValueArr, yValueArr):
-        if token.lower() in xWord.replace('_', ' ').lower():
-            # print(f'token:{token},  xValue:{xWord}')
-            return 1
-        elif token.lower() in yWord.replace('_', ' ').lower():
-            # print(f'token:{token},  yValue:{yWord}')
-            return 1
-    # check if token in axis names
-    if token.lower() in cleanXAxis.replace('_', ' ').lower():
-        # print(f'token:{token},  xLabel:{cleanXAxis}')
-        return 1
-    elif token.lower() in cleanYAxis.replace('_', ' ').lower():
-        # print(f'token:{token},  yLabel:{cleanYAxis}')
-        return 1
-    return 0
+            return [1, f'templateTitle[{i}]']
+    return [0, token]
 
 
+def numberComparison(token, word, axis):
+    if token == word:
+        return [1, f'template{axis.upper()}Value[{i}]']
+    return [0, str(token)]
+
+
+def is_number(string):
+    try:
+        float(string)
+        return True
+    except ValueError:
+        return False
+
+
+def is_word_number(string):
+    try:
+        text2num(string, 'en')
+        return True
+    except ValueError:
+        return False
 # nlp = spacy.load('en_core_web_md')
+
+def checkForMultiplier(axisLabel):
+    if 'thousand' in axisLabel:
+        return 1000
+    elif 'million' in axisLabel:
+        return 1000000
+    elif 'billion' in axisLabel:
+        return 1000000000
+    elif 'trillion' in axisLabel:
+        return 1000000000000
+    else:
+        return 1
 
 for i in range(len(dataFiles)):
     dataPath = 'dataset/data/' + dataFiles[i]
@@ -148,6 +204,10 @@ for i in range(len(dataFiles)):
         xRecord = (cleanXAxis + '|' + cleanXValue + '|' + xDataType + '|' + chartType)
         yRecord = (cleanYAxis + '|' + cleanYValue + '|' + yDataType + '|' + chartType)
         dataLine = dataLine + xRecord + ' ' + yRecord + ' '
+
+    xMultiplier = checkForMultiplier(cleanXAxis)
+    yMultiplier = checkForMultiplier(cleanYAxis)
+    print(xMultiplier, yMultiplier)
     # REGEX split punctuation away from word
     captionTokens = caption.split()
     labelMap = []
@@ -157,7 +217,7 @@ for i in range(len(dataFiles)):
         if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but', 'is', 'of', 'it',
                                   'on', '.', 'at', '(', ')', ',']):
             #MODIFY COMPARETOKEN, CREATE NEW FUNCTIONS TO FIGURE OUT WHAT TO ENCODE IN TEMPLATE PLACED IN TOKEN
-            newToken, tokenBool = compareToken(token, title.split(), xValueArr, yValueArr, cleanXAxis, cleanYAxis)
+            tokenBool, newToken = compareToken(token, title.split(), xValueArr, yValueArr, cleanXAxis, cleanYAxis)
             if tokenBool == 1:
                 captionTokens[i] = newToken
                 captionMatchCount += 1
@@ -172,10 +232,10 @@ for i in range(len(dataFiles)):
         captionRatioArr.append(captionRatio)
         print(f' data: {dataRatio}, caption: {captionRatio}')
         print(dataMatchCount, captionMatchCount)
-        summaryLabelLine = tkn.detokenize(labelMap)
+        summaryLabelLine = (' ').join(labelMap)
         assert len(captionTokens) == len(summaryLabelLine.rstrip().split())
         #HERE TOO
-        newCaption = tkn.detokenize(captionTokens)
+        newCaption = (' ').join(captionTokens)
         print(title)
         print(xValueArr)
         print(yValueArr)
@@ -186,9 +246,11 @@ for i in range(len(dataFiles)):
         dataLabelArr.append(dataLabelLine)
         summaryArr.append(newCaption)
         summaryLabelArr.append(summaryLabelLine)
+        titleArr.append(title)
 
 assert len(dataArr) == len(dataLabelArr)
 assert len(summaryArr) == len(summaryLabelArr)
+assert len(titleArr) == len(dataArr)
 
 trainSize = round(len(dataArr) * 0.7)
 testSize = round(len(dataArr) * 0.15)
@@ -210,6 +272,10 @@ trainSummaryLabel = summaryLabelArr[0:trainSize]
 testSummaryLabel = summaryLabelArr[trainSize:trainSize + testSize]
 validSummaryLabel = summaryLabelArr[trainSize + testSize:]
 
+trainTitle = titleArr[0:trainSize]
+testTitle = titleArr[trainSize:trainSize + testSize]
+validTitle = titleArr[trainSize + testSize:]
+
 with open('data/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
     myfile0.writelines("%s\n" % line for line in trainData)
 with open('data/train/trainDataLabel.txt', mode='wt', encoding='utf8') as myfile1:
@@ -226,17 +292,17 @@ with open('data/valid/validDataLabel.txt', mode='wt', encoding='utf8') as myfile
     myfile5.writelines("%s\n" % line for line in validDataLabel)
 
 with open('data/train/trainSummary.txt', mode='wt', encoding='utf8') as myfile6:
-    myfile6.writelines("%s" % line for line in trainSummary)
+    myfile6.writelines("%s\n" % line for line in trainSummary)
 with open('data/train/trainSummaryLabel.txt', mode='wt', encoding='utf8') as myfile7:
     myfile7.writelines("%s\n" % line for line in trainSummaryLabel)
 
 with open('data/test/testSummary.txt', mode='wt', encoding='utf8') as myfile8:
-    myfile8.writelines("%s" % line for line in testSummary)
+    myfile8.writelines("%s\n" % line for line in testSummary)
 with open('data/test/testSummaryLabel.txt', mode='wt', encoding='utf8') as myfile9:
     myfile9.writelines("%s\n" % line for line in testSummaryLabel)
 
 with open('data/valid/validSummary.txt', mode='wt', encoding='utf8') as myfile10:
-    myfile10.writelines("%s" % line for line in validSummary)
+    myfile10.writelines("%s\n" % line for line in validSummary)
 with open('data/valid/validSummaryLabel.txt', mode='wt', encoding='utf8') as myfile11:
     myfile11.writelines("%s\n" % line for line in validSummaryLabel)
 
@@ -244,6 +310,13 @@ with open('data/dataRatio.txt', mode='wt', encoding='utf8') as myfile12:
     myfile12.write(str(dataRatioArr))
 with open('data/captionRatio.txt', mode='wt', encoding='utf8') as myfile13:
     myfile13.write(str(captionRatioArr))
+
+with open('data/train/trainTitle.txt', mode='wt', encoding='utf8') as myfile14:
+    myfile14.writelines("%s" % line for line in trainTitle)
+with open('data/test/testTitle.txt', mode='wt', encoding='utf8') as myfile15:
+    myfile15.writelines("%s" % line for line in testTitle)
+with open('data/valid/validTitle.txt', mode='wt', encoding='utf8') as myfile16:
+    myfile16.writelines("%s" % line for line in validTitle)
 
 import matplotlib.pyplot as plt
 plt.hist(dataRatioArr, 6)
