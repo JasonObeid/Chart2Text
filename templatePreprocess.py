@@ -68,6 +68,7 @@ def cleanAxisValue(value):
     # cleanValue = tkn.detokenize(tokenizedValue)
     cleanValue = re.sub('\*', '', cleanValue)
     cleanValue = re.sub('%', '', cleanValue)
+    cleanValue = cleanValue.replace(',','')
     return cleanValue
 
 
@@ -84,42 +85,58 @@ def checkToken(value, caption):
 def compareToken(token, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis):
     #check if numbers are in thousands, millions, billions, trillions
     # check if token in chart values
+    token = token.replace(',', '').lower()
     for xWord, yWord, i in zip(xValueArr, yValueArr, range(0, len(xValueArr))):
-        if is_number(token.lower()) and is_word_number(xWord.replace('_', ' ').lower()):
-            token = float(token.lower())
-            xWord = text2num(xWord.replace('_', ' ').lower(), 'en')
+        xWord = xWord.replace('_', ' ').replace(',', '').lower()
+        yWord = yWord.replace('_', ' ').replace(',', '').lower()
+        if is_number(token) and is_word_number(xWord):
+            token = float(token)
+            xWord = text2num(xWord, 'en')
             return numberComparison(token, xWord, 'X')
-        elif is_word_number(token.lower()) and is_number(xWord.replace('_', ' ').lower()):
-            token = text2num(token.lower(), 'en')
-            xWord = float(token)
+        elif is_word_number(token) and is_number(xWord):
+            token = text2num(token, 'en')
+            xWord = float(xWord)
             return numberComparison(token, xWord, 'X')
-        elif is_number(token.lower()) and is_word_number(yWord.replace('_', ' ').lower()):
-            token = float(token.lower())
-            yWord = text2num(yWord.replace('_', ' ').lower(), 'en')
+        elif is_number(token) and is_number(xWord):
+            token = float(token)
+            xWord = float(xWord)
+            return numberComparison(token, xWord, 'X')
+        elif is_number(token) and is_word_number(yWord):
+            token = float(token)
+            yWord = text2num(yWord, 'en')
             return numberComparison(token, yWord, 'Y')
-        elif is_word_number(token.lower()) and is_number(yWord.replace('_', ' ').lower()):
-            token = text2num(token.lower(), 'en')
-            yWord = float(token)
+        elif is_word_number(token) and is_number(yWord):
+            token = text2num(token, 'en')
+            yWord = float(yWord)
+            return numberComparison(token, yWord, 'Y')
+        elif is_number(token) and is_number(yWord):
+            if token == '50900':
+                print('here')
+            token = float(token)
+            yWord = float(yWord)
+            print(token, yWord)
+            x = numberComparison(token, yWord, 'Y')
+            print(x)
             return numberComparison(token, yWord, 'Y')
         else:
-            if token.lower() in xWord.replace('_', ' ').lower():
+            if token in xWord:
                 # print(f'token:{token},  xValue:{xWord}')
-                return [1, f'templateXvalue[{i}]']
-            elif token.lower() in yWord.replace('_', ' ').lower():
+                return [1, f'templateXValue[{i}]']
+            elif token in yWord:
                 # print(f'token:{token},  yValue:{yWord}')
-                return [1, f'templateYvalue[{i}]']
+                return [1, f'templateYValue[{i}]']
     # check if token in axis names
     #if len(cleanXAxis.split('_') > 0:
     cleanXArr = cleanXAxis.split('_')
     cleanYArr = cleanYAxis.split('_')
     for xLabelword, i in zip(cleanXArr, range(0, len(cleanXArr))):
-        if token.lower() in xLabelword.lower():
+        if token.lower() in xLabelword.replace('_', ' ').lower():
             # print(f'token:{token},  xLabel:{cleanXAxis}')
-            return [1, f'templateXlabel[{i}]']
+            return [1, f'templateXLabel[{i}]']
     #elif
     for yLabelword, i in zip(cleanYArr, range(0, len(cleanYArr))):
-        if token.lower() in yLabelword.lower():
-            return [1, f'templateYlabel[{i}]']
+        if token.lower() in yLabelword.replace('_', ' ').lower():
+            return [1, f'templateYLabel[{i}]']
     # check if token in title
     for word, i in zip(titleWords, range(0, len(titleWords))):
         if token.lower() in word.replace('_', ' ').lower():
@@ -130,6 +147,7 @@ def compareToken(token, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis
 
 def numberComparison(token, word, axis):
     if token == word:
+        # print(token,word)
         return [1, f'template{axis.upper()}Value[{i}]']
     return [0, str(token)]
 
@@ -151,13 +169,13 @@ def is_word_number(string):
 # nlp = spacy.load('en_core_web_md')
 
 def checkForMultiplier(axisLabel):
-    if 'thousand' in axisLabel:
+    if 'thousand' in axisLabel or '1000' in axisLabel.replace(',', ''):
         return 1000
-    elif 'million' in axisLabel:
+    elif 'million' in axisLabel or '1000000' in axisLabel.replace(',', ''):
         return 1000000
-    elif 'billion' in axisLabel:
+    elif 'billion' in axisLabel or '1000000000' in axisLabel.replace(',', ''):
         return 1000000000
-    elif 'trillion' in axisLabel:
+    elif 'trillion' in axisLabel or '1000000000000' in axisLabel.replace(',', ''):
         return 1000000000000
     else:
         return 1
@@ -207,12 +225,12 @@ for i in range(len(dataFiles)):
 
     xMultiplier = checkForMultiplier(cleanXAxis)
     yMultiplier = checkForMultiplier(cleanYAxis)
-    print(xMultiplier, yMultiplier)
+    #print(xMultiplier, yMultiplier)
     # REGEX split punctuation away from word
     captionTokens = caption.split()
     labelMap = []
     captionMatchCount = 0
-    print(' ')
+    # print(' ')
     for token, i in zip(captionTokens, range(0,len(captionTokens))):
         if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but', 'is', 'of', 'it',
                                   'on', '.', 'at', '(', ')', ',']):
@@ -230,17 +248,17 @@ for i in range(len(dataFiles)):
         captionRatio = round(captionMatchCount / len(captionTokens), 2)
         dataRatioArr.append(dataRatio)
         captionRatioArr.append(captionRatio)
-        print(f' data: {dataRatio}, caption: {captionRatio}')
-        print(dataMatchCount, captionMatchCount)
+        #print(f' data: {dataRatio}, caption: {captionRatio}')
+        #print(dataMatchCount, captionMatchCount)
         summaryLabelLine = (' ').join(labelMap)
         assert len(captionTokens) == len(summaryLabelLine.rstrip().split())
         #HERE TOO
         newCaption = (' ').join(captionTokens)
-        print(title)
-        print(xValueArr)
-        print(yValueArr)
-        print(caption)
-        print(summaryLabelLine)
+        #print(title)
+        #print(xValueArr)
+        #print(yValueArr)
+        #print(caption)
+        #print(summaryLabelLine)
         labelList.append(labelMap)
         dataArr.append(dataLine)
         dataLabelArr.append(dataLabelLine)
