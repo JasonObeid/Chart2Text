@@ -7,7 +7,6 @@ import re
 import nltk
 import pandas as pd
 from text_to_num import text2num
-import scripts.tokenizer as tkn
 
 nltk.download('punkt')
 # todo SHUFFLE SETS
@@ -77,84 +76,81 @@ def checkToken(value, caption):
     for word in caption.split():
         if str(value).lower() in word.lower():
             bool = 1
-            break
             return bool
     return bool
 
 
 def compareToken(token, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis):
-    #check if numbers are in thousands, millions, billions, trillions
+    # check if numbers are in thousands, millions, billions, trillions
     # check if token in chart values
     token = token.replace(',', '').lower()
-    compareToValues(token, xValueArr, yValueArr)
+    if is_word_number(token):
+        token = str(text2num(token, 'en'))
+    for xWords, yWords, i in zip(xValueArr, yValueArr, range(0, len(xValueArr))):
+        for xWord in xWords.split('_'):
+            xWord = xWord.replace(',', '').lower()
+            if is_word_number(xWord):
+                xWord = str(text2num(xWord, 'en'))
+            if token == xWord:
+                if xWords == xValueArr[len(xValueArr) - 1]:
+                    return [1, f'templateXValue[last]']
+                elif is_number(token) and are_numbers(xValueArr):
+                    # print(f'{token}, xWords:{xValueArr}')
+                    if float(xWords) == max([float(i) for i in xValueArr]):
+                        return [1, f'templateXValue[max]']
+                    elif float(xWords) == min([float(i) for i in xValueArr]):
+                        return [1, f'templateXValue[min]']
+                return [1, f'templateXValue[{i}]']
+        for yWord in yWords.split('_'):
+            yWord = yWord.replace(',', '').lower()
+            if is_word_number(yWord):
+                yWord = str(text2num(yWord, 'en'))
+            if token == yWord:
+                if is_number(token) and are_numbers(yValueArr):
+                    # print(f'{token}, yWords:{yValueArr}')
+                    if float(yWords) == max([float(i) for i in yValueArr]):
+                        return [1, f'templateYValue[max]']
+                    elif float(yWords) == min([float(i) for i in yValueArr]):
+                        return [1, f'templateYValue[min]']
+                elif yWords == yValueArr[len(yValueArr) - 1]:
+                    return [1, f'templateYValue[last]']
+                return [1, f'templateYValue[{i}]']
     # check if token in axis names
     cleanXArr = cleanXAxis.split('_')
     cleanYArr = cleanYAxis.split('_')
     for xLabelword, i in zip(cleanXArr, range(0, len(cleanXArr))):
-        if token.lower() in xLabelword.replace('_', ' ').lower():
+        if str(token).lower() in xLabelword.replace('_', ' ').lower():
             # print(f'token:{token},  xLabel:{cleanXAxis}')
             return [1, f'templateXLabel[{i}]']
     for yLabelword, i in zip(cleanYArr, range(0, len(cleanYArr))):
-        if token.lower() in yLabelword.replace('_', ' ').lower():
+        if str(token).lower() in yLabelword.replace('_', ' ').lower():
             return [1, f'templateYLabel[{i}]']
     # check if token in title
     for word, i in zip(titleWords, range(0, len(titleWords))):
-        if token.lower() in word.replace('_', ' ').lower():
+        if str(token).lower() in word.replace('_', ' ').lower():
             # print(f'token:{token},  TitleValue:{word}')
             return [1, f'templateTitle[{i}]']
-    print(f'no match {token}')
+    if is_number(token):
+        print(f'no match for number: {token}')
     return [0, token]
 
 
-def compareToValues(token, xValueArr, yValueArr):
-    for xWords, yWords, i in zip(xValueArr, yValueArr, range(0, len(xValueArr))):
-        for xWord in xWords.split('_'):
-            xWord = xWord.replace(',', '').lower()
-            if is_number(token) and is_word_number(xWord):
-                token = float(token)
-                xWord = text2num(xWord, 'en')
-                if numberComparison(token, xWord, 'X') == 1:
-                    return [1, f'templateXValue[{i}]']
-            elif is_word_number(token) and is_number(xWord):
-                token = text2num(token, 'en')
-                xWord = float(xWord)
-                if numberComparison(token, xWord, 'X') == 1:
-                    return [1, f'templateXValue[{i}]']
-            elif is_number(token) and is_number(xWord):
-                token = float(token)
-                xWord = float(xWord)
-                if numberComparison(token, xWord, 'X') == 1:
-                    return [1, f'templateXValue[{i}]']
-            else:
-                if token == xWord:
-                    # print(f'token:{token},  xValue:{xWord}')
-                    return [1, f'templateXValue[{i}]']
-        for yWord in yWords.split('_'):
-            if is_number(token) and is_word_number(yWord):
-                token = float(token)
-                yWord = text2num(yWord, 'en')
-                if numberComparison(token, yWord, 'Y') == 1:
-                    return [1, f'templateYValue[{i}]']
-            elif is_word_number(token) and is_number(yWord):
-                token = text2num(token, 'en')
-                yWord = float(yWord)
-                if numberComparison(token, yWord, 'Y') == 1:
-                    return [1, f'templateYValue[{i}]']
-            elif is_number(token) and is_number(yWord):
-                token = float(token)
-                yWord = float(yWord)
-                if numberComparison(token, yWord, 'Y') == 1:
-                    return [1, f'templateYValue[{i}]']
-            else:
-                if token == yWord:
-                    # print(f'token:{token},  yValue:{yWord}')
-                    return [1, f'templateYValue[{i}]']
+# def compareToValues(token, xValueArr, yValueArr):
 
 
 def numberComparison(token, word, axis):
     if token == word:
         return 1
     return 0
+
+
+def are_numbers(stringList):
+    try:
+        for value in stringList:
+            float(value)
+        return True
+    except ValueError:
+        return False
 
 
 def is_number(string):
