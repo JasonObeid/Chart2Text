@@ -11,6 +11,7 @@ for summaryPath in summaryPaths:
                 newSummary = tkn.word_tokenize(summary)
                 newSummaryPath = 'dataset/captions/'+summaryPath
                 with open(newSummaryPath, "w") as outf:
+
                     outf.write("{}\n".format(' '.join(newSummary)))
                 outf.close()
                 print(newSummary)

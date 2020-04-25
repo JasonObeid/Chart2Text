@@ -86,54 +86,14 @@ def compareToken(token, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis
     #check if numbers are in thousands, millions, billions, trillions
     # check if token in chart values
     token = token.replace(',', '').lower()
-    for xWord, yWord, i in zip(xValueArr, yValueArr, range(0, len(xValueArr))):
-        xWord = xWord.replace('_', ' ').replace(',', '').lower()
-        yWord = yWord.replace('_', ' ').replace(',', '').lower()
-        if is_number(token) and is_word_number(xWord):
-            token = float(token)
-            xWord = text2num(xWord, 'en')
-            return numberComparison(token, xWord, 'X')
-        elif is_word_number(token) and is_number(xWord):
-            token = text2num(token, 'en')
-            xWord = float(xWord)
-            return numberComparison(token, xWord, 'X')
-        elif is_number(token) and is_number(xWord):
-            token = float(token)
-            xWord = float(xWord)
-            return numberComparison(token, xWord, 'X')
-        elif is_number(token) and is_word_number(yWord):
-            token = float(token)
-            yWord = text2num(yWord, 'en')
-            return numberComparison(token, yWord, 'Y')
-        elif is_word_number(token) and is_number(yWord):
-            token = text2num(token, 'en')
-            yWord = float(yWord)
-            return numberComparison(token, yWord, 'Y')
-        elif is_number(token) and is_number(yWord):
-            if token == '50900':
-                print('here')
-            token = float(token)
-            yWord = float(yWord)
-            print(token, yWord)
-            x = numberComparison(token, yWord, 'Y')
-            print(x)
-            return numberComparison(token, yWord, 'Y')
-        else:
-            if token in xWord:
-                # print(f'token:{token},  xValue:{xWord}')
-                return [1, f'templateXValue[{i}]']
-            elif token in yWord:
-                # print(f'token:{token},  yValue:{yWord}')
-                return [1, f'templateYValue[{i}]']
+    compareToValues(token, xValueArr, yValueArr)
     # check if token in axis names
-    #if len(cleanXAxis.split('_') > 0:
     cleanXArr = cleanXAxis.split('_')
     cleanYArr = cleanYAxis.split('_')
     for xLabelword, i in zip(cleanXArr, range(0, len(cleanXArr))):
         if token.lower() in xLabelword.replace('_', ' ').lower():
             # print(f'token:{token},  xLabel:{cleanXAxis}')
             return [1, f'templateXLabel[{i}]']
-    #elif
     for yLabelword, i in zip(cleanYArr, range(0, len(cleanYArr))):
         if token.lower() in yLabelword.replace('_', ' ').lower():
             return [1, f'templateYLabel[{i}]']
@@ -142,14 +102,59 @@ def compareToken(token, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis
         if token.lower() in word.replace('_', ' ').lower():
             # print(f'token:{token},  TitleValue:{word}')
             return [1, f'templateTitle[{i}]']
+    print(f'no match {token}')
     return [0, token]
+
+
+def compareToValues(token, xValueArr, yValueArr):
+    for xWords, yWords, i in zip(xValueArr, yValueArr, range(0, len(xValueArr))):
+        for xWord in xWords.split('_'):
+            xWord = xWord.replace(',', '').lower()
+            if is_number(token) and is_word_number(xWord):
+                token = float(token)
+                xWord = text2num(xWord, 'en')
+                if numberComparison(token, xWord, 'X') == 1:
+                    return [1, f'templateXValue[{i}]']
+            elif is_word_number(token) and is_number(xWord):
+                token = text2num(token, 'en')
+                xWord = float(xWord)
+                if numberComparison(token, xWord, 'X') == 1:
+                    return [1, f'templateXValue[{i}]']
+            elif is_number(token) and is_number(xWord):
+                token = float(token)
+                xWord = float(xWord)
+                if numberComparison(token, xWord, 'X') == 1:
+                    return [1, f'templateXValue[{i}]']
+            else:
+                if token == xWord:
+                    # print(f'token:{token},  xValue:{xWord}')
+                    return [1, f'templateXValue[{i}]']
+        for yWord in yWords.split('_'):
+            if is_number(token) and is_word_number(yWord):
+                token = float(token)
+                yWord = text2num(yWord, 'en')
+                if numberComparison(token, yWord, 'Y') == 1:
+                    return [1, f'templateYValue[{i}]']
+            elif is_word_number(token) and is_number(yWord):
+                token = text2num(token, 'en')
+                yWord = float(yWord)
+                if numberComparison(token, yWord, 'Y') == 1:
+                    return [1, f'templateYValue[{i}]']
+            elif is_number(token) and is_number(yWord):
+                token = float(token)
+                yWord = float(yWord)
+                if numberComparison(token, yWord, 'Y') == 1:
+                    return [1, f'templateYValue[{i}]']
+            else:
+                if token == yWord:
+                    # print(f'token:{token},  yValue:{yWord}')
+                    return [1, f'templateYValue[{i}]']
 
 
 def numberComparison(token, word, axis):
     if token == word:
-        # print(token,word)
-        return [1, f'template{axis.upper()}Value[{i}]']
-    return [0, str(token)]
+        return 1
+    return 0
 
 
 def is_number(string):
@@ -164,7 +169,7 @@ def is_word_number(string):
     try:
         text2num(string, 'en')
         return True
-    except ValueError:
+    except Exception:
         return False
 # nlp = spacy.load('en_core_web_md')
 
@@ -223,8 +228,8 @@ for i in range(len(dataFiles)):
         yRecord = (cleanYAxis + '|' + cleanYValue + '|' + yDataType + '|' + chartType)
         dataLine = dataLine + xRecord + ' ' + yRecord + ' '
 
-    xMultiplier = checkForMultiplier(cleanXAxis)
-    yMultiplier = checkForMultiplier(cleanYAxis)
+    #xMultiplier = checkForMultiplier(cleanXAxis)
+    #yMultiplier = checkForMultiplier(cleanYAxis)
     #print(xMultiplier, yMultiplier)
     # REGEX split punctuation away from word
     captionTokens = caption.split()

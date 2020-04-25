@@ -24,16 +24,16 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
             if 'templateTitle' in token:
                 index = token[len(token)-2:len(token)-1]
                 replacedToken = title.split()[int(index)]
-            elif 'templateXvalue' in token:
+            elif 'templateXValue' in token:
                 index = int(token[len(token)-2:len(token)-1])
                 replacedToken = xValueArr[index]
-            elif 'templateYvalue' in token:
+            elif 'templateYValue' in token:
                 index = int(token[len(token) - 2:len(token) - 1])
                 replacedToken = yValueArr[index]
-            elif 'templateXlabel' in token:
+            elif 'templateXLabel' in token:
                 index = int(token[len(token) - 2:len(token) - 1])
                 replacedToken = xLabel[index]
-            elif 'templateYlabel' in token:
+            elif 'templateYLabel' in token:
                 index = int(token[len(token) - 2:len(token) - 1])
                 replacedToken = yLabel[index]
             else:
