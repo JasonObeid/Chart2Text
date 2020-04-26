@@ -29,6 +29,8 @@ python3 preprocess_table_data.py --table ../data/train/trainData.txt --table_voc
 python3 preprocess_summary_data.py --summary ../data/train/trainSummary.txt --summary_vocab ../data/train/trainSummary.txt_vocab --summary_label ../data/train/trainSummaryLabel.txt
 
 
+#if you get dictionary assertion error from loading dataOld: delete .pth files
+
 python3 preprocess_table_data.py --table ../data/fineTune/data.txt --table_vocab ../data/fineTune/data.txt_vocab --table_label ../data/fineTune/dataLabel.txt
 
 python3 preprocess_summary_data.py --summary ../data/fineTune/summary.txt --summary_vocab ../data/fineTune/summary.txt_vocab --summary_label ../data/fineTune/summaryLabel.txt
