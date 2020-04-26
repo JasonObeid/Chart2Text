@@ -12,12 +12,16 @@ nltk.download('punkt')
 # todo SHUFFLE SETS
 dataFiles = os.listdir('dataset/data')
 dataFiles.sort()
+dataFiles = dataFiles[500:550]
 
 captionFiles = os.listdir('dataset/captions')
 captionFiles.sort()
+captionFiles = captionFiles[500:550]
 
 titleFiles = os.listdir('dataset/titles')
 titleFiles.sort()
+titleFiles = titleFiles[500:550]
+
 
 dataArr = []
 dataLabelArr = []
@@ -67,7 +71,7 @@ def cleanAxisValue(value):
     # cleanValue = tkn.detokenize(tokenizedValue)
     cleanValue = re.sub('\*', '', cleanValue)
     cleanValue = re.sub('%', '', cleanValue)
-    cleanValue = cleanValue.replace(',','')
+    cleanValue = cleanValue.replace(',', '')
     return cleanValue
 
 
@@ -80,41 +84,43 @@ def checkToken(value, caption):
     return bool
 
 
-def compareToken(token, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis):
+def templateAssigner(token, valueArr, words, i, axis):
+    if is_number(token) and are_numbers(valueArr):
+        if float(words) == max([float(i) for i in valueArr]):
+            return [1, f'template{axis}Value[max]']
+        elif float(words) == min([float(i) for i in valueArr]):
+            return [1, f'template{axis}Value[min]']
+    elif words == valueArr[len(valueArr) - 1]:
+        return [1, f'template{axis}Value[last]']
+    return [1, f'template{axis}Value[{i}]']
+
+def compareToken(captionTokens, index, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis):
     # check if numbers are in thousands, millions, billions, trillions
     # check if token in chart values
-    token = token.replace(',', '').lower()
+    token = captionTokens[index].replace(',', '').lower()
     if is_word_number(token):
         token = str(text2num(token, 'en'))
+    #iterate through x and y values
     for xWords, yWords, i in zip(xValueArr, yValueArr, range(0, len(xValueArr))):
+        #iterate through values with multiple tokens in them, delimited by '_'
         for xWord in xWords.split('_'):
             xWord = xWord.replace(',', '').lower()
             if is_word_number(xWord):
                 xWord = str(text2num(xWord, 'en'))
             if token == xWord:
-                if xWords == xValueArr[len(xValueArr) - 1]:
-                    return [1, f'templateXValue[last]']
-                elif is_number(token) and are_numbers(xValueArr):
-                    # print(f'{token}, xWords:{xValueArr}')
-                    if float(xWords) == max([float(i) for i in xValueArr]):
-                        return [1, f'templateXValue[max]']
-                    elif float(xWords) == min([float(i) for i in xValueArr]):
-                        return [1, f'templateXValue[min]']
-                return [1, f'templateXValue[{i}]']
+                return templateAssigner(token, xValueArr, xWords, i, 'X')
+            elif is_number(token) and are_numbers(xValueArr):
+                if numberComparison(float(token), captionTokens, index, float(xWord), xWords):
+                    return templateAssigner(token, xValueArr, xWords, i, 'X')
         for yWord in yWords.split('_'):
             yWord = yWord.replace(',', '').lower()
             if is_word_number(yWord):
                 yWord = str(text2num(yWord, 'en'))
             if token == yWord:
-                if is_number(token) and are_numbers(yValueArr):
-                    # print(f'{token}, yWords:{yValueArr}')
-                    if float(yWords) == max([float(i) for i in yValueArr]):
-                        return [1, f'templateYValue[max]']
-                    elif float(yWords) == min([float(i) for i in yValueArr]):
-                        return [1, f'templateYValue[min]']
-                elif yWords == yValueArr[len(yValueArr) - 1]:
-                    return [1, f'templateYValue[last]']
-                return [1, f'templateYValue[{i}]']
+                return templateAssigner(token, yValueArr, yWords, i, 'Y')
+            elif is_number(token) and are_numbers(yValueArr):
+                if numberComparison(float(token), captionTokens, index, float(yWord), yWords):
+                    return templateAssigner(token, yValueArr, yWords, i, 'Y')
     # check if token in axis names
     cleanXArr = cleanXAxis.split('_')
     cleanYArr = cleanYAxis.split('_')
@@ -130,18 +136,42 @@ def compareToken(token, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis
         if str(token).lower() in word.replace('_', ' ').lower():
             # print(f'token:{token},  TitleValue:{word}')
             return [1, f'templateTitle[{i}]']
-    if is_number(token):
-        print(f'no match for number: {token}')
+    #if is_number(token):
+        #print(f'no match for number: {token}')
     return [0, token]
 
 
-# def compareToValues(token, xValueArr, yValueArr):
-
-
-def numberComparison(token, word, axis):
-    if token == word:
-        return 1
-    return 0
+def numberComparison(token, captionTokens, index, word, words):
+    #try checking for simple round errors first
+    if round(token) == round(word):
+        print('found one')
+        return True
+    elif round(token,1) == round(word,1):
+        print('found one')
+        return True
+    elif round(token,2) == round(word,2):
+        print('found one')
+        return True
+    token = float(token)
+    tokenSignificantDigits = len(str(token).replace('.',''))
+    wordSignificantDigits = len(str(word).replace('.', ''))
+    digitsToRound = wordSignificantDigits - tokenSignificantDigits
+    roundWords = ['about', 'around', 'roughly']
+    # data usually more specific, therefore divide data to match significant digits of token
+    if 0 < index < len(captionTokens)-1 :
+        priorToken = captionTokens[index - 1]
+        nextToken = captionTokens[index + 1]
+        multiplier = checkForMultiplier(words, nextToken)
+        if (priorToken in roundWords) or (nextToken in roundWords):
+            newToken = round(token * multiplier, digitsToRound)
+            print(f'rounded: {token}, {word}, {multiplier}, {newToken}')
+        else:
+            newToken = token * multiplier
+            print(f'normal: {token}, {word}, {multiplier}, {newToken}')
+        if newToken == word:
+            print(newToken, word)
+            return True
+    return False
 
 
 def are_numbers(stringList):
@@ -167,19 +197,32 @@ def is_word_number(string):
         return True
     except Exception:
         return False
+
+
 # nlp = spacy.load('en_core_web_md')
 
-def checkForMultiplier(axisLabel):
-    if 'thousand' in axisLabel or '1000' in axisLabel.replace(',', ''):
-        return 1000
-    elif 'million' in axisLabel or '1000000' in axisLabel.replace(',', ''):
-        return 1000000
-    elif 'billion' in axisLabel or '1000000000' in axisLabel.replace(',', ''):
-        return 1000000000
-    elif 'trillion' in axisLabel or '1000000000000' in axisLabel.replace(',', ''):
-        return 1000000000000
-    else:
-        return 1
+def checkForMultiplier(axisLabel, nextToken):
+    axisMultiplier = 1
+    tokenMultiplier = 1
+    if 'thousand' in axisLabel:
+        axisMultiplier = 1000
+    elif 'million' in axisLabel:
+        axisMultiplier = 1000000
+    elif 'billion' in axisLabel:
+        axisMultiplier = 1000000000
+    elif 'trillion' in axisLabel:
+        axisMultiplier = 1000000000000
+    if 'thousand' in nextToken:
+        tokenMultiplier = 1000
+    elif 'million' in nextToken:
+        tokenMultiplier = 1000000
+    elif 'billion' in nextToken:
+        tokenMultiplier = 1000000000
+    elif 'trillion' in nextToken:
+        tokenMultiplier = 1000000000000
+    conversionRatio = axisMultiplier / tokenMultiplier
+    return conversionRatio
+
 
 for i in range(len(dataFiles)):
     dataPath = 'dataset/data/' + dataFiles[i]
@@ -224,19 +267,20 @@ for i in range(len(dataFiles)):
         yRecord = (cleanYAxis + '|' + cleanYValue + '|' + yDataType + '|' + chartType)
         dataLine = dataLine + xRecord + ' ' + yRecord + ' '
 
-    #xMultiplier = checkForMultiplier(cleanXAxis)
-    #yMultiplier = checkForMultiplier(cleanYAxis)
-    #print(xMultiplier, yMultiplier)
+    # xMultiplier = checkForMultiplier(cleanXAxis)
+    # yMultiplier = checkForMultiplier(cleanYAxis)
+    # print(xMultiplier, yMultiplier)
     # REGEX split punctuation away from word
     captionTokens = caption.split()
     labelMap = []
     captionMatchCount = 0
     # print(' ')
-    for token, i in zip(captionTokens, range(0,len(captionTokens))):
+    for token, i in zip(captionTokens, range(0, len(captionTokens))):
         if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but', 'is', 'of', 'it',
                                   'on', '.', 'at', '(', ')', ',']):
-            #MODIFY COMPARETOKEN, CREATE NEW FUNCTIONS TO FIGURE OUT WHAT TO ENCODE IN TEMPLATE PLACED IN TOKEN
-            tokenBool, newToken = compareToken(token, title.split(), xValueArr, yValueArr, cleanXAxis, cleanYAxis)
+            # MODIFY COMPARETOKEN, CREATE NEW FUNCTIONS TO FIGURE OUT WHAT TO ENCODE IN TEMPLATE PLACED IN TOKEN
+            tokenBool, newToken = compareToken(captionTokens, i, title.split(), xValueArr, yValueArr, cleanXAxis,
+                                               cleanYAxis)
             if tokenBool == 1:
                 captionTokens[i] = newToken
                 captionMatchCount += 1
@@ -249,17 +293,17 @@ for i in range(len(dataFiles)):
         captionRatio = round(captionMatchCount / len(captionTokens), 2)
         dataRatioArr.append(dataRatio)
         captionRatioArr.append(captionRatio)
-        #print(f' data: {dataRatio}, caption: {captionRatio}')
-        #print(dataMatchCount, captionMatchCount)
+        # print(f' data: {dataRatio}, caption: {captionRatio}')
+        # print(dataMatchCount, captionMatchCount)
         summaryLabelLine = (' ').join(labelMap)
         assert len(captionTokens) == len(summaryLabelLine.rstrip().split())
-        #HERE TOO
+        # HERE TOO
         newCaption = (' ').join(captionTokens)
-        #print(title)
-        #print(xValueArr)
-        #print(yValueArr)
-        #print(caption)
-        #print(summaryLabelLine)
+        # print(title)
+        # print(xValueArr)
+        # print(yValueArr)
+        # print(caption)
+        # print(summaryLabelLine)
         labelList.append(labelMap)
         dataArr.append(dataLine)
         dataLabelArr.append(dataLabelLine)
@@ -338,6 +382,7 @@ with open('data/valid/validTitle.txt', mode='wt', encoding='utf8') as myfile16:
     myfile16.writelines("%s" % line for line in validTitle)
 
 import matplotlib.pyplot as plt
+
 plt.hist(dataRatioArr, 6)
 plt.savefig('data/data.png')
 plt.close('all')
