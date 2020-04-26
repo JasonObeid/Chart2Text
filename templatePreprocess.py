@@ -12,15 +12,15 @@ nltk.download('punkt')
 # todo SHUFFLE SETS
 dataFiles = os.listdir('dataset/data')
 dataFiles.sort()
-dataFiles = dataFiles[500:550]
+# dataFiles = dataFiles[500:550]
 
 captionFiles = os.listdir('dataset/captions')
 captionFiles.sort()
-captionFiles = captionFiles[500:550]
+# captionFiles = captionFiles[500:550]
 
 titleFiles = os.listdir('dataset/titles')
 titleFiles.sort()
-titleFiles = titleFiles[500:550]
+# titleFiles = titleFiles[500:550]
 
 
 dataArr = []
@@ -111,6 +111,7 @@ def compareToken(captionTokens, index, titleWords, xValueArr, yValueArr, cleanXA
                 return templateAssigner(token, xValueArr, xWords, i, 'X')
             elif is_number(token) and are_numbers(xValueArr):
                 if numberComparison(float(token), captionTokens, index, float(xWord), xWords):
+                    #print('here')
                     return templateAssigner(token, xValueArr, xWords, i, 'X')
         for yWord in yWords.split('_'):
             yWord = yWord.replace(',', '').lower()
@@ -120,6 +121,7 @@ def compareToken(captionTokens, index, titleWords, xValueArr, yValueArr, cleanXA
                 return templateAssigner(token, yValueArr, yWords, i, 'Y')
             elif is_number(token) and are_numbers(yValueArr):
                 if numberComparison(float(token), captionTokens, index, float(yWord), yWords):
+                    #print('here')
                     return templateAssigner(token, yValueArr, yWords, i, 'Y')
     # check if token in axis names
     cleanXArr = cleanXAxis.split('_')
@@ -143,15 +145,15 @@ def compareToken(captionTokens, index, titleWords, xValueArr, yValueArr, cleanXA
 
 def numberComparison(token, captionTokens, index, word, words):
     #try checking for simple round errors first
-    if round(token) == round(word):
-        print('found one')
-        return True
-    elif round(token,1) == round(word,1):
-        print('found one')
-        return True
-    elif round(token,2) == round(word,2):
-        print('found one')
-        return True
+    #if round(token) == round(word):
+    #    print(f'found one: {token}, {word}')
+    #    return True
+    # if round(token,1) == round(word,1):
+        #print(f'found one: {token}, {word}')
+    #     return True
+    # elif round(token,2) == round(word,2):
+        #print(f'found one: {token}, {word}')
+    #     return True
     token = float(token)
     tokenSignificantDigits = len(str(token).replace('.',''))
     wordSignificantDigits = len(str(word).replace('.', ''))
@@ -163,13 +165,13 @@ def numberComparison(token, captionTokens, index, word, words):
         nextToken = captionTokens[index + 1]
         multiplier = checkForMultiplier(words, nextToken)
         if (priorToken in roundWords) or (nextToken in roundWords):
-            newToken = round(token * multiplier, digitsToRound)
-            print(f'rounded: {token}, {word}, {multiplier}, {newToken}')
+            newWord = round(word * multiplier, digitsToRound)
+            #print(f'rounded: {token}, {word}, {multiplier}, {newToken}')
         else:
-            newToken = token * multiplier
-            print(f'normal: {token}, {word}, {multiplier}, {newToken}')
-        if newToken == word:
-            print(newToken, word)
+            newWord = round(word * multiplier, 1)
+            #print(f'normal: {token}, {word}, {multiplier}, {newToken}')
+        if token == newWord:
+            #print(token, newWord)
             return True
     return False
 
