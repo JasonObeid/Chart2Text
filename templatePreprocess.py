@@ -29,9 +29,11 @@ summaryArr = []
 summaryLabelArr = []
 labelList = []
 titleArr = []
+oldSummaryArr = []
 
 dataRatioArr = []
 captionRatioArr = []
+
 assert len(captionFiles) == len(dataFiles) == len(titleFiles)
 
 
@@ -306,6 +308,7 @@ for i in range(len(dataFiles)):
         # print(yValueArr)
         # print(caption)
         # print(summaryLabelLine)
+        oldSummaryArr.append(caption)
         labelList.append(labelMap)
         dataArr.append(dataLine)
         dataLabelArr.append(dataLabelLine)
@@ -315,6 +318,7 @@ for i in range(len(dataFiles)):
 
 assert len(dataArr) == len(dataLabelArr)
 assert len(summaryArr) == len(summaryLabelArr)
+assert len(summaryArr) == len(oldSummaryArr)
 assert len(titleArr) == len(dataArr)
 
 trainSize = round(len(dataArr) * 0.7)
@@ -340,6 +344,10 @@ validSummaryLabel = summaryLabelArr[trainSize + testSize:]
 trainTitle = titleArr[0:trainSize]
 testTitle = titleArr[trainSize:trainSize + testSize]
 validTitle = titleArr[trainSize + testSize:]
+
+oldTrainSummary = oldSummaryArr[0:trainSize]
+oldTestSummary = oldSummaryArr[trainSize:trainSize + testSize]
+oldValidSummary = oldSummaryArr[trainSize + testSize:]
 
 with open('data/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
     myfile0.writelines("%s\n" % line for line in trainData)
@@ -382,6 +390,13 @@ with open('data/test/testTitle.txt', mode='wt', encoding='utf8') as myfile15:
     myfile15.writelines("%s" % line for line in testTitle)
 with open('data/valid/validTitle.txt', mode='wt', encoding='utf8') as myfile16:
     myfile16.writelines("%s" % line for line in validTitle)
+
+with open('data/train/trainOriginalSummary.txt', mode='wt', encoding='utf8') as myfile17:
+    myfile17.writelines("%s" % line for line in oldTrainSummary)
+with open('data/test/testOriginalSummary.txt', mode='wt', encoding='utf8') as myfile18:
+    myfile18.writelines("%s" % line for line in oldTestSummary)
+with open('data/valid/validOriginalSummary.txt', mode='wt', encoding='utf8') as myfile19:
+    myfile19.writelines("%s" % line for line in oldValidSummary)
 
 import matplotlib.pyplot as plt
 

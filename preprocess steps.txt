@@ -4,16 +4,21 @@
 
 run preprocess.py to preprocess data and create split sets from scraped .csv and .txt files
 
+python3 extract_vocab.py --table ../data/fineTune/data.txt --summary ../data/fineTune/summary.txt
 
-extract vocab for each set:
+python3 preprocess_table_data.py --table ../data/fineTune/data.txt --table_vocab ../data/fineTune/data.txt_vocab --table_label ../data/fineTune/dataLabel.txt
+
+python3 preprocess_summary_data.py --summary ../data/fineTune/summary.txt --summary_vocab ../data/fineTune/summary.txt_vocab --summary_label ../data/fineTune/summaryLabel.txt
+
+extract vocab for each set: run xlm preprocess script for each file:
 cd scripts
 python3 extract_vocab.py --table ../data/valid/validData.txt --summary ../data/valid/validSummary.txt
 python3 extract_vocab.py --table ../data/test/testData.txt --summary ../data/test/testSummary.txt
 python3 extract_vocab.py --table ../data/train/trainData.txt --summary ../data/train/trainSummary.txt
-python3 extract_vocab.py --table ../data/fineTune/data.txt --summary ../data/fineTune/summary.txt
 
-run xlm preprocess script for each file:
-cd model
+
+
+cd ../model
 python3 preprocess_table_data.py --table ../data/valid/validData.txt --table_vocab ../data/valid/validData.txt_vocab --table_label ../data/valid/validDataLabel.txt
 
 python3 preprocess_summary_data.py --summary ../data/valid/validSummary.txt --summary_vocab ../data/valid/validSummary.txt_vocab --summary_label ../data/valid/validSummaryLabel.txt
@@ -30,7 +35,3 @@ python3 preprocess_summary_data.py --summary ../data/train/trainSummary.txt --su
 
 
 #if you get dictionary assertion error from loading dataOld: delete .pth files
-
-python3 preprocess_table_data.py --table ../data/fineTune/data.txt --table_vocab ../data/fineTune/data.txt_vocab --table_label ../data/fineTune/dataLabel.txt
-
-python3 preprocess_summary_data.py --summary ../data/fineTune/summary.txt --summary_vocab ../data/fineTune/summary.txt_vocab --summary_label ../data/fineTune/summaryLabel.txt
