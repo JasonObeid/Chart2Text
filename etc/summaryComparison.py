@@ -2,7 +2,7 @@ generatedPath = 'templateOutput.429.1.txt'
 goldPath = 'data/test/testOriginalSummary.txt'
 dataPath = 'data/test/testData.txt'
 titlePath = 'data/test/testTitle.txt'
-outputPath = 'summaryComparison.txt'
+outputPath = '../summaryComparison.txt'
 
 import re
 
