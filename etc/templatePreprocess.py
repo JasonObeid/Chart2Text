@@ -12,15 +12,15 @@ nltk.download('punkt')
 # todo SHUFFLE SETS
 dataFiles = os.listdir('dataset/data')
 dataFiles.sort()
-# dataFiles = dataFiles[500:550]
+dataFiles = dataFiles[500:550]
 
 captionFiles = os.listdir('dataset/captions')
 captionFiles.sort()
-# captionFiles = captionFiles[500:550]
+captionFiles = captionFiles[500:550]
 
 titleFiles = os.listdir('dataset/titles')
 titleFiles.sort()
-# titleFiles = titleFiles[500:550]
+titleFiles = titleFiles[500:550]
 
 
 dataArr = []
@@ -128,43 +128,36 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
     # check if token in axis names
     cleanXArr = cleanXAxis.split('_')
     cleanYArr = cleanYAxis.split('_')
-    fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a',
+    fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-'
                'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']
     for xLabelToken, i in zip(cleanXArr, range(0, len(cleanXArr))):
-        xLabelWords = xLabelToken.replace('_', ' ').lower()
-        for word in xLabelWords:
-            if word not in fillers:
-                if str(token).lower() == word:
-                    return [1, f'templateXLabel[{i}]']
+        xLabelWord = xLabelToken.replace('_', ' ').lower()
+        if xLabelWord not in fillers:
+            # print(xLabelWord)
+            if str(token).lower() in xLabelWord:
+                print('match', xLabelWord)
+                return [1, f'templateXLabel[{i}]']
     for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
-        yLabelWords = yLabelToken.replace('_', ' ').lower()
-        for word in yLabelWords:
-            if word not in fillers:
-                if str(token).lower() == word:
+        yLabelWord = yLabelToken.replace('_', ' ').lower()
+        if yLabelWord not in fillers:
+                # print(yLabelWord)
+                if str(token).lower() in yLabelWord:
+                    print('match', yLabelWord)
                     return [1, f'templateYLabel[{i}]']
     # check if token in title
     for titleToken, i in zip(titleTokens, range(0, len(titleTokens))):
-        titleWords = titleToken.replace('_', ' ').lower()
-        for word in titleWords:
-            if word not in fillers:
-                if str(token).lower() == word:
-                    return [1, f'templateTitle[{i}]']
+        titleWord = titleToken.replace('_', ' ').lower()
+        if titleWord not in fillers:
+            # print(titleWord)
+            if str(token).lower() in titleWord:
+                print('match', titleWord)
+                return [1, f'templateTitle[{i}]']
     #if is_number(token):
         #print(f'no match for number: {token}')
     return [0, token]
 
 
 def numberComparison(token, captionTokens, index, word, words):
-    #try checking for simple round errors first
-    #if round(token) == round(word):
-    #    print(f'found one: {token}, {word}')
-    #    return True
-    # if round(token,1) == round(word,1):
-        #print(f'found one: {token}, {word}')
-    #     return True
-    # elif round(token,2) == round(word,2):
-        #print(f'found one: {token}, {word}')
-    #     return True
     token = float(token)
     tokenSignificantDigits = len(str(token).replace('.',''))
     wordSignificantDigits = len(str(word).replace('.', ''))
@@ -178,6 +171,8 @@ def numberComparison(token, captionTokens, index, word, words):
         if (priorToken in roundWords) or (nextToken in roundWords):
             newWord = round(word * multiplier, digitsToRound)
             #print(f'rounded: {token}, {word}, {multiplier}, {newToken}')
+        elif tokenSignificantDigits > 3:
+            newWord = round(word * multiplier)
         else:
             newWord = round(word * multiplier, 1)
             #print(f'normal: {token}, {word}, {multiplier}, {newToken}')
