@@ -32,4 +32,9 @@ python3 model/train.py \
 
 
 
-python3 model/summarize.py --model_path experiments/chart2text/run1/periodic-80.pth --table_path data/test/testData.txt --output_path templateOutput.429.1.txt --beam_size 4
+python3 model/summarize.py --model_path experiments/chart2text/run1/periodic-80.pth --table_path data/test/testData.txt \
+--output_path templateOutput_429_beam=4_batch=16.txt --beam_size 4 --batch_size 16
+
+
+python3 model/summarize.py --model_path experiments/chart2text/run1/periodic-80.pth --table_path data_testing/trainData.txt \
+--output_path smallTest_beam=4_batch=8.txt --beam_size 4 --batch_size 8

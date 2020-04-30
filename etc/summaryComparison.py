@@ -1,8 +1,9 @@
-generatedPath = 'templateOutput.429.1.txt'
+generatedPath = 'templateOutput_429_beam=4_batch=8.txt'
 goldPath = 'data/test/testOriginalSummary.txt'
+goldTemplatePath = 'data/test/testSummary.txt'
 dataPath = 'data/test/testData.txt'
 titlePath = 'data/test/testTitle.txt'
-outputPath = '../summaryComparison.txt'
+outputPath = './summaryComparison2_beam4_batch8.txt'
 
 import re
 
@@ -28,9 +29,9 @@ def mapIndex(index, array):
                 return int(index)
         except:
             return 0
-    elif are_numbers(array[0:len(array)-1]):
+    elif are_numbers(array[0:len(array) - 1]):
         try:
-            array = [float(i) for i in array[0:len(array)-1]]
+            array = [float(i) for i in array[0:len(array) - 1]]
             if str(index) == 'max':
                 index = array.index(max(array))
                 return int(index)
@@ -52,9 +53,12 @@ def main():
     count = 0
     with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r', encoding='utf-8') as generatedFile \
             , open(dataPath, 'r', encoding='utf-8') as dataFile, open(outputPath, 'w', encoding='utf-8') as outputFile, \
-            open(titlePath, 'r', encoding='utf-8') as titleFile:
-        for gold, generated, data, title in zip(goldFile.readlines(), generatedFile.readlines(),
-                                                dataFile.readlines(), titleFile.readlines()):
+            open(titlePath, 'r', encoding='utf-8') as titleFile, open(goldTemplatePath, 'r', encoding='utf-8') as goldTemplateFile:
+
+        fileIterators = zip(goldFile.readlines(), goldTemplateFile.readlines(),
+                            generatedFile.readlines(), dataFile.readlines(), titleFile.readlines())
+
+        for gold, goldTemplate, generated, data, title in fileIterators:
             count += 1
             xValueArr = []
             yValueArr = []
@@ -71,46 +75,48 @@ def main():
                 if 'template' in token:
                     index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
                     if 'templateTitle' in token:
-                        index = mapIndex(index, title.split())
+                        titleArr = title.split()
+                        index = mapIndex(index, titleArr)
                         try:
-                            replacedToken = title.split()[index]
+                            replacedToken = titleArr[index]
                         except:
-                            replacedToken = 'N/A'
+                            replacedToken = titleArr[len(titleArr) - 1]
                     elif 'templateXValue' in token:
                         index = mapIndex(index, xValueArr)
                         try:
                             replacedToken = xValueArr[index]
                         except:
-                            replacedToken = 'N/A'
+                            replacedToken = xValueArr[len(xValueArr) - 1]
                     elif 'templateYValue' in token:
                         index = mapIndex(index, yValueArr)
                         try:
                             replacedToken = yValueArr[index]
                         except:
-                            replacedToken = 'N/A'
+                            replacedToken = yValueArr[len(yValueArr) - 1]
                     elif 'templateXLabel' in token:
                         index = mapIndex(index, xLabel)
                         try:
                             replacedToken = xLabel[index]
                         except:
-                            replacedToken = 'N/A'
+                            replacedToken = yValueArr[len(yValueArr) - 1]
                     elif 'templateYLabel' in token:
                         index = mapIndex(index, yLabel)
                         try:
                             replacedToken = yLabel[index]
                         except:
-                            replacedToken = 'N/A'
+                            replacedToken = yValueArr[len(yValueArr) - 1]
                 else:
                     replacedToken = token
                 reversedArr.append(replacedToken)
             reverse = (' ').join(reversedArr)
-            print(f'Example {count}:\ndata: {data}title: {title}gold: {gold}generated: {reverse}\n\n')
-            outputFile.write(f'Example {count}:\ndata: {data}title: {title}gold: {gold}generated: {reverse}\n\n')
+            print(f'Example {count}:\ndata: {data}title: {title}\ngold: {gold}gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n')
+            outputFile.write(
+                f'Example {count}:\ndata: {data}title: {title}\ngold: {gold}gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n\n')
 
 
-#try:
+# try:
 main()
-#except Exception as ex:
+# except Exception as ex:
 #    print('error:', ex)
 
 """ elif are_numbers(array[0:len(array)-2]):

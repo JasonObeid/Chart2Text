@@ -96,7 +96,7 @@ def templateAssigner(token, valueArr, words, i, axis):
         return [1, f'template{axis}Value[last]']
     return [1, f'template{axis}Value[{i}]']
 
-def compareToken(captionTokens, index, titleWords, xValueArr, yValueArr, cleanXAxis, cleanYAxis):
+def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanXAxis, cleanYAxis):
     # check if numbers are in thousands, millions, billions, trillions
     # check if token in chart values
     token = captionTokens[index].replace(',', '').lower()
@@ -128,18 +128,27 @@ def compareToken(captionTokens, index, titleWords, xValueArr, yValueArr, cleanXA
     # check if token in axis names
     cleanXArr = cleanXAxis.split('_')
     cleanYArr = cleanYAxis.split('_')
-    for xLabelword, i in zip(cleanXArr, range(0, len(cleanXArr))):
-        if str(token).lower() in xLabelword.replace('_', ' ').lower():
-            # print(f'token:{token},  xLabel:{cleanXAxis}')
-            return [1, f'templateXLabel[{i}]']
-    for yLabelword, i in zip(cleanYArr, range(0, len(cleanYArr))):
-        if str(token).lower() in yLabelword.replace('_', ' ').lower():
-            return [1, f'templateYLabel[{i}]']
+    fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a',
+               'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']
+    for xLabelToken, i in zip(cleanXArr, range(0, len(cleanXArr))):
+        xLabelWords = xLabelToken.replace('_', ' ').lower()
+        for word in xLabelWords:
+            if word not in fillers:
+                if str(token).lower() == word:
+                    return [1, f'templateXLabel[{i}]']
+    for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
+        yLabelWords = yLabelToken.replace('_', ' ').lower()
+        for word in yLabelWords:
+            if word not in fillers:
+                if str(token).lower() == word:
+                    return [1, f'templateYLabel[{i}]']
     # check if token in title
-    for word, i in zip(titleWords, range(0, len(titleWords))):
-        if str(token).lower() in word.replace('_', ' ').lower():
-            # print(f'token:{token},  TitleValue:{word}')
-            return [1, f'templateTitle[{i}]']
+    for titleToken, i in zip(titleTokens, range(0, len(titleTokens))):
+        titleWords = titleToken.replace('_', ' ').lower()
+        for word in titleWords:
+            if word not in fillers:
+                if str(token).lower() == word:
+                    return [1, f'templateTitle[{i}]']
     #if is_number(token):
         #print(f'no match for number: {token}')
     return [0, token]
