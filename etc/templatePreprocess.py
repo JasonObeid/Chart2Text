@@ -7,9 +7,11 @@ import re
 import nltk
 import pandas as pd
 from text_to_num import text2num
+import random
 
 nltk.download('punkt')
 # todo SHUFFLE SETS
+
 dataFiles = os.listdir('dataset/data')
 dataFiles.sort()
 dataFiles = dataFiles[500:550]
@@ -22,6 +24,11 @@ titleFiles = os.listdir('dataset/titles')
 titleFiles.sort()
 titleFiles = titleFiles[500:550]
 
+zipped = list(zip(dataFiles, captionFiles, titleFiles))
+
+random.shuffle(zipped)
+
+dataFiles, captionFiles, titleFiles = zip(*zipped)
 
 dataArr = []
 dataLabelArr = []
@@ -135,14 +142,14 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
         if xLabelWord not in fillers:
             # print(xLabelWord)
             if str(token).lower() in xLabelWord:
-                print('match', xLabelWord)
+                #print('match', xLabelWord)
                 return [1, f'templateXLabel[{i}]']
     for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
         yLabelWord = yLabelToken.replace('_', ' ').lower()
         if yLabelWord not in fillers:
                 # print(yLabelWord)
                 if str(token).lower() in yLabelWord:
-                    print('match', yLabelWord)
+                    #print('match', yLabelWord)
                     return [1, f'templateYLabel[{i}]']
     # check if token in title
     for titleToken, i in zip(titleTokens, range(0, len(titleTokens))):
@@ -150,10 +157,10 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
         if titleWord not in fillers:
             # print(titleWord)
             if str(token).lower() in titleWord:
-                print('match', titleWord)
+                # print('match', titleWord)
                 return [1, f'templateTitle[{i}]']
-    #if is_number(token):
-        #print(f'no match for number: {token}')
+    if is_number(token):
+        print(f'no match for number: {token}, line: {captionTokens}')
     return [0, token]
 
 
@@ -171,8 +178,13 @@ def numberComparison(token, captionTokens, index, word, words):
         if (priorToken in roundWords) or (nextToken in roundWords):
             newWord = round(word * multiplier, digitsToRound)
             #print(f'rounded: {token}, {word}, {multiplier}, {newToken}')
-        elif tokenSignificantDigits > 3:
+        elif tokenSignificantDigits > 2:
             newWord = round(word * multiplier)
+            newWord1 = round(word * multiplier, 1)
+            newWord2 = round(word * multiplier, 2)
+            if token == newWord or token == newWord1 or token == newWord2:
+                # print(token, newWord)
+                return True
         else:
             newWord = round(word * multiplier, 1)
             #print(f'normal: {token}, {word}, {multiplier}, {newToken}')
@@ -207,8 +219,6 @@ def is_word_number(string):
         return False
 
 
-# nlp = spacy.load('en_core_web_md')
-
 def checkForMultiplier(axisLabel, nextToken):
     axisMultiplier = 1
     tokenMultiplier = 1
@@ -238,13 +248,12 @@ for i in range(len(dataFiles)):
     titlePath = 'dataset/titles/' + titleFiles[i]
     caption = openCaption(captionPath)
     title = openCaption(titlePath)
-    cleanTitle = cleanAxisValue(title)
+    cleanTitle = cleanAxisValue(title.strip())
     df, cols, size, xAxis, yAxis, chartType = openData(dataPath)
-    # append chart title to start of data file, set data label for it to always be 1
-    dataLabelLine = ""  # "1 "
+    dataLabelLine = ""
     cleanXAxis = cleanAxisLabel(xAxis)
     cleanYAxis = cleanAxisLabel(yAxis)
-    dataLine = ''  # 'Title|' + cleanTitle + '|' + cleanXAxis + '|' + cleanYAxis + ' '
+    dataLine = ''
     summaryLabelLine = ""
     xValueArr = []
     yValueArr = []
@@ -274,28 +283,26 @@ for i in range(len(dataFiles)):
         xRecord = (cleanXAxis + '|' + cleanXValue + '|' + xDataType + '|' + chartType)
         yRecord = (cleanYAxis + '|' + cleanYValue + '|' + yDataType + '|' + chartType)
         dataLine = dataLine + xRecord + ' ' + yRecord + ' '
-
-    # xMultiplier = checkForMultiplier(cleanXAxis)
-    # yMultiplier = checkForMultiplier(cleanYAxis)
-    # print(xMultiplier, yMultiplier)
-    # REGEX split punctuation away from word
-    captionTokens = caption.split()
+    captionSentences = caption.split(' . ')
+    if len(captionSentences) >= 4:
+        trimmedCaption = (' . ').join(captionSentences[0:3]) + ' .\n'
+    else:
+        trimmedCaption = (' . ').join(captionSentences)
+    captionTokens = trimmedCaption.split()
     labelMap = []
     captionMatchCount = 0
-    # print(' ')
     for token, i in zip(captionTokens, range(0, len(captionTokens))):
-        if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but', 'is', 'of', 'it',
-                                  'on', '.', 'at', '(', ')', ',']):
-            # MODIFY COMPARETOKEN, CREATE NEW FUNCTIONS TO FIGURE OUT WHAT TO ENCODE IN TEMPLATE PLACED IN TOKEN
-            tokenBool, newToken = compareToken(captionTokens, i, title.split(), xValueArr, yValueArr, cleanXAxis,
-                                               cleanYAxis)
+        if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but',
+                                  'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']):
+            tokenBool, newToken = compareToken(captionTokens, i, title.split(), xValueArr,
+                                               yValueArr, cleanXAxis, cleanYAxis)
             if tokenBool == 1:
                 captionTokens[i] = newToken
                 captionMatchCount += 1
         else:
             tokenBool = 0
         labelMap.append(str(tokenBool))
-    if captionMatchCount > 0 and dataMatchCount > 0:
+    if captionMatchCount >= 1 and dataMatchCount >= 1:
         assert len(xValueArr) == len(yValueArr)
         dataRatio = round(dataMatchCount / len(xValueArr), 2)
         captionRatio = round(captionMatchCount / len(captionTokens), 2)
@@ -305,14 +312,8 @@ for i in range(len(dataFiles)):
         # print(dataMatchCount, captionMatchCount)
         summaryLabelLine = (' ').join(labelMap)
         assert len(captionTokens) == len(summaryLabelLine.rstrip().split())
-        # HERE TOO
         newCaption = (' ').join(captionTokens)
-        # print(title)
-        # print(xValueArr)
-        # print(yValueArr)
-        # print(caption)
-        # print(summaryLabelLine)
-        oldSummaryArr.append(caption)
+        oldSummaryArr.append(trimmedCaption)
         labelList.append(labelMap)
         dataArr.append(dataLine)
         dataLabelArr.append(dataLabelLine)
