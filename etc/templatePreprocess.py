@@ -10,25 +10,23 @@ from text_to_num import text2num
 import random
 
 nltk.download('punkt')
-# todo SHUFFLE SETS
 
 dataFiles = os.listdir('dataset/data')
 dataFiles.sort()
-dataFiles = dataFiles[500:550]
+#dataFiles = dataFiles[500:550]
 
 captionFiles = os.listdir('dataset/captions')
 captionFiles.sort()
-captionFiles = captionFiles[500:550]
+#captionFiles = captionFiles[500:550]
 
 titleFiles = os.listdir('dataset/titles')
 titleFiles.sort()
-titleFiles = titleFiles[500:550]
+#titleFiles = titleFiles[500:550]
 
-zipped = list(zip(dataFiles, captionFiles, titleFiles))
-
-random.shuffle(zipped)
-
-dataFiles, captionFiles, titleFiles = zip(*zipped)
+# shuffle data
+#zipped = list(zip(dataFiles, captionFiles, titleFiles))
+#random.shuffle(zipped)
+#dataFiles, captionFiles, titleFiles = zip(*zipped)
 
 dataArr = []
 dataLabelArr = []
@@ -141,22 +139,23 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
         xLabelWord = xLabelToken.replace('_', ' ').lower()
         if xLabelWord not in fillers:
             # print(xLabelWord)
-            if str(token).lower() in xLabelWord:
+            if str(token).lower() == xLabelWord:
                 #print('match', xLabelWord)
                 return [1, f'templateXLabel[{i}]']
+            #elif
     for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
         yLabelWord = yLabelToken.replace('_', ' ').lower()
         if yLabelWord not in fillers:
-                # print(yLabelWord)
-                if str(token).lower() in yLabelWord:
-                    #print('match', yLabelWord)
-                    return [1, f'templateYLabel[{i}]']
+            # print(yLabelWord)
+            if str(token).lower() == yLabelWord:
+                #print('match', yLabelWord)
+                return [1, f'templateYLabel[{i}]']
     # check if token in title
     for titleToken, i in zip(titleTokens, range(0, len(titleTokens))):
         titleWord = titleToken.replace('_', ' ').lower()
         if titleWord not in fillers:
             # print(titleWord)
-            if str(token).lower() in titleWord:
+            if str(token).lower() == titleWord:
                 # print('match', titleWord)
                 return [1, f'templateTitle[{i}]']
     if is_number(token):
@@ -176,21 +175,28 @@ def numberComparison(token, captionTokens, index, word, words):
         nextToken = captionTokens[index + 1]
         multiplier = checkForMultiplier(words, nextToken)
         if (priorToken in roundWords) or (nextToken in roundWords):
-            newWord = round(word * multiplier, digitsToRound)
-            #print(f'rounded: {token}, {word}, {multiplier}, {newToken}')
-        elif tokenSignificantDigits > 2:
             newWord = round(word * multiplier)
             newWord1 = round(word * multiplier, 1)
             newWord2 = round(word * multiplier, 2)
+            newWord3 = round(word)
+            newWord4 = round(word, 1)
+            newWord5 = round(word, 2)
+            if token == newWord or token == newWord1 or token == newWord2 or \
+                    token == newWord3 or token == newWord4 or token == newWord5:
+                return True
+        elif tokenSignificantDigits > 2:
+            newWord = round(word)
+            newWord1 = round(word, 1)
+            newWord2 = round(word, 2)
             if token == newWord or token == newWord1 or token == newWord2:
-                # print(token, newWord)
                 return True
         else:
-            newWord = round(word * multiplier, 1)
+            newWord = round(word * multiplier)
+            newWord1 = round(word * multiplier, 1)
+            newWord2 = round(word * multiplier, 2)
             #print(f'normal: {token}, {word}, {multiplier}, {newToken}')
-        if token == newWord:
-            #print(token, newWord)
-            return True
+            if token == newWord or token == newWord1 or token == newWord2:
+                return True
     return False
 
 
@@ -292,6 +298,10 @@ for i in range(len(dataFiles)):
     labelMap = []
     captionMatchCount = 0
     for token, i in zip(captionTokens, range(0, len(captionTokens))):
+        if i < len(captionTokens)-1:
+            if captionTokens[i] == captionTokens[i+1]:
+                captionTokens.pop(i+1)
+                print('popped')
         if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but',
                                   'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']):
             tokenBool, newToken = compareToken(captionTokens, i, title.split(), xValueArr,
