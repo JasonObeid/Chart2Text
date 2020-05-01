@@ -1,32 +1,32 @@
+import math
 import os
 import re
-
 # from random import shuffle
 # from math import ceil
 # import spacy
 import nltk
 import pandas as pd
 from text_to_num import text2num
-import random
+# import random
 
 nltk.download('punkt')
 
 dataFiles = os.listdir('dataset/data')
 dataFiles.sort()
-#dataFiles = dataFiles[500:550]
+#dataFiles = dataFiles[500:1000]
 
 captionFiles = os.listdir('dataset/captions')
 captionFiles.sort()
-#captionFiles = captionFiles[500:550]
+#captionFiles = captionFiles[500:1000]
 
 titleFiles = os.listdir('dataset/titles')
 titleFiles.sort()
-#titleFiles = titleFiles[500:550]
+#titleFiles = titleFiles[500:1000]
 
 # shuffle data
-#zipped = list(zip(dataFiles, captionFiles, titleFiles))
-#random.shuffle(zipped)
-#dataFiles, captionFiles, titleFiles = zip(*zipped)
+# zipped = list(zip(dataFiles, captionFiles, titleFiles))
+# random.shuffle(zipped)
+# dataFiles, captionFiles, titleFiles = zip(*zipped)
 
 dataArr = []
 dataLabelArr = []
@@ -40,7 +40,6 @@ dataRatioArr = []
 captionRatioArr = []
 
 assert len(captionFiles) == len(dataFiles) == len(titleFiles)
-
 
 def getChartType(x):
     if x.lower() == 'year':
@@ -101,100 +100,105 @@ def templateAssigner(token, valueArr, words, i, axis):
         return [1, f'template{axis}Value[last]']
     return [1, f'template{axis}Value[{i}]']
 
+
+def adjustDataLabel(bool, axis, index):
+    #index = array.index(word in wordArray)
+    if axis == 'x':
+        xDataLabels[index] = bool
+    elif axis == 'y':
+        yDataLabels[index] = bool
+
+
 def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanXAxis, cleanYAxis):
     # check if numbers are in thousands, millions, billions, trillions
     # check if token in chart values
     token = captionTokens[index].replace(',', '').lower()
     if is_word_number(token):
         token = str(text2num(token, 'en'))
-    #iterate through x and y values
+    # iterate through x and y values
     for xWords, yWords, i in zip(xValueArr, yValueArr, range(0, len(xValueArr))):
-        #iterate through values with multiple tokens in them, delimited by '_'
+        # iterate through values with multiple tokens in them, delimited by '_'
         for xWord in xWords.split('_'):
             xWord = xWord.replace(',', '').lower()
             if is_word_number(xWord):
                 xWord = str(text2num(xWord, 'en'))
             if token == xWord:
+                adjustDataLabel(1, 'x', i)
                 return templateAssigner(token, xValueArr, xWords, i, 'X')
             elif is_number(token) and are_numbers(xValueArr):
                 if numberComparison(float(token), captionTokens, index, float(xWord), xWords):
-                    #print('here')
+                    adjustDataLabel(1, 'x', i)
                     return templateAssigner(token, xValueArr, xWords, i, 'X')
         for yWord in yWords.split('_'):
             yWord = yWord.replace(',', '').lower()
             if is_word_number(yWord):
                 yWord = str(text2num(yWord, 'en'))
             if token == yWord:
+                adjustDataLabel(1, 'y', i)
                 return templateAssigner(token, yValueArr, yWords, i, 'Y')
             elif is_number(token) and are_numbers(yValueArr):
                 if numberComparison(float(token), captionTokens, index, float(yWord), yWords):
-                    #print('here')
+                    adjustDataLabel(1, 'y', i)
                     return templateAssigner(token, yValueArr, yWords, i, 'Y')
     # check if token in axis names
-    cleanXArr = cleanXAxis.split('_')
-    cleanYArr = cleanYAxis.split('_')
-    fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-'
+    fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
                'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']
+    # remove filler words from labels
+    cleanXArr = [xWord for xWord in cleanXAxis.split('_') if xWord.lower() not in fillers]
+    cleanYArr = [yWord for yWord in cleanYAxis.split('_') if yWord.lower() not in fillers]
+    cleanTitle = [titleWord for titleWord in titleTokens if titleWord.lower() not in fillers]
     for xLabelToken, i in zip(cleanXArr, range(0, len(cleanXArr))):
         xLabelWord = xLabelToken.replace('_', ' ').lower()
-        if xLabelWord not in fillers:
-            # print(xLabelWord)
-            if str(token).lower() == xLabelWord:
-                #print('match', xLabelWord)
-                return [1, f'templateXLabel[{i}]']
-            #elif
+        if str(token).lower() == xLabelWord:
+            # print('match', xLabelWord)
+            return [1, f'templateXLabel[{i}]']
     for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
         yLabelWord = yLabelToken.replace('_', ' ').lower()
-        if yLabelWord not in fillers:
-            # print(yLabelWord)
-            if str(token).lower() == yLabelWord:
-                #print('match', yLabelWord)
-                return [1, f'templateYLabel[{i}]']
+        # print(yLabelWord)
+        if str(token).lower() == yLabelWord:
+            # print('match', yLabelWord)
+            return [1, f'templateYLabel[{i}]']
     # check if token in title
-    for titleToken, i in zip(titleTokens, range(0, len(titleTokens))):
+    for titleToken, i in zip(cleanTitle, range(0, len(cleanTitle))):
         titleWord = titleToken.replace('_', ' ').lower()
-        if titleWord not in fillers:
-            # print(titleWord)
-            if str(token).lower() == titleWord:
-                # print('match', titleWord)
-                return [1, f'templateTitle[{i}]']
-    if is_number(token):
-        print(f'no match for number: {token}, line: {captionTokens}')
+        if str(token).lower() == titleWord:
+            # print('match', titleWord)
+            return [1, f'templateTitle[{i}]']
+    # if is_number(token):
+    # print(f'no match for number: {token}, line: {captionTokens}')
     return [0, token]
 
 
 def numberComparison(token, captionTokens, index, word, words):
     token = float(token)
-    tokenSignificantDigits = len(str(token).replace('.',''))
+    tokenSignificantDigits = len(str(token).replace('.', ''))
     wordSignificantDigits = len(str(word).replace('.', ''))
-    digitsToRound = wordSignificantDigits - tokenSignificantDigits
-    roundWords = ['about', 'around', 'roughly']
     # data usually more specific, therefore divide data to match significant digits of token
-    if 0 < index < len(captionTokens)-1 :
-        priorToken = captionTokens[index - 1]
+    if index < len(captionTokens) - 1:
         nextToken = captionTokens[index + 1]
         multiplier = checkForMultiplier(words, nextToken)
-        if (priorToken in roundWords) or (nextToken in roundWords):
-            newWord = round(word * multiplier)
-            newWord1 = round(word * multiplier, 1)
-            newWord2 = round(word * multiplier, 2)
-            newWord3 = round(word)
-            newWord4 = round(word, 1)
-            newWord5 = round(word, 2)
-            if token == newWord or token == newWord1 or token == newWord2 or \
-                    token == newWord3 or token == newWord4 or token == newWord5:
-                return True
-        elif tokenSignificantDigits > 2:
-            newWord = round(word)
-            newWord1 = round(word, 1)
-            newWord2 = round(word, 2)
+        # floor100 = int(math.floor(word / 100.0)) * 100
+        # ceil100 = int(math.ceil(word / 100.0)) * 100
+        newWord = normal_round(word * multiplier)
+        newWord1 = normal_round(word * multiplier, 1)
+        newWord2 = normal_round(word * multiplier, 2)
+        newWord3 = normal_round(word)
+        newWord4 = normal_round(word, 1)
+        newWord5 = normal_round(word, 2)
+        if token == newWord or token == newWord1 or token == newWord2 or \
+                token == newWord3 or token == newWord4 or token == newWord5:
+            return True
+        elif wordSignificantDigits > 3:
+            newWord = normal_round(word)
+            newWord1 = normal_round(word, 1)
+            newWord2 = normal_round(word, 2)
             if token == newWord or token == newWord1 or token == newWord2:
                 return True
         else:
-            newWord = round(word * multiplier)
-            newWord1 = round(word * multiplier, 1)
-            newWord2 = round(word * multiplier, 2)
-            #print(f'normal: {token}, {word}, {multiplier}, {newToken}')
+            newWord = normal_round(word * multiplier)
+            newWord1 = normal_round(word * multiplier, 1)
+            newWord2 = normal_round(word * multiplier, 2)
+            # print(f'normal: {token}, {word}, {multiplier}, {newToken}')
             if token == newWord or token == newWord1 or token == newWord2:
                 return True
     return False
@@ -248,6 +252,13 @@ def checkForMultiplier(axisLabel, nextToken):
     return conversionRatio
 
 
+def normal_round(n, decimals=0):
+    expoN = n * 10 ** decimals
+    if abs(expoN) - abs(math.floor(expoN)) < 0.5:
+        return math.floor(expoN) / 10 ** decimals
+    return math.ceil(expoN) / 10 ** decimals
+
+
 for i in range(len(dataFiles)):
     dataPath = 'dataset/data/' + dataFiles[i]
     captionPath = 'dataset/captions/' + captionFiles[i]
@@ -256,7 +267,6 @@ for i in range(len(dataFiles)):
     title = openCaption(titlePath)
     cleanTitle = cleanAxisValue(title.strip())
     df, cols, size, xAxis, yAxis, chartType = openData(dataPath)
-    dataLabelLine = ""
     cleanXAxis = cleanAxisLabel(xAxis)
     cleanYAxis = cleanAxisLabel(yAxis)
     dataLine = ''
@@ -277,33 +287,31 @@ for i in range(len(dataFiles)):
         xValueArr.append(cleanXValue)
         yValueArr.append(cleanYValue)
 
-        dataMatchCount = 0
-        xbool = checkToken(cleanXValue, caption)
-        ybool = checkToken(cleanYValue, caption)
-        if (xbool == 1):
-            dataMatchCount += 1
-        if (ybool == 1):
-            dataMatchCount += 1
-
-        dataLabelLine = (dataLabelLine + str(xbool) + ' ' + str(ybool) + ' ')
-        xRecord = (cleanXAxis + '|' + cleanXValue + '|' + xDataType + '|' + chartType)
-        yRecord = (cleanYAxis + '|' + cleanYValue + '|' + yDataType + '|' + chartType)
+        xRecord = cleanXAxis + '|' + cleanXValue + '|' + xDataType + '|' + chartType
+        yRecord = cleanYAxis + '|' + cleanYValue + '|' + yDataType + '|' + chartType
         dataLine = dataLine + xRecord + ' ' + yRecord + ' '
+
     captionSentences = caption.split(' . ')
     if len(captionSentences) >= 4:
         trimmedCaption = (' . ').join(captionSentences[0:3]) + ' .\n'
     else:
         trimmedCaption = (' . ').join(captionSentences)
     captionTokens = trimmedCaption.split()
+
+    xDataLabels = [0 for item in range(0,len(xValueArr))]
+    yDataLabels = [0 for item in range(0,len(yValueArr))]
     labelMap = []
+
     captionMatchCount = 0
+
     for token, i in zip(captionTokens, range(0, len(captionTokens))):
-        if i < len(captionTokens)-1:
-            if captionTokens[i] == captionTokens[i+1]:
-                captionTokens.pop(i+1)
+        if i < len(captionTokens) - 1:
+            if captionTokens[i] == captionTokens[i + 1]:
+                captionTokens.pop(i + 1)
                 print('popped')
         if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but',
                                   'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']):
+            #find labels for summary tokens, call function to create labels for data
             tokenBool, newToken = compareToken(captionTokens, i, title.split(), xValueArr,
                                                yValueArr, cleanXAxis, cleanYAxis)
             if tokenBool == 1:
@@ -312,6 +320,9 @@ for i in range(len(dataFiles)):
         else:
             tokenBool = 0
         labelMap.append(str(tokenBool))
+    dataRowPairs = [f'{xLabel} {yLabel}' for xLabel, yLabel in zip(xDataLabels, yDataLabels)]
+    dataLabelLine = (' ').join(dataRowPairs)
+    dataMatchCount = sum(xDataLabels) + sum(yDataLabels)
     if captionMatchCount >= 1 and dataMatchCount >= 1:
         assert len(xValueArr) == len(yValueArr)
         dataRatio = round(dataMatchCount / len(xValueArr), 2)
@@ -336,6 +347,7 @@ assert len(summaryArr) == len(summaryLabelArr)
 assert len(summaryArr) == len(oldSummaryArr)
 assert len(titleArr) == len(dataArr)
 
+# TODO REVERT SET SIZES
 trainSize = round(len(dataArr) * 0.7)
 testSize = round(len(dataArr) * 0.15)
 validSize = len(dataArr) - trainSize - testSize
