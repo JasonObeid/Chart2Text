@@ -45,6 +45,7 @@ def cleanAxisValue(value):
     cleanValue = re.sub('\s', '_', value)
     cleanValue = re.sub('\*', '', cleanValue)
     cleanValue = re.sub('%', '', cleanValue)
+    cleanValue = cleanValue.replace('|', '')
     cleanValue = cleanValue.replace(',', '')
     return cleanValue
 
@@ -218,15 +219,15 @@ def normal_round(n, decimals=0):
 
 dataFiles = os.listdir('../dataset/data')
 dataFiles.sort()
-dataFiles = dataFiles[3800:4800]
+# dataFiles = dataFiles[3800:4800]
 
 captionFiles = os.listdir('../dataset/captions')
 captionFiles.sort()
-captionFiles = captionFiles[3800:4800]
+# captionFiles = captionFiles[3800:4800]
 
 titleFiles = os.listdir('../dataset/titles')
 titleFiles.sort()
-titleFiles = titleFiles[3800:4800]
+# titleFiles = titleFiles[3800:4800]
 
 # shuffle data
 # zipped = list(zip(dataFiles, captionFiles, titleFiles))

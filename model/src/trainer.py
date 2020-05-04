@@ -239,7 +239,6 @@ class Trainer(object):
                 assert os.path.isfile(checkpoint_path)
         logger.warning('Reloading checkpoint from %s ...' % checkpoint_path)
         if self.params.cuda:
-            print("USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA USING CUDA ")
             data = torch.load(checkpoint_path, map_location=lambda storage, loc: storage.cuda(0))
         else:
             data = torch.load(checkpoint_path, map_location=lambda storage, loc: 'cpu')

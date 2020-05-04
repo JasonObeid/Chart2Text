@@ -126,19 +126,19 @@ def load_para_data(data, params, table_path, summary_path, split):
     set_dico_parameters(params, summary_data['dico'])
 
     if 'source_dico' in data:
-        print('x')
         #for source, table in zip(data['source_dico'].id2word, table_data['dico'].id2word):
         #    print(source, '|X|', table)
+        print(data['source_dico'])
+        print(table_data['dico'])
         #assert data['source_dico'] == table_data['dico']
-        #assert params.src_n_words == len(data['source_dico'])
+        assert params.src_n_words == len(data['source_dico'])
     else:
         data['source_dico'] = table_data['dico']
         params.src_n_words = len(data['source_dico'])
 
     if 'target_dico' in data:
-        print('x')
         #assert data['target_dico'] == summary_data['dico']
-        #assert params.tgt_n_words == len(data['target_dico'])
+        assert params.tgt_n_words == len(data['target_dico'])
     else:
         data['target_dico'] = summary_data['dico']
         params.tgt_n_words = len(data['target_dico'])
