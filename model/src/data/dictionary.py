@@ -224,6 +224,8 @@ class Dictionary(object):
         for i, (line, label_line) in enumerate(zip(table_inf, table_label_inf)):
             table_items = line.strip().split()
             table_label = label_line.strip().split()
+            print(table_items)
+            print(table_label)
             assert len(table_items) == len(table_label)
             # skip empty table_contents
             if len(table_items) == 0:
@@ -332,6 +334,10 @@ class Dictionary(object):
                 print(i)
             summary_tokens = summary_line.rstrip().split()
             summary_token_labels = label_line.rstrip().split()
+            print(len(summary_token_labels))
+            print(len(summary_tokens))
+            print(summary_token_labels)
+            print(summary_tokens)
             assert len(summary_tokens) == len(summary_token_labels)
             # skip empty summaries
             if len(summary_tokens) == 0:

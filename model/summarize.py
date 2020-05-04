@@ -35,7 +35,7 @@ def get_parser():
 
     # main parameters
     parser.add_argument("--model_path", type=str, default="./model_training/", help="Experiment dump path")
-    parser.add_argument("--batch_size", type=int, default=8, help="Number of sentences per batch")
+    parser.add_argument("--batch_size", type=int, default=16, help="Number of sentences per batch")
 
     # model / output paths
     parser.add_argument("--table_path", type=str, default="", help="table path")
@@ -86,6 +86,9 @@ def main(params):
             #print(table_line)
             record_seq = [each.split('|') for each in table_line.split()]
             print(record_seq)
+            for x in record_seq:
+                print(x)
+                print(' ')
             assert all([len(x) == 4 for x in record_seq])
             enc_x1_ids.append(torch.LongTensor([source_dico.index(x[0]) for x in record_seq]))
             enc_x2_ids.append(torch.LongTensor([source_dico.index(x[1]) for x in record_seq]))
@@ -141,9 +144,7 @@ def main(params):
 
             # output translation
             source = table_lines[i + j].strip()
-            print(source)
             target = " ".join([target_dico[sent[k].item()] for k in range(len(sent))])
-            print(target)
             sys.stderr.write("%i / %i: %s\n" % (i + j, len(table_lines), target))
             outf.write(target + "\n")
 

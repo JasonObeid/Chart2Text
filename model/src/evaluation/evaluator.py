@@ -40,8 +40,6 @@ class Evaluator(object):
             self.create_reference_files()
 
     def get_iterator(self, task, data_set):
-        print(data_set)
-        print(self.data)
         """
         Create a new iterator for a dataset.
         """
