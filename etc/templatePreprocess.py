@@ -11,36 +11,6 @@ from text_to_num import text2num
 
 nltk.download('punkt')
 
-dataFiles = os.listdir('dataset/data')
-dataFiles.sort()
-#dataFiles = dataFiles[500:1000]
-
-captionFiles = os.listdir('dataset/captions')
-captionFiles.sort()
-#captionFiles = captionFiles[500:1000]
-
-titleFiles = os.listdir('dataset/titles')
-titleFiles.sort()
-#titleFiles = titleFiles[500:1000]
-
-# shuffle data
-# zipped = list(zip(dataFiles, captionFiles, titleFiles))
-# random.shuffle(zipped)
-# dataFiles, captionFiles, titleFiles = zip(*zipped)
-
-dataArr = []
-dataLabelArr = []
-summaryArr = []
-summaryLabelArr = []
-labelList = []
-titleArr = []
-oldSummaryArr = []
-
-dataRatioArr = []
-captionRatioArr = []
-
-assert len(captionFiles) == len(dataFiles) == len(titleFiles)
-
 def getChartType(x):
     if x.lower() == 'year':
         return 'line_chart'
@@ -73,21 +43,10 @@ def cleanAxisLabel(label):
 
 def cleanAxisValue(value):
     cleanValue = re.sub('\s', '_', value)
-    # tokenizedValue = tkn.word_tokenize(value)
-    # cleanValue = tkn.detokenize(tokenizedValue)
     cleanValue = re.sub('\*', '', cleanValue)
     cleanValue = re.sub('%', '', cleanValue)
     cleanValue = cleanValue.replace(',', '')
     return cleanValue
-
-
-def checkToken(value, caption):
-    bool = 0
-    for word in caption.split():
-        if str(value).lower() in word.lower():
-            bool = 1
-            return bool
-    return bool
 
 
 def templateAssigner(token, valueArr, words, i, axis):
@@ -102,7 +61,6 @@ def templateAssigner(token, valueArr, words, i, axis):
 
 
 def adjustDataLabel(bool, axis, index):
-    #index = array.index(word in wordArray)
     if axis == 'x':
         xDataLabels[index] = bool
     elif axis == 'y':
@@ -126,7 +84,7 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
                 adjustDataLabel(1, 'x', i)
                 return templateAssigner(token, xValueArr, xWords, i, 'X')
             elif is_number(token) and are_numbers(xValueArr):
-                if numberComparison(float(token), captionTokens, index, float(xWord), xWords):
+                if numberComparison(float(token), captionTokens, index, float(xWord), cleanXAxis):
                     adjustDataLabel(1, 'x', i)
                     return templateAssigner(token, xValueArr, xWords, i, 'X')
         for yWord in yWords.split('_'):
@@ -137,7 +95,7 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
                 adjustDataLabel(1, 'y', i)
                 return templateAssigner(token, yValueArr, yWords, i, 'Y')
             elif is_number(token) and are_numbers(yValueArr):
-                if numberComparison(float(token), captionTokens, index, float(yWord), yWords):
+                if numberComparison(float(token), captionTokens, index, float(yWord), cleanYAxis):
                     adjustDataLabel(1, 'y', i)
                     return templateAssigner(token, yValueArr, yWords, i, 'Y')
     # check if token in axis names
@@ -169,14 +127,13 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
     return [0, token]
 
 
-def numberComparison(token, captionTokens, index, word, words):
-    token = float(token)
+def numberComparison(token, captionTokens, index, word, axisLabel):
     tokenSignificantDigits = len(str(token).replace('.', ''))
     wordSignificantDigits = len(str(word).replace('.', ''))
     # data usually more specific, therefore divide data to match significant digits of token
     if index < len(captionTokens) - 1:
         nextToken = captionTokens[index + 1]
-        multiplier = checkForMultiplier(words, nextToken)
+        multiplier = checkForMultiplier(axisLabel, nextToken)
         # floor100 = int(math.floor(word / 100.0)) * 100
         # ceil100 = int(math.ceil(word / 100.0)) * 100
         newWord = normal_round(word * multiplier)
@@ -259,10 +216,40 @@ def normal_round(n, decimals=0):
     return math.ceil(expoN) / 10 ** decimals
 
 
+dataFiles = os.listdir('../dataset/data')
+dataFiles.sort()
+dataFiles = dataFiles[3800:4800]
+
+captionFiles = os.listdir('../dataset/captions')
+captionFiles.sort()
+captionFiles = captionFiles[3800:4800]
+
+titleFiles = os.listdir('../dataset/titles')
+titleFiles.sort()
+titleFiles = titleFiles[3800:4800]
+
+# shuffle data
+# zipped = list(zip(dataFiles, captionFiles, titleFiles))
+# random.shuffle(zipped)
+# dataFiles, captionFiles, titleFiles = zip(*zipped)
+
+dataArr = []
+dataLabelArr = []
+summaryArr = []
+summaryLabelArr = []
+labelList = []
+titleArr = []
+oldSummaryArr = []
+
+dataRatioArr = []
+captionRatioArr = []
+
+assert len(captionFiles) == len(dataFiles) == len(titleFiles)
+
 for i in range(len(dataFiles)):
-    dataPath = 'dataset/data/' + dataFiles[i]
-    captionPath = 'dataset/captions/' + captionFiles[i]
-    titlePath = 'dataset/titles/' + titleFiles[i]
+    dataPath = '../dataset/data/' + dataFiles[i]
+    captionPath = '../dataset/captions/' + captionFiles[i]
+    titlePath = '../dataset/titles/' + titleFiles[i]
     caption = openCaption(captionPath)
     title = openCaption(titlePath)
     cleanTitle = cleanAxisValue(title.strip())
@@ -308,7 +295,6 @@ for i in range(len(dataFiles)):
         if i < len(captionTokens) - 1:
             if captionTokens[i] == captionTokens[i + 1]:
                 captionTokens.pop(i + 1)
-                print('popped')
         if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but',
                                   'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']):
             #find labels for summary tokens, call function to create labels for data
@@ -322,15 +308,14 @@ for i in range(len(dataFiles)):
         labelMap.append(str(tokenBool))
     dataRowPairs = [f'{xLabel} {yLabel}' for xLabel, yLabel in zip(xDataLabels, yDataLabels)]
     dataLabelLine = (' ').join(dataRowPairs)
+    assert len(dataLabelLine.split()) == (len(xValueArr) + len(yValueArr))
     dataMatchCount = sum(xDataLabels) + sum(yDataLabels)
+    dataRatio = round(dataMatchCount / (len(xValueArr) + len(yValueArr)), 2)
+    captionRatio = round(captionMatchCount / len(captionTokens), 2)
     if captionMatchCount >= 1 and dataMatchCount >= 1:
         assert len(xValueArr) == len(yValueArr)
-        dataRatio = round(dataMatchCount / len(xValueArr), 2)
-        captionRatio = round(captionMatchCount / len(captionTokens), 2)
         dataRatioArr.append(dataRatio)
         captionRatioArr.append(captionRatio)
-        # print(f' data: {dataRatio}, caption: {captionRatio}')
-        # print(dataMatchCount, captionMatchCount)
         summaryLabelLine = (' ').join(labelMap)
         assert len(captionTokens) == len(summaryLabelLine.rstrip().split())
         newCaption = (' ').join(captionTokens)
@@ -376,68 +361,68 @@ oldTrainSummary = oldSummaryArr[0:trainSize]
 oldTestSummary = oldSummaryArr[trainSize:trainSize + testSize]
 oldValidSummary = oldSummaryArr[trainSize + testSize:]
 
-with open('data/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
+with open('../data/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
     myfile0.writelines("%s\n" % line for line in trainData)
-with open('data/train/trainDataLabel.txt', mode='wt', encoding='utf8') as myfile1:
+with open('../data/train/trainDataLabel.txt', mode='wt', encoding='utf8') as myfile1:
     myfile1.writelines("%s\n" % line for line in trainDataLabel)
 
-with open('data/test/testData.txt', mode='wt', encoding='utf8') as myfile2:
+with open('../data/test/testData.txt', mode='wt', encoding='utf8') as myfile2:
     myfile2.writelines("%s\n" % line for line in testData)
-with open('data/test/testDataLabel.txt', mode='wt', encoding='utf8') as myfile3:
+with open('../data/test/testDataLabel.txt', mode='wt', encoding='utf8') as myfile3:
     myfile3.writelines("%s\n" % line for line in testDataLabel)
 
-with open('data/valid/validData.txt', mode='wt', encoding='utf8') as myfile4:
+with open('../data/valid/validData.txt', mode='wt', encoding='utf8') as myfile4:
     myfile4.writelines("%s\n" % line for line in validData)
-with open('data/valid/validDataLabel.txt', mode='wt', encoding='utf8') as myfile5:
+with open('../data/valid/validDataLabel.txt', mode='wt', encoding='utf8') as myfile5:
     myfile5.writelines("%s\n" % line for line in validDataLabel)
 
-with open('data/train/trainSummary.txt', mode='wt', encoding='utf8') as myfile6:
+with open('../data/train/trainSummary.txt', mode='wt', encoding='utf8') as myfile6:
     myfile6.writelines("%s\n" % line for line in trainSummary)
-with open('data/train/trainSummaryLabel.txt', mode='wt', encoding='utf8') as myfile7:
+with open('../data/train/trainSummaryLabel.txt', mode='wt', encoding='utf8') as myfile7:
     myfile7.writelines("%s\n" % line for line in trainSummaryLabel)
 
-with open('data/test/testSummary.txt', mode='wt', encoding='utf8') as myfile8:
+with open('../data/test/testSummary.txt', mode='wt', encoding='utf8') as myfile8:
     myfile8.writelines("%s\n" % line for line in testSummary)
-with open('data/test/testSummaryLabel.txt', mode='wt', encoding='utf8') as myfile9:
+with open('../data/test/testSummaryLabel.txt', mode='wt', encoding='utf8') as myfile9:
     myfile9.writelines("%s\n" % line for line in testSummaryLabel)
 
-with open('data/valid/validSummary.txt', mode='wt', encoding='utf8') as myfile10:
+with open('../data/valid/validSummary.txt', mode='wt', encoding='utf8') as myfile10:
     myfile10.writelines("%s\n" % line for line in validSummary)
-with open('data/valid/validSummaryLabel.txt', mode='wt', encoding='utf8') as myfile11:
+with open('../data/valid/validSummaryLabel.txt', mode='wt', encoding='utf8') as myfile11:
     myfile11.writelines("%s\n" % line for line in validSummaryLabel)
 
-with open('data/dataRatio.txt', mode='wt', encoding='utf8') as myfile12:
+with open('../data/dataRatio.txt', mode='wt', encoding='utf8') as myfile12:
     myfile12.write(str(dataRatioArr))
-with open('data/captionRatio.txt', mode='wt', encoding='utf8') as myfile13:
+with open('../data/captionRatio.txt', mode='wt', encoding='utf8') as myfile13:
     myfile13.write(str(captionRatioArr))
 
-with open('data/train/trainTitle.txt', mode='wt', encoding='utf8') as myfile14:
+with open('../data/train/trainTitle.txt', mode='wt', encoding='utf8') as myfile14:
     myfile14.writelines("%s" % line for line in trainTitle)
-with open('data/test/testTitle.txt', mode='wt', encoding='utf8') as myfile15:
+with open('../data/test/testTitle.txt', mode='wt', encoding='utf8') as myfile15:
     myfile15.writelines("%s" % line for line in testTitle)
-with open('data/valid/validTitle.txt', mode='wt', encoding='utf8') as myfile16:
+with open('../data/valid/validTitle.txt', mode='wt', encoding='utf8') as myfile16:
     myfile16.writelines("%s" % line for line in validTitle)
 
-with open('data/train/trainOriginalSummary.txt', mode='wt', encoding='utf8') as myfile17:
+with open('../data/train/trainOriginalSummary.txt', mode='wt', encoding='utf8') as myfile17:
     myfile17.writelines("%s" % line for line in oldTrainSummary)
-with open('data/test/testOriginalSummary.txt', mode='wt', encoding='utf8') as myfile18:
+with open('../data/test/testOriginalSummary.txt', mode='wt', encoding='utf8') as myfile18:
     myfile18.writelines("%s" % line for line in oldTestSummary)
-with open('data/valid/validOriginalSummary.txt', mode='wt', encoding='utf8') as myfile19:
+with open('../data/valid/validOriginalSummary.txt', mode='wt', encoding='utf8') as myfile19:
     myfile19.writelines("%s" % line for line in oldValidSummary)
 
 import matplotlib.pyplot as plt
 
 plt.hist(dataRatioArr, 6)
-plt.savefig('data/data.png')
+plt.savefig('../data/data.png')
 plt.close('all')
 plt.hist(captionRatioArr, 6)
-plt.savefig('data/caption.png')
+plt.savefig('../data/caption.png')
 plt.close('all')
 
-with open('data/fineTune/data.txt', mode='wt', encoding='utf8') as myfile14, \
-        open('data/fineTune/dataLabel.txt', mode='wt', encoding='utf8') as myfile15, \
-        open('data/fineTune/summary.txt', mode='wt', encoding='utf8') as myfile16, \
-        open('data/fineTune/summaryLabel.txt', mode='wt', encoding='utf8') as myfile17:
+with open('../data/fineTune/data.txt', mode='wt', encoding='utf8') as myfile14, \
+        open('../data/fineTune/dataLabel.txt', mode='wt', encoding='utf8') as myfile15, \
+        open('../data/fineTune/summary.txt', mode='wt', encoding='utf8') as myfile16, \
+        open('../data/fineTune/summaryLabel.txt', mode='wt', encoding='utf8') as myfile17:
     for i in range(0, len(captionRatioArr)):
         if captionRatioArr[i] > 0.35:
             myfile14.writelines(dataArr[i] + "\n")
