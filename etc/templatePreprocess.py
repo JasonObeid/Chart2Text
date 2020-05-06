@@ -36,17 +36,13 @@ def openData(dataPath):
 
 def cleanAxisLabel(label):
     cleanLabel = re.sub('\s', '_', label)
-    cleanLabel = re.sub('\*', '', cleanLabel)
-    cleanLabel = re.sub('%', '', cleanLabel)
+    cleanLabel = cleanLabel.replace('%', '').replace('*','')
     return cleanLabel
 
 
 def cleanAxisValue(value):
     cleanValue = re.sub('\s', '_', value)
-    cleanValue = re.sub('\*', '', cleanValue)
-    cleanValue = re.sub('%', '', cleanValue)
-    cleanValue = cleanValue.replace('|', '')
-    cleanValue = cleanValue.replace(',', '')
+    cleanValue = cleanValue.replace('|', '').replace(',', '').replace('%', '').replace('*','')
     return cleanValue
 
 
@@ -113,7 +109,7 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
             return [1, f'templateXLabel[{i}]']
     for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
         yLabelWord = yLabelToken.replace('_', ' ').lower()
-        # print(yLabelWord)
+
         if str(token).lower() == yLabelWord:
             # print('match', yLabelWord)
             return [1, f'templateYLabel[{i}]']
@@ -123,6 +119,34 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
         if str(token).lower() == titleWord:
             # print('match', titleWord)
             return [1, f'templateTitle[{i}]']
+    #replace unmatched united states tokens with country to reduce bias
+    if index < len(captionTokens) - 1:
+        nextToken = captionTokens[index+1]
+        if token.lower() == 'united' and nextToken.lower() == 'states':
+            if 'U.S.' in cleanTitle:
+                captionTokens.pop(index+1)
+                usIndex = cleanTitle.index('U.S.')
+                return [1, f'templateTitle[{usIndex}]']
+            elif 'United' in cleanTitle and 'States' in cleanTitle:
+                print(cleanTitle)
+                captionTokens.pop(index + 1)
+                usIndex = cleanTitle.index('States')
+                return [1, f'templateTitle[{usIndex}]']
+            else:
+                captionTokens.pop(index + 1)
+                return [0, 'country']
+        elif token.lower() == 'u.s.' or token.lower() == 'u.s':
+            print(token)
+            if 'U.S.' in cleanTitle:
+                usIndex = cleanTitle.index('U.S.')
+                return [1, f'templateTitle[{usIndex}]']
+            elif 'United' in cleanTitle and 'States' in cleanTitle:
+                print(cleanTitle)
+                usIndex = cleanTitle.index('States')
+                return [1, f'templateTitle[{usIndex}]']
+            #else:
+                #captionTokens.pop(index + 1)
+                #captionTokens[index]
     # if is_number(token):
     # print(f'no match for number: {token}, line: {captionTokens}')
     return [0, token]
@@ -253,7 +277,6 @@ for i in range(len(dataFiles)):
     titlePath = '../dataset/titles/' + titleFiles[i]
     caption = openCaption(captionPath)
     title = openCaption(titlePath)
-    cleanTitle = cleanAxisValue(title.strip())
     df, cols, size, xAxis, yAxis, chartType = openData(dataPath)
     cleanXAxis = cleanAxisLabel(xAxis)
     cleanYAxis = cleanAxisLabel(yAxis)

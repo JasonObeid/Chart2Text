@@ -1,13 +1,13 @@
-generatedPath = '../data_testing/smallTest_beam=4_batch=8.txt'
-goldPath = '../data_testing/trainOriginalSummary.txt'
-goldTemplatePath = '../data_testing/trainSummary.txt'
-dataPath = '../data_testing/trainData.txt'
-titlePath = '../data_testing/trainTitle.txt'
-outputPath = '../data_testing/results/testComparison_beam4_batch4.txt'
+generatedPath = '504Test_beam=4_batch=8.txt'
+goldPath = 'trainOriginalSummary.txt'
+goldTemplatePath = 'trainSummary.txt'
+dataPath = 'trainData.txt'
+titlePath = 'trainTitle.txt'
+outputPath = 'results/504Comparison_beam4_batch8.txt'
 
 import re
-
-
+import os
+print(os.listdir())
 def are_numbers(stringList):
     try:
         for value in stringList:
@@ -28,6 +28,7 @@ def mapIndex(index, array):
                 index = array.index(min(array))
                 return int(index)
         except:
+            print('num err')
             return 0
     elif are_numbers(array[0:len(array) - 1]):
         try:
@@ -39,6 +40,7 @@ def mapIndex(index, array):
                 index = array.index(min(array))
                 return int(index)
         except:
+            print('num err')
             return 0
     if index == 'last':
         index = len(array) - 1
@@ -46,6 +48,7 @@ def mapIndex(index, array):
     try:
         return int(index)
     except:
+        print('num err')
         return 0
 
 
@@ -66,45 +69,51 @@ def main():
             datum = data.split()
             xLabel = datum[0].split('|')[0].split('_')
             yLabel = datum[1].split('|')[0].split('_')
+            fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
+                       'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']
+            # remove filler words from labels
+            cleanXLabel= [xWord for xWord in xLabel if xWord.lower() not in fillers]
+            cleanYLabel = [yWord for yWord in yLabel if yWord.lower() not in fillers]
             for i in range(0, len(datum)):
                 if i % 2 == 0:
                     xValueArr.append(datum[i].split('|')[1])
                 else:
                     yValueArr.append(datum[i].split('|')[1])
+
             for token in generated.split():
                 if 'template' in token:
                     index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
                     if 'templateTitle' in token:
-                        titleArr = title.split()
+                        titleArr = [word for word in title.split() if word.lower() not in fillers]
                         index = mapIndex(index, titleArr)
                         try:
                             replacedToken = titleArr[index]
                         except:
-                            replacedToken = titleArr[len(titleArr)-1]
+                            replacedToken = 'titleErr'# titleArr[len(titleArr) - 1]
                     elif 'templateXValue' in token:
                         index = mapIndex(index, xValueArr)
                         try:
                             replacedToken = xValueArr[index]
                         except:
-                            replacedToken = xValueArr[len(xValueArr)-1]
+                            replacedToken = 'xValErr'# xValueArr[len(xValueArr) - 1]
                     elif 'templateYValue' in token:
                         index = mapIndex(index, yValueArr)
                         try:
                             replacedToken = yValueArr[index]
                         except:
-                            replacedToken = yValueArr[len(yValueArr)-1]
+                            replacedToken = 'yValErr'# yValueArr[len(yValueArr) - 1]
                     elif 'templateXLabel' in token:
-                        index = mapIndex(index, xLabel)
+                        index = mapIndex(index, cleanXLabel)
                         try:
-                            replacedToken = xLabel[index]
+                            replacedToken = cleanXLabel[index]
                         except:
-                            replacedToken = yValueArr[len(yValueArr)-1]
+                            replacedToken = 'xLabelErr'# cleanXLabel[len(cleanXLabel) - 1]
                     elif 'templateYLabel' in token:
-                        index = mapIndex(index, yLabel)
+                        index = mapIndex(index, cleanYLabel)
                         try:
-                            replacedToken = yLabel[index]
+                            replacedToken = cleanYLabel[index]
                         except:
-                            replacedToken = yValueArr[len(yValueArr)-1]
+                            replacedToken = 'yLabelErr'# cleanYLabel[len(cleanYLabel) - 1]
                 else:
                     replacedToken = token
                 reversedArr.append(replacedToken)

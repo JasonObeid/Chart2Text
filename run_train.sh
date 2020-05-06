@@ -27,14 +27,12 @@ python3 model/train.py \
     --epoch_size 1000 \
     --max_epoch 121 \
     --eval_bleu True \
-    --validation_metrics valid_mt_bleu \
-    --reload_checkpoint experiments/chart2text/run1/checkpoint.pth
+    --validation_metrics valid_mt_bleu
 
 
+python3 model/summarize.py --model_path periodic-100.pth --table_path data/test/testData.txt \
+--output_path templateOutput_504_beam=4_batch=8.txt --beam_size 4 --batch_size 8
 
-python3 model/summarize.py --model_path experiments/chart2text/run1/periodic-80.pth --table_path data/test/testData.txt \
---output_path templateOutput_429_beam=4_batch=16.txt --beam_size 4 --batch_size 16
 
-
-python3 model/summarize.py --model_path experiments/chart2text/run1/periodic-80.pth --table_path data_testing/trainData.txt \
---output_path smallTest_beam=4_batch=8.txt --beam_size 4 --batch_size 8
+python3 model/summarize.py --model_path periodic-75.pth --table_path data_testing/trainData.txt \
+--output_path data_testing/504Test_beam=4_batch=8.txt --beam_size 4 --batch_size 8
