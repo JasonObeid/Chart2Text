@@ -102,54 +102,59 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
     cleanXArr = [xWord for xWord in cleanXAxis.split('_') if xWord.lower() not in fillers]
     cleanYArr = [yWord for yWord in cleanYAxis.split('_') if yWord.lower() not in fillers]
     cleanTitle = [titleWord for titleWord in titleTokens if titleWord.lower() not in fillers]
+    numbers = ['thousand', 'million', 'billion', 'trillion',
+               'thousands', 'millions', 'billions', 'trillions']
     for xLabelToken, i in zip(cleanXArr, range(0, len(cleanXArr))):
         xLabelWord = xLabelToken.replace('_', ' ').lower()
-        if str(token).lower() == xLabelWord:
-            # print('match', xLabelWord)
+        if str(token).lower() == xLabelWord.lower():
+            return [1, f'templateXLabel[{i}]']
+        elif str(token).lower() in numbers and xLabelWord.lower() in numbers:
             return [1, f'templateXLabel[{i}]']
     for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
         yLabelWord = yLabelToken.replace('_', ' ').lower()
-
-        if str(token).lower() == yLabelWord:
-            # print('match', yLabelWord)
+        if str(token).lower() == yLabelWord.lower():
+            return [1, f'templateYLabel[{i}]']
+        elif str(token).lower() in numbers and yLabelWord.lower() in numbers:
             return [1, f'templateYLabel[{i}]']
     # check if token in title
     for titleToken, i in zip(cleanTitle, range(0, len(cleanTitle))):
         titleWord = titleToken.replace('_', ' ').lower()
         if str(token).lower() == titleWord:
-            # print('match', titleWord)
             return [1, f'templateTitle[{i}]']
     #replace unmatched united states tokens with country to reduce bias
     if index < len(captionTokens) - 1:
         nextToken = captionTokens[index+1]
         if token.lower() == 'united' and nextToken.lower() == 'states':
             if 'U.S.' in cleanTitle:
-                captionTokens.pop(index+1)
                 usIndex = cleanTitle.index('U.S.')
-                return [1, f'templateTitle[{usIndex}]']
-            elif 'United' in cleanTitle and 'States' in cleanTitle:
-                print(cleanTitle)
+                captionTokens[index] = f'templateTitle[{usIndex}]'
                 captionTokens.pop(index + 1)
-                usIndex = cleanTitle.index('States')
+                return [1, f'templateTitle[{usIndex}]']
+            elif 'American' in cleanTitle:
+                usIndex = cleanTitle.index('American')
+                captionTokens[index] = f'templateTitle[{usIndex}]'
+                captionTokens.pop(index + 1)
                 return [1, f'templateTitle[{usIndex}]']
             else:
                 captionTokens.pop(index + 1)
+                captionTokens[index] = 'country'
                 return [0, 'country']
         elif token.lower() == 'u.s.' or token.lower() == 'u.s':
-            print(token)
             if 'U.S.' in cleanTitle:
                 usIndex = cleanTitle.index('U.S.')
+                captionTokens[index] = f'templateTitle[{usIndex}]'
                 return [1, f'templateTitle[{usIndex}]']
             elif 'United' in cleanTitle and 'States' in cleanTitle:
-                print(cleanTitle)
                 usIndex = cleanTitle.index('States')
+                captionTokens[index] = f'templateTitle[{usIndex}]'
                 return [1, f'templateTitle[{usIndex}]']
+    return [0, token]
             #else:
                 #captionTokens.pop(index + 1)
                 #captionTokens[index]
     # if is_number(token):
     # print(f'no match for number: {token}, line: {captionTokens}')
-    return [0, token]
+
 
 
 def numberComparison(token, captionTokens, index, word, axisLabel):
@@ -158,7 +163,7 @@ def numberComparison(token, captionTokens, index, word, axisLabel):
     # data usually more specific, therefore divide data to match significant digits of token
     if index < len(captionTokens) - 1:
         nextToken = captionTokens[index + 1]
-        multiplier = checkForMultiplier(axisLabel, nextToken)
+        multiplier = checkForMultiplier(axisLabel, nextToken.lower())
         # floor100 = int(math.floor(word / 100.0)) * 100
         # ceil100 = int(math.ceil(word / 100.0)) * 100
         newWord = normal_round(word * multiplier)
@@ -214,21 +219,22 @@ def is_word_number(string):
 def checkForMultiplier(axisLabel, nextToken):
     axisMultiplier = 1
     tokenMultiplier = 1
-    if 'thousand' in axisLabel:
+    axisLabels = ' '.join(labelWord.lower() for labelWord in axisLabel.split())
+    if 'thousand' in axisLabels or 'thousands' in axisLabels:
         axisMultiplier = 1000
-    elif 'million' in axisLabel:
+    elif 'million' in axisLabels or 'millions' in axisLabels:
         axisMultiplier = 1000000
-    elif 'billion' in axisLabel:
+    elif 'billion' in axisLabels or 'billions' in axisLabels:
         axisMultiplier = 1000000000
-    elif 'trillion' in axisLabel:
+    elif 'trillion' in axisLabels or 'trillions' in axisLabels:
         axisMultiplier = 1000000000000
-    if 'thousand' in nextToken:
+    if 'thousand' in nextToken or 'thousands' in nextToken:
         tokenMultiplier = 1000
-    elif 'million' in nextToken:
+    elif 'million' in nextToken or 'millions' in nextToken:
         tokenMultiplier = 1000000
-    elif 'billion' in nextToken:
+    elif 'billion' in nextToken or 'billions' in nextToken:
         tokenMultiplier = 1000000000
-    elif 'trillion' in nextToken:
+    elif 'trillion' in nextToken or 'trillions' in nextToken:
         tokenMultiplier = 1000000000000
     conversionRatio = axisMultiplier / tokenMultiplier
     return conversionRatio
