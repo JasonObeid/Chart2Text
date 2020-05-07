@@ -30,8 +30,8 @@ python3 model/train.py \
     --validation_metrics valid_mt_bleu
 
 
-python3 model/summarize.py --model_path periodic-100.pth --table_path data/test/testData.txt \
---output_path templateOutput_504_beam=4_batch=8.txt --beam_size 4 --batch_size 8
+python3 model/summarize.py --model_path MAY06.pth --table_path data/test/testData.txt \
+--output_path results/templateOutput_506_beam=4_batch=8.txt --beam_size 4 --batch_size 8
 
 
 python3 model/summarize.py --model_path periodic-75.pth --table_path data_testing/trainData.txt \

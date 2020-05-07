@@ -1,9 +1,9 @@
-generatedPath = '../templateOutput_504_beam=4_batch=8.txt'
+generatedPath = '../results/may 06/templateOutput_506_beam=4_batch=8.txt'
 goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-outputPath = '../summaryComparison504_beam4_batch8.txt'
+outputPath = '../results/may 06/summaryComparison506_beam4_batch8.txt'
 
 import re
 
@@ -92,31 +92,31 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                     try:
                         replacedToken = titleArr[index]
                     except:
-                        replacedToken = 'titleErr'# titleArr[len(titleArr) - 1]
+                        replacedToken = ''#'titleErr'# titleArr[len(titleArr) - 1]
                 elif 'templateXValue' in token:
                     index = mapIndex(index, xValueArr)
                     try:
                         replacedToken = xValueArr[index]
                     except:
-                        replacedToken = 'xValErr'# xValueArr[len(xValueArr) - 1]
+                        replacedToken = ''#'xValErr'# xValueArr[len(xValueArr) - 1]
                 elif 'templateYValue' in token:
                     index = mapIndex(index, yValueArr)
                     try:
                         replacedToken = yValueArr[index]
                     except:
-                        replacedToken = 'yValErr'# yValueArr[len(yValueArr) - 1]
+                        replacedToken = ''#'yValErr'# yValueArr[len(yValueArr) - 1]
                 elif 'templateXLabel' in token:
                     index = mapIndex(index, cleanXLabel)
                     try:
                         replacedToken = cleanXLabel[index]
                     except:
-                        replacedToken = 'xLabelErr'# cleanXLabel[len(cleanXLabel) - 1]
+                        replacedToken = ''#'xLabelErr'# cleanXLabel[len(cleanXLabel) - 1]
                 elif 'templateYLabel' in token:
                     index = mapIndex(index, cleanYLabel)
                     try:
                         replacedToken = cleanYLabel[index]
                     except:
-                        replacedToken = 'yLabelErr'# cleanYLabel[len(cleanYLabel) - 1]
+                        replacedToken = ''#'yLabelErr'# cleanYLabel[len(cleanYLabel) - 1]
             else:
                 replacedToken = token
             reversedArr.append(replacedToken)

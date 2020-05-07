@@ -9,7 +9,7 @@ import pandas as pd
 from text_to_num import text2num
 # import random
 
-nltk.download('punkt')
+#nltk.download('punkt')
 
 def getChartType(x):
     if x.lower() == 'year':
@@ -106,19 +106,20 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
                'thousands', 'millions', 'billions', 'trillions']
     for xLabelToken, i in zip(cleanXArr, range(0, len(cleanXArr))):
         xLabelWord = xLabelToken.replace('_', ' ').lower()
-        if str(token).lower() == xLabelWord.lower():
+        if str(token).lower() == xLabelWord:
             return [1, f'templateXLabel[{i}]']
         elif str(token).lower() in numbers and xLabelWord.lower() in numbers:
             return [1, f'templateXLabel[{i}]']
     for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
         yLabelWord = yLabelToken.replace('_', ' ').lower()
-        if str(token).lower() == yLabelWord.lower():
+        if str(token).lower() == yLabelWord:
             return [1, f'templateYLabel[{i}]']
         elif str(token).lower() in numbers and yLabelWord.lower() in numbers:
             return [1, f'templateYLabel[{i}]']
     # check if token in title
     for titleToken, i in zip(cleanTitle, range(0, len(cleanTitle))):
-        titleWord = titleToken.replace('_', ' ').lower()
+        titleWord = titleToken.lower()
+        print(titleWord, token)
         if str(token).lower() == titleWord:
             return [1, f'templateTitle[{i}]']
     #replace unmatched united states tokens with country to reduce bias
