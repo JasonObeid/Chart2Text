@@ -43,15 +43,18 @@ for summaryPath in summaryPaths:
                 summary = summaryFile.read()
                 cleanCaption = tkn.word_tokenize(summary)
                 newSummaryPath = '../dataset/captions/'+summaryPath
-                newSentences = []
-                for sentence in ' '.join(cleanCaption).split(' . '):
-                        sent = sentence.split()
-                        uppercaseWords = [word for word in sent if word[0].isupper()]
-                        newSentence = ' '.join(addUnderscores(sent, uppercaseWords))
-                        newSentences.append(newSentence)
-                print(newSentences)
-                newCaption = ' . '.join(newSentences)
                 with open(newSummaryPath, "w") as outf:
-                    outf.write("{}\n".format(newCaption))
+                    outf.write("{}\n".format(' '.join(cleanCaption)))
                 outf.close()
-                print(newCaption)
+                #newSentences = []
+                #for sentence in ' '.join(cleanCaption).split(' . '):
+                #        sent = sentence.split()
+                #        uppercaseWords = [word for word in sent if word[0].isupper()]
+                #        newSentence = ' '.join(addUnderscores(sent, uppercaseWords))
+                #        newSentences.append(newSentence)
+                #print(newSentences)
+                #newCaption = ' . '.join(newSentences)
+                #with open(newSummaryPath, "w") as outf:
+                #    outf.write("{}\n".format(newCaption))
+                #outf.close()
+                #print(newCaption)

@@ -1,14 +1,6 @@
 import scripts.tokenizer as tkn
 import os
-# re.findall('([A-Z][a-z]+)', ' '.join(cleanTitle))
-# remainingWords = cleanTitle.split()[1:]
-# if 'U.S.' in cleanTitle:
-# uppercaseWords.append('U.S.')
 
-# if len(uppercaseWords) == 1:
-#        if uppercaseWords[0] == firstWord:
-#                x = 0
-# print(f'first word is the only uppercase: {uppercaseWords} from {cleanTitle}')
 def groupSequence(lst):
         res = [[lst[0]]]
         for i in range(1, len(lst)):
@@ -43,6 +35,7 @@ def addUnderscores(cleanTitle, uppercaseWords):
                         del newTitle[start:end]
         return newTitle
 
+
 titlePaths = os.listdir('../dataset/titles_old/')
 titlePaths.sort()
 
@@ -50,31 +43,12 @@ for summaryPath in titlePaths:
         with open('../dataset/titles_old/'+summaryPath, 'r', encoding='utf-8') as titleFile:
                 title = titleFile.read()
                 cleanTitle = tkn.word_tokenize(title)
-                uppercaseWords = [word for word in cleanTitle if word[0].isupper()]
-                newTitle = addUnderscores(cleanTitle, uppercaseWords)
-                newTitlePath = '../dataset/titles/'+summaryPath
+                newTitlePath = '../dataset/titles/' + summaryPath
                 with open(newTitlePath, "w") as outf:
-                    outf.write("{}\n".format(' '.join(newTitle)))
+                    outf.write("{}\n".format(' '.join(cleanTitle)))
                 outf.close()
-
-        """
-        print(uppercaseWords)
-        if indices[i - 1] == indices[i] - 1:
-                index1 = indices[i - 1]
-                index2 = indices[i]
-                word1 = cleanTitle[index1]
-                word2 = cleanTitle[index2]
-                print('sequence found')
-                print(index1, index2)
-                print(word1, word2)
-                print(indices)
-                #print(uppercaseWords)
-                print(cleanTitle)
-                cleanTitle[index2] = f'{word1}_{word2}'
-                cleanTitle.pop(index1)
-                #indices.pop(i)
-                print(cleanTitle)
-#print(indices)
-#print(cleanTitle)
-#print(uppercaseWords)
-"""
+                #uppercaseWords = [word for word in cleanTitle if word[0].isupper()]
+                #newTitle = addUnderscores(cleanTitle, uppercaseWords)
+                #with open(newTitlePath, "w") as outf:
+                #    outf.write("{}\n".format(' '.join(newTitle)))
+                #outf.close()

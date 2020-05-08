@@ -3,12 +3,16 @@ import os
 import re
 # from random import shuffle
 # from math import ceil
-# import spacy
+import spacy
+from spacy import displacy
+from collections import Counter
+import en_core_web_md
+
 import nltk
 import pandas as pd
 from text_to_num import text2num
 # import random
-
+nlp = spacy.load('en_core_web_md')
 #nltk.download('punkt')
 
 def getChartType(x):
@@ -64,7 +68,8 @@ def adjustDataLabel(bool, axis, index):
         yDataLabels[index] = bool
 
 
-def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanXAxis, cleanYAxis):
+def compareToken(captionTokens, index, titleTokens, xValueArr,
+                 yValueArr, cleanXAxis, cleanYAxis, entities):
     # check if numbers are in thousands, millions, billions, trillions
     # check if token in chart values
     token = captionTokens[index].replace(',', '').lower()
@@ -119,8 +124,10 @@ def compareToken(captionTokens, index, titleTokens, xValueArr, yValueArr, cleanX
     # check if token in title
     for titleToken, i in zip(cleanTitle, range(0, len(cleanTitle))):
         titleWord = titleToken.lower()
-        print(titleWord, token)
         if str(token).lower() == titleWord:
+            if titleToken in entities:
+                entity = entities[titleToken]
+                return [1, f'templateTitle{entity}']
             return [1, f'templateTitle[{i}]']
     #replace unmatched united states tokens with country to reduce bias
     if index < len(captionTokens) - 1:
@@ -276,6 +283,8 @@ oldSummaryArr = []
 dataRatioArr = []
 captionRatioArr = []
 
+entityArr = []
+
 assert len(captionFiles) == len(dataFiles) == len(titleFiles)
 
 for i in range(len(dataFiles)):
@@ -321,7 +330,13 @@ for i in range(len(dataFiles)):
     labelMap = []
 
     captionMatchCount = 0
-
+    doc = nlp(title)
+    entities = {}
+    for X in doc.ents:
+        if X.label_ == 'GPE' or X.label_ == 'ORG' or X.label_ == 'NORP' or X.label_ == 'LOC':
+            entities[X.text] = X.label_
+    entityArr.append(entities)
+    #print(entities)
     for token, i in zip(captionTokens, range(0, len(captionTokens))):
         if i < len(captionTokens) - 1:
             if captionTokens[i] == captionTokens[i + 1]:
@@ -330,7 +345,7 @@ for i in range(len(dataFiles)):
                                   'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']):
             #find labels for summary tokens, call function to create labels for data
             tokenBool, newToken = compareToken(captionTokens, i, title.split(), xValueArr,
-                                               yValueArr, cleanXAxis, cleanYAxis)
+                                               yValueArr, cleanXAxis, cleanYAxis, entities)
             if tokenBool == 1:
                 captionTokens[i] = newToken
                 captionMatchCount += 1

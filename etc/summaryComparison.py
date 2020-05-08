@@ -3,7 +3,8 @@ goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-outputPath = '../results/may 06/summaryComparison506_beam4_batch8.txt'
+comparisonPath = '../results/may 06/summaryComparison506_beam4_batch8.txt'
+outputPath = '../results/may 06/generated.txt'
 
 import re
 
@@ -56,7 +57,8 @@ def mapIndex(index, array):
 count = 0
 with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r', encoding='utf-8') as generatedFile \
     , open(dataPath, 'r', encoding='utf-8') as dataFile, open(outputPath, 'w', encoding='utf-8') as outputFile, \
-    open(titlePath, 'r', encoding='utf-8') as titleFile, open(goldTemplatePath, 'r', encoding='utf-8') as goldTemplateFile:
+    open(titlePath, 'r', encoding='utf-8') as titleFile, open(goldTemplatePath, 'r', encoding='utf-8') as goldTemplateFile, \
+    open(comparisonPath, 'w', encoding='utf-8') as comparisonFile:
     fileIterators = zip(goldFile.readlines(), goldTemplateFile.readlines(),
                         generatedFile.readlines(), dataFile.readlines(), titleFile.readlines())
     for gold, goldTemplate, generated, data, title in fileIterators:
@@ -122,8 +124,9 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
             reversedArr.append(replacedToken)
         reverse = (' ').join(reversedArr)
         print(f'Example {count}:\ndata: {data}title: {title}\ngold: {gold}gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n')
-        outputFile.write(
+        comparisonFile.write(
             f'Example {count}:\ndata: {data}title: {title}\ngold: {gold}gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n\n')
+        outputFile.write(f'{reverse}\n')
 
 
 # try:
