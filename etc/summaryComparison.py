@@ -1,10 +1,10 @@
-generatedPath = '../results/may 06/templateOutput_506_beam=4_batch=8.txt'
+generatedPath = '../results/may06/templateOutput_506-p100_beam=4_batch=8.txt'
 goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/may 06/summaryComparison506_beam4_batch8.txt'
-outputPath = '../results/may 06/generated.txt'
+comparisonPath = '../results/may06/summaryComparison506-p100_beam4_batch8.txt'
+outputPath = '../results/may06/generated-506-p100.txt'
 
 import re
 

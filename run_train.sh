@@ -30,9 +30,18 @@ python3 model/train.py \
     --validation_metrics valid_mt_bleu
 
 
-python3 model/summarize.py --model_path MAY06.pth --table_path data/test/testData.txt \
+python3 model/summarize.py --model_path MAY06-100.pth --table_path data/test/testData.txt \
 --output_path results/templateOutput_506_beam=4_batch=8.txt --beam_size 4 --batch_size 8
 
 
 python3 model/summarize.py --model_path periodic-75.pth --table_path data_testing/trainData.txt \
 --output_path data_testing/504Test_beam=4_batch=8.txt --beam_size 4 --batch_size 8
+
+perl scripts/model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/may06/generated-506-p100.txt
+
+200 epochs:
+BLEU = 21.10, 51.1/25.2/16.9/12.8 (BP=0.917, ratio=0.920, hyp_len=37841, ref_len=41116)
+
+100 epochs:
+BLEU = 21.77, 53.7/27.9/19.0/14.5 (BP=0.858, ratio=0.867, hyp_len=35657, ref_len=41116)
+

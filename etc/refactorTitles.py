@@ -43,12 +43,16 @@ for summaryPath in titlePaths:
         with open('../dataset/titles_old/'+summaryPath, 'r', encoding='utf-8') as titleFile:
                 title = titleFile.read()
                 cleanTitle = tkn.word_tokenize(title)
+                # replace (2009 - 2016) with (2009 to 2016)
+                lastTokens = cleanTitle[-3:]
+                if lastTokens[1] == '-' and lastTokens[0].isnumeric() and lastTokens[2].isnumeric():
+                        cleanTitle[-2] = 'to'
                 newTitlePath = '../dataset/titles/' + summaryPath
                 with open(newTitlePath, "w") as outf:
-                    outf.write("{}\n".format(' '.join(cleanTitle)))
+                        outf.write("{}\n".format(' '.join(cleanTitle)))
                 outf.close()
-                #uppercaseWords = [word for word in cleanTitle if word[0].isupper()]
-                #newTitle = addUnderscores(cleanTitle, uppercaseWords)
-                #with open(newTitlePath, "w") as outf:
+                # uppercaseWords = [word for word in cleanTitle if word[0].isupper()]
+                # newTitle = addUnderscores(cleanTitle, uppercaseWords)
+                # with open(newTitlePath, "w") as outf:
                 #    outf.write("{}\n".format(' '.join(newTitle)))
-                #outf.close()
+                # outf.close()

@@ -101,8 +101,6 @@ def compareToken(captionTokens, index, titleTokens, xValueArr,
                     adjustDataLabel(1, 'y', i)
                     return templateAssigner(token, yValueArr, yWords, i, 'Y')
     # check if token in axis names
-    fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
-               'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']
     # remove filler words from labels
     cleanXArr = [xWord for xWord in cleanXAxis.split('_') if xWord.lower() not in fillers]
     cleanYArr = [yWord for yWord in cleanYAxis.split('_') if yWord.lower() not in fillers]
@@ -125,9 +123,12 @@ def compareToken(captionTokens, index, titleTokens, xValueArr,
     for titleToken, i in zip(cleanTitle, range(0, len(cleanTitle))):
         titleWord = titleToken.lower()
         if str(token).lower() == titleWord:
-            if titleToken in entities:
-                entity = entities[titleToken]
-                return [1, f'templateTitle{entity}']
+            for subject, n in zip(entities['Subject'], range(0, len(entities['Subject']))):
+                if titleWord in subject.lower():
+                    return [1, f'templateTitleSubject[{n}]']
+            for date, m in zip(entities['Date'], range(0, len(entities['Date']))):
+                if titleWord in str(date):
+                    return [1, f'templateTitleDate[{m}]']
             return [1, f'templateTitle[{i}]']
     #replace unmatched united states tokens with country to reduce bias
     if index < len(captionTokens) - 1:
@@ -287,6 +288,9 @@ entityArr = []
 
 assert len(captionFiles) == len(dataFiles) == len(titleFiles)
 
+fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
+           'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']
+
 for i in range(len(dataFiles)):
     dataPath = '../dataset/data/' + dataFiles[i]
     captionPath = '../dataset/captions/' + captionFiles[i]
@@ -325,25 +329,37 @@ for i in range(len(dataFiles)):
         trimmedCaption = (' . ').join(captionSentences)
     captionTokens = trimmedCaption.split()
 
-    xDataLabels = [0 for item in range(0,len(xValueArr))]
-    yDataLabels = [0 for item in range(0,len(yValueArr))]
+    xDataLabels = [0 for item in range(0, len(xValueArr))]
+    yDataLabels = [0 for item in range(0, len(yValueArr))]
     labelMap = []
 
     captionMatchCount = 0
     doc = nlp(title)
     entities = {}
+    entities['Subject'] = []
+    entities['Date'] = []
     for X in doc.ents:
         if X.label_ == 'GPE' or X.label_ == 'ORG' or X.label_ == 'NORP' or X.label_ == 'LOC':
-            entities[X.text] = X.label_
+            cleanSubject = [word for word in X.text.split() if word.isalpha() and word not in fillers]
+            if len(cleanSubject) > 0:
+                entities['Subject'].append(' '.join(cleanSubject))
+        elif X.label_ == 'DATE':
+            if X.text.isnumeric():
+                entities['Date'].append(X.text)
+    if len(entities['Subject']) == 0:
+        uppercaseWords = [word for word in title.split() if word[0].isupper()]
+        if len(uppercaseWords) > 1:
+            guessedSubject = ' '.join(uppercaseWords[1:])
+        else:
+            guessedSubject = uppercaseWords[0]
+        entities['Subject'].append(guessedSubject)
     entityArr.append(entities)
-    #print(entities)
     for token, i in zip(captionTokens, range(0, len(captionTokens))):
         if i < len(captionTokens) - 1:
             if captionTokens[i] == captionTokens[i + 1]:
                 captionTokens.pop(i + 1)
-        if (token.lower() not in ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', 'to', 'but',
-                                  'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']):
-            #find labels for summary tokens, call function to create labels for data
+        if token.lower() not in fillers:
+            # find labels for summary tokens, call function to create labels for data
             tokenBool, newToken = compareToken(captionTokens, i, title.split(), xValueArr,
                                                yValueArr, cleanXAxis, cleanYAxis, entities)
             if tokenBool == 1:
