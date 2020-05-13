@@ -85,7 +85,7 @@ def main(params):
         for table_line in table_lines[i:i + params.batch_size]:
             #print(table_line)
             record_seq = [each.split('|') for each in table_line.split()]
-            print(record_seq)
+            # print(record_seq)
             assert all([len(x) == 4 for x in record_seq])
             enc_x1_ids.append(torch.LongTensor([source_dico.index(x[0]) for x in record_seq]))
             enc_x2_ids.append(torch.LongTensor([source_dico.index(x[1]) for x in record_seq]))
@@ -132,7 +132,6 @@ def main(params):
                                             params.length_penalty, params.early_stopping, max_len=max_len)
 
         for j in range(decoded.size(1)):
-
             # remove delimiters
             sent = decoded[:, j]
             delimiters = (sent == params.eos_index).nonzero().view(-1)
@@ -141,9 +140,10 @@ def main(params):
 
             # output translation
             source = table_lines[i + j].strip()
-            print(source)
-            target = " ".join([target_dico[sent[k].item()] for k in range(len(sent))])
-            print(target)
+            # print(source)
+            tokens = [target_dico[sent[k].item()] for k in range(len(sent))]
+            print(tokens)
+            target = " ".join(tokens)
             sys.stderr.write("%i / %i: %s\n" % (i + j, len(table_lines), target))
             outf.write(target + "\n")
 

@@ -1,12 +1,57 @@
-generatedPath = '../results/may06/templateOutput_506-p100_beam=4_batch=8.txt'
+import spacy
+import en_core_web_md
+import re
+
+generatedPath = '../results/may11/templateOutput_511_beam=4_batch=8.txt'
 goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/may06/summaryComparison506-p100_beam4_batch8.txt'
-outputPath = '../results/may06/generated-506-p100.txt'
+comparisonPath = '../results/may11/summaryComparison511-p100_beam4_batch8.txt'
+outputPath = '../results/may11/generated-511-p100.txt'
 
-import re
+nlp = spacy.load('en_core_web_md')
+
+
+def getNamedEntity(title, xValueArr):
+    doc = nlp(title)
+    entities = {}
+    entities['Subject'] = []
+    entities['Date'] = []
+    for X in doc.ents:
+        if X.label_ == 'GPE' or X.label_ == 'ORG' or X.label_ == 'NORP' or X.label_ == 'LOC':
+            cleanSubject = [word for word in X.text.split() if word.isalpha() and word not in fillers]
+            if len(cleanSubject) > 0:
+                entities['Subject'].append(' '.join(cleanSubject))
+        elif X.label_ == 'DATE':
+            if X.text.isnumeric():
+                entities['Date'].append(X.text)
+    if len(entities['Subject']) == 0:
+        uppercaseWords = [word for word in title.split() if word[0].isupper()]
+        if len(uppercaseWords) > 1:
+            guessedSubject = ' '.join(uppercaseWords[1:])
+        else:
+            guessedSubject = uppercaseWords[0]
+        entities['Subject'].append(guessedSubject)
+    if len(entities['Date']) == 0:
+        if xLabel[0] == 'Month':
+            years = []
+            for item in xValueArr:
+                [years.append(year.replace('\'', '')) for year in item.split('_') if year.replace('\'', '').isnumeric()]
+            if len(years) > 0:
+                entities['Date'] = [min(years), max(years)]
+        elif xLabel[0] == 'Year':
+            years = [year for year in title.split() if year.replace('/', '').isnumeric()]
+            if len(years) > 0:
+                entities['Date'] = [min(years), max(years)]
+        else:
+            try:
+                years = [year for year in title.split() if year.isnumeric()]
+                if len(years) > 0:
+                    entities['Date'] = [min(years), max(years)]
+            except:
+                p = 0
+    return entities
 
 
 def are_numbers(stringList):
@@ -54,6 +99,8 @@ def mapIndex(index, array):
 
 
 #def main():
+fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
+           'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', 'with']
 count = 0
 with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r', encoding='utf-8') as generatedFile \
     , open(dataPath, 'r', encoding='utf-8') as dataFile, open(outputPath, 'w', encoding='utf-8') as outputFile, \
@@ -69,17 +116,21 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
         datum = data.split()
         xLabel = datum[0].split('|')[0].split('_')
         yLabel = datum[1].split('|')[0].split('_')
-        fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
-                   'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', 'with']
+
         # remove filler words from labels
         cleanXLabel = [xWord for xWord in xLabel if xWord.lower() not in fillers]
         cleanYLabel = [yWord for yWord in yLabel if yWord.lower() not in fillers]
+
         for i in range(0, len(datum)):
             if i % 2 == 0:
                 xValueArr.append(datum[i].split('|')[1])
             else:
                 yValueArr.append(datum[i].split('|')[1])
         tokens = generated.split()
+        entities = getNamedEntity(title, xValueArr)
+        # titleEntities = [word[0].lower() for word in entities.values() if len(word) > 0]
+        titleArr = [word for word in title.split() if word.lower() not in fillers]
+        # titleArr = [word for word in titleArr if word.lower() not in titleEntities]
         for token, i in zip(tokens, range(0, len(tokens))):
             if i < (len(tokens) - 1):
                 if tokens[i] == tokens[i + 1]:
@@ -88,44 +139,67 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                     tokens.pop(i + 1)
             if 'template' in token:
                 index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
-                if 'templateTitle' in token:
-                    titleArr = [word for word in title.split() if word.lower() not in fillers]
-                    index = mapIndex(index, titleArr)
-                    try:
-                        replacedToken = titleArr[index]
-                    except:
-                        replacedToken = ''#'titleErr'# titleArr[len(titleArr) - 1]
-                elif 'templateXValue' in token:
+                if 'templateXValue' in token:
                     index = mapIndex(index, xValueArr)
                     try:
-                        replacedToken = xValueArr[index]
+                        replacedToken = xValueArr[index].replace('_', ' ')
                     except:
-                        replacedToken = ''#'xValErr'# xValueArr[len(xValueArr) - 1]
+                        replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
                 elif 'templateYValue' in token:
                     index = mapIndex(index, yValueArr)
                     try:
-                        replacedToken = yValueArr[index]
+                        replacedToken = yValueArr[index].replace('_', ' ')
                     except:
-                        replacedToken = ''#'yValErr'# yValueArr[len(yValueArr) - 1]
+                        replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
                 elif 'templateXLabel' in token:
                     index = mapIndex(index, cleanXLabel)
                     try:
                         replacedToken = cleanXLabel[index]
                     except:
-                        replacedToken = ''#'xLabelErr'# cleanXLabel[len(cleanXLabel) - 1]
+                        replacedToken = cleanXLabel[len(cleanXLabel) - 1]
                 elif 'templateYLabel' in token:
                     index = mapIndex(index, cleanYLabel)
                     try:
                         replacedToken = cleanYLabel[index]
                     except:
-                        replacedToken = ''#'yLabelErr'# cleanYLabel[len(cleanYLabel) - 1]
+                        replacedToken = cleanYLabel[len(cleanYLabel) - 1]
+                elif 'templateTitleSubject' in token:
+                    # print(entities['Subject'][int(index)], index)
+                    try:
+                        replacedToken = entities['Subject'][int(index)]
+                    except:
+                        replacedToken = entities['Subject'][len(entities['Subject']) - 1]
+                elif 'templateTitleDate' in token:
+                    # print(entities['Date'][int(index)], index)
+                    try:
+                        replacedToken = entities['Date'][int(index)]
+                    except:
+                        if len(entities['Date']) > 0:
+                            replacedToken = entities['Date'][len(entities['Date']) - 1]
+                        else:
+                            replacedToken = ''
+                elif 'templateTitle' in token:
+                    index = mapIndex(index, titleArr)
+                    try:
+                        replacedToken = titleArr[index]
+                    except:
+                        replacedToken = titleArr[len(titleArr) - 1]
             else:
                 replacedToken = token
-            reversedArr.append(replacedToken)
-        reverse = (' ').join(reversedArr)
-        print(f'Example {count}:\ndata: {data}title: {title}\ngold: {gold}gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n')
-        comparisonFile.write(
-            f'Example {count}:\ndata: {data}title: {title}\ngold: {gold}gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n\n')
+            if i > 1:
+                if replacedToken.lower() != reversedArr[-1].lower():
+                    reversedArr.append(replacedToken)
+                else:
+                    print(f'dupe: {replacedToken}')
+            else:
+                reversedArr.append(replacedToken)
+        # remove empty items
+        reversedArr = [item for item in reversedArr if item != '']
+        reverse = ' '.join(reversedArr)
+        comparison = f'Example {count}:\ntitleEntities: {entities}\ntitle: {title}X_Axis{xLabel}: {xValueArr}\nY_Axis{yLabel}: {yValueArr}\n\ngold: {gold}' \
+                     f'gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n'
+        print(comparison)
+        comparisonFile.write(comparison)
         outputFile.write(f'{reverse}\n')
 
 

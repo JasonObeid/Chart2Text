@@ -300,11 +300,10 @@ class TransformerEncoder(nn.Module):
         assert self.dim % self.n_heads == 0, 'transformer dim must be a multiple of n_heads'
 
         # embeddings
-        # TODO remove the hardcode number
         if params.encoder_positional_emb:
-            self.position_embeddings = Embedding(800, self.dim)
+            self.position_embeddings = Embedding(N_MAX_POSITIONS, self.dim)
             if params.sinusoidal_embeddings:
-                create_sinusoidal_embeddings(800, self.dim, out=self.position_embeddings.weight)
+                create_sinusoidal_embeddings(N_MAX_POSITIONS, self.dim, out=self.position_embeddings.weight)
         self.embeddings = Embedding(self.n_words, self.emb_dim, padding_idx=self.pad_index)
         self.layer_norm_emb = nn.LayerNorm(self.dim, eps=1e-12)
 

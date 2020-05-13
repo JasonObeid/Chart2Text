@@ -300,6 +300,8 @@ for i in range(len(dataFiles)):
     df, cols, size, xAxis, yAxis, chartType = openData(dataPath)
     cleanXAxis = cleanAxisLabel(xAxis)
     cleanYAxis = cleanAxisLabel(yAxis)
+    # if cleanYAxis.split('_') == ['Current', 'year', '(as', 'of', 'January', '25,', '2020)']:
+    #    print(dataPath)
     dataLine = ''
     summaryLabelLine = ""
     xValueArr = []

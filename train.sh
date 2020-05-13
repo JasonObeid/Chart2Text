@@ -29,15 +29,16 @@ python model/train.py \
     --sm_step_with_cs_proba False \
     --share_inout_emb True \
     --share_srctgt_emb False \
-    --sinusoidal_embeddings False \
     --emb_dim 512 \
     --enc_n_layers 1 \
     --dec_n_layers 6 \
     --dropout 0.1 \
-    --save_periodic 25 \
+    --save_periodic 40 \
     --batch_size 6 \
     --beam_size 4 \
     --epoch_size 1000 \
-    --max_epoch 120 \
+    --max_epoch 81 \
     --eval_bleu True \
+    --sinusoidal_embeddings True \
+    --encoder_positional_emb True \
     --validation_metrics valid_mt_bleu
