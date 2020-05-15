@@ -29,17 +29,17 @@ python model/train.py \
     --sm_step_with_cs_proba False \
     --share_inout_emb True \
     --share_srctgt_emb False \
-    --emb_dim 512 \
-    --enc_n_layers 1 \
+    --emb_dim 1024 \
+    --enc_n_layers 12 \
     --dec_n_layers 6 \
+    --n_heads 16 \
     --dropout 0.1 \
-    --save_periodic  \
+    --save_periodic 40 \
     --batch_size 6 \
     --beam_size 4 \
     --epoch_size 1000 \
-    --max_epoch 300 \
+    --max_epoch 80 \
     --eval_bleu True \
     --sinusoidal_embeddings True \
     --encoder_positional_emb True \
-    --validation_metrics valid_mt_bleu \
-    --reload_checkpoint experiments/chart2text/run1/checkpoint.pth
+    --validation_metrics valid_mt_bleu

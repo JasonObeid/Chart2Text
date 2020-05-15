@@ -1,10 +1,11 @@
 line_chart	15634
-x	12476
-y	12476
+Numerical	12476
 bar_chart	9318
 Year	7817
+Ordinal	7817
+Nominal	4659
 Country	1126
-Month	936
+Month	926
 Share_of_respondents	657
 Quarter	569
 Unemployment_rate	548
@@ -623,6 +624,7 @@ New_Mexico	10
 Iowa	10
 Nebraska	10
 59	10
+Calendar	10
 Current_year_(as_of_January_25,_2020)	10
 1.3	10
 Residents_in_million	10
