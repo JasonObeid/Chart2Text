@@ -1,0 +1,35 @@
+Example 492:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['1900', '2016']}
+title: Earthquakes that caused the most economic damage in the U.S. 1900 to 2016
+X_Axis['Date,', 'Location']: ['January_17_1994_Los_Angeles', 'October_18_1989_San_Francisco', 'February_28_2001_Seattle', 'March_28_1964_Prince_William_Sound', 'August_24_2014_San_Francisco_California', 'February_9_1971_Los_Angeles', 'April_18_1906_San_Francisco', 'October_1_1987_Los_Angeles', 'December_22_2003_San_Robbles_(California)', 'October_15_2006_Hawai_Island', 'June_28_1992_Landers_California', 'April_22_1992_South_California']
+Y_Axis['Damage', 'in', 'million', 'U.S.', 'dollars']: ['30000', '5600', '2000', '1020', '700', '535', '524', '213', '200', '150', '100', '100']
+
+gold: The statistic shows the earthquakes that resulted in the most economic damage in the United States from 1900 to 2016 . The earthquake that occurred on January 17 , 1994 in Los Angeles caused approximately 30 billion U.S. dollars worth of damage and is the costliest earthquake on record .
+gold_template: The statistic shows the templateTitle[0] templateTitle[1] resulted in the templateTitle[3] templateTitle[4] templateYLabel[0] in the templateTitle[6] from templateTitleDate[0] to templateTitleDate[1] . The earthquake templateTitle[1] occurred on templateXValue[0] templateXValue[0] , templateXValue[0] in templateXValue[0] templateXValue[0] templateTitle[2] approximately templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] worth of templateYLabel[0] and is the costliest earthquake on record .
+
+generated_template: The statistic illustrates the templateYLabel[0] of templateTitle[6] templateTitle[7] templateTitle[8] individuals in the biggest metropolitan templateTitle[3] of the templateTitle[0] in templateTitleDate[0] . In templateTitleDate[0] , the metropolitan area of templateXValue[0] templateXValue[0] had about templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+generated: The statistic illustrates the Damage of U.S. 1900 2016 individuals in the biggest metropolitan most of the Earthquakes in 1900 . In 1900 , the metropolitan area of January 17 1994 Los Angeles had about 30000 million U.S. dollars .
+
+Example 494:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2014']}
+title: U.S. consumers ' purchase location of shampoos and conditioners 2014
+X_Axis['Response']: ['"Big_Box"_retail_store_(e.g._Walmart_Target)', 'Grocery_store/Supermarket', 'Pharmacy_(e.g._CVS_Walgreens)', 'Online_(Net)', 'Online_mass_merchandiser_(e.g._Amazon_drugstore.com)', "Department_Stores_(e.g._Macy's_Nordstrom)", 'In-person_at_a_specialty_beauty_products_merchant_(e.g._Sephora)', 'Online_specialty_beauty_products_merchant_(e.g._Sephora_Ultra)', 'In-person/not_in_a_store_(e.g._Avon_Mary_Kay)', 'Online_through_a_"sampling"_membership_program_(e.g._Ipsy_Birchbox)', "Online_through_a_specific_brand's_website_(e.g._Clairol_CoverGirl)", 'Somewhere_else']
+Y_Axis['Share', 'of', 'respondents']: ['62', '36', '31', '12', '8', '5', '4', '3', '2', '1', '1', '10']
+
+gold: This statistic presents the results of a survey among U.S. adult consumers . The survey was fielded online by Harris Interactive in June 2014 , asking the respondents where they usually purchase their shampoo and/or conditioners . Some 12 percent of U.S. adults indicated that they buy their shampoo/conditioner online .
+gold_template: This statistic presents the results of a survey among templateTitleSubject[0] adult templateTitle[1] . The survey was fielded templateXValue[3] by Harris Interactive in June templateTitleDate[0] , asking the templateYLabel[1] where they usually templateTitle[3] their shampoo and/or templateTitle[6] . Some templateYValue[3] percent of templateTitleSubject[0] adults indicated that they buy their shampoo/conditioner templateXValue[3] .
+
+generated_template: This statistic presents data on the psychological templateTitleSubject[0] of women templateXValue[5] templateXValue[0] templateXValue[0] or templateXValue[0] worldwide . During the July templateTitleDate[0] survey period , templateYValue[max] percent of survey templateYLabel[1] who have experienced templateXValue[0] templateXValue[0] stated that they felt a templateXValue[0] of templateXValue[0] in their templateXValue[0] to templateXValue[0] to templateXValue[0] or templateXValue[0] templateXValue[0] . A total of templateYValue[1] percent of templateXValue[0] templateXValue[0] templateTitle[5] also reported to templateXValue[1] templateXValue[1] templateXValue[1] to templateXValue[1] templateXValue[1] .
+generated: This statistic presents data on the psychological U.S. of women Department Stores (e.g. Macy's Nordstrom) "Big Box" retail store (e.g. Walmart Target) or "Big Box" retail store (e.g. Walmart Target) worldwide . During the July 2014 survey period , 62 percent of survey respondents who have experienced "Big Box" retail store (e.g. Walmart Target) stated that they felt a "Big Box" retail store (e.g. Walmart Target) of "Big Box" retail store (e.g. Walmart Target) in their "Big Box" retail store (e.g. Walmart Target) to "Big Box" retail store (e.g. Walmart Target) to "Big Box" retail store (e.g. Walmart Target) or "Big Box" retail store (e.g. Walmart Target) . A total of 36 percent of "Big Box" retail store (e.g. Walmart Target) shampoos also reported to Grocery store/Supermarket to Grocery store/Supermarket .
+
+Example 495:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2019']}
+title: Leading U.S. states in sunflower production 2019
+X_Axis['State']: ['South_Dakota', 'North_Dakota', 'Minnesota', 'California', 'Colorado', 'Kansas', 'Nebraska', 'Texas']
+Y_Axis['Production', 'in', 'thousand', 'pounds']: ['831600', '740700', '102630', '70680', '59400', '53925', '44850', '39650']
+
+gold: The U.S. state with the highest production volume of sunflowers is South Dakota at 831.6 million pounds in 2019 . North Dakota came in second at 740.7 million pounds of sunflowers . Sunflower products There are several products that are derived from sunflowers .
+gold_template: The templateTitleSubject[0] templateXLabel[0] with the highest templateYLabel[0] volume of sunflowers is templateXValue[0] templateXValue[0] at templateYValue[max] templateYLabel[1] templateYLabel[2] in templateTitleDate[0] . templateXValue[1] templateXValue[0] came in second at templateYValue[1] templateYLabel[1] templateYLabel[2] of sunflowers . templateTitle[3] products There are several products that are derived from sunflowers .
+
+generated_template: This statistic shows the templateYLabel[0] of templateTitle[0] templateYLabel[1] templateYLabel[2] in templateTitle[4] templateTitle[5] in templateTitleSubject[0] templateTitle[7] in templateTitleDate[0] , templateTitle[7] templateXLabel[0] . In that year , there were approximately templateYValue[2] templateYLabel[3] templateYLabel[1] templateYLabel[2] in templateTitle[6] .
+generated: This statistic shows the Production of Leading thousand pounds in production 2019 in U.S. 2019 in 2019 , 2019 State . In that year , there were approximately 102630 pounds thousand pounds in 2019 .

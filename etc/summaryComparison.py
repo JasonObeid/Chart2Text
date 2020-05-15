@@ -2,15 +2,26 @@ import spacy
 import en_core_web_md
 import re
 
-generatedPath = '../results/may11/templateOutput_511_beam=4_batch=8.txt'
+generatedPath = '../results/may13/templateOutput_513p80_beam=4_batch=8.txt'
 goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/may11/summaryComparison511-p100_beam4_batch8.txt'
-outputPath = '../results/may11/generated-511-p100.txt'
+comparisonPath = '../results/may13/summaryComparison513-p80_beam4_batch8.txt'
+outputPath = '../results/may13/generated-513-p80.txt'
 
 nlp = spacy.load('en_core_web_md')
+from fitbert import FitBert
+
+# currently supported models: bert-large-uncased and distilbert-base-uncased
+# this takes a while and loads a whole big BERT into memory
+fb = FitBert()
+
+
+def askBert(masked_string, options):
+    ranked_options = fb.rank(masked_string, options)
+    print(ranked_options)
+    return ranked_options[0]
 
 
 def getNamedEntity(title, xValueArr):
@@ -131,71 +142,83 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
         # titleEntities = [word[0].lower() for word in entities.values() if len(word) > 0]
         titleArr = [word for word in title.split() if word.lower() not in fillers]
         # titleArr = [word for word in titleArr if word.lower() not in titleEntities]
-        for token, i in zip(tokens, range(0, len(tokens))):
-            if i < (len(tokens) - 1):
-                if tokens[i] == tokens[i + 1]:
-                    print(f'1:{tokens[i]} 2:{tokens[i + 1]}')
-                    print(f'popped: {tokens[i + 1]}')
-                    tokens.pop(i + 1)
-            if 'template' in token:
-                index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
-                if 'templateXValue' in token:
-                    index = mapIndex(index, xValueArr)
-                    try:
-                        replacedToken = xValueArr[index].replace('_', ' ')
-                    except:
-                        replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
-                elif 'templateYValue' in token:
-                    index = mapIndex(index, yValueArr)
-                    try:
-                        replacedToken = yValueArr[index].replace('_', ' ')
-                    except:
-                        replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
-                elif 'templateXLabel' in token:
-                    index = mapIndex(index, cleanXLabel)
-                    try:
-                        replacedToken = cleanXLabel[index]
-                    except:
-                        replacedToken = cleanXLabel[len(cleanXLabel) - 1]
-                elif 'templateYLabel' in token:
-                    index = mapIndex(index, cleanYLabel)
-                    try:
-                        replacedToken = cleanYLabel[index]
-                    except:
-                        replacedToken = cleanYLabel[len(cleanYLabel) - 1]
-                elif 'templateTitleSubject' in token:
-                    # print(entities['Subject'][int(index)], index)
-                    try:
-                        replacedToken = entities['Subject'][int(index)]
-                    except:
-                        replacedToken = entities['Subject'][len(entities['Subject']) - 1]
-                elif 'templateTitleDate' in token:
-                    # print(entities['Date'][int(index)], index)
-                    try:
-                        replacedToken = entities['Date'][int(index)]
-                    except:
-                        if len(entities['Date']) > 0:
-                            replacedToken = entities['Date'][len(entities['Date']) - 1]
-                        else:
-                            replacedToken = ''
-                elif 'templateTitle' in token:
-                    index = mapIndex(index, titleArr)
-                    try:
-                        replacedToken = titleArr[index]
-                    except:
-                        replacedToken = titleArr[len(titleArr) - 1]
-            else:
-                replacedToken = token
-            if i > 1:
-                if replacedToken.lower() != reversedArr[-1].lower():
-                    reversedArr.append(replacedToken)
+        for sentence in generated.split(' . '):
+            reversedSentence = []
+            sentence = sentence.split()
+            maskList = []
+            for token, i in zip(sentence, range(0, len(sentence))):
+                if i < (len(tokens) - 1):
+                    if tokens[i] == tokens[i + 1]:
+                        print(f'1:{tokens[i]} 2:{tokens[i + 1]}')
+                        print(f'popped: {tokens[i + 1]}')
+                        tokens.pop(i + 1)
+                if 'template' in token:
+                    index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
+                    if 'templateXValue' in token:
+                        index = mapIndex(index, xValueArr)
+                        try:
+                            replacedToken = xValueArr[index].replace('_', ' ')
+                        except:
+                            replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
+                    elif 'templateYValue' in token:
+                        index = mapIndex(index, yValueArr)
+                        try:
+                            replacedToken = yValueArr[index].replace('_', ' ')
+                        except:
+                            replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
+                    elif 'templateTitleSubject' in token:
+                        # print(entities['Subject'][int(index)], index)
+                        try:
+                            replacedToken = entities['Subject'][int(index)]
+                        except:
+                            replacedToken = entities['Subject'][len(entities['Subject']) - 1]
+                    elif 'templateTitleDate' in token:
+                        # print(entities['Date'][int(index)], index)
+                        try:
+                            replacedToken = entities['Date'][int(index)]
+                        except:
+                            if len(entities['Date']) > 0:
+                                replacedToken = entities['Date'][len(entities['Date']) - 1]
+                            else:
+                                replacedToken = ''
+                    elif 'templateTitle' in token:
+                        replacedToken = token
+                        maskList.append([titleArr, i])
+                    elif 'templateXLabel' in token:
+                        replacedToken = token
+                        maskList.append([cleanXLabel, i])
+                    elif 'templateYLabel' in token:
+                        replacedToken = token
+                        maskList.append([cleanYLabel, i])
                 else:
-                    print(f'dupe: {replacedToken}')
-            else:
-                reversedArr.append(replacedToken)
+                    replacedToken = token
+                if i > 1:
+                    # check if replaced token is a duplicate
+                    if replacedToken.lower() != reversedSentence[-1].lower():
+                        reversedSentence.append(replacedToken)
+                    else:
+                        print(f'dupe removed: {replacedToken}')
+                else:
+                    reversedSentence.append(replacedToken)
+            reversedSentence = [item for item in reversedSentence if item != '']
+            # reversedSentence = ' '.join(reversedSentence)
+            for mask in maskList:
+                print(reversedSentence)
+                options = mask[0]
+                index = mask[1]
+                print(options)
+                reversedSentence[index] = '***mask***'
+                masked_string = ' '.join(reversedSentence)
+                print(masked_string)
+                newToken = askBert(masked_string, options)
+                print(newToken)
+                reversedSentence[index] = newToken
+                print(reversedSentence)
+                print('')
+            reversedArr.append(' '.join(reversedSentence))
         # remove empty items
-        reversedArr = [item for item in reversedArr if item != '']
-        reverse = ' '.join(reversedArr)
+        reversedArr = [sentence for sentence in reversedArr if sentence != '']
+        reverse = ' . '.join(reversedArr)
         comparison = f'Example {count}:\ntitleEntities: {entities}\ntitle: {title}X_Axis{xLabel}: {xValueArr}\nY_Axis{yLabel}: {yValueArr}\n\ngold: {gold}' \
                      f'gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n'
         print(comparison)

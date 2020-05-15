@@ -308,8 +308,12 @@ for i in range(len(dataFiles)):
     yValueArr = []
     # iterate through each table row
     for i in range(0, size):
-        xDataType = "x"
-        yDataType = "y"
+        if chartType == 'line_chart':
+            xDataType = "Ordinal"
+            yDataType = "Numerical"
+        else:
+            xDataType = "Nominal"
+            yDataType = "Numerical"
 
         xValue = str(df.at[i, xAxis])
         yValue = str(df.at[i, yAxis])
@@ -357,6 +361,7 @@ for i in range(len(dataFiles)):
         entities['Subject'].append(guessedSubject)
     entityArr.append(entities)
     for token, i in zip(captionTokens, range(0, len(captionTokens))):
+        # check for duplicates before token replacement
         if i < len(captionTokens) - 1:
             if captionTokens[i] == captionTokens[i + 1]:
                 captionTokens.pop(i + 1)
@@ -367,6 +372,10 @@ for i in range(len(dataFiles)):
             if tokenBool == 1:
                 captionTokens[i] = newToken
                 captionMatchCount += 1
+        # check for duplicates after token replacement
+        if i > 0:
+            if captionTokens[i - 1] == captionTokens[i]:
+                captionTokens.pop(i)
         else:
             tokenBool = 0
         labelMap.append(str(tokenBool))

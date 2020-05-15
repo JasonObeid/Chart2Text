@@ -30,14 +30,14 @@ python3 model/train.py \
     --validation_metrics valid_mt_bleu
 
 
-python3 model/summarize.py --model_path MAY11-100.pth --table_path data/test/testData.txt \
---output_path results/templateOutput_511_beam=4_batch=8TEST.txt --beam_size 4 --batch_size 8
+python3 model/summarize.py --model_path MAY13-330.pth --table_path data/test/testData.txt \
+--output_path results/may13/templateOutput_513p330_beam=4_batch=8.txt --beam_size 4 --batch_size 8
 
 
 python3 model/summarize.py --model_path periodic-75.pth --table_path data_testing/trainData.txt \
 --output_path data_testing/504Test_beam=4_batch=8.txt --beam_size 4 --batch_size 8
 
-perl scripts/model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/may11/generated-511-p100.txt
+perl model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/may13/generated-513-p330.txt
 
 May 06:
 200 epochs:
@@ -52,6 +52,13 @@ BLEU = 23.33, 56.5/31.1/22.0/17.4 (BP=0.815, ratio=0.831, hyp_len=34147, ref_len
 
 May 13:
 BLEU = 23.65, 56.4/31.1/21.9/17.3 (BP=0.828, ratio=0.841, hyp_len=34572, ref_len=41116)
+
+May 14: positional embeddings
+BLEU = 22.17, 47.0/23.8/16.5/13.0 (BP=1.000, ratio=1.044, hyp_len=42936, ref_len=41116)
+
+may 15: train to epoch 330 to see if it improves
+fluency decreases, accuracy is hit/miss
+BLEU = 20.72, 45.7/22.6/15.3/11.7 (BP=1.000, ratio=1.055, hyp_len=43385, ref_len=41116)
 
 
 

@@ -33,12 +33,13 @@ python model/train.py \
     --enc_n_layers 1 \
     --dec_n_layers 6 \
     --dropout 0.1 \
-    --save_periodic 40 \
+    --save_periodic  \
     --batch_size 6 \
     --beam_size 4 \
     --epoch_size 1000 \
-    --max_epoch 81 \
+    --max_epoch 300 \
     --eval_bleu True \
     --sinusoidal_embeddings True \
     --encoder_positional_emb True \
-    --validation_metrics valid_mt_bleu
+    --validation_metrics valid_mt_bleu \
+    --reload_checkpoint experiments/chart2text/run1/checkpoint.pth

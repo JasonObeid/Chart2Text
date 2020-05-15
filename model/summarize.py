@@ -137,12 +137,12 @@ def main(params):
             delimiters = (sent == params.eos_index).nonzero().view(-1)
             assert len(delimiters) >= 1 and delimiters[0].item() == 0
             sent = sent[1:] if len(delimiters) == 1 else sent[1:delimiters[1]]
-
+            print(sent)
             # output translation
             source = table_lines[i + j].strip()
             # print(source)
             tokens = [target_dico[sent[k].item()] for k in range(len(sent))]
-            print(tokens)
+            # print(tokens)
             target = " ".join(tokens)
             sys.stderr.write("%i / %i: %s\n" % (i + j, len(table_lines), target))
             outf.write(target + "\n")
