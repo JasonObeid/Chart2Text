@@ -36,7 +36,7 @@ python model/train.py \
     --save_periodic 40 \
     --batch_size 6 \
     --beam_size 4 \
-    --epoch_size 100 \
+    --epoch_size 1000 \
     --max_epoch 81 \
     --eval_bleu True \
     --sinusoidal_embeddings True \
