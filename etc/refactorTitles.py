@@ -49,7 +49,9 @@ for summaryPath in titlePaths:
                         cleanTitle[-2] = 'to'
                 newTitlePath = '../dataset/titles/' + summaryPath
                 with open(newTitlePath, "w") as outf:
-                        outf.write("{}\n".format(' '.join(cleanTitle)))
+                        # remove asterisks
+                        cleanTitle = ' '.join(cleanTitle).replace('*', '')
+                        outf.write("{}\n".format(cleanTitle))
                 outf.close()
                 # uppercaseWords = [word for word in cleanTitle if word[0].isupper()]
                 # newTitle = addUnderscores(cleanTitle, uppercaseWords)

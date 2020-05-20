@@ -36,10 +36,12 @@ python model/train.py \
     --save_periodic 40 \
     --batch_size 6 \
     --beam_size 4 \
-    --epoch_size 1000 \
+    --epoch_size 100 \
     --max_epoch 81 \
     --eval_bleu True \
     --sinusoidal_embeddings True \
     --encoder_positional_emb True \
     --gelu_activation True \
-    --validation_metrics valid_mt_bleu
+    --validation_metrics valid_mt_bleu \
+    --lm_step True
+    --lambda_lm = "1"

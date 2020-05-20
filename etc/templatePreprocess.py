@@ -6,14 +6,14 @@ import re
 import spacy
 from spacy import displacy
 from collections import Counter
-import en_core_web_lg
+import en_core_web_md
 
 import nltk
 import pandas as pd
 from text_to_num import text2num
 # import random
-nlp = spacy.load('en_core_web_lg')
-#nltk.download('punkt')
+nlp = spacy.load('en_core_web_md')
+nltk.download('punkt')
 
 def getChartType(x):
     if x.lower() == 'year':
@@ -70,8 +70,11 @@ def adjustDataLabel(bool, axis, index):
 
 def compareToken(captionTokens, index, titleTokens, xValueArr,
                  yValueArr, cleanXAxis, cleanYAxis, entities):
-    # check if numbers are in thousands, millions, billions, trillions
-    # check if token in chart values
+    #check if last token was an un-templated month
+    if index > 0:
+        lastToken = captionTokens[index - 1]
+        if lastToken.lower() in months or lastToken == 'May':
+            captionTokens.pop(index - 1)
     token = captionTokens[index].replace(',', '').lower()
     if is_word_number(token):
         token = str(text2num(token, 'en'))
@@ -158,11 +161,6 @@ def compareToken(captionTokens, index, titleTokens, xValueArr,
                 captionTokens[index] = f'templateTitle[{usIndex}]'
                 return [1, f'templateTitle[{usIndex}]']
     return [0, token]
-            #else:
-                #captionTokens.pop(index + 1)
-                #captionTokens[index]
-    # if is_number(token):
-    # print(f'no match for number: {token}, line: {captionTokens}')
 
 
 
@@ -284,9 +282,10 @@ oldSummaryArr = []
 dataRatioArr = []
 captionRatioArr = []
 
-entityArr = []
-
 assert len(captionFiles) == len(dataFiles) == len(titleFiles)
+
+#may implemented seperately to avoid accidentally ignoring the word rather than month
+months = ['january', 'february', 'march', 'april', 'june', 'july', 'august', 'september', 'november', 'december']
 
 fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
            'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']
@@ -359,7 +358,7 @@ for i in range(len(dataFiles)):
         else:
             guessedSubject = uppercaseWords[0]
         entities['Subject'].append(guessedSubject)
-    entityArr.append(entities)
+
     for token, i in zip(captionTokens, range(0, len(captionTokens))):
         # check for duplicates before token replacement
         if i < len(captionTokens) - 1:
@@ -491,7 +490,7 @@ plt.close('all')
 plt.hist(captionRatioArr, 6)
 plt.savefig('../data/caption.png')
 plt.close('all')
-
+"""
 with open('../data/fineTune/data.txt', mode='wt', encoding='utf8') as myfile14, \
         open('../data/fineTune/dataLabel.txt', mode='wt', encoding='utf8') as myfile15, \
         open('../data/fineTune/summary.txt', mode='wt', encoding='utf8') as myfile16, \
@@ -502,7 +501,7 @@ with open('../data/fineTune/data.txt', mode='wt', encoding='utf8') as myfile14, 
             myfile15.writelines(dataLabelArr[i] + "\n")
             myfile16.writelines(summaryArr[i])
             myfile17.writelines(summaryLabelArr[i] + "\n")
-
+"""
     # tokenVector = nlp(token)
     # xVector =
     # xSimilarity = tokenVector.similarity()

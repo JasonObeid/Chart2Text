@@ -27,7 +27,7 @@ python3 model/train.py \
     --epoch_size 1000 \
     --max_epoch 121 \
     --eval_bleu True \
-    --validation_metrics valid_mt_bleu
+    --validation_metrics _cs_f1
 
 
 python3 model/summarize.py --model_path may13-220.pth --table_path data/test/testData.txt \

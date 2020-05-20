@@ -42,9 +42,18 @@ for summaryPath in summaryPaths:
         with open('../dataset/captions_old/'+summaryPath, 'r', encoding='utf-8') as summaryFile:
                 summary = summaryFile.read()
                 cleanCaption = tkn.word_tokenize(summary)
+                #for token, i in zip(cleanCaption, range(0,len(cleanCaption))):
+                        #remove anything in brackets
+                        #if i < len(cleanCaption) - 2:
+                        #        if cleanCaption[i] == '(' and cleanCaption[i+1].isalnum() and cleanCaption[i+2] == ')':
+                        #                print(cleanCaption)
+                        #                del cleanCaption[i:i+3]
+                        #                print(cleanCaption)
+                                        #print(f'found brackets at {cleanCaption[i], cleanCaption[i+1], cleanCaption[i+2]}')
                 newSummaryPath = '../dataset/captions/'+summaryPath
                 with open(newSummaryPath, "w") as outf:
-                    outf.write("{}\n".format(' '.join(cleanCaption)))
+                    cleanCaption = ' '.join(cleanCaption).replace('*','')
+                    outf.write("{}\n".format(cleanCaption))
                 outf.close()
                 #newSentences = []
                 #for sentence in ' '.join(cleanCaption).split(' . '):
