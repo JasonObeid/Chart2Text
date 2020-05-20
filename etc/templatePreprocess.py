@@ -6,13 +6,13 @@ import re
 import spacy
 from spacy import displacy
 from collections import Counter
-import en_core_web_md
+import en_core_web_lg
 
 import nltk
 import pandas as pd
 from text_to_num import text2num
 # import random
-nlp = spacy.load('en_core_web_md')
+nlp = spacy.load('en_core_web_lg')
 #nltk.download('punkt')
 
 def getChartType(x):

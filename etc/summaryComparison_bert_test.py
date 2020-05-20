@@ -1,25 +1,28 @@
 import spacy
-import en_core_web_md
+import en_core_web_lg
 import re
+import transformers
+from transformers import DistilBertForMaskedLM, RobertaForMaskedLM
+from fitbert.fitb import FitBert
 
-generatedPath = '../results/may13/templateOutput_513p80_beam=4_batch=8.txt'
+generatedPath = '../results/may13/templateOutput_513p220_beam=4_batch=8.txt'
 goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/may13/summaryComparison513-p80_beam4_batch8.txt'
-outputPath = '../results/may13/generated-513-p80.txt'
+comparisonPath = '../results/may13/summaryComparison513-p220_beam4_batch82.txt'
+outputPath = '../results/may13/generated-513-p2202.txt'
 
-nlp = spacy.load('en_core_web_md')
-from fitbert import FitBert
+nlp = spacy.load('en_core_web_lg')
+
 
 # currently supported models: bert-large-uncased and distilbert-base-uncased
 # this takes a while and loads a whole big BERT into memory
-fb = FitBert()
-
+BLM = RobertaForMaskedLM.from_pretrained('../fitbert/roberta')
+fb = FitBert(model=BLM)
 
 def askBert(masked_string, options):
-    ranked_options = fb.rank(masked_string, options)
+    ranked_options = fb.rank(masked_string, options, with_prob=True)
     print(ranked_options)
     return ranked_options[0]
 
@@ -183,14 +186,26 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                             else:
                                 replacedToken = ''
                     elif 'templateTitle' in token:
-                        replacedToken = token
+                        index = mapIndex(index, titleArr)
                         maskList.append([titleArr, i])
+                        try:
+                            replacedToken = titleArr[index]
+                        except:
+                            replacedToken = titleArr[len(titleArr) - 1]
                     elif 'templateXLabel' in token:
-                        replacedToken = token
+                        index = mapIndex(index, cleanXLabel)
                         maskList.append([cleanXLabel, i])
+                        try:
+                            replacedToken = cleanXLabel[index]
+                        except:
+                            replacedToken = cleanXLabel[len(cleanXLabel) - 1]
                     elif 'templateYLabel' in token:
-                        replacedToken = token
+                        index = mapIndex(index, cleanYLabel)
                         maskList.append([cleanYLabel, i])
+                        try:
+                            replacedToken = cleanYLabel[index]
+                        except:
+                            replacedToken = cleanYLabel[len(cleanYLabel) - 1]
                 else:
                     replacedToken = token
                 if i > 1:
@@ -202,12 +217,14 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                 else:
                     reversedSentence.append(replacedToken)
             reversedSentence = [item for item in reversedSentence if item != '']
+            print(reversedSentence)
             # reversedSentence = ' '.join(reversedSentence)
             for mask in maskList:
-                print(reversedSentence)
                 options = mask[0]
                 index = mask[1]
-                print(options)
+                #if len(mask) > 0:
+                #    popThese = [mask[1] for mask in maskList if index != mask[1]]
+                #    print(popThese)
                 reversedSentence[index] = '***mask***'
                 masked_string = ' '.join(reversedSentence)
                 print(masked_string)
