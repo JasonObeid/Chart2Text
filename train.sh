@@ -41,5 +41,5 @@ python model/train.py \
     --eval_bleu True \
     --sinusoidal_embeddings True \
     --encoder_positional_emb True \
-    --gelu_activation False \
+    --gelu_activation True \
     --validation_metrics valid_mt_bleu
