@@ -11,7 +11,7 @@ virtualenv --no-download $SLURM_TMPDIR/env
 source $SLURM_TMPDIR/env/bin/activate
 pip install torch==1.4.0 --no-index
 pip install numpy --no-index
-python model/train.py \
+python3 model/train.py \
     --model_path "experiments" \
     --exp_name "chart2text" \
     --exp_id "run1" \
@@ -36,10 +36,14 @@ python model/train.py \
     --save_periodic 40 \
     --batch_size 6 \
     --beam_size 4 \
-    --epoch_size 1000 \
+    --epoch_size 50 \
     --max_epoch 81 \
     --eval_bleu True \
     --sinusoidal_embeddings True \
     --encoder_positional_emb True \
     --gelu_activation True \
-    --validation_metrics valid_mt_bleu
+    --validation_metrics valid_mt_bleu \
+    --lm_step True \
+    --lambda_lm 1
+
+    # --eval_cs True

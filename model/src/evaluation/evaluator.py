@@ -130,13 +130,74 @@ class Evaluator(object):
 
         with torch.no_grad():
             for data_set in test_list:
-                self.evaluate_clm(scores, data_set)
                 if params.encoder_only:
+                    self.evaluate_clm(scores, data_set)
+                    self.evaluate_clm(scores, 'train')
                     self.evaluate_cs(scores, data_set)
                     self.evaluate_cs(scores, 'train')
                 else:
                     self.evaluate_mt(scores, data_set, params.eval_bleu)
         return scores
+
+    def evaluate_clm(self, scores, data_set):
+        """
+        Evaluate perplexity and next word prediction accuracy.
+        """
+        params = self.params
+        assert data_set in test_list or data_set == 'train'
+
+        self.encoder.eval()
+        encoder = self.encoder
+        params = params
+
+        n_words = 0
+        xe_loss = 0
+        n_valid = 0
+
+        for batch in self.get_iterator('lm', data_set):
+            # generate batch
+            (table_entities, table_types, table_values, table_feats, table_labels) = batch
+            x1, lengths = table_entities
+            x2, _ = table_types
+            x3, _ = table_values
+            x4, _ = table_feats
+            y, _ = table_labels
+
+            bs = lengths.size(0)
+            if bs == 1:  # can happen (although very rarely), which makes the negative loss fail
+                self.n_sentences += params.batch_size
+                return
+
+            # cuda
+            if params.cuda:
+                x1, x2, x3, x4, lengths, y = to_cuda(x1, x2, x3, x4, lengths, y)
+
+            # words to predict
+            alen = torch.arange(lengths.max(), dtype=torch.long, device=lengths.device)
+            pred_mask = alen[:, None] < lengths[None] - 1
+            y = x[1:].masked_select(pred_mask[:-1])
+            assert pred_mask.sum().item() == y.size(0)
+
+            # cuda
+            x, lengths, positions, langs, pred_mask, y = to_cuda(x, lengths, positions, langs, pred_mask, y)
+
+            # forward / loss
+            tensor = encoder('fwd', x=x, lengths=lengths, positions=positions, langs=langs, causal=True)
+            word_scores, loss = encoder('predict', tensor=tensor, pred_mask=pred_mask, y=y, get_scores=True)
+
+            # update stats
+            n_words += y.size(0)
+            xe_loss += loss.item() * len(y)
+            n_valid += (word_scores.max(1)[1] == y).sum().item()
+
+        # log
+        logger.info("Found %i words in %s. %i were predicted correctly." % (n_words, data_set, n_valid))
+
+        # compute perplexity and prediction accuracy
+        ppl_name = '%s_clm_ppl' % (data_set)
+        acc_name = '%s_clm_acc' % (data_set)
+        scores[ppl_name] = np.exp(xe_loss / n_words)
+        scores[acc_name] = 100. * n_valid / n_words
 
     def evaluate_cs(self, scores, data_set):
         """
