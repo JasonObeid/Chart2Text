@@ -92,6 +92,35 @@ class Evaluator(object):
             # restore original segmentation
             restore_segmentation(lang_path)
 
+    def mask_out(self, x, lengths, rng):
+        """
+        Decide of random words to mask out.
+        We specify the random generator to ensure that the test is the same at each epoch.
+        """
+        params = self.params
+        slen, bs = x.size()
+
+        # words to predict - be sure there is at least one word per sentence
+        to_predict = rng.rand(slen, bs) <= params.word_pred
+        to_predict[0] = 0
+        for i in range(bs):
+            to_predict[lengths[i] - 1:, i] = 0
+            if not np.any(to_predict[:lengths[i] - 1, i]):
+                v = rng.randint(1, lengths[i] - 1)
+                to_predict[v, i] = 1
+        pred_mask = torch.from_numpy(to_predict.astype(np.uint8))
+
+        # generate possible targets / update x input
+        _x_real = x[pred_mask]
+        _x_mask = _x_real.clone().fill_(params.mask_index)
+        x = x.masked_scatter(pred_mask, _x_mask)
+
+        assert 0 <= x.min() <= x.max() < params.n_words
+        assert x.size() == (slen, bs)
+        assert pred_mask.size() == (slen, bs)
+
+        return x, _x_real, pred_mask
+
     def run_all_evals(self, trainer):
         """
         Run all evaluations.
@@ -101,6 +130,7 @@ class Evaluator(object):
 
         with torch.no_grad():
             for data_set in test_list:
+                self.evaluate_clm(scores, data_set)
                 if params.encoder_only:
                     self.evaluate_cs(scores, data_set)
                     self.evaluate_cs(scores, 'train')

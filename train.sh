@@ -3,7 +3,7 @@
 #SBATCH --gres=gpu:t4:1
 #SBATCH --cpus-per-task=2
 #SBATCH --mem=12G
-#SBATCH --time=0-13:00
+#SBATCH --time=0-6:00
 
 module load python/3.7 arch/avx512 StdEnv/2018.3
 
@@ -41,7 +41,5 @@ python model/train.py \
     --eval_bleu True \
     --sinusoidal_embeddings True \
     --encoder_positional_emb True \
-    --gelu_activation True \
-    --validation_metrics valid_mt_bleu \
-    --lm_step True
-    --lambda_lm = "1"
+    --gelu_activation False \
+    --validation_metrics valid_mt_bleu

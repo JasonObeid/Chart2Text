@@ -50,153 +50,11 @@ def cleanAxisValue(value):
     return cleanValue
 
 
-def templateAssigner(token, valueArr, words, i, axis):
-    if is_number(token) and are_numbers(valueArr):
-        if float(words) == max([float(i) for i in valueArr]):
-            return [1, f'template{axis}Value[max]']
-        elif float(words) == min([float(i) for i in valueArr]):
-            return [1, f'template{axis}Value[min]']
-    elif words == valueArr[len(valueArr) - 1]:
-        return [1, f'template{axis}Value[last]']
-    return [1, f'template{axis}Value[{i}]']
-
-
 def adjustDataLabel(bool, axis, index):
     if axis == 'x':
         xDataLabels[index] = bool
     elif axis == 'y':
         yDataLabels[index] = bool
-
-
-def compareToken(captionTokens, index, titleTokens, xValueArr,
-                 yValueArr, cleanXAxis, cleanYAxis, entities):
-    #check if last token was an un-templated month
-    if index > 0:
-        lastToken = captionTokens[index - 1]
-        if lastToken.lower() in months or lastToken == 'May':
-            captionTokens.pop(index - 1)
-    token = captionTokens[index].replace(',', '').lower()
-    if is_word_number(token):
-        token = str(text2num(token, 'en'))
-    # iterate through x and y values
-    for xWords, yWords, i in zip(xValueArr, yValueArr, range(0, len(xValueArr))):
-        # iterate through values with multiple tokens in them, delimited by '_'
-        for xWord in xWords.split('_'):
-            xWord = xWord.replace(',', '').lower()
-            if is_word_number(xWord):
-                xWord = str(text2num(xWord, 'en'))
-            if token == xWord:
-                adjustDataLabel(1, 'x', i)
-                return templateAssigner(token, xValueArr, xWords, i, 'X')
-            elif is_number(token) and are_numbers(xValueArr):
-                if numberComparison(float(token), captionTokens, index, float(xWord), cleanXAxis):
-                    adjustDataLabel(1, 'x', i)
-                    return templateAssigner(token, xValueArr, xWords, i, 'X')
-        for yWord in yWords.split('_'):
-            yWord = yWord.replace(',', '').lower()
-            if is_word_number(yWord):
-                yWord = str(text2num(yWord, 'en'))
-            if token == yWord:
-                adjustDataLabel(1, 'y', i)
-                return templateAssigner(token, yValueArr, yWords, i, 'Y')
-            elif is_number(token) and are_numbers(yValueArr):
-                if numberComparison(float(token), captionTokens, index, float(yWord), cleanYAxis):
-                    adjustDataLabel(1, 'y', i)
-                    return templateAssigner(token, yValueArr, yWords, i, 'Y')
-    # check if token in axis names
-    # remove filler words from labels
-    cleanXArr = [xWord for xWord in cleanXAxis.split('_') if xWord.lower() not in fillers]
-    cleanYArr = [yWord for yWord in cleanYAxis.split('_') if yWord.lower() not in fillers]
-    cleanTitle = [titleWord for titleWord in titleTokens if titleWord.lower() not in fillers]
-    numbers = ['thousand', 'million', 'billion', 'trillion',
-               'thousands', 'millions', 'billions', 'trillions']
-    for xLabelToken, i in zip(cleanXArr, range(0, len(cleanXArr))):
-        xLabelWord = xLabelToken.replace('_', ' ').lower()
-        if str(token).lower() == xLabelWord:
-            return [1, f'templateXLabel[{i}]']
-        elif str(token).lower() in numbers and xLabelWord.lower() in numbers:
-            return [1, f'templateXLabel[{i}]']
-    for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
-        yLabelWord = yLabelToken.replace('_', ' ').lower()
-        if str(token).lower() == yLabelWord:
-            return [1, f'templateYLabel[{i}]']
-        elif str(token).lower() in numbers and yLabelWord.lower() in numbers:
-            return [1, f'templateYLabel[{i}]']
-    # check if token in title
-    for titleToken, i in zip(cleanTitle, range(0, len(cleanTitle))):
-        titleWord = titleToken.lower()
-        if str(token).lower() == titleWord:
-            for subject, n in zip(entities['Subject'], range(0, len(entities['Subject']))):
-                if titleWord in subject.lower():
-                    return [1, f'templateTitleSubject[{n}]']
-            for date, m in zip(entities['Date'], range(0, len(entities['Date']))):
-                if titleWord in str(date):
-                    return [1, f'templateTitleDate[{m}]']
-            return [1, f'templateTitle[{i}]']
-    #replace unmatched united states tokens with country to reduce bias
-    if index < len(captionTokens) - 1:
-        nextToken = captionTokens[index+1]
-        if token.lower() == 'united' and nextToken.lower() == 'states':
-            if 'U.S.' in cleanTitle:
-                usIndex = cleanTitle.index('U.S.')
-                captionTokens[index] = f'templateTitle[{usIndex}]'
-                captionTokens.pop(index + 1)
-                return [1, f'templateTitle[{usIndex}]']
-            elif 'American' in cleanTitle:
-                usIndex = cleanTitle.index('American')
-                captionTokens[index] = f'templateTitle[{usIndex}]'
-                captionTokens.pop(index + 1)
-                return [1, f'templateTitle[{usIndex}]']
-            else:
-                captionTokens.pop(index + 1)
-                captionTokens[index] = 'country'
-                return [0, 'country']
-        elif token.lower() == 'u.s.' or token.lower() == 'u.s':
-            if 'U.S.' in cleanTitle:
-                usIndex = cleanTitle.index('U.S.')
-                captionTokens[index] = f'templateTitle[{usIndex}]'
-                return [1, f'templateTitle[{usIndex}]']
-            elif 'United' in cleanTitle and 'States' in cleanTitle:
-                usIndex = cleanTitle.index('States')
-                captionTokens[index] = f'templateTitle[{usIndex}]'
-                return [1, f'templateTitle[{usIndex}]']
-    return [0, token]
-
-
-
-def numberComparison(token, captionTokens, index, word, axisLabel):
-    tokenSignificantDigits = len(str(token).replace('.', ''))
-    wordSignificantDigits = len(str(word).replace('.', ''))
-    # data usually more specific, therefore divide data to match significant digits of token
-    if index < len(captionTokens) - 1:
-        nextToken = captionTokens[index + 1]
-        multiplier = checkForMultiplier(axisLabel, nextToken.lower())
-        # floor100 = int(math.floor(word / 100.0)) * 100
-        # ceil100 = int(math.ceil(word / 100.0)) * 100
-        newWord = normal_round(word * multiplier)
-        newWord1 = normal_round(word * multiplier, 1)
-        newWord2 = normal_round(word * multiplier, 2)
-        newWord3 = normal_round(word)
-        newWord4 = normal_round(word, 1)
-        newWord5 = normal_round(word, 2)
-        if token == newWord or token == newWord1 or token == newWord2 or \
-                token == newWord3 or token == newWord4 or token == newWord5:
-            return True
-        elif wordSignificantDigits > 3:
-            newWord = normal_round(word)
-            newWord1 = normal_round(word, 1)
-            newWord2 = normal_round(word, 2)
-            if token == newWord or token == newWord1 or token == newWord2:
-                return True
-        else:
-            newWord = normal_round(word * multiplier)
-            newWord1 = normal_round(word * multiplier, 1)
-            newWord2 = normal_round(word * multiplier, 2)
-            # print(f'normal: {token}, {word}, {multiplier}, {newToken}')
-            if token == newWord or token == newWord1 or token == newWord2:
-                return True
-    return False
-
 
 def are_numbers(stringList):
     try:
@@ -252,6 +110,181 @@ def normal_round(n, decimals=0):
     if abs(expoN) - abs(math.floor(expoN)) < 0.5:
         return math.floor(expoN) / 10 ** decimals
     return math.ceil(expoN) / 10 ** decimals
+
+
+def numberComparison(token, captionTokens, index, word, axisLabel):
+    tokenSignificantDigits = len(str(token).replace('.', ''))
+    wordSignificantDigits = len(str(word).replace('.', ''))
+    # data usually more specific, therefore divide data to match significant digits of token
+    if index < len(captionTokens) - 1:
+        nextToken = captionTokens[index + 1]
+        multiplier = checkForMultiplier(axisLabel, nextToken.lower())
+        # floor100 = int(math.floor(word / 100.0)) * 100
+        # ceil100 = int(math.ceil(word / 100.0)) * 100
+        newWord = normal_round(word * multiplier)
+        newWord1 = normal_round(word * multiplier, 1)
+        newWord2 = normal_round(word * multiplier, 2)
+        newWord3 = normal_round(word)
+        newWord4 = normal_round(word, 1)
+        newWord5 = normal_round(word, 2)
+        if token == newWord or token == newWord1 or token == newWord2 or \
+                token == newWord3 or token == newWord4 or token == newWord5:
+            return True
+        elif wordSignificantDigits > 3:
+            newWord = normal_round(word)
+            newWord1 = normal_round(word, 1)
+            newWord2 = normal_round(word, 2)
+            if token == newWord or token == newWord1 or token == newWord2:
+                return True
+        else:
+            newWord = normal_round(word * multiplier)
+            newWord1 = normal_round(word * multiplier, 1)
+            newWord2 = normal_round(word * multiplier, 2)
+            # print(f'normal: {token}, {word}, {multiplier}, {newToken}')
+            if token == newWord or token == newWord1 or token == newWord2:
+                return True
+    return False
+
+
+def checkForParallelInSentence(axis, type, arrayIndex):
+    if axis.lower() == 'y':
+        inverseAxis = 'X'
+        parallel = xValueArr[arrayIndex]
+    elif axis.lower() == 'x':
+        inverseAxis =  'Y'
+        parallel = yValueArr[arrayIndex]
+    cleanCaption = [token.replace(',','') for token in captionTokens if token not in fillers]
+    for token in cleanCaption:
+        if token.lower() == parallel:
+            tokensNoCommas = [token.replace(',','') if token != ',' else token for token in captionTokens ]
+            tokenIndex = tokensNoCommas.index(token)
+            #print(f'match in {caption}\n{xValueArr[arrayIndex]} == {token}')
+            template = f'template{inverseAxis}Value[idx{type}({axis.upper()})]'
+            parallelData.append([template, axis, tokenIndex])
+
+
+def templateAssigner(token, valueArr, words, arrayIndex, axis):
+    if axis.lower() == 'x':
+        if xDataType.lower() == 'ordinal':
+            if is_number(token) and are_numbers(valueArr):
+                if float(words) == max([float(i) for i in valueArr]):
+                    checkForParallelInSentence(axis, 'max', arrayIndex)
+                    return [1, f'template{axis}Value[max]']
+                elif float(words) == min([float(i) for i in valueArr]):
+                    checkForParallelInSentence(axis, 'min', arrayIndex)
+                    return [1, f'template{axis}Value[min]']
+    else:
+        if yDataType.lower() == 'numerical':
+            if is_number(token) and are_numbers(valueArr):
+                if float(words) == max([float(i) for i in valueArr]):
+                    checkForParallelInSentence(axis, 'max', arrayIndex)
+                    return [1, f'template{axis}Value[max]']
+                elif float(words) == min([float(i) for i in valueArr]):
+                    checkForParallelInSentence(axis, 'min', arrayIndex)
+                    return [1, f'template{axis}Value[min]']
+    if words == valueArr[len(valueArr) - 1]:
+        return [1, f'template{axis}Value[last]']
+    return [1, f'template{axis}Value[{arrayIndex}]']
+
+
+def compareToken(captionTokens, index, cleanTitle, xValueArr,
+                 yValueArr, cleanXAxis, cleanYAxis, entities):
+    #check if last token was an un-templated month
+    if index > 0:
+        lastToken = captionTokens[index - 1]
+        if lastToken.lower() in months or lastToken == 'May':
+            captionTokens.pop(index - 1)
+    token = captionTokens[index].replace(',', '').lower()
+    if is_word_number(token):
+        token = str(text2num(token, 'en'))
+    # iterate through x and y values
+    for xWords, yWords, i in zip(xValueArr, yValueArr, range(0, len(xValueArr))):
+        # iterate through values with multiple tokens in them, delimited by '_'
+        for xWord in xWords.split('_'):
+            xWord = xWord.replace(',', '').lower()
+            if is_word_number(xWord):
+                xWord = str(text2num(xWord, 'en'))
+            if token == xWord:
+                adjustDataLabel(1, 'x', i)
+                return templateAssigner(token, xValueArr, xWords, i, 'X')
+            elif is_number(token) and are_numbers(xValueArr):
+                if numberComparison(float(token), captionTokens, index, float(xWord), cleanXAxis):
+                    adjustDataLabel(1, 'x', i)
+                    return templateAssigner(token, xValueArr, xWords, i, 'X')
+        for yWord in yWords.split('_'):
+            yWord = yWord.replace(',', '').lower()
+            if is_word_number(yWord):
+                yWord = str(text2num(yWord, 'en'))
+            if token == yWord:
+                adjustDataLabel(1, 'y', i)
+                return templateAssigner(token, yValueArr, yWords, i, 'Y')
+            elif is_number(token) and are_numbers(yValueArr):
+                if numberComparison(float(token), captionTokens, index, float(yWord), cleanYAxis):
+                    adjustDataLabel(1, 'y', i)
+                    return templateAssigner(token, yValueArr, yWords, i, 'Y')
+    # check if token in axis names
+    # remove filler words from labels
+    cleanXArr = [xWord for xWord in cleanXAxis.split('_') if xWord.lower() not in fillers]
+    cleanYArr = [yWord for yWord in cleanYAxis.split('_') if yWord.lower() not in fillers]
+    numbers = ['thousand', 'million', 'billion', 'trillion',
+               'thousands', 'millions', 'billions', 'trillions']
+    for xLabelToken, i in zip(cleanXArr, range(0, len(cleanXArr))):
+        xLabelWord = xLabelToken.replace('_', ' ').lower()
+        if str(token).lower() == xLabelWord:
+            return [1, f'templateXLabel[{i}]']
+        elif str(token).lower() in numbers and xLabelWord.lower() in numbers:
+            return [1, f'templateXLabel[{i}]']
+    for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
+        yLabelWord = yLabelToken.replace('_', ' ').lower()
+        if str(token).lower() == yLabelWord:
+            return [1, f'templateYLabel[{i}]']
+        elif str(token).lower() in numbers and yLabelWord.lower() in numbers:
+            return [1, f'templateYLabel[{i}]']
+    # check if token in title
+    for titleToken, i in zip(cleanTitle, range(0, len(cleanTitle))):
+        titleWord = titleToken.lower()
+        if str(token).lower() == titleWord:
+            for subject, n in zip(entities['Subject'], range(0, len(entities['Subject']))):
+                if titleWord in subject.lower():
+                    return [1, f'templateTitleSubject[{n}]']
+            for date, m in zip(entities['Date'], range(0, len(entities['Date']))):
+                if titleWord in str(date):
+                    if len(entities['Date']) > 1:
+                        #cant check for parallels in title
+                        if date == max(entities['Date']):
+                            return [1, f'templateTitleDate[max]']
+                        elif date == min(entities['Date']):
+                            return [1, f'templateTitleDate[min]']
+                    return [1, f'templateTitleDate[{m}]']
+            return [1, f'templateTitle[{i}]']
+    #replace unmatched united states tokens with country to reduce bias
+    if index < len(captionTokens) - 1:
+        nextToken = captionTokens[index+1]
+        if token.lower() == 'united' and nextToken.lower() == 'states':
+            if 'U.S.' in cleanTitle:
+                usIndex = cleanTitle.index('U.S.')
+                captionTokens[index] = f'templateTitle[{usIndex}]'
+                captionTokens.pop(index + 1)
+                return [1, f'templateTitle[{usIndex}]']
+            elif 'American' in cleanTitle:
+                usIndex = cleanTitle.index('American')
+                captionTokens[index] = f'templateTitle[{usIndex}]'
+                captionTokens.pop(index + 1)
+                return [1, f'templateTitle[{usIndex}]']
+            else:
+                captionTokens.pop(index + 1)
+                captionTokens[index] = 'country'
+                return [0, 'country']
+        elif token.lower() == 'u.s.' or token.lower() == 'u.s':
+            if 'U.S.' in cleanTitle:
+                usIndex = cleanTitle.index('U.S.')
+                captionTokens[index] = f'templateTitle[{usIndex}]'
+                return [1, f'templateTitle[{usIndex}]']
+            elif 'United' in cleanTitle and 'States' in cleanTitle:
+                usIndex = cleanTitle.index('States')
+                captionTokens[index] = f'templateTitle[{usIndex}]'
+                return [1, f'templateTitle[{usIndex}]']
+    return [0, token]
 
 
 dataFiles = os.listdir('../dataset/data')
@@ -358,15 +391,16 @@ for i in range(len(dataFiles)):
         else:
             guessedSubject = uppercaseWords[0]
         entities['Subject'].append(guessedSubject)
-
+    cleanTitle = [titleWord for titleWord in title.split() if titleWord.lower() not in fillers]
+    parallelData = []
     for token, i in zip(captionTokens, range(0, len(captionTokens))):
         # check for duplicates before token replacement
         if i < len(captionTokens) - 1:
             if captionTokens[i] == captionTokens[i + 1]:
                 captionTokens.pop(i + 1)
         if token.lower() not in fillers:
-            # find labels for summary tokens, call function to create labels for data
-            tokenBool, newToken = compareToken(captionTokens, i, title.split(), xValueArr,
+            # find labels for summary tokens, call function to replace token with tsemplate
+            tokenBool, newToken = compareToken(captionTokens, i, cleanTitle, xValueArr,
                                                yValueArr, cleanXAxis, cleanYAxis, entities)
             if tokenBool == 1:
                 captionTokens[i] = newToken
@@ -378,6 +412,25 @@ for i in range(len(dataFiles)):
         else:
             tokenBool = 0
         labelMap.append(str(tokenBool))
+    #replace tokens with their parallel templates if they exist
+    # ex: in 2019 sales was 300 million -> in templateXValue[max] sales was templateYValue[idxmax(x)] million
+    if len(parallelData) > 0:
+        for item in parallelData:
+            template = item[0]
+            axis = item[1]
+            tokenIndex = item[2]
+            try:
+                labelMap[tokenIndex] = '1'
+                captionTokens[tokenIndex] = template
+            except IndexError:
+                # TODO find out if this means that any time a pop occurs the replacement is misaligned,
+                # maybe track the # of pops and subtract that from tokenIndex
+                # this happens twice due to popping values and changing length of list
+                print('index error')
+                tokenIndex = len(labelMap)-1
+                labelMap[tokenIndex] = '1'
+                captionTokens[tokenIndex] = template
+
     dataRowPairs = [f'{xLabel} {yLabel}' for xLabel, yLabel in zip(xDataLabels, yDataLabels)]
     dataLabelLine = (' ').join(dataRowPairs)
     assert len(dataLabelLine.split()) == (len(xValueArr) + len(yValueArr))
@@ -389,7 +442,7 @@ for i in range(len(dataFiles)):
         dataRatioArr.append(dataRatio)
         captionRatioArr.append(captionRatio)
         summaryLabelLine = (' ').join(labelMap)
-        assert len(captionTokens) == len(summaryLabelLine.rstrip().split())
+        assert len(captionTokens) == len(summaryLabelLine.split())
         newCaption = (' ').join(captionTokens)
         oldSummaryArr.append(trimmedCaption)
         labelList.append(labelMap)

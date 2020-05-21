@@ -30,14 +30,14 @@ python3 model/train.py \
     --validation_metrics _cs_f1
 
 
-python3 model/summarize.py --model_path may13-220.pth --table_path data/test/testData.txt \
---output_path results/may13/templateOutput_513p220_beam=4_batch=8.txt --beam_size 4 --batch_size 8
+python3 model/summarize.py --model_path may20-80.pth --table_path data/test/testData.txt \
+--output_path results/may20/templateOutput_520p80_beam=4_batch=8.txt --beam_size 4 --batch_size 8
 
 
 python3 model/summarize.py --model_path periodic-75.pth --table_path data_testing/trainData.txt \
 --output_path data_testing/504Test_beam=4_batch=8.txt --beam_size 4 --batch_size 8
 
-perl model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/may13/generated-513-p220.txt
+perl model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/may20/generated-520-p80.txt
 
 May 06:
 200 epochs:
@@ -66,4 +66,8 @@ BLEU = 20.72, 45.7/22.6/15.3/11.7 (BP=1.000, ratio=1.055, hyp_len=43385, ref_len
 
 may 19: increase # encoder / decoder layers and embedding size:
 predicts the same sentence each time
+
+may 20: gelu (and maybe causal lm)
+BLEU = 20.84, 44.6/22.4/15.6/12.1 (BP=1.000, ratio=1.096, hyp_len=45066, ref_len=41117)
+
 

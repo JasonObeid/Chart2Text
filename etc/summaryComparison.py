@@ -1,17 +1,17 @@
 import spacy
-import en_core_web_lg
+import en_core_web_md
 import re
 
 
-generatedPath = '../results/may13/templateOutput_513p330_beam=4_batch=8.txt'
+generatedPath = '../results/may20/templateOutput_520p80_beam=4_batch=8.txt'
 goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/may13/summaryComparison513-p330_beam4_batch8.txt'
-outputPath = '../results/may13/generated-513-p330.txt'
+comparisonPath = '../results/may20/summaryComparison520-p80_beam4_batch8.txt'
+outputPath = '../results/may20/generated-520-p80.txt'
 
-nlp = spacy.load('en_core_web_lg')
+nlp = spacy.load('en_core_web_md')
 
 def getNamedEntity(title, xValueArr):
     doc = nlp(title)

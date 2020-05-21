@@ -332,7 +332,7 @@ class Trainer(object):
 
     def clm_step(self, lambda_coeff):
         """
-
+        causal language model
         """
         assert lambda_coeff >= 0
         if lambda_coeff == 0:
@@ -371,6 +371,41 @@ class Trainer(object):
         self.stats['processed_s'] += lengths.size(0)
         self.stats['processed_w'] += pred_mask.sum().item()
         self.stats['lambda_lm'] = lambda_coeff
+
+    def mlm_step(self, lang1, lang2, lambda_coeff):
+        """
+        Masked word prediction step.
+        MLM objective is lang2 is None, TLM objective otherwise.
+        """
+        assert lambda_coeff >= 0
+        if lambda_coeff == 0:
+            return
+        params = self.params
+        name = 'model' if params.encoder_only else 'encoder'
+        model = getattr(self, name)
+        model.train()
+
+        # generate batch / select words to predict
+        x, lengths, positions, langs, _ = self.generate_batch(lang1, lang2, 'pred')
+        x, lengths, positions, langs, _ = self.round_batch(x, lengths, positions, langs)
+        x, y, pred_mask = self.mask_out(x, lengths)
+
+        # cuda
+        x, y, pred_mask, lengths, positions, langs = to_cuda(x, y, pred_mask, lengths, positions, langs)
+
+        # forward / loss
+        tensor = model('fwd', x=x, lengths=lengths, positions=positions, langs=langs, causal=False)
+        _, loss = model('predict', tensor=tensor, pred_mask=pred_mask, y=y, get_scores=False)
+        self.stats[('MLM-%s' % lang1) if lang2 is None else ('MLM-%s-%s' % (lang1, lang2))].append(loss.item())
+        loss = lambda_coeff * loss
+
+        # optimize
+        self.optimize(loss)
+
+        # number of processed sentences / words
+        self.n_sentences += params.batch_size
+        self.stats['processed_s'] += lengths.size(0)
+        self.stats['processed_w'] += pred_mask.sum().item()
 
 class SingleTrainer(Trainer):
 
