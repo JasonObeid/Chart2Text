@@ -99,8 +99,8 @@ class Evaluator(object):
         with torch.no_grad():
             for data_set in test_list:
                 if params.encoder_only:
-                    self.evaluate_clm(scores, data_set)
-                    self.evaluate_clm(scores, 'train')
+                    #self.evaluate_clm(scores, data_set)
+                    #self.evaluate_clm(scores, 'train')
                     self.evaluate_cs(scores, data_set)
                     self.evaluate_cs(scores, 'train')
                 else:
@@ -360,7 +360,7 @@ class EncDecEvaluator(Evaluator):
             hyp_path = os.path.join(params.hyp_path, hyp_name)
             ref_path = 'data/valid/validOriginalSummary.txt'
             print(ref_path)
-            temp_path = './temp_hyp.txt'
+            temp_path = os.path.join(params.hyp_path, 'temp_hyp.txt')
             # export sentences to temp hypothesis file / restore BPE segmentation
             with open(temp_path, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(hypothesis) + '\n')

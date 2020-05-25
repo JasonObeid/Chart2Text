@@ -20,7 +20,7 @@ gold: The statistic shows the revenue of the Utah Jazz franchise from the 2001/0
 gold_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
 
 generated_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] . templateTitleSubject[0] The templateTitleSubject[0] are a professional basketball team of the National Basketball Association ( NBA ) , entering the league as an expansion team in 1968 .
-generated: The statistic shows the Revenue of the Utah Jazz franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 258 million U.S. dollars . Utah Jazz The Utah Jazz are a professional basketball team of the National Basketball Association ( NBA ) , entering the league as an expansion team in 1968 .
+generated: The statistic shows the Revenue of the Utah Jazz franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 258 million U.S. dollars . Utah Jazz The are a professional basketball team of the National Basketball Association ( NBA ) , entering the league as an expansion team in 1968 .
 
 Example 52:
 titleEntities: {'Subject': ['Belgium'], 'Date': ['2000', '2018']}
@@ -32,7 +32,7 @@ gold: Since 2000 , the number of hospitals in Belgium has declined nearly year-o
 gold_template: Since templateXValue[min] , the templateYLabel[0] of templateYLabel[1] in templateTitleSubject[0] has declined nearly year-on-year . There were templateYValue[idxmin(X)] templateYLabel[1] in templateTitleSubject[0] in the templateXLabel[0] templateXValue[idxmax(Y)] and by templateXValue[max] this figure had fallen to templateYValue[idxmax(X)] . This is a drop of over 23 percent in the provided time period .
 
 generated_template: There were templateYValue[min] templateYLabel[1] of templateTitle[1] templateTitle[2] banks in the templateTitle[5] in templateXValue[max] . After a period of growth from templateXValue[min] to templateXValue[10] , this templateYLabel[0] has been slowly diminishing in the past few years . In templateXValue[max] , Wells Fargo led the ranking of banks with the highest templateYLabel[0] of templateYLabel[1] .
-generated: There were 174 hospitals of Belgium 2000 banks in the 2018 in 2018 . After a period of growth from 2000 to 2008 , this Number has been slowly diminishing in the past few years . In 2018 , Wells Fargo led the ranking of banks with the highest Number of hospitals .
+generated: There were 174 hospitals of Belgium 2000 banks in the 2018 in . After a period of growth from 2000 to 2008 , this Number has been slowly diminishing in the past few years . In 2018 , Wells Fargo led the ranking of banks with the highest Number of hospitals .
 
 Example 112:
 titleEntities: {'Subject': ['U.S.'], 'Date': ['2017']}
@@ -44,7 +44,7 @@ gold: The statistic depicts the installed base of video game systems in the Unit
 gold_template: The statistic depicts the templateYLabel[0] templateYLabel[1] of templateTitle[0] templateTitle[1] templateTitle[2] in the templateTitle[3] in templateTitleDate[0] , templateTitle[7] templateTitle[8] . The templateYLabel[0] templateYLabel[1] of Microsoft 's templateXValue[0] templateXValue[2] was templateYValue[max] templateYLabel[2] .
 
 generated_template: The templateYLabel[0] of templateYLabel[1] in templateTitleSubject[0] in templateTitleDate[0] amounted to around 4.7 million . Among these , the most common templateTitle[5] of templateXValue[4] , around 40 percent , was the single-person templateXValue[4] templateXValue[0] , which amounted to around templateYValue[max] million . The second most common templateXValue[4] templateTitle[5] was templateXValue[2] or married couples templateXLabel[0] templateXValue[0] , in around templateYValue[1] million templateYLabel[1] .
-generated: The Installed of base in U.S. in 2017 amounted to around 4.7 million . Among these , the most common base of PlayStation 4 , around 40 percent , was the single-person PlayStation 4 Xbox One S , which amounted to around 21 million . The second most common PlayStation 4 base was Xbox 360 or married couples Console Xbox One S , in around 12 million base .
+generated: The Installed of base in U.S. 2017 amounted to around 4.7 million . Among these , the most common base of PlayStation 4 , around 40 percent , was the single-person PlayStation 4 Xbox One S , which amounted to around 21 million . The second most common PlayStation 4 base was Xbox 360 or married couples Console Xbox One S , in around 12 million base .
 
 Example 151:
 titleEntities: {'Subject': ['South Korea'], 'Date': ['2015', '2022']}
@@ -128,7 +128,7 @@ gold: In its 2019 fiscal year , Canadian company BlackBerry recorded revenues of
 gold_template: In its templateXValue[max] fiscal templateXLabel[0] , Canadian company BlackBerry recorded revenues of less than templateYValue[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] for only the second time in the past 15 years . The company , previously known as Research in Motion ( RIM ) , has transitioned from developing BlackBerry brand smartphones to enterprise software and services involving the internet of things . Transitioning to the Enterprise of Things In the past decade , BlackBerry has seen a significant decline in their templateYLabel[0] figures and share of the global and templateYLabel[2] smartphone market .
 
 generated_template: The timeline presents templateTitle[0] templateTitle[1] templateYLabel[0] templateTitle[3] the NCAA men 's basketball tournament from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] amounted to approximately templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
-generated: The timeline presents Revenue RIM/Blackberry Revenue 2004 the NCAA men 's basketball tournament from 2004 to 2019 . In 2019 , the Revenue amounted to approximately 19907 million U.S. dollars .
+generated: The timeline presents Revenue RIM/Blackberry 2004 the NCAA men 's basketball tournament from 2004 to 2019 . In 2019 , the Revenue amounted to approximately 19907 million U.S. dollars .
 
 Example 734:
 titleEntities: {'Subject': ['NCAA'], 'Date': ['2019']}
@@ -152,7 +152,7 @@ gold: In 2018 , 678 people were killed on roads in the Netherlands . Between 200
 gold_template: In templateXValue[max] , templateYValue[idxmax(X)] people were killed on roads in the templateTitleSubject[0] . Between templateXValue[min] and templateXValue[max] , templateTitle[1] traffic templateYLabel[1] had seen a net decline of 16 percent , with the peak recorded at the beginning of the reporting period in templateXValue[min] . The Dutch Government is dedicated to making its roads even safer in the future and aims to bring the templateYLabel[0] of templateTitle[1] templateTitle[2] down to below 500 by 2020 .
 
 generated_template: There were templateYValue[min] templateTitle[1] templateTitle[2] recorded in templateTitleSubject[0] in templateXValue[idxmin(Y)] . templateTitleSubject[0] had been able to decrease the templateYLabel[0] of people fatally injured on its roads by nearly half since templateXValue[min] . templateXValue[7] and templateXValue[3] were the only years in which the templateYLabel[0] of fatal accidents increased .
-generated: There were 570 road deaths recorded in Netherlands in 2014 . Netherlands had been able to decrease the Number of people fatally injured on its roads by nearly half since 2006 . 2011 and 2015 were the only years in which the Number of fatal accidents increased .
+generated: There were 570 road deaths recorded in Netherlands 2014 . Netherlands had been able to decrease the Number of people fatally injured on its roads by nearly half since 2006 . 2011 and 2015 were the only years in which the Number of fatal accidents increased .
 
 Example 816:
 titleEntities: {'Subject': ['U.S.'], 'Date': ['2013', '2019']}

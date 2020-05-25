@@ -106,25 +106,24 @@ def mapIndex(index, array):
         except:
             print('n-1 num err')
             return 0
-    else:
-        try:
-            # this exception occurs with min/max on data which isn't purely numeric: ex. ['10_miles_or_less', '11_-_50_miles', '51_-_100_miles']
-            cleanArr = [float("".join(filter(str.isdigit, item))) for item in array if
-                        "".join(filter(str.isdigit, item)) != '']
-            if str(index) == 'max':
-                index = cleanArr.index(max(cleanArr))
-                return int(index)
-            elif str(index) == 'min':
-                index = cleanArr.index(min(cleanArr))
-                return int(index)
-            return int(index)
-        except:
-            return int(index)
+
     if index == 'last':
         index = len(array) - 1
         return int(index)
 
-
+    try:
+        # this exception occurs with min/max on data which isn't purely numeric: ex. ['10_miles_or_less', '11_-_50_miles', '51_-_100_miles']
+        cleanArr = [float("".join(filter(str.isdigit, item))) for item in array if
+                    "".join(filter(str.isdigit, item)) != '']
+        if str(index) == 'max':
+            index = cleanArr.index(max(cleanArr))
+            return int(index)
+        elif str(index) == 'min':
+            index = cleanArr.index(min(cleanArr))
+            return int(index)
+        return int(index)
+    except:
+        return int(index)
 
 
 #def main():
@@ -168,9 +167,6 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                     print(f'popped: {tokens[i + 1]}')
                     tokens.pop(i + 1)
             if 'template' in token:
-                x = 'Unemployment rate in Sudan 2019'
-                if title == x:
-                    print('match')
                 if 'idxmax' in token or 'idxmin' in token:
                     #axis = token[-3].lower()
                     type = token[-7:-4]
@@ -192,45 +188,45 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                     index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
                     if 'templateXValue' in token:
                         index = mapIndex(index, xValueArr)
-                        try:
+                        if index < len(xValueArr):
                             replacedToken = xValueArr[index].replace('_', ' ')
-                        except:
+                        else:
                             print(f'xvalue index error at {index} in {title}')
                             replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
                     elif 'templateYValue' in token:
                         index = mapIndex(index, yValueArr)
-                        try:
+                        if index < len(yValueArr):
                             replacedToken = yValueArr[index].replace('_', ' ')
-                        except:
+                        else:
                             print(f'yvalue index error at {index} in {title}')
                             replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
                     elif 'templateXLabel' in token:
                         index = mapIndex(index, cleanXLabel)
-                        try:
+                        if index < len(cleanXLabel):
                             replacedToken = cleanXLabel[index]
-                        except:
+                        else:
                             print(f'xlabel index error at {index} in {title}')
                             replacedToken = cleanXLabel[len(cleanXLabel) - 1]
                     elif 'templateYLabel' in token:
                         index = mapIndex(index, cleanYLabel)
-                        try:
+                        if index < len(cleanYLabel):
                             replacedToken = cleanYLabel[index]
-                        except:
+                        else:
                             print(f'ylabel index error at {index} in {title}')
                             replacedToken = cleanYLabel[len(cleanYLabel) - 1]
                     elif 'templateTitleSubject' in token:
                         # print(entities['Subject'][int(index)], index)
-                        try:
+                        if int(index) < len(entities['Subject']):
                             replacedToken = entities['Subject'][int(index)]
-                        except:
+                        else:
                             print(f'subject index error at {index} in {title}')
                             replacedToken = entities['Subject'][len(entities['Subject']) - 1]
                     elif 'templateTitleDate' in token:
                         # print(entities['Date'][int(index)], index)
                         index = mapIndex(index, entities['Date'])
-                        try:
+                        if index < len(entities['Date']):
                             replacedToken = entities['Date'][int(index)]
-                        except:
+                        else:
                             print(f'date index error at {index} in {title}')
                             if len(entities['Date']) > 0:
                                 replacedToken = entities['Date'][len(entities['Date']) - 1]
@@ -238,15 +234,15 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                                 replacedToken = ''
                     elif 'templateTitle' in token:
                         index = mapIndex(index, titleArr)
-                        try:
+                        if index < len(titleArr):
                             replacedToken = titleArr[index]
-                        except:
+                        else:
                             print(f'title index error at {index} in {title}')
                             replacedToken = titleArr[len(titleArr) - 1]
             else:
                 replacedToken = token
-            if i > 1:
-                if replacedToken.lower() != reversedArr[-1].lower():
+            if i > 2:
+                if replacedToken.lower() != reversedArr[-2].lower() and replacedToken.lower() != reversedArr[-1].lower():
                     reversedArr.append(replacedToken)
                 else:
                     z = 0 #print(f'dupe: {replacedToken}')

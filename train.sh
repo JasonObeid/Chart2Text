@@ -11,7 +11,10 @@ virtualenv --no-download $SLURM_TMPDIR/env
 source $SLURM_TMPDIR/env/bin/activate
 pip install torch==1.4.0 --no-index
 pip install numpy --no-index
-python3 model/train.py \
+pip install spacy --no-index
+pip install /projects/def-enamul/jobeid98/en_core_web_md-2.2.5.tar.gz
+python -m spacy download en_core_web_md
+python model/train.py \
     --model_path "experiments" \
     --exp_name "chart2text" \
     --exp_id "run1" \
@@ -36,14 +39,13 @@ python3 model/train.py \
     --save_periodic 40 \
     --batch_size 6 \
     --beam_size 4 \
-    --epoch_size 50 \
+    --epoch_size 1000 \
     --max_epoch 81 \
     --eval_bleu True \
     --sinusoidal_embeddings True \
     --encoder_positional_emb True \
     --gelu_activation True \
-    --validation_metrics valid_mt_bleu \
-    --reload_model may13-80.pth
+    --validation_metrics valid_mt_bleu
     #--lm_step True \
     #--lambda_lm 1
 

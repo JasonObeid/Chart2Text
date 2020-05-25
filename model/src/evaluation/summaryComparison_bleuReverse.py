@@ -2,7 +2,7 @@ import spacy
 import en_core_web_md
 import re
 
-def getNamedEntity(title, xValueArr):
+def getNamedEntity(title, xValueArr, xLabel):
     doc = nlp(title)
     entities = {}
     entities['Subject'] = []
@@ -88,8 +88,8 @@ def mapIndex(index, array):
 
 
 def main(outputPath, hypFile):
-    dataPath = '../../../data/test/validData.txt'
-    titlePath = '../../../data/test/validTitle.txt'
+    dataPath = '../../../data/valid/validData.txt'
+    titlePath = '../../../data/valid/validTitle.txt'
 
     nlp = spacy.load('en_core_web_md')
 
@@ -119,7 +119,7 @@ def main(outputPath, hypFile):
                 else:
                     yValueArr.append(datum[i].split('|')[1])
             tokens = generated.split()
-            entities = getNamedEntity(title, xValueArr)
+            entities = getNamedEntity(title, xValueArr, xLabel)
             # titleEntities = [word[0].lower() for word in entities.values() if len(word) > 0]
             titleArr = [word for word in title.split() if word.lower() not in fillers]
             # titleArr = [word for word in titleArr if word.lower() not in titleEntities]
