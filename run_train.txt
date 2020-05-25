@@ -30,14 +30,14 @@ python3 model/train.py \
     --validation_metrics _cs_f1
 
 
-python3 model/summarize.py --model_path may20-80.pth --table_path data/test/testData.txt \
---output_path results/may20/templateOutput_520p80_beam=4_batch=8.txt --beam_size 4 --batch_size 8
+python3 model/summarize.py --model_path may21relu-80.pth --table_path data/test/testData.txt \
+--output_path results/may21/templateOutput_521rp80_beam=4_batch=8.txt --beam_size 4 --batch_size 8
 
 
 python3 model/summarize.py --model_path periodic-75.pth --table_path data_testing/trainData.txt \
 --output_path data_testing/504Test_beam=4_batch=8.txt --beam_size 4 --batch_size 8
 
-perl model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/may20/generated-520-p80.txt
+perl model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/may21/generated-521r-p80.txt
 
 May 06:
 200 epochs:
@@ -50,10 +50,10 @@ May 11:
 100 epochs:
 BLEU = 23.33, 56.5/31.1/22.0/17.4 (BP=0.815, ratio=0.831, hyp_len=34147, ref_len=41116)
 
-May 13:
+May 13: positional embeddings
 BLEU = 23.65, 56.4/31.1/21.9/17.3 (BP=0.828, ratio=0.841, hyp_len=34572, ref_len=41116)
 
-May 14/15: positional embeddings
+May 14/15:
 epoch 80
 BLEU = 22.17, 47.0/23.8/16.5/13.0 (BP=1.000, ratio=1.044, hyp_len=42936, ref_len=41116)
 
@@ -70,4 +70,8 @@ predicts the same sentence each time
 may 20: gelu (and maybe causal lm)
 BLEU = 20.84, 44.6/22.4/15.6/12.1 (BP=1.000, ratio=1.096, hyp_len=45066, ref_len=41117)
 
+may 21 gelu
+BLEU = 21.85, 45.9/23.4/16.3/13.0 (BP=1.000, ratio=1.065, hyp_len=43795, ref_len=41117)
 
+may 21 relu
+BLEU = 22.43, 47.3/24.3/16.8/13.1 (BP=1.000, ratio=1.036, hyp_len=42611, ref_len=41117)

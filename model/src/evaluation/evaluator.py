@@ -12,7 +12,7 @@ from collections import OrderedDict
 import numpy as np
 import torch
 from torch.nn import functional as F
-
+from . import summaryComparison_bleuReverse as summaryComparison
 from ..utils import to_cuda, restore_segmentation, concat_batches
 
 
@@ -37,11 +37,10 @@ class Evaluator(object):
         if params.eval_bleu:
             params.hyp_path = os.path.join(params.model_path, 'hypotheses')
             subprocess.Popen('mkdir -p %s' % params.hyp_path, shell=True).wait()
-            self.create_reference_files()
 
     def get_iterator(self, task, data_set):
-        print(data_set)
-        print(self.data)
+        #print(data_set)
+        #print(self.data)
         """
         Create a new iterator for a dataset.
         """
@@ -57,40 +56,9 @@ class Evaluator(object):
         )
 
         for batch in iterator:
+            #print(batch)
             yield batch #if lang2 is None or lang1 < lang2 else batch[::-1]
 
-    def create_reference_files(self):
-        """
-        Create reference files for BLEU evaluation.
-        """
-        params = self.params
-        params.ref_paths = {}
-
-        for data_set in test_list:
-
-            # define dataOld paths
-            lang_path = os.path.join(params.hyp_path, 'ref.{0}.txt'.format(data_set))
-
-            # store dataOld paths
-            params.ref_paths[data_set] = lang_path
-
-            # text sentences
-            lang_txt = []
-
-            # convert to text
-            for (_, _, _, _, _, summaries, _) in self.get_iterator('sm', data_set):
-                sents, lens = summaries
-                lang_txt.extend(convert_to_text(sents, lens, self.target_dico, params))
-
-            # replace <unk> by <<unk>> as these tokens cannot be counted in BLEU
-            lang_txt = [x.replace('<unk>', '<<unk>>') for x in lang_txt]
-
-            # export hypothesis
-            with open(lang_path, 'w', encoding='utf-8') as f:
-                f.write('\n'.join(lang_txt) + '\n')
-
-            # restore original segmentation
-            restore_segmentation(lang_path)
 
     def mask_out(self, x, lengths, rng):
         """
@@ -390,13 +358,15 @@ class EncDecEvaluator(Evaluator):
             # hypothesis / reference paths
             hyp_name = 'hyp{0}.{1}.txt'.format(scores['epoch'], data_set)
             hyp_path = os.path.join(params.hyp_path, hyp_name)
-            ref_path = params.ref_paths[data_set]
-
-            # export sentences to hypothesis file / restore BPE segmentation
-            with open(hyp_path, 'w', encoding='utf-8') as f:
+            ref_path = 'data/valid/validOriginalSummary.txt'
+            print(ref_path)
+            temp_path = './temp_hyp.txt'
+            # export sentences to temp hypothesis file / restore BPE segmentation
+            with open(temp_path, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(hypothesis) + '\n')
-            restore_segmentation(hyp_path)
-
+            restore_segmentation(temp_path)
+            # reverse templating and save in persistent hypothesis file
+            summaryComparison.main(hyp_path, temp_path)
             # evaluate BLEU score
             bleu = eval_moses_bleu(ref_path, hyp_path)
             logger.info("BLEU %s %s : %f" % (hyp_path, ref_path, bleu))
@@ -422,6 +392,7 @@ def convert_to_text(batch, lengths, dico, params):
                 break
             words.append(dico[batch[k, j]])
         sentences.append(" ".join(words))
+    #print(f'decoded: {sentences}')
     return sentences
 
 

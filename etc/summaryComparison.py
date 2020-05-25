@@ -2,14 +2,14 @@ import spacy
 import en_core_web_md
 import re
 
-
-generatedPath = '../results/may20/templateOutput_520p80_beam=4_batch=8.txt'
+analysisPath = '../results/may21/analysis-521g-p80.txt'
+generatedPath = '../results/may21/templateOutput_521gp80_beam=4_batch=8.txt'
 goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/may20/summaryComparison520-p80_beam4_batch8.txt'
-outputPath = '../results/may20/generated-520-p80.txt'
+comparisonPath = '../results/may21/summaryComparison521g-p80_beam4_batch8.txt'
+outputPath = '../results/may21/generated-521g-p80.txt'
 
 nlp = spacy.load('en_core_web_md')
 
@@ -62,6 +62,23 @@ def are_numbers(stringList):
     except ValueError:
         return False
 
+#valueArr is the array of the idxmax/min (x or y)
+#type is min/max
+def mapParallelIndex(valueArr, type):
+    if are_numbers(valueArr):
+        try:
+            array = [float(i) for i in valueArr]
+            if type == 'max':
+                index = array.index(max(array))
+                return int(index)
+            elif type == 'min':
+                index = array.index(min(array))
+                return int(index)
+        except:
+            print('Parallel num err')
+            print(valueArr, type)
+            return 0
+
 
 def mapIndex(index, array):
     if are_numbers(array):
@@ -74,8 +91,9 @@ def mapIndex(index, array):
                 index = array.index(min(array))
                 return int(index)
         except:
-            print('num err')
+            print('numbers num err')
             return 0
+
     elif are_numbers(array[0:len(array) - 1]):
         try:
             array = [float(i) for i in array[0:len(array) - 1]]
@@ -86,26 +104,38 @@ def mapIndex(index, array):
                 index = array.index(min(array))
                 return int(index)
         except:
-            print('num err')
+            print('n-1 num err')
             return 0
+    else:
+        try:
+            # this exception occurs with min/max on data which isn't purely numeric: ex. ['10_miles_or_less', '11_-_50_miles', '51_-_100_miles']
+            cleanArr = [float("".join(filter(str.isdigit, item))) for item in array if
+                        "".join(filter(str.isdigit, item)) != '']
+            if str(index) == 'max':
+                index = cleanArr.index(max(cleanArr))
+                return int(index)
+            elif str(index) == 'min':
+                index = cleanArr.index(min(cleanArr))
+                return int(index)
+            return int(index)
+        except:
+            return int(index)
     if index == 'last':
         index = len(array) - 1
         return int(index)
-    try:
-        return int(index)
-    except:
-        print('num err')
-        return 0
+
+
 
 
 #def main():
 fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
            'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', 'with']
+analysis = [829, 662, 816, 528, 52, 151, 49, 499, 734, 316, 13, 492, 202, 767, 112]
 count = 0
 with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r', encoding='utf-8') as generatedFile \
     , open(dataPath, 'r', encoding='utf-8') as dataFile, open(outputPath, 'w', encoding='utf-8') as outputFile, \
     open(titlePath, 'r', encoding='utf-8') as titleFile, open(goldTemplatePath, 'r', encoding='utf-8') as goldTemplateFile, \
-    open(comparisonPath, 'w', encoding='utf-8') as comparisonFile:
+    open(comparisonPath, 'w', encoding='utf-8') as comparisonFile, open(analysisPath, 'w', encoding='utf-8') as analysisFile:
     fileIterators = zip(goldFile.readlines(), goldTemplateFile.readlines(),
                         generatedFile.readlines(), dataFile.readlines(), titleFile.readlines())
     for gold, goldTemplate, generated, data, title in fileIterators:
@@ -138,59 +168,88 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                     print(f'popped: {tokens[i + 1]}')
                     tokens.pop(i + 1)
             if 'template' in token:
-                index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
-                if 'templateXValue' in token:
-                    index = mapIndex(index, xValueArr)
-                    try:
-                        replacedToken = xValueArr[index].replace('_', ' ')
-                    except:
-                        replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
-                elif 'templateYValue' in token:
-                    index = mapIndex(index, yValueArr)
-                    try:
-                        replacedToken = yValueArr[index].replace('_', ' ')
-                    except:
-                        replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
-                elif 'templateXLabel' in token:
-                    index = mapIndex(index, cleanXLabel)
-                    try:
-                        replacedToken = cleanXLabel[index]
-                    except:
-                        replacedToken = cleanXLabel[len(cleanXLabel) - 1]
-                elif 'templateYLabel' in token:
-                    index = mapIndex(index, cleanYLabel)
-                    try:
-                        replacedToken = cleanYLabel[index]
-                    except:
-                        replacedToken = cleanYLabel[len(cleanYLabel) - 1]
-                elif 'templateTitleSubject' in token:
-                    # print(entities['Subject'][int(index)], index)
-                    try:
-                        replacedToken = entities['Subject'][int(index)]
-                    except:
-                        replacedToken = entities['Subject'][len(entities['Subject']) - 1]
-                elif 'templateTitleDate' in token:
-                    # print(entities['Date'][int(index)], index)
-                    try:
-                        replacedToken = entities['Date'][int(index)]
-                    except:
-                        if len(entities['Date']) > 0:
-                            replacedToken = entities['Date'][len(entities['Date']) - 1]
-                        else:
-                            replacedToken = ''
-                elif 'templateTitle' in token:
-                    index = mapIndex(index, titleArr)
-                    try:
-                        replacedToken = titleArr[index]
-                    except:
-                        replacedToken = titleArr[len(titleArr) - 1]
+                x = 'Unemployment rate in Sudan 2019'
+                if title == x:
+                    print('match')
+                if 'idxmax' in token or 'idxmin' in token:
+                    #axis = token[-3].lower()
+                    type = token[-7:-4]
+                    if 'templateYValue' in token:
+                        index = mapParallelIndex(xValueArr, type)
+                        try:
+                            replacedToken = yValueArr[index].replace('_', ' ')
+                        except:
+                            print(f'{type} error at {index} in {title}')
+                            replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
+                    elif 'templateXValue' in token:
+                        index = mapParallelIndex(yValueArr, type)
+                        try:
+                            replacedToken = xValueArr[index].replace('_', ' ')
+                        except:
+                            print(f'{type} error at {index} in {title}')
+                            replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
+                else:
+                    index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
+                    if 'templateXValue' in token:
+                        index = mapIndex(index, xValueArr)
+                        try:
+                            replacedToken = xValueArr[index].replace('_', ' ')
+                        except:
+                            print(f'xvalue index error at {index} in {title}')
+                            replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
+                    elif 'templateYValue' in token:
+                        index = mapIndex(index, yValueArr)
+                        try:
+                            replacedToken = yValueArr[index].replace('_', ' ')
+                        except:
+                            print(f'yvalue index error at {index} in {title}')
+                            replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
+                    elif 'templateXLabel' in token:
+                        index = mapIndex(index, cleanXLabel)
+                        try:
+                            replacedToken = cleanXLabel[index]
+                        except:
+                            print(f'xlabel index error at {index} in {title}')
+                            replacedToken = cleanXLabel[len(cleanXLabel) - 1]
+                    elif 'templateYLabel' in token:
+                        index = mapIndex(index, cleanYLabel)
+                        try:
+                            replacedToken = cleanYLabel[index]
+                        except:
+                            print(f'ylabel index error at {index} in {title}')
+                            replacedToken = cleanYLabel[len(cleanYLabel) - 1]
+                    elif 'templateTitleSubject' in token:
+                        # print(entities['Subject'][int(index)], index)
+                        try:
+                            replacedToken = entities['Subject'][int(index)]
+                        except:
+                            print(f'subject index error at {index} in {title}')
+                            replacedToken = entities['Subject'][len(entities['Subject']) - 1]
+                    elif 'templateTitleDate' in token:
+                        # print(entities['Date'][int(index)], index)
+                        index = mapIndex(index, entities['Date'])
+                        try:
+                            replacedToken = entities['Date'][int(index)]
+                        except:
+                            print(f'date index error at {index} in {title}')
+                            if len(entities['Date']) > 0:
+                                replacedToken = entities['Date'][len(entities['Date']) - 1]
+                            else:
+                                replacedToken = ''
+                    elif 'templateTitle' in token:
+                        index = mapIndex(index, titleArr)
+                        try:
+                            replacedToken = titleArr[index]
+                        except:
+                            print(f'title index error at {index} in {title}')
+                            replacedToken = titleArr[len(titleArr) - 1]
             else:
                 replacedToken = token
             if i > 1:
                 if replacedToken.lower() != reversedArr[-1].lower():
                     reversedArr.append(replacedToken)
                 else:
-                    print(f'dupe: {replacedToken}')
+                    z = 0 #print(f'dupe: {replacedToken}')
             else:
                 reversedArr.append(replacedToken)
         # remove empty items
@@ -198,21 +257,8 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
         reverse = ' '.join(reversedArr)
         comparison = f'Example {count}:\ntitleEntities: {entities}\ntitle: {title}X_Axis{xLabel}: {xValueArr}\nY_Axis{yLabel}: {yValueArr}\n\ngold: {gold}' \
                      f'gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n'
-        print(comparison)
+        #print(comparison)
         comparisonFile.write(comparison)
         outputFile.write(f'{reverse}\n')
-
-
-# try:
-#main()
-# except Exception as ex:
-#    print('error:', ex)
-
-""" elif are_numbers(array[0:len(array)-2]):
-    array = [float(i) for i in array[0:len(array)-2]]
-    if str(index) == 'max':
-        index = array.index(max(array))
-        return int(index)
-    elif str(index) == 'min':
-        index = array.index(min(array))
-        return int(index)    """
+        if int(count) in analysis:
+            analysisFile.write(comparison)

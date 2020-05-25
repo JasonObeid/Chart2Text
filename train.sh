@@ -43,7 +43,8 @@ python3 model/train.py \
     --encoder_positional_emb True \
     --gelu_activation True \
     --validation_metrics valid_mt_bleu \
-    --lm_step True \
-    --lambda_lm 1
+    --reload_model may13-80.pth
+    #--lm_step True \
+    #--lambda_lm 1
 
     # --eval_cs True
