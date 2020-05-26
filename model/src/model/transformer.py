@@ -423,7 +423,9 @@ class TransformerDecoder(nn.Module):
         self.eos_index = params.eos_index
         self.pad_index = params.pad_index
         self.dico = dico
-        assert len(self.dico) == self.n_words
+        print(self.n_words)
+        print(len(self.dico))
+        #assert len(self.dico) == self.n_words
 
         # model parameters
         self.dim = params.emb_dim       # 512 by default
@@ -642,7 +644,7 @@ class TransformerDecoder(nn.Module):
 
         return generated[:cur_len], gen_len
 
-    def generate_beam(self, src_enc, src_len, beam_size, length_penalty, early_stopping, max_len=200):
+    def generate_beam(self, src_enc, src_len, beam_size, length_penalty, early_stopping, removedDict, max_len=200):
         """
         Decode a sentence given initial start.
         `x`:
@@ -674,7 +676,7 @@ class TransformerDecoder(nn.Module):
         generated[0].fill_(self.eos_index)                # we use <EOS> for <BOS> everywhere
 
         # generated hypotheses
-        generated_hyps = [BeamHypotheses(beam_size, max_len, length_penalty, early_stopping) for _ in range(bs)]
+        generated_hyps = [BeamHypotheses(beam_size, max_len, length_penalty, early_stopping, removedDict) for _ in range(bs)]
 
         # positions
         positions = src_len.new(max_len).long()
@@ -709,15 +711,29 @@ class TransformerDecoder(nn.Module):
             )
             assert tensor.size() == (1, bs * beam_size, self.dim)
             tensor = tensor.data[-1, :, :]               # (bs * beam_size, dim)
+            #print(tensor)
             scores = self.pred_layer.get_scores(tensor)  # (bs * beam_size, n_words)
             scores = F.log_softmax(scores, dim=-1)       # (bs * beam_size, n_words)
             assert scores.size() == (bs * beam_size, n_words)
 
             # select next words with scores
+            #scores of n top sentences where n = beam_size
             _scores = scores + beam_scores[:, None].expand_as(scores)  # (bs * beam_size, n_words)
+            #print(f'1 {_scores}')
+            #top score?
             _scores = _scores.view(bs, beam_size * n_words)            # (bs, beam_size * n_words)
-
+            #print(f'2 {_scores}')
             next_scores, next_words = torch.topk(_scores, 2 * beam_size, dim=1, largest=True, sorted=True)
+            test = []
+            #for idx, value in zip(next_words[0], next_scores[0]):
+                # get beam and word IDs
+                #beam_id = idx // n_words
+                #word_id = idx % n_words
+                #test.append(self.dico[word_id.item()])
+                #print(next_score, next_word)
+                #if next_word in removedDict:
+                    #print(next_word)
+            #print(f'next words: {test}')
             assert next_scores.size() == next_words.size() == (bs, 2 * beam_size)
 
             # next batch beam content
@@ -742,17 +758,28 @@ class TransformerDecoder(nn.Module):
                     # get beam and word IDs
                     beam_id = idx // n_words
                     word_id = idx % n_words
+                    #print(, value)
+                    #print('loop')
 
                     # end of sentence, or next word
                     if word_id == self.eos_index or cur_len + 1 == max_len:
                         generated_hyps[sent_id].add(generated[:cur_len, sent_id * beam_size + beam_id].clone(), value.item())
+                        #print(f'hyp: {generated_hyps}')
                     else:
                         next_sent_beam.append((value, word_id, sent_id * beam_size + beam_id))
 
                     # the beam for next step is full
                     if len(next_sent_beam) == beam_size:
                         break
-
+                #
+                for i in range(len(next_sent_beam)):
+                    #print(self.dico[word_id.item()])
+                    if self.dico[word_id.item()] in removedDict:
+                        print(next_sent_beam)
+                        #if predicted template is not valid, pop the tuple and append it to the end
+                        badBeam = next_sent_beam[i].pop()
+                        next_sent_beam.append(badBeam)
+                        print(next_sent_beam)
                 # update next beam content
                 assert len(next_sent_beam) == 0 if cur_len + 1 == max_len else beam_size
                 if len(next_sent_beam) == 0:
@@ -766,9 +793,13 @@ class TransformerDecoder(nn.Module):
             beam_words = generated.new([x[1] for x in next_batch_beam])
             beam_idx = src_len.new([x[2] for x in next_batch_beam])
 
+            decoded = [self.dico[x.item()] for x in beam_words]
+            #print(decoded)
+
             # re-order batch and internal states
             generated = generated[:, beam_idx]
             generated[cur_len] = beam_words
+            #print(generated)
             for k in cache.keys():
                 if k != 'slen':
                     cache[k] = (cache[k][0][beam_idx], cache[k][1][beam_idx])
@@ -784,10 +815,10 @@ class TransformerDecoder(nn.Module):
         # print([len(x) for x in generated_hyps], cur_len)
         # globals().update( locals() );
         # !import code; code.interact(local=vars())
-        # for ii in range(bs):
-        #     for ss, ww in sorted(generated_hyps[ii].hyp, key=lambda x: x[0], reverse=True):
-        #         print("%.3f " % ss + " ".join(self.dico[x] for x in ww.tolist()))
-        #     print("")
+        #for ii in range(bs):
+        #    for ss, ww in sorted(generated_hyps[ii].hyp, key=lambda x: x[0], reverse=True):
+        #        print("%.3f " % ss + " ".join(self.dico[x] for x in ww.tolist()))
+        #        print("")
 
         # select the best hypotheses
         tgt_len = src_len.new(bs)
@@ -984,7 +1015,7 @@ class TransformerDecoder(nn.Module):
 
 class BeamHypotheses(object):
 
-    def __init__(self, n_hyp, max_len, length_penalty, early_stopping):
+    def __init__(self, n_hyp, max_len, length_penalty, early_stopping, removedDict):
         """
         Initialize n-best list of hypotheses.
         """
@@ -994,6 +1025,7 @@ class BeamHypotheses(object):
         self.n_hyp = n_hyp
         self.hyp = []
         self.worst_score = 1e9
+        self.removedDict = removedDict
 
     def __len__(self):
         """
@@ -1005,8 +1037,11 @@ class BeamHypotheses(object):
         """
         Add a new hypothesis to the list.
         """
+        #print(self.removedDict)
         score = sum_logprobs / len(hyp) ** self.length_penalty
         if len(self) < self.n_hyp or score > self.worst_score:
+            #if hyp not in self.removedDict:
+                #print(score, hyp)
             self.hyp.append((score, hyp))
             if len(self) > self.n_hyp:
                 sorted_scores = sorted([(s, idx) for idx, (s, _) in enumerate(self.hyp)])
