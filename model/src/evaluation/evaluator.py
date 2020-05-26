@@ -59,12 +59,10 @@ class Evaluator(object):
             #print(batch)
             yield batch #if lang2 is None or lang1 < lang2 else batch[::-1]
 
-
+    """
     def mask_out(self, x, lengths, rng):
-        """
-        Decide of random words to mask out.
-        We specify the random generator to ensure that the test is the same at each epoch.
-        """
+        #Decide of random words to mask out.
+        #We specify the random generator to ensure that the test is the same at each epoch.
         params = self.params
         slen, bs = x.size()
 
@@ -88,6 +86,7 @@ class Evaluator(object):
         assert pred_mask.size() == (slen, bs)
 
         return x, _x_real, pred_mask
+    """
 
     def run_all_evals(self, trainer):
         """
@@ -107,10 +106,10 @@ class Evaluator(object):
                     self.evaluate_mt(scores, data_set, params.eval_bleu)
         return scores
 
-    def evaluate_clm(self, scores, data_set):
-        """
-        Evaluate perplexity and next word prediction accuracy.
-        """
+    """def evaluate_clm(self, scores, data_set):
+        
+        #Evaluate perplexity and next word prediction accuracy.
+
         params = self.params
         assert data_set in test_list or data_set == 'train'
 
@@ -165,7 +164,7 @@ class Evaluator(object):
         ppl_name = '%s_clm_ppl' % (data_set)
         acc_name = '%s_clm_acc' % (data_set)
         scores[ppl_name] = np.exp(xe_loss / n_words)
-        scores[acc_name] = 100. * n_valid / n_words
+        scores[acc_name] = 100. * n_valid / n_words"""
 
     def evaluate_cs(self, scores, data_set):
         """
