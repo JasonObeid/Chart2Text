@@ -365,7 +365,13 @@ class EncDecEvaluator(Evaluator):
                 f.write('\n'.join(hypothesis) + '\n')
             restore_segmentation(temp_path)
             # reverse templating and save in persistent hypothesis file
-            summaryComparison.main(hyp_path, temp_path)
+            dataPath = 'data/valid/validData.txt'
+            titlePath = 'data/valid/validTitle.txt'
+            try:
+                summaryComparison.run(temp_path, hyp_path, dataPath, titlePath)
+            except:
+                logger.log('summary reversal failed')
+                hyp_path = temp_path
             # evaluate BLEU score
             bleu = eval_moses_bleu(ref_path, hyp_path)
             logger.info("BLEU %s %s : %f" % (hyp_path, ref_path, bleu))

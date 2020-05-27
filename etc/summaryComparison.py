@@ -242,7 +242,8 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
             else:
                 replacedToken = token
             if i > 2:
-                if replacedToken.lower() != reversedArr[-2].lower() and replacedToken.lower() != reversedArr[-1].lower():
+                if replacedToken.lower() != reversedArr[-2].lower() and \
+                        replacedToken.lower() != reversedArr[-1].lower():
                     reversedArr.append(replacedToken)
                 else:
                     z = 0 #print(f'dupe: {replacedToken}')

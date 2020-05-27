@@ -7,6 +7,7 @@ Y_Axis['Revenue', 'in', 'million', 'U.S.', 'dollars']: ['304', '290', '273', '22
 gold: The statistic shows the revenue of the New Jersey Nets franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated revenue of the National Basketball Association franchise is 304 million U.S. dollars .
 gold_template: The statistic shows the templateYLabel[0] of the New Jersey templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise is templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
 
+
 generated_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
 generated: The statistic shows the Revenue of the Brooklyn Nets franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 304 million U.S. dollars .
 
@@ -22,6 +23,10 @@ gold_template: The statistic shows the templateYLabel[0] of the templateTitleSub
 generated_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] . templateTitleSubject[0] The templateTitleSubject[0] are a professional basketball team of the National Basketball Association ( NBA ) , entering the league as an expansion team in 1968 .
 generated: The statistic shows the Revenue of the Utah Jazz franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 258 million U.S. dollars . Utah Jazz The are a professional basketball team of the National Basketball Association ( NBA ) , entering the league as an expansion team in 1968 .
 
+- Examples 13 and 49 gold summaries follow identical formats. In the first sentence they describe what the graphs shows, along with the year range which it is showing. This sentence mostly paraphrases the graph's title. The next sentence describes the chart data in the most recent time period, which is also the max y value.
+
+The generated summaries are almost verbatim to the gold summaries, except for the last sentence of example 49 where it generates some additional information with a hallucinated year
+
 Example 52:
 titleEntities: {'Subject': ['Belgium'], 'Date': ['2000', '2018']}
 title: Hospitals in Belgium 2000 to 2018
@@ -34,6 +39,8 @@ gold_template: Since templateXValue[min] , the templateYLabel[0] of templateYLab
 generated_template: There were templateYValue[min] templateYLabel[1] of templateTitle[1] templateTitle[2] banks in the templateTitle[5] in templateXValue[max] . After a period of growth from templateXValue[min] to templateXValue[10] , this templateYLabel[0] has been slowly diminishing in the past few years . In templateXValue[max] , Wells Fargo led the ranking of banks with the highest templateYLabel[0] of templateYLabel[1] .
 generated: There were 174 hospitals of Belgium 2000 banks in the 2018 in . After a period of growth from 2000 to 2008 , this Number has been slowly diminishing in the past few years . In 2018 , Wells Fargo led the ranking of banks with the highest Number of hospitals .
 
+- The example 52 gold summary begins by describing a trend from the start period to end period. The second sentence provides the specific values at these start and end periods. The third sentence describes the percentage change between these periods
+  
 Example 112:
 titleEntities: {'Subject': ['U.S.'], 'Date': ['2017']}
 title: Video game systems : U.S. installed base in 2017 , by platform
@@ -46,6 +53,8 @@ gold_template: The statistic depicts the templateYLabel[0] templateYLabel[1] of 
 generated_template: The templateYLabel[0] of templateYLabel[1] in templateTitleSubject[0] in templateTitleDate[0] amounted to around 4.7 million . Among these , the most common templateTitle[5] of templateXValue[4] , around 40 percent , was the single-person templateXValue[4] templateXValue[0] , which amounted to around templateYValue[max] million . The second most common templateXValue[4] templateTitle[5] was templateXValue[2] or married couples templateXLabel[0] templateXValue[0] , in around templateYValue[1] million templateYLabel[1] .
 generated: The Installed of base in U.S. 2017 amounted to around 4.7 million . Among these , the most common base of PlayStation 4 , around 40 percent , was the single-person PlayStation 4 Xbox One S , which amounted to around 21 million . The second most common PlayStation 4 base was Xbox 360 or married couples Console Xbox One S , in around 12 million base .
 
+Example 112's gold summary describes what the chart's x and y axes represent, along with the year it takes place in. The second sentence describes the max value of the chart. 
+
 Example 151:
 titleEntities: {'Subject': ['South Korea'], 'Date': ['2015', '2022']}
 title: South Korea : number of social network users 2015 to 2022
@@ -57,6 +66,13 @@ gold_template: This statistic shows the templateYLabel[0] of templateTitle[3] te
 
 generated_template: This statistic shows the templateYLabel[0] of templateTitleSubject[1] templateYLabel[1] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] of templateTitleSubject[1] templateYLabel[1] in templateTitleSubject[0] is expected to reach templateYValue[idxmax(X)] templateYLabel[2] , up from templateYValue[5] templateYLabel[2] in templateXValue[5] .
 generated: This statistic shows the Number of South Korea users in South Korea from 2015 to 2022 . In 2022 , the Number of South Korea users in South Korea is expected to reach 28.16 millions , up from 24.77 millions in 2017 .
+
+Example 151's gold summary describes the x and y axes of the chart in the specific location and year range. The second sentence gives a projection (the latest value), and compares it to the values from 5 periods prior.
+
+
+
+
+
 
 Example 202:
 titleEntities: {'Subject': ['U.S.'], 'Date': ['2000', '2018']}

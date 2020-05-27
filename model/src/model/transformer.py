@@ -644,7 +644,7 @@ class TransformerDecoder(nn.Module):
 
         return generated[:cur_len], gen_len
 
-    def generate_beam(self, src_enc, src_len, beam_size, length_penalty, early_stopping, removedDict, max_len=200):
+    def generate_beam(self, src_enc, src_len, beam_size, length_penalty, early_stopping, max_len=200):
         """
         Decode a sentence given initial start.
         `x`:
@@ -676,7 +676,7 @@ class TransformerDecoder(nn.Module):
         generated[0].fill_(self.eos_index)                # we use <EOS> for <BOS> everywhere
 
         # generated hypotheses
-        generated_hyps = [BeamHypotheses(beam_size, max_len, length_penalty, early_stopping, removedDict) for _ in range(bs)]
+        generated_hyps = [BeamHypotheses(beam_size, max_len, length_penalty, early_stopping) for _ in range(bs)]
 
         # positions
         positions = src_len.new(max_len).long()
@@ -771,7 +771,7 @@ class TransformerDecoder(nn.Module):
                     # the beam for next step is full
                     if len(next_sent_beam) == beam_size:
                         break
-                #
+                """
                 for i in range(len(next_sent_beam)):
                     #print(self.dico[word_id.item()])
                     if self.dico[word_id.item()] in removedDict:
@@ -780,6 +780,7 @@ class TransformerDecoder(nn.Module):
                         badBeam = next_sent_beam[i].pop()
                         next_sent_beam.append(badBeam)
                         print(next_sent_beam)
+                        """
                 # update next beam content
                 assert len(next_sent_beam) == 0 if cur_len + 1 == max_len else beam_size
                 if len(next_sent_beam) == 0:
@@ -1015,7 +1016,7 @@ class TransformerDecoder(nn.Module):
 
 class BeamHypotheses(object):
 
-    def __init__(self, n_hyp, max_len, length_penalty, early_stopping, removedDict):
+    def __init__(self, n_hyp, max_len, length_penalty, early_stopping):
         """
         Initialize n-best list of hypotheses.
         """
@@ -1025,7 +1026,6 @@ class BeamHypotheses(object):
         self.n_hyp = n_hyp
         self.hyp = []
         self.worst_score = 1e9
-        self.removedDict = removedDict
 
     def __len__(self):
         """

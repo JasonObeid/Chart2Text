@@ -2,6 +2,11 @@ import spacy
 import en_core_web_md
 import re
 
+nlp = spacy.load('en_core_web_md')
+
+fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
+           'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', 'with']
+
 def getNamedEntity(title, xValueArr, xLabel):
     doc = nlp(title)
     entities = {}
@@ -26,7 +31,8 @@ def getNamedEntity(title, xValueArr, xLabel):
         if xLabel[0] == 'Month':
             years = []
             for item in xValueArr:
-                [years.append(year.replace('\'', '')) for year in item.split('_') if year.replace('\'', '').isnumeric()]
+                [years.append(year.replace('\'', '')) for year in item.split('_') if
+                 year.replace('\'', '').isnumeric()]
             if len(years) > 0:
                 entities['Date'] = [min(years), max(years)]
         elif xLabel[0] == 'Year':
@@ -52,6 +58,24 @@ def are_numbers(stringList):
         return False
 
 
+#valueArr is the array of the idxmax/min (x or y)
+#type is min/max
+def mapParallelIndex(valueArr, type):
+    if are_numbers(valueArr):
+        try:
+            array = [float(i) for i in valueArr]
+            if type == 'max':
+                index = array.index(max(array))
+                return int(index)
+            elif type == 'min':
+                index = array.index(min(array))
+                return int(index)
+        except:
+            print('Parallel num err')
+            print(valueArr, type)
+            return 0
+
+
 def mapIndex(index, array):
     if are_numbers(array):
         try:
@@ -63,8 +87,9 @@ def mapIndex(index, array):
                 index = array.index(min(array))
                 return int(index)
         except:
-            print('num err')
+            print('numbers num err')
             return 0
+
     elif are_numbers(array[0:len(array) - 1]):
         try:
             array = [float(i) for i in array[0:len(array) - 1]]
@@ -75,31 +100,36 @@ def mapIndex(index, array):
                 index = array.index(min(array))
                 return int(index)
         except:
-            print('num err')
+            print('n-1 num err')
             return 0
+
     if index == 'last':
         index = len(array) - 1
         return int(index)
+
     try:
+        # this exception occurs with min/max on data which isn't purely numeric: ex. ['10_miles_or_less', '11_-_50_miles', '51_-_100_miles']
+        cleanArr = [float("".join(filter(str.isdigit, item))) for item in array if
+                    "".join(filter(str.isdigit, item)) != '']
+        if str(index) == 'max':
+            index = cleanArr.index(max(cleanArr))
+            return int(index)
+        elif str(index) == 'min':
+            index = cleanArr.index(min(cleanArr))
+            return int(index)
         return int(index)
     except:
-        print('num err')
-        return 0
+        print(array, index)
+        return int(index)
 
 
-def main(outputPath, hypFile):
-    dataPath = '../../../data/valid/validData.txt'
-    titlePath = '../../../data/valid/validTitle.txt'
+def run(tempPath, hypPath, dataPath, titlePath):
 
-    nlp = spacy.load('en_core_web_md')
-
-    fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
-               'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', 'with']
     count = 0
 
-    with open(dataPath, 'r', encoding='utf-8') as dataFile, open(outputPath, 'w', encoding='utf-8') as outputFile, \
-        open(titlePath, 'r', encoding='utf-8') as titleFile:
-        fileIterators = zip(hypFile.readlines(), dataFile.readlines(), titleFile.readlines())
+    with open(dataPath, 'r', encoding='utf-8') as dataFile, open(hypPath, 'w', encoding='utf-8') as hypFile, \
+            open(titlePath, 'r', encoding='utf-8') as titleFile, open(tempPath, 'r', encoding='utf-8') as tempFile:
+        fileIterators = zip(tempFile.readlines(), dataFile.readlines(), titleFile.readlines())
         for generated, data, title in fileIterators:
             count += 1
             xValueArr = []
@@ -130,56 +160,89 @@ def main(outputPath, hypFile):
                         print(f'popped: {tokens[i + 1]}')
                         tokens.pop(i + 1)
                 if 'template' in token:
-                    index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
-                    if 'templateXValue' in token:
-                        index = mapIndex(index, xValueArr)
+                    if 'idxmax' in token or 'idxmin' in token:
+                        # axis = token[-3].lower()
+                        type = token[-7:-4]
+                        if 'templateYValue' in token:
+                            index = mapParallelIndex(xValueArr, type)
+                            try:
+                                replacedToken = yValueArr[index].replace('_', ' ')
+                            except:
+                                print(f'{type} error at {index} in {title}')
+                                replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
+                        elif 'templateXValue' in token:
+                            index = mapParallelIndex(yValueArr, type)
+                            try:
+                                replacedToken = xValueArr[index].replace('_', ' ')
+                            except:
+                                print(f'{type} error at {index} in {title}')
+                                replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
+                    else:
                         try:
-                            replacedToken = xValueArr[index].replace('_', ' ')
+                            index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
+                            print(index)
+                            print(token)
                         except:
-                            replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
-                    elif 'templateYValue' in token:
-                        index = mapIndex(index, yValueArr)
-                        try:
-                            replacedToken = yValueArr[index].replace('_', ' ')
-                        except:
-                            replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
-                    elif 'templateXLabel' in token:
-                        index = mapIndex(index, cleanXLabel)
-                        try:
-                            replacedToken = cleanXLabel[index]
-                        except:
-                            replacedToken = cleanXLabel[len(cleanXLabel) - 1]
-                    elif 'templateYLabel' in token:
-                        index = mapIndex(index, cleanYLabel)
-                        try:
-                            replacedToken = cleanYLabel[index]
-                        except:
-                            replacedToken = cleanYLabel[len(cleanYLabel) - 1]
-                    elif 'templateTitleSubject' in token:
-                        # print(entities['Subject'][int(index)], index)
-                        try:
-                            replacedToken = entities['Subject'][int(index)]
-                        except:
-                            replacedToken = entities['Subject'][len(entities['Subject']) - 1]
-                    elif 'templateTitleDate' in token:
-                        # print(entities['Date'][int(index)], index)
-                        try:
-                            replacedToken = entities['Date'][int(index)]
-                        except:
-                            if len(entities['Date']) > 0:
-                                replacedToken = entities['Date'][len(entities['Date']) - 1]
+                            print('? error')
+                            index = 0
+                        if 'templateXValue' in token:
+                            index = mapIndex(index, xValueArr)
+                            if index < len(xValueArr):
+                                replacedToken = xValueArr[index].replace('_', ' ')
                             else:
-                                replacedToken = ''
-                    elif 'templateTitle' in token:
-                        index = mapIndex(index, titleArr)
-                        try:
-                            replacedToken = titleArr[index]
-                        except:
-                            replacedToken = titleArr[len(titleArr) - 1]
+                                print(f'xvalue index error at {index} in {title}')
+                                replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
+                        elif 'templateYValue' in token:
+                            index = mapIndex(index, yValueArr)
+                            if index < len(yValueArr):
+                                replacedToken = yValueArr[index].replace('_', ' ')
+                            else:
+                                print(f'yvalue index error at {index} in {title}')
+                                replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
+                        elif 'templateXLabel' in token:
+                            index = mapIndex(index, cleanXLabel)
+                            if index < len(cleanXLabel):
+                                replacedToken = cleanXLabel[index]
+                            else:
+                                print(f'xlabel index error at {index} in {title}')
+                                replacedToken = cleanXLabel[len(cleanXLabel) - 1]
+                        elif 'templateYLabel' in token:
+                            index = mapIndex(index, cleanYLabel)
+                            if index < len(cleanYLabel):
+                                replacedToken = cleanYLabel[index]
+                            else:
+                                print(f'ylabel index error at {index} in {title}')
+                                replacedToken = cleanYLabel[len(cleanYLabel) - 1]
+                        elif 'templateTitleSubject' in token:
+                            # print(entities['Subject'][int(index)], index)
+                            if int(index) < len(entities['Subject']):
+                                replacedToken = entities['Subject'][int(index)]
+                            else:
+                                print(f'subject index error at {index} in {title}')
+                                replacedToken = entities['Subject'][len(entities['Subject']) - 1]
+                        elif 'templateTitleDate' in token:
+                            # print(entities['Date'][int(index)], index)
+                            index = mapIndex(index, entities['Date'])
+                            if index < len(entities['Date']):
+                                replacedToken = entities['Date'][int(index)]
+                            else:
+                                print(f'date index error at {index} in {title}')
+                                if len(entities['Date']) > 0:
+                                    replacedToken = entities['Date'][len(entities['Date']) - 1]
+                                else:
+                                    replacedToken = ''
+                        elif 'templateTitle' in token:
+                            index = mapIndex(index, titleArr)
+                            if index < len(titleArr):
+                                replacedToken = titleArr[index]
+                            else:
+                                print(f'title index error at {index} in {title}')
+                                replacedToken = titleArr[len(titleArr) - 1]
                 else:
                     replacedToken = token
-                if i > 1:
-                    if replacedToken.lower() != reversedArr[-1].lower():
+                if i > 2:
+                    if replacedToken.lower() != reversedArr[-2].lower() and \
+                            replacedToken.lower() != reversedArr[-1].lower():
                         reversedArr.append(replacedToken)
                     else:
                         print(f'dupe: {replacedToken}')
@@ -188,8 +251,4 @@ def main(outputPath, hypFile):
             # remove empty items
             reversedArr = [item for item in reversedArr if item != '']
             reverse = ' '.join(reversedArr)
-            outputFile.write(f'{reverse}\n')
-
-
-if __name__ == '__main__':
-    main()
+            hypFile.write(f'{reverse}\n')
