@@ -119,8 +119,11 @@ def mapIndex(index, array):
             return int(index)
         return int(index)
     except:
-        print(array, index)
+        z = 0
+    try:
         return int(index)
+    except:
+        return 0
 
 
 def run(tempPath, hypPath, dataPath, titlePath):
