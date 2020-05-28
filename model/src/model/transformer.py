@@ -425,7 +425,7 @@ class TransformerDecoder(nn.Module):
         self.dico = dico
         print(self.n_words)
         print(len(self.dico))
-        #assert len(self.dico) == self.n_words
+        assert len(self.dico) == (self.n_words)
 
         # model parameters
         self.dim = params.emb_dim       # 512 by default
@@ -724,7 +724,7 @@ class TransformerDecoder(nn.Module):
             _scores = _scores.view(bs, beam_size * n_words)            # (bs, beam_size * n_words)
             #print(f'2 {_scores}')
             next_scores, next_words = torch.topk(_scores, 2 * beam_size, dim=1, largest=True, sorted=True)
-            test = []
+            #test = []
             #for idx, value in zip(next_words[0], next_scores[0]):
                 # get beam and word IDs
                 #beam_id = idx // n_words
@@ -767,6 +767,17 @@ class TransformerDecoder(nn.Module):
                         #print(f'hyp: {generated_hyps}')
                     else:
                         next_sent_beam.append((value, word_id, sent_id * beam_size + beam_id))
+                        #if word_id.item() in self.dico.id2word.keys():
+                            #if 'template' in self.dico.id2word[word_id.item()]:
+                                #if word_id.item() not in [ids[1] for ids in next_sent_beam]:
+                                    #print(self.dico.id2word[word_id.item()])
+                                    #next_sent_beam.append((value, word_id, sent_id * beam_size + beam_id))
+                                #else:
+                                #    print(f'{self.dico.id2word[word_id.item()]} : already in : {[self.dico.id2word[ids[1].item()] for ids in next_sent_beam]}')
+                            #else:
+
+                        #else:
+                            #print(f'bad {word_id.item()}')
 
                     # the beam for next step is full
                     if len(next_sent_beam) == beam_size:
@@ -794,13 +805,14 @@ class TransformerDecoder(nn.Module):
             beam_words = generated.new([x[1] for x in next_batch_beam])
             beam_idx = src_len.new([x[2] for x in next_batch_beam])
 
-            decoded = [self.dico[x.item()] for x in beam_words]
-            #print(decoded)
+            #decoded = [self.dico[x.item()] for x in beam_words]
+            #print(f'decoded: {decoded}')
 
             # re-order batch and internal states
             generated = generated[:, beam_idx]
             generated[cur_len] = beam_words
             #print(generated)
+            #print(generated[cur_len])
             for k in cache.keys():
                 if k != 'slen':
                     cache[k] = (cache[k][0][beam_idx], cache[k][1][beam_idx])

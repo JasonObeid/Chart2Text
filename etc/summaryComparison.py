@@ -2,14 +2,14 @@ import spacy
 import en_core_web_md
 import re
 
-analysisPath = '../results/may26/analysis-5212g-p80-batch1.txt'
-generatedPath = '../results/may26/templateOutput_5212gp80_beam=4_batch=1.txt'
+analysisPath = '../results/may26/analysis-5212r-p80-batch1.txt'
+generatedPath = '../results/may26/templateOutput_5212rp80_beam=4_batch=1.txt'
 goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/may26/summaryComparison5212g-p80_beam4_batch1.txt'
-outputPath = '../results/may26/generated-5212g-p80-batch1.txt'
+comparisonPath = '../results/may26/summaryComparison5212r-p80_beam4_batch1.txt'
+outputPath = '../results/may26/generated-5212r-p80-batch1.txt'
 
 nlp = spacy.load('en_core_web_md')
 
@@ -111,6 +111,7 @@ def mapIndex(index, array):
         index = len(array) - 1
         return int(index)
 
+
     try:
         # this exception occurs with min/max on data which isn't purely numeric: ex. ['10_miles_or_less', '11_-_50_miles', '51_-_100_miles']
         cleanArr = [float("".join(filter(str.isdigit, item))) for item in array if
@@ -123,6 +124,8 @@ def mapIndex(index, array):
             return int(index)
         return int(index)
     except:
+        if not are_numbers(array) and (index == 'min' or index == 'max'):
+            return 0
         return int(index)
 
 

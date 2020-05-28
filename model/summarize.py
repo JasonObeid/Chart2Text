@@ -25,12 +25,11 @@ from src.utils import AttrDict
 from src.utils import bool_flag, initialize_exp
 from src.data.dictionary import Dictionary
 from src.model.transformer import TransformerEncoder, TransformerDecoder
-
+"""
 def get_parser():
-    """
-    Generate a parameters parser.
-    """
+    # Generate a parameters parser.
     # parse parameters
+    
     parser = argparse.ArgumentParser(description="Summary generation")
 
     # main parameters
@@ -47,31 +46,30 @@ def get_parser():
     parser.add_argument("--early_stopping", type=bool, default=False, help="")
 
     return parser
-
+"""
 
 def main(params):
     # generate parser / parse parameters
-    parser = get_parser()
-    params = parser.parse_args()
+    #parser = get_parser()
+    #params = parser.parse_args()
     reloaded = torch.load(params.model_path)
+
     model_params = AttrDict(reloaded['params'])
 
     # update dictionary parameters
     for name in ['src_n_words', 'tgt_n_words', 'bos_index', 'eos_index', 'pad_index', 'unk_index', 'mask_index']:
         setattr(params, name, getattr(model_params, name))
-
+    print(f'iter{getattr(model_params, "src_n_words")}')
+    print(getattr(model_params, 'tgt_n_words'))
     # build dictionary / build encoder / build decoder / reload weights
     source_dico = Dictionary(reloaded['source_dico_id2word'], reloaded['source_dico_word2id'])
-    #print(source_dico.word2id)
-    #print(source_dico.__contains__('templateTitle[1]'))
     target_dico = Dictionary(reloaded['target_dico_id2word'], reloaded['target_dico_word2id'])
-    #print(target_dico.word2id)
-    #print(target_dico.__contains__('templateTitle[1]'))
-    #print(target_dico.__contains__('templateTitle[15]'))
+    baseID = reloaded['target_dico_id2word'].copy()
+    baseWord = reloaded['target_dico_word2id'].copy()
+    base_dico = Dictionary(baseID, baseWord)
+    originalDecoder = reloaded['decoder'].copy()
     encoder = TransformerEncoder(model_params, source_dico, with_output=False).cuda().eval()
-    decoder = TransformerDecoder(model_params, target_dico, with_output=True).cuda().eval()
     encoder.load_state_dict(reloaded['encoder'])
-    decoder.load_state_dict(reloaded['decoder'])
 
     # read sentences from stdin
     table_lines = []
@@ -92,7 +90,7 @@ def main(params):
 
     for i in range(0, len(table_lines), params.batch_size):
         # prepare batch
-        removedDict = {}
+
         valueLengths = []
         xLabelLengths = []
         yLabelLengths = []
@@ -102,10 +100,7 @@ def main(params):
         enc_x3_ids = []
         enc_x4_ids = []
         for table_line, title_line in zip(table_lines[i:i + params.batch_size], title_lines[i:i + params.batch_size]):
-            #print(table_line)
-            #print(title_line)
             record_seq = [each.split('|') for each in table_line.split()]
-            #print(record_seq)
             assert all([len(x) == 4 for x in record_seq])
 
             enc_x1_ids.append(torch.LongTensor([source_dico.index(x[0]) for x in record_seq]))
@@ -124,10 +119,6 @@ def main(params):
             titleLengths.append(cleanTitle)
             valueLengths.append(round(len(record_seq)/2))
 
-        #title.split()]
-        #print(xLabelLengths)
-        #print(yLabelLengths)
-        #print(valueLengths)
         enc_xlen = torch.LongTensor([len(x) + 2 for x in enc_x1_ids])
         enc_x1 = torch.LongTensor(enc_xlen.max().item(), enc_xlen.size(0)).fill_(params.pad_index)
         enc_x1[0] = params.eos_index
@@ -165,49 +156,74 @@ def main(params):
         maxLengthValue = max(valueLengths)
         maxLengthTitle = max(titleLengths)
 
-
-        target_dico = target_dico
+        newTarget_dico = Dictionary(base_dico.id2word.copy(), base_dico.word2id.copy())
+        removedDict = {}
 
         for n in range(maxLengthXLabel, 10):
             deleteThis = f'templateXLabel[{n}]'
-            if target_dico.__contains__(deleteThis):
+            if newTarget_dico.__contains__(deleteThis):
                 #print(f'found at {n}')
-                ids = target_dico.index(deleteThis)
+                ids = newTarget_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
+                del newTarget_dico.word2id[deleteThis]
+                del newTarget_dico.id2word[ids]
         for n in range(maxLengthYLabel, 10):
-            deleteThis = f'templateXLabel[{n}]'
-            if target_dico.__contains__(deleteThis):
+            deleteThis = f'templateYLabel[{n}]'
+            if newTarget_dico.__contains__(deleteThis):
                 #print(f'found at {n}')
-                ids = target_dico.index(deleteThis)
+                ids = newTarget_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
+                del newTarget_dico.word2id[deleteThis]
+                del newTarget_dico.id2word[ids]
         for n in range(maxLengthTitle, 15):
             deleteThis = f'templateTitle[{n}]'
-            if target_dico.__contains__(deleteThis):
+            if newTarget_dico.__contains__(deleteThis):
                 # print(f'found at {n}')
-                ids = target_dico.index(deleteThis)
+                ids = newTarget_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
+                del newTarget_dico.word2id[deleteThis]
+                del newTarget_dico.id2word[ids]
         for n in range(maxLengthValue, 31):
-            deleteThis = f'templateXLabel[{n}]'
-            if target_dico.__contains__(deleteThis):
+            deleteThis = f'templateXValue[{n}]'
+            if newTarget_dico.__contains__(deleteThis):
                 #print(f'found at {n}')
-                ids = target_dico.index(deleteThis)
+                ids = newTarget_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
-            deleteThis = f'templateYLabel[{n}]'
-            if target_dico.__contains__(deleteThis):
+                del newTarget_dico.word2id[deleteThis]
+                del newTarget_dico.id2word[ids]
+            deleteThis = f'templateYValue[{n}]'
+            if newTarget_dico.__contains__(deleteThis):
                 #print(f'found at {n}')
-                ids = target_dico.index(deleteThis)
+                ids = newTarget_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
+                del newTarget_dico.word2id[deleteThis]
+                del newTarget_dico.id2word[ids]
 
-        print(removedDict)
-        #decoder = TransformerDecoder(model_params, newTarget_dico, with_output=True).cuda().eval()
-        #decoder.load_state_dict(reloaded['decoder'])
+        # shift dict to the left by 1 for each removed token, save as new Dictionary object
+        newId = {idx: v for [k, v], idx in zip(newTarget_dico.id2word.items(), range(len(newTarget_dico.id2word)))}
+        newWord = {v: k for k, v in newId.items()}
+        newCleanTarget_dico = Dictionary(newId.copy(), newWord.copy())
+
+        #remove tensor elements related to the removed tokens from the decoder
+        newDecoder = originalDecoder.copy()
+        for key in newDecoder.keys():
+            if key in ['embeddings.weight', 'pred_layer.proj.weight', 'pred_layer.proj.bias']:
+                #print(f'{key}: {len(newDecoder[key])}')
+                for ids in removedDict.keys():
+                    newDecoder[key] = torch.cat([newDecoder[key][0:ids], newDecoder[key][ids+1:]])
+                #print(f'{key}: {len(newDecoder[key])}')
+
+        #update target word count to pass assertions
+        setattr(model_params, 'tgt_n_words', len(newCleanTarget_dico))
+        decoder = TransformerDecoder(model_params, newCleanTarget_dico, with_output=True).cuda().eval()
+        decoder.load_state_dict(newDecoder)
 
         max_len = 602
         if params.beam_size <= 1:
             decoded, dec_lengths = decoder.generate(encoder_output, enc_xlen, max_len=max_len)
         elif params.beam_size > 1:
             decoded, dec_lengths = decoder.generate_beam(encoder_output, enc_xlen, params.beam_size, 
-                                            params.length_penalty, params.early_stopping, removedDict, max_len=max_len)
+                                            params.length_penalty, params.early_stopping, max_len=max_len)
 
         for j in range(decoded.size(1)):
             # remove delimiters
@@ -217,40 +233,32 @@ def main(params):
             sent = sent[1:] if len(delimiters) == 1 else sent[1:delimiters[1]]
             # print(sent)
             # output translation
-            source = table_lines[i + j].strip()
+            # source = table_lines[i + j].strip()
             # print(source)
             tokens = []
             for k in range(len(sent)):
                 ids = sent[k].item()
-                if ids not in removedDict:
-                    word = target_dico[ids]
-                    tokens.append(word)
-                else:
-                    print('template invalid, ignored')
-            #print(tokens)
+                word = newCleanTarget_dico[ids]
+                tokens.append(word)
             target = " ".join(tokens)
             sys.stderr.write("%i / %i: %s\n" % (i + j, len(table_lines), target))
             outf.write(target + "\n")
-
     outf.close()
 
 
 if __name__ == '__main__':
 
     # generate parser / parse parameters
-    parser = get_parser()
-    params = parser.parse_args()
-
+    #parser = get_parser()
+    #params = parser.parse_args()
+    params = argparse.Namespace(batch_size=1, beam_size=4, early_stopping=False, length_penalty=1.0, model_path='may21relu-80.pth',
+                                output_path='results/may21/templateOutput_5212rp80_beam=4_batch=8.txt',
+                                table_path='data/test/testData.txt', title_path='data/test/testTitle.txt')
     # check parameters
+    print(params)
     assert os.path.isfile(params.model_path)
 #    assert params.output_path and not os.path.isfile(params.output_path)
 
     # translate
     with torch.no_grad():
         main(params)
-
-"""
-        for key, val in removedDict.items():
-            newTarget_dico.id2word[key] = val
-            target_dico.word2id[val] = key
-            """
