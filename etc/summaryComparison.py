@@ -2,14 +2,14 @@ import spacy
 import en_core_web_md
 import re
 
-analysisPath = '../results/may26/analysis-5212r-p80-batch1.txt'
-generatedPath = '../results/may26/templateOutput_5212rp80_beam=4_batch=1.txt'
+analysisPath = '../results/may26/analysis-5212g-p80-batch1.txt'
+generatedPath = '../results/may26/templateOutput_5212gp80_beam=4_batch=1.txt'
 goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/may26/summaryComparison5212r-p80_beam4_batch1.txt'
-outputPath = '../results/may26/generated-5212r-p80-batch1.txt'
+comparisonPath = '../results/may26/summaryComparison5212g-p80_beam4_batch1.txt'
+outputPath = '../results/may26/generated-5212g-p80-batch1.txt'
 
 nlp = spacy.load('en_core_web_md')
 

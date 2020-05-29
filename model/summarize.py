@@ -153,43 +153,31 @@ def main(params):
         maxLengthValue = max(valueLengths)
         maxLengthTitle = max(titleLengths)
 
-        newTarget_dico = Dictionary(base_dico.id2word.copy(), base_dico.word2id.copy())
         removedDict = {}
-        print(len(newTarget_dico))
         for n in range(maxLengthXLabel, 10):
             deleteThis = f'templateXLabel[{n}]'
-            if newTarget_dico.__contains__(deleteThis):
-                ids = newTarget_dico.index(deleteThis)
+            if target_dico.__contains__(deleteThis):
+                ids = target_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
-                del newTarget_dico.word2id[deleteThis]
-                del newTarget_dico.id2word[ids]
         for n in range(maxLengthYLabel, 10):
             deleteThis = f'templateYLabel[{n}]'
-            if newTarget_dico.__contains__(deleteThis):
-                ids = newTarget_dico.index(deleteThis)
+            if target_dico.__contains__(deleteThis):
+                ids = target_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
-                del newTarget_dico.word2id[deleteThis]
-                del newTarget_dico.id2word[ids]
         for n in range(maxLengthTitle, 15):
             deleteThis = f'templateTitle[{n}]'
-            if newTarget_dico.__contains__(deleteThis):
-                ids = newTarget_dico.index(deleteThis)
+            if target_dico.__contains__(deleteThis):
+                ids = target_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
-                del newTarget_dico.word2id[deleteThis]
-                del newTarget_dico.id2word[ids]
         for n in range(maxLengthValue, 31):
             deleteThis = f'templateXValue[{n}]'
-            if newTarget_dico.__contains__(deleteThis):
-                ids = newTarget_dico.index(deleteThis)
+            if target_dico.__contains__(deleteThis):
+                ids = target_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
-                del newTarget_dico.word2id[deleteThis]
-                del newTarget_dico.id2word[ids]
             deleteThis = f'templateYValue[{n}]'
-            if newTarget_dico.__contains__(deleteThis):
-                ids = newTarget_dico.index(deleteThis)
+            if target_dico.__contains__(deleteThis):
+                ids = target_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
-                del newTarget_dico.word2id[deleteThis]
-                del newTarget_dico.id2word[ids]
 
         print(removedDict)
 
@@ -199,7 +187,7 @@ def main(params):
         for key in newDecoder.keys():
             if key == 'pred_layer.proj.bias':
                 for ids in removedDict.keys():
-                    newDecoder["pred_layer.proj.bias"][ids] = torch.tensor(-100)
+                    newDecoder["pred_layer.proj.bias"][ids] = torch.tensor(-100).cuda()
 
         #update decoder weights
         decoder = TransformerDecoder(model_params, target_dico, with_output=True).cuda().eval()
@@ -241,7 +229,7 @@ if __name__ == '__main__':
     #parser = get_parser()
     #params = parser.parse_args()
     params = argparse.Namespace(batch_size=1, beam_size=4, early_stopping=False, length_penalty=1.0, model_path='may21gelu-80.pth',
-                                output_path='results/may21/templateOutput_5212gp80_beam=4_batch=8.txt',
+                                output_path='results/may26/templateOutput_529gp80_beam=4_batch=1.txt',
                                 table_path='data/test/testData.txt', title_path='data/test/testTitle.txt')
     # check parameters
     print(params)
