@@ -59,14 +59,11 @@ def main(params):
     # update dictionary parameters
     for name in ['src_n_words', 'tgt_n_words', 'bos_index', 'eos_index', 'pad_index', 'unk_index', 'mask_index']:
         setattr(params, name, getattr(model_params, name))
-    print(f'iter{getattr(model_params, "src_n_words")}')
-    print(getattr(model_params, 'tgt_n_words'))
+    print(f'src {getattr(model_params, "src_n_words")}')
+    print(f'tgt {getattr(model_params, "tgt_n_words")}')
     # build dictionary / build encoder / build decoder / reload weights
     source_dico = Dictionary(reloaded['source_dico_id2word'], reloaded['source_dico_word2id'])
     target_dico = Dictionary(reloaded['target_dico_id2word'], reloaded['target_dico_word2id'])
-    baseID = reloaded['target_dico_id2word'].copy()
-    baseWord = reloaded['target_dico_word2id'].copy()
-    base_dico = Dictionary(baseID, baseWord)
     originalDecoder = reloaded['decoder'].copy()
     encoder = TransformerEncoder(model_params, source_dico, with_output=False).cuda().eval()
     encoder.load_state_dict(reloaded['encoder'])
@@ -158,11 +155,10 @@ def main(params):
 
         newTarget_dico = Dictionary(base_dico.id2word.copy(), base_dico.word2id.copy())
         removedDict = {}
-
+        print(len(newTarget_dico))
         for n in range(maxLengthXLabel, 10):
             deleteThis = f'templateXLabel[{n}]'
             if newTarget_dico.__contains__(deleteThis):
-                #print(f'found at {n}')
                 ids = newTarget_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
                 del newTarget_dico.word2id[deleteThis]
@@ -170,7 +166,6 @@ def main(params):
         for n in range(maxLengthYLabel, 10):
             deleteThis = f'templateYLabel[{n}]'
             if newTarget_dico.__contains__(deleteThis):
-                #print(f'found at {n}')
                 ids = newTarget_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
                 del newTarget_dico.word2id[deleteThis]
@@ -178,7 +173,6 @@ def main(params):
         for n in range(maxLengthTitle, 15):
             deleteThis = f'templateTitle[{n}]'
             if newTarget_dico.__contains__(deleteThis):
-                # print(f'found at {n}')
                 ids = newTarget_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
                 del newTarget_dico.word2id[deleteThis]
@@ -186,37 +180,30 @@ def main(params):
         for n in range(maxLengthValue, 31):
             deleteThis = f'templateXValue[{n}]'
             if newTarget_dico.__contains__(deleteThis):
-                #print(f'found at {n}')
                 ids = newTarget_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
                 del newTarget_dico.word2id[deleteThis]
                 del newTarget_dico.id2word[ids]
             deleteThis = f'templateYValue[{n}]'
             if newTarget_dico.__contains__(deleteThis):
-                #print(f'found at {n}')
                 ids = newTarget_dico.index(deleteThis)
                 removedDict[ids] = deleteThis
                 del newTarget_dico.word2id[deleteThis]
                 del newTarget_dico.id2word[ids]
 
-        # shift dict to the left by 1 for each removed token, save as new Dictionary object
-        newId = {idx: v for [k, v], idx in zip(newTarget_dico.id2word.items(), range(len(newTarget_dico.id2word)))}
-        newWord = {v: k for k, v in newId.items()}
-        newCleanTarget_dico = Dictionary(newId.copy(), newWord.copy())
+        print(removedDict)
 
-        #remove tensor elements related to the removed tokens from the decoder
+        #update prediction layer weights for removed tokens in the decoder
+        #test changing pred layer bias to -100 for each token out of vocab
         newDecoder = originalDecoder.copy()
         for key in newDecoder.keys():
-            if key in ['embeddings.weight', 'pred_layer.proj.weight', 'pred_layer.proj.bias']:
-                #print(f'{key}: {len(newDecoder[key])}')
+            if key == 'pred_layer.proj.bias':
                 for ids in removedDict.keys():
-                    newDecoder[key] = torch.cat([newDecoder[key][0:ids], newDecoder[key][ids+1:]])
-                #print(f'{key}: {len(newDecoder[key])}')
+                    newDecoder["pred_layer.proj.bias"][ids] = torch.tensor(-100)
 
-        #update target word count to pass assertions
-        setattr(model_params, 'tgt_n_words', len(newCleanTarget_dico))
-        decoder = TransformerDecoder(model_params, newCleanTarget_dico, with_output=True).cuda().eval()
-        decoder.load_state_dict(newDecoder)
+        #update decoder weights
+        decoder = TransformerDecoder(model_params, target_dico, with_output=True).cuda().eval()
+        decoder.load_state_dict(newDecoder.copy())
 
         max_len = 602
         if params.beam_size <= 1:
@@ -238,7 +225,9 @@ def main(params):
             tokens = []
             for k in range(len(sent)):
                 ids = sent[k].item()
-                word = newCleanTarget_dico[ids]
+                if ids in removedDict:
+                    print('index error')
+                word = target_dico[ids]
                 tokens.append(word)
             target = " ".join(tokens)
             sys.stderr.write("%i / %i: %s\n" % (i + j, len(table_lines), target))
@@ -251,8 +240,8 @@ if __name__ == '__main__':
     # generate parser / parse parameters
     #parser = get_parser()
     #params = parser.parse_args()
-    params = argparse.Namespace(batch_size=1, beam_size=4, early_stopping=False, length_penalty=1.0, model_path='may21relu-80.pth',
-                                output_path='results/may21/templateOutput_5212rp80_beam=4_batch=8.txt',
+    params = argparse.Namespace(batch_size=1, beam_size=4, early_stopping=False, length_penalty=1.0, model_path='may21gelu-80.pth',
+                                output_path='results/may21/templateOutput_5212gp80_beam=4_batch=8.txt',
                                 table_path='data/test/testData.txt', title_path='data/test/testTitle.txt')
     # check parameters
     print(params)
