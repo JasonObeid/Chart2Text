@@ -1,0 +1,36 @@
+Example 13:
+titleEntities: {'Subject': ['Brooklyn Nets'], 'Date': ['2001', '2019']}
+title: Brooklyn Nets ' revenue 2001 to 2019
+X_Axis['Year']: ['18/19', '17/18', '16/17', '15/16', '14/15', '13/14', '12/13', '11/12', '10/11', '09/10', '08/09', '07/08', '06/07', '05/06', '04/05', '03/04', '02/03', '01/02']
+Y_Axis['Revenue', 'in', 'million', 'U.S.', 'dollars']: ['304', '290', '273', '223', '220', '212', '190', '84', '89', '89', '92', '98', '102', '93', '87', '93', '94', '91']
+
+gold: The statistic shows the revenue of the New Jersey Nets franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated revenue of the National Basketball Association franchise is 304 million U.S. dollars .
+gold_template: The statistic shows the templateYLabel[0] of the New Jersey templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise is templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+
+generated_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] .
+generated: The statistic shows the Revenue of the Brooklyn Nets franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 304 .
+
+Example 49:
+titleEntities: {'Subject': ['Utah Jazz'], 'Date': ['2001', '2019']}
+title: Utah Jazz 's revenue 2001 to 2019
+X_Axis['Year']: ['18/19', '17/18', '16/17', '15/16', '14/15', '13/14', '12/13', '11/12', '10/11', '09/10', '08/09', '07/08', '06/07', '05/06', '04/05', '03/04', '02/03', '01/02']
+Y_Axis['Revenue', 'in', 'million', 'U.S.', 'dollars']: ['258', '243', '221', '164', '146', '142', '131', '111', '120', '121', '118', '119', '114', '96', '91', '88', '85', '87']
+
+gold: The statistic shows the revenue of the Utah Jazz franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated revenue of the National Basketball Association franchise amounted to 258 million U.S. dollars .
+gold_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+
+generated_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] .
+generated: The statistic shows the Revenue of the Utah Jazz franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 258 .
+
+Example 52:
+titleEntities: {'Subject': ['Belgium'], 'Date': ['2000', '2018']}
+title: Hospitals in Belgium 2000 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
+Y_Axis['Number', 'of', 'hospitals']: ['174', '175', '177', '178', '187', '191', '192', '195', '198', '203', '209', '210', '215', '216', '214', '218', '219', '225', '228']
+
+gold: Since 2000 , the number of hospitals in Belgium has declined nearly year-on-year . There were 228 hospitals in Belgium in the year 2000 and by 2018 this figure had fallen to 174 . This is a drop of over 23 percent in the provided time period .
+gold_template: Since templateXValue[min] , the templateYLabel[0] of templateYLabel[1] in templateTitleSubject[0] has declined nearly year-on-year . There were templateYValue[idxmin(X)] templateYLabel[1] in templateTitleSubject[0] in the templateXLabel[0] templateXValue[idxmax(Y)] and by templateXValue[max] this figure had fallen to templateYValue[idxmax(X)] . This is a drop of over 23 percent in the provided time period .
+
+generated_template: This statistic shows the templateYLabel[0] of templateTitle[1] who have obtained a legal divorce and have not remarried in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , there were a total templateYLabel[0] of templateYValue[idxmax(X)] templateTitle[1] templateTitle[2] .
+generated: This statistic shows the Number of Belgium who have obtained a legal divorce and have not remarried in Belgium from 2000 to 2018 . In 2018 , there were a total Number of 174 Belgium 2000 .
+

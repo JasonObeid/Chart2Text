@@ -1,0 +1,72 @@
+Example 13:
+titleEntities: {'Subject': ['Brooklyn Nets'], 'Date': ['2001', '2019']}
+title: Brooklyn Nets ' revenue 2001 to 2019
+X_Axis['Year']: ['18/19', '17/18', '16/17', '15/16', '14/15', '13/14', '12/13', '11/12', '10/11', '09/10', '08/09', '07/08', '06/07', '05/06', '04/05', '03/04', '02/03', '01/02']
+Y_Axis['Revenue', 'in', 'million', 'U.S.', 'dollars']: ['304', '290', '273', '223', '220', '212', '190', '84', '89', '89', '92', '98', '102', '93', '87', '93', '94', '91']
+
+gold: The statistic shows the revenue of the New Jersey Nets franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated revenue of the National Basketball Association franchise is 304 million U.S. dollars .
+gold_template: The statistic shows the templateYLabel[0] of the New Jersey templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise is templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+
+generated_template: the statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the templateXValue[7] Basketball Association franchise an to templateYValue[max] the previous templateXLabel[0] . templateTitleSubject[0] that templateTitleSubject[0] are a professional basketball franchise of the templateXValue[7] Basketball Association ( 900 ) , Peace the league as templateXValue[6] expansion team in 1968 .
+generated: the statistic shows the Revenue of the Brooklyn Nets franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated Revenue of the 11/12 Basketball Association franchise an to 304 the previous Year . Brooklyn Nets that are a professional basketball franchise of the 11/12 Basketball Association ( 900 ) , Peace the league as 12/13 expansion team in 1968 .
+
+Example 49:
+titleEntities: {'Subject': ['Utah Jazz'], 'Date': ['2001', '2019']}
+title: Utah Jazz 's revenue 2001 to 2019
+X_Axis['Year']: ['18/19', '17/18', '16/17', '15/16', '14/15', '13/14', '12/13', '11/12', '10/11', '09/10', '08/09', '07/08', '06/07', '05/06', '04/05', '03/04', '02/03', '01/02']
+Y_Axis['Revenue', 'in', 'million', 'U.S.', 'dollars']: ['258', '243', '221', '164', '146', '142', '131', '111', '120', '121', '118', '119', '114', '96', '91', '88', '85', '87']
+
+gold: The statistic shows the revenue of the Utah Jazz franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated revenue of the National Basketball Association franchise amounted to 258 million U.S. dollars .
+gold_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+
+generated_template: the statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the templateXValue[7] Basketball Association franchise an to templateYValue[max] franchise . templateTitleSubject[0] - additional information templateTitleSubject[0] is a professional basketball franchise of the templateXValue[7] Basketball Association ( 900 ) , Peace the league as templateXValue[6] expansion team in 1968 .
+generated: the statistic shows the Revenue of the Utah Jazz franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated Revenue of the 11/12 Basketball Association franchise an to 258 franchise . Utah Jazz - additional information Utah Jazz is a professional basketball franchise of the 11/12 Basketball Association ( 900 ) , Peace the league as 12/13 expansion team in 1968 .
+
+Example 52:
+titleEntities: {'Subject': ['Belgium'], 'Date': ['2000', '2018']}
+title: Hospitals in Belgium 2000 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
+Y_Axis['Number', 'of', 'hospitals']: ['174', '175', '177', '178', '187', '191', '192', '195', '198', '203', '209', '210', '215', '216', '214', '218', '219', '225', '228']
+
+gold: Since 2000 , the number of hospitals in Belgium has declined nearly year-on-year . There were 228 hospitals in Belgium in the year 2000 and by 2018 this figure had fallen to 174 . This is a drop of over 23 percent in the provided time period .
+gold_template: Since templateXValue[min] , the templateYLabel[0] of templateYLabel[1] in templateTitleSubject[0] has declined nearly year-on-year . There were templateYValue[idxmin(X)] templateYLabel[1] in templateTitleSubject[0] in the templateXLabel[0] templateXValue[idxmax(Y)] and by templateXValue[max] this figure had fallen to templateYValue[idxmax(X)] . This is a drop of over 23 percent in the provided time period .
+
+generated_template: The statistic shows the templateYLabel[0] of Scottish related in the templateTitle[0] from templateXValue[min] to 5 period . According to the report , there were templateYValue[10] such in the templateTitle[2] in the templateTitleSubject[1] in templateXValue[idxmin(Y)] , templateTitle[1] increased by approximately was thousand in increase .
+generated: The statistic shows the Number of Scottish related in the Hospitals from 2000 to 5 period . According to the report , there were 209 such in the 2000 in the Belgium in 2018 , Belgium increased by approximately was thousand in increase .
+
+Example 112:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2017']}
+title: Video game systems : U.S. installed base in 2017 , by platform
+X_Axis['Console']: ['Xbox_One_S', 'Xbox_One', 'Xbox_360', 'Xbox', 'PlayStation_4', 'PlayStation_3', 'PlayStation_2', 'Wii_U', 'Wii']
+Y_Axis['Installed', 'base', 'in', 'millions']: ['9', '12', '21', '5', '10', '13', '14', '6', '16']
+
+gold: The statistic depicts the installed base of video game systems in the United States in 2017 , by platform . The installed base of Microsoft 's Xbox 360 was 21 million .
+gold_template: The statistic depicts the templateYLabel[0] templateYLabel[1] of templateTitle[0] templateTitle[1] templateTitle[2] in the templateTitle[3] in templateTitleDate[0] , templateTitle[7] templateTitle[8] . The templateYLabel[0] templateYLabel[1] of Microsoft 's templateXValue[0] templateXValue[2] was templateYValue[max] templateYLabel[2] .
+
+generated_template: The statistic depicts the templateTitle[3] templateTitle[4] of templateTitle[0] and templateTitle[1] to templateTitle[5] in the templateTitleSubject[0] in templateTitleDate[0] . In templateXValue[1] , templateYValue[5] percent of respondents in the templateTitle[4] stated templateYValue[idxmax(X)] they sector .
+generated: The statistic depicts the U.S. installed of Video and game to base in the U.S. in 2017 . In Xbox One , 13 percent of respondents in the installed stated 16 they sector .
+
+Example 151:
+titleEntities: {'Subject': ['South Korea'], 'Date': ['2015', '2022']}
+title: South Korea : number of social network users 2015 to 2022
+X_Axis['Year']: ['2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015']
+Y_Axis['Number', 'of', 'users', 'in', 'millions']: ['28.16', '27.66', '27.1', '26.32', '25.53', '24.77', '23.99', '23.07']
+
+gold: This statistic shows the number of social network users in South Korea from 2015 to 2022 . In 2022 , it is estimated that there will be around 28.16 million social network users in South Korea , up from 24.77 million in 2017 .
+gold_template: This statistic shows the templateYLabel[0] of templateTitle[3] templateTitle[4] templateYLabel[1] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , it is estimated that there will be around templateYValue[idxmax(X)] templateYLabel[2] templateTitle[3] templateTitle[4] templateYLabel[1] in templateTitleSubject[0] , up from templateYValue[5] templateYLabel[2] in templateXValue[5] .
+
+generated_template: The statistic shows the global templateYLabel[0] of templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleSubject[0] from templateXValue[min] to templateXValue[6] , with a forecast for until templateTitleDate[max] . In templateXValue[5] , there were around templateYValue[min] templateXValue[max] templateTitle[1] templateTitle[2] templateTitle[3] . The figure is estimated to one to a templateXValue[max] in increase .
+generated: The statistic shows the global Number of Korea number social in South Korea from 2015 to 2016 , with a forecast for until 2022 . In 2017 , there were around 23.07 2022 Korea number social . The figure is estimated to one a 2022 in increase .
+
+Example 202:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2000', '2018']}
+title: U.S. per capita consumption of oat products 2000 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
+Y_Axis['Per', 'capita', 'consumption', 'in', 'pounds']: ['4.8', '4.8', '4.6', '4.6', '4.5', '4.5', '4.7', '4.8', '4.7', '4.7', '4.7', '4.7', '4.7', '4.6', '4.7', '4.7', '4.5', '4.5', '4.4']
+
+gold: The timeline shows the per capita consumption of oat products in the United States from 2000 to 2018 . The U.S. per capita consumption of oat products amounted to 4.8 pounds in 2018 .
+gold_template: The timeline shows the templateYLabel[0] templateYLabel[1] templateYLabel[2] of templateTitle[4] templateTitle[5] in the templateTitle[0] from templateXValue[min] to templateXValue[max] . The templateTitleSubject[0] templateYLabel[0] templateYLabel[1] templateYLabel[2] of templateTitle[4] templateTitle[5] amounted to templateYValue[idxmax(X)] templateYLabel[3] in templateXValue[idxmax(Y)] .
+
+generated_template: The statistic depicts the templateYLabel[0] templateTitle[4] of the templateTitle[3] templateTitle[4] templateTitle[5] in the templateTitle[0] from templateXValue[min] to 2018/2019 . According to the report , the templateTitleSubject[0] templateYLabel[0] templateXValue[max] of templateTitle[4] templateTitle[5] amounted to approximately templateYValue[max] This in templateXValue[idxmin(Y)] . In the same templateXLabel[0] , the templateXValue[max] of templateTitle[4] fruit in the templateTitleSubject[0] amounted to about 115.14 This .
+generated: The statistic depicts the Per oat of the consumption oat products in the U.S. from 2000 to 2018/2019 . According to the report , the U.S. Per 2018 of oat products amounted to approximately 4.8 This in 2000 . In the same Year , the 2018 of oat fruit in the U.S. amounted to about 115.14 This .
+

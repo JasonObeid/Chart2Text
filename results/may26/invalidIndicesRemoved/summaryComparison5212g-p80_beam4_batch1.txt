@@ -1,0 +1,816 @@
+Example 1:
+titleEntities: {'Subject': ['Belgium'], 'Date': ['2018']}
+title: Urbanization in Belgium 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008']
+Y_Axis['Share', 'of', 'urban', 'population', 'in', 'total', 'population']: ['98', '97.96', '97.92', '97.88', '97.83', '97.79', '97.74', '97.7', '97.65', '97.6', '97.56']
+
+gold: This statistic shows the degree of urbanization in Belgium from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 98 percent of Belgium 's total population lived in urban areas and cities .
+gold_template: This statistic shows the degree of templateTitle[0] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . templateTitle[0] means the templateYLabel[0] of templateYLabel[1] templateYLabel[2] in the templateYLabel[3] templateYLabel[2] of a country . In templateXValue[max] , templateYValue[idxmax(X)] percent of templateTitleSubject[0] 's templateYLabel[3] templateYLabel[2] lived in templateYLabel[1] areas and cities .
+
+generated_template: This statistic shows the degree of templateTitle[0] in templateTitleSubject[0] , also known as Burma , from templateXValue[min] to templateXValue[max] . templateTitle[0] means the templateYLabel[0] of a country of a country . In templateXValue[max] , templateYValue[idxmax(X)] percent of templateTitleSubject[0] 's country lived in cities and cities .
+generated: This statistic shows the degree of Urbanization in Belgium , also known as Burma , from 2008 to 2018 . Urbanization means the Share of a country of a country . In 2018 , 98 percent of Belgium 's country lived in cities and .
+
+Example 2:
+titleEntities: {'Subject': ['EIFS', 'STUCCO'], 'Date': ['2018']}
+title: Most used EIFS and STUCCO brands in the U.S. 2018
+X_Axis['Brand']: ['Dryvit', 'STO', 'Omega_Products', 'Senergy', 'Simplex_(Finestone)', 'Parex/La_Habra', 'TEC', 'None_of_these']
+Y_Axis['Share', 'of', 'respondents']: ['26.9', '11.5', '6.7', '5.8', '5.8', '4.8', '3.8', '34.6']
+
+gold: This statistic depicts the most used EIFS and STUCCO siding brands by U.S. construction firms in 2018 . The survey revealed that 26.9 percent of the respondents used Dryvit brand the most .
+gold_template: This statistic depicts the templateTitle[0] templateTitle[1] templateTitleSubject[0] and templateTitleSubject[1] siding templateTitle[4] by templateTitle[5] construction firms in templateTitleDate[0] . The survey revealed that templateYValue[0] percent of the templateYLabel[1] templateTitle[1] templateXValue[0] templateXLabel[0] the templateTitle[0] .
+
+generated_template: This statistic presents the templateTitle[2] of users in the templateTitleSubject[0] accessing templateTitle[0] . As of the third quarter of templateTitleDate[0] , it was found that templateYValue[max] percent of templateTitle[1] users accessed the social platform templateXValue[0] a templateXValue[0] . templateTitle[0] is the most popular social media site in templateTitleDate[0] .
+generated: This statistic presents the EIFS of users in the EIFS accessing Most . As of the third quarter of 2018 , it was found that 34.6 percent of used users accessed the social platform Dryvit a . Most is the most popular social media site in 2018 .
+
+Example 3:
+titleEntities: {'Subject': ['Pennsylvania'], 'Date': ['2000', '2018']}
+title: Pennsylvania - real GDP 2000 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
+Y_Axis['Real', 'GDP', 'in', 'billion', 'U.S.', 'dollars']: ['712.1', '697.18', '685.46', '677.87', '664.79', '651.32', '641.32', '631.37', '622.47', '605.5', '623.82', '612.02', '592.03', '588.05', '578.03', '562.43', '550.25', '544.79', '537.22']
+
+gold: This statistic shows the development of Pennsylvania 's real GDP from 2000 to 2018 . In 2018 , the real GDP of Pennsylvania was 712.1 billion U.S. dollars .
+gold_template: This statistic shows the development of templateTitleSubject[0] 's templateYLabel[0] templateYLabel[1] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] templateYLabel[1] of templateTitleSubject[0] was templateYValue[idxmax(X)] templateYLabel[2] templateYLabel[3] templateYLabel[4] .
+
+generated_template: This statistic shows the development of templateTitleSubject[0] 's templateYLabel[0] In templateXValue[max] , from templateXValue[min] to templateXValue[max] . In templateXValue[max] , templateTitleSubject[0] 's templateYLabel[0] was about templateYValue[max] templateYValue[idxmax(X)] people .
+generated: This statistic shows the development of Pennsylvania 's Real In 2018 , from 2000 to 2018 . In 2018 , Pennsylvania 's Real was about 712.1 people .
+
+Example 4:
+titleEntities: {'Subject': ['Twitter'], 'Date': ['2018', '2018']}
+title: Leading video gaming brands on Twitter 2018 , by followers
+X_Axis['Brand']: ['PlayStation', 'Xbox', 'Nintendo_of_America', 'Rockstar_Games', 'Ubisoft', 'EA_SPORTS_FIFA', 'Sonic_the_Hedgehog', 'Fortnite', 'Electronic_Arts', 'League_of_Legends']
+Y_Axis['Brand', 'fans', 'in', 'millions']: ['15.63', '12.87', '9.44', '9.31', '7.11', '6.4', '5.76', '5.64', '5.19', '4.36']
+
+gold: This statistic gives information on the most popular gaming brands on Twitter , ranked by number of followers on the social network . As of September 2018 , Sony 's PlayStation was ranked first with 15.63 million Twitter followers . Ubisoft was ranked fifth with 7.1 million followers .
+gold_template: This statistic gives information on the most popular templateTitle[2] templateTitle[3] on templateTitleSubject[0] , ranked templateTitle[6] number of templateTitle[7] on the social network . As of 2018 , Sony 's templateXValue[0] was ranked first with templateYValue[max] templateYLabel[2] templateTitleSubject[0] templateTitle[7] . templateXValue[4] was ranked fifth with templateYValue[4] templateYLabel[2] templateTitle[7] .
+
+generated_template: This statistic gives information on the templateTitle[0] templateTitle[1] templateTitle[2] on templateTitleSubject[0] as of 2018 . As of that templateXLabel[0] , Spanish player templateXValue[0] was ranked first templateTitle[2] almost templateYValue[max] million templateTitleSubject[0] .
+generated: This statistic gives information on the Leading video gaming on Twitter as of 2018 . As of that Brand , Spanish player PlayStation was ranked first gaming almost 15.63 million Twitter .
+
+Example 5:
+titleEntities: {'Subject': ['UK'], 'Date': ['2010', '2018']}
+title: Number of people employed in the defense industry in the UK 2010 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010']
+Y_Axis['Employees', 'in', 'thousands']: ['135', '140', '142', '142', '144', '148', '154', '159', '160']
+
+gold: There were approximately 135,000 people directly employed by the defense industry in the United Kingdom in 2018 . This was a decrease of 31 percent since the beginning of the reporting period in 2010 . According to ADS - the UK trade organization representing the aerospace/space , defense and security sectors , the country is currently the second largest exporter of defense equipment and services in the world .
+gold_template: There were approximately templateYValue[min] templateTitle[1] directly templateTitle[2] by the templateTitle[3] templateTitle[4] in the United Kingdom in templateXValue[idxmin(Y)] . This was a decrease of 31 percent since the beginning of the reporting period in templateXValue[min] . According to ADS - the templateTitleSubject[0] trade organization representing the aerospace/space , templateTitle[3] and security sectors , the country is currently the second largest exporter of templateTitle[3] equipment and services in the world .
+
+generated_template: This statistic shows templateTitleSubject[0] 's templateYLabel[0] on research and development from the fiscal templateXLabel[0] of templateXValue[min] to the fiscal templateXLabel[0] of templateXValue[max] . In the fiscal templateXLabel[0] of templateXValue[max] , the company incurred around templateYValue[idxmax(X)] people .
+generated: This statistic shows UK 's Employees on research and development from the fiscal Year of 2010 to the fiscal Year of 2018 . In the fiscal Year of 2018 , the company incurred around 135 people .
+
+Example 6:
+titleEntities: {'Subject': ['Dublin'], 'Date': ['2019']}
+title: Prime office rental prices in Dublin Q1 2015-Q3 2019
+X_Axis['Quarter']: ["Q1_'15", "Q2_'15", "Q3_'15", "Q4_'15", "Q1_'16", "Q2_'16", "Q3_'16", "Q4_'16", "Q1_'17", "Q2_'17", "Q3_'17", "Q4_'17", "Q1_'18_", "Q2_'18", "Q3_'18", "Q4_'18", "Q1_'19", "Q2_'19", "Q3_'19"]
+Y_Axis['Cost', 'per', 'square', 'meter', 'in', 'euros']: ['538', '552', '592', '619', '619', '619', '646', '646', '646', '646', '673', '673', '-', '673', '673', '-', '673', '673', '673']
+
+gold: The statistic displays the rental costs per square meter of prime office spaces in Dublin , Ireland , from the first quarter of 2015 to the third quarter of 2019 . It can be seen that the price of prime office properties in Dublin grew over time , reaching 673 euros per square meter per year as of the 3rd quarter of 2017 and remaining constant up until the third quarter 2019 .
+gold_template: The statistic displays the templateTitle[2] costs templateYLabel[1] templateYLabel[2] templateYLabel[3] of templateTitle[0] templateTitle[1] spaces in templateTitleSubject[0] , Ireland , from the first templateXLabel[0] of 2015 to the third templateXLabel[0] of templateTitleDate[0] . It can be seen that the price of templateTitle[0] templateTitle[1] properties in templateTitleSubject[0] grew over time , reaching templateYValue[last] templateYLabel[4] templateYLabel[1] templateYLabel[2] templateYLabel[3] templateYLabel[1] year as of the 3rd templateXLabel[0] of 2017 and remaining constant up until the third templateXLabel[0] templateTitleDate[0] .
+
+generated_template: This statistic illustrates templateTitleSubject[0] 's templateTitle[2] ( templateYLabel[0] ) of the templateTitleSubject[0] from the first templateXLabel[0] of templateTitleDate[min] to the fourth templateXLabel[0] of templateTitleDate[max] . In the most recently reported period , the templateTitleSubject[0] 's templateYLabel[0] amounted to templateYValue[0] .
+generated: This statistic illustrates Dublin 's rental ( Cost ) of the Dublin from the first Quarter of 2019 to the fourth Quarter of 2019 . In the most recently reported period , the Dublin 's Cost amounted to 538 .
+
+Example 7:
+titleEntities: {'Subject': ['Orioles'], 'Date': ['2001', '2018']}
+title: Baltimore Orioles revenue 2001 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001']
+Y_Axis['Revenue', 'in', 'million', 'U.S.', 'dollars']: ['251', '252', '253', '239', '245', '198', '206', '179', '175', '171', '174', '166', '158', '156', '148', '129', '129', '133']
+
+gold: The statistic depicts the revenue of the Baltimore Orioles from 2001 to 2018 . In 2018 , the revenue of the Major League Baseball franchise amounted to 251 million U.S. dollars.The Baltimore Orioles are owned by Peter Angelos , who bought the franchise for 173 million U.S. dollars in 1993 .
+gold_template: The statistic depicts the templateYLabel[0] of the templateTitle[0] templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] of the Major League Baseball franchise amounted to templateYValue[idxmax(X)] templateYLabel[1] templateYLabel[2] dollars.The templateTitle[0] templateTitleSubject[0] are owned by Peter Angelos , who bought the franchise for 173 templateYLabel[1] templateYLabel[2] templateYLabel[3] in 1993 .
+
+generated_template: The statistic depicts the templateYLabel[0] of the templateTitleSubject[0] , a franchise of the National Football League , from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] of the templateTitleSubject[0] was templateYValue[max] templateYValue[idxmax(X)] templateTitle[2] .
+generated: The statistic depicts the Revenue of the Orioles , a franchise of the National Football League , from 2001 to 2018 . In 2018 , the Revenue of the Orioles was 253 251 revenue .
+
+Example 8:
+titleEntities: {'Subject': ['Wisconsin'], 'Date': ['2000', '2018']}
+title: Wisconsin - poverty rate from 2000 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
+Y_Axis['Percentage', 'of', 'population']: ['11', '11.3', '11.8', '12.1', '13.2', '13.5', '13.2', '13.1', '13.2', '12.4', '10.4', '10.8', '11', '10.2', '10.7', '10.5', '9.7', '9.8', '8.9']
+
+gold: This graph shows the poverty rate in Wisconsin from 2000 to 2018 . In 2018 , 11 percent of Wisconsin 's population lived below the poverty line .
+gold_template: This graph shows the templateTitle[1] templateTitle[2] in templateTitleSubject[0] templateTitle[3] templateXValue[min] to templateXValue[max] . In templateXValue[max] , templateYValue[idxmax(X)] percent of templateTitleSubject[0] 's templateYLabel[1] lived below the templateTitle[1] line .
+
+generated_template: This statistic shows the templateTitle[1] templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , about templateYValue[idxmax(X)] percent of templateTitleSubject[0] 's lived below the templateTitle[1] line .
+generated: This statistic shows the poverty rate in Wisconsin from 2000 to 2018 . In 2018 , about 11 percent of Wisconsin 's lived below the poverty line .
+
+Example 9:
+titleEntities: {'Subject': ['Ultra'], 'Date': ['2019']}
+title: Ultra high net worth individuals - distribution by region 2019
+X_Axis['Region']: ['North_America', 'Europe', 'Asia-Pacific', 'China', 'Latin_America', 'India', 'Africa']
+Y_Axis['Number', 'of', 'UHNW', 'individuals']: ['84054', '33551', '22657', '18132', '4460', '4376', '804']
+
+gold: This statistic shows the regional distribution of ultra high net worth individuals in 2019 . About 84,054 individuals with net assets of at least 50 million U.S. dollars were residing in North America in 2019 . That is about 50 percent of the total number of UHNW individuals worldwide .
+gold_template: This statistic shows the regional templateTitle[5] of templateTitleSubject[0] templateTitle[1] templateTitle[2] templateTitle[3] templateYLabel[2] in templateTitleDate[0] . About templateYValue[max] templateYLabel[2] with templateTitle[2] assets of at least 50 million U.S. dollars were residing in templateXValue[0] in templateTitleDate[0] . That is about 50 percent of the total templateYLabel[0] of templateYLabel[1] templateYLabel[2] worldwide .
+
+generated_template: This statistic shows the templateYLabel[0] of templateXLabel[0] templateTitle[1] in the templateTitle[2] in templateTitleDate[0] , sorted by templateYLabel[0] of templateXValue[0] . In templateTitleDate[0] , templateXValue[0] couples had a total of templateYValue[max] percent of templateYLabel[0] .
+generated: This statistic shows the Number of Region high in the net in 2019 , sorted by Number of North America . In 2019 , North America couples had a total of 84054 percent of Number .
+
+Example 10:
+titleEntities: {'Subject': ['Chicago Blackhawks', 'NHL'], 'Date': ['2014/15', '2014/15']}
+title: Average ticket price Chicago Blackhawks ( NHL ) 2014/15
+X_Axis['Year']: ['2014/15', '2013/14', '2012/13', '2011/12', '2010/11', '2009/10', '2008/09', '2007/08', '2006/07', '2005/06']
+Y_Axis['Average', 'ticket', 'price', 'in', 'U.S.', 'dollars']: ['78.8', '72.95', '62.88', '55.72', '55.39', '55.39', '46.8', '52.22', '34.88', '34.88']
+
+gold: This graph depicts the average ticket price of Chicago Blackhawks games within the National Hockey League from 2005/06 to 2014/15 In the 2005/06 season , the average ticket price was 34.88 U.S. dollars . The Blackhawks play their home games at the United Center .
+gold_template: This graph depicts the templateYLabel[0] templateYLabel[1] templateYLabel[2] of templateTitleSubject[0] games within the National Hockey League from templateXValue[last] to templateXValue[0] In the templateXValue[last] season , the templateYLabel[0] templateYLabel[1] templateYLabel[2] was templateYValue[min] templateYLabel[3] templateYLabel[4] . The templateTitleSubject[0] play their home games at the United Center .
+
+generated_template: This graph depicts the templateYLabel[0] templateTitle[0] templateTitle[1] home games of the templateTitleSubject[0] Patriots from the templateXValue[last] season to the templateXValue[0] season . In the templateXValue[last] season , the templateYLabel[0] templateTitle[0] templateTitle[1] home was templateYValue[last] .
+generated: This graph depicts the Average ticket home games of the Chicago Blackhawks Patriots from the 2005/06 season to the 2014/15 season . In the 2005/06 season , the Average ticket home was 34.88 .
+
+Example 11:
+titleEntities: {'Subject': ['Audi'], 'Date': ['2002', '2018']}
+title: Audi - total assets 2002 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002']
+Y_Axis['Total', 'assets', 'in', 'million', 'euros']: ['65598', '63680', '61090', '56763', '50769', '45156', '40401', '37019', '30772', '26550', '26056', '22578', '18910', '16112', '14904', '14063', '12650']
+
+gold: This statistic shows Audi 's total assets from the fiscal year of 2002 to the fiscal year of 2018 . In the fiscal year of 2018 , Audi held total assets of around 65.6 billion euros ( or about 74.43 billion US dollars ) .
+gold_template: This statistic shows templateTitleSubject[0] 's templateYLabel[0] templateYLabel[1] from the fiscal templateXLabel[0] of templateXValue[min] to the fiscal templateXLabel[0] of templateXValue[max] . In the fiscal templateXLabel[0] of templateXValue[max] , templateTitleSubject[0] held templateYLabel[0] templateYLabel[1] of around templateYValue[max] templateYLabel[2] templateYLabel[3] ( or about 74.43 templateYLabel[2] US dollars ) .
+
+generated_template: The statistic shows the average templateYLabel[0] of the templateTitleSubject[0] Yankees from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] of the Major League Baseball franchise amounted to templateYValue[0] templateYValue[idxmax(X)] .
+generated: The statistic shows the average Total of the Audi Yankees from 2002 to 2018 . In 2018 , the Total of the Major League Baseball franchise amounted to 65598 .
+
+Example 12:
+titleEntities: {'Subject': ['Great Britain'], 'Date': ['2010', '2017']}
+title: Grocery market growth year-on-year in Great Britain 2010 to 2017
+X_Axis['Year']: ['28_Nov_2010', '27_Nov_2011', '25_Nov_2012', '10_Nov_2013', '09_Nov_2014', '09_Nov_2015', '06_Nov_2016', '05_Nov_2017']
+Y_Axis['Percentage', 'growth', '(year-on-year)']: ['2.5', '4.2', '3.2', '3.2', '-0.2', '0.5', '0.8', '3.8']
+
+gold: In the three months leading up to November 5 , 2017 , the grocery market in Great Britain grew by 3.8 percent compared to the same period a year earlier . Compared to the growth during the last three years this constitutes a sizeable increase . The entire grocery market amounted to 185.2 billion British pounds in 2017 .
+gold_template: In the templateYValue[0] months leading up to 5 , templateXValue[last] , the templateTitle[0] templateTitle[1] in templateTitleSubject[0] grew by templateYValue[last] percent compared to the same period a templateXLabel[0] earlier . Compared to the templateYLabel[1] during the last templateYValue[0] years this constitutes a sizeable increase . The entire templateTitle[0] templateTitle[1] amounted to 185.2 billion British pounds in templateXValue[last] .
+
+generated_template: This statistic displays a forecast of the templateYLabel[0] of templateTitle[1] templateTitle[2] in the templateTitleSubject[0] from templateXValue[last] to templateXValue[0] . In templateXValue[0] , the templateYLabel[0] of templateTitle[1] templateTitle[2] was estimated to reach approximately templateYValue[min] percent . templateTitle[1] templateTitle[2] templateXLabel[0] The templateTitle[2] templateYLabel[0] of templateTitle[1] templateTitle[2] is forecast to be measured in the case of households .
+generated: This statistic displays a forecast of the Percentage of market growth in the Great Britain from 05 Nov 2017 to 28 Nov 2010 . In 28 Nov 2010 , the Percentage of market growth was estimated to reach approximately -0.2 percent . market growth Year The growth Percentage of market growth is forecast to be measured in the case of households .
+
+Example 13:
+titleEntities: {'Subject': ['Brooklyn Nets'], 'Date': ['2001', '2019']}
+title: Brooklyn Nets ' revenue 2001 to 2019
+X_Axis['Year']: ['18/19', '17/18', '16/17', '15/16', '14/15', '13/14', '12/13', '11/12', '10/11', '09/10', '08/09', '07/08', '06/07', '05/06', '04/05', '03/04', '02/03', '01/02']
+Y_Axis['Revenue', 'in', 'million', 'U.S.', 'dollars']: ['304', '290', '273', '223', '220', '212', '190', '84', '89', '89', '92', '98', '102', '93', '87', '93', '94', '91']
+
+gold: The statistic shows the revenue of the New Jersey Nets franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated revenue of the National Basketball Association franchise is 304 million U.S. dollars .
+gold_template: The statistic shows the templateYLabel[0] of the New Jersey templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise is templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+
+generated_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] .
+generated: The statistic shows the Revenue of the Brooklyn Nets franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 304 .
+
+Example 14:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2018']}
+title: U.S. consumers who have personally experienced hacking 2018
+X_Axis['Response']: ['Yes_more_than_once', 'Yes_but_only_once', 'No_never', "Don't_know_/_can't_recall"]
+Y_Axis['Share', 'of', 'respondents']: ['14', '22', '51', '12']
+
+gold: This statistic presents the share of internet users in the United States who have ever had any of their online accounts hacked . During the October 2018 survey , 14 percent of respondents stated that their online accounts had been hacked more than once .
+gold_template: This statistic presents the templateYLabel[0] of internet users in the templateTitle[0] templateTitle[2] templateTitle[3] ever had any of their online accounts hacked . During the October templateTitleDate[0] survey , templateYValue[0] percent of templateYLabel[1] stated that their online accounts had been hacked templateXValue[0] once .
+
+generated_template: This statistic shows the results of a survey among female templateTitleSubject[0] high school students in the country on how old they were when they first started working in the fashion industry . templateYValue[max] percent of surveyed stated they were between templateXValue[1] and templateXValue[1] templateXValue[0] old when they started working as a model .
+generated: This statistic shows the results of a survey among female U.S. high school students in the country on how old they were when they first started working in the fashion industry . 51 percent of surveyed stated they were between Yes but only once and Yes more than once old when they started working as a model .
+
+Example 15:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2018']}
+title: U.S. exports - top trading partners 2018
+X_Axis['Country']: ['Canada', 'Mexico', 'China', 'Japan', 'United_Kingdom', 'Germany', 'Korea_South', 'Netherlands', 'Brazil', 'Hong_Kong', 'France', 'Singapore', 'India', 'Belgium', 'Taiwan']
+Y_Axis['Export', 'value', 'in', 'billion', 'U.S.', 'dollars']: ['298.7', '265.0', '120.3', '75.0', '66.2', '57.7', '56.3', '49.4', '39.5', '37.5', '36.3', '33.1', '33.1', '31.4', '30.2']
+
+gold: This graph shows the largest trading partners for the United States in 2018 , by value of exported trade goods . In 2018 , the United States exported trade goods worth about 39.5 billion U.S. dollars to Brazil .
+gold_template: This graph shows the largest templateTitle[3] templateTitle[4] for the templateXValue[4] States in templateTitleDate[0] , by templateYLabel[1] of exported trade goods . In templateTitleDate[0] , the templateXValue[4] States exported trade goods worth about templateYValue[8] templateYLabel[2] templateYLabel[3] templateYLabel[4] to templateXValue[8] .
+
+generated_template: This statistic presents the templateYLabel[0] of global merger and acquisition deals in templateTitleDate[0] , based on templateYLabel[0] . As of that year , the templateYLabel[0] of templateTitleSubject[0] templateTitle[2] A deals in the templateXValue[0] ( templateXLabel[0] ) , amounted to under templateYValue[max] million templateXValue[2] in templateTitleDate[0] . The total templateYLabel[0] of mergers and acquisitions decreased in templateTitleDate[0] compared to the previous year .
+generated: This statistic presents the Export of global merger and acquisition deals in 2018 , based on Export . As of that year , the Export of U.S. top A deals in the Canada ( Country ) , amounted to under 298.7 million China in 2018 . The total Export of mergers and acquisitions decreased in 2018 compared to the previous year .
+
+Example 16:
+titleEntities: {'Subject': ['Kansas'], 'Date': ['2000', '2018']}
+title: Kansas - poverty rate 2000 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
+Y_Axis['Percentage', 'of', 'population']: ['12', '11.9', '12.1', '13', '13.6', '14', '14', '13.8', '13.6', '13.4', '11.3', '11.2', '12.4', '11.7', '10.5', '10.8', '12.1', '11.3', '9.5']
+
+gold: This statistic shows the poverty rate in Kansas from 2000 to 2018 . In 2018 , about 12 percent of Kansas ' population lived below the poverty line .
+gold_template: This statistic shows the templateTitle[1] templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , about templateYValue[idxmax(X)] percent of templateTitleSubject[0] ' templateYLabel[1] lived below the templateTitle[1] line .
+
+generated_template: This statistic shows the templateTitle[1] templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , about templateYValue[idxmax(X)] percent of templateTitleSubject[0] 's lived below the templateTitle[1] line .
+generated: This statistic shows the poverty rate in Kansas from 2000 to 2018 . In 2018 , about 12 percent of Kansas 's lived below the poverty line .
+
+Example 17:
+titleEntities: {'Subject': ['Economic'], 'Date': ['2016']}
+title: Economic loss due to major droughts worldwide up to 2016
+X_Axis['Drought']: ['United_States_June_2012', 'China_P_Rep_January_1994', 'United_States_January_2011', 'Australia_1981', 'Brazil_January_2014', 'Spain_September_1990', 'China_P_Rep_October_2009', 'United_States_July_2002', 'Iran_Islam_Rep_April_1999', 'Spain_April_1999']
+Y_Axis['Economic', 'loss', 'in', 'billion', 'U.S.', 'dollars']: ['20.0', '13.8', '8.0', '6.0', '5.0', '4.5', '3.6', '3.3', '3.3', '3.2']
+
+gold: This statistic shows the economic harm as a result of droughts in certain countries in the period from 1900 to 2016  . The drought in China in 1994 caused an economic loss of almost 13.8 billion U.S. dollars .
+gold_template: This statistic shows the templateYLabel[0] harm as a result of templateTitle[4] in certain countries in the period from 1900 to templateTitleDate[0] . The templateXLabel[0] in templateXValue[1] in templateXValue[1] caused an templateYLabel[0] templateYLabel[1] of almost templateYValue[1] templateYLabel[2] templateYLabel[3] templateYLabel[4] .
+
+generated_template: The graph depicts the templateYLabel[0] percentages of the templateTitleSubject[0] templateTitle[1] templateTitle[2] in templateTitleDate[0] . In that year , the templateXValue[1] templateXValue[0] was the templateTitle[1] templateTitle[2] templateXLabel[0] in the world with a total of templateYValue[max] million templateYLabel[0] .
+generated: The graph depicts the Economic percentages of the Economic loss due in 2016 . In that year , the China P Rep January 1994 United States June 2012 was the loss due Drought in the world with a total of 20.0 million Economic .
+
+Example 18:
+titleEntities: {'Subject': ['Germany'], 'Date': ['2000', '2013']}
+title: Trade union density in Germany from 2000 to 2013
+X_Axis['Year']: ['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013']
+Y_Axis['Percentage', 'of', 'employees']: ['24.57', '23.75', '23.51', '23.02', '22.17', '21.68', '20.72', '19.89', '19.13', '18.93', '18.56', '18.49', '18.3', '18.13']
+
+gold: This statistic shows the percentage of employees that were members of a trade union ( trade union density ) in Germany from 2000 to 2013 . Over this 14 year period , the percentage fell by a total of 6.44 percentage points .
+gold_template: This statistic shows the templateYLabel[0] of templateYLabel[1] that were members of a templateTitle[0] templateTitle[1] ( templateTitle[0] templateTitle[1] templateTitle[2] ) in templateTitleSubject[0] templateTitle[4] templateXValue[min] to templateXValue[max] . Over this 14 templateXLabel[0] period , the templateYLabel[0] fell by a total of 6.44 templateYLabel[0] points .
+
+generated_template: This statistic shows the templateTitle[0] templateYLabel[0] of templateTitle[1] templateTitle[2] in the templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , there were a templateTitle[0] of templateYValue[idxmax(X)] directory listings for templateTitle[1] templateTitle[2] .
+generated: This statistic shows the Trade Percentage of union density in the Germany from 2000 to 2013 . In 2013 , there were a Trade of 18.13 directory listings for union density .
+
+Example 19:
+titleEntities: {'Subject': ['Finland'], 'Date': ['2018']}
+title: Urbanization in Finland 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008']
+Y_Axis['Share', 'of', 'urban', 'population', 'in', 'total', 'population']: ['85.38', '85.33', '85.28', '85.23', '85.18', '85.13', '84.84', '84.31', '83.77', '83.43', '83.3']
+
+gold: This statistic shows the degree of urbanization in Finland from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 85.38 percent of Finland 's total population lived in urban areas and cities .
+gold_template: This statistic shows the degree of templateTitle[0] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . templateTitle[0] means the templateYLabel[0] of templateYLabel[1] templateYLabel[2] in the templateYLabel[3] templateYLabel[2] of a country . In templateXValue[max] , templateYValue[idxmax(X)] percent of templateTitleSubject[0] 's templateYLabel[3] templateYLabel[2] lived in templateYLabel[1] areas and cities .
+
+generated_template: This statistic shows the degree of templateTitle[0] in templateTitleSubject[0] , also known as Burma , from templateXValue[min] to templateXValue[max] . templateTitle[0] means the templateYLabel[0] of a country of a country . In templateXValue[max] , templateYValue[idxmax(X)] percent of templateTitleSubject[0] 's country lived in cities and cities .
+generated: This statistic shows the degree of Urbanization in Finland , also known as Burma , from 2008 to 2018 . Urbanization means the Share of a country of a country . In 2018 , 85.38 percent of Finland 's country lived in cities and .
+
+Example 20:
+titleEntities: {'Subject': ['Twitter'], 'Date': ['2010', '2019']}
+title: Twitter : number of monthly active users 2010 to 2019
+X_Axis['Quarter']: ["Q1_'19", "Q4_'18", "Q3_'18", "Q2_'18", "Q1_'18", "Q4_'17", "Q3_'17", "Q2_'17", "Q1_'17", "Q4_'16", "Q3_'16", "Q2_'16", "Q1_'16", "Q4_'15", "Q3_'15", "Q2_'15", "Q1_'15", "Q4_'14", "Q3_'14", "Q2_'14", "Q1_'14", "Q4_'13", "Q3_'13", "Q2_'13", "Q1_'13", "Q4_'12", "Q3_'12", "Q2_'12", "Q1_'12", "Q4_'11", "Q3_'11", "Q2_'11", "Q1_'11", "Q4_'10", "Q3_'10", "Q2_'10", "Q1_'10"]
+Y_Axis['Number', 'of', 'monthly', 'active', 'users', 'in', 'millions']: ['330.0', '321.0', '326.0', '335.0', '336.0', '330.0', '330.0', '326.0', '327.0', '318.0', '317.0', '313.0', '310.0', '305.0', '307.0', '304.0', '302.0', '288.0', '284.0', '271.0', '255.0', '241.0', '231.7', '218.0', '204.0', '185.0', '167.0', '151.0', '138.0', '117.0', '101.0', '85.0', '68.0', '54.0', '49.0', '40.0', '30.0']
+
+gold: How many people use Twitter ? As of the first quarter of 2019 , Twitter averaged 330 million monthly active users , a decline from its all-time high of 336 MAU in the first quarter of 2018 . As of the first quarter of 2019 , the company switched its user reporting metric to monetizable daily active users ( mDAU ) . Twitter Twitter is a social networking and microblogging service , enabling registered users to read and post short messages called tweets .
+gold_template: How many people use templateTitleSubject[0] ? As of the first templateXLabel[0] of templateTitleDate[max] , templateTitleSubject[0] averaged templateYValue[0] templateYLabel[4] templateYLabel[1] templateYLabel[2] templateYLabel[3] , a decline from its all-time high of templateYValue[max] MAU in the first templateXLabel[0] of 2018 . As of the first templateXLabel[0] of templateTitleDate[max] , the company switched its user reporting metric to monetizable daily templateYLabel[2] templateYLabel[3] ( mDAU ) . templateTitleSubject[0] is a social networking and microblogging service , enabling registered templateYLabel[3] to read and post short messages called tweets .
+
+generated_template: This statistic shows a timeline with the amount of daily templateXLabel[0] templateTitleSubject[0] templateTitleSubject[0] from the first templateXLabel[0] of templateTitleDate[max] to the first templateXLabel[0] of templateTitleDate[max] . In the first templateXLabel[0] of templateTitleDate[max] , templateTitleSubject[0] had a total templateYLabel[0] of templateYValue[0] templateYLabel[0] .
+generated: This statistic shows a timeline with the amount of daily Quarter Twitter from the first Quarter of 2019 to the first Quarter of 2019 . In the first Quarter of 2019 , Twitter had a total Number of 330.0 Number .
+
+Example 21:
+titleEntities: {'Subject': ['Percentage'], 'Date': ['2007']}
+title: Percentage of population with a university degree , by country 2007
+X_Axis['Country']: ['Canada', 'New_Zealand', 'Japan', 'United_States', 'Korea_Republic_of', 'Norway', 'Australia', 'Ireland', 'United_Kingdom', 'Denmark', 'Sweden', 'Netherlands', 'Spain', 'France', 'Germany', 'Austria', 'Mexico', 'Portugal', 'Italy']
+Y_Axis['Percent', 'with', 'a', 'university', 'degree']: ['48', '41', '41', '40', '35', '34', '34', '32', '32', '32', '31', '31', '29', '27', '24', '18', '15', '14', '13']
+
+gold: In 2007 , Canada had the highest share of adults with a university degree , at 48 percent of those between the ages of 25 and 64 . Italy had the least amount of people with a university degree , at 13 percent of people between the ages of 25 and 64 . University around the world Deciding which university to attend can be a difficult decision for some and in today 's world , people are not left wanting for choice .
+gold_template: In templateTitleDate[0] , templateXValue[0] had the highest share of adults templateYLabel[1] a templateYLabel[2] templateYLabel[3] , at templateYValue[max] templateYLabel[0] of those between the ages of 25 and 64 . templateXValue[last] had the least amount of people templateYLabel[1] a templateYLabel[2] templateYLabel[3] , at templateYValue[min] templateYLabel[0] of people between the ages of 25 and 64 . templateYLabel[2] around the world Deciding which templateYLabel[2] to attend can be a difficult decision for some and in today 's world , people are not left wanting for choice .
+
+generated_template: This statistic shows the templateYLabel[0] of average who have obtained in selected countries templateTitle[2] as of 2018 , sorted templateXLabel[0] . During the survey , it was found that in templateXValue[1] were found that year with a total of templateYValue[max] people .
+generated: This statistic shows the Percent of average who have obtained in selected countries university as of 2018 , sorted Country . During the survey , it was found that in New Zealand were found that year with a total of 48 people .
+
+Example 22:
+titleEntities: {'Subject': ['Projected'], 'Date': ['1950', '2100']}
+title: Projected global median age 1950 to 2100
+X_Axis['Year']: ['2100', '2095', '2090', '2085', '2080', '2075', '2070', '2065', '2060', '2055', '2050', '2045', '2040', '2035', '2030', '2025', '2020', '2015', '2010', '2005', '2000', '1995', '1990', '1985', '1980', '1975', '1970', '1965', '1960', '1955', '1950']
+Y_Axis['Median', 'age']: ['41.9', '41.3', '40.8', '40.3', '39.7', '39.2', '38.7', '38.2', '37.6', '36.9', '36.2', '35.4', '34.6', '33.9', '33.0', '32.0', '30.9', '29.6', '28.5', '27.4', '26.3', '25.1', '24.0', '23.3', '22.6', '21.9', '21.5', '22.0', '22.6', '23.1', '23.6']
+
+gold: This statistic shows the median age of the world population from 1950 to 2100 . By 2100 , the global median age is projected to be 41.9 years of age .
+gold_template: This statistic shows the templateYLabel[0] templateYLabel[1] of the world population from templateXValue[min] to templateXValue[max] . By templateXValue[max] , the templateTitle[1] templateYLabel[0] templateYLabel[1] is templateTitleSubject[0] to be templateYValue[idxmax(X)] years of templateYLabel[1] .
+
+generated_template: The statistic represents the templateTitle[0] templateTitle[1] templateTitle[2] ( templateYLabel[0] ) in the templateTitleSubject[0] of America from templateTitleDate[min] to templateTitleDate[max] . In the first quarter of templateTitleDate[max] , the templateYLabel[0] change of the PPI in the templateTitleSubject[0] amounted to about templateYValue[0] percent . However , templateTitleSubject[0] to templateYValue[last] percent of the largest templateYLabel[0] was at .
+generated: The statistic represents the Projected global median ( ) in the Projected of America from 1950 to 2100 . In the first quarter of 2100 , the Median change of the PPI in the Projected amounted to about 41.9 percent . However , Projected to 23.6 percent of the largest Median was at .
+
+Example 23:
+titleEntities: {'Subject': ['Automobile'], 'Date': ['2010']}
+title: Automobile production - automatic transmission forecast 2010 to 2015
+X_Axis['Year']: ['2010', '2011', '2012', '2013', '2014', '2015']
+Y_Axis['Million', 'transmissions']: ['25.03', '25.36', '26.72', '27.82', '28.46', '28.65']
+
+gold: The timeline shows an automatic transmission forecast for automobile production worldwide from 2010 to 2015 . In 2010 , about 25.03 million cars and light vehicles produced worldwide were equipped with an automatic transmission . It is forecast that this number will increase to about 28.65 million automobiles produced worldwide in 2015 .
+gold_template: The timeline shows an templateTitle[2] templateTitle[3] templateTitle[4] for templateTitleSubject[0] templateTitle[1] worldwide from templateXValue[min] to templateXValue[max] . In templateXValue[min] , about templateYValue[idxmin(X)] templateYLabel[0] cars and light vehicles produced worldwide were equipped with an templateTitle[2] templateTitle[3] . It is templateTitle[4] that this number will increase to about templateYValue[idxmax(X)] templateYLabel[0] automobiles produced worldwide in templateXValue[idxmax(Y)] .
+
+generated_template: This statistic shows the templateYLabel[0] of templateTitleSubject[0] of templateTitleSubject[0] ( LoL ) monthly active users from templateXValue[min] to templateXValue[max] . In templateXValue[max] , there were a total of templateYValue[idxmax(X)] at the same time the previous templateXLabel[0] .
+generated: This statistic shows the Million of Automobile ( LoL ) monthly active users from 2010 to 2015 . In 2015 , there were a total of 28.65 at the same time the previous Year .
+
+Example 24:
+titleEntities: {'Subject': ['General Motors'], 'Date': ['2015', '2019']}
+title: General Motors - adjusted EBIT 2015 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015']
+Y_Axis['EBIT', '(adjusted;', 'in', 'million', 'U.S.dollars)']: ['8393', '11783', '12844', '12848', '11449']
+
+gold: In 2019 , General Motors produced earnings before interests and taxes of around 8.4 billion U.S. dollars , down from almost 11.8 billion U.S. dollars in 2018 . GM 's earnings were affected by falling vehicle sales , particularly in China .
+gold_template: In templateXValue[max] , templateTitleSubject[0] produced earnings before interests and taxes of around templateYValue[min] templateYLabel[2] U.S. dollars , down from almost templateYValue[1] templateYLabel[2] U.S. dollars in templateXValue[1] . GM 's earnings were affected by falling vehicle sales , particularly in China .
+
+generated_template: This statistic presents the templateTitle[2] templateYLabel[0] of mobile messaging platform templateTitleSubject[0] . In templateXValue[max] , the photo and video sharing app had generated over templateYValue[max] million units in revenues , up from templateYValue[2] million in the previous templateXLabel[0] .
+generated: This statistic presents the adjusted EBIT of mobile messaging platform General Motors . In 2019 , the photo and video sharing app had generated over 12848 million units in revenues , up from 12844 million in the previous Year .
+
+Example 25:
+titleEntities: {'Subject': ['Germany'], 'Date': ['2012', '2028']}
+title: Travel and tourism 's total contribution to GDP in Germany 2012 to 2028
+X_Axis['Year']: ['2028', '2018', '2017', '2016', '2015', '2014', '2013', '2012']
+Y_Axis['Value', 'in', 'billion', 'euros']: ['411.0', '358.3', '348.1', '342.2', '336.2', '325.7', '315.9', '318.0']
+
+gold: This statistic presents the total contribution of travel and tourism to GDP in Germany from 2012 to 2018 , with a forecast for 2028 . Over this period , the contribution of the travel and tourism industry to GDP in Germany has increased , reaching around 348.1 billion euros in 2017 .
+gold_template: This statistic presents the templateTitle[3] templateTitle[4] of templateTitle[0] and templateTitle[1] to templateTitle[5] in templateTitleSubject[0] from templateXValue[min] to templateXValue[1] , with a forecast for templateXValue[max] . Over this period , the templateTitle[4] of the templateTitle[0] and templateTitle[1] industry to templateTitle[5] in templateTitleSubject[0] has increased , reaching around templateYValue[2] templateYLabel[1] templateYLabel[2] in templateXValue[2] .
+
+generated_template: templateTitle[0] and templateTitle[1] have become one of the leading engines of growth for the Spanish economy , featuring an ongoing increase in the previous years and templateXValue[max] . Over this period , the templateTitle[0] and templateTitle[1] industry to templateXValue[2] in the templateTitleSubject[0] has increased in recent years . In templateXValue[2] , templateTitleSubject[0] had the fifth largest templateTitle[0] tourism templateTitle[2] worldwide .
+generated: Travel and tourism have become one of the leading engines of growth for the Spanish economy , featuring an ongoing increase in the previous years and 2028 . Over this period , the Travel and tourism industry to 2017 in the Germany has increased in recent years . In 2017 , Germany had the fifth largest Travel tourism 's worldwide .
+
+Example 26:
+titleEntities: {'Subject': ['Argentina'], 'Date': ['2000']}
+title: Argentina : internet penetration 2000 to 2017
+X_Axis['Year']: ['2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
+Y_Axis['Percentage', 'of', 'individuals', 'using', 'internet']: ['74.29', '70.97', '68.04', '64.7', '59.9', '55.8', '51', '45', '34', '28.11', '25.95', '20.93', '17.72', '16.04', '11.91', '10.88', '9.78', '7.04']
+
+gold: This statistic gives information on the internet penetration in Argentina from 2000 to 2017 . In 2017 , about 74.3 percent of the Argentinean population accessed the internet , a considerable increase when compared to only seven percent in 2000 .
+gold_template: This statistic gives information on the templateYLabel[3] templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , about templateYValue[max] percent of the Argentinean population accessed the templateYLabel[3] , a considerable increase when compared to only templateYValue[min] percent in templateXValue[idxmin(Y)] .
+
+generated_template: This statistic gives information on the templateTitleSubject[0] templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , templateYValue[0] percent of the Chilean population accessed the templateTitle[2] .
+generated: This statistic gives information on the Argentina penetration in Argentina from 2000 to 2017 . In 2017 , 74.29 percent of the Chilean population accessed the penetration .
+
+Example 27:
+titleEntities: {'Subject': ['Southwest Airlines'], 'Date': ['2019']}
+title: Revenue passenger miles ( RPMs ) of Southwest Airlines 2010 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010']
+Y_Axis['RPMs', 'in', 'billions']: ['131.35', '133.32', '129.04', '124.8', '117.5', '108.04', '104.35', '102.87', '97.58', '78.05']
+
+gold: In the fiscal year of 2019 , Southwest Airlines transported passengers on a total of over 131.3 billion miles . The leading low-cost carrier had a capacity of 157.2 billion available seat miles in that same year , and as such was efficient in using its fleet to transport paying customers . Flying with Southwest Southwest Airlines ' main hub , Las Vegas McCarran International Airport , saw a traffic of 17.5 million Southwest passengers in 2018 .
+gold_template: In the fiscal templateXLabel[0] of templateXValue[max] , templateTitleSubject[0] transported passengers on a total of over 131.3 templateYLabel[1] templateTitle[2] . The leading low-cost carrier had a capacity of 157.2 templateYLabel[1] available seat templateTitle[2] in that same templateXLabel[0] , and as such was efficient in using its fleet to transport paying customers . Flying with templateTitleSubject[0] ' main hub , Las Vegas McCarran International Airport , saw a traffic of 17.5 templateYLabel[1] templateTitleSubject[0] passengers in templateXValue[1] .
+
+generated_template: This statistic shows the total global templateYLabel[0] of templateTitleSubject[0] templateTitle[1] templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the British retailer generated approximately templateYValue[0] thousand British pounds in templateYLabel[0] both in the United Kingdom ( UK ) and internationally . This is a decrease of almost 1 thousand people since templateXValue[min] .
+generated: This statistic shows the total global RPMs of Southwest Airlines passenger from 2010 to 2019 . In 2019 , the British retailer generated approximately 131.35 thousand British pounds in RPMs both in the United Kingdom ( UK ) and internationally . This is a decrease of almost 1 thousand people since 2010 .
+
+Example 28:
+titleEntities: {'Subject': ['Great Britain'], 'Date': ['2008', '2019']}
+title: Online purchasing penetration in Great Britain 2008 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008']
+Y_Axis['Share', 'of', 'respondents']: ['82', '78', '77', '77', '76', '74', '72', '67', '66', '62', '61', '53']
+
+gold: This statistic displays a timeline of online purchasing take up in Great Britain from 2008 to 2019 . In 2019 , 82 percent of polled Britons made purchases online . This is greater penetration than in 2008 , when 53 percent of individuals made purchases online .
+gold_template: This statistic displays a timeline of templateTitle[0] templateTitle[1] take up in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , templateYValue[idxmax(X)] percent of polled Britons made purchases templateTitle[0] . This is greater templateTitle[2] than in templateXValue[min] , when templateYValue[idxmin(X)] percent of individuals made purchases templateTitle[0] .
+
+generated_template: There is no use denying that the way people consume newspapers and magazines has changed . As of templateXValue[max] , more than two thirds of individuals in templateTitleSubject[0] were either reading or downloading templateTitle[0] templateTitle[1] , newspapers or magazines . This was more than three times the templateYLabel[0] of templateTitle[0] readers as compared to templateXValue[min] .
+generated: There is no use denying that the way people consume newspapers and magazines has changed . As of 2019 , more than two thirds of individuals in Great Britain were either reading or downloading Online purchasing , newspapers or magazines . This was more than three times the Share of Online readers as compared to 2008 .
+
+Example 29:
+titleEntities: {'Subject': ['United Kingdom', 'UK'], 'Date': ['2010', '2018']}
+title: University applicants in the United Kingdom ( UK ) 2010 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010']
+Y_Axis['Number', 'of', 'university', 'applicants']: ['636960', '649700', '674890', '673040', '659030', '635910', '616700', '668150', '658560']
+
+gold: This statistic shows the number of applicants to universities in the United Kingdom ( UK ) from 2010 to 2018 . The number of applicants peaked in 2016 . The lower figures in 2012 and 2013 may be connected to the rise of the tuition fee limit in 2012 to 9,000 British pounds per year .
+gold_template: This statistic shows the templateYLabel[0] of templateYLabel[2] to universities in the templateTitleSubject[0] ( templateTitleSubject[1] ) from templateXValue[min] to templateXValue[max] . The templateYLabel[0] of templateYLabel[2] peaked in templateXValue[2] . The lower figures in templateXValue[6] and templateXValue[5] may be connected to the rise of the tuition fee limit in templateXValue[6] to 9,000 British pounds per templateXLabel[0] .
+
+generated_template: The templateTitleSubject[0] is growing in every aspect . Over the last decade , the total templateYLabel[0] amounted to templateYValue[0] thousand vehicles .
+generated: The United Kingdom is growing in every aspect . Over the last decade , the total Number amounted to 636960 thousand vehicles .
+
+Example 30:
+titleEntities: {'Subject': ['ITV', 'UK'], 'Date': ['2019']}
+title: ITV viewers reached quarterly in the UK Q1 2012-Q3 2019
+X_Axis['Quarter']: ['Q1_2012', 'Q2_2012', 'Q3_2012', 'Q4_2012', 'Q1_2013', 'Q2_2013', 'Q3_2013', 'Q4_2013', 'Q1_2014', 'Q2_2014', 'Q3_2014', 'Q4_2014', 'Q1_2015', 'Q2_2015', 'Q3_2015', 'Q4_2015', 'Q1_2016', 'Q2_2016', 'Q3_2016', 'Q4_2016', 'Q1_2017', 'Q2_2017', 'Q3_2017', 'Q4_2017', 'Q1_2018', 'Q2_2018', 'Q3_2018', 'Q4_2018', 'Q1_2019', 'Q2_2019', 'Q3_2019']
+Y_Axis['Viewers', 'in', 'thousands']: ['55196', '55302', '54443', '55327', '55277', '55014', '54013', '55559', '55443', '55628', '54636', '55195', '53997', '53716', '53457', '54227', '53928', '54201', '52843', '54150', '53038', '51936', '51546', '53303', '52906', '51628', '47762', '48375', '48236', '46376', '45308']
+
+gold: This statistic shows the quarterly reach of the ITV television channel in the United Kingdom ( UK ) from the first quarter of 2012 to the third quarter of 2019 . In the quarter ending September 2014 , ITV reached 54.64 million viewers . The number of viewers fell to roughly 45.3 million in the last period in consideration .
+gold_template: This statistic shows the templateTitle[3] reach of the templateTitleSubject[0] television channel in the United Kingdom ( templateTitleSubject[1] ) from the first templateXLabel[0] of templateXValue[0] to the third templateXLabel[0] of templateXValue[28] . In the templateXLabel[0] ending 2014 , templateTitleSubject[0] templateTitle[2] templateYValue[10] templateYLabel[1] templateYLabel[0] . The number of templateYLabel[0] fell to roughly templateYValue[min] templateYLabel[1] in the last period in consideration .
+
+generated_template: This statistic shows the total templateTitle[2] templateYLabel[0] of the templateTitleSubject[0] ( templateTitleSubject[1] ) from the first templateXLabel[0] of templateTitleDate[min] to the third templateXLabel[0] of templateTitleDate[max] . In the fourth templateXLabel[0] of templateTitleDate[max] , templateTitleSubject[0] had a total templateYLabel[0] of templateYValue[0] templateYLabel[0] . templateTitleSubject[0] Group was founded in the third templateXLabel[0] of templateTitleDate[max] , templateTitleSubject[0] is a mobile social templateYLabel[0] decrease in the third templateXLabel[0] of the previous templateXLabel[0] .
+generated: This statistic shows the total reached Viewers of the ITV ( UK ) from the first Quarter of 2019 to the third Quarter of 2019 . In the fourth Quarter of 2019 , ITV had a total Viewers of 55196 Viewers . ITV Group was founded in the third Quarter of 2019 , ITV is a mobile social Viewers decrease in the third Quarter of the previous Quarter .
+
+Example 31:
+titleEntities: {'Subject': ['San Jose'], 'Date': ['2019']}
+title: Player expenses ( payroll ) of San Jose Earthquakes 2019
+X_Axis['Month']: ['Valeri_"Vako"_Qazaishvili', 'Chris_Wondolowski', 'Florian_Jungwirth', 'Guram_Kashia', 'Cristian_Espinoza', 'Danny_Hoesen', 'Anibal_Godoy', 'Magnus_Eriksson', 'Marcos_Lopez_Lanfranco', 'Harold_Cummings', 'Judson', 'Francois_Affolter', 'Shea_Salinas', 'Andrew_Tarbell', 'Nick_Lima', 'Daniel_Vega', 'Jackson_Yueill', 'Tommy_Thompson', 'JT_Marcinkowski', 'Eric_Calvillo', 'Siad_Haji', 'Gilbert_Fuentes', 'Matt_Bersano', 'Luis_Felipe', 'Jimmy_Ockford', 'Cade_Cowell', 'Jacob_Akanyirige', 'Kevin_Partida', 'Paul_Marie']
+Y_Axis['Payroll', 'in', 'thousand', 'U.S.', 'dollars']: ['1604.04', '800.0', '616.68', '590.0', '550.0', '549.67', '498.13', '450.0', '387.75', '320.67', '305.0', '273.0', '250.0', '235.0', '218.44', '210.0', '190.0', '175.0', '147.0', '135.0', '104.0', '92.0', '71.67', '71.63', '70.88', '67.23', '64.23', '57.23', '57.23']
+
+gold: The statistic shows the player expenses ( payroll ) of the San Jose Earthquakes club of Major League Soccer by player in 2019 . Valeri `` Vako '' Qazaishvili received a salary of 1.6 million U.S. dollars .
+gold_template: The statistic shows the templateTitle[0] templateTitle[1] ( templateYLabel[0] ) of the templateTitleSubject[0] Earthquakes club of Major League Soccer by templateTitle[0] in templateTitleDate[0] . templateXValue[0] `` Vako '' templateXValue[0] received a salary of templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+
+generated_template: The statistic shows the templateTitle[0] templateTitle[1] ( templateYLabel[0] ) of the templateTitleSubject[0] Lake club of Major League Soccer by templateTitle[0] in templateTitleDate[0] . templateXValue[0] received a salary of templateYValue[max] thousand templateYLabel[0] .
+generated: The statistic shows the Player expenses ( Payroll ) of the San Jose Lake club of Major League Soccer by Player in 2019 . Valeri "Vako" Qazaishvili received a salary of 1604.04 thousand Payroll .
+
+Example 32:
+titleEntities: {'Subject': ['PepsiCo'], 'Date': ['2007', '2018']}
+title: PepsiCo 's net revenue worldwide 2007 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007']
+Y_Axis['Revenue', 'in', 'billion', 'U.S.', 'dollars']: ['64.66', '63.53', '62.8', '63.06', '66.68', '66.42', '65.49', '66.5', '57.84', '43.23', '43.25', '39.47']
+
+gold: This timeline depicts PepsiCo 's net revenue worldwide from 2007 to 2018 . In 2018 , PepsiCo 's net revenue worldwide amounted to about 64.66 billion U.S. dollars . PepsiCoPepsiCo is an American food and beverage corporation , based in Purchase , NY .
+gold_template: This timeline depicts templateTitleSubject[0] templateTitle[1] templateTitle[2] templateYLabel[0] templateTitle[4] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , templateTitleSubject[0] templateTitle[1] templateTitle[2] templateYLabel[0] templateTitle[4] amounted to about templateYValue[idxmax(X)] templateYLabel[1] templateYLabel[2] templateYLabel[3] . PepsiCoPepsiCo is an American food and beverage corporation , based in Purchase , NY .
+
+generated_template: This statistic represents templateTitleSubject[0] 's templateYLabel[0] between the templateXValue[min] and templateXValue[max] fiscal years . In the templateXValue[max] fiscal templateXLabel[0] , the manufacturer of regional aircraft , business jets , mass transportation equipment and recreational equipment had revenues of templateYValue[idxmax(X)] sorted templateYLabel[0] .
+generated: This statistic represents PepsiCo 's Revenue between the 2007 and 2018 fiscal years . In the 2018 fiscal Year , the manufacturer of regional aircraft , business jets , mass transportation equipment and recreational equipment had revenues of 64.66 sorted Revenue .
+
+Example 33:
+titleEntities: {'Subject': ['Oakland Athletics'], 'Date': ['2019']}
+title: Oakland Athletics all-time home run leaders 2019
+X_Axis['Month']: ['Mark_McGwire', 'Jimmie_Foxx', 'Reggie_Jackson', 'Jose_Canseco', 'Bob_Johnson', 'Eric_Chavez', 'Al_Simmons', 'Jason_Giambi', 'Sal_Bando', 'Gus_Zernial']
+Y_Axis['Number', 'of', 'home', 'runs']: ['363', '302', '269', '254', '252', '230', '209', '198', '192', '191']
+
+gold: This statistic shows the Oakland Athletics all-time home run leaders as of October 15 , 2019 . Mark McGwire has hit the most home runs in Oakland Athletics franchise history with 363 home runs .
+gold_template: This statistic shows the templateTitleSubject[0] all-time templateYLabel[1] templateTitle[4] templateTitle[5] as of October 15 , templateTitleDate[0] . templateXValue[0] has hit the most templateYLabel[1] templateYLabel[2] in templateTitleSubject[0] franchise history with templateYValue[max] templateYLabel[1] templateYLabel[2] .
+
+generated_template: This statistic shows the templateTitle[0] templateTitleSubject[0] all-time templateTitle[1] templateTitle[2] in templateTitleDate[0] . In templateTitleDate[0] , the German airport of templateYLabel[0] power-reactor templateXValue[0] was ranked templateXValue[0] , making it slightly the templateTitle[0] templateTitle[1] templateTitleSubject[0] templateYLabel[0] .
+generated: This statistic shows the Oakland Oakland Athletics all-time Athletics in 2019 . In 2019 , the German airport of Number power-reactor Mark McGwire was ranked Mark McGwire , making it slightly the Oakland Athletics Oakland Athletics Number .
+
+Example 34:
+titleEntities: {'Subject': ['BuzzFeed'], 'Date': ['2015', '2016']}
+title: BuzzFeed : monthly content views 2015 to 2016
+X_Axis['Month']: ["Apr_'15", "Oct_'15", "May_'16"]
+Y_Axis['Number', 'of', 'monthly', 'video', 'viewers', 'in', 'millions']: ['1000', '5000', '7000']
+
+gold: This statistic presents the number of monthly BuzzFeed video viewers in 2013 and 2014 and as of May 2016 . In the most recent reported period , 7 billion viewers accessed content on the social sharing platform per month .
+gold_template: This statistic presents the templateYLabel[0] of templateYLabel[1] templateTitleSubject[0] templateYLabel[2] templateYLabel[3] in 2013 and 2014 and as of templateXValue[last] templateTitleDate[max] . In the most recent reported period , templateYValue[max] templateYLabel[4] templateYLabel[3] accessed templateTitle[2] on the social sharing platform per templateXLabel[0] .
+
+generated_template: This statistic illustrates the templateYLabel[0] of selected templateTitleSubject[0] templateTitle[1] templateTitle[2] in templateTitleDate[0] . The templateTitleSubject[0] templateTitle[1] system templateXValue[0] generated a templateYLabel[0] of approximately templateYValue[max] million units in templateTitleDate[0] .
+generated: This statistic illustrates the Number of selected BuzzFeed monthly content in 2015 . The BuzzFeed monthly system Apr '15 generated a Number of approximately 7000 million units in 2015 .
+
+Example 35:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2000', '2018']}
+title: Canada : number of robberies 2000 to 2018
+X_Axis['Year']: ['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']
+Y_Axis['Number', 'of', 'robberies']: ['30582', '30756', '30036', '32084', '30990', '32437', '34641', '34182', '32372', '32463', '30478', '29790', '27748', '23249', '20932', '22149', '21958', '22831', '22450']
+
+gold: This statistic shows the number of robberies in Canada from 2000 to 2018 . There were 22,450 robberies in Canada in 2018 .
+gold_template: This statistic shows the templateYLabel[0] of templateYLabel[1] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . There were templateYValue[idxmax(X)] templateYLabel[1] in templateTitleSubject[0] in templateXValue[max] .
+
+generated_template: The statistic shows the templateYLabel[0] of drug who have obtained a legal divorce and have not remarried in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , there were a total templateYLabel[0] decrease in templateTitleSubject[0] with about templateYValue[max] templateYValue[idxmax(X)] .
+generated: The statistic shows the Number of drug who have obtained a legal divorce and have not remarried in Canada from 2000 to 2018 . In 2018 , there were a total Number decrease in Canada with about 34641 22450 .
+
+Example 36:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2018']}
+title: U.S. per capita consumption of fresh citrus fruit 2000 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
+Y_Axis['Per', 'capita', 'consumption', 'in', 'pounds']: ['23.95', '23.82', '24.07', '22.75', '23.28', '23.97', '23.54', '22.81', '21.59', '20.69', '20.62', '17.94', '21.64', '21.63', '22.7', '23.82', '23.37', '23.93', '23.54']
+
+gold: This statistic presents the per capita consumption of fresh citrus fruit in the United States from 2000 to 2018 . According to the report , the U.S. per capita consumption of fresh citrus fruit amounted to about 23.95 pounds in 2018 .
+gold_template: This statistic presents the templateYLabel[0] templateYLabel[1] templateYLabel[2] of templateTitle[4] templateTitle[5] templateTitle[6] in the templateTitle[0] from templateXValue[min] to templateXValue[max] . According to the report , the templateTitleSubject[0] templateYLabel[0] templateYLabel[1] templateYLabel[2] of templateTitle[4] templateTitle[5] templateTitle[6] amounted to about templateYValue[idxmax(X)] templateYLabel[3] in templateXValue[max] .
+
+generated_template: The timeline shows the templateYLabel[0] volume of the templateTitleSubject[0] Saints from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] of the Major League Baseball franchise amounted to templateYValue[idxmax(X)] .
+generated: The timeline shows the Per volume of the U.S. Saints from 2000 to 2018 . In 2018 , the Per of the Major League Baseball franchise amounted to 23.95 .
+
+Example 37:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2002', '2017']}
+title: Car rental industry in the U.S. - revenue 2002 to 2017
+X_Axis['Year']: ['2002', '2007', '2012', '2017']
+Y_Axis['Revenue', 'in', 'billion', 'U.S.', 'dollars']: ['16.43', '21.49', '23.63', '28.63']
+
+gold: This statistic represents the U.S. rental car industry 's total revenue between 2002 and 2017 . While the industry 's revenue grew to around 28.6 billion U.S. dollars in 2017 , about 1.59 million vehicles were purchased in 2017 by rental companies in the United States .
+gold_template: This statistic represents the templateYLabel[2] templateTitle[1] templateTitle[0] templateTitle[2] 's total templateYLabel[0] between templateXValue[min] and templateXValue[max] . While the templateTitle[2] 's templateYLabel[0] grew to around templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] in templateXValue[idxmax(Y)] , about 1.59 templateYLabel[1] vehicles were purchased in templateXValue[max] by templateTitle[1] companies in the templateTitle[3] .
+
+generated_template: The statistic shows the templateYLabel[0] of the Virgin templateTitleSubject[0] company from templateXValue[min] to templateXValue[max] . In templateXValue[max] , earphones and headphones were estimated to have a market value of templateYValue[idxmax(X)] to the templateTitleSubject[0] . In templateXValue[1] , the templateTitleSubject[0] based company operated 378 clubs .
+generated: The statistic shows the Revenue of the Virgin U.S. company from 2002 to 2017 . In 2017 , earphones and headphones were estimated to have a market value of 28.63 to the U.S. . In 2007 , the U.S. based company operated 378 clubs .
+
+Example 38:
+titleEntities: {'Subject': ['Google'], 'Date': ['2003']}
+title: Google : quarterly net income 2003 to 2015
+X_Axis['Financial', 'Quarter/Year']: ["Q3_'15", "Q2_'15", "Q1_'15", "Q4_'14", "Q3_'14", "Q2_'14", "Q1_'14", "Q4_'13", "Q3_'13", "Q2_'13", "Q1_'13", "Q4_'12", "Q3_'12", "Q2_'12", "Q1_'12", "Q4_'11", "Q3_'11", "Q2_'11", "Q1_'11", "Q4_'10", "Q3_'10", "Q2_'10", "Q1_'10", "Q4_'09", "Q3_'09", "Q2_'09", "Q1_'09", "Q4_'08", "Q3_'08", "Q2_'08", "Q1_'08", "Q4_'07", "Q3_'07", "Q2_'07", "Q1_'07", "Q4_'06", "Q3_'06", "Q2_'06", "Q1_'06", "Q4_'05", "Q3_'05", "Q2_'05", "Q1_'05", "Q4_'04", "Q3_'04", "Q2_'04", "Q1_'04", "Q4_'03", "Q3_'03", "Q2_'03", "Q1_'03"]
+Y_Axis['Net', 'income', 'in', 'million', 'U.S.', 'dollars']: ['3979.0', '3931.0', '3515.0', '4675.0', '2739.0', '3351.0', '3371.0', '3324.0', '2921.0', '3376.0', '2970.0', '2886.0', '2176.0', '2785.0', '2890.0', '2705.0', '2729.0', '2505.0', '1798.0', '2543.0', '2167.0', '1840.0', '1955.0', '1974.0', '1439.0', '1485.0', '1423.0', '382.4', '1289.9', '1247.5', '1307.1', '1206.4', '1070.0', '925.1', '1002.2', '1030.72', '733.36', '721.08', '592.29', '372.21', '381.18', '342.81', '369.19', '204.1', '51.98', '79.06', '63.97', '27.25', '20.43', '32.17', '25.8']
+
+gold: This timeline shows Google 's quarterly net income from 2003 to 2015 . In the third quarter of 2015 , the California-based web company earned 3.98 billion US dollars , an increase from the 3.93 billion in the previous quarter . Due to restructuring under new parent company Alphabet , Google net income is not longer reported separately .
+gold_template: This timeline shows templateTitleSubject[0] 's templateTitle[1] templateYLabel[0] templateYLabel[1] from templateTitleDate[0] to templateTitle[5] . In the third quarter of templateTitle[5] , the California-based web company earned templateYValue[0] templateYLabel[2] US templateYLabel[4] , an increase from the templateYValue[1] templateYLabel[2] in the previous quarter . Due to restructuring under new parent company Alphabet , templateTitleSubject[0] templateYLabel[0] templateYLabel[1] is not longer reported separately .
+
+generated_template: This statistic shows templateXLabel[0] and templateTitle[1] government templateYLabel[0] in the templateTitle[2] in templateTitleDate[0] , based on templateXLabel[0] . In templateTitleDate[0] , the templateXLabel[0] of templateXValue[0] was ranked first with the templateTitle[1] templateYLabel[0] of templateYValue[max] and templateYValue[max] percent . The highest templateYLabel[0] of templateTitleSubject[0] was recorded in 2018 at templateYValue[max] percent .
+generated: This statistic shows Financial and quarterly government Net in the net in 2003 , based on Financial . In 2003 , the Financial of Q3 '15 was ranked first with the quarterly Net of 4675.0 and percent . The highest Net of Google was recorded in 2018 at 4675.0 percent .
+
+Example 39:
+titleEntities: {'Subject': ['Case Shiller National Home Price Index'], 'Date': ['2017', '2019']}
+title: U.S. housing : Case Shiller National Home Price Index 2017 to 2019
+X_Axis['Month']: ['Aug_19', 'Jul_19', 'Jun_19', 'May_19', 'Apr_19', 'Mar_19', 'Feb_19', 'Jan_19', 'Dec_18', 'Nov_18', 'Oct_18', 'Sep_18', 'Aug_18', 'Jul_18', 'Jun_18', 'May_18', 'Apr_18', 'Mar_18', 'Feb_18', 'Jan_18', 'Dec_17', 'Nov_17', 'Oct_17', 'Sep_17', 'Aug_17', 'Jul_17', 'Jun_17', 'May_17', 'Apr_17', 'Mar_17', 'Feb_17']
+Y_Axis['Index', 'value']: ['212.06', '211.63', '210.87', '209.65', '207.96', '206.06', '204.72', '204.46', '204.94', '205.34', '205.59', '205.6', '205.55', '205.18', '204.27', '202.66', '200.8', '198.76', '197.08', '196.29', '196.02', '195.61', '195.24', '194.97', '194.5', '193.66', '192.4', '190.65', '188.65', '186.64', '185.14']
+
+gold: This statistic presents the values of S & P Case Shiller U.S. National Home Price Index from February 2017 to August 2019 . The index value was equal to 100 as of January 2000 , so if the index value is equal to 130 in a given month , for example , it means that the house prices increased by 30 percent since 2000 . The value of the S & P Case Shiller National Home Price Index amounted to 212.06 in August 2019 .
+gold_template: This statistic presents the values of S & P templateTitleSubject[0] U.S. templateTitleSubject[0] Price templateYLabel[0] from 2017 to 2019 . The templateYLabel[0] templateYLabel[1] was equal to 100 as of 2000 , so if the templateYLabel[0] templateYLabel[1] is equal to 130 in a given templateXLabel[0] , for example , it means that the house prices increased by 30 percent since 2000 . The templateYLabel[1] of the S & P templateTitleSubject[0] National templateTitleSubject[0] Index amounted to templateYValue[max] in 2019 .
+
+generated_template: The statistic shows the templateTitle[0] templateTitle[1] ( templateYLabel[0] ) of the templateTitleSubject[0] Lake club of Major League Soccer by templateTitle[0] in 2020 . templateTitleSubject[0] templateTitleDate[max] received a salary of templateYValue[max] templateYLabel[0] .
+generated: The statistic shows the U.S. housing ( Index ) of the Case Shiller National Home Price Index Lake club of Major League Soccer by U.S. in 2020 . Case Shiller National Home Price Index 2019 received a salary of 212.06 Index .
+
+Example 40:
+titleEntities: {'Subject': ['Alibaba'], 'Date': ['2012', '2019']}
+title: Alibaba : number of employees 2012 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012']
+Y_Axis['Number', 'of', 'employees']: ['101958', '66421', '50092', '36450', '34985', '22072', '20674', '21930']
+
+gold: Alibaba Group Holding , China 's biggest e-commerce company , had nearly 102 thousand full-time employees by the end of March 2019 . While not the biggest employer in the country , Alibaba is the most valuable listed internet company in China and among the largest ones in terms of revenue . What is Alibaba Group ? The company was founded in Hangzhou , China in 1999 by a group of people led by a former English teacher Jack Ma .
+gold_template: templateTitleSubject[0] Group Holding , China 's biggest e-commerce company , had nearly templateYValue[max] thousand full-time templateYLabel[1] by the end of 2019 templateXValue[idxmax(Y)] While not the biggest employer in the country , templateTitleSubject[0] is the most valuable listed internet company in China and among the largest ones in terms of revenue . What is templateTitleSubject[0] Group ? The company was founded in Hangzhou , China in 1999 by a group of people led by a former English teacher Jack Ma .
+
+generated_template: templateTitleSubject[0] templateTitle[1] employment was around 19,500 workers as of templateXValue[max] . templateTitleSubject[0] templateTitle[1] company goals are to create solutions to food safety and access , clean water , clean air and fuel , health care , and sustainable living . templateTitleSubject[0] Company Overview templateTitleSubject[0] is one of the world templateTitle[1] leading chemicals , plastics , and refining companies globally .
+generated: Alibaba number employment was around 19,500 workers as of 2019 . Alibaba number company goals are to create solutions to food safety and access , clean water , clean air and fuel , health care , and sustainable living . Alibaba Company Overview Alibaba is one of the world number leading chemicals , plastics and refining companies globally .
+
+Example 41:
+titleEntities: {'Subject': ['Australia'], 'Date': ['2015', '2022']}
+title: Number of social network users Australia 2015 to 2022
+X_Axis['Year']: ['2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015']
+Y_Axis['Number', 'of', 'users', 'in', 'millions']: ['19.27', '18.94', '18.58', '18.17', '17.7', '17.19', '16.62', '15.99']
+
+gold: This statistic shows the number of social network users in Australia from 2015 to 2022 . In 2022 , it is estimated that there will be around 19.27 million social network users in Australia , up from around 17.19 million in 2017 .
+gold_template: This statistic shows the templateYLabel[0] of templateTitle[1] templateTitle[2] templateYLabel[1] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , it is estimated that there will be around templateYValue[idxmax(X)] templateYLabel[2] templateTitle[1] templateTitle[2] templateYLabel[1] in templateTitleSubject[0] , up from around templateYValue[5] templateYLabel[2] in templateXValue[5] .
+
+generated_template: In templateXValue[max] , the templateYLabel[0] of templateTitleSubject[0] Intermediate ( WTI ) is expected to reach templateYValue[idxmax(X)] templateYValue[idxmax(X)] , a forecast from the previous templateXLabel[0] . By templateXValue[max] , there will be an expected templateYValue[idxmax(X)] thousand templateYLabel[0] in templateTitleSubject[0] . This figure : reduced barriers to ownership Just as they reach a higher share of the global population , smart phones also ( there is an `` are '' missing in between those two ) becoming more accessible .
+generated: In 2022 , the Number of Australia Intermediate ( WTI ) is expected to reach 19.27 , a forecast from the previous Year . By 2022 , there will be an expected 19.27 thousand Number in Australia . This figure : reduced barriers to ownership Just as they reach a higher share of the global population , smart phones also ( there is an `` are '' missing in between those two ) becoming more accessible .
+
+Example 42:
+titleEntities: {'Subject': ['Nicaragua'], 'Date': ['2019']}
+title: Unemployment rate in Nicaragua 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999']
+Y_Axis['Unemployment', 'rate']: ['4.87', '4.48', '4.21', '4.34', '4.4', '4.52', '5.28', '5.21', '6.38', '7.83', '8.16', '6.2', '4.89', '5.31', '5.37', '6.41', '7.6', '7.61', '7.44', '7.47', '7.35']
+
+gold: This statistic shows the unemployment rate in Nicaragua from 1999 to 2019 . In 2019 , the unemployment rate in Nicaragua was at approximately 4.87 percent .
+gold_template: This statistic shows the templateYLabel[0] templateYLabel[1] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] templateYLabel[1] in templateTitleSubject[0] was at approximately templateYValue[idxmax(X)] percent .
+
+generated_template: This statistic shows the templateYLabel[0] templateTitle[1] templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateTitle[0] templateTitle[1] templateTitle[2] in templateTitleSubject[0] was at approximately templateYValue[idxmax(X)] percent . templateTitleSubject[0] 's economy in comparison to other employment templateTitleSubject[0] possesses one of the fastest-growing economies in the world and as a result , templateTitleSubject[0] is recognized as one of the G-20 major economies as well as a member of the BRIC countries , an association that is made up of rapidly growing economies .
+generated: This statistic shows the Unemployment rate Nicaragua in from 1999 to 2019 . In 2019 , the Unemployment rate Nicaragua in was at approximately 4.87 percent . Nicaragua 's economy in comparison to other employment Nicaragua possesses one of the fastest-growing economies in the world and as a result , Nicaragua is recognized as one of the G-20 major economies as well a member of the BRIC countries , an association that is made up of rapidly growing economies .
+
+Example 43:
+titleEntities: {'Subject': ['France'], 'Date': ['2000', '2016']}
+title: France : number of internet users 2000 to 2016
+X_Axis['Year']: ['2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002']
+Y_Axis['Number', 'of', 'internet', 'users', 'in', 'millions']: ['55.86', '55.1', '53.7', '52.3', '51.76', '48.23', '48.65', '44.84', '44.04', '40.95', '28.87', '26.25', '23.82', '21.85', '18.13']
+
+gold: This statistic shows the number of people in France who access the Internet at home from 2000 to 2016 . It shows that in 2015 , over 55 million people in France had access to the internet , up from 53.7 million in the previous year .
+gold_template: This statistic shows the templateYLabel[0] of people in templateTitleSubject[0] who access the templateYLabel[1] at home from templateTitleDate[min] to templateXValue[max] . It shows that in templateXValue[1] , over templateYValue[1] templateYLabel[3] people in templateTitleSubject[0] had access to the templateYLabel[1] , up from templateYValue[2] templateYLabel[3] in the previous templateXLabel[0] .
+
+generated_template: This statistic provides information on the templateYLabel[0] of templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , templateTitleSubject[0] templateTitle[1] templateTitle[2] amounted to about templateYValue[idxmax(X)] percent .
+generated: This statistic provides information on the Number of internet in France from 2002 to 2016 . In 2016 , France number internet amounted to about 55.86 percent .
+
+Example 44:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2018']}
+title: Cities with the highest spending on parks and recreation in the U.S. 2018
+X_Axis['State']: ['Minneapolis', 'Seattle', 'San_Francisco', 'Portland', 'Arlington', 'Irvine', 'Washington_D.C.', 'St._Paul', 'Plano', 'Boise', 'New_York', 'Long_Beach', 'Chicago', 'Cincinnati', 'Aurora']
+Y_Axis['Spending', 'per', 'resident', 'U.S.', 'dollars']: ['346.97', '268.42', '259.59', '233.99', '232.59', '206.12', '203.21', '201.96', '201.02', '182.04', '176.0', '171.14', '162.87', '153.37', '146.33']
+
+gold: This statistic shows the cities with the highest spending per resident on parks and recreation in the United States in 2018 . Seattle , Washington , spent around 268.42 U.S. dollars per resident on parks and recreation in 2018 .
+gold_template: This statistic shows the templateTitle[0] templateTitle[1] the templateTitle[2] templateYLabel[0] templateYLabel[1] templateYLabel[2] on templateTitle[4] and templateTitle[5] in the templateTitle[6] in templateTitleDate[0] . templateXValue[1] , templateXValue[6] , spent around templateYValue[1] templateYLabel[3] templateYLabel[4] templateYLabel[1] templateYLabel[2] on templateTitle[4] and templateTitle[5] in templateTitleDate[0] .
+
+generated_template: This statistic ranks the templateYLabel[0] of templateTitle[0] templateTitle[1] templateTitle[2] in selected templateTitleSubject[0] in templateTitleDate[0] , templateXLabel[0] . In that year , templateXValue[0] templateTitle[0] templateTitle[1] templateTitle[2] accounted for templateYValue[max] percent of all templateTitle[0] templateTitle[1] templateTitle[2] .
+generated: This statistic ranks the Spending of Cities highest spending in selected U.S. in 2018 , State . In that year , Minneapolis Cities highest spending accounted for 346.97 percent of all Cities highest spending .
+
+Example 45:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['1990', '2019']}
+title: Employment rate of men in the U.S. 1990 to 2019
+X_Axis['Year']: ["'19", "'18", "'17", "'16", "'15", "'14", "'13", "'12", "'11", "'10", "'09", "'08", "'07", "'06", "'05", "'04", "'03", "'02", "'01", "'00", "'99", "'98", "'97", "'96", "'95", "'94", "'93", "'92", "'91", "'90"]
+Y_Axis['Employment', 'rate']: ['66.6', '66.3', '66', '65.8', '65.3', '64.9', '64.4', '64.4', '63.9', '63.7', '64.5', '68.5', '69.8', '70.1', '69.6', '69.2', '68.9', '69.7', '70.9', '71.9', '71.6', '71.6', '71.3', '70.9', '70.8', '70.4', '70', '69.8', '70.4', '72']
+
+gold: This statistic shows the employment rate of men in the United States from 1990 to 2019 . In 2019 , this rate was 66.6 percent . The monthly figure of full-time employees in the U.S. can be accessed here .
+gold_template: This statistic shows the templateYLabel[0] templateYLabel[1] of templateTitle[2] in the templateTitle[3] from templateTitleDate[min] to templateTitleDate[max] . In templateTitleDate[max] , this templateYLabel[1] was templateYValue[0] percent . The monthly figure of full-time employees in the templateTitleSubject[0] can be accessed here .
+
+generated_template: This statistic displays the templateTitle[0] templateYLabel[0] of templateTitle[2] in the templateTitleSubject[0] from templateTitleDate[min] to templateTitleDate[max] . templateYLabel[0] among the templateTitle[1] labor force decreased from templateYValue[max] percent in 2010 to templateYValue[min] percent in templateTitleDate[max] .
+generated: This statistic displays the Employment of men in the U.S. from 1990 to 2019 . Employment among the rate labor force decreased from 72 percent in 2010 to 63.7 percent in 2019 .
+
+Example 46:
+titleEntities: {'Subject': ['U.S.from'], 'Date': ['1900', '2016']}
+title: Fatality numbers from heat waves and cold waves in the U.S.from 1900 to 2016
+X_Axis['Type,', 'Year,', 'Location']: ['Heat_wave_1980_Kansas_City_Missouri_St_Loius', 'Heat_wave_1936_Illinois', 'Heat_wave_1995_Missouri_Oklahoma_Illinois', 'Heat_wave_1999_Illinois_Missouri_Wisconsin', 'Heat_wave_1983', 'Heat_wave_1966_St_Louis_Missouri', 'Heat_wave_2006_California', 'Cold_wave_1963', 'Heat_wave_1998_Arizona_Florida_Colorado', 'Heat_wave_2012_Washington_DC_Iowa_Virginia_North_Carolina']
+Y_Axis['Number', 'of', 'fatalities']: ['1260', '1193', '670', '257', '188', '182', '164', '150', '130', '107']
+
+gold: This statistic shows a list of heat waves and cold waves experienced in the United States from 1900 to 2016 , by the number of fatalities that occurred as a result . In the deadliest event on record , around 1,260 people lost their lives as a result of a heat wave in 1980 in Missouri and Tennessee .
+gold_template: This statistic shows a list of templateXValue[0] templateTitle[4] and templateXValue[7] templateTitle[4] experienced in the country templateTitleSubject[0] templateTitleDate[min] to templateTitleDate[max] , by the templateYLabel[0] of templateYLabel[1] that occurred as a result . In the deadliest event on record , around templateYValue[max] people lost their lives as a result of a templateXValue[0] in templateXValue[0] in templateXValue[0] and Tennessee .
+
+generated_template: This statistic shows the ten templateTitle[0] templateTitle[1] in templateTitleSubject[0] as of templateTitleDate[0] . In templateTitleDate[0] , around templateYValue[max] million people lived in templateXValue[0] , making it the templateTitle[0] city in templateTitleSubject[0] .
+generated: This statistic shows the ten Fatality numbers in U.S.from as of 1900 . In 1900 , around 1260 million people lived in Heat wave 1980 Kansas City Missouri St Loius , making it the Fatality city in U.S.from .
+
+Example 47:
+titleEntities: {'Subject': ['UK'], 'Date': ['2017', '2019']}
+title: Amounts outstanding of notes and coin in circulation in the UK 2017 to 2019
+X_Axis['Month']: ["Dec_'19", "Nov_'19", "Oct_'19", "Sep_'19", "Aug_'19", "Jul_'19", "Jun_'19", "May_'19", "Apr_'19", "Mar_'19", "Feb_'19", "Jan_'19", "Dec_'18", "Nov_'18", "Oct_'18", "Sep_'18", "Aug_'18", "Jul_'18", "Jun_'18", "May_'18", "Apr_'18", "Mar_'18", "Feb_'18", "Jan_'18", "Dec_'17", "Nov_'17", "Oct_'17", "Sep_'17", "Aug_'17", "Jul_'17", "Jun_'17", "May_'17", "Apr_'17", "Mar_'17", "Feb_'17", "Jan_'17"]
+Y_Axis['Amounts', 'outstanding', 'in', 'million', 'GBP']: ['82648', '82820', '82980', '82933', '82920', '82806', '82764', '82649', '82546', '82536', '82471', '82318', '82117', '81945', '81817', '81812', '81704', '81698', '81637', '81561', '81503', '81345', '81610', '81804', '81938', '82069', '82139', '82114', '82088', '82132', '82156', '82170', '82037', '81627', '81526', '81210']
+
+gold: As of December 2019 , the value of outstanding notes and coins in circulation in the United Kingdom reached approximately 82.65 billion British pounds . This was an increase of over 1.4 billion British pounds as compared to January 2017 . When broken down by denomination , the twenty-pound note accounted for the highest share of notes in circulation .
+gold_template: As of 2019 , the value of templateYLabel[1] templateTitle[2] and coins in templateTitle[4] in the United Kingdom reached approximately templateYValue[0] templateYLabel[2] British pounds . This was an increase of over 1.4 templateYLabel[2] British pounds as compared to 2017 . When broken down by denomination , the twenty-pound note accounted for the highest share of templateTitle[2] in templateTitle[4] .
+
+generated_template: This statistic illustrates the templateTitle[0] templateYLabel[0] of templateTitle[2] in the templateTitleSubject[0] ( templateTitleSubject[1] ) from templateTitleDate[min] to templateTitleDate[max] . The templateTitle[0] templateYLabel[0] of templateTitle[2] was valued at templateYValue[0] British pounds in 2019 .
+generated: This statistic illustrates the Amounts of notes in the UK ( ) from 2017 to 2019 . The Amounts of notes was valued at 82648 British pounds in 2019 .
+
+Example 48:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2016']}
+title: U.S. mobile payment app usage 2016
+X_Axis['Payment', 'Method']: ['Android_Pay', 'Retailer_mobile_app', 'Apple_Pay', 'Samsung_Pay', 'MasterPass', 'CurrenC', 'Windows_Phone_Wallet']
+Y_Axis['Share', 'of', 'respondents']: ['18', '12', '11', '3', '2', '1', '1']
+
+gold: This statistic presents the most commonly used mobile payment apps according to a survey of internet users carried out in February 2016 in the United States . During the survey period , 11 percent of respondents reported having used Apple Pay in the previous year .
+gold_template: This statistic presents the most commonly used templateXValue[1] templateXLabel[0] apps according to a survey of internet users carried out in 2016 in the templateTitle[0] . During the survey period , templateYValue[2] percent of templateYLabel[1] reported having used templateXValue[2] templateXValue[0] in the previous year .
+
+generated_template: This statistic shows the results of a templateTitleDate[0] survey among templateTitleSubject[0] templateTitle[1] aged 18 to 60 about their stance on templateXValue[0] on 2019 . They were asked how they would manage to templateXValue[0] on their templateYValue[0] percent of surveyed on the templateXValue[0] in templateTitleDate[0] .
+generated: This statistic shows the results of a 2016 survey among U.S. mobile aged 18 to 60 about their stance on Android Pay 2019 . They were asked how they would manage to Android Pay on their 18 percent of surveyed on the Android Pay in 2016 .
+
+Example 49:
+titleEntities: {'Subject': ['Utah Jazz'], 'Date': ['2001', '2019']}
+title: Utah Jazz 's revenue 2001 to 2019
+X_Axis['Year']: ['18/19', '17/18', '16/17', '15/16', '14/15', '13/14', '12/13', '11/12', '10/11', '09/10', '08/09', '07/08', '06/07', '05/06', '04/05', '03/04', '02/03', '01/02']
+Y_Axis['Revenue', 'in', 'million', 'U.S.', 'dollars']: ['258', '243', '221', '164', '146', '142', '131', '111', '120', '121', '118', '119', '114', '96', '91', '88', '85', '87']
+
+gold: The statistic shows the revenue of the Utah Jazz franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated revenue of the National Basketball Association franchise amounted to 258 million U.S. dollars .
+gold_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+
+generated_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] .
+generated: The statistic shows the Revenue of the Utah Jazz franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 258 .
+
+Example 50:
+titleEntities: {'Subject': ['MTV', 'United Kingdom', 'UK'], 'Date': ['2019']}
+title: MTV viewers reached quarterly in the United Kingdom ( UK ) Q1 2012-Q3 2019
+X_Axis['Quarter']: ['Q1_2012', 'Q2_2012', 'Q3_2012', 'Q4_2012', 'Q1_2013', 'Q2_2013', 'Q3_2013', 'Q4_2013', 'Q1_2014', 'Q2_2014', 'Q3_2014', 'Q4_2014', 'Q1_2015', 'Q2_2015', 'Q3_2015', 'Q4_2015', 'Q1_2016', 'Q2_2016', 'Q3_2016', 'Q4_2016', 'Q1_2017', 'Q2_2017', 'Q3_2017', 'Q4_2017', 'Q1_2018', 'Q2_2018', 'Q3_2018', 'Q4_2018', 'Q1_2019', 'Q2_2019', 'Q3_2019']
+Y_Axis['Viewers', 'in', 'thousands']: ['10610', '9638', '10353', '9702', '9677', '10047', '10609', '11487', '9967', '10947', '9674', '9917', '10647', '9856', '9509', '8351', '10631', '10279', '10201', '9717', '8838', '8761', '8738', '8188', '8011', '7629', '8344', '6833', '6482', '5960', '6890']
+
+gold: This statistic shows the quarterly reach of MTV in the United Kingdom ( UK ) from the first quarter of 2012 to the third quarter of 2019 . In the first quarter of 2016 , MTV reached 10.63 million viewers . In the second quarter of 2019 , MTV had its lowest reach during the period in consideration at nearly six million viewers .
+gold_template: This statistic shows the templateTitle[3] reach of templateTitleSubject[0] in the templateTitleSubject[1] ( templateTitleSubject[2] ) from the first templateXLabel[0] of templateXValue[0] to the third templateXLabel[0] of templateXValue[28] . In the first templateXLabel[0] of templateXValue[16] , templateTitleSubject[0] templateTitle[2] templateYValue[16] templateYLabel[1] templateYLabel[0] . In the second templateXLabel[0] of templateXValue[28] , templateTitleSubject[0] had its lowest reach during the period in consideration at nearly templateYValue[28] templateYLabel[1] templateYLabel[0] .
+
+generated_template: This statistic shows the total templateTitle[2] templateYLabel[0] of the templateTitleSubject[0] ( templateTitleSubject[1] ) from the first templateXLabel[0] of templateTitleDate[min] to the third templateXLabel[0] of templateTitleDate[max] . In the fourth templateXLabel[0] of templateTitleDate[max] , templateTitleSubject[0] had a total templateYLabel[0] of templateYValue[0] templateYLabel[0] . templateTitleSubject[0] Group was founded in the third templateXLabel[0] of templateTitleDate[max] , templateTitleSubject[0] is a mobile social templateYLabel[0] decrease in the third templateXLabel[0] of the previous templateXLabel[0] .
+generated: This statistic shows the total reached Viewers of the MTV ( United Kingdom ) from the first Quarter of 2019 to the third Quarter of 2019 . In the fourth Quarter of 2019 , MTV had a total Viewers of 10610 Viewers . MTV Group was founded in the third Quarter of 2019 , MTV is a mobile social Viewers decrease in the third Quarter of the previous Quarter .
+
+Example 51:
+titleEntities: {'Subject': ['Americans'], 'Date': ['2019']}
+title: Church attendance of Americans 2019
+X_Axis['Frequency']: ['Every_week', 'Almost_every_week', 'About_once_a_month', 'Seldom', 'Never', 'No_opinion']
+Y_Axis['Share', 'of', 'respondents']: ['23', '10', '12', '24', '29', '3']
+
+gold: According to a 2019 survey , 29 percent of Americans never attend church or synagogue , compared to 23 percent of Americans who attend every week . Religiosity in the United States Despite only about a fifth of Americans attending church or synagogue on a weekly basis , almost 40 percent consider themselves to be very religious . Additionally , states in the Deep South such as Mississippi , Alabama , and Louisiana had the most residents identifying as very religious .
+gold_template: According to a templateTitleDate[0] survey , templateYValue[max] percent of templateTitleSubject[0] templateXValue[4] attend templateTitle[0] or synagogue , compared to templateYValue[0] percent of templateTitleSubject[0] who attend templateXValue[0] . Religiosity in the country Despite only templateXValue[2] a fifth of templateTitleSubject[0] attending templateTitle[0] or synagogue on a weekly basis , templateXValue[1] 40 percent consider themselves to be very religious . Additionally , states in the Deep South such as Mississippi , Alabama , and Louisiana had the most residents identifying as very religious .
+
+generated_template: This statistic presents the templateTitle[1] templateTitle[2] , according to templateTitle[1] shoppers in the templateTitle[0] as of 2017 . During the most recent survey period , it was found that templateYValue[max] percent of internet users had accessed templateXValue[0] for any purpose in the past week .
+generated: This statistic presents the attendance Americans , according to attendance shoppers in the Church as of 2017 . During the most recent survey period , it was found that 29 percent of internet users had accessed Every week for any purpose in the past week .
+
+Example 52:
+titleEntities: {'Subject': ['Belgium'], 'Date': ['2000', '2018']}
+title: Hospitals in Belgium 2000 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
+Y_Axis['Number', 'of', 'hospitals']: ['174', '175', '177', '178', '187', '191', '192', '195', '198', '203', '209', '210', '215', '216', '214', '218', '219', '225', '228']
+
+gold: Since 2000 , the number of hospitals in Belgium has declined nearly year-on-year . There were 228 hospitals in Belgium in the year 2000 and by 2018 this figure had fallen to 174 . This is a drop of over 23 percent in the provided time period .
+gold_template: Since templateXValue[min] , the templateYLabel[0] of templateYLabel[1] in templateTitleSubject[0] has declined nearly year-on-year . There were templateYValue[idxmin(X)] templateYLabel[1] in templateTitleSubject[0] in the templateXLabel[0] templateXValue[idxmax(Y)] and by templateXValue[max] this figure had fallen to templateYValue[idxmax(X)] . This is a drop of over 23 percent in the provided time period .
+
+generated_template: This statistic shows the templateYLabel[0] of templateTitle[1] who have obtained a legal divorce and have not remarried in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , there were a total templateYLabel[0] of templateYValue[idxmax(X)] templateTitle[1] templateTitle[2] .
+generated: This statistic shows the Number of Belgium who have obtained a legal divorce and have not remarried in Belgium from 2000 to 2018 . In 2018 , there were a total Number of 174 Belgium 2000 .
+
+Example 53:
+titleEntities: {'Subject': ['Facebook'], 'Date': ['2011', '2016']}
+title: Number of mobile-only monthly active Facebook users 2011 to 2016
+X_Axis['Quarter']: ["Q4_'16", "Q3_'16", "Q2_'16", "Q1_'16", "Q4_'15", "Q3_'15", "Q2_'15", "Q1_'15", "Q4_'14", "Q3_'14", "Q2_'14", "Q1_'14", "Q4_'13", "Q3_'13", "Q2_'13", "Q1_'13", "Q4_'12", "Q3_'12", "Q2_'12", "Q1_'12", "Q4_'11"]
+Y_Axis['Number', 'of', 'mobile-only', 'users', 'in', 'millions']: ['1149', '1055', '967', '894', '823', '727', '655', '581', '526', '456', '399', '341', '296', '254', '219', '189', '157', '126', '102', '83', '58']
+
+gold: The timeline shows the number of mobile-only monthly active Facebook users . As of the fourth quarter of 2016 , 1,149 million Facebook users accessed the social media site exclusively via mobile device every month , up from 823 million users in the corresponding quarter of the previous year .
+gold_template: The timeline shows the templateYLabel[0] of templateYLabel[1] templateTitle[2] templateTitle[3] templateTitleSubject[0] templateYLabel[2] . As of the fourth templateXLabel[0] of templateTitleDate[max] , templateYValue[max] templateYLabel[3] templateTitleSubject[0] templateYLabel[2] accessed the social media site exclusively via mobile device every month , up from templateYValue[4] templateYLabel[3] templateYLabel[2] in the corresponding templateXLabel[0] of the previous year .
+
+generated_template: This statistic presents templateTitleSubject[0] 's online traffic performance , based on the templateTitle[1] templateTitle[2] from the first templateXLabel[0] of templateTitleDate[min] to the first templateXLabel[0] of templateTitleDate[max] . During the most recent templateXLabel[0] , an average of templateYValue[0] templateYLabel[0] figures accessed the website , mobile templateYLabel[0] and the mobile applications . Over the period in consideration , it was reported that the number of average average .
+generated: This statistic presents Facebook 's online traffic performance , based on the mobile-only monthly from the first Quarter of 2011 to the first Quarter of 2016 . During the most recent Quarter , an average of 1149 Number figures accessed the website , mobile Number and the mobile applications . Over the period in consideration , it was reported that the number of average .
+
+Example 54:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2014']}
+title: Most popular games with casino visitors in the U.S. in 2014
+X_Axis['Response']: ['Slot_machines', 'Black_Jack', 'Poker', 'Roulette', 'Video_poker', 'Craps', 'Sports_book', 'Baccarat', 'No_favorite']
+Y_Axis['Share', 'of', 'respondents']: ['48', '16', '6', '5', '4', '4', '2', '1', '14']
+
+gold: This statistic shows the most popular games with casino visitors in the United States as of May 2014 . During the survey , six percent of respondents said that poker was their favorite game to play at casinos .
+gold_template: This statistic shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in the templateTitle[6] as of 2014 . During the survey , templateYValue[2] percent of templateYLabel[1] said that templateXValue[2] was their templateXValue[last] game to play at casinos .
+
+generated_template: As of the third quarter of templateTitleDate[0] , it was found that templateYValue[max] percent of templateTitleSubject[0] users in the templateTitleSubject[1] accessed the photo sharing app templateXValue[0] a templateXValue[0] . A further templateYValue[1] percent of templateTitleSubject[0] adults in a survey .
+generated: As of the third quarter of 2014 , it was found that 48 percent of U.S. users in the U.S. accessed the photo sharing app Slot machines a . further 16 percent of U.S. adults in a survey .
+
+Example 55:
+titleEntities: {'Subject': ['Becton', 'Dickinson', 'Company'], 'Date': ['2011', '2018']}
+title: Becton , Dickinson , and Company 's employees from 2011 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011']
+Y_Axis['Number', 'of', 'employees']: ['76032', '41900', '50900', '49500', '30600', '30000', '29600', '29400']
+
+gold: The statistic shows the number of employees of Becton , Dickinson , and Company for the fiscal years 2011 to 2018 . The number of employees at Becton , Dickinson , and Company reached a high in 2016 with 50,900 employed at the company that year .
+gold_template: The statistic shows the templateYLabel[0] of templateYLabel[1] of templateTitleSubject[0] , templateTitleSubject[1] , and templateTitleSubject[2] for the fiscal years templateXValue[min] to templateXValue[max] . The templateYLabel[0] of templateYLabel[1] at templateTitleSubject[0] , templateTitleSubject[1] , and templateTitleSubject[2] reached a high in templateXValue[2] with templateYValue[2] employed at the templateTitleSubject[2] that templateXLabel[0] .
+
+generated_template: templateTitleSubject[0] templateTitle[1] employment was around 19,500 workers as of templateXValue[max] . templateTitleSubject[0] templateTitle[1] company goals are to create solutions to food safety and access , clean water , clean air and fuel , health care , and sustainable living . templateTitleSubject[0] Company Overview templateTitleSubject[0] is one of the world templateTitle[1] leading chemicals , plastics , and refining companies globally .
+generated: Becton Dickinson employment was around 19,500 workers as of 2018 . Becton Dickinson company goals are to create solutions to food safety and access , clean water , clean air and fuel , health care , and sustainable living . Becton Company Overview Becton is one of the world Dickinson leading chemicals , plastics and refining companies globally .
+
+Example 56:
+titleEntities: {'Subject': ['Norway'], 'Date': ['2008', '2018']}
+title: Number of births in Norway 2008 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008']
+Y_Axis['Number', 'of', 'live', 'births']: ['55120', '56633', '58890', '59058', '59084', '58995', '60255', '60220', '61442', '61807', '60497']
+
+gold: This statistic shows the number of live births in Norway from 2008 to 2018 . The number of births has declined during the period , from the peak of roughly 61.8 thousand in 2009 to around 55.1 thousand in 2018 .
+gold_template: This statistic shows the templateYLabel[0] of templateYLabel[1] templateYLabel[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . The templateYLabel[0] of templateYLabel[2] has declined during the period , from the peak of roughly templateYValue[max] thousand in templateXValue[idxmax(Y)] to around templateYValue[min] thousand in templateXValue[idxmin(Y)] .
+
+generated_template: In templateXValue[max] , the total templateYLabel[0] of companies producing templateTitle[0] and templateTitle[2] was approximately templateYValue[0] thousand . Despite the templateYLabel[0] fluctuated in the past decade , when it again increased a continuous growth . In templateXValue[max] , there were nearly templateYValue[min] thousand Danish templateYLabel[0] .
+generated: In 2018 , the total Number of companies producing Number and Norway was approximately 55120 thousand . Despite the Number fluctuated in the past decade , when it again increased a continuous growth . In 2018 , there were nearly 55120 thousand Danish Number .
+
+Example 57:
+titleEntities: {'Subject': ['HPE research development'], 'Date': ['2013', '2019']}
+title: HPE : research and development spending 2013 to 2019
+X_Axis['Fiscal', 'year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013']
+Y_Axis['Expenditure', 'in', 'million', 'U.S.', 'dollars']: ['1842', '1667', '1486', '1714', '2338', '2197', '1956']
+
+gold: This statistic shows Hewlett Packard Enterprise 's ( previously a part of Hewlett-Packard Company ) expenditure on research and development for each fiscal year from 2013 to 2019 . In 2019 , HPE 's R & D expenditure came to 1.84 billion U.S. dollars . This represented a small portion of HPE 's net revenue , which reached 29.1 billion U.S. dollars .
+gold_template: This statistic shows Hewlett Packard Enterprise 's ( previously a part of Hewlett-Packard Company ) templateYLabel[0] on templateTitleSubject[0] and templateTitleSubject[0] for each templateXLabel[0] templateXLabel[1] from templateXValue[last] to templateXValue[0] . In templateXValue[0] , templateTitleSubject[0] 's R & D templateYLabel[0] came to templateYValue[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] . This represented a small portion of templateTitleSubject[0] 's net revenue , which reached 29.1 templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+
+generated_template: templateTitleSubject[0] had a templateYLabel[0] of templateYValue[max] of templateTitleSubject[1] company , which in the world as of templateXValue[idxmax(Y)] , a two drop from the previous templateXLabel[0] of templateXValue[1] . templateTitleSubject[0] Inc. was founded in the company , the company 's templateTitleSubject[0] . templateTitleSubject[0] based in the same year of the previous year , the nominal company has grown .
+generated: HPE research development had a Expenditure of 2338 HPE research development company , which in the world as of 2015 , a two drop from the previous Fiscal of 2018 . HPE research development Inc. was founded in the company , the company 's HPE research development . based in the same year of the previous year , the nominal company has grown .
+
+Example 58:
+titleEntities: {'Subject': ['Colombia'], 'Date': ['2024']}
+title: Gross domestic product ( GDP ) per capita in Colombia 2024
+X_Axis['Year']: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984']
+Y_Axis['GDP', 'per', 'capita', 'in', 'U.S.', 'dollars']: ['8096.64', '7729.02', '7381.73', '7053.53', '6744.01', '6508.13', '6641.51', '6325.49', '5799.62', '6088.68', '7998.84', '8103.49', '7950.38', '7264.11', '6285.2', '5170.53', '5444.82', '4684.01', '3717.55', '3384.61', '2737.58', '2240.21', '2347.51', '2383.31', '2455.11', '2588.92', '2992.93', '3291.58', '3037.63', '2939.1', '2640.39', '2139.18', '1923.58', '1658.07', '1637.5', '1640.39', '1660.55', '1572.58', '1542.36', '1572.19', '1711.86']
+
+gold: The statistic shows gross domestic product ( GDP ) per capita in Colombia from 1984 to 2018 , with projections up until 2024 . GDP is the total value of all goods and services produced in a country in a year . It is considered to be a very important indicator of the economic strength of a country and a positive change is an indicator of economic growth .
+gold_template: The statistic shows templateTitle[0] templateTitle[1] templateTitle[2] ( templateYLabel[0] ) templateYLabel[1] templateYLabel[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[6] , with projections up until templateXValue[max] . templateYLabel[0] is the total value of all goods and services produced in a country in a templateXLabel[0] . It is considered to be a very important indicator of the economic strength of a country and a positive change is an indicator of economic growth .
+
+generated_template: The statistic shows templateTitle[0] templateTitle[1] templateTitle[2] ( templateYLabel[0] ) in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . templateYLabel[0] is the total value of all goods and services produced in a country in a templateXLabel[0] . It is considered to be a very important indicator of the economic strength of a country and a positive change is an indicator of economic growth .
+generated: The statistic shows Gross domestic product ( GDP ) in Colombia from 1984 to 2024 . GDP is the total value of all goods and services produced in a country in a Year . It is considered to be a very important indicator of the economic strength of a country and a positive change is an indicator of economic growth .
+
+Example 59:
+titleEntities: {'Subject': ['Morocco'], 'Date': ['2024']}
+title: Gross domestic product ( GDP ) growth rate in Morocco 2024 
+X_Axis['Year']: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014']
+Y_Axis['GDP', 'growth', 'compared', 'to', 'previous', 'year']: ['4.53', '4.42', '4.3', '4.13', '3.69', '2.66', '2.96', '4.2', '1.06', '4.55', '2.67']
+
+gold: The statistic shows the growth in real GDP in Morocco from 2014 to 2018 , with projections up until 2024 . In 2018 , Morocco 's real gross domestic product increased by around 2.96 percent compared to the previous year .
+gold_template: The statistic shows the templateYLabel[1] in real templateYLabel[0] in templateTitleSubject[0] from templateXValue[min] to templateXValue[6] , with projections up until templateXValue[max] . In templateXValue[6] , templateTitleSubject[0] 's real templateTitle[0] templateTitle[1] templateTitle[2] increased by around templateYValue[6] percent templateYLabel[2] to the templateYLabel[3] templateXLabel[0] .
+
+generated_template: The statistic shows the real templateTitle[0] templateTitle[1] templateTitle[2] ( templateYLabel[0] ) in templateTitleSubject[0] from templateXValue[min] to statistic , with projections up until templateXValue[max] . templateYLabel[0] is the total value of all goods and services produced in a country in a templateXLabel[0] . It is considered to be a very important indicator of the economic strength of a country and a positive change is an indicator of economic growth .
+generated: The statistic shows the real Gross domestic product ( GDP ) in Morocco from 2014 to statistic , with projections up until 2024 . GDP is the total value of all goods and services produced in a country in a Year . It is considered to be a very important indicator of the economic strength of a country and a positive change is an indicator of economic growth .
+
+Example 60:
+titleEntities: {'Subject': ['Net'], 'Date': ['2006']}
+title: Net profit of airlines worldwide 2006 to 2020
+X_Axis['Year']: ['2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006']
+Y_Axis['Net', 'profit', 'in', 'billion', 'U.S.', 'dollars']: ['29.3', '25.9', '27.3', '37.6', '34.2', '36.0', '13.8', '10.7', '9.2', '8.3', '17.3', '-4.6', '-26.1', '14.7', '5.0']
+
+gold: This statistic shows the net profit of commercial airlines worldwide from 2006 to 2019 . In 2019 , the net profit of commercial airlines is projected to reach around 28 billion U.S. dollars . Airline industry In 2018 , the U.S. airline industry generated total operating revenue of almost 240 billion U.S. dollars , making the United States one of the largest markets for the airline industry worldwide .
+gold_template: This statistic shows the templateYLabel[0] templateYLabel[1] of commercial templateTitle[2] templateTitle[3] from templateXValue[min] to templateXValue[1] . In templateXValue[1] , the templateYLabel[0] templateYLabel[1] of commercial templateTitle[2] is projected to reach around 28 templateYLabel[2] templateYLabel[3] templateYLabel[4] . Airline industry In templateXValue[2] , the templateYLabel[3] airline industry generated total operating revenue of almost 240 templateYLabel[2] templateYLabel[3] templateYLabel[4] , making the country one of the largest markets for the airline industry templateTitle[3] .
+
+generated_template: This statistic shows the templateYLabel[0] templateTitle[1] of commercial templateTitle[2] from templateXValue[min] to templateXValue[2] , and gives an estimate for templateXValue[1] and templateXValue[max] . In templateXValue[1] , the templateTitle[0] templateTitle[2] in templateTitleSubject[0] was estimated to reach templateYValue[0] templateYValue[idxmax(X)] people . This figure is expected to rise to templateYValue[max] templateYValue[idxmax(X)] by templateXValue[idxmax(Y)] .
+generated: This statistic shows the Net profit of commercial airlines from 2006 to 2018 , and gives an estimate for 2019 and 2020 . In 2019 , the Net airlines in Net was estimated to reach 29.3 people . This figure is expected to rise 37.6 29.3 by 2017 .
+
+Example 61:
+titleEntities: {'Subject': ['PV'], 'Date': ['2018']}
+title: U.S. residential sector annual solar PV capacity installations 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005']
+Y_Axis['Capacity', 'in', 'megawatts']: ['2400', '2227', '2583', '2099', '1231', '792', '494', '304', '246', '164', '82', '58', '38', '27']
+
+gold: This statistic represents solar photovoltaic capacity installations in the residential sector in the United States between 2005 and 2018 . In 2018 , residential sector PV installations reached a capacity of 2.4 gigawatts .
+gold_template: This statistic represents templateTitle[4] photovoltaic templateYLabel[0] templateTitle[7] in the templateTitle[1] templateTitle[2] in the templateTitle[0] between templateXValue[min] and templateXValue[max] . In templateXValue[max] , templateTitle[1] templateTitle[2] templateTitleSubject[0] templateTitle[7] reached a templateYLabel[0] of 2.4 gigawatts .
+
+generated_template: This statistic shows the total amount of templateTitle[2] mined in the templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , there were a templateTitle[0] of templateYValue[idxmax(X)] templateTitle[2] mined in the templateTitleSubject[1] , an increase from the previous templateXLabel[0] .
+generated: This statistic shows the total amount of sector mined in the PV from 2005 to 2018 . In 2018 , there were a U.S. of 2400 sector mined in the PV , an increase from the previous Year .
+
+Example 62:
+titleEntities: {'Subject': ['American'], 'Date': ['2001', '2019']}
+title: American imports of corn 2001 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001']
+Y_Axis['Imports', 'in', 'million', 'bushels']: ['28', '36', '57', '57', '68', '32', '36', '160', '29', '28', '8', '14', '20', '12', '9', '11', '14', '14', '10']
+
+gold: This statistic shows imports of corn in the United States from 2001 to 2019 . According to the report , U.S. corn imports amounted to approximately 57 million bushels in 2016 , down from 68 million bushels the previous year .
+gold_template: This statistic shows templateYLabel[0] of templateTitle[2] in the templateTitle[0] from templateXValue[min] to templateXValue[max] . According to the report , U.S. templateTitle[2] templateYLabel[0] amounted to approximately templateYValue[2] templateYLabel[1] templateYLabel[2] in templateXValue[3] , down from templateYValue[4] templateYLabel[1] templateYLabel[2] the previous templateXLabel[0] .
+
+generated_template: This statistic shows the total templateTitleSubject[0] ( UK ) templateTitle[2] templateYLabel[0] income from templateXValue[min] to templateXValue[max] . In the most recent fiscal templateXLabel[0] , the templateTitle[2] templateTitleSubject[0] templateTitle[2] templateYLabel[0] amounted to approximately templateYValue[idxmax(X)] percent . The highest templateYLabel[0] of templateXValue[1] was a decrease from the previous templateXLabel[0] , at templateYValue[1] percent in templateXValue[1] at templateYValue[max] percent .
+generated: This statistic shows the total American ( UK ) corn Imports income from 2001 to 2019 . In the most recent fiscal Year , the corn American Imports amounted to approximately 28 percent . The highest Imports of 2018 was a decrease from the previous Year , at 36 percent in 2018 at 160 percent .
+
+Example 63:
+titleEntities: {'Subject': ['Americans'], 'Date': ['2012']}
+title: Share of Americans who have had a one-night-stand , as of 2012
+X_Axis['Response']: ['No', 'Yes']
+Y_Axis['Share', 'of', 'respondents']: ['41.9', '58.1']
+
+gold: This statistic shows the results of a survey in the United States in 2012 on one-night-stands . 58.1 percent of respondents in the United States stated they have had a one-night-stand before .
+gold_template: This statistic shows the results of a survey in the country in templateTitleDate[0] on one-night-stands . templateYValue[max] percent of templateYLabel[1] in the country stated they templateTitle[3] templateTitle[4] a templateTitle[5] before .
+
+generated_template: This statistic shows the results of a templateTitle[0] among adult Americans who have one or more templateTitle[2] . The templateTitle[0] was conducted in templateTitleDate[0] , asking the templateYValue[max] percent of female users stated that they used the templateTitle[2] .
+generated: This statistic shows the results of a Share among adult Americans who have one or more who . The Share was conducted in 2012 , asking the 58.1 percent of female users stated that they used the who .
+
+Example 64:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2016']}
+title: Leading coupon website awareness according to U.S. users 2016
+X_Axis['Response']: ['groupon.com', 'coupons.com', 'retailmenot.com', 'livingsocial.com', 'redplum.com', 'mycoupons.com', 'couponcabin.com', 'swagbugs.com', 'savingstar.com', 'slickdeals.net', 'fatwallet.com', 'us.toluna.com', 'travelzoo.com', 'shopathome.com', 'woot.com', 'hip2save.com', 'couponmountain.com', 'freeshipping.org', 'couponchief.com', 'yipit.com', 'shesaved.com', 'passionforsavings.com', 'fyvor.com', 'other']
+Y_Axis['Share', 'of', 'respondents']: ['75', '64', '62', '48', '32', '31', '25', '23', '22', '19', '18', '14', '14', '13', '12', '11', '9', '6', '5', '4', '3', '3', '2', '2']
+
+gold: This statistic gives information on the most popular discount and promo code websites according to users in the United States . During the August 2016 survey , 75 percent of respondents stated that they were aware of groupon.com . Coupons.com was ranked second with 64 percent awareness rate and retailmenot.com was in third place with 62 percent of respondents stating that they knew the platform .
+gold_template: This statistic gives information on the most popular discount and promo code websites templateTitle[4] to templateTitle[6] in the templateTitle[5] . During the 2016 survey , templateYValue[max] percent of templateYLabel[1] stated that they were aware of templateXValue[idxmax(Y)] . templateXValue[1] was ranked second with templateYValue[1] percent templateTitle[3] rate and templateXValue[2] was in third place with templateYValue[2] percent of templateYLabel[1] stating that they knew the platform .
+
+generated_template: The statistic shows templateTitle[1] brands ownership templateYLabel[0] in the templateTitleSubject[0] in templateTitleDate[0] according to a Statista survey . templateYValue[max] percent of results said that they own templateXValue[0] headphones .
+generated: The statistic shows coupon brands ownership Share in the U.S. in 2016 according to a Statista survey . 75 percent of results said that they own groupon.com headphones .
+
+Example 65:
+titleEntities: {'Subject': ['Thailand'], 'Date': ['2017', '2023']}
+title: Number of social network users Thailand 2017 to 2023
+X_Axis['Year']: ['2023', '2022', '2021', '2020', '2019', '2018', '2017']
+Y_Axis['Number', 'of', 'users', 'in', 'millions']: ['37.2', '36.3', '35.6', '34.7', '33.8', '33.0', '32.1']
+
+gold: This statistic shows the number of social network users in Thailand from 2017 to 2023 . In 2023 , it is estimated that there will be around 32.2 million social network users in the country , up from 32.1 million in 2017 .
+gold_template: This statistic shows the templateYLabel[0] of templateTitle[1] templateTitle[2] templateYLabel[1] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , it is estimated that there will be around 32.2 templateYLabel[2] templateTitle[1] templateTitle[2] templateYLabel[1] in the country , up from templateYValue[idxmin(X)] templateYLabel[2] in templateXValue[idxmin(Y)] .
+
+generated_template: This statistic shows the templateYLabel[0] of templateTitle[2] network in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] of templateTitle[2] in templateTitleSubject[0] is expected to reach templateYValue[idxmax(X)] percent . In templateXValue[max] , the templateYLabel[0] of templateTitle[2] in templateTitleSubject[0] was expected to reach templateYValue[idxmax(X)] percent .
+generated: This statistic shows the Number of network in Thailand from 2017 to 2023 . In 2023 , the Number of network in Thailand is expected to reach 37.2 percent . In 2023 , the Number of network in Thailand was expected to reach 37.2 percent .
+
+Example 66:
+titleEntities: {'Subject': ['Zambia'], 'Date': ['2019']}
+title: Youth unemployment rate in Zambia in 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999']
+Y_Axis['Youth', 'unemployment', 'rate']: ['15.94', '16.09', '16.12', '16.39', '16.49', '16.92', '17.05', '17.03', '21.45', '26.83', '21.44', '16.02', '19.3', '23.17', '28.26', '26.75', '25.55', '24.6', '23.08', '21.34', '20.88']
+
+gold: The statistic shows the youth unemployment rate in Zambia from 1999 and 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated youth unemployment rate in Zambia was at 15.94 percent .
+gold_template: The statistic shows the templateYLabel[0] templateYLabel[1] templateYLabel[2] in templateTitleSubject[0] from templateXValue[min] and templateXValue[max] . According to the source , the data are ILO estimates . In templateXValue[max] , the estimated templateYLabel[0] templateYLabel[1] templateYLabel[2] in templateTitleSubject[0] was at templateYValue[idxmax(X)] percent .
+
+generated_template: The statistic shows the templateYLabel[0] data in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . According to the source , the data are ILO estimates . In templateXValue[max] , the estimated templateYLabel[0] templateTitle[0] templateTitle[1] templateTitle[2] in templateTitleSubject[0] was at templateYValue[idxmax(X)] percent .
+generated: The statistic shows the Youth data in Zambia from 1999 to 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated Youth unemployment rate in Zambia was at 15.94 percent .
+
+Example 67:
+titleEntities: {'Subject': ['Worldwide'], 'Date': ['2013', '2019']}
+title: Worldwide shipments of headphones 2013 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013']
+Y_Axis['Unit', 'shipments', 'in', 'millions']: ['400.0', '380.7', '363.0', '349.0', '331.3', '309.5', '286.0']
+
+gold: The statistic shows global headphone unit shipments from 2013 to 2019 . In 2018 , 380.7 million headphones were sold worldwide .
+gold_template: The statistic shows global headphone templateYLabel[0] templateYLabel[1] from templateXValue[min] to templateXValue[max] . In templateXValue[1] , templateYValue[1] templateYLabel[2] templateTitle[2] were sold templateTitleSubject[0] .
+
+generated_template: The statistic shows the templateYLabel[0] of templateTitle[0] templateTitle[1] and tourism templateTitle[2] in the templateTitleSubject[0] from templateXValue[min] to templateXValue[1] , with a forecast for templateXValue[max] . In templateXValue[1] , the templateTitle[0] of templateTitle[1] templateTitleSubject[0] templateYLabel[0] amounted to approximately templateYValue[min] billion units .
+generated: The statistic shows the Unit of Worldwide shipments and tourism headphones in the Worldwide from 2013 to 2018 , with a forecast for 2019 . In 2018 , the Worldwide of shipments Worldwide Unit amounted to approximately 286.0 billion units .
+
+Example 68:
+titleEntities: {'Subject': ['Change'], 'Date': ['2018', '2019']}
+title: Change of domestic heating oil price in selected countries 2018 to 2019
+X_Axis['Country']: ['Canada', 'Italy', 'Spain', 'France', 'United_Kingdom', 'Japan', 'Germany', 'United_States']
+Y_Axis['Change', 'in', 'heating', 'oil', 'price']: ['7', '5.9', '5.9', '4', '0.8', '-0.1', '-4.4', '-']
+
+gold: This statistic shows the change in the price of domestic heating oil per liter in selected countries for the period between December 2018 and December 2019 . In December 2019 , the domestic heating oil price in Germany was some -4.4 percent lower than in December 2018 . Domestic heating oil The price of domestic heating oil per liter has decreased in many countries .
+gold_template: This statistic shows the templateYLabel[0] in the templateYLabel[3] of templateTitle[1] templateYLabel[1] templateYLabel[2] per liter in templateTitle[5] templateTitle[6] for the period between 2018 and 2019 . In 2019 , the templateTitle[1] templateYLabel[1] templateYLabel[2] templateYLabel[3] in templateXValue[6] was some templateYValue[6] percent lower than in 2018 . templateTitle[1] templateYLabel[1] templateYLabel[2] The templateYLabel[3] of templateTitle[1] templateYLabel[1] templateYLabel[2] per liter has decreased in many templateTitle[6] .
+
+generated_template: This statistic illustrates the templateYLabel[0] of templateTitle[2] in the templateTitle[1] in templateTitleDate[0] , as of templateXLabel[0] . In templateTitleDate[0] , it was estimated that the social network had total templateTitle[1] templateYLabel[0] of approximately templateYValue[max] million native day . templateTitle[1] templateTitle[2] in the templateTitle[0] has increased in recent years .
+generated: This statistic illustrates the Change of heating in the domestic in 2018 , as of Country . In 2018 , it was estimated that the social network had total domestic Change of approximately 7 million native day . domestic heating in the Change has increased in recent years .
+
