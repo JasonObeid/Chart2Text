@@ -12,6 +12,22 @@ comparisonPath = '../results/may26/summaryComparison5212g-p80_beam4_batch1.txt'
 outputPath = '../results/may26/generated-5212g-p80-batch1.txt'
 
 nlp = spacy.load('en_core_web_md')
+def getScale(title, xLabel, yLabel):
+    scales = ['percent', 'percentage', '%', 'hundred', 'thousand', 'million', 'billion', 'trillion',
+              'hundreds', 'thousands', 'millions', 'billions', 'trillions']
+    for xLabelToken in xLabel:
+        xLabelWord = xLabelToken.replace('_', ' ').lower()
+        if xLabelWord in scales:
+            return xLabelWord
+    for yLabelToken in yLabel:
+        yLabelWord = yLabelToken.replace('_', ' ').lower()
+        if yLabelWord in scales:
+            return yLabelWord
+    for titleToken in title:
+        if titleToken in scales:
+            return titleToken
+    return 'scaleError'
+
 
 def getNamedEntity(title, xValueArr):
     doc = nlp(title)
@@ -189,6 +205,8 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                             replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
                 else:
                     index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
+                    if 'templateScale' == token:
+                        replacedToken = getScale(titleArr, cleanXLabel, cleanYLabel)
                     if 'templateXValue' in token:
                         index = mapIndex(index, xValueArr)
                         if index < len(xValueArr):

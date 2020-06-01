@@ -226,29 +226,29 @@ def compareToken(captionTokens, index, cleanTitle, xValueArr,
     # remove filler words from labels
     cleanXArr = [xWord for xWord in cleanXAxis.split('_') if xWord.lower() not in fillers]
     cleanYArr = [yWord for yWord in cleanYAxis.split('_') if yWord.lower() not in fillers]
-    numbers = ['thousand', 'million', 'billion', 'trillion',
-               'thousands', 'millions', 'billions', 'trillions']
+    numbers = ['percent', 'percentage', '%', 'hundred', 'thousand', 'million', 'billion', 'trillion',
+               'hundreds', 'thousands', 'millions', 'billions', 'trillions']
     for xLabelToken, i in zip(cleanXArr, range(0, len(cleanXArr))):
         xLabelWord = xLabelToken.replace('_', ' ').lower()
         if str(token).lower() == xLabelWord:
             return [1, f'templateXLabel[{i}]']
         elif str(token).lower() in numbers and xLabelWord.lower() in numbers:
-            return [1, f'templateXLabel[{i}]']
+            return [1, f'templateScale']
     for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
         yLabelWord = yLabelToken.replace('_', ' ').lower()
         if str(token).lower() == yLabelWord:
             return [1, f'templateYLabel[{i}]']
         elif str(token).lower() in numbers and yLabelWord.lower() in numbers:
-            return [1, f'templateYLabel[{i}]']
+            return [1, f'templateScale']
     # check if token in title
     for titleToken, i in zip(cleanTitle, range(0, len(cleanTitle))):
         titleWord = titleToken.lower()
         if str(token).lower() == titleWord:
             for subject, n in zip(entities['Subject'], range(0, len(entities['Subject']))):
-                if titleWord in subject.lower():
+                if titleWord == subject.lower():
                     return [1, f'templateTitleSubject[{n}]']
             for date, m in zip(entities['Date'], range(0, len(entities['Date']))):
-                if titleWord in str(date):
+                if titleWord == str(date).lower():
                     if len(entities['Date']) > 1:
                         #cant check for parallels in title
                         if date == max(entities['Date']):
@@ -300,6 +300,7 @@ titleFiles.sort()
 # titleFiles = titleFiles[3800:4800]
 
 # shuffle data
+# random.seed(10)
 # zipped = list(zip(dataFiles, captionFiles, titleFiles))
 # random.shuffle(zipped)
 # dataFiles, captionFiles, titleFiles = zip(*zipped)
@@ -356,8 +357,8 @@ for i in range(len(dataFiles)):
         xValueArr.append(cleanXValue)
         yValueArr.append(cleanYValue)
 
-        xRecord = cleanXAxis + '|' + cleanXValue + '|' + xDataType + '|' + chartType
-        yRecord = cleanYAxis + '|' + cleanYValue + '|' + yDataType + '|' + chartType
+        xRecord = cleanXAxis + '|' + cleanXValue + '|' + 'x' + '|' + 'line'
+        yRecord = cleanYAxis + '|' + cleanYValue + '|' + 'y' + '|' + 'bar'
         dataLine = dataLine + xRecord + ' ' + yRecord + ' '
 
     captionSentences = caption.split(' . ')
@@ -399,7 +400,7 @@ for i in range(len(dataFiles)):
             if captionTokens[i] == captionTokens[i + 1]:
                 captionTokens.pop(i + 1)
         if token.lower() not in fillers:
-            # find labels for summary tokens, call function to replace token with tsemplate
+            # find labels for summary tokens, call function to replace token with template
             tokenBool, newToken = compareToken(captionTokens, i, cleanTitle, xValueArr,
                                                yValueArr, cleanXAxis, cleanYAxis, entities)
             if tokenBool == 1:
