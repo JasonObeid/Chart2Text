@@ -4,13 +4,14 @@ of	1667
 in	1505
 ,	1476
 templateTitleSubject[0]	1119
-templateYLabel[1]	1118
-templateYLabel[0]	1041
+templateYLabel[1]	1027
+templateYLabel[0]	1017
 to	1003
+templateScale	825
 templateXValue[max]	687
-templateYLabel[2]	651
 templateTitle[1]	610
 statistic	606
+templateYLabel[2]	581
 templateTitle[2]	537
 This	535
 from	518
@@ -18,18 +19,16 @@ In	507
 and	485
 templateTitle[3]	461
 shows	449
-templateTitle[0]	441
+templateTitle[0]	440
 templateXValue[min]	428
 a	428
-templateYLabel[3]	421
 The	417
-templateTitle[4]	371
+templateYLabel[3]	411
+templateTitle[4]	370
 templateXValue[0]	312
 templateYValue[max]	305
 was	298
-percent	293
 templateXLabel[0]	288
-templateScale	287
 templateTitle[5]	248
 is	233
 templateTitleDate[0]	227
@@ -50,6 +49,7 @@ were	153
 for	146
 amounted	134
 templateXValue[6]	121
+templatePositiveTrend	115
 an	112
 templateTitle[7]	96
 approximately	95
@@ -108,10 +108,9 @@ largest	43
 second	41
 displays	41
 As	40
+templateNegativeTrend	40
 fiscal	40
 reported	40
-increase	39
-increased	39
 franchise	38
 its	37
 templateYValue[2]	37
@@ -137,7 +136,6 @@ stated	31
 value	31
 economic	31
 global	31
-million	30
 ranked	29
 2018	29
 It	29
@@ -202,7 +200,6 @@ made	17
 while	17
 means	16
 gives	16
-decrease	16
 Association	16
 2014	16
 based	16
@@ -247,7 +244,6 @@ due	14
 areas	13
 There	13
 2015	13
-grew	13
 2018/19	13
 Basketball	13
 platform	13
@@ -258,7 +254,6 @@ positive	13
 templateYValue[7]	13
 –	13
 templateXValue[10]	13
-percentage	13
 degree	12
 below	12
 online	12
@@ -289,7 +284,6 @@ quarter	11
 &	11
 revenue	11
 templateYValue[5]	11
-decreased	11
 into	11
 two	11
 Between	11
@@ -312,7 +306,6 @@ considered	10
 making	10
 UK	10
 Europe	10
-increasing	10
 consumer	10
 comparison	10
 above	10
@@ -460,7 +453,6 @@ common	6
 An	6
 players	6
 professional	6
-rose	6
 18	6
 calendar	6
 being	6
@@ -516,7 +508,6 @@ month	5
 Company	5
 represented	5
 Americans	5
-decreasing	5
 point	5
 deaths	5
 even	5
@@ -545,7 +536,6 @@ advertising	5
 inhabitants	5
 did	5
 far	5
-growing	5
 2011	5
 large	5
 labor	5
@@ -596,7 +586,6 @@ ever	4
 accounts	4
 certain	4
 1900	4
-fell	4
 use	4
 ages	4
 affected	4
@@ -997,7 +986,6 @@ leaving	2
 leaders	2
 year-end	2
 Microsoft	2
-millions	2
 played	2
 strong	2
 19	2
@@ -1056,14 +1044,12 @@ drank	2
 globally	2
 benefits	2
 paid	2
-billion	2
 rules	2
 parents	2
 activities	2
 start	2
 watch	2
 Monday	2
-rising	2
 national	2
 owns	2
 dining	2
@@ -1089,7 +1075,6 @@ desktop	2
 2005	2
 let	2
 Packers	2
-dropped	2
 TV	2
 29	2
 showed	2
@@ -1407,7 +1392,6 @@ wanting	1
 choice	1
 equipped	1
 automobiles	1
-falling	1
 Argentinean	1
 transported	1
 131.3	1
@@ -1961,7 +1945,7 @@ Version	1
 composed	1
 indices	1
 assessment	1
-3.0	1
+templateDelta[0,4]	1
 Azerbaijan	1
 establishing	1
 supplier	1
@@ -2224,7 +2208,6 @@ vendor	1
 moved	1
 practice	1
 expressing	1
-Increasing	1
 lead	1
 demands	1
 noted	1
@@ -2453,7 +2436,6 @@ depreciation	1
 amortization	1
 receipts/ticket	1
 specialize	1
-shrinking	1
 specialty	1
 943	1
 1.75	1
@@ -2604,7 +2586,6 @@ indicating	1
 improved	1
 prosperity	1
 200	1
-%	1
 rated	1
 view	1
 participants	1

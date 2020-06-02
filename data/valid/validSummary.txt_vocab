@@ -4,14 +4,15 @@ the	2861
 of	1719
 in	1718
 templateTitleSubject[0]	1243
-templateYLabel[1]	1194
-templateYLabel[0]	1118
+templateYLabel[0]	1110
+templateYLabel[1]	1093
 to	1059
-templateYLabel[2]	648
+templateScale	868
 templateXValue[max]	625
 templateTitle[1]	623
 a	614
 and	609
+templateYLabel[2]	586
 templateTitle[2]	559
 from	518
 statistic	510
@@ -20,23 +21,21 @@ This	477
 templateTitle[0]	455
 The	444
 templateTitle[3]	440
-templateYLabel[3]	419
 templateXValue[min]	402
+templateYLabel[3]	401
 is	389
 shows	382
 templateXLabel[0]	369
-templateScale	345
 templateXValue[0]	325
 templateTitle[4]	310
 was	304
 templateYValue[max]	292
-percent	280
 with	248
 templateTitle[5]	231
 templateTitleDate[0]	225
 that	217
 's	212
-templateYLabel[4]	196
+templateYLabel[4]	193
 as	187
 (	186
 )	185
@@ -47,6 +46,7 @@ were	165
 templateXValue[1]	160
 by	157
 on	150
+templatePositiveTrend	142
 templateTitle[6]	135
 an	131
 templateYValue[0]	128
@@ -99,7 +99,6 @@ average	56
 highest	56
 graph	54
 world	54
-increase	54
 information	51
 among	51
 templateXValue[3]	49
@@ -112,7 +111,6 @@ largest	48
 presents	46
 generated	46
 fiscal	46
-increased	45
 time	45
 when	45
 survey	45
@@ -123,8 +121,9 @@ first	43
 produced	43
 indicator	43
 reported	42
-templateYLabel[5]	42
 countries	41
+templateYLabel[5]	41
+templateNegativeTrend	41
 templateTitleDate[min]	40
 previous	40
 reached	40
@@ -151,7 +150,6 @@ templateTitle[8]	32
 leading	32
 growth	32
 templateXValue[5]	32
-million	32
 can	32
 also	32
 number	32
@@ -222,7 +220,6 @@ seen	19
 same	19
 through	19
 trend	18
-decrease	18
 down	18
 templateYValue[last]	18
 forecast	18
@@ -319,7 +316,6 @@ under	12
 recently	12
 With	12
 worth	12
-grew	12
 lowest	12
 denotes	12
 ranking	12
@@ -383,7 +379,6 @@ income	10
 less	10
 100,000	10
 However	10
-increasing	10
 above	10
 crime	10
 net	10
@@ -448,7 +443,6 @@ stable	8
 templateXValue[10]	8
 higher	8
 smartphones	8
-percentage	8
 ``	8
 ''	8
 hit	8
@@ -494,7 +488,6 @@ several	7
 includes	7
 public	7
 household	7
-rose	7
 2012	7
 capital	7
 motorcycles	7
@@ -505,7 +498,6 @@ templateXValue[12]	7
 Despite	7
 developed	7
 business	7
-decreased	7
 bank	7
 What	7
 valued	7
@@ -533,7 +525,6 @@ templateYLabel[6]	7
 costs	7
 without	7
 players	7
-decreasing	7
 comes	7
 imported	6
 represented	6
@@ -542,7 +533,6 @@ Inc.	6
 technology	6
 health	6
 list	6
-billion	6
 base	6
 record	6
 sharing	6
@@ -599,7 +589,6 @@ coming	6
 digital	6
 biggest	6
 then	6
-growing	6
 items	6
 like	6
 now	6
@@ -626,7 +615,6 @@ set	5
 producer	5
 representing	5
 German	5
-templateXLabel[2]	5
 40	5
 generally	5
 Swedish	5
@@ -660,7 +648,6 @@ capita	5
 shown	5
 NFL	5
 On	5
-rising	5
 doubled	5
 consumption	5
 templateXValue[13]	5
@@ -825,6 +812,7 @@ founded	4
 similar	4
 see	4
 lower	4
+templateXLabel[2]	4
 video	4
 ranged	4
 adjusting	4
@@ -946,7 +934,6 @@ outlines	3
 you	3
 templateXValue[17]	3
 date	3
-fell	3
 II	3
 messaging	3
 deaths	3
@@ -1042,7 +1029,6 @@ nations	3
 sporting	3
 Union	3
 Major	3
-dropped	3
 annually	3
 search	3
 plastic	3
@@ -1264,7 +1250,6 @@ faced	2
 3rd	2
 400	2
 remain	2
-falling	2
 already	2
 Production	2
 presented	2
@@ -1511,7 +1496,6 @@ died	2
 wide	2
 Instagram	2
 imagine	2
-Increasing	2
 phenomenon	2
 surplus	2
 peer	2
@@ -1649,7 +1633,6 @@ Open	2
 likely	2
 mostly	2
 occupied	2
-trillion	2
 Common	2
 disorders	2
 disorder	2
@@ -2118,7 +2101,6 @@ Burma	1
 virus	1
 ASCI	1
 continuous	1
-Rising	1
 naw	1
 concerning	1
 initiative	1
@@ -2731,7 +2713,6 @@ depicting	1
 humans	1
 harvesting	1
 wild	1
-dropping	1
 put	1
 Population	1
 tracked	1
@@ -3427,7 +3408,6 @@ FB	1
 65.6	1
 division	1
 20-team	1
-millions	1
 leads	1
 ace	1
 serve	1
@@ -3437,7 +3417,7 @@ winning	1
 server	1
 Members	1
 Parliament	1
-13.7	1
+templateDelta[7,0]	1
 Comparison	1
 29.57	1
 worker	1

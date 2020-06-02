@@ -1,17 +1,6 @@
 import spacy
 import en_core_web_md
 import re
-
-analysisPath = '../results/may26/analysis-5212g-p80-batch1.txt'
-generatedPath = '../results/may26/templateOutput_5212gp80_beam=4_batch=1.txt'
-goldPath = '../data/test/testOriginalSummary.txt'
-goldTemplatePath = '../data/test/testSummary.txt'
-dataPath = '../data/test/testData.txt'
-titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/may26/summaryComparison5212g-p80_beam4_batch1.txt'
-outputPath = '../results/may26/generated-5212g-p80-batch1.txt'
-
-nlp = spacy.load('en_core_web_md')
 def getScale(title, xLabel, yLabel):
     scales = ['percent', 'percentage', '%', 'hundred', 'thousand', 'million', 'billion', 'trillion',
               'hundreds', 'thousands', 'millions', 'billions', 'trillions']
@@ -126,8 +115,6 @@ def mapIndex(index, array):
     if index == 'last':
         index = len(array) - 1
         return int(index)
-
-
     try:
         # this exception occurs with min/max on data which isn't purely numeric: ex. ['10_miles_or_less', '11_-_50_miles', '51_-_100_miles']
         cleanArr = [float("".join(filter(str.isdigit, item))) for item in array if
@@ -144,6 +131,16 @@ def mapIndex(index, array):
             return 0
         return int(index)
 
+analysisPath = '../results/may26/analysis-5212g-p80-batch1.txt'
+generatedPath = '../results/may26/templateOutput_5212gp80_beam=4_batch=1.txt'
+goldPath = '../data/test/testOriginalSummary.txt'
+goldTemplatePath = '../data/test/testSummary.txt'
+dataPath = '../data/test/testData.txt'
+titlePath = '../data/test/testTitle.txt'
+comparisonPath = '../results/may26/summaryComparison5212g-p80_beam4_batch1.txt'
+outputPath = '../results/may26/generated-5212g-p80-batch1.txt'
+
+nlp = spacy.load('en_core_web_md')
 
 #def main():
 fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
@@ -188,20 +185,20 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
             if 'template' in token:
                 if 'idxmax' in token or 'idxmin' in token:
                     #axis = token[-3].lower()
-                    type = token[-7:-4]
+                    idxType = token[-7:-4]
                     if 'templateYValue' in token:
-                        index = mapParallelIndex(xValueArr, type)
+                        index = mapParallelIndex(xValueArr, idxType)
                         try:
                             replacedToken = yValueArr[index].replace('_', ' ')
                         except:
-                            print(f'{type} error at {index} in {title}')
+                            print(f'{idxType} error at {index} in {title}')
                             replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
                     elif 'templateXValue' in token:
-                        index = mapParallelIndex(yValueArr, type)
+                        index = mapParallelIndex(yValueArr, idxType)
                         try:
                             replacedToken = xValueArr[index].replace('_', ' ')
                         except:
-                            print(f'{type} error at {index} in {title}')
+                            print(f'{idxType} error at {index} in {title}')
                             replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
                 else:
                     index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')

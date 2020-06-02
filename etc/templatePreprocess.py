@@ -15,6 +15,113 @@ from text_to_num import text2num
 nlp = spacy.load('en_core_web_md')
 nltk.download('punkt')
 
+def mapParallelIndex(valueArr, type):
+    if are_numbers(valueArr):
+        try:
+            array = [float(i) for i in valueArr]
+            if type == 'max':
+                index = array.index(max(array))
+                return int(index)
+            elif type == 'min':
+                index = array.index(min(array))
+                return int(index)
+        except:
+            print('Parallel num err')
+            print(valueArr, type)
+            return 0
+
+
+def mapIndex(index, array):
+    if are_numbers(array):
+        try:
+            array = [float(i) for i in array]
+            if str(index) == 'max':
+                index = array.index(max(array))
+                return int(index)
+            elif str(index) == 'min':
+                index = array.index(min(array))
+                return int(index)
+        except:
+            print('numbers num err')
+            return 0
+    elif are_numbers(array[0:len(array) - 1]):
+        try:
+            array = [float(i) for i in array[0:len(array) - 1]]
+            if str(index) == 'max':
+                index = array.index(max(array))
+                return int(index)
+            elif str(index) == 'min':
+                index = array.index(min(array))
+                return int(index)
+        except:
+            print('n-1 num err')
+            return 0
+    if index == 'last':
+        index = len(array) - 1
+        return int(index)
+    try:
+        # this exception occurs with min/max on data which isn't purely numeric: ex. ['10_miles_or_less', '11_-_50_miles', '51_-_100_miles']
+        cleanArr = [float("".join(filter(str.isdigit, item))) for item in array if
+                    "".join(filter(str.isdigit, item)) != '']
+        if str(index) == 'max':
+            index = cleanArr.index(max(cleanArr))
+            return int(index)
+        elif str(index) == 'min':
+            index = cleanArr.index(min(cleanArr))
+            return int(index)
+        return int(index)
+    except:
+        if not are_numbers(array) and (index == 'min' or index == 'max'):
+            return 0
+        return int(index)
+
+
+def getTemplateValues(xCount, yCount, xValueArr, yValueArr):
+    values = []
+    indices = []
+    for template in xCount:
+        if 'idxmin' in template or 'idxmax' in template:
+            idxType = template[-7:-4]
+            if 'templateYValue' in template:
+                index = mapParallelIndex(xValueArr, idxType)
+                try:
+                    values.append(yValueArr[index].replace('_', ' '))
+                    indices.append(index)
+                except:
+                    print(f'{idxType} error at {index} in {title}')
+                    values.append(yValueArr[len(yValueArr) - 1].replace('_', ' '))
+                    indices.append(len(yValueArr) - 1)
+            elif 'templateXValue' in template:
+                index = mapParallelIndex(yValueArr, idxType)
+                try:
+                    values.append(yValueArr[index].replace('_', ' '))
+                    indices.append(index)
+                except:
+                    print(f'{type} error at {index} in {title}')
+                    values.append(yValueArr[len(yValueArr) - 1].replace('_', ' '))
+                    indices.append(len(yValueArr) - 1)
+        else:
+            index = str(re.search(r"\[(\w+)\]", template).group(0)).replace('[', '').replace(']', '')
+            if 'templateXValue' in template:
+                index = mapIndex(index, xValueArr)
+                if index < len(xValueArr):
+                    values.append(yValueArr[index].replace('_', ' '))
+                    indices.append(index)
+                else:
+                    print(f'xvalue index error at {index} in {title}')
+                    values.append(yValueArr[len(yValueArr) - 1].replace('_', ' '))
+                    indices.append(len(yValueArr) - 1)
+            elif 'templateYValue' in token:
+                index = mapIndex(index, yValueArr)
+                if index < len(yValueArr):
+                    values.append(yValueArr[index].replace('_', ' '))
+                    indices.append(index)
+                else:
+                    print(f'yvalue index error at {index} in {title}')
+                    values.append(yValueArr[len(yValueArr) - 1].replace('_', ' '))
+                    indices.append(len(yValueArr) - 1)
+    return values, indices
+
 def getChartType(x):
     if x.lower() == 'year':
         return 'line_chart'
@@ -189,11 +296,6 @@ def templateAssigner(token, valueArr, words, arrayIndex, axis):
 
 def compareToken(captionTokens, index, cleanTitle, xValueArr,
                  yValueArr, cleanXAxis, cleanYAxis, entities):
-    #check if last token was an un-templated month
-    if index > 0:
-        lastToken = captionTokens[index - 1]
-        if lastToken.lower() in months or lastToken == 'May':
-            captionTokens.pop(index - 1)
     token = captionTokens[index].replace(',', '').lower()
     if is_word_number(token):
         token = str(text2num(token, 'en'))
@@ -226,26 +328,24 @@ def compareToken(captionTokens, index, cleanTitle, xValueArr,
     # remove filler words from labels
     cleanXArr = [xWord for xWord in cleanXAxis.split('_') if xWord.lower() not in fillers]
     cleanYArr = [yWord for yWord in cleanYAxis.split('_') if yWord.lower() not in fillers]
-    numbers = ['percent', 'percentage', '%', 'hundred', 'thousand', 'million', 'billion', 'trillion',
-               'hundreds', 'thousands', 'millions', 'billions', 'trillions']
     for xLabelToken, i in zip(cleanXArr, range(0, len(cleanXArr))):
         xLabelWord = xLabelToken.replace('_', ' ').lower()
         if str(token).lower() == xLabelWord:
             return [1, f'templateXLabel[{i}]']
-        elif str(token).lower() in numbers and xLabelWord.lower() in numbers:
+        elif str(token).lower() in numbers: #and xLabelWord.lower() in numbers:
             return [1, f'templateScale']
     for yLabelToken, i in zip(cleanYArr, range(0, len(cleanYArr))):
         yLabelWord = yLabelToken.replace('_', ' ').lower()
         if str(token).lower() == yLabelWord:
             return [1, f'templateYLabel[{i}]']
-        elif str(token).lower() in numbers and yLabelWord.lower() in numbers:
+        elif str(token).lower() in numbers: #and yLabelWord.lower() in numbers:
             return [1, f'templateScale']
     # check if token in title
     for titleToken, i in zip(cleanTitle, range(0, len(cleanTitle))):
         titleWord = titleToken.lower()
         if str(token).lower() == titleWord:
             for subject, n in zip(entities['Subject'], range(0, len(entities['Subject']))):
-                if titleWord == subject.lower():
+                if titleWord in subject.lower():
                     return [1, f'templateTitleSubject[{n}]']
             for date, m in zip(entities['Date'], range(0, len(entities['Date']))):
                 if titleWord == str(date).lower():
@@ -321,8 +421,16 @@ assert len(captionFiles) == len(dataFiles) == len(titleFiles)
 #may implemented seperately to avoid accidentally ignoring the word rather than month
 months = ['january', 'february', 'march', 'april', 'june', 'july', 'august', 'september', 'november', 'december']
 
+years = [str(i) for i in range(1850,2050)]
+
 fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
            'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']
+
+numbers = ['percent', 'percentage', '%', 'hundred', 'thousand', 'million', 'billion', 'trillion',
+           'hundreds', 'thousands', 'millions', 'billions', 'trillions']
+
+positiveTrends = ['increased', 'increase', 'increasing', 'grew', 'growing', 'rose', 'rising', 'gained', 'gaining']
+negativeTrends = ['decreased', 'decrease', 'decreasing', 'shrank', 'shrinking', 'fell', 'falling', 'dropped', 'dropping']
 
 for i in range(len(dataFiles)):
     dataPath = '../dataset/data/' + dataFiles[i]
@@ -357,8 +465,8 @@ for i in range(len(dataFiles)):
         xValueArr.append(cleanXValue)
         yValueArr.append(cleanYValue)
 
-        xRecord = cleanXAxis + '|' + cleanXValue + '|' + 'x' + '|' + 'line'
-        yRecord = cleanYAxis + '|' + cleanYValue + '|' + 'y' + '|' + 'bar'
+        xRecord = cleanXAxis + '|' + cleanXValue + '|' + 'x' + '|' + chartType
+        yRecord = cleanYAxis + '|' + cleanYValue + '|' + 'y' + '|' + chartType
         dataLine = dataLine + xRecord + ' ' + yRecord + ' '
 
     captionSentences = caption.split(' . ')
@@ -377,14 +485,30 @@ for i in range(len(dataFiles)):
     entities = {}
     entities['Subject'] = []
     entities['Date'] = []
+    #manually find dates, it performs better than using NER
+    for word in title.split():
+        if word.isnumeric():
+            if len(word) > 3:
+                entities['Date'].append(word)
+        elif word.replace('/','').isnumeric():
+            word = word.split('/')[0]
+            if len(word) > 3:
+                entities['Date'].append(word)
+        elif word.replace('-','').isnumeric():
+            word = word.split('-')[0]
+            if len(word) > 3:
+                entities['Date'].append(word)
+    #get named entites from title
     for X in doc.ents:
         if X.label_ == 'GPE' or X.label_ == 'ORG' or X.label_ == 'NORP' or X.label_ == 'LOC':
             cleanSubject = [word for word in X.text.split() if word.isalpha() and word not in fillers]
             if len(cleanSubject) > 0:
                 entities['Subject'].append(' '.join(cleanSubject))
-        elif X.label_ == 'DATE':
-            if X.text.isnumeric():
-                entities['Date'].append(X.text)
+        if len(entities['Date']) < 1:
+            if X.label_ == 'DATE':
+                if X.text.isnumeric():
+                    entities['Date'].append(X.text)
+    #guess subject if NER doesn't find one
     if len(entities['Subject']) == 0:
         uppercaseWords = [word for word in title.split() if word[0].isupper()]
         if len(uppercaseWords) > 1:
@@ -392,6 +516,7 @@ for i in range(len(dataFiles)):
         else:
             guessedSubject = uppercaseWords[0]
         entities['Subject'].append(guessedSubject)
+    #print(entities['Date'])
     cleanTitle = [titleWord for titleWord in title.split() if titleWord.lower() not in fillers]
     parallelData = []
     for token, i in zip(captionTokens, range(0, len(captionTokens))):
@@ -410,9 +535,13 @@ for i in range(len(dataFiles)):
         if i > 0:
             if captionTokens[i - 1] == captionTokens[i]:
                 captionTokens.pop(i)
+            # check if last token was an un-templated month
+            elif captionTokens[i].lower() in months or captionTokens[i] == 'May':
+                captionTokens.pop(i)
         else:
             tokenBool = 0
         labelMap.append(str(tokenBool))
+    assert len(captionTokens) == len(labelMap)
     #replace tokens with their parallel templates if they exist
     # ex: in 2019 sales was 300 million -> in templateXValue[max] sales was templateYValue[idxmax(x)] million
     if len(parallelData) > 0:
@@ -431,7 +560,60 @@ for i in range(len(dataFiles)):
                 tokenIndex = len(labelMap)-1
                 labelMap[tokenIndex] = '1'
                 captionTokens[tokenIndex] = template
-
+    #check for sentences containing a delta value
+    newSentences = []
+    cleanSentences = ' '.join(captionTokens).split(' . ')
+    for sentence, sentIdx in zip(cleanSentences, range(len(cleanSentences))):
+        scaleIndicator = False
+        trendIndicator = False
+        newSentence = []
+        for token, tokenIdx in zip(sentence.split(), range(len(sentence))):
+            if token == 'templateScale':
+                try:
+                    scale = captionSentences[sentIdx].split()[tokenIdx]
+                    if scale in numbers:
+                        scaleIndicator = True
+                except:
+                    print('scale err')
+            if token.lower() in positiveTrends:
+                token = 'templatePositiveTrend'
+                trendIndicator = True
+            elif token.lower() in negativeTrends:
+                token = 'templateNegativeTrend'
+                trendIndicator = True
+            # if there is an unlabelled numeric token in a sentence containing a trend word, assume that token is a delta between two values
+            if trendIndicator:
+                if token not in years:
+                    if is_number(token):
+                        sentenceTemplates = [token for token in sentence.split() if 'template' in token]
+                        xCount = {token for token in sentenceTemplates if 'templateXValue' in token}
+                        yCount = {token for token in sentenceTemplates if 'templateYValue' in token}
+                        #also compare 1 x and 1 y s
+                        if len(xCount) == 2 or len(yCount) == 2 or (len(xCount) == 1 and len(yCount) == 1):
+                            values, indices = getTemplateValues(xCount, yCount, xValueArr, yValueArr)
+                            if len(values) > 1:
+                                print(token, tokenIdx)
+                                print(sentence)
+                                print(xValueArr)
+                                print(yValueArr)
+                                print(xCount, values)
+                                print(scale)
+                                if scaleIndicator and (scale == 'percent' or scale == 'percentage'):
+                                    valueDiff = abs((float(values[1]) - float(values[0]) / float(values[0])) * 100)
+                                    rounded1 = abs(normal_round(valueDiff))
+                                    rounded2 = abs(normal_round(valueDiff, 1))
+                                    print(f'original: {token}, diff:{valueDiff} rounded:{rounded1, rounded2}')
+                                else:
+                                    valueDiff = abs(float(values[0]) - float(values[1]))
+                                    rounded1 = abs(normal_round(valueDiff))
+                                    rounded2 = abs(normal_round(valueDiff, 1))
+                                    print(f'original: {token}, diff:{valueDiff} rounded:{rounded1, rounded2}')
+                                if rounded1 == float(token) or rounded2 == float(token) or valueDiff == float(token):
+                                    token = f'templateDelta[{indices[0]},{indices[1]}]'
+                                    print('DELTA')
+            newSentence.append(token)
+        newSentences.append(' '.join(newSentence))
+    assert len(captionTokens) == len(labelMap)
     dataRowPairs = [f'{xLabel} {yLabel}' for xLabel, yLabel in zip(xDataLabels, yDataLabels)]
     dataLabelLine = (' ').join(dataRowPairs)
     assert len(dataLabelLine.split()) == (len(xValueArr) + len(yValueArr))
@@ -444,7 +626,7 @@ for i in range(len(dataFiles)):
         captionRatioArr.append(captionRatio)
         summaryLabelLine = (' ').join(labelMap)
         assert len(captionTokens) == len(summaryLabelLine.split())
-        newCaption = (' ').join(captionTokens)
+        newCaption = (' . ').join(newSentences)
         oldSummaryArr.append(trimmedCaption)
         labelList.append(labelMap)
         dataArr.append(dataLine)
