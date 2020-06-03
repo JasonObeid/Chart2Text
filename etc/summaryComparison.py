@@ -1,9 +1,25 @@
 import spacy
 import en_core_web_md
 import re
+from fitbert.fitb import FitBert
+
+def askBert(masked_string, options):
+    ranked_options = fb.rank(masked_string, options)
+    print(ranked_options)
+    return ranked_options[0]
+
+
+"""def replaceTrend(sentence, type):
+    if type == 'positive':
+        masked = sentence.replace('templatePositiveTrend', '***mask***')
+        option = askBert(masked, positiveTrends)
+    elif type == 'negative':
+        masked = sentence.replace('templateNegativeTrend', '***mask***')
+        option = askBert(masked, negativeTrends)
+    return option"""
+
+
 def getScale(title, xLabel, yLabel):
-    scales = ['percent', 'percentage', '%', 'hundred', 'thousand', 'million', 'billion', 'trillion',
-              'hundreds', 'thousands', 'millions', 'billions', 'trillions']
     for xLabelToken in xLabel:
         xLabelWord = xLabelToken.replace('_', ' ').lower()
         if xLabelWord in scales:
@@ -131,22 +147,54 @@ def mapIndex(index, array):
             return 0
         return int(index)
 
-analysisPath = '../results/may26/analysis-5212g-p80-batch1.txt'
-generatedPath = '../results/may26/templateOutput_5212gp80_beam=4_batch=1.txt'
+
+def replaceTrends(reverse):
+    newSentences = []
+    for sentence in reverse.split(' . '):
+        tokens = sentence.split()
+        if 'templatePositiveTrend' in tokens:
+            while 'templatePositiveTrend' in tokens:
+                index = tokens.index('templatePositiveTrend')
+                tokens[index] = '***mask***'
+                tokens[index] = askBert(' '.join(tokens), positiveTrends)
+        if 'templateNegativeTrend' in tokens:
+            while 'templateNegativeTrend' in tokens:
+                index = tokens.index('templateNegativeTrend')
+                tokens[index] = '***mask***'
+                tokens[index] = askBert(' '.join(tokens), negativeTrends)
+        if 'scaleError' in tokens:
+            while 'scaleError' in tokens:
+                index = tokens.index('scaleError')
+                tokens[index] = '***mask***'
+                tokens[index] = askBert(' '.join(tokens), scales)
+        newSentences.append(' '.join(tokens))
+    reverse = ' . '.join(newSentences)
+    return reverse
+
+
+analysisPath = '../results/june2/analysis-602g-p80-batch1.txt'
+generatedPath = '../results/june2/templateOutput_602gp80_beam=4_batch=8.txt'
 goldPath = '../data/test/testOriginalSummary.txt'
 goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/may26/summaryComparison5212g-p80_beam4_batch1.txt'
-outputPath = '../results/may26/generated-5212g-p80-batch1.txt'
+comparisonPath = '../results/june2/summaryComparison602g-p80_beam4_batch8.txt'
+outputPath = '../results/june2/generated-602g-p80-batch8.txt'
 
 nlp = spacy.load('en_core_web_md')
+fb = FitBert()
 
 #def main():
+scales = ['percent', 'percentage', '%', 'hundred', 'thousand', 'million', 'billion', 'trillion',
+              'hundreds', 'thousands', 'millions', 'billions', 'trillions']
+positiveTrends = ['increased', 'increase', 'increasing', 'grew', 'growing', 'rose', 'rising', 'gained', 'gaining']
+negativeTrends = ['decreased', 'decrease', 'decreasing', 'shrank', 'shrinking', 'fell', 'falling', 'dropped',
+                  'dropping']
 fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
            'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', 'with']
 analysis = [829, 662, 816, 528, 52, 151, 49, 499, 734, 316, 13, 492, 202, 767, 112]
 count = 0
+
 with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r', encoding='utf-8') as generatedFile \
     , open(dataPath, 'r', encoding='utf-8') as dataFile, open(outputPath, 'w', encoding='utf-8') as outputFile, \
     open(titlePath, 'r', encoding='utf-8') as titleFile, open(goldTemplatePath, 'r', encoding='utf-8') as goldTemplateFile, \
@@ -182,7 +230,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                     print(f'1:{tokens[i]} 2:{tokens[i + 1]}')
                     print(f'popped: {tokens[i + 1]}')
                     tokens.pop(i + 1)
-            if 'template' in token:
+            if 'template' in token and 'Trend' not in token:
                 if 'idxmax' in token or 'idxmin' in token:
                     #axis = token[-3].lower()
                     idxType = token[-7:-4]
@@ -200,10 +248,16 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                         except:
                             print(f'{idxType} error at {index} in {title}')
                             replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
+                elif token == 'templateScale':
+                    replacedToken = getScale(titleArr, cleanXLabel, cleanYLabel)
+                elif 'templateDelta' in token:
+                    indices = str(re.search(r"\[(.+)\]", token).group(0)).replace('[', '').replace(']', '').split(',')
+                    index1 = int(indices[0])
+                    index2 = int(indices[1])
+                    delta = abs(round(float(yValueArr[index1])-float(yValueArr[index2])))
+                    replacedToken = str(delta)
                 else:
                     index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
-                    if 'templateScale' == token:
-                        replacedToken = getScale(titleArr, cleanXLabel, cleanYLabel)
                     if 'templateXValue' in token:
                         index = mapIndex(index, xValueArr)
                         if index < len(xValueArr):
@@ -270,6 +324,9 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
         # remove empty items
         reversedArr = [item for item in reversedArr if item != '']
         reverse = ' '.join(reversedArr)
+        #replace trend words after all templates inserted for better accuracy
+        reverse = replaceTrends(reverse)
+
         comparison = f'Example {count}:\ntitleEntities: {entities}\ntitle: {title}X_Axis{xLabel}: {xValueArr}\nY_Axis{yLabel}: {yValueArr}\n\ngold: {gold}' \
                      f'gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n'
         #print(comparison)

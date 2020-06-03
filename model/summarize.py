@@ -25,7 +25,7 @@ from src.utils import AttrDict
 from src.utils import bool_flag, initialize_exp
 from src.data.dictionary import Dictionary
 from src.model.transformer import TransformerEncoder, TransformerDecoder
-"""
+
 def get_parser():
     # Generate a parameters parser.
     # parse parameters
@@ -46,7 +46,7 @@ def get_parser():
     parser.add_argument("--early_stopping", type=bool, default=False, help="")
 
     return parser
-"""
+
 
 def main(params):
     # generate parser / parse parameters
@@ -59,15 +59,16 @@ def main(params):
     # update dictionary parameters
     for name in ['src_n_words', 'tgt_n_words', 'bos_index', 'eos_index', 'pad_index', 'unk_index', 'mask_index']:
         setattr(params, name, getattr(model_params, name))
-    print(f'src {getattr(model_params, "src_n_words")}')
-    print(f'tgt {getattr(model_params, "tgt_n_words")}')
+    # print(f'src {getattr(model_params, "src_n_words")}')
+    # print(f'tgt {getattr(model_params, "tgt_n_words")}')
     # build dictionary / build encoder / build decoder / reload weights
     source_dico = Dictionary(reloaded['source_dico_id2word'], reloaded['source_dico_word2id'])
     target_dico = Dictionary(reloaded['target_dico_id2word'], reloaded['target_dico_word2id'])
-    originalDecoder = reloaded['decoder'].copy()
+    # originalDecoder = reloaded['decoder'].copy()
     encoder = TransformerEncoder(model_params, source_dico, with_output=False).cuda().eval()
     encoder.load_state_dict(reloaded['encoder'])
-
+    decoder = TransformerDecoder(model_params, target_dico, with_output=True).cuda().eval()
+    decoder.load_state_dict(reloaded['decoder'])
     # read sentences from stdin
     table_lines = []
     title_lines = []
@@ -88,10 +89,10 @@ def main(params):
     for i in range(0, len(table_lines), params.batch_size):
         # prepare batch
 
-        valueLengths = []
+        """valueLengths = []
         xLabelLengths = []
         yLabelLengths = []
-        titleLengths = []
+        titleLengths = []"""
         enc_x1_ids = []
         enc_x2_ids = []
         enc_x3_ids = []
@@ -107,14 +108,14 @@ def main(params):
 
             xLabel = record_seq[1][0].split('_')
             yLabel = record_seq[0][0].split('_')
-            cleanXLabel = len([item for item in xLabel if item not in fillers])
+            """cleanXLabel = len([item for item in xLabel if item not in fillers])
             cleanYLabel = len([item for item in yLabel if item not in fillers])
             cleanTitle = len([word for word in title_line.split() if word not in fillers])
 
             xLabelLengths.append(cleanXLabel)
             yLabelLengths.append(cleanYLabel)
             titleLengths.append(cleanTitle)
-            valueLengths.append(round(len(record_seq)/2))
+            valueLengths.append(round(len(record_seq)/2))"""
 
         enc_xlen = torch.LongTensor([len(x) + 2 for x in enc_x1_ids])
         enc_x1 = torch.LongTensor(enc_xlen.max().item(), enc_xlen.size(0)).fill_(params.pad_index)
@@ -147,52 +148,6 @@ def main(params):
         encoder_output = encoder('fwd', x1=enc_x1, x2=enc_x2, x3=enc_x3, x4=enc_x4, lengths=enc_xlen)
         encoder_output = encoder_output.transpose(0, 1)
 
-        # max_len = int(1.5 * enc_xlen.max().item() + 10)
-        maxLengthXLabel = max(xLabelLengths)
-        maxLengthYLabel = max(yLabelLengths)
-        maxLengthValue = max(valueLengths)
-        maxLengthTitle = max(titleLengths)
-
-        removedDict = {}
-        for n in range(maxLengthXLabel, 10):
-            deleteThis = f'templateXLabel[{n}]'
-            if target_dico.__contains__(deleteThis):
-                ids = target_dico.index(deleteThis)
-                removedDict[ids] = deleteThis
-        for n in range(maxLengthYLabel, 10):
-            deleteThis = f'templateYLabel[{n}]'
-            if target_dico.__contains__(deleteThis):
-                ids = target_dico.index(deleteThis)
-                removedDict[ids] = deleteThis
-        for n in range(maxLengthTitle, 15):
-            deleteThis = f'templateTitle[{n}]'
-            if target_dico.__contains__(deleteThis):
-                ids = target_dico.index(deleteThis)
-                removedDict[ids] = deleteThis
-        for n in range(maxLengthValue, 31):
-            deleteThis = f'templateXValue[{n}]'
-            if target_dico.__contains__(deleteThis):
-                ids = target_dico.index(deleteThis)
-                removedDict[ids] = deleteThis
-            deleteThis = f'templateYValue[{n}]'
-            if target_dico.__contains__(deleteThis):
-                ids = target_dico.index(deleteThis)
-                removedDict[ids] = deleteThis
-
-        print(removedDict)
-
-        #update prediction layer weights for removed tokens in the decoder
-        #test changing pred layer bias to -100 for each token out of vocab
-        newDecoder = originalDecoder.copy()
-        for key in newDecoder.keys():
-            if key == 'pred_layer.proj.bias':
-                for ids in removedDict.keys():
-                    newDecoder["pred_layer.proj.bias"][ids] = torch.tensor(-100).cuda()
-
-        #update decoder weights
-        decoder = TransformerDecoder(model_params, target_dico, with_output=True).cuda().eval()
-        decoder.load_state_dict(newDecoder.copy())
-
         max_len = 602
         if params.beam_size <= 1:
             decoded, dec_lengths = decoder.generate(encoder_output, enc_xlen, max_len=max_len)
@@ -213,8 +168,8 @@ def main(params):
             tokens = []
             for k in range(len(sent)):
                 ids = sent[k].item()
-                if ids in removedDict:
-                    print('index error')
+                #if ids in removedDict:
+                #    print('index error')
                 word = target_dico[ids]
                 tokens.append(word)
             target = " ".join(tokens)
@@ -226,11 +181,11 @@ def main(params):
 if __name__ == '__main__':
 
     # generate parser / parse parameters
-    #parser = get_parser()
-    #params = parser.parse_args()
-    params = argparse.Namespace(batch_size=1, beam_size=4, early_stopping=False, length_penalty=1.0, model_path='may21gelu-80.pth',
-                                output_path='results/may26/templateOutput_529gp80_beam=4_batch=1.txt',
-                                table_path='data/test/testData.txt', title_path='data/test/testTitle.txt')
+    parser = get_parser()
+    params = parser.parse_args()
+    #params = argparse.Namespace(batch_size=1, beam_size=4, early_stopping=False, length_penalty=1.0, model_path='may21gelu-80.pth',
+    #                            output_path='results/may26/templateOutput_529gp80_beam=4_batch=1.txt',
+    #                            table_path='data/test/testData.txt', title_path='data/test/testTitle.txt')
     # check parameters
     print(params)
     assert os.path.isfile(params.model_path)
@@ -239,3 +194,49 @@ if __name__ == '__main__':
     # translate
     with torch.no_grad():
         main(params)
+
+    """ # max_len = int(1.5 * enc_xlen.max().item() + 10)
+         maxLengthXLabel = max(xLabelLengths)
+         maxLengthYLabel = max(yLabelLengths)
+         maxLengthValue = max(valueLengths)
+         maxLengthTitle = max(titleLengths)
+
+         removedDict = {}
+         for n in range(maxLengthXLabel, 10):
+             deleteThis = f'templateXLabel[{n}]'
+             if target_dico.__contains__(deleteThis):
+                 ids = target_dico.index(deleteThis)
+                 removedDict[ids] = deleteThis
+         for n in range(maxLengthYLabel, 10):
+             deleteThis = f'templateYLabel[{n}]'
+             if target_dico.__contains__(deleteThis):
+                 ids = target_dico.index(deleteThis)
+                 removedDict[ids] = deleteThis
+         for n in range(maxLengthTitle, 15):
+             deleteThis = f'templateTitle[{n}]'
+             if target_dico.__contains__(deleteThis):
+                 ids = target_dico.index(deleteThis)
+                 removedDict[ids] = deleteThis
+         for n in range(maxLengthValue, 31):
+             deleteThis = f'templateXValue[{n}]'
+             if target_dico.__contains__(deleteThis):
+                 ids = target_dico.index(deleteThis)
+                 removedDict[ids] = deleteThis
+             deleteThis = f'templateYValue[{n}]'
+             if target_dico.__contains__(deleteThis):
+                 ids = target_dico.index(deleteThis)
+                 removedDict[ids] = deleteThis
+
+         print(removedDict)
+
+         #update prediction layer weights for removed tokens in the decoder
+         #test changing pred layer bias to -100 for each token out of vocab
+         newDecoder = originalDecoder.copy()
+         for key in newDecoder.keys():
+             if key == 'pred_layer.proj.bias':
+                 for ids in removedDict.keys():
+                     newDecoder["pred_layer.proj.bias"][ids] = torch.tensor(-100).cuda()
+
+         #update decoder weights
+         decoder = TransformerDecoder(model_params, target_dico, with_output=True).cuda().eval()
+         decoder.load_state_dict(newDecoder.copy())"""

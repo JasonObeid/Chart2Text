@@ -30,9 +30,9 @@ python3 model/train.py \
     --validation_metrics _cs_f1
 
 
-python3 model/summarize.py --model_path may21gelu-80.pth --table_path data/test/testData.txt \
---output_path results/may21/templateOutput_5212gp80_beam=4_batch=1.txt \
---title_path data/test/testTitle.txt --beam_size 4 --batch_size 1
+python3 model/summarize.py --model_path june2gelu-80.pth --table_path data/test/testData.txt \
+--output_path results/june2/templateOutput_602gp80_beam=4_batch=8.txt \
+--title_path data/test/testTitle.txt --beam_size 4 --batch_size 8
 
 
 python3 model/summarize.py --model_path periodic-75.pth --table_path data_testing/trainData.txt \
