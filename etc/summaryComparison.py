@@ -1,7 +1,11 @@
+import json
+
 import spacy
 import en_core_web_md
 import re
+import pandas as pd
 from fitbert.fitb import FitBert
+import scripts.tokenizer as tkn
 
 def askBert(masked_string, options):
     ranked_options = fb.rank(masked_string, options)
@@ -9,17 +13,8 @@ def askBert(masked_string, options):
     return ranked_options[0]
 
 
-"""def replaceTrend(sentence, type):
-    if type == 'positive':
-        masked = sentence.replace('templatePositiveTrend', '***mask***')
-        option = askBert(masked, positiveTrends)
-    elif type == 'negative':
-        masked = sentence.replace('templateNegativeTrend', '***mask***')
-        option = askBert(masked, negativeTrends)
-    return option"""
-
-
 def getScale(title, xLabel, yLabel):
+    #add Share
     for xLabelToken in xLabel:
         xLabelWord = xLabelToken.replace('_', ' ').lower()
         if xLabelWord in scales:
@@ -149,27 +144,34 @@ def mapIndex(index, array):
 
 
 def replaceTrends(reverse):
-    newSentences = []
-    for sentence in reverse.split(' . '):
-        tokens = sentence.split()
-        if 'templatePositiveTrend' in tokens:
-            while 'templatePositiveTrend' in tokens:
-                index = tokens.index('templatePositiveTrend')
-                tokens[index] = '***mask***'
-                tokens[index] = askBert(' '.join(tokens), positiveTrends)
-        if 'templateNegativeTrend' in tokens:
-            while 'templateNegativeTrend' in tokens:
-                index = tokens.index('templateNegativeTrend')
-                tokens[index] = '***mask***'
-                tokens[index] = askBert(' '.join(tokens), negativeTrends)
-        if 'scaleError' in tokens:
-            while 'scaleError' in tokens:
-                index = tokens.index('scaleError')
-                tokens[index] = '***mask***'
-                tokens[index] = askBert(' '.join(tokens), scales)
-        newSentences.append(' '.join(tokens))
-    reverse = ' . '.join(newSentences)
-    return reverse
+    tokens = reverse.split()
+    if 'templatePositiveTrend' in tokens:
+        while 'templatePositiveTrend' in tokens:
+            index = tokens.index('templatePositiveTrend')
+            tokens[index] = '***mask***'
+            replacedToken = askBert(' '.join(tokens), positiveTrends)
+            sentenceTemplates[index] = {'templatePositiveTrend' : replacedToken}
+            tokens[index] = replacedToken
+    if 'templateNegativeTrend' in tokens:
+        while 'templateNegativeTrend' in tokens:
+            index = tokens.index('templateNegativeTrend')
+            tokens[index] = '***mask***'
+            replacedToken = askBert(' '.join(tokens), negativeTrends)
+            sentenceTemplates[index] = {'templateNegativeTrend':replacedToken}
+            tokens[index] = replacedToken
+    if 'scaleError' in tokens:
+        while 'scaleError' in tokens:
+            index = tokens.index('scaleError')
+            tokens[index] = '***mask***'
+            replacedToken = askBert(' '.join(tokens), scales)
+            sentenceTemplates[index] = {'templateScale':replacedToken}
+            tokens[index] = replacedToken
+    newReverse = ' '.join(tokens)
+    if newReverse[-2:] == '. ':
+        return newReverse.strip()
+    elif '.' not in newReverse[-2:]:
+        return newReverse.strip() + '.'
+    return newReverse
 
 
 analysisPath = '../results/june2/analysis-602g-p80-batch1.txt'
@@ -180,7 +182,8 @@ dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
 comparisonPath = '../results/june2/summaryComparison602g-p80_beam4_batch8.txt'
 outputPath = '../results/june2/generated-602g-p80-batch8.txt'
-
+websitePath = '../results/june2/generated'
+newDataPath = '../results/june2/data'
 nlp = spacy.load('en_core_web_md')
 fb = FitBert()
 
@@ -201,131 +204,150 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
     open(comparisonPath, 'w', encoding='utf-8') as comparisonFile, open(analysisPath, 'w', encoding='utf-8') as analysisFile:
     fileIterators = zip(goldFile.readlines(), goldTemplateFile.readlines(),
                         generatedFile.readlines(), dataFile.readlines(), titleFile.readlines())
+    templates = []
     for gold, goldTemplate, generated, data, title in fileIterators:
+        templateList = []
+
         count += 1
         xValueArr = []
         yValueArr = []
-        reversedArr = []
+        cleanXArr = []
+        cleanYArr = []
         datum = data.split()
         xLabel = datum[0].split('|')[0].split('_')
         yLabel = datum[1].split('|')[0].split('_')
-
+        chartType = datum[0].split('|')[3].split('_')[0]
         # remove filler words from labels
         cleanXLabel = [xWord for xWord in xLabel if xWord.lower() not in fillers]
         cleanYLabel = [yWord for yWord in yLabel if yWord.lower() not in fillers]
 
+
+
         for i in range(0, len(datum)):
             if i % 2 == 0:
                 xValueArr.append(datum[i].split('|')[1])
+                cleanXArr.append(datum[i].split('|')[1].replace('_', ' '))
             else:
                 yValueArr.append(datum[i].split('|')[1])
-        tokens = generated.split()
+                cleanYArr.append(datum[i].split('|')[1].replace('_', ' '))
+
+        sentences = generated.split(' . ')
         entities = getNamedEntity(title, xValueArr)
         # titleEntities = [word[0].lower() for word in entities.values() if len(word) > 0]
         titleArr = [word for word in title.split() if word.lower() not in fillers]
         # titleArr = [word for word in titleArr if word.lower() not in titleEntities]
-        for token, i in zip(tokens, range(0, len(tokens))):
-            if i < (len(tokens) - 1):
-                if tokens[i] == tokens[i + 1]:
-                    print(f'1:{tokens[i]} 2:{tokens[i + 1]}')
-                    print(f'popped: {tokens[i + 1]}')
-                    tokens.pop(i + 1)
-            if 'template' in token and 'Trend' not in token:
-                if 'idxmax' in token or 'idxmin' in token:
-                    #axis = token[-3].lower()
-                    idxType = token[-7:-4]
-                    if 'templateYValue' in token:
-                        index = mapParallelIndex(xValueArr, idxType)
-                        try:
-                            replacedToken = yValueArr[index].replace('_', ' ')
-                        except:
-                            print(f'{idxType} error at {index} in {title}')
-                            replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
-                    elif 'templateXValue' in token:
-                        index = mapParallelIndex(yValueArr, idxType)
-                        try:
-                            replacedToken = xValueArr[index].replace('_', ' ')
-                        except:
-                            print(f'{idxType} error at {index} in {title}')
-                            replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
-                elif token == 'templateScale':
-                    replacedToken = getScale(titleArr, cleanXLabel, cleanYLabel)
-                elif 'templateDelta' in token:
-                    indices = str(re.search(r"\[(.+)\]", token).group(0)).replace('[', '').replace(']', '').split(',')
-                    index1 = int(indices[0])
-                    index2 = int(indices[1])
-                    delta = abs(round(float(yValueArr[index1])-float(yValueArr[index2])))
-                    replacedToken = str(delta)
-                else:
-                    index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
-                    if 'templateXValue' in token:
-                        index = mapIndex(index, xValueArr)
-                        if index < len(xValueArr):
-                            replacedToken = xValueArr[index].replace('_', ' ')
-                        else:
-                            print(f'xvalue index error at {index} in {title}')
-                            replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
-                    elif 'templateYValue' in token:
-                        index = mapIndex(index, yValueArr)
-                        if index < len(yValueArr):
-                            replacedToken = yValueArr[index].replace('_', ' ')
-                        else:
-                            print(f'yvalue index error at {index} in {title}')
-                            replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
-                    elif 'templateXLabel' in token:
-                        index = mapIndex(index, cleanXLabel)
-                        if index < len(cleanXLabel):
-                            replacedToken = cleanXLabel[index]
-                        else:
-                            print(f'xlabel index error at {index} in {title}')
-                            replacedToken = cleanXLabel[len(cleanXLabel) - 1]
-                    elif 'templateYLabel' in token:
-                        index = mapIndex(index, cleanYLabel)
-                        if index < len(cleanYLabel):
-                            replacedToken = cleanYLabel[index]
-                        else:
-                            print(f'ylabel index error at {index} in {title}')
-                            replacedToken = cleanYLabel[len(cleanYLabel) - 1]
-                    elif 'templateTitleSubject' in token:
-                        # print(entities['Subject'][int(index)], index)
-                        if int(index) < len(entities['Subject']):
-                            replacedToken = entities['Subject'][int(index)]
-                        else:
-                            print(f'subject index error at {index} in {title}')
-                            replacedToken = entities['Subject'][len(entities['Subject']) - 1]
-                    elif 'templateTitleDate' in token:
-                        # print(entities['Date'][int(index)], index)
-                        index = mapIndex(index, entities['Date'])
-                        if index < len(entities['Date']):
-                            replacedToken = entities['Date'][int(index)]
-                        else:
-                            print(f'date index error at {index} in {title}')
-                            if len(entities['Date']) > 0:
-                                replacedToken = entities['Date'][len(entities['Date']) - 1]
+        reversedSentences = []
+        for sentence in sentences:
+            tokens = sentence.split()
+            sentenceTemplates = {}
+            reversedTokens = []
+            for token, i in zip(tokens, range(0, len(tokens))):
+                if i < (len(tokens) - 1):
+                    if tokens[i] == tokens[i + 1]:
+                        print(f'1:{tokens[i]} 2:{tokens[i + 1]}')
+                        print(f'popped: {tokens[i + 1]}')
+                        tokens.pop(i + 1)
+                if 'template' in token and 'Trend' not in token:
+                    if 'idxmax' in token or 'idxmin' in token:
+                        #axis = token[-3].lower()
+                        idxType = token[-7:-4]
+                        if 'templateYValue' in token:
+                            index = mapParallelIndex(xValueArr, idxType)
+                            try:
+                                replacedToken = yValueArr[index].replace('_', ' ')
+                            except:
+                                print(f'{idxType} error at {index} in {title}')
+                                replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
+                        elif 'templateXValue' in token:
+                            index = mapParallelIndex(yValueArr, idxType)
+                            try:
+                                replacedToken = xValueArr[index].replace('_', ' ')
+                            except:
+                                print(f'{idxType} error at {index} in {title}')
+                                replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
+                    elif token == 'templateScale':
+                        replacedToken = getScale(titleArr, cleanXLabel, cleanYLabel)
+                    elif 'templateDelta' in token:
+                        indices = str(re.search(r"\[(.+)\]", token).group(0)).replace('[', '').replace(']', '').split(',')
+                        index1 = int(indices[0])
+                        index2 = int(indices[1])
+                        delta = abs(round(float(yValueArr[index1])-float(yValueArr[index2])))
+                        replacedToken = str(delta)
+                    else:
+                        index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
+                        if 'templateXValue' in token:
+                            index = mapIndex(index, xValueArr)
+                            if index < len(xValueArr):
+                                replacedToken = xValueArr[index].replace('_', ' ')
                             else:
-                                replacedToken = ''
-                    elif 'templateTitle' in token:
-                        index = mapIndex(index, titleArr)
-                        if index < len(titleArr):
-                            replacedToken = titleArr[index]
-                        else:
-                            print(f'title index error at {index} in {title}')
-                            replacedToken = titleArr[len(titleArr) - 1]
-            else:
-                replacedToken = token
-            if i > 2:
-                if replacedToken.lower() != reversedArr[-2].lower() and \
-                        replacedToken.lower() != reversedArr[-1].lower():
-                    reversedArr.append(replacedToken)
+                                print(f'xvalue index error at {index} in {title}')
+                                replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
+                        elif 'templateYValue' in token:
+                            index = mapIndex(index, yValueArr)
+                            if index < len(yValueArr):
+                                replacedToken = yValueArr[index].replace('_', ' ')
+                            else:
+                                print(f'yvalue index error at {index} in {title}')
+                                replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
+                        elif 'templateXLabel' in token:
+                            index = mapIndex(index, cleanXLabel)
+                            if index < len(cleanXLabel):
+                                replacedToken = cleanXLabel[index]
+                            else:
+                                print(f'xlabel index error at {index} in {title}')
+                                replacedToken = cleanXLabel[len(cleanXLabel) - 1]
+                        elif 'templateYLabel' in token:
+                            index = mapIndex(index, cleanYLabel)
+                            if index < len(cleanYLabel):
+                                replacedToken = cleanYLabel[index]
+                            else:
+                                print(f'ylabel index error at {index} in {title}')
+                                replacedToken = cleanYLabel[len(cleanYLabel) - 1]
+                        elif 'templateTitleSubject' in token:
+                            # print(entities['Subject'][int(index)], index)
+                            if int(index) < len(entities['Subject']):
+                                replacedToken = entities['Subject'][int(index)]
+                            else:
+                                print(f'subject index error at {index} in {title}')
+                                replacedToken = entities['Subject'][len(entities['Subject']) - 1]
+                        elif 'templateTitleDate' in token:
+                            # print(entities['Date'][int(index)], index)
+                            index = mapIndex(index, entities['Date'])
+                            if index < len(entities['Date']):
+                                replacedToken = entities['Date'][int(index)]
+                            else:
+                                print(f'date index error at {index} in {title}')
+                                if len(entities['Date']) > 0:
+                                    replacedToken = entities['Date'][len(entities['Date']) - 1]
+                                else:
+                                    replacedToken = ''
+                        elif 'templateTitle' in token:
+                            index = mapIndex(index, titleArr)
+                            if index < len(titleArr):
+                                replacedToken = titleArr[index]
+                            else:
+                                print(f'title index error at {index} in {title}')
+                                replacedToken = titleArr[len(titleArr) - 1]
+                        sentenceTemplates[i] = {token:replacedToken}
                 else:
-                    z = 0 #print(f'dupe: {replacedToken}')
-            else:
-                reversedArr.append(replacedToken)
+                    replacedToken = token
+                if i > 2:
+                    if replacedToken.lower() != reversedTokens[-2].lower() and \
+                            replacedToken.lower() != reversedTokens[-1].lower():
+                        reversedTokens.append(replacedToken)
+                    else:
+                        print(f'dupe: {replacedToken}')
+                else:
+                    reversedTokens.append(replacedToken)
+
+            reversedTokens = [item for item in reversedTokens if item != '']
+            reverse = ' '.join(reversedTokens)
+            reverse = replaceTrends(reverse)
+            reversedSentences.append(reverse)
+            templateList.append(sentenceTemplates)
         # remove empty items
-        reversedArr = [item for item in reversedArr if item != '']
-        reverse = ' '.join(reversedArr)
+        reverse = ' . '.join(reversedSentences)
         #replace trend words after all templates inserted for better accuracy
-        reverse = replaceTrends(reverse)
 
         comparison = f'Example {count}:\ntitleEntities: {entities}\ntitle: {title}X_Axis{xLabel}: {xValueArr}\nY_Axis{yLabel}: {yValueArr}\n\ngold: {gold}' \
                      f'gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n'
@@ -334,3 +356,10 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
         outputFile.write(f'{reverse}\n')
         if int(count) in analysis:
             analysisFile.write(comparison)
+        websiteInput = {"title":title.strip(), "xAxis":' '.join(xLabel), "yAxis":' '.join(yLabel), \
+                        "graphType":chartType, "summary":reversedSentences, "trends":templateList}
+        with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
+            json.dump(websiteInput, websiteFile, indent=2)
+        data = {' '.join(xLabel):cleanXArr, ' '.join(yLabel):cleanYArr}
+        x = pd.DataFrame(data=data)
+        x.to_csv(f'{newDataPath}/{count}.csv',index=False)
