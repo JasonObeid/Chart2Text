@@ -44,4 +44,5 @@ python model/train.py \
     --sinusoidal_embeddings False \
     --encoder_positional_emb False \
     --gelu_activation True \
-    --validation_metrics valid_mt_bleu
+    --validation_metrics valid_mt_bleu \
+    --chartType bar

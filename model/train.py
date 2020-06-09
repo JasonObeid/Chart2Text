@@ -151,6 +151,8 @@ def get_parser():
                         help="Only run evaluations")
     parser.add_argument("--eval_cs", type=bool_flag, default=False,
                         help="eval cs")
+    parser.add_argument("--chartType", type=str, default='line',
+                        help="chart type")
     return parser
 
 def main(params):
