@@ -357,7 +357,7 @@ class EncDecEvaluator(Evaluator):
             # hypothesis / reference paths
             hyp_name = 'hyp{0}.{1}.txt'.format(scores['epoch'], data_set)
             hyp_path = os.path.join(params.hyp_path, hyp_name)
-            ref_path = f'data{chartType}/valid/validOriginalSummary.txt'
+            ref_path = f'data/{chartType}/valid/validOriginalSummary.txt'
             print(ref_path)
             temp_path = os.path.join(params.hyp_path, 'temp_hyp.txt')
             # export sentences to temp hypothesis file / restore BPE segmentation
