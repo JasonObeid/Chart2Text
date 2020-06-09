@@ -1,0 +1,46 @@
+{
+   "title": "Average spending on Christmas gifts in the U.S .",
+   "xAxis": "Year",
+   "yAxis": "Average estimated amount in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the projected Average spending Christmas gifts U.S in Christmas U.S hospitals in the Christmas U.S from 2006 to 2011 . ",
+      "Over the six Year period the average spending Christmas gifts U.S increased to almost 909 estimated in 2007 ."
+   ],
+   "trends": [
+      {
+         "17": "0",
+         "19": "5"
+      },
+      {
+         "15": "1",
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2006",
+         "Average estimated amount in U.S. dollars": "907"
+      },
+      {
+         "Year": "2007",
+         "Average estimated amount in U.S. dollars": "909"
+      },
+      {
+         "Year": "2008",
+         "Average estimated amount in U.S. dollars": "801"
+      },
+      {
+         "Year": "2009",
+         "Average estimated amount in U.S. dollars": "740"
+      },
+      {
+         "Year": "2010",
+         "Average estimated amount in U.S. dollars": "715"
+      },
+      {
+         "Year": "2011",
+         "Average estimated amount in U.S. dollars": "712"
+      }
+   ]
+}

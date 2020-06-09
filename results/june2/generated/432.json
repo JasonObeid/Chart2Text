@@ -1,0 +1,75 @@
+{
+   "title": "Number of road deaths in Romania 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , 1867 individuals were killed in motor vehicle accidents in Romania . ",
+      "An overall decrease in the Number of road deaths was observed within the time period shown . ",
+      "The highest Number of road fatalities in this timeframe occurred in 2007 , with figures nearly twice as high those reported in 2018 ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "3": "0"
+      },
+      {
+         "11": "11",
+         "23": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": "1867"
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": "1951"
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": "1913"
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": "1893"
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": "1818"
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": "1861"
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": "2042"
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": "2018"
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": "2377"
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": "2797"
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": "3065"
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": "2800"
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": "2587"
+      }
+   ]
+}

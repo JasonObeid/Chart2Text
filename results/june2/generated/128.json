@@ -1,0 +1,42 @@
+{
+   "title": "NFL Thursday Night Football average viewers 2015 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Viewers in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Viewers of millions Night of Football average in 2015 , witha forecast until 2019 . ",
+      "In 2015 , 12.43 millions average were Night of Football ."
+   ],
+   "trends": [
+      {
+         "12": "4",
+         "17": "0"
+      },
+      {
+         "1": "4",
+         "3": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Viewers in millions": "15.4"
+      },
+      {
+         "Year": "2018",
+         "Viewers in millions": "14.9"
+      },
+      {
+         "Year": "2017",
+         "Viewers in millions": "10.94"
+      },
+      {
+         "Year": "2016",
+         "Viewers in millions": "12.44"
+      },
+      {
+         "Year": "2015",
+         "Viewers in millions": "12.43"
+      }
+   ]
+}

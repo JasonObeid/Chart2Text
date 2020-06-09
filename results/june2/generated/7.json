@@ -1,0 +1,91 @@
+{
+   "title": "Audi - total assets 2002 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Total assets in million euros",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Total assets of Audi from 2002 to 2018 . ",
+      "In 2018 , Audi total assets amounted to about 65598 million euros . ",
+      "Audi is a United States-based multinational oil and gas corporation headquartered in Irving , Texas ."
+   ],
+   "trends": [
+      {
+         "9": "16",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Total assets in million euros": "65598"
+      },
+      {
+         "Year": "2017",
+         "Total assets in million euros": "63680"
+      },
+      {
+         "Year": "2016",
+         "Total assets in million euros": "61090"
+      },
+      {
+         "Year": "2015",
+         "Total assets in million euros": "56763"
+      },
+      {
+         "Year": "2014",
+         "Total assets in million euros": "50769"
+      },
+      {
+         "Year": "2013",
+         "Total assets in million euros": "45156"
+      },
+      {
+         "Year": "2012",
+         "Total assets in million euros": "40401"
+      },
+      {
+         "Year": "2011",
+         "Total assets in million euros": "37019"
+      },
+      {
+         "Year": "2010",
+         "Total assets in million euros": "30772"
+      },
+      {
+         "Year": "2009",
+         "Total assets in million euros": "26550"
+      },
+      {
+         "Year": "2008",
+         "Total assets in million euros": "26056"
+      },
+      {
+         "Year": "2007",
+         "Total assets in million euros": "22578"
+      },
+      {
+         "Year": "2006",
+         "Total assets in million euros": "18910"
+      },
+      {
+         "Year": "2005",
+         "Total assets in million euros": "16112"
+      },
+      {
+         "Year": "2004",
+         "Total assets in million euros": "14904"
+      },
+      {
+         "Year": "2003",
+         "Total assets in million euros": "14063"
+      },
+      {
+         "Year": "2002",
+         "Total assets in million euros": "12650"
+      }
+   ]
+}

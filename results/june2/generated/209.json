@@ -1,0 +1,58 @@
+{
+   "title": "Ice hockey players in Canada 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of players",
+   "graphType": "line",
+   "summary": [
+      "The statistics depicts the Number of registered Ice hockey players in the Canada from 2010/11 to 2018/19 . ",
+      "In the 2018/19 season , there were a total of 721504 registered Ice hockey players in the Canada according to the International Ice hockey Federation ."
+   ],
+   "trends": [
+      {
+         "14": "8",
+         "16": "0"
+      },
+      {
+         "2": "0",
+         "10": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Number of players": "621026"
+      },
+      {
+         "Year": "2017/18",
+         "Number of players": "637000"
+      },
+      {
+         "Year": "2016/17",
+         "Number of players": "631295"
+      },
+      {
+         "Year": "2015/16",
+         "Number of players": "639500"
+      },
+      {
+         "Year": "2014/15",
+         "Number of players": "721504"
+      },
+      {
+         "Year": "2013/14",
+         "Number of players": "721504"
+      },
+      {
+         "Year": "2012/13",
+         "Number of players": "625152"
+      },
+      {
+         "Year": "2011/12",
+         "Number of players": "617107"
+      },
+      {
+         "Year": "2010/11",
+         "Number of players": "572411"
+      }
+   ]
+}

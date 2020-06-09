@@ -1,0 +1,78 @@
+{
+   "title": "Commodity prices of wheat in the United Kingdom ( UK ) 2002 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Price per tonne in GBP",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Price of prices wheat United Kingdom in United Kingdom from 2002 to 2015 . ",
+      "In 2014 , there were a total of 127.15 directory listings for per tonne throughout the UK , an increase of 10 % compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "13": "13",
+         "15": "0"
+      },
+      {
+         "1": "1",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Price per tonne in GBP": "127.15"
+      },
+      {
+         "Year": "2014",
+         "Price per tonne in GBP": "143.06"
+      },
+      {
+         "Year": "2013",
+         "Price per tonne in GBP": "175.95"
+      },
+      {
+         "Year": "2012",
+         "Price per tonne in GBP": "179.26"
+      },
+      {
+         "Year": "2011",
+         "Price per tonne in GBP": "169.17"
+      },
+      {
+         "Year": "2010",
+         "Price per tonne in GBP": "123.76"
+      },
+      {
+         "Year": "2009",
+         "Price per tonne in GBP": "107.05"
+      },
+      {
+         "Year": "2008",
+         "Price per tonne in GBP": "137.87"
+      },
+      {
+         "Year": "2007",
+         "Price per tonne in GBP": "120.97"
+      },
+      {
+         "Year": "2006",
+         "Price per tonne in GBP": "78.88"
+      },
+      {
+         "Year": "2005",
+         "Price per tonne in GBP": "67.43"
+      },
+      {
+         "Year": "2004",
+         "Price per tonne in GBP": "80.3"
+      },
+      {
+         "Year": "2003",
+         "Price per tonne in GBP": "79.32"
+      },
+      {
+         "Year": "2002",
+         "Price per tonne in GBP": "65.02"
+      }
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "title": "Return on average ordinary shareholders ' equity at HSBC 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Return on equity",
+   "graphType": "line",
+   "summary": [
+      "The Return of equity the HSBC of ( NAR ) has steadily increased since 2012 , reaching a membership of 10.9 % in 2011 , an all-time high . ",
+      "This trend also reflects the recovery of the property market after the financial crisis of 2007 - 2009 , as the volume of home sales began to climb from 2011 . ",
+      "The NAR is a North American trade HSBC for real estate workers formed in 1908 and currently based in Chicago , Illinois ."
+   ],
+   "trends": [
+      {
+         "16": "7",
+         "22": "8",
+         "25": "8"
+      },
+      {
+         "17": "10",
+         "29": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Return on equity": "3.6"
+      },
+      {
+         "Year": "2018",
+         "Return on equity": "7.7"
+      },
+      {
+         "Year": "2017",
+         "Return on equity": "5.9"
+      },
+      {
+         "Year": "2016",
+         "Return on equity": "0.8"
+      },
+      {
+         "Year": "2015",
+         "Return on equity": "7.2"
+      },
+      {
+         "Year": "2014",
+         "Return on equity": "7.3"
+      },
+      {
+         "Year": "2013",
+         "Return on equity": "9.2"
+      },
+      {
+         "Year": "2012",
+         "Return on equity": "8.4"
+      },
+      {
+         "Year": "2011",
+         "Return on equity": "10.9"
+      },
+      {
+         "Year": "2010",
+         "Return on equity": "9.5"
+      },
+      {
+         "Year": "2009",
+         "Return on equity": "5.1"
+      }
+   ]
+}

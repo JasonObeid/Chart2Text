@@ -1,0 +1,94 @@
+{
+   "title": "Unemployment in U.S. motion picture and recording industries 2001 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in U.S. from 2001 to 2018 . ",
+      "In 2018 , the Unemployment rate in U.S. was at approximately 5.5 % ."
+   ],
+   "trends": [
+      {
+         "9": "17",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Unemployment rate": "5.5"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "6.2"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "7.3"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "5.6"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "7.1"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "9.3"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "12.9"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "10.7"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "13"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "13.8"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "9"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "6.9"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "5.9"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "8.5"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "8.7"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "11.2"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "10.3"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "9.2"
+      }
+   ]
+}

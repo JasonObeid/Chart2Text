@@ -1,0 +1,101 @@
+{
+   "title": "Electricity prices for households in Latvia 2010 - 2019 , semi-annually",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "graphType": "line",
+   "summary": [
+      "From 2010 S2 to 2015 S2 , household Electricity prices saw an overall increase , peaking at 16.5 Euro cents per kWh in the second half of 2015 S2 . ",
+      "This decreased in the following years , but by the second half of 2018 S2 prices had increased to 15.11 Euro cents . ",
+      "On average , the Latvia pays some of the highest Electricity prices in Europe ."
+   ],
+   "trends": [
+      {
+         "1": "17",
+         "3": "7",
+         "15": "7",
+         "25": "7"
+      },
+      {
+         "13": "1",
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019 S1",
+         "Euro cents per kilowatt-hour": "16.29"
+      },
+      {
+         "Year": "2018 S2",
+         "Euro cents per kilowatt-hour": "15.11"
+      },
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": "15.31"
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": "15.82"
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": "15.86"
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": "16.24"
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": "16.28"
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": "16.5"
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": "16.35"
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": "13.01"
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": "13.65"
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": "13.58"
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": "13.78"
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": "13.69"
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": "13.82"
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": "13.42"
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": "11.68"
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": "10.48"
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": "10.49"
+      }
+   ]
+}

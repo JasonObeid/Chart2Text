@@ -1,0 +1,56 @@
+{
+   "title": "Revenues of Italian company Guccio Gucci in 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenues in million euros",
+   "graphType": "line",
+   "summary": [
+      "The Revenues of the Italian luxury brand Gucci 2011 has increased twofold over the period surveyed , rising from roughly 157.41 million euros in 2011 to 267.63 million euros in the Year 2018 . ",
+      "Despite the steady increase in Revenues during the period considered , the Guccio reported a net loss of approximately 25 million euros in 2018 . ",
+      "Worldwide recognition Founded in 1978 Milan , Gucci 2011 is one of the leading international company design houses ."
+   ],
+   "trends": [
+      {
+         "20": "7",
+         "24": "7",
+         "26": "0",
+         "32": "0"
+      },
+      {
+         "23": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenues in million euros": "267.63"
+      },
+      {
+         "Year": "2017",
+         "Revenues in million euros": "214.28"
+      },
+      {
+         "Year": "2016",
+         "Revenues in million euros": "162.31"
+      },
+      {
+         "Year": "2015",
+         "Revenues in million euros": "181.03"
+      },
+      {
+         "Year": "2014",
+         "Revenues in million euros": "184.24"
+      },
+      {
+         "Year": "2013",
+         "Revenues in million euros": "182.72"
+      },
+      {
+         "Year": "2012",
+         "Revenues in million euros": "177.24"
+      },
+      {
+         "Year": "2011",
+         "Revenues in million euros": "157.41"
+      }
+   ]
+}

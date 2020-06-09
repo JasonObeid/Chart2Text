@@ -1,0 +1,46 @@
+{
+   "title": "Online gaming traffic in North America 2011 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Data volume in petabytes",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the projected Online gaming North America Data volume in the North from 2011 to 2016 . ",
+      "In 2012 , it is estimated that the Online gaming North America industry will have a Data volume of around 37 million petabytes ."
+   ],
+   "trends": [
+      {
+         "14": "5",
+         "16": "0"
+      },
+      {
+         "1": "4",
+         "19": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Data volume in petabytes": "96"
+      },
+      {
+         "Year": "2015",
+         "Data volume in petabytes": "62"
+      },
+      {
+         "Year": "2014",
+         "Data volume in petabytes": "44"
+      },
+      {
+         "Year": "2013",
+         "Data volume in petabytes": "37"
+      },
+      {
+         "Year": "2012",
+         "Data volume in petabytes": "29"
+      },
+      {
+         "Year": "2011",
+         "Data volume in petabytes": "22"
+      }
+   ]
+}

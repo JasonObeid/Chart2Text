@@ -1,0 +1,86 @@
+{
+   "title": "Youth unemployment rate in Italy 2004 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Italy from 2004 to 2019 . ",
+      "In 2019 , the Unemployment rate in Italy was at 28.9 % ."
+   ],
+   "trends": [
+      {
+         "9": "0",
+         "11": "15"
+      },
+      {
+         "1": "15",
+         "10": "15"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2004",
+         "Unemployment rate": "23.5"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "24.1"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "21.8"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "20.4"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "21.2"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "25.3"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "27.9"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "29.2"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "35.3"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "40"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "42.7"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "40.3"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "37.8"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "34.7"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "32.2"
+      },
+      {
+         "Year": "2019",
+         "Unemployment rate": "28.9"
+      }
+   ]
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Public expenditure on recreational and sporting services in the UK 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Expenditure in million GBP",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows Public sector Expenditure on recreational sporting in the UK from 2013/14 to 2018//19 . ",
+      "The Expenditure on recreational sporting has continuously decreased during this period . ",
+      "In 2018//19 , this Expenditure totalled approximately 2947 million British pounds ."
+   ],
+   "trends": [
+      {
+         "13": "5",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018//19",
+         "Expenditure in million GBP": "2947"
+      },
+      {
+         "Year": "2017/18",
+         "Expenditure in million GBP": "3048"
+      },
+      {
+         "Year": "2016/17",
+         "Expenditure in million GBP": "3230"
+      },
+      {
+         "Year": "2015/16",
+         "Expenditure in million GBP": "3268"
+      },
+      {
+         "Year": "2014/15",
+         "Expenditure in million GBP": "3997"
+      },
+      {
+         "Year": "2013/14",
+         "Expenditure in million GBP": "3472"
+      }
+   ]
+}

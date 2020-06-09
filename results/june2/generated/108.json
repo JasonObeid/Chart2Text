@@ -1,0 +1,70 @@
+{
+   "title": "Gross domestic product of Latin America and the Caribbean 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP in billion U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows Gross domestic product ( GDP ) of the Latin America from 2014 to 2024 in billion U.S. dollars . ",
+      "In 2018 , the EU 's GDP amounted to about 5459.78 billion U.S. dollars . ",
+      "Brexit and the economy of the Latin America is still recovering from the crisis in 2008 , but it is by no means making an impressive comeback and 2016 has not started out on the right foot either ."
+   ],
+   "trends": [
+      {
+         "13": "10",
+         "15": "0"
+      },
+      {
+         "1": "6",
+         "10": "7"
+      },
+      {
+         "29": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP in billion U.S. dollars": "6546.54"
+      },
+      {
+         "Year": "2023",
+         "GDP in billion U.S. dollars": "6234.32"
+      },
+      {
+         "Year": "2022",
+         "GDP in billion U.S. dollars": "5922.28"
+      },
+      {
+         "Year": "2021",
+         "GDP in billion U.S. dollars": "5634.42"
+      },
+      {
+         "Year": "2020",
+         "GDP in billion U.S. dollars": "5352.4"
+      },
+      {
+         "Year": "2019",
+         "GDP in billion U.S. dollars": "5188.25"
+      },
+      {
+         "Year": "2018",
+         "GDP in billion U.S. dollars": "5249.66"
+      },
+      {
+         "Year": "2017",
+         "GDP in billion U.S. dollars": "5459.78"
+      },
+      {
+         "Year": "2016",
+         "GDP in billion U.S. dollars": "5057.11"
+      },
+      {
+         "Year": "2015",
+         "GDP in billion U.S. dollars": "5271.94"
+      },
+      {
+         "Year": "2014",
+         "GDP in billion U.S. dollars": "5988.65"
+      }
+   ]
+}

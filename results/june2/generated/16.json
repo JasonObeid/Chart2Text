@@ -1,0 +1,58 @@
+{
+   "title": "Travel and tourism 's total contribution to GDP in Germany 2012 to 2028",
+   "xAxis": "Year",
+   "yAxis": "Value in billion euros",
+   "graphType": "line",
+   "summary": [
+      "The Travel and tourism industry contributed to the French Gross Domestic Product ( GDP ) in total with approximately 348.1 billion euros in 2017 . ",
+      "The source predicted that this contribution will increase in the coming ten years , reaching an expected total of around 411.0 billion euros in 2028 . ",
+      "In 2017 , Germany welcomed almost 87 billion international tourists , making it the most visited country in the world in that Year ."
+   ],
+   "trends": [
+      {
+         "19": "2",
+         "23": "2"
+      },
+      {
+         "20": "0",
+         "24": "0"
+      },
+      {
+         "1": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2028",
+         "Value in billion euros": "411.0"
+      },
+      {
+         "Year": "2018",
+         "Value in billion euros": "358.3"
+      },
+      {
+         "Year": "2017",
+         "Value in billion euros": "348.1"
+      },
+      {
+         "Year": "2016",
+         "Value in billion euros": "342.2"
+      },
+      {
+         "Year": "2015",
+         "Value in billion euros": "336.2"
+      },
+      {
+         "Year": "2014",
+         "Value in billion euros": "325.7"
+      },
+      {
+         "Year": "2013",
+         "Value in billion euros": "315.9"
+      },
+      {
+         "Year": "2012",
+         "Value in billion euros": "318.0"
+      }
+   ]
+}

@@ -8,6 +8,8 @@ from spacy import displacy
 from collections import Counter
 import en_core_web_md
 
+import matplotlib.pyplot as plt
+
 import nltk
 import pandas as pd
 from text_to_num import text2num
@@ -404,17 +406,31 @@ titleFiles.sort()
 # zipped = list(zip(dataFiles, captionFiles, titleFiles))
 # random.shuffle(zipped)
 # dataFiles, captionFiles, titleFiles = zip(*zipped)
+barDataRatioArr = []
+barCaptionRatioArr = []
+barOldSummaryArr = []
+barLabelList = []
+barDataArr = []
+barDataLabelArr = []
+barSummaryArr = []
+barSummaryLabelArr = []
+barTitleArr = []
 
-dataArr = []
-dataLabelArr = []
-summaryArr = []
-summaryLabelArr = []
-labelList = []
-titleArr = []
-oldSummaryArr = []
+lineDataRatioArr = []
+lineCaptionRatioArr = []
+lineOldSummaryArr = []
+lineLabelList = []
+lineDataArr = []
+lineDataLabelArr = []
+lineSummaryArr = []
+lineSummaryLabelArr = []
+lineTitleArr = []
 
-dataRatioArr = []
-captionRatioArr = []
+barDataRatioArr = []
+barCaptionRatioArr = []
+
+lineDataRatioArr = []
+lineCaptionRatioArr = []
 
 assert len(captionFiles) == len(dataFiles) == len(titleFiles)
 
@@ -622,126 +638,208 @@ for i in range(len(dataFiles)):
     captionRatio = round(captionMatchCount / len(captionTokens), 2)
     if captionMatchCount >= 1 and dataMatchCount >= 1:
         assert len(xValueArr) == len(yValueArr)
-        dataRatioArr.append(dataRatio)
-        captionRatioArr.append(captionRatio)
-        summaryLabelLine = (' ').join(labelMap)
-        assert len(captionTokens) == len(summaryLabelLine.split())
-        newCaption = (' . ').join(newSentences)
-        oldSummaryArr.append(trimmedCaption)
-        labelList.append(labelMap)
-        dataArr.append(dataLine)
-        dataLabelArr.append(dataLabelLine)
-        summaryArr.append(newCaption)
-        summaryLabelArr.append(summaryLabelLine)
-        titleArr.append(title)
+        if chartType == 'bar_chart':
+            barDataRatioArr.append(dataRatio)
+            barCaptionRatioArr.append(captionRatio)
+            summaryLabelLine = (' ').join(labelMap)
+            assert len(captionTokens) == len(summaryLabelLine.split())
+            newCaption = (' . ').join(newSentences)
+            barOldSummaryArr.append(trimmedCaption)
+            barLabelList.append(labelMap)
+            barDataArr.append(dataLine)
+            barDataLabelArr.append(dataLabelLine)
+            barSummaryArr.append(newCaption)
+            barSummaryLabelArr.append(summaryLabelLine)
+            barTitleArr.append(title)
+        elif chartType == 'line_chart':
+            lineDataRatioArr.append(dataRatio)
+            lineCaptionRatioArr.append(captionRatio)
+            summaryLabelLine = (' ').join(labelMap)
+            assert len(captionTokens) == len(summaryLabelLine.split())
+            newCaption = (' . ').join(newSentences)
+            lineOldSummaryArr.append(trimmedCaption)
+            lineLabelList.append(labelMap)
+            lineDataArr.append(dataLine)
+            lineDataLabelArr.append(dataLabelLine)
+            lineSummaryArr.append(newCaption)
+            lineSummaryLabelArr.append(summaryLabelLine)
+            lineTitleArr.append(title)
 
-assert len(dataArr) == len(dataLabelArr)
-assert len(summaryArr) == len(summaryLabelArr)
-assert len(summaryArr) == len(oldSummaryArr)
-assert len(titleArr) == len(dataArr)
+assert len(barDataArr) == len(barDataLabelArr)
+assert len(barSummaryArr) == len(barSummaryLabelArr)
+assert len(barSummaryArr) == len(barOldSummaryArr)
+assert len(barTitleArr) == len(barDataArr)
+
+assert len(lineDataArr) == len(lineDataLabelArr)
+assert len(lineSummaryArr) == len(lineSummaryLabelArr)
+assert len(lineSummaryArr) == len(lineOldSummaryArr)
+assert len(lineTitleArr) == len(lineDataArr)
 
 # TODO REVERT SET SIZES
-trainSize = round(len(dataArr) * 0.7)
-testSize = round(len(dataArr) * 0.15)
-validSize = len(dataArr) - trainSize - testSize
+barTrainSize = round(len(barDataArr) * 0.7)
+barTestSize = round(len(barDataArr) * 0.15)
+barValidSize = len(barDataArr) - barTrainSize - barTestSize
 
-trainData = dataArr[0:trainSize]
-testData = dataArr[trainSize:trainSize + testSize]
-validData = dataArr[trainSize + testSize:]
+barTrainData = barDataArr[0:barTrainSize]
+barTestData = barDataArr[barTrainSize:barTrainSize + barTestSize]
+barValidData = barDataArr[barTrainSize + barTestSize:]
 
-trainDataLabel = dataLabelArr[0:trainSize]
-testDataLabel = dataLabelArr[trainSize:trainSize + testSize]
-validDataLabel = dataLabelArr[trainSize + testSize:]
+barTrainDataLabel = barDataLabelArr[0:barTrainSize]
+barTestDataLabel = barDataLabelArr[barTrainSize:barTrainSize + barTestSize]
+barValidDataLabel = barDataLabelArr[barTrainSize + barTestSize:]
 
-trainSummary = summaryArr[0:trainSize]
-testSummary = summaryArr[trainSize:trainSize + testSize]
-validSummary = summaryArr[trainSize + testSize:]
+barTrainSummary = barSummaryArr[0:barTrainSize]
+barTestSummary = barSummaryArr[barTrainSize:barTrainSize + barTestSize]
+barValidSummary = barSummaryArr[barTrainSize + barTestSize:]
 
-trainSummaryLabel = summaryLabelArr[0:trainSize]
-testSummaryLabel = summaryLabelArr[trainSize:trainSize + testSize]
-validSummaryLabel = summaryLabelArr[trainSize + testSize:]
+barTrainSummaryLabel = barSummaryLabelArr[0:barTrainSize]
+barTestSummaryLabel = barSummaryLabelArr[barTrainSize:barTrainSize + barTestSize]
+barValidSummaryLabel = barSummaryLabelArr[barTrainSize + barTestSize:]
 
-trainTitle = titleArr[0:trainSize]
-testTitle = titleArr[trainSize:trainSize + testSize]
-validTitle = titleArr[trainSize + testSize:]
+barTrainTitle = barTitleArr[0:barTrainSize]
+barTestTitle = barTitleArr[barTrainSize:barTrainSize + barTestSize]
+barValidTitle = barTitleArr[barTrainSize + barTestSize:]
 
-oldTrainSummary = oldSummaryArr[0:trainSize]
-oldTestSummary = oldSummaryArr[trainSize:trainSize + testSize]
-oldValidSummary = oldSummaryArr[trainSize + testSize:]
+barOldTrainSummary = barOldSummaryArr[0:barTrainSize]
+barOldTestSummary = barOldSummaryArr[barTrainSize:barTrainSize + barTestSize]
+barOldValidSummary = barOldSummaryArr[barTrainSize + barTestSize:]
 
-with open('../data/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
-    myfile0.writelines("%s\n" % line for line in trainData)
-with open('../data/train/trainDataLabel.txt', mode='wt', encoding='utf8') as myfile1:
-    myfile1.writelines("%s\n" % line for line in trainDataLabel)
+with open('../data/bar/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
+    myfile0.writelines("%s\n" % line for line in barTrainData)
+with open('../data/bar/train/trainDataLabel.txt', mode='wt', encoding='utf8') as myfile1:
+    myfile1.writelines("%s\n" % line for line in barTrainDataLabel)
 
-with open('../data/test/testData.txt', mode='wt', encoding='utf8') as myfile2:
-    myfile2.writelines("%s\n" % line for line in testData)
-with open('../data/test/testDataLabel.txt', mode='wt', encoding='utf8') as myfile3:
-    myfile3.writelines("%s\n" % line for line in testDataLabel)
+with open('../data/bar/test/testData.txt', mode='wt', encoding='utf8') as myfile2:
+    myfile2.writelines("%s\n" % line for line in barTestData)
+with open('../data/bar/test/testDataLabel.txt', mode='wt', encoding='utf8') as myfile3:
+    myfile3.writelines("%s\n" % line for line in barTestDataLabel)
 
-with open('../data/valid/validData.txt', mode='wt', encoding='utf8') as myfile4:
-    myfile4.writelines("%s\n" % line for line in validData)
-with open('../data/valid/validDataLabel.txt', mode='wt', encoding='utf8') as myfile5:
-    myfile5.writelines("%s\n" % line for line in validDataLabel)
+with open('../data/bar/valid/validData.txt', mode='wt', encoding='utf8') as myfile4:
+    myfile4.writelines("%s\n" % line for line in barValidData)
+with open('../data/bar/valid/validDataLabel.txt', mode='wt', encoding='utf8') as myfile5:
+    myfile5.writelines("%s\n" % line for line in barValidDataLabel)
 
-with open('../data/train/trainSummary.txt', mode='wt', encoding='utf8') as myfile6:
-    myfile6.writelines("%s\n" % line for line in trainSummary)
-with open('../data/train/trainSummaryLabel.txt', mode='wt', encoding='utf8') as myfile7:
-    myfile7.writelines("%s\n" % line for line in trainSummaryLabel)
+with open('../data/bar/train/trainSummary.txt', mode='wt', encoding='utf8') as myfile6:
+    myfile6.writelines("%s\n" % line for line in barTrainSummary)
+with open('../data/bar/train/trainSummaryLabel.txt', mode='wt', encoding='utf8') as myfile7:
+    myfile7.writelines("%s\n" % line for line in barTrainSummaryLabel)
 
-with open('../data/test/testSummary.txt', mode='wt', encoding='utf8') as myfile8:
-    myfile8.writelines("%s\n" % line for line in testSummary)
-with open('../data/test/testSummaryLabel.txt', mode='wt', encoding='utf8') as myfile9:
-    myfile9.writelines("%s\n" % line for line in testSummaryLabel)
+with open('../data/bar/test/testSummary.txt', mode='wt', encoding='utf8') as myfile8:
+    myfile8.writelines("%s\n" % line for line in barTestSummary)
+with open('../data/bar/test/testSummaryLabel.txt', mode='wt', encoding='utf8') as myfile9:
+    myfile9.writelines("%s\n" % line for line in barTestSummaryLabel)
 
-with open('../data/valid/validSummary.txt', mode='wt', encoding='utf8') as myfile10:
-    myfile10.writelines("%s\n" % line for line in validSummary)
-with open('../data/valid/validSummaryLabel.txt', mode='wt', encoding='utf8') as myfile11:
-    myfile11.writelines("%s\n" % line for line in validSummaryLabel)
+with open('../data/bar/valid/validSummary.txt', mode='wt', encoding='utf8') as myfile10:
+    myfile10.writelines("%s\n" % line for line in barValidSummary)
+with open('../data/bar/valid/validSummaryLabel.txt', mode='wt', encoding='utf8') as myfile11:
+    myfile11.writelines("%s\n" % line for line in barValidSummaryLabel)
 
-with open('../data/dataRatio.txt', mode='wt', encoding='utf8') as myfile12:
-    myfile12.write(str(dataRatioArr))
-with open('../data/captionRatio.txt', mode='wt', encoding='utf8') as myfile13:
-    myfile13.write(str(captionRatioArr))
+with open('../data/bar/dataRatio.txt', mode='wt', encoding='utf8') as myfile12:
+    myfile12.write(str(barDataRatioArr))
+with open('../data/bar/captionRatio.txt', mode='wt', encoding='utf8') as myfile13:
+    myfile13.write(str(barCaptionRatioArr))
 
-with open('../data/train/trainTitle.txt', mode='wt', encoding='utf8') as myfile14:
-    myfile14.writelines("%s" % line for line in trainTitle)
-with open('../data/test/testTitle.txt', mode='wt', encoding='utf8') as myfile15:
-    myfile15.writelines("%s" % line for line in testTitle)
-with open('../data/valid/validTitle.txt', mode='wt', encoding='utf8') as myfile16:
-    myfile16.writelines("%s" % line for line in validTitle)
+with open('../data/bar/train/trainTitle.txt', mode='wt', encoding='utf8') as myfile14:
+    myfile14.writelines("%s" % line for line in barTrainTitle)
+with open('../data/bar/test/testTitle.txt', mode='wt', encoding='utf8') as myfile15:
+    myfile15.writelines("%s" % line for line in barTestTitle)
+with open('../data/bar/valid/validTitle.txt', mode='wt', encoding='utf8') as myfile16:
+    myfile16.writelines("%s" % line for line in barValidTitle)
 
-with open('../data/train/trainOriginalSummary.txt', mode='wt', encoding='utf8') as myfile17:
-    myfile17.writelines("%s" % line for line in oldTrainSummary)
-with open('../data/test/testOriginalSummary.txt', mode='wt', encoding='utf8') as myfile18:
-    myfile18.writelines("%s" % line for line in oldTestSummary)
-with open('../data/valid/validOriginalSummary.txt', mode='wt', encoding='utf8') as myfile19:
-    myfile19.writelines("%s" % line for line in oldValidSummary)
+with open('../data/bar/train/trainOriginalSummary.txt', mode='wt', encoding='utf8') as myfile17:
+    myfile17.writelines("%s" % line for line in barOldTrainSummary)
+with open('../data/bar/test/testOriginalSummary.txt', mode='wt', encoding='utf8') as myfile18:
+    myfile18.writelines("%s" % line for line in barOldTestSummary)
+with open('../data/bar/valid/validOriginalSummary.txt', mode='wt', encoding='utf8') as myfile19:
+    myfile19.writelines("%s" % line for line in barOldValidSummary)
 
-import matplotlib.pyplot as plt
-
-plt.hist(dataRatioArr, 6)
-plt.savefig('../data/data.png')
+plt.hist(barDataRatioArr, 6)
+plt.savefig('../data/bar/data.png')
 plt.close('all')
-plt.hist(captionRatioArr, 6)
-plt.savefig('../data/caption.png')
+plt.hist(barCaptionRatioArr, 6)
+plt.savefig('../data/bar/caption.png')
 plt.close('all')
-"""
-with open('../data/fineTune/data.txt', mode='wt', encoding='utf8') as myfile14, \
-        open('../data/fineTune/dataLabel.txt', mode='wt', encoding='utf8') as myfile15, \
-        open('../data/fineTune/summary.txt', mode='wt', encoding='utf8') as myfile16, \
-        open('../data/fineTune/summaryLabel.txt', mode='wt', encoding='utf8') as myfile17:
-    for i in range(0, len(captionRatioArr)):
-        if captionRatioArr[i] > 0.35:
-            myfile14.writelines(dataArr[i] + "\n")
-            myfile15.writelines(dataLabelArr[i] + "\n")
-            myfile16.writelines(summaryArr[i])
-            myfile17.writelines(summaryLabelArr[i] + "\n")
-"""
-    # tokenVector = nlp(token)
-    # xVector =
-    # xSimilarity = tokenVector.similarity()
-    # ySimilarity = tokenVector.similarity(nlp(cleanYValue))
-    # print(token, cleanXValue, xSimilarity)
-    # print(token, cleanYValue, ySimilarity)
-    # print(' ')
+
+lineTrainSize = round(len(lineDataArr) * 0.7)
+lineTestSize = round(len(lineDataArr) * 0.15)
+lineValidSize = len(lineDataArr) - lineTrainSize - lineTestSize
+
+lineTrainData = lineDataArr[0:lineTrainSize]
+lineTestData = lineDataArr[lineTrainSize:lineTrainSize + lineTestSize]
+lineValidData = lineDataArr[lineTrainSize + lineTestSize:]
+
+lineTrainDataLabel = lineDataLabelArr[0:lineTrainSize]
+lineTestDataLabel = lineDataLabelArr[lineTrainSize:lineTrainSize + lineTestSize]
+lineValidDataLabel = lineDataLabelArr[lineTrainSize + lineTestSize:]
+
+lineTrainSummary = lineSummaryArr[0:lineTrainSize]
+lineTestSummary = lineSummaryArr[lineTrainSize:lineTrainSize + lineTestSize]
+lineValidSummary = lineSummaryArr[lineTrainSize + lineTestSize:]
+
+lineTrainSummaryLabel = lineSummaryLabelArr[0:lineTrainSize]
+lineTestSummaryLabel = lineSummaryLabelArr[lineTrainSize:lineTrainSize + lineTestSize]
+lineValidSummaryLabel = lineSummaryLabelArr[lineTrainSize + lineTestSize:]
+
+lineTrainTitle = lineTitleArr[0:lineTrainSize]
+lineTestTitle = lineTitleArr[lineTrainSize:lineTrainSize + lineTestSize]
+lineValidTitle = lineTitleArr[lineTrainSize + lineTestSize:]
+
+lineOldTrainSummary = lineOldSummaryArr[0:lineTrainSize]
+lineOldTestSummary = lineOldSummaryArr[lineTrainSize:lineTrainSize + lineTestSize]
+lineOldValidSummary = lineOldSummaryArr[lineTrainSize + lineTestSize:]
+
+with open('../data/line/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
+    myfile0.writelines("%s\n" % line for line in lineTrainData)
+with open('../data/line/train/trainDataLabel.txt', mode='wt', encoding='utf8') as myfile1:
+    myfile1.writelines("%s\n" % line for line in lineTrainDataLabel)
+
+with open('../data/line/test/testData.txt', mode='wt', encoding='utf8') as myfile2:
+    myfile2.writelines("%s\n" % line for line in lineTestData)
+with open('../data/line/test/testDataLabel.txt', mode='wt', encoding='utf8') as myfile3:
+    myfile3.writelines("%s\n" % line for line in lineTestDataLabel)
+
+with open('../data/line/valid/validData.txt', mode='wt', encoding='utf8') as myfile4:
+    myfile4.writelines("%s\n" % line for line in lineValidData)
+with open('../data/line/valid/validDataLabel.txt', mode='wt', encoding='utf8') as myfile5:
+    myfile5.writelines("%s\n" % line for line in lineValidDataLabel)
+
+with open('../data/line/train/trainSummary.txt', mode='wt', encoding='utf8') as myfile6:
+    myfile6.writelines("%s\n" % line for line in lineTrainSummary)
+with open('../data/line/train/trainSummaryLabel.txt', mode='wt', encoding='utf8') as myfile7:
+    myfile7.writelines("%s\n" % line for line in lineTrainSummaryLabel)
+
+with open('../data/line/test/testSummary.txt', mode='wt', encoding='utf8') as myfile8:
+    myfile8.writelines("%s\n" % line for line in lineTestSummary)
+with open('../data/line/test/testSummaryLabel.txt', mode='wt', encoding='utf8') as myfile9:
+    myfile9.writelines("%s\n" % line for line in lineTestSummaryLabel)
+
+with open('../data/line/valid/validSummary.txt', mode='wt', encoding='utf8') as myfile10:
+    myfile10.writelines("%s\n" % line for line in lineValidSummary)
+with open('../data/line/valid/validSummaryLabel.txt', mode='wt', encoding='utf8') as myfile11:
+    myfile11.writelines("%s\n" % line for line in lineValidSummaryLabel)
+
+with open('../data/line/dataRatio.txt', mode='wt', encoding='utf8') as myfile12:
+    myfile12.write(str(lineDataRatioArr))
+with open('../data/line/captionRatio.txt', mode='wt', encoding='utf8') as myfile13:
+    myfile13.write(str(lineCaptionRatioArr))
+
+with open('../data/line/train/trainTitle.txt', mode='wt', encoding='utf8') as myfile14:
+    myfile14.writelines("%s" % line for line in lineTrainTitle)
+with open('../data/line/test/testTitle.txt', mode='wt', encoding='utf8') as myfile15:
+    myfile15.writelines("%s" % line for line in lineTestTitle)
+with open('../data/line/valid/validTitle.txt', mode='wt', encoding='utf8') as myfile16:
+    myfile16.writelines("%s" % line for line in lineValidTitle)
+
+with open('../data/line/train/trainOriginalSummary.txt', mode='wt', encoding='utf8') as myfile17:
+    myfile17.writelines("%s" % line for line in lineOldTrainSummary)
+with open('../data/line/test/testOriginalSummary.txt', mode='wt', encoding='utf8') as myfile18:
+    myfile18.writelines("%s" % line for line in lineOldTestSummary)
+with open('../data/line/valid/validOriginalSummary.txt', mode='wt', encoding='utf8') as myfile19:
+    myfile19.writelines("%s" % line for line in lineOldValidSummary)
+
+plt.hist(lineDataRatioArr, 6)
+plt.savefig('../data/line/data.png')
+plt.close('all')
+plt.hist(lineCaptionRatioArr, 6)
+plt.savefig('../data/line/caption.png')
+plt.close('all')

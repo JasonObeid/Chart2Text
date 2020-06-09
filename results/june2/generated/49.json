@@ -1,0 +1,91 @@
+{
+   "title": "U.S. average retail electricity prices 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average electricity price in U.S. cents per kilowatt hour",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the U.S. Average electricity of average retail from 1990 to 2018 . ",
+      "In 2018 , Average from retail in the U.S. increased by 10.58 compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "11": "16",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "12": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average electricity price in U.S. cents per kilowatt hour": "10.58"
+      },
+      {
+         "Year": "2017",
+         "Average electricity price in U.S. cents per kilowatt hour": "10.48"
+      },
+      {
+         "Year": "2016",
+         "Average electricity price in U.S. cents per kilowatt hour": "10.27"
+      },
+      {
+         "Year": "2015",
+         "Average electricity price in U.S. cents per kilowatt hour": "10.41"
+      },
+      {
+         "Year": "2014",
+         "Average electricity price in U.S. cents per kilowatt hour": "10.44"
+      },
+      {
+         "Year": "2013",
+         "Average electricity price in U.S. cents per kilowatt hour": "10.07"
+      },
+      {
+         "Year": "2012",
+         "Average electricity price in U.S. cents per kilowatt hour": "9.84"
+      },
+      {
+         "Year": "2011",
+         "Average electricity price in U.S. cents per kilowatt hour": "9.9"
+      },
+      {
+         "Year": "2010",
+         "Average electricity price in U.S. cents per kilowatt hour": "9.83"
+      },
+      {
+         "Year": "2009",
+         "Average electricity price in U.S. cents per kilowatt hour": "9.82"
+      },
+      {
+         "Year": "2008",
+         "Average electricity price in U.S. cents per kilowatt hour": "9.74"
+      },
+      {
+         "Year": "2007",
+         "Average electricity price in U.S. cents per kilowatt hour": "9.13"
+      },
+      {
+         "Year": "2006",
+         "Average electricity price in U.S. cents per kilowatt hour": "8.9"
+      },
+      {
+         "Year": "2005",
+         "Average electricity price in U.S. cents per kilowatt hour": "8.14"
+      },
+      {
+         "Year": "2000",
+         "Average electricity price in U.S. cents per kilowatt hour": "6.81"
+      },
+      {
+         "Year": "1995",
+         "Average electricity price in U.S. cents per kilowatt hour": "6.89"
+      },
+      {
+         "Year": "1990",
+         "Average electricity price in U.S. cents per kilowatt hour": "6.57"
+      }
+   ]
+}

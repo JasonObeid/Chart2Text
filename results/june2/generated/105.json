@@ -1,0 +1,38 @@
+{
+   "title": "Average sales per unit of Outback Steakhouse restaurants in the U.S. 2015 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average sales in thousand U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "In the sales many Average pay a portion of per unit Average for employees . ",
+      "As of 2015 the total annual medical Average for employees was 11.7 thousand sales . ",
+      "That cost is expected to increase 3580 thousand sales by 2018 ."
+   ],
+   "trends": [
+      {
+         "2": "3"
+      },
+      {
+         "7": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average sales in thousand U.S. dollars": "3580"
+      },
+      {
+         "Year": "2017",
+         "Average sales in thousand U.S. dollars": "3542"
+      },
+      {
+         "Year": "2016",
+         "Average sales in thousand U.S. dollars": "3354"
+      },
+      {
+         "Year": "2015",
+         "Average sales in thousand U.S. dollars": "3430"
+      }
+   ]
+}

@@ -1,0 +1,103 @@
+{
+   "title": "Unemployment rate in El Salvador 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "In 2019 , the Unemployment rate in El Salvador was at approximately 4.35 % of the total labor force . ",
+      "The Unemployment rate is the percentage of a country 's labor force that are without jobs but are available to work and actively seeking employment . ",
+      "El Salvador 's Unemployment rate is above the worldwide Unemployment rate , and compared to other Sub-Saharan African countries and other regions , El Salvador has a relatively average rate of Unemployment ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "4.35"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "4.39"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "4.39"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "4.42"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "4"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "4.16"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "3.69"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "3.85"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "4.3"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "4.89"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "7.33"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "5.88"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "6.41"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "6.57"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "7.22"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "6.05"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "6.26"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "5.73"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "6.96"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "6.96"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "6.68"
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "title": "U.S. production of energy from biomass forecast 2019 to 2050",
+   "xAxis": "Year",
+   "yAxis": "Production in quadrillion Btu",
+   "graphType": "line",
+   "summary": [
+      "This statistic illustrates a timeline of the U.S. of production energy quadrillion forecast individual day in the U.S. from 2019 to 2050 . ",
+      "In 2045 , individuals saw on average 5.54 television commercials or Production forecast day ."
+   ],
+   "trends": [
+      {
+         "20": "7",
+         "22": "0"
+      },
+      {
+         "1": "1",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2050",
+         "Production in quadrillion Btu": "5.54"
+      },
+      {
+         "Year": "2045",
+         "Production in quadrillion Btu": "5.39"
+      },
+      {
+         "Year": "2040",
+         "Production in quadrillion Btu": "5.27"
+      },
+      {
+         "Year": "2035",
+         "Production in quadrillion Btu": "5.2"
+      },
+      {
+         "Year": "2030",
+         "Production in quadrillion Btu": "5.13"
+      },
+      {
+         "Year": "2025",
+         "Production in quadrillion Btu": "4.96"
+      },
+      {
+         "Year": "2020",
+         "Production in quadrillion Btu": "4.74"
+      },
+      {
+         "Year": "2019",
+         "Production in quadrillion Btu": "4.82"
+      }
+   ]
+}

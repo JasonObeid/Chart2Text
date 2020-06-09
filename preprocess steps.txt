@@ -11,23 +11,43 @@ python3 preprocess_table_data.py --table ../data/fineTune/data.txt --table_vocab
 
 python3 preprocess_summary_data.py --summary ../data/fineTune/summary.txt --summary_vocab ../data/fineTune/summary.txt_vocab --summary_label ../data/fineTune/summaryLabel.txt
 
-extract vocab for each set: run xlm preprocess script for each file:
 cd scripts
-python3 extract_vocab.py --table ../data/valid/validData.txt --summary ../data/valid/validSummary.txt
-python3 extract_vocab.py --table ../data/test/testData.txt --summary ../data/test/testSummary.txt
-python3 extract_vocab.py --table ../data/train/trainData.txt --summary ../data/train/trainSummary.txt
+extract vocab for each set: run xlm preprocess script for each file:
+python3 extract_vocab.py --table ../data/bar/valid/validData.txt --summary ../data/bar/valid/validSummary.txt
+python3 extract_vocab.py --table ../data/bar/test/testData.txt --summary ../data/bar/test/testSummary.txt
+python3 extract_vocab.py --table ../data/bar/train/trainData.txt --summary ../data/bar/train/trainSummary.txt
 
 
 
 cd ../model
-python3 preprocess_table_data.py --table ../data/valid/validData.txt --table_vocab ../data/valid/validData.txt_vocab --table_label ../data/valid/validDataLabel.txt
-python3 preprocess_table_data.py --table ../data/test/testData.txt --table_vocab ../data/test/testData.txt_vocab --table_label ../data/test/testDataLabel.txt
-python3 preprocess_table_data.py --table ../data/train/trainData.txt --table_vocab ../data/train/trainData.txt_vocab --table_label ../data/train/trainDataLabel.txt
+python3 preprocess_table_data.py --table ../data/bar/valid/validData.txt --table_vocab ../data/bar/valid/validData.txt_vocab --table_label ../data/bar/valid/validDataLabel.txt
+python3 preprocess_table_data.py --table ../data/bar/test/testData.txt --table_vocab ../data/bar/test/testData.txt_vocab --table_label ../data/bar/test/testDataLabel.txt
+python3 preprocess_table_data.py --table ../data/bar/train/trainData.txt --table_vocab ../data/bar/train/trainData.txt_vocab --table_label ../data/bar/train/trainDataLabel.txt
 
 
-python3 preprocess_summary_data.py --summary ../data/valid/validSummary.txt --summary_vocab ../data/valid/validSummary.txt_vocab --summary_label ../data/valid/validSummaryLabel.txt
-python3 preprocess_summary_data.py --summary ../data/test/testSummary.txt --summary_vocab ../data/test/testSummary.txt_vocab --summary_label ../data/test/testSummaryLabel.txt
-python3 preprocess_summary_data.py --summary ../data/train/trainSummary.txt --summary_vocab ../data/train/trainSummary.txt_vocab --summary_label ../data/train/trainSummaryLabel.txt
+python3 preprocess_summary_data.py --summary ../data/bar/valid/validSummary.txt --summary_vocab ../data/bar/valid/validSummary.txt_vocab --summary_label ../data/bar/valid/validSummaryLabel.txt
+python3 preprocess_summary_data.py --summary ../data/bar/test/testSummary.txt --summary_vocab ../data/bar/test/testSummary.txt_vocab --summary_label ../data/bar/test/testSummaryLabel.txt
+python3 preprocess_summary_data.py --summary ../data/bar/train/trainSummary.txt --summary_vocab ../data/bar/train/trainSummary.txt_vocab --summary_label ../data/bar/train/trainSummaryLabel.txt
+
+
+cd ../scripts
+python3 extract_vocab.py --table ../data/line/valid/validData.txt --summary ../data/line/valid/validSummary.txt
+python3 extract_vocab.py --table ../data/line/test/testData.txt --summary ../data/line/test/testSummary.txt
+python3 extract_vocab.py --table ../data/line/train/trainData.txt --summary ../data/line/train/trainSummary.txt
+
+
+
+cd ../model
+python3 preprocess_table_data.py --table ../data/line/valid/validData.txt --table_vocab ../data/line/valid/validData.txt_vocab --table_label ../data/line/valid/validDataLabel.txt
+python3 preprocess_table_data.py --table ../data/line/test/testData.txt --table_vocab ../data/line/test/testData.txt_vocab --table_label ../data/line/test/testDataLabel.txt
+python3 preprocess_table_data.py --table ../data/line/train/trainData.txt --table_vocab ../data/line/train/trainData.txt_vocab --table_label ../data/line/train/trainDataLabel.txt
+
+
+python3 preprocess_summary_data.py --summary ../data/line/valid/validSummary.txt --summary_vocab ../data/line/valid/validSummary.txt_vocab --summary_label ../data/line/valid/validSummaryLabel.txt
+python3 preprocess_summary_data.py --summary ../data/line/test/testSummary.txt --summary_vocab ../data/line/test/testSummary.txt_vocab --summary_label ../data/line/test/testSummaryLabel.txt
+python3 preprocess_summary_data.py --summary ../data/line/train/trainSummary.txt --summary_vocab ../data/line/train/trainSummary.txt_vocab --summary_label ../data/line/train/trainSummaryLabel.txt
+
+
 
 
 

@@ -1,0 +1,37 @@
+{
+   "title": "Welsh Assembly elections : turnout rates 1999 to 2011",
+   "xAxis": "Year",
+   "yAxis": "Turnout rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Turnout Assembly rate turnout rates in the 1999 2011 to . ",
+      "In the 12 months leading up to 2014 , rate travelers spent an Turnout of 38.2 rate turnout rates ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "15": "3"
+      },
+      {
+         "15": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1999",
+         "Turnout rate": "46.4"
+      },
+      {
+         "Year": "2003",
+         "Turnout rate": "38.2"
+      },
+      {
+         "Year": "2007",
+         "Turnout rate": "43.5"
+      },
+      {
+         "Year": "2011",
+         "Turnout rate": "41.8"
+      }
+   ]
+}

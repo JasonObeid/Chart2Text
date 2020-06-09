@@ -1,0 +1,71 @@
+{
+   "title": "U.S. - seniors as a percentage of the population 1950 to 2050",
+   "xAxis": "Year",
+   "yAxis": "Percentage of total population",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the seniors of percentage U.S. as percentage of total e-mail population from 1950 to 2050 . ",
+      "In the most recently reported period , U.S. messages accounted for 22 percentage of e-mail population worldwide , down from 10 percentage in 1970 ."
+   ],
+   "trends": [
+      {
+         "15": "11",
+         "17": "0"
+      },
+      {
+         "11": "0",
+         "20": "9",
+         "23": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2050",
+         "Percentage of total population": "22"
+      },
+      {
+         "Year": "2040",
+         "Percentage of total population": "21.6"
+      },
+      {
+         "Year": "2030",
+         "Percentage of total population": "20.6"
+      },
+      {
+         "Year": "2020",
+         "Percentage of total population": "16.9"
+      },
+      {
+         "Year": "2018",
+         "Percentage of total population": "16"
+      },
+      {
+         "Year": "2010",
+         "Percentage of total population": "13.1"
+      },
+      {
+         "Year": "2000",
+         "Percentage of total population": "12.4"
+      },
+      {
+         "Year": "1990",
+         "Percentage of total population": "12.5"
+      },
+      {
+         "Year": "1980",
+         "Percentage of total population": "11.3"
+      },
+      {
+         "Year": "1970",
+         "Percentage of total population": "10"
+      },
+      {
+         "Year": "1960",
+         "Percentage of total population": "9"
+      },
+      {
+         "Year": "1950",
+         "Percentage of total population": "8"
+      }
+   ]
+}

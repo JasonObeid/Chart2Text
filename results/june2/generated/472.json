@@ -1,0 +1,67 @@
+{
+   "title": "Number of hospitals in Finland 2007 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of hospitals",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total Number of hospitals at Finland from 2007 to 2017 . ",
+      "The Number of hospitals has fluctuated in this period . ",
+      "In 2017 , the Number stood at 325 hospitals which was relatively high considering the whole 10-year period ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "7": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of hospitals": "247"
+      },
+      {
+         "Year": "2016",
+         "Number of hospitals": "262"
+      },
+      {
+         "Year": "2015",
+         "Number of hospitals": "268"
+      },
+      {
+         "Year": "2014",
+         "Number of hospitals": "258"
+      },
+      {
+         "Year": "2013",
+         "Number of hospitals": "259"
+      },
+      {
+         "Year": "2012",
+         "Number of hospitals": "263"
+      },
+      {
+         "Year": "2011",
+         "Number of hospitals": "275"
+      },
+      {
+         "Year": "2010",
+         "Number of hospitals": "280"
+      },
+      {
+         "Year": "2009",
+         "Number of hospitals": "298"
+      },
+      {
+         "Year": "2008",
+         "Number of hospitals": "320"
+      },
+      {
+         "Year": "2007",
+         "Number of hospitals": "325"
+      }
+   ]
+}

@@ -1,0 +1,38 @@
+{
+   "title": "Car rental industry in the U.S. - revenue 2002 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows global Revenue from U.S. and 2002 from to 2017 . ",
+      "In 2017 , earphones and headphones were estimated to have a market value of 28.63 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "11": "0",
+         "13": "3"
+      },
+      {
+         "1": "3",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2002",
+         "Revenue in billion U.S. dollars": "16.43"
+      },
+      {
+         "Year": "2007",
+         "Revenue in billion U.S. dollars": "21.49"
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion U.S. dollars": "23.63"
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion U.S. dollars": "28.63"
+      }
+   ]
+}

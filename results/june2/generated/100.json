@@ -1,0 +1,103 @@
+{
+   "title": "Unemployment rate in Bulgaria 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "In 2019 , the Unemployment rate in Bulgaria was at approximately 4.82 % of the total labor force . ",
+      "The Unemployment rate is the percentage of a country 's labor force that are without jobs but are available to work and actively seeking employment . ",
+      "Bulgaria 's Unemployment rate is above the worldwide Unemployment rate , and compared to other Sub-Saharan African countries and other regions , Bulgaria has a relatively average rate of Unemployment ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "4.82"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "5.26"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "6.16"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "7.58"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "9.14"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "11.42"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "12.94"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "12.27"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "11.26"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "10.28"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "6.82"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "5.61"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "6.88"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "8.95"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "10.08"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "12.04"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "13.73"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "18.11"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "19.92"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "16.22"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "14.1"
+      }
+   ]
+}

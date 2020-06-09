@@ -1,0 +1,68 @@
+{
+   "title": "Edible grocery sales forecast for Tesco in the United Kingdom ( UK ) from 2010 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Sales in million US dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the number of Sales in Tesco from 2010 to 2018 , with projections up until 2020 . ",
+      "In 2018 , the level of Sales in Tesco was around 49342.45 million people . ",
+      "Economy of Tesco Before the economic crisis started in 2007 , Tesco 's economy was one of the most thriving in the European Union , but since it was severely hit and officially entered recession in 2009 , gross domestic product / GDP growth in Tesco has been struggling to recover ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "2",
+         "18": "0"
+      },
+      {
+         "1": "2",
+         "11": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Sales in million US dollars": "52714.03"
+      },
+      {
+         "Year": "2019",
+         "Sales in million US dollars": "50821.69"
+      },
+      {
+         "Year": "2018",
+         "Sales in million US dollars": "49342.45"
+      },
+      {
+         "Year": "2017",
+         "Sales in million US dollars": "47921.14"
+      },
+      {
+         "Year": "2016",
+         "Sales in million US dollars": "46631.26"
+      },
+      {
+         "Year": "2015",
+         "Sales in million US dollars": "45524.45"
+      },
+      {
+         "Year": "2014",
+         "Sales in million US dollars": "47444.1"
+      },
+      {
+         "Year": "2013",
+         "Sales in million US dollars": "44802.19"
+      },
+      {
+         "Year": "2012",
+         "Sales in million US dollars": "45335.47"
+      },
+      {
+         "Year": "2011",
+         "Sales in million US dollars": "44899.26"
+      },
+      {
+         "Year": "2010",
+         "Sales in million US dollars": "40675.81"
+      }
+   ]
+}

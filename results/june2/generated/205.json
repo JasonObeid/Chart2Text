@@ -1,0 +1,61 @@
+{
+   "title": "Southwest Airlines - available seat miles 2011 to 2019",
+   "xAxis": "Year",
+   "yAxis": "ASMs in billions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows Southwest billions in the Southwest Airlines from 2011 to 2019 . ",
+      "In 2016 , Southwest billions numbers to the Southwest Airlines grew by 6.3 billions , while it was expected to grow by 157.25 in 2019 . ",
+      "By 2020 , the Southwest Airlines is expected to have around 4.3 billions of Southwest tourism ."
+   ],
+   "trends": [
+      {
+         "10": "8",
+         "12": "0"
+      },
+      {
+         "1": "3",
+         "21": "0",
+         "22": "0",
+         "24": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "ASMs in billions": "157.25"
+      },
+      {
+         "Year": "2018",
+         "ASMs in billions": "159.8"
+      },
+      {
+         "Year": "2017",
+         "ASMs in billions": "153.81"
+      },
+      {
+         "Year": "2016",
+         "ASMs in billions": "148.52"
+      },
+      {
+         "Year": "2015",
+         "ASMs in billions": "140.5"
+      },
+      {
+         "Year": "2014",
+         "ASMs in billions": "131.0"
+      },
+      {
+         "Year": "2013",
+         "ASMs in billions": "130.34"
+      },
+      {
+         "Year": "2012",
+         "ASMs in billions": "128.14"
+      },
+      {
+         "Year": "2011",
+         "ASMs in billions": "120.58"
+      }
+   ]
+}

@@ -1,0 +1,55 @@
+{
+   "title": "Banco Santander : customer numbers globally 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of customers in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the numbers globally of Banco and Santander to 2012 in Banco Santander from 2012 to 2018 , with a forecast for 2019 . ",
+      "Over this period , the globally of the Banco and Santander industry to 2012 in Banco Santander grew , reaching around 133.0 millions Turkish liras in 2017 ."
+   ],
+   "trends": [
+      {
+         "15": "7",
+         "17": "1",
+         "23": "0"
+      },
+      {
+         "20": "2",
+         "25": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of customers in millions": "145.0"
+      },
+      {
+         "Year": "2018",
+         "Number of customers in millions": "144.0"
+      },
+      {
+         "Year": "2017",
+         "Number of customers in millions": "133.0"
+      },
+      {
+         "Year": "2016",
+         "Number of customers in millions": "125.0"
+      },
+      {
+         "Year": "2015",
+         "Number of customers in millions": "121.0"
+      },
+      {
+         "Year": "2014",
+         "Number of customers in millions": "117.0"
+      },
+      {
+         "Year": "2013",
+         "Number of customers in millions": "106.6"
+      },
+      {
+         "Year": "2012",
+         "Number of customers in millions": "102.1"
+      }
+   ]
+}

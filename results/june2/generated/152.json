@@ -1,0 +1,66 @@
+{
+   "title": "Gross domestic product ( GDP ) at current prices in Denmark 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "GDP in million Danish kroner",
+   "graphType": "line",
+   "summary": [
+      "Denmark is a multinational pharmaceutical company based out of Basel , Switzerland . ",
+      "In 2018 , the company saw its greatest GDP of million in recent history with 2245954 million working for the company . ",
+      "This is an decrease from 2017 when the company had over 125,000 million ."
+   ],
+   "trends": [
+      {
+         "1": "10",
+         "15": "10"
+      },
+      {
+         "5": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2008",
+         "GDP in million Danish kroner": "1801470"
+      },
+      {
+         "Year": "2009",
+         "GDP in million Danish kroner": "1722143"
+      },
+      {
+         "Year": "2010",
+         "GDP in million Danish kroner": "1810926"
+      },
+      {
+         "Year": "2011",
+         "GDP in million Danish kroner": "1846854"
+      },
+      {
+         "Year": "2012",
+         "GDP in million Danish kroner": "1895002"
+      },
+      {
+         "Year": "2013",
+         "GDP in million Danish kroner": "1929677"
+      },
+      {
+         "Year": "2014",
+         "GDP in million Danish kroner": "1981165"
+      },
+      {
+         "Year": "2015",
+         "GDP in million Danish kroner": "2036356"
+      },
+      {
+         "Year": "2016",
+         "GDP in million Danish kroner": "2107808"
+      },
+      {
+         "Year": "2017",
+         "GDP in million Danish kroner": "2175106"
+      },
+      {
+         "Year": "2018",
+         "GDP in million Danish kroner": "2245954"
+      }
+   ]
+}

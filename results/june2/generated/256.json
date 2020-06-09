@@ -1,0 +1,50 @@
+{
+   "title": "Revenue of the UEFA European Championships 1992 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the 2016 Revenue of UEFA European Championships market mergers and acquisitions ( UEFA European Championships Championships A ) 2016 from 1992 Sweden to 2016 France . ",
+      "In 1996 England , based on the values of disclosed 1992 , the UEFA European Championships 's Championships A deals amounted to 1390.9 million euros ."
+   ],
+   "trends": [
+      {
+         "19": "6",
+         "21": "0"
+      },
+      {
+         "1": "5",
+         "20": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016 France",
+         "Revenue in million euros": "1916.0"
+      },
+      {
+         "Year": "2012 Poland & Ukraine",
+         "Revenue in million euros": "1390.9"
+      },
+      {
+         "Year": "2008 Switzerland & Austria",
+         "Revenue in million euros": "1350.9"
+      },
+      {
+         "Year": "2004 Portugal",
+         "Revenue in million euros": "855.2"
+      },
+      {
+         "Year": "2000 Belgium & the Netherlands",
+         "Revenue in million euros": "229.9"
+      },
+      {
+         "Year": "1996 England",
+         "Revenue in million euros": "147.3"
+      },
+      {
+         "Year": "1992 Sweden",
+         "Revenue in million euros": "40.9"
+      }
+   ]
+}

@@ -1,0 +1,32 @@
+{
+   "title": "Retail revenue from smart wearable devices worldwide 2014 and 2019",
+   "xAxis": "Year",
+   "yAxis": "Retail revenue in billion U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the proportion of cars billion a U.S. dollars system installed in 2014 and 2019 . ",
+      "The Retail of U.S. dollars system equipped cars increased from 4.5 billion in 2014 to 53.2 billion in 2019 ."
+   ],
+   "trends": [
+      {
+         "14": "1",
+         "16": "0"
+      },
+      {
+         "10": "1",
+         "13": "1",
+         "15": "0",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Retail revenue in billion U.S. dollars": "53.2"
+      },
+      {
+         "Year": "2014",
+         "Retail revenue in billion U.S. dollars": "4.5"
+      }
+   ]
+}

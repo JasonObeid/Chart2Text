@@ -1,0 +1,67 @@
+{
+   "title": "Total population in Canada 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Total population of Canada from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of Canada amounted to approximately 36.49 millions Inhabitants ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "39.22"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "38.87"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "38.52"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "38.17"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "37.81"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "37.46"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "36.99"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "36.49"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "36.05"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "35.68"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "35.39"
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "title": "Carbon dioxide emissions per person in the U.S. 2019 to 2050",
+   "xAxis": "Year",
+   "yAxis": "Emissions in metric tons of CO2 equivalent/ person",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the estimated Emissions of metric emissions per to person U.S. in from 2019 to 2050 . ",
+      "In 2050 , the Emissions of metric emissions per to person U.S. amounted to approximately 12.5 billion metric emissions , the lowest amount in the provided time interval ."
+   ],
+   "trends": [
+      {
+         "16": "7",
+         "18": "0"
+      },
+      {
+         "1": "0",
+         "15": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2050",
+         "Emissions in metric tons of CO2 equivalent/ person": "12.6"
+      },
+      {
+         "Year": "2045",
+         "Emissions in metric tons of CO2 equivalent/ person": "12.5"
+      },
+      {
+         "Year": "2040",
+         "Emissions in metric tons of CO2 equivalent/ person": "12.6"
+      },
+      {
+         "Year": "2035",
+         "Emissions in metric tons of CO2 equivalent/ person": "12.8"
+      },
+      {
+         "Year": "2030",
+         "Emissions in metric tons of CO2 equivalent/ person": "13.1"
+      },
+      {
+         "Year": "2025",
+         "Emissions in metric tons of CO2 equivalent/ person": "13.7"
+      },
+      {
+         "Year": "2020",
+         "Emissions in metric tons of CO2 equivalent/ person": "15.0"
+      },
+      {
+         "Year": "2019",
+         "Emissions in metric tons of CO2 equivalent/ person": "15.5"
+      }
+   ]
+}

@@ -1,0 +1,72 @@
+{
+   "title": "Population growth in Malaysia 2018",
+   "xAxis": "Year",
+   "yAxis": "Population growth compared to previous year",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , the total Population of companies producing Population and Malaysia was approximately 1.35 million compared previous . ",
+      "Between 2011 and 2018 the Population fluctuated . ",
+      "However , prior to 2011 Population was much higher , reaching over 1.69 million previous in 2008 ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "14": "0"
+      },
+      {
+         "1": "7",
+         "3": "0"
+      },
+      {
+         "4": "7",
+         "12": "8",
+         "16": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Population growth compared to previous year": "1.35"
+      },
+      {
+         "Year": "2017",
+         "Population growth compared to previous year": "1.36"
+      },
+      {
+         "Year": "2016",
+         "Population growth compared to previous year": "1.36"
+      },
+      {
+         "Year": "2015",
+         "Population growth compared to previous year": "1.34"
+      },
+      {
+         "Year": "2014",
+         "Population growth compared to previous year": "1.34"
+      },
+      {
+         "Year": "2013",
+         "Population growth compared to previous year": "1.37"
+      },
+      {
+         "Year": "2012",
+         "Population growth compared to previous year": "1.45"
+      },
+      {
+         "Year": "2011",
+         "Population growth compared to previous year": "1.56"
+      },
+      {
+         "Year": "2010",
+         "Population growth compared to previous year": "1.69"
+      },
+      {
+         "Year": "2009",
+         "Population growth compared to previous year": "1.82"
+      },
+      {
+         "Year": "2008",
+         "Population growth compared to previous year": "1.91"
+      }
+   ]
+}

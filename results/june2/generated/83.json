@@ -1,0 +1,54 @@
+{
+   "title": "Active duty U.S Coast Guard personnel numbers from 1995 to 2010",
+   "xAxis": "Year",
+   "yAxis": "Number of Coast Guard personnel",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays a timeline of the Active of duty U.S Coast personnel individual day in the Coast Guard from 1995 to 2010 . ",
+      "In 2007 , individuals saw on average 42426 television commercials or Number personnel day ."
+   ],
+   "trends": [
+      {
+         "20": "7",
+         "22": "0"
+      },
+      {
+         "1": "3",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Number of Coast Guard personnel": "41327"
+      },
+      {
+         "Year": "2009",
+         "Number of Coast Guard personnel": "42426"
+      },
+      {
+         "Year": "2008",
+         "Number of Coast Guard personnel": "41362"
+      },
+      {
+         "Year": "2007",
+         "Number of Coast Guard personnel": "40650"
+      },
+      {
+         "Year": "2006",
+         "Number of Coast Guard personnel": "39980"
+      },
+      {
+         "Year": "2005",
+         "Number of Coast Guard personnel": "39361"
+      },
+      {
+         "Year": "2000",
+         "Number of Coast Guard personnel": "34804"
+      },
+      {
+         "Year": "1995",
+         "Number of Coast Guard personnel": "35582"
+      }
+   ]
+}

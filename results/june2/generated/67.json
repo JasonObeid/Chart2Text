@@ -1,0 +1,67 @@
+{
+   "title": "Attendance at performing arts events in the U.S. 2003 to 2013",
+   "xAxis": "Year",
+   "yAxis": "Attendance in millions",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the events Attendance at performing arts in the 2003 from to 2013 . ",
+      "In 2013 , 73.54 millions people attended a Attendance performing concert at least once . ",
+      "The performing concert industry \u2013 additional information In 2016 , Beyonce and Guns ' N rose were among the most successful performing tours in North America , generating 169.4 millions U.S. dollars and 130.8 millions U.S. dollars , respectively in gross revenue ."
+   ],
+   "trends": [
+      {
+         "14": "10",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Attendance in millions": "73.54"
+      },
+      {
+         "Year": "2012",
+         "Attendance in millions": "74.94"
+      },
+      {
+         "Year": "2011",
+         "Attendance in millions": "77.33"
+      },
+      {
+         "Year": "2010",
+         "Attendance in millions": "74.98"
+      },
+      {
+         "Year": "2009",
+         "Attendance in millions": "77.49"
+      },
+      {
+         "Year": "2008",
+         "Attendance in millions": "76.68"
+      },
+      {
+         "Year": "2007",
+         "Attendance in millions": "80.13"
+      },
+      {
+         "Year": "2006",
+         "Attendance in millions": "82.28"
+      },
+      {
+         "Year": "2005",
+         "Attendance in millions": "84.48"
+      },
+      {
+         "Year": "2004",
+         "Attendance in millions": "85.6"
+      },
+      {
+         "Year": "2003",
+         "Attendance in millions": "86.38"
+      }
+   ]
+}

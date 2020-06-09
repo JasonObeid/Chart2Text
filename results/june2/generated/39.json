@@ -1,0 +1,52 @@
+{
+   "title": "Number of social network users Thailand 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of network users in Thailand from 2017 to 2023 . ",
+      "In 2023 , it is estimated that there will be around 37.2 millions network users in the country , up from 32.1 millions in 2017 ."
+   ],
+   "trends": [
+      {
+         "12": "6",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "11": "0",
+         "22": "6",
+         "25": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of users in millions": "37.2"
+      },
+      {
+         "Year": "2022",
+         "Number of users in millions": "36.3"
+      },
+      {
+         "Year": "2021",
+         "Number of users in millions": "35.6"
+      },
+      {
+         "Year": "2020",
+         "Number of users in millions": "34.7"
+      },
+      {
+         "Year": "2019",
+         "Number of users in millions": "33.8"
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": "33.0"
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": "32.1"
+      }
+   ]
+}

@@ -1,0 +1,30 @@
+{
+   "title": "Market capitalization of the NASDAQ exchange in 1999 and 2013",
+   "xAxis": "Year",
+   "yAxis": "Market cap in billion U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Market of cap billion NASDAQ a subscription in the 1999 in and 2013 . ",
+      "In the presented time period , the Market of cap billion NASDAQ grew from 1.16 billion to 2.54 billion ."
+   ],
+   "trends": [
+      {
+         "16": "0",
+         "18": "1"
+      },
+      {
+         "15": "0",
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1999",
+         "Market cap in billion U.S. dollars": "1.16"
+      },
+      {
+         "Year": "2013",
+         "Market cap in billion U.S. dollars": "2.54"
+      }
+   ]
+}

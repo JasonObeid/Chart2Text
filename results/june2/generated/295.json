@@ -1,0 +1,43 @@
+{
+   "title": "Europe : forecasted distribution of golfers in 2020 , by age group",
+   "xAxis": "Year",
+   "yAxis": "Share of average increase",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Share of average forecasted a distribution golfers 2020 at least once in the by 18 group in the group from 20 or younger to 50 to 60 years . ",
+      "In 50 to 60 years , 42 % of Europe average had attended a distribution golfers 2020 at least once in the by Year ."
+   ],
+   "trends": [
+      {
+         "18": "2",
+         "24": "0",
+         "26": "3"
+      },
+      {
+         "1": "3",
+         "3": "None"
+      }
+   ],
+   "data": [
+      {
+         "Year": "20 or younger",
+         "Share of average increase": "6"
+      },
+      {
+         "Year": "20 to 40 years",
+         "Share of average increase": "11"
+      },
+      {
+         "Year": "40 to 50 years",
+         "Share of average increase": "18"
+      },
+      {
+         "Year": "50 to 60 years",
+         "Share of average increase": "24"
+      },
+      {
+         "Year": "60 or older",
+         "Share of average increase": "42"
+      }
+   ]
+}

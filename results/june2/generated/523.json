@@ -1,0 +1,106 @@
+{
+   "title": "Unemployment rate in Guatemala 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Guatemala from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Guatemala was at approximately 2.75 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "2.75"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "2.73"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "2.68"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "2.83"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "2.51"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "2.72"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "3.02"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "2.77"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "4.13"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "3.5"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "3.31"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "2.84"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "2.8"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "2.89"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "2.99"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "2.97"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "2.81"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "2.85"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "2.78"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "2.9"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "2.92"
+      }
+   ]
+}

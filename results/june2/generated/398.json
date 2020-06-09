@@ -1,0 +1,86 @@
+{
+   "title": "Per capita poultry consumption in Indonesia 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Consumption per capita in kilograms",
+   "graphType": "line",
+   "summary": [
+      "In 2019 , the poultry Consumption per capita in Indonesia was approximately 7.57 kilograms . ",
+      "In 2025 , this was forecasted to reach around 8.39 kilograms per capita . ",
+      "Indonesia 's poultry meat Consumption in 2019 was above the OECD average of that Year ."
+   ],
+   "trends": [
+      {
+         "1": "1",
+         "12": "1"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      },
+      {
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2025",
+         "Consumption per capita in kilograms": "8.39"
+      },
+      {
+         "Year": "2019",
+         "Consumption per capita in kilograms": "7.57"
+      },
+      {
+         "Year": "2018",
+         "Consumption per capita in kilograms": "7.57"
+      },
+      {
+         "Year": "2017",
+         "Consumption per capita in kilograms": "7.68"
+      },
+      {
+         "Year": "2016",
+         "Consumption per capita in kilograms": "7.91"
+      },
+      {
+         "Year": "2015",
+         "Consumption per capita in kilograms": "7.05"
+      },
+      {
+         "Year": "2014",
+         "Consumption per capita in kilograms": "6.81"
+      },
+      {
+         "Year": "2013",
+         "Consumption per capita in kilograms": "6.54"
+      },
+      {
+         "Year": "2012",
+         "Consumption per capita in kilograms": "6.25"
+      },
+      {
+         "Year": "2011",
+         "Consumption per capita in kilograms": "6.07"
+      },
+      {
+         "Year": "2010",
+         "Consumption per capita in kilograms": "5.68"
+      },
+      {
+         "Year": "2009",
+         "Consumption per capita in kilograms": "5.27"
+      },
+      {
+         "Year": "2008",
+         "Consumption per capita in kilograms": "5.17"
+      },
+      {
+         "Year": "2007",
+         "Consumption per capita in kilograms": "5.08"
+      },
+      {
+         "Year": "2006",
+         "Consumption per capita in kilograms": "4.93"
+      }
+   ]
+}

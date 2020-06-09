@@ -1,0 +1,68 @@
+{
+   "title": "Uruguay : poverty headcount ratio at 3.20 U.S. dollars a day 2006 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "graphType": "line",
+   "summary": [
+      "The headcount rate in the Uruguay has been decreasing in the past few years . ",
+      "In 2017 , approximately 0.4 percentage of the Dominicans were living on less than U.S. dollars day per 2006 , almost three-times lower than 2006 , when 3.7 percentage of the country 's population was estimated to live in headcount ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "4": "0",
+         "24": "11",
+         "27": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Percentage of population": "0.4"
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": "0.5"
+      },
+      {
+         "Year": "2015",
+         "Percentage of population": "0.6"
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": "0.7"
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": "0.8"
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": "1.1"
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": "1"
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": "1.3"
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": "1.8"
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": "1.8"
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": "2.9"
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": "3.7"
+      }
+   ]
+}

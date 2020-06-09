@@ -1,0 +1,50 @@
+{
+   "title": "Youth unemployment rate in Northern Ireland ( UK ) 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Northern Ireland from 2013 to 2019 . ",
+      "In 2019 , the Unemployment rate in Northern Ireland was around 7.6 % ."
+   ],
+   "trends": [
+      {
+         "9": "6",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "7.6"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "8.4"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "12.6"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "13.9"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "19.5"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "19.4"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "20.4"
+      }
+   ]
+}

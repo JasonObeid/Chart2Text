@@ -1,0 +1,53 @@
+{
+   "title": "French households savings rate 2010 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Savings rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total Savings of rate savings to 2010 2017 in French from 2010 to 2017 . ",
+      "In 2014 , the Savings of rate savings to 2010 2017 amounted to approximately 14 % rate savings , the lowest amount in the provided time interval ."
+   ],
+   "trends": [
+      {
+         "16": "7",
+         "18": "0"
+      },
+      {
+         "1": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Savings rate": "14.6"
+      },
+      {
+         "Year": "2016",
+         "Savings rate": "14"
+      },
+      {
+         "Year": "2015",
+         "Savings rate": "14.5"
+      },
+      {
+         "Year": "2014",
+         "Savings rate": "14.4"
+      },
+      {
+         "Year": "2013",
+         "Savings rate": "14.3"
+      },
+      {
+         "Year": "2012",
+         "Savings rate": "15.1"
+      },
+      {
+         "Year": "2011",
+         "Savings rate": "15.6"
+      },
+      {
+         "Year": "2010",
+         "Savings rate": "15.8"
+      }
+   ]
+}

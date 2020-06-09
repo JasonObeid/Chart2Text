@@ -1,0 +1,43 @@
+{
+   "title": "Market value of honey in China based on sale price 2008 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Market value in million U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the China based million rate of the China Market value from 2008 to 2015 . ",
+      "The Market value is expected to grow by 380.8 million from 2009 to 2010 ."
+   ],
+   "trends": [
+      {
+         "14": "4",
+         "16": "0"
+      },
+      {
+         "8": "2",
+         "11": "3",
+         "13": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Market value in million U.S. dollars": "553.6"
+      },
+      {
+         "Year": "2011",
+         "Market value in million U.S. dollars": "419.6"
+      },
+      {
+         "Year": "2010",
+         "Market value in million U.S. dollars": "380.8"
+      },
+      {
+         "Year": "2009",
+         "Market value in million U.S. dollars": "348.2"
+      },
+      {
+         "Year": "2008",
+         "Market value in million U.S. dollars": "328.7"
+      }
+   ]
+}

@@ -1,0 +1,46 @@
+{
+   "title": "Average price for a full set of gel toenails in nail salons in the U.S. 2009 to 2014",
+   "xAxis": "Year",
+   "yAxis": "Average price in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Average price for a full set of gel toenails nail in the salons from 2009 to 2014 . ",
+      "toenails nail had a Average price of 34.01 U.S. dollars for a full set in 2009 ."
+   ],
+   "trends": [
+      {
+         "18": "0",
+         "20": "5"
+      },
+      {
+         "7": "5",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2009",
+         "Average price in U.S. dollars": "33.95"
+      },
+      {
+         "Year": "2010",
+         "Average price in U.S. dollars": "37.03"
+      },
+      {
+         "Year": "2011",
+         "Average price in U.S. dollars": "36.63"
+      },
+      {
+         "Year": "2012",
+         "Average price in U.S. dollars": "39.16"
+      },
+      {
+         "Year": "2013",
+         "Average price in U.S. dollars": "34.02"
+      },
+      {
+         "Year": "2014",
+         "Average price in U.S. dollars": "34.01"
+      }
+   ]
+}

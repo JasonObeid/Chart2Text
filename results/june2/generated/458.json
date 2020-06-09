@@ -1,0 +1,83 @@
+{
+   "title": "Fatality rate per 100,000 drivers licensed in the U.S. 1990 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Fatalities per 100,000 licensed drivers",
+   "graphType": "line",
+   "summary": [
+      "In 2017 , about 16.48 babies were born in U.S. , a slight decrease from the Year before . ",
+      "U.S. is the country with the highest Fatalities of 100,000 in the European Union , with over 20 thousand more 100,000 than France , the country with the next highest Fatalities of per 100,000 in Europe . ",
+      "Population growth in U.S. has about 83 million inhabitants , making it the most populous country in Europe ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Fatalities per 100,000 licensed drivers": "16.48"
+      },
+      {
+         "Year": "2016",
+         "Fatalities per 100,000 licensed drivers": "17.05"
+      },
+      {
+         "Year": "2015",
+         "Fatalities per 100,000 licensed drivers": "16.27"
+      },
+      {
+         "Year": "2014",
+         "Fatalities per 100,000 licensed drivers": "15.29"
+      },
+      {
+         "Year": "2013",
+         "Fatalities per 100,000 licensed drivers": "15.5"
+      },
+      {
+         "Year": "2012",
+         "Fatalities per 100,000 licensed drivers": "15.95"
+      },
+      {
+         "Year": "2011",
+         "Fatalities per 100,000 licensed drivers": "15.33"
+      },
+      {
+         "Year": "2010",
+         "Fatalities per 100,000 licensed drivers": "15.71"
+      },
+      {
+         "Year": "2009",
+         "Fatalities per 100,000 licensed drivers": "16.16"
+      },
+      {
+         "Year": "2008",
+         "Fatalities per 100,000 licensed drivers": "17.96"
+      },
+      {
+         "Year": "2007",
+         "Fatalities per 100,000 licensed drivers": "20.05"
+      },
+      {
+         "Year": "2006",
+         "Fatalities per 100,000 licensed drivers": "21.06"
+      },
+      {
+         "Year": "2005",
+         "Fatalities per 100,000 licensed drivers": "21.7"
+      },
+      {
+         "Year": "2000",
+         "Fatalities per 100,000 licensed drivers": "22.0"
+      },
+      {
+         "Year": "1995",
+         "Fatalities per 100,000 licensed drivers": "23.68"
+      },
+      {
+         "Year": "1990",
+         "Fatalities per 100,000 licensed drivers": "26.7"
+      }
+   ]
+}

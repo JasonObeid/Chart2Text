@@ -1,0 +1,66 @@
+{
+   "title": "Canada 's share of global gross domestic product ( GDP ) 2024",
+   "xAxis": "Year",
+   "yAxis": "Share of global GDP",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows Canada 's Share of the global gross domestic product ( GDP ) adjusted for Purchasing Power Parity ( PPP ) from 2014 to 2024 . ",
+      "In 2018 , Canada 's Share of global GDP ( in relation to PPP dollars ) amounted to about 1.36 % ."
+   ],
+   "trends": [
+      {
+         "24": "10",
+         "26": "0"
+      },
+      {
+         "1": "6",
+         "19": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Share of global GDP": "1.23"
+      },
+      {
+         "Year": "2023",
+         "Share of global GDP": "1.25"
+      },
+      {
+         "Year": "2022",
+         "Share of global GDP": "1.27"
+      },
+      {
+         "Year": "2021",
+         "Share of global GDP": "1.3"
+      },
+      {
+         "Year": "2020",
+         "Share of global GDP": "1.32"
+      },
+      {
+         "Year": "2019",
+         "Share of global GDP": "1.34"
+      },
+      {
+         "Year": "2018",
+         "Share of global GDP": "1.36"
+      },
+      {
+         "Year": "2017",
+         "Share of global GDP": "1.38"
+      },
+      {
+         "Year": "2016",
+         "Share of global GDP": "1.39"
+      },
+      {
+         "Year": "2015",
+         "Share of global GDP": "1.42"
+      },
+      {
+         "Year": "2014",
+         "Share of global GDP": "1.46"
+      }
+   ]
+}

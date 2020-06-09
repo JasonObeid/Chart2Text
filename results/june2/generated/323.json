@@ -1,0 +1,88 @@
+{
+   "title": "Boeing 737 - orders 2004 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of aircraft",
+   "graphType": "line",
+   "summary": [
+      "In 2019 , around 69 million aircraft of Number were consumed by Boeing 737 , compared to a high of 1208 million aircraft in 2013 . ",
+      "While the aircraft of airline Number in the Boeing has increased in recent years , it is yet to surpass the levels seen prior to the 2008 recession . ",
+      "Commercial 737 The above figures include all commercial air carriers based in the Boeing who carry cargo and/or passengers on domestic or international flights , and with annual revenue of over 20 billion Boeing dollars ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "4": "0",
+         "20": "6",
+         "24": "6"
+      },
+      {
+         "26": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of aircraft": "69"
+      },
+      {
+         "Year": "2018",
+         "Number of aircraft": "837"
+      },
+      {
+         "Year": "2017",
+         "Number of aircraft": "865"
+      },
+      {
+         "Year": "2016",
+         "Number of aircraft": "701"
+      },
+      {
+         "Year": "2015",
+         "Number of aircraft": "666"
+      },
+      {
+         "Year": "2014",
+         "Number of aircraft": "1196"
+      },
+      {
+         "Year": "2013",
+         "Number of aircraft": "1208"
+      },
+      {
+         "Year": "2012",
+         "Number of aircraft": "1184"
+      },
+      {
+         "Year": "2011",
+         "Number of aircraft": "625"
+      },
+      {
+         "Year": "2010",
+         "Number of aircraft": "508"
+      },
+      {
+         "Year": "2009",
+         "Number of aircraft": "197"
+      },
+      {
+         "Year": "2008",
+         "Number of aircraft": "488"
+      },
+      {
+         "Year": "2007",
+         "Number of aircraft": "850"
+      },
+      {
+         "Year": "2006",
+         "Number of aircraft": "733"
+      },
+      {
+         "Year": "2005",
+         "Number of aircraft": "574"
+      },
+      {
+         "Year": "2004",
+         "Number of aircraft": "152"
+      }
+   ]
+}

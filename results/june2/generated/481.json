@@ -1,0 +1,55 @@
+{
+   "title": "Medicine : Online purchasing in Great Britain 2019 , by demographic",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "graphType": "line",
+   "summary": [
+      "In 2019 , 18 % of Women and around a quarter of Men had purchased Medicine or Online purchasing in the previous 12 months in Online Great Britain . ",
+      "Great purchasing was most common among the 25 to 34-year-old demographic , with 26 % of individuals within this group having made purchases in 2019 . ",
+      "European purchasing Great compared Overall , 29 % of British adults bought Online purchasing in 2019 ."
+   ],
+   "trends": [
+      {
+         "3": "1",
+         "6": "1",
+         "12": "0"
+      },
+      {
+         "13": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "Men",
+         "Share of respondents": "15"
+      },
+      {
+         "Year": "Women",
+         "Share of respondents": "18"
+      },
+      {
+         "Year": "16-24",
+         "Share of respondents": "14"
+      },
+      {
+         "Year": "25-34",
+         "Share of respondents": "16"
+      },
+      {
+         "Year": "35-44",
+         "Share of respondents": "26"
+      },
+      {
+         "Year": "45-54",
+         "Share of respondents": "16"
+      },
+      {
+         "Year": "55-64",
+         "Share of respondents": "15"
+      },
+      {
+         "Year": "65+",
+         "Share of respondents": "12"
+      }
+   ]
+}

@@ -1,0 +1,63 @@
+{
+   "title": "Average ticket price Washington Wizards ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average ticket price for Washington Wizards games of the National Basketball Association from 2006/07 to 2015/16 . ",
+      "In the 2006/07 season , the Average ticket price was 46.83 U.S. dollars . ",
+      "Washington Wizards The Washington Wizards are a franchise of the National Basketball Association ( NBA ) which joined the league as the New Jersey Washington Wizards in 1976 as part of the ABA-NBA merger ."
+   ],
+   "trends": [
+      {
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": "51.21"
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": "32.7"
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": "30.31"
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": "32.24"
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": "23.64"
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": "24.52"
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": "27.21"
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": "29.14"
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": "30.89"
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": "46.83"
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "title": "U.S. tea market : total wholesale value 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales in billion U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the U.S. and tea Sales of total , wholesale and value in the 1990 from to 2018 . ",
+      "U.S. and tea Sales of total , wholesale and value in the U.S. were forecasted to reach 12.66 billion U.S. dollars in 1990 ."
+   ],
+   "trends": [
+      {
+         "18": "7",
+         "20": "0"
+      },
+      {
+         "17": "0",
+         "22": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in billion U.S. dollars": "12.66"
+      },
+      {
+         "Year": "2017",
+         "Sales in billion U.S. dollars": "12.5"
+      },
+      {
+         "Year": "2016",
+         "Sales in billion U.S. dollars": "12.0"
+      },
+      {
+         "Year": "2015",
+         "Sales in billion U.S. dollars": "11.5"
+      },
+      {
+         "Year": "2014",
+         "Sales in billion U.S. dollars": "10.84"
+      },
+      {
+         "Year": "2013",
+         "Sales in billion U.S. dollars": "10.41"
+      },
+      {
+         "Year": "2012",
+         "Sales in billion U.S. dollars": "9.79"
+      },
+      {
+         "Year": "1990",
+         "Sales in billion U.S. dollars": "1.84"
+      }
+   ]
+}

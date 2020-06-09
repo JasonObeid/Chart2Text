@@ -1,0 +1,48 @@
+{
+   "title": "Growth of crowdfunding platforms worldwide 2008 to 2012",
+   "xAxis": "Year",
+   "yAxis": "Growth in the number of CFPs",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the worldwide Growth held by Growth as a percentage of crowdfunding platforms number from 2008 to 2012 . ",
+      "Growth are forecast to account for 60 % of crowdfunding platforms PC number in 2012 , up from just 38 % in 2008 . ",
+      "In 2009 , Apple 's MacBook Air number are expected to total 8.4 million devices ."
+   ],
+   "trends": [
+      {
+         "17": "4",
+         "19": "0"
+      },
+      {
+         "6": "0",
+         "14": "0",
+         "19": "4",
+         "22": "4"
+      },
+      {
+         "1": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Growth in the number of CFPs": "60"
+      },
+      {
+         "Year": "2011",
+         "Growth in the number of CFPs": "54"
+      },
+      {
+         "Year": "2010",
+         "Growth in the number of CFPs": "47"
+      },
+      {
+         "Year": "2009",
+         "Growth in the number of CFPs": "45"
+      },
+      {
+         "Year": "2008",
+         "Growth in the number of CFPs": "38"
+      }
+   ]
+}

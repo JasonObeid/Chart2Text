@@ -1,0 +1,78 @@
+{
+   "title": "Number of arrivals in tourist accommodation Luxembourg 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in thousands",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Number of arrivals thousands in Luxembourg between 2006 and 2018 . ",
+      "In 2018 , around 967.88 arrivals thousands were recorded in Luxembourg . ",
+      "In 2010 Luxembourg was the country with the third-most arrivals thousands and the sixth-most fatalities due to Number worldwide ."
+   ],
+   "trends": [
+      {
+         "11": "12",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "4": "None"
+      },
+      {
+         "1": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of arrivals in thousands": "1139.0"
+      },
+      {
+         "Year": "2017",
+         "Number of arrivals in thousands": "1156.0"
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in thousands": "1161.8"
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in thousands": "1196.1"
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in thousands": "1142.9"
+      },
+      {
+         "Year": "2013",
+         "Number of arrivals in thousands": "1044.3"
+      },
+      {
+         "Year": "2012 ",
+         "Number of arrivals in thousands": "1021.7"
+      },
+      {
+         "Year": "2011",
+         "Number of arrivals in thousands": "935.0"
+      },
+      {
+         "Year": "2010",
+         "Number of arrivals in thousands": "854.72"
+      },
+      {
+         "Year": "2009",
+         "Number of arrivals in thousands": "907.53"
+      },
+      {
+         "Year": "2008",
+         "Number of arrivals in thousands": "936.65"
+      },
+      {
+         "Year": "2007",
+         "Number of arrivals in thousands": "979.21"
+      },
+      {
+         "Year": "2006",
+         "Number of arrivals in thousands": "967.88"
+      }
+   ]
+}

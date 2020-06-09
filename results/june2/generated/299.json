@@ -1,0 +1,42 @@
+{
+   "title": "Forecast for the number of new hotel rooms opening in Europe from 2012 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Number of hotel rooms",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the new of the hotel rooms in the Europe ( ) from 2012 to 2016 and visualises the predicted 'ageing opening ' _ . ",
+      "Over the 20 Year period , the hotel rooms is expected to increase by 1.7 years , the largest increase predicted between 2014 and 2015 at 4727 years ."
+   ],
+   "trends": [
+      {
+         "16": "4",
+         "18": "0"
+      },
+      {
+         "22": "2",
+         "24": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Number of hotel rooms": "34060"
+      },
+      {
+         "Year": "2015",
+         "Number of hotel rooms": "34451"
+      },
+      {
+         "Year": "2014",
+         "Number of hotel rooms": "39178"
+      },
+      {
+         "Year": "2013",
+         "Number of hotel rooms": "30982"
+      },
+      {
+         "Year": "2012",
+         "Number of hotel rooms": "37818"
+      }
+   ]
+}

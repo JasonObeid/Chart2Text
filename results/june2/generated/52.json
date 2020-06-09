@@ -1,0 +1,99 @@
+{
+   "title": "Revenue from used cars in Germany from 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion euros",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows Germany from Revenue the fiscal Year of 2000 to the fiscal Year of 2018 . ",
+      "In the 2018 fiscal Year , Germany generated around 84.7 billion euros in Revenue , up from 82.1 billion euros the previous Year ."
+   ],
+   "trends": [
+      {
+         "11": "18",
+         "17": "0"
+      },
+      {
+         "2": "0",
+         "9": "0",
+         "17": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in billion euros": "84.7"
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion euros": "82.1"
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion euros": "84.62"
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion euros": "77.85"
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion euros": "69.78"
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion euros": "66.81"
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion euros": "62.98"
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion euros": "66.32"
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion euros": "56.54"
+      },
+      {
+         "Year": "2009",
+         "Revenue in billion euros": "51.65"
+      },
+      {
+         "Year": "2008",
+         "Revenue in billion euros": "53.11"
+      },
+      {
+         "Year": "2007",
+         "Revenue in billion euros": "52.6"
+      },
+      {
+         "Year": "2006",
+         "Revenue in billion euros": "55.95"
+      },
+      {
+         "Year": "2005",
+         "Revenue in billion euros": "55.44"
+      },
+      {
+         "Year": "2004",
+         "Revenue in billion euros": "52.22"
+      },
+      {
+         "Year": "2003",
+         "Revenue in billion euros": "55.65"
+      },
+      {
+         "Year": "2002",
+         "Revenue in billion euros": "54.03"
+      },
+      {
+         "Year": "2001",
+         "Revenue in billion euros": "59.92"
+      },
+      {
+         "Year": "2000",
+         "Revenue in billion euros": "59.0"
+      }
+   ]
+}

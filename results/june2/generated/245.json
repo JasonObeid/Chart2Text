@@ -1,0 +1,59 @@
+{
+   "title": "Net income of Southwest Airlines 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "In 2019 , Southwest Airlines reported a Net income figure of about 2300 million U.S. dollars . ",
+      "In general , annual Net income figures report a company 's revenues minus expenses over the course of a Year and are highly affected by both expenses and corporate strategy . ",
+      "Changes between years are often quite variable as they include the expenses incurred in the form of large long-term investments in the expense column in addition to the usual yearly operating costs ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net income in million U.S. dollars": "2300"
+      },
+      {
+         "Year": "2018",
+         "Net income in million U.S. dollars": "2465"
+      },
+      {
+         "Year": "2017",
+         "Net income in million U.S. dollars": "3357"
+      },
+      {
+         "Year": "2016",
+         "Net income in million U.S. dollars": "2183"
+      },
+      {
+         "Year": "2015",
+         "Net income in million U.S. dollars": "2181"
+      },
+      {
+         "Year": "2014",
+         "Net income in million U.S. dollars": "1136"
+      },
+      {
+         "Year": "2013",
+         "Net income in million U.S. dollars": "754"
+      },
+      {
+         "Year": "2012",
+         "Net income in million U.S. dollars": "421"
+      },
+      {
+         "Year": "2011",
+         "Net income in million U.S. dollars": "178"
+      },
+      {
+         "Year": "2010",
+         "Net income in million U.S. dollars": "459"
+      }
+   ]
+}

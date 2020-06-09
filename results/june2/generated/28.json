@@ -1,0 +1,83 @@
+{
+   "title": "France : number of internet users 2000 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Number of internet users in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents France 's Number internet from 2002 through 2016 . ",
+      "In the most recently reported period , the internet company 's Number internet amounted to 55.86 millions US dollars , up from 12.92 millions US dollars in 2004 . ",
+      "That Year , France 's revenue came to 66 millions US dollars ."
+   ],
+   "trends": [
+      {
+         "8": "14",
+         "10": "0"
+      },
+      {
+         "15": "0",
+         "27": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Number of internet users in millions": "55.86"
+      },
+      {
+         "Year": "2015",
+         "Number of internet users in millions": "55.1"
+      },
+      {
+         "Year": "2014",
+         "Number of internet users in millions": "53.7"
+      },
+      {
+         "Year": "2013",
+         "Number of internet users in millions": "52.3"
+      },
+      {
+         "Year": "2012",
+         "Number of internet users in millions": "51.76"
+      },
+      {
+         "Year": "2011",
+         "Number of internet users in millions": "48.23"
+      },
+      {
+         "Year": "2010",
+         "Number of internet users in millions": "48.65"
+      },
+      {
+         "Year": "2009",
+         "Number of internet users in millions": "44.84"
+      },
+      {
+         "Year": "2008",
+         "Number of internet users in millions": "44.04"
+      },
+      {
+         "Year": "2007",
+         "Number of internet users in millions": "40.95"
+      },
+      {
+         "Year": "2006",
+         "Number of internet users in millions": "28.87"
+      },
+      {
+         "Year": "2005",
+         "Number of internet users in millions": "26.25"
+      },
+      {
+         "Year": "2004",
+         "Number of internet users in millions": "23.82"
+      },
+      {
+         "Year": "2003",
+         "Number of internet users in millions": "21.85"
+      },
+      {
+         "Year": "2002",
+         "Number of internet users in millions": "18.13"
+      }
+   ]
+}

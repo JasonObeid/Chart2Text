@@ -1,0 +1,54 @@
+{
+   "title": "Total household waste in England 2010 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Kilograms per person per year",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents a timeline of the Total of household waste per 2017 individual day in the England from 2010 to 2017 . ",
+      "In 2014 , individuals saw on average 425 television commercials or Kilograms 2017 day ."
+   ],
+   "trends": [
+      {
+         "20": "7",
+         "22": "0"
+      },
+      {
+         "1": "3",
+         "7": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Kilograms per person per year": "403"
+      },
+      {
+         "Year": "2016",
+         "Kilograms per person per year": "412"
+      },
+      {
+         "Year": "2015",
+         "Kilograms per person per year": "406"
+      },
+      {
+         "Year": "2014",
+         "Kilograms per person per year": "413"
+      },
+      {
+         "Year": "2013",
+         "Kilograms per person per year": "402"
+      },
+      {
+         "Year": "2012",
+         "Kilograms per person per year": "412"
+      },
+      {
+         "Year": "2011",
+         "Kilograms per person per year": "421"
+      },
+      {
+         "Year": "2010",
+         "Kilograms per person per year": "425"
+      }
+   ]
+}

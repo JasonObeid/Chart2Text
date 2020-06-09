@@ -1,0 +1,39 @@
+{
+   "title": "U.S. rice import volume 2013/14 - 2017/18",
+   "xAxis": "Year",
+   "yAxis": "Imports in thousand metric tons",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the U.S. of rice import volume per day in the U.S. between 2013/14 and 2017/18 , . ",
+      "In this 755 Year period , individuals aged between 11 and 18 2013/14 old volume 787 thousand of rice import per day ."
+   ],
+   "trends": [
+      {
+         "2": "0",
+         "12": "0",
+         "15": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013/14",
+         "Imports in thousand metric tons": "755"
+      },
+      {
+         "Year": "2014/15",
+         "Imports in thousand metric tons": "757"
+      },
+      {
+         "Year": "2015/16",
+         "Imports in thousand metric tons": "768"
+      },
+      {
+         "Year": "2016/17",
+         "Imports in thousand metric tons": "787"
+      },
+      {
+         "Year": "2017/18",
+         "Imports in thousand metric tons": "775"
+      }
+   ]
+}

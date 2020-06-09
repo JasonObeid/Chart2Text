@@ -1,0 +1,46 @@
+{
+   "title": "Distribution of young people according to the age of their first kiss in France 2013",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "graphType": "line",
+   "summary": [
+      "This statistic gives information on the young people of according age in France as of 2019 . ",
+      "During this period of time , it was found that 31 % of according age in the Latin American country were aged between 25 and 34 Under 11 years old ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "26": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "Under 11 years old",
+         "Share of respondents": "16"
+      },
+      {
+         "Year": "11 to 12 years old",
+         "Share of respondents": "12"
+      },
+      {
+         "Year": "13 to 14 years old",
+         "Share of respondents": "31"
+      },
+      {
+         "Year": "15 years old",
+         "Share of respondents": "16"
+      },
+      {
+         "Year": "16 years old",
+         "Share of respondents": "10"
+      },
+      {
+         "Year": "17 years old and over",
+         "Share of respondents": "13"
+      },
+      {
+         "Year": "Is not pronounced",
+         "Share of respondents": "2"
+      }
+   ]
+}

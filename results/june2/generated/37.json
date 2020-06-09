@@ -1,0 +1,79 @@
+{
+   "title": "U.S. residential sector annual solar PV capacity installations 2018",
+   "xAxis": "Year",
+   "yAxis": "Capacity in megawatts",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , the annual of U.S. and calves in the PV was approximately 27 % , a slight decrease from the previous Year . ",
+      "This was the lowest Capacity for the entire period shown in this graph . ",
+      "Despite a small rebound in 2014 and 2015 this constitutes a slow long-term decline of herd sizes ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "14": "13"
+      },
+      {
+         "5": "4",
+         "7": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Capacity in megawatts": "2400"
+      },
+      {
+         "Year": "2017",
+         "Capacity in megawatts": "2227"
+      },
+      {
+         "Year": "2016",
+         "Capacity in megawatts": "2583"
+      },
+      {
+         "Year": "2015",
+         "Capacity in megawatts": "2099"
+      },
+      {
+         "Year": "2014",
+         "Capacity in megawatts": "1231"
+      },
+      {
+         "Year": "2013",
+         "Capacity in megawatts": "792"
+      },
+      {
+         "Year": "2012",
+         "Capacity in megawatts": "494"
+      },
+      {
+         "Year": "2011",
+         "Capacity in megawatts": "304"
+      },
+      {
+         "Year": "2010",
+         "Capacity in megawatts": "246"
+      },
+      {
+         "Year": "2009",
+         "Capacity in megawatts": "164"
+      },
+      {
+         "Year": "2008",
+         "Capacity in megawatts": "82"
+      },
+      {
+         "Year": "2007",
+         "Capacity in megawatts": "58"
+      },
+      {
+         "Year": "2006",
+         "Capacity in megawatts": "38"
+      },
+      {
+         "Year": "2005",
+         "Capacity in megawatts": "27"
+      }
+   ]
+}

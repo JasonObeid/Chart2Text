@@ -1,0 +1,75 @@
+{
+   "title": "Volume of wine produced in Portugal 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Thousands of hectoliters",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , 6.1 thousands of hectoliters were committed wine produced in the Portugal . ",
+      "While this figure has remained relatively steady since 2006 , it has been increasing since 2016 . ",
+      "Firearms in the Portugal Firearms in the Portugal have become a large part of American culture ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "3": "0"
+      },
+      {
+         "8": "12",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Thousands of hectoliters": "6.1"
+      },
+      {
+         "Year": "2017",
+         "Thousands of hectoliters": "6.7"
+      },
+      {
+         "Year": "2016",
+         "Thousands of hectoliters": "6.0"
+      },
+      {
+         "Year": "2015",
+         "Thousands of hectoliters": "7.0"
+      },
+      {
+         "Year": "2014",
+         "Thousands of hectoliters": "6.2"
+      },
+      {
+         "Year": "2013",
+         "Thousands of hectoliters": "6.2"
+      },
+      {
+         "Year": "2012",
+         "Thousands of hectoliters": "6.3"
+      },
+      {
+         "Year": "2011",
+         "Thousands of hectoliters": "5.6"
+      },
+      {
+         "Year": "2010",
+         "Thousands of hectoliters": "7.13"
+      },
+      {
+         "Year": "2009",
+         "Thousands of hectoliters": "5.87"
+      },
+      {
+         "Year": "2008",
+         "Thousands of hectoliters": "5.69"
+      },
+      {
+         "Year": "2007",
+         "Thousands of hectoliters": "6.07"
+      },
+      {
+         "Year": "2006",
+         "Thousands of hectoliters": "7.54"
+      }
+   ]
+}

@@ -1,0 +1,42 @@
+{
+   "title": "Canada : Facebook user penetration 2015 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of population",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the share of internet users in the Canada who were using Canada as of 2018 , sorted age annual . ",
+      "We Are Flint found that 75 % of internet users with age earnings of 18-34 30,000 US dollars per Year used the social networking site ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-34",
+         "Share of population": "75"
+      },
+      {
+         "Year": "35-44",
+         "Share of population": "68"
+      },
+      {
+         "Year": "45-54",
+         "Share of population": "63"
+      },
+      {
+         "Year": "55-64",
+         "Share of population": "47"
+      },
+      {
+         "Year": "65+",
+         "Share of population": "32"
+      },
+      {
+         "Year": "Total",
+         "Share of population": "59"
+      }
+   ]
+}

@@ -1,0 +1,34 @@
+{
+   "title": "U.S. Amazon Prime Day conversion rate 2017 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Conversion rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Conversion rate Amazon Prime Day of the Amazon Prime Day Store from 2017 to 2019 . ",
+      "In the last reported Year , customers spent an estimated 13.5 % rate on in-app purchases , subscriptions and premium appsin the Amazon Prime Day store . ",
+      "Additional information The Amazon Prime Day was launched in 2008 to coincide with Amazon Prime Day 's iPhone 3G release ."
+   ],
+   "trends": [
+      {
+         "13": "2",
+         "15": "0"
+      },
+      {
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Conversion rate": "13.5"
+      },
+      {
+         "Year": "2018",
+         "Conversion rate": "11.6"
+      },
+      {
+         "Year": "2017",
+         "Conversion rate": "11.2"
+      }
+   ]
+}

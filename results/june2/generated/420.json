@@ -1,0 +1,46 @@
+{
+   "title": "Scotland : forecasted median age of population 2014 to 2039",
+   "xAxis": "Year",
+   "yAxis": "Age",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the projected Scotland forecasted Age in the age from 2014 to 2039 . ",
+      "In 2019 , it is estimated that the Scotland forecasted industry will have a Age of around 42.9 % Age ."
+   ],
+   "trends": [
+      {
+         "14": "5",
+         "16": "0"
+      },
+      {
+         "1": "4",
+         "19": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2039",
+         "Age": "45.2"
+      },
+      {
+         "Year": "2034",
+         "Age": "44.3"
+      },
+      {
+         "Year": "2029",
+         "Age": "43.5"
+      },
+      {
+         "Year": "2024",
+         "Age": "42.9"
+      },
+      {
+         "Year": "2019",
+         "Age": "42.4"
+      },
+      {
+         "Year": "2014",
+         "Age": "41.9"
+      }
+   ]
+}

@@ -1,0 +1,113 @@
+{
+   "title": "Number of participants Winter Olympic Games 2014",
+   "xAxis": "Year",
+   "yAxis": "Number of participants",
+   "graphType": "line",
+   "summary": [
+      "In 2014 , there were approximately 2800 thousand people participants in the Winter sector in the Games . ",
+      "Employment in the Winter Olympic \u2013 additional information Employment within the Winter Olympic has shown significant growth since 1924 Chamonix . ",
+      "Each decade , between 1924 Chamonix and 1936 Garmisch-Partenkirchen , there was an increase in the Number of participants which were employed in the Olympic \u2013 increasing by around 300,000 participants each decade ."
+   ],
+   "trends": [
+      {
+         "6": "0"
+      },
+      {
+         "18": "21"
+      },
+      {
+         "4": "21",
+         "6": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014 Sochi",
+         "Number of participants": "2800"
+      },
+      {
+         "Year": "2010 Vancouver",
+         "Number of participants": "2536"
+      },
+      {
+         "Year": "2006 Torino",
+         "Number of participants": "2494"
+      },
+      {
+         "Year": "2002 Salt Lake City",
+         "Number of participants": "2402"
+      },
+      {
+         "Year": "1998 Nagano",
+         "Number of participants": "2180"
+      },
+      {
+         "Year": "1994 Lillehammer",
+         "Number of participants": "1738"
+      },
+      {
+         "Year": "1992 Albertville",
+         "Number of participants": "1801"
+      },
+      {
+         "Year": "1988 Calgary",
+         "Number of participants": "1424"
+      },
+      {
+         "Year": "1984 Sarajevo",
+         "Number of participants": "1273"
+      },
+      {
+         "Year": "1980 Lake Placid",
+         "Number of participants": "1072"
+      },
+      {
+         "Year": "1976 Innsbruck",
+         "Number of participants": "1129"
+      },
+      {
+         "Year": "1972 Sapporo",
+         "Number of participants": "1008"
+      },
+      {
+         "Year": "1968 Grenoble",
+         "Number of participants": "1160"
+      },
+      {
+         "Year": "1964 Innsbruck",
+         "Number of participants": "1094"
+      },
+      {
+         "Year": "1960 Squaw Valley",
+         "Number of participants": "665"
+      },
+      {
+         "Year": "1956 Cortina d'Ampezzo",
+         "Number of participants": "821"
+      },
+      {
+         "Year": "1952 Oslo",
+         "Number of participants": "694"
+      },
+      {
+         "Year": "1948 St. Moritz",
+         "Number of participants": "668"
+      },
+      {
+         "Year": "1936 Garmisch-Partenkirchen",
+         "Number of participants": "668"
+      },
+      {
+         "Year": "1932 Lake Placid",
+         "Number of participants": "252"
+      },
+      {
+         "Year": "1928 St. Moritz",
+         "Number of participants": "461"
+      },
+      {
+         "Year": "1924 Chamonix",
+         "Number of participants": "292"
+      }
+   ]
+}

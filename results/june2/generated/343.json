@@ -1,0 +1,48 @@
+{
+   "title": "Births - number by age of mother 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of children born in thousands",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the number of children enrolled in Canadian colleges in 2018 , mother 2018 . ",
+      "In the academic Year 2018 , around 25038 children aged between 15 to 19 years and 20 to 24 years 15 to 19 years were enrolled in Canadian colleges ."
+   ],
+   "trends": [
+      {
+         "7": "6",
+         "11": "0",
+         "13": "1",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "15 to 19 years",
+         "Number of children born in thousands": "469"
+      },
+      {
+         "Year": "20 to 24 years",
+         "Number of children born in thousands": "3268"
+      },
+      {
+         "Year": "25 to 29 years",
+         "Number of children born in thousands": "9668"
+      },
+      {
+         "Year": "30 to 34 years",
+         "Number of children born in thousands": "15269"
+      },
+      {
+         "Year": "35 to 39 years",
+         "Number of children born in thousands": "19902"
+      },
+      {
+         "Year": "40 to 44 years",
+         "Number of children born in thousands": "20145"
+      },
+      {
+         "Year": "45 to 50 years",
+         "Number of children born in thousands": "25038"
+      }
+   ]
+}

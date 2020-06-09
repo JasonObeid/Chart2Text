@@ -1,0 +1,75 @@
+{
+   "title": "Global mine production of asbestos 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand metric tons",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total global Production of Global mine from 2007 to 2019 . ",
+      "Global mine Production In 2019 , some 2200 thousand metric tons of Global mine was produced globally . ",
+      "The base mine is usually extracted in combination with zinc , silver and copper ."
+   ],
+   "trends": [
+      {
+         "11": "12",
+         "13": "0"
+      },
+      {
+         "4": "0",
+         "7": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in thousand metric tons": "1100"
+      },
+      {
+         "Year": "2018",
+         "Production in thousand metric tons": "1150"
+      },
+      {
+         "Year": "2017",
+         "Production in thousand metric tons": "1170"
+      },
+      {
+         "Year": "2016",
+         "Production in thousand metric tons": "1280"
+      },
+      {
+         "Year": "2015",
+         "Production in thousand metric tons": "2000"
+      },
+      {
+         "Year": "2014",
+         "Production in thousand metric tons": "2020"
+      },
+      {
+         "Year": "2013",
+         "Production in thousand metric tons": "2020"
+      },
+      {
+         "Year": "2012",
+         "Production in thousand metric tons": "1970"
+      },
+      {
+         "Year": "2011",
+         "Production in thousand metric tons": "2030"
+      },
+      {
+         "Year": "2010",
+         "Production in thousand metric tons": "2010"
+      },
+      {
+         "Year": "2009",
+         "Production in thousand metric tons": "2070"
+      },
+      {
+         "Year": "2008",
+         "Production in thousand metric tons": "2090"
+      },
+      {
+         "Year": "2007",
+         "Production in thousand metric tons": "2200"
+      }
+   ]
+}

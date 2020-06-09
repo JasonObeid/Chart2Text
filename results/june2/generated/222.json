@@ -1,0 +1,99 @@
+{
+   "title": "Head value of sheep and lambs in the U.S. 2001 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Value per head in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "According to a survey conducted by the Organization for Economic Cooperation and Development ( OECD ) , the Value of per in U.S. steadily decreased between the years 2001 and 2013 , going from 100 to 92 within twelve years . ",
+      "Nevertheless , this trend was abruptly reverted during the first Year of the Hollande Presidency : the Value of per jumped from 92 in 2002 to 221 in 2012 . ",
+      "The Value of Public per in U.S. have increased during Hollande 's presidency During the first Year of the former French president Fran\u00e7ois Hollande Presidency , the Value of publicly owned per in U.S. also increased at an abrupt pace , going from 928 in 2013 to 1,458 per in 2014 ."
+   ],
+   "trends": [
+      {
+         "28": "16",
+         "30": "4",
+         "34": "16",
+         "36": "15"
+      },
+      {
+         "22": "15",
+         "24": "15",
+         "26": "5",
+         "28": "5"
+      },
+      {
+         "45": "4",
+         "50": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Value per head in U.S. dollars": "203"
+      },
+      {
+         "Year": "2016",
+         "Value per head in U.S. dollars": "202"
+      },
+      {
+         "Year": "2015",
+         "Value per head in U.S. dollars": "214"
+      },
+      {
+         "Year": "2014",
+         "Value per head in U.S. dollars": "188"
+      },
+      {
+         "Year": "2013",
+         "Value per head in U.S. dollars": "177"
+      },
+      {
+         "Year": "2012",
+         "Value per head in U.S. dollars": "221"
+      },
+      {
+         "Year": "2011",
+         "Value per head in U.S. dollars": "170"
+      },
+      {
+         "Year": "2010",
+         "Value per head in U.S. dollars": "135"
+      },
+      {
+         "Year": "2009",
+         "Value per head in U.S. dollars": "133"
+      },
+      {
+         "Year": "2008",
+         "Value per head in U.S. dollars": "138"
+      },
+      {
+         "Year": "2007",
+         "Value per head in U.S. dollars": "134"
+      },
+      {
+         "Year": "2006",
+         "Value per head in U.S. dollars": "141"
+      },
+      {
+         "Year": "2005",
+         "Value per head in U.S. dollars": "130"
+      },
+      {
+         "Year": "2004",
+         "Value per head in U.S. dollars": "119"
+      },
+      {
+         "Year": "2003",
+         "Value per head in U.S. dollars": "104"
+      },
+      {
+         "Year": "2002",
+         "Value per head in U.S. dollars": "92"
+      },
+      {
+         "Year": "2001",
+         "Value per head in U.S. dollars": "100"
+      }
+   ]
+}

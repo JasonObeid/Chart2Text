@@ -1,0 +1,49 @@
+{
+   "title": "Retail sales of the vision care market in the U.S. 2013 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Retail sales in million U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Retail of sales peer to Retail in the market from 2013 to 2015 and a forecast thereof until 2018 . ",
+      "In 2015 , the Retail of sales U.S. Retail amounted to 39767.0 million U.S. and it was predicted to increase 35725.0 million U.S. in 2016 ."
+   ],
+   "trends": [
+      {
+         "15": "5",
+         "17": "3",
+         "23": "0"
+      },
+      {
+         "1": "3",
+         "11": "3",
+         "22": "0",
+         "27": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Retail sales in million U.S. dollars": "35725.0"
+      },
+      {
+         "Year": "2017",
+         "Retail sales in million U.S. dollars": "34782.0"
+      },
+      {
+         "Year": "2016",
+         "Retail sales in million U.S. dollars": "40357.8"
+      },
+      {
+         "Year": "2015",
+         "Retail sales in million U.S. dollars": "39767.0"
+      },
+      {
+         "Year": "2014",
+         "Retail sales in million U.S. dollars": "37595.7"
+      },
+      {
+         "Year": "2013",
+         "Retail sales in million U.S. dollars": "36236.2"
+      }
+   ]
+}

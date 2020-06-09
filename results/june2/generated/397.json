@@ -1,0 +1,99 @@
+{
+   "title": "Number of births in Canada 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of births",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the percentage of births who use the Number in the 2019 from 2001 and 2019 . ",
+      "In the most recent measured Year , 382533 % of Canada births were reported to use the Number at least occasionally , up from 376951 % in 2011 ."
+   ],
+   "trends": [
+      {
+         "15": "18",
+         "17": "0"
+      },
+      {
+         "7": "0",
+         "24": "8",
+         "27": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of births": "382533"
+      },
+      {
+         "Year": "2018",
+         "Number of births": "378848"
+      },
+      {
+         "Year": "2017",
+         "Number of births": "379675"
+      },
+      {
+         "Year": "2016",
+         "Number of births": "383579"
+      },
+      {
+         "Year": "2015",
+         "Number of births": "383315"
+      },
+      {
+         "Year": "2014",
+         "Number of births": "382281"
+      },
+      {
+         "Year": "2013",
+         "Number of births": "381607"
+      },
+      {
+         "Year": "2012",
+         "Number of births": "378840"
+      },
+      {
+         "Year": "2011",
+         "Number of births": "376951"
+      },
+      {
+         "Year": "2010",
+         "Number of births": "379373"
+      },
+      {
+         "Year": "2009",
+         "Number of births": "379290"
+      },
+      {
+         "Year": "2008",
+         "Number of births": "373695"
+      },
+      {
+         "Year": "2007",
+         "Number of births": "360916"
+      },
+      {
+         "Year": "2006",
+         "Number of births": "346082"
+      },
+      {
+         "Year": "2005",
+         "Number of births": "339270"
+      },
+      {
+         "Year": "2004",
+         "Number of births": "337762"
+      },
+      {
+         "Year": "2003",
+         "Number of births": "330523"
+      },
+      {
+         "Year": "2002",
+         "Number of births": "328155"
+      },
+      {
+         "Year": "2001",
+         "Number of births": "327107"
+      }
+   ]
+}

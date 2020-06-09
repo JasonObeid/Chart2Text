@@ -1,0 +1,66 @@
+{
+   "title": "Budget balance in Japan 2024",
+   "xAxis": "Year",
+   "yAxis": "Budget balance in trillion yen",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows Japan balance Budget of the balance 2024 ( trillion ) adjusted for Purchasing Power Parity ( PPP ) from 2014 to 2024 . ",
+      "In 2018 , Japan balance Budget of balance trillion ( in relation to PPP dollars ) amounted to about -17.64 trillion ."
+   ],
+   "trends": [
+      {
+         "24": "10",
+         "26": "0"
+      },
+      {
+         "1": "6",
+         "19": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Budget balance in trillion yen": "-11.67"
+      },
+      {
+         "Year": "2023",
+         "Budget balance in trillion yen": "-10.46"
+      },
+      {
+         "Year": "2022",
+         "Budget balance in trillion yen": "-10.24"
+      },
+      {
+         "Year": "2021",
+         "Budget balance in trillion yen": "-11.12"
+      },
+      {
+         "Year": "2020",
+         "Budget balance in trillion yen": "-12.25"
+      },
+      {
+         "Year": "2019",
+         "Budget balance in trillion yen": "-16.48"
+      },
+      {
+         "Year": "2018",
+         "Budget balance in trillion yen": "-17.64"
+      },
+      {
+         "Year": "2017",
+         "Budget balance in trillion yen": "-17.27"
+      },
+      {
+         "Year": "2016",
+         "Budget balance in trillion yen": "-19.8"
+      },
+      {
+         "Year": "2015",
+         "Budget balance in trillion yen": "-20.23"
+      },
+      {
+         "Year": "2014",
+         "Budget balance in trillion yen": "-28.96"
+      }
+   ]
+}

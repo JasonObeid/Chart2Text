@@ -1,0 +1,39 @@
+{
+   "title": "Global brand value of Nike from 2016 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Brand value in million U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "General Motors incurred around 28041 million U.S. in R & D costs in 2020 . ",
+      "This figure puts the car manufacturer brand R & D intensity at five million . ",
+      "That said , the company declared interest to enter into cost sharing arrangements with third parties ."
+   ],
+   "trends": [
+      {
+         "4": "4",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Brand value in million U.S. dollars": "34792"
+      },
+      {
+         "Year": "2019",
+         "Brand value in million U.S. dollars": "32421"
+      },
+      {
+         "Year": "2018",
+         "Brand value in million U.S. dollars": "28030"
+      },
+      {
+         "Year": "2017",
+         "Brand value in million U.S. dollars": "31762"
+      },
+      {
+         "Year": "2016",
+         "Brand value in million U.S. dollars": "28041"
+      }
+   ]
+}

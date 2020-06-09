@@ -1,0 +1,45 @@
+{
+   "title": "Share of the population who gave to charity in England 2019 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "graphType": "line",
+   "summary": [
+      "Body modification , especially tattooing , has proven to be very popular over the last few years . ",
+      "In the England alone , 75 and over a quarter of the population is adorned with at least 16 to 24 tattoo , and less 75 and over 40 % of Americans would rule out getting 16 to 24 completely . ",
+      "Most get their first in their twenties , and the vast majority never regrets that first prick of the needle ."
+   ],
+   "trends": [
+      {
+         "5": "5",
+         "16": "0",
+         "21": "5",
+         "30": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "16 to 24",
+         "Share of respondents": "59"
+      },
+      {
+         "Year": "25 to 34",
+         "Share of respondents": "69"
+      },
+      {
+         "Year": "35 to 49",
+         "Share of respondents": "76"
+      },
+      {
+         "Year": "50 to 64",
+         "Share of respondents": "79"
+      },
+      {
+         "Year": "65 to 74",
+         "Share of respondents": "82"
+      },
+      {
+         "Year": "75 and over",
+         "Share of respondents": "83"
+      }
+   ]
+}

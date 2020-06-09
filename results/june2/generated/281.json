@@ -1,0 +1,106 @@
+{
+   "title": "U.S active duty military suicides 1990 to 2010",
+   "xAxis": "Year",
+   "yAxis": "Number of suicides",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the U.S active duty Number suicides in the suicides from 1990 to 2010 . ",
+      "In calendar Year 2009 , the average active Number suicides one of U.S duty was about 302 suicides ."
+   ],
+   "trends": [
+      {
+         "14": "20",
+         "16": "0"
+      },
+      {
+         "3": "1",
+         "17": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Number of suicides": "289"
+      },
+      {
+         "Year": "2009",
+         "Number of suicides": "302"
+      },
+      {
+         "Year": "2008",
+         "Number of suicides": "259"
+      },
+      {
+         "Year": "2007",
+         "Number of suicides": "211"
+      },
+      {
+         "Year": "2006",
+         "Number of suicides": "213"
+      },
+      {
+         "Year": "2005",
+         "Number of suicides": "182"
+      },
+      {
+         "Year": "2004",
+         "Number of suicides": "197"
+      },
+      {
+         "Year": "2003",
+         "Number of suicides": "190"
+      },
+      {
+         "Year": "2002",
+         "Number of suicides": "174"
+      },
+      {
+         "Year": "2001",
+         "Number of suicides": "153"
+      },
+      {
+         "Year": "2000",
+         "Number of suicides": "153"
+      },
+      {
+         "Year": "1999",
+         "Number of suicides": "150"
+      },
+      {
+         "Year": "1998",
+         "Number of suicides": "165"
+      },
+      {
+         "Year": "1997",
+         "Number of suicides": "159"
+      },
+      {
+         "Year": "1996",
+         "Number of suicides": "188"
+      },
+      {
+         "Year": "1995",
+         "Number of suicides": "250"
+      },
+      {
+         "Year": "1994",
+         "Number of suicides": "232"
+      },
+      {
+         "Year": "1993",
+         "Number of suicides": "236"
+      },
+      {
+         "Year": "1992",
+         "Number of suicides": "238"
+      },
+      {
+         "Year": "1991",
+         "Number of suicides": "256"
+      },
+      {
+         "Year": "1990",
+         "Number of suicides": "232"
+      }
+   ]
+}

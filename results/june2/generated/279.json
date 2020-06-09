@@ -1,0 +1,55 @@
+{
+   "title": "Total contribution of travel and tourism to GDP in Saudi Arabia 2012 to 2028",
+   "xAxis": "Year",
+   "yAxis": "Value in billion Saudi Riyal",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the tourism GDP of Total and contribution to Saudi in Saudi Arabia from 2012 to 2018 , with a forecast for 2028 . ",
+      "Over this period , the GDP of the Total and contribution industry to Saudi in Saudi Arabia grew , reaching around 240.9 billion Saudi in 2017 ."
+   ],
+   "trends": [
+      {
+         "15": "7",
+         "17": "1",
+         "23": "0"
+      },
+      {
+         "20": "2",
+         "24": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2028",
+         "Value in billion Saudi Riyal": "573.1"
+      },
+      {
+         "Year": "2018",
+         "Value in billion Saudi Riyal": "258.1"
+      },
+      {
+         "Year": "2017",
+         "Value in billion Saudi Riyal": "240.9"
+      },
+      {
+         "Year": "2016",
+         "Value in billion Saudi Riyal": "228.1"
+      },
+      {
+         "Year": "2015",
+         "Value in billion Saudi Riyal": "232.3"
+      },
+      {
+         "Year": "2014",
+         "Value in billion Saudi Riyal": "215.4"
+      },
+      {
+         "Year": "2013",
+         "Value in billion Saudi Riyal": "21.7"
+      },
+      {
+         "Year": "2012",
+         "Value in billion Saudi Riyal": "209.2"
+      }
+   ]
+}

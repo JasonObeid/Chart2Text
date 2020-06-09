@@ -1,0 +1,38 @@
+{
+   "title": "Global market share of the U.S. athletic and non-athletic footwear retail market 2004 to 2008",
+   "xAxis": "Year",
+   "yAxis": "Global market share",
+   "graphType": "line",
+   "summary": [
+      "In 2004 , there were about 27.3 % market ( here classified as people living in a country in which they were not born in ) U.S. out of a total population of about 5.7 % . ",
+      "market made up a significant share of the population and play a crucial role in U.S. , where the birth rate was among the lowest in the world . ",
+      "U.S. 's immigrant population The immigrant population of U.S. made up slightly more than 40 % of the total population of the country in 2018 ."
+   ],
+   "trends": [
+      {
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2004",
+         "Global market share": "27.3"
+      },
+      {
+         "Year": "2005",
+         "Global market share": "26.6"
+      },
+      {
+         "Year": "2006",
+         "Global market share": "25.7"
+      },
+      {
+         "Year": "2007",
+         "Global market share": "24.6"
+      },
+      {
+         "Year": "2008",
+         "Global market share": "24.3"
+      }
+   ]
+}

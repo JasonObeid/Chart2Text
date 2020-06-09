@@ -1,0 +1,67 @@
+{
+   "title": "Life expectancy at birth in Vietnam 2017",
+   "xAxis": "Year",
+   "yAxis": "Life expectancy at birth in years",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Life expectancy at birth in Vietnam from 2007 to 2017 . ",
+      "In 2017 , the average Life expectancy at birth in Vietnam had reached about 75.24 years.Demographic development in Vietnam \u2013 additional information Life expectancy at birth refers to the average number of years a group of people born in the same Year would live , assuming constant mortality rates . ",
+      "The country with the highest Life expectancy at birth was Japan , while Vietnam had reached a Life expectancy above global average ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Life expectancy at birth in years": "75.24"
+      },
+      {
+         "Year": "2016",
+         "Life expectancy at birth in years": "75.17"
+      },
+      {
+         "Year": "2015",
+         "Life expectancy at birth in years": "75.11"
+      },
+      {
+         "Year": "2014",
+         "Life expectancy at birth in years": "75.06"
+      },
+      {
+         "Year": "2013",
+         "Life expectancy at birth in years": "75.01"
+      },
+      {
+         "Year": "2012",
+         "Life expectancy at birth in years": "74.96"
+      },
+      {
+         "Year": "2011",
+         "Life expectancy at birth in years": "74.9"
+      },
+      {
+         "Year": "2010",
+         "Life expectancy at birth in years": "74.84"
+      },
+      {
+         "Year": "2009",
+         "Life expectancy at birth in years": "74.75"
+      },
+      {
+         "Year": "2008",
+         "Life expectancy at birth in years": "74.63"
+      },
+      {
+         "Year": "2007",
+         "Life expectancy at birth in years": "74.47"
+      }
+   ]
+}

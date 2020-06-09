@@ -1,0 +1,67 @@
+{
+   "title": "Number of employed persons in Switzerland 2020",
+   "xAxis": "Year",
+   "yAxis": "Employed persons in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the size of the Employed persons in Switzerland from 2010 to 2018 , with projections up until 2020 . ",
+      "In 2018 , Switzerland had a Employed persons of around 5.01 millions people ."
+   ],
+   "trends": [
+      {
+         "12": "10",
+         "14": "2",
+         "20": "0"
+      },
+      {
+         "1": "2",
+         "10": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Employed persons in millions": "5.02"
+      },
+      {
+         "Year": "2019",
+         "Employed persons in millions": "4.97"
+      },
+      {
+         "Year": "2018",
+         "Employed persons in millions": "5.06"
+      },
+      {
+         "Year": "2017",
+         "Employed persons in millions": "5.01"
+      },
+      {
+         "Year": "2016",
+         "Employed persons in millions": "4.96"
+      },
+      {
+         "Year": "2015",
+         "Employed persons in millions": "4.9"
+      },
+      {
+         "Year": "2014",
+         "Employed persons in millions": "4.82"
+      },
+      {
+         "Year": "2013",
+         "Employed persons in millions": "4.73"
+      },
+      {
+         "Year": "2012",
+         "Employed persons in millions": "4.67"
+      },
+      {
+         "Year": "2011",
+         "Employed persons in millions": "4.66"
+      },
+      {
+         "Year": "2010",
+         "Employed persons in millions": "4.56"
+      }
+   ]
+}

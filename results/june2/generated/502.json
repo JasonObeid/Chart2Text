@@ -1,0 +1,70 @@
+{
+   "title": "Population growth in Afghanistan 2018",
+   "xAxis": "Year",
+   "yAxis": "Population growth compared to previous year",
+   "graphType": "line",
+   "summary": [
+      "The Population of growth in Afghanistan peaked in 2013 , when almost 3.49 thousand couples got divorced . ",
+      "Since then the divorce Population decreased until 2018 , when it again increased and amounted to almost 2.38 thousand growth . ",
+      "A similar trend can be seen in the neighbor country Norway , where the Population of growth fell for several years but rose again in 2017 ."
+   ],
+   "trends": [
+      {
+         "8": "5",
+         "12": "5"
+      },
+      {
+         "7": "0",
+         "17": "0"
+      },
+      {
+         "25": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Population growth compared to previous year": "2.38"
+      },
+      {
+         "Year": "2017",
+         "Population growth compared to previous year": "2.55"
+      },
+      {
+         "Year": "2016",
+         "Population growth compared to previous year": "2.78"
+      },
+      {
+         "Year": "2015",
+         "Population growth compared to previous year": "3.08"
+      },
+      {
+         "Year": "2014",
+         "Population growth compared to previous year": "3.36"
+      },
+      {
+         "Year": "2013",
+         "Population growth compared to previous year": "3.49"
+      },
+      {
+         "Year": "2012",
+         "Population growth compared to previous year": "3.41"
+      },
+      {
+         "Year": "2011",
+         "Population growth compared to previous year": "3.14"
+      },
+      {
+         "Year": "2010",
+         "Population growth compared to previous year": "2.75"
+      },
+      {
+         "Year": "2009",
+         "Population growth compared to previous year": "2.4"
+      },
+      {
+         "Year": "2008",
+         "Population growth compared to previous year": "2.27"
+      }
+   ]
+}

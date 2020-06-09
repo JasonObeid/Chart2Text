@@ -1,0 +1,43 @@
+{
+   "title": "Chile : gender gap index 2014 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Index score",
+   "graphType": "line",
+   "summary": [
+      "The graph presents the gender gap Index in Chile from 2014 to 2018 . ",
+      "In 2018 , Chile scored 0.72 , which shows a gender gap of approximately 28 % ( women are 28 % less likely than men to have equal opportunities ) . ",
+      "That same Year , the gender gap in the area of political empowerment in Chile amounted to 72 % ."
+   ],
+   "trends": [
+      {
+         "10": "4",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Index score": "0.72"
+      },
+      {
+         "Year": "2017",
+         "Index score": "0.7"
+      },
+      {
+         "Year": "2016",
+         "Index score": "0.7"
+      },
+      {
+         "Year": "2015",
+         "Index score": "0.7"
+      },
+      {
+         "Year": "2014",
+         "Index score": "0.7"
+      }
+   ]
+}

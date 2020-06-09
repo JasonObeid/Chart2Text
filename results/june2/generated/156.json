@@ -1,0 +1,33 @@
+{
+   "title": "Book readers in the U.S. 2019 , by age group",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Share of adults in the U.S. who were using Book as of 2019 , sorted group . ",
+      "During that period of time , 81 % of respondents aged between 18 and 29 years stated that they used the visual blogging site ."
+   ],
+   "trends": [
+      {
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-29",
+         "Share of respondents": "81"
+      },
+      {
+         "Year": "30-49",
+         "Share of respondents": "72"
+      },
+      {
+         "Year": "50-64",
+         "Share of respondents": "67"
+      },
+      {
+         "Year": "65+",
+         "Share of respondents": "68"
+      }
+   ]
+}

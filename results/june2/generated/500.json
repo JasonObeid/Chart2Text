@@ -1,0 +1,61 @@
+{
+   "title": "Annual growth in average global hotel rates 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Year-over-year growth in average hotel rates",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , there were 3.7 million people growth to vote in the Annual . ",
+      "Although this was an increase from 2010 , when 4.7 million people were growth to vote , it 's lower than the peak of 7.4 % growth average in 2011 . ",
+      "Voting requirements While voting laws differ from state to , the basic requirements are the same across the entire country ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "5": "0"
+      },
+      {
+         "6": "8",
+         "9": "8",
+         "24": "7",
+         "29": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Year-over-year growth in average hotel rates": "3.7"
+      },
+      {
+         "Year": "2017",
+         "Year-over-year growth in average hotel rates": "2.5"
+      },
+      {
+         "Year": "2016",
+         "Year-over-year growth in average hotel rates": "2.5"
+      },
+      {
+         "Year": "2015",
+         "Year-over-year growth in average hotel rates": "2.6"
+      },
+      {
+         "Year": "2014",
+         "Year-over-year growth in average hotel rates": "1.8"
+      },
+      {
+         "Year": "2013",
+         "Year-over-year growth in average hotel rates": "0"
+      },
+      {
+         "Year": "2012",
+         "Year-over-year growth in average hotel rates": "-1.5"
+      },
+      {
+         "Year": "2011",
+         "Year-over-year growth in average hotel rates": "7.4"
+      },
+      {
+         "Year": "2010",
+         "Year-over-year growth in average hotel rates": "4.7"
+      }
+   ]
+}

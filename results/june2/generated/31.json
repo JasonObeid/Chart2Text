@@ -1,0 +1,98 @@
+{
+   "title": "Hospitals in Belgium 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of hospitals",
+   "graphType": "line",
+   "summary": [
+      "This statistic charts the Number of hospitals who have obtained a legal divorce and have not remarried in Belgium from 2000 to 2018 . ",
+      "In 2018 , about 174 hospitals Belgium were living in Belgium ."
+   ],
+   "trends": [
+      {
+         "20": "18",
+         "22": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of hospitals": "174"
+      },
+      {
+         "Year": "2017",
+         "Number of hospitals": "175"
+      },
+      {
+         "Year": "2016",
+         "Number of hospitals": "177"
+      },
+      {
+         "Year": "2015",
+         "Number of hospitals": "178"
+      },
+      {
+         "Year": "2014",
+         "Number of hospitals": "187"
+      },
+      {
+         "Year": "2013",
+         "Number of hospitals": "191"
+      },
+      {
+         "Year": "2012",
+         "Number of hospitals": "192"
+      },
+      {
+         "Year": "2011",
+         "Number of hospitals": "195"
+      },
+      {
+         "Year": "2010",
+         "Number of hospitals": "198"
+      },
+      {
+         "Year": "2009",
+         "Number of hospitals": "203"
+      },
+      {
+         "Year": "2008",
+         "Number of hospitals": "209"
+      },
+      {
+         "Year": "2007",
+         "Number of hospitals": "210"
+      },
+      {
+         "Year": "2006",
+         "Number of hospitals": "215"
+      },
+      {
+         "Year": "2005",
+         "Number of hospitals": "216"
+      },
+      {
+         "Year": "2004",
+         "Number of hospitals": "214"
+      },
+      {
+         "Year": "2003",
+         "Number of hospitals": "218"
+      },
+      {
+         "Year": "2002",
+         "Number of hospitals": "219"
+      },
+      {
+         "Year": "2001",
+         "Number of hospitals": "225"
+      },
+      {
+         "Year": "2000",
+         "Number of hospitals": "228"
+      }
+   ]
+}

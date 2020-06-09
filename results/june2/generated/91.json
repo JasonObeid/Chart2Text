@@ -1,0 +1,62 @@
+{
+   "title": "BMW Group - motorcycle production 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Production in units",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows BMW Group units in production 2010 from to 2018 . ",
+      "In 2014 , the units production decreased by 0.6 % compared to the previous Year . ",
+      "production 2010 were forecasted to increase by 162687 million in 2018 ."
+   ],
+   "trends": [
+      {
+         "10": "8",
+         "12": "0"
+      },
+      {
+         "1": "4"
+      },
+      {
+         "7": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Production in units": "162687"
+      },
+      {
+         "Year": "2017",
+         "Production in units": "185682"
+      },
+      {
+         "Year": "2016",
+         "Production in units": "145555"
+      },
+      {
+         "Year": "2015",
+         "Production in units": "151004"
+      },
+      {
+         "Year": "2014",
+         "Production in units": "133615"
+      },
+      {
+         "Year": "2013",
+         "Production in units": "110127"
+      },
+      {
+         "Year": "2012",
+         "Production in units": "113811"
+      },
+      {
+         "Year": "2011",
+         "Production in units": "110360"
+      },
+      {
+         "Year": "2010",
+         "Production in units": "99236"
+      }
+   ]
+}

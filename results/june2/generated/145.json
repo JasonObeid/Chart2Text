@@ -1,0 +1,58 @@
+{
+   "title": "Turnover of Italian fashion company Giorgio Armani 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Turnover in million euros",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , the Italian fashion company Giorgio Group reported a Turnover of almost 1275 million euros . ",
+      "Despite the impressive figure , the Turnover of 2011 represented a decrease for Giorgio compared to the previous years . ",
+      "Indeed , in 2011 , the first Year considered in this graph , the Turnover of the company amounted to approximately 1702 million euros ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "14": "7"
+      },
+      {
+         "8": "7"
+      },
+      {
+         "3": "7",
+         "21": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Turnover in million euros": "1360"
+      },
+      {
+         "Year": "2017",
+         "Turnover in million euros": "1515"
+      },
+      {
+         "Year": "2016",
+         "Turnover in million euros": "1676"
+      },
+      {
+         "Year": "2015",
+         "Turnover in million euros": "1702"
+      },
+      {
+         "Year": "2014",
+         "Turnover in million euros": "1644"
+      },
+      {
+         "Year": "2013",
+         "Turnover in million euros": "1650"
+      },
+      {
+         "Year": "2012",
+         "Turnover in million euros": "1584"
+      },
+      {
+         "Year": "2011",
+         "Turnover in million euros": "1275"
+      }
+   ]
+}

@@ -1,0 +1,74 @@
+{
+   "title": "Population density in North Carolina 1960 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of residents per square mile",
+   "graphType": "line",
+   "summary": [
+      "This graph shows the Population density in the federal state of North Carolina from 1960 to 2018 . ",
+      "In 2018 , the Population density of North Carolina stood at 213.6 residents per square mile of land area ."
+   ],
+   "trends": [
+      {
+         "13": "12",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of residents per square mile": "213.6"
+      },
+      {
+         "Year": "2017",
+         "Number of residents per square mile": "211.3"
+      },
+      {
+         "Year": "2016",
+         "Number of residents per square mile": "208.7"
+      },
+      {
+         "Year": "2015",
+         "Number of residents per square mile": "206.6"
+      },
+      {
+         "Year": "2014",
+         "Number of residents per square mile": "204.5"
+      },
+      {
+         "Year": "2013",
+         "Number of residents per square mile": "202.6"
+      },
+      {
+         "Year": "2012",
+         "Number of residents per square mile": "200.6"
+      },
+      {
+         "Year": "2010",
+         "Number of residents per square mile": "196.1"
+      },
+      {
+         "Year": "2000",
+         "Number of residents per square mile": "165.6"
+      },
+      {
+         "Year": "1990",
+         "Number of residents per square mile": "136.4"
+      },
+      {
+         "Year": "1980",
+         "Number of residents per square mile": "120.9"
+      },
+      {
+         "Year": "1970",
+         "Number of residents per square mile": "104.6"
+      },
+      {
+         "Year": "1960",
+         "Number of residents per square mile": "93.5"
+      }
+   ]
+}

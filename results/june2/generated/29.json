@@ -1,0 +1,142 @@
+{
+   "title": "Employment rate of men in the U.S. 1990 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Employment rate",
+   "graphType": "line",
+   "summary": [
+      "Since 1990 , the Employment rate of men in the U.S. has stayed more or less steady . ",
+      "In 1990 , the female Employment rate was 72 % , and in 2018 , the Employment rate was at 66.6 % . ",
+      "However , it reached a peak in 2000 at 72 % ."
+   ],
+   "trends": [
+      {
+         "8": "29",
+         "20": "0"
+      },
+      {
+         "9": "29"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'19",
+         "Employment rate": "66.6"
+      },
+      {
+         "Year": "'18",
+         "Employment rate": "66.3"
+      },
+      {
+         "Year": "'17",
+         "Employment rate": "66"
+      },
+      {
+         "Year": "'16",
+         "Employment rate": "65.8"
+      },
+      {
+         "Year": "'15",
+         "Employment rate": "65.3"
+      },
+      {
+         "Year": "'14",
+         "Employment rate": "64.9"
+      },
+      {
+         "Year": "'13",
+         "Employment rate": "64.4"
+      },
+      {
+         "Year": "'12",
+         "Employment rate": "64.4"
+      },
+      {
+         "Year": "'11",
+         "Employment rate": "63.9"
+      },
+      {
+         "Year": "'10",
+         "Employment rate": "63.7"
+      },
+      {
+         "Year": "'09",
+         "Employment rate": "64.5"
+      },
+      {
+         "Year": "'08",
+         "Employment rate": "68.5"
+      },
+      {
+         "Year": "'07",
+         "Employment rate": "69.8"
+      },
+      {
+         "Year": "'06",
+         "Employment rate": "70.1"
+      },
+      {
+         "Year": "'05",
+         "Employment rate": "69.6"
+      },
+      {
+         "Year": "'04",
+         "Employment rate": "69.2"
+      },
+      {
+         "Year": "'03",
+         "Employment rate": "68.9"
+      },
+      {
+         "Year": "'02",
+         "Employment rate": "69.7"
+      },
+      {
+         "Year": "'01",
+         "Employment rate": "70.9"
+      },
+      {
+         "Year": "'00",
+         "Employment rate": "71.9"
+      },
+      {
+         "Year": "'99",
+         "Employment rate": "71.6"
+      },
+      {
+         "Year": "'98",
+         "Employment rate": "71.6"
+      },
+      {
+         "Year": "'97",
+         "Employment rate": "71.3"
+      },
+      {
+         "Year": "'96",
+         "Employment rate": "70.9"
+      },
+      {
+         "Year": "'95",
+         "Employment rate": "70.8"
+      },
+      {
+         "Year": "'94",
+         "Employment rate": "70.4"
+      },
+      {
+         "Year": "'93",
+         "Employment rate": "70"
+      },
+      {
+         "Year": "'92",
+         "Employment rate": "69.8"
+      },
+      {
+         "Year": "'91",
+         "Employment rate": "70.4"
+      },
+      {
+         "Year": "'90",
+         "Employment rate": "72"
+      }
+   ]
+}

@@ -1,0 +1,75 @@
+{
+   "title": "Croatia : Number of road deaths 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , 317 individuals were killed in motor vehicle accidents in Croatia . ",
+      "An overall decrease in the Number of road was observed within the time period shown . ",
+      "The highest Number of fatalities in this timeframe occurred in 2007 , with figures nearly twice as high those reported in 2018 ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "3": "0"
+      },
+      {
+         "11": "11",
+         "23": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": "317"
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": "331"
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": "307"
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": "348"
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": "308"
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": "368"
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": "393"
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": "418"
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": "426"
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": "548"
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": "664"
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": "619"
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": "614"
+      }
+   ]
+}

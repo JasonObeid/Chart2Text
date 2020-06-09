@@ -1,0 +1,62 @@
+{
+   "title": "NFL - New England Patriots revenue from ticket sales 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Ticket sales in million U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "According to a national pet owners survey , the Ticket of sales owned as a New by households in the Patriots reached 104 million in 2018 . ",
+      "The Ticket of New sales has fluctuated over the past few years , hitting a low of 93 million in 2010 . ",
+      "Americans love their pets Some 68 million of all households in the Patriots owned at least one New in 2018 , this is an increase of over 10 million since 1988 ."
+   ],
+   "trends": [
+      {
+         "22": "0",
+         "25": "0"
+      },
+      {
+         "17": "8",
+         "20": "8"
+      },
+      {
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Ticket sales in million U.S. dollars": "104"
+      },
+      {
+         "Year": "2017",
+         "Ticket sales in million U.S. dollars": "103"
+      },
+      {
+         "Year": "2016",
+         "Ticket sales in million U.S. dollars": "103"
+      },
+      {
+         "Year": "2015",
+         "Ticket sales in million U.S. dollars": "99"
+      },
+      {
+         "Year": "2014",
+         "Ticket sales in million U.S. dollars": "100"
+      },
+      {
+         "Year": "2013",
+         "Ticket sales in million U.S. dollars": "95"
+      },
+      {
+         "Year": "2012",
+         "Ticket sales in million U.S. dollars": "94"
+      },
+      {
+         "Year": "2011",
+         "Ticket sales in million U.S. dollars": "97"
+      },
+      {
+         "Year": "2010",
+         "Ticket sales in million U.S. dollars": "93"
+      }
+   ]
+}

@@ -1,0 +1,92 @@
+{
+   "title": "Nissan car sales in Europe 2003 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of units sold",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , the Number units in Nissan reached its lowest level since 2003 . ",
+      "Europe 2003 to 2018 , the Number units in Nissan has been fluctuating between more than 313437 births and almost 436169 births for 1,000 sold . ",
+      "The highest Number units in Nissan during this period was recorded in 2006 ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "13": "15"
+      },
+      {
+         "1": "15",
+         "3": "0",
+         "16": "11",
+         "20": "6"
+      },
+      {
+         "12": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of units sold": "487017"
+      },
+      {
+         "Year": "2017",
+         "Number of units sold": "560415"
+      },
+      {
+         "Year": "2016",
+         "Number of units sold": "547343"
+      },
+      {
+         "Year": "2015",
+         "Number of units sold": "554046"
+      },
+      {
+         "Year": "2014",
+         "Number of units sold": "477703"
+      },
+      {
+         "Year": "2013",
+         "Number of units sold": "421134"
+      },
+      {
+         "Year": "2012",
+         "Number of units sold": "436169"
+      },
+      {
+         "Year": "2011",
+         "Number of units sold": "470004"
+      },
+      {
+         "Year": "2010",
+         "Number of units sold": "411084"
+      },
+      {
+         "Year": "2009",
+         "Number of units sold": "372096"
+      },
+      {
+         "Year": "2008",
+         "Number of units sold": "338169"
+      },
+      {
+         "Year": "2007",
+         "Number of units sold": "313437"
+      },
+      {
+         "Year": "2006",
+         "Number of units sold": "332150"
+      },
+      {
+         "Year": "2005",
+         "Number of units sold": "387325"
+      },
+      {
+         "Year": "2004",
+         "Number of units sold": "409717"
+      },
+      {
+         "Year": "2003",
+         "Number of units sold": "409511"
+      }
+   ]
+}

@@ -168,9 +168,9 @@ def replaceTrends(reverse):
             tokens[index] = replacedToken
     newReverse = ' '.join(tokens)
     if newReverse[-2:] == '. ':
-        return newReverse.strip()
+        return newReverse[:-2]
     elif '.' not in newReverse[-2:]:
-        return newReverse.strip() + '.'
+        return newReverse + ' . '
     return newReverse
 
 
@@ -195,8 +195,10 @@ negativeTrends = ['decreased', 'decrease', 'decreasing', 'shrank', 'shrinking', 
                   'dropping']
 fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
            'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', 'with']
+
 analysis = [829, 662, 816, 528, 52, 151, 49, 499, 734, 316, 13, 492, 202, 767, 112]
 count = 0
+lineCount = 0
 
 with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r', encoding='utf-8') as generatedFile \
     , open(dataPath, 'r', encoding='utf-8') as dataFile, open(outputPath, 'w', encoding='utf-8') as outputFile, \
@@ -207,7 +209,6 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
     templates = []
     for gold, goldTemplate, generated, data, title in fileIterators:
         templateList = []
-
         count += 1
         xValueArr = []
         yValueArr = []
@@ -242,6 +243,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
             sentenceTemplates = {}
             reversedTokens = []
             for token, i in zip(tokens, range(0, len(tokens))):
+                templateAxis = ''
                 if i < (len(tokens) - 1):
                     if tokens[i] == tokens[i + 1]:
                         print(f'1:{tokens[i]} 2:{tokens[i + 1]}')
@@ -252,6 +254,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                         #axis = token[-3].lower()
                         idxType = token[-7:-4]
                         if 'templateYValue' in token:
+                            templateAxis = 'x'
                             index = mapParallelIndex(xValueArr, idxType)
                             try:
                                 replacedToken = yValueArr[index].replace('_', ' ')
@@ -259,6 +262,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                                 print(f'{idxType} error at {index} in {title}')
                                 replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
                         elif 'templateXValue' in token:
+                            templateAxis = 'y'
                             index = mapParallelIndex(yValueArr, idxType)
                             try:
                                 replacedToken = xValueArr[index].replace('_', ' ')
@@ -276,6 +280,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                     else:
                         index = str(re.search(r"\[(\w+)\]", token).group(0)).replace('[', '').replace(']', '')
                         if 'templateXValue' in token:
+                            templateAxis = 'x'
                             index = mapIndex(index, xValueArr)
                             if index < len(xValueArr):
                                 replacedToken = xValueArr[index].replace('_', ' ')
@@ -283,6 +288,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                                 print(f'xvalue index error at {index} in {title}')
                                 replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
                         elif 'templateYValue' in token:
+                            templateAxis = 'y'
                             index = mapIndex(index, yValueArr)
                             if index < len(yValueArr):
                                 replacedToken = yValueArr[index].replace('_', ' ')
@@ -328,7 +334,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                             else:
                                 print(f'title index error at {index} in {title}')
                                 replacedToken = titleArr[len(titleArr) - 1]
-                        sentenceTemplates[i] = {token:replacedToken}
+                    sentenceTemplates[i] = {token:(replacedToken, index, templateAxis)}
                 else:
                     replacedToken = token
                 if i > 2:
@@ -343,6 +349,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
             reversedTokens = [item for item in reversedTokens if item != '']
             reverse = ' '.join(reversedTokens)
             reverse = replaceTrends(reverse)
+            # reverse = reverse.replace(' ,', ',').replace(' .', '.').replace(" '", "'")
             reversedSentences.append(reverse)
             templateList.append(sentenceTemplates)
         # remove empty items
@@ -351,15 +358,65 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
 
         comparison = f'Example {count}:\ntitleEntities: {entities}\ntitle: {title}X_Axis{xLabel}: {xValueArr}\nY_Axis{yLabel}: {yValueArr}\n\ngold: {gold}' \
                      f'gold_template: {goldTemplate}\ngenerated_template: {generated}generated: {reverse}\n\n'
-        #print(comparison)
+        # print(comparison)
         comparisonFile.write(comparison)
         outputFile.write(f'{reverse}\n')
         if int(count) in analysis:
             analysisFile.write(comparison)
+        # if are_numbers(cleanXArr):
+        #    cleanXArr = xVal for xVal
+        cleanTemplates = []
+        for sentence in templateList:
+            newSentence = {}
+            for key, val in sentence.items():
+                template = [*val.keys()][0]
+                print(template)
+                if 'templateXValue' in template:
+                    dataIndex = [*val.values()][0][1]
+                    axis = [*val.values()][0][2]
+                    if 'idxmax' in template:
+                        # newSentence[key] = f'{axis}:{dataIndex}'
+                        newSentence[key] = f'{dataIndex}'
+                    elif 'idxmin' in template:
+                        # newSentence[key] = f'{axis}:{dataIndex}'
+                        newSentence[key] = f'{dataIndex}'
+                    elif 'max' in template:
+                        # newSentence[key] = f'{axis}:{dataIndex}'
+                        newSentence[key] = f'{dataIndex}'
+                    elif 'min' in template:
+                        # newSentence[key] = f'{axis}:{dataIndex}'
+                        newSentence[key] = f'{dataIndex}'
+                    else:
+                        # newSentence[key] = f'{axis}:{dataIndex}'
+                        newSentence[key] = f'{dataIndex}'
+                elif 'templateYValue' in template:
+                    dataIndex = [*val.values()][0][1]
+                    axis = [*val.values()][0][2]
+                    if 'idxmax' in template:
+                        # newSentence[key] = f'{axis}:{dataIndex}'
+                        newSentence[key] = f'{dataIndex}'
+                    elif 'idxmin' in template:
+                        # newSentence[key] = f'{axis}:{dataIndex}'
+                        newSentence[key] = f'{dataIndex}'
+                    elif 'max' in template:
+                        # newSentence[key] = f'{axis}:{dataIndex}'
+                        newSentence[key] = f'{dataIndex}'
+                    elif 'min' in template:
+                        # newSentence[key] = f'{axis}:{dataIndex}'
+                        newSentence[key] = f'{dataIndex}'
+                    else:
+                        # newSentence[key] = f'{axis}:{dataIndex}'
+                        newSentence[key] = f'{dataIndex}'
+            if len(newSentence) > 0:
+                print(newSentence)
+                cleanTemplates.append(newSentence)
+        dataJson = [{' '.join(xLabel):xVal, ' '.join(yLabel):yVal} for xVal, yVal in zip(cleanXArr, cleanYArr)]
         websiteInput = {"title":title.strip(), "xAxis":' '.join(xLabel), "yAxis":' '.join(yLabel), \
-                        "graphType":chartType, "summary":reversedSentences, "trends":templateList}
-        with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
-            json.dump(websiteInput, websiteFile, indent=2)
-        data = {' '.join(xLabel):cleanXArr, ' '.join(yLabel):cleanYArr}
-        x = pd.DataFrame(data=data)
-        x.to_csv(f'{newDataPath}/{count}.csv',index=False)
+                        "graphType":chartType, "summary":reversedSentences, "trends":cleanTemplates, "data":dataJson}
+        if chartType == 'line':
+            lineCount += 1
+            with open(f'{websitePath}/{lineCount}.json', 'w', encoding='utf-8') as websiteFile:
+                json.dump(websiteInput, websiteFile, indent=3)
+        #data = {' '.join(xLabel):cleanXArr, ' '.join(yLabel):cleanYArr}
+        #x = pd.DataFrame(data=data)
+        #x.to_csv(f'{newDataPath}/{count}.csv',index=False)

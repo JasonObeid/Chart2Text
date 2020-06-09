@@ -1,0 +1,58 @@
+{
+   "title": "King annual income 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Operating income in million U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the Operating income of King from 2010 to 2018 . ",
+      "In 2018 , King ' Operating income amounted to 750.0 million U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "9": "8",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Operating income in million U.S. dollars": "750.0"
+      },
+      {
+         "Year": "2017",
+         "Operating income in million U.S. dollars": "700.0"
+      },
+      {
+         "Year": "2016",
+         "Operating income in million U.S. dollars": "537.0"
+      },
+      {
+         "Year": "2015",
+         "Operating income in million U.S. dollars": "516.78"
+      },
+      {
+         "Year": "2014",
+         "Operating income in million U.S. dollars": "574.85"
+      },
+      {
+         "Year": "2013",
+         "Operating income in million U.S. dollars": "567.59"
+      },
+      {
+         "Year": "2012",
+         "Operating income in million U.S. dollars": "7.85"
+      },
+      {
+         "Year": "2011",
+         "Operating income in million U.S. dollars": "-1.32"
+      },
+      {
+         "Year": "2010",
+         "Operating income in million U.S. dollars": "1.74"
+      }
+   ]
+}

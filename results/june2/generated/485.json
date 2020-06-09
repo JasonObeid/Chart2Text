@@ -1,0 +1,82 @@
+{
+   "title": "U.S. wholesale sales of beer and wine 2002 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Sales in billion U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This timeline shows the U.S. Sales of in the wholesale from 2002 to 2017 . ",
+      "In 02 , U.S. sales came to 87.56 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "1": "15",
+         "8": "15"
+      }
+   ],
+   "data": [
+      {
+         "Year": "17",
+         "Sales in billion U.S. dollars": "166.31"
+      },
+      {
+         "Year": "16",
+         "Sales in billion U.S. dollars": "161.16"
+      },
+      {
+         "Year": "15",
+         "Sales in billion U.S. dollars": "152.57"
+      },
+      {
+         "Year": "14",
+         "Sales in billion U.S. dollars": "147.34"
+      },
+      {
+         "Year": "13",
+         "Sales in billion U.S. dollars": "145.86"
+      },
+      {
+         "Year": "12",
+         "Sales in billion U.S. dollars": "136.77"
+      },
+      {
+         "Year": "11",
+         "Sales in billion U.S. dollars": "129.43"
+      },
+      {
+         "Year": "10",
+         "Sales in billion U.S. dollars": "122.9"
+      },
+      {
+         "Year": "09",
+         "Sales in billion U.S. dollars": "120.76"
+      },
+      {
+         "Year": "08",
+         "Sales in billion U.S. dollars": "121.58"
+      },
+      {
+         "Year": "07",
+         "Sales in billion U.S. dollars": "115.57"
+      },
+      {
+         "Year": "06",
+         "Sales in billion U.S. dollars": "108.56"
+      },
+      {
+         "Year": "05",
+         "Sales in billion U.S. dollars": "103.91"
+      },
+      {
+         "Year": "04",
+         "Sales in billion U.S. dollars": "96.25"
+      },
+      {
+         "Year": "03",
+         "Sales in billion U.S. dollars": "91.23"
+      },
+      {
+         "Year": "02",
+         "Sales in billion U.S. dollars": "87.56"
+      }
+   ]
+}

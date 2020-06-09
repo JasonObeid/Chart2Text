@@ -1,0 +1,68 @@
+{
+   "title": "Number of books published in the U.S. in the category 'fiction ' 2002 to 2013",
+   "xAxis": "Year",
+   "yAxis": "Number of new books / editions",
+   "graphType": "line",
+   "summary": [
+      "The statistic illustrates the Number of new published U.S. in the category from 2002 to 2013 . ",
+      "In 2013 , about 53590 new in the category were committed published U.S. ."
+   ],
+   "trends": [
+      {
+         "13": "0"
+      },
+      {
+         "4": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2002",
+         "Number of new books / editions": "25102"
+      },
+      {
+         "Year": "2003",
+         "Number of new books / editions": "24666"
+      },
+      {
+         "Year": "2004",
+         "Number of new books / editions": "38832"
+      },
+      {
+         "Year": "2005",
+         "Number of new books / editions": "34927"
+      },
+      {
+         "Year": "2006",
+         "Number of new books / editions": "42777"
+      },
+      {
+         "Year": "2007",
+         "Number of new books / editions": "53590"
+      },
+      {
+         "Year": "2008",
+         "Number of new books / editions": "53058"
+      },
+      {
+         "Year": "2009",
+         "Number of new books / editions": "48738"
+      },
+      {
+         "Year": "2010",
+         "Number of new books / editions": "46641"
+      },
+      {
+         "Year": "2011",
+         "Number of new books / editions": "43016"
+      },
+      {
+         "Year": "2012",
+         "Number of new books / editions": "49853"
+      },
+      {
+         "Year": "2013 (projected)",
+         "Number of new books / editions": "50498"
+      }
+   ]
+}

@@ -1,0 +1,71 @@
+{
+   "title": "Unemployment rate in the Netherlands 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Share of individuals",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Share individuals in Netherlands from 2009 to 2019 . ",
+      "The Share individuals increased to 9 children per woman in 2014 but started to decline since then . ",
+      "In 2019 , the individuals was 4.3 children ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "0"
+      },
+      {
+         "5": "5",
+         "10": "5"
+      },
+      {
+         "1": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Share of individuals": "4.3"
+      },
+      {
+         "Year": "2018",
+         "Share of individuals": "4.8"
+      },
+      {
+         "Year": "2017",
+         "Share of individuals": "5.9"
+      },
+      {
+         "Year": "2016",
+         "Share of individuals": "7.3"
+      },
+      {
+         "Year": "2015",
+         "Share of individuals": "8.6"
+      },
+      {
+         "Year": "2014",
+         "Share of individuals": "9"
+      },
+      {
+         "Year": "2013",
+         "Share of individuals": "8.9"
+      },
+      {
+         "Year": "2012",
+         "Share of individuals": "7.1"
+      },
+      {
+         "Year": "2011",
+         "Share of individuals": "6.1"
+      },
+      {
+         "Year": "2010",
+         "Share of individuals": "6.1"
+      },
+      {
+         "Year": "2009",
+         "Share of individuals": "5.5"
+      }
+   ]
+}

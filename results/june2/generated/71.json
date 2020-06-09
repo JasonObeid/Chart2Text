@@ -1,0 +1,78 @@
+{
+   "title": "Regular season home attendance of the Los Angeles Chargers 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Home attendance",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the total Regular season Home attendance of the Los Angeles Chargers 49ers franchise of the National Football League from 2006 to 2019 . ",
+      "In 2019 , the Regular season Home attendance of the franchise was 177755 ."
+   ],
+   "trends": [
+      {
+         "20": "13",
+         "22": "0"
+      },
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Home attendance": "177755"
+      },
+      {
+         "Year": "2018",
+         "Home attendance": "262145"
+      },
+      {
+         "Year": "2017",
+         "Home attendance": "202687"
+      },
+      {
+         "Year": "2016",
+         "Home attendance": "456197"
+      },
+      {
+         "Year": "2015",
+         "Home attendance": "534180"
+      },
+      {
+         "Year": "2014",
+         "Home attendance": "523457"
+      },
+      {
+         "Year": "2013",
+         "Home attendance": "513641"
+      },
+      {
+         "Year": "2012",
+         "Home attendance": "479716"
+      },
+      {
+         "Year": "2011",
+         "Home attendance": "523143"
+      },
+      {
+         "Year": "2010",
+         "Home attendance": "524240"
+      },
+      {
+         "Year": "2009",
+         "Home attendance": "540344"
+      },
+      {
+         "Year": "2008",
+         "Home attendance": "545104"
+      },
+      {
+         "Year": "2007",
+         "Home attendance": "524016"
+      },
+      {
+         "Year": "2006",
+         "Home attendance": "531024"
+      }
+   ]
+}

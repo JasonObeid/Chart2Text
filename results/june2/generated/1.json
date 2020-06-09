@@ -1,0 +1,66 @@
+{
+   "title": "Urbanization in Belgium 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the degree of Urbanization in Belgium from 2008 to 2018 and details the percentage of the entire population , living in urban areas . ",
+      "In 2018 , 98 % of the total population in Belgium lived in cities ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population in total population": "98"
+      },
+      {
+         "Year": "2017",
+         "Share of urban population in total population": "97.96"
+      },
+      {
+         "Year": "2016",
+         "Share of urban population in total population": "97.92"
+      },
+      {
+         "Year": "2015",
+         "Share of urban population in total population": "97.88"
+      },
+      {
+         "Year": "2014",
+         "Share of urban population in total population": "97.83"
+      },
+      {
+         "Year": "2013",
+         "Share of urban population in total population": "97.79"
+      },
+      {
+         "Year": "2012",
+         "Share of urban population in total population": "97.74"
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": "97.7"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": "97.65"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": "97.6"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": "97.56"
+      }
+   ]
+}

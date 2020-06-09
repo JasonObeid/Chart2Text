@@ -1,0 +1,67 @@
+{
+   "title": "Norway 's budget balance in relation to GDP 2024",
+   "xAxis": "Year",
+   "yAxis": "Budget balance in relation to GDP",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows Norway 's Budget balance in relation to GDP between 2014 and 2018 , with projections up until 2024 . ",
+      "A positive value indicates a Budget surplus , a negative value indicates a trade deficit . ",
+      "In 2018 , Norway 's trade deficit amounted to around 7.23 % of GDP ."
+   ],
+   "trends": [
+      {
+         "12": "10",
+         "14": "6",
+         "20": "0"
+      },
+      {
+         "1": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Budget balance in relation to GDP": "8.6"
+      },
+      {
+         "Year": "2023",
+         "Budget balance in relation to GDP": "8.21"
+      },
+      {
+         "Year": "2022",
+         "Budget balance in relation to GDP": "7.84"
+      },
+      {
+         "Year": "2021",
+         "Budget balance in relation to GDP": "7.75"
+      },
+      {
+         "Year": "2020",
+         "Budget balance in relation to GDP": "7.82"
+      },
+      {
+         "Year": "2019",
+         "Budget balance in relation to GDP": "7.57"
+      },
+      {
+         "Year": "2018",
+         "Budget balance in relation to GDP": "7.25"
+      },
+      {
+         "Year": "2017",
+         "Budget balance in relation to GDP": "4.92"
+      },
+      {
+         "Year": "2016",
+         "Budget balance in relation to GDP": "4.04"
+      },
+      {
+         "Year": "2015",
+         "Budget balance in relation to GDP": "6.07"
+      },
+      {
+         "Year": "2014",
+         "Budget balance in relation to GDP": "8.77"
+      }
+   ]
+}

@@ -1,0 +1,50 @@
+{
+   "title": "New issue volume of U.S. asset-backed securities 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Volume in billion U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , the New total Volume of securities 2000 traded per day was over 547 billion U.S. dollars . ",
+      "This means that every day the market was open , the New amount of U.S. government 2000 bought and sold amounted to half a billion U.S. dollars in that Year . ",
+      "What are securities 2000 ? securities 2000 are U.S. government debt , bonds sold to finance the asset-backed government ."
+   ],
+   "trends": [
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Volume in billion U.S. dollars": "517"
+      },
+      {
+         "Year": "2017",
+         "Volume in billion U.S. dollars": "550"
+      },
+      {
+         "Year": "2016",
+         "Volume in billion U.S. dollars": "325"
+      },
+      {
+         "Year": "2015",
+         "Volume in billion U.S. dollars": "333"
+      },
+      {
+         "Year": "2014",
+         "Volume in billion U.S. dollars": "393"
+      },
+      {
+         "Year": "2010",
+         "Volume in billion U.S. dollars": "126"
+      },
+      {
+         "Year": "2005",
+         "Volume in billion U.S. dollars": "474"
+      },
+      {
+         "Year": "2000",
+         "Volume in billion U.S. dollars": "240"
+      }
+   ]
+}

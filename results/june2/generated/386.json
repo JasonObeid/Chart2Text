@@ -1,0 +1,43 @@
+{
+   "title": "Mexico : number of households 2005 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of households in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of households number a households 2005 2017 at least once in the 2017 31.95 in the 2017 from 2005 to 2017 . ",
+      "In 2017 , 34.07 millions of Mexico households had attended a households 2005 2017 at least once in the 2017 Year ."
+   ],
+   "trends": [
+      {
+         "18": "2",
+         "24": "4",
+         "26": "0"
+      },
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of households in millions": "34.07"
+      },
+      {
+         "Year": "2016",
+         "Number of households in millions": "32.9"
+      },
+      {
+         "Year": "2015",
+         "Number of households in millions": "31.95"
+      },
+      {
+         "Year": "2010",
+         "Number of households in millions": "28.16"
+      },
+      {
+         "Year": "2005",
+         "Number of households in millions": "24.8"
+      }
+   ]
+}

@@ -1,0 +1,140 @@
+{
+   "title": "U.S. : reported robbery cases 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of reported cases",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , the Number reported cases in the U.S. was 282061 of every 1,000 cases . ",
+      "This is a significant decrease from 1990 , when Number reported was at 639270 deaths out of every 1,000s cases . ",
+      "What is Number reported ? The Number reported cases is the number of deaths babies under the age of one cases 1,000 ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "11": "0",
+         "12": "0"
+      },
+      {
+         "6": "28",
+         "13": "28"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of reported cases": "282061"
+      },
+      {
+         "Year": "2017",
+         "Number of reported cases": "320596"
+      },
+      {
+         "Year": "2016",
+         "Number of reported cases": "332797"
+      },
+      {
+         "Year": "2015",
+         "Number of reported cases": "328109"
+      },
+      {
+         "Year": "2014",
+         "Number of reported cases": "322905"
+      },
+      {
+         "Year": "2013",
+         "Number of reported cases": "345093"
+      },
+      {
+         "Year": "2012",
+         "Number of reported cases": "355051"
+      },
+      {
+         "Year": "2011",
+         "Number of reported cases": "354746"
+      },
+      {
+         "Year": "2010",
+         "Number of reported cases": "369089"
+      },
+      {
+         "Year": "2009",
+         "Number of reported cases": "408742"
+      },
+      {
+         "Year": "2008",
+         "Number of reported cases": "443563"
+      },
+      {
+         "Year": "2007",
+         "Number of reported cases": "447324"
+      },
+      {
+         "Year": "2006",
+         "Number of reported cases": "449246"
+      },
+      {
+         "Year": "2005",
+         "Number of reported cases": "417438"
+      },
+      {
+         "Year": "2004",
+         "Number of reported cases": "401470"
+      },
+      {
+         "Year": "2003",
+         "Number of reported cases": "414235"
+      },
+      {
+         "Year": "2002",
+         "Number of reported cases": "420806"
+      },
+      {
+         "Year": "2001",
+         "Number of reported cases": "422921"
+      },
+      {
+         "Year": "2000",
+         "Number of reported cases": "408016"
+      },
+      {
+         "Year": "1999",
+         "Number of reported cases": "409371"
+      },
+      {
+         "Year": "1998",
+         "Number of reported cases": "447186"
+      },
+      {
+         "Year": "1997",
+         "Number of reported cases": "497950"
+      },
+      {
+         "Year": "1996",
+         "Number of reported cases": "535590"
+      },
+      {
+         "Year": "1995",
+         "Number of reported cases": "580510"
+      },
+      {
+         "Year": "1994",
+         "Number of reported cases": "618950"
+      },
+      {
+         "Year": "1993",
+         "Number of reported cases": "659870"
+      },
+      {
+         "Year": "1992",
+         "Number of reported cases": "672480"
+      },
+      {
+         "Year": "1991",
+         "Number of reported cases": "687730"
+      },
+      {
+         "Year": "1990",
+         "Number of reported cases": "639270"
+      }
+   ]
+}

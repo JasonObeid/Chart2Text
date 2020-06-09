@@ -1,0 +1,51 @@
+{
+   "title": "Disneyland Paris visitors spending per day 2006 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Average spend in euros (excluding VAT)",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Average of Paris visitors spend in the Disneyland Paris from 2010 to 2016 . ",
+      "In 2014 , Paris visitors had 50.7 spend open throughout the Disneyland Paris . ",
+      "Paris visitors is an American chain of variety spend that operates in 45 day Disneyland Paris and the District of Columbia ."
+   ],
+   "trends": [
+      {
+         "13": "6",
+         "15": "0"
+      },
+      {
+         "1": "2",
+         "6": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Average spend in euros (excluding VAT)": "54.0"
+      },
+      {
+         "Year": "2015",
+         "Average spend in euros (excluding VAT)": "53.7"
+      },
+      {
+         "Year": "2014",
+         "Average spend in euros (excluding VAT)": "50.7"
+      },
+      {
+         "Year": "2013",
+         "Average spend in euros (excluding VAT)": "48.1"
+      },
+      {
+         "Year": "2012",
+         "Average spend in euros (excluding VAT)": "46.4"
+      },
+      {
+         "Year": "2011",
+         "Average spend in euros (excluding VAT)": "46.2"
+      },
+      {
+         "Year": "2010",
+         "Average spend in euros (excluding VAT)": "45.3"
+      }
+   ]
+}

@@ -1,0 +1,35 @@
+{
+   "title": "Direct tourism contribution of Dubai to GDP of the UAE 2006 to 2026",
+   "xAxis": "Year",
+   "yAxis": "GDP contribution in billion U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the change in the contribution of Direct GDP of people in the Dubai between 2006 and 2026 . ",
+      "Direct GDP do not include groups with high GDP ( 12 billion of the population , starting at 50,000 British pounds in GDP and over ) . ",
+      "In 2006 , the Direct contribution people held in GDP was 4.0 British pounds ."
+   ],
+   "trends": [
+      {
+         "17": "2",
+         "19": "0"
+      },
+      {
+         "1": "2",
+         "11": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2026",
+         "GDP contribution in billion U.S. dollars": "20.9"
+      },
+      {
+         "Year": "2016",
+         "GDP contribution in billion U.S. dollars": "11.4"
+      },
+      {
+         "Year": "2006",
+         "GDP contribution in billion U.S. dollars": "4.0"
+      }
+   ]
+}

@@ -1,0 +1,98 @@
+{
+   "title": "GDP of Manitoba , Canada 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "GDP in million chained 2012 Canadian dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the gross domestic product ( GDP ) of Manitoba from 2000 to 2018 . ",
+      "In 2018 , Manitoba 's GDP was 82.16 million chained 2012 Canadian dollars ."
+   ],
+   "trends": [
+      {
+         "13": "18",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "10": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "GDP in million chained 2012 Canadian dollars": "62862.5"
+      },
+      {
+         "Year": "2017",
+         "GDP in million chained 2012 Canadian dollars": "61932.6"
+      },
+      {
+         "Year": "2016",
+         "GDP in million chained 2012 Canadian dollars": "59966.8"
+      },
+      {
+         "Year": "2015",
+         "GDP in million chained 2012 Canadian dollars": "59082.5"
+      },
+      {
+         "Year": "2014",
+         "GDP in million chained 2012 Canadian dollars": "58276.3"
+      },
+      {
+         "Year": "2013",
+         "GDP in million chained 2012 Canadian dollars": "57169.9"
+      },
+      {
+         "Year": "2012",
+         "GDP in million chained 2012 Canadian dollars": "55676.4"
+      },
+      {
+         "Year": "2011",
+         "GDP in million chained 2012 Canadian dollars": "54057.9"
+      },
+      {
+         "Year": "2010",
+         "GDP in million chained 2012 Canadian dollars": "52841.8"
+      },
+      {
+         "Year": "2009",
+         "GDP in million chained 2012 Canadian dollars": "51522.1"
+      },
+      {
+         "Year": "2008",
+         "GDP in million chained 2012 Canadian dollars": "51668.8"
+      },
+      {
+         "Year": "2007",
+         "GDP in million chained 2012 Canadian dollars": "50017.3"
+      },
+      {
+         "Year": "2006",
+         "GDP in million chained 2012 Canadian dollars": "48918.3"
+      },
+      {
+         "Year": "2005",
+         "GDP in million chained 2012 Canadian dollars": "47127.8"
+      },
+      {
+         "Year": "2004",
+         "GDP in million chained 2012 Canadian dollars": "45727.8"
+      },
+      {
+         "Year": "2003",
+         "GDP in million chained 2012 Canadian dollars": "44494.6"
+      },
+      {
+         "Year": "2002",
+         "GDP in million chained 2012 Canadian dollars": "44031.4"
+      },
+      {
+         "Year": "2001",
+         "GDP in million chained 2012 Canadian dollars": "43301.5"
+      },
+      {
+         "Year": "2000",
+         "GDP in million chained 2012 Canadian dollars": "42734.1"
+      }
+   ]
+}

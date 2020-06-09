@@ -1,0 +1,46 @@
+{
+   "title": "Automobile production - automatic transmission forecast 2010 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Million transmissions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows Automobile production transmissions as a Million of transmissions 2010 from to 2015 . ",
+      "production systems have vastly improved vehicle safety over the evolution of the 2010 , such as airbags and anti-lock braking systems . ",
+      "In 2015 , it is forecasted that on average , electronic systems will account for half of the transmissions price of a new 2010 ."
+   ],
+   "trends": [
+      {
+         "14": "0",
+         "16": "5"
+      },
+      {
+         "1": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Million transmissions": "25.03"
+      },
+      {
+         "Year": "2011",
+         "Million transmissions": "25.36"
+      },
+      {
+         "Year": "2012",
+         "Million transmissions": "26.72"
+      },
+      {
+         "Year": "2013",
+         "Million transmissions": "27.82"
+      },
+      {
+         "Year": "2014",
+         "Million transmissions": "28.46"
+      },
+      {
+         "Year": "2015",
+         "Million transmissions": "28.65"
+      }
+   ]
+}

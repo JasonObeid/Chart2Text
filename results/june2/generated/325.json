@@ -1,0 +1,62 @@
+{
+   "title": "Migration balance in Belgium 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Migration balance",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows Belgium balance in 2010 2018 from 2010 to 2018 . ",
+      "In 2014 , the balance 2010 fell by 0.6 % compared to the previous Year . ",
+      "2010 2018 were forecasted to increase by 50180 million in 2018 ."
+   ],
+   "trends": [
+      {
+         "10": "8",
+         "12": "0"
+      },
+      {
+         "1": "4"
+      },
+      {
+         "7": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Migration balance": "50180"
+      },
+      {
+         "Year": "2017",
+         "Migration balance": "44536"
+      },
+      {
+         "Year": "2016",
+         "Migration balance": "42239"
+      },
+      {
+         "Year": "2015",
+         "Migration balance": "47682"
+      },
+      {
+         "Year": "2014",
+         "Migration balance": "39954"
+      },
+      {
+         "Year": "2013",
+         "Migration balance": "34843"
+      },
+      {
+         "Year": "2012",
+         "Migration balance": "44365"
+      },
+      {
+         "Year": "2011",
+         "Migration balance": "62157"
+      },
+      {
+         "Year": "2010",
+         "Migration balance": "79446"
+      }
+   ]
+}

@@ -1,0 +1,78 @@
+{
+   "title": "Average Fan Cost Index of NFL teams 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Fan Cost Index in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Fan of Cost Index in NFL between 2006 and 2019 . ",
+      "In 2019 , around 540.52 Cost Index were recorded in NFL . ",
+      "In 2006 NFL was the country with the third-most Cost Index and the sixth-most fatalities due to Average worldwide ."
+   ],
+   "trends": [
+      {
+         "11": "12",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      },
+      {
+         "1": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Fan Cost Index in U.S. dollars": "540.52"
+      },
+      {
+         "Year": "2018",
+         "Fan Cost Index in U.S. dollars": "536.04"
+      },
+      {
+         "Year": "2016",
+         "Fan Cost Index in U.S. dollars": "502.84"
+      },
+      {
+         "Year": "2015",
+         "Fan Cost Index in U.S. dollars": "480.89"
+      },
+      {
+         "Year": "2014",
+         "Fan Cost Index in U.S. dollars": "479.11"
+      },
+      {
+         "Year": "2013",
+         "Fan Cost Index in U.S. dollars": "459.73"
+      },
+      {
+         "Year": "2012",
+         "Fan Cost Index in U.S. dollars": "443.93"
+      },
+      {
+         "Year": "2011",
+         "Fan Cost Index in U.S. dollars": "427.42"
+      },
+      {
+         "Year": "2010",
+         "Fan Cost Index in U.S. dollars": "420.54"
+      },
+      {
+         "Year": "2009",
+         "Fan Cost Index in U.S. dollars": "412.64"
+      },
+      {
+         "Year": "2008",
+         "Fan Cost Index in U.S. dollars": "396.36"
+      },
+      {
+         "Year": "2007",
+         "Fan Cost Index in U.S. dollars": "367.31"
+      },
+      {
+         "Year": "2006",
+         "Fan Cost Index in U.S. dollars": "346.16"
+      }
+   ]
+}

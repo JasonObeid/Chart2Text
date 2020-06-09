@@ -1,0 +1,99 @@
+{
+   "title": "Per capita real GDP of Florida 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita real GDP in chained 2012 U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Per capita real Gross Domestic Product of Florida from 2000 to 2018 . ",
+      "In 2018 , the Per capita real GDP of Florida stood at 43423 chained 2012 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "13": "18",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "12": "0",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita real GDP in chained 2012 U.S. dollars": "43423"
+      },
+      {
+         "Year": "2017",
+         "Per capita real GDP in chained 2012 U.S. dollars": "42719"
+      },
+      {
+         "Year": "2016",
+         "Per capita real GDP in chained 2012 U.S. dollars": "42013"
+      },
+      {
+         "Year": "2015",
+         "Per capita real GDP in chained 2012 U.S. dollars": "41491"
+      },
+      {
+         "Year": "2014",
+         "Per capita real GDP in chained 2012 U.S. dollars": "40547"
+      },
+      {
+         "Year": "2013",
+         "Per capita real GDP in chained 2012 U.S. dollars": "40080"
+      },
+      {
+         "Year": "2012",
+         "Per capita real GDP in chained 2012 U.S. dollars": "39806"
+      },
+      {
+         "Year": "2011",
+         "Per capita real GDP in chained 2012 U.S. dollars": "40001"
+      },
+      {
+         "Year": "2010",
+         "Per capita real GDP in chained 2012 U.S. dollars": "40656"
+      },
+      {
+         "Year": "2009",
+         "Per capita real GDP in chained 2012 U.S. dollars": "40652"
+      },
+      {
+         "Year": "2008",
+         "Per capita real GDP in chained 2012 U.S. dollars": "43353"
+      },
+      {
+         "Year": "2007",
+         "Per capita real GDP in chained 2012 U.S. dollars": "45507"
+      },
+      {
+         "Year": "2006",
+         "Per capita real GDP in chained 2012 U.S. dollars": "45926"
+      },
+      {
+         "Year": "2005",
+         "Per capita real GDP in chained 2012 U.S. dollars": "45193"
+      },
+      {
+         "Year": "2004",
+         "Per capita real GDP in chained 2012 U.S. dollars": "43471"
+      },
+      {
+         "Year": "2003",
+         "Per capita real GDP in chained 2012 U.S. dollars": "42074"
+      },
+      {
+         "Year": "2002",
+         "Per capita real GDP in chained 2012 U.S. dollars": "41062"
+      },
+      {
+         "Year": "2001",
+         "Per capita real GDP in chained 2012 U.S. dollars": "40267"
+      },
+      {
+         "Year": "2000",
+         "Per capita real GDP in chained 2012 U.S. dollars": "40049"
+      }
+   ]
+}

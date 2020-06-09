@@ -1,0 +1,67 @@
+{
+   "title": "National debt of India in relation to gross domestic product ( GDP ) 2024",
+   "xAxis": "Year",
+   "yAxis": "National debt to GDP ratio",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the National debt in India from 2014 to 2018 in relation to gross domestic product ( GDP ) , with projections up until 2024 . ",
+      "In 2018 , the National debt of India amounted to about 65.61 % of the gross domestic product ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "26": "0"
+      },
+      {
+         "1": "6",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt to GDP ratio": "65.61"
+      },
+      {
+         "Year": "2023",
+         "National debt to GDP ratio": "66.19"
+      },
+      {
+         "Year": "2022",
+         "National debt to GDP ratio": "66.93"
+      },
+      {
+         "Year": "2021",
+         "National debt to GDP ratio": "67.75"
+      },
+      {
+         "Year": "2020",
+         "National debt to GDP ratio": "68.52"
+      },
+      {
+         "Year": "2019",
+         "National debt to GDP ratio": "69.04"
+      },
+      {
+         "Year": "2018",
+         "National debt to GDP ratio": "68.05"
+      },
+      {
+         "Year": "2017",
+         "National debt to GDP ratio": "67.83"
+      },
+      {
+         "Year": "2016",
+         "National debt to GDP ratio": "67.67"
+      },
+      {
+         "Year": "2015",
+         "National debt to GDP ratio": "68.78"
+      },
+      {
+         "Year": "2014",
+         "National debt to GDP ratio": "66.83"
+      }
+   ]
+}

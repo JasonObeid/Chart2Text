@@ -1,0 +1,50 @@
+{
+   "title": "Global ad spending of Mattel from 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Ad expenditure in million U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Ad of expenditure million in Mattel from 2013 to 2019 . ",
+      "In 2015 , the Ad of expenditure million in Mattel reached 733.2 million ."
+   ],
+   "trends": [
+      {
+         "11": "6",
+         "13": "0"
+      },
+      {
+         "1": "4",
+         "11": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Ad expenditure in million U.S. dollars": "551.5"
+      },
+      {
+         "Year": "2018",
+         "Ad expenditure in million U.S. dollars": "524.3"
+      },
+      {
+         "Year": "2017",
+         "Ad expenditure in million U.S. dollars": "642.3"
+      },
+      {
+         "Year": "2016",
+         "Ad expenditure in million U.S. dollars": "634.9"
+      },
+      {
+         "Year": "2015",
+         "Ad expenditure in million U.S. dollars": "717.85"
+      },
+      {
+         "Year": "2014",
+         "Ad expenditure in million U.S. dollars": "733.2"
+      },
+      {
+         "Year": "2013",
+         "Ad expenditure in million U.S. dollars": "750.2"
+      }
+   ]
+}

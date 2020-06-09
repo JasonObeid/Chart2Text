@@ -1,0 +1,44 @@
+{
+   "title": "Share of U.S. consumers shopping on Black Friday 2015 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "graphType": "line",
+   "summary": [
+      "The figure shows the Share of households consumers shopping Black in U.S. Black Friday from 2015 to 2019 . ",
+      "Over the time period under consideration , shopping oven ownership has decreased from 59 % of respondents in 2015 to 36 % in 2017 ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "15": "4"
+      },
+      {
+         "13": "0",
+         "18": "0",
+         "20": "4",
+         "23": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Share of respondents": "59"
+      },
+      {
+         "Year": "2016",
+         "Share of respondents": "51"
+      },
+      {
+         "Year": "2017",
+         "Share of respondents": "35"
+      },
+      {
+         "Year": "2018",
+         "Share of respondents": "37"
+      },
+      {
+         "Year": "2019",
+         "Share of respondents": "36"
+      }
+   ]
+}

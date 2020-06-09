@@ -1,0 +1,78 @@
+{
+   "title": "Youth unemployment rate in Singapore 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Youth unemployment rate of Singapore from 2005 to 2018 . ",
+      "In 2018 , the Youth unemployment rate in Singapore amounted to 4.2 rate ."
+   ],
+   "trends": [
+      {
+         "10": "13",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Youth unemployment rate": "4.2"
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": "4.6"
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": "4.1"
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": "3.8"
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": "6.3"
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": "6.3"
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": "6.5"
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": "6.7"
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": "7.1"
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": "9.9"
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": "9.2"
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": "8.8"
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": "8.8"
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": "10.7"
+      }
+   ]
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Global R & D expenditure of Puma from 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "R&D expenditure in million euros",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the R&D of expenditure generated through Puma 's Tmall and Taobao & properties during the 24-hour Puma from sales . ",
+      "In 2019 , online shoppers expenditure almost 61.7 million expenditure on online shopping sites . ",
+      "In 2009 , Puma Group created the connection between Puma from and online shopping as the company tried to generate sales for its Tmall unit by offering special pricings and promotions within a 24 hour period ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "R&D expenditure in million euros": "61.7"
+      },
+      {
+         "Year": "2018",
+         "R&D expenditure in million euros": "54.0"
+      },
+      {
+         "Year": "2017",
+         "R&D expenditure in million euros": "53.4"
+      },
+      {
+         "Year": "2016",
+         "R&D expenditure in million euros": "52.0"
+      },
+      {
+         "Year": "2015",
+         "R&D expenditure in million euros": "56.7"
+      },
+      {
+         "Year": "2014",
+         "R&D expenditure in million euros": "46.2"
+      },
+      {
+         "Year": "2013",
+         "R&D expenditure in million euros": "47.9"
+      }
+   ]
+}

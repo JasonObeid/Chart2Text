@@ -1,0 +1,74 @@
+{
+   "title": "Participants in hunting in the U.S. from 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of participants in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of participants in hunting the U.S. from 2006 to 2018 . ",
+      "In 2018 , the Number of participants ( aged six years and older ) in hunting amounted to approximately 15.69 millions ."
+   ],
+   "trends": [
+      {
+         "13": "12",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of participants in millions": "15.69"
+      },
+      {
+         "Year": "2017",
+         "Number of participants in millions": "15.63"
+      },
+      {
+         "Year": "2016",
+         "Number of participants in millions": "15.47"
+      },
+      {
+         "Year": "2015",
+         "Number of participants in millions": "15.53"
+      },
+      {
+         "Year": "2014",
+         "Number of participants in millions": "14.85"
+      },
+      {
+         "Year": "2013",
+         "Number of participants in millions": "13.53"
+      },
+      {
+         "Year": "2012",
+         "Number of participants in millions": "14.71"
+      },
+      {
+         "Year": "2011",
+         "Number of participants in millions": "14.89"
+      },
+      {
+         "Year": "2010",
+         "Number of participants in millions": "14.01"
+      },
+      {
+         "Year": "2009",
+         "Number of participants in millions": "15.27"
+      },
+      {
+         "Year": "2008",
+         "Number of participants in millions": "13.98"
+      },
+      {
+         "Year": "2007",
+         "Number of participants in millions": "14.14"
+      },
+      {
+         "Year": "2006",
+         "Number of participants in millions": "15.1"
+      }
+   ]
+}

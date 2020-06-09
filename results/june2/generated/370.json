@@ -1,0 +1,43 @@
+{
+   "title": "Age distribution of mobile gamers in the U.S. 2013",
+   "xAxis": "Year",
+   "yAxis": "Percentage of respondents",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the share of U.S. distribution gamers in 2013 , . ",
+      "According to cases handled 2013 U.S. harassment support 2013 WHOA , 24 percentage of reporting gamers were between 18-24 and 19 years old ."
+   ],
+   "trends": [
+      {
+         "11": "4",
+         "18": "0",
+         "20": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-24",
+         "Percentage of respondents": "7"
+      },
+      {
+         "Year": "25-34",
+         "Percentage of respondents": "17"
+      },
+      {
+         "Year": "35-44",
+         "Percentage of respondents": "19"
+      },
+      {
+         "Year": "45-54",
+         "Percentage of respondents": "22"
+      },
+      {
+         "Year": "55-64",
+         "Percentage of respondents": "24"
+      },
+      {
+         "Year": "65+",
+         "Percentage of respondents": "11"
+      }
+   ]
+}

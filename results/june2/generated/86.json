@@ -1,0 +1,69 @@
+{
+   "title": "Number of arrivals in tourist accommodation Spain 2006 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in millions",
+   "graphType": "line",
+   "summary": [
+      "In 2017 over 129.4 millions tourist arrivals were recorded at accommodation establishments in Spain . ",
+      "Since 2009 , figures have been steadily increasing , with more and domestic as well international arrivals in Romanian tourist accommodation ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "3": "0"
+      },
+      {
+         "1": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of arrivals in millions": "129.4"
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in millions": "123.5"
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in millions": "114.4"
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in millions": "107.5"
+      },
+      {
+         "Year": "2013",
+         "Number of arrivals in millions": "101.7"
+      },
+      {
+         "Year": "2012",
+         "Number of arrivals in millions": "100.4"
+      },
+      {
+         "Year": "2011",
+         "Number of arrivals in millions": "103.1"
+      },
+      {
+         "Year": "2010",
+         "Number of arrivals in millions": "98.8"
+      },
+      {
+         "Year": "2009",
+         "Number of arrivals in millions": "93.7"
+      },
+      {
+         "Year": "2008",
+         "Number of arrivals in millions": "100.1"
+      },
+      {
+         "Year": "2007",
+         "Number of arrivals in millions": "101.8"
+      },
+      {
+         "Year": "2006",
+         "Number of arrivals in millions": "99.9"
+      }
+   ]
+}

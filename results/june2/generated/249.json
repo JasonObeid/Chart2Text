@@ -1,0 +1,42 @@
+{
+   "title": "Share of aging population Thailand 2015 to 2035",
+   "xAxis": "Year",
+   "yAxis": "Share of population older than 65 years old",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the Share of aging population Thailand per day in the Thailand between 2015 and 2035 , . ",
+      "In this 10.6 Year period , individuals aged between 11 and 18 2035 old Thailand 22.8 population of aging population per day ."
+   ],
+   "trends": [
+      {
+         "15": "4"
+      },
+      {
+         "2": "4",
+         "12": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2035",
+         "Share of population older than 65 years old": "22.8"
+      },
+      {
+         "Year": "2030",
+         "Share of population older than 65 years old": "19.4"
+      },
+      {
+         "Year": "2025",
+         "Share of population older than 65 years old": "16"
+      },
+      {
+         "Year": "2020",
+         "Share of population older than 65 years old": "12.9"
+      },
+      {
+         "Year": "2015",
+         "Share of population older than 65 years old": "10.6"
+      }
+   ]
+}

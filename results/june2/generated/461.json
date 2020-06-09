@@ -1,0 +1,46 @@
+{
+   "title": "Average global hotel rates from 2009 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Average hotel rate in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the global Average of hotel enrolled in Canadian colleges in 2015 , from 2009 2015 . ",
+      "In 2015 , the Average of hotel ( aged six years and older ) in Average was 179 rate ."
+   ],
+   "trends": [
+      {
+         "1": "6",
+         "17": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2009",
+         "Average hotel rate in U.S. dollars": "155"
+      },
+      {
+         "Year": "2010",
+         "Average hotel rate in U.S. dollars": "162"
+      },
+      {
+         "Year": "2011",
+         "Average hotel rate in U.S. dollars": "174"
+      },
+      {
+         "Year": "2012",
+         "Average hotel rate in U.S. dollars": "171"
+      },
+      {
+         "Year": "2013",
+         "Average hotel rate in U.S. dollars": "171"
+      },
+      {
+         "Year": "2014",
+         "Average hotel rate in U.S. dollars": "174"
+      },
+      {
+         "Year": "2015",
+         "Average hotel rate in U.S. dollars": "179"
+      }
+   ]
+}

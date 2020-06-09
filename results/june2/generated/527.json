@@ -1,0 +1,67 @@
+{
+   "title": "Population in Norway 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Population Norway of from 2009 to 2019 . ",
+      "In 2019 , the Norway of 's Population amounted to 5.33 millions Inhabitants . ",
+      "The Syrian refugee crisis The war in Norway has been escalating since 2011 , which has made it difficult to estimate the current Norway of the country ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "5.33"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "5.3"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "5.26"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "5.21"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "5.17"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "5.12"
+      },
+      {
+         "Year": "2013",
+         "Inhabitants in millions": "5.05"
+      },
+      {
+         "Year": "2012",
+         "Inhabitants in millions": "4.99"
+      },
+      {
+         "Year": "2011",
+         "Inhabitants in millions": "4.92"
+      },
+      {
+         "Year": "2010",
+         "Inhabitants in millions": "4.86"
+      },
+      {
+         "Year": "2009",
+         "Inhabitants in millions": "4.8"
+      }
+   ]
+}

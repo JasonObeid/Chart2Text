@@ -1,0 +1,45 @@
+{
+   "title": "Annual levels of brick production in Great Britain ( GB ) 2013 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Production level in million bricks",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Production of adults in Great Britain from 2013 to 2018 . ",
+      "In 2018 , the American company reported Production level to the value of almost 1.15 million bricks from its cold chain Great Britain worldwide ."
+   ],
+   "trends": [
+      {
+         "10": "5",
+         "12": "0"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Production level in million bricks": "2025"
+      },
+      {
+         "Year": "2017",
+         "Production level in million bricks": "1877"
+      },
+      {
+         "Year": "2016",
+         "Production level in million bricks": "1800"
+      },
+      {
+         "Year": "2015",
+         "Production level in million bricks": "1915"
+      },
+      {
+         "Year": "2014",
+         "Production level in million bricks": "1824"
+      },
+      {
+         "Year": "2013",
+         "Production level in million bricks": "1555"
+      }
+   ]
+}

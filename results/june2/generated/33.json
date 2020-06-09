@@ -1,0 +1,70 @@
+{
+   "title": "Number of births in Norway 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of live births",
+   "graphType": "line",
+   "summary": [
+      "The Number of live in Norway peaked in 2013 , when almost 61807 thousand couples got divorced . ",
+      "Since then the divorce Number decreased until 2018 , when it again increased and amounted to almost 55120 thousand live . ",
+      "A similar trend can be seen in the neighbor country Norway , where the Number of live decreased for several years but increased again in 2017 ."
+   ],
+   "trends": [
+      {
+         "8": "5",
+         "12": "9"
+      },
+      {
+         "7": "0",
+         "17": "0"
+      },
+      {
+         "25": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of live births": "55120"
+      },
+      {
+         "Year": "2017",
+         "Number of live births": "56633"
+      },
+      {
+         "Year": "2016",
+         "Number of live births": "58890"
+      },
+      {
+         "Year": "2015",
+         "Number of live births": "59058"
+      },
+      {
+         "Year": "2014",
+         "Number of live births": "59084"
+      },
+      {
+         "Year": "2013",
+         "Number of live births": "58995"
+      },
+      {
+         "Year": "2012",
+         "Number of live births": "60255"
+      },
+      {
+         "Year": "2011",
+         "Number of live births": "60220"
+      },
+      {
+         "Year": "2010",
+         "Number of live births": "61442"
+      },
+      {
+         "Year": "2009",
+         "Number of live births": "61807"
+      },
+      {
+         "Year": "2008",
+         "Number of live births": "60497"
+      }
+   ]
+}

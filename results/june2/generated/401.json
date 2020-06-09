@@ -1,0 +1,67 @@
+{
+   "title": "Budget balance in Mexico in relation to gross domestic product ( GDP ) 2024",
+   "xAxis": "Year",
+   "yAxis": "Budget balance to GDP ratio",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Budget balance in Mexico from 2014 to 2018 in relation to the gross domestic product ( GDP ) , with projections up until 2024 . ",
+      "In 2018 , the state deficit of Mexico amounted to about 6.4 % of gross domestic product . ",
+      "See GDP of Mexico for additional information ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "27": "0"
+      },
+      {
+         "1": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Budget balance to GDP ratio": "-2.4"
+      },
+      {
+         "Year": "2023",
+         "Budget balance to GDP ratio": "-2.3"
+      },
+      {
+         "Year": "2022",
+         "Budget balance to GDP ratio": "-2.3"
+      },
+      {
+         "Year": "2021",
+         "Budget balance to GDP ratio": "-2.2"
+      },
+      {
+         "Year": "2020",
+         "Budget balance to GDP ratio": "-2.6"
+      },
+      {
+         "Year": "2019",
+         "Budget balance to GDP ratio": "-2.8"
+      },
+      {
+         "Year": "2018",
+         "Budget balance to GDP ratio": "-2.2"
+      },
+      {
+         "Year": "2017",
+         "Budget balance to GDP ratio": "-1.07"
+      },
+      {
+         "Year": "2016",
+         "Budget balance to GDP ratio": "-2.77"
+      },
+      {
+         "Year": "2015",
+         "Budget balance to GDP ratio": "-4"
+      },
+      {
+         "Year": "2014",
+         "Budget balance to GDP ratio": "-4.54"
+      }
+   ]
+}

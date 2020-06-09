@@ -1,0 +1,64 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Cyprus 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the Cyprus ' real Gross domestic product ( GDP ) growth rate from 2014 to 2018 , with projections up until 2024 . ",
+      "GDP refers to the total market value of all goods and services that are produced within a country per Year . ",
+      "It is an important indicator of the economic strength of a country ."
+   ],
+   "trends": [
+      {
+         "16": "10",
+         "18": "6",
+         "24": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": "2.51"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "2.46"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "2.61"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "2.71"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "2.89"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "3.11"
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": "3.88"
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": "4.47"
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": "4.81"
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": "1.96"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "-1.31"
+      }
+   ]
+}

@@ -1,0 +1,46 @@
+{
+   "title": "Percentage of population volunteering in the U.S. in 2015 , by age",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population volunteering",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the U.S. population Percentage of U.S. 2015 from 65 years and over to 55 to 64 years . ",
+      "In 25 to 34 years , 28.9 percentage units of U.S. 2015 were sold worldwide ."
+   ],
+   "trends": [
+      {
+         "11": "5",
+         "13": "4"
+      },
+      {
+         "1": "1",
+         "3": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "16 to 24 years",
+         "Percentage of population volunteering": "21.8"
+      },
+      {
+         "Year": "25 to 34 years",
+         "Percentage of population volunteering": "22.3"
+      },
+      {
+         "Year": "35 to 44 years",
+         "Percentage of population volunteering": "28.9"
+      },
+      {
+         "Year": "45 to 54 years",
+         "Percentage of population volunteering": "28"
+      },
+      {
+         "Year": "55 to 64 years",
+         "Percentage of population volunteering": "25.1"
+      },
+      {
+         "Year": "65 years and over",
+         "Percentage of population volunteering": "23.5"
+      }
+   ]
+}

@@ -1,0 +1,139 @@
+{
+   "title": "Wisconsin - Median household income 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Household income in current U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the household income in Wisconsin from 1990 to 2018 . ",
+      "In 2018 , the household income in Wisconsin amounted to 63451 62629 dollars ."
+   ],
+   "trends": [
+      {
+         "10": "28",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "11": "1",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Household income in current U.S. dollars": "62629"
+      },
+      {
+         "Year": "2017",
+         "Household income in current U.S. dollars": "63451"
+      },
+      {
+         "Year": "2016",
+         "Household income in current U.S. dollars": "59817"
+      },
+      {
+         "Year": "2015",
+         "Household income in current U.S. dollars": "55425"
+      },
+      {
+         "Year": "2014",
+         "Household income in current U.S. dollars": "58080"
+      },
+      {
+         "Year": "2013",
+         "Household income in current U.S. dollars": "55258"
+      },
+      {
+         "Year": "2012",
+         "Household income in current U.S. dollars": "53079"
+      },
+      {
+         "Year": "2011",
+         "Household income in current U.S. dollars": "52058"
+      },
+      {
+         "Year": "2010",
+         "Household income in current U.S. dollars": "50351"
+      },
+      {
+         "Year": "2009",
+         "Household income in current U.S. dollars": "51237"
+      },
+      {
+         "Year": "2008",
+         "Household income in current U.S. dollars": "51200"
+      },
+      {
+         "Year": "2007",
+         "Household income in current U.S. dollars": "51277"
+      },
+      {
+         "Year": "2006",
+         "Household income in current U.S. dollars": "51692"
+      },
+      {
+         "Year": "2005",
+         "Household income in current U.S. dollars": "44650"
+      },
+      {
+         "Year": "2004",
+         "Household income in current U.S. dollars": "45732"
+      },
+      {
+         "Year": "2003",
+         "Household income in current U.S. dollars": "46269"
+      },
+      {
+         "Year": "2002",
+         "Household income in current U.S. dollars": "45903"
+      },
+      {
+         "Year": "2001",
+         "Household income in current U.S. dollars": "45346"
+      },
+      {
+         "Year": "2000",
+         "Household income in current U.S. dollars": "45088"
+      },
+      {
+         "Year": "1999",
+         "Household income in current U.S. dollars": "45667"
+      },
+      {
+         "Year": "1998",
+         "Household income in current U.S. dollars": "41327"
+      },
+      {
+         "Year": "1997",
+         "Household income in current U.S. dollars": "39595"
+      },
+      {
+         "Year": "1996",
+         "Household income in current U.S. dollars": "40001"
+      },
+      {
+         "Year": "1995",
+         "Household income in current U.S. dollars": "40955"
+      },
+      {
+         "Year": "1994",
+         "Household income in current U.S. dollars": "35388"
+      },
+      {
+         "Year": "1993",
+         "Household income in current U.S. dollars": "31766"
+      },
+      {
+         "Year": "1992",
+         "Household income in current U.S. dollars": "33308"
+      },
+      {
+         "Year": "1991",
+         "Household income in current U.S. dollars": "31133"
+      },
+      {
+         "Year": "1990",
+         "Household income in current U.S. dollars": "30711"
+      }
+   ]
+}

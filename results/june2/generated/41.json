@@ -1,0 +1,50 @@
+{
+   "title": "Worldwide shipments of headphones 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Unit shipments in millions",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the total Worldwide Unit shipments in the Worldwide from 2013 to 2019 . ",
+      "In 2018 , the Worldwide Unit shipments of the Worldwide is expected to reach 380.7 millions units ."
+   ],
+   "trends": [
+      {
+         "12": "6",
+         "14": "0"
+      },
+      {
+         "1": "1",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unit shipments in millions": "400.0"
+      },
+      {
+         "Year": "2018",
+         "Unit shipments in millions": "380.7"
+      },
+      {
+         "Year": "2017",
+         "Unit shipments in millions": "363.0"
+      },
+      {
+         "Year": "2016",
+         "Unit shipments in millions": "349.0"
+      },
+      {
+         "Year": "2015",
+         "Unit shipments in millions": "331.3"
+      },
+      {
+         "Year": "2014",
+         "Unit shipments in millions": "309.5"
+      },
+      {
+         "Year": "2013",
+         "Unit shipments in millions": "286.0"
+      }
+   ]
+}

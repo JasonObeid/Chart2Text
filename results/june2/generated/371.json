@@ -1,0 +1,67 @@
+{
+   "title": "NASA - budget 2014 to 2024",
+   "xAxis": "Year",
+   "yAxis": "Budget in billion U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows NASA budget billion in U.S. to dollars between 2014 and 2018 , with projections up until 2024 . ",
+      "A positive value indicates a Budget surplus , a negative value indicates a trade deficit . ",
+      "In 2018 , NASA budget trade deficit amounted to around 7.23 billion of dollars ."
+   ],
+   "trends": [
+      {
+         "12": "10",
+         "14": "6",
+         "20": "0"
+      },
+      {
+         "1": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Budget in billion U.S. dollars": "21.87"
+      },
+      {
+         "Year": "2023",
+         "Budget in billion U.S. dollars": "21.66"
+      },
+      {
+         "Year": "2022",
+         "Budget in billion U.S. dollars": "21.44"
+      },
+      {
+         "Year": "2021",
+         "Budget in billion U.S. dollars": "21.23"
+      },
+      {
+         "Year": "2020",
+         "Budget in billion U.S. dollars": "21.02"
+      },
+      {
+         "Year": "2019",
+         "Budget in billion U.S. dollars": "21.5"
+      },
+      {
+         "Year": "2018",
+         "Budget in billion U.S. dollars": "20.74"
+      },
+      {
+         "Year": "2017",
+         "Budget in billion U.S. dollars": "19.65"
+      },
+      {
+         "Year": "2016",
+         "Budget in billion U.S. dollars": "19.29"
+      },
+      {
+         "Year": "2015",
+         "Budget in billion U.S. dollars": "18.01"
+      },
+      {
+         "Year": "2014",
+         "Budget in billion U.S. dollars": "17.65"
+      }
+   ]
+}

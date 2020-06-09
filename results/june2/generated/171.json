@@ -1,0 +1,84 @@
+{
+   "title": "National debt of Ukraine in relation to gross domestic product 2010 to 2024",
+   "xAxis": "Year",
+   "yAxis": "National debt as percent of GDP",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the National debt of Ukraine from 2010 to 2018 in relation to the gross domestic product ( GDP ) , with projections up until 2024 . ",
+      "The figures refer to the whole country and include the debts of the state , the communities , the municipalities and the social insurances . ",
+      "In 2018 , the National debt of Ukraine amounted to approximately 63.86 percent of the GDP ."
+   ],
+   "trends": [
+      {
+         "9": "14",
+         "11": "6",
+         "27": "0"
+      },
+      {
+         "1": "6",
+         "11": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt as percent of GDP": "43.72"
+      },
+      {
+         "Year": "2023",
+         "National debt as percent of GDP": "46.24"
+      },
+      {
+         "Year": "2022",
+         "National debt as percent of GDP": "49.77"
+      },
+      {
+         "Year": "2021",
+         "National debt as percent of GDP": "53.83"
+      },
+      {
+         "Year": "2020",
+         "National debt as percent of GDP": "57.89"
+      },
+      {
+         "Year": "2019",
+         "National debt as percent of GDP": "62.03"
+      },
+      {
+         "Year": "2018",
+         "National debt as percent of GDP": "63.86"
+      },
+      {
+         "Year": "2017",
+         "National debt as percent of GDP": "71.92"
+      },
+      {
+         "Year": "2016",
+         "National debt as percent of GDP": "81.18"
+      },
+      {
+         "Year": "2015",
+         "National debt as percent of GDP": "79.5"
+      },
+      {
+         "Year": "2014",
+         "National debt as percent of GDP": "70.32"
+      },
+      {
+         "Year": "2013",
+         "National debt as percent of GDP": "40.52"
+      },
+      {
+         "Year": "2012",
+         "National debt as percent of GDP": "37.54"
+      },
+      {
+         "Year": "2011",
+         "National debt as percent of GDP": "36.88"
+      },
+      {
+         "Year": "2010",
+         "National debt as percent of GDP": "40.63"
+      }
+   ]
+}

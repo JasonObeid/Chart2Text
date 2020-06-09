@@ -1,0 +1,106 @@
+{
+   "title": "Unemployment rate in Liberia 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Liberia from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Liberia was at approximately 2.03 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "2.03"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "2.03"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "2.03"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "2.15"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "2.18"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "2.21"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "2.29"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "2.26"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "2.28"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "2.27"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "2.25"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "1.96"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "2.03"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "2.23"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "2.42"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "2.53"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "2.61"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "2.66"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "2.61"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "2.77"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "2.78"
+      }
+   ]
+}

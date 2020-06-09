@@ -1,0 +1,75 @@
+{
+   "title": "Number of deaths in Spain 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of deaths",
+   "graphType": "line",
+   "summary": [
+      "Between 2006 and 2018 , deaths in Spain had seen a net decline of 27 % . ",
+      "The lowest figure of such deaths was recorded in 2017 at 371478 . ",
+      "These figures stand in contrast to an increase in the volume of passenger deaths transport ."
+   ],
+   "trends": [
+      {
+         "1": "12",
+         "3": "0"
+      },
+      {
+         "9": "1",
+         "11": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of deaths": "474523"
+      },
+      {
+         "Year": "2017",
+         "Number of deaths": "424523"
+      },
+      {
+         "Year": "2016",
+         "Number of deaths": "410611"
+      },
+      {
+         "Year": "2015",
+         "Number of deaths": "422568"
+      },
+      {
+         "Year": "2014",
+         "Number of deaths": "395830"
+      },
+      {
+         "Year": "2013",
+         "Number of deaths": "390419"
+      },
+      {
+         "Year": "2012",
+         "Number of deaths": "402950"
+      },
+      {
+         "Year": "2011",
+         "Number of deaths": "387911"
+      },
+      {
+         "Year": "2010",
+         "Number of deaths": "382047"
+      },
+      {
+         "Year": "2009",
+         "Number of deaths": "384933"
+      },
+      {
+         "Year": "2008",
+         "Number of deaths": "386324"
+      },
+      {
+         "Year": "2007",
+         "Number of deaths": "385361"
+      },
+      {
+         "Year": "2006",
+         "Number of deaths": "371478"
+      }
+   ]
+}

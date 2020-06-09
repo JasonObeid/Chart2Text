@@ -1,0 +1,38 @@
+{
+   "title": "U.S. Amazon Prime membership penetration 2018 , by income",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the results of a survey conducted in the Amazon in 2018 on how long the respondents thought the feeling of membership could last in a penetration . ",
+      "According to 63.3 % of respondents , the feeling of membership in a penetration can last a 150000 USD and over ."
+   ],
+   "trends": [
+      {
+         "2": "4",
+         "17": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "Less than 35K USD",
+         "Share of respondents": "31.7"
+      },
+      {
+         "Year": "35000 - 74999 USD",
+         "Share of respondents": "41.6"
+      },
+      {
+         "Year": "75000 USD and over",
+         "Share of respondents": "55.7"
+      },
+      {
+         "Year": "100000 USD and over",
+         "Share of respondents": "58.5"
+      },
+      {
+         "Year": "150000 USD and over",
+         "Share of respondents": "63.3"
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Geographic distance between grandparents and their grandchildren in the United States in 2011",
+   "xAxis": "Year",
+   "yAxis": "Percentage of respondents",
+   "graphType": "line",
+   "summary": [
+      "Among slightly lower Percentage of 11 - 50 miles than 10 miles or less access the between via United States distance in United States , according to figures from the United Kingdom 's ( UK ) Office for National Statistics ( ONS ) . ",
+      "21 percentage of 10 miles or less aged 16 years or older reported accessing the between this way , compared with 17 percentage of 11 - 50 miles . ",
+      "Smartphone ownership As of 2018 , 95 percentage of people aged 16 to 34 years owned a smartphone ."
+   ],
+   "trends": [
+      {
+         "5": "1",
+         "7": "0"
+      },
+      {
+         "0": "0",
+         "3": "0",
+         "18": "1",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "10 miles or less",
+         "Percentage of respondents": "21"
+      },
+      {
+         "Year": "11 - 50 miles",
+         "Percentage of respondents": "17"
+      },
+      {
+         "Year": "51 - 100 miles",
+         "Percentage of respondents": "7"
+      },
+      {
+         "Year": "101 - 150 miles",
+         "Percentage of respondents": "4"
+      },
+      {
+         "Year": "151 - 200 miles",
+         "Percentage of respondents": "4"
+      },
+      {
+         "Year": "More than 200 miles",
+         "Percentage of respondents": "43"
+      },
+      {
+         "Year": "Only have grandchildren who live with me",
+         "Percentage of respondents": "1"
+      },
+      {
+         "Year": "Don't know",
+         "Percentage of respondents": "2"
+      }
+   ]
+}

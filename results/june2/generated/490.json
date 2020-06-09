@@ -1,0 +1,51 @@
+{
+   "title": "Forecast of smartphone user numbers in Norway 2018 to 2024",
+   "xAxis": "Year",
+   "yAxis": "Smartphone users in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total annual spend of Forecast tourists ( 'visitor exports ' _ ) in Norway from 2018 to , with a forecast for 2024 . ",
+      "Inbound smartphone expenditure in Norway reached around 4.77 millions in 2019 ."
+   ],
+   "trends": [
+      {
+         "19": "6",
+         "21": "6",
+         "27": "0"
+      },
+      {
+         "7": "5",
+         "11": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Smartphone users in millions": "5.19"
+      },
+      {
+         "Year": "2023",
+         "Smartphone users in millions": "5.15"
+      },
+      {
+         "Year": "2022",
+         "Smartphone users in millions": "5.11"
+      },
+      {
+         "Year": "2021",
+         "Smartphone users in millions": "5.0"
+      },
+      {
+         "Year": "2020",
+         "Smartphone users in millions": "4.89"
+      },
+      {
+         "Year": "2019",
+         "Smartphone users in millions": "4.77"
+      },
+      {
+         "Year": "2018",
+         "Smartphone users in millions": "4.64"
+      }
+   ]
+}

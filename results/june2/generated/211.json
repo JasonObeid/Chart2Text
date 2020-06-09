@@ -1,0 +1,53 @@
+{
+   "title": "Number of female directors in FTSE 100 companies UK 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of female directors",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Number of female at UK from 2012 to 2019 . ",
+      "According to the report , there were 1.58 million female who had personal wealth of over 10 billion yuan in UK 2018 , decreased from 1.61 million in the previous Year ."
+   ],
+   "trends": [
+      {
+         "10": "7",
+         "12": "0"
+      },
+      {
+         "22": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of female directors": "292"
+      },
+      {
+         "Year": "2018",
+         "Number of female directors": "264"
+      },
+      {
+         "Year": "2017",
+         "Number of female directors": "259"
+      },
+      {
+         "Year": "2016",
+         "Number of female directors": "244"
+      },
+      {
+         "Year": "2015",
+         "Number of female directors": "233"
+      },
+      {
+         "Year": "2014",
+         "Number of female directors": "205"
+      },
+      {
+         "Year": "2013",
+         "Number of female directors": "169"
+      },
+      {
+         "Year": "2012",
+         "Number of female directors": "141"
+      }
+   ]
+}

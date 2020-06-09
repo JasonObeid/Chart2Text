@@ -1,0 +1,64 @@
+{
+   "title": "Unemployment rate in Panama 2024",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "This statistics presents the Unemployment rate in Panama from 2014 to 2018 , with projections up until 2024 . ",
+      "Unemployment occurs when people are without work , it is also known as joblessness . ",
+      "In order that the prevalence of Unemployment can be measured , a calculation is made by the division of the number of unemployed individuals by all individuals currently in the labor force , this yields a percentage rate ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Unemployment rate": "5.77"
+      },
+      {
+         "Year": "2023",
+         "Unemployment rate": "5.77"
+      },
+      {
+         "Year": "2022",
+         "Unemployment rate": "5.77"
+      },
+      {
+         "Year": "2021",
+         "Unemployment rate": "5.8"
+      },
+      {
+         "Year": "2020",
+         "Unemployment rate": "5.91"
+      },
+      {
+         "Year": "2019",
+         "Unemployment rate": "6.11"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "5.96"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "6.13"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "5.49"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "5.05"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "4.82"
+      }
+   ]
+}
