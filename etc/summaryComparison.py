@@ -94,7 +94,19 @@ def mapParallelIndex(valueArr, type):
             print('Parallel num err')
             print(valueArr, type)
             return 0
-
+    else:
+        try:
+            array = [float(i.split('_')[-1:][0]) for i in valueArr]
+            if type == 'max':
+                index = array.index(max(array))
+                return int(index)
+            elif type == 'min':
+                index = array.index(min(array))
+                return int(index)
+        except:
+            print('Parallel num err')
+            print(valueArr, type)
+            return 0
 
 def mapIndex(index, array):
     if are_numbers(array):
@@ -174,16 +186,28 @@ def replaceTrends(reverse):
     return newReverse
 
 
-analysisPath = '../results/june2/analysis-602g-p80-batch1.txt'
-generatedPath = '../results/june2/templateOutput_602gp80_beam=4_batch=8.txt'
-goldPath = '../data/test/testOriginalSummary.txt'
-goldTemplatePath = '../data/test/testSummary.txt'
-dataPath = '../data/test/testData.txt'
-titlePath = '../data/test/testTitle.txt'
-comparisonPath = '../results/june2/summaryComparison602g-p80_beam4_batch8.txt'
-outputPath = '../results/june2/generated-602g-p80-batch8.txt'
-websitePath = '../results/june2/generated'
-newDataPath = '../results/june2/data'
+analysisPath = '../results/june9bar/analysis-609g-p40-batch8.txt'
+generatedPath = '../results/june9bar/templateOutput_609gp40_beam=4_batch=8.txt'
+goldPath = '../data/bar/test/testOriginalSummary.txt'
+goldTemplatePath = '../data/bar/test/testSummary.txt'
+dataPath = '../data/bar/test/testData.txt'
+titlePath = '../data/bar/test/testTitle.txt'
+comparisonPath = '../results/june9bar/summaryComparison609g-p40_beam4_batch8.txt'
+outputPath = '../results/june9bar/generated-609g-p40-batch8.txt'
+websitePath = '../results/june9bar/generated'
+newDataPath = '../results/june9bar/data'
+
+
+"""analysisPath = '../results/june9line/analysis-609g-p40-batch8.txt'
+generatedPath = '../results/june9line/templateOutput_609gp40_beam=4_batch=8.txt'
+goldPath = '../data/line/test/testOriginalSummary.txt'
+goldTemplatePath = '../data/line/test/testSummary.txt'
+dataPath = '../data/line/test/testData.txt'
+titlePath = '../data/line/test/testTitle.txt'
+comparisonPath = '../results/june9line/summaryComparison609g-p40_beam4_batch8.txt'
+outputPath = '../results/june9line/generated-609g-p40-batch8.txt'
+websitePath = '../results/june9line/generated'
+newDataPath = '../results/june9line/data'"""
 nlp = spacy.load('en_core_web_md')
 fb = FitBert()
 
@@ -257,18 +281,18 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                             templateAxis = 'x'
                             index = mapParallelIndex(xValueArr, idxType)
                             try:
-                                replacedToken = yValueArr[index].replace('_', ' ')
+                                replacedToken = yValueArr[index]
                             except:
                                 print(f'{idxType} error at {index} in {title}')
-                                replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
+                                replacedToken = yValueArr[len(yValueArr) - 1]
                         elif 'templateXValue' in token:
                             templateAxis = 'y'
                             index = mapParallelIndex(yValueArr, idxType)
                             try:
-                                replacedToken = xValueArr[index].replace('_', ' ')
+                                replacedToken = xValueArr[index]
                             except:
                                 print(f'{idxType} error at {index} in {title}')
-                                replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
+                                replacedToken = xValueArr[len(xValueArr) - 1]
                     elif token == 'templateScale':
                         replacedToken = getScale(titleArr, cleanXLabel, cleanYLabel)
                     elif 'templateDelta' in token:
@@ -283,18 +307,18 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                             templateAxis = 'x'
                             index = mapIndex(index, xValueArr)
                             if index < len(xValueArr):
-                                replacedToken = xValueArr[index].replace('_', ' ')
+                                replacedToken = xValueArr[index]
                             else:
                                 print(f'xvalue index error at {index} in {title}')
-                                replacedToken = xValueArr[len(xValueArr) - 1].replace('_', ' ')
+                                replacedToken = xValueArr[len(xValueArr) - 1]
                         elif 'templateYValue' in token:
                             templateAxis = 'y'
                             index = mapIndex(index, yValueArr)
                             if index < len(yValueArr):
-                                replacedToken = yValueArr[index].replace('_', ' ')
+                                replacedToken = yValueArr[index]
                             else:
                                 print(f'yvalue index error at {index} in {title}')
-                                replacedToken = yValueArr[len(yValueArr) - 1].replace('_', ' ')
+                                replacedToken = yValueArr[len(yValueArr) - 1]
                         elif 'templateXLabel' in token:
                             index = mapIndex(index, cleanXLabel)
                             if index < len(cleanXLabel):
@@ -353,7 +377,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
             reversedSentences.append(reverse)
             templateList.append(sentenceTemplates)
         # remove empty items
-        reverse = ' . '.join(reversedSentences)
+        reverse = ' '.join(reversedSentences)
         #replace trend words after all templates inserted for better accuracy
 
         comparison = f'Example {count}:\ntitleEntities: {entities}\ntitle: {title}X_Axis{xLabel}: {xValueArr}\nY_Axis{yLabel}: {yValueArr}\n\ngold: {gold}' \
@@ -368,55 +392,54 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
         cleanTemplates = []
         for sentence in templateList:
             newSentence = {}
+            #key is token index
+            #val is {template:replaced token}
             for key, val in sentence.items():
                 template = [*val.keys()][0]
-                print(template)
-                if 'templateXValue' in template:
+                if 'templateXValue' in template or 'templateYValue' in template:
+                    #must track templates which are multi-word
                     dataIndex = [*val.values()][0][1]
-                    axis = [*val.values()][0][2]
+                    tokenIndex = key
+                    #axis = [*val.values()][0][2]
                     if 'idxmax' in template:
                         # newSentence[key] = f'{axis}:{dataIndex}'
-                        newSentence[key] = f'{dataIndex}'
+                        newSentence[tokenIndex] = f'{dataIndex}'
                     elif 'idxmin' in template:
                         # newSentence[key] = f'{axis}:{dataIndex}'
-                        newSentence[key] = f'{dataIndex}'
+                        newSentence[tokenIndex] = f'{dataIndex}'
                     elif 'max' in template:
                         # newSentence[key] = f'{axis}:{dataIndex}'
-                        newSentence[key] = f'{dataIndex}'
+                        newSentence[tokenIndex] = f'{dataIndex}'
                     elif 'min' in template:
                         # newSentence[key] = f'{axis}:{dataIndex}'
-                        newSentence[key] = f'{dataIndex}'
+                        newSentence[tokenIndex] = f'{dataIndex}'
                     else:
                         # newSentence[key] = f'{axis}:{dataIndex}'
-                        newSentence[key] = f'{dataIndex}'
-                elif 'templateYValue' in template:
-                    dataIndex = [*val.values()][0][1]
-                    axis = [*val.values()][0][2]
+                        newSentence[tokenIndex] = f'{dataIndex}'
+                #elif 'templateYValue' in template:
+                    #dataIndex = [*val.values()][0][1]
+                    #axis = [*val.values()][0][2]
                     if 'idxmax' in template:
                         # newSentence[key] = f'{axis}:{dataIndex}'
-                        newSentence[key] = f'{dataIndex}'
+                        newSentence[tokenIndex] = f'{dataIndex}'
                     elif 'idxmin' in template:
                         # newSentence[key] = f'{axis}:{dataIndex}'
-                        newSentence[key] = f'{dataIndex}'
+                        newSentence[tokenIndex] = f'{dataIndex}'
                     elif 'max' in template:
                         # newSentence[key] = f'{axis}:{dataIndex}'
-                        newSentence[key] = f'{dataIndex}'
+                        newSentence[tokenIndex] = f'{dataIndex}'
                     elif 'min' in template:
                         # newSentence[key] = f'{axis}:{dataIndex}'
-                        newSentence[key] = f'{dataIndex}'
+                        newSentence[tokenIndex] = f'{dataIndex}'
                     else:
                         # newSentence[key] = f'{axis}:{dataIndex}'
-                        newSentence[key] = f'{dataIndex}'
-            if len(newSentence) > 0:
-                print(newSentence)
-                cleanTemplates.append(newSentence)
+                        newSentence[tokenIndex] = f'{dataIndex}'
+            cleanTemplates.append(newSentence)
         dataJson = [{' '.join(xLabel):xVal, ' '.join(yLabel):yVal} for xVal, yVal in zip(cleanXArr, cleanYArr)]
         websiteInput = {"title":title.strip(), "xAxis":' '.join(xLabel), "yAxis":' '.join(yLabel), \
                         "graphType":chartType, "summary":reversedSentences, "trends":cleanTemplates, "data":dataJson}
-        if chartType == 'line':
-            lineCount += 1
-            with open(f'{websitePath}/{lineCount}.json', 'w', encoding='utf-8') as websiteFile:
-                json.dump(websiteInput, websiteFile, indent=3)
+        with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
+            json.dump(websiteInput, websiteFile, indent=3)
         #data = {' '.join(xLabel):cleanXArr, ' '.join(yLabel):cleanYArr}
         #x = pd.DataFrame(data=data)
         #x.to_csv(f'{newDataPath}/{count}.csv',index=False)
