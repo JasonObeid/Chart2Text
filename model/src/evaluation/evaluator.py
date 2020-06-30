@@ -353,11 +353,11 @@ class EncDecEvaluator(Evaluator):
 
         # compute BLEU
         if eval_bleu:
-            chartType = params.chartType
+
             # hypothesis / reference paths
             hyp_name = 'hyp{0}.{1}.txt'.format(scores['epoch'], data_set)
             hyp_path = os.path.join(params.hyp_path, hyp_name)
-            ref_path = f'data/{chartType}/valid/validOriginalSummary.txt'
+            ref_path = 'data/valid/validOriginalSummary.txt'
             print(ref_path)
             temp_path = os.path.join(params.hyp_path, 'temp_hyp.txt')
             # export sentences to temp hypothesis file / restore BPE segmentation
@@ -365,8 +365,8 @@ class EncDecEvaluator(Evaluator):
                 f.write('\n'.join(hypothesis) + '\n')
             restore_segmentation(temp_path)
             # reverse templating and save in persistent hypothesis file
-            dataPath = f'data/{chartType}/valid/validData.txt'
-            titlePath = f'data/{chartType}/valid/validTitle.txt'
+            dataPath = 'data/valid/validData.txt'
+            titlePath = 'data/valid/validTitle.txt'
             try:
                 summaryComparison.run(temp_path, hyp_path, dataPath, titlePath)
             except:

@@ -1,7 +1,7 @@
 import math
 import os
 import re
-# from random import shuffle
+from sklearn import utils
 # from math import ceil
 import spacy
 from spacy import displacy
@@ -155,8 +155,9 @@ def cleanAxisLabel(label):
 
 
 def cleanAxisValue(value):
-    if value == '-':
-        value = 0
+    #print(value)
+    if value == '-' or value == 'nan':
+        return '0'
     cleanValue = re.sub('\s', '_', value)
     cleanValue = cleanValue.replace('|', '').replace(',', '').replace('%', '').replace('*', '')
     return cleanValue
@@ -234,6 +235,8 @@ def numberComparison(token, captionTokens, index, word, axisLabel):
         multiplier = checkForMultiplier(axisLabel, nextToken.lower())
         # floor100 = int(math.floor(word / 100.0)) * 100
         # ceil100 = int(math.ceil(word / 100.0)) * 100
+        #print(word)
+        #print(token)
         newWord = normal_round(word * multiplier)
         newWord1 = normal_round(word * multiplier, 1)
         newWord2 = normal_round(word * multiplier, 2)
@@ -433,17 +436,17 @@ def getSubject(titleTokens, nerEntities):
     return entities, cleanTitle
 
 
-dataFiles = os.listdir('../dataset/multiColumn/data')
+dataFiles = os.listdir('../dataset/data')
 dataFiles.sort()
-dataFiles = dataFiles[3800:3801]
+#dataFiles = dataFiles[3800:3801]
 
-captionFiles = os.listdir('../dataset/multiColumn/captions')
+captionFiles = os.listdir('../dataset/captions')
 captionFiles.sort()
-captionFiles = captionFiles[3800:3801]
+#captionFiles = captionFiles[3800:3801]
 
-titleFiles = os.listdir('../dataset/multiColumn/titles')
+titleFiles = os.listdir('../dataset/titles')
 titleFiles.sort()
-titleFiles = titleFiles[3800:3801]
+#titleFiles = titleFiles[3800:3801]
 
 # shuffle data
 # random.seed(10)
@@ -605,12 +608,12 @@ for m in range(len(dataFiles)):
                         if len(xCount) == 2 or len(yCount) == 2 or (len(xCount) == 1 and len(yCount) == 1):
                             values, indices = getTemplateValues(xCount, yCount, xValueArr, yValueArr)
                             if len(values) > 1:
-                                print(token, tokenIdx)
-                                print(sentence)
-                                print(xValueArr)
-                                print(yValueArr)
-                                print(xCount, values)
-                                print(scale)
+                                #print(token, tokenIdx)
+                                #print(sentence)
+                                #print(xValueArr)
+                                #print(yValueArr)
+                                #print(xCount, values)
+                                #print(scale)
                                 if scaleIndicator and (scale == 'percent' or scale == 'percentage'):
                                     valueDiff = abs((float(values[1]) - float(values[0]) / float(values[0])) * 100)
                                     rounded1 = abs(normal_round(valueDiff))
@@ -649,7 +652,7 @@ for m in range(len(dataFiles)):
         titleArr.append(title)
 
 def multiColumnTemplater(token, valueArr, words, arrayIndex, axis):
-    if axisTypes[axis].lower() == 'ordinal':
+    if axisTypes[axis].lower() == 'ordinal' or axisTypes[axis].lower() == 'numerical':
         if is_number(token) and are_numbers(valueArr):
             if float(words) == max([float(i) for i in valueArr]):
                 checkForParallelMultiColumn(axis, 'max', arrayIndex)
@@ -662,7 +665,7 @@ def multiColumnTemplater(token, valueArr, words, arrayIndex, axis):
     return [1, f'templateValue[{axis}][{arrayIndex}]']
 
 
-def adjustMultiColumnLabel(bool, axis, index):
+def adjustMultiColumnLabel(bool, index, axis):
     dataLabels[axis][index] = bool
 
 def openMultiColumnData(dataPath):
@@ -679,20 +682,20 @@ def compareMultiColumnToken(captionTokens, index, cleanTitle,
         token = str(text2num(token, 'en'))
     # iterate through x and y values
     for column, columnLabel, i in zip(colData, cleanCols, range(len(colData))):
-        for cell in column:
+        for cell, n in zip(column, range(len(column))):
             # iterate through values with multiple tokens in them, delimited by '_'
             cleanValues = [value for value in cell.split('_') if value.lower() not in fillers]
-            for words, n in zip(cleanValues, range(len(cleanValues))):
+            for words in cleanValues:
                 valueWord = words.replace(',', '').lower()
                 if is_word_number(valueWord):
                     valueWord = str(text2num(valueWord, 'en'))
                 if token == valueWord:
                     adjustMultiColumnLabel(1, n, i)
-                    return multiColumnTemplater(token, column, valueWord, i, n)
+                    return multiColumnTemplater(token, column, valueWord, n, i)
                 elif is_number(token) and are_numbers(column):
                     if numberComparison(float(token), captionTokens, index, float(valueWord), columnLabel):
                         adjustMultiColumnLabel(1, n, i)
-                        return multiColumnTemplater(token, column, valueWord, i, n)
+                        return multiColumnTemplater(token, column, valueWord, n, i)
         # check if token in axis names
         # remove filler words from labels
         cleanLabels = [word for word in columnLabel.split('_') if word.lower() not in fillers]
@@ -748,18 +751,19 @@ def compareMultiColumnToken(captionTokens, index, cleanTitle,
                     return [1, f'templateTitle[{usIndex}]']
     return [0, token]
 
-def checkForParallelMultiColumn(axis, type, arrayIndex):
+def checkForParallelMultiColumn(axis, variant, arrayIndex):
     otherColumns = [column for column, index in zip(colData, range(len(colData))) if index != axis]
+    print(otherColumns)
     for otherCol, i in zip(otherColumns, range(len(otherColumns))):
         parallel = otherCol[arrayIndex]
         cleanCaption = [token.replace(',', '') for token in captionTokens if token not in fillers]
         for token in cleanCaption:
             if token.lower() == parallel:
-                inverseAxis = cleanCols[i]
+                inverseAxis = str(i)
                 tokensNoCommas = [token.replace(',', '') if token != ',' else token for token in captionTokens]
                 tokenIndex = tokensNoCommas.index(token)
                 # print(f'match in {caption}\n{xValueArr[arrayIndex]} == {token}')
-                template = f'templateValue[{inverseAxis}][idx{type}({axis.upper()})]'
+                template = f'templateValue[{inverseAxis}][idx{variant}({str(axis).upper()})]'
                 parallelData.append([template, axis, tokenIndex])
 
 
@@ -843,6 +847,7 @@ for m in range(len(dataFiles)):
             tokenBool, newToken = compareMultiColumnToken(captionTokens, m, cleanTitle, colData,
                                                           cleanCols, entities)
             if tokenBool == 1:
+                #print(newToken)
                 captionTokens[m] = newToken
                 captionMatchCount += 1
         # check for duplicates after token replacement
@@ -853,6 +858,7 @@ for m in range(len(dataFiles)):
             elif captionTokens[m].lower() in months or captionTokens[m] == 'May':
                 captionTokens.pop(m)
         else:
+            print(token)
             tokenBool = 0
         labelMap.append(str(tokenBool))
     assert len(captionTokens) == len(labelMap)
@@ -957,34 +963,37 @@ assert len(summaryArr) == len(summaryLabelArr)
 assert len(summaryArr) == len(oldSummaryArr)
 assert len(titleArr) == len(dataArr)
 
-# TODO REVERT SET SIZES
-trainSize = round(len(dataArr) * 0.7)
-testSize = round(len(dataArr) * 0.15)
-validSize = len(dataArr) - trainSize - testSize
+# shuffle data with seed=0 for reproducibility
+dataArrShuffled, dataLabelArrShuffled, summaryArrShuffled, summaryLabelArrShuffled, oldSummaryArrShuffled, titleArrShuffled = utils.shuffle(dataArr, dataLabelArr, summaryArr, summaryLabelArr, oldSummaryArr, titleArr, random_state=0)
 
-trainData = dataArr[0:trainSize]
-testData = dataArr[trainSize:trainSize + testSize]
-validData = dataArr[trainSize + testSize:]
+trainSize = round(len(dataArrShuffled) * 0.7)
+testSize = round(len(dataArrShuffled) * 0.15)
+validSize = len(dataArrShuffled) - trainSize - testSize
 
-trainDataLabel = dataLabelArr[0:trainSize]
-testDataLabel = dataLabelArr[trainSize:trainSize + testSize]
-validDataLabel = dataLabelArr[trainSize + testSize:]
+trainData = dataArrShuffled[0:trainSize]
+testData = dataArrShuffled[trainSize:trainSize + testSize]
+validData = dataArrShuffled[trainSize + testSize:]
 
-trainSummary = summaryArr[0:trainSize]
-testSummary = summaryArr[trainSize:trainSize + testSize]
-validSummary = summaryArr[trainSize + testSize:]
+trainDataLabel = dataLabelArrShuffled[0:trainSize]
+testDataLabel = dataLabelArrShuffled[trainSize:trainSize + testSize]
+validDataLabel = dataLabelArrShuffled[trainSize + testSize:]
 
-trainSummaryLabel = summaryLabelArr[0:trainSize]
-testSummaryLabel = summaryLabelArr[trainSize:trainSize + testSize]
-validSummaryLabel = summaryLabelArr[trainSize + testSize:]
+trainSummary = summaryArrShuffled[0:trainSize]
+testSummary = summaryArrShuffled[trainSize:trainSize + testSize]
+validSummary = summaryArrShuffled[trainSize + testSize:]
 
-trainTitle = titleArr[0:trainSize]
-testTitle = titleArr[trainSize:trainSize + testSize]
-validTitle = titleArr[trainSize + testSize:]
+trainSummaryLabel = summaryLabelArrShuffled[0:trainSize]
+testSummaryLabel = summaryLabelArrShuffled[trainSize:trainSize + testSize]
+validSummaryLabel = summaryLabelArrShuffled[trainSize + testSize:]
 
-oldTrainSummary = oldSummaryArr[0:trainSize]
-oldTestSummary = oldSummaryArr[trainSize:trainSize + testSize]
-oldValidSummary = oldSummaryArr[trainSize + testSize:]
+trainTitle = titleArrShuffled[0:trainSize]
+testTitle = titleArrShuffled[trainSize:trainSize + testSize]
+validTitle = titleArrShuffled[trainSize + testSize:]
+
+oldTrainSummary = oldSummaryArrShuffled[0:trainSize]
+oldTestSummary = oldSummaryArrShuffled[trainSize:trainSize + testSize]
+oldValidSummary = oldSummaryArrShuffled[trainSize + testSize:]
+
 
 with open('../data/train/trainData.txt', mode='wt', encoding='utf8') as myfile0:
     myfile0.writelines("%s\n" % line for line in trainData)
