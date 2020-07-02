@@ -9,11 +9,12 @@ module load python/3.7 arch/avx512 StdEnv/2018.3
 
 virtualenv --no-download $SLURM_TMPDIR/env
 source $SLURM_TMPDIR/env/bin/activate
-pip install torch==1.4.0 --no-index
+pip install torch --no-index
+pip install torchvision --no-index
 pip install numpy --no-index
 pip install spacy --no-index
 pip install ../en_core_web_md-2.2.5.tar.gz
-python model/train.py \
+python3 model/train.py \
     --model_path "experiments" \
     --exp_name "chart2text" \
     --exp_id "run1" \
