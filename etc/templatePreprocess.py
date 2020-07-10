@@ -767,21 +767,6 @@ def checkForParallelMultiColumn(axis, variant, arrayIndex):
                 parallelData.append([template, axis, tokenIndex])
 
 
-def mapParallelIndex(valueArr, type):
-    if are_numbers(valueArr):
-        try:
-            array = [float(i) for i in valueArr]
-            if type == 'max':
-                index = array.index(max(array))
-                return int(index)
-            elif type == 'min':
-                index = array.index(min(array))
-                return int(index)
-        except:
-            print('Parallel num err')
-            print(valueArr, type)
-            return 0
-
 dataFiles = os.listdir('../dataset/multiColumn/data')
 dataFiles.sort()
 
