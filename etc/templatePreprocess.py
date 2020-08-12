@@ -547,6 +547,8 @@ for m in range(len(dataFiles)):
             if tokenBool == 1:
                 captionTokens[m] = newToken
                 captionMatchCount += 1
+        else:
+            tokenBool = 0
         # check for duplicates after token replacement
         if m > 0:
             if captionTokens[m - 1] == captionTokens[m]:
@@ -554,8 +556,6 @@ for m in range(len(dataFiles)):
             # check if last token was an un-templated month
             elif captionTokens[m].lower() in months or captionTokens[m] == 'May':
                 captionTokens.pop(m)
-        else:
-            tokenBool = 0
         labelMap.append(str(tokenBool))
     assert len(captionTokens) == len(labelMap)
     # replace tokens with their parallel templates if they exist
@@ -835,6 +835,8 @@ for m in range(len(dataFiles)):
                 #print(newToken)
                 captionTokens[m] = newToken
                 captionMatchCount += 1
+        else:
+            tokenBool = 0
         # check for duplicates after token replacement
         if m > 0:
             if captionTokens[m - 1] == captionTokens[m]:

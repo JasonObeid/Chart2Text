@@ -305,7 +305,6 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                     valueArr[m].append(value)
                     cleanValArr[m].append(cleanVal)
                     i += 1
-
             sentences = generated.split(' . ')
             entities = getMultiColumnNamedEntity(title, valueArr, labelArr)
             titleArr = [word for word in title.split() if word.lower() not in fillers]
@@ -438,46 +437,22 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                 # val is {template:replaced token}
                 for key, val in sentence.items():
                     template = [*val.keys()][0]
-                    if 'templateXValue' in template or 'templateYValue' in template:
+                    if 'templateValue' in template:
                         # must track templates which are multi-word
                         dataIndex = [*val.values()][0][1]
+                        axisIndex = [*val.values()][0][2]
                         tokenIndex = key
-                        # axis = [*val.values()][0][2]
-                        if 'idxmax' in template:
-                            # newSentence[key] = f'{axis}:{dataIndex}'
-                            newSentence[tokenIndex] = f'{dataIndex}'
-                        elif 'idxmin' in template:
-                            # newSentence[key] = f'{axis}:{dataIndex}'
-                            newSentence[tokenIndex] = f'{dataIndex}'
-                        elif 'max' in template:
-                            # newSentence[key] = f'{axis}:{dataIndex}'
-                            newSentence[tokenIndex] = f'{dataIndex}'
-                        elif 'min' in template:
-                            # newSentence[key] = f'{axis}:{dataIndex}'
-                            newSentence[tokenIndex] = f'{dataIndex}'
-                        else:
-                            # newSentence[key] = f'{axis}:{dataIndex}'
-                            newSentence[tokenIndex] = f'{dataIndex}'
-                        # elif 'templateYValue' in template:
-                        # dataIndex = [*val.values()][0][1]
-                        # axis = [*val.values()][0][2]
-                        if 'idxmax' in template:
-                            # newSentence[key] = f'{axis}:{dataIndex}'
-                            newSentence[tokenIndex] = f'{dataIndex}'
-                        elif 'idxmin' in template:
-                            # newSentence[key] = f'{axis}:{dataIndex}'
-                            newSentence[tokenIndex] = f'{dataIndex}'
-                        elif 'max' in template:
-                            # newSentence[key] = f'{axis}:{dataIndex}'
-                            newSentence[tokenIndex] = f'{dataIndex}'
-                        elif 'min' in template:
-                            # newSentence[key] = f'{axis}:{dataIndex}'
-                            newSentence[tokenIndex] = f'{dataIndex}'
-                        else:
-                            # newSentence[key] = f'{axis}:{dataIndex}'
-                            newSentence[tokenIndex] = f'{dataIndex}'
+                        newSentence[tokenIndex] = [f'{dataIndex}', f'{axisIndex}']
                 cleanTemplates.append(newSentence)
-            dataJson = [{' '.join(label): val} for label, val in zip(labelArr, cleanValArr)]
+            dataJson = []
+            # iterate over index of a value
+            for i in range(len(cleanValArr[0])):
+                # iterate over each value
+                dico = {}
+                for value, label in zip(cleanValArr, labelArr):
+                    cleanLabel = ' '.join(label)
+                    dico[cleanLabel] = value[i]
+                dataJson.append(dico)
             websiteInput = {"title": title.strip(), "labels": [' '.join(label) for label in labelArr], "columnType": "multi", \
                             "graphType": chartType, "summary": reversedSentences, "trends": cleanTemplates,
                             "data": dataJson}

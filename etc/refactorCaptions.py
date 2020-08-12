@@ -1,7 +1,7 @@
 import scripts.tokenizer as tkn
 import os
 
-summaryPaths = os.listdir('../dataset/multiColumn/captions_old/')
+summaryPaths = os.listdir('../dataset/captions_old/')
 
 def groupSequence(lst):
         res = [[lst[0]]]
@@ -39,10 +39,10 @@ def addUnderscores(cleanCaption, uppercaseWords):
         return newCaption
 
 for summaryPath in summaryPaths:
-        with open('../dataset/multiColumn/captions_old/'+summaryPath, 'r', encoding='utf-8') as summaryFile:
+        with open('../dataset/captions_old/'+summaryPath, 'r', encoding='utf-8') as summaryFile:
                 summary = summaryFile.read()
                 cleanCaption = tkn.word_tokenize(summary)
-                newSummaryPath = '../dataset/multiColumn/captions/'+summaryPath
+                newSummaryPath = '../dataset/captions/'+summaryPath
                 with open(newSummaryPath, "w") as outf:
                     cleanCaption = ' '.join(cleanCaption).replace('*','')
                     outf.write("{}\n".format(cleanCaption))

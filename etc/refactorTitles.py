@@ -36,18 +36,18 @@ def addUnderscores(cleanTitle, uppercaseWords):
         return newTitle
 
 
-titlePaths = os.listdir('../dataset/multiColumn/titles_old/')
+titlePaths = os.listdir('../dataset/titles_old/')
 titlePaths.sort()
 
 for summaryPath in titlePaths:
-        with open('../dataset/multiColumn/titles_old/'+summaryPath, 'r', encoding='utf-8') as titleFile:
+        with open('../dataset/titles_old/'+summaryPath, 'r', encoding='utf-8') as titleFile:
                 title = titleFile.read()
                 cleanTitle = tkn.word_tokenize(title)
                 # replace (2009 - 2016) with (2009 to 2016)
                 lastTokens = cleanTitle[-3:]
                 if lastTokens[1] == '-' and lastTokens[0].isnumeric() and lastTokens[2].isnumeric():
                         cleanTitle[-2] = 'to'
-                newTitlePath = '../dataset/multiColumn/titles/' + summaryPath
+                newTitlePath = '../dataset/titles/' + summaryPath
                 with open(newTitlePath, "w") as outf:
                         # remove asterisks
                         cleanTitle = ' '.join(cleanTitle).replace('*', '')
