@@ -353,8 +353,8 @@ class EncDecEvaluator(Evaluator):
 
         # compute BLEU
         if eval_bleu:
-
-            # hypothesis / reference paths
+            #Templated
+            """# hypothesis / reference paths
             hyp_name = 'hyp{0}.{1}.txt'.format(scores['epoch'], data_set)
             hyp_path = os.path.join(params.hyp_path, hyp_name)
             ref_path = 'data/valid/validOriginalSummary.txt'
@@ -371,7 +371,18 @@ class EncDecEvaluator(Evaluator):
                 summaryComparison.run(temp_path, hyp_path, dataPath, titlePath)
             except:
                 logger.log('summary reversal failed')
-                hyp_path = temp_path
+                hyp_path = temp_path"""
+            #untemplated
+            # hypothesis / reference paths
+            hyp_name = 'hyp{0}.{1}.txt'.format(scores['epoch'], data_set)
+            hyp_path = os.path.join(params.hyp_path, hyp_name)
+            ref_path = 'data_testing/valid/validOriginalSummary.txt'
+
+            # export sentences to hypothesis file / restore BPE segmentation
+            with open(hyp_path, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(hypothesis) + '\n')
+            restore_segmentation(hyp_path)
+
             # evaluate BLEU score
             bleu = eval_moses_bleu(ref_path, hyp_path)
             logger.info("BLEU %s %s : %f" % (hyp_path, ref_path, bleu))
