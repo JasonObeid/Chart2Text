@@ -1,0 +1,111 @@
+{
+   "title": "Global net sales of Levi Strauss by region 2008 to 2019",
+   "labels": [
+      "Year",
+      "Americas",
+      "Europe",
+      "Asia"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Global net of Levi Strauss in from 2008 to 2019 , . ",
+      "In 2019 , the Levi Strauss Corporation generated 2476.4 % of its total Global by its Americas 2019 ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "11",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "7": [
+            "11",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Americas": "3057.0",
+         "Europe": "1768.1",
+         "Asia": "938.0"
+      },
+      {
+         "Year": "2018",
+         "Americas": "3042.7",
+         "Europe": "1646.2",
+         "Asia": "886.5"
+      },
+      {
+         "Year": "2017",
+         "Americas": "2774.0",
+         "Europe": "1312.3",
+         "Asia": "817.7"
+      },
+      {
+         "Year": "2016",
+         "Americas": "2682.9",
+         "Europe": "1091.4",
+         "Asia": "778.4"
+      },
+      {
+         "Year": "2015",
+         "Americas": "2726.5",
+         "Europe": "1016.4",
+         "Asia": "751.6"
+      },
+      {
+         "Year": "2014",
+         "Americas": "2862.9",
+         "Europe": "1143.3",
+         "Asia": "747.8"
+      },
+      {
+         "Year": "2013",
+         "Americas": "2851.0",
+         "Europe": "1103.5",
+         "Asia": "727.2"
+      },
+      {
+         "Year": "2012",
+         "Americas": "2749.3",
+         "Europe": "1103.2",
+         "Asia": "757.7"
+      },
+      {
+         "Year": "2011",
+         "Americas": "2715.9",
+         "Europe": "1174.2",
+         "Asia": "871.5"
+      },
+      {
+         "Year": "2010",
+         "Americas": "2549.1",
+         "Europe": "1105.2",
+         "Asia": "756.3"
+      },
+      {
+         "Year": "2009",
+         "Americas": "2357.7",
+         "Europe": "1042.1",
+         "Asia": "706.0"
+      },
+      {
+         "Year": "2008",
+         "Americas": "2476.4",
+         "Europe": "1195.6",
+         "Asia": "728.9"
+      }
+   ]
+}

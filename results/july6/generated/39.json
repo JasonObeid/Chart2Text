@@ -1,0 +1,113 @@
+{
+   "title": "Pfizer 's revenues in global submarkets 2010 to 2018",
+   "labels": [
+      "Year",
+      "United States",
+      "Developed Europe",
+      "Developed Rest of World",
+      "Emerging Markets"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Pfizer 's revenues in global submarkets 2010 in the Pfizer from 2018 to 2010 . ",
+      "In 2010 , 28855 % of the 's were employed in United , 16156 % in Developed and 9891 % in Developed . ",
+      "The same Year , the total UK population amounted to about 62.3 million people ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "8",
+            "0"
+         ],
+         "17": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "0",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "United States": "28855",
+         "Developed Europe": "16156",
+         "Developed Rest of World": "9891",
+         "Emerging Markets": "10263"
+      },
+      {
+         "Year": "2011",
+         "United States": "26993",
+         "Developed Europe": "16099",
+         "Developed Rest of World": "10975",
+         "Emerging Markets": "11252"
+      },
+      {
+         "Year": "2012",
+         "United States": "23086",
+         "Developed Europe": "13375",
+         "Developed Rest of World": "10554",
+         "Emerging Markets": "11971"
+      },
+      {
+         "Year": "2013",
+         "United States": "20274",
+         "Developed Europe": "11739",
+         "Developed Rest of World": "8346",
+         "Emerging Markets": "11225"
+      },
+      {
+         "Year": "2014",
+         "United States": "19073",
+         "Developed Europe": "11719",
+         "Developed Rest of World": "7314",
+         "Emerging Markets": "11499"
+      },
+      {
+         "Year": "2015",
+         "United States": "21704",
+         "Developed Europe": "9714",
+         "Developed Rest of World": "6298",
+         "Emerging Markets": "11136"
+      },
+      {
+         "Year": "2016",
+         "United States": "26369",
+         "Developed Europe": "9306",
+         "Developed Rest of World": "6729",
+         "Emerging Markets": "10420"
+      },
+      {
+         "Year": "2017",
+         "United States": "26026",
+         "Developed Europe": "8508",
+         "Developed Rest of World": "6612",
+         "Emerging Markets": "11399"
+      },
+      {
+         "Year": "2018",
+         "United States": "25329",
+         "Developed Europe": "9116",
+         "Developed Rest of World": "6551",
+         "Emerging Markets": "12651"
+      }
+   ]
+}

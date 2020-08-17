@@ -1,0 +1,55 @@
+{
+   "title": "UK : real estate prime office rent prices in selected cities Q3 2019",
+   "xAxis": "City",
+   "yAxis": "Price per square meter in euros",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the Price of the UK real estate prime in the prices as of 2019 , cities City . ",
+      "As of that point , UK had a total of 298 % of Newcastle American City ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "8",
+         "13": "8"
+      }
+   ],
+   "data": [
+      {
+         "City": "Reading",
+         "Price per square meter in euros": "468"
+      },
+      {
+         "City": "Manchester",
+         "Price per square meter in euros": "444"
+      },
+      {
+         "City": "Bristol",
+         "Price per square meter in euros": "438"
+      },
+      {
+         "City": "Edinburgh",
+         "Price per square meter in euros": "425"
+      },
+      {
+         "City": "Birmingham",
+         "Price per square meter in euros": "413"
+      },
+      {
+         "City": "Glasgow",
+         "Price per square meter in euros": "389"
+      },
+      {
+         "City": "Leeds",
+         "Price per square meter in euros": "365"
+      },
+      {
+         "City": "Cardiff",
+         "Price per square meter in euros": "304"
+      },
+      {
+         "City": "Newcastle",
+         "Price per square meter in euros": "298"
+      }
+   ]
+}

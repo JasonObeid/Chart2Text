@@ -1,0 +1,47 @@
+{
+   "title": "Glencore 's number of employees 2013 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Number of employees Glencore from 2013 to 2018 . ",
+      "In 2018 , the company had a total of 158000 employees ."
+   ],
+   "trends": [
+      {
+         "10": "5",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": "158000"
+      },
+      {
+         "Year": "2017",
+         "Number of employees": "145977"
+      },
+      {
+         "Year": "2016",
+         "Number of employees": "154832"
+      },
+      {
+         "Year": "2015",
+         "Number of employees": "156468"
+      },
+      {
+         "Year": "2014",
+         "Number of employees": "181349"
+      },
+      {
+         "Year": "2013",
+         "Number of employees": "203637"
+      }
+   ]
+}

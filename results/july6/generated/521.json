@@ -1,0 +1,59 @@
+{
+   "title": "Annual gross salary percentiles in the United Kingdom ( UK ) in 2019",
+   "xAxis": "Percentiles",
+   "yAxis": "Average annual pay in GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Average of the Annual gross conditioner/creme rinse percentiles in the United in 2019 . ",
+      "In that year , the Annual gross salary Percentiles of the United was OGX with Average that amounted to approximately 54180 million GBP ."
+   ],
+   "trends": [
+      {},
+      {
+         "20": "9"
+      }
+   ],
+   "data": [
+      {
+         "Percentiles": "10",
+         "Average annual pay in GBP": "8160"
+      },
+      {
+         "Percentiles": "20",
+         "Average annual pay in GBP": "12970"
+      },
+      {
+         "Percentiles": "25",
+         "Average annual pay in GBP": "15480"
+      },
+      {
+         "Percentiles": "30",
+         "Average annual pay in GBP": "17510"
+      },
+      {
+         "Percentiles": "40",
+         "Average annual pay in GBP": "21000"
+      },
+      {
+         "Percentiles": "60",
+         "Average annual pay in GBP": "29228"
+      },
+      {
+         "Percentiles": "70",
+         "Average annual pay in GBP": "34531"
+      },
+      {
+         "Percentiles": "75",
+         "Average annual pay in GBP": "37715"
+      },
+      {
+         "Percentiles": "80",
+         "Average annual pay in GBP": "41402"
+      },
+      {
+         "Percentiles": "90",
+         "Average annual pay in GBP": "54180"
+      }
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "title": "Number of knife crimes in London 2010 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of offences (in 1,000s)",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of offences (in 1,000s), with a total of 9 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2018/19 to 2014/15.",
+      " On the contrary, the next significant trend is  positive which exists from 2014/15 to 2010/11."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=1.53x+-3078.3",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 4,
+         "end": 8,
+         "trend": "y=-1.14x+2299.37",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Number of offences (in 1,000s)": 14.84
+      },
+      {
+         "Year": "2017/18",
+         "Number of offences (in 1,000s)": 14.77
+      },
+      {
+         "Year": "2016/17",
+         "Number of offences (in 1,000s)": 12.11
+      },
+      {
+         "Year": "2015/16",
+         "Number of offences (in 1,000s)": 9.74
+      },
+      {
+         "Year": "2014/15",
+         "Number of offences (in 1,000s)": 9.69
+      },
+      {
+         "Year": "2013/14",
+         "Number of offences (in 1,000s)": 10.08
+      },
+      {
+         "Year": "2012/13",
+         "Number of offences (in 1,000s)": 11.38
+      },
+      {
+         "Year": "2011/12",
+         "Number of offences (in 1,000s)": 14.17
+      },
+      {
+         "Year": "2010/11",
+         "Number of offences (in 1,000s)": 13.33
+      }
+   ]
+}

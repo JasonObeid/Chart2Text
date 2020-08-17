@@ -1,0 +1,108 @@
+{
+   "title": "Youth unemployment rate in Bhutan in 2019",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Youth unemployment rate in Bhutan from 1999 and 2019 . ",
+      "According to the source , the data are ILO estimates . ",
+      "In 2019 , the estimated Youth unemployment rate in Bhutan was at 9.69 % ."
+   ],
+   "trends": [
+      {
+         "10": "20",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": "9.69"
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": "9.58"
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": "9.57"
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": "9.88"
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": "9.97"
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": "9"
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": "9.25"
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": "6.99"
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": "8.93"
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": "8.6"
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": "12.46"
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": "10.81"
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": "11.2"
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": "9.57"
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": "9.41"
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": "7.74"
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": "5.82"
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": "6.06"
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": "6.26"
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": "5.8"
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": "4.89"
+      }
+   ]
+}

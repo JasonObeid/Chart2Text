@@ -1,0 +1,42 @@
+{
+   "title": "Kidney transplants in the United Kingdom ( UK ) 2018/19",
+   "xAxis": "Country of residence",
+   "yAxis": "Number of transplants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "In the period 2018/19 , 2058 Kidney transplants were carried out in England , followed by 109 conducted in Wales . ",
+      "England has by far the largest population of the countries in the United Kingdom , so it is unsurprising it has the highest Number of transplants performed in a year . ",
+      "State of Kidney transplants in the UK Number of Kidney transplants in the United Kingdom in 2018/19 was an five percent increase from the Number that took place in the preceding year ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "12": "0",
+         "16": "1",
+         "19": "1"
+      },
+      {
+         "0": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country of residence": "England",
+         "Number of transplants": "2058"
+      },
+      {
+         "Country of residence": "Wales",
+         "Number of transplants": "109"
+      },
+      {
+         "Country of residence": "Scotland",
+         "Number of transplants": "171"
+      },
+      {
+         "Country of residence": "Northern Ireland",
+         "Number of transplants": "48"
+      }
+   ]
+}

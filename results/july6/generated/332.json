@@ -1,0 +1,140 @@
+{
+   "title": "United Kingdom ( UK ) : suicide rate 2000 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The Kingdom of United among adults in United Kingdom has been creeping upwards since 2000 . ",
+      "In that Year , 18.4 % of Male and Female in United Kingdom were classified as obese . ",
+      "However , 2000 2018 this share had increased to 5.4 % for Female and 17.2 % for Male ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "18",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "18",
+            "1"
+         ]
+      },
+      {
+         "3": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Male": "17.2",
+         "Female": "5.4"
+      },
+      {
+         "Year": "2017",
+         "Male": "15.5",
+         "Female": "4.9"
+      },
+      {
+         "Year": "2016",
+         "Male": "16.0",
+         "Female": "5.0"
+      },
+      {
+         "Year": "2015",
+         "Male": "16.6",
+         "Female": "5.4"
+      },
+      {
+         "Year": "2014",
+         "Male": "16.8",
+         "Female": "5.2"
+      },
+      {
+         "Year": "2013",
+         "Male": "17.8",
+         "Female": "4.8"
+      },
+      {
+         "Year": "2012",
+         "Male": "16.8",
+         "Female": "4.9"
+      },
+      {
+         "Year": "2011",
+         "Male": "16.8",
+         "Female": "5.3"
+      },
+      {
+         "Year": "2010",
+         "Male": "15.8",
+         "Female": "4.9"
+      },
+      {
+         "Year": "2009",
+         "Male": "16.1",
+         "Female": "4.9"
+      },
+      {
+         "Year": "2008",
+         "Male": "16.3",
+         "Female": "5.0"
+      },
+      {
+         "Year": "2007",
+         "Male": "15.6",
+         "Female": "4.7"
+      },
+      {
+         "Year": "2006",
+         "Male": "16.2",
+         "Female": "5.0"
+      },
+      {
+         "Year": "2005",
+         "Male": "16.4",
+         "Female": "5.5"
+      },
+      {
+         "Year": "2004",
+         "Male": "16.9",
+         "Female": "5.8"
+      },
+      {
+         "Year": "2003",
+         "Male": "16.9",
+         "Female": "5.5"
+      },
+      {
+         "Year": "2002",
+         "Male": "17.1",
+         "Female": "5.6"
+      },
+      {
+         "Year": "2001",
+         "Male": "17.9",
+         "Female": "5.5"
+      },
+      {
+         "Year": "2000",
+         "Male": "18.4",
+         "Female": "5.9"
+      }
+   ]
+}

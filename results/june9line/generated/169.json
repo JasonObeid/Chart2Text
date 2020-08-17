@@ -1,0 +1,74 @@
+{
+   "title": "Population density in Illinois 1960 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of residents per square mile",
+   "graphType": "line",
+   "summary": [
+      "This graph shows the Population density in the federal state of Illinois from 1960 to 2018 . ",
+      "In 2018 , the Population density of Illinois stood at 229.5 residents per square mile of land area ."
+   ],
+   "trends": [
+      {
+         "13": "12",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of residents per square mile": "229.5"
+      },
+      {
+         "Year": "2017",
+         "Number of residents per square mile": "230.6"
+      },
+      {
+         "Year": "2016",
+         "Number of residents per square mile": "230.6"
+      },
+      {
+         "Year": "2015",
+         "Number of residents per square mile": "231.6"
+      },
+      {
+         "Year": "2014",
+         "Number of residents per square mile": "232.0"
+      },
+      {
+         "Year": "2013",
+         "Number of residents per square mile": "232.0"
+      },
+      {
+         "Year": "2012",
+         "Number of residents per square mile": "231.9"
+      },
+      {
+         "Year": "2010",
+         "Number of residents per square mile": "231.1"
+      },
+      {
+         "Year": "2000",
+         "Number of residents per square mile": "223.7"
+      },
+      {
+         "Year": "1990",
+         "Number of residents per square mile": "205.9"
+      },
+      {
+         "Year": "1980",
+         "Number of residents per square mile": "205.8"
+      },
+      {
+         "Year": "1970",
+         "Number of residents per square mile": "200.1"
+      },
+      {
+         "Year": "1960",
+         "Number of residents per square mile": "181.3"
+      }
+   ]
+}

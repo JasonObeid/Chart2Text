@@ -1,0 +1,69 @@
+{
+   "title": "Global virtual reality video gaming revenue 2015 - 2020 , by segment",
+   "labels": [
+      "Year",
+      "PC",
+      "Mobile",
+      "Console"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the virtual reality of video gaming in Global from 2016 to 2020 , revenue 2015 . ",
+      "For 2020 , the virtual reality of PC video gaming in Global is estimated to reach 8.5 % ."
+   ],
+   "trends": [
+      {
+         "12": [
+            "4",
+            "0"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "PC": "8.5",
+         "Mobile": "8.2",
+         "Console": "6.1"
+      },
+      {
+         "Year": "2019",
+         "PC": "5.4",
+         "Mobile": "5.0",
+         "Console": "4.6"
+      },
+      {
+         "Year": "2018",
+         "PC": "3.8",
+         "Mobile": "3.2",
+         "Console": "2.7"
+      },
+      {
+         "Year": "2017",
+         "PC": "2.5",
+         "Mobile": "1.4",
+         "Console": "1.9"
+      },
+      {
+         "Year": "2016",
+         "PC": "1.6",
+         "Mobile": "0.7",
+         "Console": "1.2"
+      }
+   ]
+}

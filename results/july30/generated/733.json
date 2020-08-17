@@ -1,0 +1,56 @@
+{
+   "title": "France : public debt 2017 to 2022\n",
+   "xAxis": "Year",
+   "yAxis": "Share of GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of GDP, with a total of 6 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2022 to 2019.",
+      " Correspondingly, the next significant trend is  negative which exists from 2019 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-1.9x+3933.65",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 3,
+         "end": 5,
+         "trend": "y=0.15x+-205.8",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2022",
+         "Share of GDP": 91.4
+      },
+      {
+         "Year": "2021",
+         "Share of GDP": 94.2
+      },
+      {
+         "Year": "2020",
+         "Share of GDP": 96.1
+      },
+      {
+         "Year": "2019",
+         "Share of GDP": 97.1
+      },
+      {
+         "Year": "2018",
+         "Share of GDP": 96.8
+      },
+      {
+         "Year": "2017",
+         "Share of GDP": 96.8
+      }
+   ]
+}

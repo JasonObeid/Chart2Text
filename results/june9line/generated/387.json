@@ -1,0 +1,65 @@
+{
+   "title": "Number of students in upper secondary education in Denmark 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of students",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , over 150608 % of Denmark were students areas in students areas and cities . ",
+      "Number defines the Number of students in the students of a country . ",
+      "Just like Number , the students density within the nation has risen , reaching 46 inhabitants per square kilometer , meaning more people are sharing less space ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "4": "1"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of students": "148551"
+      },
+      {
+         "Year": "2017",
+         "Number of students": "150608"
+      },
+      {
+         "Year": "2016",
+         "Number of students": "149788"
+      },
+      {
+         "Year": "2015",
+         "Number of students": "148144"
+      },
+      {
+         "Year": "2014",
+         "Number of students": "147760"
+      },
+      {
+         "Year": "2013",
+         "Number of students": "148051"
+      },
+      {
+         "Year": "2012",
+         "Number of students": "144791"
+      },
+      {
+         "Year": "2011",
+         "Number of students": "140259"
+      },
+      {
+         "Year": "2010",
+         "Number of students": "132619"
+      },
+      {
+         "Year": "2009",
+         "Number of students": "122837"
+      },
+      {
+         "Year": "2008",
+         "Number of students": "118217"
+      }
+   ]
+}

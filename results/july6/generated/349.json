@@ -1,0 +1,41 @@
+{
+   "title": "Most popular mobile payment services in Sweden 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a 2017 survey among Americans aged 16 and older regarding the Most they are looking for in a close mobile . ",
+      "This statistic only shows the top five answers to that question . ",
+      "75 % of the respondents stated a close mobile has to be loyal ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Swish",
+         "Share of respondents": "75"
+      },
+      {
+         "Response": "PayPal Mobile",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "WyWallet",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "None",
+         "Share of respondents": "21"
+      }
+   ]
+}

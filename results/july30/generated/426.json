@@ -1,0 +1,52 @@
+{
+   "title": "Deaths of British tourists abroad 2009 to 2014\n",
+   "xAxis": "Year",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of deaths, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2013/2014 to 2011/2012.",
+      " Additionally, the next significant trend is  negative which exists from 2011/2012 to 2009/2010."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-1063.5x+2145275.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=153.5x+-302488.67",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013/2014",
+         "Number of deaths": 4110.0
+      },
+      {
+         "Year": "2012/2013",
+         "Number of deaths": 6193.0
+      },
+      {
+         "Year": "2011/2012",
+         "Number of deaths": 6237.0
+      },
+      {
+         "Year": "2010/2011",
+         "Number of deaths": 5972.0
+      },
+      {
+         "Year": "2009/2010",
+         "Number of deaths": 5930.0
+      }
+   ]
+}

@@ -1,0 +1,45 @@
+{
+   "title": "Most followed sports leagues in the U.S. 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "According to a 2019 survey , NFL for the followed of sports leagues for electricity generation in the U.S. outweighed opposition . ",
+      "Of respondents , 35 % supported its followed , compared to 23 % who opposed it . ",
+      "Despite sports disasters occurring as recently 2011 , when a tsunami hit a power plant in Fukushima , Japan approximately 34 % of U.S. residents believe it provides a safe source of leagues ."
+   ],
+   "trends": [
+      {
+         "6": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Response": "NFL",
+         "Share of respondents": "33"
+      },
+      {
+         "Response": "MLB",
+         "Share of respondents": "16"
+      },
+      {
+         "Response": "NBA",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "NHL",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "MLS",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "I don't follow any of these leagues",
+         "Share of respondents": "32"
+      }
+   ]
+}

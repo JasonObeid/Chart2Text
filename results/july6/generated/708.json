@@ -1,0 +1,76 @@
+{
+   "title": "Italy : demographic trends 2016 - 2050 , by age",
+   "labels": [
+      "Year",
+      "2016",
+      "2050"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the share of buyers who have demographic Italy in the 2016 two prior to the survey and , of those , what percentage demographic second-hand Italy , based on a survey carried out in the Italy ( ) in late 2015 . ",
+      "The survey organizes the participants in various groups age and The age group with the largest proportion of respondents who had demographic a 2016 was 55 to 64 2016 , and for 2050 Italy this was the 35 to 44 age group . ",
+      "The age group with the smallest proportion of respondents , who had demographic a 2016 was 7446443 - 8083179 of age and the group with the smallest share of respondents , who had demographic a 2050 2016 in the 2016 two was at the age of 65 and up ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "17": [
+            "8",
+            "2"
+         ],
+         "19": [
+            "1",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "75 years and older",
+         "2016": "6889920",
+         "2050": "12923835"
+      },
+      {
+         "Year": "65-74",
+         "2016": "6540968",
+         "2050": "8083179"
+      },
+      {
+         "Year": "55-64",
+         "2016": "7773579",
+         "2050": "7649903"
+      },
+      {
+         "Year": "45-54",
+         "2016": "9807228",
+         "2050": "7457328"
+      },
+      {
+         "Year": "35-44",
+         "2016": "9106434",
+         "2050": "7321092"
+      },
+      {
+         "Year": "25-34",
+         "2016": "7105079",
+         "2050": "6454427"
+      },
+      {
+         "Year": "18-24",
+         "2016": "4275793",
+         "2050": "4008739"
+      },
+      {
+         "Year": "14-17",
+         "2016": "2334662",
+         "2050": "2201461"
+      },
+      {
+         "Year": "0-13",
+         "2016": "8004566",
+         "2050": "7446443"
+      }
+   ]
+}

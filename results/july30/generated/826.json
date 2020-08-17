@@ -1,0 +1,65 @@
+{
+   "title": "Olympic Summer Games - revenue generated from domestic sponsorships 1996 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Domestic sponsorship revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Domestic sponsorship revenue in million U.S. dollars, with a total of 6 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2016_Rio to 2008_Beijing.",
+      " In a similar manner, the next significant trend is  positive which exists from 2004_Athens to 1996_Atlanta.",
+      " Similarly, the next significant trend is  negative which exists from 2008_Beijing to 2004_Athens."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-46.25x+94127.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 3,
+         "end": 5,
+         "trend": "y=-15.5x+31406.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 2,
+         "end": 3,
+         "trend": "y=229.0x+-458614.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016 Rio",
+         "Domestic sponsorship revenue in million U.S. dollars": 848.0
+      },
+      {
+         "Year": "2012 London",
+         "Domestic sponsorship revenue in million U.S. dollars": 1150.0
+      },
+      {
+         "Year": "2008 Beijing",
+         "Domestic sponsorship revenue in million U.S. dollars": 1218.0
+      },
+      {
+         "Year": "2004 Athens",
+         "Domestic sponsorship revenue in million U.S. dollars": 302.0
+      },
+      {
+         "Year": "2000 Sydney",
+         "Domestic sponsorship revenue in million U.S. dollars": 492.0
+      },
+      {
+         "Year": "1996 Atlanta",
+         "Domestic sponsorship revenue in million U.S. dollars": 426.0
+      }
+   ]
+}

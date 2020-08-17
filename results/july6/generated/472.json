@@ -1,0 +1,40 @@
+{
+   "title": "Rapeseed production volume worldwide by country 2018/2019",
+   "xAxis": "Country",
+   "yAxis": "Rapeseed production in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Rapeseed production volume worldwide Rapeseed in . ",
+      "In , the most important production partner worldwide Rapeseed was European_Union , accounting worldwide 21.1 million of all million ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "15": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "European Union",
+         "Rapeseed production in million metric tons": "19.6"
+      },
+      {
+         "Country": "Canada",
+         "Rapeseed production in million metric tons": "21.1"
+      },
+      {
+         "Country": "China",
+         "Rapeseed production in million metric tons": "12.85"
+      },
+      {
+         "Country": "India",
+         "Rapeseed production in million metric tons": "6.6"
+      },
+      {
+         "Country": "Other",
+         "Rapeseed production in million metric tons": "10.75"
+      }
+   ]
+}

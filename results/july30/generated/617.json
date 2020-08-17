@@ -1,0 +1,48 @@
+{
+   "title": "U.S. automobile registrations 1999 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Number of passenger cars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of passenger cars, with a total of 4 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2017 to 1999.",
+      " Similarly, the next significant trend is  negative which exists from 2017 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-955322.32x+2043735923.12",
+         "magnitude": ""
+      },
+      {
+         "Length": 1,
+         "direction": "negative",
+         "start": 0,
+         "end": 0,
+         "trend": "y=1x+-87955.57",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of passenger cars": 111177029.0
+      },
+      {
+         "Year": "2011",
+         "Number of passenger cars": 126966714.0
+      },
+      {
+         "Year": "2005",
+         "Number of passenger cars": 136568083.0
+      },
+      {
+         "Year": "1999",
+         "Number of passenger cars": 127083019.0
+      }
+   ]
+}

@@ -1,0 +1,58 @@
+{
+   "title": "Most popular social media sites in Norway 2019 , by platform\n",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Platform, and a y axis representing Share of respondents.",
+      " The highest category is found at Facebook where Share of respondents is 83.0.",
+      " The lowest category is found at Tumblr where Share of respondents is 2.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of respondents": 83.0
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents": 61.0
+      },
+      {
+         "Platform": "YouTube",
+         "Share of respondents": 60.0
+      },
+      {
+         "Platform": "Instagram",
+         "Share of respondents": 57.0
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of respondents": 21.0
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents": 20.0
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of respondents": 16.0
+      },
+      {
+         "Platform": "Whatsapp",
+         "Share of respondents": 16.0
+      },
+      {
+         "Platform": "Reddit",
+         "Share of respondents": 6.0
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of respondents": 2.0
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "title": "Top U.S. states by number of active dentists 2017",
+   "xAxis": "State",
+   "yAxis": "Number of dentists",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Top U.S. the largest Number of by number dentists in the 2017 in . ",
+      "According to the source , Connecticut was the State U.S. the states by number dentists in 2017 U.S. 30638 dentists to every dentists thousand ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Number of dentists": "30638"
+      },
+      {
+         "State": "Texas",
+         "Number of dentists": "14917"
+      },
+      {
+         "State": "New York",
+         "Number of dentists": "14777"
+      },
+      {
+         "State": "Florida",
+         "Number of dentists": "10816"
+      },
+      {
+         "State": "Illinois",
+         "Number of dentists": "8730"
+      },
+      {
+         "State": "Pennsylvania",
+         "Number of dentists": "7724"
+      },
+      {
+         "State": "New Jersey",
+         "Number of dentists": "6991"
+      },
+      {
+         "State": "Ohio",
+         "Number of dentists": "6143"
+      },
+      {
+         "State": "Michigan",
+         "Number of dentists": "6093"
+      },
+      {
+         "State": "Massachusetts",
+         "Number of dentists": "5670"
+      }
+   ]
+}

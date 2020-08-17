@@ -1,0 +1,62 @@
+{
+   "title": "Best selling car models in the United Kingdom ( UK ) 2019",
+   "xAxis": "Car Model",
+   "yAxis": "Number of units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of units car models the world 's United Kingdom models 1900 to 2019 . ",
+      "The Car in Ford_Focus 1973 claimed 56619 lives . ",
+      "Natural disasters Natural , such as earthquakes , volcanic eruption , tsunamis floods , tornados or Kingdom affect people UK ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "2",
+         "7": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Car Model": "Ford Fiesta",
+         "Number of units sold": "77833"
+      },
+      {
+         "Car Model": "Volkswagen Golf",
+         "Number of units sold": "58994"
+      },
+      {
+         "Car Model": "Ford Focus",
+         "Number of units sold": "56619"
+      },
+      {
+         "Car Model": "Vauxhall Corsa",
+         "Number of units sold": "54239"
+      },
+      {
+         "Car Model": "Mercedes-Benz A Class",
+         "Number of units sold": "53724"
+      },
+      {
+         "Car Model": "Nissan Qashqai",
+         "Number of units sold": "52532"
+      },
+      {
+         "Car Model": "Ford Kuga",
+         "Number of units sold": "41671"
+      },
+      {
+         "Car Model": "MINI",
+         "Number of units sold": "41188"
+      },
+      {
+         "Car Model": "Volkswagen Polo",
+         "Number of units sold": "37453"
+      },
+      {
+         "Car Model": "Kia Sportage",
+         "Number of units sold": "34502"
+      }
+   ]
+}

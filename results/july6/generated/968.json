@@ -1,0 +1,92 @@
+{
+   "title": "Market share of the leading search engines in Germany 2014 to 2016",
+   "labels": [
+      "unknown",
+      "2014",
+      "2015",
+      "2016"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Germany share leading with the highest engines Germany 2014 2016 from 2014 to 2016 . ",
+      "In 2016 , Google was the engines Germany 2014 2016 ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Google",
+         "2014": "91.2",
+         "2015": "94.84",
+         "2016": "94.52"
+      },
+      {
+         "unknown": "Bing",
+         "2014": "3.5",
+         "2015": "2.59",
+         "2016": "4.16"
+      },
+      {
+         "unknown": "Yahoo",
+         "2014": "1.4",
+         "2015": "1.66",
+         "2016": "0.98"
+      },
+      {
+         "unknown": "T-Online",
+         "2014": "1",
+         "2015": "0.75",
+         "2016": "0.12"
+      },
+      {
+         "unknown": "Ask.com",
+         "2014": "0.5",
+         "2015": "0.18",
+         "2016": "0.12"
+      },
+      {
+         "unknown": "AOL Suche",
+         "2014": "0.5",
+         "2015": "0.13",
+         "2016": "0.08"
+      },
+      {
+         "unknown": "Yandex",
+         "2014": "0",
+         "2015": "0",
+         "2016": "0.06"
+      },
+      {
+         "unknown": "WEB.DE",
+         "2014": "0.6",
+         "2015": "0.05",
+         "2016": "0"
+      },
+      {
+         "unknown": "GMX",
+         "2014": "0.5",
+         "2015": "0.02",
+         "2016": "0"
+      },
+      {
+         "unknown": "Search.com",
+         "2014": "0.5",
+         "2015": "0.02",
+         "2016": "0"
+      },
+      {
+         "unknown": "Conduit",
+         "2014": "0.3",
+         "2015": "0.01",
+         "2016": "0"
+      }
+   ]
+}

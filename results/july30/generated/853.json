@@ -1,0 +1,122 @@
+{
+   "title": "Inflation rate in Argentina 2024 \n",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 18 data points. The chart has 4 significant trends.",
+      " The longest trend is  positive which exists from 2024 to 2019.",
+      " Additionally, the next significant trend is  negative which exists from 2019 to 2011.",
+      " Contrarily, the next significant trend is  positive which exists from 2009 to 2006.",
+      " Correspondingly, the next significant trend is  negative which exists from 2006 to 2004."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 0,
+         "end": 5,
+         "trend": "y=-7.97x+16151.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 5,
+         "end": 10,
+         "trend": "y=4.85x+-9754.86",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 12,
+         "end": 15,
+         "trend": "y=-1.41x+2845.25",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 15,
+         "end": 17,
+         "trend": "y=3.24x+-6487.88",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inflation rate compared to previous year": 16.98
+      },
+      {
+         "Year": "2023",
+         "Inflation rate compared to previous year": 22.21
+      },
+      {
+         "Year": "2022",
+         "Inflation rate compared to previous year": 26.87
+      },
+      {
+         "Year": "2021",
+         "Inflation rate compared to previous year": 32.26
+      },
+      {
+         "Year": "2020",
+         "Inflation rate compared to previous year": 51.0
+      },
+      {
+         "Year": "2019",
+         "Inflation rate compared to previous year": 54.44
+      },
+      {
+         "Year": "2018",
+         "Inflation rate compared to previous year": 34.28
+      },
+      {
+         "Year": "2017",
+         "Inflation rate compared to previous year": 25.68
+      },
+      {
+         "Year": "2013",
+         "Inflation rate compared to previous year": 10.62
+      },
+      {
+         "Year": "2012",
+         "Inflation rate compared to previous year": 10.04
+      },
+      {
+         "Year": "2011",
+         "Inflation rate compared to previous year": 9.78
+      },
+      {
+         "Year": "2010",
+         "Inflation rate compared to previous year": 10.46
+      },
+      {
+         "Year": "2009",
+         "Inflation rate compared to previous year": 6.27
+      },
+      {
+         "Year": "2008",
+         "Inflation rate compared to previous year": 8.59
+      },
+      {
+         "Year": "2007",
+         "Inflation rate compared to previous year": 8.83
+      },
+      {
+         "Year": "2006",
+         "Inflation rate compared to previous year": 10.9
+      },
+      {
+         "Year": "2005",
+         "Inflation rate compared to previous year": 9.64
+      },
+      {
+         "Year": "2004",
+         "Inflation rate compared to previous year": 4.42
+      }
+   ]
+}

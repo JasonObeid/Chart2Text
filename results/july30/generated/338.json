@@ -1,0 +1,85 @@
+{
+   "title": "Employments in the Netherlands 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Labor force in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Labor force in millions, with a total of 11 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2020 to 2014.",
+      " On the contrary, the next significant trend is  positive which exists from 2014 to 2012.",
+      " Similarly, the next significant trend is  negative which exists from 2012 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 0,
+         "end": 6,
+         "trend": "y=0.13x+-262.99",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 6,
+         "end": 8,
+         "trend": "y=-0.06x+129.05",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=0.03x+-41.98",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Labor force in millions": 8.94
+      },
+      {
+         "Year": "2019",
+         "Labor force in millions": 8.89
+      },
+      {
+         "Year": "2018",
+         "Labor force in millions": 8.78
+      },
+      {
+         "Year": "2017",
+         "Labor force in millions": 8.58
+      },
+      {
+         "Year": "2016",
+         "Labor force in millions": 8.4
+      },
+      {
+         "Year": "2015",
+         "Labor force in millions": 8.29
+      },
+      {
+         "Year": "2014",
+         "Labor force in millions": 8.21
+      },
+      {
+         "Year": "2013",
+         "Labor force in millions": 8.27
+      },
+      {
+         "Year": "2012",
+         "Labor force in millions": 8.33
+      },
+      {
+         "Year": "2011",
+         "Labor force in millions": 8.28
+      },
+      {
+         "Year": "2010",
+         "Labor force in millions": 8.28
+      }
+   ]
+}

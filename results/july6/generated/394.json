@@ -1,0 +1,95 @@
+{
+   "title": "Number of high net worth individuals in the UK 2009 to 2018",
+   "labels": [
+      "Year",
+      "United Kingdom",
+      "Europe"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "Between 2009 and 2018 , the individuals of Europe in UK have continuously been increased , from about 11.5 million units to almost 22 million in 2018 . ",
+      "On the other hand , the individuals of worth have been stagnating since 2014 , while tablet individuals peaked at 6.2 million units in 2016 . ",
+      "Moreover , we can see that net have appeared on the French market for mobile devices since 2016 : these body-borne devices are small computing devices which extend the performances of computing technologies ."
+   ],
+   "trends": [
+      {
+         "1": [
+            "9",
+            "0"
+         ],
+         "3": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "13": [
+            "4",
+            "0"
+         ],
+         "24": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "17": [
+            "2",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "United Kingdom": "556.0",
+         "Europe": "4800.0"
+      },
+      {
+         "Year": "2017",
+         "United Kingdom": "575.0",
+         "Europe": "4800.0"
+      },
+      {
+         "Year": "2016",
+         "United Kingdom": "568.3",
+         "Europe": "4497.0"
+      },
+      {
+         "Year": "2015",
+         "United Kingdom": "552.8",
+         "Europe": "4176.3"
+      },
+      {
+         "Year": "2014",
+         "United Kingdom": "549.6",
+         "Europe": "3985.2"
+      },
+      {
+         "Year": "2013",
+         "United Kingdom": "527.5",
+         "Europe": "3832.1"
+      },
+      {
+         "Year": "2012",
+         "United Kingdom": "465.1",
+         "Europe": "3407.6"
+      },
+      {
+         "Year": "2011",
+         "United Kingdom": "441.3",
+         "Europe": "3168.8"
+      },
+      {
+         "Year": "2010",
+         "United Kingdom": "454.3",
+         "Europe": "3134.6"
+      },
+      {
+         "Year": "2009",
+         "United Kingdom": "448.1",
+         "Europe": "2947.8"
+      }
+   ]
+}

@@ -1,0 +1,71 @@
+{
+   "title": "Average regular season home attendance of the Oakland Raiders 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average regular season home attendance of the Oakland Raiders Raiders from 2008 to 2019 . ",
+      "In 2019 , the Average attendance at home games of the Oakland Raiders Raiders was 52549 ."
+   ],
+   "trends": [
+      {
+         "14": "11",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": "52549"
+      },
+      {
+         "Year": "2018",
+         "Average attendance": "57919"
+      },
+      {
+         "Year": "2017",
+         "Average attendance": "57775"
+      },
+      {
+         "Year": "2016",
+         "Average attendance": "57320"
+      },
+      {
+         "Year": "2015",
+         "Average attendance": "54613"
+      },
+      {
+         "Year": "2014",
+         "Average attendance": "53699"
+      },
+      {
+         "Year": "2013",
+         "Average attendance": "50444"
+      },
+      {
+         "Year": "2012",
+         "Average attendance": "54216"
+      },
+      {
+         "Year": "2011",
+         "Average attendance": "59242"
+      },
+      {
+         "Year": "2010",
+         "Average attendance": "46431"
+      },
+      {
+         "Year": "2009",
+         "Average attendance": "44284"
+      },
+      {
+         "Year": "2008",
+         "Average attendance": "57850"
+      }
+   ]
+}

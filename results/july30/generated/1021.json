@@ -1,0 +1,76 @@
+{
+   "title": "Life expectancy in Mexico 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Life expectancy at birth in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Life expectancy at birth in years, with a total of 11 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2015 to 2007.",
+      " Also, the next significant trend is  negative which exists from 2017 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "positive",
+         "start": 2,
+         "end": 10,
+         "trend": "y=-0.05x+168.22",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=0.02x+24.52",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Life expectancy at birth in years": 74.95
+      },
+      {
+         "Year": "2016",
+         "Life expectancy at birth in years": 74.92
+      },
+      {
+         "Year": "2015",
+         "Life expectancy at birth in years": 74.9
+      },
+      {
+         "Year": "2014",
+         "Life expectancy at birth in years": 74.91
+      },
+      {
+         "Year": "2013",
+         "Life expectancy at birth in years": 74.93
+      },
+      {
+         "Year": "2012",
+         "Life expectancy at birth in years": 74.97
+      },
+      {
+         "Year": "2011",
+         "Life expectancy at birth in years": 75.01
+      },
+      {
+         "Year": "2010",
+         "Life expectancy at birth in years": 75.07
+      },
+      {
+         "Year": "2009",
+         "Life expectancy at birth in years": 75.13
+      },
+      {
+         "Year": "2008",
+         "Life expectancy at birth in years": 75.19
+      },
+      {
+         "Year": "2007",
+         "Life expectancy at birth in years": 75.26
+      }
+   ]
+}

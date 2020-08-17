@@ -1,0 +1,224 @@
+{
+   "title": "Percentage of U.S. state population receiving SNAP benefits ( Food Stamps ) 2011",
+   "xAxis": "State",
+   "yAxis": "Number of households in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of households in the U.S. in 2011 , population State . ",
+      "In 2011 , about 22 millions households were counted in the federal State of District_of_Columbia ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "District of Columbia",
+         "Number of households in millions": "22"
+      },
+      {
+         "State": "Mississippi",
+         "Number of households in millions": "21"
+      },
+      {
+         "State": "Tennessee",
+         "Number of households in millions": "20"
+      },
+      {
+         "State": "New Mexico",
+         "Number of households in millions": "20"
+      },
+      {
+         "State": "Michigan",
+         "Number of households in millions": "20"
+      },
+      {
+         "State": "Oregon",
+         "Number of households in millions": "20"
+      },
+      {
+         "State": "Louisiana",
+         "Number of households in millions": "19"
+      },
+      {
+         "State": "Maine",
+         "Number of households in millions": "19"
+      },
+      {
+         "State": "Alabama",
+         "Number of households in millions": "19"
+      },
+      {
+         "State": "Kentucky",
+         "Number of households in millions": "19"
+      },
+      {
+         "State": "West Virginia",
+         "Number of households in millions": "19"
+      },
+      {
+         "State": "Georgia",
+         "Number of households in millions": "18"
+      },
+      {
+         "State": "South Carolina",
+         "Number of households in millions": "18"
+      },
+      {
+         "State": "Arkansas",
+         "Number of households in millions": "17"
+      },
+      {
+         "State": "Florida",
+         "Number of households in millions": "16"
+      },
+      {
+         "State": "North Carolina",
+         "Number of households in millions": "16"
+      },
+      {
+         "State": "Missouri",
+         "Number of households in millions": "16"
+      },
+      {
+         "State": "Arizona",
+         "Number of households in millions": "16"
+      },
+      {
+         "State": "Oklahoma",
+         "Number of households in millions": "16"
+      },
+      {
+         "State": "Washington",
+         "Number of households in millions": "15"
+      },
+      {
+         "State": "Texas",
+         "Number of households in millions": "15"
+      },
+      {
+         "State": "Vermont",
+         "Number of households in millions": "15"
+      },
+      {
+         "State": "New York",
+         "Number of households in millions": "15"
+      },
+      {
+         "State": "Rhode Island",
+         "Number of households in millions": "15"
+      },
+      {
+         "State": "Delaware",
+         "Number of households in millions": "15"
+      },
+      {
+         "State": "Ohio",
+         "Number of households in millions": "15"
+      },
+      {
+         "State": "Wisconsin",
+         "Number of households in millions": "14"
+      },
+      {
+         "State": "Idaho",
+         "Number of households in millions": "14"
+      },
+      {
+         "State": "Illinois",
+         "Number of households in millions": "14"
+      },
+      {
+         "State": "Pennsylvania",
+         "Number of households in millions": "13"
+      },
+      {
+         "State": "Indiana",
+         "Number of households in millions": "13"
+      },
+      {
+         "State": "Nevada",
+         "Number of households in millions": "12"
+      },
+      {
+         "State": "Montana",
+         "Number of households in millions": "12"
+      },
+      {
+         "State": "South Dakota",
+         "Number of households in millions": "12"
+      },
+      {
+         "State": "Iowa",
+         "Number of households in millions": "12"
+      },
+      {
+         "State": "Alaska",
+         "Number of households in millions": "12"
+      },
+      {
+         "State": "Hawaii",
+         "Number of households in millions": "12"
+      },
+      {
+         "State": "Massachusetts",
+         "Number of households in millions": "12"
+      },
+      {
+         "State": "Connecticut",
+         "Number of households in millions": "11"
+      },
+      {
+         "State": "Virginia",
+         "Number of households in millions": "11"
+      },
+      {
+         "State": "Maryland",
+         "Number of households in millions": "11"
+      },
+      {
+         "State": "Kansas",
+         "Number of households in millions": "10"
+      },
+      {
+         "State": "California",
+         "Number of households in millions": "10"
+      },
+      {
+         "State": "Utah",
+         "Number of households in millions": "10"
+      },
+      {
+         "State": "North Dakota",
+         "Number of households in millions": "9"
+      },
+      {
+         "State": "New Hampshire",
+         "Number of households in millions": "9"
+      },
+      {
+         "State": "Colorado",
+         "Number of households in millions": "9"
+      },
+      {
+         "State": "New Jersey",
+         "Number of households in millions": "9"
+      },
+      {
+         "State": "Minnesota",
+         "Number of households in millions": "9"
+      },
+      {
+         "State": "Nebraska",
+         "Number of households in millions": "9"
+      },
+      {
+         "State": "Wyoming",
+         "Number of households in millions": "6"
+      }
+   ]
+}

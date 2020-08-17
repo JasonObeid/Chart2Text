@@ -1,0 +1,67 @@
+{
+   "title": "Volvo car sales in Sweden 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "In the last decade , the car of the city of Volvo increased by roughly 55,000 . ",
+      "In 2009 , Volvo had approximately 300,000 sold . ",
+      "By 2019 , the Units of sold had grown to nearly 353,000 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "10"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Units sold": "65282"
+      },
+      {
+         "Year": "2018",
+         "Units sold": "69943"
+      },
+      {
+         "Year": "2017",
+         "Units sold": "75506"
+      },
+      {
+         "Year": "2016",
+         "Units sold": "71238"
+      },
+      {
+         "Year": "2015",
+         "Units sold": "71221"
+      },
+      {
+         "Year": "2014",
+         "Units sold": "61496"
+      },
+      {
+         "Year": "2013",
+         "Units sold": "53939"
+      },
+      {
+         "Year": "2012",
+         "Units sold": "52800"
+      },
+      {
+         "Year": "2011",
+         "Units sold": "58862"
+      },
+      {
+         "Year": "2010",
+         "Units sold": "53741"
+      },
+      {
+         "Year": "2009",
+         "Units sold": "41808"
+      }
+   ]
+}

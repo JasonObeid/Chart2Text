@@ -1,0 +1,70 @@
+{
+   "title": "Total population of Singapore 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Total population of Singapore from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of Singapore amounted to around 5.64 millions Inhabitants . ",
+      "See figures for Switzerland 's population and the population of Italy for comparison ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "11": "6"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "5.83"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "5.8"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "5.76"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "5.73"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "5.7"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "5.67"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "5.64"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "5.61"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "5.61"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "5.54"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "5.47"
+      }
+   ]
+}

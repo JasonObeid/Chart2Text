@@ -1,0 +1,64 @@
+{
+   "title": "Tea consumption by social class in the United Kingdom ( UK ) 2016",
+   "labels": [
+      "unknown",
+      "ABC1",
+      "C2DE"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Tea consumption by social and class United in the Kingdom , Saui-Arabia and Green_bags , as at 2016 . ",
+      "As at 2016 , the Tea consumption by social in the Kingdom amounted to 66 Fruit_and_herbal_tea dollars per ton , whereas the class C2DE amounted to 34 Fruit_and_herbal_tea dollars per ton . ",
+      "Tea consumption is mainly used for the manufacture of antifreeze formulations and polyesters ."
+   ],
+   "trends": [
+      {
+         "18": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "14": [
+            "2",
+            "1"
+         ],
+         "15": [
+            "1",
+            "0"
+         ],
+         "26": [
+            "2",
+            "2"
+         ],
+         "27": [
+            "1",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "unknown": "Black tea",
+         "ABC1": "48",
+         "C2DE": "52"
+      },
+      {
+         "unknown": "Fruit and herbal tea",
+         "ABC1": "63",
+         "C2DE": "37"
+      },
+      {
+         "unknown": "Specialty bags",
+         "ABC1": "66",
+         "C2DE": "34"
+      },
+      {
+         "unknown": "Green bags",
+         "ABC1": "59",
+         "C2DE": "41"
+      }
+   ]
+}

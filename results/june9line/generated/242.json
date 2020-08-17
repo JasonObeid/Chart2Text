@@ -1,0 +1,51 @@
+{
+   "title": "Share of aging population Thailand 2015 to 2035",
+   "xAxis": "Year",
+   "yAxis": "Share of population older than 65 years old",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the projected Share of population older in the Thailand ( UK ) forecasted from 2015 to 2035 . ",
+      "According to the figures as of 2015 , it can be seen that the Share of population older was forecasted to increase from approximately 10.6 % in 2015 to a total of 22.8 % by the Year 2035 . ",
+      "These figures would lead to an average of 16 % older per annum 2035 the years 2015 and 2035 ."
+   ],
+   "trends": [
+      {
+         "17": "4",
+         "19": "0"
+      },
+      {
+         "6": "4",
+         "24": "4",
+         "27": "4",
+         "32": "0",
+         "37": "0"
+      },
+      {
+         "8": "2",
+         "16": "4",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2035",
+         "Share of population older than 65 years old": "22.8"
+      },
+      {
+         "Year": "2030",
+         "Share of population older than 65 years old": "19.4"
+      },
+      {
+         "Year": "2025",
+         "Share of population older than 65 years old": "16"
+      },
+      {
+         "Year": "2020",
+         "Share of population older than 65 years old": "12.9"
+      },
+      {
+         "Year": "2015",
+         "Share of population older than 65 years old": "10.6"
+      }
+   ]
+}

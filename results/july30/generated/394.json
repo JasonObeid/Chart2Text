@@ -1,0 +1,34 @@
+{
+   "title": "Market share of soft drink companies in South Africa 2010\n",
+   "xAxis": "Company",
+   "yAxis": "Market share in South Africa",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Company, and a y axis representing Market share in South Africa.",
+      " The highest category is found at The_Coca-Cola_Co where Market share in South Africa is 49.8.",
+      " The lowest category is found at PepsiCo_Inc where Market share in South Africa is 5.5."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Company": "PepsiCo Inc",
+         "Market share in South Africa": 5.5
+      },
+      {
+         "Company": "Tiger Brands Ltd",
+         "Market share in South Africa": 9.4
+      },
+      {
+         "Company": "Other",
+         "Market share in South Africa": 35.3
+      },
+      {
+         "Company": "The Coca-Cola Co",
+         "Market share in South Africa": 49.8
+      }
+   ]
+}

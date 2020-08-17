@@ -1,0 +1,112 @@
+{
+   "title": "Infant mortality rate in the Netherlands 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Infant mortality per 1,000 live born children",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Infant mortality per 1,000 live born children, with a total of 11 data points. The chart has 6 significant trends.",
+      " The longest trend is  negative which exists from 2017 to 2015.",
+      " Contrarily, the next significant trend is  positive which exists from 2015 to 2013.",
+      " Similarly, the next significant trend is  negative which exists from 2013 to 2011.",
+      " On the contrary, the next significant trend is  neutral which exists from 2010 to 2008.",
+      " On the contrary, the next significant trend is  positive which exists from 2018 to 2017.",
+      " Correspondingly, the next significant trend is  positive which exists from 2011 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 1,
+         "end": 3,
+         "trend": "y=0.15x+-298.93",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 3,
+         "end": 5,
+         "trend": "y=-0.25x+507.07",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 5,
+         "end": 7,
+         "trend": "y=0.1x+-197.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 8,
+         "end": 10,
+         "trend": "y=0.0x+3.8",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-0.1x+205.3",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 7,
+         "end": 8,
+         "trend": "y=-0.2x+405.8",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Infant mortality per 1,000 live born children": 3.5
+      },
+      {
+         "Year": "2017",
+         "Infant mortality per 1,000 live born children": 3.6
+      },
+      {
+         "Year": "2016",
+         "Infant mortality per 1,000 live born children": 3.5
+      },
+      {
+         "Year": "2015",
+         "Infant mortality per 1,000 live born children": 3.3
+      },
+      {
+         "Year": "2014",
+         "Infant mortality per 1,000 live born children": 3.6
+      },
+      {
+         "Year": "2013",
+         "Infant mortality per 1,000 live born children": 3.8
+      },
+      {
+         "Year": "2012",
+         "Infant mortality per 1,000 live born children": 3.7
+      },
+      {
+         "Year": "2011",
+         "Infant mortality per 1,000 live born children": 3.6
+      },
+      {
+         "Year": "2010",
+         "Infant mortality per 1,000 live born children": 3.8
+      },
+      {
+         "Year": "2009",
+         "Infant mortality per 1,000 live born children": 3.8
+      },
+      {
+         "Year": "2008",
+         "Infant mortality per 1,000 live born children": 3.8
+      }
+   ]
+}

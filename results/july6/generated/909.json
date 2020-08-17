@@ -1,0 +1,101 @@
+{
+   "title": "Per capita real GDP of California 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita real GDP in chained 2012 U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Per capita real Gross Domestic Product of California from 2000 to 2018 . ",
+      "In 2018 , the Per capita real GDP of California stood at 68803 2012 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "13": "18",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "12": "0",
+         "13": "0",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita real GDP in chained 2012 U.S. dollars": "68803"
+      },
+      {
+         "Year": "2017",
+         "Per capita real GDP in chained 2012 U.S. dollars": "66262"
+      },
+      {
+         "Year": "2016",
+         "Per capita real GDP in chained 2012 U.S. dollars": "63785"
+      },
+      {
+         "Year": "2015",
+         "Per capita real GDP in chained 2012 U.S. dollars": "62347"
+      },
+      {
+         "Year": "2014",
+         "Per capita real GDP in chained 2012 U.S. dollars": "59871"
+      },
+      {
+         "Year": "2013",
+         "Per capita real GDP in chained 2012 U.S. dollars": "58015"
+      },
+      {
+         "Year": "2012",
+         "Per capita real GDP in chained 2012 U.S. dollars": "56492"
+      },
+      {
+         "Year": "2011",
+         "Per capita real GDP in chained 2012 U.S. dollars": "55565"
+      },
+      {
+         "Year": "2010",
+         "Per capita real GDP in chained 2012 U.S. dollars": "55147"
+      },
+      {
+         "Year": "2009",
+         "Per capita real GDP in chained 2012 U.S. dollars": "54827"
+      },
+      {
+         "Year": "2008",
+         "Per capita real GDP in chained 2012 U.S. dollars": "57675"
+      },
+      {
+         "Year": "2007",
+         "Per capita real GDP in chained 2012 U.S. dollars": "58030"
+      },
+      {
+         "Year": "2006",
+         "Per capita real GDP in chained 2012 U.S. dollars": "57527"
+      },
+      {
+         "Year": "2005",
+         "Per capita real GDP in chained 2012 U.S. dollars": "55547"
+      },
+      {
+         "Year": "2004",
+         "Per capita real GDP in chained 2012 U.S. dollars": "53474"
+      },
+      {
+         "Year": "2003",
+         "Per capita real GDP in chained 2012 U.S. dollars": "51780"
+      },
+      {
+         "Year": "2002",
+         "Per capita real GDP in chained 2012 U.S. dollars": "50002"
+      },
+      {
+         "Year": "2001",
+         "Per capita real GDP in chained 2012 U.S. dollars": "49385"
+      },
+      {
+         "Year": "2000",
+         "Per capita real GDP in chained 2012 U.S. dollars": "50310"
+      }
+   ]
+}

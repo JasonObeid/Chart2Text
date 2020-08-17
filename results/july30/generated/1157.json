@@ -1,0 +1,41 @@
+{
+   "title": "Monsanto 's number of regular and temporary workers worldwide 2013 to 2017",
+   "labels": [
+      "Worker Type",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 2 categories for the x axis of Worker Type representing 2013, 2014, 2015, 2016, and 2017.",
+      " The highest category is found at Regular workers with a mean value of 21620.0.",
+      " The second highest category is found at Temporary workers with a mean value of 3600.0.",
+      " This represents a difference of 142.9%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Worker Type": "Regular workers",
+         "2013": "21900",
+         "2014": "22400",
+         "2015": "22500",
+         "2016": "20800",
+         "2017": "20500"
+      },
+      {
+         "Worker Type": "Temporary workers",
+         "2013": "4300",
+         "2014": "4600",
+         "2015": "3000",
+         "2016": "3300",
+         "2017": "2800"
+      }
+   ]
+}

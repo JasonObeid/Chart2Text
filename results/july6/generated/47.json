@@ -1,0 +1,99 @@
+{
+   "title": "American customer satisfaction index : Burger King restaurants in the U.S. 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "ACSI score",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the American customer satisfaction index scores of Burger King restaurants in the U.S. from 2000 to 2019 . ",
+      "Burger King 's ACSI score was 76 2019.The limited-service restaurant industry was not measured in 2004 ."
+   ],
+   "trends": [
+      {
+         "16": "18",
+         "18": "0"
+      },
+      {
+         "5": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "ACSI score": "76"
+      },
+      {
+         "Year": "2018",
+         "ACSI score": "76"
+      },
+      {
+         "Year": "2017",
+         "ACSI score": "77"
+      },
+      {
+         "Year": "2016",
+         "ACSI score": "76"
+      },
+      {
+         "Year": "2015",
+         "ACSI score": "72"
+      },
+      {
+         "Year": "2014",
+         "ACSI score": "76"
+      },
+      {
+         "Year": "2013",
+         "ACSI score": "76"
+      },
+      {
+         "Year": "2012",
+         "ACSI score": "75"
+      },
+      {
+         "Year": "2011",
+         "ACSI score": "75"
+      },
+      {
+         "Year": "2010",
+         "ACSI score": "74"
+      },
+      {
+         "Year": "2009",
+         "ACSI score": "69"
+      },
+      {
+         "Year": "2008",
+         "ACSI score": "71"
+      },
+      {
+         "Year": "2007",
+         "ACSI score": "69"
+      },
+      {
+         "Year": "2006",
+         "ACSI score": "70"
+      },
+      {
+         "Year": "2005",
+         "ACSI score": "71"
+      },
+      {
+         "Year": "2003",
+         "ACSI score": "68"
+      },
+      {
+         "Year": "2002",
+         "ACSI score": "68"
+      },
+      {
+         "Year": "2001",
+         "ACSI score": "65"
+      },
+      {
+         "Year": "2000",
+         "ACSI score": "67"
+      }
+   ]
+}

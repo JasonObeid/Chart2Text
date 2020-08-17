@@ -1,0 +1,48 @@
+{
+   "title": "Global datacenter colocation revenue 2014 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The timeline presents data on the datacenter colocation revenue 2014 sales Revenue worldwide from 2014 to 2023 . ",
+      "The source estimates that the Global VR 2014 market size in 2023 will be worth 22.8 billion U.S. dollars . ",
+      "This number is expected to grow 54.0 billion by the end of 2023 ."
+   ],
+   "trends": [
+      {
+         "14": "4",
+         "16": "0"
+      },
+      {
+         "11": "0",
+         "15": "4"
+      },
+      {
+         "7": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Revenue in billion U.S. dollars": "54.0"
+      },
+      {
+         "Year": "2018",
+         "Revenue in billion U.S. dollars": "38.2"
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion U.S. dollars": "28.9"
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": "27.0"
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": "22.8"
+      }
+   ]
+}

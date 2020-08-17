@@ -1,0 +1,80 @@
+{
+   "title": "Preferred Bible version in the U.S. 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey on the Preferred Bible Bible U.S. U.S. in Bible U.S. as of 2018 . ",
+      "The survey found that King_James_Version 2017 was Bible U.S. 's Preferred loved Bible U.S. princess with 2 out of 31 British adults choosing her as their favorite . ",
+      "New_International_Version and New_King_James_Version were second and third Preferred Bible at 9 and 13 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "14": "7",
+         "17": "0"
+      },
+      {
+         "0": "1",
+         "2": "3",
+         "10": "2",
+         "12": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "King James Version",
+         "Share of respondents": "31"
+      },
+      {
+         "Response": "New International Version",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "English Standard Version",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "New King James Version",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Amplified",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Christian Community",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "New American Standard",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "New Living Translation",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Revised Standard",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Contemporary English Version",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "New American Bible",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "All others (1 or less combined)",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Not sure",
+         "Share of respondents": "8"
+      }
+   ]
+}

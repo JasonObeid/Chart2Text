@@ -1,0 +1,99 @@
+{
+   "title": "Countries with the highest infant mortality rate 2017",
+   "xAxis": "Country",
+   "yAxis": "Child deaths in the first year of life per 1,000 live births",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Child of the Countries highest first mortality rate as of 2020 . ",
+      "As of 2017 , Afghanistan had the infant Country with a Child of 110.6 deaths first ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Afghanistan",
+         "Child deaths in the first year of life per 1,000 live births": "110.6"
+      },
+      {
+         "Country": "Somalia",
+         "Child deaths in the first year of life per 1,000 live births": "94.8"
+      },
+      {
+         "Country": "Central African Republic",
+         "Child deaths in the first year of life per 1,000 live births": "86.3"
+      },
+      {
+         "Country": "Guinea-Bissau",
+         "Child deaths in the first year of life per 1,000 live births": "85.7"
+      },
+      {
+         "Country": "Chad",
+         "Child deaths in the first year of life per 1,000 live births": "85.4"
+      },
+      {
+         "Country": "Niger",
+         "Child deaths in the first year of life per 1,000 live births": "81.1"
+      },
+      {
+         "Country": "Burkina Faso",
+         "Child deaths in the first year of life per 1,000 live births": "72.2"
+      },
+      {
+         "Country": "Nigeria",
+         "Child deaths in the first year of life per 1,000 live births": "69.8"
+      },
+      {
+         "Country": "Mali",
+         "Child deaths in the first year of life per 1,000 live births": "69.5"
+      },
+      {
+         "Country": "Sierra Leone",
+         "Child deaths in the first year of life per 1,000 live births": "68.4"
+      },
+      {
+         "Country": "Democratic Republic of Congo",
+         "Child deaths in the first year of life per 1,000 live births": "68.2"
+      },
+      {
+         "Country": "Angola",
+         "Child deaths in the first year of life per 1,000 live births": "67.6"
+      },
+      {
+         "Country": "Mozambique",
+         "Child deaths in the first year of life per 1,000 live births": "65.9"
+      },
+      {
+         "Country": "Equatorial Guinea",
+         "Child deaths in the first year of life per 1,000 live births": "65.2"
+      },
+      {
+         "Country": "South Sudan",
+         "Child deaths in the first year of life per 1,000 live births": "62.8"
+      },
+      {
+         "Country": "Zambia",
+         "Child deaths in the first year of life per 1,000 live births": "61.1"
+      },
+      {
+         "Country": "Gambia",
+         "Child deaths in the first year of life per 1,000 live births": "60.2"
+      },
+      {
+         "Country": "Comoros",
+         "Child deaths in the first year of life per 1,000 live births": "60.0"
+      },
+      {
+         "Country": "Burundi",
+         "Child deaths in the first year of life per 1,000 live births": "58.8"
+      },
+      {
+         "Country": "Uganda",
+         "Child deaths in the first year of life per 1,000 live births": "56.1"
+      }
+   ]
+}

@@ -1,0 +1,79 @@
+{
+   "title": "Terrorism - kidnappings grouped by country",
+   "xAxis": "Country",
+   "yAxis": "Number of kidnappings",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of the kidnappings worldwide as of 2019 , sorted by Country . ",
+      "In that year , there were 902 kidnappings in Somalia ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Somalia",
+         "Number of kidnappings": "2527"
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of kidnappings": "902"
+      },
+      {
+         "Country": "Pakistan",
+         "Number of kidnappings": "430"
+      },
+      {
+         "Country": "India",
+         "Number of kidnappings": "341"
+      },
+      {
+         "Country": "Colombia",
+         "Number of kidnappings": "285"
+      },
+      {
+         "Country": "Congo Democratic Republic",
+         "Number of kidnappings": "189"
+      },
+      {
+         "Country": "Sudan",
+         "Number of kidnappings": "159"
+      },
+      {
+         "Country": "Yemen",
+         "Number of kidnappings": "117"
+      },
+      {
+         "Country": "Central African Republic",
+         "Number of kidnappings": "115"
+      },
+      {
+         "Country": "Iraq",
+         "Number of kidnappings": "111"
+      },
+      {
+         "Country": "Gaza Strip",
+         "Number of kidnappings": "107"
+      },
+      {
+         "Country": "Philippines",
+         "Number of kidnappings": "102"
+      },
+      {
+         "Country": "Turkey",
+         "Number of kidnappings": "63"
+      },
+      {
+         "Country": "Burma",
+         "Number of kidnappings": "25"
+      },
+      {
+         "Country": "Nigeria",
+         "Number of kidnappings": "17"
+      }
+   ]
+}

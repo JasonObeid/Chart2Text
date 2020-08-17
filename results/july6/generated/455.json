@@ -1,0 +1,95 @@
+{
+   "title": "Reasons for quitting health club membership 2014",
+   "xAxis": "Response",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Reasons used libraries , quitting and tools health software club membership , as of early 2014 . ",
+      "According to the survey , 40 percentage of respondents used It_was_too_expensive_/_I_could_not_afford_it , while 30 percentage used I_wasn't_using_my_membership_/_wasn't_going . ",
+      "The least used framework was Other with only 1 percentage of respondents reporting ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "10": "0",
+         "13": "1",
+         "16": "1"
+      },
+      {
+         "5": "16",
+         "8": "16"
+      }
+   ],
+   "data": [
+      {
+         "Response": "It was too expensive / I could not afford it",
+         "Percentage of respondents": "40"
+      },
+      {
+         "Response": "I wasn't using my membership / wasn't going",
+         "Percentage of respondents": "30"
+      },
+      {
+         "Response": "I moved / the location was no longer convenient",
+         "Percentage of respondents": "20"
+      },
+      {
+         "Response": "I could exercise somewhere else for free",
+         "Percentage of respondents": "19"
+      },
+      {
+         "Response": "It was too crowded",
+         "Percentage of respondents": "17"
+      },
+      {
+         "Response": "I developed an injury / surgery / other condition",
+         "Percentage of respondents": "11"
+      },
+      {
+         "Response": "I felt out of place",
+         "Percentage of respondents": "9"
+      },
+      {
+         "Response": "I lost my job",
+         "Percentage of respondents": "8"
+      },
+      {
+         "Response": "I did not like to exercise",
+         "Percentage of respondents": "7"
+      },
+      {
+         "Response": "I didn't reach my fitness goals",
+         "Percentage of respondents": "5"
+      },
+      {
+         "Response": "It was too intimidating",
+         "Percentage of respondents": "4"
+      },
+      {
+         "Response": "There was no one there to guide me",
+         "Percentage of respondents": "4"
+      },
+      {
+         "Response": "I didn't know what to do there",
+         "Percentage of respondents": "4"
+      },
+      {
+         "Response": "I wanted to participate in another type of exercise",
+         "Percentage of respondents": "3"
+      },
+      {
+         "Response": "I met my fitness goals",
+         "Percentage of respondents": "2"
+      },
+      {
+         "Response": "Nobody I knew went to my former health club",
+         "Percentage of respondents": "2"
+      },
+      {
+         "Response": "Other",
+         "Percentage of respondents": "1"
+      }
+   ]
+}

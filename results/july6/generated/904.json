@@ -1,0 +1,32 @@
+{
+   "title": "Travelers in the U.S. who find family vacation planning stressful in 2014 , by gender",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "A 2017 survey of U.S. adults found that approximately 74 % of American Women and 67 % of American Men currently smoke family . ",
+      "Impact of Legalizing Cannabis in the Travelers . ",
+      "Since Washington and Colorado legalized recreational family in 2012 , several more states have followed suit ."
+   ],
+   "trends": [
+      {
+         "9": "0",
+         "13": "0",
+         "15": "1",
+         "19": "1"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Women",
+         "Share of respondents": "74"
+      },
+      {
+         "Response": "Men",
+         "Share of respondents": "67"
+      }
+   ]
+}

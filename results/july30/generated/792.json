@@ -1,0 +1,98 @@
+{
+   "title": "Global energy commodity price index 2013 to 2030\n",
+   "xAxis": "Year",
+   "yAxis": "Price index in real 2010 U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Price index in real 2010 U.S. dollars, with a total of 12 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2030 to 2020.",
+      " On the contrary, the next significant trend is  positive which exists from 2016 to 2013.",
+      " In a similar manner, the next significant trend is  positive which exists from 2020 to 2018.",
+      " Also, the next significant trend is  negative which exists from 2018 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=1.53x+-3011.52",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 8,
+         "end": 11,
+         "trend": "y=-24.17x+48778.44",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-7.5x+15220.27",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 6,
+         "end": 8,
+         "trend": "y=15.95x+-32101.08",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2030",
+         "Price index in real 2010 U.S. dollars": 87.2
+      },
+      {
+         "Year": "2025",
+         "Price index in real 2010 U.S. dollars": 79.1
+      },
+      {
+         "Year": "2022",
+         "Price index in real 2010 U.S. dollars": 74.7
+      },
+      {
+         "Year": "2021",
+         "Price index in real 2010 U.S. dollars": 73.3
+      },
+      {
+         "Year": "2020",
+         "Price index in real 2010 U.S. dollars": 72.0
+      },
+      {
+         "Year": "2019",
+         "Price index in real 2010 U.S. dollars": 74.3
+      },
+      {
+         "Year": "2018",
+         "Price index in real 2010 U.S. dollars": 87.0
+      },
+      {
+         "Year": "2017",
+         "Price index in real 2010 U.S. dollars": 68.1
+      },
+      {
+         "Year": "2016",
+         "Price index in real 2010 U.S. dollars": 55.1
+      },
+      {
+         "Year": "2015",
+         "Price index in real 2010 U.S. dollars": 65.0
+      },
+      {
+         "Year": "2014",
+         "Price index in real 2010 U.S. dollars": 111.7
+      },
+      {
+         "Year": "2013",
+         "Price index in real 2010 U.S. dollars": 120.1
+      }
+   ]
+}

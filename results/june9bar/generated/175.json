@@ -1,0 +1,223 @@
+{
+   "title": "Number of aggravated assaults in the U.S. in 2018 , by state",
+   "xAxis": "State",
+   "yAxis": "Number of aggravated assaults",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of U.S. aggravated assaults U.S. in the 2018 as of 2018 . ",
+      "As of this time , there were about 73656 Number of California ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "1",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Number of aggravated assaults": "105412"
+      },
+      {
+         "State": "Texas",
+         "Number of aggravated assaults": "73656"
+      },
+      {
+         "State": "Florida",
+         "Number of aggravated assaults": "55551"
+      },
+      {
+         "State": "New York",
+         "Number of aggravated assaults": "43171"
+      },
+      {
+         "State": "Tennessee",
+         "Number of aggravated assaults": "31717"
+      },
+      {
+         "State": "Michigan",
+         "Number of aggravated assaults": "31021"
+      },
+      {
+         "State": "Illinois",
+         "Number of aggravated assaults": "30539"
+      },
+      {
+         "State": "North Carolina",
+         "Number of aggravated assaults": "27526"
+      },
+      {
+         "State": "Pennsylvania",
+         "Number of aggravated assaults": "24077"
+      },
+      {
+         "State": "Arizona",
+         "Number of aggravated assaults": "23528"
+      },
+      {
+         "State": "Georgia",
+         "Number of aggravated assaults": "22783"
+      },
+      {
+         "State": "Missouri",
+         "Number of aggravated assaults": "22042"
+      },
+      {
+         "State": "Alabama",
+         "Number of aggravated assaults": "18944"
+      },
+      {
+         "State": "South Carolina",
+         "Number of aggravated assaults": "18446"
+      },
+      {
+         "State": "Louisiana",
+         "Number of aggravated assaults": "17866"
+      },
+      {
+         "State": "Ohio",
+         "Number of aggravated assaults": "17674"
+      },
+      {
+         "State": "Indiana",
+         "Number of aggravated assaults": "16834"
+      },
+      {
+         "State": "Massachusetts",
+         "Number of aggravated assaults": "16648"
+      },
+      {
+         "State": "Maryland",
+         "Number of aggravated assaults": "16135"
+      },
+      {
+         "State": "Colorado",
+         "Number of aggravated assaults": "14547"
+      },
+      {
+         "State": "Washington",
+         "Number of aggravated assaults": "14251"
+      },
+      {
+         "State": "New Mexico",
+         "Number of aggravated assaults": "13598"
+      },
+      {
+         "State": "Oklahoma",
+         "Number of aggravated assaults": "13084"
+      },
+      {
+         "State": "Arkansas",
+         "Number of aggravated assaults": "12378"
+      },
+      {
+         "State": "Wisconsin",
+         "Number of aggravated assaults": "11263"
+      },
+      {
+         "State": "New Jersey",
+         "Number of aggravated assaults": "10463"
+      },
+      {
+         "State": "Virginia",
+         "Number of aggravated assaults": "10113"
+      },
+      {
+         "State": "Nevada",
+         "Number of aggravated assaults": "10027"
+      },
+      {
+         "State": "Kansas",
+         "Number of aggravated assaults": "9559"
+      },
+      {
+         "State": "Oregon",
+         "Number of aggravated assaults": "7360"
+      },
+      {
+         "State": "Minnesota",
+         "Number of aggravated assaults": "6857"
+      },
+      {
+         "State": "Iowa",
+         "Number of aggravated assaults": "5931"
+      },
+      {
+         "State": "Kentucky",
+         "Number of aggravated assaults": "5059"
+      },
+      {
+         "State": "Mississippi",
+         "Number of aggravated assaults": "4696"
+      },
+      {
+         "State": "Alaska",
+         "Number of aggravated assaults": "4391"
+      },
+      {
+         "State": "Utah",
+         "Number of aggravated assaults": "4319"
+      },
+      {
+         "State": "Connecticut",
+         "Number of aggravated assaults": "4294"
+      },
+      {
+         "State": "District of Columbia",
+         "Number of aggravated assaults": "3971"
+      },
+      {
+         "State": "West Virginia",
+         "Number of aggravated assaults": "3945"
+      },
+      {
+         "State": "Nebraska",
+         "Number of aggravated assaults": "3461"
+      },
+      {
+         "State": "Montana",
+         "Number of aggravated assaults": "3120"
+      },
+      {
+         "State": "Idaho",
+         "Number of aggravated assaults": "2957"
+      },
+      {
+         "State": "Delaware",
+         "Number of aggravated assaults": "2845"
+      },
+      {
+         "State": "South Dakota",
+         "Number of aggravated assaults": "2682"
+      },
+      {
+         "State": "Hawaii",
+         "Number of aggravated assaults": "1925"
+      },
+      {
+         "State": "North Dakota",
+         "Number of aggravated assaults": "1560"
+      },
+      {
+         "State": "New Hampshire",
+         "Number of aggravated assaults": "1435"
+      },
+      {
+         "State": "Rhode Island",
+         "Number of aggravated assaults": "1366"
+      },
+      {
+         "State": "Wyoming",
+         "Number of aggravated assaults": "870"
+      },
+      {
+         "State": "Maine",
+         "Number of aggravated assaults": "803"
+      },
+      {
+         "State": "Vermont",
+         "Number of aggravated assaults": "710"
+      }
+   ]
+}

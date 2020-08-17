@@ -1,0 +1,113 @@
+{
+   "title": "Employment by economic sector in South Korea 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the distribution of Employment in South Korea by economic sector from 2009 to 2019 . ",
+      "In 2019 , 4.68 % of the employees in South Korea were active in the agricultural sector , 24.84 % in Industry and 70.48 % in the service sector ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "4.68",
+         "Industry": "24.84",
+         "Services": "70.48"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "4.73",
+         "Industry": "24.96",
+         "Services": "70.31"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "4.78",
+         "Industry": "25.07",
+         "Services": "70.14"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "4.82",
+         "Industry": "24.99",
+         "Services": "70.19"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "5.11",
+         "Industry": "25.2",
+         "Services": "69.69"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "5.58",
+         "Industry": "24.77",
+         "Services": "69.65"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "5.98",
+         "Industry": "24.52",
+         "Services": "69.5"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "6.13",
+         "Industry": "24.58",
+         "Services": "69.29"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "6.37",
+         "Industry": "24.85",
+         "Services": "68.78"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "6.6",
+         "Industry": "25.02",
+         "Services": "68.38"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "7.01",
+         "Industry": "24.5",
+         "Services": "68.5"
+      }
+   ]
+}

@@ -1,0 +1,44 @@
+{
+   "title": "Main import partners for Russia 2017",
+   "xAxis": "Country",
+   "yAxis": "Share of total imports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Main import imports for Russia 2017 in . ",
+      "In 2017 , the Main import imports for of Russia was China , with a Share of 21.2 % in exports ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Share of total imports": "21.2"
+      },
+      {
+         "Country": "Germany",
+         "Share of total imports": "10.7"
+      },
+      {
+         "Country": "United States",
+         "Share of total imports": "5.6"
+      },
+      {
+         "Country": "Belarus",
+         "Share of total imports": "5"
+      },
+      {
+         "Country": "Italy",
+         "Share of total imports": "4.5"
+      },
+      {
+         "Country": "France",
+         "Share of total imports": "4.2"
+      }
+   ]
+}

@@ -1,0 +1,58 @@
+{
+   "title": "Highest earning eSports countries in 2018 , by prize winnings\n",
+   "xAxis": "Country",
+   "yAxis": "Prize money in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Prize money in million U.S. dollars.",
+      " The highest category is found at United_States where Prize money in million U.S. dollars is 28.07.",
+      " The lowest category is found at Germany where Prize money in million U.S. dollars is 4.16."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Country": "United States",
+         "Prize money in million U.S. dollars": 28.07
+      },
+      {
+         "Country": "China",
+         "Prize money in million U.S. dollars": 16.02
+      },
+      {
+         "Country": "South Korea",
+         "Prize money in million U.S. dollars": 13.54
+      },
+      {
+         "Country": "Denmark",
+         "Prize money in million U.S. dollars": 10.4
+      },
+      {
+         "Country": "Finland",
+         "Prize money in million U.S. dollars": 7.31
+      },
+      {
+         "Country": "Russia",
+         "Prize money in million U.S. dollars": 6.86
+      },
+      {
+         "Country": "Sweden",
+         "Prize money in million U.S. dollars": 6.29
+      },
+      {
+         "Country": "France",
+         "Prize money in million U.S. dollars": 6.04
+      },
+      {
+         "Country": "Canada",
+         "Prize money in million U.S. dollars": 4.68
+      },
+      {
+         "Country": "Germany",
+         "Prize money in million U.S. dollars": 4.16
+      }
+   ]
+}

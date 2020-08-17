@@ -1,0 +1,99 @@
+{
+   "title": "Minnesota - real GDP 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Real GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the development of Minnesota ' GDP from 2000 to 2018 . ",
+      "In 2018 , the GDP of Minnesota was 331.38 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "10": "18",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Real GDP in billion U.S. dollars": "331.38"
+      },
+      {
+         "Year": "2017",
+         "Real GDP in billion U.S. dollars": "324.26"
+      },
+      {
+         "Year": "2016",
+         "Real GDP in billion U.S. dollars": "317.62"
+      },
+      {
+         "Year": "2015",
+         "Real GDP in billion U.S. dollars": "311.34"
+      },
+      {
+         "Year": "2014",
+         "Real GDP in billion U.S. dollars": "308.2"
+      },
+      {
+         "Year": "2013",
+         "Real GDP in billion U.S. dollars": "300.63"
+      },
+      {
+         "Year": "2012",
+         "Real GDP in billion U.S. dollars": "294.3"
+      },
+      {
+         "Year": "2011",
+         "Real GDP in billion U.S. dollars": "290.63"
+      },
+      {
+         "Year": "2010",
+         "Real GDP in billion U.S. dollars": "284.86"
+      },
+      {
+         "Year": "2009",
+         "Real GDP in billion U.S. dollars": "275.45"
+      },
+      {
+         "Year": "2008",
+         "Real GDP in billion U.S. dollars": "285.79"
+      },
+      {
+         "Year": "2007",
+         "Real GDP in billion U.S. dollars": "283.21"
+      },
+      {
+         "Year": "2006",
+         "Real GDP in billion U.S. dollars": "281.97"
+      },
+      {
+         "Year": "2005",
+         "Real GDP in billion U.S. dollars": "282.09"
+      },
+      {
+         "Year": "2004",
+         "Real GDP in billion U.S. dollars": "274.71"
+      },
+      {
+         "Year": "2003",
+         "Real GDP in billion U.S. dollars": "263.87"
+      },
+      {
+         "Year": "2002",
+         "Real GDP in billion U.S. dollars": "252.41"
+      },
+      {
+         "Year": "2001",
+         "Real GDP in billion U.S. dollars": "246.06"
+      },
+      {
+         "Year": "2000",
+         "Real GDP in billion U.S. dollars": "245.98"
+      }
+   ]
+}

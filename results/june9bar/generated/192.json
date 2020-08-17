@@ -1,0 +1,54 @@
+{
+   "title": "National debt of selected countries in relation to gross domestic product ( GDP ) 2018",
+   "xAxis": "Country",
+   "yAxis": "National debt in relation to gross domestic product (GDP)",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the National of the global GDP debt countries in 2018 , broken down by Country . ",
+      "According to the source , there were 99.31 % of all relation ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Japan",
+         "National debt in relation to gross domestic product (GDP)": "237.69"
+      },
+      {
+         "Country": "United States",
+         "National debt in relation to gross domestic product (GDP)": "106.22"
+      },
+      {
+         "Country": "France",
+         "National debt in relation to gross domestic product (GDP)": "99.31"
+      },
+      {
+         "Country": "Brazil",
+         "National debt in relation to gross domestic product (GDP)": "91.57"
+      },
+      {
+         "Country": "United Kingdom",
+         "National debt in relation to gross domestic product (GDP)": "85.55"
+      },
+      {
+         "Country": "India",
+         "National debt in relation to gross domestic product (GDP)": "69.04"
+      },
+      {
+         "Country": "Germany",
+         "National debt in relation to gross domestic product (GDP)": "58.58"
+      },
+      {
+         "Country": "China",
+         "National debt in relation to gross domestic product (GDP)": "55.57"
+      },
+      {
+         "Country": "Russia",
+         "National debt in relation to gross domestic product (GDP)": "16.49"
+      }
+   ]
+}

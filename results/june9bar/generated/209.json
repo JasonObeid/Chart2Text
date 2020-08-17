@@ -1,0 +1,82 @@
+{
+   "title": "Wealth per adult on average in Europe in 2014 , by country",
+   "xAxis": "Country",
+   "yAxis": "Average wealth per adult",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Average of Europe Wealth per adult average as of each Country . ",
+      "As of 2014 , Luxembourg had the highest Wealth per adult of Europe by country ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Luxembourg",
+         "Average wealth per adult": "432221"
+      },
+      {
+         "Country": "Switzerland",
+         "Average wealth per adult": "394917"
+      },
+      {
+         "Country": "Belgium",
+         "Average wealth per adult": "240928"
+      },
+      {
+         "Country": "Netherlands",
+         "Average wealth per adult": "213365"
+      },
+      {
+         "Country": "Austria",
+         "Average wealth per adult": "188552"
+      },
+      {
+         "Country": "Germany",
+         "Average wealth per adult": "185857"
+      },
+      {
+         "Country": "United Kingdom",
+         "Average wealth per adult": "183325"
+      },
+      {
+         "Country": "France",
+         "Average wealth per adult": "178862"
+      },
+      {
+         "Country": "Italy",
+         "Average wealth per adult": "163493"
+      },
+      {
+         "Country": "Cyprus",
+         "Average wealth per adult": "137298"
+      },
+      {
+         "Country": "Finland",
+         "Average wealth per adult": "124285"
+      },
+      {
+         "Country": "Spain",
+         "Average wealth per adult": "92341"
+      },
+      {
+         "Country": "Portugal",
+         "Average wealth per adult": "84847"
+      },
+      {
+         "Country": "Slovenia",
+         "Average wealth per adult": "67878"
+      },
+      {
+         "Country": "Greece",
+         "Average wealth per adult": "58877"
+      },
+      {
+         "Country": "Slovakia",
+         "Average wealth per adult": "33295"
+      }
+   ]
+}

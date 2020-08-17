@@ -1,0 +1,111 @@
+{
+   "title": "Female hair and beauty treatment costs in the United Kingdom ( UK ) 2012 to 2017",
+   "labels": [
+      "unknown",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the average cost of various Female Pedicure and beauty treatments in salons the United Kingdom from 2012 to 2017 . ",
+      "Over the last three period , the average price of Female Pedicure cuts dropped from 25 British pounds in 2012 to 14 British pounds in 2014 . ",
+      "The most expensive treatment that can be had for males in a beauty salon is the Manicure or Hair_removal , which both cost 33 British pounds in 2017 ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "11": [
+            "1",
+            "0"
+         ],
+         "15": [
+            "5",
+            "1"
+         ],
+         "21": [
+            "2",
+            "3"
+         ]
+      },
+      {
+         "16": [
+            "3",
+            "0"
+         ],
+         "18": [
+            "2",
+            "0"
+         ],
+         "23": [
+            "2",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Tanning",
+         "2012": "19",
+         "2013": "18",
+         "2014": "16",
+         "2015": "16",
+         "2016": "16",
+         "2017": "16"
+      },
+      {
+         "unknown": "Pedicure",
+         "2012": "21",
+         "2013": "21",
+         "2014": "19",
+         "2015": "19",
+         "2016": "0",
+         "2017": "0"
+      },
+      {
+         "unknown": "Hair removal",
+         "2012": "33",
+         "2013": "32",
+         "2014": "14",
+         "2015": "14",
+         "2016": "16",
+         "2017": "14"
+      },
+      {
+         "unknown": "Manicure",
+         "2012": "19",
+         "2013": "19",
+         "2014": "17",
+         "2015": "17",
+         "2016": "17",
+         "2017": "17"
+      },
+      {
+         "unknown": "Hair colour",
+         "2012": "42",
+         "2013": "42",
+         "2014": "35",
+         "2015": "35",
+         "2016": "37",
+         "2017": "35"
+      },
+      {
+         "unknown": "Haircuts",
+         "2012": "25",
+         "2013": "24",
+         "2014": "23",
+         "2015": "25",
+         "2016": "23",
+         "2017": "25"
+      }
+   ]
+}

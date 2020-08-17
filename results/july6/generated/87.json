@@ -1,0 +1,94 @@
+{
+   "title": "Juventus FC revenue by stream 2018/19",
+   "labels": [
+      "Season",
+      "Matchday",
+      "Broadcasting",
+      "Commercial"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "Broadcasting is the largest source of revenue for Juventus FC . ",
+      "In 2018/2019 , the club earned approximately 208.5 million euros from Broadcasting , more than triple in 2010/2011 . ",
+      "The second biggest revenue stream is the Commercial one ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Season": "2018/19",
+         "Matchday": "65.6",
+         "Broadcasting": "208.5",
+         "Commercial": "185.6"
+      },
+      {
+         "Season": "2017/18",
+         "Matchday": "51.2",
+         "Broadcasting": "200.4",
+         "Commercial": "143.3"
+      },
+      {
+         "Season": "2016/17",
+         "Matchday": "57.8",
+         "Broadcasting": "233.5",
+         "Commercial": "114.4"
+      },
+      {
+         "Season": "2015/16",
+         "Matchday": "43.7",
+         "Broadcasting": "195.7",
+         "Commercial": "101.7"
+      },
+      {
+         "Season": "2014/15",
+         "Matchday": "51.4",
+         "Broadcasting": "199.0",
+         "Commercial": "73.5"
+      },
+      {
+         "Season": "2013/14",
+         "Matchday": "41.0",
+         "Broadcasting": "153.4",
+         "Commercial": "85.0"
+      },
+      {
+         "Season": "2012/13",
+         "Matchday": "38.0",
+         "Broadcasting": "166.0",
+         "Commercial": "68.4"
+      },
+      {
+         "Season": "2011/12",
+         "Matchday": "31.8",
+         "Broadcasting": "90.6",
+         "Commercial": "73.0"
+      },
+      {
+         "Season": "2010/11",
+         "Matchday": "11.6",
+         "Broadcasting": "88.7",
+         "Commercial": "53.6"
+      },
+      {
+         "Season": "2009/10",
+         "Matchday": "16.9",
+         "Broadcasting": "132.5",
+         "Commercial": "55.6"
+      },
+      {
+         "Season": "2008/09",
+         "Matchday": "16.7",
+         "Broadcasting": "132.2",
+         "Commercial": "54.3"
+      }
+   ]
+}

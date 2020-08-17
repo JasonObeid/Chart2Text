@@ -1,0 +1,113 @@
+{
+   "title": "Distribution of the workforce across economic sectors in Russia 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the distribution of in Russia workforce across economic from 2009 to 2019 . ",
+      "In 2019 , 5.77 % of the employees in Russia were active in the agricultural economic , 26.93 % in Industry and 67.3 % in the service economic ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "5.77",
+         "Industry": "26.93",
+         "Services": "67.3"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "5.84",
+         "Industry": "26.95",
+         "Services": "67.22"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "5.9",
+         "Industry": "26.97",
+         "Services": "67.13"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "6.72",
+         "Industry": "26.95",
+         "Services": "66.34"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "6.71",
+         "Industry": "27.18",
+         "Services": "66.11"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "6.72",
+         "Industry": "27.52",
+         "Services": "65.76"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "6.99",
+         "Industry": "27.73",
+         "Services": "65.28"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "7.33",
+         "Industry": "27.77",
+         "Services": "64.91"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "7.69",
+         "Industry": "27.45",
+         "Services": "64.86"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "7.92",
+         "Industry": "27.69",
+         "Services": "64.39"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "8.43",
+         "Industry": "27.46",
+         "Services": "64.11"
+      }
+   ]
+}

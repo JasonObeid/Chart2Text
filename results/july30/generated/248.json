@@ -1,0 +1,66 @@
+{
+   "title": "Average price for properties for sale in Rome , Italy 2019 , by area\n",
+   "xAxis": "Area",
+   "yAxis": "Price in euros per square meter",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 12 categories for the x axis representing Area, and a y axis representing Price in euros per square meter.",
+      " The highest category is found at Centro_Storico where Price in euros per square meter is 7817.0.",
+      " The lowest category is found at Gregorio_VII_Baldo_degli_Ubaldi where Price in euros per square meter is 3972.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 11
+   },
+   "data": [
+      {
+         "Area": "Centro Storico",
+         "Price in euros per square meter": 7817.0
+      },
+      {
+         "Area": "Aventino San Saba Caracalla",
+         "Price in euros per square meter": 6910.0
+      },
+      {
+         "Area": "Parioli Flaminio",
+         "Price in euros per square meter": 5622.0
+      },
+      {
+         "Area": "Testaccio Trastevere",
+         "Price in euros per square meter": 5435.0
+      },
+      {
+         "Area": "Prati Borgo Mazzini Delle Vittorie",
+         "Price in euros per square meter": 5137.0
+      },
+      {
+         "Area": "Salario Trieste",
+         "Price in euros per square meter": 4884.0
+      },
+      {
+         "Area": "Bologna Policlinico",
+         "Price in euros per square meter": 4531.0
+      },
+      {
+         "Area": "Corso Francia Vigna Clara Fleming Ponte Milvio",
+         "Price in euros per square meter": 4289.0
+      },
+      {
+         "Area": "Termini Repubblica",
+         "Price in euros per square meter": 4107.0
+      },
+      {
+         "Area": "Camilluccia Cortina d'Ampezzo",
+         "Price in euros per square meter": 4099.0
+      },
+      {
+         "Area": "Balduina Medaglie d'Oro Degli Eroi",
+         "Price in euros per square meter": 4000.0
+      },
+      {
+         "Area": "Gregorio VII Baldo degli Ubaldi",
+         "Price in euros per square meter": 3972.0
+      }
+   ]
+}

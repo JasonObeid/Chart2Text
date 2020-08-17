@@ -1,0 +1,133 @@
+{
+   "title": "Total value of U.S. trade in goods worldwide 2004 to 2018",
+   "labels": [
+      "Year",
+      "Total",
+      "Exports",
+      "Imports"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the trade of Total and worldwide due to Total in the U.S. from 2004 to 2018 . ",
+      "In 2018 , there were a total of 4206.9 goods and 1664.1 worldwide reported due to lighting in the U.S. ."
+   ],
+   "trends": [
+      {
+         "16": [
+            "14",
+            "0"
+         ],
+         "18": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "8": [
+            "0",
+            "1"
+         ],
+         "11": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Total": "4206.9",
+         "Exports": "1664.1",
+         "Imports": "2542.8"
+      },
+      {
+         "Year": "2017",
+         "Total": "3889.7",
+         "Exports": "1546.8",
+         "Imports": "2342.9"
+      },
+      {
+         "Year": "2016",
+         "Total": "3643.6",
+         "Exports": "1454.6",
+         "Imports": "2188.9"
+      },
+      {
+         "Year": "2015",
+         "Total": "3746.0",
+         "Exports": "1504.9",
+         "Imports": "2241.1"
+      },
+      {
+         "Year": "2014",
+         "Total": "3969.1",
+         "Exports": "1623.3",
+         "Imports": "2345.8"
+      },
+      {
+         "Year": "2013",
+         "Total": "3846.4",
+         "Exports": "1578.9",
+         "Imports": "2267.6"
+      },
+      {
+         "Year": "2012",
+         "Total": "3822.2",
+         "Exports": "1547.1",
+         "Imports": "2275.0"
+      },
+      {
+         "Year": "2011",
+         "Total": "3687.6",
+         "Exports": "1480.7",
+         "Imports": "2207.0"
+      },
+      {
+         "Year": "2010",
+         "Total": "3190.2",
+         "Exports": "1278.1",
+         "Imports": "1912.1"
+      },
+      {
+         "Year": "2009",
+         "Total": "2615.0",
+         "Exports": "1056.9",
+         "Imports": "1558.1"
+      },
+      {
+         "Year": "2008",
+         "Total": "3400.9",
+         "Exports": "1300.5",
+         "Imports": "2100.4"
+      },
+      {
+         "Year": "2007",
+         "Total": "3117.0",
+         "Exports": "1163.3",
+         "Imports": "1953.6"
+      },
+      {
+         "Year": "2006",
+         "Total": "2892.7",
+         "Exports": "1037.3",
+         "Imports": "1855.4"
+      },
+      {
+         "Year": "2005",
+         "Total": "2575.7",
+         "Exports": "904.3",
+         "Imports": "1671.4"
+      },
+      {
+         "Year": "2004",
+         "Total": "2289.6",
+         "Exports": "819.0",
+         "Imports": "1471.0"
+      }
+   ]
+}

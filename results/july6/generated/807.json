@@ -1,0 +1,56 @@
+{
+   "title": "Square annual gross payment volume 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Gross payment volume in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows Square 's Gross payment volume ( GPV ) from 2012 to 2019 . ",
+      "In the most recent fiscal period , the company 's Gross payment volume amounted to 106.24 billion U.S. dollars , up from 84.65 billion in 2018 ."
+   ],
+   "trends": [
+      {
+         "12": "7",
+         "14": "0"
+      },
+      {
+         "15": "0",
+         "22": "1",
+         "25": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Gross payment volume in billion U.S. dollars": "106.24"
+      },
+      {
+         "Year": "2018",
+         "Gross payment volume in billion U.S. dollars": "84.65"
+      },
+      {
+         "Year": "2017",
+         "Gross payment volume in billion U.S. dollars": "65.34"
+      },
+      {
+         "Year": "2016",
+         "Gross payment volume in billion U.S. dollars": "49.68"
+      },
+      {
+         "Year": "2015",
+         "Gross payment volume in billion U.S. dollars": "35.64"
+      },
+      {
+         "Year": "2014",
+         "Gross payment volume in billion U.S. dollars": "23.78"
+      },
+      {
+         "Year": "2013",
+         "Gross payment volume in billion U.S. dollars": "14.82"
+      },
+      {
+         "Year": "2012",
+         "Gross payment volume in billion U.S. dollars": "6.52"
+      }
+   ]
+}

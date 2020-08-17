@@ -1,0 +1,51 @@
+{
+   "title": "Leading U.S. states in sunflower production 2019",
+   "xAxis": "State",
+   "yAxis": "Production in thousand pounds",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the top ten Leading producing U.S. states in 2019 . ",
+      "In that year , South_Dakota was the company with a Production of 831600 thousand of U.S. dollars in 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "South Dakota",
+         "Production in thousand pounds": "831600"
+      },
+      {
+         "State": "North Dakota",
+         "Production in thousand pounds": "740700"
+      },
+      {
+         "State": "Minnesota",
+         "Production in thousand pounds": "102630"
+      },
+      {
+         "State": "California",
+         "Production in thousand pounds": "70680"
+      },
+      {
+         "State": "Colorado",
+         "Production in thousand pounds": "59400"
+      },
+      {
+         "State": "Kansas",
+         "Production in thousand pounds": "53925"
+      },
+      {
+         "State": "Nebraska",
+         "Production in thousand pounds": "44850"
+      },
+      {
+         "State": "Texas",
+         "Production in thousand pounds": "39650"
+      }
+   ]
+}

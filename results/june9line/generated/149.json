@@ -1,0 +1,36 @@
+{
+   "title": "Book readers in the U.S. 2019 , by age group",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Share of people in the U.S. who have read at least one Book in the past 12 months as of 2018 , broken down by age . ",
+      "During a survey , 81 % of respondents aged 18 to 29 stated they had read at least one Book in the previous 12 months . ",
+      "The popularity of this medium is reflected in the increased Book sales revenue ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "18-29",
+         "Share of respondents": "81"
+      },
+      {
+         "Year": "30-49",
+         "Share of respondents": "72"
+      },
+      {
+         "Year": "50-64",
+         "Share of respondents": "67"
+      },
+      {
+         "Year": "65+",
+         "Share of respondents": "68"
+      }
+   ]
+}

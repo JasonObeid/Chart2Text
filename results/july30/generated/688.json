@@ -1,0 +1,102 @@
+{
+   "title": "UEFA Champions League most games played by club 2019\n",
+   "xAxis": "Uefa Club",
+   "yAxis": "Games played",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 21 categories for the x axis representing Uefa Club, and a y axis representing Games played.",
+      " The highest category is found at Real_Madrid_CF where Games played is 431.0.",
+      " The lowest category is found at Panathinaikos_FC where Games played is 157.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 20
+   },
+   "data": [
+      {
+         "Uefa Club": "Real Madrid CF",
+         "Games played": 431.0
+      },
+      {
+         "Uefa Club": "FC Bayern M\u00fcnchen",
+         "Games played": 341.0
+      },
+      {
+         "Uefa Club": "FC Barcelona",
+         "Games played": 310.0
+      },
+      {
+         "Uefa Club": "Manchester United FC",
+         "Games played": 279.0
+      },
+      {
+         "Uefa Club": "Juventus",
+         "Games played": 271.0
+      },
+      {
+         "Uefa Club": "SL Benfica",
+         "Games played": 252.0
+      },
+      {
+         "Uefa Club": "AC Milan",
+         "Games played": 249.0
+      },
+      {
+         "Uefa Club": "FC Porto",
+         "Games played": 243.0
+      },
+      {
+         "Uefa Club": "FC Dynamo Kyiv",
+         "Games played": 231.0
+      },
+      {
+         "Uefa Club": "AFC Ajax",
+         "Games played": 217.0
+      },
+      {
+         "Uefa Club": "Liverpool FC",
+         "Games played": 209.0
+      },
+      {
+         "Uefa Club": "Celtic FC",
+         "Games played": 206.0
+      },
+      {
+         "Uefa Club": "Arsenal FC",
+         "Games played": 201.0
+      },
+      {
+         "Uefa Club": "RSC Anderlecht",
+         "Games played": 200.0
+      },
+      {
+         "Uefa Club": "PSV Eindhoven",
+         "Games played": 175.0
+      },
+      {
+         "Uefa Club": "FC Internazionale Milano",
+         "Games played": 172.0
+      },
+      {
+         "Uefa Club": "Galatasaray A\u015e",
+         "Games played": 169.0
+      },
+      {
+         "Uefa Club": "Rangers FC",
+         "Games played": 161.0
+      },
+      {
+         "Uefa Club": "Chelsea FC",
+         "Games played": 160.0
+      },
+      {
+         "Uefa Club": "Olympiacos FC",
+         "Games played": 160.0
+      },
+      {
+         "Uefa Club": "Panathinaikos FC",
+         "Games played": 157.0
+      }
+   ]
+}

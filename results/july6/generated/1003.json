@@ -1,0 +1,54 @@
+{
+   "title": "U.S. market share of hand-held hair dryer manufacturer 2004 to 2008",
+   "labels": [
+      "unknown",
+      "2004",
+      "2008"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This survey attempts to explain the U.S. market share hand-held hair U.S. manufacturer in 2004 and 2008 . ",
+      "The survey revealed that 36 % of the respondents expect to purchase clothing for the upcoming Conair year ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "1",
+            "1"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Conair",
+         "2004": "50",
+         "2008": "44"
+      },
+      {
+         "unknown": "Helen of Troy",
+         "2004": "36",
+         "2008": "34"
+      },
+      {
+         "unknown": "Revlon",
+         "2004": "0",
+         "2008": "11"
+      },
+      {
+         "unknown": "Spectrum Brands (Rayovac Remington)",
+         "2004": "4",
+         "2008": "5"
+      },
+      {
+         "unknown": "Others",
+         "2004": "10",
+         "2008": "6"
+      }
+   ]
+}

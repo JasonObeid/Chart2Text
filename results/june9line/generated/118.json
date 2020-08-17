@@ -1,0 +1,69 @@
+{
+   "title": "Budget balance in Italy 2024",
+   "xAxis": "Year",
+   "yAxis": "Budget balance in billion euros",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Budget balance in Italy from 2014 to 2018 , with projections until 2024 . ",
+      "A positive value indicates a state surplus ; a negative value , a Budget deficit . ",
+      "In 2018 , the Budget surplus of Italy was around -37.51 billion euros ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "16": "0"
+      },
+      {},
+      {
+         "1": "6",
+         "10": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Budget balance in billion euros": "-51.31"
+      },
+      {
+         "Year": "2023",
+         "Budget balance in billion euros": "-49.15"
+      },
+      {
+         "Year": "2022",
+         "Budget balance in billion euros": "-48.57"
+      },
+      {
+         "Year": "2021",
+         "Budget balance in billion euros": "-47.61"
+      },
+      {
+         "Year": "2020",
+         "Budget balance in billion euros": "-45.51"
+      },
+      {
+         "Year": "2019",
+         "Budget balance in billion euros": "-35.77"
+      },
+      {
+         "Year": "2018",
+         "Budget balance in billion euros": "-37.51"
+      },
+      {
+         "Year": "2017",
+         "Budget balance in billion euros": "-41.29"
+      },
+      {
+         "Year": "2016",
+         "Budget balance in billion euros": "-42.66"
+      },
+      {
+         "Year": "2015",
+         "Budget balance in billion euros": "-43.14"
+      },
+      {
+         "Year": "2014",
+         "Budget balance in billion euros": "-49.34"
+      }
+   ]
+}

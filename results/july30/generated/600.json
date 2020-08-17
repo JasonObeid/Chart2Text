@@ -1,0 +1,82 @@
+{
+   "title": "Ice hockey players in Finland 2010/11 - 2017/18\n",
+   "xAxis": "Year",
+   "yAxis": "Number of players",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of players, with a total of 8 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2014/15 to 2010/11.",
+      " Differently, the next significant trend is  positive which exists from 2017/18 to 2016/17.",
+      " Additionally, the next significant trend is  negative which exists from 2016/17 to 2015/16.",
+      " Contrarily, the next significant trend is  positive which exists from 2015/16 to 2014/15."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 3,
+         "end": 7,
+         "trend": "y=3829.6x+-7637542.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-3013.0x+6150595.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 1,
+         "end": 2,
+         "trend": "y=2237.0x+-4433405.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 2,
+         "end": 3,
+         "trend": "y=-1721.0x+3541965.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Number of players": 73374.0
+      },
+      {
+         "Year": "2016/17",
+         "Number of players": 76387.0
+      },
+      {
+         "Year": "2015/16",
+         "Number of players": 74150.0
+      },
+      {
+         "Year": "2014/15",
+         "Number of players": 75871.0
+      },
+      {
+         "Year": "2013/14",
+         "Number of players": 73682.0
+      },
+      {
+         "Year": "2012/13",
+         "Number of players": 66636.0
+      },
+      {
+         "Year": "2011/12",
+         "Number of players": 56626.0
+      },
+      {
+         "Year": "2010/11",
+         "Number of players": 65251.0
+      }
+   ]
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Leading internet traffic categories worldwide 2018",
+   "xAxis": "Category",
+   "yAxis": "Share of downstream internet traffic",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Leading internet traffic categories worldwide 2018 in the 2018 as of 2020 . ",
+      "As of the measured period , 57.7 % of Video respondents stated they used Leading internet ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Category": "Video",
+         "Share of downstream internet traffic": "57.7"
+      },
+      {
+         "Category": "Web",
+         "Share of downstream internet traffic": "17"
+      },
+      {
+         "Category": "Gaming",
+         "Share of downstream internet traffic": "7.8"
+      },
+      {
+         "Category": "Social media",
+         "Share of downstream internet traffic": "5.1"
+      },
+      {
+         "Category": "Content marketplaces",
+         "Share of downstream internet traffic": "4.6"
+      },
+      {
+         "Category": "File sharing",
+         "Share of downstream internet traffic": "2.8"
+      },
+      {
+         "Category": "Audio streaming",
+         "Share of downstream internet traffic": "1"
+      }
+   ]
+}

@@ -1,0 +1,109 @@
+{
+   "title": "Median age of the population in Switzerland 2015",
+   "xAxis": "Year",
+   "yAxis": "Median age in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Median age of the population in Switzerland from 1950 to 2050 .The Median age is the age that divides a population into two numerically equal groups ; that is , half the people are younger than this age and half are older . ",
+      "It is a single index that summarizes the age distribution of a population . ",
+      "In 2015 , the Median age of the population of Switzerland was 42.2 years ."
+   ],
+   "trends": [
+      {
+         "12": "20",
+         "14": "0"
+      },
+      {},
+      {
+         "1": "7",
+         "12": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2050",
+         "Median age in years": "47.5"
+      },
+      {
+         "Year": "2045",
+         "Median age in years": "47.5"
+      },
+      {
+         "Year": "2040",
+         "Median age in years": "47.0"
+      },
+      {
+         "Year": "2035",
+         "Median age in years": "46.2"
+      },
+      {
+         "Year": "2030",
+         "Median age in years": "45.2"
+      },
+      {
+         "Year": "2025",
+         "Median age in years": "44.0"
+      },
+      {
+         "Year": "2020",
+         "Median age in years": "43.1"
+      },
+      {
+         "Year": "2015",
+         "Median age in years": "42.2"
+      },
+      {
+         "Year": "2010",
+         "Median age in years": "41.6"
+      },
+      {
+         "Year": "2005",
+         "Median age in years": "40.1"
+      },
+      {
+         "Year": "2000",
+         "Median age in years": "38.6"
+      },
+      {
+         "Year": "1995",
+         "Median age in years": "37.2"
+      },
+      {
+         "Year": "1990",
+         "Median age in years": "36.9"
+      },
+      {
+         "Year": "1985",
+         "Median age in years": "36.0"
+      },
+      {
+         "Year": "1980",
+         "Median age in years": "34.6"
+      },
+      {
+         "Year": "1975",
+         "Median age in years": "32.9"
+      },
+      {
+         "Year": "1970",
+         "Median age in years": "31.8"
+      },
+      {
+         "Year": "1965",
+         "Median age in years": "31.5"
+      },
+      {
+         "Year": "1960",
+         "Median age in years": "32.7"
+      },
+      {
+         "Year": "1955",
+         "Median age in years": "32.9"
+      },
+      {
+         "Year": "1950",
+         "Median age in years": "33.2"
+      }
+   ]
+}

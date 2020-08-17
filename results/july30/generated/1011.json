@@ -1,0 +1,106 @@
+{
+   "title": "General Electric profits in the Healthcare segment 1997 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Profit in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Profit in billion U.S. dollars, with a total of 14 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely negative which exists from 2013 to 2009.",
+      " But, the next significant trend is extremely negative which exists from 2018 to 2015.",
+      " Contrarily, the next significant trend is extremely positive which exists from 2009 to 2007.",
+      " Similarly, the next significant trend is extremely negative which exists from 2007 to 1997."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 5,
+         "end": 9,
+         "trend": "y=0.15x+-302.9",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=0.27x+-549.2",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=-0.35x+705.6",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 11,
+         "end": 13,
+         "trend": "y=0.24x+-478.68",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Profit in billion U.S. dollars": 3.7
+      },
+      {
+         "Year": "2017",
+         "Profit in billion U.S. dollars": 3.49
+      },
+      {
+         "Year": "2016",
+         "Profit in billion U.S. dollars": 3.21
+      },
+      {
+         "Year": "2015",
+         "Profit in billion U.S. dollars": 2.88
+      },
+      {
+         "Year": "2014",
+         "Profit in billion U.S. dollars": 3.05
+      },
+      {
+         "Year": "2013",
+         "Profit in billion U.S. dollars": 3.05
+      },
+      {
+         "Year": "2012",
+         "Profit in billion U.S. dollars": 2.92
+      },
+      {
+         "Year": "2011",
+         "Profit in billion U.S. dollars": 2.8
+      },
+      {
+         "Year": "2010",
+         "Profit in billion U.S. dollars": 2.7
+      },
+      {
+         "Year": "2009",
+         "Profit in billion U.S. dollars": 2.4
+      },
+      {
+         "Year": "2008",
+         "Profit in billion U.S. dollars": 2.9
+      },
+      {
+         "Year": "2007",
+         "Profit in billion U.S. dollars": 3.1
+      },
+      {
+         "Year": "2002",
+         "Profit in billion U.S. dollars": 1.6
+      },
+      {
+         "Year": "1997",
+         "Profit in billion U.S. dollars": 0.7
+      }
+   ]
+}

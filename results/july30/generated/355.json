@@ -1,0 +1,122 @@
+{
+   "title": "Brooklyn Nets ' revenue 2001 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 18/19 to 11/12.",
+      " Contrarily, the next significant trend is  positive which exists from 09/10 to 06/07.",
+      " Correspondingly, the next significant trend is  positive which exists from 04/05 to 01/02.",
+      " Additionally, the next significant trend is  negative which exists from 06/07 to 04/05."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 0,
+         "end": 7,
+         "trend": "y=0.26x+-160.01",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 9,
+         "end": 12,
+         "trend": "y=-0.04x+129.04",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 14,
+         "end": 17,
+         "trend": "y=-0.01x+94.51",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 12,
+         "end": 14,
+         "trend": "y=0.07x+56.43",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "18/19",
+         "Revenue in million U.S. dollars": 304.0
+      },
+      {
+         "Year": "17/18",
+         "Revenue in million U.S. dollars": 290.0
+      },
+      {
+         "Year": "16/17",
+         "Revenue in million U.S. dollars": 273.0
+      },
+      {
+         "Year": "15/16",
+         "Revenue in million U.S. dollars": 223.0
+      },
+      {
+         "Year": "14/15",
+         "Revenue in million U.S. dollars": 220.0
+      },
+      {
+         "Year": "13/14",
+         "Revenue in million U.S. dollars": 212.0
+      },
+      {
+         "Year": "12/13",
+         "Revenue in million U.S. dollars": 190.0
+      },
+      {
+         "Year": "11/12",
+         "Revenue in million U.S. dollars": 84.0
+      },
+      {
+         "Year": "10/11",
+         "Revenue in million U.S. dollars": 89.0
+      },
+      {
+         "Year": "09/10",
+         "Revenue in million U.S. dollars": 89.0
+      },
+      {
+         "Year": "08/09",
+         "Revenue in million U.S. dollars": 92.0
+      },
+      {
+         "Year": "07/08",
+         "Revenue in million U.S. dollars": 98.0
+      },
+      {
+         "Year": "06/07",
+         "Revenue in million U.S. dollars": 102.0
+      },
+      {
+         "Year": "05/06",
+         "Revenue in million U.S. dollars": 93.0
+      },
+      {
+         "Year": "04/05",
+         "Revenue in million U.S. dollars": 87.0
+      },
+      {
+         "Year": "03/04",
+         "Revenue in million U.S. dollars": 93.0
+      },
+      {
+         "Year": "02/03",
+         "Revenue in million U.S. dollars": 94.0
+      },
+      {
+         "Year": "01/02",
+         "Revenue in million U.S. dollars": 91.0
+      }
+   ]
+}

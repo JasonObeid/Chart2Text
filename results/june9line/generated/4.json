@@ -1,0 +1,80 @@
+{
+   "title": "Trade union density in Germany from 2000 to 2013",
+   "xAxis": "Year",
+   "yAxis": "Percentage of employees",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the percentage of conceptions under 16 girls employees in Germany and from 2000 to 2013 . ",
+      "The Percentage of terminated employees in this age group has remained around the same amount over the provided time period . ",
+      "In 2013 , approximately 18.13 percentage of the employees led to employees ."
+   ],
+   "trends": [
+      {
+         "19": "0",
+         "21": "13"
+      },
+      {},
+      {
+         "1": "13",
+         "4": "13"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Percentage of employees": "24.57"
+      },
+      {
+         "Year": "2001",
+         "Percentage of employees": "23.75"
+      },
+      {
+         "Year": "2002",
+         "Percentage of employees": "23.51"
+      },
+      {
+         "Year": "2003",
+         "Percentage of employees": "23.02"
+      },
+      {
+         "Year": "2004",
+         "Percentage of employees": "22.17"
+      },
+      {
+         "Year": "2005",
+         "Percentage of employees": "21.68"
+      },
+      {
+         "Year": "2006",
+         "Percentage of employees": "20.72"
+      },
+      {
+         "Year": "2007",
+         "Percentage of employees": "19.89"
+      },
+      {
+         "Year": "2008",
+         "Percentage of employees": "19.13"
+      },
+      {
+         "Year": "2009",
+         "Percentage of employees": "18.93"
+      },
+      {
+         "Year": "2010",
+         "Percentage of employees": "18.56"
+      },
+      {
+         "Year": "2011",
+         "Percentage of employees": "18.49"
+      },
+      {
+         "Year": "2012",
+         "Percentage of employees": "18.3"
+      },
+      {
+         "Year": "2013",
+         "Percentage of employees": "18.13"
+      }
+   ]
+}

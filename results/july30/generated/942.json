@@ -1,0 +1,62 @@
+{
+   "title": "Global rum market : leading brands based on sales volume 2018\n",
+   "xAxis": "Alcohol ",
+   "yAxis": "Million 9 liter cases",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Alcohol , and a y axis representing Million 9 liter cases.",
+      " The highest category is found at Tanduay where Million 9 liter cases is 20.1.",
+      " The lowest category is found at Montilla where Million 9 liter cases is 1.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Alcohol ": "Tanduay",
+         "Million 9 liter cases": 20.1
+      },
+      {
+         "Alcohol ": "Bacardi",
+         "Million 9 liter cases": 17.1
+      },
+      {
+         "Alcohol ": "Captain Morgan",
+         "Million 9 liter cases": 11.7
+      },
+      {
+         "Alcohol ": "McDowell's No. 1 Celebration",
+         "Million 9 liter cases": 11.2
+      },
+      {
+         "Alcohol ": "Havana Club",
+         "Million 9 liter cases": 4.6
+      },
+      {
+         "Alcohol ": "Barcel\u00f3",
+         "Million 9 liter cases": 2.2
+      },
+      {
+         "Alcohol ": "Bozkov",
+         "Million 9 liter cases": 1.7
+      },
+      {
+         "Alcohol ": "Old Port",
+         "Million 9 liter cases": 1.3
+      },
+      {
+         "Alcohol ": "Appleton Estate",
+         "Million 9 liter cases": 1.1
+      },
+      {
+         "Alcohol ": "Montilla",
+         "Million 9 liter cases": 1.0
+      },
+      {
+         "Alcohol ": "Negrita",
+         "Million 9 liter cases": 1.0
+      }
+   ]
+}

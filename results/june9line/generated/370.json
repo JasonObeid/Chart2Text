@@ -1,0 +1,49 @@
+{
+   "title": "Disneyland Paris visitors spending per day 2006 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Average spend in euros (excluding VAT)",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Paris Average of spend enrolled in Canadian colleges in 2016 , per day 2006 . ",
+      "In the academic Year 2016 , around 54.0 spend aged between 2016 and 2015 2016 were enrolled in Canadian colleges ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "11": "0",
+         "13": "1",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Average spend in euros (excluding VAT)": "54.0"
+      },
+      {
+         "Year": "2015",
+         "Average spend in euros (excluding VAT)": "53.7"
+      },
+      {
+         "Year": "2014",
+         "Average spend in euros (excluding VAT)": "50.7"
+      },
+      {
+         "Year": "2013",
+         "Average spend in euros (excluding VAT)": "48.1"
+      },
+      {
+         "Year": "2012",
+         "Average spend in euros (excluding VAT)": "46.4"
+      },
+      {
+         "Year": "2011",
+         "Average spend in euros (excluding VAT)": "46.2"
+      },
+      {
+         "Year": "2010",
+         "Average spend in euros (excluding VAT)": "45.3"
+      }
+   ]
+}

@@ -1,0 +1,76 @@
+{
+   "title": "UEFA Champions League total performance and bonus payments to clubs 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Bonus payments in million euros",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Bonus of different 2005 UEFA Champions League payments from 2005/06 to 2017/18 . ",
+      "UEFA Champions League is one of the largest global pharmaceutical companies . ",
+      "In 2017/18 , UEFA Champions League reported approximately 1412.6 million euros of Bonus payments ."
+   ],
+   "trends": [
+      {
+         "12": "12",
+         "14": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Bonus payments in million euros": "1412.6"
+      },
+      {
+         "Year": "2016/17",
+         "Bonus payments in million euros": "1396.13"
+      },
+      {
+         "Year": "2015/16",
+         "Bonus payments in million euros": "1349.43"
+      },
+      {
+         "Year": "2014/15",
+         "Bonus payments in million euros": "1033.43"
+      },
+      {
+         "Year": "2013/14",
+         "Bonus payments in million euros": "904.6"
+      },
+      {
+         "Year": "2012/13",
+         "Bonus payments in million euros": "910.0"
+      },
+      {
+         "Year": "2011/12",
+         "Bonus payments in million euros": "754.1"
+      },
+      {
+         "Year": "2010/11",
+         "Bonus payments in million euros": "786.3"
+      },
+      {
+         "Year": "2009/10",
+         "Bonus payments in million euros": "757.5"
+      },
+      {
+         "Year": "2008/09",
+         "Bonus payments in million euros": "583.4"
+      },
+      {
+         "Year": "2007/08",
+         "Bonus payments in million euros": "585.6"
+      },
+      {
+         "Year": "2006/07",
+         "Bonus payments in million euros": "584.9"
+      },
+      {
+         "Year": "2005/06",
+         "Bonus payments in million euros": "437.1"
+      }
+   ]
+}

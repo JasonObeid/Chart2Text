@@ -1,0 +1,71 @@
+{
+   "title": "Value added of manufacturing as a percentage of GDP 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Value added as a percentage of GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Value of added 2007 2018 in the manufacturing from 2007 to 2018 . ",
+      "In 2018 , about 11.4 added in the GDP were 2007 to be adopted ."
+   ],
+   "trends": [
+      {
+         "14": "11",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Value added as a percentage of GDP": "11.4"
+      },
+      {
+         "Year": "2017",
+         "Value added as a percentage of GDP": "11.2"
+      },
+      {
+         "Year": "2016",
+         "Value added as a percentage of GDP": "11.1"
+      },
+      {
+         "Year": "2015",
+         "Value added as a percentage of GDP": "11.7"
+      },
+      {
+         "Year": "2014",
+         "Value added as a percentage of GDP": "11.7"
+      },
+      {
+         "Year": "2013",
+         "Value added as a percentage of GDP": "11.9"
+      },
+      {
+         "Year": "2012",
+         "Value added as a percentage of GDP": "11.9"
+      },
+      {
+         "Year": "2011",
+         "Value added as a percentage of GDP": "12"
+      },
+      {
+         "Year": "2010",
+         "Value added as a percentage of GDP": "12"
+      },
+      {
+         "Year": "2009",
+         "Value added as a percentage of GDP": "11.8"
+      },
+      {
+         "Year": "2008",
+         "Value added as a percentage of GDP": "12.2"
+      },
+      {
+         "Year": "2007",
+         "Value added as a percentage of GDP": "12.8"
+      }
+   ]
+}

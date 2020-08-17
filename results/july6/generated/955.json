@@ -1,0 +1,38 @@
+{
+   "title": "Number of PC online gamers in Malaysia 2012 to 2014",
+   "xAxis": "Year",
+   "yAxis": "Number of gamers in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic represents the Number of gamers in Malaysia 2012 and 2013 , with a forecast for 2014 . ",
+      "According the calculations , there were 7.62 millions gamers in SEA 2012 and this Number is expected to grow 9.9 millions by the end of 2014 ."
+   ],
+   "trends": [
+      {
+         "11": "2",
+         "13": "1",
+         "19": "0"
+      },
+      {
+         "6": "2",
+         "13": "2",
+         "22": "0",
+         "28": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Number of gamers in millions": "9.9"
+      },
+      {
+         "Year": "2013",
+         "Number of gamers in millions": "8.7"
+      },
+      {
+         "Year": "2012",
+         "Number of gamers in millions": "7.62"
+      }
+   ]
+}

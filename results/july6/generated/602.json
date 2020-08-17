@@ -1,0 +1,107 @@
+{
+   "title": "Global CO2 emissions related to energy 1975 to 2019",
+   "xAxis": "Year",
+   "yAxis": "CO2 emissions in billion metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the CO2 of emissions in the CO2 from 1975 to 2019 . ",
+      "In 2019 , there were a total 33.3 emissions reported in the CO2 ."
+   ],
+   "trends": [
+      {
+         "11": "20",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "CO2 emissions in billion metric tons": "33.3"
+      },
+      {
+         "Year": "2018",
+         "CO2 emissions in billion metric tons": "33.3"
+      },
+      {
+         "Year": "2017",
+         "CO2 emissions in billion metric tons": "32.7"
+      },
+      {
+         "Year": "2016",
+         "CO2 emissions in billion metric tons": "32.2"
+      },
+      {
+         "Year": "2015",
+         "CO2 emissions in billion metric tons": "32.2"
+      },
+      {
+         "Year": "2014",
+         "CO2 emissions in billion metric tons": "32.3"
+      },
+      {
+         "Year": "2013",
+         "CO2 emissions in billion metric tons": "32.2"
+      },
+      {
+         "Year": "2012",
+         "CO2 emissions in billion metric tons": "31.6"
+      },
+      {
+         "Year": "2011",
+         "CO2 emissions in billion metric tons": "31.3"
+      },
+      {
+         "Year": "2010",
+         "CO2 emissions in billion metric tons": "30.4"
+      },
+      {
+         "Year": "2009",
+         "CO2 emissions in billion metric tons": "28.7"
+      },
+      {
+         "Year": "2008",
+         "CO2 emissions in billion metric tons": "29.1"
+      },
+      {
+         "Year": "2007",
+         "CO2 emissions in billion metric tons": "28.9"
+      },
+      {
+         "Year": "2006",
+         "CO2 emissions in billion metric tons": "27.9"
+      },
+      {
+         "Year": "2005",
+         "CO2 emissions in billion metric tons": "26.9"
+      },
+      {
+         "Year": "2000",
+         "CO2 emissions in billion metric tons": "23.01"
+      },
+      {
+         "Year": "1995",
+         "CO2 emissions in billion metric tons": "21.48"
+      },
+      {
+         "Year": "1990",
+         "CO2 emissions in billion metric tons": "20.62"
+      },
+      {
+         "Year": "1985",
+         "CO2 emissions in billion metric tons": "18.32"
+      },
+      {
+         "Year": "1980",
+         "CO2 emissions in billion metric tons": "17.78"
+      },
+      {
+         "Year": "1975",
+         "CO2 emissions in billion metric tons": "15.54"
+      }
+   ]
+}

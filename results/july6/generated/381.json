@@ -1,0 +1,60 @@
+{
+   "title": "Oakland Athletics all-time home run leaders 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of home runs",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Oakland Oakland Athletics all-time home leaders as of October 14 , 2019 . ",
+      "Mark_McGwire has hit the most home runs in Oakland Athletics franchise history with 363 home runs ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Mark McGwire",
+         "Number of home runs": "363"
+      },
+      {
+         "Month": "Jimmie Foxx",
+         "Number of home runs": "302"
+      },
+      {
+         "Month": "Reggie Jackson",
+         "Number of home runs": "269"
+      },
+      {
+         "Month": "Jose Canseco",
+         "Number of home runs": "254"
+      },
+      {
+         "Month": "Bob Johnson",
+         "Number of home runs": "252"
+      },
+      {
+         "Month": "Eric Chavez",
+         "Number of home runs": "230"
+      },
+      {
+         "Month": "Al Simmons",
+         "Number of home runs": "209"
+      },
+      {
+         "Month": "Jason Giambi",
+         "Number of home runs": "198"
+      },
+      {
+         "Month": "Sal Bando",
+         "Number of home runs": "192"
+      },
+      {
+         "Month": "Gus Zernial",
+         "Number of home runs": "191"
+      }
+   ]
+}

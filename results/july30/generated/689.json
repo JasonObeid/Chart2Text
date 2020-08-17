@@ -1,0 +1,90 @@
+{
+   "title": "UFC : events with the highest live attendance as of May 2019\n",
+   "xAxis": "Ufc Fights",
+   "yAxis": "Attendance",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 18 categories for the x axis representing Ufc Fights, and a y axis representing Attendance.",
+      " The highest category is found at Rousey_vs_Holm_(UFC_193) where Attendance is 56214.0.",
+      " The lowest category is found at Miocic_vs_Overeem_(UFC_203) where Attendance is 18785.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 17
+   },
+   "data": [
+      {
+         "Ufc Fights": "Rousey vs Holm (UFC 193)",
+         "Attendance": 56214.0
+      },
+      {
+         "Ufc Fights": "St. Pierre vs Shields (UFC 129)",
+         "Attendance": 55724.0
+      },
+      {
+         "Ufc Fights": "Werdum vs Miocic (UFC 198)",
+         "Attendance": 45207.0
+      },
+      {
+         "Ufc Fights": "Gustafsson vs Johnson (UFC on FOX 14)",
+         "Attendance": 30000.0
+      },
+      {
+         "Ufc Fights": "St. Pierre vs Koscheck 2 (UFC 124)",
+         "Attendance": 23152.0
+      },
+      {
+         "Ufc Fights": "Hunt vs Oleinik (UFC Fight Night 136)",
+         "Attendance": 22603.0
+      },
+      {
+         "Ufc Fights": "Redemption (UFC 97)",
+         "Attendance": 21451.0
+      },
+      {
+         "Ufc Fights": "Serra vs St. Pierre 2 (UFC 83)",
+         "Attendance": 21390.0
+      },
+      {
+         "Ufc Fights": "Velasquez vs Werdum (UFC 188)",
+         "Attendance": 21036.0
+      },
+      {
+         "Ufc Fights": "Werdum vs Hunt (UFC 180)",
+         "Attendance": 21000.0
+      },
+      {
+         "Ufc Fights": "Edgar vs Henderson (UFC 144)",
+         "Attendance": 21000.0
+      },
+      {
+         "Ufc Fights": "Alvarez vs McGregor (UFC 205)",
+         "Attendance": 20427.0
+      },
+      {
+         "Ufc Fights": "St Pierre vs Diaz (UFC 158)",
+         "Attendance": 20145.0
+      },
+      {
+         "Ufc Fights": "Khabib vs McGregor (UFC 229)",
+         "Attendance": 20034.0
+      },
+      {
+         "Ufc Fights": "Hendricks vs Lawler (UFC 171)",
+         "Attendance": 19324.0
+      },
+      {
+         "Ufc Fights": "Uprising (UFC 68)",
+         "Attendance": 19049.0
+      },
+      {
+         "Ufc Fights": "Holloway vs Ortega (UFC 231)",
+         "Attendance": 19039.0
+      },
+      {
+         "Ufc Fights": "Miocic vs Overeem (UFC 203)",
+         "Attendance": 18785.0
+      }
+   ]
+}

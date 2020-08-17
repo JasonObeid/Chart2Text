@@ -1,0 +1,70 @@
+{
+   "title": "Global energy commodity price index 2013 to 2030",
+   "xAxis": "Year",
+   "yAxis": "Price index in real 2010 U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Global annual energy commodity price 2013 through 2030 . ",
+      "In 2018 , the Global Price commodity stood at 68.1 index real 2010 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "10": "11",
+         "12": "0"
+      },
+      {
+         "1": "6",
+         "10": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2030",
+         "Price index in real 2010 U.S. dollars": "87.2"
+      },
+      {
+         "Year": "2025",
+         "Price index in real 2010 U.S. dollars": "79.1"
+      },
+      {
+         "Year": "2022",
+         "Price index in real 2010 U.S. dollars": "74.7"
+      },
+      {
+         "Year": "2021",
+         "Price index in real 2010 U.S. dollars": "73.3"
+      },
+      {
+         "Year": "2020",
+         "Price index in real 2010 U.S. dollars": "72.0"
+      },
+      {
+         "Year": "2019",
+         "Price index in real 2010 U.S. dollars": "74.3"
+      },
+      {
+         "Year": "2018",
+         "Price index in real 2010 U.S. dollars": "87.0"
+      },
+      {
+         "Year": "2017",
+         "Price index in real 2010 U.S. dollars": "68.1"
+      },
+      {
+         "Year": "2016",
+         "Price index in real 2010 U.S. dollars": "55.1"
+      },
+      {
+         "Year": "2015",
+         "Price index in real 2010 U.S. dollars": "65.0"
+      },
+      {
+         "Year": "2014",
+         "Price index in real 2010 U.S. dollars": "111.7"
+      },
+      {
+         "Year": "2013",
+         "Price index in real 2010 U.S. dollars": "120.1"
+      }
+   ]
+}

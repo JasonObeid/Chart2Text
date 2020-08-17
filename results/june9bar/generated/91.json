@@ -1,0 +1,104 @@
+{
+   "title": "Most utilized frameworks among developers worldwide 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "As of early 2019 , Node.js and .NET were the most frameworks among by getting in .NET . ",
+      "Approximately 49.9 % of respondents stated that they like Node.js 2019 , followed by .NET and .NET_Core . ",
+      "Headphone Market The retail value of global second and .NET_Core followed by 37.4 and .NET_Core would be a `` hot trend '' for developers worldwide in Brazil , which and 23.7 % among ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "7": "1",
+         "16": "1"
+      },
+      {
+         "1": "0",
+         "9": "0",
+         "14": "1",
+         "16": "2"
+      },
+      {
+         "9": "2",
+         "12": "1",
+         "14": "2",
+         "30": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Node.js",
+         "Share of respondents": "49.9"
+      },
+      {
+         "Response": ".NET",
+         "Share of respondents": "37.4"
+      },
+      {
+         "Response": ".NET Core",
+         "Share of respondents": "23.7"
+      },
+      {
+         "Response": "Pandas",
+         "Share of respondents": "12.7"
+      },
+      {
+         "Response": "Unity 3D",
+         "Share of respondents": "11.3"
+      },
+      {
+         "Response": "React Native",
+         "Share of respondents": "10.5"
+      },
+      {
+         "Response": "TensorFlow",
+         "Share of respondents": "10.3"
+      },
+      {
+         "Response": "Ansible",
+         "Share of respondents": "9.4"
+      },
+      {
+         "Response": "Cordova",
+         "Share of respondents": "7.1"
+      },
+      {
+         "Response": "Xamarin",
+         "Share of respondents": "6.5"
+      },
+      {
+         "Response": "Apache Spark",
+         "Share of respondents": "5.8"
+      },
+      {
+         "Response": "Hadoop",
+         "Share of respondents": "4.9"
+      },
+      {
+         "Response": "Unreal Engine",
+         "Share of respondents": "3.5"
+      },
+      {
+         "Response": "Flutter",
+         "Share of respondents": "3.4"
+      },
+      {
+         "Response": "Torch/PyTorch",
+         "Share of respondents": "3.3"
+      },
+      {
+         "Response": "Puppet",
+         "Share of respondents": "2.7"
+      },
+      {
+         "Response": "Chef",
+         "Share of respondents": "2.5"
+      },
+      {
+         "Response": "CryEngine",
+         "Share of respondents": "0.6"
+      }
+   ]
+}

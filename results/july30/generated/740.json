@@ -1,0 +1,58 @@
+{
+   "title": "Leading baby wipes vendors in the U.S. 2016 , based on sales\n",
+   "xAxis": "Company",
+   "yAxis": "Million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Company, and a y axis representing Million U.S. dollars.",
+      " The highest category is found at Private_label where Million U.S. dollars is 494.4.",
+      " The lowest category is found at Irish_Breeze where Million U.S. dollars is 4.4."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Company": "Private label",
+         "Million U.S. dollars": 494.4
+      },
+      {
+         "Company": "Kimberly Clark Corp.",
+         "Million U.S. dollars": 416.2
+      },
+      {
+         "Company": "Procter & Gamble",
+         "Million U.S. dollars": 276.6
+      },
+      {
+         "Company": "Seventh Generation",
+         "Million U.S. dollars": 9.6
+      },
+      {
+         "Company": "The Honest Co.",
+         "Million U.S. dollars": 8.6
+      },
+      {
+         "Company": "Johnson & Johnson",
+         "Million U.S. dollars": 7.1
+      },
+      {
+         "Company": "Nice-Pak Products",
+         "Million U.S. dollars": 6.3
+      },
+      {
+         "Company": "Paper Partners",
+         "Million U.S. dollars": 6.1
+      },
+      {
+         "Company": "Kas Direct",
+         "Million U.S. dollars": 5.7
+      },
+      {
+         "Company": "Irish Breeze",
+         "Million U.S. dollars": 4.4
+      }
+   ]
+}

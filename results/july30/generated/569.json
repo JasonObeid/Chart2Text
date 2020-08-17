@@ -1,0 +1,84 @@
+{
+   "title": "Croatia : Number of road deaths 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of fatalities, with a total of 13 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2014 to 2008.",
+      " Additionally, the next significant trend is  negative which exists from 2008 to 2006."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 4,
+         "end": 10,
+         "trend": "y=-52.18x+105377.54",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 10,
+         "end": 12,
+         "trend": "y=25.0x+-49542.67",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": 317.0
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": 331.0
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": 307.0
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": 348.0
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": 308.0
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": 368.0
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": 393.0
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": 418.0
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": 426.0
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": 548.0
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": 664.0
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": 619.0
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": 614.0
+      }
+   ]
+}

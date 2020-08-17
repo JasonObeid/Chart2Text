@@ -1,0 +1,54 @@
+{
+   "title": "Philippines social media user penetration 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Share of population",
+   "graphType": "line",
+   "summary": [
+      "This statistic gives information on the social user rate in Philippines from 2017 to 2023 . ",
+      "In 2017 , 49 % of the Indonesian population were using the social . ",
+      "In 2023 , this figure is projected to grow 55 % ."
+   ],
+   "trends": [
+      {
+         "12": "6",
+         "14": "0"
+      },
+      {
+         "1": "6",
+         "3": "6"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Share of population": "55"
+      },
+      {
+         "Year": "2022",
+         "Share of population": "54"
+      },
+      {
+         "Year": "2021",
+         "Share of population": "54"
+      },
+      {
+         "Year": "2020",
+         "Share of population": "53"
+      },
+      {
+         "Year": "2019",
+         "Share of population": "52"
+      },
+      {
+         "Year": "2018",
+         "Share of population": "51"
+      },
+      {
+         "Year": "2017",
+         "Share of population": "49"
+      }
+   ]
+}

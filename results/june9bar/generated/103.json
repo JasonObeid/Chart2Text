@@ -1,0 +1,43 @@
+{
+   "title": "Most popular mobile payment services in Sweden 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey about the mobile payment of several individual Most None in Sweden 2015 , phrased PayPal_Mobile the question : `` except reading books , which of the following Most None . ",
+      "75 % of respondents stated that they used services Sweden stated that they did n't identify themselves as having a None ."
+   ],
+   "trends": [
+      {
+         "16": "4",
+         "23": "1",
+         "37": "4"
+      },
+      {
+         "0": "0",
+         "20": "4"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Swish",
+         "Share of respondents": "75"
+      },
+      {
+         "Response": "PayPal Mobile",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "WyWallet",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "None",
+         "Share of respondents": "21"
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "title": "Active duty U.S Coast Guard personnel numbers from 1995 to 2010",
+   "xAxis": "Year",
+   "yAxis": "Number of Coast Guard personnel",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of Coast Guard personnel Coast numbers from in the 1995 from to 2010 . ",
+      "In 2010 , there were 41327 million Coast Guard personnel ."
+   ],
+   "trends": [
+      {
+         "17": "7",
+         "19": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Number of Coast Guard personnel": "41327"
+      },
+      {
+         "Year": "2009",
+         "Number of Coast Guard personnel": "42426"
+      },
+      {
+         "Year": "2008",
+         "Number of Coast Guard personnel": "41362"
+      },
+      {
+         "Year": "2007",
+         "Number of Coast Guard personnel": "40650"
+      },
+      {
+         "Year": "2006",
+         "Number of Coast Guard personnel": "39980"
+      },
+      {
+         "Year": "2005",
+         "Number of Coast Guard personnel": "39361"
+      },
+      {
+         "Year": "2000",
+         "Number of Coast Guard personnel": "34804"
+      },
+      {
+         "Year": "1995",
+         "Number of Coast Guard personnel": "35582"
+      }
+   ]
+}

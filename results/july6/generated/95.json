@@ -1,0 +1,32 @@
+{
+   "title": "Coffee makers : U.S. market share by product type 2010",
+   "xAxis": "Coffee Type",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "In 2010 , share retail e-commerce Market in the Automatic_Drip amounted to 75 share , more than double the amount of share makers Market in Single-Serve and more than 174 times the amount of the Market in Espresso ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "13": "0",
+         "28": "1",
+         "40": "2"
+      }
+   ],
+   "data": [
+      {
+         "Coffee Type": "Automatic Drip",
+         "Market share": "75"
+      },
+      {
+         "Coffee Type": "Single-Serve",
+         "Market share": "19"
+      },
+      {
+         "Coffee Type": "Espresso",
+         "Market share": "6"
+      }
+   ]
+}

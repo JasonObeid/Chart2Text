@@ -1,0 +1,68 @@
+{
+   "title": "Number of births in Norway 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of live births",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of births in Norway from 2008 to 2018 . ",
+      "births is measured by the Number of live births in the births . ",
+      "In 2018 , 55120 % of Norway 's births lived in cities ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of live births": "55120"
+      },
+      {
+         "Year": "2017",
+         "Number of live births": "56633"
+      },
+      {
+         "Year": "2016",
+         "Number of live births": "58890"
+      },
+      {
+         "Year": "2015",
+         "Number of live births": "59058"
+      },
+      {
+         "Year": "2014",
+         "Number of live births": "59084"
+      },
+      {
+         "Year": "2013",
+         "Number of live births": "58995"
+      },
+      {
+         "Year": "2012",
+         "Number of live births": "60255"
+      },
+      {
+         "Year": "2011",
+         "Number of live births": "60220"
+      },
+      {
+         "Year": "2010",
+         "Number of live births": "61442"
+      },
+      {
+         "Year": "2009",
+         "Number of live births": "61807"
+      },
+      {
+         "Year": "2008",
+         "Number of live births": "60497"
+      }
+   ]
+}

@@ -1,0 +1,191 @@
+{
+   "title": "Number of households in Germany 2000 - 2018 , by size",
+   "labels": [
+      "Year",
+      "One person",
+      "Two persons",
+      "Three persons",
+      "Four persons",
+      "Five persons and more"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of Germany from 2000 to 2018 , by size . ",
+      "In 2018 , the largest by size of inhabitants consisted of people aged 25 to 34 person old , reaching almost 1.5 % . ",
+      "The second largest by size were 45 to 54 Year olds , reaching about 1.3 million ."
+   ],
+   "trends": [
+      {
+         "8": [
+            "18",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "One person": "17333",
+         "Two persons": "13983",
+         "Three persons": "4923",
+         "Four persons": "3748",
+         "Five persons and more": "1390"
+      },
+      {
+         "Year": "2017",
+         "One person": "17263",
+         "Two persons": "13850",
+         "Three persons": "4972",
+         "Four persons": "3823",
+         "Five persons and more": "1397"
+      },
+      {
+         "Year": "2016",
+         "One person": "16832",
+         "Two persons": "13915",
+         "Three persons": "5028",
+         "Four persons": "3807",
+         "Five persons and more": "1377"
+      },
+      {
+         "Year": "2015",
+         "One person": "16875",
+         "Two persons": "13956",
+         "Three persons": "4940",
+         "Four persons": "3679",
+         "Five persons and more": "1323"
+      },
+      {
+         "Year": "2014",
+         "One person": "16412",
+         "Two persons": "13837",
+         "Three persons": "4968",
+         "Four persons": "3672",
+         "Five persons and more": "1333"
+      },
+      {
+         "Year": "2013",
+         "One person": "16176",
+         "Two persons": "13748",
+         "Three persons": "4989",
+         "Four persons": "3688",
+         "Five persons and more": "1332"
+      },
+      {
+         "Year": "2012",
+         "One person": "15979",
+         "Two persons": "13665",
+         "Three persons": "4992",
+         "Four persons": "3739",
+         "Five persons and more": "1332"
+      },
+      {
+         "Year": "2011",
+         "One person": "15867",
+         "Two persons": "13514",
+         "Three persons": "5001",
+         "Four persons": "3778",
+         "Five persons and more": "1350"
+      },
+      {
+         "Year": "2010",
+         "One person": "16195",
+         "Two persons": "13793",
+         "Three persons": "5089",
+         "Four persons": "3846",
+         "Five persons and more": "1378"
+      },
+      {
+         "Year": "2009",
+         "One person": "15995",
+         "Two persons": "13741",
+         "Three persons": "5139",
+         "Four persons": "3887",
+         "Five persons and more": "1427"
+      },
+      {
+         "Year": "2008",
+         "One person": "15791",
+         "Two persons": "13636",
+         "Three persons": "5247",
+         "Four persons": "3966",
+         "Five persons and more": "1437"
+      },
+      {
+         "Year": "2007",
+         "One person": "15385",
+         "Two persons": "13496",
+         "Three persons": "5309",
+         "Four persons": "4081",
+         "Five persons and more": "1450"
+      },
+      {
+         "Year": "2006",
+         "One person": "15447",
+         "Two persons": "13375",
+         "Three persons": "5357",
+         "Four persons": "4107",
+         "Five persons and more": "1479"
+      },
+      {
+         "Year": "2005",
+         "One person": "14695",
+         "Two persons": "13266",
+         "Three persons": "5477",
+         "Four persons": "4213",
+         "Five persons and more": "1527"
+      },
+      {
+         "Year": "2004",
+         "One person": "14566",
+         "Two persons": "13335",
+         "Three persons": "5413",
+         "Four persons": "4218",
+         "Five persons and more": "1590"
+      },
+      {
+         "Year": "2003",
+         "One person": "14426",
+         "Two persons": "13169",
+         "Three persons": "5462",
+         "Four persons": "4268",
+         "Five persons and more": "1618"
+      },
+      {
+         "Year": "2002",
+         "One person": "14224",
+         "Two persons": "13059",
+         "Three persons": "5487",
+         "Four persons": "4315",
+         "Five persons and more": "1633"
+      },
+      {
+         "Year": "2001",
+         "One person": "14056",
+         "Two persons": "12904",
+         "Three persons": "5502",
+         "Four persons": "4346",
+         "Five persons and more": "1647"
+      },
+      {
+         "Year": "2000",
+         "One person": "13750",
+         "Two persons": "12720",
+         "Three persons": "5598",
+         "Four persons": "4391",
+         "Five persons and more": "1665"
+      }
+   ]
+}

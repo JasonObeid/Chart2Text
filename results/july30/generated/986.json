@@ -1,0 +1,192 @@
+{
+   "title": "Mobile share of organic search engine traffic 2019 , by platform",
+   "labels": [
+      "Quarter",
+      "Google",
+      "Yahoo",
+      "Bing",
+      "DuckDuckGo"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 24 categories for the x axis of Quarter representing Google, Yahoo, Bing, DuckDuckGo.",
+      " The highest category is found at Q3 '19 with a mean value of 51.75.",
+      " The second highest category is found at Q2 '19 with a mean value of 50.0.",
+      " This represents a difference of 3.4%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Google": "61",
+         "Yahoo": "49",
+         "Bing": "23",
+         "DuckDuckGo": "58"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Google": "64",
+         "Yahoo": "53",
+         "Bing": "25",
+         "DuckDuckGo": "65"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Google": "63",
+         "Yahoo": "52",
+         "Bing": "23",
+         "DuckDuckGo": "62"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Google": "62",
+         "Yahoo": "50",
+         "Bing": "23",
+         "DuckDuckGo": "62"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Google": "61",
+         "Yahoo": "51",
+         "Bing": "22",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Google": "60",
+         "Yahoo": "51",
+         "Bing": "22",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Google": "59",
+         "Yahoo": "50",
+         "Bing": "22",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Google": "57",
+         "Yahoo": "48",
+         "Bing": "19",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Google": "56",
+         "Yahoo": "42",
+         "Bing": "18",
+         "DuckDuckGo": "46"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Google": "57",
+         "Yahoo": "48",
+         "Bing": "18",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Google": "54",
+         "Yahoo": "49",
+         "Bing": "18",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Google": "56",
+         "Yahoo": "49",
+         "Bing": "18",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Google": "54",
+         "Yahoo": "49",
+         "Bing": "18",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Google": "51",
+         "Yahoo": "47",
+         "Bing": "19",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Google": "49",
+         "Yahoo": "47",
+         "Bing": "20",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Google": "48",
+         "Yahoo": "44",
+         "Bing": "22",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Google": "47",
+         "Yahoo": "44",
+         "Bing": "29",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Google": "47",
+         "Yahoo": "46",
+         "Bing": "30",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Google": "47",
+         "Yahoo": "43",
+         "Bing": "31",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Google": "44",
+         "Yahoo": "49",
+         "Bing": "29",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Google": "41",
+         "Yahoo": "47",
+         "Bing": "28",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Google": "38",
+         "Yahoo": "40",
+         "Bing": "19",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Google": "36",
+         "Yahoo": "39",
+         "Bing": "16",
+         "DuckDuckGo": "0"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Google": "34",
+         "Yahoo": "32",
+         "Bing": "15",
+         "DuckDuckGo": "0"
+      }
+   ]
+}

@@ -1,0 +1,79 @@
+{
+   "title": "Franchise value of the Chicago Blackhawks 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Franchise value million for Chicago Blackhawks games in the National Football League from 2006 to 2019 . ",
+      "In 2019 , the Franchise value million was 1085 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "16": "13",
+         "18": "0"
+      },
+      {
+         "1": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": "1085"
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": "1050"
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": "1000"
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": "925"
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": "925"
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": "825"
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": "625"
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": "350"
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": "306"
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": "300"
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": "258"
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": "205"
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": "179"
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": "168"
+      }
+   ]
+}

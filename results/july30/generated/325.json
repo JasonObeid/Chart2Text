@@ -1,0 +1,38 @@
+{
+   "title": "Video game industry 's wealthiest entrepreneurs 2016\n",
+   "xAxis": "Entrepreneur (company)",
+   "yAxis": "Net worth in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Entrepreneur (company), and a y axis representing Net worth in billion U.S. dollars.",
+      " The highest category is found at Ma_Huateng_(Tencent) where Net worth in billion U.S. dollars is 21.9.",
+      " The lowest category is found at Kim_Jung-Ju_(Nexon) where Net worth in billion U.S. dollars is 3.5."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Entrepreneur (company)": "Ma Huateng (Tencent)",
+         "Net worth in billion U.S. dollars": 21.9
+      },
+      {
+         "Entrepreneur (company)": "William Ding (NetEase)",
+         "Net worth in billion U.S. dollars": 11.5
+      },
+      {
+         "Entrepreneur (company)": "Shi Yuzhu (Giant Interactive)",
+         "Net worth in billion U.S. dollars": 5.4
+      },
+      {
+         "Entrepreneur (company)": "Kwon Hyuk-Bin (SmileGate)",
+         "Net worth in billion U.S. dollars": 4.9
+      },
+      {
+         "Entrepreneur (company)": "Kim Jung-Ju (Nexon)",
+         "Net worth in billion U.S. dollars": 3.5
+      }
+   ]
+}

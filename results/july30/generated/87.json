@@ -1,0 +1,58 @@
+{
+   "title": "Most valuable Italian brands in 2019\n",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Brand, and a y axis representing Brand value in million U.S. dollars.",
+      " The highest category is found at Eni where Brand value in million U.S. dollars is 10711.0.",
+      " The lowest category is found at Poste_Italiane_Spa where Brand value in million U.S. dollars is 3120.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 5
+   },
+   "data": [
+      {
+         "Brand": "Eni",
+         "Brand value in million U.S. dollars": 10711.0
+      },
+      {
+         "Brand": "Enel",
+         "Brand value in million U.S. dollars": 10319.0
+      },
+      {
+         "Brand": "Gucci",
+         "Brand value in million U.S. dollars": 10192.0
+      },
+      {
+         "Brand": "TIM",
+         "Brand value in million U.S. dollars": 8707.0
+      },
+      {
+         "Brand": "Ferrari",
+         "Brand value in million U.S. dollars": 8327.0
+      },
+      {
+         "Brand": "Poste Italiane Spa",
+         "Brand value in million U.S. dollars": 3120.0
+      },
+      {
+         "Brand": "Generali",
+         "Brand value in million U.S. dollars": 7099.0
+      },
+      {
+         "Brand": "Intesa Sanpaolo Group",
+         "Brand value in million U.S. dollars": 5466.0
+      },
+      {
+         "Brand": "Prada",
+         "Brand value in million U.S. dollars": 4489.0
+      },
+      {
+         "Brand": "Ray-Ban",
+         "Brand value in million U.S. dollars": 3897.0
+      }
+   ]
+}

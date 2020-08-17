@@ -1,0 +1,30 @@
+{
+   "title": "Leading bar soap brands ranked by sales value in the United Kingdom ( UK ) 2014\n",
+   "xAxis": "Soap Bar Brand",
+   "yAxis": "Sales in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Soap Bar Brand, and a y axis representing Sales in million GBP.",
+      " The highest category is found at Dove where Sales in million GBP is 26.8.",
+      " The lowest category is found at Simple where Sales in million GBP is 5.8."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Soap Bar Brand": "Dove",
+         "Sales in million GBP": 26.8
+      },
+      {
+         "Soap Bar Brand": "Imperial Leather",
+         "Sales in million GBP": 11.1
+      },
+      {
+         "Soap Bar Brand": "Simple",
+         "Sales in million GBP": 5.8
+      }
+   ]
+}

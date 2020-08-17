@@ -1,0 +1,88 @@
+{
+   "title": "Boston Bruins ' revenue 2005 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 14 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2011/12 to 2005/06.",
+      " Conversely, the next significant trend is  negative which exists from 2018/19 to 2014/15."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 7,
+         "end": 13,
+         "trend": "y=7.79x+-15527.71",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=16.2x+-32474.8",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 228.0
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 191.0
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 176.0
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 169.0
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 158.0
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": 164.0
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": 114.0
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": 129.0
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": 125.0
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": 110.0
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": 108.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": 97.0
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": 87.0
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": 86.0
+      }
+   ]
+}

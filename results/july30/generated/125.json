@@ -1,0 +1,102 @@
+{
+   "title": "Number of road deaths in Germany 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of fatalities, with a total of 13 data points. The chart has 4 significant trends.",
+      " The longest trend is  positive which exists from 2010 to 2006.",
+      " Also, the next significant trend is  positive which exists from 2017 to 2015.",
+      " Similarly, the next significant trend is  negative which exists from 2015 to 2013.",
+      " On the contrary, the next significant trend is  positive which exists from 2013 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 8,
+         "end": 12,
+         "trend": "y=-368.3x+744009.8",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 1,
+         "end": 3,
+         "trend": "y=-139.5x+284513.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 3,
+         "end": 5,
+         "trend": "y=60.0x+-117448.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 5,
+         "end": 7,
+         "trend": "y=-335.0x+677669.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": 3275.0
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": 3180.0
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": 3206.0
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": 3459.0
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": 3377.0
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": 3339.0
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": 3600.0
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": 4009.0
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": 3648.0
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": 4152.0
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": 4477.0
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": 4949.0
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": 5091.0
+      }
+   ]
+}

@@ -1,0 +1,58 @@
+{
+   "title": "U.S. consumer usage of mobile payments 2017\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Made_a_mobile_payment where Share of respondents is 64.0.",
+      " The lowest category is found at Sent_money_internationally where Share of respondents is 2.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Response": "Made a mobile payment",
+         "Share of respondents": 64.0
+      },
+      {
+         "Response": "Paid a bill",
+         "Share of respondents": 49.0
+      },
+      {
+         "Response": "Purchase in-app or online",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Received loyalty points",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Sent/received money (P2P)",
+         "Share of respondents": 23.0
+      },
+      {
+         "Response": "Paid in-store",
+         "Share of respondents": 19.0
+      },
+      {
+         "Response": "Paid for parking/taxi/transit",
+         "Share of respondents": 12.0
+      },
+      {
+         "Response": "Withdrew money from ATM",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Paid by text message",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Sent money internationally",
+         "Share of respondents": 2.0
+      }
+   ]
+}

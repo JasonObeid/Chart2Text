@@ -1,0 +1,58 @@
+{
+   "title": "Leading countries worldwide based on coffee area harvested 2017",
+   "xAxis": "Country",
+   "yAxis": "Area in thousand hectares",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Area of the Leading countries worldwide based in 2017 , broken down by Country . ",
+      "According to the source , had a Area of 423.55 thousand of based coffee area harvested ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "9"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Brazil",
+         "Area in thousand hectares": "1800.4"
+      },
+      {
+         "Country": "Indonesia",
+         "Area in thousand hectares": "1253.8"
+      },
+      {
+         "Country": "C\u00f4te d\u2019Ivoire",
+         "Area in thousand hectares": "925.44"
+      },
+      {
+         "Country": "Colombia",
+         "Area in thousand hectares": "798.36"
+      },
+      {
+         "Country": "Ethiopia",
+         "Area in thousand hectares": "694.33"
+      },
+      {
+         "Country": "Mexico",
+         "Area in thousand hectares": "638.6"
+      },
+      {
+         "Country": "Viet Nam",
+         "Area in thousand hectares": "605.18"
+      },
+      {
+         "Country": "Honduras",
+         "Area in thousand hectares": "505.12"
+      },
+      {
+         "Country": "India",
+         "Area in thousand hectares": "449.36"
+      },
+      {
+         "Country": "Peru",
+         "Area in thousand hectares": "423.55"
+      }
+   ]
+}

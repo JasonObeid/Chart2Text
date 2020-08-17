@@ -1,0 +1,32 @@
+{
+   "title": "Percentage of U.S. social networks who suffer from FOMO as of June 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "A 2017 survey of FOMO adults found that approximately 56 % of American Suffer_from_FOMO and 44 % of American Don't_suffer_from_FOMO currently smoke who . ",
+      "Impact of Legalizing Cannabis in the Percentage . ",
+      "Since Washington and Colorado legalized recreational who in 2012 , several more states have followed suit ."
+   ],
+   "trends": [
+      {
+         "9": "0",
+         "13": "0",
+         "15": "1",
+         "19": "1"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Suffer from FOMO",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Don't suffer from FOMO",
+         "Share of respondents": "44"
+      }
+   ]
+}

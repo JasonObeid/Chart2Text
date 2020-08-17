@@ -1,0 +1,53 @@
+{
+   "title": "Liver cirrhosis deaths : Canada 2002 , 2012 , and 2016",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the average hourly wage in the cirrhosis deaths in Canada compared to the 2012 from 2016 to 2002 . ",
+      "As of 2017 , a cirrhosis worker in Canada earned approximately 10.4 2012 dollars an hour , whereas the average Liver in the 2012 stood at 4.7 2012 dollars an hour ."
+   ],
+   "trends": [
+      {
+         "18": [
+            "2",
+            "0"
+         ],
+         "20": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "11": [
+            "0",
+            "1"
+         ],
+         "26": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2002",
+         "Male": "10.4",
+         "Female": "4.7"
+      },
+      {
+         "Year": "2012",
+         "Male": "10.6",
+         "Female": "5.1"
+      },
+      {
+         "Year": "2016",
+         "Male": "10.9",
+         "Female": "5.2"
+      }
+   ]
+}

@@ -1,0 +1,104 @@
+{
+   "title": "St. Louis Cardinals revenue 2001 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2018 to 2009.",
+      " But, the next significant trend is  negative which exists from 2008 to 2001."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 0,
+         "end": 9,
+         "trend": "y=17.04x+-34041.32",
+         "magnitude": ""
+      },
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 10,
+         "end": 17,
+         "trend": "y=11.99x+-23871.26",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 356.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 319.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 310.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 300.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 294.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 283.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 239.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 233.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 207.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 195.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 195.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 194.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 184.0
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 165.0
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 151.0
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 131.0
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 128.0
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 123.0
+      }
+   ]
+}

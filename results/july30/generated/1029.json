@@ -1,0 +1,58 @@
+{
+   "title": "Leading causes of death among black U.S. residents in 2017\n",
+   "xAxis": "Month",
+   "yAxis": "Percentage of all causes of death",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Percentage of all causes of death.",
+      " The highest category is found at Diseases_of_the_heart where Percentage of all causes of death is 23.3.",
+      " The lowest category is found at Septicemia where Percentage of all causes of death is 2.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Month": "Diseases of the heart",
+         "Percentage of all causes of death": 23.3
+      },
+      {
+         "Month": "Malignant neoplasms (cancers)",
+         "Percentage of all causes of death": 20.8
+      },
+      {
+         "Month": "Accidents (unintentional injuries)",
+         "Percentage of all causes of death": 5.9
+      },
+      {
+         "Month": "Cerebrovascular diseases (stroke)",
+         "Percentage of all causes of death": 5.7
+      },
+      {
+         "Month": "Diabetes mellitus",
+         "Percentage of all causes of death": 4.4
+      },
+      {
+         "Month": "Chronic lower respiratorydiseases (CLRD)",
+         "Percentage of all causes of death": 3.3
+      },
+      {
+         "Month": "Assault (homicide)",
+         "Percentage of all causes of death": 3.0
+      },
+      {
+         "Month": "Nephritis nephrotic syndrome and nephrosis (kidney diseases)",
+         "Percentage of all causes of death": 2.8
+      },
+      {
+         "Month": "Alzheimer's disease",
+         "Percentage of all causes of death": 2.7
+      },
+      {
+         "Month": "Septicemia",
+         "Percentage of all causes of death": 2.0
+      }
+   ]
+}

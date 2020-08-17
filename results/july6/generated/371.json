@@ -1,0 +1,93 @@
+{
+   "title": "Number of straight and same-sex marriages in the Netherlands 2008 to 2018",
+   "labels": [
+      "Year",
+      "Between man and woman",
+      "Same-sex marriages"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number estimated annual straight to same-sex different universities and college institutions in the marriages for academic years 2008 to 2018 . ",
+      "The Number straight of attendance ( which includes tuition , fees room and board ) in Between marriages in-state institutions was 1502 Netherlands dollars in the academic Year 2018 ."
+   ],
+   "trends": [
+      {
+         "21": [
+            "0",
+            "0"
+         ],
+         "23": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "22": [
+            "10",
+            "2"
+         ],
+         "29": [
+            "10",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2008",
+         "Between man and woman": "74030",
+         "Same-sex marriages": "1408"
+      },
+      {
+         "Year": "2009",
+         "Between man and woman": "72119",
+         "Same-sex marriages": "1358"
+      },
+      {
+         "Year": "2010",
+         "Between man and woman": "74045",
+         "Same-sex marriages": "1354"
+      },
+      {
+         "Year": "2011",
+         "Between man and woman": "70217",
+         "Same-sex marriages": "1355"
+      },
+      {
+         "Year": "2012",
+         "Between man and woman": "69030",
+         "Same-sex marriages": "1285"
+      },
+      {
+         "Year": "2013",
+         "Between man and woman": "63327",
+         "Same-sex marriages": "1222"
+      },
+      {
+         "Year": "2014",
+         "Between man and woman": "64074",
+         "Same-sex marriages": "1259"
+      },
+      {
+         "Year": "2015",
+         "Between man and woman": "62912",
+         "Same-sex marriages": "1396"
+      },
+      {
+         "Year": "2016",
+         "Between man and woman": "63813",
+         "Same-sex marriages": "1436"
+      },
+      {
+         "Year": "2017",
+         "Between man and woman": "63027",
+         "Same-sex marriages": "1375"
+      },
+      {
+         "Year": "2018",
+         "Between man and woman": "62813",
+         "Same-sex marriages": "1502"
+      }
+   ]
+}

@@ -1,0 +1,63 @@
+{
+   "title": "Leading brands in the Netherlands 2018 , ranked by Buzz score",
+   "xAxis": "Platform",
+   "yAxis": "Buzz score",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the most popular Jumbo 2018 ranked in the brands as of 2018 , ranked Buzz score . ",
+      "The most popular Jumbo 2018 service as of 2018 was Samsung , with 47.7 % score active ."
+   ],
+   "trends": [
+      {
+         "6": "5"
+      },
+      {
+         "3": "5",
+         "10": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Samsung",
+         "Buzz score": "47.7"
+      },
+      {
+         "Platform": "Albert Heijn",
+         "Buzz score": "46.8"
+      },
+      {
+         "Platform": "Philips",
+         "Buzz score": "38.6"
+      },
+      {
+         "Platform": "Google",
+         "Buzz score": "37.9"
+      },
+      {
+         "Platform": "Lidl",
+         "Buzz score": "34.8"
+      },
+      {
+         "Platform": "Jumbo",
+         "Buzz score": "33.8"
+      },
+      {
+         "Platform": "YouTube",
+         "Buzz score": "33.5"
+      },
+      {
+         "Platform": "Sony",
+         "Buzz score": "28.9"
+      },
+      {
+         "Platform": "Wikipedia",
+         "Buzz score": "25.4"
+      },
+      {
+         "Platform": "Bose",
+         "Buzz score": "21.9"
+      }
+   ]
+}

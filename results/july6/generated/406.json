@@ -1,0 +1,34 @@
+{
+   "title": "Witcher game series unit sales worldwide as of August 2015",
+   "xAxis": "Game release (year of release)",
+   "yAxis": "Number of units sold in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic illustrates the number of series unit sales in the Witcher in 2015 , August Game release . ",
+      "In 2015 , 6.01 millions Witcher Number owned a The_Witcher_3:_Wild_Hunt_(2015) unit dryer . ",
+      "As of 2015 , almost 80 millions of Witcher Number had a unit dryer ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "9": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Game release (year of release)": "The Witcher 3: Wild Hunt (2015)",
+         "Number of units sold in millions": "6.01"
+      },
+      {
+         "Game release (year of release)": "The Witcher 2: Assasins of Kings (2011)",
+         "Number of units sold in millions": "1.7"
+      },
+      {
+         "Game release (year of release)": "The Witcher (2007)",
+         "Number of units sold in millions": "1.0"
+      }
+   ]
+}

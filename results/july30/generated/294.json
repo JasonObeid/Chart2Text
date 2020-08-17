@@ -1,0 +1,72 @@
+{
+   "title": "Twitter : top mentioned hashtags of the Oscars 2017",
+   "labels": [
+      "Hashtags",
+      "Tweets",
+      "Retweets"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 10 categories for the x axis of Hashtags representing Tweets, and Retweets.",
+      " The highest category is found at #Oscars with a mean value of 1390832.0.",
+      " The second highest category is found at #oscars with a mean value of 86572.5.",
+      " This represents a difference of 176.6%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Hashtags": "#Oscars",
+         "Tweets": "793925",
+         "Retweets": "1987739"
+      },
+      {
+         "Hashtags": "#oscars",
+         "Tweets": "74804",
+         "Retweets": "98341"
+      },
+      {
+         "Hashtags": "#Oscars2017",
+         "Tweets": "86770",
+         "Retweets": "85934"
+      },
+      {
+         "Hashtags": "#Moonlight",
+         "Tweets": "12728",
+         "Retweets": "39728"
+      },
+      {
+         "Hashtags": "#WinnerIsDJT",
+         "Tweets": "855",
+         "Retweets": "42518"
+      },
+      {
+         "Hashtags": "#Maga",
+         "Tweets": "1644",
+         "Retweets": "41202"
+      },
+      {
+         "Hashtags": "#TrumpWins4USA",
+         "Tweets": "887",
+         "Retweets": "38055"
+      },
+      {
+         "Hashtags": "#HiddenFigures",
+         "Tweets": "3550",
+         "Retweets": "30263"
+      },
+      {
+         "Hashtags": "#LaLaLand",
+         "Tweets": "10370",
+         "Retweets": "31284"
+      },
+      {
+         "Hashtags": "#OSCARS",
+         "Tweets": "6404",
+         "Retweets": "26829"
+      }
+   ]
+}

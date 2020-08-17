@@ -1,0 +1,30 @@
+{
+   "title": "Number of registered automobiles in Washington 2016",
+   "xAxis": "Autmobile type",
+   "yAxis": "Number of registered automobiles",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the percentage of online consumers in the Number who were using Washington as of 2016 . ",
+      "During a survey period of time , it was found that 2935656 % automobiles ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "2"
+      }
+   ],
+   "data": [
+      {
+         "Autmobile type": "Publicly owned",
+         "Number of registered automobiles": "72003"
+      },
+      {
+         "Autmobile type": "Private and commercial (including taxicabs)",
+         "Number of registered automobiles": "2863653"
+      },
+      {
+         "Autmobile type": "Total",
+         "Number of registered automobiles": "2935656"
+      }
+   ]
+}

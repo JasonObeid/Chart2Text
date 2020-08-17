@@ -1,0 +1,26 @@
+{
+   "title": "Fifty Shades of Grey : U.S. sales figures in 2012 , by platform\n",
+   "xAxis": "Copy Type",
+   "yAxis": "Number of copies in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Copy Type, and a y axis representing Number of copies in millions.",
+      " The highest category is found at Print where Number of copies in millions is 29.0.",
+      " The lowest category is found at Digital where Number of copies in millions is 15.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Copy Type": "Print",
+         "Number of copies in millions": 29.0
+      },
+      {
+         "Copy Type": "Digital",
+         "Number of copies in millions": 15.0
+      }
+   ]
+}

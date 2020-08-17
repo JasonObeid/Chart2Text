@@ -1,0 +1,87 @@
+{
+   "title": "Export volume of automobiles India 2010 - 2019 by type",
+   "labels": [
+      "unknown",
+      "Two wheelers",
+      "Passenger vehicles",
+      "Three wheelers",
+      "Commercial vehicles"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 9 categories for the x axis of unknown representing Two wheelers, Passenger vehicles, Three wheelers, Commercial vehicles.",
+      " The highest category is found at FY 2019 with a mean value of 1156.15.",
+      " The second highest category is found at FY 2018 with a mean value of 1010.325.",
+      " This represents a difference of 13.5%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "unknown": "FY 2019",
+         "Two wheelers": "3280.8",
+         "Passenger vehicles": "676.2",
+         "Three wheelers": "567.7",
+         "Commercial vehicles": "99.9"
+      },
+      {
+         "unknown": "FY 2018",
+         "Two wheelers": "2815.0",
+         "Passenger vehicles": "748.4",
+         "Three wheelers": "381.0",
+         "Commercial vehicles": "96.9"
+      },
+      {
+         "unknown": "FY 2017",
+         "Two wheelers": "2339.27",
+         "Passenger vehicles": "758.7",
+         "Three wheelers": "271.89",
+         "Commercial vehicles": "108.27"
+      },
+      {
+         "unknown": "FY 2016",
+         "Two wheelers": "2481.19",
+         "Passenger vehicles": "653.89",
+         "Three wheelers": "404.44",
+         "Commercial vehicles": "101.69"
+      },
+      {
+         "unknown": "FY 2015",
+         "Two wheelers": "2457.47",
+         "Passenger vehicles": "621.34",
+         "Three wheelers": "407.6",
+         "Commercial vehicles": "86.94"
+      },
+      {
+         "unknown": "FY 2014",
+         "Two wheelers": "2084.0",
+         "Passenger vehicles": "596.14",
+         "Three wheelers": "353.39",
+         "Commercial vehicles": "77.05"
+      },
+      {
+         "unknown": "FY 2013",
+         "Two wheelers": "1956.38",
+         "Passenger vehicles": "559.41",
+         "Three wheelers": "303.09",
+         "Commercial vehicles": "80.03"
+      },
+      {
+         "unknown": "FY 2012",
+         "Two wheelers": "1975.11",
+         "Passenger vehicles": "508.78",
+         "Three wheelers": "361.75",
+         "Commercial vehicles": "92.26"
+      },
+      {
+         "unknown": "FY 2011",
+         "Two wheelers": "1531.62",
+         "Passenger vehicles": "444.33",
+         "Three wheelers": "269.97",
+         "Commercial vehicles": "74.04"
+      }
+   ]
+}

@@ -1,0 +1,39 @@
+{
+   "title": "Spotify artist royalty payments 2012 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Costs in million euros",
+   "graphType": "line",
+   "summary": [
+      "The statistic presents the Costs of million euros in the payments from 2012 to 2015 . ",
+      "A declining tendency could be observed as the Costs of million euros fell from 376.39 in 2015 to 6,146 in 2015 ."
+   ],
+   "trends": [
+      {
+         "12": "3",
+         "14": "0"
+      },
+      {
+         "14": "3",
+         "16": "0",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Costs in million euros": "1633.29"
+      },
+      {
+         "Year": "2014",
+         "Costs in million euros": "882.46"
+      },
+      {
+         "Year": "2013",
+         "Costs in million euros": "602.92"
+      },
+      {
+         "Year": "2012",
+         "Costs in million euros": "376.39"
+      }
+   ]
+}

@@ -1,0 +1,123 @@
+{
+   "title": "Return on equity of BNP Paribas 2003 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Return on equity",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Return on equity, with a total of 16 data points. The chart has 5 significant trends.",
+      " The longest trend is  negative which exists from 2016 to 2013.",
+      " On the contrary, the next significant trend is  negative which exists from 2006 to 2003.",
+      " On the contrary, the next significant trend is  positive which exists from 2018 to 2016.",
+      " Additionally, the next significant trend is  negative which exists from 2010 to 2008.",
+      " Differently, the next significant trend is  positive which exists from 2008 to 2006."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 2,
+         "end": 5,
+         "trend": "y=1.02x+-2046.94",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 12,
+         "end": 15,
+         "trend": "y=2.11x+-4211.12",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-0.55x+1118.15",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=2.85x+-5715.75",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 10,
+         "end": 12,
+         "trend": "y=-7.3x+14666.9",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Return on equity": 8.2
+      },
+      {
+         "Year": "2017",
+         "Return on equity": 8.9
+      },
+      {
+         "Year": "2016",
+         "Return on equity": 9.3
+      },
+      {
+         "Year": "2015",
+         "Return on equity": 8.3
+      },
+      {
+         "Year": "2014",
+         "Return on equity": 7.7
+      },
+      {
+         "Year": "2013",
+         "Return on equity": 6.1
+      },
+      {
+         "Year": "2012",
+         "Return on equity": 8.9
+      },
+      {
+         "Year": "2011",
+         "Return on equity": 8.8
+      },
+      {
+         "Year": "2010",
+         "Return on equity": 12.3
+      },
+      {
+         "Year": "2009",
+         "Return on equity": 10.8
+      },
+      {
+         "Year": "2008",
+         "Return on equity": 6.6
+      },
+      {
+         "Year": "2007",
+         "Return on equity": 19.6
+      },
+      {
+         "Year": "2006",
+         "Return on equity": 21.2
+      },
+      {
+         "Year": "2005",
+         "Return on equity": 20.2
+      },
+      {
+         "Year": "2004",
+         "Return on equity": 16.8
+      },
+      {
+         "Year": "2003",
+         "Return on equity": 15.3
+      }
+   ]
+}

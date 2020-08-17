@@ -1,0 +1,48 @@
+{
+   "title": "Ubisoft : revenue by region 2019",
+   "xAxis": "Country",
+   "yAxis": "Sales in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic illustrates the Ubisoft euros of the Ubisoft Sales million volume from 2019 exporters in 2019 . ",
+      "In that year , Rest_of_Europe accounted for a euros of 340 million of Sales 2019 to the by ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States / Canada",
+         "Sales in million euros": "896"
+      },
+      {
+         "Country": "Rest of Europe",
+         "Sales in million euros": "340"
+      },
+      {
+         "Country": "Asia / Pacific",
+         "Sales in million euros": "342"
+      },
+      {
+         "Country": "United Kingdom",
+         "Sales in million euros": "126"
+      },
+      {
+         "Country": "France",
+         "Sales in million euros": "116"
+      },
+      {
+         "Country": "Germany",
+         "Sales in million euros": "135"
+      },
+      {
+         "Country": "Rest of the world",
+         "Sales in million euros": "74"
+      }
+   ]
+}

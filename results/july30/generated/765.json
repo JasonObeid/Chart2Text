@@ -1,0 +1,60 @@
+{
+   "title": "Mexico : age distribution of internet users 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 7 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 6-11_years to 25-34_years.",
+      " Additionally, the next significant trend is  negative which exists from 25-34_years to Over_55_years."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=0.01x+8.23",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 3,
+         "end": 6,
+         "trend": "y=0.0x+11.41",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "6-11 years",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "12-17 years",
+         "Share of respondents": 14.0
+      },
+      {
+         "Year": "18-24 years",
+         "Share of respondents": 18.0
+      },
+      {
+         "Year": "25-34 years",
+         "Share of respondents": 22.0
+      },
+      {
+         "Year": "35-44 years",
+         "Share of respondents": 14.0
+      },
+      {
+         "Year": "45-54 years",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "Over 55 years",
+         "Share of respondents": 8.0
+      }
+   ]
+}

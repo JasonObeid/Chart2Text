@@ -1,0 +1,63 @@
+{
+   "title": "Average ticket price Pittsburgh Penguins ( NHL ) 2014/15",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average ticket price for NHL games of the National Basketball Association from 05/06 to 14(15 . ",
+      "In the 05/06 season , the Average ticket price was 73.59 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "14(15",
+         "Average ticket price in U.S. dollars": "73.59"
+      },
+      {
+         "Year": "13/14",
+         "Average ticket price in U.S. dollars": "70.52"
+      },
+      {
+         "Year": "12/13",
+         "Average ticket price in U.S. dollars": "67.52"
+      },
+      {
+         "Year": "11/12",
+         "Average ticket price in U.S. dollars": "63.06"
+      },
+      {
+         "Year": "10/11",
+         "Average ticket price in U.S. dollars": "60.04"
+      },
+      {
+         "Year": "09/10",
+         "Average ticket price in U.S. dollars": "60.04"
+      },
+      {
+         "Year": "08/09",
+         "Average ticket price in U.S. dollars": "55.55"
+      },
+      {
+         "Year": "07/08",
+         "Average ticket price in U.S. dollars": "51.45"
+      },
+      {
+         "Year": "06/07",
+         "Average ticket price in U.S. dollars": "46.81"
+      },
+      {
+         "Year": "05/06",
+         "Average ticket price in U.S. dollars": "36.61"
+      }
+   ]
+}

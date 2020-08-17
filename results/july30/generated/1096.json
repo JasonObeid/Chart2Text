@@ -1,0 +1,112 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Angola 2024 \n",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP growth compared to previous year, with a total of 11 data points. The chart has 6 significant trends.",
+      " The longest trend is  negative which exists from 2023 to 2019.",
+      " But, the next significant trend is  negative which exists from 2016 to 2014.",
+      " On the other hand, the next significant trend is  positive which exists from 2024 to 2023.",
+      " Likewise, the next significant trend is  positive which exists from 2019 to 2018.",
+      " Correspondingly, the next significant trend is  negative which exists from 2018 to 2017.",
+      " Differently, the next significant trend is  positive which exists from 2017 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 1,
+         "end": 5,
+         "trend": "y=0.99x+-1998.44",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=-1.12x+2259.58",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-0.35x+712.18",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 5,
+         "end": 6,
+         "trend": "y=-0.93x+1877.94",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 6,
+         "end": 7,
+         "trend": "y=1.05x+-2117.7",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 7,
+         "end": 8,
+         "trend": "y=-2.43x+4901.46",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 3.78
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 4.13
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 3.33
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 2.87
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 1.15
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 0.27
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 1.2
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 0.15
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 2.58
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 0.94
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 4.82
+      }
+   ]
+}

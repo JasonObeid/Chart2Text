@@ -1,0 +1,80 @@
+{
+   "title": "BT Group : Adjusted revenues 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million GBP, with a total of 12 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2015 to 2008.",
+      " Likewise, the next significant trend is  negative which exists from 2017 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "positive",
+         "start": 4,
+         "end": 11,
+         "trend": "y=-525.75x+1077169.25",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=3121.0x+-6271669.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million GBP": 24082.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million GBP": 23746.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million GBP": 24082.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million GBP": 18879.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million GBP": 17840.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million GBP": 18287.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million GBP": 18339.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million GBP": 19397.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million GBP": 20076.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million GBP": 20911.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million GBP": 21431.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million GBP": 20704.0
+      }
+   ]
+}

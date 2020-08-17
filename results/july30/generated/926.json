@@ -1,0 +1,86 @@
+{
+   "title": "Population of Saba ( Caribbean Netherlands ) 2011 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of people",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of people, with a total of 9 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2018 to 2015.",
+      " Contrarily, the next significant trend is  positive which exists from 2015 to 2013.",
+      " Also, the next significant trend is  negative which exists from 2013 to 2011.",
+      " On the contrary, the next significant trend is  positive which exists from 2019 to 2018."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 1,
+         "end": 4,
+         "trend": "y=109.5x+-218826.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-90.0x+183142.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 6,
+         "end": 8,
+         "trend": "y=97.0x+-193244.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-240.0x+486475.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of people": 1915.0
+      },
+      {
+         "Year": "2018",
+         "Number of people": 2155.0
+      },
+      {
+         "Year": "2017",
+         "Number of people": 2010.0
+      },
+      {
+         "Year": "2016",
+         "Number of people": 1947.0
+      },
+      {
+         "Year": "2015",
+         "Number of people": 1811.0
+      },
+      {
+         "Year": "2014",
+         "Number of people": 1846.0
+      },
+      {
+         "Year": "2013",
+         "Number of people": 1991.0
+      },
+      {
+         "Year": "2012",
+         "Number of people": 1971.0
+      },
+      {
+         "Year": "2011",
+         "Number of people": 1797.0
+      }
+   ]
+}

@@ -1,0 +1,26 @@
+{
+   "title": "Facebook user share in the United States 2019 , by gender\n",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Sex, and a y axis representing Percentage of users.",
+      " The highest category is found at Female where Percentage of users is 53.7.",
+      " The lowest category is found at Male where Percentage of users is 46.3."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Sex": "Female",
+         "Percentage of users": 53.7
+      },
+      {
+         "Sex": "Male",
+         "Percentage of users": 46.3
+      }
+   ]
+}

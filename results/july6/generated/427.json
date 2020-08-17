@@ -1,0 +1,67 @@
+{
+   "title": "Return on average ordinary shareholders ' equity at HSBC 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Return on equity",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Return equity of the HSBC from 2009 to 2019 . ",
+      "The Return equity of the HSBC amounted to 3.6 % equity in 2019 ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "8": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Return on equity": "3.6"
+      },
+      {
+         "Year": "2018",
+         "Return on equity": "7.7"
+      },
+      {
+         "Year": "2017",
+         "Return on equity": "5.9"
+      },
+      {
+         "Year": "2016",
+         "Return on equity": "0.8"
+      },
+      {
+         "Year": "2015",
+         "Return on equity": "7.2"
+      },
+      {
+         "Year": "2014",
+         "Return on equity": "7.3"
+      },
+      {
+         "Year": "2013",
+         "Return on equity": "9.2"
+      },
+      {
+         "Year": "2012",
+         "Return on equity": "8.4"
+      },
+      {
+         "Year": "2011",
+         "Return on equity": "10.9"
+      },
+      {
+         "Year": "2010",
+         "Return on equity": "9.5"
+      },
+      {
+         "Year": "2009",
+         "Return on equity": "5.1"
+      }
+   ]
+}

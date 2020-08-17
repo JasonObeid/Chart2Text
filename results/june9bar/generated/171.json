@@ -1,0 +1,62 @@
+{
+   "title": "Stuxnet - percentage of infected hosts by country",
+   "xAxis": "Country",
+   "yAxis": "Percentage of infected hosts",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Percentage of the percentage Stuxnet infected hosts by country as of . ",
+      "As of that year , there were 58.31 percentage Stuxnet infected ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Iran",
+         "Percentage of infected hosts": "58.31"
+      },
+      {
+         "Country": "Indonesia",
+         "Percentage of infected hosts": "17.83"
+      },
+      {
+         "Country": "India",
+         "Percentage of infected hosts": "9.96"
+      },
+      {
+         "Country": "Azerbaijan",
+         "Percentage of infected hosts": "3.4"
+      },
+      {
+         "Country": "Pakistan",
+         "Percentage of infected hosts": "1.4"
+      },
+      {
+         "Country": "Malaysia",
+         "Percentage of infected hosts": "1.16"
+      },
+      {
+         "Country": "U.S.",
+         "Percentage of infected hosts": "0.89"
+      },
+      {
+         "Country": "Uzbekistan",
+         "Percentage of infected hosts": "0.71"
+      },
+      {
+         "Country": "Russia",
+         "Percentage of infected hosts": "0.61"
+      },
+      {
+         "Country": "Great Britain",
+         "Percentage of infected hosts": "0.57"
+      },
+      {
+         "Country": "Other",
+         "Percentage of infected hosts": "5.15"
+      }
+   ]
+}

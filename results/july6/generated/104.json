@@ -1,0 +1,54 @@
+{
+   "title": "Dating website or app usage among U.S. online users 2019 , by age group",
+   "labels": [
+      "unknown",
+      "18-34",
+      "35-54",
+      "55+"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey conducted in 2019 the U.S. asking app users how much they have website on usage for their cell phone . ",
+      "The survey revealed that 14 % of Yes_I'm_doing_so_currently spent 18-34 50 U.S. dollars on usage for their mobile phone ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "0",
+            "1"
+         ],
+         "7": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Yes I'm doing so currently",
+         "18-34": "14",
+         "35-54": "9",
+         "55+": "2"
+      },
+      {
+         "unknown": "Yes I've done so in the past",
+         "18-34": "29",
+         "35-54": "31",
+         "55+": "16"
+      },
+      {
+         "unknown": "No never",
+         "18-34": "51",
+         "35-54": "58",
+         "55+": "81"
+      },
+      {
+         "unknown": "Don't know",
+         "18-34": "6",
+         "35-54": "3",
+         "55+": "1"
+      }
+   ]
+}

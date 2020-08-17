@@ -1,0 +1,42 @@
+{
+   "title": "Revenue share by geographic region of delivery for Christian Dior December 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Revenue share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Country, and a y axis representing Revenue share.",
+      " The highest category is found at Asia_(excluding_Japan) where Revenue share is 29.0.",
+      " The lowest category is found at Japan where Revenue share is 7.0."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Country": "Other markets",
+         "Revenue share": 11.0
+      },
+      {
+         "Country": "Asia (excluding Japan)",
+         "Revenue share": 29.0
+      },
+      {
+         "Country": "Japan",
+         "Revenue share": 7.0
+      },
+      {
+         "Country": "United States",
+         "Revenue share": 24.0
+      },
+      {
+         "Country": "Europe (excluding France)",
+         "Revenue share": 19.0
+      },
+      {
+         "Country": "France",
+         "Revenue share": 10.0
+      }
+   ]
+}

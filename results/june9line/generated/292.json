@@ -1,0 +1,48 @@
+{
+   "title": "Forecast for the number of new hotel rooms opening in Europe from 2012 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Number of hotel rooms",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of Europe ( LoL ) monthly active rooms worldwide from 2012 to 2016 . ",
+      "In 2016 , LoL had 34060 % Europe , up from 34451 % in 2015 . ",
+      "Being one of the most prominent eSports games , in 2015 LoL championship finals attracted 36 million viewers worldwide ."
+   ],
+   "trends": [
+      {
+         "17": "4",
+         "19": "0"
+      },
+      {
+         "1": "0",
+         "5": "0",
+         "11": "1",
+         "14": "1"
+      },
+      {
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Number of hotel rooms": "34060"
+      },
+      {
+         "Year": "2015",
+         "Number of hotel rooms": "34451"
+      },
+      {
+         "Year": "2014",
+         "Number of hotel rooms": "39178"
+      },
+      {
+         "Year": "2013",
+         "Number of hotel rooms": "30982"
+      },
+      {
+         "Year": "2012",
+         "Number of hotel rooms": "37818"
+      }
+   ]
+}

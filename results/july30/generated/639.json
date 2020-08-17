@@ -1,0 +1,58 @@
+{
+   "title": "Brazil : most valuable soccer players at the 2018 FIFA World Cup\n",
+   "xAxis": "Month",
+   "yAxis": "Market value in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Market value in million euros.",
+      " The highest category is found at Neymar where Market value in million euros is 180.0.",
+      " The lowest category is found at Ederson where Market value in million euros is 50.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Month": "Neymar",
+         "Market value in million euros": 180.0
+      },
+      {
+         "Month": "Philippe Coutinho",
+         "Market value in million euros": 100.0
+      },
+      {
+         "Month": "Roberto Firmino",
+         "Market value in million euros": 80.0
+      },
+      {
+         "Month": "Gabriel Jesus",
+         "Market value in million euros": 80.0
+      },
+      {
+         "Month": "Casemiro",
+         "Market value in million euros": 60.0
+      },
+      {
+         "Month": "Marcelo",
+         "Market value in million euros": 60.0
+      },
+      {
+         "Month": "Alisson",
+         "Market value in million euros": 60.0
+      },
+      {
+         "Month": "Douglas Costa",
+         "Market value in million euros": 55.0
+      },
+      {
+         "Month": "Marquinhos",
+         "Market value in million euros": 55.0
+      },
+      {
+         "Month": "Ederson",
+         "Market value in million euros": 50.0
+      }
+   ]
+}

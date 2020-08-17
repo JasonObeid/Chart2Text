@@ -1,0 +1,55 @@
+{
+   "title": "Sales of state lotteries in the U.S. 2009 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Sales in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Sales in billion U.S. dollars with a total of 8 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 2009 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "positive",
+         "start": 0,
+         "end": 7,
+         "trend": "y=3.01x+-5985.52",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2009",
+         "Sales in billion U.S. dollars": 58.25
+      },
+      {
+         "Year": "2010",
+         "Sales in billion U.S. dollars": 58.82
+      },
+      {
+         "Year": "2011",
+         "Sales in billion U.S. dollars": 63.08
+      },
+      {
+         "Year": "2012",
+         "Sales in billion U.S. dollars": 68.78
+      },
+      {
+         "Year": "2013",
+         "Sales in billion U.S. dollars": 68.88
+      },
+      {
+         "Year": "2014",
+         "Sales in billion U.S. dollars": 70.15
+      },
+      {
+         "Year": "2015",
+         "Sales in billion U.S. dollars": 73.87
+      },
+      {
+         "Year": "2016",
+         "Sales in billion U.S. dollars": 80.55
+      }
+   ]
+}

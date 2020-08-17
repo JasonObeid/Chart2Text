@@ -1,0 +1,79 @@
+{
+   "title": "Alibaba : annual segment revenue distribution 2016 to 2019",
+   "labels": [
+      "Year",
+      "China commerce retail",
+      "China commerce wholesale",
+      "International commerce retail",
+      "International commerce wholesale",
+      "Cloud computing",
+      "Digital media and entertainment",
+      "Innovation initiatives and others"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Alibaba of annual segment revenue distribution from 2016 to 2019 , broken down 2019 . ",
+      "In 2019 , the China commerce monetization generated 79 million U.S. dollars in Alibaba distribution , while China commerce distribution amounted to 4 million that same Year ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "3",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "China commerce retail": "66",
+         "China commerce wholesale": "3",
+         "International commerce retail": "5",
+         "International commerce wholesale": "2",
+         "Cloud computing": "7",
+         "Digital media and entertainment": "6",
+         "Innovation initiatives and others": "1"
+      },
+      {
+         "Year": "2018",
+         "China commerce retail": "71",
+         "China commerce wholesale": "3",
+         "International commerce retail": "6",
+         "International commerce wholesale": "2",
+         "Cloud computing": "5",
+         "Digital media and entertainment": "8",
+         "Innovation initiatives and others": "1"
+      },
+      {
+         "Year": "2017",
+         "China commerce retail": "72",
+         "China commerce wholesale": "4",
+         "International commerce retail": "5",
+         "International commerce wholesale": "4",
+         "Cloud computing": "4",
+         "Digital media and entertainment": "9",
+         "Innovation initiatives and others": "2"
+      },
+      {
+         "Year": "2016",
+         "China commerce retail": "79",
+         "China commerce wholesale": "4",
+         "International commerce retail": "2",
+         "International commerce wholesale": "6",
+         "Cloud computing": "3",
+         "Digital media and entertainment": "4",
+         "Innovation initiatives and others": "2"
+      }
+   ]
+}

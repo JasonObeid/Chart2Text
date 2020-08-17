@@ -1,0 +1,126 @@
+{
+   "title": "West Virginia - poverty rate from 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2011 to 2007.",
+      " But, the next significant trend is  positive which exists from 2015 to 2013.",
+      " Similarly, the next significant trend is  positive which exists from 2007 to 2005.",
+      " Likewise, the next significant trend is  neutral which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 7,
+         "end": 11,
+         "trend": "y=0.45x+-886.39",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 3,
+         "end": 5,
+         "trend": "y=-0.3x+622.43",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 11,
+         "end": 13,
+         "trend": "y=-0.55x+1120.7",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 16,
+         "end": 18,
+         "trend": "y=-0.7x+1418.37",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Percentage of population": 17.8
+      },
+      {
+         "Year": "2017",
+         "Percentage of population": 19.1
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": 17.9
+      },
+      {
+         "Year": "2015",
+         "Percentage of population": 17.9
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": 18.3
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": 18.5
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": 17.8
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": 18.6
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": 18.1
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": 17.7
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": 17.0
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": 16.9
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": 17.3
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": 18.0
+      },
+      {
+         "Year": "2004",
+         "Percentage of population": 17.9
+      },
+      {
+         "Year": "2003",
+         "Percentage of population": 18.5
+      },
+      {
+         "Year": "2002",
+         "Percentage of population": 17.2
+      },
+      {
+         "Year": "2001",
+         "Percentage of population": 17.2
+      },
+      {
+         "Year": "2000",
+         "Percentage of population": 18.6
+      }
+   ]
+}

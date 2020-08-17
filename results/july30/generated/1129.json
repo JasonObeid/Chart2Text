@@ -1,0 +1,55 @@
+{
+   "title": "United States : retail e-commerce sales 2017 to 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars with a total of 8 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2024 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 0,
+         "end": 7,
+         "trend": "y=48246.01x+-97038694.18",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Revenue in million U.S. dollars": 599186.0
+      },
+      {
+         "Year": "2023",
+         "Revenue in million U.S. dollars": 565696.0
+      },
+      {
+         "Year": "2022",
+         "Revenue in million U.S. dollars": 524091.0
+      },
+      {
+         "Year": "2021",
+         "Revenue in million U.S. dollars": 474540.0
+      },
+      {
+         "Year": "2020",
+         "Revenue in million U.S. dollars": 419879.0
+      },
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": 365207.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 315629.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 274755.0
+      }
+   ]
+}

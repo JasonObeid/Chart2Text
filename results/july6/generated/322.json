@@ -1,0 +1,68 @@
+{
+   "title": "Civilian deaths per day by suicide bombings in Iraq war 2003 to 2013",
+   "xAxis": "Year",
+   "yAxis": "Average number of civilian deaths per day",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Civilian deaths Average day by Iraq in the Iraq ( ) 2003 day to 2013 . ",
+      "In 2003 , Iraq made 1.5 million civilian deaths in Average , which is day to rising 22.0 million civilian deaths by 2007 ."
+   ],
+   "trends": [
+      {
+         "17": "10",
+         "20": "0"
+      },
+      {
+         "1": "10",
+         "5": "10",
+         "23": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Average number of civilian deaths per day": "6.4"
+      },
+      {
+         "Year": "2012",
+         "Average number of civilian deaths per day": "7.3"
+      },
+      {
+         "Year": "2011",
+         "Average number of civilian deaths per day": "6.6"
+      },
+      {
+         "Year": "2010",
+         "Average number of civilian deaths per day": "7.3"
+      },
+      {
+         "Year": "2009",
+         "Average number of civilian deaths per day": "8.4"
+      },
+      {
+         "Year": "2008",
+         "Average number of civilian deaths per day": "10.0"
+      },
+      {
+         "Year": "2007",
+         "Average number of civilian deaths per day": "22.0"
+      },
+      {
+         "Year": "2006",
+         "Average number of civilian deaths per day": "16.0"
+      },
+      {
+         "Year": "2005",
+         "Average number of civilian deaths per day": "10.0"
+      },
+      {
+         "Year": "2004",
+         "Average number of civilian deaths per day": "5.4"
+      },
+      {
+         "Year": "2003",
+         "Average number of civilian deaths per day": "1.5"
+      }
+   ]
+}

@@ -1,0 +1,41 @@
+{
+   "title": "Share of U.S. travelers who have had items stolen or lost 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a 2015 survey among Americans aged 16 and older regarding the Share they are looking for in a close travelers . ",
+      "This statistic only shows the top five answers to that question . ",
+      "10 % of the respondents stated a close travelers has to be loyal ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Smartphone",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Credit card",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Debit card",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "License",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Passport",
+         "Share of respondents": "4"
+      }
+   ]
+}

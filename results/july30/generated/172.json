@@ -1,0 +1,30 @@
+{
+   "title": "Global distribution systems : company revenues 2017\n",
+   "xAxis": "Company",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Company, and a y axis representing Revenue in billion U.S. dollars.",
+      " The highest category is found at Amadeus where Revenue in billion U.S. dollars is 5.81.",
+      " The lowest category is found at Travelport where Revenue in billion U.S. dollars is 2.45."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Company": "Amadeus",
+         "Revenue in billion U.S. dollars": 5.81
+      },
+      {
+         "Company": "Sabre",
+         "Revenue in billion U.S. dollars": 3.6
+      },
+      {
+         "Company": "Travelport",
+         "Revenue in billion U.S. dollars": 2.45
+      }
+   ]
+}

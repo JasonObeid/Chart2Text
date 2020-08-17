@@ -1,0 +1,41 @@
+{
+   "title": "Preferred place of movie consumption in the U.S. 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a 2018 survey among Americans aged 16 and older regarding the Preferred they are looking for in a close movie . ",
+      "This statistic only shows the top five answers to that question . ",
+      "54 % of the respondents stated a close movie has to be loyal ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "In a movie theater",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "At home",
+         "Share of respondents": "54"
+      },
+      {
+         "Response": "Neither",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Both equally",
+         "Share of respondents": "22"
+      },
+      {
+         "Response": "Not sure",
+         "Share of respondents": "4"
+      }
+   ]
+}

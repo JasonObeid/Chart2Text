@@ -1,0 +1,109 @@
+{
+   "title": "Unemployment rate in Colombia 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Unemployment rate in Colombia from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Colombia was at about 9.19 % . ",
+      "Trade in Colombia is a growing market and recognized as one of the world 's newest industrialized countries ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "9.19"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "9.09"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "8.87"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "8.69"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "8.3"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "8.57"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "9.05"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "9.74"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "10.11"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "10.98"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "12.07"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "11.27"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "11.2"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "11.51"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "11.87"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "13.72"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "14.19"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "15.63"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "15.04"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "20.52"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "20.06"
+      }
+   ]
+}

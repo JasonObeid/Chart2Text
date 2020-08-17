@@ -1,0 +1,104 @@
+{
+   "title": "Average annual wage in Mexico 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average wage in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Average of Scottish wage Mexico the rest of the United Kingdom Mexico 2000 to 2018 . ",
+      "With the exception of 2001 , 2010 and 2014 , the Average of Mexico wage has increased Mexico 15904.75 % in 2000 to approximately 17283.74 % by 2007 ."
+   ],
+   "trends": [
+      {
+         "16": "18",
+         "18": "0"
+      },
+      {
+         "4": "17",
+         "6": "8",
+         "8": "4",
+         "18": "18",
+         "21": "18",
+         "24": "11",
+         "27": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average wage in U.S. dollars": "16297.71"
+      },
+      {
+         "Year": "2017",
+         "Average wage in U.S. dollars": "16110.18"
+      },
+      {
+         "Year": "2016",
+         "Average wage in U.S. dollars": "16135.65"
+      },
+      {
+         "Year": "2015",
+         "Average wage in U.S. dollars": "16231.23"
+      },
+      {
+         "Year": "2014",
+         "Average wage in U.S. dollars": "16028.6"
+      },
+      {
+         "Year": "2013",
+         "Average wage in U.S. dollars": "16050.28"
+      },
+      {
+         "Year": "2012",
+         "Average wage in U.S. dollars": "16050.3"
+      },
+      {
+         "Year": "2011",
+         "Average wage in U.S. dollars": "16328.24"
+      },
+      {
+         "Year": "2010",
+         "Average wage in U.S. dollars": "16183.11"
+      },
+      {
+         "Year": "2009",
+         "Average wage in U.S. dollars": "17268.96"
+      },
+      {
+         "Year": "2008",
+         "Average wage in U.S. dollars": "17150.17"
+      },
+      {
+         "Year": "2007",
+         "Average wage in U.S. dollars": "17283.74"
+      },
+      {
+         "Year": "2006",
+         "Average wage in U.S. dollars": "17217.98"
+      },
+      {
+         "Year": "2005",
+         "Average wage in U.S. dollars": "17244.57"
+      },
+      {
+         "Year": "2004",
+         "Average wage in U.S. dollars": "17139.21"
+      },
+      {
+         "Year": "2003",
+         "Average wage in U.S. dollars": "17039.28"
+      },
+      {
+         "Year": "2002",
+         "Average wage in U.S. dollars": "16747.59"
+      },
+      {
+         "Year": "2001",
+         "Average wage in U.S. dollars": "16811.85"
+      },
+      {
+         "Year": "2000",
+         "Average wage in U.S. dollars": "15904.75"
+      }
+   ]
+}

@@ -1,0 +1,51 @@
+{
+   "title": "2018 FIFA World Cup : most valued Latin American teams",
+   "xAxis": "Country",
+   "yAxis": "Value in million U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts the largest Latin American FIFA in 2018 . ",
+      "In that year , Brazil was the second largest Value of Cup most million U.S. a total of 981.0 thousand U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Brazil",
+         "Value in million U.S. dollars": "981.0"
+      },
+      {
+         "Country": "Argentina",
+         "Value in million U.S. dollars": "699.0"
+      },
+      {
+         "Country": "Uruguay",
+         "Value in million U.S. dollars": "373.0"
+      },
+      {
+         "Country": "Colombia",
+         "Value in million U.S. dollars": "251.1"
+      },
+      {
+         "Country": "Mexico",
+         "Value in million U.S. dollars": "154.6"
+      },
+      {
+         "Country": "Costa Rica",
+         "Value in million U.S. dollars": "40.15"
+      },
+      {
+         "Country": "Peru",
+         "Value in million U.S. dollars": "38.53"
+      },
+      {
+         "Country": "Panama",
+         "Value in million U.S. dollars": "8.23"
+      }
+   ]
+}

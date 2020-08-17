@@ -1,0 +1,38 @@
+{
+   "title": "Annual growth of the global generic market 2009 - 2015 by region",
+   "xAxis": "Country",
+   "yAxis": "Average annual growth",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Average of Annual growth worldwide as of 2019 , 2015 by Country . ",
+      "In 2009 , Annual growth global had an average of 11 % of the U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Rest of world",
+         "Average annual growth": "19"
+      },
+      {
+         "Country": "World",
+         "Average annual growth": "12"
+      },
+      {
+         "Country": "North America",
+         "Average annual growth": "11"
+      },
+      {
+         "Country": "Europe",
+         "Average annual growth": "9"
+      },
+      {
+         "Country": "Japan",
+         "Average annual growth": "6"
+      }
+   ]
+}

@@ -1,0 +1,104 @@
+{
+   "title": "Franchise value of the Toronto Blue Jays 2002 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2019 to 2010.",
+      " Conversely, the next significant trend is  negative which exists from 2009 to 2002."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 0,
+         "end": 9,
+         "trend": "y=141.5x+-284240.45",
+         "magnitude": ""
+      },
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 10,
+         "end": 17,
+         "trend": "y=32.43x+-64777.25",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": 1500.0
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": 1350.0
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": 1300.0
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": 900.0
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": 870.0
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": 610.0
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": 568.0
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": 413.0
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": 337.0
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": 326.0
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": 353.0
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": 352.0
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": 344.0
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": 286.0
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": 214.0
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": 169.0
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": 166.0
+      },
+      {
+         "Year": "2002",
+         "Franchise value in million U.S. dollars": 182.0
+      }
+   ]
+}

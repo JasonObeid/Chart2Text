@@ -1,0 +1,71 @@
+{
+   "title": "London : occupancy rate of hotels by quarter up to 2013",
+   "xAxis": "Quarter",
+   "yAxis": "Occupancy rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays a forecast of the London of occupancy rate in the London from third Quarter Q2_\u00b411 to second Quarter Q4_\u00b413 . ",
+      "It is forecast that there will be 91.9 % occupancy rate as of Quarter two Q4_\u00b413 ."
+   ],
+   "trends": [
+      {
+         "18": "10",
+         "22": "0"
+      },
+      {
+         "7": "5",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 \u00b413",
+         "Occupancy rate": "81.1"
+      },
+      {
+         "Quarter": "Q3 \u00b413",
+         "Occupancy rate": "85.6"
+      },
+      {
+         "Quarter": "Q2 \u00b413",
+         "Occupancy rate": "82.4"
+      },
+      {
+         "Quarter": "Q1 \u00b413",
+         "Occupancy rate": "75.2"
+      },
+      {
+         "Quarter": "Q4 \u00b412",
+         "Occupancy rate": "81"
+      },
+      {
+         "Quarter": "Q3 \u00b412",
+         "Occupancy rate": "91.9"
+      },
+      {
+         "Quarter": "Q2 \u00b412",
+         "Occupancy rate": "84.2"
+      },
+      {
+         "Quarter": "Q1 \u00b412",
+         "Occupancy rate": "77"
+      },
+      {
+         "Quarter": "Q4 \u00b411",
+         "Occupancy rate": "81.9"
+      },
+      {
+         "Quarter": "Q3 \u00b411",
+         "Occupancy rate": "87.4"
+      },
+      {
+         "Quarter": "Q2 \u00b411",
+         "Occupancy rate": "85.2"
+      },
+      {
+         "Quarter": "Q1 \u00b411",
+         "Occupancy rate": "75.8"
+      }
+   ]
+}

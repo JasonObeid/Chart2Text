@@ -1,0 +1,126 @@
+{
+   "title": "Personal income in Florida - income per capita 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Income in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Income in U.S. dollars, with a total of 19 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from '07 to '00.",
+      " Contrarily, the next significant trend is  negative which exists from '18 to '13.",
+      " Differently, the next significant trend is  negative which exists from '12 to '09.",
+      " Conversely, the next significant trend is  positive which exists from '09 to '07."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 11,
+         "end": 18,
+         "trend": "y=1542.62x+28345.58",
+         "magnitude": ""
+      },
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 0,
+         "end": 5,
+         "trend": "y=1763.77x+18107.88",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 6,
+         "end": 9,
+         "trend": "y=1490.5x+23396.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=-1495.5x+50450.67",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "'18",
+         "Income in U.S. dollars": 50070.0
+      },
+      {
+         "Year": "'17",
+         "Income in U.S. dollars": 47869.0
+      },
+      {
+         "Year": "'16",
+         "Income in U.S. dollars": 45684.0
+      },
+      {
+         "Year": "'15",
+         "Income in U.S. dollars": 45287.0
+      },
+      {
+         "Year": "'14",
+         "Income in U.S. dollars": 43109.0
+      },
+      {
+         "Year": "'13",
+         "Income in U.S. dollars": 40659.0
+      },
+      {
+         "Year": "'12",
+         "Income in U.S. dollars": 41055.0
+      },
+      {
+         "Year": "'11",
+         "Income in U.S. dollars": 40047.0
+      },
+      {
+         "Year": "'10",
+         "Income in U.S. dollars": 38474.0
+      },
+      {
+         "Year": "'09",
+         "Income in U.S. dollars": 36611.0
+      },
+      {
+         "Year": "'08",
+         "Income in U.S. dollars": 39247.0
+      },
+      {
+         "Year": "'07",
+         "Income in U.S. dollars": 39602.0
+      },
+      {
+         "Year": "'06",
+         "Income in U.S. dollars": 38448.0
+      },
+      {
+         "Year": "'05",
+         "Income in U.S. dollars": 36011.0
+      },
+      {
+         "Year": "'04",
+         "Income in U.S. dollars": 33694.0
+      },
+      {
+         "Year": "'03",
+         "Income in U.S. dollars": 31704.0
+      },
+      {
+         "Year": "'02",
+         "Income in U.S. dollars": 30727.0
+      },
+      {
+         "Year": "'01",
+         "Income in U.S. dollars": 30344.0
+      },
+      {
+         "Year": "'00",
+         "Income in U.S. dollars": 29428.0
+      }
+   ]
+}

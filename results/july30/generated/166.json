@@ -1,0 +1,72 @@
+{
+   "title": "National Basketball Association highest-paid players ( salaries & endorsements ) 2019",
+   "labels": [
+      "Player",
+      "Salary",
+      "Endorsements"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 10 categories for the x axis of Player representing Salary, and Endorsements.",
+      " The highest category is found at LeBron James (Cleveland Cavaliers) with a mean value of 44.35.",
+      " The second highest category is found at Stephen Curry (Golden State Warriors) with a mean value of 39.75.",
+      " This represents a difference of 10.9%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Player": "LeBron James (Cleveland Cavaliers)",
+         "Salary": "35.7",
+         "Endorsements": "53"
+      },
+      {
+         "Player": "Stephen Curry (Golden State Warriors)",
+         "Salary": "37.5",
+         "Endorsements": "42"
+      },
+      {
+         "Player": "Kevin Durant (Golden State Warriors)",
+         "Salary": "30.0",
+         "Endorsements": "35"
+      },
+      {
+         "Player": "Russell Westbrook (Oklahoma City Thunder)",
+         "Salary": "35.7",
+         "Endorsements": "18"
+      },
+      {
+         "Player": "James Harden (Houston Rockets)",
+         "Salary": "30.4",
+         "Endorsements": "17"
+      },
+      {
+         "Player": "Chris Paul (Los Angeles Clippers)",
+         "Salary": "35.7",
+         "Endorsements": "8"
+      },
+      {
+         "Player": "Giannis Antetokounmpo (Milwaukee Bucks)",
+         "Salary": "24.2",
+         "Endorsements": "19"
+      },
+      {
+         "Player": "Damian Lillard (Portland Trail Blazers)",
+         "Salary": "28.0",
+         "Endorsements": "13"
+      },
+      {
+         "Player": "Blake Griffin (Detroit Pistons)",
+         "Salary": "32.1",
+         "Endorsements": "7"
+      },
+      {
+         "Player": "Paul George (Oklahoma City Thunder)",
+         "Salary": "30.6",
+         "Endorsements": "8"
+      }
+   ]
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Defense spending breakdown of the United Kingdom ( UK ) 2017/18 - 2018/19",
+   "labels": [
+      "Defense Category",
+      "2017/18",
+      "2018/19"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 5 categories for the x axis of Defense Category representing 2017/18, and 2018/19.",
+      " The highest category is found at Military defense with a mean value of 37194.5.",
+      " The second highest category is found at R&D defense with a mean value of 1285.0.",
+      " This represents a difference of 186.6%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Defense Category": "Military defense",
+         "2017/18": "36409",
+         "2018/19": "37980"
+      },
+      {
+         "Defense Category": "Civil defense",
+         "2017/18": "140",
+         "2018/19": "44"
+      },
+      {
+         "Defense Category": "Foreign military aid",
+         "2017/18": "705",
+         "2018/19": "696"
+      },
+      {
+         "Defense Category": "R&D defense",
+         "2017/18": "1231",
+         "2018/19": "1339"
+      },
+      {
+         "Defense Category": "Defense (not elsewhere classified)",
+         "2017/18": "169",
+         "2018/19": "182"
+      }
+   ]
+}

@@ -1,0 +1,70 @@
+{
+   "title": "Fertility rate in Malaysia",
+   "xAxis": "Year",
+   "yAxis": "Number of born children per woman",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total Number of born children Malaysia plc in the United Kingdom ( UK ) between 2007 and 2017 . ",
+      "Passenger numbers for the UK based airline have been increasing since 2009 and reached 2.22 % Malaysia 2007 . ",
+      "This figure excludes the company 's subsidiary BA CityFlyer ."
+   ],
+   "trends": [
+      {
+         "20": "10",
+         "22": "0"
+      },
+      {
+         "11": "8",
+         "14": "10",
+         "17": "10"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of born children per woman": "2.02"
+      },
+      {
+         "Year": "2016",
+         "Number of born children per woman": "2.04"
+      },
+      {
+         "Year": "2015",
+         "Number of born children per woman": "2.06"
+      },
+      {
+         "Year": "2014",
+         "Number of born children per woman": "2.07"
+      },
+      {
+         "Year": "2013",
+         "Number of born children per woman": "2.09"
+      },
+      {
+         "Year": "2012",
+         "Number of born children per woman": "2.11"
+      },
+      {
+         "Year": "2011",
+         "Number of born children per woman": "2.13"
+      },
+      {
+         "Year": "2010",
+         "Number of born children per woman": "2.15"
+      },
+      {
+         "Year": "2009",
+         "Number of born children per woman": "2.17"
+      },
+      {
+         "Year": "2008",
+         "Number of born children per woman": "2.19"
+      },
+      {
+         "Year": "2007",
+         "Number of born children per woman": "2.22"
+      }
+   ]
+}

@@ -1,0 +1,93 @@
+{
+   "title": "Average ticket price of the Los Angeles Chargers 2006 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points. The chart has 3 significant trends.",
+      " The longest trend is  neutral which exists from 2016 to 2013.",
+      " On the other hand, the next significant trend is  neutral which exists from 2010 to 2008.",
+      " On the other hand, the next significant trend is  negative which exists from 2008 to 2006."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "neutral",
+         "start": 2,
+         "end": 5,
+         "trend": "y=0.0x+84.55",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 8,
+         "end": 10,
+         "trend": "y=0.0x+81.39",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 10,
+         "end": 12,
+         "trend": "y=9.28x+-18562.38",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": 165.77
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": 199.1
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": 84.55
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": 84.55
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": 84.55
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": 84.55
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": 80.3
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": 80.3
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": 81.39
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": 81.39
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": 81.39
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": 73.64
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": 62.82
+      }
+   ]
+}

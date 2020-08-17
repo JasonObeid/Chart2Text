@@ -1,0 +1,130 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Japan 2024\n",
+   "xAxis": "Year",
+   "yAxis": "GDP growth rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP growth rate compared to previous year, with a total of 11 data points. The chart has 8 significant trends.",
+      " The longest trend is  positive which exists from 2021 to 2019.",
+      " Similarly, the next significant trend is  positive which exists from 2016 to 2014.",
+      " Similarly, the next significant trend is  neutral which exists from 2024 to 2023.",
+      " Similarly, the next significant trend is  positive which exists from 2023 to 2022.",
+      " In a similar manner, the next significant trend is  negative which exists from 2022 to 2021.",
+      " Contrarily, the next significant trend is  negative which exists from 2019 to 2018.",
+      " Conversely, the next significant trend is  positive which exists from 2018 to 2017.",
+      " Similarly, the next significant trend is  negative which exists from 2017 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 3,
+         "end": 5,
+         "trend": "y=-0.22x+445.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 8,
+         "end": 10,
+         "trend": "y=0.12x+-230.99",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 0,
+         "end": 1,
+         "trend": "y=0.0x+0.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 1,
+         "end": 2,
+         "trend": "y=-0.02x+40.96",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 2,
+         "end": 3,
+         "trend": "y=0.07x+-141.02",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 5,
+         "end": 6,
+         "trend": "y=0.08x+-160.63",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 6,
+         "end": 7,
+         "trend": "y=-1.13x+2281.15",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 7,
+         "end": 8,
+         "trend": "y=1.33x+-2680.67",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth rate compared to previous year": 0.5
+      },
+      {
+         "Year": "2023",
+         "GDP growth rate compared to previous year": 0.5
+      },
+      {
+         "Year": "2022",
+         "GDP growth rate compared to previous year": 0.52
+      },
+      {
+         "Year": "2021",
+         "GDP growth rate compared to previous year": 0.45
+      },
+      {
+         "Year": "2020",
+         "GDP growth rate compared to previous year": 0.47
+      },
+      {
+         "Year": "2019",
+         "GDP growth rate compared to previous year": 0.89
+      },
+      {
+         "Year": "2018",
+         "GDP growth rate compared to previous year": 0.81
+      },
+      {
+         "Year": "2017",
+         "GDP growth rate compared to previous year": 1.94
+      },
+      {
+         "Year": "2016",
+         "GDP growth rate compared to previous year": 0.61
+      },
+      {
+         "Year": "2015",
+         "GDP growth rate compared to previous year": 1.22
+      },
+      {
+         "Year": "2014",
+         "GDP growth rate compared to previous year": 0.38
+      }
+   ]
+}

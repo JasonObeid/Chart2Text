@@ -1,0 +1,26 @@
+{
+   "title": "Number of U.S. Pinterest users 2017 , by gender\n",
+   "xAxis": "Sex",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Sex, and a y axis representing Number of users in millions.",
+      " The highest category is found at Female where Number of users in millions is 58.9.",
+      " The lowest category is found at Male where Number of users in millions is 32.6."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Sex": "Female",
+         "Number of users in millions": 58.9
+      },
+      {
+         "Sex": "Male",
+         "Number of users in millions": 32.6
+      }
+   ]
+}

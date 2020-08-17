@@ -1,0 +1,51 @@
+{
+   "title": "IMF - biggest debtor nations 2011",
+   "xAxis": "Country",
+   "yAxis": "Debt in billion euros",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Debt of the billion euros in biggest debtor nations 2011 as of 2011 . ",
+      "At that time , there were 11.8 billion in Romania ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Romania",
+         "Debt in billion euros": "11.8"
+      },
+      {
+         "Country": "Ukraine",
+         "Debt in billion euros": "10.3"
+      },
+      {
+         "Country": "Greece",
+         "Debt in billion euros": "10.2"
+      },
+      {
+         "Country": "Hungary",
+         "Debt in billion euros": "8.5"
+      },
+      {
+         "Country": "Pakistan",
+         "Debt in billion euros": "6.3"
+      },
+      {
+         "Country": "Ireland",
+         "Debt in billion euros": "5.6"
+      },
+      {
+         "Country": "Turkey",
+         "Debt in billion euros": "4.1"
+      },
+      {
+         "Country": "Belarus",
+         "Debt in billion euros": "2.5"
+      }
+   ]
+}

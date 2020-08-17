@@ -1,0 +1,55 @@
+{
+   "title": "Total household waste in England 2010 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Kilograms per person per year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the estimated Kilograms of per waste England to 2010 2017 in England from 2010 to 2017 . ",
+      "In 2017 , the Kilograms of per waste England to 2010 2017 amounted to approximately 402 million per waste , the lowest amount in the provided time interval ."
+   ],
+   "trends": [
+      {
+         "16": "7",
+         "18": "0"
+      },
+      {
+         "1": "0",
+         "15": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Kilograms per person per year": "403"
+      },
+      {
+         "Year": "2016",
+         "Kilograms per person per year": "412"
+      },
+      {
+         "Year": "2015",
+         "Kilograms per person per year": "406"
+      },
+      {
+         "Year": "2014",
+         "Kilograms per person per year": "413"
+      },
+      {
+         "Year": "2013",
+         "Kilograms per person per year": "402"
+      },
+      {
+         "Year": "2012",
+         "Kilograms per person per year": "412"
+      },
+      {
+         "Year": "2011",
+         "Kilograms per person per year": "421"
+      },
+      {
+         "Year": "2010",
+         "Kilograms per person per year": "425"
+      }
+   ]
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Global basketball shoe sales 2012 - 2013 , by NBA player",
+   "labels": [
+      "Quarter",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 5 categories for the x axis of Quarter representing 2012, and 2013.",
+      " The highest category is found at Michael Jordan with a mean value of 2250.0.",
+      " The second highest category is found at Lebron James with a mean value of 300.0.",
+      " This represents a difference of 152.9%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Quarter": "Michael Jordan",
+         "2012": "2000",
+         "2013": "2500"
+      },
+      {
+         "Quarter": "Lebron James",
+         "2012": "300",
+         "2013": "300"
+      },
+      {
+         "Quarter": "Kevin Durant",
+         "2012": "35",
+         "2013": "175"
+      },
+      {
+         "Quarter": "Kobe Bryant",
+         "2012": "50",
+         "2013": "50"
+      },
+      {
+         "Quarter": "Derrick Rose",
+         "2012": "40",
+         "2013": "40"
+      }
+   ]
+}

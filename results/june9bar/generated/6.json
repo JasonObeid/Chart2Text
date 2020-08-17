@@ -1,0 +1,38 @@
+{
+   "title": "U.S. fire statistics : number of false alarms , by type 2018",
+   "xAxis": "Type of call",
+   "yAxis": "Number of calls responded (in thousands)",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the total Number of calls responded (in in the by type in 2018 . ",
+      "In 2018 , U.S. Malicious_mischievous_false_call departments responded to 450.5 Other_false_alarms_(bomb_scares_etc.)",
+      "This was an increase of 13 % from the previous year ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "4",
+         "8": "2",
+         "9": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Type of call": "Unintentional call",
+         "Number of calls responded (in thousands)": "1378.5"
+      },
+      {
+         "Type of call": "System malfunction",
+         "Number of calls responded (in thousands)": "888.5"
+      },
+      {
+         "Type of call": "Other false alarms (bomb scares etc.)",
+         "Number of calls responded (in thousands)": "450.5"
+      },
+      {
+         "Type of call": "Malicious mischievous false call",
+         "Number of calls responded (in thousands)": "171.5"
+      }
+   ]
+}

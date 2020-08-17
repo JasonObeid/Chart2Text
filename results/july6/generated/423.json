@@ -1,0 +1,41 @@
+{
+   "title": "Snapchat : age distribution of U.S. users 2016",
+   "xAxis": "Year",
+   "yAxis": "Share of active users",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the U.S. users rate of the U.S. Share active from 2018 to 2016 . ",
+      "The Share active is expected to grow by 26 % from 35-54 to 25-34 ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "11": "3",
+         "13": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "13-17",
+         "Share of active users": "23"
+      },
+      {
+         "Year": "18-24",
+         "Share of active users": "37"
+      },
+      {
+         "Year": "25-34",
+         "Share of active users": "26"
+      },
+      {
+         "Year": "35-54",
+         "Share of active users": "12"
+      },
+      {
+         "Year": "55+",
+         "Share of active users": "2"
+      }
+   ]
+}

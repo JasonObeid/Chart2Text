@@ -1,0 +1,83 @@
+{
+   "title": "Number of MRI scanners in the United Kingdom ( UK ) 2000 to 2014",
+   "xAxis": "Year",
+   "yAxis": "Number of scanners",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of scanners United in the United Kingdom from 2000 to 2014 . ",
+      "In 2014 , the Number of scanners United reached approximately 467 scanners ."
+   ],
+   "trends": [
+      {
+         "13": "14",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Number of scanners": "467"
+      },
+      {
+         "Year": "2013",
+         "Number of scanners": "462"
+      },
+      {
+         "Year": "2012",
+         "Number of scanners": "456"
+      },
+      {
+         "Year": "2011",
+         "Number of scanners": "441"
+      },
+      {
+         "Year": "2010 ",
+         "Number of scanners": "411"
+      },
+      {
+         "Year": "2009",
+         "Number of scanners": "0"
+      },
+      {
+         "Year": "2008 ",
+         "Number of scanners": "340"
+      },
+      {
+         "Year": "2007",
+         "Number of scanners": "0"
+      },
+      {
+         "Year": "2006",
+         "Number of scanners": "342"
+      },
+      {
+         "Year": "2005",
+         "Number of scanners": "326"
+      },
+      {
+         "Year": "2004",
+         "Number of scanners": "300"
+      },
+      {
+         "Year": "2003 ",
+         "Number of scanners": "271"
+      },
+      {
+         "Year": "2002 ",
+         "Number of scanners": "296"
+      },
+      {
+         "Year": "2001 ",
+         "Number of scanners": "367"
+      },
+      {
+         "Year": "2000",
+         "Number of scanners": "331"
+      }
+   ]
+}

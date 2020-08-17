@@ -1,0 +1,31 @@
+{
+   "title": "Global photo printing and merchandising market value 2016 and 2021\n",
+   "xAxis": "Year",
+   "yAxis": "Market revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Market revenue in billion U.S. dollars with a total of 2 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2021 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 0,
+         "end": 1,
+         "trend": "y=0.92x+-1836.19",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2021",
+         "Market revenue in billion U.S. dollars": 19.09
+      },
+      {
+         "Year": "2016",
+         "Market revenue in billion U.S. dollars": 14.5
+      }
+   ]
+}

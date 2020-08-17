@@ -1,0 +1,88 @@
+{
+   "title": "Bayer CropScience 's revenue 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenues in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenues in million euros, with a total of 14 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2015 to 2005.",
+      " But, the next significant trend is  positive which exists from 2017 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 11,
+         "direction": "negative",
+         "start": 3,
+         "end": 13,
+         "trend": "y=465.97x+-929199.55",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 1,
+         "end": 3,
+         "trend": "y=-395.0x+806273.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenues in million euros": 14266.0
+      },
+      {
+         "Year": "2017",
+         "Revenues in million euros": 9577.0
+      },
+      {
+         "Year": "2016",
+         "Revenues in million euros": 9915.0
+      },
+      {
+         "Year": "2015",
+         "Revenues in million euros": 10367.0
+      },
+      {
+         "Year": "2014",
+         "Revenues in million euros": 9494.0
+      },
+      {
+         "Year": "2013",
+         "Revenues in million euros": 8819.0
+      },
+      {
+         "Year": "2012",
+         "Revenues in million euros": 8383.0
+      },
+      {
+         "Year": "2011",
+         "Revenues in million euros": 7255.0
+      },
+      {
+         "Year": "2010",
+         "Revenues in million euros": 6830.0
+      },
+      {
+         "Year": "2009",
+         "Revenues in million euros": 6510.0
+      },
+      {
+         "Year": "2008",
+         "Revenues in million euros": 6382.0
+      },
+      {
+         "Year": "2007",
+         "Revenues in million euros": 5826.0
+      },
+      {
+         "Year": "2006",
+         "Revenues in million euros": 5700.0
+      },
+      {
+         "Year": "2005",
+         "Revenues in million euros": 5896.0
+      }
+   ]
+}

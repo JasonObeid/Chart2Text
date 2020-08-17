@@ -1,0 +1,84 @@
+{
+   "title": "Military expenditure - percentage of GDP in highest spending countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Percentage of GDP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the GDP rate of the GDP expenditure percentage GDP highest in 2018 . ",
+      "In that year , United_States accounted for 3.2 percentage of the GDP ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2",
+         "7": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Saudi Arabia",
+         "Percentage of GDP": "8.8"
+      },
+      {
+         "Country": "Russia",
+         "Percentage of GDP": "3.9"
+      },
+      {
+         "Country": "United States",
+         "Percentage of GDP": "3.2"
+      },
+      {
+         "Country": "South Korea",
+         "Percentage of GDP": "2.6"
+      },
+      {
+         "Country": "Turkey",
+         "Percentage of GDP": "2.5"
+      },
+      {
+         "Country": "India",
+         "Percentage of GDP": "2.4"
+      },
+      {
+         "Country": "France",
+         "Percentage of GDP": "2.3"
+      },
+      {
+         "Country": "Worldwide",
+         "Percentage of GDP": "2.1"
+      },
+      {
+         "Country": "Australia",
+         "Percentage of GDP": "1.9"
+      },
+      {
+         "Country": "China",
+         "Percentage of GDP": "1.9"
+      },
+      {
+         "Country": "United Kingdom",
+         "Percentage of GDP": "1.8"
+      },
+      {
+         "Country": "Brazil",
+         "Percentage of GDP": "1.5"
+      },
+      {
+         "Country": "Italy",
+         "Percentage of GDP": "1.3"
+      },
+      {
+         "Country": "Canada",
+         "Percentage of GDP": "1.3"
+      },
+      {
+         "Country": "Germany",
+         "Percentage of GDP": "1.2"
+      },
+      {
+         "Country": "Japan",
+         "Percentage of GDP": "0.9"
+      }
+   ]
+}

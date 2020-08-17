@@ -1,0 +1,46 @@
+{
+   "title": "Usage frequency of headphones in the United States 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a 2017 survey regarding patriotism in the States . ",
+      "The respondents were asked how proud they are to be an United States . ",
+      "In 2017 , some 31 % of survey respondents stated they were daily proud to be an United States ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "4": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "daily",
+         "Share of respondents": "31"
+      },
+      {
+         "Response": "several times a week",
+         "Share of respondents": "24"
+      },
+      {
+         "Response": "once a week",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "several times a month",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "less often",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "never",
+         "Share of respondents": "18"
+      }
+   ]
+}

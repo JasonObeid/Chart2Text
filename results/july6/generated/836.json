@@ -1,0 +1,67 @@
+{
+   "title": "Export of goods from China 2017",
+   "xAxis": "Year",
+   "yAxis": "Exports in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total Exports of goods and from in the China from 2007 to 2017 . ",
+      "In 2017 , the total Exports of goods and from in the China amounted to 2263.33 billion U.S. ."
+   ],
+   "trends": [
+      {
+         "14": "10",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Exports in billion U.S. dollars": "2263.33"
+      },
+      {
+         "Year": "2016",
+         "Exports in billion U.S. dollars": "2097.63"
+      },
+      {
+         "Year": "2015",
+         "Exports in billion U.S. dollars": "2273.47"
+      },
+      {
+         "Year": "2014",
+         "Exports in billion U.S. dollars": "2342.29"
+      },
+      {
+         "Year": "2013",
+         "Exports in billion U.S. dollars": "2209.01"
+      },
+      {
+         "Year": "2012",
+         "Exports in billion U.S. dollars": "2048.71"
+      },
+      {
+         "Year": "2011",
+         "Exports in billion U.S. dollars": "1898.38"
+      },
+      {
+         "Year": "2010",
+         "Exports in billion U.S. dollars": "1577.75"
+      },
+      {
+         "Year": "2009",
+         "Exports in billion U.S. dollars": "1201.61"
+      },
+      {
+         "Year": "2008",
+         "Exports in billion U.S. dollars": "1430.69"
+      },
+      {
+         "Year": "2007",
+         "Exports in billion U.S. dollars": "1220.46"
+      }
+   ]
+}

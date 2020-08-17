@@ -1,0 +1,155 @@
+{
+   "title": "U.S. governors - number by political party affiliation 1990 to 2019",
+   "labels": [
+      "Year",
+      "Democratic",
+      "Republican",
+      "Independent"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "In 2019 , it is estimated that 86.9 % of people living in Democratic countries used the governors , compared to 27 % of individuals living in Republican markets . ",
+      "The U.S. online number by was 0 % ."
+   ],
+   "trends": [
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "21": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "6": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Democratic": "23",
+         "Republican": "27",
+         "Independent": "0"
+      },
+      {
+         "Year": "2018",
+         "Democratic": "16",
+         "Republican": "33",
+         "Independent": "1"
+      },
+      {
+         "Year": "2017",
+         "Democratic": "16",
+         "Republican": "33",
+         "Independent": "1"
+      },
+      {
+         "Year": "2016",
+         "Democratic": "18",
+         "Republican": "31",
+         "Independent": "1"
+      },
+      {
+         "Year": "2015",
+         "Democratic": "18",
+         "Republican": "31",
+         "Independent": "1"
+      },
+      {
+         "Year": "2014",
+         "Democratic": "21",
+         "Republican": "29",
+         "Independent": "0"
+      },
+      {
+         "Year": "2013",
+         "Democratic": "20",
+         "Republican": "30",
+         "Independent": "0"
+      },
+      {
+         "Year": "2012",
+         "Democratic": "20",
+         "Republican": "29",
+         "Independent": "1"
+      },
+      {
+         "Year": "2011",
+         "Democratic": "20",
+         "Republican": "29",
+         "Independent": "1"
+      },
+      {
+         "Year": "2010",
+         "Democratic": "26",
+         "Republican": "24",
+         "Independent": "0"
+      },
+      {
+         "Year": "2009",
+         "Democratic": "28",
+         "Republican": "22",
+         "Independent": "0"
+      },
+      {
+         "Year": "2008",
+         "Democratic": "28",
+         "Republican": "22",
+         "Independent": "0"
+      },
+      {
+         "Year": "2007",
+         "Democratic": "28",
+         "Republican": "22",
+         "Independent": "0"
+      },
+      {
+         "Year": "2006",
+         "Democratic": "22",
+         "Republican": "28",
+         "Independent": "0"
+      },
+      {
+         "Year": "2005",
+         "Democratic": "22",
+         "Republican": "28",
+         "Independent": "0"
+      },
+      {
+         "Year": "2004",
+         "Democratic": "22",
+         "Republican": "28",
+         "Independent": "0"
+      },
+      {
+         "Year": "2003",
+         "Democratic": "23",
+         "Republican": "27",
+         "Independent": "0"
+      },
+      {
+         "Year": "2000",
+         "Democratic": "18",
+         "Republican": "30",
+         "Independent": "2"
+      },
+      {
+         "Year": "1995",
+         "Democratic": "19",
+         "Republican": "30",
+         "Independent": "1"
+      },
+      {
+         "Year": "1990",
+         "Democratic": "29",
+         "Republican": "21",
+         "Independent": "0"
+      }
+   ]
+}

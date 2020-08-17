@@ -1,0 +1,39 @@
+{
+   "title": "Metro Group 's sales worldwide 2018/2019 , by region",
+   "xAxis": "Country",
+   "yAxis": "Sales in million euros",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Sales of the Group 's sales worldwide in . ",
+      "In that year , the Germany had the largest Group Sales of about 5986 million euros ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Western Europe (excluding Germany)",
+         "Sales in million euros": "8885"
+      },
+      {
+         "Country": "Eastern Europe (exluding Russia)",
+         "Sales in million euros": "5986"
+      },
+      {
+         "Country": "Germany",
+         "Sales in million euros": "4075"
+      },
+      {
+         "Country": "Russia",
+         "Sales in million euros": "2406"
+      },
+      {
+         "Country": "Asia",
+         "Sales in million euros": "1097"
+      }
+   ]
+}

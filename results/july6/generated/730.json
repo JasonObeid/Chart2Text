@@ -1,0 +1,71 @@
+{
+   "title": "Number of Papa John 's restaurants worldwide 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of restaurants",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of Papa John restaurants in Papa John from 2007 to 2018 . ",
+      "At the end of the 2018 fiscal Year , there were 5303 Papa John restaurants in Papa John ."
+   ],
+   "trends": [
+      {
+         "11": "11",
+         "13": "0"
+      },
+      {
+         "5": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of restaurants": "5303"
+      },
+      {
+         "Year": "2017",
+         "Number of restaurants": "5199"
+      },
+      {
+         "Year": "2016",
+         "Number of restaurants": "5097"
+      },
+      {
+         "Year": "2015",
+         "Number of restaurants": "4893"
+      },
+      {
+         "Year": "2014",
+         "Number of restaurants": "4663"
+      },
+      {
+         "Year": "2013",
+         "Number of restaurants": "4428"
+      },
+      {
+         "Year": "2012",
+         "Number of restaurants": "4163"
+      },
+      {
+         "Year": "2011",
+         "Number of restaurants": "3883"
+      },
+      {
+         "Year": "2010",
+         "Number of restaurants": "3646"
+      },
+      {
+         "Year": "2009",
+         "Number of restaurants": "3469"
+      },
+      {
+         "Year": "2008",
+         "Number of restaurants": "3380"
+      },
+      {
+         "Year": "2007",
+         "Number of restaurants": "3208"
+      }
+   ]
+}

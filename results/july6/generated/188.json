@@ -1,0 +1,90 @@
+{
+   "title": "U.S. energy consumption by source 2017 to 2018",
+   "labels": [
+      "unknown",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "Forecasts suggest that by the year 2017 the largest segment within the virtual and by reality industry will be Petroleum . ",
+      "Petroleum game segment revenues are expected to reach nearly 36.17 billion U.S. dollars by 2017 and continue growing to around 11.5 billion by 2018 . ",
+      "The Natural_gas and Coal 2018 are also expected to experience high levels of growth in the coming years , further exhibiting the wide range of possible uses for the technology ."
+   ],
+   "trends": [
+      {
+         "19": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "0": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "3": [
+            "2",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Petroleum",
+         "2017": "36.17",
+         "2018": "36.95"
+      },
+      {
+         "unknown": "Natural gas",
+         "2017": "28.03",
+         "2018": "30.98"
+      },
+      {
+         "unknown": "Coal",
+         "2017": "13.84",
+         "2018": "13.24"
+      },
+      {
+         "unknown": "Nuclear electric power",
+         "2017": "8.42",
+         "2018": "8.44"
+      },
+      {
+         "unknown": "Biomass",
+         "2017": "5.08",
+         "2018": "5.13"
+      },
+      {
+         "unknown": "Hydroelectric conventional",
+         "2017": "2.77",
+         "2018": "2.69"
+      },
+      {
+         "unknown": "Wind",
+         "2017": "2.34",
+         "2018": "2.53"
+      },
+      {
+         "unknown": "Solar",
+         "2017": "0.78",
+         "2018": "0.95"
+      },
+      {
+         "unknown": "Geothermal",
+         "2017": "0.21",
+         "2018": "0.22"
+      }
+   ]
+}

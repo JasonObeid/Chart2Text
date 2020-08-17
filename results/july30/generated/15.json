@@ -1,0 +1,130 @@
+{
+   "title": "Natural gas production - United States 1998 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Production in billion cubic meters",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in billion cubic meters, with a total of 20 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2015 to 2007.",
+      " Differently, the next significant trend is  negative which exists from 2018 to 2016.",
+      " But, the next significant trend is  positive which exists from 2005 to 2003.",
+      " In a similar manner, the next significant trend is  negative which exists from 2001 to 1998."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 3,
+         "end": 11,
+         "trend": "y=26.99x+-53661.58",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=52.2x+-104519.07",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 13,
+         "end": 15,
+         "trend": "y=-14.85x+30285.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 17,
+         "end": 19,
+         "trend": "y=5.12x+-9695.35",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Production in billion cubic meters": 831.8
+      },
+      {
+         "Year": "2017",
+         "Production in billion cubic meters": 745.8
+      },
+      {
+         "Year": "2016",
+         "Production in billion cubic meters": 727.4
+      },
+      {
+         "Year": "2015",
+         "Production in billion cubic meters": 740.3
+      },
+      {
+         "Year": "2014",
+         "Production in billion cubic meters": 704.7
+      },
+      {
+         "Year": "2013",
+         "Production in billion cubic meters": 655.7
+      },
+      {
+         "Year": "2012",
+         "Production in billion cubic meters": 649.1
+      },
+      {
+         "Year": "2011",
+         "Production in billion cubic meters": 617.4
+      },
+      {
+         "Year": "2010",
+         "Production in billion cubic meters": 575.2
+      },
+      {
+         "Year": "2009",
+         "Production in billion cubic meters": 557.6
+      },
+      {
+         "Year": "2008",
+         "Production in billion cubic meters": 546.1
+      },
+      {
+         "Year": "2007",
+         "Production in billion cubic meters": 521.9
+      },
+      {
+         "Year": "2006",
+         "Production in billion cubic meters": 524.0
+      },
+      {
+         "Year": "2005",
+         "Production in billion cubic meters": 511.1
+      },
+      {
+         "Year": "2004",
+         "Production in billion cubic meters": 526.4
+      },
+      {
+         "Year": "2003",
+         "Production in billion cubic meters": 540.8
+      },
+      {
+         "Year": "2002",
+         "Production in billion cubic meters": 536.0
+      },
+      {
+         "Year": "2001",
+         "Production in billion cubic meters": 555.5
+      },
+      {
+         "Year": "2000",
+         "Production in billion cubic meters": 543.2
+      },
+      {
+         "Year": "1998",
+         "Production in billion cubic meters": 538.7
+      }
+   ]
+}

@@ -1,0 +1,82 @@
+{
+   "title": "Prime office rental prices in Moscow Q1 2015-Q2 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Cost per square meter in euros",
+   "graphType": "bar",
+   "summary": [
+      "The statistic gives information on the Cost of per square meter office spaces in Moscow ( CBD ) , France from the first Quarter of 2019 to the corresponding Quarter . ",
+      "It can be seen that the price of Parisian Prime office properties increased over time , reaching 704 euros per square meter per year as of the first Quarter ."
+   ],
+   "trends": [
+      {},
+      {
+         "17": "15"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 '15",
+         "Cost per square meter in euros": "760"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Cost per square meter in euros": "697"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Cost per square meter in euros": "692"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Cost per square meter in euros": "670"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Cost per square meter in euros": "670"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Cost per square meter in euros": "720"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Cost per square meter in euros": "613"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Cost per square meter in euros": "760"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Cost per square meter in euros": "726"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Cost per square meter in euros": "684"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Cost per square meter in euros": "669"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Cost per square meter in euros": "654"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Cost per square meter in euros": "693"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Cost per square meter in euros": "693"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Cost per square meter in euros": "703"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Cost per square meter in euros": "704"
+      }
+   ]
+}

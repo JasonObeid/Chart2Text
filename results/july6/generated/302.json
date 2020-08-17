@@ -1,0 +1,33 @@
+{
+   "title": "Camping equipment sales in the U.S. - sleeping bags 2011",
+   "xAxis": "Year",
+   "yAxis": "Equipment sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the U.S. equipment sales in 2010 , and a forecast for 2011 . ",
+      "In 2010 , the equipment sales was valued at 191.76 million U.S. dollars . ",
+      "equipment sales is a type of inflammatory bowel disease ( IBD ) which is characterized by the formation of ulcers in the colon ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "16": "1"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Equipment sales in million U.S. dollars": "191.76"
+      },
+      {
+         "Year": "2011",
+         "Equipment sales in million U.S. dollars": "210.38"
+      }
+   ]
+}

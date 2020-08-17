@@ -1,0 +1,114 @@
+{
+   "title": "Stock price of Goldman Sachs 2004 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Stock price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Stock price in U.S. dollars, with a total of 16 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2014 to 2011.",
+      " Conversely, the next significant trend is  negative which exists from 2007 to 2004.",
+      " Differently, the next significant trend is  negative which exists from 2017 to 2015.",
+      " Differently, the next significant trend is  positive which exists from 2011 to 2009."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 5,
+         "end": 8,
+         "trend": "y=35.99x+-72282.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 12,
+         "end": 15,
+         "trend": "y=40.47x+-80995.03",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=37.26x+-74901.43",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 8,
+         "end": 10,
+         "trend": "y=-39.2x+78944.53",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Stock price in U.S. dollars": 229.93
+      },
+      {
+         "Year": "2018",
+         "Stock price in U.S. dollars": 167.05
+      },
+      {
+         "Year": "2017",
+         "Stock price in U.S. dollars": 254.76
+      },
+      {
+         "Year": "2016",
+         "Stock price in U.S. dollars": 239.45
+      },
+      {
+         "Year": "2015",
+         "Stock price in U.S. dollars": 180.23
+      },
+      {
+         "Year": "2014",
+         "Stock price in U.S. dollars": 193.83
+      },
+      {
+         "Year": "2013",
+         "Stock price in U.S. dollars": 177.26
+      },
+      {
+         "Year": "2012",
+         "Stock price in U.S. dollars": 127.56
+      },
+      {
+         "Year": "2011",
+         "Stock price in U.S. dollars": 90.43
+      },
+      {
+         "Year": "2010",
+         "Stock price in U.S. dollars": 168.16
+      },
+      {
+         "Year": "2009",
+         "Stock price in U.S. dollars": 168.84
+      },
+      {
+         "Year": "2008",
+         "Stock price in U.S. dollars": 84.39
+      },
+      {
+         "Year": "2007",
+         "Stock price in U.S. dollars": 215.05
+      },
+      {
+         "Year": "2006",
+         "Stock price in U.S. dollars": 199.35
+      },
+      {
+         "Year": "2005",
+         "Stock price in U.S. dollars": 127.71
+      },
+      {
+         "Year": "2004",
+         "Stock price in U.S. dollars": 104.04
+      }
+   ]
+}

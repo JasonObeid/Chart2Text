@@ -1,0 +1,82 @@
+{
+   "title": "Electricity prices for households in Estonia 2010 - 2017 , semi-annually",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Electricity prices for household end users in Estonia semi-annually from 2010_S1 to 2017_S1 . ",
+      "In the first half of 2016_S1 , the average Electricity price for households was 17.6 Euro cents per kWh and had increased to 13.67 the following Year ."
+   ],
+   "trends": [
+      {
+         "14": "0",
+         "16": "14"
+      },
+      {
+         "5": "12",
+         "23": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": "9.7"
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": "10.04"
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": "9.73"
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": "10.42"
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": "10.96"
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": "11.23"
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": "13.51"
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": "13.67"
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": "13.07"
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": "13.25"
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": "13.02"
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": "12.91"
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": "12.08"
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": "12.38"
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": "12.07"
+      }
+   ]
+}

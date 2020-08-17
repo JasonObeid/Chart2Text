@@ -1,0 +1,120 @@
+{
+   "title": "Employment by economic sector in Bangladesh 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Employment of the by economic sector Bangladesh in from 2009 to 2019 . ",
+      "In 2019 , 39.71 % of the by were employed in Agriculture , 20.53 % in Industry and 39.76 % in Services . ",
+      "Employment of by in Bangladesh \u2013 additional information In 2013 , Bangladesh was the largest exporting country worldwide with an export value of about two billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "10",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "0",
+            "3"
+         ]
+      },
+      {
+         "9": [
+            "6",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "39.71",
+         "Industry": "20.53",
+         "Services": "39.76"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "40.15",
+         "Industry": "20.47",
+         "Services": "39.38"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "40.6",
+         "Industry": "20.42",
+         "Services": "38.98"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "42.66",
+         "Industry": "20.46",
+         "Services": "36.87"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "43.44",
+         "Industry": "19.93",
+         "Services": "36.64"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "44.29",
+         "Industry": "19.45",
+         "Services": "36.26"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "45",
+         "Industry": "19.05",
+         "Services": "35.93"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "45.77",
+         "Industry": "18.55",
+         "Services": "35.68"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "46.57",
+         "Industry": "18.07",
+         "Services": "35.35"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "47.31",
+         "Industry": "17.63",
+         "Services": "35.07"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "47.54",
+         "Industry": "16.81",
+         "Services": "35.65"
+      }
+   ]
+}

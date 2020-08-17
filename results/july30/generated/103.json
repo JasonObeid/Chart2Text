@@ -1,0 +1,58 @@
+{
+   "title": "Countries with the largest number of cosmetic procedures 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Number of procedures",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Number of procedures.",
+      " The highest category is found at United_States where Number of procedures is 4361867.0.",
+      " The lowest category is found at Thailand where Number of procedures is 140123.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Country": "United States",
+         "Number of procedures": 4361867.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of procedures": 2267405.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of procedures": 1043247.0
+      },
+      {
+         "Country": "Germany",
+         "Number of procedures": 922056.0
+      },
+      {
+         "Country": "India",
+         "Number of procedures": 895896.0
+      },
+      {
+         "Country": "Italy",
+         "Number of procedures": 854208.0
+      },
+      {
+         "Country": "Argentina",
+         "Number of procedures": 608960.0
+      },
+      {
+         "Country": "Colombia",
+         "Number of procedures": 408789.0
+      },
+      {
+         "Country": "Australia",
+         "Number of procedures": 202642.0
+      },
+      {
+         "Country": "Thailand",
+         "Number of procedures": 140123.0
+      }
+   ]
+}

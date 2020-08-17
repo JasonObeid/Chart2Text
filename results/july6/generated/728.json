@@ -1,0 +1,67 @@
+{
+   "title": "Smartphone penetration as share of population in Australia 2012 to 2022",
+   "xAxis": "Year",
+   "yAxis": "Smartphone penetration rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Smartphone penetration of Australia from 2012 to 2022 . ",
+      "In 2022 , the Smartphone penetration of Australia was estimated at approximately 74.44 Smartphone penetration rate ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2022",
+         "Smartphone penetration rate": "74.44"
+      },
+      {
+         "Year": "2021",
+         "Smartphone penetration rate": "73.72"
+      },
+      {
+         "Year": "2020",
+         "Smartphone penetration rate": "72.78"
+      },
+      {
+         "Year": "2019",
+         "Smartphone penetration rate": "71.59"
+      },
+      {
+         "Year": "2018",
+         "Smartphone penetration rate": "70.1"
+      },
+      {
+         "Year": "2017",
+         "Smartphone penetration rate": "68.26"
+      },
+      {
+         "Year": "2016",
+         "Smartphone penetration rate": "66.06"
+      },
+      {
+         "Year": "2015",
+         "Smartphone penetration rate": "63.52"
+      },
+      {
+         "Year": "2014",
+         "Smartphone penetration rate": "61.2"
+      },
+      {
+         "Year": "2013",
+         "Smartphone penetration rate": "53.2"
+      },
+      {
+         "Year": "2012",
+         "Smartphone penetration rate": "43.7"
+      }
+   ]
+}

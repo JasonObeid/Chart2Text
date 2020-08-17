@@ -1,0 +1,67 @@
+{
+   "title": "Population density in Spain 2018",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants per square kilometer",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Population density in Spain from 2008 to 2018 . ",
+      "In 2018 , the density of Spain 's Population amounted to 93.53 Inhabitants per square kilometer ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Inhabitants per square kilometer": "93.53"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants per square kilometer": "93.27"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants per square kilometer": "93.05"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants per square kilometer": "92.95"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants per square kilometer": "92.92"
+      },
+      {
+         "Year": "2013",
+         "Inhabitants per square kilometer": "93.2"
+      },
+      {
+         "Year": "2012",
+         "Inhabitants per square kilometer": "93.51"
+      },
+      {
+         "Year": "2011",
+         "Inhabitants per square kilometer": "93.51"
+      },
+      {
+         "Year": "2010",
+         "Inhabitants per square kilometer": "93.15"
+      },
+      {
+         "Year": "2009",
+         "Inhabitants per square kilometer": "92.98"
+      },
+      {
+         "Year": "2008",
+         "Inhabitants per square kilometer": "92.13"
+      }
+   ]
+}

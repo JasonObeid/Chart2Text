@@ -1,0 +1,52 @@
+{
+   "title": "Retail sales of the frame market for eyewear in the U.S. 2011 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Retail sales in million U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the Retail of sales television in the market from 2011 to 2017 . ",
+      "According to the source , there were 9732.2 million sales in the market in 2017 2011 a decrease of more almost 10 million from 2011 ."
+   ],
+   "trends": [
+      {
+         "13": "6",
+         "15": "0"
+      },
+      {
+         "7": "0",
+         "15": "0",
+         "16": "6",
+         "25": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Retail sales in million U.S. dollars": "9732.2"
+      },
+      {
+         "Year": "2016",
+         "Retail sales in million U.S. dollars": "9710.0"
+      },
+      {
+         "Year": "2015",
+         "Retail sales in million U.S. dollars": "9627.0"
+      },
+      {
+         "Year": "2014",
+         "Retail sales in million U.S. dollars": "9153.0"
+      },
+      {
+         "Year": "2013",
+         "Retail sales in million U.S. dollars": "8871.0"
+      },
+      {
+         "Year": "2012",
+         "Retail sales in million U.S. dollars": "8475.0"
+      },
+      {
+         "Year": "2011",
+         "Retail sales in million U.S. dollars": "8213.0"
+      }
+   ]
+}

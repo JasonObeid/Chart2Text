@@ -1,0 +1,79 @@
+{
+   "title": "CVS Health 's number of stores 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of stores with a total of 14 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2018 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 14,
+         "direction": "negative",
+         "start": 0,
+         "end": 13,
+         "trend": "y=337.64x+-671374.26",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of stores": 9967.0
+      },
+      {
+         "Year": "2017",
+         "Number of stores": 9846.0
+      },
+      {
+         "Year": "2016",
+         "Number of stores": 9750.0
+      },
+      {
+         "Year": "2015",
+         "Number of stores": 9681.0
+      },
+      {
+         "Year": "2014",
+         "Number of stores": 7866.0
+      },
+      {
+         "Year": "2013",
+         "Number of stores": 7702.0
+      },
+      {
+         "Year": "2012",
+         "Number of stores": 7508.0
+      },
+      {
+         "Year": "2011",
+         "Number of stores": 7388.0
+      },
+      {
+         "Year": "2010",
+         "Number of stores": 7248.0
+      },
+      {
+         "Year": "2009",
+         "Number of stores": 7095.0
+      },
+      {
+         "Year": "2008",
+         "Number of stores": 6997.0
+      },
+      {
+         "Year": "2007",
+         "Number of stores": 6301.0
+      },
+      {
+         "Year": "2006",
+         "Number of stores": 6205.0
+      },
+      {
+         "Year": "2005",
+         "Number of stores": 5474.0
+      }
+   ]
+}

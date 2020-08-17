@@ -1,0 +1,47 @@
+{
+   "title": "Global online shopping order value 2019 , by platform",
+   "xAxis": "Platform",
+   "yAxis": "Order value in U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Global online shopping order in Global 2019 as of 2018 , based on reach . ",
+      "During the survey period , it was found that 132.6 % of female users had a Macintosh account ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Macintosh",
+         "Order value in U.S. dollars": "132.6"
+      },
+      {
+         "Platform": "Windows",
+         "Order value in U.S. dollars": "127.77"
+      },
+      {
+         "Platform": "iOS",
+         "Order value in U.S. dollars": "93.52"
+      },
+      {
+         "Platform": "Chrome OS",
+         "Order value in U.S. dollars": "87.98"
+      },
+      {
+         "Platform": "Linux",
+         "Order value in U.S. dollars": "85.72"
+      },
+      {
+         "Platform": "Android",
+         "Order value in U.S. dollars": "76.21"
+      },
+      {
+         "Platform": "Windows Phone",
+         "Order value in U.S. dollars": "66.06"
+      }
+   ]
+}

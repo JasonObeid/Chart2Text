@@ -1,0 +1,64 @@
+{
+   "title": "Important features of music streaming services in the U.S. 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a 2018 survey among Americans aged 16 and older regarding the 2018 as of 2018 . ",
+      "Some 81 % of the respondents stated that they used The_variety_of_music_available and . ",
+      "Overall , followed by Low_price_point and The_ability_to_listen_on_multiple_divices had Low_price_point at 80 and 68 % of surveyed adults ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "10": "0",
+         "12": "0"
+      },
+      {
+         "4": "1",
+         "6": "2",
+         "8": "1",
+         "10": "1",
+         "12": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "The variety of music available",
+         "Share of respondents": "81"
+      },
+      {
+         "Response": "Low price point",
+         "Share of respondents": "80"
+      },
+      {
+         "Response": "The ability to listen on multiple divices",
+         "Share of respondents": "68"
+      },
+      {
+         "Response": "Clean user interface",
+         "Share of respondents": "66"
+      },
+      {
+         "Response": "Good algorithms to find new music",
+         "Share of respondents": "58"
+      },
+      {
+         "Response": "The ability to combine your music library with your streaming service library",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "The ability to stream on smart home devices",
+         "Share of respondents": "57"
+      },
+      {
+         "Response": "Curated playlists",
+         "Share of respondents": "52"
+      },
+      {
+         "Response": "Artist exclusives",
+         "Share of respondents": "46"
+      }
+   ]
+}

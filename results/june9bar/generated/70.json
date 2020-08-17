@@ -1,0 +1,44 @@
+{
+   "title": "Terrorism - number of hostages taken by region",
+   "xAxis": "Country",
+   "yAxis": "Number of hostages taken",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of the hostages taken in as of 2020 , broken down by world region . ",
+      "As of that period , 2651 % of the Africa were followed region South_Asia ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "9": "0",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Africa",
+         "Number of hostages taken": "2651"
+      },
+      {
+         "Country": "South Asia",
+         "Number of hostages taken": "1748"
+      },
+      {
+         "Country": "Near East",
+         "Number of hostages taken": "1206"
+      },
+      {
+         "Country": "East Asia and Pacific",
+         "Number of hostages taken": "246"
+      },
+      {
+         "Country": "Western Hemisphere",
+         "Number of hostages taken": "190"
+      },
+      {
+         "Country": "Europe and Eurasia",
+         "Number of hostages taken": "9"
+      }
+   ]
+}

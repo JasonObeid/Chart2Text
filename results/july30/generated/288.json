@@ -1,0 +1,77 @@
+{
+   "title": "Semiconductor equipment manufacturers ' market share worldwide 1Q'17 to 2018",
+   "labels": [
+      "Year",
+      "Applied Materials",
+      "ASML",
+      "Lam Research",
+      "Tokyo Electron",
+      "KLA-Tencor",
+      "Screen Semiconductor",
+      "Hitachi High Tech",
+      "ASMI",
+      "Nova Measuring",
+      "Nanometrics",
+      "Rudolph Technology",
+      "Others"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This grouped bar chart has 3 categories for the x axis of Year representing Applied Materials, ASML, Lam Research, Tokyo Electron, KLA-Tencor, Screen Semiconductor, Hitachi High Tech, ASMI, Nova Measuring, Nanometrics, Rudolph Technology, Others.",
+      " The highest category is found at 1Q '18 with a mean value of 8.35.",
+      " The second highest category is found at 1Q '17 with a mean value of 8.333333333333334.",
+      " This represents a difference of 0.2%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Year": "2018",
+         "Applied Materials": "18.8",
+         "ASML": "17.6",
+         "Lam Research": "16.8",
+         "Tokyo Electron": "16.7",
+         "KLA-Tencor": "6.4",
+         "Screen Semiconductor": "2.1",
+         "Hitachi High Tech": "2.1",
+         "ASMI": "0",
+         "Nova Measuring": "0",
+         "Nanometrics": "0",
+         "Rudolph Technology": "0",
+         "Others": "19.4"
+      },
+      {
+         "Year": "1Q '18",
+         "Applied Materials": "17.7",
+         "ASML": "12.1",
+         "Lam Research": "14",
+         "Tokyo Electron": "15",
+         "KLA-Tencor": "4.4",
+         "Screen Semiconductor": "2.2",
+         "Hitachi High Tech": "1.8",
+         "ASMI": "0.9",
+         "Nova Measuring": "0.3",
+         "Nanometrics": "0.3",
+         "Rudolph Technology": "0.4",
+         "Others": "31.1"
+      },
+      {
+         "Year": "1Q '17",
+         "Applied Materials": "18.4",
+         "ASML": "9.9",
+         "Lam Research": "13.5",
+         "Tokyo Electron": "13.7",
+         "KLA-Tencor": "5.1",
+         "Screen Semiconductor": "2.1",
+         "Hitachi High Tech": "1.9",
+         "ASMI": "0.9",
+         "Nova Measuring": "0.3",
+         "Nanometrics": "0.3",
+         "Rudolph Technology": "0.4",
+         "Others": "33.5"
+      }
+   ]
+}

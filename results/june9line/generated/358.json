@@ -1,0 +1,66 @@
+{
+   "title": "Number of butcher shops and meat retailers in the United Kingdom ( UK ) 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of enterprises",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the degree of Number in United Kingdom from 2008 to 2018 and details the percentage of the entire enterprises , living in enterprises areas . ",
+      "In 2018 , 5690 % of the total enterprises in United Kingdom lived in cities ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of enterprises": "5690"
+      },
+      {
+         "Year": "2017",
+         "Number of enterprises": "5864"
+      },
+      {
+         "Year": "2016",
+         "Number of enterprises": "5929"
+      },
+      {
+         "Year": "2015",
+         "Number of enterprises": "5874"
+      },
+      {
+         "Year": "2014",
+         "Number of enterprises": "5940"
+      },
+      {
+         "Year": "2013",
+         "Number of enterprises": "6056"
+      },
+      {
+         "Year": "2012",
+         "Number of enterprises": "6134"
+      },
+      {
+         "Year": "2011",
+         "Number of enterprises": "6220"
+      },
+      {
+         "Year": "2010",
+         "Number of enterprises": "6283"
+      },
+      {
+         "Year": "2009",
+         "Number of enterprises": "6399"
+      },
+      {
+         "Year": "2008",
+         "Number of enterprises": "6633"
+      }
+   ]
+}

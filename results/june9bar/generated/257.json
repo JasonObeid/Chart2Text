@@ -1,0 +1,71 @@
+{
+   "title": "National Basketball Association all-time triple double leaders 1946 to 2020",
+   "xAxis": "Player",
+   "yAxis": "Number of triple doubles",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Number of the National Basketball Association all-time in the triple as of 2019 , leaders Player . ",
+      "In 1946 , there were 181 triple doubles in Oscar_Robertson ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Player": "Oscar Robertson",
+         "Number of triple doubles": "181"
+      },
+      {
+         "Player": "Russell Westbrook",
+         "Number of triple doubles": "146"
+      },
+      {
+         "Player": "Magic Johnson",
+         "Number of triple doubles": "138"
+      },
+      {
+         "Player": "Jason Kidd",
+         "Number of triple doubles": "107"
+      },
+      {
+         "Player": "LeBron James",
+         "Number of triple doubles": "92"
+      },
+      {
+         "Player": "Wilt Chamberlain",
+         "Number of triple doubles": "78"
+      },
+      {
+         "Player": "Larry Bird",
+         "Number of triple doubles": "59"
+      },
+      {
+         "Player": "James Harden",
+         "Number of triple doubles": "45"
+      },
+      {
+         "Player": "Fat Lever",
+         "Number of triple doubles": "43"
+      },
+      {
+         "Player": "Nikola Joki\u0107",
+         "Number of triple doubles": "39"
+      },
+      {
+         "Player": "Bob Cousy",
+         "Number of triple doubles": "33"
+      },
+      {
+         "Player": "Rajon Rondo",
+         "Number of triple doubles": "32"
+      },
+      {
+         "Player": "John Havlicek",
+         "Number of triple doubles": "31"
+      }
+   ]
+}

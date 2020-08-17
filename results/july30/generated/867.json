@@ -1,0 +1,58 @@
+{
+   "title": "Most popular leisure activities among adults in the U.S. 2013\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Watch_TV where Share of respondents is 42.0.",
+      " The lowest category is found at Gardening where Share of respondents is 7.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "Response": "Watch TV",
+         "Share of respondents": 42.0
+      },
+      {
+         "Response": "Reading",
+         "Share of respondents": 37.0
+      },
+      {
+         "Response": "Computer/internet",
+         "Share of respondents": 19.0
+      },
+      {
+         "Response": "Spending time with family and friends",
+         "Share of respondents": 18.0
+      },
+      {
+         "Response": "Watching/going to the movies",
+         "Share of respondents": 11.0
+      },
+      {
+         "Response": "Exercise/working out",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Playing video games and computer/internet games",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Walking/running/jogging",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "Gardening",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Concerts/listening to/playing music",
+         "Share of respondents": 7.0
+      }
+   ]
+}

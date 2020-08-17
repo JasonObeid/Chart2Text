@@ -1,0 +1,59 @@
+{
+   "title": "Leading brands in the Netherlands 2018 , ranked by Buzz score",
+   "xAxis": "Platform",
+   "yAxis": "Buzz score",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the Leading brands Netherlands networking ranked in the by as of 2019 , ranked Buzz . ",
+      "During the measured period , it was found that 21.9 % of the Albert_Heijn had a second most popular brands ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "9",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Samsung",
+         "Buzz score": "47.7"
+      },
+      {
+         "Platform": "Albert Heijn",
+         "Buzz score": "46.8"
+      },
+      {
+         "Platform": "Philips",
+         "Buzz score": "38.6"
+      },
+      {
+         "Platform": "Google",
+         "Buzz score": "37.9"
+      },
+      {
+         "Platform": "Lidl",
+         "Buzz score": "34.8"
+      },
+      {
+         "Platform": "Jumbo",
+         "Buzz score": "33.8"
+      },
+      {
+         "Platform": "YouTube",
+         "Buzz score": "33.5"
+      },
+      {
+         "Platform": "Sony",
+         "Buzz score": "28.9"
+      },
+      {
+         "Platform": "Wikipedia",
+         "Buzz score": "25.4"
+      },
+      {
+         "Platform": "Bose",
+         "Buzz score": "21.9"
+      }
+   ]
+}

@@ -1,0 +1,152 @@
+{
+   "title": "Number of choking-deaths in the U.S. 1945 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of deaths, with a total of 30 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2011 to 2006.",
+      " Conversely, the next significant trend is  negative which exists from 1985 to 1965."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 7,
+         "end": 12,
+         "trend": "y=73.2x+-142573.87",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 21,
+         "end": 25,
+         "trend": "y=78.52x+-152178.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of deaths": 5084.0
+      },
+      {
+         "Year": "2017",
+         "Number of deaths": 5216.0
+      },
+      {
+         "Year": "2016",
+         "Number of deaths": 4829.0
+      },
+      {
+         "Year": "2015",
+         "Number of deaths": 5051.0
+      },
+      {
+         "Year": "2014",
+         "Number of deaths": 4816.0
+      },
+      {
+         "Year": "2013",
+         "Number of deaths": 4864.0
+      },
+      {
+         "Year": "2012",
+         "Number of deaths": 4634.0
+      },
+      {
+         "Year": "2011",
+         "Number of deaths": 4708.0
+      },
+      {
+         "Year": "2010",
+         "Number of deaths": 4570.0
+      },
+      {
+         "Year": "2009",
+         "Number of deaths": 4370.0
+      },
+      {
+         "Year": "2008",
+         "Number of deaths": 4366.0
+      },
+      {
+         "Year": "2007",
+         "Number of deaths": 4344.0
+      },
+      {
+         "Year": "2006",
+         "Number of deaths": 4332.0
+      },
+      {
+         "Year": "2005",
+         "Number of deaths": 4386.0
+      },
+      {
+         "Year": "2004",
+         "Number of deaths": 4470.0
+      },
+      {
+         "Year": "2003",
+         "Number of deaths": 4272.0
+      },
+      {
+         "Year": "2002",
+         "Number of deaths": 4128.0
+      },
+      {
+         "Year": "2001",
+         "Number of deaths": 4185.0
+      },
+      {
+         "Year": "2000",
+         "Number of deaths": 4313.0
+      },
+      {
+         "Year": "1995",
+         "Number of deaths": 3185.0
+      },
+      {
+         "Year": "1990",
+         "Number of deaths": 3303.0
+      },
+      {
+         "Year": "1985",
+         "Number of deaths": 3551.0
+      },
+      {
+         "Year": "1980",
+         "Number of deaths": 3249.0
+      },
+      {
+         "Year": "1975",
+         "Number of deaths": 3106.0
+      },
+      {
+         "Year": "1970",
+         "Number of deaths": 2753.0
+      },
+      {
+         "Year": "1965",
+         "Number of deaths": 1836.0
+      },
+      {
+         "Year": "1960",
+         "Number of deaths": 2397.0
+      },
+      {
+         "Year": "1955",
+         "Number of deaths": 1608.0
+      },
+      {
+         "Year": "1950",
+         "Number of deaths": 1350.0
+      },
+      {
+         "Year": "1945",
+         "Number of deaths": 897.0
+      }
+   ]
+}

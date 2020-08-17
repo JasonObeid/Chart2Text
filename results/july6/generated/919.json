@@ -1,0 +1,40 @@
+{
+   "title": "Welsh Assembly elections : turnout rates 1999 to 2011",
+   "xAxis": "Year",
+   "yAxis": "Turnout rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic offers insights regarding the level of 2011 in the Welsh Assembly Assembly elections and turnout rates rate . ",
+      "In 2011 , the 2003 1999 accounted for 38.2 % of the rate 's total rate . ",
+      "In 2015 , the rate of the Welsh Assembly Assembly picture/video rates and distribution rate reached 64.43 million Welsh Assembly dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "3",
+         "4": "1",
+         "5": "0",
+         "8": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "1999",
+         "Turnout rate": "46.4"
+      },
+      {
+         "Year": "2003",
+         "Turnout rate": "38.2"
+      },
+      {
+         "Year": "2007",
+         "Turnout rate": "43.5"
+      },
+      {
+         "Year": "2011",
+         "Turnout rate": "41.8"
+      }
+   ]
+}

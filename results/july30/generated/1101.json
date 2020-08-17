@@ -1,0 +1,38 @@
+{
+   "title": "Leading 5 selling countries of IKEA products 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Sales share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Country, and a y axis representing Sales share.",
+      " The highest category is found at Germany where Sales share is 15.0.",
+      " The lowest category is found at United_Kingdom where Sales share is 6.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Country": "Germany",
+         "Sales share": 15.0
+      },
+      {
+         "Country": "United States",
+         "Sales share": 13.0
+      },
+      {
+         "Country": "France",
+         "Sales share": 8.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Sales share": 6.0
+      },
+      {
+         "Country": "China",
+         "Sales share": 6.0
+      }
+   ]
+}

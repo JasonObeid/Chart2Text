@@ -1,0 +1,75 @@
+{
+   "title": "Average size of households in China 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of persons",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of China from 1990 to 2018 . ",
+      "Global hotel company China Corporation generated approximately 3.03 persons in Number 2018 ."
+   ],
+   "trends": [
+      {
+         "8": "12",
+         "10": "0"
+      },
+      {
+         "7": "0",
+         "8": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of persons": "3.03"
+      },
+      {
+         "Year": "2017",
+         "Number of persons": "3.17"
+      },
+      {
+         "Year": "2016",
+         "Number of persons": "3.11"
+      },
+      {
+         "Year": "2015",
+         "Number of persons": "3.1"
+      },
+      {
+         "Year": "2014",
+         "Number of persons": "2.97"
+      },
+      {
+         "Year": "2013",
+         "Number of persons": "2.98"
+      },
+      {
+         "Year": "2012",
+         "Number of persons": "3.02"
+      },
+      {
+         "Year": "2011",
+         "Number of persons": "2.87"
+      },
+      {
+         "Year": "2010",
+         "Number of persons": "2.88"
+      },
+      {
+         "Year": "2009",
+         "Number of persons": "2.89"
+      },
+      {
+         "Year": "2000",
+         "Number of persons": "3.13"
+      },
+      {
+         "Year": "1995",
+         "Number of persons": "3.23"
+      },
+      {
+         "Year": "1990",
+         "Number of persons": "3.5"
+      }
+   ]
+}

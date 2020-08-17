@@ -1,0 +1,69 @@
+{
+   "title": "Number of Dollarama stores Canada by province 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "Ontario Vecchio , founder of the eyewear company Luxottica , podiumed in the yearly Dollarama of Italian billionaires , published by the American business magazine Dollarama . ",
+      "With the total net worth estimated at 503 million stores , Ontario put ahead other Italian entrepreneurs - Qu\u00e9bec , the CEO of the Italian confectionary company Qu\u00e9bec and the fashion designer Alberta , whose fortunes reached respectively 344 and 107 million stores . ",
+      "Largest eyewear company in the world Luxottica is the largest company in the eyewear sector worldwide ."
+   ],
+   "trends": [
+      {
+         "0": "0"
+      },
+      {
+         "7": "0",
+         "11": "0",
+         "18": "1",
+         "27": "1",
+         "32": "2",
+         "38": "1",
+         "40": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of stores": "503"
+      },
+      {
+         "Month": "Qu\u00e9bec",
+         "Number of stores": "344"
+      },
+      {
+         "Month": "Alberta",
+         "Number of stores": "107"
+      },
+      {
+         "Month": "British Columbia",
+         "Number of stores": "102"
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of stores": "39"
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of stores": "38"
+      },
+      {
+         "Month": "Manitoba",
+         "Number of stores": "37"
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of stores": "31"
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of stores": "19"
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of stores": "5"
+      }
+   ]
+}

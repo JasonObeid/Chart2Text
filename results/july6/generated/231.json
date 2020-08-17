@@ -1,0 +1,56 @@
+{
+   "title": "Ford 's vehicle sales market share in the U.S. 2003 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Ford 's vehicle sales scores of Ford in the share from 2003 to 2019 . ",
+      "Ford had an Market share of 14.08 in 2019 , down from 14.29 points the previous Year ."
+   ],
+   "trends": [
+      {
+         "15": "7",
+         "17": "0"
+      },
+      {
+         "6": "0",
+         "8": "0",
+         "12": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Market share": "14.08"
+      },
+      {
+         "Year": "2018",
+         "Market share": "14.29"
+      },
+      {
+         "Year": "2016",
+         "Market share": "14.8"
+      },
+      {
+         "Year": "2012",
+         "Market share": "15.22"
+      },
+      {
+         "Year": "2009",
+         "Market share": "15.29"
+      },
+      {
+         "Year": "2006",
+         "Market share": "16.04"
+      },
+      {
+         "Year": "2005",
+         "Market share": "17.01"
+      },
+      {
+         "Year": "2003",
+         "Market share": "19.19"
+      }
+   ]
+}

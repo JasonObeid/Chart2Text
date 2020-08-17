@@ -1,0 +1,80 @@
+{
+   "title": "Number of visitors to the World War II Memorial in the U.S. 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of visitors in millions, with a total of 12 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2011 to 2008.",
+      " Also, the next significant trend is  negative which exists from 2015 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 8,
+         "end": 11,
+         "trend": "y=-0.14x+277.29",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 4,
+         "end": 6,
+         "trend": "y=0.57x+-1143.57",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": 4.83
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": 4.65
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": 4.88
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": 4.86
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": 5.07
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": 4.23
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": 3.93
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": 4.16
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": 3.75
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": 3.96
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": 4.12
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": 4.15
+      }
+   ]
+}

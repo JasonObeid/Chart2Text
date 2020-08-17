@@ -1,0 +1,56 @@
+{
+   "title": "Number of visitors to the Centre Pompidou in Paris from 2007 to 2013",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The Number of the Italian high-end jewelry company Paris increased almost twofold from 2007 to 2013 . ",
+      "The peak was reached in 2008 , when Paris 's annual Number amounted to approximately 3.8 millions . ",
+      "In 2013 the Number decreased to 2.7 millions ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "15": "6"
+      },
+      {
+         "5": "1",
+         "15": "5"
+      },
+      {
+         "1": "6",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2007",
+         "Number of visitors in millions": "2.7"
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": "2.75"
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": "3.53"
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": "3.13"
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": "3.61"
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": "3.8"
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": "3.75"
+      }
+   ]
+}

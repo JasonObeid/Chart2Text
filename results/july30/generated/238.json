@@ -1,0 +1,73 @@
+{
+   "title": "Domestic travel spending in France 2012 to 2028\n",
+   "xAxis": "Year",
+   "yAxis": "Spending in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Spending in billion euros, with a total of 8 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2028 to 2015.",
+      " On the other hand, the next significant trend is  negative which exists from 2014 to 2012.",
+      " Differently, the next significant trend is  positive which exists from 2015 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=1.75x+-3410.46",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 5,
+         "end": 7,
+         "trend": "y=0.55x+-999.48",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 4,
+         "end": 5,
+         "trend": "y=-0.2x+511.1",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2028",
+         "Spending in billion euros": 131.4
+      },
+      {
+         "Year": "2018",
+         "Spending in billion euros": 114.9
+      },
+      {
+         "Year": "2017",
+         "Spending in billion euros": 112.3
+      },
+      {
+         "Year": "2016",
+         "Spending in billion euros": 110.9
+      },
+      {
+         "Year": "2015",
+         "Spending in billion euros": 108.1
+      },
+      {
+         "Year": "2014",
+         "Spending in billion euros": 108.3
+      },
+      {
+         "Year": "2013",
+         "Spending in billion euros": 107.5
+      },
+      {
+         "Year": "2012",
+         "Spending in billion euros": 107.2
+      }
+   ]
+}

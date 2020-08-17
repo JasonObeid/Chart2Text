@@ -1,0 +1,38 @@
+{
+   "title": "Share of U.S. nickel imports by country 2015 to 2018",
+   "xAxis": "Country of origin",
+   "yAxis": "Share of nickel imports",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share U.S. nickel imports by in the United Kingdom ( U.S. ) in 2015 . ",
+      "In 2015 , around 41 % of internet users had been using Share U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country of origin": "Other",
+         "Share of nickel imports": "32"
+      },
+      {
+         "Country of origin": "Finland",
+         "Share of nickel imports": "8"
+      },
+      {
+         "Country of origin": "Australia",
+         "Share of nickel imports": "8"
+      },
+      {
+         "Country of origin": "Norway",
+         "Share of nickel imports": "11"
+      },
+      {
+         "Country of origin": "Canada",
+         "Share of nickel imports": "41"
+      }
+   ]
+}

@@ -1,0 +1,40 @@
+{
+   "title": "Countries with the lowest proportion of soccer players in 2010",
+   "xAxis": "Country",
+   "yAxis": "Proportion of soccer players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Countries lowest proportion soccer Countries in 2010 . ",
+      "In 2010 , the most important lowest partner soccer Countries was North_Korea , accounting soccer 4.1 % of all players ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "15": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "North Korea",
+         "Proportion of soccer players": "2.2"
+      },
+      {
+         "Country": "South Korea",
+         "Proportion of soccer players": "2.3"
+      },
+      {
+         "Country": "Japan",
+         "Proportion of soccer players": "3.8"
+      },
+      {
+         "Country": "Ivory Coast",
+         "Proportion of soccer players": "3.9"
+      },
+      {
+         "Country": "Ghana",
+         "Proportion of soccer players": "4.1"
+      }
+   ]
+}

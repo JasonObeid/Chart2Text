@@ -1,0 +1,70 @@
+{
+   "title": "eBay : annual net revenue 2017 - 2019 , by category",
+   "labels": [
+      "Month",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the leading eBay net based on revenue 2017 from 2014 to 2019 . ",
+      "In Marketplace_-_net_transaction_revenues , some 234.7 million pounds of revenue were produced in 2019 . ",
+      "China was the biggest revenue producer worldwide in that year ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Marketplace - net transaction revenues",
+         "2017": "6809",
+         "2018": "7416",
+         "2019": "7578"
+      },
+      {
+         "Month": "Marketplace - marketing services and other revenues",
+         "2017": "1192",
+         "2018": "1225",
+         "2019": "1060"
+      },
+      {
+         "Month": "[TOTAL] Marketplace",
+         "2017": "8001",
+         "2018": "8641",
+         "2019": "8638"
+      },
+      {
+         "Month": "StubHub - net transaction revenues",
+         "2017": "1011",
+         "2018": "1068",
+         "2019": "1057"
+      },
+      {
+         "Month": "StubHub - marketing services and other revenues",
+         "2017": "18",
+         "2018": "15",
+         "2019": "64"
+      },
+      {
+         "Month": "[TOTAL] StubHub",
+         "2017": "1029",
+         "2018": "1083",
+         "2019": "1121"
+      },
+      {
+         "Month": "[TOTAL] Classifieds",
+         "2017": "897",
+         "2018": "1022",
+         "2019": "1061"
+      }
+   ]
+}

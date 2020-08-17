@@ -1,0 +1,55 @@
+{
+   "title": "Number of employees at S & P\\xa0Global 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the Number of employees S , and S for the fiscal years 2012 to 2019 . ",
+      "The Number of employees at S , and S reached a high in 2017 with 20.4 employed at the S that Year ."
+   ],
+   "trends": [
+      {
+         "18": "7",
+         "20": "0"
+      },
+      {
+         "15": "2",
+         "17": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of employees in thousands": "23.0"
+      },
+      {
+         "Year": "2018",
+         "Number of employees in thousands": "21.0"
+      },
+      {
+         "Year": "2017",
+         "Number of employees in thousands": "20.4"
+      },
+      {
+         "Year": "2016",
+         "Number of employees in thousands": "20.0"
+      },
+      {
+         "Year": "2015",
+         "Number of employees in thousands": "20.4"
+      },
+      {
+         "Year": "2014",
+         "Number of employees in thousands": "17.0"
+      },
+      {
+         "Year": "2013",
+         "Number of employees in thousands": "16.4"
+      },
+      {
+         "Year": "2012",
+         "Number of employees in thousands": "15.9"
+      }
+   ]
+}

@@ -1,0 +1,71 @@
+{
+   "title": "Vending machines : sales volume of vended products 2010",
+   "xAxis": "Year",
+   "yAxis": "Vended volume (in billion U.S. dollars)",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Vending Vended sales volume device vended from 1999 to 2010 . ",
+      "In 2010 , the Vending Vended sales volume vended stood at 46.8 volume (in billion U.S. dollars) ."
+   ],
+   "trends": [
+      {
+         "11": "0",
+         "13": "11"
+      },
+      {
+         "1": "11",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1999",
+         "Vended volume (in billion U.S. dollars)": "36.6"
+      },
+      {
+         "Year": "2000",
+         "Vended volume (in billion U.S. dollars)": "38.7"
+      },
+      {
+         "Year": "2001",
+         "Vended volume (in billion U.S. dollars)": "41.0"
+      },
+      {
+         "Year": "2002",
+         "Vended volume (in billion U.S. dollars)": "41.1"
+      },
+      {
+         "Year": "2003",
+         "Vended volume (in billion U.S. dollars)": "42.2"
+      },
+      {
+         "Year": "2004",
+         "Vended volume (in billion U.S. dollars)": "44.2"
+      },
+      {
+         "Year": "2005",
+         "Vended volume (in billion U.S. dollars)": "46.0"
+      },
+      {
+         "Year": "2006",
+         "Vended volume (in billion U.S. dollars)": "46.8"
+      },
+      {
+         "Year": "2007",
+         "Vended volume (in billion U.S. dollars)": "47.5"
+      },
+      {
+         "Year": "2008",
+         "Vended volume (in billion U.S. dollars)": "45.6"
+      },
+      {
+         "Year": "2009",
+         "Vended volume (in billion U.S. dollars)": "42.9"
+      },
+      {
+         "Year": "2010",
+         "Vended volume (in billion U.S. dollars)": "42.2"
+      }
+   ]
+}

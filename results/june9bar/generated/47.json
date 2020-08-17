@@ -1,0 +1,52 @@
+{
+   "title": "Video game systems : U.S. installed base in 2017 , by platform",
+   "xAxis": "Console",
+   "yAxis": "Installed base in millions",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Installed of Video game systems U.S. installed in the Video as of 2019 , 2017 Console . ",
+      "In 2017 , there were Video game systems time ."
+   ],
+   "trends": [
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Console": "Xbox One S",
+         "Installed base in millions": "9"
+      },
+      {
+         "Console": "Xbox One",
+         "Installed base in millions": "12"
+      },
+      {
+         "Console": "Xbox 360",
+         "Installed base in millions": "21"
+      },
+      {
+         "Console": "Xbox",
+         "Installed base in millions": "5"
+      },
+      {
+         "Console": "PlayStation 4",
+         "Installed base in millions": "10"
+      },
+      {
+         "Console": "PlayStation 3",
+         "Installed base in millions": "13"
+      },
+      {
+         "Console": "PlayStation 2",
+         "Installed base in millions": "14"
+      },
+      {
+         "Console": "Wii U",
+         "Installed base in millions": "6"
+      },
+      {
+         "Console": "Wii",
+         "Installed base in millions": "16"
+      }
+   ]
+}

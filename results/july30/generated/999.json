@@ -1,0 +1,26 @@
+{
+   "title": "Rocket League sales revenue worldwide 2016\n",
+   "xAxis": "Month",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Month, and a y axis representing Revenue in million U.S. dollars.",
+      " The highest category is found at June_2016 where Revenue in million U.S. dollars is 110.0.",
+      " The lowest category is found at December_2015 where Revenue in million U.S. dollars is 70.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Month": "June 2016",
+         "Revenue in million U.S. dollars": 110.0
+      },
+      {
+         "Month": "December 2015",
+         "Revenue in million U.S. dollars": 70.0
+      }
+   ]
+}

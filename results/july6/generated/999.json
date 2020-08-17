@@ -1,0 +1,71 @@
+{
+   "title": "Average prices for aluminum worldwide from 2014 to 2025",
+   "xAxis": "Year",
+   "yAxis": "Price in nominal U.S. dollars per metric ton",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Average annual prices for aluminum worldwide 2014 through 2025 . ",
+      "In 2018 , the Average Price for aluminum worldwide stood at 2108 nominal U.S. dollars per metric ton ."
+   ],
+   "trends": [
+      {
+         "11": "11",
+         "13": "0"
+      },
+      {
+         "1": "7",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2025",
+         "Price in nominal U.S. dollars per metric ton": "1968"
+      },
+      {
+         "Year": "2024",
+         "Price in nominal U.S. dollars per metric ton": "1924"
+      },
+      {
+         "Year": "2023",
+         "Price in nominal U.S. dollars per metric ton": "1882"
+      },
+      {
+         "Year": "2022",
+         "Price in nominal U.S. dollars per metric ton": "1840"
+      },
+      {
+         "Year": "2021",
+         "Price in nominal U.S. dollars per metric ton": "1800"
+      },
+      {
+         "Year": "2020",
+         "Price in nominal U.S. dollars per metric ton": "1760"
+      },
+      {
+         "Year": "2019",
+         "Price in nominal U.S. dollars per metric ton": "1790"
+      },
+      {
+         "Year": "2018",
+         "Price in nominal U.S. dollars per metric ton": "2108"
+      },
+      {
+         "Year": "2017",
+         "Price in nominal U.S. dollars per metric ton": "1968"
+      },
+      {
+         "Year": "2016",
+         "Price in nominal U.S. dollars per metric ton": "1604"
+      },
+      {
+         "Year": "2015",
+         "Price in nominal U.S. dollars per metric ton": "1665"
+      },
+      {
+         "Year": "2014",
+         "Price in nominal U.S. dollars per metric ton": "1867"
+      }
+   ]
+}

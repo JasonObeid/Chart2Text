@@ -1,0 +1,51 @@
+{
+   "title": "First sexual intercourse in Italy 2017 , by age",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the result of a survey question designed to find out what is First sexual to 2017 by ( age - ) in Italy , as of 2013 . ",
+      "The majority of respondents said that their Under_14_years_old is the First sexual thing to them ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Under 14 years old",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Between 14 and 16 years old",
+         "Share of respondents": "13.1"
+      },
+      {
+         "Response": "Between 17 and 20 years old",
+         "Share of respondents": "40.1"
+      },
+      {
+         "Response": "Between 20 and 25 years old",
+         "Share of respondents": "22.7"
+      },
+      {
+         "Response": "Between 25 and 30 years old",
+         "Share of respondents": "6.8"
+      },
+      {
+         "Response": "Over 30 years old",
+         "Share of respondents": "1.5"
+      },
+      {
+         "Response": "I have never had sex",
+         "Share of respondents": "3.3"
+      },
+      {
+         "Response": "Doesn't answer",
+         "Share of respondents": "10.5"
+      }
+   ]
+}

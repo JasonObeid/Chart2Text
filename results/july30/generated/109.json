@@ -1,0 +1,34 @@
+{
+   "title": "Organ donation rate in the United Kingdom 2018/19 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Rate of donation per million population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Country, and a y axis representing Rate of donation per million population.",
+      " The highest category is found at Wales where Rate of donation per million population is 30.7.",
+      " The lowest category is found at Scotland where Rate of donation per million population is 17.9."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Country": "Scotland",
+         "Rate of donation per million population": 17.9
+      },
+      {
+         "Country": "Northern Ireland",
+         "Rate of donation per million population": 23.0
+      },
+      {
+         "Country": "England",
+         "Rate of donation per million population": 24.5
+      },
+      {
+         "Country": "Wales",
+         "Rate of donation per million population": 30.7
+      }
+   ]
+}

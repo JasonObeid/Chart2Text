@@ -1,0 +1,100 @@
+{
+   "title": "Monthly inflation rate in Euro area countries June 2019",
+   "xAxis": "Country",
+   "yAxis": "Inflation rate compared to previous year",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Inflation rate in the Finland area in countries 2019 . ",
+      "Inflation or currency devaluation ( drop in the value of money ) , is characterized by a steady rise in the prices of finished products ( consumer goods , capital goods ) . ",
+      "The consumer price index tracks price trends of private consumption expenditure , and shows an increase in the indexes current level of Inflation ."
+   ],
+   "trends": [
+      {
+         "8": "14"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Latvia",
+         "Inflation rate compared to previous year": "3.1"
+      },
+      {
+         "Country": "Slowakia",
+         "Inflation rate compared to previous year": "2.7"
+      },
+      {
+         "Country": "Netherlands",
+         "Inflation rate compared to previous year": "2.7"
+      },
+      {
+         "Country": "Estonia",
+         "Inflation rate compared to previous year": "2.6"
+      },
+      {
+         "Country": "Lithuania",
+         "Inflation rate compared to previous year": "2.4"
+      },
+      {
+         "Country": "Slovenia",
+         "Inflation rate compared to previous year": "1.9"
+      },
+      {
+         "Country": "Malta",
+         "Inflation rate compared to previous year": "1.8"
+      },
+      {
+         "Country": "Austria",
+         "Inflation rate compared to previous year": "1.6"
+      },
+      {
+         "Country": "Luxembourg",
+         "Inflation rate compared to previous year": "1.5"
+      },
+      {
+         "Country": "Germany",
+         "Inflation rate compared to previous year": "1.5"
+      },
+      {
+         "Country": "France",
+         "Inflation rate compared to previous year": "1.4"
+      },
+      {
+         "Country": "Belgium",
+         "Inflation rate compared to previous year": "1.3"
+      },
+      {
+         "Country": "Euro area",
+         "Inflation rate compared to previous year": "1.3"
+      },
+      {
+         "Country": "Ireland",
+         "Inflation rate compared to previous year": "1.1"
+      },
+      {
+         "Country": "Finland",
+         "Inflation rate compared to previous year": "1.1"
+      },
+      {
+         "Country": "Italy",
+         "Inflation rate compared to previous year": "0.8"
+      },
+      {
+         "Country": "Portugal",
+         "Inflation rate compared to previous year": "0.7"
+      },
+      {
+         "Country": "Spain",
+         "Inflation rate compared to previous year": "0.6"
+      },
+      {
+         "Country": "Cyprus",
+         "Inflation rate compared to previous year": "0.3"
+      },
+      {
+         "Country": "Greece",
+         "Inflation rate compared to previous year": "0.2"
+      }
+   ]
+}

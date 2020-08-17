@@ -1,0 +1,51 @@
+{
+   "title": "Prevalence of smoking for males Singapore 2010 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Adult male smoking rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the forecasted Singapore of males in the Singapore ( ) from 2010 to 2016 , in Adult male smoking rate . ",
+      "The Singapore of males is expected to increase 28.3 Adult male in 2016 ."
+   ],
+   "trends": [
+      {
+         "15": "6",
+         "17": "0"
+      },
+      {
+         "9": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Adult male smoking rate": "28.3"
+      },
+      {
+         "Year": "2015",
+         "Adult male smoking rate": "28.2"
+      },
+      {
+         "Year": "2014",
+         "Adult male smoking rate": "28.2"
+      },
+      {
+         "Year": "2013",
+         "Adult male smoking rate": "28.2"
+      },
+      {
+         "Year": "2012",
+         "Adult male smoking rate": "27.8"
+      },
+      {
+         "Year": "2011",
+         "Adult male smoking rate": "27.9"
+      },
+      {
+         "Year": "2010",
+         "Adult male smoking rate": "27.9"
+      }
+   ]
+}

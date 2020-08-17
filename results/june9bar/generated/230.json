@@ -1,0 +1,85 @@
+{
+   "title": "General practitioners practicing in Europe in 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of employees",
+   "graphType": "bar",
+   "summary": [
+      "In 2017 , there were over 60214 thousand practicing General in France , the highest Number recorded in Europe . ",
+      "Followed by Germany with almost 58170 thousand General and then United_Kingdom with around 43.1 thousand . ",
+      "As these countries have some of the highest populations in the European Union , it is follows that they have the highest Number of practicing General ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "11": "0"
+      },
+      {
+         "2": "1",
+         "5": "1",
+         "10": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "France",
+         "Number of employees": "60214"
+      },
+      {
+         "Country": "Germany",
+         "Number of employees": "58170"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of employees": "49824"
+      },
+      {
+         "Country": "Italy",
+         "Number of employees": "43731"
+      },
+      {
+         "Country": "Spain",
+         "Number of employees": "35378"
+      },
+      {
+         "Country": "Portugal",
+         "Number of employees": "24248"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of employees": "14641"
+      },
+      {
+         "Country": "Belgium",
+         "Number of employees": "12992"
+      },
+      {
+         "Country": "Poland",
+         "Number of employees": "8418"
+      },
+      {
+         "Country": "Austria",
+         "Number of employees": "6637"
+      },
+      {
+         "Country": "Ireland",
+         "Number of employees": "3942"
+      },
+      {
+         "Country": "Greece",
+         "Number of employees": "3647"
+      },
+      {
+         "Country": "Slovenia",
+         "Number of employees": "1237"
+      },
+      {
+         "Country": "Estonia",
+         "Number of employees": "937"
+      },
+      {
+         "Country": "Luxembourg",
+         "Number of employees": "534"
+      }
+   ]
+}

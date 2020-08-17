@@ -1,0 +1,107 @@
+{
+   "title": "Unemployment rate in Indonesia 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Indonesia from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Indonesia was at approximately 4.38 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "4.38"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "4.3"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "4.19"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "4.3"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "4.51"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "4.05"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "4.34"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "4.47"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "5.15"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "5.61"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "6.11"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "7.21"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "8.06"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "7.55"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "7.95"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "7.3"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "6.66"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "6.6"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "6.08"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "6.08"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "6.3"
+      }
+   ]
+}

@@ -1,0 +1,60 @@
+{
+   "title": "Most visited restaurant chains in the last year in the United Kingdom ( UK ) 2016",
+   "xAxis": "Cuisine types",
+   "yAxis": "Share of consumers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Cuisine visited programs with the most consumers in the United Kingdom visited Share ( Madness , Big Dance ) . ",
+      "The visited team of Nando's has participated 21 times in the Share up to 2016 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "3",
+         "7": "2"
+      }
+   ],
+   "data": [
+      {
+         "Cuisine types": "Pizza Hut",
+         "Share of consumers": "23"
+      },
+      {
+         "Cuisine types": "Frankie & Benny's",
+         "Share of consumers": "22"
+      },
+      {
+         "Cuisine types": "Pizza Express",
+         "Share of consumers": "21"
+      },
+      {
+         "Cuisine types": "Nando's",
+         "Share of consumers": "20"
+      },
+      {
+         "Cuisine types": "TGI Fridays",
+         "Share of consumers": "14"
+      },
+      {
+         "Cuisine types": "Beefeater Grill",
+         "Share of consumers": "13"
+      },
+      {
+         "Cuisine types": "Bella Italia",
+         "Share of consumers": "12"
+      },
+      {
+         "Cuisine types": "Wagamama",
+         "Share of consumers": "11"
+      },
+      {
+         "Cuisine types": "Cafe Rouge",
+         "Share of consumers": "10"
+      },
+      {
+         "Cuisine types": "Prezzo",
+         "Share of consumers": "9"
+      }
+   ]
+}

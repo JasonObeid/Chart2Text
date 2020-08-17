@@ -1,0 +1,58 @@
+{
+   "title": "Leading FMCG brands in the United Kingdom ( UK ) 2018 , by consumer reach\n",
+   "xAxis": "Food Groups",
+   "yAxis": "Consumer Reach Points in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Food Groups, and a y axis representing Consumer Reach Points in millions.",
+      " The highest category is found at Warburtons where Consumer Reach Points in millions is 514.0.",
+      " The lowest category is found at Birds_Eye where Consumer Reach Points in millions is 172.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Food Groups": "Warburtons",
+         "Consumer Reach Points in millions": 514.0
+      },
+      {
+         "Food Groups": "Heinz",
+         "Consumer Reach Points in millions": 367.0
+      },
+      {
+         "Food Groups": "Mc Vitie's",
+         "Consumer Reach Points in millions": 284.0
+      },
+      {
+         "Food Groups": "Hovis",
+         "Consumer Reach Points in millions": 274.0
+      },
+      {
+         "Food Groups": "Walkers",
+         "Consumer Reach Points in millions": 270.0
+      },
+      {
+         "Food Groups": "Coca-Cola",
+         "Consumer Reach Points in millions": 232.0
+      },
+      {
+         "Food Groups": "Kingsmill",
+         "Consumer Reach Points in millions": 222.0
+      },
+      {
+         "Food Groups": "Muller",
+         "Consumer Reach Points in millions": 217.0
+      },
+      {
+         "Food Groups": "Cadbury's Dairy Milk",
+         "Consumer Reach Points in millions": 181.0
+      },
+      {
+         "Food Groups": "Birds Eye",
+         "Consumer Reach Points in millions": 172.0
+      }
+   ]
+}

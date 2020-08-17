@@ -1,0 +1,60 @@
+{
+   "title": "Forecast major categories of U.S. healthcare expenditures 2015 to 2020",
+   "labels": [
+      "unknown",
+      "2015",
+      "2020"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the U.S. major categories U.S. in 2015 and 2020 , healthcare expenditures 2015 . ",
+      "Prescription_drugs and Prescription_drugs had a 2015 of 442050 % in the global U.S. major categories in 2015 . ",
+      "This expenditures is estimated to increase 702550 million healthcare 2020 ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": [
+            "2",
+            "0"
+         ],
+         "2": [
+            "2",
+            "0"
+         ],
+         "7": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "unknown": "U.S. GDP",
+         "2015": "17722000",
+         "2020": "22145000"
+      },
+      {
+         "unknown": "Total health spending",
+         "2015": "3544400",
+         "2020": "5204100"
+      },
+      {
+         "unknown": "Prescription drugs",
+         "2015": "442050",
+         "2020": "702550"
+      },
+      {
+         "unknown": "Hospital care",
+         "2015": "1134200",
+         "2020": "1665300"
+      },
+      {
+         "unknown": "MD & outpatient",
+         "2015": "673000",
+         "2020": "936700"
+      }
+   ]
+}

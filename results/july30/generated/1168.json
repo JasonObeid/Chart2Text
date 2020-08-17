@@ -1,0 +1,121 @@
+{
+   "title": "Poverty risk rate in Belgium 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "At-risk-of-poverty rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing At-risk-of-poverty rate, with a total of 11 data points. The chart has 7 significant trends.",
+      " The longest trend is  negative which exists from 2018 to 2015.",
+      " But, the next significant trend is  neutral which exists from 2010 to 2008.",
+      " But, the next significant trend is  positive which exists from 2015 to 2014.",
+      " Likewise, the next significant trend is  negative which exists from 2014 to 2013.",
+      " But, the next significant trend is  positive which exists from 2013 to 2012.",
+      " Similarly, the next significant trend is  neutral which exists from 2012 to 2011.",
+      " Similarly, the next significant trend is  negative which exists from 2011 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=0.49x+-972.41",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 8,
+         "end": 10,
+         "trend": "y=-0.05x+115.08",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 3,
+         "end": 4,
+         "trend": "y=-0.6x+1223.9",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 4,
+         "end": 5,
+         "trend": "y=0.4x+-790.1",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 5,
+         "end": 6,
+         "trend": "y=-0.2x+417.7",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 6,
+         "end": 7,
+         "trend": "y=0.0x+15.3",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 7,
+         "end": 8,
+         "trend": "y=0.7x+-1392.4",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "At-risk-of-poverty rate": 16.4
+      },
+      {
+         "Year": "2017",
+         "At-risk-of-poverty rate": 15.9
+      },
+      {
+         "Year": "2016",
+         "At-risk-of-poverty rate": 15.5
+      },
+      {
+         "Year": "2015",
+         "At-risk-of-poverty rate": 14.9
+      },
+      {
+         "Year": "2014",
+         "At-risk-of-poverty rate": 15.5
+      },
+      {
+         "Year": "2013",
+         "At-risk-of-poverty rate": 15.1
+      },
+      {
+         "Year": "2012",
+         "At-risk-of-poverty rate": 15.3
+      },
+      {
+         "Year": "2011",
+         "At-risk-of-poverty rate": 15.3
+      },
+      {
+         "Year": "2010",
+         "At-risk-of-poverty rate": 14.6
+      },
+      {
+         "Year": "2009",
+         "At-risk-of-poverty rate": 14.6
+      },
+      {
+         "Year": "2008",
+         "At-risk-of-poverty rate": 14.7
+      }
+   ]
+}

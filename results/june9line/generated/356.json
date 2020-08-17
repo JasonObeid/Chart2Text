@@ -1,0 +1,39 @@
+{
+   "title": "Burger King 's EBITDA margin worldwide 2011 to 2014",
+   "xAxis": "Year",
+   "yAxis": "EBITDA margin",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the EBITDA of margin in the EBITDA from 2011 to 2014 . ",
+      "A declining tendency could be observed as the EBITDA of margin decreased from 21.3 in 2013 to 6,146 in 2014 ."
+   ],
+   "trends": [
+      {
+         "12": "3",
+         "14": "0"
+      },
+      {
+         "14": "3",
+         "16": "1",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "EBITDA margin": "16.71"
+      },
+      {
+         "Year": "2013",
+         "EBITDA margin": "51.3"
+      },
+      {
+         "Year": "2012",
+         "EBITDA margin": "27"
+      },
+      {
+         "Year": "2011",
+         "EBITDA margin": "21.3"
+      }
+   ]
+}

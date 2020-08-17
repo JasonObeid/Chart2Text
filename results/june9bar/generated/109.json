@@ -1,0 +1,115 @@
+{
+   "title": "Countries with the most Facebook users 2020",
+   "xAxis": "Country",
+   "yAxis": "Number of Facebook users in millions",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of the Facebook users worldwide as of 2019 , sorted by Country . ",
+      "As of that month , India had the largest Number of 84 Facebook users millions worldwide ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "11": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "India",
+         "Number of Facebook users in millions": "260"
+      },
+      {
+         "Country": "United States",
+         "Number of Facebook users in millions": "180"
+      },
+      {
+         "Country": "Indonesia",
+         "Number of Facebook users in millions": "130"
+      },
+      {
+         "Country": "Brazil",
+         "Number of Facebook users in millions": "120"
+      },
+      {
+         "Country": "Mexico",
+         "Number of Facebook users in millions": "84"
+      },
+      {
+         "Country": "Philippines",
+         "Number of Facebook users in millions": "70"
+      },
+      {
+         "Country": "Vietnam",
+         "Number of Facebook users in millions": "61"
+      },
+      {
+         "Country": "Thailand",
+         "Number of Facebook users in millions": "47"
+      },
+      {
+         "Country": "Egypt",
+         "Number of Facebook users in millions": "38"
+      },
+      {
+         "Country": "Turkey",
+         "Number of Facebook users in millions": "37"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of Facebook users in millions": "37"
+      },
+      {
+         "Country": "Bangladesh",
+         "Number of Facebook users in millions": "34"
+      },
+      {
+         "Country": "Pakistan",
+         "Number of Facebook users in millions": "33"
+      },
+      {
+         "Country": "Colombia",
+         "Number of Facebook users in millions": "32"
+      },
+      {
+         "Country": "France",
+         "Number of Facebook users in millions": "31"
+      },
+      {
+         "Country": "Argentina",
+         "Number of Facebook users in millions": "29"
+      },
+      {
+         "Country": "Italy",
+         "Number of Facebook users in millions": "29"
+      },
+      {
+         "Country": "Germany",
+         "Number of Facebook users in millions": "28"
+      },
+      {
+         "Country": "Nigeria",
+         "Number of Facebook users in millions": "24"
+      },
+      {
+         "Country": "Malaysia",
+         "Number of Facebook users in millions": "22"
+      },
+      {
+         "Country": "Peru",
+         "Number of Facebook users in millions": "22"
+      },
+      {
+         "Country": "Canada",
+         "Number of Facebook users in millions": "21"
+      },
+      {
+         "Country": "Maynmar",
+         "Number of Facebook users in millions": "21"
+      },
+      {
+         "Country": "Spain",
+         "Number of Facebook users in millions": "21"
+      }
+   ]
+}

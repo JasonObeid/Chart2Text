@@ -1,0 +1,54 @@
+{
+   "title": "Average annual consumer spending , by type U.S. 2018\n",
+   "xAxis": "Spending Type",
+   "yAxis": "Spending in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Spending Type, and a y axis representing Spending in U.S. dollars.",
+      " The highest category is found at Housing where Spending in U.S. dollars is 20091.0.",
+      " The lowest category is found at Apparel_and_services where Spending in U.S. dollars is 1866.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "Spending Type": "Housing",
+         "Spending in U.S. dollars": 20091.0
+      },
+      {
+         "Spending Type": "Transportation",
+         "Spending in U.S. dollars": 9761.0
+      },
+      {
+         "Spending Type": "Food",
+         "Spending in U.S. dollars": 7923.0
+      },
+      {
+         "Spending Type": "Personal insurance and pensions",
+         "Spending in U.S. dollars": 7296.0
+      },
+      {
+         "Spending Type": "Healthcare",
+         "Spending in U.S. dollars": 4968.0
+      },
+      {
+         "Spending Type": "Entertainment",
+         "Spending in U.S. dollars": 3226.0
+      },
+      {
+         "Spending Type": "All other expenditures",
+         "Spending in U.S. dollars": 2030.0
+      },
+      {
+         "Spending Type": "Cash contributions",
+         "Spending in U.S. dollars": 1888.0
+      },
+      {
+         "Spending Type": "Apparel and services",
+         "Spending in U.S. dollars": 1866.0
+      }
+   ]
+}

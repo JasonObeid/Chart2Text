@@ -1,0 +1,42 @@
+{
+   "title": "Growth of crowdfunding platforms worldwide 2008 to 2012",
+   "xAxis": "Year",
+   "yAxis": "Growth in the number of CFPs",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the Growth of crowdfunding , CFPs and in the United Kingdom ( Growth ) from 2008 to 2012 . ",
+      "There were 38 of these establishments , compared to almost 61,000 in 2008 ."
+   ],
+   "trends": [
+      {
+         "19": "4",
+         "21": "0"
+      },
+      {
+         "2": "4",
+         "12": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Growth in the number of CFPs": "60"
+      },
+      {
+         "Year": "2011",
+         "Growth in the number of CFPs": "54"
+      },
+      {
+         "Year": "2010",
+         "Growth in the number of CFPs": "47"
+      },
+      {
+         "Year": "2009",
+         "Growth in the number of CFPs": "45"
+      },
+      {
+         "Year": "2008",
+         "Growth in the number of CFPs": "38"
+      }
+   ]
+}

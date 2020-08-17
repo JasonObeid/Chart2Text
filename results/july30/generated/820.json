@@ -1,0 +1,67 @@
+{
+   "title": "Total population of Myanmar 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inhabitants in millions with a total of 11 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2024 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 11,
+         "direction": "negative",
+         "start": 0,
+         "end": 10,
+         "trend": "y=0.31x+-576.09",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": 54.65
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": 54.36
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": 54.05
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": 53.72
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": 53.38
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": 53.02
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": 52.83
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": 52.65
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": 52.25
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": 51.85
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": 51.42
+      }
+   ]
+}

@@ -1,0 +1,52 @@
+{
+   "title": "Median combined annual earnings of newlyweds in the U.S. in 2010 by race",
+   "xAxis": "Race",
+   "yAxis": "Earnings in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the total Earnings of U.S. dollars in the U.S. in 2010 , by Race . ",
+      "In 2010 , about 70952 % of the U.S. dollars was employed . ",
+      "In total , around 47700 % of all Americans were Hispanic/Hispanic ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      },
+      {
+         "4": "5",
+         "10": "6"
+      }
+   ],
+   "data": [
+      {
+         "Race": "White/Asian",
+         "Earnings in U.S. dollars": "70952"
+      },
+      {
+         "Race": "Asian/Asian",
+         "Earnings in U.S. dollars": "62000"
+      },
+      {
+         "Race": "White/White",
+         "Earnings in U.S. dollars": "60000"
+      },
+      {
+         "Race": "White/Hispanic",
+         "Earnings in U.S. dollars": "57900"
+      },
+      {
+         "Race": "White/Black",
+         "Earnings in U.S. dollars": "53187"
+      },
+      {
+         "Race": "Black/Black",
+         "Earnings in U.S. dollars": "47700"
+      },
+      {
+         "Race": "Hispanic/Hispanic",
+         "Earnings in U.S. dollars": "33578"
+      }
+   ]
+}

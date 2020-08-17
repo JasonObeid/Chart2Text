@@ -1,0 +1,59 @@
+{
+   "title": "Estimated number of World of Warcraft subscribers 2015 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Subscribers in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Subscribers in millions with a total of 9 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 2023 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "positive",
+         "start": 0,
+         "end": 8,
+         "trend": "y=-0.15x+310.26",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Subscribers in millions": 4.46
+      },
+      {
+         "Year": "2022",
+         "Subscribers in millions": 4.59
+      },
+      {
+         "Year": "2021",
+         "Subscribers in millions": 4.74
+      },
+      {
+         "Year": "2020",
+         "Subscribers in millions": 4.88
+      },
+      {
+         "Year": "2019",
+         "Subscribers in millions": 5.03
+      },
+      {
+         "Year": "2018",
+         "Subscribers in millions": 5.19
+      },
+      {
+         "Year": "2017",
+         "Subscribers in millions": 5.42
+      },
+      {
+         "Year": "2016",
+         "Subscribers in millions": 5.67
+      },
+      {
+         "Year": "2015",
+         "Subscribers in millions": 5.5
+      }
+   ]
+}

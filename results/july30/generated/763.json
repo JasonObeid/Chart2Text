@@ -1,0 +1,58 @@
+{
+   "title": "YouTube : most viewed movie trailers 2014\n",
+   "xAxis": "Movie",
+   "yAxis": "Number of YouTube views in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Movie, and a y axis representing Number of YouTube views in millions.",
+      " The highest category is found at Fifty_Shades_Of_Grey_-_Official_Trailer_(Universal_Pictures)_HD where Number of YouTube views in millions is 67.0.",
+      " The lowest category is found at Official_Call_of_Duty:_Advanced_Warfare_Reveal_Trailer where Number of YouTube views in millions is 26.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Movie": "Fifty Shades Of Grey - Official Trailer (Universal Pictures) HD",
+         "Number of YouTube views in millions": 67.0
+      },
+      {
+         "Movie": "Marvel's \"Avengers: Age of Ultron\" - Teaser Trailer (OFFICIAL)",
+         "Number of YouTube views in millions": 64.0
+      },
+      {
+         "Movie": "Star Wars: Episode VII - The Force Awakens Official Teaser Trailer #1 (2015) - J.J. Abrams Movie HD",
+         "Number of YouTube views in millions": 52.0
+      },
+      {
+         "Movie": "Jurassic World - Official Trailer (HD)",
+         "Number of YouTube views in millions": 44.0
+      },
+      {
+         "Movie": "TEENAGE MUTANT NINJA TURTLES - Official Trailer (2014) [HD]",
+         "Number of YouTube views in millions": 43.0
+      },
+      {
+         "Movie": "Furious 7 - Official Trailer (HD)",
+         "Number of YouTube views in millions": 37.0
+      },
+      {
+         "Movie": "Godzilla - Official Main Trailer [HD]",
+         "Number of YouTube views in millions": 36.0
+      },
+      {
+         "Movie": "Lucy TRAILER 1 (2014) - Luc Besson Scarlett Johansson Movie HD",
+         "Number of YouTube views in millions": 36.0
+      },
+      {
+         "Movie": "The Fault In Our Stars Official Trailer [HD] 20th Century FOX",
+         "Number of YouTube views in millions": 29.0
+      },
+      {
+         "Movie": "Official Call of Duty: Advanced Warfare Reveal Trailer",
+         "Number of YouTube views in millions": 26.0
+      }
+   ]
+}

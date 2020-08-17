@@ -1,0 +1,80 @@
+{
+   "title": "U.S. geology - number of earthquakes from 2000 to 2012",
+   "xAxis": "Year",
+   "yAxis": "Number of earthquakes",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Number of earthquakes due to U.S. earthquakes between 2000 and 2012 . ",
+      "3836 people were killed by terrorists in 2010 . ",
+      "The Number of terrorist attacks earthquakes declined between 2000 and 2011 ."
+   ],
+   "trends": [
+      {
+         "12": "12",
+         "14": "0"
+      },
+      {
+         "0": "0",
+         "7": "2"
+      },
+      {
+         "8": "12",
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Number of earthquakes": "3836"
+      },
+      {
+         "Year": "2011",
+         "Number of earthquakes": "5237"
+      },
+      {
+         "Year": "2010",
+         "Number of earthquakes": "8497"
+      },
+      {
+         "Year": "2009",
+         "Number of earthquakes": "4264"
+      },
+      {
+         "Year": "2008",
+         "Number of earthquakes": "3618"
+      },
+      {
+         "Year": "2007",
+         "Number of earthquakes": "2791"
+      },
+      {
+         "Year": "2006",
+         "Number of earthquakes": "2783"
+      },
+      {
+         "Year": "2005",
+         "Number of earthquakes": "3685"
+      },
+      {
+         "Year": "2004",
+         "Number of earthquakes": "3550"
+      },
+      {
+         "Year": "2003",
+         "Number of earthquakes": "2946"
+      },
+      {
+         "Year": "2002",
+         "Number of earthquakes": "3876"
+      },
+      {
+         "Year": "2001",
+         "Number of earthquakes": "2261"
+      },
+      {
+         "Year": "2000",
+         "Number of earthquakes": "2342"
+      }
+   ]
+}

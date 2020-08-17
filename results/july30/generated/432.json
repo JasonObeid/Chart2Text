@@ -1,0 +1,35 @@
+{
+   "title": "WhatsApp : annual revenue 2012 to 2014\n",
+   "xAxis": "Year",
+   "yAxis": "Annual revenue in 1,000 U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Annual revenue in 1,000 U.S. dollars with a total of 3 data points. The chart has one significant trend.",
+      " This trend is strongly positive which exists from 2012 to H1_2014."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-0.01x+27.52",
+         "magnitude": "strongly"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Annual revenue in 1,000 U.S. dollars": 3.82
+      },
+      {
+         "Year": "2013",
+         "Annual revenue in 1,000 U.S. dollars": 10.21
+      },
+      {
+         "Year": "H1 2014",
+         "Annual revenue in 1,000 U.S. dollars": 15.29
+      }
+   ]
+}

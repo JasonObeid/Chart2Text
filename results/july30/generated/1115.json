@@ -1,0 +1,98 @@
+{
+   "title": "Pharmaceutical sector growth worldwide 2017 - 2030 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Growth in percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Country, and a y axis representing Growth in percentage.",
+      " The highest category is found at India where Growth in percentage is 232.0.",
+      " The lowest category is found at Japan where Growth in percentage is 117.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Country": "India",
+         "Growth in percentage": 232.0
+      },
+      {
+         "Country": "China",
+         "Growth in percentage": 230.0
+      },
+      {
+         "Country": "Indonesia",
+         "Growth in percentage": 196.0
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Growth in percentage": 171.0
+      },
+      {
+         "Country": "Brazil",
+         "Growth in percentage": 169.0
+      },
+      {
+         "Country": "World",
+         "Growth in percentage": 160.0
+      },
+      {
+         "Country": "Argentina",
+         "Growth in percentage": 158.0
+      },
+      {
+         "Country": "Mexico",
+         "Growth in percentage": 154.0
+      },
+      {
+         "Country": "Australia",
+         "Growth in percentage": 149.0
+      },
+      {
+         "Country": "Russia",
+         "Growth in percentage": 147.0
+      },
+      {
+         "Country": "South Korea",
+         "Growth in percentage": 141.0
+      },
+      {
+         "Country": "Poland",
+         "Growth in percentage": 140.0
+      },
+      {
+         "Country": "United States",
+         "Growth in percentage": 134.0
+      },
+      {
+         "Country": "Canada",
+         "Growth in percentage": 131.0
+      },
+      {
+         "Country": "Spain",
+         "Growth in percentage": 129.0
+      },
+      {
+         "Country": "France",
+         "Growth in percentage": 129.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Growth in percentage": 128.0
+      },
+      {
+         "Country": "Germany",
+         "Growth in percentage": 118.0
+      },
+      {
+         "Country": "Italy",
+         "Growth in percentage": 118.0
+      },
+      {
+         "Country": "Japan",
+         "Growth in percentage": 117.0
+      }
+   ]
+}

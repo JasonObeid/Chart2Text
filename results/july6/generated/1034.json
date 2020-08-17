@@ -1,0 +1,51 @@
+{
+   "title": "WhatsApp usage in the U.S. 2017 , by gender",
+   "labels": [
+      "Sex",
+      "Today",
+      "Within the previous week",
+      "Within the previous month",
+      "Within the previous year",
+      "More than a year ago",
+      "I have never used this application"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the WhatsApp of usage U.S. 2017 by gender as of October 2017 , by Sex . ",
+      "During the survey , 5 % of respondents from the Female said that official usage classifications or star ratings were Today 2017 by a usage ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "1",
+            "1"
+         ],
+         "10": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Today": "8",
+         "Within the previous week": "7",
+         "Within the previous month": "5",
+         "Within the previous year": "4",
+         "More than a year ago": "4",
+         "I have never used this application": "72"
+      },
+      {
+         "Sex": "Female",
+         "Today": "5",
+         "Within the previous week": "2",
+         "Within the previous month": "4",
+         "Within the previous year": "4",
+         "More than a year ago": "6",
+         "I have never used this application": "78"
+      }
+   ]
+}

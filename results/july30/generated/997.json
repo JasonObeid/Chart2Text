@@ -1,0 +1,92 @@
+{
+   "title": "National debt of Germany in relation to gross domestic product 2010 to 2024\n",
+   "xAxis": "Year",
+   "yAxis": "National debt as percent of GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing National debt as percent of GDP, with a total of 15 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2024 to 2012.",
+      " Similarly, the next significant trend is  negative which exists from 2012 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 13,
+         "direction": "positive",
+         "start": 0,
+         "end": 12,
+         "trend": "y=-3.15x+6413.7",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 12,
+         "end": 14,
+         "trend": "y=-0.55x+1185.87",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt as percent of GDP": 43.7
+      },
+      {
+         "Year": "2023",
+         "National debt as percent of GDP": 46.02
+      },
+      {
+         "Year": "2022",
+         "National debt as percent of GDP": 48.48
+      },
+      {
+         "Year": "2021",
+         "National debt as percent of GDP": 51.1
+      },
+      {
+         "Year": "2020",
+         "National debt as percent of GDP": 53.82
+      },
+      {
+         "Year": "2019",
+         "National debt as percent of GDP": 56.93
+      },
+      {
+         "Year": "2018",
+         "National debt as percent of GDP": 59.75
+      },
+      {
+         "Year": "2017",
+         "National debt as percent of GDP": 63.86
+      },
+      {
+         "Year": "2016",
+         "National debt as percent of GDP": 67.85
+      },
+      {
+         "Year": "2015",
+         "National debt as percent of GDP": 70.84
+      },
+      {
+         "Year": "2014",
+         "National debt as percent of GDP": 74.67
+      },
+      {
+         "Year": "2013",
+         "National debt as percent of GDP": 77.42
+      },
+      {
+         "Year": "2012",
+         "National debt as percent of GDP": 79.86
+      },
+      {
+         "Year": "2011",
+         "National debt as percent of GDP": 78.63
+      },
+      {
+         "Year": "2010",
+         "National debt as percent of GDP": 80.96
+      }
+   ]
+}

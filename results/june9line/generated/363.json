@@ -1,0 +1,44 @@
+{
+   "title": "Age distribution of mobile gamers in the U.S. 2013",
+   "xAxis": "Year",
+   "yAxis": "Percentage of respondents",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the 2013 distribution of at U.S. in the U.S. as of 2013 . ",
+      "According to their annual report , 24 percentage of U.S. distribution are in the 2013 45 - 54 . ",
+      "U.S. is a British retailer selling clothing , furniture and other household items in a department store format ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "18-24",
+         "Percentage of respondents": "7"
+      },
+      {
+         "Year": "25-34",
+         "Percentage of respondents": "17"
+      },
+      {
+         "Year": "35-44",
+         "Percentage of respondents": "19"
+      },
+      {
+         "Year": "45-54",
+         "Percentage of respondents": "22"
+      },
+      {
+         "Year": "55-64",
+         "Percentage of respondents": "24"
+      },
+      {
+         "Year": "65+",
+         "Percentage of respondents": "11"
+      }
+   ]
+}

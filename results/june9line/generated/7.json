@@ -1,0 +1,52 @@
+{
+   "title": "Automobile production - automatic transmission forecast 2010 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Million transmissions",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Million of Automobile ( LoL ) monthly active transmissions worldwide from 2010 to 2015 . ",
+      "In 2015 , LoL had 28.65 million Automobile , up from 25.36 million in 2011 . ",
+      "Being one of the most prominent eSports games , in 2011 LoL championship finals attracted 36 million viewers worldwide ."
+   ],
+   "trends": [
+      {
+         "17": "0",
+         "19": "5"
+      },
+      {
+         "1": "5",
+         "5": "5",
+         "11": "1",
+         "14": "1"
+      },
+      {
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Million transmissions": "25.03"
+      },
+      {
+         "Year": "2011",
+         "Million transmissions": "25.36"
+      },
+      {
+         "Year": "2012",
+         "Million transmissions": "26.72"
+      },
+      {
+         "Year": "2013",
+         "Million transmissions": "27.82"
+      },
+      {
+         "Year": "2014",
+         "Million transmissions": "28.46"
+      },
+      {
+         "Year": "2015",
+         "Million transmissions": "28.65"
+      }
+   ]
+}

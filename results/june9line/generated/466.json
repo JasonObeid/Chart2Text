@@ -1,0 +1,98 @@
+{
+   "title": "Number of pubs in the United Kingdom ( UK ) 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of pubs in thousands",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the United Kingdom Number of Kingdom UK in the 2000 from 48 to 2018 . ",
+      "In 2018 , the Number of all United Kingdom in the UK came to around 60.8 thousands ."
+   ],
+   "trends": [
+      {
+         "13": "6",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "15": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of pubs in thousands": "47.6"
+      },
+      {
+         "Year": "2017",
+         "Number of pubs in thousands": "48.35"
+      },
+      {
+         "Year": "2016",
+         "Number of pubs in thousands": "50.3"
+      },
+      {
+         "Year": "2015",
+         "Number of pubs in thousands": "50.8"
+      },
+      {
+         "Year": "2014",
+         "Number of pubs in thousands": "51.9"
+      },
+      {
+         "Year": "2013",
+         "Number of pubs in thousands": "52.5"
+      },
+      {
+         "Year": "48",
+         "Number of pubs in thousands": "53.8"
+      },
+      {
+         "Year": "2011",
+         "Number of pubs in thousands": "54.7"
+      },
+      {
+         "Year": "2010",
+         "Number of pubs in thousands": "55.4"
+      },
+      {
+         "Year": "2009",
+         "Number of pubs in thousands": "52.5"
+      },
+      {
+         "Year": "2008",
+         "Number of pubs in thousands": "54.8"
+      },
+      {
+         "Year": "2007",
+         "Number of pubs in thousands": "56.8"
+      },
+      {
+         "Year": "2006",
+         "Number of pubs in thousands": "58.2"
+      },
+      {
+         "Year": "2005",
+         "Number of pubs in thousands": "58.6"
+      },
+      {
+         "Year": "2004",
+         "Number of pubs in thousands": "59.0"
+      },
+      {
+         "Year": "2003",
+         "Number of pubs in thousands": "59.4"
+      },
+      {
+         "Year": "2002",
+         "Number of pubs in thousands": "60.1"
+      },
+      {
+         "Year": "2001",
+         "Number of pubs in thousands": "60.7"
+      },
+      {
+         "Year": "2000",
+         "Number of pubs in thousands": "60.8"
+      }
+   ]
+}

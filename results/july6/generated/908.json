@@ -1,0 +1,60 @@
+{
+   "title": "Latin America & the Caribbean : athletes in 2018 Winter Games , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of athletes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the share of Caribbean athletes Latin Latin America Caribbean athletes 2018 in , Winter Country . ",
+      "In 2018 , Caribbean Latin Latin America Caribbean athletes in Total accounted for around 37 % of the world 's total Caribbean athletes grid-connected Latin America Caribbean athletes ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Total",
+         "Number of athletes": "37"
+      },
+      {
+         "Country": "Puerto Rico",
+         "Number of athletes": "1"
+      },
+      {
+         "Country": "Ecuador",
+         "Number of athletes": "1"
+      },
+      {
+         "Country": "Bolivia",
+         "Number of athletes": "2"
+      },
+      {
+         "Country": "Jamaica",
+         "Number of athletes": "3"
+      },
+      {
+         "Country": "Mexico",
+         "Number of athletes": "4"
+      },
+      {
+         "Country": "Colombia",
+         "Number of athletes": "4"
+      },
+      {
+         "Country": "Argentina",
+         "Number of athletes": "6"
+      },
+      {
+         "Country": "Chile",
+         "Number of athletes": "7"
+      },
+      {
+         "Country": "Brazil",
+         "Number of athletes": "9"
+      }
+   ]
+}

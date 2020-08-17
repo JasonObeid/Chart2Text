@@ -1,0 +1,38 @@
+{
+   "title": "Revenue of Canada Goose by region 2019",
+   "xAxis": "Country",
+   "yAxis": "Revenue in million Canadan dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the compound annual growth rate of the Canada Goose by region 2019 between Canadan and dollars , 2019 Country . ",
+      "During that period , the compound annual growth rate of Rest_of_world American Canada region Goose was estimated at 251.1 million . ",
+      "Global Canada MarketTraveling has increased to a great extent with the rise in urbanization and leisure activities ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "3",
+         "18": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Total",
+         "Revenue in million Canadan dollars": "830.5"
+      },
+      {
+         "Country": "Canada",
+         "Revenue in million Canadan dollars": "293.3"
+      },
+      {
+         "Country": "United States",
+         "Revenue in million Canadan dollars": "251.1"
+      },
+      {
+         "Country": "Rest of world",
+         "Revenue in million Canadan dollars": "286.1"
+      }
+   ]
+}

@@ -1,0 +1,38 @@
+{
+   "title": "Market share of streaming devices in the United States 2014\n",
+   "xAxis": "Streaming Device",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Streaming Device, and a y axis representing Market share.",
+      " The highest category is found at Apple_TV where Market share is 43.0.",
+      " The lowest category is found at Tivo where Market share is 6.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Streaming Device": "Apple TV",
+         "Market share": 43.0
+      },
+      {
+         "Streaming Device": "Roku",
+         "Market share": 24.0
+      },
+      {
+         "Streaming Device": "Chromecast",
+         "Market share": 14.0
+      },
+      {
+         "Streaming Device": "Tivo",
+         "Market share": 6.0
+      },
+      {
+         "Streaming Device": "Other",
+         "Market share": 13.0
+      }
+   ]
+}

@@ -1,0 +1,98 @@
+{
+   "title": "Highest grossing Hollywood actors of all time in the U.S. 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Box office grosses in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Month, and a y axis representing Box office grosses in million U.S. dollars.",
+      " The highest category is found at Samuel_L._Jackson where Box office grosses in million U.S. dollars is 7107.8.",
+      " The lowest category is found at Mark_Ruffalo where Box office grosses in million U.S. dollars is 3764.7."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Month": "Samuel L. Jackson",
+         "Box office grosses in million U.S. dollars": 7107.8
+      },
+      {
+         "Month": "Robert Downey Jr.",
+         "Box office grosses in million U.S. dollars": 5818.8
+      },
+      {
+         "Month": "Scarlett Johannsson",
+         "Box office grosses in million U.S. dollars": 5244.1
+      },
+      {
+         "Month": "Harrison Ford",
+         "Box office grosses in million U.S. dollars": 5121.8
+      },
+      {
+         "Month": "Tom Hanks",
+         "Box office grosses in million U.S. dollars": 5039.3
+      },
+      {
+         "Month": "Bradley Cooper",
+         "Box office grosses in million U.S. dollars": 4803.8
+      },
+      {
+         "Month": "Morgan Freeman",
+         "Box office grosses in million U.S. dollars": 4631.0
+      },
+      {
+         "Month": "Don Cheadle",
+         "Box office grosses in million U.S. dollars": 4422.7
+      },
+      {
+         "Month": "Andy Serkis",
+         "Box office grosses in million U.S. dollars": 4357.7
+      },
+      {
+         "Month": "Zoe Saldana",
+         "Box office grosses in million U.S. dollars": 4193.6
+      },
+      {
+         "Month": "Chris Pratt",
+         "Box office grosses in million U.S. dollars": 4145.4
+      },
+      {
+         "Month": "Anthony Daniels",
+         "Box office grosses in million U.S. dollars": 4040.9
+      },
+      {
+         "Month": "Chris Evans",
+         "Box office grosses in million U.S. dollars": 4019.8
+      },
+      {
+         "Month": "Chris Hemsworth",
+         "Box office grosses in million U.S. dollars": 4018.8
+      },
+      {
+         "Month": "Tom Cruise",
+         "Box office grosses in million U.S. dollars": 3997.6
+      },
+      {
+         "Month": "Idris Elba",
+         "Box office grosses in million U.S. dollars": 3852.6
+      },
+      {
+         "Month": "Johnny Depp",
+         "Box office grosses in million U.S. dollars": 3846.8
+      },
+      {
+         "Month": "Eddie Murphy",
+         "Box office grosses in million U.S. dollars": 3811.1
+      },
+      {
+         "Month": "Stanley Tucci",
+         "Box office grosses in million U.S. dollars": 3778.2
+      },
+      {
+         "Month": "Mark Ruffalo",
+         "Box office grosses in million U.S. dollars": 3764.7
+      }
+   ]
+}

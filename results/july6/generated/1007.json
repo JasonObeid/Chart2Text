@@ -1,0 +1,70 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Japan 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the growth rate of Japan 's real GDP from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , GDP in Japan grew by about 0.81 % on the previous year.The recession-proof land down under GDP is one of the primary indicators used to gauge the state and health of a country 's economy . ",
+      "It is the total market value of all final goods and services that have been produced within a country in a given period of time , usually a Year ."
+   ],
+   "trends": [
+      {
+         "12": "10",
+         "14": "6",
+         "20": "0"
+      },
+      {
+         "1": "6",
+         "9": "6"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth rate compared to previous year": "0.5"
+      },
+      {
+         "Year": "2023",
+         "GDP growth rate compared to previous year": "0.5"
+      },
+      {
+         "Year": "2022",
+         "GDP growth rate compared to previous year": "0.52"
+      },
+      {
+         "Year": "2021",
+         "GDP growth rate compared to previous year": "0.45"
+      },
+      {
+         "Year": "2020",
+         "GDP growth rate compared to previous year": "0.47"
+      },
+      {
+         "Year": "2019",
+         "GDP growth rate compared to previous year": "0.89"
+      },
+      {
+         "Year": "2018",
+         "GDP growth rate compared to previous year": "0.81"
+      },
+      {
+         "Year": "2017",
+         "GDP growth rate compared to previous year": "1.94"
+      },
+      {
+         "Year": "2016",
+         "GDP growth rate compared to previous year": "0.61"
+      },
+      {
+         "Year": "2015",
+         "GDP growth rate compared to previous year": "1.22"
+      },
+      {
+         "Year": "2014",
+         "GDP growth rate compared to previous year": "0.38"
+      }
+   ]
+}

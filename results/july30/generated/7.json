@@ -1,0 +1,55 @@
+{
+   "title": "Total workforce of Red Bull worldwide 2011 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of employees with a total of 8 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2018 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 0,
+         "end": 7,
+         "trend": "y=587.08x+-1172135.5",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": 12239.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees": 11886.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 11865.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 10997.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 10410.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 9694.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees": 8966.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 8294.0
+      }
+   ]
+}

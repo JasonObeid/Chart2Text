@@ -1,0 +1,46 @@
+{
+   "title": "Revenue of the UEFA European Championships 1992 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the share of internet users in the UEFA European Championships who were using Revenue UEFA as of 2018 , sorted 2016 . ",
+      "We Are Flint found that 1916.0 million of internet users aged from 18 to 34 years used the social networking site 's UEFA platform ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016 France",
+         "Revenue in million euros": "1916.0"
+      },
+      {
+         "Year": "2012 Poland & Ukraine",
+         "Revenue in million euros": "1390.9"
+      },
+      {
+         "Year": "2008 Switzerland & Austria",
+         "Revenue in million euros": "1350.9"
+      },
+      {
+         "Year": "2004 Portugal",
+         "Revenue in million euros": "855.2"
+      },
+      {
+         "Year": "2000 Belgium & the Netherlands",
+         "Revenue in million euros": "229.9"
+      },
+      {
+         "Year": "1996 England",
+         "Revenue in million euros": "147.3"
+      },
+      {
+         "Year": "1992 Sweden",
+         "Revenue in million euros": "40.9"
+      }
+   ]
+}

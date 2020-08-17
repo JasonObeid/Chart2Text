@@ -1,0 +1,98 @@
+{
+   "title": "Women 's average age at first marriage in Italy 2018 , by region\n",
+   "xAxis": "Month",
+   "yAxis": "Average age",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Month, and a y axis representing Average age.",
+      " The highest category is found at Aosta_Valley where Average age is 34.7.",
+      " The lowest category is found at Calabria where Average age is 30.6."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Month": "Aosta Valley",
+         "Average age": 34.7
+      },
+      {
+         "Month": "Liguria",
+         "Average age": 34.1
+      },
+      {
+         "Month": "Emilia-Romagna",
+         "Average age": 33.9
+      },
+      {
+         "Month": "Tuscany",
+         "Average age": 33.9
+      },
+      {
+         "Month": "Sardinia",
+         "Average age": 33.9
+      },
+      {
+         "Month": "Friuli-Venezia Giulia",
+         "Average age": 33.6
+      },
+      {
+         "Month": "Lazio",
+         "Average age": 33.5
+      },
+      {
+         "Month": "Trentino-South Tyrol",
+         "Average age": 33.4
+      },
+      {
+         "Month": "Piedmont",
+         "Average age": 33.3
+      },
+      {
+         "Month": "Lombardy",
+         "Average age": 33.1
+      },
+      {
+         "Month": "Umbria",
+         "Average age": 33.0
+      },
+      {
+         "Month": "Marche",
+         "Average age": 32.8
+      },
+      {
+         "Month": "Veneto",
+         "Average age": 32.8
+      },
+      {
+         "Month": "Abruzzo",
+         "Average age": 32.8
+      },
+      {
+         "Month": "Molise",
+         "Average age": 32.2
+      },
+      {
+         "Month": "Basilicata",
+         "Average age": 32.1
+      },
+      {
+         "Month": "Apulia",
+         "Average age": 31.6
+      },
+      {
+         "Month": "Campania",
+         "Average age": 31.0
+      },
+      {
+         "Month": "Sicily",
+         "Average age": 30.8
+      },
+      {
+         "Month": "Calabria",
+         "Average age": 30.6
+      }
+   ]
+}

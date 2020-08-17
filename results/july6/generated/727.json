@@ -1,0 +1,66 @@
+{
+   "title": "Most used garage door openers in the U.S. 2018",
+   "xAxis": "Brand",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts garage door used the Most by U.S. construction firms in 2018 . ",
+      "The survey revealed that 50 % of the respondents used Liftmaster Brand garage the Most . ",
+      "Residential construction involves the building and selling of both individual and multi-family dwellings ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "10": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Liftmaster",
+         "Share of respondents": "50"
+      },
+      {
+         "Brand": "Chamberlain",
+         "Share of respondents": "14.9"
+      },
+      {
+         "Brand": "Overhead Door",
+         "Share of respondents": "9.6"
+      },
+      {
+         "Brand": "Genie",
+         "Share of respondents": "7.9"
+      },
+      {
+         "Brand": "Craftsmen",
+         "Share of respondents": "5.3"
+      },
+      {
+         "Brand": "Wayne-Dalton",
+         "Share of respondents": "3.5"
+      },
+      {
+         "Brand": "Raynor",
+         "Share of respondents": "3.5"
+      },
+      {
+         "Brand": "Linear",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "Access Master",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "Marantec",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "None of these",
+         "Share of respondents": "2.6"
+      }
+   ]
+}

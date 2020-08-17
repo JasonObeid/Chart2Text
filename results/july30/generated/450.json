@@ -1,0 +1,152 @@
+{
+   "title": "United States - annual real GDP 1990 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "GDP in billion chained (2012) U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP in billion chained (2012) U.S. dollars, with a total of 30 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2007 to 1990.",
+      " Contrarily, the next significant trend is  negative which exists from 2019 to 2009."
+   ],
+   "trends": [
+      {
+         "Length": 18,
+         "direction": "negative",
+         "start": 12,
+         "end": 29,
+         "trend": "y=393.67x+-774497.29",
+         "magnitude": ""
+      },
+      {
+         "Length": 11,
+         "direction": "negative",
+         "start": 0,
+         "end": 10,
+         "trend": "y=383.37x+-755088.59",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "GDP in billion chained (2012) U.S. dollars": 19072.5
+      },
+      {
+         "Year": "2018",
+         "GDP in billion chained (2012) U.S. dollars": 18638.2
+      },
+      {
+         "Year": "2017",
+         "GDP in billion chained (2012) U.S. dollars": 18108.1
+      },
+      {
+         "Year": "2016",
+         "GDP in billion chained (2012) U.S. dollars": 17688.9
+      },
+      {
+         "Year": "2015",
+         "GDP in billion chained (2012) U.S. dollars": 17403.8
+      },
+      {
+         "Year": "2014",
+         "GDP in billion chained (2012) U.S. dollars": 16912.0
+      },
+      {
+         "Year": "2013",
+         "GDP in billion chained (2012) U.S. dollars": 16495.4
+      },
+      {
+         "Year": "2012",
+         "GDP in billion chained (2012) U.S. dollars": 16197.0
+      },
+      {
+         "Year": "2011",
+         "GDP in billion chained (2012) U.S. dollars": 15840.7
+      },
+      {
+         "Year": "2010",
+         "GDP in billion chained (2012) U.S. dollars": 15598.8
+      },
+      {
+         "Year": "2009",
+         "GDP in billion chained (2012) U.S. dollars": 15208.8
+      },
+      {
+         "Year": "2008",
+         "GDP in billion chained (2012) U.S. dollars": 15604.7
+      },
+      {
+         "Year": "2007",
+         "GDP in billion chained (2012) U.S. dollars": 15626.0
+      },
+      {
+         "Year": "2006",
+         "GDP in billion chained (2012) U.S. dollars": 15338.3
+      },
+      {
+         "Year": "2005",
+         "GDP in billion chained (2012) U.S. dollars": 14912.5
+      },
+      {
+         "Year": "2004",
+         "GDP in billion chained (2012) U.S. dollars": 14406.4
+      },
+      {
+         "Year": "2003",
+         "GDP in billion chained (2012) U.S. dollars": 13879.1
+      },
+      {
+         "Year": "2002",
+         "GDP in billion chained (2012) U.S. dollars": 13493.1
+      },
+      {
+         "Year": "2001",
+         "GDP in billion chained (2012) U.S. dollars": 13262.1
+      },
+      {
+         "Year": "2000",
+         "GDP in billion chained (2012) U.S. dollars": 13131.0
+      },
+      {
+         "Year": "1999",
+         "GDP in billion chained (2012) U.S. dollars": 12610.5
+      },
+      {
+         "Year": "1998",
+         "GDP in billion chained (2012) U.S. dollars": 12038.3
+      },
+      {
+         "Year": "1997",
+         "GDP in billion chained (2012) U.S. dollars": 11521.9
+      },
+      {
+         "Year": "1996",
+         "GDP in billion chained (2012) U.S. dollars": 11031.4
+      },
+      {
+         "Year": "1995",
+         "GDP in billion chained (2012) U.S. dollars": 10630.3
+      },
+      {
+         "Year": "1994",
+         "GDP in billion chained (2012) U.S. dollars": 10352.4
+      },
+      {
+         "Year": "1993",
+         "GDP in billion chained (2012) U.S. dollars": 9951.5
+      },
+      {
+         "Year": "1992",
+         "GDP in billion chained (2012) U.S. dollars": 9684.9
+      },
+      {
+         "Year": "1991",
+         "GDP in billion chained (2012) U.S. dollars": 9355.4
+      },
+      {
+         "Year": "1990",
+         "GDP in billion chained (2012) U.S. dollars": 9365.5
+      }
+   ]
+}

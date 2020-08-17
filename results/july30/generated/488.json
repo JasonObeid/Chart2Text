@@ -1,0 +1,94 @@
+{
+   "title": "Density of the population of Finland in 2018 , by region\n",
+   "xAxis": "Finnish Region",
+   "yAxis": "Number of inhabitants per square kilometer",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 19 categories for the x axis representing Finnish Region, and a y axis representing Number of inhabitants per square kilometer.",
+      " The highest category is found at Uusimaa where Number of inhabitants per square kilometer is 183.7.",
+      " The lowest category is found at Lapland where Number of inhabitants per square kilometer is 1.9."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 18
+   },
+   "data": [
+      {
+         "Finnish Region": "Uusimaa",
+         "Number of inhabitants per square kilometer": 183.7
+      },
+      {
+         "Finnish Region": "Southwest Finland",
+         "Number of inhabitants per square kilometer": 44.9
+      },
+      {
+         "Finnish Region": "Pirkanmaa",
+         "Number of inhabitants per square kilometer": 40.9
+      },
+      {
+         "Finnish Region": "P\u00e4ij\u00e4t-H\u00e4me",
+         "Number of inhabitants per square kilometer": 39.2
+      },
+      {
+         "Finnish Region": "Kymenlaakso",
+         "Number of inhabitants per square kilometer": 33.7
+      },
+      {
+         "Finnish Region": "Kanta-H\u00e4me",
+         "Number of inhabitants per square kilometer": 33.0
+      },
+      {
+         "Finnish Region": "Satakunta",
+         "Number of inhabitants per square kilometer": 28.0
+      },
+      {
+         "Finnish Region": "South Karelia",
+         "Number of inhabitants per square kilometer": 24.2
+      },
+      {
+         "Finnish Region": "Ostrobothnia",
+         "Number of inhabitants per square kilometer": 23.3
+      },
+      {
+         "Finnish Region": "\u00c5land",
+         "Number of inhabitants per square kilometer": 19.2
+      },
+      {
+         "Finnish Region": "Central Finland",
+         "Number of inhabitants per square kilometer": 16.5
+      },
+      {
+         "Finnish Region": "North Savo",
+         "Number of inhabitants per square kilometer": 14.6
+      },
+      {
+         "Finnish Region": "South Ostrobothnia",
+         "Number of inhabitants per square kilometer": 14.1
+      },
+      {
+         "Finnish Region": "Central Ostrobothnia",
+         "Number of inhabitants per square kilometer": 13.6
+      },
+      {
+         "Finnish Region": "North Ostrobothnia",
+         "Number of inhabitants per square kilometer": 11.2
+      },
+      {
+         "Finnish Region": "South Savo",
+         "Number of inhabitants per square kilometer": 10.1
+      },
+      {
+         "Finnish Region": "North Karelia",
+         "Number of inhabitants per square kilometer": 9.1
+      },
+      {
+         "Finnish Region": "Kainuu",
+         "Number of inhabitants per square kilometer": 3.6
+      },
+      {
+         "Finnish Region": "Lapland",
+         "Number of inhabitants per square kilometer": 1.9
+      }
+   ]
+}

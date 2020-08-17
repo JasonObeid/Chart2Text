@@ -1,0 +1,110 @@
+{
+   "title": "Unemployment rate in Algeria 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Algeria from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Algeria was at approximately 12.35 % . ",
+      "Unemployment in Algeria 's Unemployment is relatively low and stable at around 12.35 % which means the population is experiencing close to full employment ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "12.35"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "12.15"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "12"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "10.2"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "11.21"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "10.21"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "9.82"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "10.97"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "9.96"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "9.96"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "10.16"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "11.33"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "13.79"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "12.27"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "15.27"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "17.65"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "23.72"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "25.9"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "27.3"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "29.77"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "28.45"
+      }
+   ]
+}

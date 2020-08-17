@@ -1,0 +1,55 @@
+{
+   "title": "ACSI - U.S. customer satisfaction with social media 2019",
+   "xAxis": "Platform",
+   "yAxis": "ACSI score (100-point scale)",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the ACSI of (100-point in the U.S. customer satisfaction social media 2019 . ",
+      "During the survey period , it was found that 80 % of responding adults have used Pinterest ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Pinterest",
+         "ACSI score (100-point scale)": "80"
+      },
+      {
+         "Platform": "YouTube",
+         "ACSI score (100-point scale)": "78"
+      },
+      {
+         "Platform": "Wikipedia",
+         "ACSI score (100-point scale)": "74"
+      },
+      {
+         "Platform": "Instagram",
+         "ACSI score (100-point scale)": "72"
+      },
+      {
+         "Platform": "Snapchat",
+         "ACSI score (100-point scale)": "71"
+      },
+      {
+         "Platform": "Twitter",
+         "ACSI score (100-point scale)": "69"
+      },
+      {
+         "Platform": "LinkedIn",
+         "ACSI score (100-point scale)": "69"
+      },
+      {
+         "Platform": "Tumblr",
+         "ACSI score (100-point scale)": "64"
+      },
+      {
+         "Platform": "Facebook",
+         "ACSI score (100-point scale)": "63"
+      }
+   ]
+}

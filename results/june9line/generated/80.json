@@ -1,0 +1,106 @@
+{
+   "title": "Unemployment rate in Tonga 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Tonga from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Tonga was at approximately 1.02 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "1.02"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "1.03"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "1"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "1.06"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "1.08"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "1.11"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "1.14"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "1.11"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "1.13"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "1.15"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "1.13"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "0.96"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "0.99"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "1.09"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "2.14"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "3.49"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "5.18"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "4.74"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "4.19"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "3.8"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "3.43"
+      }
+   ]
+}

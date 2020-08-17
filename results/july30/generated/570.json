@@ -1,0 +1,38 @@
+{
+   "title": "Countries paying the least for Netflix subscriptions worldwide 2019\n",
+   "xAxis": "Country",
+   "yAxis": "Cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Country, and a y axis representing Cost in U.S. dollars.",
+      " The highest category is found at Chile where Cost in U.S. dollars is 6.9.",
+      " The lowest category is found at Colombia where Cost in U.S. dollars is 5.4."
+   ],
+   "trends": {
+      "maxIndex": 4,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Country": "Colombia",
+         "Cost in U.S. dollars": 5.4
+      },
+      {
+         "Country": "Brazil",
+         "Cost in U.S. dollars": 5.65
+      },
+      {
+         "Country": "Pakistan",
+         "Cost in U.S. dollars": 6.7
+      },
+      {
+         "Country": "Mexico",
+         "Cost in U.S. dollars": 6.76
+      },
+      {
+         "Country": "Chile",
+         "Cost in U.S. dollars": 6.9
+      }
+   ]
+}

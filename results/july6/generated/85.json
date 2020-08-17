@@ -1,0 +1,56 @@
+{
+   "title": "Apple : iPod sales worldwide 2006 to 2014",
+   "xAxis": "fiscal years",
+   "yAxis": "Sales in million units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Apple iPod worldwide titles 2014 as of 2019 . ",
+      "With some 54.83 million units sold 2014 , 7 was the Apple iPod worldwide game as of 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "6",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "fiscal years": "2014",
+         "Sales in million units": "14.38"
+      },
+      {
+         "fiscal years": "2013",
+         "Sales in million units": "26.38"
+      },
+      {
+         "fiscal years": "2012",
+         "Sales in million units": "35.17"
+      },
+      {
+         "fiscal years": "2011",
+         "Sales in million units": "42.62"
+      },
+      {
+         "fiscal years": "2010",
+         "Sales in million units": "50.31"
+      },
+      {
+         "fiscal years": "2009",
+         "Sales in million units": "54.13"
+      },
+      {
+         "fiscal years": "2008",
+         "Sales in million units": "54.83"
+      },
+      {
+         "fiscal years": "2007",
+         "Sales in million units": "51.63"
+      },
+      {
+         "fiscal years": "2006",
+         "Sales in million units": "39.41"
+      }
+   ]
+}

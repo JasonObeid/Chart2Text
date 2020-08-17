@@ -1,0 +1,157 @@
+{
+   "title": "Household income of white families in the U.S. 1990 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Median income in 2018 CPI-U-RS adjusted U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Median income in 2018 CPI-U-RS adjusted U.S. dollars, with a total of 29 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 1999 to 1990.",
+      " Conversely, the next significant trend is  negative which exists from 2018 to 2014.",
+      " Conversely, the next significant trend is  positive which exists from 2011 to 2007."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 19,
+         "end": 28,
+         "trend": "y=873.19x+-1683120.02",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=2109.6x+-4186049.8",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 7,
+         "end": 11,
+         "trend": "y=-1114.3x+2301174.3",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 70642.0
+      },
+      {
+         "Year": "2017",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 69851.0
+      },
+      {
+         "Year": "2016",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 66440.0
+      },
+      {
+         "Year": "2015",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 65133.0
+      },
+      {
+         "Year": "2014",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 62453.0
+      },
+      {
+         "Year": "2013",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 63588.0
+      },
+      {
+         "Year": "2012",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 60979.0
+      },
+      {
+         "Year": "2011",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 60526.0
+      },
+      {
+         "Year": "2010",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 61361.0
+      },
+      {
+         "Year": "2009",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 62374.0
+      },
+      {
+         "Year": "2008",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 63378.0
+      },
+      {
+         "Year": "2007",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 65089.0
+      },
+      {
+         "Year": "2006",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 63892.0
+      },
+      {
+         "Year": "2005",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 63900.0
+      },
+      {
+         "Year": "2004",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 63627.0
+      },
+      {
+         "Year": "2003",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 63832.0
+      },
+      {
+         "Year": "2002",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 64084.0
+      },
+      {
+         "Year": "2001",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 62773.0
+      },
+      {
+         "Year": "2000",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 63609.0
+      },
+      {
+         "Year": "1999",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 63654.0
+      },
+      {
+         "Year": "1998",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 62480.0
+      },
+      {
+         "Year": "1997",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 60548.0
+      },
+      {
+         "Year": "1996",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 59128.0
+      },
+      {
+         "Year": "1995",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 58184.0
+      },
+      {
+         "Year": "1994",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 56297.0
+      },
+      {
+         "Year": "1993",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 55914.0
+      },
+      {
+         "Year": "1992",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 55842.0
+      },
+      {
+         "Year": "1991",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 55568.0
+      },
+      {
+         "Year": "1990",
+         "Median income in 2018 CPI-U-RS adjusted U.S. dollars": 56917.0
+      }
+   ]
+}

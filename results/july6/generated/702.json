@@ -1,0 +1,59 @@
+{
+   "title": "MS prevalence rates worldwide by select country 2015",
+   "xAxis": "Country",
+   "yAxis": "Cases per 100,000 people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the MS prevalence the largest Cases of worldwide by 100,000 country in the 2015 in . ",
+      "According to the source , Connecticut was the Country prevalence the rates worldwide by 100,000 country in 2015 prevalence 291 per to every people thousand ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Cases per 100,000 people": "291"
+      },
+      {
+         "Country": "San Marino",
+         "Cases per 100,000 people": "250"
+      },
+      {
+         "Country": "Denmark",
+         "Cases per 100,000 people": "227"
+      },
+      {
+         "Country": "Sweden",
+         "Cases per 100,000 people": "189"
+      },
+      {
+         "Country": "Hungary",
+         "Cases per 100,000 people": "176"
+      },
+      {
+         "Country": "Cyprus",
+         "Cases per 100,000 people": "175"
+      },
+      {
+         "Country": "United Kingdom",
+         "Cases per 100,000 people": "164"
+      },
+      {
+         "Country": "Czech Republic",
+         "Cases per 100,000 people": "160"
+      },
+      {
+         "Country": "Norway",
+         "Cases per 100,000 people": "160"
+      },
+      {
+         "Country": "Germany",
+         "Cases per 100,000 people": "149"
+      }
+   ]
+}

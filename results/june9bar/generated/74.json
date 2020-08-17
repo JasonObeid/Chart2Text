@@ -1,0 +1,61 @@
+{
+   "title": "Value of the leading 10 textile importers worldwide 2018 , by country",
+   "xAxis": "Country",
+   "yAxis": "Import value in billion U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the largest textile importers of the Hong_Kong_China States regarding trade goods in 2018 , by Import value . ",
+      "In 2018 , the Import value of trade goods from China amounted to 18 billion ."
+   ],
+   "trends": [
+      {
+         "9": "6"
+      },
+      {
+         "10": "2",
+         "13": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "European Union (28)",
+         "Import value in billion U.S. dollars": "77"
+      },
+      {
+         "Country": "United States",
+         "Import value in billion U.S. dollars": "30"
+      },
+      {
+         "Country": "China",
+         "Import value in billion U.S. dollars": "18"
+      },
+      {
+         "Country": "Viet Nam",
+         "Import value in billion U.S. dollars": "18"
+      },
+      {
+         "Country": "Bangladesh",
+         "Import value in billion U.S. dollars": "11"
+      },
+      {
+         "Country": "Japan",
+         "Import value in billion U.S. dollars": "9"
+      },
+      {
+         "Country": "Hong Kong China",
+         "Import value in billion U.S. dollars": "7"
+      },
+      {
+         "Country": "Indonesia",
+         "Import value in billion U.S. dollars": "7"
+      },
+      {
+         "Country": "Mexico ",
+         "Import value in billion U.S. dollars": "7"
+      },
+      {
+         "Country": "Turkey",
+         "Import value in billion U.S. dollars": "6"
+      }
+   ]
+}

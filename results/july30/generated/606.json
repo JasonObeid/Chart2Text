@@ -1,0 +1,198 @@
+{
+   "title": "Sales of lotteries in the U.S. 2016 , by state\n",
+   "xAxis": "State",
+   "yAxis": "Sales in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 45 categories for the x axis representing State, and a y axis representing Sales in billion U.S. dollars.",
+      " The highest category is found at New_York where Sales in billion U.S. dollars is 9.69.",
+      " The lowest category is found at Wyoming where Sales in billion U.S. dollars is 0.03."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 44
+   },
+   "data": [
+      {
+         "State": "New York",
+         "Sales in billion U.S. dollars": 9.69
+      },
+      {
+         "State": "California",
+         "Sales in billion U.S. dollars": 6.28
+      },
+      {
+         "State": "Florida",
+         "Sales in billion U.S. dollars": 6.06
+      },
+      {
+         "State": "Massachusetts",
+         "Sales in billion U.S. dollars": 5.22
+      },
+      {
+         "State": "Texas",
+         "Sales in billion U.S. dollars": 5.07
+      },
+      {
+         "State": "Georgia",
+         "Sales in billion U.S. dollars": 4.56
+      },
+      {
+         "State": "Pennsylvania",
+         "Sales in billion U.S. dollars": 4.14
+      },
+      {
+         "State": "Ohio",
+         "Sales in billion U.S. dollars": 3.93
+      },
+      {
+         "State": "New Jersey",
+         "Sales in billion U.S. dollars": 3.29
+      },
+      {
+         "State": "Michigan",
+         "Sales in billion U.S. dollars": 3.1
+      },
+      {
+         "State": "Maryland",
+         "Sales in billion U.S. dollars": 3.05
+      },
+      {
+         "State": "Illinois",
+         "Sales in billion U.S. dollars": 2.86
+      },
+      {
+         "State": "North Carolina",
+         "Sales in billion U.S. dollars": 2.38
+      },
+      {
+         "State": "Virginia",
+         "Sales in billion U.S. dollars": 2.01
+      },
+      {
+         "State": "Tennessee",
+         "Sales in billion U.S. dollars": 1.63
+      },
+      {
+         "State": "South Carolina",
+         "Sales in billion U.S. dollars": 1.6
+      },
+      {
+         "State": "Missouri",
+         "Sales in billion U.S. dollars": 1.32
+      },
+      {
+         "State": "Oregon",
+         "Sales in billion U.S. dollars": 1.23
+      },
+      {
+         "State": "Connecticut",
+         "Sales in billion U.S. dollars": 1.23
+      },
+      {
+         "State": "Indiana",
+         "Sales in billion U.S. dollars": 1.21
+      },
+      {
+         "State": "West Virginia",
+         "Sales in billion U.S. dollars": 1.14
+      },
+      {
+         "State": "Kentucky",
+         "Sales in billion U.S. dollars": 1.0
+      },
+      {
+         "State": "Rhode Island",
+         "Sales in billion U.S. dollars": 0.88
+      },
+      {
+         "State": "Arizona",
+         "Sales in billion U.S. dollars": 0.87
+      },
+      {
+         "State": "Washington",
+         "Sales in billion U.S. dollars": 0.69
+      },
+      {
+         "State": "Delaware",
+         "Sales in billion U.S. dollars": 0.63
+      },
+      {
+         "State": "Wisconsin",
+         "Sales in billion U.S. dollars": 0.63
+      },
+      {
+         "State": "Minnesota",
+         "Sales in billion U.S. dollars": 0.59
+      },
+      {
+         "State": "Colorado",
+         "Sales in billion U.S. dollars": 0.59
+      },
+      {
+         "State": "Louisiana",
+         "Sales in billion U.S. dollars": 0.51
+      },
+      {
+         "State": "Arkansas",
+         "Sales in billion U.S. dollars": 0.46
+      },
+      {
+         "State": "Iowa",
+         "Sales in billion U.S. dollars": 0.37
+      },
+      {
+         "State": "New Hampshire",
+         "Sales in billion U.S. dollars": 0.3
+      },
+      {
+         "State": "Kansas",
+         "Sales in billion U.S. dollars": 0.27
+      },
+      {
+         "State": "Maine",
+         "Sales in billion U.S. dollars": 0.27
+      },
+      {
+         "State": "South Dakota",
+         "Sales in billion U.S. dollars": 0.26
+      },
+      {
+         "State": "Idaho",
+         "Sales in billion U.S. dollars": 0.24
+      },
+      {
+         "State": "District of Columbia",
+         "Sales in billion U.S. dollars": 0.23
+      },
+      {
+         "State": "Oklahoma",
+         "Sales in billion U.S. dollars": 0.19
+      },
+      {
+         "State": "Nebraska",
+         "Sales in billion U.S. dollars": 0.18
+      },
+      {
+         "State": "New Mexico",
+         "Sales in billion U.S. dollars": 0.15
+      },
+      {
+         "State": "Vermont",
+         "Sales in billion U.S. dollars": 0.12
+      },
+      {
+         "State": "Montana",
+         "Sales in billion U.S. dollars": 0.06
+      },
+      {
+         "State": "North Dakota",
+         "Sales in billion U.S. dollars": 0.04
+      },
+      {
+         "State": "Wyoming",
+         "Sales in billion U.S. dollars": 0.03
+      }
+   ]
+}

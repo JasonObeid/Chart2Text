@@ -1,0 +1,112 @@
+{
+   "title": "Unemployment rate in Northern Ireland ( UK ) 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "The Unemployment rate of the Northern Ireland in 2019 was 2.7 % , the lowest it has been since the mid-1970s . ",
+      "From 2000 until the 2008 financial crash the Unemployment rate in the UK fluctuated between 4.6 and 4.4 percent , before it increased suddenly in 2009 to 7.5 % . ",
+      "After peaking at 7.5 % in 2013 , the Unemployment rate gradually declined before returning to the levels seen in the early 2000s by 2015 ."
+   ],
+   "trends": [
+      {
+         "7": "0",
+         "9": "0"
+      },
+      {
+         "1": "19",
+         "4": "11",
+         "15": "14",
+         "17": "11",
+         "25": "10",
+         "27": "6"
+      },
+      {
+         "3": "6",
+         "6": "6",
+         "24": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "2.7"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "3.6"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "4.6"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "5.7"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "6.1"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "6.4"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "7.5"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "7.4"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "7.2"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "7.1"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "6.4"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "4.4"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "4.4"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "4.6"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "5"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "5.6"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "5.9"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "6"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "6.2"
+      }
+   ]
+}

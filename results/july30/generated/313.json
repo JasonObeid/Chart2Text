@@ -1,0 +1,157 @@
+{
+   "title": "Sugar beet production in the U.S. 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in thousand tons, with a total of 20 data points. The chart has 7 significant trends.",
+      " The longest trend is  positive which exists from 2019 to 2016.",
+      " Also, the next significant trend is  negative which exists from 2003 to 2000.",
+      " But, the next significant trend is  negative which exists from 2016 to 2014.",
+      " On the contrary, the next significant trend is  positive which exists from 2014 to 2012.",
+      " Also, the next significant trend is  negative which exists from 2010 to 2008.",
+      " Conversely, the next significant trend is  positive which exists from 2008 to 2006.",
+      " Similarly, the next significant trend is  positive which exists from 2005 to 2003."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-2699.5x+5479771.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 16,
+         "end": 19,
+         "trend": "y=-349.4x+728490.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 3,
+         "end": 5,
+         "trend": "y=2817.5x+-5642737.17",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 5,
+         "end": 7,
+         "trend": "y=-1969.5x+3997702.83",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 9,
+         "end": 11,
+         "trend": "y=2576.5x+-5146622.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 11,
+         "end": 13,
+         "trend": "y=-3591.5x+7239066.83",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 14,
+         "end": 16,
+         "trend": "y=-1638.5x+3312942.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in thousand tons": 28600.0
+      },
+      {
+         "Year": "2018",
+         "Production in thousand tons": 33282.0
+      },
+      {
+         "Year": "2017",
+         "Production in thousand tons": 35317.0
+      },
+      {
+         "Year": "2016",
+         "Production in thousand tons": 36920.0
+      },
+      {
+         "Year": "2015",
+         "Production in thousand tons": 35371.0
+      },
+      {
+         "Year": "2014",
+         "Production in thousand tons": 31285.0
+      },
+      {
+         "Year": "2013",
+         "Production in thousand tons": 32789.0
+      },
+      {
+         "Year": "2012",
+         "Production in thousand tons": 35224.0
+      },
+      {
+         "Year": "2011",
+         "Production in thousand tons": 28896.0
+      },
+      {
+         "Year": "2010",
+         "Production in thousand tons": 32034.0
+      },
+      {
+         "Year": "2009",
+         "Production in thousand tons": 29783.0
+      },
+      {
+         "Year": "2008",
+         "Production in thousand tons": 26881.0
+      },
+      {
+         "Year": "2007",
+         "Production in thousand tons": 31834.0
+      },
+      {
+         "Year": "2006",
+         "Production in thousand tons": 34064.0
+      },
+      {
+         "Year": "2005",
+         "Production in thousand tons": 27433.0
+      },
+      {
+         "Year": "2004",
+         "Production in thousand tons": 30021.0
+      },
+      {
+         "Year": "2003",
+         "Production in thousand tons": 30710.0
+      },
+      {
+         "Year": "2002",
+         "Production in thousand tons": 27707.0
+      },
+      {
+         "Year": "2001",
+         "Production in thousand tons": 25708.0
+      },
+      {
+         "Year": "2000",
+         "Production in thousand tons": 32541.0
+      }
+   ]
+}

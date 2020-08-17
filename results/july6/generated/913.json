@@ -1,0 +1,122 @@
+{
+   "title": "Global online retail website visits duration 2015 - 2019 , by device",
+   "labels": [
+      "Quarter",
+      "Desktop",
+      "Smartphone",
+      "Tablet"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows a timeline with the global online of retail website visits Global 2015 2019 from the first Quarter of 2015 to the third Quarter of 2019 , by . ",
+      "During the survey period , it was found that 6 % of retail website sales ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q2 '15",
+         "Desktop": "6",
+         "Smartphone": "6",
+         "Tablet": "7"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Desktop": "6",
+         "Smartphone": "5",
+         "Tablet": "7"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Desktop": "7",
+         "Smartphone": "6",
+         "Tablet": "7"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Desktop": "7",
+         "Smartphone": "6",
+         "Tablet": "7"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Desktop": "6",
+         "Smartphone": "5",
+         "Tablet": "7"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Desktop": "6",
+         "Smartphone": "5",
+         "Tablet": "7"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Desktop": "7",
+         "Smartphone": "6",
+         "Tablet": "8"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Desktop": "7",
+         "Smartphone": "6",
+         "Tablet": "8"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Desktop": "6",
+         "Smartphone": "5",
+         "Tablet": "7"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Desktop": "5",
+         "Smartphone": "4",
+         "Tablet": "5"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Desktop": "5",
+         "Smartphone": "4",
+         "Tablet": "5"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Desktop": "5",
+         "Smartphone": "4",
+         "Tablet": "5"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Desktop": "5",
+         "Smartphone": "4",
+         "Tablet": "5"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Desktop": "5",
+         "Smartphone": "4",
+         "Tablet": "5"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Desktop": "6",
+         "Smartphone": "4",
+         "Tablet": "5"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Desktop": "5",
+         "Smartphone": "4",
+         "Tablet": "5"
+      }
+   ]
+}

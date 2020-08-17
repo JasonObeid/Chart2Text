@@ -1,0 +1,77 @@
+{
+   "title": "Global number of American Apparel stores by region 2010 to 2014",
+   "labels": [
+      "Year",
+      "United States",
+      "Canada",
+      "International",
+      "Total"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Global number American of the American Apparel from 2010 to 2014 , 2010 2014 . ",
+      "In 2011 , the American Apparel 's United States 2014 made up 143 % of their Global revenue.UnileverUnilever operates in nearly 190 countries around the world and has been a traditional paragon of excellence and quality in the Fast Moving Consumer Goods sector . ",
+      "The company derives its competitive advantage from its Global footprint and its track record of enhancing value for the consumers around the world ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "4",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "0"
+         ],
+         "11": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "United States": "136",
+         "Canada": "31",
+         "International": "75",
+         "Total": "242"
+      },
+      {
+         "Year": "2013",
+         "United States": "139",
+         "Canada": "32",
+         "International": "77",
+         "Total": "248"
+      },
+      {
+         "Year": "2012",
+         "United States": "140",
+         "Canada": "35",
+         "International": "76",
+         "Total": "251"
+      },
+      {
+         "Year": "2011",
+         "United States": "143",
+         "Canada": "37",
+         "International": "69",
+         "Total": "249"
+      },
+      {
+         "Year": "2010",
+         "United States": "157",
+         "Canada": "40",
+         "International": "76",
+         "Total": "273"
+      }
+   ]
+}

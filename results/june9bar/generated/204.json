@@ -1,0 +1,43 @@
+{
+   "title": "Distribution of Kickstarter funding amounts raised 2019",
+   "xAxis": "Money raised (in U.S. dollars)",
+   "yAxis": "Number of projects",
+   "graphType": "bar",
+   "summary": [
+      "The graph shows the Distribution 2019 of the 2019 of Distribution Kickstarter funding raised in the Kickstarter in 2019 . ",
+      "In 2019 , it was found that Less_than_1000 had 92970 million projects ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Money raised (in U.S. dollars)": "Less than 1000",
+         "Number of projects": "21945"
+      },
+      {
+         "Money raised (in U.S. dollars)": "1000 to 9999",
+         "Number of projects": "92970"
+      },
+      {
+         "Money raised (in U.S. dollars)": "10000 to 19999",
+         "Number of projects": "24579"
+      },
+      {
+         "Money raised (in U.S. dollars)": "20000 to 99999",
+         "Number of projects": "24804"
+      },
+      {
+         "Money raised (in U.S. dollars)": "100K to 999999",
+         "Number of projects": "6063"
+      },
+      {
+         "Money raised (in U.S. dollars)": "More than 1M+",
+         "Number of projects": "385"
+      }
+   ]
+}

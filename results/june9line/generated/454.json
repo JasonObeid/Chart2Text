@@ -1,0 +1,46 @@
+{
+   "title": "Average global hotel rates from 2009 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Average hotel rate in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "In 2009 , the Average global hotel rate revenue amounted to 179 billion dollars . ",
+      "The hotel of football events is the live coverage of football matches on television or radio . ",
+      "In recent years , the global 2009 of the French top football league is increasing , whether it concerns the market 2009 of the teams or the transfer fee spending of Average global football clubs ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2009",
+         "Average hotel rate in U.S. dollars": "155"
+      },
+      {
+         "Year": "2010",
+         "Average hotel rate in U.S. dollars": "162"
+      },
+      {
+         "Year": "2011",
+         "Average hotel rate in U.S. dollars": "174"
+      },
+      {
+         "Year": "2012",
+         "Average hotel rate in U.S. dollars": "171"
+      },
+      {
+         "Year": "2013",
+         "Average hotel rate in U.S. dollars": "171"
+      },
+      {
+         "Year": "2014",
+         "Average hotel rate in U.S. dollars": "174"
+      },
+      {
+         "Year": "2015",
+         "Average hotel rate in U.S. dollars": "179"
+      }
+   ]
+}

@@ -1,0 +1,66 @@
+{
+   "title": "Leading mobile messengers in the U.S. 2019 , by users\n",
+   "xAxis": "Platform",
+   "yAxis": "Number of monthly unique users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 12 categories for the x axis representing Platform, and a y axis representing Number of monthly unique users in millions.",
+      " The highest category is found at Facebook_Messenger where Number of monthly unique users in millions is 106.4.",
+      " The lowest category is found at WeChat where Number of monthly unique users in millions is 1.48."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 11
+   },
+   "data": [
+      {
+         "Platform": "Facebook Messenger",
+         "Number of monthly unique users in millions": 106.4
+      },
+      {
+         "Platform": "Snapchat",
+         "Number of monthly unique users in millions": 45.98
+      },
+      {
+         "Platform": "WhatsApp",
+         "Number of monthly unique users in millions": 25.58
+      },
+      {
+         "Platform": "Messenger by Google",
+         "Number of monthly unique users in millions": 17.46
+      },
+      {
+         "Platform": "Discord - Chat for Games",
+         "Number of monthly unique users in millions": 15.01
+      },
+      {
+         "Platform": "Google Hangouts (main)",
+         "Number of monthly unique users in millions": 14.19
+      },
+      {
+         "Platform": "GroupMe",
+         "Number of monthly unique users in millions": 10.75
+      },
+      {
+         "Platform": "Kik",
+         "Number of monthly unique users in millions": 7.72
+      },
+      {
+         "Platform": "Skype (main)",
+         "Number of monthly unique users in millions": 5.53
+      },
+      {
+         "Platform": "Telegram",
+         "Number of monthly unique users in millions": 3.47
+      },
+      {
+         "Platform": "LINE",
+         "Number of monthly unique users in millions": 3.15
+      },
+      {
+         "Platform": "WeChat",
+         "Number of monthly unique users in millions": 1.48
+      }
+   ]
+}

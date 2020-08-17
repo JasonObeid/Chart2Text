@@ -1,0 +1,89 @@
+{
+   "title": "Halloween costume expenditure in the U.S. 2010 - 2017 , by type",
+   "labels": [
+      "Year",
+      "Adult costumes",
+      "Children's costumes",
+      "Pet costumes"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Halloween costume expenditure in the U.S. and the U.S. by from 2010 to 2017 . ",
+      "The figures refer to those younger than 25 years . ",
+      "In 2017 , the Halloween costume expenditure in the U.S. amounted to 1.23 billion ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "7",
+            "0"
+         ],
+         "17": [
+            "0",
+            "0"
+         ]
+      },
+      {},
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "12": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Adult costumes": "1.68",
+         "Children's costumes": "1.23",
+         "Pet costumes": "0.44"
+      },
+      {
+         "Year": "2016",
+         "Adult costumes": "1.54",
+         "Children's costumes": "1.17",
+         "Pet costumes": "0.42"
+      },
+      {
+         "Year": "2015",
+         "Adult costumes": "1.22",
+         "Children's costumes": "0.95",
+         "Pet costumes": "0.35"
+      },
+      {
+         "Year": "2014",
+         "Adult costumes": "1.38",
+         "Children's costumes": "1.06",
+         "Pet costumes": "0.35"
+      },
+      {
+         "Year": "2013",
+         "Adult costumes": "1.22",
+         "Children's costumes": "1.04",
+         "Pet costumes": "0.33"
+      },
+      {
+         "Year": "2012",
+         "Adult costumes": "1.4",
+         "Children's costumes": "1.1",
+         "Pet costumes": "0.37"
+      },
+      {
+         "Year": "2011",
+         "Adult costumes": "1.21",
+         "Children's costumes": "1.0",
+         "Pet costumes": "0.31"
+      },
+      {
+         "Year": "2010",
+         "Adult costumes": "0.99",
+         "Children's costumes": "0.84",
+         "Pet costumes": "0.22"
+      }
+   ]
+}

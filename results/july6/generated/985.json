@@ -1,0 +1,60 @@
+{
+   "title": "Net profit margin of the leading 10 consumer products companies in the U.S. 2013",
+   "xAxis": "Company",
+   "yAxis": "Net profit margin",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. all-time profit 10 , as of October 14 , 2013 . ",
+      "Apple_Inc. has the most profit in U.S. profit franchise history with 28.3 profit ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Apple Inc.",
+         "Net profit margin": "21.7"
+      },
+      {
+         "Company": "The Procter & Gamble Company",
+         "Net profit margin": "14.2"
+      },
+      {
+         "Company": "PepsiCo Inc.",
+         "Net profit margin": "10.2"
+      },
+      {
+         "Company": "The Coca-Cola Company",
+         "Net profit margin": "18.4"
+      },
+      {
+         "Company": "Mondel\u00e9z International",
+         "Net profit margin": "11.1"
+      },
+      {
+         "Company": "Tyson Foods Inc.",
+         "Net profit margin": "2.3"
+      },
+      {
+         "Company": "Mars Inc.",
+         "Net profit margin": "0"
+      },
+      {
+         "Company": "Philip Morris International Inc.",
+         "Net profit margin": "28.3"
+      },
+      {
+         "Company": "NIKE Inc.",
+         "Net profit margin": "9.7"
+      },
+      {
+         "Company": "Kimberly-Clark Corporation",
+         "Net profit margin": "10.5"
+      }
+   ]
+}

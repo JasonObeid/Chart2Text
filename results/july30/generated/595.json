@@ -1,0 +1,130 @@
+{
+   "title": "U.S. peanut production volume 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in thousand pounds, with a total of 20 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely negative which exists from 2005 to 2002.",
+      " Differently, the next significant trend is extremely negative which exists from 2015 to 2013.",
+      " Conversely, the next significant trend is extremely negative which exists from 2008 to 2006.",
+      " On the other hand, the next significant trend is slightly positive which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 14,
+         "end": 17,
+         "trend": "y=479051.0x+-955622866.0",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 4,
+         "end": 6,
+         "trend": "y=914093.5x+-1835863245.0",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 11,
+         "end": 13,
+         "trend": "y=849075.0x+-1699993891.67",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 17,
+         "end": 19,
+         "trend": "y=27767.5x+-51941684.5",
+         "magnitude": "slightly"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in thousand pounds": 5496087.0
+      },
+      {
+         "Year": "2018",
+         "Production in thousand pounds": 5461600.0
+      },
+      {
+         "Year": "2017",
+         "Production in thousand pounds": 7115410.0
+      },
+      {
+         "Year": "2016",
+         "Production in thousand pounds": 5684610.0
+      },
+      {
+         "Year": "2015",
+         "Production in thousand pounds": 6001357.0
+      },
+      {
+         "Year": "2014",
+         "Production in thousand pounds": 5188665.0
+      },
+      {
+         "Year": "2013",
+         "Production in thousand pounds": 4173170.0
+      },
+      {
+         "Year": "2012",
+         "Production in thousand pounds": 6753880.0
+      },
+      {
+         "Year": "2011",
+         "Production in thousand pounds": 3658590.0
+      },
+      {
+         "Year": "2010",
+         "Production in thousand pounds": 4156840.0
+      },
+      {
+         "Year": "2009",
+         "Production in thousand pounds": 3691650.0
+      },
+      {
+         "Year": "2008",
+         "Production in thousand pounds": 5162400.0
+      },
+      {
+         "Year": "2007",
+         "Production in thousand pounds": 3672250.0
+      },
+      {
+         "Year": "2006",
+         "Production in thousand pounds": 3464250.0
+      },
+      {
+         "Year": "2005",
+         "Production in thousand pounds": 4869860.0
+      },
+      {
+         "Year": "2004",
+         "Production in thousand pounds": 4288200.0
+      },
+      {
+         "Year": "2003",
+         "Production in thousand pounds": 4144150.0
+      },
+      {
+         "Year": "2002",
+         "Production in thousand pounds": 3321040.0
+      },
+      {
+         "Year": "2001",
+         "Production in thousand pounds": 4276704.0
+      },
+      {
+         "Year": "2000",
+         "Production in thousand pounds": 3265505.0
+      }
+   ]
+}

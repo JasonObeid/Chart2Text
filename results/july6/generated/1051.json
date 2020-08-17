@@ -1,0 +1,69 @@
+{
+   "title": "Urbanization in China 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the degree of Urbanization in China from 2008 to 2018 . ",
+      "Urbanization is measured as the proportion of urban population in the total population . ",
+      "In 2018 , around 59.58 % of the Mexican population lived in urban areas ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population": "59.58"
+      },
+      {
+         "Year": "2017",
+         "Share of urban population": "58.52"
+      },
+      {
+         "Year": "2016",
+         "Share of urban population": "57.35"
+      },
+      {
+         "Year": "2015",
+         "Share of urban population": "56.1"
+      },
+      {
+         "Year": "2014",
+         "Share of urban population": "54.77"
+      },
+      {
+         "Year": "2013",
+         "Share of urban population": "53.73"
+      },
+      {
+         "Year": "2012",
+         "Share of urban population": "52.57"
+      },
+      {
+         "Year": "2011",
+         "Share of urban population": "51.27"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population": "49.95"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population": "48.34"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population": "46.99"
+      }
+   ]
+}

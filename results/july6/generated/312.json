@@ -1,0 +1,76 @@
+{
+   "title": "Celgene 's top product revenues 2013 to 2018",
+   "labels": [
+      "Drug name (therapy area)",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic outlines the top product of Celgene from 2013 to 2018 , sorted revenues 2013 . ",
+      "In 2018 , Celgene 's top product in the U.S. amounted to approximately 1.73 million barrels per day . ",
+      "Celgene is a Other States-based multinational oil and gas corporation headquartered in Irving , Texas ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "3": [
+            "4",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Drug name (therapy area)": "Revlimid (cancer)",
+         "2013": "4280.3",
+         "2014": "4980",
+         "2015": "5801.1",
+         "2016": "6973.6",
+         "2017": "8187",
+         "2018": "9685"
+      },
+      {
+         "Drug name (therapy area)": "Pomalyst/Imnovid (cancer)",
+         "2013": "305.4",
+         "2014": "679.7",
+         "2015": "983.3",
+         "2016": "1310.7",
+         "2017": "1614",
+         "2018": "2040"
+      },
+      {
+         "Drug name (therapy area)": "Otezla (psoriasis)",
+         "2013": "0",
+         "2014": "69.8",
+         "2015": "471.7",
+         "2016": "1017.2",
+         "2017": "1279",
+         "2018": "1608"
+      },
+      {
+         "Drug name (therapy area)": "Abraxane (cancer)",
+         "2013": "648.9",
+         "2014": "848.2",
+         "2015": "967.5",
+         "2016": "973.4",
+         "2017": "992",
+         "2018": "1062"
+      },
+      {
+         "Drug name (therapy area)": "Other",
+         "2013": "0",
+         "2014": "0",
+         "2015": "0",
+         "2016": "0",
+         "2017": "901",
+         "2018": "870"
+      }
+   ]
+}

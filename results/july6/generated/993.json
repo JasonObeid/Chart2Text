@@ -1,0 +1,113 @@
+{
+   "title": "Employment by economic sector in Ecuador 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the distribution of Employment in Ecuador by economic sector from 2009 to 2019 . ",
+      "In 2019 , 27.27 % of the employees in Ecuador were active in the agricultural sector , 18.53 % in Industry and 54.2 % in the service sector ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "27.27",
+         "Industry": "18.53",
+         "Services": "54.2"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "27.48",
+         "Industry": "18.54",
+         "Services": "53.98"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "27.69",
+         "Industry": "18.55",
+         "Services": "53.75"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "26.94",
+         "Industry": "18.63",
+         "Services": "54.43"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "26.19",
+         "Industry": "19.66",
+         "Services": "54.15"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "25.28",
+         "Industry": "19.96",
+         "Services": "54.77"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "26.65",
+         "Industry": "19.08",
+         "Services": "54.27"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "27.98",
+         "Industry": "17.52",
+         "Services": "54.5"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "27.91",
+         "Industry": "17.95",
+         "Services": "54.15"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "27.88",
+         "Industry": "18.49",
+         "Services": "53.63"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "28.71",
+         "Industry": "18.79",
+         "Services": "52.5"
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Thanksgiving holiday travelers in the U.S. from 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of travelers in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the development of Thanksgiving travelers to millions ( Thanksgiving penetration ) on the European domestic Thanksgiving market between 2005 and 2019 . ",
+      "The millions is used as an indicator of Thanksgiving sector development . ",
+      "In 2019 , the travelers millions to was 55.3 millions ."
+   ],
+   "trends": [
+      {
+         "21": "14",
+         "23": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of travelers in millions": "55.3"
+      },
+      {
+         "Year": "2018",
+         "Number of travelers in millions": "54.3"
+      },
+      {
+         "Year": "2017",
+         "Number of travelers in millions": "51.71"
+      },
+      {
+         "Year": "2016",
+         "Number of travelers in millions": "49.29"
+      },
+      {
+         "Year": "2015",
+         "Number of travelers in millions": "47.7"
+      },
+      {
+         "Year": "2014",
+         "Number of travelers in millions": "46.6"
+      },
+      {
+         "Year": "2013",
+         "Number of travelers in millions": "44.4"
+      },
+      {
+         "Year": "2012",
+         "Number of travelers in millions": "44.0"
+      },
+      {
+         "Year": "2011",
+         "Number of travelers in millions": "43.3"
+      },
+      {
+         "Year": "2010",
+         "Number of travelers in millions": "40.9"
+      },
+      {
+         "Year": "2009",
+         "Number of travelers in millions": "37.9"
+      },
+      {
+         "Year": "2008",
+         "Number of travelers in millions": "37.8"
+      },
+      {
+         "Year": "2007",
+         "Number of travelers in millions": "50.6"
+      },
+      {
+         "Year": "2006",
+         "Number of travelers in millions": "47.6"
+      },
+      {
+         "Year": "2005",
+         "Number of travelers in millions": "58.6"
+      }
+   ]
+}

@@ -1,0 +1,37 @@
+{
+   "title": "Sexual orientation of Americans in 2013",
+   "labels": [
+      "Sexual Orientation",
+      "Women",
+      "Men"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 3 categories for the x axis of Sexual Orientation representing Women, and Men.",
+      " The highest category is found at Straight with a mean value of 97.75.",
+      " The second highest category is found at Lesbian / Gay with a mean value of 1.65.",
+      " This represents a difference of 193.4%."
+   ],
+   "trends": {
+      "maxIndex": 2,
+      "secondIndex": 2
+   },
+   "data": [
+      {
+         "Sexual Orientation": "Lesbian / Gay",
+         "Women": "1.5",
+         "Men": "1.8"
+      },
+      {
+         "Sexual Orientation": "Bisexual",
+         "Women": "0.9",
+         "Men": "0.4"
+      },
+      {
+         "Sexual Orientation": "Straight",
+         "Women": "97.7",
+         "Men": "97.8"
+      }
+   ]
+}

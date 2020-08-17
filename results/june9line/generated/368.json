@@ -1,0 +1,58 @@
+{
+   "title": "Total U.S. domestic raisin consumption 2010/11 - 2018/19",
+   "xAxis": "Year",
+   "yAxis": "Domestic consumption in metric tons",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Domestic of consumption the raisin domestic in U.S. , the United Kingdom ( U.S. ) from 2010/2011 to 2018/2019 . ",
+      "In 2018/2019 , there were around 205564 billion consumption in the U.S. , an increase of 44 % consumption on the previous Year ."
+   ],
+   "trends": [
+      {
+         "21": "8",
+         "23": "0"
+      },
+      {
+         "1": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/2019",
+         "Domestic consumption in metric tons": "205564"
+      },
+      {
+         "Year": "2017/2018",
+         "Domestic consumption in metric tons": "205000"
+      },
+      {
+         "Year": "2016/2017",
+         "Domestic consumption in metric tons": "220909"
+      },
+      {
+         "Year": "2015/2016",
+         "Domestic consumption in metric tons": "235136"
+      },
+      {
+         "Year": "2014/2015",
+         "Domestic consumption in metric tons": "238039"
+      },
+      {
+         "Year": "2013/2014",
+         "Domestic consumption in metric tons": "215636"
+      },
+      {
+         "Year": "2012/2013",
+         "Domestic consumption in metric tons": "205122"
+      },
+      {
+         "Year": "2011/2012",
+         "Domestic consumption in metric tons": "215579"
+      },
+      {
+         "Year": "2010/2011",
+         "Domestic consumption in metric tons": "208646"
+      }
+   ]
+}

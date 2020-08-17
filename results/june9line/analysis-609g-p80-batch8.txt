@@ -1,0 +1,120 @@
+Example 13:
+titleEntities: {'Subject': ['United Kingdom', 'UK'], 'Date': ['2010', '2018']}
+title: University applicants in the United Kingdom ( UK ) 2010 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010']
+Y_Axis['Number', 'of', 'university', 'applicants']: ['636960', '649700', '674890', '673040', '659030', '635910', '616700', '668150', '658560']
+
+gold: This statistic shows the number of applicants to universities in the United Kingdom ( UK ) from 2010 to 2018 . The number of applicants peaked in 2016 . The lower figures in 2012 and 2013 may be connected to the rise of the tuition fee limit in 2012 to 9,000 British pounds per year .
+gold_template: This statistic shows the templateYLabel[0] of templateYLabel[2] to universities in the templateTitleSubject[0] ( templateTitleSubject[1] ) from templateXValue[min] to templateXValue[max] . The templateYLabel[0] of templateYLabel[2] peaked in templateXValue[2] . The lower figures in templateXValue[6] and templateXValue[5] may be connected to the rise of the tuition fee limit in templateXValue[6] to 9,000 British pounds per templateXLabel[0] .
+
+generated_template: The statistic presents the templateYLabel[0] templateYLabel[1] of the templateTitleSubject[1] templateTitle[2] , a franchise of the National Football League , templateTitle[4] templateXValue[min] to templateXValue[max] . In the templateXValue[max] season , the templateYLabel[0] templateYLabel[1] of the templateTitleSubject[1] templateTitle[2] were at templateYValue[idxmax(X)] templateScale templateYLabel[3] templateYLabel[4] .
+generated: The statistic presents the Number university of the UK United , a franchise of the National Football League , UK 2010 to 2018 .  In the 2018 season , the Number university of the UK United were at 636960 million applicants .
+
+Example 49:
+titleEntities: {'Subject': ['Japan'], 'Date': ['2017', '2023']}
+title: Japan : mobile internet users 2017 to 2023
+X_Axis['Year']: ['2023', '2022', '2021', '2020', '2019', '2018', '2017']
+Y_Axis['Number', 'of', 'mobile', 'phone', 'internet', 'users', 'in', 'millions']: ['71.9', '71.5', '70.8', '69.9', '68.4', '66.6', '64.0']
+
+gold: The statistic shows the number of mobile internet users in Japan from 2017 to 2023 . In 2018 , approximately 66.6 million people accessed the internet through mobile devices . In 2023 , this figure is projected to reach about 71.9 million mobile internet users .
+gold_template: The statistic shows the templateYLabel[0] of templateYLabel[1] templateYLabel[3] templateYLabel[4] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[5] , approximately templateYValue[5] templateScale people accessed the templateYLabel[3] through templateYLabel[1] devices . In templateXValue[max] , this figure is projected to reach about templateYValue[idxmax(X)] templateScale templateYLabel[1] templateYLabel[3] templateYLabel[4] .
+
+generated_template: The statistic shows the templateYLabel[0] of templateYLabel[1] templateYLabel[3] templateYLabel[4] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[min] , templateYValue[idxmin(X)] templateScale people accessed the templateYLabel[3] through their templateYLabel[1] templateYLabel[2] . In templateXValue[max] , this figure is projected to amount to templateYValue[idxmax(X)] templateScale templateYLabel[1] templateYLabel[2] templateYLabel[3] templateYLabel[4] .
+generated: The statistic shows the Number of mobile internet users in Japan from 2017 to 2023 .  In 2017 , 64.0 millions people accessed the internet through their mobile phone .  In 2023 , this figure is projected to amount 71.9 millions mobile phone internet users .
+
+Example 52:
+titleEntities: {'Subject': ['CPI UAE'], 'Date': ['2012']}
+title: Average CPI in the UAE 2012 to 2017
+X_Axis['Year']: ['2017', '2016', '2015', '2014', '2013', '2012']
+Y_Axis['Consumer', 'price', 'index']: ['107.83', '105.75', '125.75', '120.84', '118.07', '116.78']
+
+gold: The statistic shows the average consumer price index ( CPI ) in the United Arab Emirates from 2012 to 2017 . The overall average for the 2017 consumer price index in the country was 107.83 , implying a 7.83 increase in the price level .
+gold_template: The statistic shows the templateTitle[0] templateYLabel[0] templateYLabel[1] templateYLabel[2] ( templateTitleSubject[0] ) in the United Arab Emirates from templateXValue[min] to templateXValue[max] . The overall templateTitle[0] for the templateXValue[max] templateYLabel[0] templateYLabel[1] templateYLabel[2] in the country was templateYValue[idxmax(X)] , implying a 7.83 templatePositiveTrend in the templateYLabel[1] level .
+
+generated_template: This statistic presents the templateYLabel[0] templateYLabel[1] of templateTitleSubject[0] templateYLabel[2] templateYLabel[3] templateTitle[2] from templateXValue[min] to templateXValue[max] . For the 52 weeks ended on 1 , templateXValue[max] , there were approximately templateYValue[idxmax(X)] templateYValue[idxmax(X)] templateTitleSubject[0] cardholders all over the world .
+generated: This statistic presents the Consumer price of CPI UAE index UAE from 2012 to 2017 .  For the 52 weeks ended on 1 , 2017 there were approximately 107.83 CPI UAE cardholders all over the world .
+
+Example 112:
+titleEntities: {'Subject': ['United Kingdom', 'UK'], 'Date': ['2004', '2017']}
+title: Companies on the insurance market in the United Kingdom ( UK ) 2004 to 2017
+X_Axis['Year']: ['2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004']
+Y_Axis['Number', 'of', 'companies']: ['436', '464', '496', '526', '613', '528', '540', '521', '534', '549', '576', '594', '640', '673']
+
+gold: As of 2017 , The United Kingdom ( UK ) had the largest insurance market in Europe , and fourth largest globally . Direct premiums written by UK companies , increased between 2016 to 2017 , with claims and benefits paid reaching nearly 290 billion euros . Leading insurance companies As of 2016 , Prudential Plc was the leading insurance company in the United Kingdom in terms of total assets and market value ( market capitalization ) .
+gold_template: As of templateXValue[max] , The templateTitleSubject[0] ( templateTitleSubject[1] ) had the largest templateTitle[1] templateTitle[2] in Europe , and fourth largest globally . Direct premiums written by templateTitleSubject[1] templateYLabel[1] , templatePositiveTrend between templateXValue[1] to templateXValue[max] , with claims and benefits paid reaching nearly 290 templateScale euros . Leading templateTitle[1] templateYLabel[1] As of templateXValue[1] , Prudential Plc was the leading templateTitle[1] company in the templateTitleSubject[0] in terms of total assets and templateTitle[2] value ( templateTitle[2] capitalization ) .
+
+generated_template: This statistic displays the templateYLabel[0] templateYLabel[1] of the templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] templateYLabel[1] of the templateTitle[2] templateTitle[3] of the templateTitle[3] amounted to approximately templateYValue[idxmax(X)] templateScale .
+generated: This statistic displays the Number companies of the insurance market United in United Kingdom from 2004 to 2017 .  In 2017 , the Number companies of the market United of the United amounted to approximately 436 million .
+
+Example 151:
+titleEntities: {'Subject': ['Texas'], 'Date': ['2000', '2018']}
+title: Texas - poverty rate 2000 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
+Y_Axis['Percentage', 'of', 'population']: ['14.9', '14.7', '15.6', '15.9', '17.2', '17.5', '17.9', '18.5', '17.9', '17.2', '15.8', '16.3', '16.9', '17.6', '16.6', '16.3', '15.6', '15', '15.1']
+
+gold: This statistic shows the poverty rate in Texas from 2000 to 2018 . For instance , 14.9 percent of Texas 's population lived below the poverty line in 2018 .
+gold_template: This statistic shows the templateTitle[1] templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . For instance , templateYValue[idxmax(X)] templateScale of templateTitleSubject[0] 's templateYLabel[1] lived below the templateTitle[1] line in templateXValue[max] .
+
+generated_template: This statistic shows the templateTitle[1] templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , about templateYValue[idxmax(X)] templateScale of templateTitleSubject[0] 's templateYLabel[1] lived below the templateTitle[1] line .
+generated: This statistic shows the poverty rate in Texas from 2000 to 2018 .  In 2018 , about 14.9 percentage of Texas 's population lived below the poverty line .
+
+Example 202:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2010', '2019']}
+title: Ice hockey players in Canada 2010 to 2019
+X_Axis['Year']: ['2018/19', '2017/18', '2016/17', '2015/16', '2014/15', '2013/14', '2012/13', '2011/12', '2010/11']
+Y_Axis['Number', 'of', 'players']: ['621026', '637000', '631295', '639500', '721504', '721504', '625152', '617107', '572411']
+
+gold: The statistics depicts the number of registered ice hockey players in Canada from 2010/11 to 2017/18 . In the 2018/19 season , there were a total of 621,026 registered ice hockey players in Canada according to the International Ice Hockey Federation .
+gold_template: The statistics depicts the templateYLabel[0] of registered templateTitle[0] templateTitle[1] templateYLabel[1] in templateTitleSubject[0] from templateXValue[last] to templateXValue[1] . In the templateXValue[0] season , there were a total of templateYValue[0] registered templateTitle[0] templateTitle[1] templateYLabel[1] in templateTitleSubject[0] according to the International templateTitle[0] templateTitle[1] Federation .
+
+generated_template: The statistics depicts the templateYLabel[0] of registered templateTitle[0] templateTitle[1] templateYLabel[1] in the templateTitleSubject[0] from templateXValue[last] to templateXValue[0] . In the templateXValue[0] season , there were a total of templateYValue[max] registered templateTitle[0] templateTitle[1] templateYLabel[1] in the templateTitleSubject[0] according to the International templateTitle[0] templateTitle[1] Federation .
+generated: The statistics depicts the Number of registered Ice hockey players in the Canada from 2010/11 to 2018/19 .  In the 2018/19 season , there were a total of 721504 registered Ice hockey players in the Canada according to the International Ice hockey Federation .
+
+Example 316:
+titleEntities: {'Subject': ['Boeing'], 'Date': ['2004', '2019']}
+title: Boeing 737 - orders 2004 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004']
+Y_Axis['Number', 'of', 'aircraft']: ['69', '837', '865', '701', '666', '1196', '1208', '1184', '625', '508', '197', '488', '850', '733', '574', '152']
+
+gold: In 2019 , Boeing received gross orders for 69 units of its 737 narrow-body jet airliner series , but net orders after cancellations and changes ( under the ASC 606 revenue recognition standard ) came to a devastating negative 183 units . The slump in net orders came as a result of the jet maker 's 737 MAX crisis . Boeing delivered some 18 units of its 737 aircraft to Delta Air Lines in 2019 .
+gold_template: In templateXValue[max] , templateTitleSubject[0] received gross templateTitle[2] for templateYValue[idxmax(X)] units of its templateTitle[1] narrow-body jet airliner series , but net templateTitle[2] after cancellations and changes ( under the ASC 606 revenue recognition standard ) came to a devastating negative 183 units . The slump in net templateTitle[2] came as a result of the jet maker 's templateTitle[1] MAX crisis . templateTitleSubject[0] delivered some 18 units of its templateTitle[1] templateYLabel[1] to Delta Air Lines in templateXValue[idxmin(Y)] .
+
+generated_template: This statistic represents the templateTitle[2] templateTitle[3] templateYLabel[1] in templateTitleSubject[0] from templateXValue[min] through templateXValue[max] . templateTitleSubject[0] is estimated to consume around templateYValue[1] templateScale more templateTitle[2] from templateXValue[4] to templateXValue[3] . templateTitle[2] is an important building material .
+generated: This statistic represents the orders 2004 aircraft in Boeing from 2004 through 2019 .  Boeing is estimated to consume around 837 million more orders from 2015 to 2016 .  orders is an important building material .
+
+Example 492:
+titleEntities: {'Subject': ['Nissan', 'Europe'], 'Date': ['2003', '2018']}
+title: Nissan car sales in Europe 2003 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003']
+Y_Axis['Number', 'of', 'units', 'sold']: ['487017', '560415', '547343', '554046', '477703', '421134', '436169', '470004', '411084', '372096', '338169', '313437', '332150', '387325', '409717', '409511']
+
+gold: This statistic shows the number of cars sold by Nissan in Europe between 2003 and 2018 . European sales of the Nissan cars rose from 400 thousand units sold in 2003 to over 560 thousand units sold by 2017 . In 2018 , there were 487 thousand units of Nissan cars sold in Europe .
+gold_template: This statistic shows the templateYLabel[0] of cars templateYLabel[2] by templateTitleSubject[0] in templateTitleSubject[1] between templateXValue[min] and templateXValue[max] . European templateTitle[2] of the templateTitleSubject[0] cars templatePositiveTrend from 400 thousand templateYLabel[1] templateYLabel[2] in templateXValue[min] to over templateYValue[max] thousand templateYLabel[1] templateYLabel[2] by templateXValue[idxmax(Y)] . In templateXValue[max] , there were templateYValue[0] thousand templateYLabel[1] of templateTitleSubject[0] cars templateYLabel[2] in templateTitleSubject[1] .
+
+generated_template: In templateXValue[max] , there were templateYValue[idxmax(X)] templateTitle[1] templateTitle[2] templateYLabel[1] across the templateTitle[4] . The FDIC , of Federal Deposit Insurance Corporation , is an agency that insures the banking system in the templateTitle[4] . The templateYLabel[0] of such registered templateYLabel[1] has been declining since templateXValue[min] , when it there were over 7,800 templateTitle[1] templateYLabel[1] in the country .
+generated: In 2018 , there were 487017 car sales units across the 2003 .  The FDIC , of Federal Deposit Insurance Corporation , is an agency that insures the banking system in the 2003 .  The Number of such registered units has been declining since 2003 , when it there were over 7,800 car units in the country .
+
+Example 499:
+titleEntities: {'Subject': ['Spain'], 'Date': ['2006', '2018']}
+title: Number of deaths in Spain 2006 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006']
+Y_Axis['Number', 'of', 'deaths']: ['474523', '424523', '410611', '422568', '395830', '390419', '402950', '387911', '382047', '384933', '386324', '385361', '371478']
+
+gold: According to data provided by the Spanish Statistics Institute , more people died in Spain than were being born in 2018 , with figures reaching over 427 thousand deaths versus 370 thousand newborns . The number of deaths experienced an upward trend over the 11-year period , presumably due to Spain 's aging population . Circulatory system diseases and cancer ranked as the most common causes of death in Spain The cause of death can vary significantly across the globe and depends highly on economic development , presence of a competent healthcare system and one 's choices in lifestyle .
+gold_template: According to data provided by the Spanish Statistics Institute , more people died in templateTitleSubject[0] than were being born in templateXValue[max] , with figures reaching over 427 thousand templateYLabel[1] versus 370 thousand newborns . The templateYLabel[0] of templateYLabel[1] experienced an upward trend over the 11-year period , presumably due to templateTitleSubject[0] 's aging population . Circulatory system diseases and cancer ranked as the most common causes of death in templateTitleSubject[0] The cause of death can vary significantly across the globe and depends highly on economic development , presence of a competent healthcare system and one 's choices in lifestyle .
+
+generated_template: The statistic shows the templateYLabel[0] of templateYLabel[1] in templateTitleSubject[0] due to templateTitle[0] between templateXLabel[0] templateXValue[min] and templateXValue[max] . In templateXValue[max] , templateYValue[idxmax(X)] people were killed by terrorists in templateTitleSubject[0] . templateTitleSubject[0] suffered from 1,294 terrorist attacks that templateXLabel[0] .
+generated: The statistic shows the Number of deaths in Spain due to Number between Year 2006 and 2018 .  In 2018 , 474523 people were killed by terrorists in Spain .  Spain suffered from 1,294 terrorist attacks that Year .
+
+Example 528:
+titleEntities: {'Subject': ['ETFs U.S.'], 'Date': ['2002', '2018']}
+title: Total net assets of ETFs in the U.S. 2002 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002']
+Y_Axis['TNA', 'in', 'billion', 'U.S.', 'dollars']: ['3371', '3401', '2524', '2101', '1975', '1675', '1337', '1048', '992', '777', '531', '608', '423', '301', '228', '151', '102']
+
+gold: The statistic presents the total net assets of Exchange Traded Funds in the United States from 2002 to 2018 . The total net assets of the U.S. ETFs amounted to approximately 3.4 trillion U.S. dollars in 2018 .
+gold_template: The statistic presents the templateTitle[0] templateTitle[1] templateTitle[2] of Exchange Traded Funds in the templateTitle[4] from templateXValue[min] to templateXValue[max] . The templateTitle[0] templateTitle[1] templateTitle[2] of the templateYLabel[2] templateTitleSubject[0] amounted to approximately templateYValue[0] templateScale templateYLabel[2] templateYLabel[3] in templateXValue[max] .
+
+generated_template: In templateXValue[max] , there were templateYValue[idxmax(X)] templateTitle[1] templateTitle[2] templateYLabel[1] in the templateTitle[4] . The FDIC , of Federal Deposit Insurance Corporation , is an agency that insures the banking system in the templateTitle[4] . The templateYLabel[0] of such registered templateYLabel[1] has been declining since templateXValue[min] , when it there were over 7,800 templateTitle[1] templateYLabel[1] in the country .
+generated: In 2018 , there were 3371 net assets billion in the U.S. The FDIC , of Federal Deposit Insurance Corporation , is an agency that insures the banking system in the U.S. The TNA of such registered billion has been declining since 2002 , when it there were over 7,800 net billion in the country .
+

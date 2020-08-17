@@ -1,0 +1,51 @@
+{
+   "title": "Forecast of sulfur fertilizer demand worldwide 2014 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Total demand in million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Total demand of the sports company Forecast from 2014 to 2020 . ",
+      "Forecast had a Total demand of 69.0 million metric tons in 2014 ."
+   ],
+   "trends": [
+      {
+         "12": "6",
+         "14": "0"
+      },
+      {
+         "6": "0",
+         "11": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Total demand in million metric tons": "69.0"
+      },
+      {
+         "Year": "2019",
+         "Total demand in million metric tons": "67.7"
+      },
+      {
+         "Year": "2018",
+         "Total demand in million metric tons": "70.38"
+      },
+      {
+         "Year": "2017",
+         "Total demand in million metric tons": "68.08"
+      },
+      {
+         "Year": "2016",
+         "Total demand in million metric tons": "65.65"
+      },
+      {
+         "Year": "2015",
+         "Total demand in million metric tons": "63.47"
+      },
+      {
+         "Year": "2014",
+         "Total demand in million metric tons": "61.44"
+      }
+   ]
+}

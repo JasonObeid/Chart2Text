@@ -1,0 +1,51 @@
+{
+   "title": "Scotland : forecasted median age of population 2014 to 2039",
+   "xAxis": "Year",
+   "yAxis": "Age",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Scotland forecasted median age 2014 from to 2039 . ",
+      "Scotland forecasted median age was forecasted to increase by 43.5 % in 2024 and a further 43.5 % in 2029 forecasted median - additional information forecasted in the 21st century is no longer limited to a small geographical area , as internet communication and almost universal access to median and accommodation allow for easy national and transnational movement between companies , their partners , customers suppliers or distributors . ",
+      "Although multinational corporations and forecasted median have a long history , they have reached unprecedented levels in the modern era and seem to be growing every Year ."
+   ],
+   "trends": [
+      {
+         "11": "5",
+         "13": "0"
+      },
+      {
+         "9": "2",
+         "12": "3",
+         "16": "2",
+         "19": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2039",
+         "Age": "45.2"
+      },
+      {
+         "Year": "2034",
+         "Age": "44.3"
+      },
+      {
+         "Year": "2029",
+         "Age": "43.5"
+      },
+      {
+         "Year": "2024",
+         "Age": "42.9"
+      },
+      {
+         "Year": "2019",
+         "Age": "42.4"
+      },
+      {
+         "Year": "2014",
+         "Age": "41.9"
+      }
+   ]
+}

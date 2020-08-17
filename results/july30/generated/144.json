@@ -1,0 +1,103 @@
+{
+   "title": "National debt of Ireland 2024\n",
+   "xAxis": "Year",
+   "yAxis": "National debt in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing National debt in billion U.S. dollars, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is  positive which exists from 2024 to 2021.",
+      " Correspondingly, the next significant trend is  negative which exists from 2019 to 2016.",
+      " Differently, the next significant trend is  positive which exists from 2016 to 2014.",
+      " Correspondingly, the next significant trend is  negative which exists from 2021 to 2020.",
+      " On the other hand, the next significant trend is  positive which exists from 2020 to 2019."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-2.49x+5268.79",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 5,
+         "end": 8,
+         "trend": "y=3.22x+-6273.57",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 8,
+         "end": 10,
+         "trend": "y=-1.45x+3154.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 3,
+         "end": 4,
+         "trend": "y=4.17x+-8195.72",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 4,
+         "end": 5,
+         "trend": "y=-2.15x+4570.68",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in billion U.S. dollars": 224.31
+      },
+      {
+         "Year": "2023",
+         "National debt in billion U.S. dollars": 228.22
+      },
+      {
+         "Year": "2022",
+         "National debt in billion U.S. dollars": 230.52
+      },
+      {
+         "Year": "2021",
+         "National debt in billion U.S. dollars": 231.85
+      },
+      {
+         "Year": "2020",
+         "National debt in billion U.S. dollars": 227.68
+      },
+      {
+         "Year": "2019",
+         "National debt in billion U.S. dollars": 229.83
+      },
+      {
+         "Year": "2018",
+         "National debt in billion U.S. dollars": 226.92
+      },
+      {
+         "Year": "2017",
+         "National debt in billion U.S. dollars": 221.59
+      },
+      {
+         "Year": "2016",
+         "National debt in billion U.S. dollars": 220.87
+      },
+      {
+         "Year": "2015",
+         "National debt in billion U.S. dollars": 221.87
+      },
+      {
+         "Year": "2014",
+         "National debt in billion U.S. dollars": 223.78
+      }
+   ]
+}

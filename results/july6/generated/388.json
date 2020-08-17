@@ -1,0 +1,100 @@
+{
+   "title": "Countries ranked by number of ice hockey rinks 2018/19",
+   "labels": [
+      "Country",
+      "Indoor",
+      "Outdoor"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the number of Countries ranked by in Countries , hockey rinks Country . ",
+      "In that year , nearly 500 % of the population in Countries ranked by were Indoor ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": [
+            "1",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Indoor": "3300",
+         "Outdoor": "5000"
+      },
+      {
+         "Country": "United States",
+         "Indoor": "1535",
+         "Outdoor": "500"
+      },
+      {
+         "Country": "Russia",
+         "Indoor": "612",
+         "Outdoor": "2710"
+      },
+      {
+         "Country": "Sweden",
+         "Indoor": "360",
+         "Outdoor": "136"
+      },
+      {
+         "Country": "Finland",
+         "Indoor": "274",
+         "Outdoor": "53"
+      },
+      {
+         "Country": "Germany",
+         "Indoor": "218",
+         "Outdoor": "45"
+      },
+      {
+         "Country": "China",
+         "Indoor": "213",
+         "Outdoor": "197"
+      },
+      {
+         "Country": "Czech Republic",
+         "Indoor": "200",
+         "Outdoor": "8"
+      },
+      {
+         "Country": "Japan",
+         "Indoor": "117",
+         "Outdoor": "50"
+      },
+      {
+         "Country": "France",
+         "Indoor": "117",
+         "Outdoor": "9"
+      },
+      {
+         "Country": "Slovakia",
+         "Indoor": "71",
+         "Outdoor": "28"
+      },
+      {
+         "Country": "Italy",
+         "Indoor": "58",
+         "Outdoor": "12"
+      },
+      {
+         "Country": "Switzerland",
+         "Indoor": "48",
+         "Outdoor": "111"
+      },
+      {
+         "Country": "Austria",
+         "Indoor": "42",
+         "Outdoor": "35"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Indoor": "24",
+         "Outdoor": "215"
+      }
+   ]
+}

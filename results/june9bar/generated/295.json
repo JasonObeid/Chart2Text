@@ -1,0 +1,51 @@
+{
+   "title": "Reasons for opposing same-sex marriage in the United States in 2012",
+   "xAxis": "Month",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among 559 industrial enterprises on their opinion on the Reasons nation in United States . ",
+      "As of 2012 , 47 % of respondents stated Morally_wrong/Have_traditional_beliefs was currently the Reasons Month in United States ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "9": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Religion/Bible says it is wrong",
+         "Share of respondents": "47"
+      },
+      {
+         "Month": "Marriage should be between a man and a woman",
+         "Share of respondents": "20"
+      },
+      {
+         "Month": "Morally wrong/Have traditional beliefs",
+         "Share of respondents": "16"
+      },
+      {
+         "Month": "Civil unions are sufficient",
+         "Share of respondents": "6"
+      },
+      {
+         "Month": "Unnatural/Against laws of nature",
+         "Share of respondents": "5"
+      },
+      {
+         "Month": "Undermines traditional family structure/Mother and father",
+         "Share of respondents": "5"
+      },
+      {
+         "Month": "Other",
+         "Share of respondents": "7"
+      },
+      {
+         "Month": "No opinion",
+         "Share of respondents": "4"
+      }
+   ]
+}

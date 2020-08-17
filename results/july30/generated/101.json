@@ -1,0 +1,42 @@
+{
+   "title": "Number of Crunchyroll subscribers 2012 to 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Number of users in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Month, and a y axis representing Number of users in thousands.",
+      " The highest category is found at November_2018 where Number of users in thousands is 2000.0.",
+      " The lowest category is found at September_2012 where Number of users in thousands is 100.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 5
+   },
+   "data": [
+      {
+         "Month": "November 2018",
+         "Number of users in thousands": 2000.0
+      },
+      {
+         "Month": "February 2017",
+         "Number of users in thousands": 1000.0
+      },
+      {
+         "Month": "November 2015",
+         "Number of users in thousands": 750.0
+      },
+      {
+         "Month": "November 2014",
+         "Number of users in thousands": 400.0
+      },
+      {
+         "Month": "March 2013",
+         "Number of users in thousands": 200.0
+      },
+      {
+         "Month": "September 2012",
+         "Number of users in thousands": 100.0
+      }
+   ]
+}

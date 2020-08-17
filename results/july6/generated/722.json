@@ -1,0 +1,41 @@
+{
+   "title": "Number of SMEs in the Netherlands 2016 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of SMEs",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of SMEs in Netherlands 2016 , 2017 2018 and 2019 . ",
+      "In 2019 , there were approximately 442529 thousand SMEs in Netherlands ."
+   ],
+   "trends": [
+      {
+         "11": "3",
+         "13": "2",
+         "15": "1",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of SMEs": "442529"
+      },
+      {
+         "Year": "2018",
+         "Number of SMEs": "441925"
+      },
+      {
+         "Year": "2017",
+         "Number of SMEs": "439081"
+      },
+      {
+         "Year": "2016",
+         "Number of SMEs": "439367"
+      }
+   ]
+}

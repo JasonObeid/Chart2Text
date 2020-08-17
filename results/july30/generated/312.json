@@ -1,0 +1,73 @@
+{
+   "title": "Cattle population worldwide 2012 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Cattle population in million head",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Cattle population in million head, with a total of 8 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2019 to 2015.",
+      " But, the next significant trend is  negative which exists from 2014 to 2012.",
+      " Conversely, the next significant trend is  positive which exists from 2015 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=9.36x+-17889.87",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 5,
+         "end": 7,
+         "trend": "y=3.43x+-5889.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 4,
+         "end": 5,
+         "trend": "y=-39.31x+80178.91",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Cattle population in million head": 1007.26
+      },
+      {
+         "Year": "2018",
+         "Cattle population in million head": 996.36
+      },
+      {
+         "Year": "2017",
+         "Cattle population in million head": 984.53
+      },
+      {
+         "Year": "2016",
+         "Cattle population in million head": 978.77
+      },
+      {
+         "Year": "2015",
+         "Cattle population in million head": 969.26
+      },
+      {
+         "Year": "2014",
+         "Cattle population in million head": 1008.57
+      },
+      {
+         "Year": "2013",
+         "Cattle population in million head": 1005.29
+      },
+      {
+         "Year": "2012",
+         "Cattle population in million head": 1001.72
+      }
+   ]
+}

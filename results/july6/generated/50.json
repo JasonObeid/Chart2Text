@@ -1,0 +1,65 @@
+{
+   "title": "United Kingdom : largest import commodities 2018",
+   "xAxis": "Month",
+   "yAxis": "Value of imports in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the United Kingdom professional import on imports 2018 as of 2016 , ranked by the Value of fans . ",
+      "As of the measured period , Fuels a player from Denmark also known as Bjergsen , was the most famous on imports , with 152.9 thousand million . ",
+      "He was followed 2018 Animal_and_vegetable_oils_and_fats , aka xPeke , who gathered 112.9 thousand million on imports ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "25": "0"
+      },
+      {
+         "4": "1",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Fuels",
+         "Value of imports in million GBP": "152.9"
+      },
+      {
+         "Month": "Animal and vegetable oils and fats",
+         "Value of imports in million GBP": "112.9"
+      },
+      {
+         "Month": "Crude materials",
+         "Value of imports in million GBP": "112.6"
+      },
+      {
+         "Month": "Marieral manufactures",
+         "Value of imports in million GBP": "107.2"
+      },
+      {
+         "Month": "Chemicals",
+         "Value of imports in million GBP": "106.9"
+      },
+      {
+         "Month": "Beverages and tobacoo",
+         "Value of imports in million GBP": "105.9"
+      },
+      {
+         "Month": "Machinery and transport equipment",
+         "Value of imports in million GBP": "104.8"
+      },
+      {
+         "Month": "Food and live animals",
+         "Value of imports in million GBP": "104.3"
+      },
+      {
+         "Month": "Miscellaneous manufactures",
+         "Value of imports in million GBP": "103.8"
+      },
+      {
+         "Month": "Unspecified goods",
+         "Value of imports in million GBP": "95.8"
+      }
+   ]
+}

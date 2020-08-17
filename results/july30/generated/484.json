@@ -1,0 +1,70 @@
+{
+   "title": "Share of IT budgets spent on IT security FY2005-FY2016\n",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Share of total IT budget",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 13 categories for the x axis representing Fiscal Year, and a y axis representing Share of total IT budget.",
+      " The highest category is found at FY2017 where Share of total IT budget is 10.6.",
+      " The lowest category is found at FY2006 where Share of total IT budget is 7.2."
+   ],
+   "trends": {
+      "maxIndex": 12,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Fiscal Year": "FY2005",
+         "Share of total IT budget": 7.5
+      },
+      {
+         "Fiscal Year": "FY2006",
+         "Share of total IT budget": 7.2
+      },
+      {
+         "Fiscal Year": "FY2007",
+         "Share of total IT budget": 7.5
+      },
+      {
+         "Fiscal Year": "FY2008",
+         "Share of total IT budget": 7.9
+      },
+      {
+         "Fiscal Year": "FY2009",
+         "Share of total IT budget": 9.1
+      },
+      {
+         "Fiscal Year": "FY2010",
+         "Share of total IT budget": 8.6
+      },
+      {
+         "Fiscal Year": "FY2011",
+         "Share of total IT budget": 8.8
+      },
+      {
+         "Fiscal Year": "FY2012",
+         "Share of total IT budget": 9.1
+      },
+      {
+         "Fiscal Year": "FY2013",
+         "Share of total IT budget": 9.9
+      },
+      {
+         "Fiscal Year": "FY2014",
+         "Share of total IT budget": 9.2
+      },
+      {
+         "Fiscal Year": "FY2015",
+         "Share of total IT budget": 10.0
+      },
+      {
+         "Fiscal Year": "FY2016",
+         "Share of total IT budget": 10.2
+      },
+      {
+         "Fiscal Year": "FY2017",
+         "Share of total IT budget": 10.6
+      }
+   ]
+}

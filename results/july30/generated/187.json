@@ -1,0 +1,56 @@
+{
+   "title": "Government spending for SNAP benefits ( Food Stamps ) in the U.S. 1995 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Spending in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Spending in billion U.S. dollars, with a total of 6 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2015 to 1995.",
+      " Contrarily, the next significant trend is  positive which exists from 2020 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 1,
+         "end": 5,
+         "trend": "y=3.2x+-6370.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-1.2x+2498.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Spending in billion U.S. dollars": 74.0
+      },
+      {
+         "Year": "2015",
+         "Spending in billion U.S. dollars": 80.0
+      },
+      {
+         "Year": "2010",
+         "Spending in billion U.S. dollars": 70.0
+      },
+      {
+         "Year": "2005",
+         "Spending in billion U.S. dollars": 33.0
+      },
+      {
+         "Year": "2000",
+         "Spending in billion U.S. dollars": 18.0
+      },
+      {
+         "Year": "1995",
+         "Spending in billion U.S. dollars": 26.0
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "External net migration in Spain 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Net migration",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the Net migration of the Spain of from 2010 to 2018 . ",
+      "In 2018 , the Spain of generated Net migration worth approximately 334158 % migration ."
+   ],
+   "trends": [
+      {
+         "12": "8",
+         "14": "0"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Net migration": "334158"
+      },
+      {
+         "Year": "2017",
+         "Net migration": "163272"
+      },
+      {
+         "Year": "2016",
+         "Net migration": "87422"
+      },
+      {
+         "Year": "2015",
+         "Net migration": "-1761"
+      },
+      {
+         "Year": "2014",
+         "Net migration": "-94976"
+      },
+      {
+         "Year": "2013",
+         "Net migration": "-251531"
+      },
+      {
+         "Year": "2012",
+         "Net migration": "-142552"
+      },
+      {
+         "Year": "2011",
+         "Net migration": "-37698"
+      },
+      {
+         "Year": "2010",
+         "Net migration": "-42675"
+      }
+   ]
+}

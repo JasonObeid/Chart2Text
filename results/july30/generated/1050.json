@@ -1,0 +1,67 @@
+{
+   "title": "Urbanization in Nigeria 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of urban population in total population with a total of 11 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2018 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 11,
+         "direction": "negative",
+         "start": 0,
+         "end": 10,
+         "trend": "y=0.87x+-1695.9",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population in total population": 50.34
+      },
+      {
+         "Year": "2017",
+         "Share of urban population in total population": 49.52
+      },
+      {
+         "Year": "2016",
+         "Share of urban population in total population": 48.68
+      },
+      {
+         "Year": "2015",
+         "Share of urban population in total population": 47.84
+      },
+      {
+         "Year": "2014",
+         "Share of urban population in total population": 46.98
+      },
+      {
+         "Year": "2013",
+         "Share of urban population in total population": 46.12
+      },
+      {
+         "Year": "2012",
+         "Share of urban population in total population": 45.25
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": 44.37
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": 43.48
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": 42.59
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": 41.7
+      }
+   ]
+}

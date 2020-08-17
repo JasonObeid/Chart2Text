@@ -1,0 +1,86 @@
+{
+   "title": "Gross premiums written by leading reinsurers in the U.S. 2018\n",
+   "xAxis": "Insurer",
+   "yAxis": "Amount in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 17 categories for the x axis representing Insurer, and a y axis representing Amount in billion U.S. dollars.",
+      " The highest category is found at National_Indemnity_Company where Amount in billion U.S. dollars is 27.12.",
+      " The lowest category is found at EMC_Reinsurance_Company where Amount in billion U.S. dollars is 0.16."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 16
+   },
+   "data": [
+      {
+         "Insurer": "National Indemnity Company",
+         "Amount in billion U.S. dollars": 27.12
+      },
+      {
+         "Insurer": "Everest Reinsurance Company",
+         "Amount in billion U.S. dollars": 6.57
+      },
+      {
+         "Insurer": "Munich Re America Corp.",
+         "Amount in billion U.S. dollars": 5.5
+      },
+      {
+         "Insurer": "XL Reinsurance America",
+         "Amount in billion U.S. dollars": 5.47
+      },
+      {
+         "Insurer": "Swiss Reinsurance America Corporation",
+         "Amount in billion U.S. dollars": 4.33
+      },
+      {
+         "Insurer": "Transatlantic Reinsurance Company",
+         "Amount in billion U.S. dollars": 3.95
+      },
+      {
+         "Insurer": "Odyssey Group",
+         "Amount in billion U.S. dollars": 3.09
+      },
+      {
+         "Insurer": "General Re Group",
+         "Amount in billion U.S. dollars": 2.52
+      },
+      {
+         "Insurer": "SCOR U.S. Corporation",
+         "Amount in billion U.S. dollars": 1.82
+      },
+      {
+         "Insurer": "Partner Reinsurance Company of the U.S.",
+         "Amount in billion U.S. dollars": 1.57
+      },
+      {
+         "Insurer": "AXIS Reinsurance Company",
+         "Amount in billion U.S. dollars": 1.18
+      },
+      {
+         "Insurer": "American Agricultural Ins. Co.",
+         "Amount in billion U.S. dollars": 0.99
+      },
+      {
+         "Insurer": "Endurance Assurance Corporation",
+         "Amount in billion U.S. dollars": 0.96
+      },
+      {
+         "Insurer": "Renaissance Reinsurance US Inc.",
+         "Amount in billion U.S. dollars": 0.77
+      },
+      {
+         "Insurer": "The Toa Reinsurance Company of America",
+         "Amount in billion U.S. dollars": 0.48
+      },
+      {
+         "Insurer": "Sirius America Insurance Company",
+         "Amount in billion U.S. dollars": 0.29
+      },
+      {
+         "Insurer": "EMC Reinsurance Company",
+         "Amount in billion U.S. dollars": 0.16
+      }
+   ]
+}

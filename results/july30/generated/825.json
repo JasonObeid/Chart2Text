@@ -1,0 +1,42 @@
+{
+   "title": "Global industrial robot market : key companies by related revenue 2017\n",
+   "xAxis": "Companies",
+   "yAxis": "Industrial robot revenue in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Companies, and a y axis representing Industrial robot revenue in million euros.",
+      " The highest category is found at ABB where Industrial robot revenue in million euros is 6819.0.",
+      " The lowest category is found at KUKA where Industrial robot revenue in million euros is 1200.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Companies": "ABB",
+         "Industrial robot revenue in million euros": 6819.0
+      },
+      {
+         "Companies": "Omron",
+         "Industrial robot revenue in million euros": 3010.0
+      },
+      {
+         "Companies": "Fanuc",
+         "Industrial robot revenue in million euros": 1730.0
+      },
+      {
+         "Companies": "Kawasaki Robotics",
+         "Industrial robot revenue in million euros": 1510.0
+      },
+      {
+         "Companies": "KUKA",
+         "Industrial robot revenue in million euros": 1200.0
+      },
+      {
+         "Companies": "Yaskawa",
+         "Industrial robot revenue in million euros": 1200.0
+      }
+   ]
+}

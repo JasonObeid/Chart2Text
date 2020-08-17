@@ -1,0 +1,105 @@
+{
+   "title": "Revenue of the BSH Group 2003 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion euros, with a total of 16 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2017 to 2009.",
+      " Conversely, the next significant trend is  negative which exists from 2007 to 2003.",
+      " On the other hand, the next significant trend is  positive which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 1,
+         "end": 9,
+         "trend": "y=0.69x+-1369.66",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 11,
+         "end": 15,
+         "trend": "y=0.65x+-1297.73",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=-0.21x+420.3",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in billion euros": 13.4
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion euros": 13.8
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion euros": 13.1
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion euros": 12.6
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion euros": 11.4
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion euros": 10.5
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion euros": 9.8
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion euros": 9.65
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion euros": 9.07
+      },
+      {
+         "Year": "2009",
+         "Revenue in billion euros": 8.41
+      },
+      {
+         "Year": "2008",
+         "Revenue in billion euros": 8.76
+      },
+      {
+         "Year": "2007",
+         "Revenue in billion euros": 8.82
+      },
+      {
+         "Year": "2006",
+         "Revenue in billion euros": 8.31
+      },
+      {
+         "Year": "2005",
+         "Revenue in billion euros": 7.34
+      },
+      {
+         "Year": "2004",
+         "Revenue in billion euros": 6.84
+      },
+      {
+         "Year": "2003",
+         "Revenue in billion euros": 6.3
+      }
+   ]
+}

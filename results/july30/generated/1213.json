@@ -1,0 +1,164 @@
+{
+   "title": "U.S. public schools - average expenditure per pupil 1980 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Expenditures per pupil in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Expenditures per pupil in U.S. dollars, with a total of 33 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2011 to 1980.",
+      " On the other hand, the next significant trend is  negative which exists from 2016 to 2012."
+   ],
+   "trends": [
+      {
+         "Length": 28,
+         "direction": "negative",
+         "start": 5,
+         "end": 32,
+         "trend": "y=308.47x+-609073.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=322.5x+-637608.8",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Expenditures per pupil in U.S. dollars": 12617.0
+      },
+      {
+         "Year": "2015",
+         "Expenditures per pupil in U.S. dollars": 12224.0
+      },
+      {
+         "Year": "2014",
+         "Expenditures per pupil in U.S. dollars": 11819.0
+      },
+      {
+         "Year": "2013",
+         "Expenditures per pupil in U.S. dollars": 11509.0
+      },
+      {
+         "Year": "2012",
+         "Expenditures per pupil in U.S. dollars": 11362.0
+      },
+      {
+         "Year": "2011",
+         "Expenditures per pupil in U.S. dollars": 11433.0
+      },
+      {
+         "Year": "2010",
+         "Expenditures per pupil in U.S. dollars": 11427.0
+      },
+      {
+         "Year": "2009",
+         "Expenditures per pupil in U.S. dollars": 11239.0
+      },
+      {
+         "Year": "2008",
+         "Expenditures per pupil in U.S. dollars": 10982.0
+      },
+      {
+         "Year": "2007",
+         "Expenditures per pupil in U.S. dollars": 10336.0
+      },
+      {
+         "Year": "2006",
+         "Expenditures per pupil in U.S. dollars": 9778.0
+      },
+      {
+         "Year": "2005",
+         "Expenditures per pupil in U.S. dollars": 9316.0
+      },
+      {
+         "Year": "2004",
+         "Expenditures per pupil in U.S. dollars": 8900.0
+      },
+      {
+         "Year": "2003",
+         "Expenditures per pupil in U.S. dollars": 8610.0
+      },
+      {
+         "Year": "2002",
+         "Expenditures per pupil in U.S. dollars": 8259.0
+      },
+      {
+         "Year": "2001",
+         "Expenditures per pupil in U.S. dollars": 7904.0
+      },
+      {
+         "Year": "2000",
+         "Expenditures per pupil in U.S. dollars": 7394.0
+      },
+      {
+         "Year": "1999",
+         "Expenditures per pupil in U.S. dollars": 7013.0
+      },
+      {
+         "Year": "1998",
+         "Expenditures per pupil in U.S. dollars": 6676.0
+      },
+      {
+         "Year": "1997",
+         "Expenditures per pupil in U.S. dollars": 6393.0
+      },
+      {
+         "Year": "1996",
+         "Expenditures per pupil in U.S. dollars": 6147.0
+      },
+      {
+         "Year": "1995",
+         "Expenditures per pupil in U.S. dollars": 5989.0
+      },
+      {
+         "Year": "1994",
+         "Expenditures per pupil in U.S. dollars": 5767.0
+      },
+      {
+         "Year": "1993",
+         "Expenditures per pupil in U.S. dollars": 5584.0
+      },
+      {
+         "Year": "1992",
+         "Expenditures per pupil in U.S. dollars": 5421.0
+      },
+      {
+         "Year": "1991",
+         "Expenditures per pupil in U.S. dollars": 5258.0
+      },
+      {
+         "Year": "1990",
+         "Expenditures per pupil in U.S. dollars": 4980.0
+      },
+      {
+         "Year": "1989",
+         "Expenditures per pupil in U.S. dollars": 4645.0
+      },
+      {
+         "Year": "1988",
+         "Expenditures per pupil in U.S. dollars": 4240.0
+      },
+      {
+         "Year": "1987",
+         "Expenditures per pupil in U.S. dollars": 3970.0
+      },
+      {
+         "Year": "1986",
+         "Expenditures per pupil in U.S. dollars": 3756.0
+      },
+      {
+         "Year": "1985",
+         "Expenditures per pupil in U.S. dollars": 3470.0
+      },
+      {
+         "Year": "1980",
+         "Expenditures per pupil in U.S. dollars": 2272.0
+      }
+   ]
+}

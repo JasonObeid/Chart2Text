@@ -1,0 +1,30 @@
+{
+   "title": "Public opinion on adoption rights for same-sex couples in the U.S. 2014\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Yes_should where Share of respondents is 63.0.",
+      " The lowest category is found at No_opinion where Share of respondents is 2.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Response": "Yes should",
+         "Share of respondents": 63.0
+      },
+      {
+         "Response": "No should not",
+         "Share of respondents": 35.0
+      },
+      {
+         "Response": "No opinion",
+         "Share of respondents": 2.0
+      }
+   ]
+}

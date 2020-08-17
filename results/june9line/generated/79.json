@@ -1,0 +1,70 @@
+{
+   "title": "Number of arrivals in tourist accommodation Spain 2006 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of tourist arrivals at accommodation establishments in Spain from 2006 to 2017 . ",
+      "Over this period arrivals of both domestic and international tourists in accommodation establishments in Spain has increased , reaching around 129.4 millions in 2017 ."
+   ],
+   "trends": [
+      {
+         "14": "11",
+         "16": "0"
+      },
+      {
+         "20": "0",
+         "23": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of arrivals in millions": "129.4"
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in millions": "123.5"
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in millions": "114.4"
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in millions": "107.5"
+      },
+      {
+         "Year": "2013",
+         "Number of arrivals in millions": "101.7"
+      },
+      {
+         "Year": "2012",
+         "Number of arrivals in millions": "100.4"
+      },
+      {
+         "Year": "2011",
+         "Number of arrivals in millions": "103.1"
+      },
+      {
+         "Year": "2010",
+         "Number of arrivals in millions": "98.8"
+      },
+      {
+         "Year": "2009",
+         "Number of arrivals in millions": "93.7"
+      },
+      {
+         "Year": "2008",
+         "Number of arrivals in millions": "100.1"
+      },
+      {
+         "Year": "2007",
+         "Number of arrivals in millions": "101.8"
+      },
+      {
+         "Year": "2006",
+         "Number of arrivals in millions": "99.9"
+      }
+   ]
+}

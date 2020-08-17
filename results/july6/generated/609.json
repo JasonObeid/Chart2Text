@@ -1,0 +1,32 @@
+{
+   "title": "Fifty Shades of Grey : U.S. sales figures in 2012 , by platform",
+   "xAxis": "Copy Type",
+   "yAxis": "Number of copies in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the Shades Grey of copies millions in Shades Grey U.S. as of October 2012 . ",
+      "During this period of time , 15 millions of Indian copies millions were Print . ",
+      "The majority of copies millions were Digital ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "13": "0"
+      },
+      {
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Copy Type": "Print",
+         "Number of copies in millions": "29"
+      },
+      {
+         "Copy Type": "Digital",
+         "Number of copies in millions": "15"
+      }
+   ]
+}

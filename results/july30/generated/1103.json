@@ -1,0 +1,110 @@
+{
+   "title": "Leading Croatian national team players at FIFA World Cup 2018 , by market value\n",
+   "xAxis": "Month",
+   "yAxis": "Market value in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 23 categories for the x axis representing Month, and a y axis representing Market value in million euros.",
+      " The highest category is found at Ivan_Rakitic where Market value in million euros is 50.0.",
+      " The lowest category is found at Dominik_Livakovic where Market value in million euros is 1.5."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 22
+   },
+   "data": [
+      {
+         "Month": "Ivan Rakitic",
+         "Market value in million euros": 50.0
+      },
+      {
+         "Month": "Ivan Perisic",
+         "Market value in million euros": 40.0
+      },
+      {
+         "Month": "Mateo Kovacic",
+         "Market value in million euros": 30.0
+      },
+      {
+         "Month": "Andrej Kramaric",
+         "Market value in million euros": 27.0
+      },
+      {
+         "Month": "Marcelo Brozovic",
+         "Market value in million euros": 27.0
+      },
+      {
+         "Month": "Luka Modric",
+         "Market value in million euros": 25.0
+      },
+      {
+         "Month": "Sime Vrsaljko",
+         "Market value in million euros": 25.0
+      },
+      {
+         "Month": "Dejan Lovren",
+         "Market value in million euros": 20.0
+      },
+      {
+         "Month": "Mario Mandzukic",
+         "Market value in million euros": 18.0
+      },
+      {
+         "Month": "Milan Badelj",
+         "Market value in million euros": 15.0
+      },
+      {
+         "Month": "Marko Pjaca",
+         "Market value in million euros": 15.0
+      },
+      {
+         "Month": "Nikola Kalinic",
+         "Market value in million euros": 14.0
+      },
+      {
+         "Month": "Ante Rebic",
+         "Market value in million euros": 10.0
+      },
+      {
+         "Month": "Duje Caleta\u2013Car",
+         "Market value in million euros": 10.0
+      },
+      {
+         "Month": "Domagoj Vida",
+         "Market value in million euros": 7.0
+      },
+      {
+         "Month": "Lovre Kalinic",
+         "Market value in million euros": 6.5
+      },
+      {
+         "Month": "Tin Jedvaj",
+         "Market value in million euros": 5.0
+      },
+      {
+         "Month": "Danijel Subasic",
+         "Market value in million euros": 4.5
+      },
+      {
+         "Month": "Vedran Corluka",
+         "Market value in million euros": 4.0
+      },
+      {
+         "Month": "Ivan Strinic",
+         "Market value in million euros": 4.0
+      },
+      {
+         "Month": "Filip Bradaric",
+         "Market value in million euros": 3.5
+      },
+      {
+         "Month": "Josip Pivaric",
+         "Market value in million euros": 2.0
+      },
+      {
+         "Month": "Dominik Livakovic",
+         "Market value in million euros": 1.5
+      }
+   ]
+}

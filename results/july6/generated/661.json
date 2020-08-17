@@ -1,0 +1,70 @@
+{
+   "title": "Total population of India 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Total population of India from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of India was around 1334.22 millions people . ",
+      "See Switzerland 's population figures for comparison ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "10": "6"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "1443.06"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "1424.33"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "1405.83"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "1387.58"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "1369.56"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "1351.77"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "1334.22"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "1316.9"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "1299.8"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "1282.92"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "1266.26"
+      }
+   ]
+}

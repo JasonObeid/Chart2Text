@@ -1,0 +1,35 @@
+{
+   "title": "Pok\u00e9mon GO players in the U.S. 2016 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of users",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the percentage of internet users in the GO who use players as of 2017 , sorted by age . ",
+      "As of the measured period , over 22 % of 15 to 24 Year old GO U.S. internet users accessed online mail ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "13-17 years",
+         "Share of users": "22"
+      },
+      {
+         "Year": "18-29 years",
+         "Share of users": "46"
+      },
+      {
+         "Year": "30-50 years",
+         "Share of users": "25"
+      },
+      {
+         "Year": "50 years and older",
+         "Share of users": "6"
+      }
+   ]
+}

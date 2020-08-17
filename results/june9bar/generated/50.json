@@ -1,0 +1,120 @@
+{
+   "title": "Inflation rate ( CPI ) in the United Kingdom ( UK ) 2017 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Inflation rate",
+   "graphType": "bar",
+   "summary": [
+      "Between 2019 and 2020 , United prices in the United Kingdom increased by 1.5 % . ",
+      "A period of continuous deflation between 2015 and 2017 preceded a return to a sustained rise of the cost of United from 2017 onwards . ",
+      "Inflation rate and consumer price index Inflation is commonly measured via the consumer price index , which illustrates changes to prices paid by consumers CPI a representative basket of goods and services ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Nov '19",
+         "Inflation rate": "1.5"
+      },
+      {
+         "Month": "Oct '19",
+         "Inflation rate": "1.5"
+      },
+      {
+         "Month": "Sep '19",
+         "Inflation rate": "1.7"
+      },
+      {
+         "Month": "Aug '19",
+         "Inflation rate": "1.7"
+      },
+      {
+         "Month": "Jul '19",
+         "Inflation rate": "2.1"
+      },
+      {
+         "Month": "Jun '19",
+         "Inflation rate": "2"
+      },
+      {
+         "Month": "May '19",
+         "Inflation rate": "2"
+      },
+      {
+         "Month": "Apr '19",
+         "Inflation rate": "2.1"
+      },
+      {
+         "Month": "Mar '19",
+         "Inflation rate": "1.9"
+      },
+      {
+         "Month": "Feb '19",
+         "Inflation rate": "1.9"
+      },
+      {
+         "Month": "Jan '19",
+         "Inflation rate": "1.8"
+      },
+      {
+         "Month": "Dec '18",
+         "Inflation rate": "2.1"
+      },
+      {
+         "Month": "Nov '18",
+         "Inflation rate": "2.3"
+      },
+      {
+         "Month": "Oct '18",
+         "Inflation rate": "2.4"
+      },
+      {
+         "Month": "Sep '18",
+         "Inflation rate": "2.4"
+      },
+      {
+         "Month": "Aug '18",
+         "Inflation rate": "2.7"
+      },
+      {
+         "Month": "Jul '18",
+         "Inflation rate": "2.5"
+      },
+      {
+         "Month": "Jun '18",
+         "Inflation rate": "2.4"
+      },
+      {
+         "Month": "May '18",
+         "Inflation rate": "2.4"
+      },
+      {
+         "Month": "Apr '18",
+         "Inflation rate": "2.4"
+      },
+      {
+         "Month": "Mar '18",
+         "Inflation rate": "2.5"
+      },
+      {
+         "Month": "Feb '18",
+         "Inflation rate": "2.7"
+      },
+      {
+         "Month": "Jan '18",
+         "Inflation rate": "3"
+      },
+      {
+         "Month": "Dec '17",
+         "Inflation rate": "3"
+      },
+      {
+         "Month": "Nov '17",
+         "Inflation rate": "3.1"
+      }
+   ]
+}

@@ -1,0 +1,98 @@
+{
+   "title": "Countries with the largest gross domestic product ( GDP ) 2019\n",
+   "xAxis": "Country",
+   "yAxis": "GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Country, and a y axis representing GDP in billion U.S. dollars.",
+      " The highest category is found at United_States where GDP in billion U.S. dollars is 21439.45.",
+      " The lowest category is found at Switzerland where GDP in billion U.S. dollars is 715.36."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Country": "United States",
+         "GDP in billion U.S. dollars": 21439.45
+      },
+      {
+         "Country": "China",
+         "GDP in billion U.S. dollars": 14140.16
+      },
+      {
+         "Country": "Japan",
+         "GDP in billion U.S. dollars": 5154.48
+      },
+      {
+         "Country": "Germany",
+         "GDP in billion U.S. dollars": 3863.34
+      },
+      {
+         "Country": "India",
+         "GDP in billion U.S. dollars": 2935.57
+      },
+      {
+         "Country": "United Kingdom",
+         "GDP in billion U.S. dollars": 2743.59
+      },
+      {
+         "Country": "France",
+         "GDP in billion U.S. dollars": 2707.07
+      },
+      {
+         "Country": "Italy",
+         "GDP in billion U.S. dollars": 1988.64
+      },
+      {
+         "Country": "Brazil",
+         "GDP in billion U.S. dollars": 1847.02
+      },
+      {
+         "Country": "Canada",
+         "GDP in billion U.S. dollars": 1730.91
+      },
+      {
+         "Country": "Russia",
+         "GDP in billion U.S. dollars": 1637.89
+      },
+      {
+         "Country": "Korea",
+         "GDP in billion U.S. dollars": 1629.53
+      },
+      {
+         "Country": "Spain",
+         "GDP in billion U.S. dollars": 1397.87
+      },
+      {
+         "Country": "Australia",
+         "GDP in billion U.S. dollars": 1376.26
+      },
+      {
+         "Country": "Mexico",
+         "GDP in billion U.S. dollars": 1274.18
+      },
+      {
+         "Country": "Indonesia",
+         "GDP in billion U.S. dollars": 1111.71
+      },
+      {
+         "Country": "Netherlands",
+         "GDP in billion U.S. dollars": 902.36
+      },
+      {
+         "Country": "Saudi Arabia",
+         "GDP in billion U.S. dollars": 779.29
+      },
+      {
+         "Country": "Turkey",
+         "GDP in billion U.S. dollars": 743.71
+      },
+      {
+         "Country": "Switzerland",
+         "GDP in billion U.S. dollars": 715.36
+      }
+   ]
+}

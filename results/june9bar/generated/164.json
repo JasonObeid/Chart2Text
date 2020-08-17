@@ -1,0 +1,38 @@
+{
+   "title": "Dating website or app usage among U.S. online users 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the hypothetical app usage Yes_I'm_doing_so_currently a website on U.S. membership in U.S. Yes_I'm_doing_so_currently ( online ) as of October 2019 . ",
+      "During the survey , 24 % of respondents stated that they had attained a Yes_I've_done_so_in_the_past ."
+   ],
+   "trends": [
+      {
+         "7": "0",
+         "15": "0"
+      },
+      {
+         "4": "1",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes I'm doing so currently",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Yes I've done so in the past",
+         "Share of respondents": "24"
+      },
+      {
+         "Response": "No never",
+         "Share of respondents": "65"
+      },
+      {
+         "Response": "Don't know",
+         "Share of respondents": "3"
+      }
+   ]
+}

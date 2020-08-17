@@ -1,0 +1,59 @@
+{
+   "title": "Ice hockey players in Russia 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of players",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistics depicts the Number of registered Ice hockey players in Russia from 2010/11 to 2018/19 . ",
+      "In the 2018/19 season , there were a total of 112236 registered Ice hockey players in Russia according to the International Ice hockey Federation ."
+   ],
+   "trends": [
+      {
+         "13": "8",
+         "15": "0"
+      },
+      {
+         "2": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Number of players": "112236"
+      },
+      {
+         "Year": "2017/18",
+         "Number of players": "110624"
+      },
+      {
+         "Year": "2016/17",
+         "Number of players": "105059"
+      },
+      {
+         "Year": "2015/16",
+         "Number of players": "102179"
+      },
+      {
+         "Year": "2014/15",
+         "Number of players": "99172"
+      },
+      {
+         "Year": "2013/14",
+         "Number of players": "84270"
+      },
+      {
+         "Year": "2012/13",
+         "Number of players": "66551"
+      },
+      {
+         "Year": "2011/12",
+         "Number of players": "64326"
+      },
+      {
+         "Year": "2010/11",
+         "Number of players": "63580"
+      }
+   ]
+}

@@ -1,0 +1,82 @@
+{
+   "title": "Millionaire households number in Europe in 2014 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of millionaire households",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of Europe Millionaire households number Europe as of each Country . ",
+      "As of 2014 , Germany had the highest Millionaire households number of Europe country ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of millionaire households": "1433985"
+      },
+      {
+         "Country": "France",
+         "Number of millionaire households": "1334066"
+      },
+      {
+         "Country": "Italy",
+         "Number of millionaire households": "818538"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of millionaire households": "796646"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of millionaire households": "703108"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of millionaire households": "555483"
+      },
+      {
+         "Country": "Belgium",
+         "Number of millionaire households": "415117"
+      },
+      {
+         "Country": "Austria",
+         "Number of millionaire households": "200298"
+      },
+      {
+         "Country": "Spain",
+         "Number of millionaire households": "168134"
+      },
+      {
+         "Country": "Luxembourg",
+         "Number of millionaire households": "50612"
+      },
+      {
+         "Country": "Portugal",
+         "Number of millionaire households": "46416"
+      },
+      {
+         "Country": "Greece",
+         "Number of millionaire households": "34723"
+      },
+      {
+         "Country": "Finland",
+         "Number of millionaire households": "25995"
+      },
+      {
+         "Country": "Slovakia",
+         "Number of millionaire households": "9532"
+      },
+      {
+         "Country": "Cyprus",
+         "Number of millionaire households": "7269"
+      },
+      {
+         "Country": "Slovenia",
+         "Number of millionaire households": "6784"
+      }
+   ]
+}

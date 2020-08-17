@@ -1,0 +1,91 @@
+{
+   "title": "Number of FDIC-insured commercial banks in the U.S. 2002 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of banks",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of banks with a total of 17 data points. The chart has one significant trend.",
+      " This trend is extremely positive which exists from 2018 to 2002."
+   ],
+   "trends": [
+      {
+         "Length": 17,
+         "direction": "positive",
+         "start": 0,
+         "end": 16,
+         "trend": "y=-208.56x+425648.29",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of banks": 4708.0
+      },
+      {
+         "Year": "2017",
+         "Number of banks": 4909.0
+      },
+      {
+         "Year": "2016",
+         "Number of banks": 5102.0
+      },
+      {
+         "Year": "2015",
+         "Number of banks": 5330.0
+      },
+      {
+         "Year": "2014",
+         "Number of banks": 5596.0
+      },
+      {
+         "Year": "2013",
+         "Number of banks": 5836.0
+      },
+      {
+         "Year": "2012",
+         "Number of banks": 6061.0
+      },
+      {
+         "Year": "2011",
+         "Number of banks": 6263.0
+      },
+      {
+         "Year": "2010",
+         "Number of banks": 6506.0
+      },
+      {
+         "Year": "2009",
+         "Number of banks": 6813.0
+      },
+      {
+         "Year": "2008",
+         "Number of banks": 7061.0
+      },
+      {
+         "Year": "2007",
+         "Number of banks": 7262.0
+      },
+      {
+         "Year": "2006",
+         "Number of banks": 7380.0
+      },
+      {
+         "Year": "2005",
+         "Number of banks": 7507.0
+      },
+      {
+         "Year": "2004",
+         "Number of banks": 7612.0
+      },
+      {
+         "Year": "2003",
+         "Number of banks": 7750.0
+      },
+      {
+         "Year": "2002",
+         "Number of banks": 7870.0
+      }
+   ]
+}

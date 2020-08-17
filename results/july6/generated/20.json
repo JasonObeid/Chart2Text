@@ -1,0 +1,70 @@
+{
+   "title": "Popular topics subject to online trolling in the U.S. 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "A survey of online users in the U.S. revealed that 63 % of respondents felt that Politics and messaging apps were among the three types of apps that they topics the most U.S. on . ",
+      "During the third quarter 2017 survey , 29 % of respondents stated the same about gaming apps ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "16": "0"
+      },
+      {
+         "7": "6"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Politics",
+         "Share of respondents": "63"
+      },
+      {
+         "Response": "Celebrity",
+         "Share of respondents": "52"
+      },
+      {
+         "Response": "Religion",
+         "Share of respondents": "48"
+      },
+      {
+         "Response": "News/current events",
+         "Share of respondents": "46"
+      },
+      {
+         "Response": "Emotional (e.g. a traumatic experience death etc.)",
+         "Share of respondents": "38"
+      },
+      {
+         "Response": "Personal (e.g. a person's day a vacation photo etc.)",
+         "Share of respondents": "33"
+      },
+      {
+         "Response": "Sports",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "Gaming",
+         "Share of respondents": "27"
+      },
+      {
+         "Response": "Health",
+         "Share of respondents": "24"
+      },
+      {
+         "Response": "Science",
+         "Share of respondents": "22"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Not applicable - I have never seen internet trolling before",
+         "Share of respondents": "12"
+      }
+   ]
+}

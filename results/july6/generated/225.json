@@ -1,0 +1,67 @@
+{
+   "title": "Individuals following a vegetarian diet in the United Kingdom ( UK ) 2008 - 2012 , by age",
+   "labels": [
+      "Year",
+      "Neither vegetarian or vegan",
+      "Vegetarian"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the vegetarian of developers diet from 65_years_and_over to 1.5-3_years , broken down UK 2008 . ",
+      "In 1.5-3_years , 99 % of responding vegetarian developers were Neither , while 1 % were Vegetarian ."
+   ],
+   "trends": [
+      {
+         "10": [
+            "4",
+            "0"
+         ],
+         "12": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "1.5-3 years",
+         "Neither vegetarian or vegan": "99",
+         "Vegetarian": "1"
+      },
+      {
+         "Year": "4-10 years",
+         "Neither vegetarian or vegan": "98",
+         "Vegetarian": "2"
+      },
+      {
+         "Year": "11-18 years",
+         "Neither vegetarian or vegan": "98",
+         "Vegetarian": "2"
+      },
+      {
+         "Year": "19-64 years",
+         "Neither vegetarian or vegan": "97",
+         "Vegetarian": "3"
+      },
+      {
+         "Year": "65 years and over",
+         "Neither vegetarian or vegan": "98",
+         "Vegetarian": "1"
+      }
+   ]
+}

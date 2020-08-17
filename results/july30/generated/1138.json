@@ -1,0 +1,51 @@
+{
+   "title": "Smartphone penetration as share of connections in Pakistan 2014 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of connections",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of connections with a total of 7 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2020 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 0,
+         "end": 6,
+         "trend": "y=7.0x+-14090.86",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Percentage of connections": 51.0
+      },
+      {
+         "Year": "2019",
+         "Percentage of connections": 43.0
+      },
+      {
+         "Year": "2018",
+         "Percentage of connections": 34.0
+      },
+      {
+         "Year": "2017",
+         "Percentage of connections": 26.0
+      },
+      {
+         "Year": "2016",
+         "Percentage of connections": 19.0
+      },
+      {
+         "Year": "2015",
+         "Percentage of connections": 14.0
+      },
+      {
+         "Year": "2014",
+         "Percentage of connections": 10.0
+      }
+   ]
+}

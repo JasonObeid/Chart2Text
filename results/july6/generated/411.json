@@ -1,0 +1,79 @@
+{
+   "title": "Weekly church attendance in Italy 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of individuals in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of attendance individuals at Italy establishments in Italy from 2006 to 2018 . ",
+      "Since 2009 there has been an increasing trend in individuals . ",
+      "In 2018 , the Number of individuals ( including both foreign and domestic ) at Italy in amounted to approximately 14264 thousands ."
+   ],
+   "trends": [
+      {
+         "14": "12",
+         "16": "0"
+      },
+      {
+         "1": "9"
+      },
+      {
+         "1": "0",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of individuals in thousands": "14264"
+      },
+      {
+         "Year": "2017",
+         "Number of individuals in thousands": "15234"
+      },
+      {
+         "Year": "2016",
+         "Number of individuals in thousands": "15752"
+      },
+      {
+         "Year": "2015",
+         "Number of individuals in thousands": "16597"
+      },
+      {
+         "Year": "2014",
+         "Number of individuals in thousands": "16506"
+      },
+      {
+         "Year": "2013",
+         "Number of individuals in thousands": "17323"
+      },
+      {
+         "Year": "2012",
+         "Number of individuals in thousands": "16871"
+      },
+      {
+         "Year": "2011",
+         "Number of individuals in thousands": "17124"
+      },
+      {
+         "Year": "2010",
+         "Number of individuals in thousands": "18058"
+      },
+      {
+         "Year": "2009",
+         "Number of individuals in thousands": "18270"
+      },
+      {
+         "Year": "2008",
+         "Number of individuals in thousands": "18267"
+      },
+      {
+         "Year": "2007",
+         "Number of individuals in thousands": "18470"
+      },
+      {
+         "Year": "2006",
+         "Number of individuals in thousands": "18366"
+      }
+   ]
+}

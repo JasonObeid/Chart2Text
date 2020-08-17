@@ -1,0 +1,57 @@
+{
+   "title": "Mobile phone usage : frequency of making mobile phone calls in the UK 2019 , by gender",
+   "labels": [
+      "Response",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 7 categories for the x axis of Response representing Male, and Female.",
+      " The highest category is found at Several times a day with a mean value of 47.5.",
+      " The second highest category is found at Every day with a mean value of 22.5.",
+      " This represents a difference of 71.4%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Response": "Several times a day",
+         "Male": "49",
+         "Female": "46"
+      },
+      {
+         "Response": "Every day",
+         "Male": "21",
+         "Female": "24"
+      },
+      {
+         "Response": "Several times a week",
+         "Male": "16",
+         "Female": "17"
+      },
+      {
+         "Response": "At least once a week",
+         "Male": "6",
+         "Female": "6"
+      },
+      {
+         "Response": "At least once a month",
+         "Male": "4",
+         "Female": "3"
+      },
+      {
+         "Response": "Less than once a month",
+         "Male": "2",
+         "Female": "2"
+      },
+      {
+         "Response": "Never",
+         "Male": "1",
+         "Female": "1"
+      }
+   ]
+}

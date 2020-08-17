@@ -1,0 +1,44 @@
+{
+   "title": "Church attendance of Americans 2019",
+   "xAxis": "Frequency",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the attendance Americans 2019 of internet users in the Church as of 2017 . ",
+      "During the most recent survey period , 23 % of respondents stated they purchased goods attendance at Every_week a ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "17": "0",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Frequency": "Every week",
+         "Share of respondents": "23"
+      },
+      {
+         "Frequency": "Almost every week",
+         "Share of respondents": "10"
+      },
+      {
+         "Frequency": "About once a month",
+         "Share of respondents": "12"
+      },
+      {
+         "Frequency": "Seldom",
+         "Share of respondents": "24"
+      },
+      {
+         "Frequency": "Never",
+         "Share of respondents": "29"
+      },
+      {
+         "Frequency": "No opinion",
+         "Share of respondents": "3"
+      }
+   ]
+}

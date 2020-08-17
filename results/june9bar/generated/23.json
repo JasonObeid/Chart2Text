@@ -1,0 +1,78 @@
+{
+   "title": "Cities with the highest spending on parks and recreation in the U.S. 2018",
+   "xAxis": "State",
+   "yAxis": "Spending per resident U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the Cities U.S. highest spending parks of 2018 in the U.S. 2018 as of 2019 . ",
+      "As of 2018 , Minneapolis had the highest Spending of U.S. population 2018 State ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "Minneapolis",
+         "Spending per resident U.S. dollars": "346.97"
+      },
+      {
+         "State": "Seattle",
+         "Spending per resident U.S. dollars": "268.42"
+      },
+      {
+         "State": "San Francisco",
+         "Spending per resident U.S. dollars": "259.59"
+      },
+      {
+         "State": "Portland",
+         "Spending per resident U.S. dollars": "233.99"
+      },
+      {
+         "State": "Arlington",
+         "Spending per resident U.S. dollars": "232.59"
+      },
+      {
+         "State": "Irvine",
+         "Spending per resident U.S. dollars": "206.12"
+      },
+      {
+         "State": "Washington D.C.",
+         "Spending per resident U.S. dollars": "203.21"
+      },
+      {
+         "State": "St. Paul",
+         "Spending per resident U.S. dollars": "201.96"
+      },
+      {
+         "State": "Plano",
+         "Spending per resident U.S. dollars": "201.02"
+      },
+      {
+         "State": "Boise",
+         "Spending per resident U.S. dollars": "182.04"
+      },
+      {
+         "State": "New York",
+         "Spending per resident U.S. dollars": "176.0"
+      },
+      {
+         "State": "Long Beach",
+         "Spending per resident U.S. dollars": "171.14"
+      },
+      {
+         "State": "Chicago",
+         "Spending per resident U.S. dollars": "162.87"
+      },
+      {
+         "State": "Cincinnati",
+         "Spending per resident U.S. dollars": "153.37"
+      },
+      {
+         "State": "Aurora",
+         "Spending per resident U.S. dollars": "146.33"
+      }
+   ]
+}

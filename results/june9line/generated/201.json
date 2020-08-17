@@ -1,0 +1,108 @@
+{
+   "title": "Youth unemployment rate in Tanzania in 2019",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Youth unemployment rate in Tanzania from 1999 and 2019 . ",
+      "According to the source , the data are ILO estimates . ",
+      "In 2019 , the estimated Youth unemployment rate in Tanzania was at 3.43 % ."
+   ],
+   "trends": [
+      {
+         "10": "20",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": "3.43"
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": "3.45"
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": "3.43"
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": "3.66"
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": "3.7"
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": "3.71"
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": "5.69"
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": "6.34"
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": "6.76"
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": "5.9"
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": "4.88"
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": "4.58"
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": "5.04"
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": "6.07"
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": "6.29"
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": "6.19"
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": "6.04"
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": "5.81"
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": "5.36"
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": "5.64"
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": "5.88"
+      }
+   ]
+}

@@ -1,0 +1,82 @@
+{
+   "title": "Average biking distance per person per day in the Netherlands 2010 - 2017 , by gender",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Average biking of distance per person in the per day 2010 to 2017 . ",
+      "In 2017 , 2.56 % of distance person in the Netherlands were male and 2.31 % were female ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "7",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Men": "2.56",
+         "Women": "2.31"
+      },
+      {
+         "Year": "2016",
+         "Men": "2.63",
+         "Women": "2.31"
+      },
+      {
+         "Year": "2015",
+         "Men": "2.72",
+         "Women": "2.38"
+      },
+      {
+         "Year": "2014",
+         "Men": "3.05",
+         "Women": "2.53"
+      },
+      {
+         "Year": "2013",
+         "Men": "2.68",
+         "Women": "2.27"
+      },
+      {
+         "Year": "2012",
+         "Men": "2.69",
+         "Women": "2.35"
+      },
+      {
+         "Year": "2011",
+         "Men": "2.79",
+         "Women": "2.34"
+      },
+      {
+         "Year": "2010",
+         "Men": "2.52",
+         "Women": "2.22"
+      }
+   ]
+}

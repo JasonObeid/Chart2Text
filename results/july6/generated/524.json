@@ -1,0 +1,64 @@
+{
+   "title": "PUBG player share 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Share of players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of players in selected PUBG American countries in 2017 . ",
+      "The prices concern unleaded premium ( 95 RON ) for China , Russia United_States , South_Korea and the Germany , and regular unleaded for United_Kingdom , Japan and the Germany Other . ",
+      "In 2017 , the Share of players in the Germany Other stood at 0.675 players ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "1",
+         "12": "3",
+         "14": "0",
+         "16": "4",
+         "20": "2",
+         "26": "6",
+         "28": "5",
+         "32": "2",
+         "33": "7"
+      },
+      {
+         "10": "2",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of players": "24"
+      },
+      {
+         "Country": "China",
+         "Share of players": "19"
+      },
+      {
+         "Country": "Germany",
+         "Share of players": "6"
+      },
+      {
+         "Country": "Russia",
+         "Share of players": "6"
+      },
+      {
+         "Country": "South Korea",
+         "Share of players": "5.5"
+      },
+      {
+         "Country": "Japan",
+         "Share of players": "4.3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of players": "4"
+      },
+      {
+         "Country": "Other",
+         "Share of players": "31.2"
+      }
+   ]
+}

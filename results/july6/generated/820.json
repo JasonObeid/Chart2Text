@@ -1,0 +1,144 @@
+{
+   "title": "Employment figures Barclays group 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Employee numbers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the proportion of numbers only ( excludes numbers both and eyeglasses ) in country Barclays in 2019 . ",
+      "In this year , India United_States and United_Kingdom had the highest proportion of numbers wearing with approximately 48241 million doing so . ",
+      "This was followed by Singapore and Germany with 970 % of the respective populations wearing numbers ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "6": "2",
+         "8": "0",
+         "20": "0"
+      },
+      {
+         "4": "3",
+         "6": "4",
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United Kingdom",
+         "Employee numbers": "48241"
+      },
+      {
+         "Country": "India",
+         "Employee numbers": "18537"
+      },
+      {
+         "Country": "United States",
+         "Employee numbers": "10142"
+      },
+      {
+         "Country": "Singapore",
+         "Employee numbers": "970"
+      },
+      {
+         "Country": "Germany",
+         "Employee numbers": "779"
+      },
+      {
+         "Country": "Isle of Man",
+         "Employee numbers": "480"
+      },
+      {
+         "Country": "Japan",
+         "Employee numbers": "471"
+      },
+      {
+         "Country": "Czechia",
+         "Employee numbers": "462"
+      },
+      {
+         "Country": "Hong Kong",
+         "Employee numbers": "441"
+      },
+      {
+         "Country": "Switzerland",
+         "Employee numbers": "276"
+      },
+      {
+         "Country": "Lithuania",
+         "Employee numbers": "273"
+      },
+      {
+         "Country": "Ireland",
+         "Employee numbers": "261"
+      },
+      {
+         "Country": "Jersey",
+         "Employee numbers": "251"
+      },
+      {
+         "Country": "Monaco",
+         "Employee numbers": "197"
+      },
+      {
+         "Country": "Italy",
+         "Employee numbers": "180"
+      },
+      {
+         "Country": "France",
+         "Employee numbers": "171"
+      },
+      {
+         "Country": "UAE",
+         "Employee numbers": "170"
+      },
+      {
+         "Country": "Spain",
+         "Employee numbers": "80"
+      },
+      {
+         "Country": "Mexico",
+         "Employee numbers": "75"
+      },
+      {
+         "Country": "Canada",
+         "Employee numbers": "66"
+      },
+      {
+         "Country": "Guernsey",
+         "Employee numbers": "66"
+      },
+      {
+         "Country": "Luxembourg",
+         "Employee numbers": "47"
+      },
+      {
+         "Country": "Israel",
+         "Employee numbers": "41"
+      },
+      {
+         "Country": "China",
+         "Employee numbers": "25"
+      },
+      {
+         "Country": "Portugal",
+         "Employee numbers": "13"
+      },
+      {
+         "Country": "The Netherlands",
+         "Employee numbers": "12"
+      },
+      {
+         "Country": "Brazil",
+         "Employee numbers": "7"
+      },
+      {
+         "Country": "Sweden",
+         "Employee numbers": "7"
+      },
+      {
+         "Country": "Other ",
+         "Employee numbers": "4"
+      }
+   ]
+}

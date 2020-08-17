@@ -1,0 +1,55 @@
+{
+   "title": "New issue volume of U.S. asset-backed securities 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Volume in billion U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Volume of U.S. asset-backed securities in the issue from 2000 to 2018 . ",
+      "In 2018 , the Volume of the volume U.S. asset-backed securities in the issue was approximately 0.99 billion U.S. dollars . ",
+      "The volume U.S. is an informal network of banks , brokers dealers and financial institutions which are linked electronically ."
+   ],
+   "trends": [
+      {
+         "14": "7",
+         "16": "0"
+      },
+      {
+         "1": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Volume in billion U.S. dollars": "517"
+      },
+      {
+         "Year": "2017",
+         "Volume in billion U.S. dollars": "550"
+      },
+      {
+         "Year": "2016",
+         "Volume in billion U.S. dollars": "325"
+      },
+      {
+         "Year": "2015",
+         "Volume in billion U.S. dollars": "333"
+      },
+      {
+         "Year": "2014",
+         "Volume in billion U.S. dollars": "393"
+      },
+      {
+         "Year": "2010",
+         "Volume in billion U.S. dollars": "126"
+      },
+      {
+         "Year": "2005",
+         "Volume in billion U.S. dollars": "474"
+      },
+      {
+         "Year": "2000",
+         "Volume in billion U.S. dollars": "240"
+      }
+   ]
+}

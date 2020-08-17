@@ -1,0 +1,78 @@
+{
+   "title": "AstraZeneca 's revenue 2013 - 2018 by region",
+   "labels": [
+      "Year",
+      "United States",
+      "Europe",
+      "Established rest of world",
+      "Emerging markets"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the AstraZeneca of revenue AstraZeneca 2018 from 2013 to 2018 , region . ",
+      "In 2018 , the AstraZeneca of revenue AstraZeneca 2018 worldwide amounted to around 4459 million U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "5",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "United States": "6876",
+         "Europe": "4459",
+         "Established rest of world": "2823",
+         "Emerging markets": "6891"
+      },
+      {
+         "Year": "2017",
+         "United States": "6169",
+         "Europe": "4753",
+         "Established rest of world": "3081",
+         "Emerging markets": "6149"
+      },
+      {
+         "Year": "2016",
+         "United States": "7365",
+         "Europe": "5064",
+         "Established rest of world": "3096",
+         "Emerging markets": "5794"
+      },
+      {
+         "Year": "2015",
+         "United States": "9474",
+         "Europe": "5323",
+         "Established rest of world": "3022",
+         "Emerging markets": "5822"
+      },
+      {
+         "Year": "2014",
+         "United States": "10120",
+         "Europe": "6638",
+         "Established rest of world": "3510",
+         "Emerging markets": "5827"
+      },
+      {
+         "Year": "2013",
+         "United States": "9691",
+         "Europe": "6658",
+         "Established rest of world": "3973",
+         "Emerging markets": "5389"
+      }
+   ]
+}

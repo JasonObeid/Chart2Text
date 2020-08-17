@@ -1,0 +1,46 @@
+{
+   "title": "Global pork exports 2020 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Export volume in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Country, and a y axis representing Export volume in thousand metric tons.",
+      " The highest category is found at EU where Export volume in thousand metric tons is 3900.0.",
+      " The lowest category is found at China where Export volume in thousand metric tons is 100.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 5
+   },
+   "data": [
+      {
+         "Country": "EU",
+         "Export volume in thousand metric tons": 3900.0
+      },
+      {
+         "Country": "United States",
+         "Export volume in thousand metric tons": 3221.0
+      },
+      {
+         "Country": "Canada",
+         "Export volume in thousand metric tons": 1400.0
+      },
+      {
+         "Country": "Brazil",
+         "Export volume in thousand metric tons": 1000.0
+      },
+      {
+         "Country": "Mexico",
+         "Export volume in thousand metric tons": 250.0
+      },
+      {
+         "Country": "China",
+         "Export volume in thousand metric tons": 100.0
+      },
+      {
+         "Country": "Others",
+         "Export volume in thousand metric tons": 476.0
+      }
+   ]
+}

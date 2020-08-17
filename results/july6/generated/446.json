@@ -1,0 +1,134 @@
+{
+   "title": "Registration of buses and coaches in Europe by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Registrations in units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Registrations units in the member states of the European Union in the first country of 2018 . ",
+      "The data refer to the entire state and are comprised of the debts of central government , provinces municipalities , local authorities and social security . ",
+      "In the first country of 2018 , Poland 's Registrations units amounted to about 1026 million units ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "7": "7",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United Kingdom",
+         "Registrations in units": "7236"
+      },
+      {
+         "Country": "Germany",
+         "Registrations in units": "6669"
+      },
+      {
+         "Country": "France",
+         "Registrations in units": "6230"
+      },
+      {
+         "Country": "Italy",
+         "Registrations in units": "4348"
+      },
+      {
+         "Country": "Spain",
+         "Registrations in units": "3327"
+      },
+      {
+         "Country": "Austria",
+         "Registrations in units": "1060"
+      },
+      {
+         "Country": "Romania",
+         "Registrations in units": "1029"
+      },
+      {
+         "Country": "Poland",
+         "Registrations in units": "1026"
+      },
+      {
+         "Country": "Czechia",
+         "Registrations in units": "1009"
+      },
+      {
+         "Country": "Norway",
+         "Registrations in units": "1001"
+      },
+      {
+         "Country": "Belgium",
+         "Registrations in units": "989"
+      },
+      {
+         "Country": "Sweden",
+         "Registrations in units": "872"
+      },
+      {
+         "Country": "Lithuania",
+         "Registrations in units": "696"
+      },
+      {
+         "Country": "Hungary",
+         "Registrations in units": "662"
+      },
+      {
+         "Country": "Switzerland",
+         "Registrations in units": "614"
+      },
+      {
+         "Country": "Ireland",
+         "Registrations in units": "547"
+      },
+      {
+         "Country": "Denmark",
+         "Registrations in units": "503"
+      },
+      {
+         "Country": "Portugal",
+         "Registrations in units": "500"
+      },
+      {
+         "Country": "Finland",
+         "Registrations in units": "497"
+      },
+      {
+         "Country": "Netherlands",
+         "Registrations in units": "429"
+      },
+      {
+         "Country": "Slovakia",
+         "Registrations in units": "302"
+      },
+      {
+         "Country": "Croatia",
+         "Registrations in units": "242"
+      },
+      {
+         "Country": "Luxembourg",
+         "Registrations in units": "221"
+      },
+      {
+         "Country": "Slovenia",
+         "Registrations in units": "187"
+      },
+      {
+         "Country": "Greece",
+         "Registrations in units": "183"
+      },
+      {
+         "Country": "Estonia",
+         "Registrations in units": "142"
+      },
+      {
+         "Country": "Latvia",
+         "Registrations in units": "108"
+      },
+      {
+         "Country": "Iceland",
+         "Registrations in units": "65"
+      }
+   ]
+}

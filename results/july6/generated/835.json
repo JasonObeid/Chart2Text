@@ -1,0 +1,82 @@
+{
+   "title": "Number of employees of Penguin Random House 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of employees at Penguin Random House Random from 2005 to 2018 . ",
+      "Penguin Random House employed 312,028 members of staff globally in 2018 . ",
+      "Penguin Random House \u2013 additional information Penguin Random House , or to give it its full name , Penguin Random House Touche Tohmatsu Limited was founded in London 1845 , and as of 2016 , its headquarters were located in New York City ."
+   ],
+   "trends": [
+      {
+         "11": "13",
+         "13": "0"
+      },
+      {
+         "8": "0"
+      },
+      {
+         "28": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": "10351"
+      },
+      {
+         "Year": "2017",
+         "Number of employees": "10615"
+      },
+      {
+         "Year": "2016",
+         "Number of employees": "10594"
+      },
+      {
+         "Year": "2015",
+         "Number of employees": "10582"
+      },
+      {
+         "Year": "2014",
+         "Number of employees": "12812"
+      },
+      {
+         "Year": "2013",
+         "Number of employees": "11838"
+      },
+      {
+         "Year": "2012",
+         "Number of employees": "5712"
+      },
+      {
+         "Year": "2011",
+         "Number of employees": "5343"
+      },
+      {
+         "Year": "2010",
+         "Number of employees": "5264"
+      },
+      {
+         "Year": "2009",
+         "Number of employees": "5432"
+      },
+      {
+         "Year": "2008",
+         "Number of employees": "5779"
+      },
+      {
+         "Year": "2007",
+         "Number of employees": "5764"
+      },
+      {
+         "Year": "2006",
+         "Number of employees": "5804"
+      },
+      {
+         "Year": "2005",
+         "Number of employees": "5395"
+      }
+   ]
+}

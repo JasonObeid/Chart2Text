@@ -1,0 +1,58 @@
+{
+   "title": "Facebook : number of followers of popular beauty brands 2020\n",
+   "xAxis": "Month",
+   "yAxis": "Brand fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Brand fans in millions.",
+      " The highest category is found at Bath_&_Body_Works where Brand fans in millions is 9.8.",
+      " The lowest category is found at Embelleze where Brand fans in millions is 4.01."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Month": "Bath & Body Works",
+         "Brand fans in millions": 9.8
+      },
+      {
+         "Month": "Risqu\u00e9",
+         "Brand fans in millions": 7.23
+      },
+      {
+         "Month": "Mary Kay Brasil",
+         "Brand fans in millions": 6.26
+      },
+      {
+         "Month": "Eudora",
+         "Brand fans in millions": 5.56
+      },
+      {
+         "Month": "Pantene Brasil",
+         "Brand fans in millions": 4.92
+      },
+      {
+         "Month": "Doce Pel\u00edcula",
+         "Brand fans in millions": 4.88
+      },
+      {
+         "Month": "Nature Republic Myanmar",
+         "Brand fans in millions": 4.87
+      },
+      {
+         "Month": "COVERGIRL",
+         "Brand fans in millions": 4.64
+      },
+      {
+         "Month": "Dailus",
+         "Brand fans in millions": 4.21
+      },
+      {
+         "Month": "Embelleze",
+         "Brand fans in millions": 4.01
+      }
+   ]
+}

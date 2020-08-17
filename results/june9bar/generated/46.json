@@ -1,0 +1,81 @@
+{
+   "title": "Chile : public perception on the country 's main problems in 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "As of early 2018 , Crime and Unemployment were the most perception country 's main with 38.2 % of respondents stated that public . ",
+      "Another 8.8 % of respondents stated that they Violation_of_human_rights for the Corruption during Drug_consumption ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "7": "1",
+         "16": "0"
+      },
+      {
+         "1": "1",
+         "8": "6",
+         "11": "2",
+         "13": "13"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Crime",
+         "Share of respondents": "38.2"
+      },
+      {
+         "Response": "Unemployment",
+         "Share of respondents": "8.8"
+      },
+      {
+         "Response": "Corruption",
+         "Share of respondents": "6.2"
+      },
+      {
+         "Response": "Health",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Education",
+         "Share of respondents": "5.8"
+      },
+      {
+         "Response": "Low salaries",
+         "Share of respondents": "4.4"
+      },
+      {
+         "Response": "Violation of human rights",
+         "Share of respondents": "3.9"
+      },
+      {
+         "Response": "Immigrants",
+         "Share of respondents": "3.2"
+      },
+      {
+         "Response": "Income distribution",
+         "Share of respondents": "2.8"
+      },
+      {
+         "Response": "Lack of care for the elderly",
+         "Share of respondents": "2.8"
+      },
+      {
+         "Response": "Political situation",
+         "Share of respondents": "2.7"
+      },
+      {
+         "Response": "The economy",
+         "Share of respondents": "2.3"
+      },
+      {
+         "Response": "Poverty",
+         "Share of respondents": "1.8"
+      },
+      {
+         "Response": "Drug consumption",
+         "Share of respondents": "1.6"
+      }
+   ]
+}

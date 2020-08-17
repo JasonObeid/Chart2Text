@@ -1,0 +1,68 @@
+{
+   "title": "Gross domestic product ( GDP ) at current prices in Norway 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "GDP in billion NOK",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the degree of Gross in Norway from 2008 to 2018 and details the billion of the entire NOK , living in billion areas . ",
+      "In 2018 , 3531 billion of the total NOK in Norway lived in cities . ",
+      "Norway 's rural exodus Norway is one of the largest countries in the world regarding land area , second behind Russia ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "3": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "GDP in billion NOK": "3531"
+      },
+      {
+         "Year": "2017",
+         "GDP in billion NOK": "3295"
+      },
+      {
+         "Year": "2016",
+         "GDP in billion NOK": "3098"
+      },
+      {
+         "Year": "2015",
+         "GDP in billion NOK": "3111"
+      },
+      {
+         "Year": "2014",
+         "GDP in billion NOK": "3141"
+      },
+      {
+         "Year": "2013",
+         "GDP in billion NOK": "3071"
+      },
+      {
+         "Year": "2012",
+         "GDP in billion NOK": "2964"
+      },
+      {
+         "Year": "2011",
+         "GDP in billion NOK": "2793"
+      },
+      {
+         "Year": "2010",
+         "GDP in billion NOK": "2591"
+      },
+      {
+         "Year": "2009",
+         "GDP in billion NOK": "2428"
+      },
+      {
+         "Year": "2008",
+         "GDP in billion NOK": "2607"
+      }
+   ]
+}

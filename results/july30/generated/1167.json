@@ -1,0 +1,42 @@
+{
+   "title": "2012 election : support for Romney and Obama , by ethnic group",
+   "labels": [
+      "Race",
+      "Obama",
+      "Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 4 categories for the x axis of Race representing Obama, and Romney.",
+      " The highest category is found at White (non-Hispanic) with a mean value of 48.0.",
+      " The second highest category is found at Black with a mean value of 47.5.",
+      " This represents a difference of 1.0%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Race": "White (non-Hispanic)",
+         "Obama": "37",
+         "Romney": "59"
+      },
+      {
+         "Race": "Nonwhite",
+         "Obama": "79",
+         "Romney": "15"
+      },
+      {
+         "Race": "Black",
+         "Obama": "90",
+         "Romney": "5"
+      },
+      {
+         "Race": "Hispanic",
+         "Obama": "69",
+         "Romney": "25"
+      }
+   ]
+}

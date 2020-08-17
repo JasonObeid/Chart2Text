@@ -1,0 +1,129 @@
+{
+   "title": "Retail price of premium cigarettes in Europe 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Retail price in GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Retail price GBP of the Europe by states in 2017 . ",
+      "A negative price balance means that a Country contributes more to the Europe budget than it receives from it , a positive balance means the Country contributes less than it receives . ",
+      "In 2017 , Bulgaria contributed the most with approximately 10.68 billion GBP ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "3": "26"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United Kingdom",
+         "Retail price in GBP": "9.91"
+      },
+      {
+         "Country": "Ireland",
+         "Retail price in GBP": "9.15"
+      },
+      {
+         "Country": "France",
+         "Retail price in GBP": "5.67"
+      },
+      {
+         "Country": "Netherlands",
+         "Retail price in GBP": "5.37"
+      },
+      {
+         "Country": "Belgium",
+         "Retail price in GBP": "5.12"
+      },
+      {
+         "Country": "Finland",
+         "Retail price in GBP": "5.02"
+      },
+      {
+         "Country": "Denmark",
+         "Retail price in GBP": "5.0"
+      },
+      {
+         "Country": "Germany",
+         "Retail price in GBP": "4.86"
+      },
+      {
+         "Country": "Malta",
+         "Retail price in GBP": "4.46"
+      },
+      {
+         "Country": "Italy",
+         "Retail price in GBP": "4.37"
+      },
+      {
+         "Country": "Luxembourg",
+         "Retail price in GBP": "4.21"
+      },
+      {
+         "Country": "Austria",
+         "Retail price in GBP": "4.05"
+      },
+      {
+         "Country": "Spain",
+         "Retail price in GBP": "3.93"
+      },
+      {
+         "Country": "Portugal",
+         "Retail price in GBP": "3.89"
+      },
+      {
+         "Country": "Cyprus",
+         "Retail price in GBP": "3.89"
+      },
+      {
+         "Country": "Greece",
+         "Retail price in GBP": "3.4"
+      },
+      {
+         "Country": "Slovenia",
+         "Retail price in GBP": "3.16"
+      },
+      {
+         "Country": "Estonia",
+         "Retail price in GBP": "3.09"
+      },
+      {
+         "Country": "Romania",
+         "Retail price in GBP": "3.09"
+      },
+      {
+         "Country": "Hungary",
+         "Retail price in GBP": "3.06"
+      },
+      {
+         "Country": "Slovakia",
+         "Retail price in GBP": "3.0"
+      },
+      {
+         "Country": "Czech Republic",
+         "Retail price in GBP": "3.0"
+      },
+      {
+         "Country": "Latvia",
+         "Retail price in GBP": "2.92"
+      },
+      {
+         "Country": "Poland",
+         "Retail price in GBP": "2.81"
+      },
+      {
+         "Country": "Croatia",
+         "Retail price in GBP": "2.72"
+      },
+      {
+         "Country": "Lithuania",
+         "Retail price in GBP": "2.67"
+      },
+      {
+         "Country": "Bulgaria",
+         "Retail price in GBP": "2.32"
+      }
+   ]
+}

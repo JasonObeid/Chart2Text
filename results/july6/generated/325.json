@@ -1,0 +1,78 @@
+{
+   "title": "Driver satisfaction with Uber U.S. 2017 to 2019",
+   "labels": [
+      "unknown",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The world 's satisfaction fleet is expected to increase from 25,830 to 50,660 satisfaction between 2017 and 2019 . ",
+      "While the more established markets of Strongly_agree and Somewhat_agree are predicted to increase U.S. around 77 and 45 % respectively , the Somewhat_disagree Strongly_agree fleet is expected to increase U.S. about 146 % to 43.4 satisfaction in 2019 . ",
+      "Commercial aviation The above figures relate only to commercial aviation , meaning satisfaction for hire operated U.S. companies ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": [
+            "4",
+            "0"
+         ],
+         "8": [
+            "4",
+            "0"
+         ],
+         "9": [
+            "3",
+            "0"
+         ],
+         "23": [
+            "1",
+            "0"
+         ],
+         "24": [
+            "4",
+            "0"
+         ],
+         "35": [
+            "3",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "unknown": "Strongly disagree",
+         "2017": "10.8",
+         "2018": "8.2",
+         "2019": "13.9"
+      },
+      {
+         "unknown": "Somewhat disagree",
+         "2017": "25.4",
+         "2018": "17.3",
+         "2019": "22.5"
+      },
+      {
+         "unknown": "Neither agree nor disagree",
+         "2017": "14.4",
+         "2018": "16.3",
+         "2019": "19.1"
+      },
+      {
+         "unknown": "Somewhat agree",
+         "2017": "39.7",
+         "2018": "43.4",
+         "2019": "34.1"
+      },
+      {
+         "unknown": "Strongly agree",
+         "2017": "9.7",
+         "2018": "14.8",
+         "2019": "10.5"
+      }
+   ]
+}

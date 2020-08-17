@@ -1,0 +1,140 @@
+{
+   "title": "Steel concrete reinforcing bars - production in the U.S. 2000 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Production in million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in million metric tons, with a total of 18 data points. The chart has 6 significant trends.",
+      " The longest trend is  negative which exists from 2014 to 2011.",
+      " Differently, the next significant trend is  negative which exists from 2017 to 2015.",
+      " Contrarily, the next significant trend is  positive which exists from 2009 to 2007.",
+      " Similarly, the next significant trend is  negative which exists from 2007 to 2005.",
+      " Contrarily, the next significant trend is  positive which exists from 2005 to 2003.",
+      " Correspondingly, the next significant trend is  positive which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 3,
+         "end": 6,
+         "trend": "y=0.67x+-1348.34",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=0.27x+-548.32",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 8,
+         "end": 10,
+         "trend": "y=-1.33x+2676.94",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 10,
+         "end": 12,
+         "trend": "y=0.47x+-925.97",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 12,
+         "end": 14,
+         "trend": "y=-0.52x+1039.09",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 15,
+         "end": 17,
+         "trend": "y=-0.1x+216.31",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Production in million metric tons": 6.39
+      },
+      {
+         "Year": "2016",
+         "Production in million metric tons": 6.02
+      },
+      {
+         "Year": "2015",
+         "Production in million metric tons": 5.84
+      },
+      {
+         "Year": "2014",
+         "Production in million metric tons": 7.0
+      },
+      {
+         "Year": "2013",
+         "Production in million metric tons": 6.56
+      },
+      {
+         "Year": "2012",
+         "Production in million metric tons": 5.65
+      },
+      {
+         "Year": "2011",
+         "Production in million metric tons": 5.06
+      },
+      {
+         "Year": "2010",
+         "Production in million metric tons": 5.74
+      },
+      {
+         "Year": "2009",
+         "Production in million metric tons": 4.62
+      },
+      {
+         "Year": "2008",
+         "Production in million metric tons": 7.01
+      },
+      {
+         "Year": "2007",
+         "Production in million metric tons": 7.28
+      },
+      {
+         "Year": "2006",
+         "Production in million metric tons": 6.83
+      },
+      {
+         "Year": "2005",
+         "Production in million metric tons": 6.35
+      },
+      {
+         "Year": "2004",
+         "Production in million metric tons": 7.35
+      },
+      {
+         "Year": "2003",
+         "Production in million metric tons": 7.38
+      },
+      {
+         "Year": "2002",
+         "Production in million metric tons": 6.06
+      },
+      {
+         "Year": "2001",
+         "Production in million metric tons": 6.29
+      },
+      {
+         "Year": "2000",
+         "Production in million metric tons": 6.27
+      }
+   ]
+}

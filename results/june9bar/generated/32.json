@@ -1,0 +1,27 @@
+{
+   "title": "Share of Americans who have had a one-night-stand , as of 2012",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the Share Americans who have had one-night-stand 2012 as of 2015 , sorted 2012 Response . ",
+      "During the survey period , it was found that 58.1 % of the respondents stated they used No ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "No",
+         "Share of respondents": "41.9"
+      },
+      {
+         "Response": "Yes",
+         "Share of respondents": "58.1"
+      }
+   ]
+}

@@ -1,0 +1,158 @@
+{
+   "title": "Forecast of dividend yield of companies of Ibex 35 Spain 2019\n",
+   "xAxis": "Company",
+   "yAxis": "Percentage dividend yield",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 35 categories for the x axis representing Company, and a y axis representing Percentage dividend yield.",
+      " The highest category is found at Mediaset where Percentage dividend yield is 8.46.",
+      " The lowest category is found at Arcelormittal where Percentage dividend yield is 0.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 34
+   },
+   "data": [
+      {
+         "Company": "Mediaset",
+         "Percentage dividend yield": 8.46
+      },
+      {
+         "Company": "Ence",
+         "Percentage dividend yield": 6.7
+      },
+      {
+         "Company": "Repsol",
+         "Percentage dividend yield": 6.54
+      },
+      {
+         "Company": "Endesa",
+         "Percentage dividend yield": 6.27
+      },
+      {
+         "Company": "Enagas",
+         "Percentage dividend yield": 6.25
+      },
+      {
+         "Company": "Sabadell",
+         "Percentage dividend yield": 5.9
+      },
+      {
+         "Company": "IAG (Iberia)",
+         "Percentage dividend yield": 5.85
+      },
+      {
+         "Company": "Mapfre",
+         "Percentage dividend yield": 5.84
+      },
+      {
+         "Company": "Caixabank",
+         "Percentage dividend yield": 5.79
+      },
+      {
+         "Company": "Acerinox",
+         "Percentage dividend yield": 5.77
+      },
+      {
+         "Company": "Telef\u00f3nica",
+         "Percentage dividend yield": 5.55
+      },
+      {
+         "Company": "Santander",
+         "Percentage dividend yield": 5.47
+      },
+      {
+         "Company": "BBVA",
+         "Percentage dividend yield": 5.37
+      },
+      {
+         "Company": "Bankia",
+         "Percentage dividend yield": 5.34
+      },
+      {
+         "Company": "REE",
+         "Percentage dividend yield": 5.33
+      },
+      {
+         "Company": "Naturgy",
+         "Percentage dividend yield": 5.13
+      },
+      {
+         "Company": "ACS",
+         "Percentage dividend yield": 5.07
+      },
+      {
+         "Company": "Bankinter",
+         "Percentage dividend yield": 4.73
+      },
+      {
+         "Company": "AENA",
+         "Percentage dividend yield": 4.42
+      },
+      {
+         "Company": "Iberdrola",
+         "Percentage dividend yield": 4.38
+      },
+      {
+         "Company": "Merlin Prop",
+         "Percentage dividend yield": 4.3
+      },
+      {
+         "Company": "Inditex",
+         "Percentage dividend yield": 4.17
+      },
+      {
+         "Company": "T\u00e9cnicas Reunidas",
+         "Percentage dividend yield": 3.82
+      },
+      {
+         "Company": "Accciona",
+         "Percentage dividend yield": 3.72
+      },
+      {
+         "Company": "Viscofan",
+         "Percentage dividend yield": 3.32
+      },
+      {
+         "Company": "Ferrovial",
+         "Percentage dividend yield": 3.17
+      },
+      {
+         "Company": "CIE Automotive",
+         "Percentage dividend yield": 2.8
+      },
+      {
+         "Company": "Immobiliaria Colonial",
+         "Percentage dividend yield": 2.22
+      },
+      {
+         "Company": "Melia Hotels INTL",
+         "Percentage dividend yield": 2.09
+      },
+      {
+         "Company": "Amadeus",
+         "Percentage dividend yield": 1.82
+      },
+      {
+         "Company": "Grifols",
+         "Percentage dividend yield": 1.63
+      },
+      {
+         "Company": "Indra",
+         "Percentage dividend yield": 1.31
+      },
+      {
+         "Company": "Siemens Gamesa",
+         "Percentage dividend yield": 0.7
+      },
+      {
+         "Company": "Cellnex Telecom",
+         "Percentage dividend yield": 0.36
+      },
+      {
+         "Company": "Arcelormittal",
+         "Percentage dividend yield": 0.0
+      }
+   ]
+}

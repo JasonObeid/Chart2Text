@@ -1,0 +1,51 @@
+{
+   "title": "Mexico : age distribution of internet users 2019",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "In 2019 , it appears that the majority of French teenagers were in middle school when they had 2019 . ",
+      "Love appears to be an important area of life at a age users , with more than 50 % of age French distribution stating that love relationships were important for them . ",
+      "2019 love experiences Even though new technologies and smartphones may have changed the way teenagers live 2019 love life , it seems that the users for 2019 love and sex experiences has Over_55_years really changed 45-54_years the 6-11_years ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "32": "6",
+         "35": "5",
+         "37": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "6-11 years",
+         "Share of respondents": "12"
+      },
+      {
+         "Year": "12-17 years",
+         "Share of respondents": "14"
+      },
+      {
+         "Year": "18-24 years",
+         "Share of respondents": "18"
+      },
+      {
+         "Year": "25-34 years",
+         "Share of respondents": "22"
+      },
+      {
+         "Year": "35-44 years",
+         "Share of respondents": "14"
+      },
+      {
+         "Year": "45-54 years",
+         "Share of respondents": "12"
+      },
+      {
+         "Year": "Over 55 years",
+         "Share of respondents": "8"
+      }
+   ]
+}

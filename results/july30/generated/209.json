@@ -1,0 +1,89 @@
+{
+   "title": "Number of visitors to the Rocky Mountain National Park in the U.S. 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of visitors in millions, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2012 to 2008.",
+      " Differently, the next significant trend is  negative which exists from 2016 to 2013.",
+      " On the other hand, the next significant trend is  negative which exists from 2019 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 7,
+         "end": 11,
+         "trend": "y=0.13x+-258.31",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 3,
+         "end": 6,
+         "trend": "y=0.53x+-1067.94",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=0.11x+-227.5",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": 4.67
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": 4.59
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": 4.44
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": 4.52
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": 4.16
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": 3.43
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": 2.99
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": 3.23
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": 3.18
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": 2.96
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": 2.82
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": 2.76
+      }
+   ]
+}

@@ -1,0 +1,58 @@
+{
+   "title": "Tin - leading companies worldwide based on production output 2017\n",
+   "xAxis": "Largest Tin Producers",
+   "yAxis": "Production output in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Largest Tin Producers, and a y axis representing Production output in thousand metric tons.",
+      " The highest category is found at Yunnan_Tin_(China) where Production output in thousand metric tons is 74.5.",
+      " The lowest category is found at Gejiu_Zi-Li_(China) where Production output in thousand metric tons is 8.7."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Largest Tin Producers": "Yunnan Tin (China)",
+         "Production output in thousand metric tons": 74.5
+      },
+      {
+         "Largest Tin Producers": "PT Timah (Indonesia)",
+         "Production output in thousand metric tons": 30.2
+      },
+      {
+         "Largest Tin Producers": "Malaysia Smelting Corporation (Malaysia)",
+         "Production output in thousand metric tons": 27.2
+      },
+      {
+         "Largest Tin Producers": "Yunnan Chengfeng (China)",
+         "Production output in thousand metric tons": 26.8
+      },
+      {
+         "Largest Tin Producers": "Minsur (Peru)",
+         "Production output in thousand metric tons": 18.0
+      },
+      {
+         "Largest Tin Producers": "EM Vinto (Bolivia)",
+         "Production output in thousand metric tons": 12.6
+      },
+      {
+         "Largest Tin Producers": "Guangxi China Tin (China)",
+         "Production output in thousand metric tons": 11.5
+      },
+      {
+         "Largest Tin Producers": "Thaisarco (Thailand)",
+         "Production output in thousand metric tons": 10.6
+      },
+      {
+         "Largest Tin Producers": "Metallo Chimique (Belgium)",
+         "Production output in thousand metric tons": 9.7
+      },
+      {
+         "Largest Tin Producers": "Gejiu Zi-Li (China)",
+         "Production output in thousand metric tons": 8.7
+      }
+   ]
+}

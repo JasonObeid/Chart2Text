@@ -1,0 +1,82 @@
+{
+   "title": "Number of conference championship game appearances of NFL teams 2020\n",
+   "xAxis": "American Football Teams",
+   "yAxis": "Number of appearances",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 16 categories for the x axis representing American Football Teams, and a y axis representing Number of appearances.",
+      " The highest category is found at Pittsburgh_Steelers where Number of appearances is 16.0.",
+      " The lowest category is found at New_York_Giants where Number of appearances is 5.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 13
+   },
+   "data": [
+      {
+         "American Football Teams": "Pittsburgh Steelers",
+         "Number of appearances": 16.0
+      },
+      {
+         "American Football Teams": "San Francisco 49ers",
+         "Number of appearances": 16.0
+      },
+      {
+         "American Football Teams": "New England Patriots",
+         "Number of appearances": 15.0
+      },
+      {
+         "American Football Teams": "Dallas Cowboys",
+         "Number of appearances": 14.0
+      },
+      {
+         "American Football Teams": "L.A. / Oakland Raiders",
+         "Number of appearances": 11.0
+      },
+      {
+         "American Football Teams": "Denver Broncos",
+         "Number of appearances": 10.0
+      },
+      {
+         "American Football Teams": "L.A. / St. Louis Rams",
+         "Number of appearances": 10.0
+      },
+      {
+         "American Football Teams": "Minnesota Vikings",
+         "Number of appearances": 9.0
+      },
+      {
+         "American Football Teams": "Green Bay Packers",
+         "Number of appearances": 8.0
+      },
+      {
+         "American Football Teams": "Miami Dolphins",
+         "Number of appearances": 7.0
+      },
+      {
+         "American Football Teams": "Baltimore / Indianapolis Colts",
+         "Number of appearances": 7.0
+      },
+      {
+         "American Football Teams": "Philadelphia Eagles",
+         "Number of appearances": 7.0
+      },
+      {
+         "American Football Teams": "Washington Redskins",
+         "Number of appearances": 6.0
+      },
+      {
+         "American Football Teams": "New York Giants",
+         "Number of appearances": 5.0
+      },
+      {
+         "American Football Teams": "Chicago Bears",
+         "Number of appearances": 5.0
+      },
+      {
+         "American Football Teams": "Buffalo Bills",
+         "Number of appearances": 5.0
+      }
+   ]
+}

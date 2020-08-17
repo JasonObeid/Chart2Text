@@ -1,0 +1,33 @@
+{
+   "title": "U.S. Amazon retail market share 2016 and 2020",
+   "xAxis": "Year",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Amazon retail Market share in 2016 , and a forecast for 2020 . ",
+      "In 2016 , the Amazon retail Market was valued at 34 % share . ",
+      "Amazon retail is a type of inflammatory bowel disease ( IBD ) which is characterized by the formation of ulcers in the colon ."
+   ],
+   "trends": [
+      {
+         "10": "1",
+         "16": "0"
+      },
+      {
+         "1": "1",
+         "10": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Market share": "50"
+      },
+      {
+         "Year": "2016",
+         "Market share": "34"
+      }
+   ]
+}

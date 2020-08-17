@@ -1,0 +1,94 @@
+{
+   "title": "Leading fast food restaurants in the United Kingdom 2015\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 19 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at McDonald's where Share of respondents is 57.0.",
+      " The lowest category is found at Prefer_not_to_say where Share of respondents is 1.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 18
+   },
+   "data": [
+      {
+         "Response": "McDonald's",
+         "Share of respondents": 57.0
+      },
+      {
+         "Response": "KFC",
+         "Share of respondents": 42.0
+      },
+      {
+         "Response": "Subway",
+         "Share of respondents": 35.0
+      },
+      {
+         "Response": "Burger King",
+         "Share of respondents": 33.0
+      },
+      {
+         "Response": "Pizza Hut",
+         "Share of respondents": 28.0
+      },
+      {
+         "Response": "Domino's",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Nando's",
+         "Share of respondents": 23.0
+      },
+      {
+         "Response": "Pizza Express",
+         "Share of respondents": 22.0
+      },
+      {
+         "Response": "None",
+         "Share of respondents": 19.0
+      },
+      {
+         "Response": "Pret A Manger",
+         "Share of respondents": 12.0
+      },
+      {
+         "Response": "Krispy Kreme",
+         "Share of respondents": 9.0
+      },
+      {
+         "Response": "Wimpy",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Harry Ramsden's",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Chicken Cottage",
+         "Share of respondents": 5.0
+      },
+      {
+         "Response": "Perfect Pizza",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Dixy chicken",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Quiznos",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Prefer not to say",
+         "Share of respondents": 1.0
+      }
+   ]
+}

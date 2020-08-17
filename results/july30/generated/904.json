@@ -1,0 +1,26 @@
+{
+   "title": "Travelers in the U.S. who find family vacation planning stressful in 2014 , by gender\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Women where Share of respondents is 74.0.",
+      " The lowest category is found at Men where Share of respondents is 67.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Response": "Women",
+         "Share of respondents": 74.0
+      },
+      {
+         "Response": "Men",
+         "Share of respondents": 67.0
+      }
+   ]
+}

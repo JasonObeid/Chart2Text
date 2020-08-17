@@ -1,0 +1,108 @@
+{
+   "title": "National Hockey League - Toronto Maple Leafs home attendance 2005 to 2019",
+   "labels": [
+      "Year",
+      "Total attendance",
+      "Average attendance"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the total/average regular season home attendance of the Toronto Maple Leafs franchise of the National Hockey League Toronto Maple Leafs League from the 2005/06 season to the 2018/19 season . ",
+      "In 2018/19 , the Total regular season home attendance of the franchise was 790316 ."
+   ],
+   "trends": [
+      {
+         "21": [
+            "13",
+            "0"
+         ],
+         "25": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Total attendance": "790316",
+         "Average attendance": "19276"
+      },
+      {
+         "Year": "2017/18",
+         "Total attendance": "786677",
+         "Average attendance": "19187"
+      },
+      {
+         "Year": "2016/17",
+         "Total attendance": "809519",
+         "Average attendance": "19744"
+      },
+      {
+         "Year": "2015/16",
+         "Total attendance": "785485",
+         "Average attendance": "19158"
+      },
+      {
+         "Year": "2014/15",
+         "Total attendance": "781576",
+         "Average attendance": "19062"
+      },
+      {
+         "Year": "2013/14",
+         "Total attendance": "797310",
+         "Average attendance": "19446"
+      },
+      {
+         "Year": "2012/13",
+         "Total attendance": "466229",
+         "Average attendance": "19426"
+      },
+      {
+         "Year": "2011/12",
+         "Total attendance": "799786",
+         "Average attendance": "19506"
+      },
+      {
+         "Year": "2010/11",
+         "Total attendance": "793522",
+         "Average attendance": "19354"
+      },
+      {
+         "Year": "2009/10",
+         "Total attendance": "789681",
+         "Average attendance": "19260"
+      },
+      {
+         "Year": "2008/09",
+         "Total attendance": "791795",
+         "Average attendance": "19312"
+      },
+      {
+         "Year": "2007/08",
+         "Total attendance": "796803",
+         "Average attendance": "19434"
+      },
+      {
+         "Year": "2006/07",
+         "Total attendance": "798981",
+         "Average attendance": "19487"
+      },
+      {
+         "Year": "2005/06",
+         "Total attendance": "795747",
+         "Average attendance": "19408"
+      }
+   ]
+}

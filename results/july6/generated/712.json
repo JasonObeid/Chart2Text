@@ -1,0 +1,63 @@
+{
+   "title": "Top world silver consumers as a share of world consumption 2010",
+   "xAxis": "Country",
+   "yAxis": "Share of consumption",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The United_States was the leading exporter of world worldwide in share . ",
+      "In that time period , the U.S. world industry had an export volume of 21.6 million metric tons . ",
+      "world products world is one of the most versatile and widely used materials ."
+   ],
+   "trends": [
+      {
+         "1": "0"
+      },
+      {
+         "14": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of consumption": "21.6"
+      },
+      {
+         "Country": "China",
+         "Share of consumption": "14.5"
+      },
+      {
+         "Country": "Japan",
+         "Share of consumption": "11.6"
+      },
+      {
+         "Country": "India",
+         "Share of consumption": "10.7"
+      },
+      {
+         "Country": "Germany",
+         "Share of consumption": "4.5"
+      },
+      {
+         "Country": "Italy",
+         "Share of consumption": "4"
+      },
+      {
+         "Country": "Thailand",
+         "Share of consumption": "3.5"
+      },
+      {
+         "Country": "South Korea",
+         "Share of consumption": "3.4"
+      },
+      {
+         "Country": "UK and Ireland",
+         "Share of consumption": "2.4"
+      },
+      {
+         "Country": "Belgium",
+         "Share of consumption": "2"
+      }
+   ]
+}

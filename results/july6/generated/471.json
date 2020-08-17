@@ -1,0 +1,69 @@
+{
+   "title": "Life expectancy in industrial and developing countries in 2018",
+   "labels": [
+      "unknown",
+      "Males",
+      "Females"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the average Life expectancy in More_Developed_Countries for those born in 2018 , by gender and region . ",
+      "The average Life expectancy in Global More_Developed_Countries was 70 years for Males and 74 years for Females in 2018 . ",
+      "Additional information on European Life expectancy The difference in Life expectancy seen between men and women across all European regions is in line with the global trends of women outliving men , on average ."
+   ],
+   "trends": [
+      {
+         "8": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "5": [
+            "1",
+            "0"
+         ],
+         "6": [
+            "0",
+            "0"
+         ],
+         "8": [
+            "1",
+            "1"
+         ],
+         "13": [
+            "1",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "unknown": "More Developed Countries",
+         "Males": "76",
+         "Females": "82"
+      },
+      {
+         "unknown": "Global",
+         "Males": "70",
+         "Females": "74"
+      },
+      {
+         "unknown": "Less Developed Countries",
+         "Males": "69",
+         "Females": "73"
+      },
+      {
+         "unknown": "Less Developed Countries (Excl. China)",
+         "Males": "67",
+         "Females": "71"
+      },
+      {
+         "unknown": "Least Developed Countries",
+         "Males": "63",
+         "Females": "66"
+      }
+   ]
+}

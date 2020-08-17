@@ -1,0 +1,42 @@
+{
+   "title": "Election 2012 exit polls : percentage of votes by ethnicity",
+   "labels": [
+      "Race",
+      "Barack Obama",
+      "Mitt Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 4 categories for the x axis of Race representing Barack Obama, and Mitt Romney.",
+      " The highest category is found at Asian with a mean value of 49.5.",
+      " The second highest category is found at Black with a mean value of 49.5.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "secondIndex": 3
+   },
+   "data": [
+      {
+         "Race": "White",
+         "Barack Obama": "39",
+         "Mitt Romney": "59"
+      },
+      {
+         "Race": "Black",
+         "Barack Obama": "93",
+         "Mitt Romney": "6"
+      },
+      {
+         "Race": "Hispanic",
+         "Barack Obama": "71",
+         "Mitt Romney": "27"
+      },
+      {
+         "Race": "Asian",
+         "Barack Obama": "73",
+         "Mitt Romney": "26"
+      }
+   ]
+}

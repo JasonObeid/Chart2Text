@@ -1,0 +1,58 @@
+{
+   "title": "Most popular social networks of U.S. teens 2016",
+   "xAxis": "Platform",
+   "yAxis": "Percentage of teenagers",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts the Percentage of the popular social networks U.S. in the teens as of 2019 , ranked first . ",
+      "During the survey period , it was found that 24 percentage of the teenagers in the previous year ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "9"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "YouTube",
+         "Percentage of teenagers": "91"
+      },
+      {
+         "Platform": "Gmail",
+         "Percentage of teenagers": "75"
+      },
+      {
+         "Platform": "Snapchat",
+         "Percentage of teenagers": "66"
+      },
+      {
+         "Platform": "Instagram",
+         "Percentage of teenagers": "65"
+      },
+      {
+         "Platform": "Facebook",
+         "Percentage of teenagers": "61"
+      },
+      {
+         "Platform": "Kik Messenger",
+         "Percentage of teenagers": "52"
+      },
+      {
+         "Platform": "Skype",
+         "Percentage of teenagers": "43"
+      },
+      {
+         "Platform": "Twitter",
+         "Percentage of teenagers": "40"
+      },
+      {
+         "Platform": "Vine",
+         "Percentage of teenagers": "31"
+      },
+      {
+         "Platform": "Tumblr",
+         "Percentage of teenagers": "24"
+      }
+   ]
+}

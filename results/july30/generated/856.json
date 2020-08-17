@@ -1,0 +1,114 @@
+{
+   "title": "Number of dogs in the European Union 2018 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Number of dogs in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 24 categories for the x axis representing Country, and a y axis representing Number of dogs in thousands.",
+      " The highest category is found at Germany where Number of dogs in thousands is 9400.0.",
+      " The lowest category is found at Estonia where Number of dogs in thousands is 210.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 23
+   },
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of dogs in thousands": 9400.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of dogs in thousands": 9000.0
+      },
+      {
+         "Country": "Poland",
+         "Number of dogs in thousands": 7600.0
+      },
+      {
+         "Country": "Italy",
+         "Number of dogs in thousands": 7002.0
+      },
+      {
+         "Country": "France",
+         "Number of dogs in thousands": 6950.0
+      },
+      {
+         "Country": "Spain",
+         "Number of dogs in thousands": 6270.0
+      },
+      {
+         "Country": "Romania",
+         "Number of dogs in thousands": 4000.0
+      },
+      {
+         "Country": "Portugal",
+         "Number of dogs in thousands": 2100.0
+      },
+      {
+         "Country": "Czechia",
+         "Number of dogs in thousands": 2000.0
+      },
+      {
+         "Country": "Netherlands",
+         "Number of dogs in thousands": 1520.0
+      },
+      {
+         "Country": "Belgium",
+         "Number of dogs in thousands": 1315.0
+      },
+      {
+         "Country": "Hungary",
+         "Number of dogs in thousands": 1180.0
+      },
+      {
+         "Country": "Slovakia",
+         "Number of dogs in thousands": 900.0
+      },
+      {
+         "Country": "Sweden",
+         "Number of dogs in thousands": 880.0
+      },
+      {
+         "Country": "Austria",
+         "Number of dogs in thousands": 827.0
+      },
+      {
+         "Country": "Finland",
+         "Number of dogs in thousands": 810.0
+      },
+      {
+         "Country": "Bulgaria",
+         "Number of dogs in thousands": 740.0
+      },
+      {
+         "Country": "Greece",
+         "Number of dogs in thousands": 660.0
+      },
+      {
+         "Country": "Denmark",
+         "Number of dogs in thousands": 595.0
+      },
+      {
+         "Country": "Lithuania",
+         "Number of dogs in thousands": 550.0
+      },
+      {
+         "Country": "Ireland",
+         "Number of dogs in thousands": 450.0
+      },
+      {
+         "Country": "Slovenia",
+         "Number of dogs in thousands": 290.0
+      },
+      {
+         "Country": "Latvia",
+         "Number of dogs in thousands": 260.0
+      },
+      {
+         "Country": "Estonia",
+         "Number of dogs in thousands": 210.0
+      }
+   ]
+}

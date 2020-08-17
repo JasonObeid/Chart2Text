@@ -1,0 +1,98 @@
+{
+   "title": "Countries ranked by number of ice hockey players 2018/19",
+   "xAxis": "Country",
+   "yAxis": "Number of players",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the Number of Countries ranked by number in the ice as of . ",
+      "During the measured period , Canada had the highest rate of any Country ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Number of players": "621026"
+      },
+      {
+         "Country": "United States",
+         "Number of players": "567908"
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of players": "121613"
+      },
+      {
+         "Country": "Russia",
+         "Number of players": "112236"
+      },
+      {
+         "Country": "Finland",
+         "Number of players": "64641"
+      },
+      {
+         "Country": "Sweden",
+         "Number of players": "55431"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of players": "27867"
+      },
+      {
+         "Country": "France",
+         "Number of players": "21667"
+      },
+      {
+         "Country": "Germany",
+         "Number of players": "21340"
+      },
+      {
+         "Country": "Japan",
+         "Number of players": "18837"
+      },
+      {
+         "Country": "Slovakia",
+         "Number of players": "11394"
+      },
+      {
+         "Country": "Norway",
+         "Number of players": "10353"
+      },
+      {
+         "Country": "Great Britain",
+         "Number of players": "8162"
+      },
+      {
+         "Country": "Austria",
+         "Number of players": "7670"
+      },
+      {
+         "Country": "Hungary",
+         "Number of players": "7106"
+      },
+      {
+         "Country": "Latvia",
+         "Number of players": "7000"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Number of players": "6915"
+      },
+      {
+         "Country": "Ukraine",
+         "Number of players": "5384"
+      },
+      {
+         "Country": "Italy",
+         "Number of players": "5210"
+      },
+      {
+         "Country": "Belarus",
+         "Number of players": "4580"
+      }
+   ]
+}

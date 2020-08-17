@@ -1,0 +1,135 @@
+{
+   "title": "Average annual wages in Italy 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Average annual wages in euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average annual wages in euros, with a total of 19 data points. The chart has 5 significant trends.",
+      " The longest trend is  negative which exists from 2016 to 2012.",
+      " On the other hand, the next significant trend is  negative which exists from 2010 to 2007.",
+      " Conversely, the next significant trend is  negative which exists from 2006 to 2003.",
+      " But, the next significant trend is  positive which exists from 2003 to 2000.",
+      " In a similar manner, the next significant trend is  positive which exists from 2012 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 2,
+         "end": 6,
+         "trend": "y=158.1x+-288938.4",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 8,
+         "end": 11,
+         "trend": "y=156.7x+-284412.7",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 12,
+         "end": 15,
+         "trend": "y=373.6x+-719175.2",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 15,
+         "end": 18,
+         "trend": "y=-44.8x+118795.2",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 6,
+         "end": 8,
+         "trend": "y=-694.5x+1426636.5",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average annual wages in euros": 29601.0
+      },
+      {
+         "Year": "2017",
+         "Average annual wages in euros": 29558.0
+      },
+      {
+         "Year": "2016",
+         "Average annual wages in euros": 29843.0
+      },
+      {
+         "Year": "2015",
+         "Average annual wages in euros": 29634.0
+      },
+      {
+         "Year": "2014",
+         "Average annual wages in euros": 29390.0
+      },
+      {
+         "Year": "2013",
+         "Average annual wages in euros": 29277.0
+      },
+      {
+         "Year": "2012",
+         "Average annual wages in euros": 29231.0
+      },
+      {
+         "Year": "2011",
+         "Average annual wages in euros": 30140.0
+      },
+      {
+         "Year": "2010",
+         "Average annual wages in euros": 30620.0
+      },
+      {
+         "Year": "2009",
+         "Average annual wages in euros": 30330.0
+      },
+      {
+         "Year": "2008",
+         "Average annual wages in euros": 30179.0
+      },
+      {
+         "Year": "2007",
+         "Average annual wages in euros": 30148.0
+      },
+      {
+         "Year": "2006",
+         "Average annual wages in euros": 30176.0
+      },
+      {
+         "Year": "2005",
+         "Average annual wages in euros": 29970.0
+      },
+      {
+         "Year": "2004",
+         "Average annual wages in euros": 29636.0
+      },
+      {
+         "Year": "2003",
+         "Average annual wages in euros": 29042.0
+      },
+      {
+         "Year": "2002",
+         "Average annual wages in euros": 29073.0
+      },
+      {
+         "Year": "2001",
+         "Average annual wages in euros": 29272.0
+      },
+      {
+         "Year": "2000",
+         "Average annual wages in euros": 29125.0
+      }
+   ]
+}

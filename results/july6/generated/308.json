@@ -1,0 +1,75 @@
+{
+   "title": "Daimler AG - net income ( loss ) 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Net income / loss in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Net of income at establishments in Daimler AG from 2007 to 2019 . ",
+      "In 2019 , the Net of income in travel income ( including both international and domestic tourists ) amounted to approximately 2.71 billion ."
+   ],
+   "trends": [
+      {
+         "14": "12",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net income / loss in billion euros": "2.71"
+      },
+      {
+         "Year": "2018",
+         "Net income / loss in billion euros": "7.6"
+      },
+      {
+         "Year": "2017",
+         "Net income / loss in billion euros": "10.6"
+      },
+      {
+         "Year": "2016",
+         "Net income / loss in billion euros": "8.8"
+      },
+      {
+         "Year": "2015",
+         "Net income / loss in billion euros": "8.71"
+      },
+      {
+         "Year": "2014",
+         "Net income / loss in billion euros": "7.29"
+      },
+      {
+         "Year": "2013",
+         "Net income / loss in billion euros": "8.72"
+      },
+      {
+         "Year": "2012",
+         "Net income / loss in billion euros": "6.83"
+      },
+      {
+         "Year": "2011",
+         "Net income / loss in billion euros": "6.03"
+      },
+      {
+         "Year": "2010",
+         "Net income / loss in billion euros": "4.67"
+      },
+      {
+         "Year": "2009",
+         "Net income / loss in billion euros": "-2.64"
+      },
+      {
+         "Year": "2008",
+         "Net income / loss in billion euros": "1.41"
+      },
+      {
+         "Year": "2007",
+         "Net income / loss in billion euros": "3.99"
+      }
+   ]
+}

@@ -1,0 +1,35 @@
+{
+   "title": "Camping equipment sales in the U.S. - sleeping bags 2011",
+   "xAxis": "Year",
+   "yAxis": "Equipment sales in million U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows a growth forecast for the U.S. equipment sales in 2011 and shows the actual projected Equipment value of the equipment sales in 2010 . ",
+      "For 2011 , the U.S. smart equipment sales is forecasted to reach 210.38 million U.S. dollars . ",
+      "The predicted compound annual growth rate between 2010 and 2011 should be 26.3 million ."
+   ],
+   "trends": [
+      {
+         "13": "1",
+         "27": "0"
+      },
+      {
+         "1": "1",
+         "13": "1"
+      },
+      {
+         "7": "0",
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Equipment sales in million U.S. dollars": "191.76"
+      },
+      {
+         "Year": "2011",
+         "Equipment sales in million U.S. dollars": "210.38"
+      }
+   ]
+}

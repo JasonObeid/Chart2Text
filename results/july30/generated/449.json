@@ -1,0 +1,126 @@
+{
+   "title": "Electricity prices for households in Belgium 2010 - 2019 , semi-annually\n",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 19 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2017_S2 to 2014_S2.",
+      " Conversely, the next significant trend is  positive which exists from 2014_S2 to 2013_S2.",
+      " In a similar manner, the next significant trend is  positive which exists from 2013_S1 to 2012_S1.",
+      " Correspondingly, the next significant trend is  negative which exists from 2011_S1 to 2010_S1."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 3,
+         "end": 9,
+         "trend": "y=2.84x+-5693.06",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=-1.45x+2941.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 12,
+         "end": 14,
+         "trend": "y=-1.02x+2074.99",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 16,
+         "end": 18,
+         "trend": "y=1.7x+-3387.29",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019 S1",
+         "Euro cents per kilowatt-hour": 28.39
+      },
+      {
+         "Year": "2018 S2",
+         "Euro cents per kilowatt-hour": 29.37
+      },
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": 27.33
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": 28.77
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": 27.99
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": 27.45
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": 25.44
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": 23.52
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": 21.27
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": 20.43
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": 20.97
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": 22.15
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": 21.73
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": 22.23
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": 23.27
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": 21.19
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": 21.36
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": 19.74
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": 19.59
+      }
+   ]
+}

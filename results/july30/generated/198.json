@@ -1,0 +1,93 @@
+{
+   "title": "Participants in tackle football in the U.S. from 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of participants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of participants in millions, with a total of 13 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2018 to 2015.",
+      " In a similar manner, the next significant trend is  positive which exists from 2009 to 2006.",
+      " Also, the next significant trend is  positive which exists from 2014 to 2012."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-0.34x+699.2",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 9,
+         "end": 12,
+         "trend": "y=-0.51x+1027.52",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-0.23x+479.25",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of participants in millions": 5.16
+      },
+      {
+         "Year": "2017",
+         "Number of participants in millions": 5.22
+      },
+      {
+         "Year": "2016",
+         "Number of participants in millions": 5.48
+      },
+      {
+         "Year": "2015",
+         "Number of participants in millions": 6.22
+      },
+      {
+         "Year": "2014",
+         "Number of participants in millions": 5.98
+      },
+      {
+         "Year": "2013",
+         "Number of participants in millions": 6.17
+      },
+      {
+         "Year": "2012",
+         "Number of participants in millions": 6.45
+      },
+      {
+         "Year": "2011",
+         "Number of participants in millions": 5.99
+      },
+      {
+         "Year": "2010",
+         "Number of participants in millions": 6.91
+      },
+      {
+         "Year": "2009",
+         "Number of participants in millions": 6.79
+      },
+      {
+         "Year": "2008",
+         "Number of participants in millions": 7.69
+      },
+      {
+         "Year": "2007",
+         "Number of participants in millions": 7.94
+      },
+      {
+         "Year": "2006",
+         "Number of participants in millions": 8.4
+      }
+   ]
+}

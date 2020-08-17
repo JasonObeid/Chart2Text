@@ -1,0 +1,98 @@
+{
+   "title": "Total United Kingdom HMRC tax receipts 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Tax receipts in billion GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total United Kingdom ( UK ) tax receipts billion from fiscal Year 2000/01 to fiscal Year 2018/19 . ",
+      "The overall trend was one of increasing , seeing a peak in 2018/19 with 27.99 billion British pounds and a total rise of over 5 billion British pounds throughout this period ."
+   ],
+   "trends": [
+      {
+         "16": "18",
+         "20": "0"
+      },
+      {
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Tax receipts in billion GBP": "623.36"
+      },
+      {
+         "Year": "2017/18",
+         "Tax receipts in billion GBP": "593.96"
+      },
+      {
+         "Year": "2016/17",
+         "Tax receipts in billion GBP": "569.3"
+      },
+      {
+         "Year": "2015/16",
+         "Tax receipts in billion GBP": "533.7"
+      },
+      {
+         "Year": "2014/15",
+         "Tax receipts in billion GBP": "515.3"
+      },
+      {
+         "Year": "2013/14",
+         "Tax receipts in billion GBP": "493.6"
+      },
+      {
+         "Year": "2012/13",
+         "Tax receipts in billion GBP": "473.8"
+      },
+      {
+         "Year": "2011/12",
+         "Tax receipts in billion GBP": "472.3"
+      },
+      {
+         "Year": "2010/11",
+         "Tax receipts in billion GBP": "453.6"
+      },
+      {
+         "Year": "2009/10",
+         "Tax receipts in billion GBP": "414.9"
+      },
+      {
+         "Year": "2008/09",
+         "Tax receipts in billion GBP": "445.5"
+      },
+      {
+         "Year": "2007/08",
+         "Tax receipts in billion GBP": "456.2"
+      },
+      {
+         "Year": "2006/07",
+         "Tax receipts in billion GBP": "428.6"
+      },
+      {
+         "Year": "2005/06",
+         "Tax receipts in billion GBP": "402.9"
+      },
+      {
+         "Year": "2004/05",
+         "Tax receipts in billion GBP": "375.8"
+      },
+      {
+         "Year": "2003/04",
+         "Tax receipts in billion GBP": "347.9"
+      },
+      {
+         "Year": "2002/03",
+         "Tax receipts in billion GBP": "324.7"
+      },
+      {
+         "Year": "2001/02",
+         "Tax receipts in billion GBP": "321.7"
+      },
+      {
+         "Year": "2000/01",
+         "Tax receipts in billion GBP": "315.6"
+      }
+   ]
+}

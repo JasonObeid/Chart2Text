@@ -1,0 +1,126 @@
+{
+   "title": "Indiana - Poverty rate 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2013.",
+      " Likewise, the next significant trend is extremely negative which exists from 2011 to 2007.",
+      " Differently, the next significant trend is extremely negative which exists from 2006 to 2003.",
+      " On the contrary, the next significant trend is strongly negative which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 0,
+         "end": 5,
+         "trend": "y=-0.56x+1137.3",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 7,
+         "end": 11,
+         "trend": "y=0.96x+-1914.48",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 12,
+         "end": 15,
+         "trend": "y=0.77x+-1531.89",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 16,
+         "end": 18,
+         "trend": "y=0.4x+-790.13",
+         "magnitude": "strongly"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Percentage of population": 13.1
+      },
+      {
+         "Year": "2017",
+         "Percentage of population": 13.5
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": 14.1
+      },
+      {
+         "Year": "2015",
+         "Percentage of population": 14.5
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": 15.2
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": 15.9
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": 15.6
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": 16.0
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": 15.3
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": 14.1
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": 13.1
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": 12.3
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": 12.7
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": 12.2
+      },
+      {
+         "Year": "2004",
+         "Percentage of population": 10.8
+      },
+      {
+         "Year": "2003",
+         "Percentage of population": 10.6
+      },
+      {
+         "Year": "2002",
+         "Percentage of population": 10.9
+      },
+      {
+         "Year": "2001",
+         "Percentage of population": 9.8
+      },
+      {
+         "Year": "2000",
+         "Percentage of population": 10.1
+      }
+   ]
+}

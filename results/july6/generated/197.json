@@ -1,0 +1,45 @@
+{
+   "title": "Quarterly average daily rate of hotels in Portland 2016 to 2017",
+   "labels": [
+      "Quarter",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Quarterly average daily rate of hotels in Portland 2016 and . ",
+      "In the first Quarter of 2016 , the average daily rate for hotels in Portland the country was 165 U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q1",
+         "2016": "162",
+         "2017": "165"
+      },
+      {
+         "Quarter": "Q2",
+         "2016": "179",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2016": "191",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q4",
+         "2016": "171",
+         "2017": "0"
+      }
+   ]
+}

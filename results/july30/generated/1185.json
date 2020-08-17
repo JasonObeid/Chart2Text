@@ -1,0 +1,98 @@
+{
+   "title": "World ranking of professional golf players 2020\n",
+   "xAxis": "Golfer",
+   "yAxis": "Average points",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Golfer, and a y axis representing Average points.",
+      " The highest category is found at Rory_McIlroy_(NIR) where Average points is 9.48.",
+      " The lowest category is found at Hideki_Matsuyama_(JPN) where Average points is 4.31."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Golfer": "Rory McIlroy (NIR)",
+         "Average points": 9.48
+      },
+      {
+         "Golfer": "Jon Rahm (ESP)",
+         "Average points": 8.68
+      },
+      {
+         "Golfer": "Brooks Koepka (USA)",
+         "Average points": 8.62
+      },
+      {
+         "Golfer": "Justin Thomas (USA)",
+         "Average points": 7.62
+      },
+      {
+         "Golfer": "Dustin Johnson (USA)",
+         "Average points": 6.72
+      },
+      {
+         "Golfer": "Adam Scott (AUS)",
+         "Average points": 6.06
+      },
+      {
+         "Golfer": "Patrick Cantley (USA)",
+         "Average points": 6.04
+      },
+      {
+         "Golfer": "Patrick Reed (USA)",
+         "Average points": 5.93
+      },
+      {
+         "Golfer": "Webb Simpson (USA)",
+         "Average points": 5.88
+      },
+      {
+         "Golfer": "Tiger Woods (USA)",
+         "Average points": 5.81
+      },
+      {
+         "Golfer": "Xander Schauffele (USA)",
+         "Average points": 5.62
+      },
+      {
+         "Golfer": "Tommy Fleetwood (ENG)",
+         "Average points": 5.52
+      },
+      {
+         "Golfer": "Justin Rose (ENG)",
+         "Average points": 5.3
+      },
+      {
+         "Golfer": "Bryson DeChambeau (USA)",
+         "Average points": 5.1
+      },
+      {
+         "Golfer": "Tony Finau (USA)",
+         "Average points": 4.88
+      },
+      {
+         "Golfer": "Matt Kuchar (USA)",
+         "Average points": 4.63
+      },
+      {
+         "Golfer": "Louis Oosthuizen (RSA)",
+         "Average points": 4.38
+      },
+      {
+         "Golfer": "Gary Woodland (USA)",
+         "Average points": 4.36
+      },
+      {
+         "Golfer": "Shane Lowry (IRE)",
+         "Average points": 4.33
+      },
+      {
+         "Golfer": "Hideki Matsuyama (JPN)",
+         "Average points": 4.31
+      }
+   ]
+}

@@ -1,0 +1,120 @@
+{
+   "title": "Employment in the U.S. media industry 2009 - 2017 , by sector",
+   "labels": [
+      "unknown",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "Sound_recording_industries was the Employment often used web-shop in U.S. 2009 and 2017 . ",
+      "Over 14 thousand Danish people were asked which web-shop they did their last purchase from and 542689 % of them answered Zalando in 2017 . ",
+      "91134 % of the respondents did their last purchase on Amazon , the second Employment used web-shop , and 370019 % did it on H & M , the web-shop ranked third ."
+   ],
+   "trends": [
+      {
+         "0": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "16": [
+            "5",
+            "2"
+         ]
+      },
+      {
+         "0": [
+            "1",
+            "1"
+         ],
+         "19": [
+            "4",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Sound recording industries",
+         "2009": "23644",
+         "2010": "23419",
+         "2011": "22629",
+         "2012": "22897",
+         "2013": "22957",
+         "2014": "27477",
+         "2015": "28519",
+         "2016": "22940",
+         "2017": "22602"
+      },
+      {
+         "unknown": "Internet publishing and broadcasting and web search portals",
+         "2009": "91134",
+         "2010": "90892",
+         "2011": "135554",
+         "2012": "159673",
+         "2013": "176292",
+         "2014": "199656",
+         "2015": "212902",
+         "2016": "236464",
+         "2017": "0"
+      },
+      {
+         "unknown": "Broadcasting (except internet)",
+         "2009": "272772",
+         "2010": "263009",
+         "2011": "263623",
+         "2012": "274226",
+         "2013": "278647",
+         "2014": "267130",
+         "2015": "259527",
+         "2016": "267072",
+         "2017": "261295"
+      },
+      {
+         "unknown": "Motion picture and video industries",
+         "2009": "316409",
+         "2010": "295179",
+         "2011": "287341",
+         "2012": "292904",
+         "2013": "321463",
+         "2014": "377987",
+         "2015": "403035",
+         "2016": "424638",
+         "2017": "338250"
+      },
+      {
+         "unknown": "Software publishers",
+         "2009": "370019",
+         "2010": "364463",
+         "2011": "362410",
+         "2012": "397145",
+         "2013": "428030",
+         "2014": "442246",
+         "2015": "469845",
+         "2016": "546191",
+         "2017": "643794"
+      },
+      {
+         "unknown": "Newspaper periodical book and directory publishers",
+         "2009": "593253",
+         "2010": "542689",
+         "2011": "494250",
+         "2012": "450258",
+         "2013": "437385",
+         "2014": "431427",
+         "2015": "407500",
+         "2016": "370408",
+         "2017": "365529"
+      }
+   ]
+}

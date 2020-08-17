@@ -1,0 +1,71 @@
+{
+   "title": "Smartphone penetration in the U.S. as share of population 2010 to 2021",
+   "xAxis": "Year",
+   "yAxis": "Share of population with a smartphone",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the Share of population smartphone to the share population 2010 ( smartphone ) in U.S. from 2010 to 2021 . ",
+      "In 2016 , the Share of population smartphone in U.S. increased by about 59.4 % ."
+   ],
+   "trends": [
+      {
+         "19": "11",
+         "21": "0"
+      },
+      {
+         "1": "5",
+         "13": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2021",
+         "Share of population with a smartphone": "72.7"
+      },
+      {
+         "Year": "2020",
+         "Share of population with a smartphone": "72.2"
+      },
+      {
+         "Year": "2019",
+         "Share of population with a smartphone": "71.4"
+      },
+      {
+         "Year": "2018",
+         "Share of population with a smartphone": "69.6"
+      },
+      {
+         "Year": "2017",
+         "Share of population with a smartphone": "67.3"
+      },
+      {
+         "Year": "2016",
+         "Share of population with a smartphone": "63.9"
+      },
+      {
+         "Year": "2015",
+         "Share of population with a smartphone": "59.4"
+      },
+      {
+         "Year": "2014",
+         "Share of population with a smartphone": "53.6"
+      },
+      {
+         "Year": "2013",
+         "Share of population with a smartphone": "45.7"
+      },
+      {
+         "Year": "2012",
+         "Share of population with a smartphone": "38.8"
+      },
+      {
+         "Year": "2011",
+         "Share of population with a smartphone": "29.8"
+      },
+      {
+         "Year": "2010",
+         "Share of population with a smartphone": "20.2"
+      }
+   ]
+}

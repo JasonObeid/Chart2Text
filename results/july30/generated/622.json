@@ -1,0 +1,87 @@
+{
+   "title": "Champions and finalists of UEFA EURO championship 1960 to 2016",
+   "labels": [
+      "Country",
+      "Winner",
+      "Runner-up"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 13 categories for the x axis of Country representing Winner, and Runner-up.",
+      " The highest category is found at Germany with a mean value of 3.0.",
+      " The second highest category is found at USSR with a mean value of 2.0.",
+      " This represents a difference of 40.0%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Country": "Germany",
+         "Winner": "3",
+         "Runner-up": "3"
+      },
+      {
+         "Country": "Spain",
+         "Winner": "3",
+         "Runner-up": "1"
+      },
+      {
+         "Country": "France",
+         "Winner": "2",
+         "Runner-up": "1"
+      },
+      {
+         "Country": "USSR",
+         "Winner": "1",
+         "Runner-up": "3"
+      },
+      {
+         "Country": "Italy",
+         "Winner": "1",
+         "Runner-up": "2"
+      },
+      {
+         "Country": "Portugal",
+         "Winner": "1",
+         "Runner-up": "1"
+      },
+      {
+         "Country": "Czechoslovakia",
+         "Winner": "1",
+         "Runner-up": "0"
+      },
+      {
+         "Country": "Greece",
+         "Winner": "1",
+         "Runner-up": "0"
+      },
+      {
+         "Country": "Netherlands",
+         "Winner": "1",
+         "Runner-up": "0"
+      },
+      {
+         "Country": "Denmark",
+         "Winner": "1",
+         "Runner-up": "0"
+      },
+      {
+         "Country": "Yugoslavia",
+         "Winner": "0",
+         "Runner-up": "2"
+      },
+      {
+         "Country": "Belgium",
+         "Winner": "0",
+         "Runner-up": "1"
+      },
+      {
+         "Country": "Czech Republic",
+         "Winner": "0",
+         "Runner-up": "1"
+      }
+   ]
+}

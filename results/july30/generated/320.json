@@ -1,0 +1,157 @@
+{
+   "title": "Gifts Americans are planning to purchase for Valentine 's Day by gender 2020",
+   "labels": [
+      "Race",
+      "Women",
+      "Men"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 27 categories for the x axis of Race representing Women, and Men.",
+      " The highest category is found at Dinner out with a mean value of 52.5.",
+      " The second highest category is found at Chocolates with a mean value of 51.0.",
+      " This represents a difference of 2.9%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Race": "Dinner out",
+         "Women": "53",
+         "Men": "52"
+      },
+      {
+         "Race": "Chocolates",
+         "Women": "48",
+         "Men": "54"
+      },
+      {
+         "Race": "Candy",
+         "Women": "27",
+         "Men": "32"
+      },
+      {
+         "Race": "Greeting cards",
+         "Women": "24",
+         "Men": "29"
+      },
+      {
+         "Race": "Gift cards",
+         "Women": "20",
+         "Men": "17"
+      },
+      {
+         "Race": "Alcohol/wine",
+         "Women": "19",
+         "Men": "18"
+      },
+      {
+         "Race": "Personalized gifts",
+         "Women": "18",
+         "Men": "27"
+      },
+      {
+         "Race": "Home-cooked meals",
+         "Women": "8",
+         "Men": "19"
+      },
+      {
+         "Race": "Flowers",
+         "Women": "17",
+         "Men": "44"
+      },
+      {
+         "Race": "Massages",
+         "Women": "15",
+         "Men": "28"
+      },
+      {
+         "Race": "Jewelry",
+         "Women": "15",
+         "Men": "25"
+      },
+      {
+         "Race": "Outings",
+         "Women": "12",
+         "Men": "6"
+      },
+      {
+         "Race": "Perfumes",
+         "Women": "10",
+         "Men": "18"
+      },
+      {
+         "Race": "Other",
+         "Women": "7",
+         "Men": "2"
+      },
+      {
+         "Race": "Stuffed toys",
+         "Women": "6",
+         "Men": "9"
+      },
+      {
+         "Race": "Accessories",
+         "Women": "6",
+         "Men": "6"
+      },
+      {
+         "Race": "Holidays",
+         "Women": "4",
+         "Men": "10"
+      },
+      {
+         "Race": "Books",
+         "Women": "4",
+         "Men": "7"
+      },
+      {
+         "Race": "Photo frame",
+         "Women": "4",
+         "Men": "8"
+      },
+      {
+         "Race": "Home decor",
+         "Women": "3",
+         "Men": "0"
+      },
+      {
+         "Race": "Electronic gadgets",
+         "Women": "3",
+         "Men": "5"
+      },
+      {
+         "Race": "Wearables",
+         "Women": "3",
+         "Men": "12"
+      },
+      {
+         "Race": "Toiletries",
+         "Women": "3",
+         "Men": "1"
+      },
+      {
+         "Race": "Cosmetics",
+         "Women": "3",
+         "Men": "9"
+      },
+      {
+         "Race": "Pets",
+         "Women": "2",
+         "Men": "8"
+      },
+      {
+         "Race": "Couple's gym membership",
+         "Women": "1",
+         "Men": "1"
+      },
+      {
+         "Race": "Mixtape",
+         "Women": "0",
+         "Men": "2"
+      }
+   ]
+}

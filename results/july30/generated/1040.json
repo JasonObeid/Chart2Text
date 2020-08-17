@@ -1,0 +1,94 @@
+{
+   "title": "Racist incidents recorded by the police in England and Wales 2015/16 - 2018/19",
+   "labels": [
+      "unknown",
+      "2015/16",
+      "2016/17",
+      "2017/18",
+      "2018/19"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 10 categories for the x axis of unknown representing 2015/16, 2016/17, 2017/18, 2018/19.",
+      " The highest category is found at London with a mean value of 15093.5.",
+      " The second highest category is found at North West with a mean value of 10319.5.",
+      " This represents a difference of 37.6%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "unknown": "London",
+         "2015/16": "12784",
+         "2016/17": "16016",
+         "2017/18": "15537",
+         "2018/19": "16037"
+      },
+      {
+         "unknown": "North West",
+         "2015/16": "9377",
+         "2016/17": "8409",
+         "2017/18": "11182",
+         "2018/19": "12310"
+      },
+      {
+         "unknown": "South East",
+         "2015/16": "7012",
+         "2016/17": "7078",
+         "2017/18": "8833",
+         "2018/19": "10609"
+      },
+      {
+         "unknown": "Yorkshire and the Humber",
+         "2015/16": "6437",
+         "2016/17": "6275",
+         "2017/18": "7350",
+         "2018/19": "9329"
+      },
+      {
+         "unknown": "West Midlands",
+         "2015/16": "6057",
+         "2016/17": "6290",
+         "2017/18": "6716",
+         "2018/19": "7257"
+      },
+      {
+         "unknown": "East of England",
+         "2015/16": "4192",
+         "2016/17": "4845",
+         "2017/18": "5470",
+         "2018/19": "6202"
+      },
+      {
+         "unknown": "South West",
+         "2015/16": "3607",
+         "2016/17": "3835",
+         "2017/18": "4475",
+         "2018/19": "4568"
+      },
+      {
+         "unknown": "East Midlands",
+         "2015/16": "3930",
+         "2016/17": "3012",
+         "2017/18": "3725",
+         "2018/19": "4136"
+      },
+      {
+         "unknown": "North East",
+         "2015/16": "2188",
+         "2016/17": "2581",
+         "2017/18": "2980",
+         "2018/19": "3068"
+      },
+      {
+         "unknown": "Wales",
+         "2015/16": "2613",
+         "2016/17": "2080",
+         "2017/18": "2298",
+         "2018/19": "2676"
+      }
+   ]
+}

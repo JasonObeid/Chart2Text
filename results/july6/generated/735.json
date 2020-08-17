@@ -1,0 +1,103 @@
+{
+   "title": "Prices of Boeing aircraft in 2019",
+   "xAxis": "Aircraft type",
+   "yAxis": "Price in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Prices Boeing of Price million in the 2019 in , 2019 Aircraft . ",
+      "The leading state-owned type was the Prices Aircraft in the 2019 , with 442.2 million dollars in the 2019 in ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Aircraft type": "777-9",
+         "Price in million U.S. dollars": "442.2"
+      },
+      {
+         "Aircraft type": "747-8 Freighter",
+         "Price in million U.S. dollars": "419.2"
+      },
+      {
+         "Aircraft type": "747-8",
+         "Price in million U.S. dollars": "418.4"
+      },
+      {
+         "Aircraft type": "777-8",
+         "Price in million U.S. dollars": "410.2"
+      },
+      {
+         "Aircraft type": "777-300ER",
+         "Price in million U.S. dollars": "375.5"
+      },
+      {
+         "Aircraft type": "777 Freighter",
+         "Price in million U.S. dollars": "352.3"
+      },
+      {
+         "Aircraft type": "777-200LR",
+         "Price in million U.S. dollars": "346.9"
+      },
+      {
+         "Aircraft type": "787-10",
+         "Price in million U.S. dollars": "338.4"
+      },
+      {
+         "Aircraft type": "777-200ER",
+         "Price in million U.S. dollars": "306.6"
+      },
+      {
+         "Aircraft type": "787-9",
+         "Price in million U.S. dollars": "292.5"
+      },
+      {
+         "Aircraft type": "787-8",
+         "Price in million U.S. dollars": "248.3"
+      },
+      {
+         "Aircraft type": "767-300 Freighter",
+         "Price in million U.S. dollars": "220.3"
+      },
+      {
+         "Aircraft type": "767-300ER",
+         "Price in million U.S. dollars": "217.9"
+      },
+      {
+         "Aircraft type": "737 MAX 10",
+         "Price in million U.S. dollars": "134.9"
+      },
+      {
+         "Aircraft type": "737 MAX 9",
+         "Price in million U.S. dollars": "128.9"
+      },
+      {
+         "Aircraft type": "737 MAX 200",
+         "Price in million U.S. dollars": "124.8"
+      },
+      {
+         "Aircraft type": "737 MAX 8",
+         "Price in million U.S. dollars": "121.6"
+      },
+      {
+         "Aircraft type": "737-900ER",
+         "Price in million U.S. dollars": "112.6"
+      },
+      {
+         "Aircraft type": "737-800",
+         "Price in million U.S. dollars": "106.1"
+      },
+      {
+         "Aircraft type": "737 MAX 7",
+         "Price in million U.S. dollars": "99.7"
+      },
+      {
+         "Aircraft type": "737-700",
+         "Price in million U.S. dollars": "89.1"
+      }
+   ]
+}

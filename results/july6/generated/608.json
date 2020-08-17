@@ -1,0 +1,75 @@
+{
+   "title": "Tampa Bay Rays average ticket price 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average ticket price for Tampa Bay Rays games in the National Football League from 2006 to 2019 . ",
+      "In 2019 , the Average ticket price was at 22.53 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "16": "12",
+         "18": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": "22.53"
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": "21.6"
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": "21.04"
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": "21.9"
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": "21.01"
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": "20.39"
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": "19.83"
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": "19.42"
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": "19.75"
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": "18.35"
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": "17.23"
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": "17.23"
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": "17.09"
+      }
+   ]
+}

@@ -1,0 +1,78 @@
+{
+   "title": "U.S. electricity generation by independent power producers 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Net generation in million megawatt hours",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Net of generation million megawatt ( electricity ) hours one hundred thousand hours in U.S. from 2005 to 2018 . ",
+      "In 2018 , there were approximately 66.45 electricity hours hundred thousand hours in U.S. ."
+   ],
+   "trends": [
+      {
+         "20": "13",
+         "22": "0"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Net generation in million megawatt hours": "1680.72"
+      },
+      {
+         "Year": "2017",
+         "Net generation in million megawatt hours": "1603.17"
+      },
+      {
+         "Year": "2016",
+         "Net generation in million megawatt hours": "1613.16"
+      },
+      {
+         "Year": "2015",
+         "Net generation in million megawatt hours": "1603.97"
+      },
+      {
+         "Year": "2014",
+         "Net generation in million megawatt hours": "1554.53"
+      },
+      {
+         "Year": "2013",
+         "Net generation in million megawatt hours": "1515.66"
+      },
+      {
+         "Year": "2012",
+         "Net generation in million megawatt hours": "1551.19"
+      },
+      {
+         "Year": "2011",
+         "Net generation in million megawatt hours": "1487.34"
+      },
+      {
+         "Year": "2010",
+         "Net generation in million megawatt hours": "1500.75"
+      },
+      {
+         "Year": "2009",
+         "Net generation in million megawatt hours": "1437.06"
+      },
+      {
+         "Year": "2008",
+         "Net generation in million megawatt hours": "1498.98"
+      },
+      {
+         "Year": "2007",
+         "Net generation in million megawatt hours": "1501.21"
+      },
+      {
+         "Year": "2006",
+         "Net generation in million megawatt hours": "1424.42"
+      },
+      {
+         "Year": "2005",
+         "Net generation in million megawatt hours": "1424.35"
+      }
+   ]
+}

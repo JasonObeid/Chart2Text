@@ -1,0 +1,56 @@
+{
+   "title": "United States crime rate 2018 , by type of crime",
+   "xAxis": "Type of crime",
+   "yAxis": "Rate per 100,000 inhabitants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the United States in United States as of 2018 . ",
+      "That year , Property_crime__(total) had the highest United States in United States with 2362.9 % Rate ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Type of crime": "Property crime  (total)",
+         "Rate per 100,000 inhabitants": "2362.9"
+      },
+      {
+         "Type of crime": "Larceny-theft",
+         "Rate per 100,000 inhabitants": "1695.5"
+      },
+      {
+         "Type of crime": "Burglary",
+         "Rate per 100,000 inhabitants": "429.7"
+      },
+      {
+         "Type of crime": "Violent crime  (total)",
+         "Rate per 100,000 inhabitants": "394.9"
+      },
+      {
+         "Type of crime": "Aggravated assault",
+         "Rate per 100,000 inhabitants": "249.2"
+      },
+      {
+         "Type of crime": "Motor vehicle theft",
+         "Rate per 100,000 inhabitants": "237.7"
+      },
+      {
+         "Type of crime": "Robbery",
+         "Rate per 100,000 inhabitants": "98.6"
+      },
+      {
+         "Type of crime": "Rape (revised definition)",
+         "Rate per 100,000 inhabitants": "41.7"
+      },
+      {
+         "Type of crime": "Murder and nonnegligent manslaughter",
+         "Rate per 100,000 inhabitants": "5.3"
+      }
+   ]
+}

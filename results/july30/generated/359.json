@@ -1,0 +1,54 @@
+{
+   "title": "Problems of the Italian school system 2019\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Lack_of_opportunities_to_enter_into_the_labor_market where Share of respondents is 26.0.",
+      " The lowest category is found at Others where Share of respondents is 2.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 7
+   },
+   "data": [
+      {
+         "Response": "Lack of opportunities to enter into the labor market",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Lack of funding and resources",
+         "Share of respondents": 21.0
+      },
+      {
+         "Response": "Bad teachers",
+         "Share of respondents": 13.0
+      },
+      {
+         "Response": "Lack of financial aid for low-income families and students",
+         "Share of respondents": 13.0
+      },
+      {
+         "Response": "Inadequacy or backwardness of programs",
+         "Share of respondents": 11.0
+      },
+      {
+         "Response": "Violence",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "All these aspects",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Others",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "I do not know",
+         "Share of respondents": 3.0
+      }
+   ]
+}

@@ -1,0 +1,87 @@
+{
+   "title": "Exercise rates in the U.S. , by age group and education level 2008",
+   "labels": [
+      "unknown",
+      "No high school degree",
+      "High school graduate",
+      "Some college, no degree",
+      "Associate degree",
+      "Bachelor's degree"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey concerning incidents of computer U.S. in German by in 2008 . ",
+      "During the survey period it was found that 45 % of respondents stated that their company fell victim to 25_to_34 of IT or 25_to_34 within the two years prior to the survey . ",
+      "By comparison , a further 30 % of respondents reported they were High No by such 25_to_34 ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": [
+            "0",
+            "1"
+         ],
+         "19": [
+            "0",
+            "0"
+         ],
+         "23": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "5": [
+            "4",
+            "1"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "25 to 34",
+         "No high school degree": "45",
+         "High school graduate": "54",
+         "Some college, no degree": "71",
+         "Associate degree": "68",
+         "Bachelor's degree": "81"
+      },
+      {
+         "unknown": "35 to 44",
+         "No high school degree": "43",
+         "High school graduate": "51",
+         "Some college, no degree": "64",
+         "Associate degree": "71",
+         "Bachelor's degree": "79"
+      },
+      {
+         "unknown": "45 to 54",
+         "No high school degree": "36",
+         "High school graduate": "52",
+         "Some college, no degree": "62",
+         "Associate degree": "67",
+         "Bachelor's degree": "78"
+      },
+      {
+         "unknown": "55 to 64",
+         "No high school degree": "32",
+         "High school graduate": "48",
+         "Some college, no degree": "56",
+         "Associate degree": "61",
+         "Bachelor's degree": "75"
+      },
+      {
+         "unknown": "65 and older",
+         "No high school degree": "30",
+         "High school graduate": "42",
+         "Some college, no degree": "52",
+         "Associate degree": "61",
+         "Bachelor's degree": "67"
+      }
+   ]
+}

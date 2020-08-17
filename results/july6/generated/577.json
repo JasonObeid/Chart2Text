@@ -1,0 +1,63 @@
+{
+   "title": "Annual turnover of horse race betting Great Britain 2008 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Turnover in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays the Annual Turnover of horse race in the Great Britain ( ) from 2008 to 2019 . ",
+      "The Annual Turnover of horse race was valued at 5743.51 million GBP ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "10"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Apr 18 - Mar 19",
+         "Turnover in million GBP": "4219.02"
+      },
+      {
+         "Month": "Apr 17 - Mar 18",
+         "Turnover in million GBP": "4396.59"
+      },
+      {
+         "Month": "Apr 16 - Mar 17",
+         "Turnover in million GBP": "4537.89"
+      },
+      {
+         "Month": "Apr 15 - Mar 16",
+         "Turnover in million GBP": "4804.77"
+      },
+      {
+         "Month": "Apr 14 - Mar 15",
+         "Turnover in million GBP": "4804.36"
+      },
+      {
+         "Month": "Apr 13 - Mar 14",
+         "Turnover in million GBP": "4894.01"
+      },
+      {
+         "Month": "Apr 12 - Mar 13",
+         "Turnover in million GBP": "5084.2"
+      },
+      {
+         "Month": "Apr 11 - Mar 12",
+         "Turnover in million GBP": "5300.9"
+      },
+      {
+         "Month": "Apr 10 - Mar 11",
+         "Turnover in million GBP": "5153.82"
+      },
+      {
+         "Month": "Apr 09 - Mar 10",
+         "Turnover in million GBP": "5442.78"
+      },
+      {
+         "Month": "Apr 08 - Mar 09",
+         "Turnover in million GBP": "5743.51"
+      }
+   ]
+}

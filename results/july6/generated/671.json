@@ -1,0 +1,325 @@
+{
+   "title": "British Telecommunications ( BT ) : revenues by types of business Q1 2012/13-Q1 2019/20",
+   "labels": [
+      "Quarter",
+      "BT Global Services",
+      "BT Business",
+      "BT Wholesale",
+      "Openreach",
+      "BT Consumer",
+      "EE",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Telecommunications BT of British Telecommunications BT by types business Q1 from fiscal year Q1_2019/20 to , broken down 2019/20 . ",
+      "In the second Quarter of FY2019 , British Telecommunications BT sold 1588 million BT ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "28",
+            "0"
+         ]
+      },
+      {
+         "9": [
+            "24",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 2012/13",
+         "BT Global Services": "1731",
+         "BT Business": "849",
+         "BT Wholesale": "678",
+         "Openreach": "1270",
+         "BT Consumer": "959",
+         "EE": "0",
+         "Other": "19"
+      },
+      {
+         "Quarter": "Q2 2012/13",
+         "BT Global Services": "1757",
+         "BT Business": "870",
+         "BT Wholesale": "616",
+         "Openreach": "1283",
+         "BT Consumer": "952",
+         "EE": "0",
+         "Other": "19"
+      },
+      {
+         "Quarter": "Q3 2012/13",
+         "BT Global Services": "1748",
+         "BT Business": "875",
+         "BT Wholesale": "645",
+         "Openreach": "1286",
+         "BT Consumer": "953",
+         "EE": "0",
+         "Other": "21"
+      },
+      {
+         "Quarter": "Q4 2012/13",
+         "BT Global Services": "1934",
+         "BT Business": "922",
+         "BT Wholesale": "669",
+         "Openreach": "1276",
+         "BT Consumer": "982",
+         "EE": "0",
+         "Other": "42"
+      },
+      {
+         "Quarter": "Q1 2013/14",
+         "BT Global Services": "1752",
+         "BT Business": "785",
+         "BT Wholesale": "638",
+         "Openreach": "1245",
+         "BT Consumer": "950",
+         "EE": "0",
+         "Other": "18"
+      },
+      {
+         "Quarter": "Q2 2013/14",
+         "BT Global Services": "1743",
+         "BT Business": "799",
+         "BT Wholesale": "624",
+         "Openreach": "1271",
+         "BT Consumer": "987",
+         "EE": "0",
+         "Other": "18"
+      },
+      {
+         "Quarter": "Q3 2013/14",
+         "BT Global Services": "1847",
+         "BT Business": "808",
+         "BT Wholesale": "589",
+         "Openreach": "1274",
+         "BT Consumer": "1014",
+         "EE": "0",
+         "Other": "14"
+      },
+      {
+         "Quarter": "Q4 2013/14",
+         "BT Global Services": "1927",
+         "BT Business": "821",
+         "BT Wholesale": "571",
+         "Openreach": "1271",
+         "BT Consumer": "1068",
+         "EE": "0",
+         "Other": "32"
+      },
+      {
+         "Quarter": "Q1 2014/15",
+         "BT Global Services": "1647",
+         "BT Business": "762",
+         "BT Wholesale": "525",
+         "Openreach": "1245",
+         "BT Consumer": "1046",
+         "EE": "0",
+         "Other": "19"
+      },
+      {
+         "Quarter": "Q2 2014/15",
+         "BT Global Services": "1649",
+         "BT Business": "789",
+         "BT Wholesale": "529",
+         "Openreach": "1245",
+         "BT Consumer": "1056",
+         "EE": "0",
+         "Other": "16"
+      },
+      {
+         "Quarter": "Q3 2014/15",
+         "BT Global Services": "1847",
+         "BT Business": "808",
+         "BT Wholesale": "589",
+         "Openreach": "1274",
+         "BT Consumer": "1014",
+         "EE": "0",
+         "Other": "14"
+      },
+      {
+         "Quarter": "Q4 2014/15",
+         "BT Global Services": "1789",
+         "BT Business": "805",
+         "BT Wholesale": "571",
+         "Openreach": "1266",
+         "BT Consumer": "1100",
+         "EE": "0",
+         "Other": "18"
+      },
+      {
+         "Quarter": "Q1 2015/16",
+         "BT Global Services": "1543",
+         "BT Business": "749",
+         "BT Wholesale": "530",
+         "Openreach": "1249",
+         "BT Consumer": "1074",
+         "EE": "0",
+         "Other": "16"
+      },
+      {
+         "Quarter": "Q2 2015/16",
+         "BT Global Services": "1599",
+         "BT Business": "781",
+         "BT Wholesale": "520",
+         "Openreach": "1267",
+         "BT Consumer": "1127",
+         "EE": "0",
+         "Other": "19"
+      },
+      {
+         "Quarter": "Q3 2015/16",
+         "BT Global Services": "1675",
+         "BT Business": "779",
+         "BT Wholesale": "527",
+         "Openreach": "1294",
+         "BT Consumer": "1205",
+         "EE": "0",
+         "Other": "21"
+      },
+      {
+         "Quarter": "Q4 2015/16",
+         "BT Global Services": "1753",
+         "BT Business": "821",
+         "BT Wholesale": "509",
+         "Openreach": "1290",
+         "BT Consumer": "1192",
+         "EE": "0",
+         "Other": "17"
+      },
+      {
+         "Quarter": "Q1 2016/17",
+         "BT Global Services": "1250",
+         "BT Business": "1165",
+         "BT Wholesale": "453",
+         "Openreach": "1236",
+         "BT Consumer": "1175",
+         "EE": "1243",
+         "Other": "3"
+      },
+      {
+         "Quarter": "Q2 2016/17",
+         "BT Global Services": "1409",
+         "BT Business": "1178",
+         "BT Wholesale": "440",
+         "Openreach": "1232",
+         "BT Consumer": "1251",
+         "EE": "1277",
+         "Other": "1"
+      },
+      {
+         "Quarter": "Q3 2016/17",
+         "BT Global Services": "1399",
+         "BT Business": "1195",
+         "BT Wholesale": "448",
+         "Openreach": "1258",
+         "BT Consumer": "1262",
+         "EE": "1311",
+         "Other": "2"
+      },
+      {
+         "Quarter": "Q4 2016/17",
+         "BT Global Services": "1422",
+         "BT Business": "1220",
+         "BT Wholesale": "454",
+         "Openreach": "1258",
+         "BT Consumer": "1246",
+         "EE": "1259",
+         "Other": "4"
+      },
+      {
+         "Quarter": "Q1 2017/18",
+         "BT Global Services": "1246",
+         "BT Business": "1648",
+         "BT Wholesale": "429",
+         "Openreach": "1287",
+         "BT Consumer": "2539",
+         "EE": "1291",
+         "Other": "2"
+      },
+      {
+         "Quarter": "Q2 2017/18",
+         "BT Global Services": "1265",
+         "BT Business": "1680",
+         "BT Wholesale": "430",
+         "Openreach": "1299",
+         "BT Consumer": "2580",
+         "EE": "1326",
+         "Other": "4"
+      },
+      {
+         "Quarter": "Q3 2017/18",
+         "BT Global Services": "1265",
+         "BT Business": "1681",
+         "BT Wholesale": "425",
+         "Openreach": "1379",
+         "BT Consumer": "2653",
+         "EE": "1357",
+         "Other": "2"
+      },
+      {
+         "Quarter": "Q4 2017/18",
+         "BT Global Services": "1243",
+         "BT Business": "1708",
+         "BT Wholesale": "424",
+         "Openreach": "1320",
+         "BT Consumer": "2543",
+         "EE": "1320",
+         "Other": "2"
+      },
+      {
+         "Quarter": "Q1 2018/19",
+         "BT Global Services": "1147",
+         "BT Business": "1588",
+         "BT Wholesale": "459",
+         "Openreach": "1255",
+         "BT Consumer": "2570",
+         "EE": "0",
+         "Other": "1"
+      },
+      {
+         "Quarter": "Q2 2018/19",
+         "BT Global Services": "1185",
+         "BT Business": "1633",
+         "BT Wholesale": "470",
+         "Openreach": "1293",
+         "BT Consumer": "2654",
+         "EE": "0",
+         "Other": "1"
+      },
+      {
+         "Quarter": "Q3 2018/19",
+         "BT Global Services": "1202",
+         "BT Business": "1583",
+         "BT Wholesale": "0",
+         "Openreach": "1256",
+         "BT Consumer": "2757",
+         "EE": "0",
+         "Other": "2"
+      },
+      {
+         "Quarter": "Q4 2018/19",
+         "BT Global Services": "1201",
+         "BT Business": "1592",
+         "BT Wholesale": "0",
+         "Openreach": "1271",
+         "BT Consumer": "2610",
+         "EE": "0",
+         "Other": "1"
+      },
+      {
+         "Quarter": "Q1 2019/20",
+         "BT Global Services": "1085",
+         "BT Business": "1516",
+         "BT Wholesale": "0",
+         "Openreach": "1268",
+         "BT Consumer": "2550",
+         "EE": "0",
+         "Other": "1"
+      }
+   ]
+}

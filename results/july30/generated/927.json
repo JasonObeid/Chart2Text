@@ -1,0 +1,98 @@
+{
+   "title": "Most played PC games 2015\n",
+   "xAxis": "Video Game",
+   "yAxis": "Share of playing time",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Video Game, and a y axis representing Share of playing time.",
+      " The highest category is found at League_of_Legends where Share of playing time is 22.92.",
+      " The lowest category is found at Call_of_Duty:_Black_Ops_III where Share of playing time is 0.72."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Video Game": "League of Legends",
+         "Share of playing time": 22.92
+      },
+      {
+         "Video Game": "Counter-Strike: Global Offensive",
+         "Share of playing time": 6.88
+      },
+      {
+         "Video Game": "Fallout 4",
+         "Share of playing time": 5.78
+      },
+      {
+         "Video Game": "DOTA 2",
+         "Share of playing time": 5.09
+      },
+      {
+         "Video Game": "World of Warcraft",
+         "Share of playing time": 4.82
+      },
+      {
+         "Video Game": "World of Tanks",
+         "Share of playing time": 3.48
+      },
+      {
+         "Video Game": "Hearthstone: Heroes of Warcraft",
+         "Share of playing time": 2.14
+      },
+      {
+         "Video Game": "Minecraft",
+         "Share of playing time": 1.97
+      },
+      {
+         "Video Game": "Smite",
+         "Share of playing time": 1.3
+      },
+      {
+         "Video Game": "Grand Theft Auto V",
+         "Share of playing time": 1.29
+      },
+      {
+         "Video Game": "Heroes of the Storm",
+         "Share of playing time": 1.16
+      },
+      {
+         "Video Game": "ARK: Survival Evolved",
+         "Share of playing time": 1.15
+      },
+      {
+         "Video Game": "Guild Wars 2",
+         "Share of playing time": 1.12
+      },
+      {
+         "Video Game": "Star Wars:The Old Republic",
+         "Share of playing time": 1.1
+      },
+      {
+         "Video Game": "Diablo III",
+         "Share of playing time": 1.08
+      },
+      {
+         "Video Game": "StarCraft II",
+         "Share of playing time": 1.04
+      },
+      {
+         "Video Game": "Spider Solitaire",
+         "Share of playing time": 0.89
+      },
+      {
+         "Video Game": "Battlefield 4",
+         "Share of playing time": 0.8
+      },
+      {
+         "Video Game": "Final Fantasy XIV Online",
+         "Share of playing time": 0.73
+      },
+      {
+         "Video Game": "Call of Duty: Black Ops III",
+         "Share of playing time": 0.72
+      }
+   ]
+}

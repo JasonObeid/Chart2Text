@@ -1,0 +1,66 @@
+{
+   "title": "Most popular social media platforms for Millennials in the Netherlands 2020\n",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 12 categories for the x axis representing Platform, and a y axis representing Share of respondents.",
+      " The highest category is found at WhatsApp where Share of respondents is 89.0.",
+      " The lowest category is found at Foursquare where Share of respondents is 4.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 11
+   },
+   "data": [
+      {
+         "Platform": "WhatsApp",
+         "Share of respondents": 89.0
+      },
+      {
+         "Platform": "Facebook",
+         "Share of respondents": 82.0
+      },
+      {
+         "Platform": "YouTube",
+         "Share of respondents": 79.0
+      },
+      {
+         "Platform": "Instagram",
+         "Share of respondents": 57.0
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of respondents": 47.0
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents": 35.0
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of respondents": 32.0
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents": 26.0
+      },
+      {
+         "Platform": "TikTok",
+         "Share of respondents": 9.0
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of respondents": 6.0
+      },
+      {
+         "Platform": "WeChat",
+         "Share of respondents": 5.0
+      },
+      {
+         "Platform": "Foursquare",
+         "Share of respondents": 4.0
+      }
+   ]
+}

@@ -1,0 +1,50 @@
+{
+   "title": "Net sales share of Est\u00e9e Lauder worldwide 2017 , by distribution channel\n",
+   "xAxis": "Distribution channel",
+   "yAxis": "Net sales share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Distribution channel, and a y axis representing Net sales share.",
+      " The highest category is found at Department_stores where Net sales share is 42.0.",
+      " The lowest category is found at Salon_and_spa where Net sales share is 3.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 5
+   },
+   "data": [
+      {
+         "Distribution channel": "Department stores",
+         "Net sales share": 42.0
+      },
+      {
+         "Distribution channel": "Travel retail",
+         "Net sales share": 14.0
+      },
+      {
+         "Distribution channel": "Freestanding retail stores",
+         "Net sales share": 11.0
+      },
+      {
+         "Distribution channel": "Specialty-multi",
+         "Net sales share": 11.0
+      },
+      {
+         "Distribution channel": "Perfumeries",
+         "Net sales share": 5.0
+      },
+      {
+         "Distribution channel": "Salon and spa",
+         "Net sales share": 3.0
+      },
+      {
+         "Distribution channel": "Online",
+         "Net sales share": 7.0
+      },
+      {
+         "Distribution channel": "Other",
+         "Net sales share": 7.0
+      }
+   ]
+}

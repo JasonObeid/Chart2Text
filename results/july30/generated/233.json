@@ -1,0 +1,69 @@
+{
+   "title": "Total number of employees of Kohl 's 2012 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of employees in thousands, with a total of 7 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2018 to 2015.",
+      " In a similar manner, the next significant trend is  neutral which exists from 2014 to 2012.",
+      " In a similar manner, the next significant trend is  negative which exists from 2015 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-3.4x+6992.1",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 4,
+         "end": 6,
+         "trend": "y=1.0x+-1876.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 3,
+         "end": 4,
+         "trend": "y=3.0x+-5905.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees in thousands": 129.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees in thousands": 137.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees in thousands": 138.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees in thousands": 140.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees in thousands": 137.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees in thousands": 137.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees in thousands": 135.0
+      }
+   ]
+}

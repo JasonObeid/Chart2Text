@@ -1,0 +1,63 @@
+{
+   "title": "Origin of illegal immigrants in the U.S. 2015",
+   "xAxis": "Country",
+   "yAxis": "Illegal immigrants in thousands",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Illegal of the Origin illegal immigrants U.S. in the world from 2015 to . ",
+      "In that year , Guatemala had a total of 620 immigrants thousands ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2",
+         "9": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Mexico",
+         "Illegal immigrants in thousands": "6580"
+      },
+      {
+         "Country": "El Salvador",
+         "Illegal immigrants in thousands": "750"
+      },
+      {
+         "Country": "Guatemala",
+         "Illegal immigrants in thousands": "620"
+      },
+      {
+         "Country": "India",
+         "Illegal immigrants in thousands": "470"
+      },
+      {
+         "Country": "Honduras",
+         "Illegal immigrants in thousands": "440"
+      },
+      {
+         "Country": "Philippines",
+         "Illegal immigrants in thousands": "370"
+      },
+      {
+         "Country": "China",
+         "Illegal immigrants in thousands": "320"
+      },
+      {
+         "Country": "Korea",
+         "Illegal immigrants in thousands": "230"
+      },
+      {
+         "Country": "Vietnam",
+         "Illegal immigrants in thousands": "170"
+      },
+      {
+         "Country": "Ecuador",
+         "Illegal immigrants in thousands": "150"
+      },
+      {
+         "Country": "Other",
+         "Illegal immigrants in thousands": "1870"
+      }
+   ]
+}

@@ -1,0 +1,43 @@
+{
+   "title": "Music industry employment in the United Kingdom ( UK ) 2018 , by sector",
+   "xAxis": "Industry",
+   "yAxis": "Number of workers",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the Music industry of United Kingdom fourth 2018 as of 2018 . ",
+      "As of the measured period , 139352 % of the website and Music_creators sugar Industry ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Music creators",
+         "Number of workers": "139352"
+      },
+      {
+         "Industry": "Music retail",
+         "Number of workers": "11688"
+      },
+      {
+         "Industry": "Recorded music",
+         "Number of workers": "5379"
+      },
+      {
+         "Industry": "Music representatives",
+         "Number of workers": "2624"
+      },
+      {
+         "Industry": "Music publishing",
+         "Number of workers": "1363"
+      },
+      {
+         "Industry": "Live music",
+         "Number of workers": "30529"
+      }
+   ]
+}

@@ -1,0 +1,46 @@
+{
+   "title": "American Airlines and US Airways - key figures 2015\n",
+   "xAxis": "Key area",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Key area, and a y axis representing Unnamed: 1.",
+      " The highest category is found at Available_seat_kilometres_(in_millions) where Unnamed: 1 is 427533.0.",
+      " The lowest category is found at Number_of_countries_served where Unnamed: 1 is 55.0."
+   ],
+   "trends": {
+      "maxIndex": 5,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Key area": "Number of countries served",
+         "Unnamed: 1": 55.0
+      },
+      {
+         "Key area": "Number of daily departures",
+         "Unnamed: 1": 6985.0
+      },
+      {
+         "Key area": "Number of aircraft in fleet",
+         "Unnamed: 1": 1549.0
+      },
+      {
+         "Key area": "Number of passengers (in millions)",
+         "Unnamed: 1": 197.3
+      },
+      {
+         "Key area": "Revenue passenger kilometers (in millions)",
+         "Unnamed: 1": 350627.0
+      },
+      {
+         "Key area": "Available seat kilometres (in millions)",
+         "Unnamed: 1": 427533.0
+      },
+      {
+         "Key area": "Passenger load factor (in percent)",
+         "Unnamed: 1": 82.0
+      }
+   ]
+}

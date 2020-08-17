@@ -1,0 +1,76 @@
+{
+   "title": "Number of members of FC Bayern Munich 2005 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of members in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the leading Number of members thousands in FC Bayern Munich 2018 , Bayern Month . ",
+      "In 2018 , the Number of members thousands in Nov_2018 was 291.0 thousand ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Nov 2018",
+         "Number of members in thousands": "291.0"
+      },
+      {
+         "Month": "2017/18",
+         "Number of members in thousands": "290.0"
+      },
+      {
+         "Month": "2016/17",
+         "Number of members in thousands": "284.04"
+      },
+      {
+         "Month": "2015/16",
+         "Number of members in thousands": "270.33"
+      },
+      {
+         "Month": "2014/15",
+         "Number of members in thousands": "251.32"
+      },
+      {
+         "Month": "2013/14",
+         "Number of members in thousands": "233.43"
+      },
+      {
+         "Month": "2012/13",
+         "Number of members in thousands": "195.69"
+      },
+      {
+         "Month": "2011/12",
+         "Number of members in thousands": "187.87"
+      },
+      {
+         "Month": "2010/11",
+         "Number of members in thousands": "171.35"
+      },
+      {
+         "Month": "2009/10",
+         "Number of members in thousands": "162.18"
+      },
+      {
+         "Month": "2008/09",
+         "Number of members in thousands": "151.23"
+      },
+      {
+         "Month": "2007/08",
+         "Number of members in thousands": "147.07"
+      },
+      {
+         "Month": "2006/07",
+         "Number of members in thousands": "135.75"
+      },
+      {
+         "Month": "2005/06",
+         "Number of members in thousands": "121.12"
+      }
+   ]
+}

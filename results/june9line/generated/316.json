@@ -1,0 +1,89 @@
+{
+   "title": "Boeing 737 - orders 2004 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of aircraft",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the orders 2004 aircraft in Boeing from 2004 through 2019 . ",
+      "Boeing is estimated to consume around 666 million more orders from 2015 to 2016 . ",
+      "orders is an important building material ."
+   ],
+   "trends": [
+      {
+         "10": "15",
+         "12": "0"
+      },
+      {
+         "6": "4",
+         "11": "4",
+         "13": "3"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of aircraft": "69"
+      },
+      {
+         "Year": "2018",
+         "Number of aircraft": "837"
+      },
+      {
+         "Year": "2017",
+         "Number of aircraft": "865"
+      },
+      {
+         "Year": "2016",
+         "Number of aircraft": "701"
+      },
+      {
+         "Year": "2015",
+         "Number of aircraft": "666"
+      },
+      {
+         "Year": "2014",
+         "Number of aircraft": "1196"
+      },
+      {
+         "Year": "2013",
+         "Number of aircraft": "1208"
+      },
+      {
+         "Year": "2012",
+         "Number of aircraft": "1184"
+      },
+      {
+         "Year": "2011",
+         "Number of aircraft": "625"
+      },
+      {
+         "Year": "2010",
+         "Number of aircraft": "508"
+      },
+      {
+         "Year": "2009",
+         "Number of aircraft": "197"
+      },
+      {
+         "Year": "2008",
+         "Number of aircraft": "488"
+      },
+      {
+         "Year": "2007",
+         "Number of aircraft": "850"
+      },
+      {
+         "Year": "2006",
+         "Number of aircraft": "733"
+      },
+      {
+         "Year": "2005",
+         "Number of aircraft": "574"
+      },
+      {
+         "Year": "2004",
+         "Number of aircraft": "152"
+      }
+   ]
+}

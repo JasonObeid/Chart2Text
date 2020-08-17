@@ -1,0 +1,64 @@
+{
+   "title": "Cyber crime : average company loss in selected countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Average cyber crime cost in million US dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the million of the total Cyber Average company in 2018/2019 , by Country . ",
+      "In that year , The United_States ' crime is expected to amount around 27.37 million crime ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Average cyber crime cost in million US dollars": "27.37"
+      },
+      {
+         "Country": "Japan",
+         "Average cyber crime cost in million US dollars": "13.57"
+      },
+      {
+         "Country": "Germany",
+         "Average cyber crime cost in million US dollars": "13.12"
+      },
+      {
+         "Country": "United Kingdom",
+         "Average cyber crime cost in million US dollars": "11.46"
+      },
+      {
+         "Country": "France",
+         "Average cyber crime cost in million US dollars": "9.72"
+      },
+      {
+         "Country": "Singapore",
+         "Average cyber crime cost in million US dollars": "9.32"
+      },
+      {
+         "Country": "Canada",
+         "Average cyber crime cost in million US dollars": "9.25"
+      },
+      {
+         "Country": "Spain",
+         "Average cyber crime cost in million US dollars": "8.16"
+      },
+      {
+         "Country": "Italy",
+         "Average cyber crime cost in million US dollars": "8.01"
+      },
+      {
+         "Country": "Brazil",
+         "Average cyber crime cost in million US dollars": "7.24"
+      },
+      {
+         "Country": "Australia",
+         "Average cyber crime cost in million US dollars": "6.79"
+      }
+   ]
+}

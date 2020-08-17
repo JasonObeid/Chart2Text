@@ -1,0 +1,67 @@
+{
+   "title": "Iran 's oil exports 2011",
+   "xAxis": "Country",
+   "yAxis": "Oil imports in thousand barrels per day",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Oil of the imports thousand worldwide as of 2019 , sorted by Country . ",
+      "As of that year , the China had a Oil of 543 thousand of 2011 ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Oil imports in thousand barrels per day": "543"
+      },
+      {
+         "Country": "European Union (total)",
+         "Oil imports in thousand barrels per day": "450"
+      },
+      {
+         "Country": "Japan",
+         "Oil imports in thousand barrels per day": "341"
+      },
+      {
+         "Country": "India",
+         "Oil imports in thousand barrels per day": "328"
+      },
+      {
+         "Country": "South Korea",
+         "Oil imports in thousand barrels per day": "244"
+      },
+      {
+         "Country": "Italy",
+         "Oil imports in thousand barrels per day": "183"
+      },
+      {
+         "Country": "Turkey",
+         "Oil imports in thousand barrels per day": "182"
+      },
+      {
+         "Country": "Spain",
+         "Oil imports in thousand barrels per day": "137"
+      },
+      {
+         "Country": "France",
+         "Oil imports in thousand barrels per day": "49"
+      },
+      {
+         "Country": "Netherlands",
+         "Oil imports in thousand barrels per day": "33"
+      },
+      {
+         "Country": "Germany",
+         "Oil imports in thousand barrels per day": "17"
+      },
+      {
+         "Country": "United Kingdom",
+         "Oil imports in thousand barrels per day": "11"
+      }
+   ]
+}

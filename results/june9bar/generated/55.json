@@ -1,0 +1,57 @@
+{
+   "title": "Persons with whom Italians cheat on their partners 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among 559 industrial enterprises on their opinion on the Persons nation in Italians cheat as of 2018 . ",
+      "At that time , 25.4 % of respondents stated that they used Family_member passwords for Friend and Colleague_from_work ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "12": "8",
+         "15": "0",
+         "17": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Friend",
+         "Share of respondents": "25.4"
+      },
+      {
+         "Response": "Colleague from work",
+         "Share of respondents": "22.6"
+      },
+      {
+         "Response": "Stranger met in a particular context (disco gym holidays etc.)",
+         "Share of respondents": "17.5"
+      },
+      {
+         "Response": "Neighbor",
+         "Share of respondents": "10.7"
+      },
+      {
+         "Response": "Does not reply",
+         "Share of respondents": "9.3"
+      },
+      {
+         "Response": "Partner of a friend of mine",
+         "Share of respondents": "5.3"
+      },
+      {
+         "Response": "Stranger met by chance",
+         "Share of respondents": "4.4"
+      },
+      {
+         "Response": "Escort",
+         "Share of respondents": "3.5"
+      },
+      {
+         "Response": "Family member",
+         "Share of respondents": "1.3"
+      }
+   ]
+}

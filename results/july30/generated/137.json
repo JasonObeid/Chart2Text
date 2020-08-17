@@ -1,0 +1,104 @@
+{
+   "title": "Boston Red Sox revenue 2001 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2018 to 2009.",
+      " On the other hand, the next significant trend is  negative which exists from 2008 to 2001."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 0,
+         "end": 9,
+         "trend": "y=26.28x+-52541.14",
+         "magnitude": ""
+      },
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 10,
+         "end": 17,
+         "trend": "y=16.86x+-33579.39",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 516.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 453.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 434.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 398.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 370.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 357.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 336.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 310.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 272.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 266.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 269.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 263.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 234.0
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 206.0
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 201.0
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 190.0
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 171.0
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 152.0
+      }
+   ]
+}

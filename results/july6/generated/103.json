@@ -1,0 +1,87 @@
+{
+   "title": "Annual amount of luxury tax paid in Major League Baseball 2003 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Luxury tax paid in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Luxury tax of the Major League Baseball Yankees from 2003 to 2018 . ",
+      "For the 2017 season the Major League Baseball paid 61.15 million U.S. dollars in Luxury tax ."
+   ],
+   "trends": [
+      {
+         "12": "15",
+         "14": "0"
+      },
+      {
+         "2": "1",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Luxury tax paid in million U.S. dollars": "14.34"
+      },
+      {
+         "Year": "2017",
+         "Luxury tax paid in million U.S. dollars": "61.15"
+      },
+      {
+         "Year": "2016",
+         "Luxury tax paid in million U.S. dollars": "74.0"
+      },
+      {
+         "Year": "2015",
+         "Luxury tax paid in million U.S. dollars": "72.8"
+      },
+      {
+         "Year": "2014",
+         "Luxury tax paid in million U.S. dollars": "44.92"
+      },
+      {
+         "Year": "2013",
+         "Luxury tax paid in million U.S. dollars": "39.4"
+      },
+      {
+         "Year": "2012",
+         "Luxury tax paid in million U.S. dollars": "19.3"
+      },
+      {
+         "Year": "2011",
+         "Luxury tax paid in million U.S. dollars": "17.3"
+      },
+      {
+         "Year": "2010",
+         "Luxury tax paid in million U.S. dollars": "19.5"
+      },
+      {
+         "Year": "2009",
+         "Luxury tax paid in million U.S. dollars": "25.7"
+      },
+      {
+         "Year": "2008",
+         "Luxury tax paid in million U.S. dollars": "28.2"
+      },
+      {
+         "Year": "2007",
+         "Luxury tax paid in million U.S. dollars": "29.9"
+      },
+      {
+         "Year": "2006",
+         "Luxury tax paid in million U.S. dollars": "26.5"
+      },
+      {
+         "Year": "2005",
+         "Luxury tax paid in million U.S. dollars": "38.1"
+      },
+      {
+         "Year": "2004",
+         "Luxury tax paid in million U.S. dollars": "30.0"
+      },
+      {
+         "Year": "2003",
+         "Luxury tax paid in million U.S. dollars": "11.8"
+      }
+   ]
+}

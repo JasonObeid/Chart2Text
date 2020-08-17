@@ -1,0 +1,32 @@
+{
+   "title": "Facebook usage reach in the United States 2019 , by gender",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "A 2017 survey of United States adults found that approximately 75 % of American Men and 63 % of American Women currently smoke States . ",
+      "Impact of Legalizing Cannabis in the Facebook . ",
+      "Since Washington and Colorado legalized recreational States in 2012 , several more states have followed suit ."
+   ],
+   "trends": [
+      {
+         "9": "1",
+         "13": "0",
+         "15": "0",
+         "19": "1"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Men",
+         "Share of respondents": "63"
+      },
+      {
+         "Response": "Women",
+         "Share of respondents": "75"
+      }
+   ]
+}

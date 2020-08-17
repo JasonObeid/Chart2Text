@@ -1,0 +1,46 @@
+{
+   "title": "Most popular crisps and savoury snack brands in the United Kingdom ( UK ) 2013\n",
+   "xAxis": "Snack Brand",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Snack Brand, and a y axis representing Share of respondents currently purchasing.",
+      " The highest category is found at Walkers where Share of respondents currently purchasing is 42.0.",
+      " The lowest category is found at KP_nuts where Share of respondents currently purchasing is 22.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 6
+   },
+   "data": [
+      {
+         "Snack Brand": "Walkers",
+         "Share of respondents currently purchasing": 42.0
+      },
+      {
+         "Snack Brand": "Doritos",
+         "Share of respondents currently purchasing": 32.0
+      },
+      {
+         "Snack Brand": "Hula Hoops",
+         "Share of respondents currently purchasing": 26.0
+      },
+      {
+         "Snack Brand": "Pringles",
+         "Share of respondents currently purchasing": 26.0
+      },
+      {
+         "Snack Brand": "McCoys",
+         "Share of respondents currently purchasing": 25.0
+      },
+      {
+         "Snack Brand": "Own brand crisps",
+         "Share of respondents currently purchasing": 24.0
+      },
+      {
+         "Snack Brand": "KP nuts",
+         "Share of respondents currently purchasing": 22.0
+      }
+   ]
+}

@@ -1,0 +1,125 @@
+{
+   "title": "Median age of the population in Saudi Arabia 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Age median in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Age median in years, with a total of 21 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2050 to 1995.",
+      " On the other hand, the next significant trend is  positive which exists from 1970 to 1950.",
+      " Additionally, the next significant trend is  negative which exists from 1990 to 1975."
+   ],
+   "trends": [
+      {
+         "Length": 12,
+         "direction": "negative",
+         "start": 0,
+         "end": 11,
+         "trend": "y=0.39x+-750.3",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 16,
+         "end": 20,
+         "trend": "y=-0.05x+120.42",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 12,
+         "end": 15,
+         "trend": "y=0.11x+-195.31",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2050",
+         "Age median in years": 40.2
+      },
+      {
+         "Year": "2045",
+         "Age median in years": 38.9
+      },
+      {
+         "Year": "2040",
+         "Age median in years": 37.6
+      },
+      {
+         "Year": "2035",
+         "Age median in years": 36.3
+      },
+      {
+         "Year": "2030",
+         "Age median in years": 35.0
+      },
+      {
+         "Year": "2025",
+         "Age median in years": 33.3
+      },
+      {
+         "Year": "2020",
+         "Age median in years": 31.8
+      },
+      {
+         "Year": "2015",
+         "Age median in years": 30.0
+      },
+      {
+         "Year": "2010",
+         "Age median in years": 26.0
+      },
+      {
+         "Year": "2005",
+         "Age median in years": 23.7
+      },
+      {
+         "Year": "2000",
+         "Age median in years": 21.3
+      },
+      {
+         "Year": "1995",
+         "Age median in years": 19.4
+      },
+      {
+         "Year": "1990",
+         "Age median in years": 19.5
+      },
+      {
+         "Year": "1985",
+         "Age median in years": 19.3
+      },
+      {
+         "Year": "1980",
+         "Age median in years": 18.4
+      },
+      {
+         "Year": "1975",
+         "Age median in years": 18.0
+      },
+      {
+         "Year": "1970",
+         "Age median in years": 18.0
+      },
+      {
+         "Year": "1965",
+         "Age median in years": 18.2
+      },
+      {
+         "Year": "1960",
+         "Age median in years": 18.5
+      },
+      {
+         "Year": "1955",
+         "Age median in years": 18.8
+      },
+      {
+         "Year": "1950",
+         "Age median in years": 19.0
+      }
+   ]
+}

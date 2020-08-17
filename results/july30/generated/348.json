@@ -1,0 +1,38 @@
+{
+   "title": "Reach of fashion blog websites in Great Britain as of August 2013 , by age and gender\n",
+   "xAxis": "Sex",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Sex, and a y axis representing Share of respondents.",
+      " The highest category is found at Under_35 where Share of respondents is 7.0.",
+      " The lowest category is found at Male where Share of respondents is 2.0."
+   ],
+   "trends": {
+      "maxIndex": 2,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Sex": "Male",
+         "Share of respondents": 2.0
+      },
+      {
+         "Sex": "Female",
+         "Share of respondents": 6.0
+      },
+      {
+         "Sex": "Under 35",
+         "Share of respondents": 7.0
+      },
+      {
+         "Sex": "35 to 49",
+         "Share of respondents": 3.0
+      },
+      {
+         "Sex": "50 to 64",
+         "Share of respondents": 2.0
+      }
+   ]
+}

@@ -1,0 +1,38 @@
+{
+   "title": "Michelin - worldwide number of employees by region 2018\n",
+   "xAxis": "Region",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Region, and a y axis representing Number of employees.",
+      " The highest category is found at Europe where Number of employees is 70599.0.",
+      " The lowest category is found at Africa_India_Middle-East where Number of employees is 1848.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Region": "Europe",
+         "Number of employees": 70599.0
+      },
+      {
+         "Region": "North America",
+         "Number of employees": 21541.0
+      },
+      {
+         "Region": "Asia (excl. India)",
+         "Number of employees": 15259.0
+      },
+      {
+         "Region": "South America",
+         "Number of employees": 8166.0
+      },
+      {
+         "Region": "Africa India Middle-East",
+         "Number of employees": 1848.0
+      }
+   ]
+}

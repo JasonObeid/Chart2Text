@@ -1,0 +1,68 @@
+{
+   "title": "Regular season average attendance of the Tampa Bay Rays 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average Regular season home attendance of the Tampa Bay Rays Dodgers from 2009 to 2019 . ",
+      "In 2019 , the Average Regular season home attendance of the Tampa Bay Rays Dodgers was 23147 14734 \u2022 Tampa Bay Rays Dodgers total home attendance \u2022 Major League Baseball Average per game attendance \u2022 Major League Baseball total attendance . "
+   ],
+   "trends": [
+      {
+         "14": "10",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "14": "10",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": "14734"
+      },
+      {
+         "Year": "2018",
+         "Average attendance": "14258"
+      },
+      {
+         "Year": "2017",
+         "Average attendance": "15670"
+      },
+      {
+         "Year": "2016",
+         "Average attendance": "15878"
+      },
+      {
+         "Year": "2015",
+         "Average attendance": "15403"
+      },
+      {
+         "Year": "2014",
+         "Average attendance": "17857"
+      },
+      {
+         "Year": "2013",
+         "Average attendance": "18645"
+      },
+      {
+         "Year": "2012",
+         "Average attendance": "19255"
+      },
+      {
+         "Year": "2011",
+         "Average attendance": "18878"
+      },
+      {
+         "Year": "2010",
+         "Average attendance": "22758"
+      },
+      {
+         "Year": "2009",
+         "Average attendance": "23147"
+      }
+   ]
+}

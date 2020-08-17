@@ -1,0 +1,58 @@
+{
+   "title": "Top selling Nintendo Wii games worldwide in 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Sales in million units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Sales in million units.",
+      " The highest category is found at Wii_Sports where Sales in million units is 82.88.",
+      " The lowest category is found at Wii_Party where Sales in million units is 9.34."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Month": "Wii Sports",
+         "Sales in million units": 82.88
+      },
+      {
+         "Month": "Mario Kart Wii",
+         "Sales in million units": 37.24
+      },
+      {
+         "Month": "Wii Sports Resort",
+         "Sales in million units": 33.11
+      },
+      {
+         "Month": "New Super Mario Bros. Wii",
+         "Sales in million units": 30.28
+      },
+      {
+         "Month": "Wii Play",
+         "Sales in million units": 28.02
+      },
+      {
+         "Month": "Wii Fit",
+         "Sales in million units": 22.67
+      },
+      {
+         "Month": "Wii Fit Plus",
+         "Sales in million units": 21.13
+      },
+      {
+         "Month": "Super Smash Bros. Brawl",
+         "Sales in million units": 13.3
+      },
+      {
+         "Month": "Super Mario Galaxy",
+         "Sales in million units": 12.79
+      },
+      {
+         "Month": "Wii Party",
+         "Sales in million units": 9.34
+      }
+   ]
+}

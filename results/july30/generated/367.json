@@ -1,0 +1,58 @@
+{
+   "title": "Most expensive gTLD auction prices 2016\n",
+   "xAxis": "Top Level Domains",
+   "yAxis": "Sales price in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Top Level Domains, and a y axis representing Sales price in million U.S. dollars.",
+      " The highest category is found at .web_(Jul_'16) where Sales price in million U.S. dollars is 135.0.",
+      " The lowest category is found at .vip_(Sep_'14) where Sales price in million U.S. dollars is 3.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Top Level Domains": ".web (Jul '16)",
+         "Sales price in million U.S. dollars": 135.0
+      },
+      {
+         "Top Level Domains": ".shop (Jan '16)",
+         "Sales price in million U.S. dollars": 41.5
+      },
+      {
+         "Top Level Domains": ".app (Feb '15)",
+         "Sales price in million U.S. dollars": 25.0
+      },
+      {
+         "Top Level Domains": ".tech (Sep '14)",
+         "Sales price in million U.S. dollars": 6.76
+      },
+      {
+         "Top Level Domains": ".realty (Oct '14)",
+         "Sales price in million U.S. dollars": 5.59
+      },
+      {
+         "Top Level Domains": ".salon (Oct '14)",
+         "Sales price in million U.S. dollars": 5.1
+      },
+      {
+         "Top Level Domains": ".buy (Sep '14)",
+         "Sales price in million U.S. dollars": 4.59
+      },
+      {
+         "Top Level Domains": ".mls (Dec '14)",
+         "Sales price in million U.S. dollars": 3.36
+      },
+      {
+         "Top Level Domains": ".baby (Dec '14)",
+         "Sales price in million U.S. dollars": 3.09
+      },
+      {
+         "Top Level Domains": ".vip (Sep '14)",
+         "Sales price in million U.S. dollars": 3.0
+      }
+   ]
+}

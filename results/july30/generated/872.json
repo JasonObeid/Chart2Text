@@ -1,0 +1,98 @@
+{
+   "title": "Highest salaries in Major League Baseball 2019\n",
+   "xAxis": "Baseball Player",
+   "yAxis": "Salary in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Baseball Player, and a y axis representing Salary in million U.S. dollars.",
+      " The highest category is found at Stephen_Strasburg where Salary in million U.S. dollars is 38.33.",
+      " The lowest category is found at Jason_Heyward where Salary in million U.S. dollars is 22.5."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Baseball Player": "Stephen Strasburg",
+         "Salary in million U.S. dollars": 38.33
+      },
+      {
+         "Baseball Player": "Max Scherzer",
+         "Salary in million U.S. dollars": 37.41
+      },
+      {
+         "Baseball Player": "Zack Greinke",
+         "Salary in million U.S. dollars": 34.5
+      },
+      {
+         "Baseball Player": "David Price",
+         "Salary in million U.S. dollars": 31.0
+      },
+      {
+         "Baseball Player": "Clayton Kershaw",
+         "Salary in million U.S. dollars": 31.0
+      },
+      {
+         "Baseball Player": "Miguel Cabrera",
+         "Salary in million U.S. dollars": 30.0
+      },
+      {
+         "Baseball Player": "Yoenis Cespedes",
+         "Salary in million U.S. dollars": 29.0
+      },
+      {
+         "Baseball Player": "Albert Pujols",
+         "Salary in million U.S. dollars": 28.0
+      },
+      {
+         "Baseball Player": "Justin Verlander",
+         "Salary in million U.S. dollars": 28.0
+      },
+      {
+         "Baseball Player": "Felix Hernandez",
+         "Salary in million U.S. dollars": 27.86
+      },
+      {
+         "Baseball Player": "Jon Lester",
+         "Salary in million U.S. dollars": 27.5
+      },
+      {
+         "Baseball Player": "Nolan Arenado",
+         "Salary in million U.S. dollars": 26.0
+      },
+      {
+         "Baseball Player": "Giancarlo Stanton",
+         "Salary in million U.S. dollars": 26.0
+      },
+      {
+         "Baseball Player": "Jake Arrieta",
+         "Salary in million U.S. dollars": 25.0
+      },
+      {
+         "Baseball Player": "Jordan Zimmermann",
+         "Salary in million U.S. dollars": 25.0
+      },
+      {
+         "Baseball Player": "Joey Votto",
+         "Salary in million U.S. dollars": 25.0
+      },
+      {
+         "Baseball Player": "Robinson Cano",
+         "Salary in million U.S. dollars": 24.0
+      },
+      {
+         "Baseball Player": "J.D. Martinez",
+         "Salary in million U.S. dollars": 23.75
+      },
+      {
+         "Baseball Player": "Josh Donaldson",
+         "Salary in million U.S. dollars": 23.0
+      },
+      {
+         "Baseball Player": "Jason Heyward",
+         "Salary in million U.S. dollars": 22.5
+      }
+   ]
+}

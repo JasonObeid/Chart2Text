@@ -1,0 +1,125 @@
+{
+   "title": "Youth unemployment rate in Zambia in 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2019 to 2013.",
+      " Also, the next significant trend is  negative which exists from 2005 to 1999.",
+      " On the contrary, the next significant trend is  positive which exists from 2008 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 0,
+         "end": 6,
+         "trend": "y=-0.19x+402.35",
+         "magnitude": ""
+      },
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 14,
+         "end": 20,
+         "trend": "y=1.27x+-2508.89",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 11,
+         "end": 14,
+         "trend": "y=-4.06x+8166.07",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": 15.94
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": 16.09
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": 16.12
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": 16.39
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": 16.49
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": 16.92
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": 17.05
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": 17.03
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": 21.45
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": 26.83
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": 21.44
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": 16.02
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": 19.3
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": 23.17
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": 28.26
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": 26.75
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": 25.55
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": 24.6
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": 23.08
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": 21.34
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": 20.88
+      }
+   ]
+}

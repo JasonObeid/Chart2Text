@@ -1,0 +1,75 @@
+{
+   "title": "Rural population share in France 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of the rural population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Share of rural at France establishments in France from 2006 to 2018 . ",
+      "In 2018 , the Share of rural in travel France ( including both international and domestic tourists ) amounted to approximately 19.5 % ."
+   ],
+   "trends": [
+      {
+         "14": "12",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of the rural population": "19.5"
+      },
+      {
+         "Year": "2017",
+         "Share of the rural population": "19.8"
+      },
+      {
+         "Year": "2016",
+         "Share of the rural population": "20"
+      },
+      {
+         "Year": "2015",
+         "Share of the rural population": "20.3"
+      },
+      {
+         "Year": "2014",
+         "Share of the rural population": "20.6"
+      },
+      {
+         "Year": "2013",
+         "Share of the rural population": "20.9"
+      },
+      {
+         "Year": "2012",
+         "Share of the rural population": "21.1"
+      },
+      {
+         "Year": "2011",
+         "Share of the rural population": "21.4"
+      },
+      {
+         "Year": "2010",
+         "Share of the rural population": "21.6"
+      },
+      {
+         "Year": "2009",
+         "Share of the rural population": "21.9"
+      },
+      {
+         "Year": "2008",
+         "Share of the rural population": "22.1"
+      },
+      {
+         "Year": "2007",
+         "Share of the rural population": "22.4"
+      },
+      {
+         "Year": "2006",
+         "Share of the rural population": "22.6"
+      }
+   ]
+}

@@ -1,0 +1,58 @@
+{
+   "title": "U.S. women who have given oral sex to a male in their lifetime , by age group\n",
+   "xAxis": "Age group",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Age group, and a y axis representing Share of respondents.",
+      " The highest category is found at 25-29 where Share of respondents is 89.0.",
+      " The lowest category is found at 14-15 where Share of respondents is 13.0."
+   ],
+   "trends": {
+      "maxIndex": 4,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Age group": "14-15",
+         "Share of respondents": 13.0
+      },
+      {
+         "Age group": "16-17",
+         "Share of respondents": 29.0
+      },
+      {
+         "Age group": "18-19",
+         "Share of respondents": 61.0
+      },
+      {
+         "Age group": "20-24",
+         "Share of respondents": 78.0
+      },
+      {
+         "Age group": "25-29",
+         "Share of respondents": 89.0
+      },
+      {
+         "Age group": "30-39",
+         "Share of respondents": 80.0
+      },
+      {
+         "Age group": "40-49",
+         "Share of respondents": 83.0
+      },
+      {
+         "Age group": "50-59",
+         "Share of respondents": 80.0
+      },
+      {
+         "Age group": "60-69",
+         "Share of respondents": 73.0
+      },
+      {
+         "Age group": "70 and older",
+         "Share of respondents": 43.0
+      }
+   ]
+}

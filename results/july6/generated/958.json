@@ -1,0 +1,56 @@
+{
+   "title": "Global retail sales share of organic food 2018 , by country",
+   "xAxis": "Country",
+   "yAxis": "Retail sales share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Retail of sales share at motorways and retail in Global 2018 , organic Country . ",
+      "The United_States ( UK ) has the highest Retail of sales share in 2018 , with 42 sales share ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Retail sales share": "42"
+      },
+      {
+         "Country": "Germany",
+         "Retail sales share": "11"
+      },
+      {
+         "Country": "France",
+         "Retail sales share": "9"
+      },
+      {
+         "Country": "China",
+         "Retail sales share": "8"
+      },
+      {
+         "Country": "Italy",
+         "Retail sales share": "4"
+      },
+      {
+         "Country": "Canada",
+         "Retail sales share": "3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Retail sales share": "3"
+      },
+      {
+         "Country": "Switzerland",
+         "Retail sales share": "3"
+      },
+      {
+         "Country": "Other",
+         "Retail sales share": "17"
+      }
+   ]
+}

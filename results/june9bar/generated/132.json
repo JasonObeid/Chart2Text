@@ -1,0 +1,38 @@
+{
+   "title": "Top 5 origin countries of refugees admitted to Canada in 2016",
+   "xAxis": "Country",
+   "yAxis": "Number of refugees admitted",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Top 5 origin countries refugees admitted Canada 2016 in the Canada as of 2016 . ",
+      "In that year , Syria had the highest Number of any European Union ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Syria",
+         "Number of refugees admitted": "33266"
+      },
+      {
+         "Country": "Eritrea",
+         "Number of refugees admitted": "3934"
+      },
+      {
+         "Country": "Iraq",
+         "Number of refugees admitted": "1650"
+      },
+      {
+         "Country": "Congo",
+         "Number of refugees admitted": "1644"
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of refugees admitted": "1354"
+      }
+   ]
+}

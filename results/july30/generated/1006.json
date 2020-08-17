@@ -1,0 +1,30 @@
+{
+   "title": "Public opinions on gay marriage in Italy 2016\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Against where Share of respondents is 52.0.",
+      " The lowest category is found at I_don\u00b4t_know where Share of respondents is 8.0."
+   ],
+   "trends": {
+      "maxIndex": 2,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Response": "I don\u00b4t know",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "In favor",
+         "Share of respondents": 40.0
+      },
+      {
+         "Response": "Against",
+         "Share of respondents": 52.0
+      }
+   ]
+}

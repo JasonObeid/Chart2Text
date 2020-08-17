@@ -1,0 +1,119 @@
+{
+   "title": "U.S. retail price of grapes 1995 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Price in U.S. dollars per pound",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the U.S. of retail price in U.S. selected years from 1995 to 2019 . ",
+      "In 1995 , German retail price had a retail U.S. of roughly 1.86 % U.S.",
+      "2.72 years later , U.S. figures amounted to less than 2.76 billion U.S. ."
+   ],
+   "trends": [
+      {
+         "14": "0",
+         "16": "22"
+      },
+      {
+         "1": "0",
+         "12": "0"
+      },
+      {
+         "0": "10",
+         "10": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1995",
+         "Price in U.S. dollars per pound": "1.86"
+      },
+      {
+         "Year": "1997",
+         "Price in U.S. dollars per pound": "2.19"
+      },
+      {
+         "Year": "1999",
+         "Price in U.S. dollars per pound": "2.4"
+      },
+      {
+         "Year": "2000",
+         "Price in U.S. dollars per pound": "2.36"
+      },
+      {
+         "Year": "2001",
+         "Price in U.S. dollars per pound": "2.31"
+      },
+      {
+         "Year": "2002",
+         "Price in U.S. dollars per pound": "2.27"
+      },
+      {
+         "Year": "2003",
+         "Price in U.S. dollars per pound": "2.25"
+      },
+      {
+         "Year": "2004",
+         "Price in U.S. dollars per pound": "3.09"
+      },
+      {
+         "Year": "2005",
+         "Price in U.S. dollars per pound": "2.76"
+      },
+      {
+         "Year": "2006",
+         "Price in U.S. dollars per pound": "2.89"
+      },
+      {
+         "Year": "2007",
+         "Price in U.S. dollars per pound": "2.72"
+      },
+      {
+         "Year": "2008",
+         "Price in U.S. dollars per pound": "2.46"
+      },
+      {
+         "Year": "2009",
+         "Price in U.S. dollars per pound": "3.14"
+      },
+      {
+         "Year": "2010",
+         "Price in U.S. dollars per pound": "2.87"
+      },
+      {
+         "Year": "2011",
+         "Price in U.S. dollars per pound": "2.86"
+      },
+      {
+         "Year": "2012",
+         "Price in U.S. dollars per pound": "3.09"
+      },
+      {
+         "Year": "2013",
+         "Price in U.S. dollars per pound": "2.57"
+      },
+      {
+         "Year": "2014",
+         "Price in U.S. dollars per pound": "2.96"
+      },
+      {
+         "Year": "2015",
+         "Price in U.S. dollars per pound": "2.83"
+      },
+      {
+         "Year": "2016",
+         "Price in U.S. dollars per pound": "2.88"
+      },
+      {
+         "Year": "2017",
+         "Price in U.S. dollars per pound": "2.61"
+      },
+      {
+         "Year": "2018",
+         "Price in U.S. dollars per pound": "2.28"
+      },
+      {
+         "Year": "2019",
+         "Price in U.S. dollars per pound": "2.39"
+      }
+   ]
+}

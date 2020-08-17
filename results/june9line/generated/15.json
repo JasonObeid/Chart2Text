@@ -1,0 +1,99 @@
+{
+   "title": "Canada : number of robberies 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of robberies",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total Canada ( UK ) Canada Number and robberies from fiscal Year 2018 to fiscal Year 2000 . ",
+      "Over the period there were a number of fluctuations but overall there was an increase . ",
+      "In the most recent recorded period , Number and robberies totaled almost 34641 million British pounds , which was also the peak ."
+   ],
+   "trends": [
+      {
+         "18": "18",
+         "22": "0"
+      },
+      {},
+      {
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Number of robberies": "30582"
+      },
+      {
+         "Year": "2001",
+         "Number of robberies": "30756"
+      },
+      {
+         "Year": "2002",
+         "Number of robberies": "30036"
+      },
+      {
+         "Year": "2003",
+         "Number of robberies": "32084"
+      },
+      {
+         "Year": "2004",
+         "Number of robberies": "30990"
+      },
+      {
+         "Year": "2005",
+         "Number of robberies": "32437"
+      },
+      {
+         "Year": "2006",
+         "Number of robberies": "34641"
+      },
+      {
+         "Year": "2007",
+         "Number of robberies": "34182"
+      },
+      {
+         "Year": "2008",
+         "Number of robberies": "32372"
+      },
+      {
+         "Year": "2009",
+         "Number of robberies": "32463"
+      },
+      {
+         "Year": "2010",
+         "Number of robberies": "30478"
+      },
+      {
+         "Year": "2011",
+         "Number of robberies": "29790"
+      },
+      {
+         "Year": "2012",
+         "Number of robberies": "27748"
+      },
+      {
+         "Year": "2013",
+         "Number of robberies": "23249"
+      },
+      {
+         "Year": "2014",
+         "Number of robberies": "20932"
+      },
+      {
+         "Year": "2015",
+         "Number of robberies": "22149"
+      },
+      {
+         "Year": "2016",
+         "Number of robberies": "21958"
+      },
+      {
+         "Year": "2017",
+         "Number of robberies": "22831"
+      },
+      {
+         "Year": "2018",
+         "Number of robberies": "22450"
+      }
+   ]
+}

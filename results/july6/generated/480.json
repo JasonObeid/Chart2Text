@@ -1,0 +1,155 @@
+{
+   "title": "Latin America & Caribbean : GDP per capita 2018 , by country",
+   "xAxis": "Country",
+   "yAxis": "GDP per capita in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Latin America & Caribbean ( GDP ) per capita in the first quarter of 2018 . ",
+      "GDP per capita ( GDP ) and the total value of all goods and services produced in a given year in a Country . ",
+      "It is considered to be a very important indicator of the economic strength of a Country and a positive change is an indicator of economic growth ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Bahamas",
+         "GDP per capita in U.S. dollars": "31857.89"
+      },
+      {
+         "Country": "Puerto Rico",
+         "GDP per capita in U.S. dollars": "31651.35"
+      },
+      {
+         "Country": "St. Kitts and Nevis",
+         "GDP per capita in U.S. dollars": "19829.43"
+      },
+      {
+         "Country": "Uruguay",
+         "GDP per capita in U.S. dollars": "17277.97"
+      },
+      {
+         "Country": "Antigua and Barbuda",
+         "GDP per capita in U.S. dollars": "16864.38"
+      },
+      {
+         "Country": "Trinidad and Tobago",
+         "GDP per capita in U.S. dollars": "16843.7"
+      },
+      {
+         "Country": "Barbados ",
+         "GDP per capita in U.S. dollars": "16327.61"
+      },
+      {
+         "Country": "Chile",
+         "GDP per capita in U.S. dollars": "15923.36"
+      },
+      {
+         "Country": "Panama",
+         "GDP per capita in U.S. dollars": "15575.07"
+      },
+      {
+         "Country": "Costa Rica",
+         "GDP per capita in U.S. dollars": "12026.55"
+      },
+      {
+         "Country": "Argentina",
+         "GDP per capita in U.S. dollars": "11652.57"
+      },
+      {
+         "Country": "Grenada",
+         "GDP per capita in U.S. dollars": "10833.66"
+      },
+      {
+         "Country": "St. Lucia",
+         "GDP per capita in U.S. dollars": "10315.03"
+      },
+      {
+         "Country": "Mexico",
+         "GDP per capita in U.S. dollars": "9698.08"
+      },
+      {
+         "Country": "Regional average",
+         "GDP per capita in U.S. dollars": "9023.5"
+      },
+      {
+         "Country": "Brazil",
+         "GDP per capita in U.S. dollars": "8920.76"
+      },
+      {
+         "Country": "Cuba ",
+         "GDP per capita in U.S. dollars": "8541.21"
+      },
+      {
+         "Country": "Dominican Republic",
+         "GDP per capita in U.S. dollars": "7650.07"
+      },
+      {
+         "Country": "St. Vincent and the Grenadines",
+         "GDP per capita in U.S. dollars": "7377.68"
+      },
+      {
+         "Country": "Dominica",
+         "GDP per capita in U.S. dollars": "7031.71"
+      },
+      {
+         "Country": "Peru",
+         "GDP per capita in U.S. dollars": "6947.26"
+      },
+      {
+         "Country": "Colombia",
+         "GDP per capita in U.S. dollars": "6651.29"
+      },
+      {
+         "Country": "Ecuador",
+         "GDP per capita in U.S. dollars": "6344.87"
+      },
+      {
+         "Country": "Suriname",
+         "GDP per capita in U.S. dollars": "5950.21"
+      },
+      {
+         "Country": "Paraguay",
+         "GDP per capita in U.S. dollars": "5871.47"
+      },
+      {
+         "Country": "Jamaica",
+         "GDP per capita in U.S. dollars": "5355.58"
+      },
+      {
+         "Country": "Belize",
+         "GDP per capita in U.S. dollars": "5025.18"
+      },
+      {
+         "Country": "Guyana",
+         "GDP per capita in U.S. dollars": "4634.68"
+      },
+      {
+         "Country": "Guatemala",
+         "GDP per capita in U.S. dollars": "4549.01"
+      },
+      {
+         "Country": "El Salvador",
+         "GDP per capita in U.S. dollars": "4058.24"
+      },
+      {
+         "Country": "Bolivia",
+         "GDP per capita in U.S. dollars": "3548.59"
+      },
+      {
+         "Country": "Honduras",
+         "GDP per capita in U.S. dollars": "2482.73"
+      },
+      {
+         "Country": "Nicaragua",
+         "GDP per capita in U.S. dollars": "2028.9"
+      },
+      {
+         "Country": "Haiti",
+         "GDP per capita in U.S. dollars": "868.28"
+      }
+   ]
+}

@@ -1,0 +1,84 @@
+{
+   "title": "Sales volume of USB flash drives in Germany 2004 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales volume in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Sales volume of the millions USB flash drives from 2004 to 2018 . ",
+      "In 2018 , the USB flash drives grew by an estimated 12.88 millions compared to the previous sales Year . ",
+      "USB flash drives Since the early twentieth century , the production of flash has been controlled by a handful of multi-national corporations ."
+   ],
+   "trends": [
+      {
+         "13": "14",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales volume in millions": "12.88"
+      },
+      {
+         "Year": "2017",
+         "Sales volume in millions": "13.51"
+      },
+      {
+         "Year": "2016",
+         "Sales volume in millions": "16.17"
+      },
+      {
+         "Year": "2015",
+         "Sales volume in millions": "15.94"
+      },
+      {
+         "Year": "2014",
+         "Sales volume in millions": "15.46"
+      },
+      {
+         "Year": "2013",
+         "Sales volume in millions": "13.5"
+      },
+      {
+         "Year": "2012",
+         "Sales volume in millions": "15.85"
+      },
+      {
+         "Year": "2011",
+         "Sales volume in millions": "13.82"
+      },
+      {
+         "Year": "2010",
+         "Sales volume in millions": "11.78"
+      },
+      {
+         "Year": "2009",
+         "Sales volume in millions": "12.99"
+      },
+      {
+         "Year": "2008",
+         "Sales volume in millions": "13.0"
+      },
+      {
+         "Year": "2007",
+         "Sales volume in millions": "8.18"
+      },
+      {
+         "Year": "2006",
+         "Sales volume in millions": "5.0"
+      },
+      {
+         "Year": "2005",
+         "Sales volume in millions": "3.2"
+      },
+      {
+         "Year": "2004",
+         "Sales volume in millions": "2.03"
+      }
+   ]
+}

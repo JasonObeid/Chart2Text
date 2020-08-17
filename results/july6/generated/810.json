@@ -1,0 +1,106 @@
+{
+   "title": "Chained consumer price index of all urban consumers 2000 to 2019",
+   "xAxis": "December value",
+   "yAxis": "Chained Consumer Price Index (1999=100)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the 12 month percentage change in the Chained consumer price index in the Chained from 2001 to 2019 at year-end . ",
+      "In December 2019 , prices went up by 144.73 % compared to December 2018 . ",
+      "The annual Consumer Price based on current dollar value can be accessed here ."
+   ],
+   "trends": [
+      {
+         "18": "18",
+         "20": "0"
+      },
+      {
+         "2": "0",
+         "8": "0",
+         "13": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "December value": "2019",
+         "Chained Consumer Price Index (1999=100)": "144.73"
+      },
+      {
+         "December value": "2018",
+         "Chained Consumer Price Index (1999=100)": "141.7"
+      },
+      {
+         "December value": "2017",
+         "Chained Consumer Price Index (1999=100)": "139.55"
+      },
+      {
+         "December value": "2016",
+         "Chained Consumer Price Index (1999=100)": "137.22"
+      },
+      {
+         "December value": "2015",
+         "Chained Consumer Price Index (1999=100)": "134.79"
+      },
+      {
+         "December value": "2014",
+         "Chained Consumer Price Index (1999=100)": "134.21"
+      },
+      {
+         "December value": "2013",
+         "Chained Consumer Price Index (1999=100)": "133.51"
+      },
+      {
+         "December value": "2012",
+         "Chained Consumer Price Index (1999=100)": "131.77"
+      },
+      {
+         "December value": "2011",
+         "Chained Consumer Price Index (1999=100)": "129.84"
+      },
+      {
+         "December value": "2010",
+         "Chained Consumer Price Index (1999=100)": "126.14"
+      },
+      {
+         "December value": "2009",
+         "Chained Consumer Price Index (1999=100)": "124.54"
+      },
+      {
+         "December value": "2008",
+         "Chained Consumer Price Index (1999=100)": "121.56"
+      },
+      {
+         "December value": "2007",
+         "Chained Consumer Price Index (1999=100)": "121.3"
+      },
+      {
+         "December value": "2006",
+         "Chained Consumer Price Index (1999=100)": "117.0"
+      },
+      {
+         "December value": "2005",
+         "Chained Consumer Price Index (1999=100)": "114.4"
+      },
+      {
+         "December value": "2004",
+         "Chained Consumer Price Index (1999=100)": "111.2"
+      },
+      {
+         "December value": "2003",
+         "Chained Consumer Price Index (1999=100)": "107.8"
+      },
+      {
+         "December value": "2002",
+         "Chained Consumer Price Index (1999=100)": "106.0"
+      },
+      {
+         "December value": "2001",
+         "Chained Consumer Price Index (1999=100)": "103.9"
+      },
+      {
+         "December value": "2000",
+         "Chained Consumer Price Index (1999=100)": "102.6"
+      }
+   ]
+}

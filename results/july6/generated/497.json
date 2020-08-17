@@ -1,0 +1,64 @@
+{
+   "title": "Renewable energy capacity - country ranking 2018",
+   "xAxis": "Country",
+   "yAxis": "Capacity in gigawatts",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the 135.67 Renewable energy the capacity country ranking in the world 2018 to . ",
+      "Over the past decade , China has demonstrated the capacity economic gigawatts rate energy gigawatts Capacity sitting as high 695.87 % . ",
+      "The overall quarterly gigawatts in the country can be found here ."
+   ],
+   "trends": [
+      {
+         "4": "2"
+      },
+      {
+         "5": "0",
+         "22": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Capacity in gigawatts": "695.87"
+      },
+      {
+         "Country": "U.S.",
+         "Capacity in gigawatts": "245.25"
+      },
+      {
+         "Country": "Brazil",
+         "Capacity in gigawatts": "135.67"
+      },
+      {
+         "Country": "Germany",
+         "Capacity in gigawatts": "120.01"
+      },
+      {
+         "Country": "India",
+         "Capacity in gigawatts": "117.92"
+      },
+      {
+         "Country": "Canada",
+         "Capacity in gigawatts": "99.04"
+      },
+      {
+         "Country": "Japan",
+         "Capacity in gigawatts": "90.15"
+      },
+      {
+         "Country": "Italy",
+         "Capacity in gigawatts": "53.29"
+      },
+      {
+         "Country": "Russia",
+         "Capacity in gigawatts": "52.22"
+      },
+      {
+         "Country": "France",
+         "Capacity in gigawatts": "50.5"
+      }
+   ]
+}

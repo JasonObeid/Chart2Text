@@ -1,0 +1,38 @@
+{
+   "title": "Number of poker players who play for money",
+   "xAxis": "Month",
+   "yAxis": "Number of players (in millions)",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the poker players who play for in Number as of October 2006 . ",
+      "As of the last reported period , the players of time , poker were September_2006 has been players (in ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "September 2006",
+         "Number of players (in millions)": "17.8"
+      },
+      {
+         "Month": "January 2007",
+         "Number of players (in millions)": "15.2"
+      },
+      {
+         "Month": "Spring 2008",
+         "Number of players (in millions)": "20.0"
+      },
+      {
+         "Month": "Spring 2009",
+         "Number of players (in millions)": "20.8"
+      },
+      {
+         "Month": "Spring 2010",
+         "Number of players (in millions)": "22.2"
+      }
+   ]
+}

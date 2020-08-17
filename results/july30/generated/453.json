@@ -1,0 +1,58 @@
+{
+   "title": "Leading IPOs in the U.S. 2019\n",
+   "xAxis": "Company (Offer date)",
+   "yAxis": "Deal size in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Company (Offer date), and a y axis representing Deal size in million U.S. dollars.",
+      " The highest category is found at Uber_Technologies_(May_9) where Deal size in million U.S. dollars is 8100.0.",
+      " The lowest category is found at DouYu_International_Holdings_(Jul_16) where Deal size in million U.S. dollars is 775.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Company (Offer date)": "Uber Technologies (May 9)",
+         "Deal size in million U.S. dollars": 8100.0
+      },
+      {
+         "Company (Offer date)": "Avantor (May 16)",
+         "Deal size in million U.S. dollars": 2898.0
+      },
+      {
+         "Company (Offer date)": "Lyft (Mar 28)",
+         "Deal size in million U.S. dollars": 2340.0
+      },
+      {
+         "Company (Offer date)": "XP (Dec 10)",
+         "Deal size in million U.S. dollars": 1958.0
+      },
+      {
+         "Company (Offer date)": "Pinterest (Apr 17)",
+         "Deal size in million U.S. dollars": 1425.0
+      },
+      {
+         "Company (Offer date)": "SmileDirectClub (Sep 11)",
+         "Deal size in million U.S. dollars": 1346.0
+      },
+      {
+         "Company (Offer date)": "Peloton Interactive (Sep 25)",
+         "Deal size in million U.S. dollars": 1160.0
+      },
+      {
+         "Company (Offer date)": "Tradeweb Markets (Apr 3)",
+         "Deal size in million U.S. dollars": 1080.0
+      },
+      {
+         "Company (Offer date)": "Chewy (Jun 13)",
+         "Deal size in million U.S. dollars": 1023.0
+      },
+      {
+         "Company (Offer date)": "DouYu International Holdings (Jul 16)",
+         "Deal size in million U.S. dollars": 775.0
+      }
+   ]
+}

@@ -1,0 +1,38 @@
+{
+   "title": "Reasons for eating fast food in the U.S. as of August 2014\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Convenient where Share of respondents is 67.2.",
+      " The lowest category is found at Other where Share of respondents is 5.6."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Response": "Convenient",
+         "Share of respondents": 67.2
+      },
+      {
+         "Response": "Cheap",
+         "Share of respondents": 31.7
+      },
+      {
+         "Response": "I just like it",
+         "Share of respondents": 30.6
+      },
+      {
+         "Response": "Lack of other options",
+         "Share of respondents": 13.2
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 5.6
+      }
+   ]
+}

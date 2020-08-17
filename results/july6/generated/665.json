@@ -1,0 +1,81 @@
+{
+   "title": "U.S. adults that would use an app to track diet and nutrition 2017 , by age",
+   "labels": [
+      "unknown",
+      "18 to 29 years",
+      "30 to 45 years",
+      "46 to 60 years",
+      "61 years and older"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey conducted in the U.S. in 2017 , nutrition 2017 . ",
+      "U.S. adults were asked if they could I_can_imagine_using_it themselves an use to app and monitor their track and exercise . ",
+      "According to the survey , 26 percent of those aged 18 to 26 29 utilize a track use I_use_it_regularly , compared to only 26 percent of those aged 61 29 and ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "3",
+            "0"
+         ],
+         "9": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "5": [
+            "0",
+            "1"
+         ],
+         "12": [
+            "0",
+            "1"
+         ],
+         "18": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "I use it regularly",
+         "18 to 29 years": "26",
+         "30 to 45 years": "17",
+         "46 to 60 years": "9",
+         "61 years and older": "4"
+      },
+      {
+         "unknown": "I use it occasionally",
+         "18 to 29 years": "23",
+         "30 to 45 years": "27",
+         "46 to 60 years": "10",
+         "61 years and older": "5"
+      },
+      {
+         "unknown": "I have used it once",
+         "18 to 29 years": "15",
+         "30 to 45 years": "16",
+         "46 to 60 years": "8",
+         "61 years and older": "6"
+      },
+      {
+         "unknown": "I can imagine using it",
+         "18 to 29 years": "24",
+         "30 to 45 years": "27",
+         "46 to 60 years": "51",
+         "61 years and older": "55"
+      },
+      {
+         "unknown": "I won\u2019t use it",
+         "18 to 29 years": "12",
+         "30 to 45 years": "13",
+         "46 to 60 years": "22",
+         "61 years and older": "29"
+      }
+   ]
+}

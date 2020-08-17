@@ -1,0 +1,77 @@
+{
+   "title": "Number of Leon 's Furniture Limited stores in Canada by region 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "As of 2019 , Ontario Leon Furniture Limited 's most populous province , was home to the most Leon and supplies stores across the country . ",
+      "At that time , there were 129 such stores in Ontario . ",
+      "Alberta and British_Columbia , the second and third most populous provinces , came next in the ranking with 61 and 39 stores respectively ."
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {
+         "6": "0",
+         "10": "0"
+      },
+      {
+         "0": "1",
+         "2": "2",
+         "18": "1",
+         "20": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of stores": "129"
+      },
+      {
+         "Month": "Alberta",
+         "Number of stores": "61"
+      },
+      {
+         "Month": "British Columbia",
+         "Number of stores": "39"
+      },
+      {
+         "Month": "Qu\u00e9bec",
+         "Number of stores": "26"
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of stores": "16"
+      },
+      {
+         "Month": "Manitoba",
+         "Number of stores": "10"
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of stores": "8"
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of stores": "7"
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of stores": "3"
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of stores": "2"
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of stores": "1"
+      },
+      {
+         "Month": "Yukon",
+         "Number of stores": "1"
+      }
+   ]
+}

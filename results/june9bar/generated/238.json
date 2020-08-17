@@ -1,0 +1,79 @@
+{
+   "title": "Cities with the largest parkland percentage in the U.S. 2018",
+   "xAxis": "State",
+   "yAxis": "Share of parkland",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of the largest parkland percentage U.S. in 2018 , State . ",
+      "In that year , there were almost 49.4 parkland in Fremont ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "1",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "State": "Anchorage",
+         "Share of parkland": "84.2"
+      },
+      {
+         "State": "Fremont",
+         "Share of parkland": "49.4"
+      },
+      {
+         "State": "Irvine",
+         "Share of parkland": "27.4"
+      },
+      {
+         "State": "Scottsdale",
+         "Share of parkland": "26.9"
+      },
+      {
+         "State": "North Las Vegas",
+         "Share of parkland": "26.2"
+      },
+      {
+         "State": "Chesapeake",
+         "Share of parkland": "26"
+      },
+      {
+         "State": "New Orleans",
+         "Share of parkland": "25.9"
+      },
+      {
+         "State": "Albuquerque",
+         "Share of parkland": "23.2"
+      },
+      {
+         "State": "New York",
+         "Share of parkland": "21.7"
+      },
+      {
+         "State": "Washington D.C.",
+         "Share of parkland": "21.1"
+      },
+      {
+         "State": "San Francisco",
+         "Share of parkland": "19.6"
+      },
+      {
+         "State": "Las Vegas",
+         "Share of parkland": "19.4"
+      },
+      {
+         "State": "El Paso",
+         "Share of parkland": "19.2"
+      },
+      {
+         "State": "San Diego",
+         "Share of parkland": "19.1"
+      },
+      {
+         "State": "Jersey City",
+         "Share of parkland": "18.1"
+      }
+   ]
+}

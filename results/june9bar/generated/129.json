@@ -1,0 +1,59 @@
+{
+   "title": "Twitter user share in selected countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of Twitter users",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Twitter user in share selected on countries as of October 2018 . ",
+      "As of 2018 , United_States was the Twitter user Country with 18.9 % of Twitter users ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of Twitter users": "18.9"
+      },
+      {
+         "Country": "Japan",
+         "Share of Twitter users": "14.6"
+      },
+      {
+         "Country": "Venezuela",
+         "Share of Twitter users": "5.8"
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of Twitter users": "5.5"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Share of Twitter users": "4"
+      },
+      {
+         "Country": "Turkey",
+         "Share of Twitter users": "3.3"
+      },
+      {
+         "Country": "Brazil",
+         "Share of Twitter users": "3"
+      },
+      {
+         "Country": "Mexico",
+         "Share of Twitter users": "2.8"
+      },
+      {
+         "Country": "India",
+         "Share of Twitter users": "2.6"
+      },
+      {
+         "Country": "Spain",
+         "Share of Twitter users": "2.6"
+      }
+   ]
+}

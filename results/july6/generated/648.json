@@ -1,0 +1,95 @@
+{
+   "title": "Canada - average weekly hours worked at the main job , by industry 2019",
+   "xAxis": "Industry",
+   "yAxis": "Average usual weekly hours",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the This Industry of the Canada average in Canada 2019 . ",
+      "In 2019 , about 45.0 million people were counted in the Canada ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Forestry fishing mining quarrying oil and gas",
+         "Average usual weekly hours": "45.0"
+      },
+      {
+         "Industry": "Agriculture",
+         "Average usual weekly hours": "43.5"
+      },
+      {
+         "Industry": "Goods-producing sector",
+         "Average usual weekly hours": "40.4"
+      },
+      {
+         "Industry": "Construction",
+         "Average usual weekly hours": "40.3"
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Average usual weekly hours": "40.2"
+      },
+      {
+         "Industry": "Manufacturing",
+         "Average usual weekly hours": "39.3"
+      },
+      {
+         "Industry": "Utilities",
+         "Average usual weekly hours": "38.6"
+      },
+      {
+         "Industry": "Professional scientific and technical services",
+         "Average usual weekly hours": "37.0"
+      },
+      {
+         "Industry": "Public administration",
+         "Average usual weekly hours": "36.7"
+      },
+      {
+         "Industry": "Finance insurance real estate rental and leasing",
+         "Average usual weekly hours": "36.7"
+      },
+      {
+         "Industry": "Total employed all industries",
+         "Average usual weekly hours": "35.7"
+      },
+      {
+         "Industry": "Other services (except public administration)",
+         "Average usual weekly hours": "34.9"
+      },
+      {
+         "Industry": "Services-producing sector",
+         "Average usual weekly hours": "34.5"
+      },
+      {
+         "Industry": "Health care and social assistance",
+         "Average usual weekly hours": "34.2"
+      },
+      {
+         "Industry": "Business building and other support services",
+         "Average usual weekly hours": "33.8"
+      },
+      {
+         "Industry": "Wholesale and retail trade",
+         "Average usual weekly hours": "33.5"
+      },
+      {
+         "Industry": "Information culture and recreation",
+         "Average usual weekly hours": "32.5"
+      },
+      {
+         "Industry": "Educational services",
+         "Average usual weekly hours": "31.8"
+      },
+      {
+         "Industry": "Accommodation and food services",
+         "Average usual weekly hours": "29.8"
+      }
+   ]
+}

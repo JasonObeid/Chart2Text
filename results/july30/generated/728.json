@@ -1,0 +1,46 @@
+{
+   "title": "MoviePass subscribers in the U.S. 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Month, and a y axis representing Number of subscribers in thousands.",
+      " The highest category is found at June_2018 where Number of subscribers in thousands is 3000.0.",
+      " The lowest category is found at December_2016 where Number of subscribers in thousands is 20.0."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "minIndex": 6
+   },
+   "data": [
+      {
+         "Month": "April 2019",
+         "Number of subscribers in thousands": 225.0
+      },
+      {
+         "Month": "June 2018",
+         "Number of subscribers in thousands": 3000.0
+      },
+      {
+         "Month": "March 2018",
+         "Number of subscribers in thousands": 2000.0
+      },
+      {
+         "Month": "January 2018",
+         "Number of subscribers in thousands": 1500.0
+      },
+      {
+         "Month": "September 2017",
+         "Number of subscribers in thousands": 500.0
+      },
+      {
+         "Month": "August 2017",
+         "Number of subscribers in thousands": 150.0
+      },
+      {
+         "Month": "December 2016",
+         "Number of subscribers in thousands": 20.0
+      }
+   ]
+}

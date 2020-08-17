@@ -1,0 +1,39 @@
+{
+   "title": "Share of global net sales of Luxottica by geographical area 2018",
+   "xAxis": "Geographical area",
+   "yAxis": "Share of net sales",
+   "graphType": "bar",
+   "summary": [
+      "This graph depicts the Share of global net sales in 2018 , Luxottica Geographical . ",
+      "In that year , North_America was the Share global net Geographical with a total of 58 times ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Geographical area": "North America",
+         "Share of net sales": "58"
+      },
+      {
+         "Geographical area": "Europe",
+         "Share of net sales": "21"
+      },
+      {
+         "Geographical area": "Asia-Pacific",
+         "Share of net sales": "13"
+      },
+      {
+         "Geographical area": "Latin America",
+         "Share of net sales": "6"
+      },
+      {
+         "Geographical area": "Rest of the world",
+         "Share of net sales": "2"
+      }
+   ]
+}

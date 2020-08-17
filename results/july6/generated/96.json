@@ -1,0 +1,55 @@
+{
+   "title": "Japan : number of Facebook users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of Facebook users in Japan from 2017 until 2023 . ",
+      "In 2023 , the Number of Facebook users in Japan is expected to reach 26.9 millions , up from 21.7 millions in 2017 . ",
+      "Further information With more than 2 millions monthly active users , Facebook is the most popular social network worldwide ."
+   ],
+   "trends": [
+      {
+         "11": "6",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "14": "0",
+         "19": "6",
+         "22": "6"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of users in millions": "26.9"
+      },
+      {
+         "Year": "2022",
+         "Number of users in millions": "26.1"
+      },
+      {
+         "Year": "2021",
+         "Number of users in millions": "25.2"
+      },
+      {
+         "Year": "2020",
+         "Number of users in millions": "24.3"
+      },
+      {
+         "Year": "2019",
+         "Number of users in millions": "23.5"
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": "22.6"
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": "21.7"
+      }
+   ]
+}

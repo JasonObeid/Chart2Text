@@ -1,0 +1,98 @@
+{
+   "title": "U.S. per capita consumption of fresh peaches and nectarines 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "graphType": "line",
+   "summary": [
+      "The timeline shows the Per capita consumption of fresh peaches nectarines in the U.S. from 2000 to 2018 . ",
+      "According to the report , the U.S. Per capita consumption of fresh peaches nectarines amounted to about 5.3 pounds in 2000 ."
+   ],
+   "trends": [
+      {
+         "15": "18",
+         "17": "0"
+      },
+      {
+         "17": "18",
+         "20": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": "2.2"
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": "2.66"
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": "2.73"
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": "2.91"
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": "3.15"
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": "3.02"
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": "3.86"
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": "4.47"
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": "4.73"
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": "4.41"
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": "5.08"
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": "4.46"
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": "4.58"
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": "4.83"
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": "5.15"
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": "5.17"
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": "5.23"
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": "5.16"
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": "5.3"
+      }
+   ]
+}

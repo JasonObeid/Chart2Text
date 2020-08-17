@@ -1,0 +1,103 @@
+{
+   "title": "Number of births in Norway 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of live births, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is  positive which exists from 2018 to 2014.",
+      " In a similar manner, the next significant trend is  positive which exists from 2011 to 2008.",
+      " Correspondingly, the next significant trend is  negative which exists from 2014 to 2013.",
+      " But, the next significant trend is  positive which exists from 2013 to 2012.",
+      " Correspondingly, the next significant trend is  negative which exists from 2012 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 0,
+         "end": 4,
+         "trend": "y=-1035.3x+2144921.8",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 7,
+         "end": 10,
+         "trend": "y=-119.6x+301327.7",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 4,
+         "end": 5,
+         "trend": "y=89.0x+-120162.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 5,
+         "end": 6,
+         "trend": "y=-1260.0x+2595375.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 6,
+         "end": 7,
+         "trend": "y=35.0x+-10165.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of live births": 55120.0
+      },
+      {
+         "Year": "2017",
+         "Number of live births": 56633.0
+      },
+      {
+         "Year": "2016",
+         "Number of live births": 58890.0
+      },
+      {
+         "Year": "2015",
+         "Number of live births": 59058.0
+      },
+      {
+         "Year": "2014",
+         "Number of live births": 59084.0
+      },
+      {
+         "Year": "2013",
+         "Number of live births": 58995.0
+      },
+      {
+         "Year": "2012",
+         "Number of live births": 60255.0
+      },
+      {
+         "Year": "2011",
+         "Number of live births": 60220.0
+      },
+      {
+         "Year": "2010",
+         "Number of live births": 61442.0
+      },
+      {
+         "Year": "2009",
+         "Number of live births": 61807.0
+      },
+      {
+         "Year": "2008",
+         "Number of live births": 60497.0
+      }
+   ]
+}

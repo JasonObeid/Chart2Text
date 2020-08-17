@@ -1,0 +1,106 @@
+{
+   "title": "Wage and salary of U.S. employees , by industry 2018\n",
+   "xAxis": "Industry",
+   "yAxis": "Wage and salary in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 22 categories for the x axis representing Industry, and a y axis representing Wage and salary in U.S. dollars.",
+      " The highest category is found at Management_of_companies_and_enterprises where Wage and salary in U.S. dollars is 130777.0.",
+      " The lowest category is found at Accommodation_and_food_services where Wage and salary in U.S. dollars is 30403.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 21
+   },
+   "data": [
+      {
+         "Industry": "Management of companies and enterprises",
+         "Wage and salary in U.S. dollars": 130777.0
+      },
+      {
+         "Industry": "Information",
+         "Wage and salary in U.S. dollars": 123534.0
+      },
+      {
+         "Industry": "Utilities",
+         "Wage and salary in U.S. dollars": 113665.0
+      },
+      {
+         "Industry": "Finance and insurance",
+         "Wage and salary in U.S. dollars": 112335.0
+      },
+      {
+         "Industry": "Mining",
+         "Wage and salary in U.S. dollars": 106279.0
+      },
+      {
+         "Industry": "Professional scientific and technical services",
+         "Wage and salary in U.S. dollars": 102676.0
+      },
+      {
+         "Industry": "Wholesale trade",
+         "Wage and salary in U.S. dollars": 81527.0
+      },
+      {
+         "Industry": "Manufacturing",
+         "Wage and salary in U.S. dollars": 71281.0
+      },
+      {
+         "Industry": "Government",
+         "Wage and salary in U.S. dollars": 68638.0
+      },
+      {
+         "Industry": "Construction",
+         "Wage and salary in U.S. dollars": 65487.0
+      },
+      {
+         "Industry": "Real estate and rental and leasing",
+         "Wage and salary in U.S. dollars": 65349.0
+      },
+      {
+         "Industry": "Wages and salaries per full-time equivalent employee",
+         "Wage and salary in U.S. dollars": 64678.0
+      },
+      {
+         "Industry": "Private industries",
+         "Wage and salary in U.S. dollars": 63305.0
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Wage and salary in U.S. dollars": 59458.0
+      },
+      {
+         "Industry": "Health care and social assistance",
+         "Wage and salary in U.S. dollars": 56061.0
+      },
+      {
+         "Industry": "Arts entertainment and recreation",
+         "Wage and salary in U.S. dollars": 51204.0
+      },
+      {
+         "Industry": "Educational services",
+         "Wage and salary in U.S. dollars": 48404.0
+      },
+      {
+         "Industry": "Administrative and waste management services",
+         "Wage and salary in U.S. dollars": 45221.0
+      },
+      {
+         "Industry": "Other services except government",
+         "Wage and salary in U.S. dollars": 45069.0
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "Wage and salary in U.S. dollars": 38828.0
+      },
+      {
+         "Industry": "Retail trade",
+         "Wage and salary in U.S. dollars": 38223.0
+      },
+      {
+         "Industry": "Accommodation and food services",
+         "Wage and salary in U.S. dollars": 30403.0
+      }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+   "title": "Population density in Nepal 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants per square kilometer",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , Nepal had a Population density of about 195.94 people per square kilometer . ",
+      "The country has one of the lowest Population densities in the world , as the total Population is very small in relation to the dimensions of the land . ",
+      "Nepal has a relatively stable Population size , consistently with a growth of around one percent compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "10": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Inhabitants per square kilometer": "195.94"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants per square kilometer": "192.73"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants per square kilometer": "190.17"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants per square kilometer": "188.46"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants per square kilometer": "187.7"
+      },
+      {
+         "Year": "2013",
+         "Inhabitants per square kilometer": "187.78"
+      },
+      {
+         "Year": "2012",
+         "Inhabitants per square kilometer": "188.28"
+      },
+      {
+         "Year": "2011",
+         "Inhabitants per square kilometer": "188.64"
+      },
+      {
+         "Year": "2010",
+         "Inhabitants per square kilometer": "188.44"
+      },
+      {
+         "Year": "2009",
+         "Inhabitants per square kilometer": "187.54"
+      },
+      {
+         "Year": "2008",
+         "Inhabitants per square kilometer": "186.02"
+      }
+   ]
+}

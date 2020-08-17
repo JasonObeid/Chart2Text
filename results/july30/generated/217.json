@@ -1,0 +1,45 @@
+{
+   "title": "U.S. students who have used hallucinogenic drugs 2017",
+   "labels": [
+      "Sex",
+      "All races / ethnicities",
+      "White (non-Hispanic)",
+      "Black (non-Hispanic)",
+      "Hispanic"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 3 categories for the x axis of Sex representing All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic.",
+      " The highest category is found at Male with a mean value of 7.125.",
+      " The second highest category is found at Total with a mean value of 6.05.",
+      " This represents a difference of 16.3%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Sex": "Female",
+         "All races / ethnicities": "5.5",
+         "White (non-Hispanic)": "6.4",
+         "Black (non-Hispanic)": "1.4",
+         "Hispanic": "5.8"
+      },
+      {
+         "Sex": "Male",
+         "All races / ethnicities": "7.6",
+         "White (non-Hispanic)": "7.9",
+         "Black (non-Hispanic)": "4.8",
+         "Hispanic": "8.2"
+      },
+      {
+         "Sex": "Total",
+         "All races / ethnicities": "6.6",
+         "White (non-Hispanic)": "7.2",
+         "Black (non-Hispanic)": "3.3",
+         "Hispanic": "7.1"
+      }
+   ]
+}

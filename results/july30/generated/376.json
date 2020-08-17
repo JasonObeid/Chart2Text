@@ -1,0 +1,98 @@
+{
+   "title": "Most visited amusement and theme parks in the Asia-Pacific region 2018\n",
+   "xAxis": "Theme Park",
+   "yAxis": "Attendance in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Theme Park, and a y axis representing Attendance in millions.",
+      " The highest category is found at Tokyo_Disneyland_Japan where Attendance in millions is 17.91.",
+      " The lowest category is found at OCT_Happy_Valley_Chengdu_China where Attendance in millions is 3.1."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Theme Park": "Tokyo Disneyland Japan",
+         "Attendance in millions": 17.91
+      },
+      {
+         "Theme Park": "Tokyo Disney Sea Japan",
+         "Attendance in millions": 14.65
+      },
+      {
+         "Theme Park": "Universal Studios Japan",
+         "Attendance in millions": 14.3
+      },
+      {
+         "Theme Park": "Shanghai Disneyland China",
+         "Attendance in millions": 11.8
+      },
+      {
+         "Theme Park": "Chimelong Ocean Kingdom",
+         "Attendance in millions": 10.83
+      },
+      {
+         "Theme Park": "Hong Kong Disneyland Hong Kong S.A.R",
+         "Attendance in millions": 6.7
+      },
+      {
+         "Theme Park": "Lotte World South Korea",
+         "Attendance in millions": 5.96
+      },
+      {
+         "Theme Park": "Nagashima Spa Land Japan",
+         "Attendance in millions": 5.92
+      },
+      {
+         "Theme Park": "Everland South Korea",
+         "Attendance in millions": 5.85
+      },
+      {
+         "Theme Park": "Ocean Park Hong Kong S.A.R.",
+         "Attendance in millions": 5.8
+      },
+      {
+         "Theme Park": "Chimelong Paradise China",
+         "Attendance in millions": 4.68
+      },
+      {
+         "Theme Park": "Universal Studios Singapore",
+         "Attendance in millions": 4.4
+      },
+      {
+         "Theme Park": "Changzhou China Dinosaurs Park",
+         "Attendance in millions": 4.11
+      },
+      {
+         "Theme Park": "OCT Window of the World Shenzen",
+         "Attendance in millions": 3.99
+      },
+      {
+         "Theme Park": "OCT Happy Valley Beijing China",
+         "Attendance in millions": 3.98
+      },
+      {
+         "Theme Park": "OCT Happy Valley Shenzhen China",
+         "Attendance in millions": 3.91
+      },
+      {
+         "Theme Park": "Zhengzhou Fantawild Adventure China",
+         "Attendance in millions": 3.8
+      },
+      {
+         "Theme Park": "Ningbo Fantawild Oriental Heritage China",
+         "Attendance in millions": 3.74
+      },
+      {
+         "Theme Park": "OCT East China",
+         "Attendance in millions": 3.68
+      },
+      {
+         "Theme Park": "OCT Happy Valley Chengdu China",
+         "Attendance in millions": 3.1
+      }
+   ]
+}

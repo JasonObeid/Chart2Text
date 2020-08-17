@@ -1,0 +1,65 @@
+{
+   "title": "PetSmart 's revenue in the U.S. 2014/15 - 2019/20\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 6 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2019/20 to 2017/18.",
+      " On the other hand, the next significant trend is  negative which exists from 2016/17 to 2014/15.",
+      " Conversely, the next significant trend is  positive which exists from 2017/18 to 2016/17."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=917.3x+-1844831.37",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 3,
+         "end": 5,
+         "trend": "y=246.45x+-491485.35",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 2,
+         "end": 3,
+         "trend": "y=-137.2x+281988.9",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019/20",
+         "Revenue in million U.S. dollars": 7091.1
+      },
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 6492.5
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 5256.5
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 5393.7
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 5039.7
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 4900.8
+      }
+   ]
+}

@@ -1,0 +1,48 @@
+{
+   "title": "Crude suicide rate in Vietnam 2000 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Crude suicide rate per 100,000 inhabitants",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Crude suicide rate per 100,000 inhabitants, with a total of 4 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2015 to 2000.",
+      " But, the next significant trend is  positive which exists from 2015 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=0.05x+-89.41",
+         "magnitude": ""
+      },
+      {
+         "Length": 1,
+         "direction": "positive",
+         "start": 0,
+         "end": 0,
+         "trend": "y=1x+-22160.71",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Crude suicide rate per 100,000 inhabitants": 7.4
+      },
+      {
+         "Year": "2010",
+         "Crude suicide rate per 100,000 inhabitants": 7.1
+      },
+      {
+         "Year": "2005",
+         "Crude suicide rate per 100,000 inhabitants": 6.5
+      },
+      {
+         "Year": "2000",
+         "Crude suicide rate per 100,000 inhabitants": 6.8
+      }
+   ]
+}

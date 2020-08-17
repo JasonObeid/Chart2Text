@@ -1,0 +1,46 @@
+{
+   "title": "UK survey : when most consumers will start their Christmas shopping in the UK in 2013",
+   "xAxis": "Month",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a 2013 survey regarding patriotism in the consumers . ",
+      "The respondents were asked how proud they are to be an UK . ",
+      "In 2013 , some 31 % of survey respondents stated they were November proud to be an UK ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "4": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "November",
+         "Share of respondents": "31"
+      },
+      {
+         "Month": "Alredy bought presents",
+         "Share of respondents": "25"
+      },
+      {
+         "Month": "October",
+         "Share of respondents": "17"
+      },
+      {
+         "Month": "December",
+         "Share of respondents": "17"
+      },
+      {
+         "Month": "September",
+         "Share of respondents": "8"
+      },
+      {
+         "Month": "The week before Christmas",
+         "Share of respondents": "2"
+      }
+   ]
+}

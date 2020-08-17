@@ -1,0 +1,53 @@
+{
+   "title": "Average order value of online food orders in the U.S. 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey about the most value online food orders in U.S. 2017 . ",
+      "According to the source , 34 % of respondents stated that they used 0$_no_expenses and by the Up_to_25$ ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2",
+         "13": "0",
+         "15": "0",
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "0$ no expenses",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Up to 25$",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Up to 50$",
+         "Share of respondents": "34"
+      },
+      {
+         "Response": "Up to 75$",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Up to 100$",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Up to 150$",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Up to 300$",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "More than 300$",
+         "Share of respondents": "0"
+      }
+   ]
+}

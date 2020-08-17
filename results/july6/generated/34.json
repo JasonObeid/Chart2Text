@@ -1,0 +1,41 @@
+{
+   "title": "Age structure in Iraq 2017",
+   "xAxis": "Year",
+   "yAxis": "Share of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the responses from Age structure Iraq 2017 by industry experts in Iraq 2017 . ",
+      "The 2017 returns were set at approximately 0-14_years to 15-24_years % by 39.01 % of population at that time ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "9": "1",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "0-14 years",
+         "Share of population": "39.01"
+      },
+      {
+         "Year": "15-24 years",
+         "Share of population": "19.42"
+      },
+      {
+         "Year": "25-54 years",
+         "Share of population": "33.97"
+      },
+      {
+         "Year": "55-64 years",
+         "Share of population": "4.05"
+      },
+      {
+         "Year": "65 years and over",
+         "Share of population": "3.55"
+      }
+   ]
+}

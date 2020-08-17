@@ -1,0 +1,44 @@
+{
+   "title": "U.S. user reasons for using online dating sites or apps 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. user in reasons for on using online in the dating as of 2015 . ",
+      "During a survey , 61 % of the respondents stated that they used To_meet_people_who_share_my_interests_or_hobbies and ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "To meet people who share my interests or hobbies",
+         "Share of respondents": "61"
+      },
+      {
+         "Response": "To meet people who share my beliefs or values",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "To find someone for a long-term relationship or marriage",
+         "Share of respondents": "42"
+      },
+      {
+         "Response": "I have a schedule that makes it hard to meet interesting people in other ways",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "To meet people who just want to have fun without being in a serious relationship",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "None of the above",
+         "Share of respondents": "7"
+      }
+   ]
+}

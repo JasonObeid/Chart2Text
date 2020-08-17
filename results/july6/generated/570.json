@@ -1,0 +1,40 @@
+{
+   "title": "Countries paying the least for Netflix subscriptions worldwide 2019",
+   "xAxis": "Country",
+   "yAxis": "Cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Countries paying dollars for Netflix subscriptions in 2019 . ",
+      "In 2019 , the Countries paying dollars for of Netflix was Colombia , with a Cost of 6.9 billion in exports ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "17": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Colombia",
+         "Cost in U.S. dollars": "5.4"
+      },
+      {
+         "Country": "Brazil",
+         "Cost in U.S. dollars": "5.65"
+      },
+      {
+         "Country": "Pakistan",
+         "Cost in U.S. dollars": "6.7"
+      },
+      {
+         "Country": "Mexico",
+         "Cost in U.S. dollars": "6.76"
+      },
+      {
+         "Country": "Chile",
+         "Cost in U.S. dollars": "6.9"
+      }
+   ]
+}

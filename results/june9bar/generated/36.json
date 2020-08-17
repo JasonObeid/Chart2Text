@@ -1,0 +1,38 @@
+{
+   "title": "People with hemophilia A in the U.S. 2018 , by age group",
+   "xAxis": "Age group",
+   "yAxis": "Percentage of people",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Percentage of adults in the A U.S. who were using People as of 2019 , sorted group . ",
+      "During that period of time , 34 percentage of female people stated that they used the social networking site ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "3"
+      }
+   ],
+   "data": [
+      {
+         "Age group": "0-4 years",
+         "Percentage of people": "9"
+      },
+      {
+         "Age group": "5-13 years",
+         "Percentage of people": "24"
+      },
+      {
+         "Age group": "14-18 years",
+         "Percentage of people": "13"
+      },
+      {
+         "Age group": "19-44 years",
+         "Percentage of people": "34"
+      },
+      {
+         "Age group": "Above 45 years",
+         "Percentage of people": "21"
+      }
+   ]
+}

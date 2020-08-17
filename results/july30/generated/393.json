@@ -1,0 +1,41 @@
+{
+   "title": "Novartis ' spending on research and development by segment 2017 to 2019",
+   "labels": [
+      "Company",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 3 categories for the x axis of Company representing 2017, 2018, and 2019.",
+      " The highest category is found at Innovative Medicines with a mean value of 7.816666666666666.",
+      " The second highest category is found at Sandoz with a mean value of 0.9433333333333334.",
+      " This represents a difference of 156.9%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Company": "Innovative Medicines",
+         "2017": "7.62",
+         "2018": "7.68",
+         "2019": "8.15"
+      },
+      {
+         "Company": "Sandoz",
+         "2017": "0.77",
+         "2018": "0.81",
+         "2019": "1.25"
+      },
+      {
+         "Company": "Alcon",
+         "2017": "0.58",
+         "2018": "0.59",
+         "2019": "0"
+      }
+   ]
+}

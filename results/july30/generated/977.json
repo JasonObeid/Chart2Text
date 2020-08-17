@@ -1,0 +1,67 @@
+{
+   "title": "Population growth in Mexico 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Population growth compared to the previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Population growth compared to the previous year with a total of 11 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 2018 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 11,
+         "direction": "positive",
+         "start": 0,
+         "end": 10,
+         "trend": "y=-0.04x+78.73",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Population growth compared to the previous year": 1.13
+      },
+      {
+         "Year": "2017",
+         "Population growth compared to the previous year": 1.16
+      },
+      {
+         "Year": "2016",
+         "Population growth compared to the previous year": 1.2
+      },
+      {
+         "Year": "2015",
+         "Population growth compared to the previous year": 1.24
+      },
+      {
+         "Year": "2014",
+         "Population growth compared to the previous year": 1.28
+      },
+      {
+         "Year": "2013",
+         "Population growth compared to the previous year": 1.32
+      },
+      {
+         "Year": "2012",
+         "Population growth compared to the previous year": 1.36
+      },
+      {
+         "Year": "2011",
+         "Population growth compared to the previous year": 1.39
+      },
+      {
+         "Year": "2010",
+         "Population growth compared to the previous year": 1.44
+      },
+      {
+         "Year": "2009",
+         "Population growth compared to the previous year": 1.48
+      },
+      {
+         "Year": "2008",
+         "Population growth compared to the previous year": 1.5
+      }
+   ]
+}

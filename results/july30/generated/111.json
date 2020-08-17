@@ -1,0 +1,88 @@
+{
+   "title": "Red Lobster restaurants in the U.S. and Canada 2013\n",
+   "xAxis": "Year",
+   "yAxis": "Number of restaurants",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of restaurants, with a total of 14 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2008 to 2013.",
+      " Likewise, the next significant trend is  positive which exists from 2000 to 2004."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 8,
+         "end": 13,
+         "trend": "y=4.89x+-9127.56",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 0,
+         "end": 4,
+         "trend": "y=6.4x+-12145.8",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Number of restaurants": 654.0
+      },
+      {
+         "Year": "2001",
+         "Number of restaurants": 661.0
+      },
+      {
+         "Year": "2002",
+         "Number of restaurants": 667.0
+      },
+      {
+         "Year": "2003",
+         "Number of restaurants": 673.0
+      },
+      {
+         "Year": "2004",
+         "Number of restaurants": 680.0
+      },
+      {
+         "Year": "2005",
+         "Number of restaurants": 679.0
+      },
+      {
+         "Year": "2006",
+         "Number of restaurants": 682.0
+      },
+      {
+         "Year": "2007",
+         "Number of restaurants": 680.0
+      },
+      {
+         "Year": "2008",
+         "Number of restaurants": 680.0
+      },
+      {
+         "Year": "2009",
+         "Number of restaurants": 690.0
+      },
+      {
+         "Year": "2010",
+         "Number of restaurants": 694.0
+      },
+      {
+         "Year": "2011",
+         "Number of restaurants": 698.0
+      },
+      {
+         "Year": "2012",
+         "Number of restaurants": 704.0
+      },
+      {
+         "Year": "2013",
+         "Number of restaurants": 705.0
+      }
+   ]
+}

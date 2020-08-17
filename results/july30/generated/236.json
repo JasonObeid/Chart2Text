@@ -1,0 +1,47 @@
+{
+   "title": "Mobile devices used by U.S. students 2015 , by type and frequency",
+   "labels": [
+      "Response",
+      "Never",
+      "A few times a month or less",
+      "2-3 times per week or more"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 4 categories for the x axis of Response representing Never, A few times a month or less, and 2-3 times per week or more.",
+      " The highest category is found at Tablet with a mean value of 33.333333333333336.",
+      " The second highest category is found at Laptop notebook or Chromebook with a mean value of 33.333333333333336.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": {
+      "maxIndex": 2,
+      "secondIndex": 2
+   },
+   "data": [
+      {
+         "Response": "Laptop notebook or Chromebook",
+         "Never": "17",
+         "A few times a month or less": "22",
+         "2-3 times per week or more": "61"
+      },
+      {
+         "Response": "Smartphone",
+         "Never": "42",
+         "A few times a month or less": "16",
+         "2-3 times per week or more": "41"
+      },
+      {
+         "Response": "Tablet",
+         "Never": "42",
+         "A few times a month or less": "21",
+         "2-3 times per week or more": "37"
+      },
+      {
+         "Response": "Hybrid or 2 in 1 computer",
+         "Never": "84",
+         "A few times a month or less": "5",
+         "2-3 times per week or more": "10"
+      }
+   ]
+}

@@ -1,0 +1,42 @@
+{
+   "title": "Hotel / restaurant industry : percentage of female employees by region 2010\n",
+   "xAxis": "Country",
+   "yAxis": "Female employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Country, and a y axis representing Female employees.",
+      " The highest category is found at Latin_America where Female employees is 58.5.",
+      " The lowest category is found at Asia where Female employees is 35.4."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Country": "Latin America",
+         "Female employees": 58.5
+      },
+      {
+         "Country": "Caribbean",
+         "Female employees": 55.4
+      },
+      {
+         "Country": "Africa",
+         "Female employees": 47.0
+      },
+      {
+         "Country": "Oceania",
+         "Female employees": 46.8
+      },
+      {
+         "Country": "Asia",
+         "Female employees": 35.4
+      },
+      {
+         "Country": "Average",
+         "Female employees": 48.62
+      }
+   ]
+}

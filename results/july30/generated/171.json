@@ -1,0 +1,52 @@
+{
+   "title": "Global internet usage rate 2019 , by gender and region",
+   "labels": [
+      "Country",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 6 categories for the x axis of Country representing Male, and Female.",
+      " The highest category is found at Europe with a mean value of 82.6.",
+      " The second highest category is found at The Americas with a mean value of 77.19999999999999.",
+      " This represents a difference of 6.8%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Country": "Europe",
+         "Male": "84.9",
+         "Female": "80.3"
+      },
+      {
+         "Country": "The Americas",
+         "Male": "77.6",
+         "Female": "76.8"
+      },
+      {
+         "Country": "CIS",
+         "Male": "73.6",
+         "Female": "71"
+      },
+      {
+         "Country": "Arab States",
+         "Male": "58.5",
+         "Female": "44.2"
+      },
+      {
+         "Country": "Asia Pacific",
+         "Male": "54.6",
+         "Female": "41.3"
+      },
+      {
+         "Country": "Africa",
+         "Male": "33.8",
+         "Female": "22.6"
+      }
+   ]
+}

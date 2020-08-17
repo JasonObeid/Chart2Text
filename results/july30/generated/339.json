@@ -1,0 +1,107 @@
+{
+   "title": "Most popular online dating services in selected countries as of February 2014",
+   "labels": [
+      "Country",
+      "Facebook",
+      "Twitter",
+      "MySpace",
+      "Shaadi",
+      "Match",
+      "Badoo"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 9 categories for the x axis of Country representing Facebook, Twitter, MySpace, Shaadi, Match, and Badoo.",
+      " The highest category is found at Indonesia with a mean value of 22.166666666666668.",
+      " The second highest category is found at Vietnam with a mean value of 20.5.",
+      " This represents a difference of 7.8%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Country": "India",
+         "Facebook": "51",
+         "Twitter": "12",
+         "MySpace": "0",
+         "Shaadi": "14",
+         "Match": "0",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Indonesia",
+         "Facebook": "82",
+         "Twitter": "41",
+         "MySpace": "10",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Philippines",
+         "Facebook": "70",
+         "Twitter": "29",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "18",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Vietnam",
+         "Facebook": "85",
+         "Twitter": "25",
+         "MySpace": "13",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Kenya",
+         "Facebook": "64",
+         "Twitter": "29",
+         "MySpace": "13",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Nigeria",
+         "Facebook": "64",
+         "Twitter": "14",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "17"
+      },
+      {
+         "Country": "South Africa",
+         "Facebook": "58",
+         "Twitter": "14",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "17",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Brazil",
+         "Facebook": "49",
+         "Twitter": "9",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "9"
+      },
+      {
+         "Country": "Mexico",
+         "Facebook": "62",
+         "Twitter": "15",
+         "MySpace": "9",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
+      }
+   ]
+}

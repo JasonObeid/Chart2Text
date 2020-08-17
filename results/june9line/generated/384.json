@@ -1,0 +1,98 @@
+{
+   "title": "Inheritance tax : United Kingdom HMRC tax receipts 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Inheritance tax receipts in billion GBP",
+   "graphType": "line",
+   "summary": [
+      "In 2018/19 Inheritance tax in the United Kingdom amounted to 5.36 billion British pounds , which when compared with 2000/01 was a net increase of 3 billion pounds . ",
+      "The amount which workers in the United Kingdom pay in Inheritance tax is determined by how much they earn and falls into four Inheritance tax bands . ",
+      "All workers in the United Kingdom are entitled to earn a personal allowance of 12.5 thousand pounds before they are charged Inheritance tax ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "10": "0",
+         "19": "18"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Inheritance tax receipts in billion GBP": "5.36"
+      },
+      {
+         "Year": "2017/18",
+         "Inheritance tax receipts in billion GBP": "5.2"
+      },
+      {
+         "Year": "2016/17",
+         "Inheritance tax receipts in billion GBP": "4.8"
+      },
+      {
+         "Year": "2015/16",
+         "Inheritance tax receipts in billion GBP": "4.7"
+      },
+      {
+         "Year": "2014/15",
+         "Inheritance tax receipts in billion GBP": "3.8"
+      },
+      {
+         "Year": "2013/14",
+         "Inheritance tax receipts in billion GBP": "3.4"
+      },
+      {
+         "Year": "2012/13",
+         "Inheritance tax receipts in billion GBP": "3.1"
+      },
+      {
+         "Year": "2011/12",
+         "Inheritance tax receipts in billion GBP": "2.9"
+      },
+      {
+         "Year": "2010/11",
+         "Inheritance tax receipts in billion GBP": "2.7"
+      },
+      {
+         "Year": "2009/10",
+         "Inheritance tax receipts in billion GBP": "2.4"
+      },
+      {
+         "Year": "2008/09",
+         "Inheritance tax receipts in billion GBP": "2.8"
+      },
+      {
+         "Year": "2007/08",
+         "Inheritance tax receipts in billion GBP": "3.8"
+      },
+      {
+         "Year": "2006/07",
+         "Inheritance tax receipts in billion GBP": "3.5"
+      },
+      {
+         "Year": "2005/06",
+         "Inheritance tax receipts in billion GBP": "3.3"
+      },
+      {
+         "Year": "2004/05",
+         "Inheritance tax receipts in billion GBP": "2.9"
+      },
+      {
+         "Year": "2003/04",
+         "Inheritance tax receipts in billion GBP": "2.5"
+      },
+      {
+         "Year": "2002/03",
+         "Inheritance tax receipts in billion GBP": "2.4"
+      },
+      {
+         "Year": "2001/02",
+         "Inheritance tax receipts in billion GBP": "2.4"
+      },
+      {
+         "Year": "2000/01",
+         "Inheritance tax receipts in billion GBP": "2.2"
+      }
+   ]
+}

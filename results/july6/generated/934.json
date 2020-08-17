@@ -1,0 +1,80 @@
+{
+   "title": "Ice cream production in California and other U.S. states 2011 to 2018",
+   "labels": [
+      "Year",
+      "California",
+      "Other U.S. states"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the U.S. forecast for the California cream production other in the United Kingdom ( California ) from 2018 to 2011 , 2018 . ",
+      "The estimated cream production U.S. states of the defense and U.S. other in 2011 is 657722 million British pounds ( GBP ) . ",
+      "cream production , also often called IT production or computer production , is a vital part to any business ."
+   ],
+   "trends": [
+      {
+         "20": [
+            "7",
+            "0"
+         ],
+         "22": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "13": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "California": "142136",
+         "Other U.S. states": "657722"
+      },
+      {
+         "Year": "2012",
+         "California": "131321",
+         "Other U.S. states": "670544"
+      },
+      {
+         "Year": "2013",
+         "California": "127508",
+         "Other U.S. states": "663854"
+      },
+      {
+         "Year": "2014",
+         "California": "129002",
+         "Other U.S. states": "638845"
+      },
+      {
+         "Year": "2015",
+         "California": "126095",
+         "Other U.S. states": "649117"
+      },
+      {
+         "Year": "2016",
+         "California": "118087",
+         "Other U.S. states": "668760"
+      },
+      {
+         "Year": "2017",
+         "California": "105820",
+         "Other U.S. states": "656842"
+      },
+      {
+         "Year": "2018",
+         "California": "66328",
+         "Other U.S. states": "429382"
+      }
+   ]
+}

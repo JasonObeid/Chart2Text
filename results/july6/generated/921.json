@@ -1,0 +1,66 @@
+{
+   "title": "Perceived influences on consumer purchasing of eyewear in the U.S. 2012",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "A survey conducted in 2012 reveals that the largest groups of Italian respondents cheated on U.S. Word_of_mouth either influences a Doctor_recommendation or influences a Optician/sales_rep_recommendation . ",
+      "In Price , 27 % of interviewees in Italy stated that they betrayed U.S. Word_of_mouth influences a Doctor_recommendation , while 19 % did so influences a Optician/sales_rep_recommendation . ",
+      "However , it was common to eyewear influences strangers as well ."
+   ],
+   "trends": [
+      {
+         "16": "5",
+         "20": "0",
+         "24": "1"
+      },
+      {
+         "1": "2",
+         "3": "0",
+         "14": "5",
+         "17": "0",
+         "20": "1",
+         "26": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Doctor recommendation",
+         "Share of respondents": "27"
+      },
+      {
+         "Response": "Optician/sales rep recommendation",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Price",
+         "Share of respondents": "18"
+      },
+      {
+         "Response": "Insurance",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "Product features",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Word of mouth",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "Brand/designer name",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Coupon/sales",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Internet",
+         "Share of respondents": "0.3"
+      }
+   ]
+}

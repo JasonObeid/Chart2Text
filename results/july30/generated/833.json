@@ -1,0 +1,35 @@
+{
+   "title": "Consumer spending on mobile games in the U.S. 2014 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Average expenditure in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average expenditure in U.S. dollars with a total of 3 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2016 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=8.32x+-16705.21",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Average expenditure in U.S. dollars": 77.6
+      },
+      {
+         "Year": "2015",
+         "Average expenditure in U.S. dollars": 70.44
+      },
+      {
+         "Year": "2014",
+         "Average expenditure in U.S. dollars": 60.95
+      }
+   ]
+}

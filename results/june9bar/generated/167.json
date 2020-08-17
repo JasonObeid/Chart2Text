@@ -1,0 +1,125 @@
+{
+   "title": "Number of natural mineral waters in Europe 2016 , by country",
+   "xAxis": "Country",
+   "yAxis": "Litres consumed per capita",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the per capita mineral of Number natural in Europe 2016 . ",
+      "In this year , Germany was the leading market for the mineral of Number natural with 821 liters of Number natural consumed per person . ",
+      "Number natural in the market with 322 liters of Number natural consumed per person . ",
+      "Number natural in the European Union is predominantly made up of the natural mineral category.Germany is the market with the largest amount of different mineral natural brands ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "16": "0"
+      },
+      {
+         "6": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Litres consumed per capita": "821"
+      },
+      {
+         "Country": "Italy",
+         "Litres consumed per capita": "322"
+      },
+      {
+         "Country": "Hungary",
+         "Litres consumed per capita": "214"
+      },
+      {
+         "Country": "Spain",
+         "Litres consumed per capita": "165"
+      },
+      {
+         "Country": "Poland",
+         "Litres consumed per capita": "119"
+      },
+      {
+         "Country": "France",
+         "Litres consumed per capita": "90"
+      },
+      {
+         "Country": "Romania",
+         "Litres consumed per capita": "69"
+      },
+      {
+         "Country": "United Kingdom",
+         "Litres consumed per capita": "67"
+      },
+      {
+         "Country": "Greece",
+         "Litres consumed per capita": "44"
+      },
+      {
+         "Country": "Austria",
+         "Litres consumed per capita": "33"
+      },
+      {
+         "Country": "Belgium",
+         "Litres consumed per capita": "27"
+      },
+      {
+         "Country": "Bulgaria",
+         "Litres consumed per capita": "22"
+      },
+      {
+         "Country": "Portugal",
+         "Litres consumed per capita": "21"
+      },
+      {
+         "Country": "Slovakia",
+         "Litres consumed per capita": "20"
+      },
+      {
+         "Country": "Lithuania",
+         "Litres consumed per capita": "17"
+      },
+      {
+         "Country": "Netherlands",
+         "Litres consumed per capita": "13"
+      },
+      {
+         "Country": "Czech Republic",
+         "Litres consumed per capita": "11"
+      },
+      {
+         "Country": "Denmark",
+         "Litres consumed per capita": "11"
+      },
+      {
+         "Country": "Sweden",
+         "Litres consumed per capita": "11"
+      },
+      {
+         "Country": "Slovenia",
+         "Litres consumed per capita": "9"
+      },
+      {
+         "Country": "Latvia",
+         "Litres consumed per capita": "5"
+      },
+      {
+         "Country": "Estonia",
+         "Litres consumed per capita": "4"
+      },
+      {
+         "Country": "Croatia",
+         "Litres consumed per capita": "4"
+      },
+      {
+         "Country": "Ireland",
+         "Litres consumed per capita": "2"
+      },
+      {
+         "Country": "Finland",
+         "Litres consumed per capita": "1"
+      }
+   ]
+}

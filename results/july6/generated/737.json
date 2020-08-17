@@ -1,0 +1,42 @@
+{
+   "title": "Share of freelancers by generation U.S. 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the hypothetical by generation Gen_Z_(18-22_years_old) a freelancers on U.S. membership in U.S. Gen_Z_(18-22_years_old) ( 2019 ) as of October 22 to 23 , 2015 . ",
+      "At that time , 40 % of respondents stated that they Gen_Z_(18-22_years_old) for to Millennial_(23-38_years_old) the Gen_Z_(18-22_years_old) ."
+   ],
+   "trends": [
+      {
+         "7": "0",
+         "15": "0"
+      },
+      {
+         "4": "1",
+         "11": "0",
+         "13": "0",
+         "15": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Gen Z (18-22 years old)",
+         "Share of respondents": "53"
+      },
+      {
+         "Response": "Millennial (23-38 years old)",
+         "Share of respondents": "40"
+      },
+      {
+         "Response": "Gen X (39-54 years old)",
+         "Share of respondents": "31"
+      },
+      {
+         "Response": "Baby Boomers (55+ years old)",
+         "Share of respondents": "29"
+      }
+   ]
+}

@@ -1,0 +1,39 @@
+{
+   "title": "Brand spend on eSports sponsorship and advertising worldwide 2015 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Spending in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Spending in million U.S. dollars with a total of 4 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2020 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=203.57x+-410024.32",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Spending in million U.S. dollars": 1220.0
+      },
+      {
+         "Year": "2017",
+         "Spending in million U.S. dollars": 517.0
+      },
+      {
+         "Year": "2016",
+         "Spending in million U.S. dollars": 350.0
+      },
+      {
+         "Year": "2015",
+         "Spending in million U.S. dollars": 230.0
+      }
+   ]
+}

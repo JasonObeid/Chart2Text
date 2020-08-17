@@ -1,0 +1,89 @@
+{
+   "title": "Share of people planning to attend or throw a Super Bowl party 2013 to 2019",
+   "labels": [
+      "Year",
+      "Yes, plan to throw a party",
+      "Yes, plan to attend a party",
+      "Plan to watch at a bar / restaurant",
+      "No"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Share estimated annual people to planning different universities and college institutions in the attend for academic years 2013 to 2019 . ",
+      "The Share people of attendance ( which includes tuition , fees room and board ) in Yes, plan in-state institutions was 24 Super Bowl dollars in the academic Year 2019 ."
+   ],
+   "trends": [
+      {
+         "21": [
+            "0",
+            "0"
+         ],
+         "23": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "22": [
+            "6",
+            "2"
+         ],
+         "29": [
+            "6",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Yes, plan to throw a party": "16.6",
+         "Yes, plan to attend a party": "25.2",
+         "Plan to watch at a bar / restaurant": "4.3",
+         "No": "53.9"
+      },
+      {
+         "Year": "2014",
+         "Yes, plan to throw a party": "16.2",
+         "Yes, plan to attend a party": "26",
+         "Plan to watch at a bar / restaurant": "4.5",
+         "No": "53.4"
+      },
+      {
+         "Year": "2015",
+         "Yes, plan to throw a party": "17.6",
+         "Yes, plan to attend a party": "25.9",
+         "Plan to watch at a bar / restaurant": "5.5",
+         "No": "51.1"
+      },
+      {
+         "Year": "2016",
+         "Yes, plan to throw a party": "17.7",
+         "Yes, plan to attend a party": "28.6",
+         "Plan to watch at a bar / restaurant": "4.3",
+         "No": "49.4"
+      },
+      {
+         "Year": "2017",
+         "Yes, plan to throw a party": "18",
+         "Yes, plan to attend a party": "27.2",
+         "Plan to watch at a bar / restaurant": "5",
+         "No": "49.8"
+      },
+      {
+         "Year": "2018",
+         "Yes, plan to throw a party": "18",
+         "Yes, plan to attend a party": "27.5",
+         "Plan to watch at a bar / restaurant": "5",
+         "No": "49.5"
+      },
+      {
+         "Year": "2019",
+         "Yes, plan to throw a party": "17",
+         "Yes, plan to attend a party": "24",
+         "Plan to watch at a bar / restaurant": "5",
+         "No": "54"
+      }
+   ]
+}

@@ -1,0 +1,125 @@
+{
+   "title": "Mexico : Light vehicle sales by manufacturer 2019",
+   "xAxis": "Automaker",
+   "yAxis": "Number of units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of units sold 10,000 working in vehicle by in Europe 2019 . ",
+      "In 2019 , 174706 units sold were Nissan and Volkswagen ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "7": "0",
+         "9": "2"
+      }
+   ],
+   "data": [
+      {
+         "Automaker": "Nissan",
+         "Number of units sold": "174706"
+      },
+      {
+         "Automaker": "General Motors",
+         "Number of units sold": "133823"
+      },
+      {
+         "Automaker": "Volkswagen",
+         "Number of units sold": "117045"
+      },
+      {
+         "Automaker": "Toyota",
+         "Number of units sold": "67670"
+      },
+      {
+         "Automaker": "KIA",
+         "Number of units sold": "62762"
+      },
+      {
+         "Automaker": "Honda",
+         "Number of units sold": "48937"
+      },
+      {
+         "Automaker": "FCA Mexico",
+         "Number of units sold": "41413"
+      },
+      {
+         "Automaker": "Ford",
+         "Number of units sold": "39731"
+      },
+      {
+         "Automaker": "Mazda",
+         "Number of units sold": "39040"
+      },
+      {
+         "Automaker": "Hyundai",
+         "Number of units sold": "29018"
+      },
+      {
+         "Automaker": "Baic",
+         "Number of units sold": "21147"
+      },
+      {
+         "Automaker": "Renault",
+         "Number of units sold": "20308"
+      },
+      {
+         "Automaker": "Suzuki",
+         "Number of units sold": "19880"
+      },
+      {
+         "Automaker": "BMW Group",
+         "Number of units sold": "15859"
+      },
+      {
+         "Automaker": "Mercedes Benz",
+         "Number of units sold": "13627"
+      },
+      {
+         "Automaker": "Mitsubishi",
+         "Number of units sold": "11134"
+      },
+      {
+         "Automaker": "Peugeot",
+         "Number of units sold": "7097"
+      },
+      {
+         "Automaker": "Volvo",
+         "Number of units sold": "1334"
+      },
+      {
+         "Automaker": "ISUZU",
+         "Number of units sold": "1224"
+      },
+      {
+         "Automaker": "Acura",
+         "Number of units sold": "1224"
+      },
+      {
+         "Automaker": "Lincoln",
+         "Number of units sold": "1082"
+      },
+      {
+         "Automaker": "Infiniti",
+         "Number of units sold": "951"
+      },
+      {
+         "Automaker": "Land Rover",
+         "Number of units sold": "908"
+      },
+      {
+         "Automaker": "Subaru",
+         "Number of units sold": "790"
+      },
+      {
+         "Automaker": "Jaguar",
+         "Number of units sold": "207"
+      },
+      {
+         "Automaker": "Smart",
+         "Number of units sold": "30"
+      }
+   ]
+}

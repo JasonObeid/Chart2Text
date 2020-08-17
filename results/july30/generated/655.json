@@ -1,0 +1,125 @@
+{
+   "title": "Nokia 's net sales 1999 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Net sales in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net sales in billion euros, with a total of 21 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2014 to 2010.",
+      " Correspondingly, the next significant trend is  negative which exists from 2007 to 2004.",
+      " Differently, the next significant trend is  positive which exists from 2004 to 2001."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 5,
+         "end": 9,
+         "trend": "y=-8.73x+17597.95",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 12,
+         "end": 15,
+         "trend": "y=7.2x+-14400.66",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 15,
+         "end": 18,
+         "trend": "y=-0.6x+1221.51",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net sales in billion euros": 23.32
+      },
+      {
+         "Year": "2018",
+         "Net sales in billion euros": 22.56
+      },
+      {
+         "Year": "2017",
+         "Net sales in billion euros": 23.15
+      },
+      {
+         "Year": "2016",
+         "Net sales in billion euros": 23.64
+      },
+      {
+         "Year": "2015",
+         "Net sales in billion euros": 12.5
+      },
+      {
+         "Year": "2014",
+         "Net sales in billion euros": 11.76
+      },
+      {
+         "Year": "2013",
+         "Net sales in billion euros": 12.71
+      },
+      {
+         "Year": "2012",
+         "Net sales in billion euros": 30.18
+      },
+      {
+         "Year": "2011",
+         "Net sales in billion euros": 38.66
+      },
+      {
+         "Year": "2010",
+         "Net sales in billion euros": 42.45
+      },
+      {
+         "Year": "2009",
+         "Net sales in billion euros": 40.98
+      },
+      {
+         "Year": "2008",
+         "Net sales in billion euros": 50.71
+      },
+      {
+         "Year": "2007",
+         "Net sales in billion euros": 51.06
+      },
+      {
+         "Year": "2006",
+         "Net sales in billion euros": 41.12
+      },
+      {
+         "Year": "2005",
+         "Net sales in billion euros": 34.19
+      },
+      {
+         "Year": "2004",
+         "Net sales in billion euros": 29.37
+      },
+      {
+         "Year": "2003",
+         "Net sales in billion euros": 29.53
+      },
+      {
+         "Year": "2002",
+         "Net sales in billion euros": 30.02
+      },
+      {
+         "Year": "2001",
+         "Net sales in billion euros": 31.19
+      },
+      {
+         "Year": "2000",
+         "Net sales in billion euros": 30.38
+      },
+      {
+         "Year": "1999",
+         "Net sales in billion euros": 19.77
+      }
+   ]
+}

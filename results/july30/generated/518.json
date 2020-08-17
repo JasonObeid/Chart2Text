@@ -1,0 +1,94 @@
+{
+   "title": "Volvo car sales in Sweden 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Units sold, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2017 to 2012.",
+      " On the other hand, the next significant trend is  positive which exists from 2019 to 2017.",
+      " Correspondingly, the next significant trend is  negative which exists from 2011 to 2009.",
+      " On the contrary, the next significant trend is  positive which exists from 2012 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 2,
+         "end": 7,
+         "trend": "y=5004.34x+-10016882.02",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-5112.0x+10386259.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=8527.0x+-17087799.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 7,
+         "end": 8,
+         "trend": "y=-6062.0x+12249544.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Units sold": 65282.0
+      },
+      {
+         "Year": "2018",
+         "Units sold": 69943.0
+      },
+      {
+         "Year": "2017",
+         "Units sold": 75506.0
+      },
+      {
+         "Year": "2016",
+         "Units sold": 71238.0
+      },
+      {
+         "Year": "2015",
+         "Units sold": 71221.0
+      },
+      {
+         "Year": "2014",
+         "Units sold": 61496.0
+      },
+      {
+         "Year": "2013",
+         "Units sold": 53939.0
+      },
+      {
+         "Year": "2012",
+         "Units sold": 52800.0
+      },
+      {
+         "Year": "2011",
+         "Units sold": 58862.0
+      },
+      {
+         "Year": "2010",
+         "Units sold": 53741.0
+      },
+      {
+         "Year": "2009",
+         "Units sold": 41808.0
+      }
+   ]
+}

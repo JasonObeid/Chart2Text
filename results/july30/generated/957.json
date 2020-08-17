@@ -1,0 +1,46 @@
+{
+   "title": "Preferred social login ID worldwide 2016\n",
+   "xAxis": "Platform",
+   "yAxis": "Share of logins",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Platform, and a y axis representing Share of logins.",
+      " The highest category is found at Facebook where Share of logins is 53.1.",
+      " The lowest category is found at Live where Share of logins is 0.11."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 6
+   },
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of logins": 53.1
+      },
+      {
+         "Platform": "GooglePlus",
+         "Share of logins": 44.8
+      },
+      {
+         "Platform": "Twitter",
+         "Share of logins": 1.01
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of logins": 0.56
+      },
+      {
+         "Platform": "Yahoo",
+         "Share of logins": 0.29
+      },
+      {
+         "Platform": "Vkontakte",
+         "Share of logins": 0.15
+      },
+      {
+         "Platform": "Live",
+         "Share of logins": 0.11
+      }
+   ]
+}

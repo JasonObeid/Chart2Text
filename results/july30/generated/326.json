@@ -1,0 +1,153 @@
+{
+   "title": "American imports of corn 2001 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Imports in million bushels",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Imports in million bushels, with a total of 19 data points. The chart has 7 significant trends.",
+      " The longest trend is  negative which exists from 2012 to 2009.",
+      " Differently, the next significant trend is  positive which exists from 2019 to 2017.",
+      " Likewise, the next significant trend is  positive which exists from 2014 to 2012.",
+      " In a similar manner, the next significant trend is  positive which exists from 2009 to 2007.",
+      " Additionally, the next significant trend is  negative which exists from 2007 to 2005.",
+      " But, the next significant trend is  positive which exists from 2005 to 2003.",
+      " Likewise, the next significant trend is  neutral which exists from 2003 to 2001."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 7,
+         "end": 10,
+         "trend": "y=45.7x+-91823.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-14.5x+29301.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 5,
+         "end": 7,
+         "trend": "y=-64.0x+128908.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 10,
+         "end": 12,
+         "trend": "y=-6.0x+12062.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 12,
+         "end": 14,
+         "trend": "y=5.5x+-11019.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 14,
+         "end": 16,
+         "trend": "y=-2.5x+5021.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 16,
+         "end": 18,
+         "trend": "y=2.0x+-3991.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Imports in million bushels": 28.0
+      },
+      {
+         "Year": "2018",
+         "Imports in million bushels": 36.0
+      },
+      {
+         "Year": "2017",
+         "Imports in million bushels": 57.0
+      },
+      {
+         "Year": "2016",
+         "Imports in million bushels": 57.0
+      },
+      {
+         "Year": "2015",
+         "Imports in million bushels": 68.0
+      },
+      {
+         "Year": "2014",
+         "Imports in million bushels": 32.0
+      },
+      {
+         "Year": "2013",
+         "Imports in million bushels": 36.0
+      },
+      {
+         "Year": "2012",
+         "Imports in million bushels": 160.0
+      },
+      {
+         "Year": "2011",
+         "Imports in million bushels": 29.0
+      },
+      {
+         "Year": "2010",
+         "Imports in million bushels": 28.0
+      },
+      {
+         "Year": "2009",
+         "Imports in million bushels": 8.0
+      },
+      {
+         "Year": "2008",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2007",
+         "Imports in million bushels": 20.0
+      },
+      {
+         "Year": "2006",
+         "Imports in million bushels": 12.0
+      },
+      {
+         "Year": "2005",
+         "Imports in million bushels": 9.0
+      },
+      {
+         "Year": "2004",
+         "Imports in million bushels": 11.0
+      },
+      {
+         "Year": "2003",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2002",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2001",
+         "Imports in million bushels": 10.0
+      }
+   ]
+}

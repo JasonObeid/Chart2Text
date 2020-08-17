@@ -1,0 +1,63 @@
+{
+   "title": "Most popular games with casino visitors in the U.S. in 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "As of early 2014 , Slot_machines and Black_Jack were the most of U.S. adults found that Poker and . ",
+      "Some 48 % of respondents stated that they used Slot_machines social or Slot_machines and 16 % chose a Black_Jack ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "7": "1",
+         "16": "2",
+         "18": "2"
+      },
+      {
+         "1": "0",
+         "9": "0",
+         "12": "0",
+         "14": "1",
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Slot machines",
+         "Share of respondents": "48"
+      },
+      {
+         "Response": "Black Jack",
+         "Share of respondents": "16"
+      },
+      {
+         "Response": "Poker",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Roulette",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Video poker",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Craps",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Sports book",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Baccarat",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "No favorite",
+         "Share of respondents": "14"
+      }
+   ]
+}

@@ -1,0 +1,71 @@
+{
+   "title": "Number of tourists in South Africa from 2012 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of tourists in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the South Africa annual tourists South Africa from 2023 2012 through 2023 . ",
+      "In 2018 , the South Africa Number South Africa from stood at 15.52 tourists millions ."
+   ],
+   "trends": [
+      {
+         "11": "11",
+         "13": "0"
+      },
+      {
+         "1": "5",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of tourists in millions": "19.6"
+      },
+      {
+         "Year": "2022",
+         "Number of tourists in millions": "18.8"
+      },
+      {
+         "Year": "2021",
+         "Number of tourists in millions": "18.0"
+      },
+      {
+         "Year": "2020",
+         "Number of tourists in millions": "17.3"
+      },
+      {
+         "Year": "2019",
+         "Number of tourists in millions": "16.65"
+      },
+      {
+         "Year": "2018",
+         "Number of tourists in millions": "16.44"
+      },
+      {
+         "Year": "2017",
+         "Number of tourists in millions": "16.0"
+      },
+      {
+         "Year": "2016",
+         "Number of tourists in millions": "15.52"
+      },
+      {
+         "Year": "2015",
+         "Number of tourists in millions": "14.3"
+      },
+      {
+         "Year": "2014",
+         "Number of tourists in millions": "14.86"
+      },
+      {
+         "Year": "2013",
+         "Number of tourists in millions": "14.62"
+      },
+      {
+         "Year": "2012",
+         "Number of tourists in millions": "14.16"
+      }
+   ]
+}

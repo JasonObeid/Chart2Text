@@ -1,0 +1,89 @@
+{
+   "title": "U.S. household expenditure on slipcovers and decorative pillows 2007 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Average annual expenditure in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average annual expenditure in U.S. dollars, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2010 to 2007.",
+      " On the other hand, the next significant trend is  negative which exists from 2018 to 2016.",
+      " Differently, the next significant trend is  negative which exists from 2015 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 8,
+         "end": 11,
+         "trend": "y=0.15x+-301.91",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=0.68x+-1367.17",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 3,
+         "end": 5,
+         "trend": "y=0.58x+-1164.22",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average annual expenditure in U.S. dollars": 5.01
+      },
+      {
+         "Year": "2017",
+         "Average annual expenditure in U.S. dollars": 4.52
+      },
+      {
+         "Year": "2016",
+         "Average annual expenditure in U.S. dollars": 3.65
+      },
+      {
+         "Year": "2015",
+         "Average annual expenditure in U.S. dollars": 4.32
+      },
+      {
+         "Year": "2014",
+         "Average annual expenditure in U.S. dollars": 4.21
+      },
+      {
+         "Year": "2013",
+         "Average annual expenditure in U.S. dollars": 3.16
+      },
+      {
+         "Year": "2012",
+         "Average annual expenditure in U.S. dollars": 3.94
+      },
+      {
+         "Year": "2011",
+         "Average annual expenditure in U.S. dollars": 3.52
+      },
+      {
+         "Year": "2010",
+         "Average annual expenditure in U.S. dollars": 3.71
+      },
+      {
+         "Year": "2009",
+         "Average annual expenditure in U.S. dollars": 3.49
+      },
+      {
+         "Year": "2008",
+         "Average annual expenditure in U.S. dollars": 2.93
+      },
+      {
+         "Year": "2007",
+         "Average annual expenditure in U.S. dollars": 3.39
+      }
+   ]
+}

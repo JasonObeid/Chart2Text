@@ -1,0 +1,34 @@
+{
+   "title": "Number of outbound trips from China to Europe in 2018 , by region of destination\n",
+   "xAxis": "Europe European Union",
+   "yAxis": "Arrivals in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Europe European Union, and a y axis representing Arrivals in millions.",
+      " The highest category is found at Central/Eastern_Europe where Arrivals in millions is 5.93.",
+      " The lowest category is found at Southern/Mediterranean_Europe where Arrivals in millions is 1.12."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Europe European Union": "Central/Eastern Europe",
+         "Arrivals in millions": 5.93
+      },
+      {
+         "Europe European Union": "Western Europe",
+         "Arrivals in millions": 5.9
+      },
+      {
+         "Europe European Union": "Northern Europe",
+         "Arrivals in millions": 1.15
+      },
+      {
+         "Europe European Union": "Southern/Mediterranean Europe",
+         "Arrivals in millions": 1.12
+      }
+   ]
+}

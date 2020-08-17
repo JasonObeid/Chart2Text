@@ -1,0 +1,134 @@
+{
+   "title": "U.S. college students average study hours , by major 2011\n",
+   "xAxis": "Month",
+   "yAxis": "Number of hours spent studying per week",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 29 categories for the x axis representing Month, and a y axis representing Number of hours spent studying per week.",
+      " The highest category is found at Architecture where Number of hours spent studying per week is 23.7.",
+      " The lowest category is found at Speech where Number of hours spent studying per week is 10.8."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 28
+   },
+   "data": [
+      {
+         "Month": "Architecture",
+         "Number of hours spent studying per week": 23.7
+      },
+      {
+         "Month": "Chemical Engineering",
+         "Number of hours spent studying per week": 21.6
+      },
+      {
+         "Month": "Physics",
+         "Number of hours spent studying per week": 19.7
+      },
+      {
+         "Month": "Chemistry",
+         "Number of hours spent studying per week": 18.4
+      },
+      {
+         "Month": "Art",
+         "Number of hours spent studying per week": 18.1
+      },
+      {
+         "Month": "Nursing",
+         "Number of hours spent studying per week": 18.0
+      },
+      {
+         "Month": "Music",
+         "Number of hours spent studying per week": 17.5
+      },
+      {
+         "Month": "Biology",
+         "Number of hours spent studying per week": 16.7
+      },
+      {
+         "Month": "Mathematics",
+         "Number of hours spent studying per week": 16.4
+      },
+      {
+         "Month": "Philosophy",
+         "Number of hours spent studying per week": 16.2
+      },
+      {
+         "Month": "Theater",
+         "Number of hours spent studying per week": 16.0
+      },
+      {
+         "Month": "Anthropology",
+         "Number of hours spent studying per week": 16.0
+      },
+      {
+         "Month": "English",
+         "Number of hours spent studying per week": 15.9
+      },
+      {
+         "Month": "Elementary Education",
+         "Number of hours spent studying per week": 15.2
+      },
+      {
+         "Month": "Accounting",
+         "Number of hours spent studying per week": 15.1
+      },
+      {
+         "Month": "History",
+         "Number of hours spent studying per week": 15.0
+      },
+      {
+         "Month": "Computer Science",
+         "Number of hours spent studying per week": 14.7
+      },
+      {
+         "Month": "Political Science",
+         "Number of hours spent studying per week": 14.6
+      },
+      {
+         "Month": "Economics",
+         "Number of hours spent studying per week": 14.4
+      },
+      {
+         "Month": "Psychology",
+         "Number of hours spent studying per week": 13.9
+      },
+      {
+         "Month": "Sociology",
+         "Number of hours spent studying per week": 13.8
+      },
+      {
+         "Month": "Finance",
+         "Number of hours spent studying per week": 13.3
+      },
+      {
+         "Month": "Business Administration",
+         "Number of hours spent studying per week": 13.2
+      },
+      {
+         "Month": "Journalism",
+         "Number of hours spent studying per week": 12.8
+      },
+      {
+         "Month": "Communications",
+         "Number of hours spent studying per week": 12.5
+      },
+      {
+         "Month": "Marketing",
+         "Number of hours spent studying per week": 12.1
+      },
+      {
+         "Month": "Physical Education",
+         "Number of hours spent studying per week": 11.8
+      },
+      {
+         "Month": "Leisure Studies",
+         "Number of hours spent studying per week": 11.1
+      },
+      {
+         "Month": "Speech",
+         "Number of hours spent studying per week": 10.8
+      }
+   ]
+}

@@ -1,0 +1,35 @@
+{
+   "title": "Netflix content watching worldwide by device 2017",
+   "xAxis": "Platform",
+   "yAxis": "Share of time spent",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of times Netflix content watching in Netflix as of 2018 , 2017 Platform . ",
+      "In 2017 , Television company had a Share of 70 million spent ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Television",
+         "Share of time spent": "70"
+      },
+      {
+         "Platform": "PC/laptop",
+         "Share of time spent": "15"
+      },
+      {
+         "Platform": "Mobile",
+         "Share of time spent": "10"
+      },
+      {
+         "Platform": "Tablet",
+         "Share of time spent": "5"
+      }
+   ]
+}

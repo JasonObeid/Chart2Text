@@ -1,0 +1,55 @@
+{
+   "title": "Share of the global agricultural machinery market , by region 2015",
+   "xAxis": "Country",
+   "yAxis": "Share of market",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of the Share market global agricultural in 2015 , broken down market Country . ",
+      "According to the source , there were 15 market in European_Union ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "2",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "European Union",
+         "Share of market": "26"
+      },
+      {
+         "Country": "NAFTA",
+         "Share of market": "22"
+      },
+      {
+         "Country": "China",
+         "Share of market": "15"
+      },
+      {
+         "Country": "South America",
+         "Share of market": "8"
+      },
+      {
+         "Country": "India",
+         "Share of market": "6"
+      },
+      {
+         "Country": "Commonwealth of Independent States",
+         "Share of market": "6"
+      },
+      {
+         "Country": "Japan",
+         "Share of market": "4"
+      },
+      {
+         "Country": "Turkey",
+         "Share of market": "3"
+      },
+      {
+         "Country": "Rest of World",
+         "Share of market": "10"
+      }
+   ]
+}

@@ -1,0 +1,63 @@
+{
+   "title": "Total federal drug control spending in the U.S. 2013 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Total spending in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the average amount of federal drug control generated between 2011 and 2020_(Request) in the Total . ",
+      "In 2020_(Request) , approximately 24365.5 million of federal drug control were generated here ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "14": "9"
+      },
+      {
+         "1": "9",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "Total spending in million U.S. dollars": "24365.5"
+      },
+      {
+         "Year": "2012",
+         "Total spending in million U.S. dollars": "24504.1"
+      },
+      {
+         "Year": "2013",
+         "Total spending in million U.S. dollars": "23809.6"
+      },
+      {
+         "Year": "2014",
+         "Total spending in million U.S. dollars": "25733.1"
+      },
+      {
+         "Year": "2015",
+         "Total spending in million U.S. dollars": "25892.9"
+      },
+      {
+         "Year": "2016",
+         "Total spending in million U.S. dollars": "26874.0"
+      },
+      {
+         "Year": "2017",
+         "Total spending in million U.S. dollars": "28813.3"
+      },
+      {
+         "Year": "2018 (Final)",
+         "Total spending in million U.S. dollars": "33358.7"
+      },
+      {
+         "Year": "2019 (Enacted)",
+         "Total spending in million U.S. dollars": "33312.3"
+      },
+      {
+         "Year": "2020 (Request)",
+         "Total spending in million U.S. dollars": "34577.3"
+      }
+   ]
+}

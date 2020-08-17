@@ -1,0 +1,103 @@
+{
+   "title": "Unemployed persons worldwide until 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployed persons in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployed persons in millions, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is  negative which exists from 2014 to 2010.",
+      " On the other hand, the next significant trend is  negative which exists from 2020 to 2018.",
+      " On the contrary, the next significant trend is  positive which exists from 2018 to 2016.",
+      " Similarly, the next significant trend is  negative which exists from 2016 to 2015.",
+      " On the other hand, the next significant trend is  positive which exists from 2015 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 6,
+         "end": 10,
+         "trend": "y=1.4x+-2622.65",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=0.9x+-1643.63",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 2,
+         "end": 4,
+         "trend": "y=-12.6x+25595.63",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 4,
+         "end": 5,
+         "trend": "y=0.6x+-1011.9",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 5,
+         "end": 6,
+         "trend": "y=-4.2x+8660.1",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Unemployed persons in millions": 174.3
+      },
+      {
+         "Year": "2019",
+         "Unemployed persons in millions": 173.6
+      },
+      {
+         "Year": "2018",
+         "Unemployed persons in millions": 172.5
+      },
+      {
+         "Year": "2017",
+         "Unemployed persons in millions": 174.1
+      },
+      {
+         "Year": "2016",
+         "Unemployed persons in millions": 197.7
+      },
+      {
+         "Year": "2015",
+         "Unemployed persons in millions": 197.1
+      },
+      {
+         "Year": "2014",
+         "Unemployed persons in millions": 201.3
+      },
+      {
+         "Year": "2013",
+         "Unemployed persons in millions": 200.13
+      },
+      {
+         "Year": "2012",
+         "Unemployed persons in millions": 197.36
+      },
+      {
+         "Year": "2011",
+         "Unemployed persons in millions": 195.45
+      },
+      {
+         "Year": "2010",
+         "Unemployed persons in millions": 196.63
+      }
+   ]
+}

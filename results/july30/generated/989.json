@@ -1,0 +1,58 @@
+{
+   "title": "Usage of top level domains for websites 2019\n",
+   "xAxis": "DNS names",
+   "yAxis": "Share of global TLD",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing DNS names, and a y axis representing Share of global TLD.",
+      " The highest category is found at .com where Share of global TLD is 48.0.",
+      " The lowest category is found at .au where Share of global TLD is 1.3."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "DNS names": ".com",
+         "Share of global TLD": 48.0
+      },
+      {
+         "DNS names": ".ru",
+         "Share of global TLD": 5.2
+      },
+      {
+         "DNS names": ".org",
+         "Share of global TLD": 4.9
+      },
+      {
+         "DNS names": ".net",
+         "Share of global TLD": 3.5
+      },
+      {
+         "DNS names": ".de",
+         "Share of global TLD": 2.7
+      },
+      {
+         "DNS names": ".br",
+         "Share of global TLD": 1.9
+      },
+      {
+         "DNS names": ".uk",
+         "Share of global TLD": 1.8
+      },
+      {
+         "DNS names": ".in",
+         "Share of global TLD": 1.5
+      },
+      {
+         "DNS names": ".au",
+         "Share of global TLD": 1.3
+      },
+      {
+         "DNS names": ".jp",
+         "Share of global TLD": 1.3
+      }
+   ]
+}

@@ -1,0 +1,139 @@
+{
+   "title": "USA - reported aggravated assault rate 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Rate per 100,000 population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph shows the reported aggravated assault rate in the USA from 1990 to 2018 . ",
+      "In 2018 , the nationwide Rate was 246.8 cases per 100,000 population ."
+   ],
+   "trends": [
+      {
+         "13": "28",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Rate per 100,000 population": "246.8"
+      },
+      {
+         "Year": "2017",
+         "Rate per 100,000 population": "249.2"
+      },
+      {
+         "Year": "2016",
+         "Rate per 100,000 population": "248.3"
+      },
+      {
+         "Year": "2015",
+         "Rate per 100,000 population": "238.1"
+      },
+      {
+         "Year": "2014",
+         "Rate per 100,000 population": "229.2"
+      },
+      {
+         "Year": "2013",
+         "Rate per 100,000 population": "229.6"
+      },
+      {
+         "Year": "2012",
+         "Rate per 100,000 population": "242.8"
+      },
+      {
+         "Year": "2011",
+         "Rate per 100,000 population": "241.5"
+      },
+      {
+         "Year": "2010",
+         "Rate per 100,000 population": "252.8"
+      },
+      {
+         "Year": "2009",
+         "Rate per 100,000 population": "264.7"
+      },
+      {
+         "Year": "2008",
+         "Rate per 100,000 population": "277.5"
+      },
+      {
+         "Year": "2007",
+         "Rate per 100,000 population": "287.2"
+      },
+      {
+         "Year": "2006",
+         "Rate per 100,000 population": "292.0"
+      },
+      {
+         "Year": "2005",
+         "Rate per 100,000 population": "290.8"
+      },
+      {
+         "Year": "2004",
+         "Rate per 100,000 population": "288.6"
+      },
+      {
+         "Year": "2003",
+         "Rate per 100,000 population": "295.4"
+      },
+      {
+         "Year": "2002",
+         "Rate per 100,000 population": "309.5"
+      },
+      {
+         "Year": "2001",
+         "Rate per 100,000 population": "318.5"
+      },
+      {
+         "Year": "2000",
+         "Rate per 100,000 population": "324.0"
+      },
+      {
+         "Year": "1999",
+         "Rate per 100,000 population": "334.3"
+      },
+      {
+         "Year": "1998",
+         "Rate per 100,000 population": "361.3"
+      },
+      {
+         "Year": "1997",
+         "Rate per 100,000 population": "382.0"
+      },
+      {
+         "Year": "1996",
+         "Rate per 100,000 population": "390.9"
+      },
+      {
+         "Year": "1995",
+         "Rate per 100,000 population": "418.3"
+      },
+      {
+         "Year": "1994",
+         "Rate per 100,000 population": "427.6"
+      },
+      {
+         "Year": "1993",
+         "Rate per 100,000 population": "440.3"
+      },
+      {
+         "Year": "1992",
+         "Rate per 100,000 population": "441.8"
+      },
+      {
+         "Year": "1991",
+         "Rate per 100,000 population": "433.3"
+      },
+      {
+         "Year": "1990",
+         "Rate per 100,000 population": "424.1"
+      }
+   ]
+}

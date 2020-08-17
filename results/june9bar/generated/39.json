@@ -1,0 +1,65 @@
+{
+   "title": "Amazon 's Q4 income including seasonal sales 2009 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Net income in million U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "In the fourth Quarter of 2019 , Amazon 's Net income amounted to 3268 million U.S. dollars , up from the results of the preceding Quarter with 3000 million U.S. dollars . ",
+      "Amazon 's Net sales amounted to 87.44 million U.S. dollars during the same fiscal period . ",
+      "Shopping via Amazon Online product sales are the biggest revenue segment of the e-tailer , followed by retail third-party seller services ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "27": "1"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Net income in million U.S. dollars": "3268"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Net income in million U.S. dollars": "3000"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Net income in million U.S. dollars": "1900"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Net income in million U.S. dollars": "749"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Net income in million U.S. dollars": "482"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Net income in million U.S. dollars": "214"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Net income in million U.S. dollars": "239"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Net income in million U.S. dollars": "97"
+      },
+      {
+         "Quarter": "Q4 '11",
+         "Net income in million U.S. dollars": "177"
+      },
+      {
+         "Quarter": "Q4 '10",
+         "Net income in million U.S. dollars": "416"
+      },
+      {
+         "Quarter": "Q4 '09",
+         "Net income in million U.S. dollars": "384"
+      }
+   ]
+}

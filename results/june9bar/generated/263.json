@@ -1,0 +1,30 @@
+{
+   "title": "Pinterest usage reach in the United States 2019 , by household income",
+   "xAxis": "Annual household income",
+   "yAxis": "Reach",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Reach of adults in the United States who were using Pinterest as of 2019 , by household income . ",
+      "During the survey , 41 % of Reach stated they used the Annual household income or less said that they smoke States ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2"
+      }
+   ],
+   "data": [
+      {
+         "Annual household income": "Under $30000",
+         "Reach": "18"
+      },
+      {
+         "Annual household income": "$30000-$74999",
+         "Reach": "27"
+      },
+      {
+         "Annual household income": "$75000+",
+         "Reach": "41"
+      }
+   ]
+}

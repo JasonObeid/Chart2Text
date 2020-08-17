@@ -1,0 +1,51 @@
+{
+   "title": "Saudi Arabia : mobile phone internet users 2017 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Number of mobile phone internet users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of mobile phone internet users in millions with a total of 7 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2023 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 0,
+         "end": 6,
+         "trend": "y=0.48x+-952.77",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of mobile phone internet users in millions": 22.5
+      },
+      {
+         "Year": "2022",
+         "Number of mobile phone internet users in millions": 22.1
+      },
+      {
+         "Year": "2021",
+         "Number of mobile phone internet users in millions": 21.7
+      },
+      {
+         "Year": "2020",
+         "Number of mobile phone internet users in millions": 21.3
+      },
+      {
+         "Year": "2019",
+         "Number of mobile phone internet users in millions": 20.7
+      },
+      {
+         "Year": "2018",
+         "Number of mobile phone internet users in millions": 20.2
+      },
+      {
+         "Year": "2017",
+         "Number of mobile phone internet users in millions": 19.6
+      }
+   ]
+}

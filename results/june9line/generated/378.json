@@ -1,0 +1,76 @@
+{
+   "title": "Average Fan Cost Index of NFL teams 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Fan Cost Index in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the Fan Cost of the British bank NFL from 2006 to 2019 . ",
+      "In 2019 , the Fan Cost of the NFL bank reached 540.52 million U.S. dollars . ",
+      "NFL - additional information NFL Holdings plc is a British multinational bank and financial services organization based in London , United Kingdom ."
+   ],
+   "trends": [
+      {
+         "12": "12",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Fan Cost Index in U.S. dollars": "540.52"
+      },
+      {
+         "Year": "2018",
+         "Fan Cost Index in U.S. dollars": "536.04"
+      },
+      {
+         "Year": "2016",
+         "Fan Cost Index in U.S. dollars": "502.84"
+      },
+      {
+         "Year": "2015",
+         "Fan Cost Index in U.S. dollars": "480.89"
+      },
+      {
+         "Year": "2014",
+         "Fan Cost Index in U.S. dollars": "479.11"
+      },
+      {
+         "Year": "2013",
+         "Fan Cost Index in U.S. dollars": "459.73"
+      },
+      {
+         "Year": "2012",
+         "Fan Cost Index in U.S. dollars": "443.93"
+      },
+      {
+         "Year": "2011",
+         "Fan Cost Index in U.S. dollars": "427.42"
+      },
+      {
+         "Year": "2010",
+         "Fan Cost Index in U.S. dollars": "420.54"
+      },
+      {
+         "Year": "2009",
+         "Fan Cost Index in U.S. dollars": "412.64"
+      },
+      {
+         "Year": "2008",
+         "Fan Cost Index in U.S. dollars": "396.36"
+      },
+      {
+         "Year": "2007",
+         "Fan Cost Index in U.S. dollars": "367.31"
+      },
+      {
+         "Year": "2006",
+         "Fan Cost Index in U.S. dollars": "346.16"
+      }
+   ]
+}

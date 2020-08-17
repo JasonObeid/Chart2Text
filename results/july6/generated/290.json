@@ -1,0 +1,60 @@
+{
+   "title": "Leading source countries of DDoS attack traffic 2018",
+   "xAxis": "Country",
+   "yAxis": "Percentage of attack traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the share of source that have air-conditioning attack in 2018 , Country . ",
+      "United_States ranked the highest in air-conditioning Percentage attack , countries around 30 percentage of Japanese source having some form of air-conditioning ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Percentage of attack traffic": "30"
+      },
+      {
+         "Country": "China",
+         "Percentage of attack traffic": "16"
+      },
+      {
+         "Country": "United Kingdom",
+         "Percentage of attack traffic": "5"
+      },
+      {
+         "Country": "India",
+         "Percentage of attack traffic": "4"
+      },
+      {
+         "Country": "Spain",
+         "Percentage of attack traffic": "3"
+      },
+      {
+         "Country": "Russia",
+         "Percentage of attack traffic": "3"
+      },
+      {
+         "Country": "Brazil",
+         "Percentage of attack traffic": "3"
+      },
+      {
+         "Country": "Korea",
+         "Percentage of attack traffic": "3"
+      },
+      {
+         "Country": "Japan",
+         "Percentage of attack traffic": "3"
+      },
+      {
+         "Country": "Ecuador",
+         "Percentage of attack traffic": "2"
+      }
+   ]
+}

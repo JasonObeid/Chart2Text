@@ -1,0 +1,52 @@
+{
+   "title": "Number of immigrants in Singapore 2005 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of immigrants in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of immigrants in thousands, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2017 to 2005.",
+      " Differently, the next significant trend is  positive which exists from 2019 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 1,
+         "end": 4,
+         "trend": "y=77.24x+-153130.99",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-233.67x+473945.47",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of immigrants in thousands": 2155.65
+      },
+      {
+         "Year": "2017",
+         "Number of immigrants in thousands": 2623.0
+      },
+      {
+         "Year": "2015",
+         "Number of immigrants in thousands": 2544.0
+      },
+      {
+         "Year": "2010",
+         "Number of immigrants in thousands": 2165.0
+      },
+      {
+         "Year": "2005",
+         "Number of immigrants in thousands": 1711.0
+      }
+   ]
+}

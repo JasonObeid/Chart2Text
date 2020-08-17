@@ -1,0 +1,77 @@
+{
+   "title": "Forecast : PaaS market share in 2011 - 2016 , by service",
+   "labels": [
+      "Cloud Service",
+      "2011",
+      "2016"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 11 categories for the x axis of Cloud Service representing 2011, and 2016.",
+      " The highest category is found at Cloud Application platform services (aPaaS) with a mean value of 35.0.",
+      " The second highest category is found at Cloud Integration services (iPaaS) with a mean value of 12.5.",
+      " This represents a difference of 94.7%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Cloud Service": "Cloud Application platform services (aPaaS)",
+         "2011": "35",
+         "2016": "35"
+      },
+      {
+         "Cloud Service": "Cloud ALM Services (almPaaS)",
+         "2011": "12",
+         "2016": "11"
+      },
+      {
+         "Cloud Service": "Cloud BPM platform services (bpmPaaS)",
+         "2011": "11",
+         "2016": "10"
+      },
+      {
+         "Cloud Service": "Cloud Integration services (iPaaS)",
+         "2011": "11",
+         "2016": "14"
+      },
+      {
+         "Cloud Service": "Cloud Application Security Services",
+         "2011": "11",
+         "2016": "9"
+      },
+      {
+         "Cloud Service": "Cloud MFT Services",
+         "2011": "8",
+         "2016": "6"
+      },
+      {
+         "Cloud Service": "Cloud Application Services Governance",
+         "2011": "4",
+         "2016": "3"
+      },
+      {
+         "Cloud Service": "Cloud Business Analytics Services (baPaaS)",
+         "2011": "3",
+         "2016": "4"
+      },
+      {
+         "Cloud Service": "Cloud MOM Services",
+         "2011": "2",
+         "2016": "2"
+      },
+      {
+         "Cloud Service": "Cloud Database services (dbPaas)",
+         "2011": "2",
+         "2016": "4"
+      },
+      {
+         "Cloud Service": "Cloud Horizontal Portal Services (Portal PaaS)",
+         "2011": "1",
+         "2016": "2"
+      }
+   ]
+}

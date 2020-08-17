@@ -1,3 +1,4 @@
+import collections
 import math
 import os
 import re
@@ -473,7 +474,7 @@ months = ['january', 'february', 'march', 'april', 'june', 'july', 'august', 'se
 years = [str(i) for i in range(1850, 2050)]
 
 fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
-           'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',']
+           'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', ';']
 
 numbers = ['percent', 'percentage', '%', 'hundred', 'thousand', 'million', 'billion', 'trillion',
            'hundreds', 'thousands', 'millions', 'billions', 'trillions']
@@ -482,6 +483,9 @@ positiveTrends = ['increased', 'increase', 'increasing', 'grew', 'growing', 'ros
 negativeTrends = ['decreased', 'decrease', 'decreasing', 'shrank', 'shrinking', 'fell', 'falling', 'dropped',
                   'dropping']
 
+simpleChartTypes = []
+complexChartTypes = []
+
 for m in range(len(dataFiles)):
     dataPath = '../dataset/data/' + dataFiles[m]
     captionPath = '../dataset/captions/' + captionFiles[m]
@@ -489,6 +493,7 @@ for m in range(len(dataFiles)):
     caption = openCaption(captionPath)
     title = openCaption(titlePath)
     df, cols, size, xAxis, yAxis, chartType = openData(dataPath)
+    simpleChartTypes.append(chartType)
     cleanXAxis = cleanAxisLabel(xAxis)
     cleanYAxis = cleanAxisLabel(yAxis)
     # if cleanYAxis.split('_') == ['Current', 'year', '(as', 'of', 'January', '25,', '2020)']:
@@ -783,8 +788,8 @@ for m in range(len(dataFiles)):
     caption = openCaption(captionPath)
     title = openCaption(titlePath)
     df, cols, size, chartType = openMultiColumnData(dataPath)
+    complexChartTypes.append(chartType)
     cleanCols = [cleanAxisLabel(axis) for axis in cols]
-
     dataLine = ''
     summaryLabelLine = ""
     colData = []
@@ -1030,6 +1035,12 @@ with open('../data/test/testOriginalSummary.txt', mode='wt', encoding='utf8') as
     myfile18.writelines("%s" % line for line in oldTestSummary)
 with open('../data/valid/validOriginalSummary.txt', mode='wt', encoding='utf8') as myfile19:
     myfile19.writelines("%s" % line for line in oldValidSummary)
+
+with open('../data/chartCounts.txt', mode='wt', encoding='utf8') as myfile20:
+    simple = collections.Counter(simpleChartTypes).items()
+    complex = collections.Counter(complexChartTypes).items()
+    myfile20.write(f"{[f'{key}: {val}' for key, val in simple]}\n")
+    myfile20.write(f"{[f'{key}: {val}' for key, val in complex]}")
 
 import matplotlib.pyplot as plt
 

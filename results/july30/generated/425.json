@@ -1,0 +1,58 @@
+{
+   "title": "Most valuable sport athlete brands worldwide 2017\n",
+   "xAxis": "Player",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Player, and a y axis representing Brand value in million U.S. dollars.",
+      " The highest category is found at Roger_Federer where Brand value in million U.S. dollars is 37.2.",
+      " The lowest category is found at Stephen_Curry where Brand value in million U.S. dollars is 13.4."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Player": "Roger Federer",
+         "Brand value in million U.S. dollars": 37.2
+      },
+      {
+         "Player": "LeBron James",
+         "Brand value in million U.S. dollars": 33.4
+      },
+      {
+         "Player": "Usain Bolt",
+         "Brand value in million U.S. dollars": 27.0
+      },
+      {
+         "Player": "Cristiano Ronaldo",
+         "Brand value in million U.S. dollars": 21.5
+      },
+      {
+         "Player": "Phil Mickelson",
+         "Brand value in million U.S. dollars": 19.6
+      },
+      {
+         "Player": "Tiger Woods",
+         "Brand value in million U.S. dollars": 16.6
+      },
+      {
+         "Player": "Virat Kohli",
+         "Brand value in million U.S. dollars": 14.5
+      },
+      {
+         "Player": "Rory Mcllroy",
+         "Brand value in million U.S. dollars": 13.6
+      },
+      {
+         "Player": "Lionel Messi",
+         "Brand value in million U.S. dollars": 13.5
+      },
+      {
+         "Player": "Stephen Curry",
+         "Brand value in million U.S. dollars": 13.4
+      }
+   ]
+}

@@ -1,0 +1,32 @@
+{
+   "title": "Liver transplants in the United Kingdom ( UK ) 2018/19",
+   "xAxis": "Country of residence",
+   "yAxis": "Number of transplants",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Liver transplants United Kingdom UK 2018/19 in the 2018/19 in , UK Country residence . ",
+      "In , there were almost 779 million transplants during United ."
+   ],
+   "trends": [
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Country of residence": "England",
+         "Number of transplants": "779"
+      },
+      {
+         "Country of residence": "Scotland",
+         "Number of transplants": "114"
+      },
+      {
+         "Country of residence": "Wales",
+         "Number of transplants": "35"
+      },
+      {
+         "Country of residence": "Northern Ireland",
+         "Number of transplants": "34"
+      }
+   ]
+}

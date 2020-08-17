@@ -1,0 +1,30 @@
+{
+   "title": "Facebook user share in the United States 2019 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the user of Facebook users in the share as of 2020 , sorted 2019 by . ",
+      "During the measured period , 46.3 percentage of United States Facebook United were Female and 53.7 percentage were Male ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "12": "0",
+         "14": "0",
+         "17": "1"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Percentage of users": "53.7"
+      },
+      {
+         "Sex": "Male",
+         "Percentage of users": "46.3"
+      }
+   ]
+}

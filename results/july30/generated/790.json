@@ -1,0 +1,34 @@
+{
+   "title": "Kidney transplants in the United Kingdom ( UK ) 2018/19\n",
+   "xAxis": "Country of residence",
+   "yAxis": "Number of transplants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Country of residence, and a y axis representing Number of transplants.",
+      " The highest category is found at England where Number of transplants is 2058.0.",
+      " The lowest category is found at Northern_Ireland where Number of transplants is 48.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Country of residence": "England",
+         "Number of transplants": 2058.0
+      },
+      {
+         "Country of residence": "Wales",
+         "Number of transplants": 109.0
+      },
+      {
+         "Country of residence": "Scotland",
+         "Number of transplants": 171.0
+      },
+      {
+         "Country of residence": "Northern Ireland",
+         "Number of transplants": 48.0
+      }
+   ]
+}

@@ -1,0 +1,40 @@
+{
+   "title": "U.S. social media user account privacy 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among 559 industrial enterprises on their opinion on the U.S. nation in U.S. user as of 2018 . ",
+      "Some 45 % of respondents stated that they knew Yes_all_of_my_social_media_accounts_are_private a ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "9": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes all of my social media accounts are private",
+         "Share of respondents": "45"
+      },
+      {
+         "Response": "Yes a few of my social meda accounts are private",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "Yes one of my social media accounts is private",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "No none of my social media accounts are private",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Don't know/No opinion",
+         "Share of respondents": "8"
+      }
+   ]
+}

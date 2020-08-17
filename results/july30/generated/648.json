@@ -1,0 +1,150 @@
+{
+   "title": "Common share price of Royal Bank of Canada 1995 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Share price in Canadian dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share price in Canadian dollars, with a total of 25 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2005 to 2000.",
+      " But, the next significant trend is  negative which exists from 2014 to 2011.",
+      " Differently, the next significant trend is  positive which exists from 2008 to 2005.",
+      " Similarly, the next significant trend is  negative which exists from 1998 to 1995."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 14,
+         "end": 19,
+         "trend": "y=6.89x+-13726.32",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 5,
+         "end": 8,
+         "trend": "y=9.63x+-19316.51",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 11,
+         "end": 14,
+         "trend": "y=-16.89x+33946.07",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 21,
+         "end": 24,
+         "trend": "y=16.38x+-32636.84",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Share price in Canadian dollars": 102.75
+      },
+      {
+         "Year": "2018",
+         "Share price in Canadian dollars": 93.44
+      },
+      {
+         "Year": "2017",
+         "Share price in Canadian dollars": 102.65
+      },
+      {
+         "Year": "2016",
+         "Share price in Canadian dollars": 90.87
+      },
+      {
+         "Year": "2015",
+         "Share price in Canadian dollars": 74.15
+      },
+      {
+         "Year": "2014",
+         "Share price in Canadian dollars": 80.24
+      },
+      {
+         "Year": "2013",
+         "Share price in Canadian dollars": 71.41
+      },
+      {
+         "Year": "2012",
+         "Share price in Canadian dollars": 59.88
+      },
+      {
+         "Year": "2011",
+         "Share price in Canadian dollars": 51.98
+      },
+      {
+         "Year": "2010",
+         "Share price in Canadian dollars": 52.32
+      },
+      {
+         "Year": "2009",
+         "Share price in Canadian dollars": 56.4
+      },
+      {
+         "Year": "2008",
+         "Share price in Canadian dollars": 36.1
+      },
+      {
+         "Year": "2007",
+         "Share price in Canadian dollars": 50.74
+      },
+      {
+         "Year": "2006",
+         "Share price in Canadian dollars": 55.5
+      },
+      {
+         "Year": "2005",
+         "Share price in Canadian dollars": 90.81
+      },
+      {
+         "Year": "2004",
+         "Share price in Canadian dollars": 64.25
+      },
+      {
+         "Year": "2003",
+         "Share price in Canadian dollars": 61.8
+      },
+      {
+         "Year": "2002",
+         "Share price in Canadian dollars": 57.85
+      },
+      {
+         "Year": "2001",
+         "Share price in Canadian dollars": 51.83
+      },
+      {
+         "Year": "2000",
+         "Share price in Canadian dollars": 50.85
+      },
+      {
+         "Year": "1999",
+         "Share price in Canadian dollars": 63.5
+      },
+      {
+         "Year": "1998",
+         "Share price in Canadian dollars": 76.55
+      },
+      {
+         "Year": "1997",
+         "Share price in Canadian dollars": 75.6
+      },
+      {
+         "Year": "1996",
+         "Share price in Canadian dollars": 48.1
+      },
+      {
+         "Year": "1995",
+         "Share price in Canadian dollars": 31.13
+      }
+   ]
+}

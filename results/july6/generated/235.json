@@ -1,0 +1,99 @@
+{
+   "title": "U.S. per capita consumption of fresh potatoes 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The timeline shows the Per capita consumption of fresh potatoes in the U.S. from 2000 to 2018 . ",
+      "According to the report , the U.S. Per capita consumption of fresh potatoes amounted to approximately 31.1 pounds in 2018 ."
+   ],
+   "trends": [
+      {
+         "14": "18",
+         "16": "0"
+      },
+      {
+         "16": "0",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": "31.1"
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": "34.4"
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": "33.7"
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": "34.2"
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": "33.6"
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": "34.5"
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": "34.5"
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": "34.0"
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": "36.8"
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": "36.6"
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": "37.8"
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": "38.7"
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": "38.6"
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": "41.3"
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": "45.8"
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": "46.8"
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": "44.3"
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": "46.6"
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": "47.1"
+      }
+   ]
+}

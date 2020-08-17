@@ -1,0 +1,139 @@
+{
+   "title": "Average duration of unemployment in the U.S. 1990 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Duration in weeks",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Duration of refugees admitted to the U.S. from the fiscal Year of 1990 to the fiscal Year of 2019 . ",
+      "During the fiscal Year of 2019 , 21.6 refugees were admitted to the unemployment ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'19",
+         "Duration in weeks": "21.6"
+      },
+      {
+         "Year": "'18",
+         "Duration in weeks": "22.7"
+      },
+      {
+         "Year": "'17",
+         "Duration in weeks": "25.0"
+      },
+      {
+         "Year": "'16",
+         "Duration in weeks": "27.5"
+      },
+      {
+         "Year": "'15",
+         "Duration in weeks": "29.2"
+      },
+      {
+         "Year": "'14",
+         "Duration in weeks": "33.7"
+      },
+      {
+         "Year": "'13",
+         "Duration in weeks": "36.5"
+      },
+      {
+         "Year": "'12",
+         "Duration in weeks": "39.4"
+      },
+      {
+         "Year": "'11",
+         "Duration in weeks": "39.3"
+      },
+      {
+         "Year": "'10",
+         "Duration in weeks": "33.0"
+      },
+      {
+         "Year": "'09",
+         "Duration in weeks": "24.4"
+      },
+      {
+         "Year": "'08",
+         "Duration in weeks": "17.9"
+      },
+      {
+         "Year": "'07",
+         "Duration in weeks": "16.8"
+      },
+      {
+         "Year": "'06",
+         "Duration in weeks": "16.8"
+      },
+      {
+         "Year": "'05",
+         "Duration in weeks": "18.4"
+      },
+      {
+         "Year": "'04",
+         "Duration in weeks": "19.6"
+      },
+      {
+         "Year": "'03",
+         "Duration in weeks": "19.2"
+      },
+      {
+         "Year": "'02",
+         "Duration in weeks": "16.6"
+      },
+      {
+         "Year": "'01",
+         "Duration in weeks": "13.1"
+      },
+      {
+         "Year": "'00",
+         "Duration in weeks": "12.6"
+      },
+      {
+         "Year": "'99",
+         "Duration in weeks": "13.4"
+      },
+      {
+         "Year": "'98",
+         "Duration in weeks": "14.5"
+      },
+      {
+         "Year": "'97",
+         "Duration in weeks": "15.8"
+      },
+      {
+         "Year": "'96",
+         "Duration in weeks": "16.7"
+      },
+      {
+         "Year": "'95",
+         "Duration in weeks": "16.6"
+      },
+      {
+         "Year": "'94",
+         "Duration in weeks": "18.8"
+      },
+      {
+         "Year": "'93",
+         "Duration in weeks": "18.0"
+      },
+      {
+         "Year": "'92",
+         "Duration in weeks": "17.7"
+      },
+      {
+         "Year": "'91",
+         "Duration in weeks": "13.7"
+      },
+      {
+         "Year": "'90",
+         "Duration in weeks": "12.0"
+      }
+   ]
+}

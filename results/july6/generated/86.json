@@ -1,0 +1,40 @@
+{
+   "title": "U.S. chemical imports by business sector 2018",
+   "xAxis": "Business sector",
+   "yAxis": "Imports in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. of chemical imports by in U.S. 2018 , demographic group . ",
+      "Among Basic_Chemicals billion , 65.75 billion reported regularly visiting chemical by or blogs as of 2018 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "4": "1"
+      }
+   ],
+   "data": [
+      {
+         "Business sector": "Pharmaceuticals",
+         "Imports in billion U.S. dollars": "136.4"
+      },
+      {
+         "Business sector": "Basic Chemicals",
+         "Imports in billion U.S. dollars": "65.75"
+      },
+      {
+         "Business sector": "Specialties",
+         "Imports in billion U.S. dollars": "22.67"
+      },
+      {
+         "Business sector": "Consumer products",
+         "Imports in billion U.S. dollars": "11.51"
+      },
+      {
+         "Business sector": "Agricultural Chemicals",
+         "Imports in billion U.S. dollars": "9.17"
+      }
+   ]
+}

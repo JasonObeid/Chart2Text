@@ -1,0 +1,67 @@
+{
+   "title": "Share of social media users in Denmark 2017 - 2018 , by age group",
+   "labels": [
+      "Year",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic displays the results of a survey on the proportion of people within different age groups who gamble social on a monthly basis in the Denmark ( UK ) from 2017 to 2018 . ",
+      "As of 2018 , it was found that 97 % of respondents between the age of 25 and 34 years stated that they took part in a form of social media in the past four weeks . ",
+      "This age group had the highest proportion of people who gamble social ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "16-24 years",
+         "2017": "98",
+         "2018": "97"
+      },
+      {
+         "Year": "25-34 years",
+         "2017": "94",
+         "2018": "91"
+      },
+      {
+         "Year": "35-44 years",
+         "2017": "87",
+         "2018": "90"
+      },
+      {
+         "Year": "45-54 years",
+         "2017": "77",
+         "2018": "82"
+      },
+      {
+         "Year": "55-64 years",
+         "2017": "63",
+         "2018": "69"
+      },
+      {
+         "Year": "65-74 years",
+         "2017": "42",
+         "2018": "50"
+      },
+      {
+         "Year": "75-89 years",
+         "2017": "26",
+         "2018": "32"
+      },
+      {
+         "Year": "Total",
+         "2017": "75",
+         "2018": "77"
+      }
+   ]
+}

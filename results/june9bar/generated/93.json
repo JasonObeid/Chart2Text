@@ -1,0 +1,123 @@
+{
+   "title": "Latin America : gender gap index 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Index score",
+   "graphType": "bar",
+   "summary": [
+      "In 2020 , Nicaragua was the Latin America American Country with the highest index 2020 by Index , with 0.81 points . ",
+      "Guatemala , on the other hand , had the worst score in the region with 0.67 points , which shows a index 2020 by of 54 % ( on average , women 's income in Guatemala was estimated to be 54 % lower than men 's ) ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "18": "0"
+      },
+      {
+         "0": "24",
+         "15": "23",
+         "35": "24"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Nicaragua",
+         "Index score": "0.81"
+      },
+      {
+         "Country": "Costa Rica",
+         "Index score": "0.78"
+      },
+      {
+         "Country": "Colombia",
+         "Index score": "0.76"
+      },
+      {
+         "Country": "Trinidad and Tobago",
+         "Index score": "0.76"
+      },
+      {
+         "Country": "Mexico",
+         "Index score": "0.75"
+      },
+      {
+         "Country": "Barbados",
+         "Index score": "0.75"
+      },
+      {
+         "Country": "Argentina",
+         "Index score": "0.75"
+      },
+      {
+         "Country": "Cuba",
+         "Index score": "0.75"
+      },
+      {
+         "Country": "Uruguay",
+         "Index score": "0.74"
+      },
+      {
+         "Country": "Jamaica",
+         "Index score": "0.74"
+      },
+      {
+         "Country": "Bolivia",
+         "Index score": "0.73"
+      },
+      {
+         "Country": "Panama",
+         "Index score": "0.73"
+      },
+      {
+         "Country": "Ecuador",
+         "Index score": "0.73"
+      },
+      {
+         "Country": "Chile",
+         "Index score": "0.72"
+      },
+      {
+         "Country": "Honduras",
+         "Index score": "0.72"
+      },
+      {
+         "Country": "Bahamas",
+         "Index score": "0.72"
+      },
+      {
+         "Country": "Peru",
+         "Index score": "0.71"
+      },
+      {
+         "Country": "Venezuela",
+         "Index score": "0.71"
+      },
+      {
+         "Country": "Suriname",
+         "Index score": "0.71"
+      },
+      {
+         "Country": "El Salvador",
+         "Index score": "0.71"
+      },
+      {
+         "Country": "Dominican Republic",
+         "Index score": "0.7"
+      },
+      {
+         "Country": "Brazil",
+         "Index score": "0.69"
+      },
+      {
+         "Country": "Paraguay",
+         "Index score": "0.68"
+      },
+      {
+         "Country": "Belize",
+         "Index score": "0.67"
+      },
+      {
+         "Country": "Guatemala",
+         "Index score": "0.67"
+      }
+   ]
+}

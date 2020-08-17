@@ -1,0 +1,118 @@
+{
+   "title": "Rate of inflation in Belgium 2018 to 2020\n",
+   "xAxis": "Month",
+   "yAxis": "Year on year percentage change",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 25 categories for the x axis representing Month, and a y axis representing Year on year percentage change.",
+      " The highest category is found at Nov_'18 where Year on year percentage change is 2.78.",
+      " The lowest category is found at Nov_'19 where Year on year percentage change is 0.39."
+   ],
+   "trends": {
+      "maxIndex": 14,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Month": "Jan '20",
+         "Year on year percentage change": 1.41
+      },
+      {
+         "Month": "Dec '19",
+         "Year on year percentage change": 0.76
+      },
+      {
+         "Month": "Nov '19",
+         "Year on year percentage change": 0.39
+      },
+      {
+         "Month": "Oct '19",
+         "Year on year percentage change": 0.48
+      },
+      {
+         "Month": "Sep '19",
+         "Year on year percentage change": 0.8
+      },
+      {
+         "Month": "Aug '19",
+         "Year on year percentage change": 1.26
+      },
+      {
+         "Month": "Jul '19",
+         "Year on year percentage change": 1.42
+      },
+      {
+         "Month": "Jun '19",
+         "Year on year percentage change": 1.73
+      },
+      {
+         "Month": "May '19",
+         "Year on year percentage change": 1.89
+      },
+      {
+         "Month": "Apr '19",
+         "Year on year percentage change": 2.08
+      },
+      {
+         "Month": "Mar '19",
+         "Year on year percentage change": 2.33
+      },
+      {
+         "Month": "Feb '19",
+         "Year on year percentage change": 2.17
+      },
+      {
+         "Month": "Jan '19",
+         "Year on year percentage change": 1.99
+      },
+      {
+         "Month": "Dec '18",
+         "Year on year percentage change": 2.34
+      },
+      {
+         "Month": "Nov '18",
+         "Year on year percentage change": 2.78
+      },
+      {
+         "Month": "Oct '18",
+         "Year on year percentage change": 2.75
+      },
+      {
+         "Month": "Sep '18",
+         "Year on year percentage change": 2.35
+      },
+      {
+         "Month": "Aug '18",
+         "Year on year percentage change": 2.24
+      },
+      {
+         "Month": "Jul '18",
+         "Year on year percentage change": 2.17
+      },
+      {
+         "Month": "Jun '18",
+         "Year on year percentage change": 2.08
+      },
+      {
+         "Month": "May '18",
+         "Year on year percentage change": 1.82
+      },
+      {
+         "Month": "Apr '18",
+         "Year on year percentage change": 1.52
+      },
+      {
+         "Month": "Mar '18",
+         "Year on year percentage change": 1.39
+      },
+      {
+         "Month": "Feb '18",
+         "Year on year percentage change": 1.48
+      },
+      {
+         "Month": "Jan '18",
+         "Year on year percentage change": 1.71
+      }
+   ]
+}

@@ -1,0 +1,26 @@
+{
+   "title": "Survey on regretting tattoos in the U.S. 2015\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at No where Share of respondents is 77.0.",
+      " The lowest category is found at Yes where Share of respondents is 23.0."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Response": "Yes",
+         "Share of respondents": 23.0
+      },
+      {
+         "Response": "No",
+         "Share of respondents": 77.0
+      }
+   ]
+}

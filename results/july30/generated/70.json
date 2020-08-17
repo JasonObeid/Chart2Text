@@ -1,0 +1,157 @@
+{
+   "title": "Poverty rate of black families in the U.S. 1990 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of poor black families",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of poor black families, with a total of 29 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2000 to 1993.",
+      " Similarly, the next significant trend is  positive which exists from 2018 to 2014.",
+      " Correspondingly, the next significant trend is  negative which exists from 2004 to 2000."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "positive",
+         "start": 18,
+         "end": 25,
+         "trend": "y=-1.46x+2948.35",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 0,
+         "end": 4,
+         "trend": "y=-1.33x+2701.06",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 14,
+         "end": 18,
+         "trend": "y=0.86x+-1700.4",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Percentage of poor black families": 17.7
+      },
+      {
+         "Year": "2017",
+         "Percentage of poor black families": 18.2
+      },
+      {
+         "Year": "2016",
+         "Percentage of poor black families": 19.0
+      },
+      {
+         "Year": "2015",
+         "Percentage of poor black families": 21.1
+      },
+      {
+         "Year": "2014",
+         "Percentage of poor black families": 22.9
+      },
+      {
+         "Year": "2013",
+         "Percentage of poor black families": 22.8
+      },
+      {
+         "Year": "2012",
+         "Percentage of poor black families": 23.7
+      },
+      {
+         "Year": "2011",
+         "Percentage of poor black families": 24.2
+      },
+      {
+         "Year": "2010",
+         "Percentage of poor black families": 24.1
+      },
+      {
+         "Year": "2009",
+         "Percentage of poor black families": 22.7
+      },
+      {
+         "Year": "2008",
+         "Percentage of poor black families": 22.0
+      },
+      {
+         "Year": "2007",
+         "Percentage of poor black families": 22.1
+      },
+      {
+         "Year": "2006",
+         "Percentage of poor black families": 21.6
+      },
+      {
+         "Year": "2005",
+         "Percentage of poor black families": 22.1
+      },
+      {
+         "Year": "2004",
+         "Percentage of poor black families": 22.8
+      },
+      {
+         "Year": "2003",
+         "Percentage of poor black families": 22.3
+      },
+      {
+         "Year": "2002",
+         "Percentage of poor black families": 21.5
+      },
+      {
+         "Year": "2001",
+         "Percentage of poor black families": 20.7
+      },
+      {
+         "Year": "2000",
+         "Percentage of poor black families": 19.3
+      },
+      {
+         "Year": "1999",
+         "Percentage of poor black families": 21.8
+      },
+      {
+         "Year": "1998",
+         "Percentage of poor black families": 23.4
+      },
+      {
+         "Year": "1997",
+         "Percentage of poor black families": 23.6
+      },
+      {
+         "Year": "1996",
+         "Percentage of poor black families": 26.1
+      },
+      {
+         "Year": "1995",
+         "Percentage of poor black families": 26.4
+      },
+      {
+         "Year": "1994",
+         "Percentage of poor black families": 27.3
+      },
+      {
+         "Year": "1993",
+         "Percentage of poor black families": 31.3
+      },
+      {
+         "Year": "1992",
+         "Percentage of poor black families": 31.1
+      },
+      {
+         "Year": "1991",
+         "Percentage of poor black families": 30.4
+      },
+      {
+         "Year": "1990",
+         "Percentage of poor black families": 29.3
+      }
+   ]
+}

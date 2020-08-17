@@ -1,0 +1,54 @@
+{
+   "title": "Stadium construction/renovation costs UEFA EURO 2016\n",
+   "xAxis": "Stadiums",
+   "yAxis": "Construction/renovation costs in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Stadiums, and a y axis representing Construction/renovation costs in million euros.",
+      " The highest category is found at Stade_des_Lumi\u00e8res_Lyon_(new_stadium) where Construction/renovation costs in million euros is 381.0.",
+      " The lowest category is found at Stadium_Municipal_Toulouse_(major_renovation) where Construction/renovation costs in million euros is 60.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "Stadiums": "Stade des Lumi\u00e8res Lyon (new stadium)",
+         "Construction/renovation costs in million euros": 381.0
+      },
+      {
+         "Stadiums": "Grand Stade LMCU Lille (new stadium)",
+         "Construction/renovation costs in million euros": 324.0
+      },
+      {
+         "Stadiums": "Stade V\u00e9lodrome Marseille (major renovation)",
+         "Construction/renovation costs in million euros": 267.0
+      },
+      {
+         "Stadiums": "Nice Stadium Nice (new stadium)",
+         "Construction/renovation costs in million euros": 204.0
+      },
+      {
+         "Stadiums": "Nouveau Stade Bordeaux (new stadium)",
+         "Construction/renovation costs in million euros": 184.0
+      },
+      {
+         "Stadiums": "Parc des Princes Paris (major renovation)",
+         "Construction/renovation costs in million euros": 100.0
+      },
+      {
+         "Stadiums": "Stade Bollaert Lens (major renovation)",
+         "Construction/renovation costs in million euros": 75.0
+      },
+      {
+         "Stadiums": "Stade Geoffroy Guichard Saint-Etienne (major renovation)",
+         "Construction/renovation costs in million euros": 75.0
+      },
+      {
+         "Stadiums": "Stadium Municipal Toulouse (major renovation)",
+         "Construction/renovation costs in million euros": 60.0
+      }
+   ]
+}

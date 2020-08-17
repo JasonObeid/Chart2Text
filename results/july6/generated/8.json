@@ -1,0 +1,32 @@
+{
+   "title": "Expected numer of Valentine 's Day proposals in the United States 2012 to 2013",
+   "xAxis": "Year",
+   "yAxis": "Valentine's Day proposals in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "In 2013 , e-books accounted for 14 millions of all book sales in the 's , three millions less than in the previous Year . ",
+      "This is due to Valentine's unit sales falling from 180 millions in 2012 to 162 millions in 2013 2012 In the latter Year , the top-selling Valentine's was 'The Handmaid 's Tale ' by Margaret Atwood , a novel which has seen become a highly popular and successful TV series ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "6": "0"
+      },
+      {
+         "12": "1",
+         "17": "0",
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Valentine's Day proposals in millions": "14"
+      },
+      {
+         "Year": "2012",
+         "Valentine's Day proposals in millions": "6"
+      }
+   ]
+}

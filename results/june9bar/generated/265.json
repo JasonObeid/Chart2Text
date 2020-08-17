@@ -1,0 +1,40 @@
+{
+   "title": "Frequency of American families having dinner together at home 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "As of early 2013 , 0_to_3_nights and 4_to_5_nights were the most families having dinner together home 2013 that 0_to_3_nights , followed by 4_to_5_nights and 6_to_7_nights . ",
+      "Of respondents stated that they 6_to_7_nights 53 % watched 4_to_5_nights at 28 million British pounds each 4_to_5_nights ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "7": "1",
+         "19": "0",
+         "23": "1",
+         "25": "2"
+      },
+      {
+         "5": "6",
+         "6": "2",
+         "9": "1",
+         "11": "1",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "0 to 3 nights",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "4 to 5 nights",
+         "Share of respondents": "28"
+      },
+      {
+         "Response": "6 to 7 nights",
+         "Share of respondents": "53"
+      }
+   ]
+}

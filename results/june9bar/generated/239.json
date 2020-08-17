@@ -1,0 +1,43 @@
+{
+   "title": "Product quality rating of Under Armour footwear United States 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the results of a survey about the rating Under of several individual Product Extremely_Negative in Armour 2015 , phrased Somewhat_positive the question : `` except reading books , which of the following Product Extremely_Negative . ",
+      "According to the chose `` Somewhat_positive '' and Neutral were second and third ."
+   ],
+   "trends": [
+      {
+         "16": "4",
+         "23": "1",
+         "37": "4"
+      },
+      {
+         "5": "1",
+         "8": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Extremely positive",
+         "Share of respondents": "72"
+      },
+      {
+         "Response": "Somewhat positive",
+         "Share of respondents": "22"
+      },
+      {
+         "Response": "Neutral",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Somewhat negative",
+         "Share of respondents": "-"
+      },
+      {
+         "Response": "Extremely Negative",
+         "Share of respondents": "-"
+      }
+   ]
+}

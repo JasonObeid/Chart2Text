@@ -1,0 +1,56 @@
+{
+   "title": "Spotify : cost of revenue 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Cost of goods sold in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Cost of goods in Spotify from 2012 to 2019 . ",
+      "According to the report , around 5042.0 thousand babies were born in Spotify 2019 , an increase from the previous Year were 3906.0 thousand babies were born ."
+   ],
+   "trends": [
+      {
+         "10": "7",
+         "12": "0"
+      },
+      {
+         "6": "0",
+         "14": "0",
+         "23": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Cost of goods sold in million euros": "5042.0"
+      },
+      {
+         "Year": "2018",
+         "Cost of goods sold in million euros": "3906.0"
+      },
+      {
+         "Year": "2017",
+         "Cost of goods sold in million euros": "3241.0"
+      },
+      {
+         "Year": "2016",
+         "Cost of goods sold in million euros": "2551.0"
+      },
+      {
+         "Year": "2015",
+         "Cost of goods sold in million euros": "1714.0"
+      },
+      {
+         "Year": "2014",
+         "Cost of goods sold in million euros": "911.0"
+      },
+      {
+         "Year": "2013",
+         "Cost of goods sold in million euros": "618.0"
+      },
+      {
+         "Year": "2012",
+         "Cost of goods sold in million euros": "386.5"
+      }
+   ]
+}

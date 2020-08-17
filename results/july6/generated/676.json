@@ -1,0 +1,73 @@
+{
+   "title": "Number of people with hearing loss global vs European countries 2015",
+   "xAxis": "Country",
+   "yAxis": "Estimated number of people with hearing loss",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Estimated of the chemical element European ( also known as wolfram ) hearing in 2015 , loss Country . ",
+      "In that year , Global had the Ireland 's largest European Estimated , at some 328.0 million number people ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "7": "12",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Global",
+         "Estimated number of people with hearing loss": "328.0"
+      },
+      {
+         "Country": "Europe",
+         "Estimated number of people with hearing loss": "119.0"
+      },
+      {
+         "Country": "European Union",
+         "Estimated number of people with hearing loss": "51.0"
+      },
+      {
+         "Country": "United Kingdom",
+         "Estimated number of people with hearing loss": "10.0"
+      },
+      {
+         "Country": "France",
+         "Estimated number of people with hearing loss": "6.0"
+      },
+      {
+         "Country": "Spain",
+         "Estimated number of people with hearing loss": "3.5"
+      },
+      {
+         "Country": "Netherlands",
+         "Estimated number of people with hearing loss": "1.6"
+      },
+      {
+         "Country": "Austria",
+         "Estimated number of people with hearing loss": "1.6"
+      },
+      {
+         "Country": "Sweden",
+         "Estimated number of people with hearing loss": "1.4"
+      },
+      {
+         "Country": "Belgium",
+         "Estimated number of people with hearing loss": "1.3"
+      },
+      {
+         "Country": "Poland",
+         "Estimated number of people with hearing loss": "1.0"
+      },
+      {
+         "Country": "Denmark",
+         "Estimated number of people with hearing loss": "0.8"
+      },
+      {
+         "Country": "Ireland",
+         "Estimated number of people with hearing loss": "0.8"
+      }
+   ]
+}

@@ -1,0 +1,98 @@
+{
+   "title": "Countries with the highest population decline rate 2017",
+   "xAxis": "Country",
+   "yAxis": "Population decline compared to the previous year",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Population of the highest compared in decline as of 2020 , sorted by Country . ",
+      "In that year , highest compared in Cook_Islands was the population Country ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Cook Islands",
+         "Population decline compared to the previous year": "2.79"
+      },
+      {
+         "Country": "Puerto Rico",
+         "Population decline compared to the previous year": "1.74"
+      },
+      {
+         "Country": "American Samoa",
+         "Population decline compared to the previous year": "1.3"
+      },
+      {
+         "Country": "Lebanon",
+         "Population decline compared to the previous year": "1.1"
+      },
+      {
+         "Country": "Saint Pierre and Miquelon",
+         "Population decline compared to the previous year": "1.08"
+      },
+      {
+         "Country": "Latvia",
+         "Population decline compared to the previous year": "1.08"
+      },
+      {
+         "Country": "Lithuania",
+         "Population decline compared to the previous year": "1.08"
+      },
+      {
+         "Country": "Moldova",
+         "Population decline compared to the previous year": "1.05"
+      },
+      {
+         "Country": "Bulgaria",
+         "Population decline compared to the previous year": "0.61"
+      },
+      {
+         "Country": "Estonia",
+         "Population decline compared to the previous year": "0.57"
+      },
+      {
+         "Country": "Federated States of Micronesia",
+         "Population decline compared to the previous year": "0.52"
+      },
+      {
+         "Country": "Northern Mariana Islands",
+         "Population decline compared to the previous year": "0.51"
+      },
+      {
+         "Country": "Croatia",
+         "Population decline compared to the previous year": "0.5"
+      },
+      {
+         "Country": "Serbia",
+         "Population decline compared to the previous year": "0.46"
+      },
+      {
+         "Country": "Ukraine",
+         "Population decline compared to the previous year": "0.41"
+      },
+      {
+         "Country": "Romania",
+         "Population decline compared to the previous year": "0.33"
+      },
+      {
+         "Country": "Slovenia",
+         "Population decline compared to the previous year": "0.31"
+      },
+      {
+         "Country": "Cuba",
+         "Population decline compared to the previous year": "0.29"
+      },
+      {
+         "Country": "Montenegro",
+         "Population decline compared to the previous year": "0.28"
+      },
+      {
+         "Country": "Virgin Islands",
+         "Population decline compared to the previous year": "0.25"
+      }
+   ]
+}

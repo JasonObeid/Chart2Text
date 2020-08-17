@@ -1,0 +1,58 @@
+{
+   "title": "Top U.S. states by number of hogs and pigs 2019\n",
+   "xAxis": "State",
+   "yAxis": "Number in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing State, and a y axis representing Number in thousands.",
+      " The highest category is found at Iowa where Number in thousands is 23500.0.",
+      " The lowest category is found at Kansas where Number in thousands is 2040.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "State": "Iowa",
+         "Number in thousands": 23500.0
+      },
+      {
+         "State": "North Carolina",
+         "Number in thousands": 8900.0
+      },
+      {
+         "State": "Minnesota",
+         "Number in thousands": 8700.0
+      },
+      {
+         "State": "Illinois",
+         "Number in thousands": 5200.0
+      },
+      {
+         "State": "Indiana",
+         "Number in thousands": 4150.0
+      },
+      {
+         "State": "Nebraska",
+         "Number in thousands": 3550.0
+      },
+      {
+         "State": "Missouri",
+         "Number in thousands": 3500.0
+      },
+      {
+         "State": "Ohio",
+         "Number in thousands": 2600.0
+      },
+      {
+         "State": "Oklahoma",
+         "Number in thousands": 2170.0
+      },
+      {
+         "State": "Kansas",
+         "Number in thousands": 2040.0
+      }
+   ]
+}

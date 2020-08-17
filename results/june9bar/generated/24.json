@@ -1,0 +1,65 @@
+{
+   "title": "Fatality numbers from heat waves and cold waves in the U.S.from 1900 to 2016",
+   "xAxis": "Type, Year, Location",
+   "yAxis": "Number of fatalities",
+   "graphType": "bar",
+   "summary": [
+      "In 1900 , Heat_wave_1980_Kansas_City_Missouri_St_Loius had the highest Number of the fatalities numbers , at approximately 1260 % . ",
+      "Heat_wave_1936_Illinois had the second largest Number . ",
+      "This was followed by 1193 million fatalities ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "15": "0"
+      },
+      {
+         "0": "1"
+      },
+      {
+         "4": "1"
+      }
+   ],
+   "data": [
+      {
+         "Type, Year, Location": "Heat wave 1980 Kansas City Missouri St Loius",
+         "Number of fatalities": "1260"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1936 Illinois",
+         "Number of fatalities": "1193"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1995 Missouri Oklahoma Illinois",
+         "Number of fatalities": "670"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1999 Illinois Missouri Wisconsin",
+         "Number of fatalities": "257"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1983",
+         "Number of fatalities": "188"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1966 St Louis Missouri",
+         "Number of fatalities": "182"
+      },
+      {
+         "Type, Year, Location": "Heat wave 2006 California",
+         "Number of fatalities": "164"
+      },
+      {
+         "Type, Year, Location": "Cold wave 1963",
+         "Number of fatalities": "150"
+      },
+      {
+         "Type, Year, Location": "Heat wave 1998 Arizona Florida Colorado",
+         "Number of fatalities": "130"
+      },
+      {
+         "Type, Year, Location": "Heat wave 2012 Washington DC Iowa Virginia North Carolina",
+         "Number of fatalities": "107"
+      }
+   ]
+}

@@ -1,0 +1,46 @@
+{
+   "title": "Fast food restaurant visit frequency in the United Kingdom ( UK ) 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the results of a survey about the restaurant visit of several individual Fast I_don't_eat_at_fast_food_restaurants in United Kingdom 2015 , phrased One_to_three_times_per_week the question : `` except reading books . ",
+      "44 % of respondents stated that they followed by the Four_to_six_times_per_week days ."
+   ],
+   "trends": [
+      {
+         "16": "5",
+         "23": "1"
+      },
+      {
+         "0": "0",
+         "10": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Less than once per week",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "One to three times per week",
+         "Share of respondents": "27"
+      },
+      {
+         "Response": "Four to six times per week",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Seven to nine times per week",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Ten times or more per week",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "I don't eat at fast food restaurants",
+         "Share of respondents": "24"
+      }
+   ]
+}

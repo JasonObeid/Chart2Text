@@ -1,0 +1,30 @@
+{
+   "title": "U.S. grill ownership by type of grill 2018\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Gas_grill where Share of respondents is 64.0.",
+      " The lowest category is found at Electric_grill where Share of respondents is 9.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Response": "Gas grill",
+         "Share of respondents": 64.0
+      },
+      {
+         "Response": "Charcoal grill",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Electric grill",
+         "Share of respondents": 9.0
+      }
+   ]
+}

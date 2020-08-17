@@ -1,0 +1,68 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in the Netherlands 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the growth in real GDP in Netherlands from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Netherlands 's real Gross domestic product increased by around 2.6 % compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "6",
+         "19": "0"
+      },
+      {
+         "1": "6",
+         "12": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": "1.52"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "1.47"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "1.49"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "1.53"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "1.64"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "1.77"
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": "2.6"
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": "2.91"
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": "2.19"
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": "1.96"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "1.42"
+      }
+   ]
+}

@@ -1,0 +1,81 @@
+{
+   "title": "Average U.S. brand response rate on social media 2017 , by vertical",
+   "xAxis": "Month",
+   "yAxis": "Average response rate",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Average U.S. brand response rate U.S. media as of 2018 , sorted by global response rate . ",
+      "As of that Month , there were 14 response rate in Media/Entertainment , earned an average of 18 million U.S. dollars in Utilities ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "2",
+         "11": "14",
+         "17": "0",
+         "22": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Utilities",
+         "Average response rate": "18"
+      },
+      {
+         "Month": "Retail",
+         "Average response rate": "16"
+      },
+      {
+         "Month": "Consumer Goods",
+         "Average response rate": "14"
+      },
+      {
+         "Month": "Banking/Finance",
+         "Average response rate": "13"
+      },
+      {
+         "Month": "Travel/Hospitality",
+         "Average response rate": "12"
+      },
+      {
+         "Month": "Internet/Technology",
+         "Average response rate": "11"
+      },
+      {
+         "Month": "Marketing/Advertising",
+         "Average response rate": "11"
+      },
+      {
+         "Month": "Automotive",
+         "Average response rate": "11"
+      },
+      {
+         "Month": "Real Estate",
+         "Average response rate": "10"
+      },
+      {
+         "Month": "Healthcare",
+         "Average response rate": "9"
+      },
+      {
+         "Month": "Professional Services",
+         "Average response rate": "9"
+      },
+      {
+         "Month": "Government",
+         "Average response rate": "8"
+      },
+      {
+         "Month": "Education",
+         "Average response rate": "7"
+      },
+      {
+         "Month": "Nonprofit",
+         "Average response rate": "7"
+      },
+      {
+         "Month": "Media/Entertainment",
+         "Average response rate": "6"
+      }
+   ]
+}

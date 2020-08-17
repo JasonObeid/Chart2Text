@@ -1,0 +1,70 @@
+{
+   "title": "Canada : number of individual firearms licenses held , by province or territory 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of firearms licenses",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of firearms in the firearms as of Canada by . ",
+      "As of 2018 , there were a total of 616489 firearms licenses ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of firearms licenses": "616489"
+      },
+      {
+         "Month": "Quebec",
+         "Number of firearms licenses": "500058"
+      },
+      {
+         "Month": "Alberta",
+         "Number of firearms licenses": "316791"
+      },
+      {
+         "Month": "British Columbia",
+         "Number of firearms licenses": "301775"
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of firearms licenses": "110573"
+      },
+      {
+         "Month": "Manitoba",
+         "Number of firearms licenses": "91107"
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of firearms licenses": "76802"
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of firearms licenses": "76180"
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of firearms licenses": "70111"
+      },
+      {
+         "Month": "Yukon",
+         "Number of firearms licenses": "7711"
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of firearms licenses": "6363"
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of firearms licenses": "5955"
+      },
+      {
+         "Month": "Nunavut",
+         "Number of firearms licenses": "3912"
+      }
+   ]
+}

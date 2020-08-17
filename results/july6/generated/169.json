@@ -1,0 +1,64 @@
+{
+   "title": "Major rice importing countries worldwide 2018/2019",
+   "xAxis": "Country",
+   "yAxis": "Import in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the leading nations to which the Major exported rice ( milled basis ) in . ",
+      "Some 4500 thousand metric were exported to China that year . ",
+      "Thus , China was ranked first among the most important destinations for Major rice Import in ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "7": "0"
+      },
+      {
+         "2": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Import in thousand metric tons": "4500"
+      },
+      {
+         "Country": "Philippines",
+         "Import in thousand metric tons": "2300"
+      },
+      {
+         "Country": "Nigeria",
+         "Import in thousand metric tons": "2200"
+      },
+      {
+         "Country": "European Union",
+         "Import in thousand metric tons": "2000"
+      },
+      {
+         "Country": "Bangladesh",
+         "Import in thousand metric tons": "1600"
+      },
+      {
+         "Country": "Cote d'Ivoire",
+         "Import in thousand metric tons": "1600"
+      },
+      {
+         "Country": "Iran",
+         "Import in thousand metric tons": "1400"
+      },
+      {
+         "Country": "Iraq",
+         "Import in thousand metric tons": "1300"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Import in thousand metric tons": "1300"
+      },
+      {
+         "Country": "Senegal",
+         "Import in thousand metric tons": "1250"
+      }
+   ]
+}

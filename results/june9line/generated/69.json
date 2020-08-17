@@ -1,0 +1,76 @@
+{
+   "title": "Participants in indoor soccer in the U.S. from 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of participants in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of participants in soccer the U.S. from 2006 to 2018 . ",
+      "In 2018 , there were approximately 5.23 millions participants in soccer . ",
+      "Water sports Water such as soccer , surfing snorkeling , scuba diving , canoeing kayaking and rafting draw millions of participants in the U.S. each Year ."
+   ],
+   "trends": [
+      {
+         "13": "12",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "6": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of participants in millions": "5.23"
+      },
+      {
+         "Year": "2017",
+         "Number of participants in millions": "5.4"
+      },
+      {
+         "Year": "2016",
+         "Number of participants in millions": "5.12"
+      },
+      {
+         "Year": "2015",
+         "Number of participants in millions": "4.81"
+      },
+      {
+         "Year": "2014",
+         "Number of participants in millions": "4.53"
+      },
+      {
+         "Year": "2013",
+         "Number of participants in millions": "4.8"
+      },
+      {
+         "Year": "2012",
+         "Number of participants in millions": "4.9"
+      },
+      {
+         "Year": "2011",
+         "Number of participants in millions": "4.34"
+      },
+      {
+         "Year": "2010",
+         "Number of participants in millions": "4.93"
+      },
+      {
+         "Year": "2009",
+         "Number of participants in millions": "4.91"
+      },
+      {
+         "Year": "2008",
+         "Number of participants in millions": "4.74"
+      },
+      {
+         "Year": "2007",
+         "Number of participants in millions": "4.24"
+      },
+      {
+         "Year": "2006",
+         "Number of participants in millions": "4.7"
+      }
+   ]
+}

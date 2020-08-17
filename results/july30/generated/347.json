@@ -1,0 +1,77 @@
+{
+   "title": "Ebola cases and deaths in West African outbreak by country 2016",
+   "labels": [
+      "Country",
+      "Cases",
+      "Deaths"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 11 categories for the x axis of Country representing Cases, and Deaths.",
+      " The highest category is found at Total with a mean value of 19984.5.",
+      " The second highest category is found at Sierra Leone with a mean value of 9040.0.",
+      " This represents a difference of 75.4%."
+   ],
+   "trends": {
+      "maxIndex": 10,
+      "secondIndex": 10
+   },
+   "data": [
+      {
+         "Country": "Guinea",
+         "Cases": "3811",
+         "Deaths": "2543"
+      },
+      {
+         "Country": "Liberia",
+         "Cases": "10675",
+         "Deaths": "4809"
+      },
+      {
+         "Country": "Sierra Leone",
+         "Cases": "14124",
+         "Deaths": "3956"
+      },
+      {
+         "Country": "Nigeria",
+         "Cases": "20",
+         "Deaths": "8"
+      },
+      {
+         "Country": "Senegal",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Spain",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "United States",
+         "Cases": "4",
+         "Deaths": "1"
+      },
+      {
+         "Country": "Mali",
+         "Cases": "8",
+         "Deaths": "6"
+      },
+      {
+         "Country": "United Kingdom",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Italy",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Total",
+         "Cases": "28646",
+         "Deaths": "11323"
+      }
+   ]
+}

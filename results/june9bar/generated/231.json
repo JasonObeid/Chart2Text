@@ -1,0 +1,99 @@
+{
+   "title": "Leading companies in Norway 2019 , by number of employees",
+   "xAxis": "Month",
+   "yAxis": "Number of employees",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Leading companies Norway 2019 by number as of 2018 . ",
+      "As of the measured period , Helse_S\u00f8r-\u00d8st_RHF had the biggest Number of 60368 employees ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Helse S\u00f8r-\u00d8st RHF",
+         "Number of employees": "60368"
+      },
+      {
+         "Month": "Telenor ASA",
+         "Number of employees": "31000"
+      },
+      {
+         "Month": "Aker ASA",
+         "Number of employees": "20753"
+      },
+      {
+         "Month": "Equinor ASA / Statoil",
+         "Number of employees": "20245"
+      },
+      {
+         "Month": "Posten Norge AS",
+         "Number of employees": "18327"
+      },
+      {
+         "Month": "Orkla ASA",
+         "Number of employees": "18154"
+      },
+      {
+         "Month": "Yara International ASA",
+         "Number of employees": "14736"
+      },
+      {
+         "Month": "Aker Solutions ASA",
+         "Number of employees": "14300"
+      },
+      {
+         "Month": "Tallyman AS",
+         "Number of employees": "13760"
+      },
+      {
+         "Month": "Norges Statsbaner AS",
+         "Number of employees": "13006"
+      },
+      {
+         "Month": "Norsk Hydro ASA",
+         "Number of employees": "12911"
+      },
+      {
+         "Month": "Marine Harvest ASA",
+         "Number of employees": "12717"
+      },
+      {
+         "Month": "Strawberry Holding AS",
+         "Number of employees": "10412"
+      },
+      {
+         "Month": "Nordic Choice Hospitality Group AS",
+         "Number of employees": "10320"
+      },
+      {
+         "Month": "Kongsberg Automotive ASA",
+         "Number of employees": "9791"
+      },
+      {
+         "Month": "DNB ASA",
+         "Number of employees": "9561"
+      },
+      {
+         "Month": "Hfn Group AS",
+         "Number of employees": "9172"
+      },
+      {
+         "Month": "Evry ASA",
+         "Number of employees": "9100"
+      },
+      {
+         "Month": "Hospitality Invest AS",
+         "Number of employees": "9001"
+      },
+      {
+         "Month": "Nokas AS",
+         "Number of employees": "8273"
+      }
+   ]
+}

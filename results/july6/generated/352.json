@@ -1,0 +1,50 @@
+{
+   "title": "Surface area of the Nordic countries 2017",
+   "xAxis": "Country",
+   "yAxis": "Surface area in square kilometers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Sweden Nordic 's Surface area Nordic in 2017 . ",
+      "In 2017 , Sweden were the UK 's most important area partner with a Surface of 447420 million of area square ."
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {
+         "3": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Sweden",
+         "Surface area in square kilometers": "447420"
+      },
+      {
+         "Country": "Greenland",
+         "Surface area in square kilometers": "410450"
+      },
+      {
+         "Country": "Norway",
+         "Surface area in square kilometers": "385178"
+      },
+      {
+         "Country": "Finland",
+         "Surface area in square kilometers": "338420"
+      },
+      {
+         "Country": "Iceland",
+         "Surface area in square kilometers": "103000"
+      },
+      {
+         "Country": "Denmark",
+         "Surface area in square kilometers": "42922"
+      },
+      {
+         "Country": "Faroe Islands",
+         "Surface area in square kilometers": "1396"
+      }
+   ]
+}

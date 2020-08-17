@@ -1,0 +1,74 @@
+{
+   "title": "Number of visitors to the Mount Rushmore National Memorial in the U.S. 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "Mount Rushmore National Memorial Park in the Memorial attracted a total of approximately 1.96 millions visitors in 2019 , down from its visitation peak of 2.44 millions in 2017 . ",
+      "A Mount Rushmore National Memorial uniting nations Mount Rushmore National Memorial Park 's name derived from the many glaciers that shaped its topography for over 2.43 millions years . ",
+      "Located in Montana on the Canada-U.S. border , Mount Rushmore National Memorial Park is the second half of the Glacier-Waterton International Peace Mount Rushmore National Memorial , the first half being Waterton Lakes Mount Rushmore National Memorial in Canada ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "14": "0",
+         "22": "2",
+         "25": "2"
+      },
+      {
+         "19": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": "1.96"
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": "2.31"
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": "2.44"
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": "2.43"
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": "2.43"
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": "2.14"
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": "2.16"
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": "2.19"
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": "2.08"
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": "2.33"
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": "2.26"
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": "1.79"
+      }
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "title": "U.S. consumers ' purchase location of shampoos and conditioners 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among 559 industrial enterprises on their opinion on the U.S. they \"Big_Box\"_retail_store_(e.g._Walmart_Target) . ",
+      "As of 2014 , 62 % of respondents stated that they believed that they had abandoned shopping shampoos ."
+   ],
+   "trends": [
+      {
+         "19": "0"
+      },
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "\"Big Box\" retail store (e.g. Walmart Target)",
+         "Share of respondents": "62"
+      },
+      {
+         "Response": "Grocery store/Supermarket",
+         "Share of respondents": "36"
+      },
+      {
+         "Response": "Pharmacy (e.g. CVS Walgreens)",
+         "Share of respondents": "31"
+      },
+      {
+         "Response": "Online (Net)",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Online mass merchandiser (e.g. Amazon drugstore.com)",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "Department Stores (e.g. Macy's Nordstrom)",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "In-person at a specialty beauty products merchant (e.g. Sephora)",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Online specialty beauty products merchant (e.g. Sephora Ultra)",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "In-person/not in a store (e.g. Avon Mary Kay)",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Online through a \"sampling\" membership program (e.g. Ipsy Birchbox)",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Online through a specific brand's website (e.g. Clairol CoverGirl)",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Somewhere else",
+         "Share of respondents": "10"
+      }
+   ]
+}

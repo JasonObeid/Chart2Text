@@ -259,7 +259,7 @@ positiveTrends = ['increased', 'increase', 'increasing', 'grew', 'growing', 'ros
 negativeTrends = ['decreased', 'decrease', 'decreasing', 'shrank', 'shrinking', 'fell', 'falling', 'dropped',
                   'dropping']
 fillers = ['in', 'the', 'and', 'or', 'an', 'as', 'can', 'be', 'a', ':', '-',
-           'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', 'with']
+           'to', 'but', 'is', 'of', 'it', 'on', '.', 'at', '(', ')', ',', 'with', ';']
 
 analysis = [829, 662, 816, 528, 52, 151, 49, 499, 734, 316, 13, 492, 202, 767, 112]
 count = 0

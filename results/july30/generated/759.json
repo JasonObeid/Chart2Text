@@ -1,0 +1,133 @@
+{
+   "title": "Daily time spent watching television in Germany 1997 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Daily viewing time in minutes",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Daily viewing time in minutes, with a total of 23 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2006 to 1999.",
+      " Contrarily, the next significant trend is  positive which exists from 2019 to 2016.",
+      " Also, the next significant trend is  negative which exists from 2011 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 13,
+         "end": 20,
+         "trend": "y=4.17x+-8143.25",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-4.0x+8288.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 8,
+         "end": 11,
+         "trend": "y=6.5x+-12845.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Daily viewing time in minutes": 211.0
+      },
+      {
+         "Year": "2018",
+         "Daily viewing time in minutes": 217.0
+      },
+      {
+         "Year": "2017",
+         "Daily viewing time in minutes": 221.0
+      },
+      {
+         "Year": "2016",
+         "Daily viewing time in minutes": 223.0
+      },
+      {
+         "Year": "2015",
+         "Daily viewing time in minutes": 223.0
+      },
+      {
+         "Year": "2014",
+         "Daily viewing time in minutes": 221.0
+      },
+      {
+         "Year": "2013",
+         "Daily viewing time in minutes": 221.0
+      },
+      {
+         "Year": "2012",
+         "Daily viewing time in minutes": 222.0
+      },
+      {
+         "Year": "2011",
+         "Daily viewing time in minutes": 225.0
+      },
+      {
+         "Year": "2010",
+         "Daily viewing time in minutes": 223.0
+      },
+      {
+         "Year": "2009",
+         "Daily viewing time in minutes": 212.0
+      },
+      {
+         "Year": "2008",
+         "Daily viewing time in minutes": 207.0
+      },
+      {
+         "Year": "2007",
+         "Daily viewing time in minutes": 208.0
+      },
+      {
+         "Year": "2006",
+         "Daily viewing time in minutes": 212.0
+      },
+      {
+         "Year": "2005",
+         "Daily viewing time in minutes": 211.0
+      },
+      {
+         "Year": "2004",
+         "Daily viewing time in minutes": 210.0
+      },
+      {
+         "Year": "2003",
+         "Daily viewing time in minutes": 203.0
+      },
+      {
+         "Year": "2002",
+         "Daily viewing time in minutes": 201.0
+      },
+      {
+         "Year": "2001",
+         "Daily viewing time in minutes": 192.0
+      },
+      {
+         "Year": "2000",
+         "Daily viewing time in minutes": 190.0
+      },
+      {
+         "Year": "1999",
+         "Daily viewing time in minutes": 185.0
+      },
+      {
+         "Year": "1998",
+         "Daily viewing time in minutes": 188.0
+      },
+      {
+         "Year": "1997",
+         "Daily viewing time in minutes": 183.0
+      }
+   ]
+}

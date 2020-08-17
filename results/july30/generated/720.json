@@ -1,0 +1,53 @@
+{
+   "title": "Driver satisfaction with Uber U.S. 2017 to 2019",
+   "labels": [
+      "Response",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 5 categories for the x axis of Response representing 2017, 2018, and 2019.",
+      " The highest category is found at Somewhat agree with a mean value of 39.06666666666667.",
+      " The second highest category is found at Somewhat disagree with a mean value of 21.733333333333334.",
+      " This represents a difference of 57.0%."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "secondIndex": 3
+   },
+   "data": [
+      {
+         "Response": "Strongly disagree",
+         "2017": "10.8",
+         "2018": "8.2",
+         "2019": "13.9"
+      },
+      {
+         "Response": "Somewhat disagree",
+         "2017": "25.4",
+         "2018": "17.3",
+         "2019": "22.5"
+      },
+      {
+         "Response": "Neither agree nor disagree",
+         "2017": "14.4",
+         "2018": "16.3",
+         "2019": "19.1"
+      },
+      {
+         "Response": "Somewhat agree",
+         "2017": "39.7",
+         "2018": "43.4",
+         "2019": "34.1"
+      },
+      {
+         "Response": "Strongly agree",
+         "2017": "9.7",
+         "2018": "14.8",
+         "2019": "10.5"
+      }
+   ]
+}

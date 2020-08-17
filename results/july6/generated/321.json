@@ -1,0 +1,315 @@
+{
+   "title": "Average wages by country , in purchasing power parity dollars , 2012",
+   "xAxis": "Country",
+   "yAxis": "Average monthly wage in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the degree of country Average in power parity worldwide . ",
+      "According to the Average Index , Tajikistan occupied the last place in country Average with 227 Average monthly in 2012 . ",
+      "Norway and Luxembourg were ranked first and second with 4089 and 3678 out of 100 Average monthly respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "71",
+         "15": "71"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "9": "0",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Luxembourg",
+         "Average monthly wage in U.S. dollars": "4089"
+      },
+      {
+         "Country": "Norway",
+         "Average monthly wage in U.S. dollars": "3678"
+      },
+      {
+         "Country": "Austria",
+         "Average monthly wage in U.S. dollars": "3437"
+      },
+      {
+         "Country": "United States",
+         "Average monthly wage in U.S. dollars": "3263"
+      },
+      {
+         "Country": "United Kingdom",
+         "Average monthly wage in U.S. dollars": "3065"
+      },
+      {
+         "Country": "Belgium",
+         "Average monthly wage in U.S. dollars": "3035"
+      },
+      {
+         "Country": "Sweden",
+         "Average monthly wage in U.S. dollars": "3023"
+      },
+      {
+         "Country": "Ireland",
+         "Average monthly wage in U.S. dollars": "2997"
+      },
+      {
+         "Country": "Finland",
+         "Average monthly wage in U.S. dollars": "2925"
+      },
+      {
+         "Country": "Korea (Republic of)",
+         "Average monthly wage in U.S. dollars": "2903"
+      },
+      {
+         "Country": "France",
+         "Average monthly wage in U.S. dollars": "2886"
+      },
+      {
+         "Country": "Canada",
+         "Average monthly wage in U.S. dollars": "2724"
+      },
+      {
+         "Country": "Germany",
+         "Average monthly wage in U.S. dollars": "2720"
+      },
+      {
+         "Country": "Singapore",
+         "Average monthly wage in U.S. dollars": "2616"
+      },
+      {
+         "Country": "Australia",
+         "Average monthly wage in U.S. dollars": "2610"
+      },
+      {
+         "Country": "Cyprus",
+         "Average monthly wage in U.S. dollars": "2605"
+      },
+      {
+         "Country": "Japan",
+         "Average monthly wage in U.S. dollars": "2522"
+      },
+      {
+         "Country": "Italy",
+         "Average monthly wage in U.S. dollars": "2445"
+      },
+      {
+         "Country": "Iceland",
+         "Average monthly wage in U.S. dollars": "2431"
+      },
+      {
+         "Country": "Spain",
+         "Average monthly wage in U.S. dollars": "2352"
+      },
+      {
+         "Country": "Greece",
+         "Average monthly wage in U.S. dollars": "2300"
+      },
+      {
+         "Country": "New Zealand",
+         "Average monthly wage in U.S. dollars": "2283"
+      },
+      {
+         "Country": "South Africa",
+         "Average monthly wage in U.S. dollars": "1838"
+      },
+      {
+         "Country": "Malta",
+         "Average monthly wage in U.S. dollars": "1808"
+      },
+      {
+         "Country": "Israel",
+         "Average monthly wage in U.S. dollars": "1804"
+      },
+      {
+         "Country": "Czech Republic",
+         "Average monthly wage in U.S. dollars": "1786"
+      },
+      {
+         "Country": "Croatia",
+         "Average monthly wage in U.S. dollars": "1756"
+      },
+      {
+         "Country": "Turkey",
+         "Average monthly wage in U.S. dollars": "1731"
+      },
+      {
+         "Country": "Qatar",
+         "Average monthly wage in U.S. dollars": "1690"
+      },
+      {
+         "Country": "Hong Kong (China)",
+         "Average monthly wage in U.S. dollars": "1545"
+      },
+      {
+         "Country": "Poland",
+         "Average monthly wage in U.S. dollars": "1536"
+      },
+      {
+         "Country": "Slovakia",
+         "Average monthly wage in U.S. dollars": "1385"
+      },
+      {
+         "Country": "Hungary",
+         "Average monthly wage in U.S. dollars": "1374"
+      },
+      {
+         "Country": "Macedonia",
+         "Average monthly wage in U.S. dollars": "1345"
+      },
+      {
+         "Country": "Bosnia & Herzegovina",
+         "Average monthly wage in U.S. dollars": "1338"
+      },
+      {
+         "Country": "Estonia",
+         "Average monthly wage in U.S. dollars": "1267"
+      },
+      {
+         "Country": "Russian Federation",
+         "Average monthly wage in U.S. dollars": "1215"
+      },
+      {
+         "Country": "Jamaica",
+         "Average monthly wage in U.S. dollars": "1135"
+      },
+      {
+         "Country": "Lithuania",
+         "Average monthly wage in U.S. dollars": "1109"
+      },
+      {
+         "Country": "Argentina",
+         "Average monthly wage in U.S. dollars": "1108"
+      },
+      {
+         "Country": "Latvia",
+         "Average monthly wage in U.S. dollars": "1098"
+      },
+      {
+         "Country": "Serbia",
+         "Average monthly wage in U.S. dollars": "1058"
+      },
+      {
+         "Country": "Chile",
+         "Average monthly wage in U.S. dollars": "1021"
+      },
+      {
+         "Country": "Botswana",
+         "Average monthly wage in U.S. dollars": "996"
+      },
+      {
+         "Country": "Malaysia",
+         "Average monthly wage in U.S. dollars": "961"
+      },
+      {
+         "Country": "Belarus",
+         "Average monthly wage in U.S. dollars": "959"
+      },
+      {
+         "Country": "Romania",
+         "Average monthly wage in U.S. dollars": "954"
+      },
+      {
+         "Country": "Bahrain",
+         "Average monthly wage in U.S. dollars": "917"
+      },
+      {
+         "Country": "Panama",
+         "Average monthly wage in U.S. dollars": "831"
+      },
+      {
+         "Country": "Mauritius",
+         "Average monthly wage in U.S. dollars": "783"
+      },
+      {
+         "Country": "Brazil",
+         "Average monthly wage in U.S. dollars": "778"
+      },
+      {
+         "Country": "Macau (China)",
+         "Average monthly wage in U.S. dollars": "758"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Average monthly wage in U.S. dollars": "753"
+      },
+      {
+         "Country": "Bulgaria",
+         "Average monthly wage in U.S. dollars": "750"
+      },
+      {
+         "Country": "Colombia",
+         "Average monthly wage in U.S. dollars": "692"
+      },
+      {
+         "Country": "Ukraine",
+         "Average monthly wage in U.S. dollars": "686"
+      },
+      {
+         "Country": "China",
+         "Average monthly wage in U.S. dollars": "656"
+      },
+      {
+         "Country": "Mexico",
+         "Average monthly wage in U.S. dollars": "609"
+      },
+      {
+         "Country": "Georgia",
+         "Average monthly wage in U.S. dollars": "603"
+      },
+      {
+         "Country": "Azerbaijan",
+         "Average monthly wage in U.S. dollars": "596"
+      },
+      {
+         "Country": "Egypt",
+         "Average monthly wage in U.S. dollars": "548"
+      },
+      {
+         "Country": "Thailand",
+         "Average monthly wage in U.S. dollars": "489"
+      },
+      {
+         "Country": "Armenia",
+         "Average monthly wage in U.S. dollars": "471"
+      },
+      {
+         "Country": "Dominican Republic",
+         "Average monthly wage in U.S. dollars": "462"
+      },
+      {
+         "Country": "Moldova (Republic of)",
+         "Average monthly wage in U.S. dollars": "438"
+      },
+      {
+         "Country": "Mongolia",
+         "Average monthly wage in U.S. dollars": "415"
+      },
+      {
+         "Country": "Syrian Arab Republic",
+         "Average monthly wage in U.S. dollars": "364"
+      },
+      {
+         "Country": "Kyrgyzstan Republic",
+         "Average monthly wage in U.S. dollars": "336"
+      },
+      {
+         "Country": "India",
+         "Average monthly wage in U.S. dollars": "295"
+      },
+      {
+         "Country": "Philippines",
+         "Average monthly wage in U.S. dollars": "279"
+      },
+      {
+         "Country": "Pakistan",
+         "Average monthly wage in U.S. dollars": "255"
+      },
+      {
+         "Country": "Tajikistan",
+         "Average monthly wage in U.S. dollars": "227"
+      }
+   ]
+}

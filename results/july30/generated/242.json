@@ -1,0 +1,34 @@
+{
+   "title": "Chains with the largest share of the U.S. burger restaurant market as of June 2014\n",
+   "xAxis": "Burger Restaurant Chains",
+   "yAxis": "Share of the burger restaurant market",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Burger Restaurant Chains, and a y axis representing Share of the burger restaurant market.",
+      " The highest category is found at McDonald's where Share of the burger restaurant market is 34.3.",
+      " The lowest category is found at Sonic_Drive-Ins where Share of the burger restaurant market is 8.2."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Burger Restaurant Chains": "McDonald's",
+         "Share of the burger restaurant market": 34.3
+      },
+      {
+         "Burger Restaurant Chains": "Burger King",
+         "Share of the burger restaurant market": 15.4
+      },
+      {
+         "Burger Restaurant Chains": "Wendy's",
+         "Share of the burger restaurant market": 13.9
+      },
+      {
+         "Burger Restaurant Chains": "Sonic Drive-Ins",
+         "Share of the burger restaurant market": 8.2
+      }
+   ]
+}

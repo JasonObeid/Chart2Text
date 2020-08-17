@@ -1,0 +1,71 @@
+{
+   "title": "U.S. chemical products price index 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Price index (2012 = 100)",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Price of index (2012 in price U.S. from 2008 to 2018 . ",
+      "In 2018 , there were 97.4 index (2012 in U.S.",
+      "Gambling in U.S. - additional information The Price of index (2012 in U.S. increased by more than 2,000 between 2007 and 2017 ."
+   ],
+   "trends": [
+      {
+         "13": "10",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      },
+      {
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Price index (2012 = 100)": "97.4"
+      },
+      {
+         "Year": "2017",
+         "Price index (2012 = 100)": "92.7"
+      },
+      {
+         "Year": "2016",
+         "Price index (2012 = 100)": "90.0"
+      },
+      {
+         "Year": "2015",
+         "Price index (2012 = 100)": "93.2"
+      },
+      {
+         "Year": "2014",
+         "Price index (2012 = 100)": "99.8"
+      },
+      {
+         "Year": "2013",
+         "Price index (2012 = 100)": "99.7"
+      },
+      {
+         "Year": "2012",
+         "Price index (2012 = 100)": "100.0"
+      },
+      {
+         "Year": "2011",
+         "Price index (2012 = 100)": "97.8"
+      },
+      {
+         "Year": "2010",
+         "Price index (2012 = 100)": "89.0"
+      },
+      {
+         "Year": "2009",
+         "Price index (2012 = 100)": "86.1"
+      },
+      {
+         "Year": "2008",
+         "Price index (2012 = 100)": "90.9"
+      }
+   ]
+}

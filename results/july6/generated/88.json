@@ -1,0 +1,100 @@
+{
+   "title": "Passenger traffic at Tokyo Airport 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of passengers in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of Tokyo Airport passengers Airport from 2000 to 2018 . ",
+      "In 2018 , market research company Tokyo Airport employed 87.13 members of staff Airport , up from 85.41 in the previous Year ."
+   ],
+   "trends": [
+      {
+         "10": "18",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "8": "0",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of passengers in millions": "87.13"
+      },
+      {
+         "Year": "2017",
+         "Number of passengers in millions": "85.41"
+      },
+      {
+         "Year": "2016",
+         "Number of passengers in millions": "79.7"
+      },
+      {
+         "Year": "2015",
+         "Number of passengers in millions": "75.32"
+      },
+      {
+         "Year": "2014",
+         "Number of passengers in millions": "72.83"
+      },
+      {
+         "Year": "2013",
+         "Number of passengers in millions": "68.91"
+      },
+      {
+         "Year": "2012",
+         "Number of passengers in millions": "66.8"
+      },
+      {
+         "Year": "2011",
+         "Number of passengers in millions": "62.58"
+      },
+      {
+         "Year": "2010",
+         "Number of passengers in millions": "64.21"
+      },
+      {
+         "Year": "2009",
+         "Number of passengers in millions": "61.9"
+      },
+      {
+         "Year": "2008",
+         "Number of passengers in millions": "66.75"
+      },
+      {
+         "Year": "2007",
+         "Number of passengers in millions": "66.82"
+      },
+      {
+         "Year": "2006",
+         "Number of passengers in millions": "66.09"
+      },
+      {
+         "Year": "2005",
+         "Number of passengers in millions": "63.28"
+      },
+      {
+         "Year": "2004",
+         "Number of passengers in millions": "62.29"
+      },
+      {
+         "Year": "2003",
+         "Number of passengers in millions": "62.88"
+      },
+      {
+         "Year": "2002",
+         "Number of passengers in millions": "61.08"
+      },
+      {
+         "Year": "2001",
+         "Number of passengers in millions": "58.69"
+      },
+      {
+         "Year": "2000",
+         "Number of passengers in millions": "56.4"
+      }
+   ]
+}

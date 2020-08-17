@@ -1,0 +1,89 @@
+{
+   "title": "Number of visitors to Zion National Park in the U.S. 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of visitors in millions, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2017 to 2013.",
+      " Contrarily, the next significant trend is  negative which exists from 2012 to 2010.",
+      " On the contrary, the next significant trend is  positive which exists from 2010 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 2,
+         "end": 6,
+         "trend": "y=0.45x+-901.04",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 7,
+         "end": 9,
+         "trend": "y=0.15x+-298.83",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=-0.01x+22.79",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": 4.49
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": 4.32
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": 4.5
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": 4.3
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": 3.65
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": 3.19
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": 2.81
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": 2.97
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": 2.83
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": 2.67
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": 2.74
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": 2.69
+      }
+   ]
+}

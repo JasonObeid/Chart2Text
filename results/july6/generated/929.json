@@ -1,0 +1,53 @@
+{
+   "title": "Retail price index ( RPI ) forecast UK 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Percentage change",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The Retail price index of the United Kingdom is forecasted to be generally stable in the near future , and only change by percentage of between 3.1 and percentage up until 2023 . ",
+      "In early 2019 the RPI rate was even lower than this at 1.8 percentage . ",
+      "Peak of 4.5 in 2011 The Retail price index is the most important measure of inflation within an economy and calculates how the cost of a typical basked of Retail goods changes over time ."
+   ],
+   "trends": [
+      {
+         "26": "0",
+         "28": "1",
+         "32": "0"
+      },
+      {
+         "2": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Percentage change": "3.1"
+      },
+      {
+         "Year": "2022",
+         "Percentage change": "3.1"
+      },
+      {
+         "Year": "2021",
+         "Percentage change": "3.2"
+      },
+      {
+         "Year": "2020",
+         "Percentage change": "3.1"
+      },
+      {
+         "Year": "2019",
+         "Percentage change": "3.1"
+      },
+      {
+         "Year": "2018",
+         "Percentage change": "3.5"
+      },
+      {
+         "Year": "2017",
+         "Percentage change": "3.6"
+      }
+   ]
+}

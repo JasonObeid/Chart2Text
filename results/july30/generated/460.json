@@ -1,0 +1,104 @@
+{
+   "title": "Canada : average family size 2000 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Average number of people",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average number of people, with a total of 18 data points. The chart has 2 significant trends.",
+      " The longest trend is  neutral which exists from 2017 to 2004.",
+      " Correspondingly, the next significant trend is  neutral which exists from 2003 to 2000."
+   ],
+   "trends": [
+      {
+         "Length": 14,
+         "direction": "neutral",
+         "start": 0,
+         "end": 13,
+         "trend": "y=0.0x+2.9",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "neutral",
+         "start": 14,
+         "end": 17,
+         "trend": "y=0.0x+3.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2016",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2015",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2014",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2013",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2012",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2011",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2010",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2009",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2008",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2007",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2006",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2005",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2004",
+         "Average number of people": 2.9
+      },
+      {
+         "Year": "2003",
+         "Average number of people": 3.0
+      },
+      {
+         "Year": "2002",
+         "Average number of people": 3.0
+      },
+      {
+         "Year": "2001",
+         "Average number of people": 3.0
+      },
+      {
+         "Year": "2000",
+         "Average number of people": 3.0
+      }
+   ]
+}

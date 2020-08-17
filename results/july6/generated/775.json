@@ -1,0 +1,71 @@
+{
+   "title": "Prevalence of undernourishment worldwide 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Proportion of undernourished people",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Proportion of undernourished people in 2000 Prevalence from 2000 to 2018 . ",
+      "In 2018 , there were 10.8 undernourished people in Prevalence . ",
+      "Gambling in Prevalence - additional information The Proportion of undernourished people in Prevalence increased by more than 2,000 between 2007 and 2017 ."
+   ],
+   "trends": [
+      {
+         "13": "10",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      },
+      {
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Proportion of undernourished people": "10.8"
+      },
+      {
+         "Year": "2017",
+         "Proportion of undernourished people": "10.8"
+      },
+      {
+         "Year": "2016",
+         "Proportion of undernourished people": "10.7"
+      },
+      {
+         "Year": "2015",
+         "Proportion of undernourished people": "10.6"
+      },
+      {
+         "Year": "2014",
+         "Proportion of undernourished people": "10.7"
+      },
+      {
+         "Year": "2013",
+         "Proportion of undernourished people": "11"
+      },
+      {
+         "Year": "2012",
+         "Proportion of undernourished people": "11.3"
+      },
+      {
+         "Year": "2011",
+         "Proportion of undernourished people": "11.5"
+      },
+      {
+         "Year": "2010",
+         "Proportion of undernourished people": "11.8"
+      },
+      {
+         "Year": "2005",
+         "Proportion of undernourished people": "13.8"
+      },
+      {
+         "Year": "2000",
+         "Proportion of undernourished people": "14.5"
+      }
+   ]
+}

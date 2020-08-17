@@ -1,0 +1,65 @@
+{
+   "title": "Revenue of water utilities - United States 2000 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, with a total of 6 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2013 to 2000.",
+      " On the other hand, the next significant trend is  negative which exists from 2015 to 2014.",
+      " Conversely, the next significant trend is  positive which exists from 2014 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 2,
+         "end": 5,
+         "trend": "y=1.7x+-3371.63",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 0,
+         "end": 1,
+         "trend": "y=1.8x+-3573.2",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 1,
+         "end": 2,
+         "trend": "y=-0.6x+1260.4",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": 53.8
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": 52.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion U.S. dollars": 52.6
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion U.S. dollars": 43.5
+      },
+      {
+         "Year": "2005",
+         "Revenue in billion U.S. dollars": 35.1
+      },
+      {
+         "Year": "2000",
+         "Revenue in billion U.S. dollars": 29.9
+      }
+   ]
+}

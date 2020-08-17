@@ -1,0 +1,60 @@
+{
+   "title": "Share of U.S. middle class population 2015 , by race and ethnicity",
+   "labels": [
+      "unknown",
+      "1971",
+      "2001",
+      "2015"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share and U.S. of class in the middle in 2015 , by . ",
+      "In 2015 , about 61 % All_adults class were 1971 class ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "4",
+            "1"
+         ],
+         "6": [
+            "4",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Asian",
+         "1971": "56",
+         "2001": "52",
+         "2015": "47"
+      },
+      {
+         "unknown": "Black",
+         "1971": "46",
+         "2001": "49",
+         "2015": "45"
+      },
+      {
+         "unknown": "Hispanic",
+         "1971": "58",
+         "2001": "49",
+         "2015": "48"
+      },
+      {
+         "unknown": "White",
+         "1971": "63",
+         "2001": "56",
+         "2015": "52"
+      },
+      {
+         "unknown": "All adults",
+         "1971": "61",
+         "2001": "54",
+         "2015": "50"
+      }
+   ]
+}

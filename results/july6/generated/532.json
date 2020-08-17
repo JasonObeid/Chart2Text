@@ -1,0 +1,79 @@
+{
+   "title": "Number of arrivals in tourist accommodation Italy 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of tourist arrivals at accommodation establishments in Italy from 2006 to 2018 . ",
+      "Since 2009 there has been an increasing trend in arrivals . ",
+      "In 2018 , the Number of arrivals ( including both foreign and domestic ) at accommodation in Italy amounted to approximately 128.1 millions ."
+   ],
+   "trends": [
+      {
+         "14": "12",
+         "16": "0"
+      },
+      {
+         "1": "9"
+      },
+      {
+         "1": "0",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of arrivals in millions": "128.1"
+      },
+      {
+         "Year": "2017",
+         "Number of arrivals in millions": "123.2"
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in millions": "116.9"
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in millions": "113.35"
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in millions": "106.55"
+      },
+      {
+         "Year": "2013",
+         "Number of arrivals in millions": "103.86"
+      },
+      {
+         "Year": "2012",
+         "Number of arrivals in millions": "103.73"
+      },
+      {
+         "Year": "2011",
+         "Number of arrivals in millions": "103.72"
+      },
+      {
+         "Year": "2010",
+         "Number of arrivals in millions": "98.81"
+      },
+      {
+         "Year": "2009",
+         "Number of arrivals in millions": "95.5"
+      },
+      {
+         "Year": "2008",
+         "Number of arrivals in millions": "95.55"
+      },
+      {
+         "Year": "2007",
+         "Number of arrivals in millions": "96.15"
+      },
+      {
+         "Year": "2006",
+         "Number of arrivals in millions": "93.04"
+      }
+   ]
+}

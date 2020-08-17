@@ -1,0 +1,113 @@
+{
+   "title": "Franchise value of the Los Angeles Clippers ( NBA ) 2003 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2016 to 2010.",
+      " Differently, the next significant trend is  negative which exists from 2009 to 2003.",
+      " But, the next significant trend is  negative which exists from 2020 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 4,
+         "end": 10,
+         "trend": "y=284.14x+-571189.71",
+         "magnitude": ""
+      },
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 11,
+         "end": 17,
+         "trend": "y=18.18x+-36214.64",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=185.0x+-371185.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Franchise value in million U.S. dollars": 2600.0
+      },
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": 2200.0
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": 2150.0
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": 2000.0
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": 2000.0
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": 1600.0
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": 575.0
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": 430.0
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": 324.0
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": 305.0
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": 295.0
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": 297.0
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": 294.0
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": 285.0
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": 248.0
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": 224.0
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": 208.0
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": 205.0
+      }
+   ]
+}

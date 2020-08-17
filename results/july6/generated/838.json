@@ -1,0 +1,87 @@
+{
+   "title": "Busiest U.S. airports - number of passengers 2018",
+   "xAxis": "U.S. airport",
+   "yAxis": "Passengers enplanements in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. enplanements of the U.S. airports number passengers in 2018 . ",
+      "In that year , Atlanta_GA_(ATL) was the airports number U.S. in the world . ",
+      "The European U.S. airports number passengers was estimated to be about 52.26 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      },
+      {
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "U.S. airport": "Atlanta GA (ATL)",
+         "Passengers enplanements in millions": "52.26"
+      },
+      {
+         "U.S. airport": "Los Angeles CA (LAX)",
+         "Passengers enplanements in millions": "43.27"
+      },
+      {
+         "U.S. airport": "Chicago IL (ORD)",
+         "Passengers enplanements in millions": "40.04"
+      },
+      {
+         "U.S. airport": "Dallas TX (DFW)",
+         "Passengers enplanements in millions": "32.92"
+      },
+      {
+         "U.S. airport": "Denver CO (DEN)",
+         "Passengers enplanements in millions": "31.68"
+      },
+      {
+         "U.S. airport": "New York NY (JFK)",
+         "Passengers enplanements in millions": "30.75"
+      },
+      {
+         "U.S. airport": "San Francisco CA (SFO)",
+         "Passengers enplanements in millions": "28.0"
+      },
+      {
+         "U.S. airport": "Seattle WA(SEA)",
+         "Passengers enplanements in millions": "24.08"
+      },
+      {
+         "U.S. airport": "Las Vegas NV (LAS)",
+         "Passengers enplanements in millions": "24.01"
+      },
+      {
+         "U.S. airport": "Orlando FL (MCO)",
+         "Passengers enplanements in millions": "23.33"
+      },
+      {
+         "U.S. airport": "Newark NJ (EWR)",
+         "Passengers enplanements in millions": "22.89"
+      },
+      {
+         "U.S. airport": "Charlotte NC (CLT)",
+         "Passengers enplanements in millions": "22.33"
+      },
+      {
+         "U.S. airport": "Phoenix AZ (PHX)",
+         "Passengers enplanements in millions": "21.88"
+      },
+      {
+         "U.S. airport": "Houston TX (IAH)",
+         "Passengers enplanements in millions": "21.27"
+      },
+      {
+         "U.S. airport": "Miami FL (MIA)",
+         "Passengers enplanements in millions": "21.1"
+      },
+      {
+         "U.S. airport": "Boston MA br>(BOS)",
+         "Passengers enplanements in millions": "20.07"
+      }
+   ]
+}

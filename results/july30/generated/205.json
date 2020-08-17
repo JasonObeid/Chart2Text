@@ -1,0 +1,78 @@
+{
+   "title": "Most trustworthy countries worldwide 2014\n",
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 15 categories for the x axis representing Country, and a y axis representing Share of respondents.",
+      " The highest category is found at Canada where Share of respondents is 42.0.",
+      " The lowest category is found at Mexico where Share of respondents is 7.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 13
+   },
+   "data": [
+      {
+         "Country": "Canada",
+         "Share of respondents": 42.0
+      },
+      {
+         "Country": "UK",
+         "Share of respondents": 39.0
+      },
+      {
+         "Country": "US",
+         "Share of respondents": 36.0
+      },
+      {
+         "Country": "Australia",
+         "Share of respondents": 36.0
+      },
+      {
+         "Country": "Germany",
+         "Share of respondents": 30.0
+      },
+      {
+         "Country": "Japan",
+         "Share of respondents": 28.0
+      },
+      {
+         "Country": "France",
+         "Share of respondents": 25.0
+      },
+      {
+         "Country": "Italy",
+         "Share of respondents": 20.0
+      },
+      {
+         "Country": "Spain",
+         "Share of respondents": 15.0
+      },
+      {
+         "Country": "China",
+         "Share of respondents": 11.0
+      },
+      {
+         "Country": "South Korea",
+         "Share of respondents": 10.0
+      },
+      {
+         "Country": "Brazil",
+         "Share of respondents": 9.0
+      },
+      {
+         "Country": "Russia",
+         "Share of respondents": 9.0
+      },
+      {
+         "Country": "Mexico",
+         "Share of respondents": 7.0
+      },
+      {
+         "Country": "India",
+         "Share of respondents": 7.0
+      }
+   ]
+}

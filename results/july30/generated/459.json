@@ -1,0 +1,58 @@
+{
+   "title": "Current year in various historical and world calendars 2020\n",
+   "xAxis": "Month",
+   "yAxis": "Current year (as of January 25, 2020)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Current year (as of January 25, 2020).",
+      " The highest category is found at Assyrian where Current year (as of January 25, 2020) is 6770.0.",
+      " The lowest category is found at French_Revolutionary where Current year (as of January 25, 2020) is 228.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Month": "Assyrian",
+         "Current year (as of January 25, 2020)": 6770.0
+      },
+      {
+         "Month": "Hebrew",
+         "Current year (as of January 25, 2020)": 5780.0
+      },
+      {
+         "Month": "Chinese",
+         "Current year (as of January 25, 2020)": 4718.0
+      },
+      {
+         "Month": "Julian",
+         "Current year (as of January 25, 2020)": 2773.0
+      },
+      {
+         "Month": "Buddhist",
+         "Current year (as of January 25, 2020)": 2563.0
+      },
+      {
+         "Month": "Gregorian",
+         "Current year (as of January 25, 2020)": 2020.0
+      },
+      {
+         "Month": "Hindu",
+         "Current year (as of January 25, 2020)": 1941.0
+      },
+      {
+         "Month": "Islamic",
+         "Current year (as of January 25, 2020)": 1441.0
+      },
+      {
+         "Month": "Iranian",
+         "Current year (as of January 25, 2020)": 1398.0
+      },
+      {
+         "Month": "French Revolutionary",
+         "Current year (as of January 25, 2020)": 228.0
+      }
+   ]
+}

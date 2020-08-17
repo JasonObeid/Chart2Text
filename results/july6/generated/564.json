@@ -1,0 +1,120 @@
+{
+   "title": "Share of economic sectors in the GDP in Malaysia 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Share of the economic sectors GDP Malaysia in from 2008 to 2018 . ",
+      "In 2018 , 7.54 % of the economic were employed in Agriculture , 38.3 % in Industry and 52.96 % in Services . ",
+      "Share of economic in Malaysia \u2013 additional information In 2012 , Malaysia was the largest exporting country worldwide with an export value of about two billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "10",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "0",
+            "3"
+         ]
+      },
+      {
+         "9": [
+            "6",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "7.54",
+         "Industry": "38.3",
+         "Services": "52.96"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "8.61",
+         "Industry": "38.13",
+         "Services": "51.85"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "8.46",
+         "Industry": "37.68",
+         "Services": "52.53"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "8.29",
+         "Industry": "38.45",
+         "Services": "52.01"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "8.87",
+         "Industry": "39.92",
+         "Services": "50.12"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "9.11",
+         "Industry": "39.89",
+         "Services": "49.94"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "9.79",
+         "Industry": "40.14",
+         "Services": "49.02"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "11.45",
+         "Industry": "39.82",
+         "Services": "47.77"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "10.09",
+         "Industry": "40.5",
+         "Services": "48.48"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "9.22",
+         "Industry": "40.97",
+         "Services": "48.84"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "9.97",
+         "Industry": "45.11",
+         "Services": "43.95"
+      }
+   ]
+}

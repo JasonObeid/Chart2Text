@@ -1,0 +1,90 @@
+{
+   "title": "Household electricity consumption per capita in Indonesia 2000 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Consumption in kilowatt hours per capita",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the Household Consumption of electricity per capita in Indonesia from the Year 2000 to 2016 . ",
+      "In 2016 , Household Consumption of electricity per capita in Indonesia was about 333.3 kilowatts per hour ."
+   ],
+   "trends": [
+      {
+         "15": "16",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Consumption in kilowatt hours per capita": "348.3"
+      },
+      {
+         "Year": "2015",
+         "Consumption in kilowatt hours per capita": "333.3"
+      },
+      {
+         "Year": "2014",
+         "Consumption in kilowatt hours per capita": "319.9"
+      },
+      {
+         "Year": "2013",
+         "Consumption in kilowatt hours per capita": "296.5"
+      },
+      {
+         "Year": "2012",
+         "Consumption in kilowatt hours per capita": "281.9"
+      },
+      {
+         "Year": "2011",
+         "Consumption in kilowatt hours per capita": "258.8"
+      },
+      {
+         "Year": "2010",
+         "Consumption in kilowatt hours per capita": "238.2"
+      },
+      {
+         "Year": "2009",
+         "Consumption in kilowatt hours per capita": "222.7"
+      },
+      {
+         "Year": "2008",
+         "Consumption in kilowatt hours per capita": "203.3"
+      },
+      {
+         "Year": "2007",
+         "Consumption in kilowatt hours per capita": "195.2"
+      },
+      {
+         "Year": "2006",
+         "Consumption in kilowatt hours per capita": "183.5"
+      },
+      {
+         "Year": "2005",
+         "Consumption in kilowatt hours per capita": "174.5"
+      },
+      {
+         "Year": "2004",
+         "Consumption in kilowatt hours per capita": "171.9"
+      },
+      {
+         "Year": "2003",
+         "Consumption in kilowatt hours per capita": "153.9"
+      },
+      {
+         "Year": "2002",
+         "Consumption in kilowatt hours per capita": "148.0"
+      },
+      {
+         "Year": "2001",
+         "Consumption in kilowatt hours per capita": "147.2"
+      },
+      {
+         "Year": "2000",
+         "Consumption in kilowatt hours per capita": "135.9"
+      }
+   ]
+}

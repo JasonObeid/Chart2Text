@@ -1,0 +1,67 @@
+{
+   "title": "Facebook : annual revenue 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars with a total of 11 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2019 to 2009."
+   ],
+   "trends": [
+      {
+         "Length": 11,
+         "direction": "negative",
+         "start": 0,
+         "end": 10,
+         "trend": "y=6645.78x+-13362364.31",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": 70697.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 55838.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 40653.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 27638.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 17928.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 12466.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 7872.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 5089.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 3711.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 1974.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 777.0
+      }
+   ]
+}

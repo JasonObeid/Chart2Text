@@ -1,0 +1,94 @@
+{
+   "title": "Global PND and car navigation market size forecast 2005 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Market size in thousand units",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Market size in thousand units, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2014 to 2009.",
+      " Contrarily, the next significant trend is  negative which exists from 2008 to 2005.",
+      " Contrarily, the next significant trend is  positive which exists from 2015 to 2014.",
+      " Also, the next significant trend is  positive which exists from 2009 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 1,
+         "end": 6,
+         "trend": "y=1328.31x+-2622619.02",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 7,
+         "end": 10,
+         "trend": "y=11141.9x+-22327604.1",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-180.0x+414120.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 6,
+         "end": 7,
+         "trend": "y=-1053.0x+2159926.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Market size in thousand units": 51420.0
+      },
+      {
+         "Year": "2014",
+         "Market size in thousand units": 51600.0
+      },
+      {
+         "Year": "2013",
+         "Market size in thousand units": 51510.0
+      },
+      {
+         "Year": "2012",
+         "Market size in thousand units": 50485.0
+      },
+      {
+         "Year": "2011",
+         "Market size in thousand units": 49361.0
+      },
+      {
+         "Year": "2010",
+         "Market size in thousand units": 48306.0
+      },
+      {
+         "Year": "2009",
+         "Market size in thousand units": 44449.0
+      },
+      {
+         "Year": "2008",
+         "Market size in thousand units": 45502.0
+      },
+      {
+         "Year": "2007",
+         "Market size in thousand units": 34905.0
+      },
+      {
+         "Year": "2006",
+         "Market size in thousand units": 21103.0
+      },
+      {
+         "Year": "2005",
+         "Market size in thousand units": 12963.0
+      }
+   ]
+}

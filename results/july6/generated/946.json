@@ -1,0 +1,59 @@
+{
+   "title": "Top U.S. states based on hay production 2017",
+   "xAxis": "State",
+   "yAxis": "Production in thousand tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Top U.S. the largest Production of based hay tons 2017 in the 2017 in . ",
+      "According to the source , Connecticut was the State U.S. the states based hay tons 2017 in U.S. 10350 thousand to every tons thousand ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "Texas",
+         "Production in thousand tons": "10350"
+      },
+      {
+         "State": "Nebraska",
+         "Production in thousand tons": "6159"
+      },
+      {
+         "State": "Kansas",
+         "Production in thousand tons": "6042"
+      },
+      {
+         "State": "California",
+         "Production in thousand tons": "6028"
+      },
+      {
+         "State": "Oklahoma",
+         "Production in thousand tons": "5998"
+      },
+      {
+         "State": "Missouri",
+         "Production in thousand tons": "5985"
+      },
+      {
+         "State": "Kentucky",
+         "Production in thousand tons": "5325"
+      },
+      {
+         "State": "Idaho",
+         "Production in thousand tons": "5128"
+      },
+      {
+         "State": "Montana",
+         "Production in thousand tons": "4880"
+      },
+      {
+         "State": "South Dakota",
+         "Production in thousand tons": "4785"
+      }
+   ]
+}

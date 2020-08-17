@@ -1,0 +1,47 @@
+{
+   "title": "Physicians density worldwide by region 2013",
+   "xAxis": "Country",
+   "yAxis": "Physicians per 10,000 population",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Physicians of the per 10,000 worldwide as of 2019 , sorted 2013 Country . ",
+      "As of that year , the World had a Physicians of 12.7 per 10,000 ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "3",
+         "11": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Europe",
+         "Physicians per 10,000 population": "32.1"
+      },
+      {
+         "Country": "Americas",
+         "Physicians per 10,000 population": "21.5"
+      },
+      {
+         "Country": "Western Pacific",
+         "Physicians per 10,000 population": "15.5"
+      },
+      {
+         "Country": "World",
+         "Physicians per 10,000 population": "13.9"
+      },
+      {
+         "Country": "Eastern Mediterranean",
+         "Physicians per 10,000 population": "12.7"
+      },
+      {
+         "Country": "Southeast Asia",
+         "Physicians per 10,000 population": "5.9"
+      },
+      {
+         "Country": "Africa",
+         "Physicians per 10,000 population": "2.7"
+      }
+   ]
+}

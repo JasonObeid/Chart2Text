@@ -1,0 +1,67 @@
+{
+   "title": "Life expectancy of men in India 2017",
+   "xAxis": "Year",
+   "yAxis": "Life expectancy at birth in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Life expectancy at birth in India from 2007 to 2017 . ",
+      "In 2017 , the average Life expectancy at birth in India was about 68.0 years ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Life expectancy at birth in years": "68.0"
+      },
+      {
+         "Year": "2016",
+         "Life expectancy at birth in years": "67.75"
+      },
+      {
+         "Year": "2015",
+         "Life expectancy at birth in years": "67.47"
+      },
+      {
+         "Year": "2014",
+         "Life expectancy at birth in years": "67.17"
+      },
+      {
+         "Year": "2013",
+         "Life expectancy at birth in years": "66.84"
+      },
+      {
+         "Year": "2012",
+         "Life expectancy at birth in years": "66.49"
+      },
+      {
+         "Year": "2011",
+         "Life expectancy at birth in years": "66.12"
+      },
+      {
+         "Year": "2010",
+         "Life expectancy at birth in years": "65.72"
+      },
+      {
+         "Year": "2009",
+         "Life expectancy at birth in years": "65.32"
+      },
+      {
+         "Year": "2008",
+         "Life expectancy at birth in years": "64.91"
+      },
+      {
+         "Year": "2007",
+         "Life expectancy at birth in years": "64.5"
+      }
+   ]
+}

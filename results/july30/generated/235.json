@@ -1,0 +1,103 @@
+{
+   "title": "Gross domestic product ( GDP ) per capita in South Sudan 2024\n",
+   "xAxis": "Year",
+   "yAxis": "GDP per capita in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is  positive which exists from 2017 to 2014.",
+      " Correspondingly, the next significant trend is  positive which exists from 2024 to 2022.",
+      " Also, the next significant trend is  negative which exists from 2022 to 2020.",
+      " Conversely, the next significant trend is  positive which exists from 2020 to 2018.",
+      " In a similar manner, the next significant trend is  negative which exists from 2018 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 7,
+         "end": 10,
+         "trend": "y=-405.41x+817878.32",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-6.39x+13198.41",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=17.55x+-35203.24",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-54.95x+111234.59",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 6,
+         "end": 7,
+         "trend": "y=80.03x+-161147.37",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP per capita in U.S. dollars": 265.58
+      },
+      {
+         "Year": "2023",
+         "GDP per capita in U.S. dollars": 270.37
+      },
+      {
+         "Year": "2022",
+         "GDP per capita in U.S. dollars": 278.36
+      },
+      {
+         "Year": "2021",
+         "GDP per capita in U.S. dollars": 244.0
+      },
+      {
+         "Year": "2020",
+         "GDP per capita in U.S. dollars": 243.27
+      },
+      {
+         "Year": "2019",
+         "GDP per capita in U.S. dollars": 275.18
+      },
+      {
+         "Year": "2018",
+         "GDP per capita in U.S. dollars": 353.17
+      },
+      {
+         "Year": "2017",
+         "GDP per capita in U.S. dollars": 273.14
+      },
+      {
+         "Year": "2016",
+         "GDP per capita in U.S. dollars": 281.51
+      },
+      {
+         "Year": "2015",
+         "GDP per capita in U.S. dollars": 1225.19
+      },
+      {
+         "Year": "2014",
+         "GDP per capita in U.S. dollars": 1309.95
+      }
+   ]
+}

@@ -1,0 +1,94 @@
+{
+   "title": "El Pais ( Spain ) : circulation 1999 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Circulation",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the leading El Pais Pais Spain circulation 1999 2018 in the country in 1999 . ",
+      "In 1999 , El Pais had a company 's Circulation of 469183 % of Circulation ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "13"
+      }
+   ],
+   "data": [
+      {
+         "Month": "July 2017-June 2018",
+         "Circulation": "163759"
+      },
+      {
+         "Month": "2016",
+         "Circulation": "194005"
+      },
+      {
+         "Month": "2015",
+         "Circulation": "221390"
+      },
+      {
+         "Month": "2014",
+         "Circulation": "259775"
+      },
+      {
+         "Month": "2013",
+         "Circulation": "292227"
+      },
+      {
+         "Month": "2012",
+         "Circulation": "324814"
+      },
+      {
+         "Month": "2011",
+         "Circulation": "365118"
+      },
+      {
+         "Month": "2010",
+         "Circulation": "370080"
+      },
+      {
+         "Month": "2009",
+         "Circulation": "391816"
+      },
+      {
+         "Month": "2008",
+         "Circulation": "431034"
+      },
+      {
+         "Month": "2007",
+         "Circulation": "435083"
+      },
+      {
+         "Month": "2006",
+         "Circulation": "432204"
+      },
+      {
+         "Month": "2005",
+         "Circulation": "453602"
+      },
+      {
+         "Month": "2004",
+         "Circulation": "469183"
+      },
+      {
+         "Month": "2003",
+         "Circulation": "440226"
+      },
+      {
+         "Month": "2002",
+         "Circulation": "435299"
+      },
+      {
+         "Month": "2001",
+         "Circulation": "433617"
+      },
+      {
+         "Month": "2000",
+         "Circulation": "436302"
+      },
+      {
+         "Month": "1999",
+         "Circulation": "435433"
+      }
+   ]
+}

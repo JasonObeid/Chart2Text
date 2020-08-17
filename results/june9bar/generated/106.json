@@ -1,0 +1,78 @@
+{
+   "title": "Global YouTube usage for music consumption 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the global usage of YouTube in selected countries . ",
+      "The Country with the highest rate of YouTube usage was Brazil , with 97 % of respondents reporting that they knew about YouTube . ",
+      "According to Ipsos , 72 % of global respondents were aware of YouTube ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "1"
+      },
+      {
+         "4": "18"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Mexico",
+         "Share of respondents": "97"
+      },
+      {
+         "Country": "Brazil",
+         "Share of respondents": "95"
+      },
+      {
+         "Country": "Italy",
+         "Share of respondents": "90"
+      },
+      {
+         "Country": "Spain",
+         "Share of respondents": "90"
+      },
+      {
+         "Country": "South Korea",
+         "Share of respondents": "86"
+      },
+      {
+         "Country": "Canada",
+         "Share of respondents": "84"
+      },
+      {
+         "Country": "Total",
+         "Share of respondents": "83"
+      },
+      {
+         "Country": "Germany",
+         "Share of respondents": "82"
+      },
+      {
+         "Country": "United States",
+         "Share of respondents": "82"
+      },
+      {
+         "Country": "France",
+         "Share of respondents": "81"
+      },
+      {
+         "Country": "Great Britain",
+         "Share of respondents": "79"
+      },
+      {
+         "Country": "Sweden",
+         "Share of respondents": "79"
+      },
+      {
+         "Country": "Australia",
+         "Share of respondents": "77"
+      },
+      {
+         "Country": "Japan",
+         "Share of respondents": "72"
+      }
+   ]
+}

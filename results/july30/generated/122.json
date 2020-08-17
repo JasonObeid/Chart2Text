@@ -1,0 +1,58 @@
+{
+   "title": "Global pineapple production by leading countries 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Production in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Production in thousand metric tons.",
+      " The highest category is found at Costa_Rica where Production in thousand metric tons is 3418.16.",
+      " The lowest category is found at Colombia where Production in thousand metric tons is 900.4."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Country": "Costa Rica",
+         "Production in thousand metric tons": 3418.16
+      },
+      {
+         "Country": "Philippines",
+         "Production in thousand metric tons": 2730.99
+      },
+      {
+         "Country": "Brazil",
+         "Production in thousand metric tons": 2650.48
+      },
+      {
+         "Country": "Thailand",
+         "Production in thousand metric tons": 2113.38
+      },
+      {
+         "Country": "Indonesia",
+         "Production in thousand metric tons": 1805.51
+      },
+      {
+         "Country": "India",
+         "Production in thousand metric tons": 1706.0
+      },
+      {
+         "Country": "Nigeria",
+         "Production in thousand metric tons": 1664.51
+      },
+      {
+         "Country": "China mainland",
+         "Production in thousand metric tons": 1573.47
+      },
+      {
+         "Country": "Mexico",
+         "Production in thousand metric tons": 999.59
+      },
+      {
+         "Country": "Colombia",
+         "Production in thousand metric tons": 900.4
+      }
+   ]
+}

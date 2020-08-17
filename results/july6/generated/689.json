@@ -1,0 +1,68 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Angola 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the growth in real GDP in Angola from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Angola 's real Gross domestic product increased by around -1.2 % compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "6",
+         "19": "0"
+      },
+      {
+         "1": "6",
+         "12": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": "3.78"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "4.13"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "3.33"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "2.87"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "1.15"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "-0.27"
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": "-1.2"
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": "-0.15"
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": "-2.58"
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": "0.94"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "4.82"
+      }
+   ]
+}

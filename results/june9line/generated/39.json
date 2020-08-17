@@ -1,0 +1,57 @@
+{
+   "title": "NFL - New England Patriots revenue from ticket sales 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Ticket sales in million U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "The NFL is growing in every aspect . ",
+      "Over the last decade , the total Ticket sales of Patriots in the NFL have more than quadrupled . ",
+      "In 2018 they amounted to approximately 104 million dollars ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Ticket sales in million U.S. dollars": "104"
+      },
+      {
+         "Year": "2017",
+         "Ticket sales in million U.S. dollars": "103"
+      },
+      {
+         "Year": "2016",
+         "Ticket sales in million U.S. dollars": "103"
+      },
+      {
+         "Year": "2015",
+         "Ticket sales in million U.S. dollars": "99"
+      },
+      {
+         "Year": "2014",
+         "Ticket sales in million U.S. dollars": "100"
+      },
+      {
+         "Year": "2013",
+         "Ticket sales in million U.S. dollars": "95"
+      },
+      {
+         "Year": "2012",
+         "Ticket sales in million U.S. dollars": "94"
+      },
+      {
+         "Year": "2011",
+         "Ticket sales in million U.S. dollars": "97"
+      },
+      {
+         "Year": "2010",
+         "Ticket sales in million U.S. dollars": "93"
+      }
+   ]
+}

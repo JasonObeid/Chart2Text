@@ -1,0 +1,52 @@
+{
+   "title": "Domestic beer consumption in Canada by age group 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Share of beer consumption",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of beer consumption, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 18_to_34 to 65_and_over.",
+      " Contrarily, the next significant trend is  positive which exists from 12_to_17 to 18_to_34."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 1,
+         "end": 4,
+         "trend": "y=0.0x+18.95",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=0.06x+-73.36",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "12 to 17",
+         "Share of beer consumption": 1.0
+      },
+      {
+         "Year": "18 to 34",
+         "Share of beer consumption": 38.7
+      },
+      {
+         "Year": "35 to 49",
+         "Share of beer consumption": 29.9
+      },
+      {
+         "Year": "50 to 64",
+         "Share of beer consumption": 22.4
+      },
+      {
+         "Year": "65 and over",
+         "Share of beer consumption": 8.0
+      }
+   ]
+}

@@ -1,0 +1,51 @@
+{
+   "title": "Global R & D expenditure of Puma from 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "R&D expenditure in million euros",
+   "graphType": "line",
+   "summary": [
+      "The Global R R&D expenditure euros of Puma was to 61.7 million in 2019 . ",
+      "This was up from 54.0 million the Year earlier , the highest euros in the past six years . ",
+      "What is the R&D expenditure euros ? R&D expenditure is essentially the amount of money a bank has on hand in case it needs to cover unexpected expenses from risky transactions ."
+   ],
+   "trends": [
+      {
+         "11": "0",
+         "14": "0"
+      },
+      {
+         "4": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "R&D expenditure in million euros": "61.7"
+      },
+      {
+         "Year": "2018",
+         "R&D expenditure in million euros": "54.0"
+      },
+      {
+         "Year": "2017",
+         "R&D expenditure in million euros": "53.4"
+      },
+      {
+         "Year": "2016",
+         "R&D expenditure in million euros": "52.0"
+      },
+      {
+         "Year": "2015",
+         "R&D expenditure in million euros": "56.7"
+      },
+      {
+         "Year": "2014",
+         "R&D expenditure in million euros": "46.2"
+      },
+      {
+         "Year": "2013",
+         "R&D expenditure in million euros": "47.9"
+      }
+   ]
+}

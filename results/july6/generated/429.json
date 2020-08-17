@@ -1,0 +1,60 @@
+{
+   "title": "Cincinnati Reds all-time home run leaders 2019",
+   "xAxis": "Player",
+   "yAxis": "Number of home runs",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Cincinnati Reds all-time home run leaders as of October 14 , 2019 . ",
+      "Johnny_Bench has hit the most home runs in Cincinnati Reds franchise history with 389 home runs ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Player": "Johnny Bench",
+         "Number of home runs": "389"
+      },
+      {
+         "Player": "Frank Robinson",
+         "Number of home runs": "324"
+      },
+      {
+         "Player": "Tony Perez",
+         "Number of home runs": "287"
+      },
+      {
+         "Player": "Joey Votto",
+         "Number of home runs": "284"
+      },
+      {
+         "Player": "Adam Dunn",
+         "Number of home runs": "270"
+      },
+      {
+         "Player": "Ted Kluszewski",
+         "Number of home runs": "251"
+      },
+      {
+         "Player": "George Foster",
+         "Number of home runs": "244"
+      },
+      {
+         "Player": "Jay Bruce",
+         "Number of home runs": "233"
+      },
+      {
+         "Player": "Ken Griffey Jr.",
+         "Number of home runs": "210"
+      },
+      {
+         "Player": "Eric Davis",
+         "Number of home runs": "203"
+      }
+   ]
+}

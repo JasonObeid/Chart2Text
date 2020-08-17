@@ -1,0 +1,38 @@
+{
+   "title": "PUBG unit sales worldwide 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Month, and a y axis representing Unit sales in millions.",
+      " The highest category is found at June_2018 where Unit sales in millions is 50.0.",
+      " The lowest category is found at May_2017 where Unit sales in millions is 2.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Month": "June 2018",
+         "Unit sales in millions": 50.0
+      },
+      {
+         "Month": "September 2017",
+         "Unit sales in millions": 10.0
+      },
+      {
+         "Month": "August 2017",
+         "Unit sales in millions": 8.0
+      },
+      {
+         "Month": "June 2017",
+         "Unit sales in millions": 4.0
+      },
+      {
+         "Month": "May 2017",
+         "Unit sales in millions": 2.0
+      }
+   ]
+}

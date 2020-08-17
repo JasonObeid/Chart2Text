@@ -1,0 +1,82 @@
+{
+   "title": "Logistics Performance Index - country ranking 2018",
+   "xAxis": "Country",
+   "yAxis": "Index score",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Performance with the lowest score of natural disasters Index to the Global score in 2018 . ",
+      "At this time , Germany with an score value of 3.86 , was the Logistics Country in the Index . ",
+      "In the framework of the WorldRiskIndex , disaster score is analyzed as a complex interplay of natural hazards and social , political and environmental factors ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "11": "14"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Index score": "4.19"
+      },
+      {
+         "Country": "Netherlands",
+         "Index score": "4.07"
+      },
+      {
+         "Country": "Sweden",
+         "Index score": "4.07"
+      },
+      {
+         "Country": "Belgium",
+         "Index score": "4.05"
+      },
+      {
+         "Country": "Singapore",
+         "Index score": "4.05"
+      },
+      {
+         "Country": "United Kingdom",
+         "Index score": "4.01"
+      },
+      {
+         "Country": "Japan",
+         "Index score": "3.99"
+      },
+      {
+         "Country": "Austria",
+         "Index score": "3.99"
+      },
+      {
+         "Country": "Hong Kong SAR China",
+         "Index score": "3.96"
+      },
+      {
+         "Country": "United States",
+         "Index score": "3.92"
+      },
+      {
+         "Country": "Denmark",
+         "Index score": "3.92"
+      },
+      {
+         "Country": "Finland",
+         "Index score": "3.92"
+      },
+      {
+         "Country": "Switzerland",
+         "Index score": "3.91"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Index score": "3.89"
+      },
+      {
+         "Country": "France",
+         "Index score": "3.86"
+      }
+   ]
+}

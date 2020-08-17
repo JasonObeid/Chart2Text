@@ -1,0 +1,52 @@
+{
+   "title": "U.S. wage and salary workers : weekly earnings by education and gender 2019",
+   "labels": [
+      "unknown",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 6 categories for the x axis of unknown representing Men, Women.",
+      " The highest category is found at Advanced degree with a mean value of 1621.5.",
+      " The second highest category is found at Bachelor's degree with a mean value of 1271.0.",
+      " This represents a difference of 24.2%."
+   ],
+   "trends": {
+      "maxIndex": 5,
+      "secondIndex": 5
+   },
+   "data": [
+      {
+         "unknown": "Total",
+         "Men": "1070",
+         "Women": "865"
+      },
+      {
+         "unknown": "Less than a high school diploma",
+         "Men": "644",
+         "Women": "494"
+      },
+      {
+         "unknown": "High school no college",
+         "Men": "844",
+         "Women": "633"
+      },
+      {
+         "unknown": "Some college or associate's degree",
+         "Men": "991",
+         "Women": "737"
+      },
+      {
+         "unknown": "Bachelor's degree",
+         "Men": "1442",
+         "Women": "1100"
+      },
+      {
+         "unknown": "Advanced degree",
+         "Men": "1878",
+         "Women": "1365"
+      }
+   ]
+}

@@ -1,0 +1,83 @@
+{
+   "title": "Digital advertising revenue of leading online companies 2012 to 2019",
+   "labels": [
+      "Platform",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 5 categories for the x axis of Platform representing 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019.",
+      " The highest category is found at Google with a mean value of 81.0.",
+      " The second highest category is found at Facebook with a mean value of 28.9175.",
+      " This represents a difference of 94.8%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Platform": "Google",
+         "2012": "43.69",
+         "2013": "51.07",
+         "2014": "59.62",
+         "2015": "67.39",
+         "2016": "79.38",
+         "2017": "95.58",
+         "2018": "116.46",
+         "2019": "134.81"
+      },
+      {
+         "Platform": "Facebook",
+         "2012": "4.28",
+         "2013": "6.99",
+         "2014": "11.49",
+         "2015": "17.08",
+         "2016": "26.89",
+         "2017": "39.94",
+         "2018": "55.01",
+         "2019": "69.66"
+      },
+      {
+         "Platform": "Twitter",
+         "2012": "0.27",
+         "2013": "0.59",
+         "2014": "1.25",
+         "2015": "1.99",
+         "2016": "2.25",
+         "2017": "2.11",
+         "2018": "2.62",
+         "2019": "2.99"
+      },
+      {
+         "Platform": "AOL",
+         "2012": "1.42",
+         "2013": "1.61",
+         "2014": "1.85",
+         "2015": "0",
+         "2016": "0",
+         "2017": "0",
+         "2018": "0",
+         "2019": "0"
+      },
+      {
+         "Platform": "Yahoo!",
+         "2012": "4.03",
+         "2013": "3.69",
+         "2014": "3.71",
+         "2015": "4.2",
+         "2016": "4.65",
+         "2017": "0",
+         "2018": "0",
+         "2019": "0"
+      }
+   ]
+}

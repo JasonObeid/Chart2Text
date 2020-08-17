@@ -1,0 +1,43 @@
+{
+   "title": "UK : length of wait for security screening in Luton Airport 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the UK network size of teenage UK users in the length . ",
+      "During the 2015 survey , it was found that 48 % of respondents had 1-5_mins to followers on the social network . ",
+      "The length wait UK was 95 followers ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "14": "1",
+         "16": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "0 mins",
+         "Share of respondents": "14"
+      },
+      {
+         "Year": "1-5 mins",
+         "Share of respondents": "48"
+      },
+      {
+         "Year": "6-10 mins",
+         "Share of respondents": "25"
+      },
+      {
+         "Year": "11-20 mins",
+         "Share of respondents": "12"
+      },
+      {
+         "Year": "21-30 mins",
+         "Share of respondents": "1"
+      }
+   ]
+}

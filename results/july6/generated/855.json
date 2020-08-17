@@ -1,0 +1,294 @@
+{
+   "title": "COVID-19 cases worldwide as of March 2 , 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of cases",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of Canada cases of the March worldwide Group stores in 2 , country . ",
+      "In 2 , 80174 Canada March worldwide stores were opened in the country . ",
+      "March worldwide March is a Swedish clothing manufacturer and retailer , based in Stockholm , Japan ."
+   ],
+   "trends": [
+      {
+         "6": "22"
+      },
+      {
+         "3": "1",
+         "4": "22"
+      },
+      {
+         "15": "6"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Total (worldwide)",
+         "Number of cases": "88948"
+      },
+      {
+         "Country": "China",
+         "Number of cases": "80174"
+      },
+      {
+         "Country": "Republic of Korea",
+         "Number of cases": "4212"
+      },
+      {
+         "Country": "Italy",
+         "Number of cases": "1689"
+      },
+      {
+         "Country": "Iran (Islamic Republic of)",
+         "Number of cases": "978"
+      },
+      {
+         "Country": "Cases on an international conveyance (Japan)",
+         "Number of cases": "706"
+      },
+      {
+         "Country": "Japan",
+         "Number of cases": "254"
+      },
+      {
+         "Country": "Germany",
+         "Number of cases": "129"
+      },
+      {
+         "Country": "Singapore",
+         "Number of cases": "106"
+      },
+      {
+         "Country": "France",
+         "Number of cases": "100"
+      },
+      {
+         "Country": "United States of America",
+         "Number of cases": "62"
+      },
+      {
+         "Country": "Kuwait",
+         "Number of cases": "56"
+      },
+      {
+         "Country": "Bahrain",
+         "Number of cases": "47"
+      },
+      {
+         "Country": "Spain",
+         "Number of cases": "45"
+      },
+      {
+         "Country": "Thailand",
+         "Number of cases": "42"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of cases": "36"
+      },
+      {
+         "Country": "Australia",
+         "Number of cases": "27"
+      },
+      {
+         "Country": "Malaysia",
+         "Number of cases": "24"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of cases": "24"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Number of cases": "21"
+      },
+      {
+         "Country": "Norway",
+         "Number of cases": "19"
+      },
+      {
+         "Country": "Iraq",
+         "Number of cases": "19"
+      },
+      {
+         "Country": "Canada",
+         "Number of cases": "19"
+      },
+      {
+         "Country": "Viet Nam",
+         "Number of cases": "16"
+      },
+      {
+         "Country": "Sweden",
+         "Number of cases": "14"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of cases": "13"
+      },
+      {
+         "Country": "Lebanon",
+         "Number of cases": "10"
+      },
+      {
+         "Country": "Austria",
+         "Number of cases": "10"
+      },
+      {
+         "Country": "Israel",
+         "Number of cases": "7"
+      },
+      {
+         "Country": "Croatia",
+         "Number of cases": "7"
+      },
+      {
+         "Country": "Greece",
+         "Number of cases": "7"
+      },
+      {
+         "Country": "Oman",
+         "Number of cases": "6"
+      },
+      {
+         "Country": "Finland",
+         "Number of cases": "6"
+      },
+      {
+         "Country": "Mexico",
+         "Number of cases": "5"
+      },
+      {
+         "Country": "Pakistan",
+         "Number of cases": "4"
+      },
+      {
+         "Country": "Denmark",
+         "Number of cases": "4"
+      },
+      {
+         "Country": "India",
+         "Number of cases": "3"
+      },
+      {
+         "Country": "Czechia",
+         "Number of cases": "3"
+      },
+      {
+         "Country": "Romania",
+         "Number of cases": "3"
+      },
+      {
+         "Country": "Georgia",
+         "Number of cases": "3"
+      },
+      {
+         "Country": "Philippines",
+         "Number of cases": "3"
+      },
+      {
+         "Country": "Azerbaijan",
+         "Number of cases": "3"
+      },
+      {
+         "Country": "Qatar",
+         "Number of cases": "3"
+      },
+      {
+         "Country": "Indonesia",
+         "Number of cases": "2"
+      },
+      {
+         "Country": "Iceland",
+         "Number of cases": "2"
+      },
+      {
+         "Country": "Egypt",
+         "Number of cases": "2"
+      },
+      {
+         "Country": "Brazil",
+         "Number of cases": "2"
+      },
+      {
+         "Country": "Russian Federation",
+         "Number of cases": "2"
+      },
+      {
+         "Country": "Armenia",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Ecuador",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Dominican Republic",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Estonia",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Ireland",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Lithuania",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Luxembourg",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Monaco",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Algeria",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "New Zealand",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Cambodia",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "North Macedonia",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "San Marino",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Nepal",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Sri Lanka",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Nigeria",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Belarus",
+         "Number of cases": "1"
+      },
+      {
+         "Country": "Belgium",
+         "Number of cases": "1"
+      }
+   ]
+}

@@ -1,0 +1,116 @@
+{
+   "title": "Unemployment rate in Cambodia 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2008 to 1999.",
+      " Additionally, the next significant trend is  positive which exists from 2019 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "positive",
+         "start": 11,
+         "end": 20,
+         "trend": "y=-0.14x+291.24",
+         "magnitude": ""
+      },
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 0,
+         "end": 6,
+         "trend": "y=-0.05x+93.3",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 1.02
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 1.05
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 1.06
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 1.13
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 1.2
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 1.23
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 1.32
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 1.38
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 1.15
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 1.17
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 1.47
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 1.56
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 1.57
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 1.63
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 1.64
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 2.45
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 2.55
+      }
+   ]
+}

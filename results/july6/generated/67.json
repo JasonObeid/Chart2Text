@@ -1,0 +1,118 @@
+{
+   "title": "King quarterly gross bookings and revenue Q1 2012-Q4 2015",
+   "labels": [
+      "Quarter",
+      "Gross bookings",
+      "Revenue"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the King quarterly gross bookings of revenue in Q1 from the first Quarter of Q1_'14 to the third Quarter of Q4_'15 , 2015 . ",
+      "In the third Quarter of Q4_'15 , there were 461 Q1 gross A deals in China and Hong Revenue ."
+   ],
+   "trends": [
+      {
+         "17": [
+            "7",
+            "0"
+         ],
+         "23": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "5": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '15",
+         "Gross bookings": "509",
+         "Revenue": "461"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Gross bookings": "502",
+         "Revenue": "480"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Gross bookings": "529",
+         "Revenue": "490"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Gross bookings": "604",
+         "Revenue": "570"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Gross bookings": "586",
+         "Revenue": "546"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Gross bookings": "544",
+         "Revenue": "514"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Gross bookings": "611",
+         "Revenue": "594"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Gross bookings": "641",
+         "Revenue": "607"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Gross bookings": "632",
+         "Revenue": "602"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Gross bookings": "648",
+         "Revenue": "621"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Gross bookings": "481",
+         "Revenue": "455"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Gross bookings": "219",
+         "Revenue": "206"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Gross bookings": "71",
+         "Revenue": "70"
+      },
+      {
+         "Quarter": "Q3 '12",
+         "Gross bookings": "43",
+         "Revenue": "41"
+      },
+      {
+         "Quarter": "Q2 '12",
+         "Gross bookings": "38",
+         "Revenue": "32"
+      },
+      {
+         "Quarter": "Q1 '12",
+         "Gross bookings": "29",
+         "Revenue": "22"
+      }
+   ]
+}

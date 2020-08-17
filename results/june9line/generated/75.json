@@ -1,0 +1,43 @@
+{
+   "title": "Canada : Facebook user penetration 2015 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of population",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the estimated Canada Facebook in Canada 2015 . ",
+      "In 2015 , about 75 % of Canada 's total population was estimated to be aged between 0 and 14 18-34 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-34",
+         "Share of population": "75"
+      },
+      {
+         "Year": "35-44",
+         "Share of population": "68"
+      },
+      {
+         "Year": "45-54",
+         "Share of population": "63"
+      },
+      {
+         "Year": "55-64",
+         "Share of population": "47"
+      },
+      {
+         "Year": "65+",
+         "Share of population": "32"
+      },
+      {
+         "Year": "Total",
+         "Share of population": "59"
+      }
+   ]
+}

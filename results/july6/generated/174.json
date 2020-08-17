@@ -1,0 +1,90 @@
+{
+   "title": "Scottish independence voting intention September 2014 , by age group",
+   "labels": [
+      "Age group",
+      "\"Yes\"",
+      "\"No\"",
+      "Don't know"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey asking 35-44 group if they used Scottish tablets at least a few times a week September their 35-44 by . ",
+      "The results are differentiated age the subjects that they would use a independence device September and the group of 35-44 they were in . ",
+      "Through the survey , it was found that 31 % of US 25-34 35-44 group used a full-sized independence September their Don't 35-44 by at least a few times per week ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "2",
+            "0"
+         ],
+         "25": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "19": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "8": [
+            "1",
+            "3"
+         ],
+         "12": [
+            "1",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ],
+         "22": [
+            "2",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Age group": "16-24",
+         "\"Yes\"": "44",
+         "\"No\"": "34",
+         "Don't know": "22"
+      },
+      {
+         "Age group": "25-34",
+         "\"Yes\"": "38",
+         "\"No\"": "31",
+         "Don't know": "31"
+      },
+      {
+         "Age group": "35-44",
+         "\"Yes\"": "47",
+         "\"No\"": "31",
+         "Don't know": "22"
+      },
+      {
+         "Age group": "45-54",
+         "\"Yes\"": "39",
+         "\"No\"": "35",
+         "Don't know": "26"
+      },
+      {
+         "Age group": "55-64",
+         "\"Yes\"": "39",
+         "\"No\"": "39",
+         "Don't know": "22"
+      },
+      {
+         "Age group": "65+",
+         "\"Yes\"": "25",
+         "\"No\"": "57",
+         "Don't know": "18"
+      }
+   ]
+}

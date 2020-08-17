@@ -1,0 +1,45 @@
+{
+   "title": "Amount spent on smartphone accessories by U.S. consumers 2010",
+   "labels": [
+      "Response",
+      "Under $50",
+      "$50 - $100",
+      "$100 - $200",
+      "$200 and up"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 3 categories for the x axis of Response representing Under $50, $50 - $100, $100 - $200, and $200 and up.",
+      " The highest category is found at BlackBerry owners with a mean value of 23.5.",
+      " The second highest category is found at iPhone owners with a mean value of 23.5.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": {
+      "maxIndex": 2,
+      "secondIndex": 2
+   },
+   "data": [
+      {
+         "Response": "Android owners",
+         "Under $50": "60",
+         "$50 - $100": "19",
+         "$100 - $200": "8",
+         "$200 and up": "6"
+      },
+      {
+         "Response": "iPhone owners",
+         "Under $50": "33",
+         "$50 - $100": "33",
+         "$100 - $200": "19",
+         "$200 and up": "9"
+      },
+      {
+         "Response": "BlackBerry owners",
+         "Under $50": "47",
+         "$50 - $100": "31",
+         "$100 - $200": "15",
+         "$200 and up": "1"
+      }
+   ]
+}

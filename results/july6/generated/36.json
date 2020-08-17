@@ -1,0 +1,68 @@
+{
+   "title": "Coal-mining employment in West Virginia 2009 to 2018",
+   "labels": [
+      "unknown",
+      "2009",
+      "2011",
+      "2013",
+      "2015",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic outlines the Total Coal-mining employment in the West from 2009 to 2018 , by mine type . ",
+      "In 2018 , the Coal-mining industry in the West employed 13962 people . ",
+      "Of that number , more than 32,000 employees worked Underground ."
+   ],
+   "trends": [
+      {
+         "4": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "10": [
+            "2",
+            "6"
+         ]
+      },
+      {
+         "9": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Underground",
+         "2009": "14842",
+         "2011": "16963",
+         "2013": "15694",
+         "2015": "12555",
+         "2017": "10507",
+         "2018": "10767"
+      },
+      {
+         "unknown": "Surface",
+         "2009": "6829",
+         "2011": "6344",
+         "2013": "4587",
+         "2015": "2935",
+         "2017": "2715",
+         "2018": "3195"
+      },
+      {
+         "unknown": "Total",
+         "2009": "21671",
+         "2011": "23307",
+         "2013": "20281",
+         "2015": "15490",
+         "2017": "13222",
+         "2018": "13962"
+      }
+   ]
+}

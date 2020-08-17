@@ -1,0 +1,31 @@
+{
+   "title": "Retail revenue from smart wearable devices worldwide 2014 and 2019",
+   "xAxis": "Year",
+   "yAxis": "Retail revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the Retail of from smart in the Retail in 2014 and provides a forecast for 2019 . ",
+      "In 2014 , the Retail of from smart pertaining to grocery and consumable products amounted to about 4.5 billion U.S."
+   ],
+   "trends": [
+      {
+         "13": "1",
+         "19": "0"
+      },
+      {
+         "1": "1",
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Retail revenue in billion U.S. dollars": "53.2"
+      },
+      {
+         "Year": "2014",
+         "Retail revenue in billion U.S. dollars": "4.5"
+      }
+   ]
+}

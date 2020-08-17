@@ -1,0 +1,47 @@
+{
+   "title": "Consumer spending in Pakistan 2013 - 2018 , per capita\n",
+   "xAxis": "Year",
+   "yAxis": "U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing U.S. dollars with a total of 6 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2018 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 0,
+         "end": 5,
+         "trend": "y=132.49x+-265729.79",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. dollars": 1658.0
+      },
+      {
+         "Year": "2017",
+         "U.S. dollars": 1488.0
+      },
+      {
+         "Year": "2016",
+         "U.S. dollars": 1335.0
+      },
+      {
+         "Year": "2015",
+         "U.S. dollars": 1204.0
+      },
+      {
+         "Year": "2014",
+         "U.S. dollars": 1091.0
+      },
+      {
+         "Year": "2013",
+         "U.S. dollars": 995.0
+      }
+   ]
+}

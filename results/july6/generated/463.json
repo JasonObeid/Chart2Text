@@ -1,0 +1,272 @@
+{
+   "title": "Oil production in selected countries 2008 to 2018",
+   "labels": [
+      "Country",
+      "2008",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "United_States was the European Country with the largest stock of production vehicles in all three years here recorded . ",
+      "The total number of Oil production selected in Oil stood at 286.8 million units in 2018 , of which United_States accounted for 46.5 % . ",
+      "With the greatest population among all European countries and home to a prominent number of automobile manufacturers , this was unsurprising ."
+   ],
+   "trends": [
+      {
+         "0": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "19": [
+            "0",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "2008": "6783",
+         "2018": "15311"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "2008": "10655",
+         "2018": "12287"
+      },
+      {
+         "Country": "Russian Federation",
+         "2008": "9965",
+         "2018": "11438"
+      },
+      {
+         "Country": "Canada",
+         "2008": "3207",
+         "2018": "5208"
+      },
+      {
+         "Country": "China",
+         "2008": "3814",
+         "2018": "3798"
+      },
+      {
+         "Country": "Iraq",
+         "2008": "2428",
+         "2018": "4614"
+      },
+      {
+         "Country": "Iran",
+         "2008": "4415",
+         "2018": "4715"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "2008": "3113",
+         "2018": "3942"
+      },
+      {
+         "Country": "Kuwait",
+         "2008": "2781",
+         "2018": "3049"
+      },
+      {
+         "Country": "Venezuela",
+         "2008": "3228",
+         "2018": "1514"
+      },
+      {
+         "Country": "Mexico",
+         "2008": "3165",
+         "2018": "2068"
+      },
+      {
+         "Country": "Brazil",
+         "2008": "1887",
+         "2018": "2683"
+      },
+      {
+         "Country": "Nigeria",
+         "2008": "2172",
+         "2018": "2051"
+      },
+      {
+         "Country": "Norway",
+         "2008": "2458",
+         "2018": "1844"
+      },
+      {
+         "Country": "Qatar",
+         "2008": "1432",
+         "2018": "1879"
+      },
+      {
+         "Country": "Angola",
+         "2008": "1876",
+         "2018": "1534"
+      },
+      {
+         "Country": "Kazakhstan",
+         "2008": "1485",
+         "2018": "1927"
+      },
+      {
+         "Country": "Algeria",
+         "2008": "1951",
+         "2018": "1510"
+      },
+      {
+         "Country": "Colombia",
+         "2008": "588",
+         "2018": "866"
+      },
+      {
+         "Country": "United Kingdom",
+         "2008": "1549",
+         "2018": "1085"
+      },
+      {
+         "Country": "Oman",
+         "2008": "757",
+         "2018": "978"
+      },
+      {
+         "Country": "India",
+         "2008": "818",
+         "2018": "869"
+      },
+      {
+         "Country": "Azerbaijan",
+         "2008": "916",
+         "2018": "795"
+      },
+      {
+         "Country": "Indonesia",
+         "2008": "1006",
+         "2018": "808"
+      },
+      {
+         "Country": "Egypt",
+         "2008": "715",
+         "2018": "670"
+      },
+      {
+         "Country": "Malaysia",
+         "2008": "727",
+         "2018": "682"
+      },
+      {
+         "Country": "Argentina",
+         "2008": "802",
+         "2018": "592"
+      },
+      {
+         "Country": "Ecuador",
+         "2008": "507",
+         "2018": "517"
+      },
+      {
+         "Country": "Thailand",
+         "2008": "368",
+         "2018": "485"
+      },
+      {
+         "Country": "Libya",
+         "2008": "1875",
+         "2018": "1010"
+      },
+      {
+         "Country": "Australia",
+         "2008": "538",
+         "2018": "356"
+      },
+      {
+         "Country": "Vietnam",
+         "2008": "309",
+         "2018": "275"
+      },
+      {
+         "Country": "Equatorial Guinea",
+         "2008": "369",
+         "2018": "190"
+      },
+      {
+         "Country": "Republic of Congo",
+         "2008": "237",
+         "2018": "333"
+      },
+      {
+         "Country": "Turkmenistan",
+         "2008": "208",
+         "2018": "222"
+      },
+      {
+         "Country": "Gabon",
+         "2008": "240",
+         "2018": "194"
+      },
+      {
+         "Country": "Denmark",
+         "2008": "287",
+         "2018": "138"
+      },
+      {
+         "Country": "Brunei",
+         "2008": "175",
+         "2018": "112"
+      },
+      {
+         "Country": "Italy",
+         "2008": "108",
+         "2018": "97"
+      },
+      {
+         "Country": "Peru",
+         "2008": "122",
+         "2018": "154"
+      },
+      {
+         "Country": "Trinidad & Tobago",
+         "2008": "149",
+         "2018": "87"
+      },
+      {
+         "Country": "Sudan",
+         "2008": "457",
+         "2018": "100"
+      },
+      {
+         "Country": "Romania",
+         "2008": "99",
+         "2018": "74"
+      },
+      {
+         "Country": "Chad",
+         "2008": "127",
+         "2018": "1534"
+      },
+      {
+         "Country": "Uzbekistan",
+         "2008": "102",
+         "2018": "64"
+      },
+      {
+         "Country": "Tunisia",
+         "2008": "96",
+         "2018": "50"
+      },
+      {
+         "Country": "Yemen",
+         "2008": "316",
+         "2018": "68"
+      },
+      {
+         "Country": "Syria",
+         "2008": "406",
+         "2018": "24"
+      }
+   ]
+}

@@ -1,0 +1,41 @@
+{
+   "title": "U.S. consumers who use marijuana 2017 , by household income",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the survey on <$30000 usage in the U.S. in 2017 . ",
+      "According to the survey , 13 % of the respondents used an <$30000 , while 13 % did not . ",
+      "9 % of respondents said they did n't $75000+ if they used <$30000 blocking software ."
+   ],
+   "trends": [
+      {
+         "6": "0"
+      },
+      {
+         "5": "0",
+         "12": "0",
+         "15": "0"
+      },
+      {
+         "0": "2",
+         "8": "2",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "<$30000",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "$30000-$74999",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "$75000+",
+         "Share of respondents": "9"
+      }
+   ]
+}

@@ -1,0 +1,32 @@
+{
+   "title": "Alzheimer 's in the U.S : lifetime risks , by age and gender",
+   "labels": [
+      "Country",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 2 categories for the x axis of Country representing Men, and Women.",
+      " The highest category is found at 65 years with a mean value of 20.3.",
+      " The second highest category is found at 45 years with a mean value of 10.95.",
+      " This represents a difference of 59.8%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Country": "45 years",
+         "Men": "10.3",
+         "Women": "11.6"
+      },
+      {
+         "Country": "65 years",
+         "Men": "19.5",
+         "Women": "21.1"
+      }
+   ]
+}

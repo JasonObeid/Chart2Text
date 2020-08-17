@@ -1,0 +1,87 @@
+{
+   "title": "Trend in new passenger car registrations in Europe 2019",
+   "xAxis": "Month",
+   "yAxis": "Percentage change",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows Trend new passenger change Europe in the Europe ( ) from 2019 to . ",
+      "In 2019 , the Trend new passenger change in the Europe amounted to 31.2 change ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "16"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Percentage change": "21.7"
+      },
+      {
+         "Month": "Nov 19",
+         "Percentage change": "4.9"
+      },
+      {
+         "Month": "Oct 19",
+         "Percentage change": "8.7"
+      },
+      {
+         "Month": "Sep 19",
+         "Percentage change": "14.5"
+      },
+      {
+         "Month": "Aug 19",
+         "Percentage change": "-8.4"
+      },
+      {
+         "Month": "Jul 19",
+         "Percentage change": "1.4"
+      },
+      {
+         "Month": "Jun 19",
+         "Percentage change": "-7.8"
+      },
+      {
+         "Month": "May 19",
+         "Percentage change": "0.1"
+      },
+      {
+         "Month": "Apr 19",
+         "Percentage change": "-0.4"
+      },
+      {
+         "Month": "Mar 19",
+         "Percentage change": "-3.9"
+      },
+      {
+         "Month": "Feb 19",
+         "Percentage change": "-1"
+      },
+      {
+         "Month": "Jan 19",
+         "Percentage change": "-4.6"
+      },
+      {
+         "Month": "Dec 18",
+         "Percentage change": "-8.4"
+      },
+      {
+         "Month": "Nov 18",
+         "Percentage change": "-8"
+      },
+      {
+         "Month": "Oct 18",
+         "Percentage change": "-7.3"
+      },
+      {
+         "Month": "Sep 18",
+         "Percentage change": "-23.5"
+      },
+      {
+         "Month": "Aug 18",
+         "Percentage change": "31.2"
+      }
+   ]
+}

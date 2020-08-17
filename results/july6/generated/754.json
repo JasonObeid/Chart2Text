@@ -1,0 +1,68 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Myanmar 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the growth in real GDP in Myanmar from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Myanmar 's real Gross domestic product increased by around 6.83 % compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "6",
+         "19": "0"
+      },
+      {
+         "1": "6",
+         "12": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": "6.45"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "6.34"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "6.13"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "6.01"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "6.26"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "6.2"
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": "6.83"
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": "6.33"
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": "5.15"
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": "7.47"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "8.2"
+      }
+   ]
+}

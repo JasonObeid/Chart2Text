@@ -1,0 +1,57 @@
+{
+   "title": "Leading U.S. consumer e-mail providers 2016",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "Google_(Gmail) was the most popular among U.S. in as of 2018 . ",
+      "During the survey , 53 % of survey period it was found that they used Google_(Gmail) social or their favorite of respondents had either Google_(Gmail) . ",
+      "Yahoo and Outlook_(Hotmail) , with 18 % pointed to Yahoo ."
+   ],
+   "trends": [
+      {
+         "0": "0"
+      },
+      {
+         "4": "0",
+         "15": "0",
+         "24": "0"
+      },
+      {
+         "0": "1",
+         "2": "2",
+         "5": "1",
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Google (Gmail)",
+         "Share of respondents": "53"
+      },
+      {
+         "Response": "Yahoo",
+         "Share of respondents": "18"
+      },
+      {
+         "Response": "Outlook (Hotmail)",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "AOL",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "iCloud",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Comcast",
+         "Share of respondents": "1"
+      }
+   ]
+}

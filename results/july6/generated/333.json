@@ -1,0 +1,59 @@
+{
+   "title": "Average trip length in the U.S. in Q1 2014",
+   "xAxis": "Year",
+   "yAxis": "Share of trip requests",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the amount of Share trip More_than_30_days on 31st of , 2014 More_than_30_days of . ",
+      "There were a total of 82,634 Share trip More_than_30_days in U.S. Q1 and on this date , the largest share of whom , 27 were serving Five_to_six_days of Less_than_one_to_two_days or ."
+   ],
+   "trends": [
+      {
+         "8": "7",
+         "16": "7",
+         "18": "7"
+      },
+      {
+         "8": "7",
+         "23": "1",
+         "27": "2",
+         "29": "0",
+         "31": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "Less than one to two days",
+         "Share of trip requests": "9"
+      },
+      {
+         "Year": "Three to four days",
+         "Share of trip requests": "27"
+      },
+      {
+         "Year": "Five to six days",
+         "Share of trip requests": "25"
+      },
+      {
+         "Year": "Seven to eight days",
+         "Share of trip requests": "22"
+      },
+      {
+         "Year": "Nine to 14 days",
+         "Share of trip requests": "14"
+      },
+      {
+         "Year": "15 to 20 days",
+         "Share of trip requests": "3"
+      },
+      {
+         "Year": "21 to 30 days",
+         "Share of trip requests": "2"
+      },
+      {
+         "Year": "More than 30 days",
+         "Share of trip requests": "1"
+      }
+   ]
+}

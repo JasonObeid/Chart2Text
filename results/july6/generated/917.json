@@ -1,0 +1,39 @@
+{
+   "title": "Time children spend in outside-school activities in the U.S. 2014 , by grade",
+   "labels": [
+      "unknown",
+      "Free/leisure time",
+      "Scheduled activities"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the percentage of U.S. the 2014 presidential elections in the country on 9 , 2014 by . ",
+      "According to the spend outside-school , about 20.2 % of Secondary/6-12 voters nationwide voted for Free/leisure time ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "1",
+            "1"
+         ],
+         "10": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Elementary/K-5",
+         "Free/leisure time": "17.8",
+         "Scheduled activities": "4.1"
+      },
+      {
+         "unknown": "Secondary/6-12",
+         "Free/leisure time": "20.2",
+         "Scheduled activities": "4.3"
+      }
+   ]
+}

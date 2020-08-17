@@ -1,0 +1,134 @@
+{
+   "title": "USA - reported burglary rate 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Rate per 100,000 population",
+   "graphType": "line",
+   "summary": [
+      "This graph shows the reported burglary Rate in the country from 1990 to 2018 . ",
+      "In 2018 , the nationwide Rate was 376.0 cases per 100,000 of the population ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'18",
+         "Rate per 100,000 population": "376.0"
+      },
+      {
+         "Year": "'17",
+         "Rate per 100,000 population": "429.7"
+      },
+      {
+         "Year": "'16",
+         "Rate per 100,000 population": "468.9"
+      },
+      {
+         "Year": "'15",
+         "Rate per 100,000 population": "494.7"
+      },
+      {
+         "Year": "'14",
+         "Rate per 100,000 population": "537.2"
+      },
+      {
+         "Year": "'13",
+         "Rate per 100,000 population": "610.5"
+      },
+      {
+         "Year": "'12",
+         "Rate per 100,000 population": "672.2"
+      },
+      {
+         "Year": "'11",
+         "Rate per 100,000 population": "701.3"
+      },
+      {
+         "Year": "'10",
+         "Rate per 100,000 population": "701.0"
+      },
+      {
+         "Year": "'09",
+         "Rate per 100,000 population": "717.7"
+      },
+      {
+         "Year": "'08",
+         "Rate per 100,000 population": "733.0"
+      },
+      {
+         "Year": "'07",
+         "Rate per 100,000 population": "726.1"
+      },
+      {
+         "Year": "'06",
+         "Rate per 100,000 population": "733.1"
+      },
+      {
+         "Year": "'05",
+         "Rate per 100,000 population": "726.9"
+      },
+      {
+         "Year": "'04",
+         "Rate per 100,000 population": "730.3"
+      },
+      {
+         "Year": "'03",
+         "Rate per 100,000 population": "741.0"
+      },
+      {
+         "Year": "'02",
+         "Rate per 100,000 population": "747.0"
+      },
+      {
+         "Year": "'01",
+         "Rate per 100,000 population": "740.8"
+      },
+      {
+         "Year": "'00",
+         "Rate per 100,000 population": "728.8"
+      },
+      {
+         "Year": "'99",
+         "Rate per 100,000 population": "770.4"
+      },
+      {
+         "Year": "'98",
+         "Rate per 100,000 population": "863.0"
+      },
+      {
+         "Year": "'97",
+         "Rate per 100,000 population": "919.6"
+      },
+      {
+         "Year": "'96",
+         "Rate per 100,000 population": "944.8"
+      },
+      {
+         "Year": "'95",
+         "Rate per 100,000 population": "987.1"
+      },
+      {
+         "Year": "'94",
+         "Rate per 100,000 population": "1042.0"
+      },
+      {
+         "Year": "'93",
+         "Rate per 100,000 population": "1099.2"
+      },
+      {
+         "Year": "'92",
+         "Rate per 100,000 population": "1168.2"
+      },
+      {
+         "Year": "'91",
+         "Rate per 100,000 population": "1252.0"
+      },
+      {
+         "Year": "'90",
+         "Rate per 100,000 population": "1235.9"
+      }
+   ]
+}

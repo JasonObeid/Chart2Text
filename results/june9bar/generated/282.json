@@ -1,0 +1,35 @@
+{
+   "title": "Percentage of U.S. companies using self-insured health plans for employees 2010",
+   "xAxis": "Number of employees",
+   "yAxis": "Share of companies",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of adults in the U.S. who were using Percentage as of 2019 , sorted plans Number . ",
+      "In that period of time , 80 % of female companies had attained a 50_to_199 basis ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "3",
+         "15": "1"
+      }
+   ],
+   "data": [
+      {
+         "Number of employees": "3 to 49",
+         "Share of companies": "8"
+      },
+      {
+         "Number of employees": "50 to 199",
+         "Share of companies": "20"
+      },
+      {
+         "Number of employees": "200 to 999",
+         "Share of companies": "48"
+      },
+      {
+         "Number of employees": "1000 and more",
+         "Share of companies": "80"
+      }
+   ]
+}

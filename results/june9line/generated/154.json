@@ -1,0 +1,58 @@
+{
+   "title": "Italy : number of banks 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of banks",
+   "graphType": "line",
+   "summary": [
+      "The population in Italy has been increasing annually and reached 10.23 million in 2018 , and these individuals were living in almost 740 million banks . ",
+      "As with the growing population , the Number of banks were increasing annually as well , from 4.3 banks in 2011 , up to the 4.7 in 2011 . ",
+      "Single household without children most common of the banks in Italy 2018 were single banks without children and amounted to around 1.8 billion ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "22": "7"
+      },
+      {
+         "20": "7",
+         "27": "7"
+      },
+      {
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of banks": "505"
+      },
+      {
+         "Year": "2017",
+         "Number of banks": "538"
+      },
+      {
+         "Year": "2016",
+         "Number of banks": "604"
+      },
+      {
+         "Year": "2015",
+         "Number of banks": "643"
+      },
+      {
+         "Year": "2014",
+         "Number of banks": "664"
+      },
+      {
+         "Year": "2013",
+         "Number of banks": "684"
+      },
+      {
+         "Year": "2012",
+         "Number of banks": "706"
+      },
+      {
+         "Year": "2011",
+         "Number of banks": "740"
+      }
+   ]
+}

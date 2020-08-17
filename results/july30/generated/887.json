@@ -1,0 +1,117 @@
+{
+   "title": "Average per game attendance English Premier League 2018/19\n",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 10 data points. The chart has 7 significant trends.",
+      " The longest trend is  negative which exists from 2013/14 to 2011/12.",
+      " Contrarily, the next significant trend is  positive which exists from 2011/12 to 2009/10.",
+      " Additionally, the next significant trend is  positive which exists from 2018/19 to 2017/18.",
+      " In a similar manner, the next significant trend is  negative which exists from 2017/18 to 2016/17.",
+      " Differently, the next significant trend is  positive which exists from 2016/17 to 2015/16.",
+      " Additionally, the next significant trend is  negative which exists from 2015/16 to 2014/15.",
+      " Contrarily, the next significant trend is  positive which exists from 2014/15 to 2013/14."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 5,
+         "end": 7,
+         "trend": "y=1022.5x+-2021523.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 7,
+         "end": 9,
+         "trend": "y=215.5x+-398416.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-11.0x+60682.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 1,
+         "end": 2,
+         "trend": "y=2657.0x+-5320674.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 2,
+         "end": 3,
+         "trend": "y=-652.0x+1350270.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 3,
+         "end": 4,
+         "trend": "y=327.0x+-622415.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 4,
+         "end": 5,
+         "trend": "y=-528.0x+1099555.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Average attendance": 38484.0
+      },
+      {
+         "Year": "2017/18",
+         "Average attendance": 38495.0
+      },
+      {
+         "Year": "2016/17",
+         "Average attendance": 35838.0
+      },
+      {
+         "Year": "2015/16",
+         "Average attendance": 36490.0
+      },
+      {
+         "Year": "2014/15",
+         "Average attendance": 36163.0
+      },
+      {
+         "Year": "2013/14",
+         "Average attendance": 36691.0
+      },
+      {
+         "Year": "2012/13",
+         "Average attendance": 35903.0
+      },
+      {
+         "Year": "2011/12",
+         "Average attendance": 34646.0
+      },
+      {
+         "Year": "2010/11",
+         "Average attendance": 35356.0
+      },
+      {
+         "Year": "2009/10",
+         "Average attendance": 34215.0
+      }
+   ]
+}

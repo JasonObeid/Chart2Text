@@ -1,0 +1,29 @@
+{
+   "title": "Survey on tattoos and piercings on the job 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a Survey among adult Americans who have one or more piercings . ",
+      "The Survey was conducted in 2013 , asking the respondents whether they ever regret getting any of their piercings , or not . ",
+      "55 % of respondents stated they do not regret getting any of their piercings ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Visible tattoos",
+         "Share of respondents": "42"
+      },
+      {
+         "Response": "Body piercings",
+         "Share of respondents": "55"
+      }
+   ]
+}

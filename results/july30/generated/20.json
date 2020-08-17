@@ -1,0 +1,58 @@
+{
+   "title": "Top hashtags used by U.S. Congress Democrats in 2019\n",
+   "xAxis": "Hashtag",
+   "yAxis": "Total number of mentions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Hashtag, and a y axis representing Total number of mentions.",
+      " The highest category is found at #forthepeople where Total number of mentions is 6961.0.",
+      " The lowest category is found at #hr1 where Total number of mentions is 1683.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Hashtag": "#forthepeople",
+         "Total number of mentions": 6961.0
+      },
+      {
+         "Hashtag": "#trumpshutdown",
+         "Total number of mentions": 3992.0
+      },
+      {
+         "Hashtag": "#protectourcare",
+         "Total number of mentions": 2810.0
+      },
+      {
+         "Hashtag": "#endgunviolence",
+         "Total number of mentions": 2342.0
+      },
+      {
+         "Hashtag": "#hr8",
+         "Total number of mentions": 2206.0
+      },
+      {
+         "Hashtag": "#actonclimate",
+         "Total number of mentions": 2206.0
+      },
+      {
+         "Hashtag": "#endtheshutdown",
+         "Total number of mentions": 1769.0
+      },
+      {
+         "Hashtag": "#sotu",
+         "Total number of mentions": 1767.0
+      },
+      {
+         "Hashtag": "#equalityact",
+         "Total number of mentions": 1720.0
+      },
+      {
+         "Hashtag": "#hr1",
+         "Total number of mentions": 1683.0
+      }
+   ]
+}

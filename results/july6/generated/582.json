@@ -1,0 +1,123 @@
+{
+   "title": "Perceived sources of fake news in the U.S. 2017",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents who thought they'd encounter fake news stories",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the Share of respondents who at least one Perceived in the U.S. by Platform in 2017 . ",
+      "Facebook and Internet_News_Sites ranked highest with 58 % of respondents who thought in 2017 , followed 2017 the Twitter with 49 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "2": "1",
+         "6": "0",
+         "18": "2",
+         "20": "2"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of respondents who thought they'd encounter fake news stories": "58"
+      },
+      {
+         "Platform": "Internet News Sites",
+         "Share of respondents who thought they'd encounter fake news stories": "51"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents who thought they'd encounter fake news stories": "49"
+      },
+      {
+         "Platform": "Saturday Night Live",
+         "Share of respondents who thought they'd encounter fake news stories": "39"
+      },
+      {
+         "Platform": "Fox News",
+         "Share of respondents who thought they'd encounter fake news stories": "24"
+      },
+      {
+         "Platform": "Radio Talk Shows",
+         "Share of respondents who thought they'd encounter fake news stories": "24"
+      },
+      {
+         "Platform": "The Daily Show",
+         "Share of respondents who thought they'd encounter fake news stories": "24"
+      },
+      {
+         "Platform": "CNN",
+         "Share of respondents who thought they'd encounter fake news stories": "24"
+      },
+      {
+         "Platform": "MSNBC",
+         "Share of respondents who thought they'd encounter fake news stories": "17"
+      },
+      {
+         "Platform": "The New York Times",
+         "Share of respondents who thought they'd encounter fake news stories": "17"
+      },
+      {
+         "Platform": "Good Morning America (ABC)",
+         "Share of respondents who thought they'd encounter fake news stories": "15"
+      },
+      {
+         "Platform": "CBS This Morning (CBS)",
+         "Share of respondents who thought they'd encounter fake news stories": "14"
+      },
+      {
+         "Platform": "The Today Show (NBC)",
+         "Share of respondents who thought they'd encounter fake news stories": "14"
+      },
+      {
+         "Platform": "USA Today",
+         "Share of respondents who thought they'd encounter fake news stories": "13"
+      },
+      {
+         "Platform": "ABC World News Tonight",
+         "Share of respondents who thought they'd encounter fake news stories": "13"
+      },
+      {
+         "Platform": "Local Radio News Stations",
+         "Share of respondents who thought they'd encounter fake news stories": "12"
+      },
+      {
+         "Platform": "Meet the Press (NBC)",
+         "Share of respondents who thought they'd encounter fake news stories": "12"
+      },
+      {
+         "Platform": "CBS Evening News",
+         "Share of respondents who thought they'd encounter fake news stories": "12"
+      },
+      {
+         "Platform": "NBC Nightly News",
+         "Share of respondents who thought they'd encounter fake news stories": "12"
+      },
+      {
+         "Platform": "Local Newspapers",
+         "Share of respondents who thought they'd encounter fake news stories": "11"
+      },
+      {
+         "Platform": "60 Minutes (CBS)",
+         "Share of respondents who thought they'd encounter fake news stories": "11"
+      },
+      {
+         "Platform": "NPR (National Public Radio)",
+         "Share of respondents who thought they'd encounter fake news stories": "11"
+      },
+      {
+         "Platform": "Face the Nation (CBS)",
+         "Share of respondents who thought they'd encounter fake news stories": "11"
+      },
+      {
+         "Platform": "PBS News Hour",
+         "Share of respondents who thought they'd encounter fake news stories": "9"
+      },
+      {
+         "Platform": "Local TV News",
+         "Share of respondents who thought they'd encounter fake news stories": "8"
+      }
+   ]
+}

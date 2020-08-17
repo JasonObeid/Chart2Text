@@ -1,0 +1,56 @@
+{
+   "title": "French households savings rate 2010 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Savings rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the French households Savings in crop years 2010 to 2017 . ",
+      "In crop Year 2017 , there were around 14.6 % rate of rice-cultivated area worldwide . ",
+      "In 2016/2017 , India was estimated to be the leading global producer of households and to harvest about 44.5 % rate of households ."
+   ],
+   "trends": [
+      {
+         "10": "7",
+         "12": "0"
+      },
+      {
+         "3": "0",
+         "8": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Savings rate": "14.6"
+      },
+      {
+         "Year": "2016",
+         "Savings rate": "14"
+      },
+      {
+         "Year": "2015",
+         "Savings rate": "14.5"
+      },
+      {
+         "Year": "2014",
+         "Savings rate": "14.4"
+      },
+      {
+         "Year": "2013",
+         "Savings rate": "14.3"
+      },
+      {
+         "Year": "2012",
+         "Savings rate": "15.1"
+      },
+      {
+         "Year": "2011",
+         "Savings rate": "15.6"
+      },
+      {
+         "Year": "2010",
+         "Savings rate": "15.8"
+      }
+   ]
+}

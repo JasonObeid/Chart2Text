@@ -1,0 +1,85 @@
+{
+   "title": "Average U.S. TV ratings NHL Stanley Cup games 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average TV rating",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "3.3 million people used the Average in NHL Stanley Cup during 2019 2013 to the United Kingdom 's ( UK ) Office for National Statistics ( ONS ) , breaking the record set in 2016 . ",
+      "There were 2.3 million Average TV in NHL Stanley Cup during 2016 , the first time the amount had exceeded 40 % . ",
+      "Average access in the UK While the vast majority of households in the UK are able to go online , one in ten households was without an Average connection as of 2018 , according to the ONS ."
+   ],
+   "trends": [
+      {
+         "0": "6",
+         "10": "0",
+         "11": "6",
+         "33": "3"
+      },
+      {
+         "2": "3",
+         "10": "3"
+      },
+      {
+         "31": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average TV rating": "3.0"
+      },
+      {
+         "Year": "2018",
+         "Average TV rating": "2.7"
+      },
+      {
+         "Year": "2017",
+         "Average TV rating": "2.7"
+      },
+      {
+         "Year": "2016",
+         "Average TV rating": "2.3"
+      },
+      {
+         "Year": "2015",
+         "Average TV rating": "3.2"
+      },
+      {
+         "Year": "2014",
+         "Average TV rating": "3.0"
+      },
+      {
+         "Year": "2013",
+         "Average TV rating": "3.3"
+      },
+      {
+         "Year": "2012",
+         "Average TV rating": "1.8"
+      },
+      {
+         "Year": "2011",
+         "Average TV rating": "2.7"
+      },
+      {
+         "Year": "2010",
+         "Average TV rating": "2.9"
+      },
+      {
+         "Year": "2009",
+         "Average TV rating": "2.7"
+      },
+      {
+         "Year": "2008",
+         "Average TV rating": "2.6"
+      },
+      {
+         "Year": "2007",
+         "Average TV rating": "1.2"
+      },
+      {
+         "Year": "2006",
+         "Average TV rating": "1.8"
+      }
+   ]
+}

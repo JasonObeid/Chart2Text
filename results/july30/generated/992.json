@@ -1,0 +1,50 @@
+{
+   "title": "Gasoline price per liter in selected countries - December 2019\n",
+   "xAxis": "Country",
+   "yAxis": "Price per liter in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Country, and a y axis representing Price per liter in U.S. dollars.",
+      " The highest category is found at Italy where Price per liter in U.S. dollars is 1.76.",
+      " The lowest category is found at United_States where Price per liter in U.S. dollars is 0.68."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 7
+   },
+   "data": [
+      {
+         "Country": "Italy",
+         "Price per liter in U.S. dollars": 1.76
+      },
+      {
+         "Country": "France",
+         "Price per liter in U.S. dollars": 1.69
+      },
+      {
+         "Country": "United Kingdom",
+         "Price per liter in U.S. dollars": 1.64
+      },
+      {
+         "Country": "Germany",
+         "Price per liter in U.S. dollars": 1.54
+      },
+      {
+         "Country": "Spain",
+         "Price per liter in U.S. dollars": 1.45
+      },
+      {
+         "Country": "Japan",
+         "Price per liter in U.S. dollars": 1.36
+      },
+      {
+         "Country": "Canada",
+         "Price per liter in U.S. dollars": 0.89
+      },
+      {
+         "Country": "United States",
+         "Price per liter in U.S. dollars": 0.68
+      }
+   ]
+}

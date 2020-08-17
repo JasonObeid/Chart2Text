@@ -1,0 +1,37 @@
+{
+   "title": "Share of U.S. teenagers who use Instagram 2015 , by gender and age",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey about the teenagers who of several individual Share Girls_15-17 in U.S. Instagram 2015 , phrased Boys_15-17 the question : `` except reading books . ",
+      "Approximately 64 % of the respondents stated that they used 2015 ."
+   ],
+   "trends": [
+      {
+         "16": "3",
+         "23": "1"
+      },
+      {
+         "1": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Boys 13-14",
+         "Share of respondents": "33"
+      },
+      {
+         "Response": "Boys 15-17",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Girls 13-14",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Girls 15-17",
+         "Share of respondents": "64"
+      }
+   ]
+}

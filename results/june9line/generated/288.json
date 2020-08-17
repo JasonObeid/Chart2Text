@@ -1,0 +1,38 @@
+{
+   "title": "Europe : forecasted distribution of golfers in 2020 , by age group",
+   "xAxis": "Year",
+   "yAxis": "Share of average increase",
+   "graphType": "line",
+   "summary": [
+      "This statistic gives information on the Share of Europe in the golfers as of 2018 , by age . ",
+      "During this month , 6 % of Europe users were aged between 18 and 24 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "20 or younger",
+         "Share of average increase": "6"
+      },
+      {
+         "Year": "20 to 40 years",
+         "Share of average increase": "11"
+      },
+      {
+         "Year": "40 to 50 years",
+         "Share of average increase": "18"
+      },
+      {
+         "Year": "50 to 60 years",
+         "Share of average increase": "24"
+      },
+      {
+         "Year": "60 or older",
+         "Share of average increase": "42"
+      }
+   ]
+}

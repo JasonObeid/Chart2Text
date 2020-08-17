@@ -1,0 +1,91 @@
+{
+   "title": "Natural gas prices for households in Italy 2010 - 2018 , semi-annually",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Natural gas prices for household end users in Italy semi-annually from 2010_S2 to 2018_S1 . ",
+      "In the first half of 2018_S1 , the average Natural gas price for households was 7.14 Euro cents per kWh ."
+   ],
+   "trends": [
+      {
+         "15": "15",
+         "17": "0"
+      },
+      {
+         "5": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": "7.14"
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": "8.74"
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": "7.04"
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": "8.38"
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": "7.31"
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": "9.05"
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": "7.66"
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": "9.51"
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": "7.97"
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": "9.46"
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": "8.34"
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": "9.68"
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": "7.69"
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": "8.75"
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": "6.94"
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": "7.87"
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": "6.17"
+      }
+   ]
+}

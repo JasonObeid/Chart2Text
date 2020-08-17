@@ -1,0 +1,67 @@
+{
+   "title": "Total population of Ireland 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Total population of Ireland from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of Ireland amounted to approximately 4.89 millions Inhabitants ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "11": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "5.2"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "5.15"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "5.11"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "5.06"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "5.01"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "4.95"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "4.89"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "4.83"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "4.77"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "4.71"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "4.67"
+      }
+   ]
+}

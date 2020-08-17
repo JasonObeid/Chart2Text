@@ -1,0 +1,113 @@
+{
+   "title": "Share of economic sectors in GDP in Zimbabwe 2018",
+   "labels": [
+      "Year",
+      "Agriculture, forestry, and fishing",
+      "Industry (incl. construction)",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Share economic of Zimbabwe from 2008 to 2018 . ",
+      "In 2018 , about 7.14 % of the population in Zimbabwe fell into the 0 - 57.9 Year category , 7.14 % into the 58.33 - 64 Share group and 20.69 % were over Services forestry, of Share ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "10",
+            "0"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "4": [
+            "5",
+            "1"
+         ],
+         "16": [
+            "7",
+            "3"
+         ],
+         "24": [
+            "5",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture, forestry, and fishing": "12.08",
+         "Industry (incl. construction)": "32.48",
+         "Services": "45.68"
+      },
+      {
+         "Year": "2017",
+         "Agriculture, forestry, and fishing": "9.66",
+         "Industry (incl. construction)": "25.79",
+         "Services": "55.08"
+      },
+      {
+         "Year": "2016",
+         "Agriculture, forestry, and fishing": "7.87",
+         "Industry (incl. construction)": "22.12",
+         "Services": "60.41"
+      },
+      {
+         "Year": "2015",
+         "Agriculture, forestry, and fishing": "8.28",
+         "Industry (incl. construction)": "22.36",
+         "Services": "58.65"
+      },
+      {
+         "Year": "2014",
+         "Agriculture, forestry, and fishing": "8.75",
+         "Industry (incl. construction)": "23.72",
+         "Services": "57.59"
+      },
+      {
+         "Year": "2013",
+         "Agriculture, forestry, and fishing": "7.14",
+         "Industry (incl. construction)": "23.8",
+         "Services": "58.33"
+      },
+      {
+         "Year": "2012",
+         "Agriculture, forestry, and fishing": "8.04",
+         "Industry (incl. construction)": "25.33",
+         "Services": "55.09"
+      },
+      {
+         "Year": "2011",
+         "Agriculture, forestry, and fishing": "8.67",
+         "Industry (incl. construction)": "21.72",
+         "Services": "57.9"
+      },
+      {
+         "Year": "2010",
+         "Agriculture, forestry, and fishing": "9.61",
+         "Industry (incl. construction)": "20.69",
+         "Services": "57.83"
+      },
+      {
+         "Year": "2009",
+         "Agriculture, forestry, and fishing": "10.74",
+         "Industry (incl. construction)": "21.45",
+         "Services": "54.92"
+      },
+      {
+         "Year": "2008",
+         "Agriculture, forestry, and fishing": "19.02",
+         "Industry (incl. construction)": "30.48",
+         "Services": "48.55"
+      }
+   ]
+}

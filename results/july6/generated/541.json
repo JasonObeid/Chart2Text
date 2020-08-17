@@ -1,0 +1,120 @@
+{
+   "title": "Employment by economic sector in Slovakia 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Employment of the by economic sector Slovakia in from 2009 to 2019 . ",
+      "In 2019 , 2.66 % of the by were employed in Agriculture , 36.81 % in Industry and 60.54 % in Services . ",
+      "Employment of by in Slovakia \u2013 additional information In 2013 , Slovakia was the largest exporting country worldwide with an export value of about two billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "10",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "0",
+            "3"
+         ]
+      },
+      {
+         "9": [
+            "6",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "2.66",
+         "Industry": "36.81",
+         "Services": "60.54"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "2.68",
+         "Industry": "36.98",
+         "Services": "60.34"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "2.71",
+         "Industry": "37.16",
+         "Services": "60.13"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "2.89",
+         "Industry": "36.47",
+         "Services": "60.64"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "3.18",
+         "Industry": "36.11",
+         "Services": "60.71"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "3.5",
+         "Industry": "35.45",
+         "Services": "61.06"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "3.31",
+         "Industry": "35.82",
+         "Services": "60.87"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "3.24",
+         "Industry": "37.54",
+         "Services": "59.23"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "3.08",
+         "Industry": "37.49",
+         "Services": "59.43"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "3.23",
+         "Industry": "37.12",
+         "Services": "59.65"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "3.59",
+         "Industry": "37.93",
+         "Services": "58.49"
+      }
+   ]
+}

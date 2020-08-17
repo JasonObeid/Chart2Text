@@ -1,0 +1,70 @@
+{
+   "title": "Number of divorces in Denmark 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of divorces",
+   "graphType": "line",
+   "summary": [
+      "The Number of divorces in Denmark peaked in 2013 , when almost 19387 thousand couples got divorced . ",
+      "Since then the divorce Number decreased until 2018 , when it again increased and amounted to almost 14936 thousand divorces . ",
+      "A similar trend can be seen in the neighbor country Norway , where the Number of divorces decreased for several years but increased again in 2017 ."
+   ],
+   "trends": [
+      {
+         "8": "5",
+         "12": "4"
+      },
+      {
+         "7": "0",
+         "17": "0"
+      },
+      {
+         "25": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of divorces": "14936"
+      },
+      {
+         "Year": "2017",
+         "Number of divorces": "15169"
+      },
+      {
+         "Year": "2016",
+         "Number of divorces": "17146"
+      },
+      {
+         "Year": "2015",
+         "Number of divorces": "16290"
+      },
+      {
+         "Year": "2014",
+         "Number of divorces": "19387"
+      },
+      {
+         "Year": "2013",
+         "Number of divorces": "18858"
+      },
+      {
+         "Year": "2012",
+         "Number of divorces": "15709"
+      },
+      {
+         "Year": "2011",
+         "Number of divorces": "14484"
+      },
+      {
+         "Year": "2010",
+         "Number of divorces": "14460"
+      },
+      {
+         "Year": "2009",
+         "Number of divorces": "14940"
+      },
+      {
+         "Year": "2008",
+         "Number of divorces": "14695"
+      }
+   ]
+}

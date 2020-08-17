@@ -1,0 +1,70 @@
+{
+   "title": "Average prices for zinc worldwide from 2014 to 2025",
+   "xAxis": "Year",
+   "yAxis": "Price in nominal U.S. dollars per metric ton",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Average annual prices for zinc from 2014 through 2025 . ",
+      "In 2018 , the Average Price for zinc stood at 2922 nominal U.S. dollars per metric ton ."
+   ],
+   "trends": [
+      {
+         "10": "11",
+         "12": "0"
+      },
+      {
+         "1": "7",
+         "10": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2025",
+         "Price in nominal U.S. dollars per metric ton": "2475"
+      },
+      {
+         "Year": "2024",
+         "Price in nominal U.S. dollars per metric ton": "2470"
+      },
+      {
+         "Year": "2023",
+         "Price in nominal U.S. dollars per metric ton": "2465"
+      },
+      {
+         "Year": "2022",
+         "Price in nominal U.S. dollars per metric ton": "2460"
+      },
+      {
+         "Year": "2021",
+         "Price in nominal U.S. dollars per metric ton": "2455"
+      },
+      {
+         "Year": "2020",
+         "Price in nominal U.S. dollars per metric ton": "2450"
+      },
+      {
+         "Year": "2019",
+         "Price in nominal U.S. dollars per metric ton": "2570"
+      },
+      {
+         "Year": "2018",
+         "Price in nominal U.S. dollars per metric ton": "2922"
+      },
+      {
+         "Year": "2017",
+         "Price in nominal U.S. dollars per metric ton": "2891"
+      },
+      {
+         "Year": "2016",
+         "Price in nominal U.S. dollars per metric ton": "2090"
+      },
+      {
+         "Year": "2015",
+         "Price in nominal U.S. dollars per metric ton": "1932"
+      },
+      {
+         "Year": "2014",
+         "Price in nominal U.S. dollars per metric ton": "2161"
+      }
+   ]
+}

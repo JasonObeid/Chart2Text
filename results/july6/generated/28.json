@@ -1,0 +1,105 @@
+{
+   "title": "Age structure in Germany 2018",
+   "labels": [
+      "Year",
+      "0-14 years",
+      "15-64 years",
+      "65 years and older"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Age structure in Germany from 2008 to 2018 . ",
+      "In 2018 , about 13.22 % of Germany 's total population were aged 0 to 14 years ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "10",
+            "0"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "4": [
+            "3",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "0-14 years": "13.62",
+         "15-64 years": "64.92",
+         "65 years and older": "21.46"
+      },
+      {
+         "Year": "2017",
+         "0-14 years": "13.45",
+         "15-64 years": "65.18",
+         "65 years and older": "21.37"
+      },
+      {
+         "Year": "2016",
+         "0-14 years": "13.32",
+         "15-64 years": "65.4",
+         "65 years and older": "21.29"
+      },
+      {
+         "Year": "2015",
+         "0-14 years": "13.22",
+         "15-64 years": "65.56",
+         "65 years and older": "21.22"
+      },
+      {
+         "Year": "2014",
+         "0-14 years": "13.25",
+         "15-64 years": "65.68",
+         "65 years and older": "21.06"
+      },
+      {
+         "Year": "2013",
+         "0-14 years": "13.33",
+         "15-64 years": "65.73",
+         "65 years and older": "20.94"
+      },
+      {
+         "Year": "2012",
+         "0-14 years": "13.43",
+         "15-64 years": "65.75",
+         "65 years and older": "20.82"
+      },
+      {
+         "Year": "2011",
+         "0-14 years": "13.51",
+         "15-64 years": "65.79",
+         "65 years and older": "20.71"
+      },
+      {
+         "Year": "2010",
+         "0-14 years": "13.57",
+         "15-64 years": "65.88",
+         "65 years and older": "20.55"
+      },
+      {
+         "Year": "2009",
+         "0-14 years": "13.71",
+         "15-64 years": "65.99",
+         "65 years and older": "20.3"
+      },
+      {
+         "Year": "2008",
+         "0-14 years": "13.84",
+         "15-64 years": "66.14",
+         "65 years and older": "20.02"
+      }
+   ]
+}

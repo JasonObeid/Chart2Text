@@ -1,0 +1,42 @@
+{
+   "title": "Most important export partner countries for Bangladesh in 2017\n",
+   "xAxis": "Country",
+   "yAxis": "Share in total export",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Country, and a y axis representing Share in total export.",
+      " The highest category is found at Germany where Share in total export is 12.9.",
+      " The lowest category is found at Italy where Share in total export is 4.1."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 5
+   },
+   "data": [
+      {
+         "Country": "Germany",
+         "Share in total export": 12.9
+      },
+      {
+         "Country": "United States",
+         "Share in total export": 12.2
+      },
+      {
+         "Country": "United Kingdom",
+         "Share in total export": 8.7
+      },
+      {
+         "Country": "Spain",
+         "Share in total export": 5.3
+      },
+      {
+         "Country": "France",
+         "Share in total export": 5.1
+      },
+      {
+         "Country": "Italy",
+         "Share in total export": 4.1
+      }
+   ]
+}

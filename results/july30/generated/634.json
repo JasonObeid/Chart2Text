@@ -1,0 +1,94 @@
+{
+   "title": "Number of students in upper secondary education in Denmark 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of students",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of students, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2013 to 2008.",
+      " Conversely, the next significant trend is  negative which exists from 2017 to 2014.",
+      " Differently, the next significant trend is  positive which exists from 2018 to 2017.",
+      " In a similar manner, the next significant trend is  positive which exists from 2014 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 5,
+         "end": 10,
+         "trend": "y=6362.06x+-12656453.55",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 1,
+         "end": 4,
+         "trend": "y=1018.8x+-1904316.4",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-2057.0x+4299577.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 4,
+         "end": 5,
+         "trend": "y=-291.0x+733834.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of students": 148551.0
+      },
+      {
+         "Year": "2017",
+         "Number of students": 150608.0
+      },
+      {
+         "Year": "2016",
+         "Number of students": 149788.0
+      },
+      {
+         "Year": "2015",
+         "Number of students": 148144.0
+      },
+      {
+         "Year": "2014",
+         "Number of students": 147760.0
+      },
+      {
+         "Year": "2013",
+         "Number of students": 148051.0
+      },
+      {
+         "Year": "2012",
+         "Number of students": 144791.0
+      },
+      {
+         "Year": "2011",
+         "Number of students": 140259.0
+      },
+      {
+         "Year": "2010",
+         "Number of students": 132619.0
+      },
+      {
+         "Year": "2009",
+         "Number of students": 122837.0
+      },
+      {
+         "Year": "2008",
+         "Number of students": 118217.0
+      }
+   ]
+}

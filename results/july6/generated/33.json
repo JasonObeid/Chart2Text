@@ -1,0 +1,52 @@
+{
+   "title": "OPEC reference basket - oil price 2016 to 2040",
+   "labels": [
+      "Year",
+      "Nominal price",
+      "Real price (2015)"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Nominal basket of the OPEC reference to the OPEC oil in 2016 and 2040 , alongside the total contribution of the reference to the oil including price demand , such as via the supply chain industries and induced spending of employee 's wages . ",
+      "In 2040 , the Nominal basket of the OPEC reference was measured at 155 million British pounds ( GBP ) , with a total contribution of 92 % ."
+   ],
+   "trends": [
+      {
+         "16": [
+            "1",
+            "0"
+         ],
+         "18": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "0",
+            "1"
+         ],
+         "26": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2040",
+         "Nominal price": "155",
+         "Real price (2015)": "92"
+      },
+      {
+         "Year": "2016",
+         "Nominal price": "40",
+         "Real price (2015)": "40"
+      }
+   ]
+}

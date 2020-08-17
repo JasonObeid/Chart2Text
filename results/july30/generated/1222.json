@@ -1,0 +1,137 @@
+{
+   "title": "CO2 emissions : Canada 1995 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Emissions in million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Emissions in million metric tons, with a total of 24 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2014 to 2009.",
+      " Differently, the next significant trend is  negative which exists from 2000 to 1995.",
+      " Contrarily, the next significant trend is  positive which exists from 2006 to 2003."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 4,
+         "end": 9,
+         "trend": "y=6.79x+-13097.51",
+         "magnitude": ""
+      },
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 18,
+         "end": 23,
+         "trend": "y=14.65x+-28734.2",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 12,
+         "end": 15,
+         "trend": "y=-5.97x+12537.25",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Emissions in million metric tons": 568.41
+      },
+      {
+         "Year": "2017",
+         "Emissions in million metric tons": 571.14
+      },
+      {
+         "Year": "2016",
+         "Emissions in million metric tons": 564.07
+      },
+      {
+         "Year": "2015",
+         "Emissions in million metric tons": 576.76
+      },
+      {
+         "Year": "2014",
+         "Emissions in million metric tons": 577.36
+      },
+      {
+         "Year": "2013",
+         "Emissions in million metric tons": 577.35
+      },
+      {
+         "Year": "2012",
+         "Emissions in million metric tons": 570.16
+      },
+      {
+         "Year": "2011",
+         "Emissions in million metric tons": 566.67
+      },
+      {
+         "Year": "2010",
+         "Emissions in million metric tons": 556.42
+      },
+      {
+         "Year": "2009",
+         "Emissions in million metric tons": 543.07
+      },
+      {
+         "Year": "2008",
+         "Emissions in million metric tons": 575.45
+      },
+      {
+         "Year": "2007",
+         "Emissions in million metric tons": 594.73
+      },
+      {
+         "Year": "2006",
+         "Emissions in million metric tons": 570.81
+      },
+      {
+         "Year": "2005",
+         "Emissions in million metric tons": 576.86
+      },
+      {
+         "Year": "2004",
+         "Emissions in million metric tons": 586.47
+      },
+      {
+         "Year": "2003",
+         "Emissions in million metric tons": 587.49
+      },
+      {
+         "Year": "2002",
+         "Emissions in million metric tons": 570.55
+      },
+      {
+         "Year": "2001",
+         "Emissions in million metric tons": 564.23
+      },
+      {
+         "Year": "2000",
+         "Emissions in million metric tons": 571.51
+      },
+      {
+         "Year": "1999",
+         "Emissions in million metric tons": 548.94
+      },
+      {
+         "Year": "1998",
+         "Emissions in million metric tons": 533.1
+      },
+      {
+         "Year": "1997",
+         "Emissions in million metric tons": 524.43
+      },
+      {
+         "Year": "1996",
+         "Emissions in million metric tons": 509.69
+      },
+      {
+         "Year": "1995",
+         "Emissions in million metric tons": 494.24
+      }
+   ]
+}

@@ -1,0 +1,56 @@
+{
+   "title": "Average daily trading volume of U.S. treasury securities 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Volume in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic illustrates the Volume of trading volume U.S. treasury in the daily from 2000 to 2018 . ",
+      "In 2018 , the Volume of the trading volume U.S. treasury in the daily was approximately 0.99 billion U.S. dollars . ",
+      "The trading volume is an informal network of banks , brokers dealers and financial institutions which are linked electronically ."
+   ],
+   "trends": [
+      {
+         "14": "7",
+         "16": "0"
+      },
+      {
+         "1": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Volume in billion U.S. dollars": "547.8"
+      },
+      {
+         "Year": "2017",
+         "Volume in billion U.S. dollars": "505.2"
+      },
+      {
+         "Year": "2016",
+         "Volume in billion U.S. dollars": "519.1"
+      },
+      {
+         "Year": "2015",
+         "Volume in billion U.S. dollars": "490.1"
+      },
+      {
+         "Year": "2014",
+         "Volume in billion U.S. dollars": "504.2"
+      },
+      {
+         "Year": "2010",
+         "Volume in billion U.S. dollars": "528.2"
+      },
+      {
+         "Year": "2005",
+         "Volume in billion U.S. dollars": "554.5"
+      },
+      {
+         "Year": "2000",
+         "Volume in billion U.S. dollars": "206.5"
+      }
+   ]
+}

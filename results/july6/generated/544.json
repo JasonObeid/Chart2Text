@@ -1,0 +1,95 @@
+{
+   "title": "Value of motor vehicle imports and exports in the United Kingdom ( UK ) 2007 to 2017",
+   "labels": [
+      "Year",
+      "Exports",
+      "Imports"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Value motor vehicle in the United Kingdom and the United Kingdom Kingdom from 2007 to 2017 . ",
+      "The figures refer to those younger than 25 years . ",
+      "In 2017 , the Value motor vehicle in the United Kingdom amounted to 40.8 % ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "10",
+            "0"
+         ],
+         "17": [
+            "0",
+            "0"
+         ]
+      },
+      {},
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "12": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Exports": "34.3",
+         "Imports": "40.8"
+      },
+      {
+         "Year": "2016",
+         "Exports": "31.5",
+         "Imports": "39.8"
+      },
+      {
+         "Year": "2015",
+         "Exports": "27.0",
+         "Imports": "37.8"
+      },
+      {
+         "Year": "2014",
+         "Exports": "27.3",
+         "Imports": "33.3"
+      },
+      {
+         "Year": "2013",
+         "Exports": "26.4",
+         "Imports": "29.5"
+      },
+      {
+         "Year": "2012",
+         "Exports": "23.9",
+         "Imports": "25.7"
+      },
+      {
+         "Year": "2011",
+         "Exports": "22.5",
+         "Imports": "25.7"
+      },
+      {
+         "Year": "2010",
+         "Exports": "19.1",
+         "Imports": "23.8"
+      },
+      {
+         "Year": "2009",
+         "Exports": "13.3",
+         "Imports": "18.9"
+      },
+      {
+         "Year": "2008",
+         "Exports": "18.0",
+         "Imports": "24.0"
+      },
+      {
+         "Year": "2007",
+         "Exports": "16.7",
+         "Imports": "26.2"
+      }
+   ]
+}

@@ -1,0 +1,62 @@
+{
+   "title": "Hotel occupancy rate in Rome 2011 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Occupancy rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the estimated percentage of Occupancy rate a Hotel in the Rome ( ) from 2011 to 2019 . ",
+      "Since 2016 , the share of household rate in the Rome has increased , with an estimated 67 % rate one in 2018 . ",
+      "However , the share of household rate decreased to 71 % in 2019 ."
+   ],
+   "trends": [
+      {
+         "20": "8"
+      },
+      {
+         "1": "5",
+         "23": "7"
+      },
+      {
+         "13": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "Occupancy rate": "67"
+      },
+      {
+         "Year": "2012",
+         "Occupancy rate": "66"
+      },
+      {
+         "Year": "2013",
+         "Occupancy rate": "67"
+      },
+      {
+         "Year": "2014",
+         "Occupancy rate": "69"
+      },
+      {
+         "Year": "2015",
+         "Occupancy rate": "69"
+      },
+      {
+         "Year": "2016",
+         "Occupancy rate": "70"
+      },
+      {
+         "Year": "2017",
+         "Occupancy rate": "70"
+      },
+      {
+         "Year": "2018",
+         "Occupancy rate": "70"
+      },
+      {
+         "Year": "2019",
+         "Occupancy rate": "71"
+      }
+   ]
+}

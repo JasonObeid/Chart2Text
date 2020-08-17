@@ -1,0 +1,117 @@
+{
+   "title": "Adidas , Nike & Puma revenue comparison 2006 to 2018",
+   "labels": [
+      "Year",
+      "Nike",
+      "Adidas Group",
+      "Puma"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The timeline shows the Adidas Nike of & Puma revenue in the Adidas from 2006 to 2018 . ",
+      "The & Puma spread from Adidas to Group amounted to 21.22 Adidas cents per pound of Group equivalent in the comparison in 2017 ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "12",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "10": [
+            "1",
+            "2"
+         ],
+         "22": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Nike": "31.35",
+         "Adidas Group": "21.92",
+         "Puma": "4.65"
+      },
+      {
+         "Year": "2017",
+         "Nike": "30.57",
+         "Adidas Group": "21.22",
+         "Puma": "4.14"
+      },
+      {
+         "Year": "2016",
+         "Nike": "29.1",
+         "Adidas Group": "18.48",
+         "Puma": "3.63"
+      },
+      {
+         "Year": "2015",
+         "Nike": "27.51",
+         "Adidas Group": "16.92",
+         "Puma": "3.39"
+      },
+      {
+         "Year": "2014",
+         "Nike": "24.99",
+         "Adidas Group": "14.53",
+         "Puma": "2.97"
+      },
+      {
+         "Year": "2013",
+         "Nike": "22.75",
+         "Adidas Group": "14.2",
+         "Puma": "2.99"
+      },
+      {
+         "Year": "2012",
+         "Nike": "20.97",
+         "Adidas Group": "14.88",
+         "Puma": "3.27"
+      },
+      {
+         "Year": "2011",
+         "Nike": "18.08",
+         "Adidas Group": "13.32",
+         "Puma": "3.17"
+      },
+      {
+         "Year": "2010",
+         "Nike": "16.47",
+         "Adidas Group": "11.99",
+         "Puma": "2.86"
+      },
+      {
+         "Year": "2009",
+         "Nike": "16.65",
+         "Adidas Group": "10.38",
+         "Puma": "2.61"
+      },
+      {
+         "Year": "2008",
+         "Nike": "16.74",
+         "Adidas Group": "10.8",
+         "Puma": "2.77"
+      },
+      {
+         "Year": "2007",
+         "Nike": "14.68",
+         "Adidas Group": "10.3",
+         "Puma": "2.74"
+      },
+      {
+         "Year": "2006",
+         "Nike": "13.44",
+         "Adidas Group": "10.08",
+         "Puma": "2.76"
+      }
+   ]
+}

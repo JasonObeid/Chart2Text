@@ -1,0 +1,69 @@
+{
+   "title": "Urbanization in Finland 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the degree of Urbanization in Finland from 2008 to 2018 . ",
+      "Urbanization means the Share of urban population in the total population of a country . ",
+      "In 2018 , 85.38 % of Finland 's total population lived in urban areas and cities ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population in total population": "85.38"
+      },
+      {
+         "Year": "2017",
+         "Share of urban population in total population": "85.33"
+      },
+      {
+         "Year": "2016",
+         "Share of urban population in total population": "85.28"
+      },
+      {
+         "Year": "2015",
+         "Share of urban population in total population": "85.23"
+      },
+      {
+         "Year": "2014",
+         "Share of urban population in total population": "85.18"
+      },
+      {
+         "Year": "2013",
+         "Share of urban population in total population": "85.13"
+      },
+      {
+         "Year": "2012",
+         "Share of urban population in total population": "84.84"
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": "84.31"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": "83.77"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": "83.43"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": "83.3"
+      }
+   ]
+}

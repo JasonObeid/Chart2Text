@@ -1,0 +1,39 @@
+{
+   "title": "Main export partners for Russia 2017",
+   "xAxis": "Country",
+   "yAxis": "Share of total exports",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Main export partners for Russia in 2017 . ",
+      "In 2017 , the most important export partner for Russia were the China , accounting for 10.9 % of all exports ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Share of total exports": "10.9"
+      },
+      {
+         "Country": "Netherlands",
+         "Share of total exports": "10"
+      },
+      {
+         "Country": "Germany",
+         "Share of total exports": "7.1"
+      },
+      {
+         "Country": "Belarus",
+         "Share of total exports": "5.1"
+      },
+      {
+         "Country": "Turkey",
+         "Share of total exports": "4.9"
+      }
+   ]
+}

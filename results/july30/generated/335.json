@@ -1,0 +1,102 @@
+{
+   "title": "Total assets of HSBC 2007 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Total assets in billion U.S.dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Total assets in billion U.S.dollars, with a total of 13 data points. The chart has 4 significant trends.",
+      " The longest trend is  positive which exists from 2016 to 2012.",
+      " Additionally, the next significant trend is  negative which exists from 2019 to 2016.",
+      " On the contrary, the next significant trend is  negative which exists from 2012 to 2009.",
+      " On the other hand, the next significant trend is  positive which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 3,
+         "end": 7,
+         "trend": "y=-89.67x+183143.84",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=105.68x+-210672.95",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 7,
+         "end": 10,
+         "trend": "y=108.49x+-215602.32",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 10,
+         "end": 12,
+         "trend": "y=5.1x+-7825.37",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Total assets in billion U.S.dollars": 2715.15
+      },
+      {
+         "Year": "2018",
+         "Total assets in billion U.S.dollars": 2558.12
+      },
+      {
+         "Year": "2017",
+         "Total assets in billion U.S.dollars": 2521.77
+      },
+      {
+         "Year": "2016",
+         "Total assets in billion U.S.dollars": 2374.99
+      },
+      {
+         "Year": "2015",
+         "Total assets in billion U.S.dollars": 2409.66
+      },
+      {
+         "Year": "2014",
+         "Total assets in billion U.S.dollars": 2634.14
+      },
+      {
+         "Year": "2013",
+         "Total assets in billion U.S.dollars": 2671.3
+      },
+      {
+         "Year": "2012",
+         "Total assets in billion U.S.dollars": 2692.5
+      },
+      {
+         "Year": "2011",
+         "Total assets in billion U.S.dollars": 2555.6
+      },
+      {
+         "Year": "2010",
+         "Total assets in billion U.S.dollars": 2454.7
+      },
+      {
+         "Year": "2009",
+         "Total assets in billion U.S.dollars": 2364.5
+      },
+      {
+         "Year": "2008",
+         "Total assets in billion U.S.dollars": 2527.5
+      },
+      {
+         "Year": "2007",
+         "Total assets in billion U.S.dollars": 2354.3
+      }
+   ]
+}

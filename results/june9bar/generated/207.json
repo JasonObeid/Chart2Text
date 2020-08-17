@@ -1,0 +1,34 @@
+{
+   "title": "Photo sharing sites : daily upload market share 2013",
+   "xAxis": "Platform",
+   "yAxis": "Share of uploads",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of users the Photo sharing sites daily in Photo 2013 . ",
+      "During the survey period , it was found that 49 % of responding adults were sharing sites Platform ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Snapchat",
+         "Share of uploads": "49"
+      },
+      {
+         "Platform": "Facebook",
+         "Share of uploads": "43"
+      },
+      {
+         "Platform": "Instagram",
+         "Share of uploads": "7"
+      },
+      {
+         "Platform": "Flickr",
+         "Share of uploads": "1"
+      }
+   ]
+}

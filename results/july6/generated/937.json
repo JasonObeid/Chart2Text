@@ -1,0 +1,119 @@
+{
+   "title": "Population of the United States by sex and age 2018",
+   "labels": [
+      "Age in years",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays the Population of United in the United Kingdom ( United States ) by sex their age in 2018 . ",
+      "In 2018 , 10.13 Male and 9.88 years for women in Population United ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": [
+            "0",
+            "1"
+         ],
+         "6": [
+            "1",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Age in years": "Under 5",
+         "Male": "10.13",
+         "Female": "9.68"
+      },
+      {
+         "Age in years": "5 to 9",
+         "Male": "10.32",
+         "Female": "9.88"
+      },
+      {
+         "Age in years": "10 to 14",
+         "Male": "10.66",
+         "Female": "10.22"
+      },
+      {
+         "Age in years": "15 to 19",
+         "Male": "10.77",
+         "Female": "10.32"
+      },
+      {
+         "Age in years": "20 to 24",
+         "Male": "11.2",
+         "Female": "10.67"
+      },
+      {
+         "Age in years": "25 to 29",
+         "Male": "12.02",
+         "Female": "11.54"
+      },
+      {
+         "Age in years": "30 to 34",
+         "Male": "11.19",
+         "Female": "10.94"
+      },
+      {
+         "Age in years": "35 to 39",
+         "Male": "10.79",
+         "Female": "10.77"
+      },
+      {
+         "Age in years": "40 to 44",
+         "Male": "9.8",
+         "Female": "9.92"
+      },
+      {
+         "Age in years": "45 to 49",
+         "Male": "10.26",
+         "Female": "10.48"
+      },
+      {
+         "Age in years": "50 to 54",
+         "Male": "10.28",
+         "Female": "10.61"
+      },
+      {
+         "Age in years": "55 to 59",
+         "Male": "10.67",
+         "Female": "11.27"
+      },
+      {
+         "Age in years": "60 to 64",
+         "Male": "9.73",
+         "Female": "10.6"
+      },
+      {
+         "Age in years": "65 to 69",
+         "Male": "8.03",
+         "Female": "9.05"
+      },
+      {
+         "Age in years": "70 to 74",
+         "Male": "6.21",
+         "Female": "7.19"
+      },
+      {
+         "Age in years": "75 to 79",
+         "Male": "4.14",
+         "Female": "5.12"
+      },
+      {
+         "Age in years": "80 to 84",
+         "Male": "2.59",
+         "Female": "3.54"
+      },
+      {
+         "Age in years": "85 and over",
+         "Male": "2.33",
+         "Female": "4.22"
+      }
+   ]
+}

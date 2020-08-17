@@ -1,0 +1,71 @@
+{
+   "title": "Average regular season home attendance of the Detroit Lions 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average regular season home attendance of the Detroit Lions Lions from 2008 to 2019 . ",
+      "In 2019 , the Average attendance at home games of the Detroit Lions Lions was 61342 ."
+   ],
+   "trends": [
+      {
+         "14": "11",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": "61342"
+      },
+      {
+         "Year": "2018",
+         "Average attendance": "62795"
+      },
+      {
+         "Year": "2017",
+         "Average attendance": "64137"
+      },
+      {
+         "Year": "2016",
+         "Average attendance": "60792"
+      },
+      {
+         "Year": "2015",
+         "Average attendance": "61347"
+      },
+      {
+         "Year": "2014",
+         "Average attendance": "63024"
+      },
+      {
+         "Year": "2013",
+         "Average attendance": "63796"
+      },
+      {
+         "Year": "2012",
+         "Average attendance": "63769"
+      },
+      {
+         "Year": "2011",
+         "Average attendance": "63742"
+      },
+      {
+         "Year": "2010",
+         "Average attendance": "56285"
+      },
+      {
+         "Year": "2009",
+         "Average attendance": "49395"
+      },
+      {
+         "Year": "2008",
+         "Average attendance": "54497"
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Monthly job openings in the United States 2018/2019",
+   "xAxis": "Month",
+   "yAxis": "Job openings in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the United States Monthly Job from United States 18 to United States 19 . ",
+      "The Job is normalized to have a value of 7.63 in 1964 and based on a monthly survey of consumers , conducted in the continental United . ",
+      "It consists of about 50 core questions which cover consumers ' assessments of their personal financial situation , their buying attitudes and overall economic conditions ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "11"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec '19",
+         "Job openings in millions": "6.42"
+      },
+      {
+         "Month": "Nov '19",
+         "Job openings in millions": "6.79"
+      },
+      {
+         "Month": "Oct '19",
+         "Job openings in millions": "7.36"
+      },
+      {
+         "Month": "Sep '19",
+         "Job openings in millions": "7.03"
+      },
+      {
+         "Month": "Aug '19",
+         "Job openings in millions": "7.3"
+      },
+      {
+         "Month": "Jul '19",
+         "Job openings in millions": "7.17"
+      },
+      {
+         "Month": "Jun '19",
+         "Job openings in millions": "7.25"
+      },
+      {
+         "Month": "May '19",
+         "Job openings in millions": "7.38"
+      },
+      {
+         "Month": "Apr '19",
+         "Job openings in millions": "7.37"
+      },
+      {
+         "Month": "Mar '19",
+         "Job openings in millions": "7.47"
+      },
+      {
+         "Month": "Feb '19",
+         "Job openings in millions": "7.14"
+      },
+      {
+         "Month": "Jan '19",
+         "Job openings in millions": "7.63"
+      },
+      {
+         "Month": "Dec '18",
+         "Job openings in millions": "7.48"
+      }
+   ]
+}

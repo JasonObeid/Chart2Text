@@ -1,0 +1,48 @@
+{
+   "title": "U.S. public opinion on the separation of church and state in 2012",
+   "labels": [
+      "unknown",
+      "Yes",
+      "No",
+      "Not sure"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey asking respondents how they voted in the U.S. referendum of 2012 , church state 2012 . ",
+      "Of respondents , 24 % of those in the AB state 2012 advised they had voted to Yes , while just 41 % of C2 and DE respondents said they had voted to Yes ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": [
+            "2",
+            "1"
+         ],
+         "21": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "All respondents",
+         "Yes": "41",
+         "No": "34",
+         "Not sure": "25"
+      },
+      {
+         "unknown": "Democrats",
+         "Yes": "65",
+         "No": "17",
+         "Not sure": "19"
+      },
+      {
+         "unknown": "Republicans",
+         "Yes": "24",
+         "No": "54",
+         "Not sure": "22"
+      }
+   ]
+}

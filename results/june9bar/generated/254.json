@@ -1,0 +1,60 @@
+{
+   "title": "U.S. company data loss prevention methods 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. company in data loss on prevention methods in the 2017 as of 2015 . ",
+      "During a survey , 60 % of the respondents stated that they used Training_and_awareness_programs and ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Training and awareness programs",
+         "Share of respondents": "60"
+      },
+      {
+         "Response": "Expanded use of encryption",
+         "Share of respondents": "55"
+      },
+      {
+         "Response": "Endpoint security solutions",
+         "Share of respondents": "49"
+      },
+      {
+         "Response": "Identity and access management solutions",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Additional manual procedures and controls",
+         "Share of respondents": "39"
+      },
+      {
+         "Response": "Data loss prevention (DLP) solutions",
+         "Share of respondents": "36"
+      },
+      {
+         "Response": "Security intelligence solutions",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Other system control practices",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Security certification or audit",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Strenghtening of perimeter controls",
+         "Share of respondents": "16"
+      }
+   ]
+}

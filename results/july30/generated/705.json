@@ -1,0 +1,127 @@
+{
+   "title": "Forecast of lanthanum oxide price globally 2009 to 2025\n",
+   "xAxis": "Year",
+   "yAxis": "Price in U.S. dollars per metric ton",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Price in U.S. dollars per metric ton, with a total of 17 data points. The chart has 5 significant trends.",
+      " The longest trend is  positive which exists from 2014 to 2018.",
+      " In a similar manner, the next significant trend is  positive which exists from 2021 to 2025.",
+      " Additionally, the next significant trend is  negative which exists from 2011 to 2014.",
+      " On the other hand, the next significant trend is  negative which exists from 2018 to 2021.",
+      " Conversely, the next significant trend is  positive which exists from 2009 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 5,
+         "end": 9,
+         "trend": "y=475.3x+-951029.2",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 12,
+         "end": 16,
+         "trend": "y=121.2x+-238505.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 2,
+         "end": 5,
+         "trend": "y=-29608.7x+59622040.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 9,
+         "end": 12,
+         "trend": "y=-466.2x+948522.4",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=47076.5x+-94581371.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2009",
+         "Price in U.S. dollars per metric ton": 4604.0
+      },
+      {
+         "Year": "2010",
+         "Price in U.S. dollars per metric ton": 23820.0
+      },
+      {
+         "Year": "2011",
+         "Price in U.S. dollars per metric ton": 98757.0
+      },
+      {
+         "Year": "2012",
+         "Price in U.S. dollars per metric ton": 25547.0
+      },
+      {
+         "Year": "2013",
+         "Price in U.S. dollars per metric ton": 7866.0
+      },
+      {
+         "Year": "2014",
+         "Price in U.S. dollars per metric ton": 5955.0
+      },
+      {
+         "Year": "2015",
+         "Price in U.S. dollars per metric ton": 6955.0
+      },
+      {
+         "Year": "2016",
+         "Price in U.S. dollars per metric ton": 7254.0
+      },
+      {
+         "Year": "2017",
+         "Price in U.S. dollars per metric ton": 7810.0
+      },
+      {
+         "Year": "2018",
+         "Price in U.S. dollars per metric ton": 7904.0
+      },
+      {
+         "Year": "2019",
+         "Price in U.S. dollars per metric ton": 7033.0
+      },
+      {
+         "Year": "2020",
+         "Price in U.S. dollars per metric ton": 6742.0
+      },
+      {
+         "Year": "2021",
+         "Price in U.S. dollars per metric ton": 6447.0
+      },
+      {
+         "Year": "2022",
+         "Price in U.S. dollars per metric ton": 6558.0
+      },
+      {
+         "Year": "2023",
+         "Price in U.S. dollars per metric ton": 6676.0
+      },
+      {
+         "Year": "2024",
+         "Price in U.S. dollars per metric ton": 6800.0
+      },
+      {
+         "Year": "2025",
+         "Price in U.S. dollars per metric ton": 6932.0
+      }
+   ]
+}

@@ -1,0 +1,56 @@
+{
+   "title": "Banco Santander : customer numbers globally 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of customers in millions",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the expenditure of Banco Santander on research and development from 2012 to 2019 . ",
+      "In 2018 , Banco Banco Santander spent some 145.0 millions on research and development . ",
+      "Abbot was a U.S.-based global pharmaceutical and healthcare products company , headquartered in Chicago , Illinois ."
+   ],
+   "trends": [
+      {
+         "12": "7",
+         "14": "0"
+      },
+      {
+         "1": "1",
+         "7": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of customers in millions": "145.0"
+      },
+      {
+         "Year": "2018",
+         "Number of customers in millions": "144.0"
+      },
+      {
+         "Year": "2017",
+         "Number of customers in millions": "133.0"
+      },
+      {
+         "Year": "2016",
+         "Number of customers in millions": "125.0"
+      },
+      {
+         "Year": "2015",
+         "Number of customers in millions": "121.0"
+      },
+      {
+         "Year": "2014",
+         "Number of customers in millions": "117.0"
+      },
+      {
+         "Year": "2013",
+         "Number of customers in millions": "106.6"
+      },
+      {
+         "Year": "2012",
+         "Number of customers in millions": "102.1"
+      }
+   ]
+}

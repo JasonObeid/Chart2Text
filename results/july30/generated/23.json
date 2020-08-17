@@ -1,0 +1,66 @@
+{
+   "title": "Number of monthly active Instagram users 2013 to 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 12 categories for the x axis representing Month, and a y axis representing Number of users in millions.",
+      " The highest category is found at Jun_'18 where Number of users in millions is 1000.0.",
+      " The lowest category is found at Jan_'13 where Number of users in millions is 90.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 11
+   },
+   "data": [
+      {
+         "Month": "Jun '18",
+         "Number of users in millions": 1000.0
+      },
+      {
+         "Month": "Sep '17",
+         "Number of users in millions": 800.0
+      },
+      {
+         "Month": "Apr '17",
+         "Number of users in millions": 700.0
+      },
+      {
+         "Month": "Dec '16",
+         "Number of users in millions": 600.0
+      },
+      {
+         "Month": "Jun '16",
+         "Number of users in millions": 500.0
+      },
+      {
+         "Month": "Sep '15",
+         "Number of users in millions": 400.0
+      },
+      {
+         "Month": "Dec '14",
+         "Number of users in millions": 300.0
+      },
+      {
+         "Month": "Mar '14",
+         "Number of users in millions": 200.0
+      },
+      {
+         "Month": "Sep '13",
+         "Number of users in millions": 150.0
+      },
+      {
+         "Month": "Jun '13",
+         "Number of users in millions": 130.0
+      },
+      {
+         "Month": "Feb '13",
+         "Number of users in millions": 100.0
+      },
+      {
+         "Month": "Jan '13",
+         "Number of users in millions": 90.0
+      }
+   ]
+}

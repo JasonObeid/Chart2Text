@@ -1,0 +1,135 @@
+{
+   "title": "Population of the Netherlands 2010 - 2018 , by religion",
+   "labels": [
+      "Year",
+      "No religious denomination",
+      "Roman Catholic",
+      "Protestant Church in the Netherlands",
+      "Dutch Reformed Church",
+      "Reformed Churches in the Netherlands",
+      "Islam",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the number of Netherlands from 2010 to 2018 . ",
+      "At the end of 2018 , 22 million people were Roman Catholic Netherlands . ",
+      "Roman Catholic Catholic are people or groups of individuals who have been forced to leave their homes or places of habitual residence , and who have not crossed an international border ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "8",
+            "0"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "No religious denomination": "53",
+         "Roman Catholic": "22",
+         "Protestant Church in the Netherlands": "6",
+         "Dutch Reformed Church": "6",
+         "Reformed Churches in the Netherlands": "3",
+         "Islam": "5",
+         "Other": "5"
+      },
+      {
+         "Year": "2017",
+         "No religious denomination": "51",
+         "Roman Catholic": "24",
+         "Protestant Church in the Netherlands": "6",
+         "Dutch Reformed Church": "6",
+         "Reformed Churches in the Netherlands": "3",
+         "Islam": "5",
+         "Other": "6"
+      },
+      {
+         "Year": "2016",
+         "No religious denomination": "50",
+         "Roman Catholic": "24",
+         "Protestant Church in the Netherlands": "6",
+         "Dutch Reformed Church": "6",
+         "Reformed Churches in the Netherlands": "3",
+         "Islam": "5",
+         "Other": "6"
+      },
+      {
+         "Year": "2015",
+         "No religious denomination": "50",
+         "Roman Catholic": "24",
+         "Protestant Church in the Netherlands": "6",
+         "Dutch Reformed Church": "6",
+         "Reformed Churches in the Netherlands": "3",
+         "Islam": "5",
+         "Other": "6"
+      },
+      {
+         "Year": "2014",
+         "No religious denomination": "49",
+         "Roman Catholic": "24",
+         "Protestant Church in the Netherlands": "6",
+         "Dutch Reformed Church": "7",
+         "Reformed Churches in the Netherlands": "3",
+         "Islam": "5",
+         "Other": "6"
+      },
+      {
+         "Year": "2013",
+         "No religious denomination": "47",
+         "Roman Catholic": "26",
+         "Protestant Church in the Netherlands": "5",
+         "Dutch Reformed Church": "7",
+         "Reformed Churches in the Netherlands": "4",
+         "Islam": "5",
+         "Other": "6"
+      },
+      {
+         "Year": "2012",
+         "No religious denomination": "48",
+         "Roman Catholic": "26",
+         "Protestant Church in the Netherlands": "6",
+         "Dutch Reformed Church": "7",
+         "Reformed Churches in the Netherlands": "3",
+         "Islam": "5",
+         "Other": "5"
+      },
+      {
+         "Year": "2011",
+         "No religious denomination": "47",
+         "Roman Catholic": "26",
+         "Protestant Church in the Netherlands": "6",
+         "Dutch Reformed Church": "7",
+         "Reformed Churches in the Netherlands": "4",
+         "Islam": "5",
+         "Other": "5"
+      },
+      {
+         "Year": "2010",
+         "No religious denomination": "45",
+         "Roman Catholic": "27",
+         "Protestant Church in the Netherlands": "6",
+         "Dutch Reformed Church": "8",
+         "Reformed Churches in the Netherlands": "4",
+         "Islam": "5",
+         "Other": "5"
+      }
+   ]
+}

@@ -1,0 +1,38 @@
+{
+   "title": "Average attendance of the main football leagues in Europe 2018 to 2019\n",
+   "xAxis": "League Name",
+   "yAxis": "Average attendance in thousands of people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing League Name, and a y axis representing Average attendance in thousands of people.",
+      " The highest category is found at Bundesliga_(Germany) where Average attendance in thousands of people is 42.7.",
+      " The lowest category is found at Ligue_1_(France) where Average attendance in thousands of people is 22.1."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "League Name": "Bundesliga (Germany)",
+         "Average attendance in thousands of people": 42.7
+      },
+      {
+         "League Name": "Premier League (England)",
+         "Average attendance in thousands of people": 38.0
+      },
+      {
+         "League Name": "La Liga (Spain)",
+         "Average attendance in thousands of people": 27.2
+      },
+      {
+         "League Name": "Serie A (Italy)",
+         "Average attendance in thousands of people": 24.7
+      },
+      {
+         "League Name": "Ligue 1 (France)",
+         "Average attendance in thousands of people": 22.1
+      }
+   ]
+}

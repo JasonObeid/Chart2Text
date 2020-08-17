@@ -1,0 +1,74 @@
+{
+   "title": "Global YouTube usage for music consumption 2017 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 14 categories for the x axis representing Country, and a y axis representing Share of respondents.",
+      " The highest category is found at Mexico where Share of respondents is 97.0.",
+      " The lowest category is found at Japan where Share of respondents is 72.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 13
+   },
+   "data": [
+      {
+         "Country": "Mexico",
+         "Share of respondents": 97.0
+      },
+      {
+         "Country": "Brazil",
+         "Share of respondents": 95.0
+      },
+      {
+         "Country": "Italy",
+         "Share of respondents": 90.0
+      },
+      {
+         "Country": "Spain",
+         "Share of respondents": 90.0
+      },
+      {
+         "Country": "South Korea",
+         "Share of respondents": 86.0
+      },
+      {
+         "Country": "Canada",
+         "Share of respondents": 84.0
+      },
+      {
+         "Country": "Total",
+         "Share of respondents": 83.0
+      },
+      {
+         "Country": "Germany",
+         "Share of respondents": 82.0
+      },
+      {
+         "Country": "United States",
+         "Share of respondents": 82.0
+      },
+      {
+         "Country": "France",
+         "Share of respondents": 81.0
+      },
+      {
+         "Country": "Great Britain",
+         "Share of respondents": 79.0
+      },
+      {
+         "Country": "Sweden",
+         "Share of respondents": 79.0
+      },
+      {
+         "Country": "Australia",
+         "Share of respondents": 77.0
+      },
+      {
+         "Country": "Japan",
+         "Share of respondents": 72.0
+      }
+   ]
+}

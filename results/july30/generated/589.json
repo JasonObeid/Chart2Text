@@ -1,0 +1,52 @@
+{
+   "title": "UK : length of wait for security screening in Luton Airport 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 1-5_mins to 21-30_mins.",
+      " On the other hand, the next significant trend is  positive which exists from 0_mins to 1-5_mins."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 1,
+         "end": 4,
+         "trend": "y=-0.02x+42.31",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=2.27x+14.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "0 mins",
+         "Share of respondents": 14.0
+      },
+      {
+         "Year": "1-5 mins",
+         "Share of respondents": 48.0
+      },
+      {
+         "Year": "6-10 mins",
+         "Share of respondents": 25.0
+      },
+      {
+         "Year": "11-20 mins",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "21-30 mins",
+         "Share of respondents": 1.0
+      }
+   ]
+}

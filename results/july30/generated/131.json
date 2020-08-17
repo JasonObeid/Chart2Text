@@ -1,0 +1,100 @@
+{
+   "title": "Electricity prices for households in Spain 2010 - 2018 , semi-annually\n",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 17 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2012_S2 to 2010_S1.",
+      " But, the next significant trend is  negative which exists from 2017_S1 to 2016_S1."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 11,
+         "end": 16,
+         "trend": "y=2.21x+-4434.18",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=0.62x+-1217.5",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": 23.83
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": 21.77
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": 22.96
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": 22.84
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": 21.85
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": 23.7
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": 23.09
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": 23.67
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": 21.65
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": 22.73
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": 22.28
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": 22.75
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": 21.9
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": 20.88
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": 19.81
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": 18.51
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": 17.28
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "title": "United Kingdom ( UK ) oil price forecast in U.S. dollars 2017 to 2024",
+   "xAxis": "Year",
+   "yAxis": "U.S. dollars per barrel",
+   "graphType": "line",
+   "summary": [
+      "The Irish low-cost carrier United Kingdom saw an astonishing growth in the amount of U.S. profits generated , before suffering a roughly 39 % decline in its latest financial Year . ",
+      "Between 2023/24 and 2018/19 , the Dublin based company was able to nearly triple their U.S. profits . ",
+      "In 2018/19 , this figure reached 71.3 million barrel , roughly 10 million barrel lower than its peak in 2020/21 , before falling to 54.6 million barrel in 2018/19.Ryanair was established in 1984 and heavily profited from the European Union 's deregulation of the air industry in 1998 , allowing it to operate air travel between other EU member states ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "3": "5"
+      },
+      {
+         "1": "5",
+         "6": "5",
+         "19": "3",
+         "24": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023/24",
+         "U.S. dollars per barrel": "64.5"
+      },
+      {
+         "Year": "2022/23",
+         "U.S. dollars per barrel": "63.3"
+      },
+      {
+         "Year": "2021/22",
+         "U.S. dollars per barrel": "62.0"
+      },
+      {
+         "Year": "2020/21",
+         "U.S. dollars per barrel": "61.6"
+      },
+      {
+         "Year": "2019/20",
+         "U.S. dollars per barrel": "62.1"
+      },
+      {
+         "Year": "2018/19",
+         "U.S. dollars per barrel": "71.3"
+      },
+      {
+         "Year": "2017/18",
+         "U.S. dollars per barrel": "54.6"
+      }
+   ]
+}

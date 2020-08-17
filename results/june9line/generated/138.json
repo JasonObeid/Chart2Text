@@ -1,0 +1,57 @@
+{
+   "title": "Turnover of Italian fashion company Giorgio Armani 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Turnover in million euros",
+   "graphType": "line",
+   "summary": [
+      "The Turnover of the Italian luxury brand Giorgio Armani has increased twofold over the period surveyed , rising from roughly 1275 million euros in 2011 to 1702 million euros in the Year 2015 . ",
+      "Despite the steady increase in Turnover during the period considered , the company reported a net loss of approximately 25 million euros in 2018 . ",
+      "Worldwide recognition Founded in 1978 Milan , Giorgio Armani is one of the leading international fashion design houses ."
+   ],
+   "trends": [
+      {
+         "20": "7",
+         "24": "7",
+         "26": "3",
+         "32": "3"
+      },
+      {
+         "23": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Turnover in million euros": "1360"
+      },
+      {
+         "Year": "2017",
+         "Turnover in million euros": "1515"
+      },
+      {
+         "Year": "2016",
+         "Turnover in million euros": "1676"
+      },
+      {
+         "Year": "2015",
+         "Turnover in million euros": "1702"
+      },
+      {
+         "Year": "2014",
+         "Turnover in million euros": "1644"
+      },
+      {
+         "Year": "2013",
+         "Turnover in million euros": "1650"
+      },
+      {
+         "Year": "2012",
+         "Turnover in million euros": "1584"
+      },
+      {
+         "Year": "2011",
+         "Turnover in million euros": "1275"
+      }
+   ]
+}

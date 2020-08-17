@@ -1,0 +1,87 @@
+{
+   "title": "Market share of UK gambling industry sectors by GGY 2009 to 2014",
+   "labels": [
+      "Year",
+      "Betting",
+      "Casino",
+      "Remote",
+      "Bingo",
+      "Arcades",
+      "Lottery"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Market of share UK in the UK from 2013/14 to 2009/10 , GGY the 2009 of the 2014 . ",
+      "In 2013/14 , 5 marathons took place in the UK ."
+   ],
+   "trends": [
+      {
+         "12": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "5"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013/14",
+         "Betting": "46",
+         "Casino": "16",
+         "Remote": "19",
+         "Bingo": "9",
+         "Arcades": "5",
+         "Lottery": "5"
+      },
+      {
+         "Year": "2012/13",
+         "Betting": "48",
+         "Casino": "16",
+         "Remote": "16",
+         "Bingo": "10",
+         "Arcades": "5",
+         "Lottery": "4"
+      },
+      {
+         "Year": "2011/12",
+         "Betting": "50",
+         "Casino": "15",
+         "Remote": "13",
+         "Bingo": "12",
+         "Arcades": "5",
+         "Lottery": "5"
+      },
+      {
+         "Year": "2010/11",
+         "Betting": "52",
+         "Casino": "15",
+         "Remote": "12",
+         "Bingo": "11",
+         "Arcades": "7",
+         "Lottery": "3"
+      },
+      {
+         "Year": "2009/10",
+         "Betting": "52",
+         "Casino": "14",
+         "Remote": "12",
+         "Bingo": "11",
+         "Arcades": "8",
+         "Lottery": "3"
+      }
+   ]
+}

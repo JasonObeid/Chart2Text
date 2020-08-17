@@ -1,0 +1,63 @@
+{
+   "title": "Most popular domestic summer city destinations for travelers in the U.S. 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the popular domestic problems city destinations Miami in the U.S. in 2020 . ",
+      "During the survey , about 17 % of the respondents stated that the popular domestic summer city destinations Miami was Orlando ."
+   ],
+   "trends": [
+      {
+         "9": "4"
+      },
+      {
+         "5": "0",
+         "18": "4",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Orlando",
+         "Share of respondents": "17"
+      },
+      {
+         "Response": "Las Vegas",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "San Francisco",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "New York City",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Miami",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Los Angeles",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Anaheim",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "San Diego",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "New Orleans",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Washington DC",
+         "Share of respondents": "2"
+      }
+   ]
+}

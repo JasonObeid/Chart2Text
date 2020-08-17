@@ -1,0 +1,56 @@
+{
+   "title": "Grocery market growth year-on-year in Great Britain 2010 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Percentage growth (year-on-year)",
+   "graphType": "line",
+   "summary": [
+      "In 28_Nov_2010 , the market Percentage of year-on-year Great in Great Britain amounted to about 3.8 growth (year-on-year) , all types included . ",
+      "The Grocery realized Percentage of year-on-year Great remained fairly steady throughout the years until 10_Nov_2013 , when it dropped to below 2.5 growth (year-on-year) . ",
+      "year-on-year Great The Grocery Percentage serves as an indicator for a variety of different selling prices on the Great market , gathering all Percentage ranges of year-on-year wines purchased in Great Britain ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "14": "7"
+      },
+      {
+         "14": "3",
+         "21": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "28 Nov 2010",
+         "Percentage growth (year-on-year)": "2.5"
+      },
+      {
+         "Year": "27 Nov 2011",
+         "Percentage growth (year-on-year)": "4.2"
+      },
+      {
+         "Year": "25 Nov 2012",
+         "Percentage growth (year-on-year)": "3.2"
+      },
+      {
+         "Year": "10 Nov 2013",
+         "Percentage growth (year-on-year)": "3.2"
+      },
+      {
+         "Year": "09 Nov 2014",
+         "Percentage growth (year-on-year)": "-0.2"
+      },
+      {
+         "Year": "09 Nov 2015",
+         "Percentage growth (year-on-year)": "0.5"
+      },
+      {
+         "Year": "06 Nov 2016",
+         "Percentage growth (year-on-year)": "0.8"
+      },
+      {
+         "Year": "05 Nov 2017",
+         "Percentage growth (year-on-year)": "3.8"
+      }
+   ]
+}

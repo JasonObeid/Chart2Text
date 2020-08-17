@@ -1,0 +1,40 @@
+{
+   "title": "Frequency of American families having dinner together at home 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic illustrates the answers to the following survey question : `` The families 0_to_3_nights together will probably cost a thousand euros . ",
+      "6_to_7_nights you willing to pay that ? '' As of 2013 , roughly 20 % of the respondents said to 0_to_3_nights the from American when it is released , even if it home them a thousand euros . ",
+      "However , more than half of the respondents said the price is 4_to_5_nights absurd for an American 0_to_3_nights ."
+   ],
+   "trends": [
+      {
+         "14": "0"
+      },
+      {
+         "0": "2",
+         "20": "0",
+         "22": "0"
+      },
+      {
+         "12": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "0 to 3 nights",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "4 to 5 nights",
+         "Share of respondents": "28"
+      },
+      {
+         "Response": "6 to 7 nights",
+         "Share of respondents": "53"
+      }
+   ]
+}

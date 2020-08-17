@@ -1,0 +1,37 @@
+{
+   "title": "Welsh Assembly elections : turnout rates 1999 to 2011",
+   "xAxis": "Year",
+   "yAxis": "Turnout rate",
+   "graphType": "line",
+   "summary": [
+      "According to the Dutch business registry , the Welsh Assembly gained around 600 new small and medium enterprises between early 2003 and early 2011 . ",
+      "The source defined SME ( or mkb , a Dutch abbreviation of midden- en kleinbedrijf ) as a company having between two to 249 employees , as well companies with one employee that are not classified as a freelancer/self-employed person . ",
+      "rate were the Welsh Assembly ' second largest type of business enterprise ."
+   ],
+   "trends": [
+      {
+         "19": "1",
+         "22": "3"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "1999",
+         "Turnout rate": "46.4"
+      },
+      {
+         "Year": "2003",
+         "Turnout rate": "38.2"
+      },
+      {
+         "Year": "2007",
+         "Turnout rate": "43.5"
+      },
+      {
+         "Year": "2011",
+         "Turnout rate": "41.8"
+      }
+   ]
+}

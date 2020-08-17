@@ -1,0 +1,31 @@
+{
+   "title": "Child abuse in the U.S. - number of victims by gender 2018",
+   "xAxis": "Gender",
+   "yAxis": "Number of child abuse cases",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts the percentage of abuse child in the number in 2018 , victims Gender . ",
+      "In 2018 , 346957 % of abuse child in the number were child ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Gender": "Girls",
+         "Number of child abuse cases": "346957"
+      },
+      {
+         "Gender": "Boys",
+         "Number of child abuse cases": "328281"
+      },
+      {
+         "Gender": "Unknown",
+         "Number of child abuse cases": "2291"
+      }
+   ]
+}

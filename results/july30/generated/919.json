@@ -1,0 +1,43 @@
+{
+   "title": "Leading trailers in the U.S. January 2020 , by weekly TV ad spend\n",
+   "xAxis": "Year",
+   "yAxis": "Spending in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Spending in million U.S. dollars with a total of 5 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 1917 to Just_Mercy."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=0.0x+4.39",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "1917",
+         "Spending in million U.S. dollars": 10.41
+      },
+      {
+         "Year": "Dolittle",
+         "Spending in million U.S. dollars": 5.77
+      },
+      {
+         "Year": "Bad Boys for Life",
+         "Spending in million U.S. dollars": 4.18
+      },
+      {
+         "Year": "Like a Boss",
+         "Spending in million U.S. dollars": 3.9
+      },
+      {
+         "Year": "Just Mercy",
+         "Spending in million U.S. dollars": 3.72
+      }
+   ]
+}

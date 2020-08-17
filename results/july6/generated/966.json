@@ -1,0 +1,76 @@
+{
+   "title": "Unemployment rate in China 2012 to 2024",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in China from 2012 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Unemployment rate in China was at around 3.8 % ."
+   ],
+   "trends": [
+      {
+         "9": "12",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "11": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Unemployment rate": "3.8"
+      },
+      {
+         "Year": "2023",
+         "Unemployment rate": "3.8"
+      },
+      {
+         "Year": "2022",
+         "Unemployment rate": "3.8"
+      },
+      {
+         "Year": "2021",
+         "Unemployment rate": "3.8"
+      },
+      {
+         "Year": "2020",
+         "Unemployment rate": "3.8"
+      },
+      {
+         "Year": "2019",
+         "Unemployment rate": "3.8"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "3.8"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "4.02"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "4.05"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "4.09"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "4.05"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "4.09"
+      }
+   ]
+}

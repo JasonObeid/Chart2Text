@@ -1,0 +1,43 @@
+{
+   "title": "Total U.S. grain exports 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Exports in million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the metric generated in the global Exports million from 2014/2015 to 2018/2019 . ",
+      "The 2018/2019 U.S. Exports million is expected to grow by 89.2 million from the previous Year ."
+   ],
+   "trends": [
+      {
+         "12": "4",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/2019",
+         "Exports in million metric tons": "89.2"
+      },
+      {
+         "Year": "2017/2018",
+         "Exports in million metric tons": "89.0"
+      },
+      {
+         "Year": "2016/2017",
+         "Exports in million metric tons": "92.4"
+      },
+      {
+         "Year": "2015/2016",
+         "Exports in million metric tons": "78.7"
+      },
+      {
+         "Year": "2014/2015",
+         "Exports in million metric tons": "80.5"
+      }
+   ]
+}

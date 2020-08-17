@@ -1,0 +1,59 @@
+{
+   "title": "Johnson & Johnson 's share of the baby care market worldwide 2013 to 2021\n",
+   "xAxis": "Year",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Market share with a total of 9 data points. The chart has one significant trend.",
+      " This trend is extremely positive which exists from 2021 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "positive",
+         "start": 0,
+         "end": 8,
+         "trend": "y=-0.94x+1914.11",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2021",
+         "Market share": 17.9
+      },
+      {
+         "Year": "2020",
+         "Market share": 18.8
+      },
+      {
+         "Year": "2019",
+         "Market share": 19.6
+      },
+      {
+         "Year": "2018",
+         "Market share": 20.5
+      },
+      {
+         "Year": "2017",
+         "Market share": 21.3
+      },
+      {
+         "Year": "2016",
+         "Market share": 22.2
+      },
+      {
+         "Year": "2015",
+         "Market share": 23.2
+      },
+      {
+         "Year": "2014",
+         "Market share": 24.2
+      },
+      {
+         "Year": "2013",
+         "Market share": 25.7
+      }
+   ]
+}

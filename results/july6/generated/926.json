@@ -1,0 +1,41 @@
+{
+   "title": "Coronavirus ( COVID-19 ) deaths in Italy as of March 2 , 2020 , by region",
+   "xAxis": "Month",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of deaths Coronavirus chat app deaths from 2014 to 2016 . ",
+      "As of that Month , the mobile messenger hat 55 million deaths worldwide . ",
+      "Coronavirus messenger deaths \u2013 additional information Instant messaging has been gaining popularity in the last years thanks to the rise of mobile and smartphone growth ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Lombardy",
+         "Number of deaths": "55"
+      },
+      {
+         "Month": "Emilia-Romagna",
+         "Number of deaths": "18"
+      },
+      {
+         "Month": "Veneto",
+         "Number of deaths": "3"
+      },
+      {
+         "Month": "Marche",
+         "Number of deaths": "2"
+      },
+      {
+         "Month": "Liguria",
+         "Number of deaths": "1"
+      }
+   ]
+}

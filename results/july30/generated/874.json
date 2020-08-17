@@ -1,0 +1,34 @@
+{
+   "title": "Uber users in the United States 2017 , by device\n",
+   "xAxis": "Device",
+   "yAxis": "Number of visits",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Device, and a y axis representing Number of visits.",
+      " The highest category is found at Smartphone where Number of visits is 17.7.",
+      " The lowest category is found at Tablet where Number of visits is 1.2."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Device": "Smartphone",
+         "Number of visits": 17.7
+      },
+      {
+         "Device": "Tablet",
+         "Number of visits": 1.2
+      },
+      {
+         "Device": "Desktop",
+         "Number of visits": 6.8
+      },
+      {
+         "Device": "Mobile-only",
+         "Number of visits": 16.6
+      }
+   ]
+}

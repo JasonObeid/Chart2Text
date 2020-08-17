@@ -1,0 +1,38 @@
+{
+   "title": "Boat ownership by age in the U.S. 2013\n",
+   "xAxis": "Age (in years)",
+   "yAxis": "Own a boat",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Age (in years), and a y axis representing Own a boat.",
+      " The highest category is found at 16_to_34 where Own a boat is 8.2.",
+      " The lowest category is found at 65+ where Own a boat is 6.0."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Age (in years)": "Under 16",
+         "Own a boat": 7.1
+      },
+      {
+         "Age (in years)": "16 to 34",
+         "Own a boat": 8.2
+      },
+      {
+         "Age (in years)": "35 to 44",
+         "Own a boat": 7.6
+      },
+      {
+         "Age (in years)": "45 to 64",
+         "Own a boat": 7.5
+      },
+      {
+         "Age (in years)": "65+",
+         "Own a boat": 6.0
+      }
+   ]
+}

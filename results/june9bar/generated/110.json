@@ -1,0 +1,48 @@
+{
+   "title": "Frequency of eating fast food in the U.S. as of August 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Frequency eating fast food U.S. August in the 2014 as of 2013 . ",
+      "During the survey , 21 % of the respondents stated that they planned to visit a About_once_per_week or ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2",
+         "16": "2",
+         "18": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Daily",
+         "Share of respondents": "5.2"
+      },
+      {
+         "Response": "A few times per week",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "About once per week",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "A few times per month",
+         "Share of respondents": "22.7"
+      },
+      {
+         "Response": "About once per month",
+         "Share of respondents": "12.2"
+      },
+      {
+         "Response": "Rarely",
+         "Share of respondents": "17.5"
+      },
+      {
+         "Response": "Never",
+         "Share of respondents": "2.2"
+      }
+   ]
+}

@@ -1,0 +1,92 @@
+{
+   "title": "Active duty U.S. Air Force personnel numbers from 1995 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of Air Force personnel",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of Air Force U.S. Air Force numbers 1995 to 2018 . ",
+      "In 2018 , there were 321618 Air Force Navy members in the U.S. Department of Defense . ",
+      "In 2000 , there were 351326 Air Force members ."
+   ],
+   "trends": [
+      {
+         "11": "15",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      },
+      {
+         "1": "14",
+         "5": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of Air Force personnel": "321618"
+      },
+      {
+         "Year": "2017",
+         "Number of Air Force personnel": "318580"
+      },
+      {
+         "Year": "2016",
+         "Number of Air Force personnel": "313723"
+      },
+      {
+         "Year": "2015",
+         "Number of Air Force personnel": "307326"
+      },
+      {
+         "Year": "2014",
+         "Number of Air Force personnel": "312453"
+      },
+      {
+         "Year": "2013",
+         "Number of Air Force personnel": "326573"
+      },
+      {
+         "Year": "2012",
+         "Number of Air Force personnel": "328812"
+      },
+      {
+         "Year": "2011",
+         "Number of Air Force personnel": "328821"
+      },
+      {
+         "Year": "2010",
+         "Number of Air Force personnel": "329640"
+      },
+      {
+         "Year": "2009",
+         "Number of Air Force personnel": "328847"
+      },
+      {
+         "Year": "2008",
+         "Number of Air Force personnel": "322900"
+      },
+      {
+         "Year": "2007",
+         "Number of Air Force personnel": "329094"
+      },
+      {
+         "Year": "2006",
+         "Number of Air Force personnel": "344529"
+      },
+      {
+         "Year": "2005",
+         "Number of Air Force personnel": "349362"
+      },
+      {
+         "Year": "2000",
+         "Number of Air Force personnel": "351326"
+      },
+      {
+         "Year": "1995",
+         "Number of Air Force personnel": "396382"
+      }
+   ]
+}

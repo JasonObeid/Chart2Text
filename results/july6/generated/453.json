@@ -1,0 +1,227 @@
+{
+   "title": "Average mortgage interest rates in the United Kingdom ( UK ) 2014 to 2019",
+   "labels": [
+      "Month",
+      "2 year fixed rate mortgages",
+      "3 year fixed mortgage",
+      "5 year fixed mortgage",
+      "10 year fixed",
+      "2 year variable"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Average mortgage of the most popular interest rates in United Kingdom from 2011 to 2015 . ",
+      "In 2015 , roughly 2.37 % of interest owners used a 2 phone , making it the brand with the highest Average mortgage in this ranking . ",
+      "In the same Month , 3 's iPhone had a Average mortgage of 1.56 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "13": [
+            "23",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Month": "Mar '14",
+         "2 year fixed rate mortgages": "2.37",
+         "3 year fixed mortgage": "2.97",
+         "5 year fixed mortgage": "3.48",
+         "10 year fixed": "0",
+         "2 year variable": "2.68"
+      },
+      {
+         "Month": "Jun '14",
+         "2 year fixed rate mortgages": "2.6",
+         "3 year fixed mortgage": "3.01",
+         "5 year fixed mortgage": "3.69",
+         "10 year fixed": "0",
+         "2 year variable": "2.71"
+      },
+      {
+         "Month": "Sep '14",
+         "2 year fixed rate mortgages": "2.46",
+         "3 year fixed mortgage": "2.94",
+         "5 year fixed mortgage": "3.61",
+         "10 year fixed": "4.06",
+         "2 year variable": "2.44"
+      },
+      {
+         "Month": "Dec '14",
+         "2 year fixed rate mortgages": "2.08",
+         "3 year fixed mortgage": "2.89",
+         "5 year fixed mortgage": "3.21",
+         "10 year fixed": "4",
+         "2 year variable": "1.6"
+      },
+      {
+         "Month": "Mar '15",
+         "2 year fixed rate mortgages": "1.99",
+         "3 year fixed mortgage": "2.63",
+         "5 year fixed mortgage": "2.98",
+         "10 year fixed": "3.47",
+         "2 year variable": "1.56"
+      },
+      {
+         "Month": "Jun '15",
+         "2 year fixed rate mortgages": "1.83",
+         "3 year fixed mortgage": "2.54",
+         "5 year fixed mortgage": "2.82",
+         "10 year fixed": "3.24",
+         "2 year variable": "1.66"
+      },
+      {
+         "Month": "Sep '15",
+         "2 year fixed rate mortgages": "1.91",
+         "3 year fixed mortgage": "2.4",
+         "5 year fixed mortgage": "2.84",
+         "10 year fixed": "3.35",
+         "2 year variable": "1.74"
+      },
+      {
+         "Month": "Dec '15",
+         "2 year fixed rate mortgages": "1.9",
+         "3 year fixed mortgage": "2.26",
+         "5 year fixed mortgage": "2.75",
+         "10 year fixed": "3.36",
+         "2 year variable": "1.78"
+      },
+      {
+         "Month": "Mar '16",
+         "2 year fixed rate mortgages": "1.9",
+         "3 year fixed mortgage": "2.14",
+         "5 year fixed mortgage": "2.7",
+         "10 year fixed": "3.19",
+         "2 year variable": "1.67"
+      },
+      {
+         "Month": "Jun '16",
+         "2 year fixed rate mortgages": "1.75",
+         "3 year fixed mortgage": "2.13",
+         "5 year fixed mortgage": "2.54",
+         "10 year fixed": "3.1",
+         "2 year variable": "1.62"
+      },
+      {
+         "Month": "Sep '16",
+         "2 year fixed rate mortgages": "1.59",
+         "3 year fixed mortgage": "1.92",
+         "5 year fixed mortgage": "2.34",
+         "10 year fixed": "2.84",
+         "2 year variable": "1.54"
+      },
+      {
+         "Month": "Dec '16",
+         "2 year fixed rate mortgages": "1.45",
+         "3 year fixed mortgage": "1.79",
+         "5 year fixed mortgage": "2.26",
+         "10 year fixed": "2.98",
+         "2 year variable": "1.48"
+      },
+      {
+         "Month": "Mar '17",
+         "2 year fixed rate mortgages": "1.37",
+         "3 year fixed mortgage": "1.68",
+         "5 year fixed mortgage": "2.15",
+         "10 year fixed": "2.8",
+         "2 year variable": "1.42"
+      },
+      {
+         "Month": "Jun '17",
+         "2 year fixed rate mortgages": "1.48",
+         "3 year fixed mortgage": "1.7",
+         "5 year fixed mortgage": "1.99",
+         "10 year fixed": "2.82",
+         "2 year variable": "1.42"
+      },
+      {
+         "Month": "Sep '17",
+         "2 year fixed rate mortgages": "1.4",
+         "3 year fixed mortgage": "1.6",
+         "5 year fixed mortgage": "1.9",
+         "10 year fixed": "2.72",
+         "2 year variable": "1.46"
+      },
+      {
+         "Month": "Dec '17",
+         "2 year fixed rate mortgages": "1.57",
+         "3 year fixed mortgage": "1.7",
+         "5 year fixed mortgage": "2.07",
+         "10 year fixed": "2.66",
+         "2 year variable": "1.69"
+      },
+      {
+         "Month": "Mar '18",
+         "2 year fixed rate mortgages": "1.53",
+         "3 year fixed mortgage": "1.77",
+         "5 year fixed mortgage": "2.02",
+         "10 year fixed": "2.76",
+         "2 year variable": "1.58"
+      },
+      {
+         "Month": "Jun '18",
+         "2 year fixed rate mortgages": "1.74",
+         "3 year fixed mortgage": "1.8",
+         "5 year fixed mortgage": "2.03",
+         "10 year fixed": "2.74",
+         "2 year variable": "1.56"
+      },
+      {
+         "Month": "Sep '18",
+         "2 year fixed rate mortgages": "1.71",
+         "3 year fixed mortgage": "1.81",
+         "5 year fixed mortgage": "2.01",
+         "10 year fixed": "2.68",
+         "2 year variable": "1.68"
+      },
+      {
+         "Month": "Dec '18",
+         "2 year fixed rate mortgages": "1.73",
+         "3 year fixed mortgage": "1.81",
+         "5 year fixed mortgage": "2.01",
+         "10 year fixed": "2.64",
+         "2 year variable": "1.7"
+      },
+      {
+         "Month": "Mar '19",
+         "2 year fixed rate mortgages": "1.7",
+         "3 year fixed mortgage": "1.8",
+         "5 year fixed mortgage": "2.03",
+         "10 year fixed": "2.56",
+         "2 year variable": "1.61"
+      },
+      {
+         "Month": "Jun '19",
+         "2 year fixed rate mortgages": "1.64",
+         "3 year fixed mortgage": "1.77",
+         "5 year fixed mortgage": "1.97",
+         "10 year fixed": "2.59",
+         "2 year variable": "1.6"
+      },
+      {
+         "Month": "Sep '19",
+         "2 year fixed rate mortgages": "1.55",
+         "3 year fixed mortgage": "1.66",
+         "5 year fixed mortgage": "1.79",
+         "10 year fixed": "2.58",
+         "2 year variable": "2.03"
+      },
+      {
+         "Month": "Dec '19",
+         "2 year fixed rate mortgages": "1.45",
+         "3 year fixed mortgage": "1.56",
+         "5 year fixed mortgage": "1.69",
+         "10 year fixed": "2.53",
+         "2 year variable": "1.94"
+      }
+   ]
+}

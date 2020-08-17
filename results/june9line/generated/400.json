@@ -1,0 +1,72 @@
+{
+   "title": "GDP of Germany 2018",
+   "xAxis": "Year",
+   "yAxis": "GDP in billion euros",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the GDP billion of GDP Germany in the 2018 from 2007 to 2018 . ",
+      "In 2018 , the company 's GDP billion amounted to approximately 3386.0 billion euros . ",
+      "GDP Germany is a chain of discount variety stores that operates in 44 euros states ."
+   ],
+   "trends": [
+      {
+         "13": "11",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "GDP in billion euros": "3386.0"
+      },
+      {
+         "Year": "2017",
+         "GDP in billion euros": "3277.34"
+      },
+      {
+         "Year": "2016",
+         "GDP in billion euros": "3159.75"
+      },
+      {
+         "Year": "2015",
+         "GDP in billion euros": "3048.86"
+      },
+      {
+         "Year": "2014",
+         "GDP in billion euros": "2938.59"
+      },
+      {
+         "Year": "2013",
+         "GDP in billion euros": "2826.24"
+      },
+      {
+         "Year": "2012",
+         "GDP in billion euros": "2758.26"
+      },
+      {
+         "Year": "2011",
+         "GDP in billion euros": "2703.12"
+      },
+      {
+         "Year": "2010",
+         "GDP in billion euros": "2580.06"
+      },
+      {
+         "Year": "2009",
+         "GDP in billion euros": "2460.28"
+      },
+      {
+         "Year": "2008",
+         "GDP in billion euros": "2561.74"
+      },
+      {
+         "Year": "2007",
+         "GDP in billion euros": "2513.23"
+      }
+   ]
+}

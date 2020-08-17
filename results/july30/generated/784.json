@@ -1,0 +1,98 @@
+{
+   "title": "Average costs for a wedding in the United States in 2017 , by item\n",
+   "xAxis": "Category",
+   "yAxis": "Costs in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Category, and a y axis representing Costs in U.S. dollars.",
+      " The highest category is found at Overall_Wedding_(with_ring where Costs in U.S. dollars is 33391.0.",
+      " The lowest category is found at Catering_(price_per_person) where Costs in U.S. dollars is 70.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Category": "Overall Wedding (with ring",
+         "Costs in U.S. dollars": 33391.0
+      },
+      {
+         "Category": "Venue (reception hall)",
+         "Costs in U.S. dollars": 15163.0
+      },
+      {
+         "Category": "Engagement ring",
+         "Costs in U.S. dollars": 5764.0
+      },
+      {
+         "Category": "Reception band",
+         "Costs in U.S. dollars": 4019.0
+      },
+      {
+         "Category": "Photographer",
+         "Costs in U.S. dollars": 2630.0
+      },
+      {
+         "Category": "Florist/d\u00e9cor",
+         "Costs in U.S. dollars": 2379.0
+      },
+      {
+         "Category": "Ceremony site",
+         "Costs in U.S. dollars": 2311.0
+      },
+      {
+         "Category": "Wedding/event planner",
+         "Costs in U.S. dollars": 1988.0
+      },
+      {
+         "Category": "Videographer",
+         "Costs in U.S. dollars": 1912.0
+      },
+      {
+         "Category": "Wedding Dress",
+         "Costs in U.S. dollars": 1509.0
+      },
+      {
+         "Category": "Rehearsal dinner",
+         "Costs in U.S. dollars": 1285.0
+      },
+      {
+         "Category": "Reception DJ",
+         "Costs in U.S. dollars": 1231.0
+      },
+      {
+         "Category": "Transportation",
+         "Costs in U.S. dollars": 830.0
+      },
+      {
+         "Category": "Ceremony musicians",
+         "Costs in U.S. dollars": 761.0
+      },
+      {
+         "Category": "Wedding cake",
+         "Costs in U.S. dollars": 540.0
+      },
+      {
+         "Category": "Invitations",
+         "Costs in U.S. dollars": 408.0
+      },
+      {
+         "Category": "Groom\u2019s attire and accessories",
+         "Costs in U.S. dollars": 286.0
+      },
+      {
+         "Category": "Officiant",
+         "Costs in U.S. dollars": 284.0
+      },
+      {
+         "Category": "Favors",
+         "Costs in U.S. dollars": 252.0
+      },
+      {
+         "Category": "Catering (price per person)",
+         "Costs in U.S. dollars": 70.0
+      }
+   ]
+}

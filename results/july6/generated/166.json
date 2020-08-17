@@ -1,0 +1,71 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Sweden 2007 to 2017",
+   "xAxis": "Year",
+   "yAxis": "GDP growth rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Gross of domestic to Sweden from 2007 to 2017 . ",
+      "In 2017 , domestic worth approximately 2.3 % rate were imported to Sweden . ",
+      "GDP to Sweden \u2013 additional information In 2013 , Sweden had surpassed the country as the world 's largest domestic trader ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "6": "0"
+      },
+      {
+         "7": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "GDP growth rate": "2.3"
+      },
+      {
+         "Year": "2016",
+         "GDP growth rate": "3.2"
+      },
+      {
+         "Year": "2015",
+         "GDP growth rate": "4.5"
+      },
+      {
+         "Year": "2014",
+         "GDP growth rate": "2.6"
+      },
+      {
+         "Year": "2013",
+         "GDP growth rate": "1.2"
+      },
+      {
+         "Year": "2012",
+         "GDP growth rate": "-0.3"
+      },
+      {
+         "Year": "2011",
+         "GDP growth rate": "2.7"
+      },
+      {
+         "Year": "2010",
+         "GDP growth rate": "6"
+      },
+      {
+         "Year": "2009",
+         "GDP growth rate": "-5.2"
+      },
+      {
+         "Year": "2008",
+         "GDP growth rate": "-0.6"
+      },
+      {
+         "Year": "2007",
+         "GDP growth rate": "3.4"
+      }
+   ]
+}

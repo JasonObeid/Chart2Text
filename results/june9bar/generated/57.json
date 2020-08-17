@@ -1,0 +1,66 @@
+{
+   "title": "Car sharing users in Europe 2014 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of users",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of Europe sharing users Europe in 2014 . ",
+      "In that year , Germany was the Car sharing have users of any Country of ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of users": "757000"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of users": "163000"
+      },
+      {
+         "Country": "France",
+         "Number of users": "153000"
+      },
+      {
+         "Country": "Italy",
+         "Number of users": "130000"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of users": "105000"
+      },
+      {
+         "Country": "Austria",
+         "Number of users": "75000"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of users": "51000"
+      },
+      {
+         "Country": "Sweden",
+         "Number of users": "21000"
+      },
+      {
+         "Country": "Spain",
+         "Number of users": "20000"
+      },
+      {
+         "Country": "Belgium",
+         "Number of users": "16000"
+      },
+      {
+         "Country": "Norway",
+         "Number of users": "8500"
+      },
+      {
+         "Country": "Denmark",
+         "Number of users": "7800"
+      }
+   ]
+}

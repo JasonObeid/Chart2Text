@@ -1,0 +1,46 @@
+{
+   "title": "Annual levels of brick production in Great Britain ( GB ) 2013 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Production level in million bricks",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Production level of the sports company Great Britain from 2013 to 2018 . ",
+      "Great Britain had a Production level of 2025 million bricks in 2013 ."
+   ],
+   "trends": [
+      {
+         "12": "5",
+         "14": "0"
+      },
+      {
+         "6": "0",
+         "11": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Production level in million bricks": "2025"
+      },
+      {
+         "Year": "2017",
+         "Production level in million bricks": "1877"
+      },
+      {
+         "Year": "2016",
+         "Production level in million bricks": "1800"
+      },
+      {
+         "Year": "2015",
+         "Production level in million bricks": "1915"
+      },
+      {
+         "Year": "2014",
+         "Production level in million bricks": "1824"
+      },
+      {
+         "Year": "2013",
+         "Production level in million bricks": "1555"
+      }
+   ]
+}

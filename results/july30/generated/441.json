@@ -1,0 +1,42 @@
+{
+   "title": "Cyber bullying : common types of bullying 2019 , by gender",
+   "labels": [
+      "Response",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 4 categories for the x axis of Response representing Male, and Female.",
+      " The highest category is found at I have been cyber bullied (lifetime) with a mean value of 36.400000000000006.",
+      " The second highest category is found at I have been cyber bullied (previous 30 days) with a mean value of 17.4.",
+      " This represents a difference of 70.6%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Response": "I have been cyber bullied (previous 30 days)",
+         "Male": "17.7",
+         "Female": "17.1"
+      },
+      {
+         "Response": "I have been cyber bullied (lifetime)",
+         "Male": "34.1",
+         "Female": "38.7"
+      },
+      {
+         "Response": "I have cyber bullied others (previous 30 days)",
+         "Male": "8.1",
+         "Female": "4.6"
+      },
+      {
+         "Response": "I have cyber bullied others (lifetime)",
+         "Male": "16.1",
+         "Female": "13.4"
+      }
+   ]
+}

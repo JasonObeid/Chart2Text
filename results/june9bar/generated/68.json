@@ -1,0 +1,127 @@
+{
+   "title": "Corruption perception index APAC 2018 , by country",
+   "xAxis": "Country",
+   "yAxis": "Index score",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the APAC perception index APAC 2018 by country from 1900 to 2018 . ",
+      "In 2019 , New_Zealand had the most APAC Index score in 2018 , with 87 points ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "New Zealand",
+         "Index score": "87"
+      },
+      {
+         "Country": "Singapore",
+         "Index score": "85"
+      },
+      {
+         "Country": "Australia",
+         "Index score": "77"
+      },
+      {
+         "Country": "Hong Kong",
+         "Index score": "76"
+      },
+      {
+         "Country": "Japan",
+         "Index score": "73"
+      },
+      {
+         "Country": "Bhutan",
+         "Index score": "68"
+      },
+      {
+         "Country": "Taiwan",
+         "Index score": "63"
+      },
+      {
+         "Country": "South Korea",
+         "Index score": "57"
+      },
+      {
+         "Country": "Malaysia",
+         "Index score": "47"
+      },
+      {
+         "Country": "India",
+         "Index score": "41"
+      },
+      {
+         "Country": "China",
+         "Index score": "39"
+      },
+      {
+         "Country": "Sri Lanka",
+         "Index score": "38"
+      },
+      {
+         "Country": "Indonesia",
+         "Index score": "38"
+      },
+      {
+         "Country": "Mongolia",
+         "Index score": "37"
+      },
+      {
+         "Country": "Philippines",
+         "Index score": "36"
+      },
+      {
+         "Country": "Thailand",
+         "Index score": "36"
+      },
+      {
+         "Country": "Timor-Leste",
+         "Index score": "35"
+      },
+      {
+         "Country": "Vietnam",
+         "Index score": "33"
+      },
+      {
+         "Country": "Pakistan",
+         "Index score": "33"
+      },
+      {
+         "Country": "Nepal",
+         "Index score": "31"
+      },
+      {
+         "Country": "Myanmar",
+         "Index score": "29"
+      },
+      {
+         "Country": "Laos",
+         "Index score": "29"
+      },
+      {
+         "Country": "Papua New Guinea",
+         "Index score": "28"
+      },
+      {
+         "Country": "Bangladesh",
+         "Index score": "26"
+      },
+      {
+         "Country": "Cambodia",
+         "Index score": "20"
+      },
+      {
+         "Country": "Afghanistan",
+         "Index score": "16"
+      },
+      {
+         "Country": "North Korea",
+         "Index score": "14"
+      }
+   ]
+}

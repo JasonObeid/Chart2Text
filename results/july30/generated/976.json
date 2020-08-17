@@ -1,0 +1,95 @@
+{
+   "title": "Airbus - worldwide aircraft deliveries 2002 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of aircraft deliveries",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of aircraft deliveries with a total of 18 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2019 to 2002."
+   ],
+   "trends": [
+      {
+         "Length": 18,
+         "direction": "negative",
+         "start": 0,
+         "end": 17,
+         "trend": "y=30.53x+-60828.58",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of aircraft deliveries": 863.0
+      },
+      {
+         "Year": "2018",
+         "Number of aircraft deliveries": 800.0
+      },
+      {
+         "Year": "2017",
+         "Number of aircraft deliveries": 718.0
+      },
+      {
+         "Year": "2016",
+         "Number of aircraft deliveries": 688.0
+      },
+      {
+         "Year": "2015",
+         "Number of aircraft deliveries": 635.0
+      },
+      {
+         "Year": "2014",
+         "Number of aircraft deliveries": 629.0
+      },
+      {
+         "Year": "2013",
+         "Number of aircraft deliveries": 626.0
+      },
+      {
+         "Year": "2012",
+         "Number of aircraft deliveries": 588.0
+      },
+      {
+         "Year": "2011",
+         "Number of aircraft deliveries": 534.0
+      },
+      {
+         "Year": "2010",
+         "Number of aircraft deliveries": 510.0
+      },
+      {
+         "Year": "2009",
+         "Number of aircraft deliveries": 498.0
+      },
+      {
+         "Year": "2008",
+         "Number of aircraft deliveries": 483.0
+      },
+      {
+         "Year": "2007",
+         "Number of aircraft deliveries": 453.0
+      },
+      {
+         "Year": "2006",
+         "Number of aircraft deliveries": 434.0
+      },
+      {
+         "Year": "2005",
+         "Number of aircraft deliveries": 378.0
+      },
+      {
+         "Year": "2004",
+         "Number of aircraft deliveries": 320.0
+      },
+      {
+         "Year": "2003",
+         "Number of aircraft deliveries": 305.0
+      },
+      {
+         "Year": "2002",
+         "Number of aircraft deliveries": 303.0
+      }
+   ]
+}

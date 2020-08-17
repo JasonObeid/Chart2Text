@@ -1,0 +1,51 @@
+{
+   "title": "Percentage of childless women , by age U.S. 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of childless women",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of childless women with a total of 7 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 15_to_19_years_old to 45_to_50_years_old."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 0,
+         "end": 6,
+         "trend": "y=-0.03x+131.89",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "15 to 19 years old",
+         "Percentage of childless women": 96.9
+      },
+      {
+         "Year": "20 to 24 years old",
+         "Percentage of childless women": 78.6
+      },
+      {
+         "Year": "25 to 29 years old",
+         "Percentage of childless women": 54.2
+      },
+      {
+         "Year": "30 to 34 years old",
+         "Percentage of childless women": 33.6
+      },
+      {
+         "Year": "35 to 39 years old",
+         "Percentage of childless women": 20.0
+      },
+      {
+         "Year": "40 to 44 years old",
+         "Percentage of childless women": 15.0
+      },
+      {
+         "Year": "45 to 50 years old",
+         "Percentage of childless women": 15.4
+      }
+   ]
+}

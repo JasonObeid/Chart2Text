@@ -1,0 +1,68 @@
+{
+   "title": "Population growth in Afghanistan 2018",
+   "xAxis": "Year",
+   "yAxis": "Population growth compared to previous year",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the degree of Population in Afghanistan from 2008 to 2018 and details the percentage of the entire compared , living in growth areas . ",
+      "In 2018 , 2.38 % of the total compared in Afghanistan lived in cities . ",
+      "Afghanistan 's rural exodus Afghanistan is one of the largest countries in the world regarding land area , second behind Russia ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "3": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Population growth compared to previous year": "2.38"
+      },
+      {
+         "Year": "2017",
+         "Population growth compared to previous year": "2.55"
+      },
+      {
+         "Year": "2016",
+         "Population growth compared to previous year": "2.78"
+      },
+      {
+         "Year": "2015",
+         "Population growth compared to previous year": "3.08"
+      },
+      {
+         "Year": "2014",
+         "Population growth compared to previous year": "3.36"
+      },
+      {
+         "Year": "2013",
+         "Population growth compared to previous year": "3.49"
+      },
+      {
+         "Year": "2012",
+         "Population growth compared to previous year": "3.41"
+      },
+      {
+         "Year": "2011",
+         "Population growth compared to previous year": "3.14"
+      },
+      {
+         "Year": "2010",
+         "Population growth compared to previous year": "2.75"
+      },
+      {
+         "Year": "2009",
+         "Population growth compared to previous year": "2.4"
+      },
+      {
+         "Year": "2008",
+         "Population growth compared to previous year": "2.27"
+      }
+   ]
+}

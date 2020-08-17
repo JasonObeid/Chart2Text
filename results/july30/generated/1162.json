@@ -1,0 +1,43 @@
+{
+   "title": "FIFA World Cup winner 's prize money 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Prize money in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Prize money in million U.S. dollars with a total of 5 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2018_(Russia) to 2002_(Korea_&_Japan)."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=1.89x+-3765.76",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018 (Russia)",
+         "Prize money in million U.S. dollars": 38.0
+      },
+      {
+         "Year": "2014 (Brazil)",
+         "Prize money in million U.S. dollars": 35.0
+      },
+      {
+         "Year": "2010 (South Africa)",
+         "Prize money in million U.S. dollars": 30.0
+      },
+      {
+         "Year": "2006 (Germany)",
+         "Prize money in million U.S. dollars": 19.56
+      },
+      {
+         "Year": "2002 (Korea & Japan)",
+         "Prize money in million U.S. dollars": 7.99
+      }
+   ]
+}

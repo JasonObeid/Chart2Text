@@ -1,0 +1,61 @@
+{
+   "title": "Leading IPOs in the U.S. 2019",
+   "xAxis": "Company (Offer date)",
+   "yAxis": "Deal size in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the ten Leading 2019 , other than English , in IPOs U.S. 2019 in , by Deal of size . ",
+      "The Leading commonly 2019 Company was Uber_Technologies_(May_9) with almost 8100 thousand native size , followed by Avantor_(May_16) and IPOs U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "9": "0",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Company (Offer date)": "Uber Technologies (May 9)",
+         "Deal size in million U.S. dollars": "8100"
+      },
+      {
+         "Company (Offer date)": "Avantor (May 16)",
+         "Deal size in million U.S. dollars": "2898"
+      },
+      {
+         "Company (Offer date)": "Lyft (Mar 28)",
+         "Deal size in million U.S. dollars": "2340"
+      },
+      {
+         "Company (Offer date)": "XP (Dec 10)",
+         "Deal size in million U.S. dollars": "1958"
+      },
+      {
+         "Company (Offer date)": "Pinterest (Apr 17)",
+         "Deal size in million U.S. dollars": "1425"
+      },
+      {
+         "Company (Offer date)": "SmileDirectClub (Sep 11)",
+         "Deal size in million U.S. dollars": "1346"
+      },
+      {
+         "Company (Offer date)": "Peloton Interactive (Sep 25)",
+         "Deal size in million U.S. dollars": "1160"
+      },
+      {
+         "Company (Offer date)": "Tradeweb Markets (Apr 3)",
+         "Deal size in million U.S. dollars": "1080"
+      },
+      {
+         "Company (Offer date)": "Chewy (Jun 13)",
+         "Deal size in million U.S. dollars": "1023"
+      },
+      {
+         "Company (Offer date)": "DouYu International Holdings (Jul 16)",
+         "Deal size in million U.S. dollars": "775"
+      }
+   ]
+}

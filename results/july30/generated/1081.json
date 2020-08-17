@@ -1,0 +1,108 @@
+{
+   "title": "Personal income in California - income per capita 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Income in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Income in U.S. dollars, with a total of 19 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from '18 to '09.",
+      " Conversely, the next significant trend is  negative which exists from '08 to '00."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 0,
+         "end": 9,
+         "trend": "y=2369.96x+19951.27",
+         "magnitude": ""
+      },
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 10,
+         "end": 18,
+         "trend": "y=1507.9x+32111.84",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "'18",
+         "Income in U.S. dollars": 63557.0
+      },
+      {
+         "Year": "'17",
+         "Income in U.S. dollars": 60156.0
+      },
+      {
+         "Year": "'16",
+         "Income in U.S. dollars": 57739.0
+      },
+      {
+         "Year": "'15",
+         "Income in U.S. dollars": 55758.0
+      },
+      {
+         "Year": "'14",
+         "Income in U.S. dollars": 52324.0
+      },
+      {
+         "Year": "'13",
+         "Income in U.S. dollars": 49277.0
+      },
+      {
+         "Year": "'12",
+         "Income in U.S. dollars": 48798.0
+      },
+      {
+         "Year": "'11",
+         "Income in U.S. dollars": 46170.0
+      },
+      {
+         "Year": "'10",
+         "Income in U.S. dollars": 43634.0
+      },
+      {
+         "Year": "'09",
+         "Income in U.S. dollars": 42044.0
+      },
+      {
+         "Year": "'08",
+         "Income in U.S. dollars": 43890.0
+      },
+      {
+         "Year": "'07",
+         "Income in U.S. dollars": 43629.0
+      },
+      {
+         "Year": "'06",
+         "Income in U.S. dollars": 42088.0
+      },
+      {
+         "Year": "'05",
+         "Income in U.S. dollars": 39279.0
+      },
+      {
+         "Year": "'04",
+         "Income in U.S. dollars": 37369.0
+      },
+      {
+         "Year": "'03",
+         "Income in U.S. dollars": 35415.0
+      },
+      {
+         "Year": "'02",
+         "Income in U.S. dollars": 34214.0
+      },
+      {
+         "Year": "'01",
+         "Income in U.S. dollars": 34043.0
+      },
+      {
+         "Year": "'00",
+         "Income in U.S. dollars": 33364.0
+      }
+   ]
+}

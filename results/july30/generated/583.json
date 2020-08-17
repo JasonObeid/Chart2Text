@@ -1,0 +1,38 @@
+{
+   "title": "Facebook : monthly brand profile follower growth 2017\n",
+   "xAxis": "Month",
+   "yAxis": "Growth rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Month, and a y axis representing Growth rate.",
+      " The highest category is found at Sep_'17 where Growth rate is 3.28.",
+      " The lowest category is found at Nov_'17 where Growth rate is 0.1."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Month": "Dec '17",
+         "Growth rate": 0.61
+      },
+      {
+         "Month": "Nov '17",
+         "Growth rate": 0.1
+      },
+      {
+         "Month": "Oct '17",
+         "Growth rate": 0.1
+      },
+      {
+         "Month": "Sep '17",
+         "Growth rate": 3.28
+      },
+      {
+         "Month": "Aug '17",
+         "Growth rate": 0.82
+      }
+   ]
+}

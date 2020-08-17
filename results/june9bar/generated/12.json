@@ -1,0 +1,37 @@
+{
+   "title": "U.S. consumers who have personally experienced hacking 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among female U.S. high school students have personally experienced hacking . ",
+      "According to the source , 51 % of female students in the consumers were Yes_more_than_once with No_never during Don't_know_/_can't_recall ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2",
+         "14": "0",
+         "16": "2",
+         "18": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes more than once",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Yes but only once",
+         "Share of respondents": "22"
+      },
+      {
+         "Response": "No never",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Don't know / can't recall",
+         "Share of respondents": "12"
+      }
+   ]
+}

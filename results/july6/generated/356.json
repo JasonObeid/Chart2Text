@@ -1,0 +1,37 @@
+{
+   "title": "Debenhams customers in the United Kingdom ( UK ) 2015 , by demographic group",
+   "xAxis": "NRS social classification",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the percentage of Debenhams United Kingdom UK 2015 a by as of 2018 , sorted group . ",
+      "According to the survey , 35 % of Debenhams United aged AB to had 2015 a photograph of themselves and uploaded it to a social media website ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "11": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "NRS social classification": "AB",
+         "Share of respondents": "35"
+      },
+      {
+         "NRS social classification": "C1",
+         "Share of respondents": "31"
+      },
+      {
+         "NRS social classification": "C2",
+         "Share of respondents": "19"
+      },
+      {
+         "NRS social classification": "DE",
+         "Share of respondents": "15"
+      }
+   ]
+}

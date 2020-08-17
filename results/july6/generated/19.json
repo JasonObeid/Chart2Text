@@ -1,0 +1,80 @@
+{
+   "title": "Global mine production of asbestos 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total amount of production mined in Global from 2007 to 2019 . ",
+      "In 2007 , some 2200 thousand metric tons of production were produced across the country . ",
+      "Since then , this figure rose to some 1100 thousand in 2007 ."
+   ],
+   "trends": [
+      {
+         "12": "12",
+         "14": "0"
+      },
+      {
+         "1": "12",
+         "4": "12"
+      },
+      {
+         "8": "0",
+         "11": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in thousand metric tons": "1100"
+      },
+      {
+         "Year": "2018",
+         "Production in thousand metric tons": "1150"
+      },
+      {
+         "Year": "2017",
+         "Production in thousand metric tons": "1170"
+      },
+      {
+         "Year": "2016",
+         "Production in thousand metric tons": "1280"
+      },
+      {
+         "Year": "2015",
+         "Production in thousand metric tons": "2000"
+      },
+      {
+         "Year": "2014",
+         "Production in thousand metric tons": "2020"
+      },
+      {
+         "Year": "2013",
+         "Production in thousand metric tons": "2020"
+      },
+      {
+         "Year": "2012",
+         "Production in thousand metric tons": "1970"
+      },
+      {
+         "Year": "2011",
+         "Production in thousand metric tons": "2030"
+      },
+      {
+         "Year": "2010",
+         "Production in thousand metric tons": "2010"
+      },
+      {
+         "Year": "2009",
+         "Production in thousand metric tons": "2070"
+      },
+      {
+         "Year": "2008",
+         "Production in thousand metric tons": "2090"
+      },
+      {
+         "Year": "2007",
+         "Production in thousand metric tons": "2200"
+      }
+   ]
+}

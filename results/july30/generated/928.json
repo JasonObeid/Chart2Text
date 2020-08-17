@@ -1,0 +1,47 @@
+{
+   "title": "Residential solar PV : U.S. market value 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Market value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Market value in billion U.S. dollars with a total of 6 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2016 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 0,
+         "end": 5,
+         "trend": "y=0.69x+-1383.69",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Market value in billion U.S. dollars": 4.7
+      },
+      {
+         "Year": "2015",
+         "Market value in billion U.S. dollars": 3.7
+      },
+      {
+         "Year": "2014",
+         "Market value in billion U.S. dollars": 2.9
+      },
+      {
+         "Year": "2013",
+         "Market value in billion U.S. dollars": 2.3
+      },
+      {
+         "Year": "2012",
+         "Market value in billion U.S. dollars": 1.7
+      },
+      {
+         "Year": "2011",
+         "Market value in billion U.S. dollars": 1.2
+      }
+   ]
+}

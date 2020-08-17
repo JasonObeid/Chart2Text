@@ -1,0 +1,36 @@
+{
+   "title": "WhatsApp : annual revenue 2012 to 2014",
+   "xAxis": "Year",
+   "yAxis": "Annual revenue in 1,000 U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic described the WhatsApp annual revenue of WhatsApp to the gross domestic product of the United Arab Emirates from 2012 to 2013 and a forecast for 2013 . ",
+      "The forecast of the WhatsApp annual revenue of WhatsApp to the Annual of the United Arab Emirates for 2013 was approximately 15.29 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "20": "0",
+         "22": "1",
+         "27": "1"
+      },
+      {
+         "18": "1",
+         "21": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Annual revenue in 1,000 U.S. dollars": "3.82"
+      },
+      {
+         "Year": "2013",
+         "Annual revenue in 1,000 U.S. dollars": "10.21"
+      },
+      {
+         "Year": "H1 2014",
+         "Annual revenue in 1,000 U.S. dollars": "15.29"
+      }
+   ]
+}

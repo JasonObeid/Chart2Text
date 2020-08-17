@@ -1,0 +1,63 @@
+{
+   "title": "Average ticket price National Basketball Association ( NBA ) 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Ticket price U.S. for National Basketball Association games of the National Basketball Association from 2006/07 to 2015/16 . ",
+      "In the 2006/07 season , the Ticket price U.S. was 55.88 dollars ."
+   ],
+   "trends": [
+      {
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Ticket price in U.S. dollars": "55.88"
+      },
+      {
+         "Year": "2014/15",
+         "Ticket price in U.S. dollars": "53.98"
+      },
+      {
+         "Year": "2013/14",
+         "Ticket price in U.S. dollars": "52.5"
+      },
+      {
+         "Year": "2012/13",
+         "Ticket price in U.S. dollars": "50.99"
+      },
+      {
+         "Year": "2011/12",
+         "Ticket price in U.S. dollars": "48.48"
+      },
+      {
+         "Year": "2010/11",
+         "Ticket price in U.S. dollars": "47.66"
+      },
+      {
+         "Year": "2009/10",
+         "Ticket price in U.S. dollars": "48.9"
+      },
+      {
+         "Year": "2008/09",
+         "Ticket price in U.S. dollars": "49.47"
+      },
+      {
+         "Year": "2007/08",
+         "Ticket price in U.S. dollars": "48.83"
+      },
+      {
+         "Year": "2006/07",
+         "Ticket price in U.S. dollars": "46.99"
+      }
+   ]
+}

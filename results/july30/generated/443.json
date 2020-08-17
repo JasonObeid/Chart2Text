@@ -1,0 +1,59 @@
+{
+   "title": "Monthly consumer Price Index ( CPI ) in India July 2019",
+   "labels": [
+      "Month",
+      "All India",
+      "Urban",
+      "Rural"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 6 categories for the x axis of Month representing All India, Urban, and Rural.",
+      " The highest category is found at June with a mean value of 142.86666666666667.",
+      " The second highest category is found at May with a mean value of 141.96666666666667.",
+      " This represents a difference of 0.6%."
+   ],
+   "trends": {
+      "maxIndex": 5,
+      "secondIndex": 5
+   },
+   "data": [
+      {
+         "Month": "January",
+         "All India": "139.7",
+         "Urban": "138.0",
+         "Rural": "141.1"
+      },
+      {
+         "Month": "February",
+         "All India": "139.9",
+         "Urban": "138.6",
+         "Rural": "141.0"
+      },
+      {
+         "Month": "March",
+         "All India": "140.4",
+         "Urban": "139.5",
+         "Rural": "141.2"
+      },
+      {
+         "Month": "April",
+         "All India": "141.1",
+         "Urban": "140.5",
+         "Rural": "141.7"
+      },
+      {
+         "Month": "May",
+         "All India": "142.0",
+         "Urban": "141.5",
+         "Rural": "142.4"
+      },
+      {
+         "Month": "June",
+         "All India": "142.9",
+         "Urban": "142.1",
+         "Rural": "143.6"
+      }
+   ]
+}

@@ -1,0 +1,70 @@
+{
+   "title": "Countries with the lowest prevalence of condom use among its male population 2013\n",
+   "xAxis": "Country",
+   "yAxis": "Percentage of males aged 15-49",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 13 categories for the x axis representing Country, and a y axis representing Percentage of males aged 15-49.",
+      " The highest category is found at Liberia where Percentage of males aged 15-49 is 24.0.",
+      " The lowest category is found at Niger where Percentage of males aged 15-49 is 4.0."
+   ],
+   "trends": {
+      "maxIndex": 12,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Country": "Niger",
+         "Percentage of males aged 15-49": 4.0
+      },
+      {
+         "Country": "Madagascar",
+         "Percentage of males aged 15-49": 7.0
+      },
+      {
+         "Country": "Mali",
+         "Percentage of males aged 15-49": 10.0
+      },
+      {
+         "Country": "Sierra Leone",
+         "Percentage of males aged 15-49": 13.0
+      },
+      {
+         "Country": "Burundi",
+         "Percentage of males aged 15-49": 14.0
+      },
+      {
+         "Country": "Ethiopia",
+         "Percentage of males aged 15-49": 16.0
+      },
+      {
+         "Country": "DC Congo",
+         "Percentage of males aged 15-49": 16.0
+      },
+      {
+         "Country": "East Timor",
+         "Percentage of males aged 15-49": 19.0
+      },
+      {
+         "Country": "Uganda",
+         "Percentage of males aged 15-49": 19.0
+      },
+      {
+         "Country": "Nigeria",
+         "Percentage of males aged 15-49": 20.0
+      },
+      {
+         "Country": "Senegal",
+         "Percentage of males aged 15-49": 21.0
+      },
+      {
+         "Country": "Benin",
+         "Percentage of males aged 15-49": 22.0
+      },
+      {
+         "Country": "Liberia",
+         "Percentage of males aged 15-49": 24.0
+      }
+   ]
+}

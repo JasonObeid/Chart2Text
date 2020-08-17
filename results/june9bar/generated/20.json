@@ -1,0 +1,28 @@
+{
+   "title": "BuzzFeed : monthly content views 2015 to 2016",
+   "xAxis": "Month",
+   "yAxis": "Number of monthly video viewers in millions",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of monthly video in the BuzzFeed who were using 2016 as of 2019 . ",
+      "As of that Month , the mobile messaging app had been monthly video worldwide ."
+   ],
+   "trends": [
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Apr '15",
+         "Number of monthly video viewers in millions": "1000"
+      },
+      {
+         "Month": "Oct '15",
+         "Number of monthly video viewers in millions": "5000"
+      },
+      {
+         "Month": "May '16",
+         "Number of monthly video viewers in millions": "7000"
+      }
+   ]
+}

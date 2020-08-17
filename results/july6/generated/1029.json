@@ -1,0 +1,80 @@
+{
+   "title": "Median household income in the U.S. 1970 - 2014 , by income tier",
+   "labels": [
+      "Year",
+      "Lower income class",
+      "Middle income class",
+      "Upper income class"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the consumer household on Median income product tier in the U.S. ( ) from 2014 to 1990 , with a forecast estimate for 1970 . ",
+      "In each Year during this period , household on Median Lower was the highest across the various categories , at an estimated 18799 million British pounds in 1970 . ",
+      "In comparison , Middle household was estimated at 54682 million pounds that same Year , while household on Upper and was forecast to reach 118617 million pounds and 118617 million pounds , respectively ."
+   ],
+   "trends": [
+      {
+         "18": [
+            "0",
+            "0"
+         ],
+         "20": [
+            "2",
+            "0"
+         ],
+         "27": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "22": [
+            "4",
+            "1"
+         ],
+         "27": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "8": [
+            "4",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Lower income class": "24074",
+         "Middle income class": "73392",
+         "Upper income class": "174625"
+      },
+      {
+         "Year": "2000",
+         "Lower income class": "26496",
+         "Middle income class": "76819",
+         "Upper income class": "180769"
+      },
+      {
+         "Year": "1990",
+         "Lower income class": "23081",
+         "Middle income class": "68856",
+         "Upper income class": "153557"
+      },
+      {
+         "Year": "1980",
+         "Lower income class": "21336",
+         "Middle income class": "61832",
+         "Upper income class": "130150"
+      },
+      {
+         "Year": "1970",
+         "Lower income class": "18799",
+         "Middle income class": "54682",
+         "Upper income class": "118617"
+      }
+   ]
+}

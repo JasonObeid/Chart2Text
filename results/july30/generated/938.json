@@ -1,0 +1,76 @@
+{
+   "title": "Inflation rate in South Sudan 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 11 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2024 to 2016.",
+      " Similarly, the next significant trend is  negative which exists from 2016 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "positive",
+         "start": 0,
+         "end": 8,
+         "trend": "y=-36.52x+73846.81",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=189.1x+-380881.65",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inflation rate compared to previous year": 7.95
+      },
+      {
+         "Year": "2023",
+         "Inflation rate compared to previous year": 8.21
+      },
+      {
+         "Year": "2022",
+         "Inflation rate compared to previous year": 8.61
+      },
+      {
+         "Year": "2021",
+         "Inflation rate compared to previous year": 9.74
+      },
+      {
+         "Year": "2020",
+         "Inflation rate compared to previous year": 16.89
+      },
+      {
+         "Year": "2019",
+         "Inflation rate compared to previous year": 24.47
+      },
+      {
+         "Year": "2018",
+         "Inflation rate compared to previous year": 83.49
+      },
+      {
+         "Year": "2017",
+         "Inflation rate compared to previous year": 187.87
+      },
+      {
+         "Year": "2016",
+         "Inflation rate compared to previous year": 379.85
+      },
+      {
+         "Year": "2015",
+         "Inflation rate compared to previous year": 52.81
+      },
+      {
+         "Year": "2014",
+         "Inflation rate compared to previous year": 1.66
+      }
+   ]
+}

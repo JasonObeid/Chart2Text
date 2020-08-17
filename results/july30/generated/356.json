@@ -1,0 +1,54 @@
+{
+   "title": "Maximum discipline for selected player offenses in the NFL 2011/2012\n",
+   "xAxis": "Fine Types",
+   "yAxis": "Maximum fine (in U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Fine Types, and a y axis representing Maximum fine (in U.S. dollars).",
+      " The highest category is found at Unexcused_late_reporting_foror_absence_from_preseason_training where Maximum fine (in U.S. dollars) is 30000.0.",
+      " The lowest category is found at Being_overweight_(per_lb.) where Maximum fine (in U.S. dollars) is 470.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "Fine Types": "Unexcused late reporting foror absence from preseason training",
+         "Maximum fine (in U.S. dollars)": 30000.0
+      },
+      {
+         "Fine Types": "Ejection from game",
+         "Maximum fine (in U.S. dollars)": 25000.0
+      },
+      {
+         "Fine Types": "Unexcused missed team transportation",
+         "Maximum fine (in U.S. dollars)": 9440.0
+      },
+      {
+         "Fine Types": "Loss of playbook scouting reportor game plan",
+         "Maximum fine (in U.S. dollars)": 9440.0
+      },
+      {
+         "Fine Types": "Throwing football into stands",
+         "Maximum fine (in U.S. dollars)": 1770.0
+      },
+      {
+         "Fine Types": "Losing damaging or alteringClub-provided equipment",
+         "Maximum fine (in U.S. dollars)": 1770.0
+      },
+      {
+         "Fine Types": "Failure to promptly report injury",
+         "Maximum fine (in U.S. dollars)": 1770.0
+      },
+      {
+         "Fine Types": "Unexcused late reportingfor team activity",
+         "Maximum fine (in U.S. dollars)": 1770.0
+      },
+      {
+         "Fine Types": "Being overweight (per lb.)",
+         "Maximum fine (in U.S. dollars)": 470.0
+      }
+   ]
+}

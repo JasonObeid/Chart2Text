@@ -1,0 +1,75 @@
+{
+   "title": "Number of arrivals in tourist accommodation Netherlands 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of tourist arrivals at accommodation establishments in Netherlands from 2006 to 2018 . ",
+      "In 2018 , the Number of arrivals in travel accommodation ( including both international and domestic tourists ) amounted to approximately 43.9 millions ."
+   ],
+   "trends": [
+      {
+         "14": "12",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of arrivals in millions": "43.9"
+      },
+      {
+         "Year": "2017",
+         "Number of arrivals in millions": "42.2"
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in millions": "38.9"
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in millions": "37.4"
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in millions": "35.9"
+      },
+      {
+         "Year": "2013 ",
+         "Number of arrivals in millions": "34.0"
+      },
+      {
+         "Year": "2012",
+         "Number of arrivals in millions": "31.1"
+      },
+      {
+         "Year": "2011",
+         "Number of arrivals in millions": "30.7"
+      },
+      {
+         "Year": "2010",
+         "Number of arrivals in millions": "30.0"
+      },
+      {
+         "Year": "2009",
+         "Number of arrivals in millions": "29.0"
+      },
+      {
+         "Year": "2008",
+         "Number of arrivals in millions": "29.1"
+      },
+      {
+         "Year": "2007",
+         "Number of arrivals in millions": "30.3"
+      },
+      {
+         "Year": "2006",
+         "Number of arrivals in millions": "28.5"
+      }
+   ]
+}

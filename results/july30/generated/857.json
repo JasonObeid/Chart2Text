@@ -1,0 +1,57 @@
+{
+   "title": "U.S. market share of men 's electric shaver manufacturer 2004 to 2008",
+   "labels": [
+      "unknown",
+      "2004",
+      "2008"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 7 categories for the x axis of unknown representing 2004, 2008.",
+      " The highest category is found at Philips (Norelco) with a mean value of 39.0.",
+      " The second highest category is found at Spectrum Brands (Remington/Rayovac) with a mean value of 37.0.",
+      " This represents a difference of 5.3%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "unknown": "Spectrum Brands (Remington/Rayovac)",
+         "2004": "33",
+         "2008": "41"
+      },
+      {
+         "unknown": "Philips (Norelco)",
+         "2004": "44",
+         "2008": "34"
+      },
+      {
+         "unknown": "Proctor & Gamble (Gillette/Braun)",
+         "2004": "14",
+         "2008": "10"
+      },
+      {
+         "unknown": "Conair",
+         "2004": "0",
+         "2008": "8"
+      },
+      {
+         "unknown": "Matsushita (Panasonic)",
+         "2004": "5",
+         "2008": "5"
+      },
+      {
+         "unknown": "Wahl",
+         "2004": "3",
+         "2008": "0"
+      },
+      {
+         "unknown": "Others",
+         "2004": "1",
+         "2008": "2"
+      }
+   ]
+}

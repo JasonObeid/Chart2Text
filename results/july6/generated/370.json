@@ -1,0 +1,68 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Iraq 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the growth in real GDP in Iraq from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Iraq 's real Gross domestic product increased by around -0.56 % compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "6",
+         "19": "0"
+      },
+      {
+         "1": "6",
+         "12": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": "2.08"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "2.07"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "2.32"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "3.73"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "4.68"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "3.4"
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": "-0.56"
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": "-2.5"
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": "15.2"
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": "2.54"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "0.74"
+      }
+   ]
+}

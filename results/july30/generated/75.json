@@ -1,0 +1,51 @@
+{
+   "title": "Argentina : number of Facebook users 2017 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of users in millions with a total of 7 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2023 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 0,
+         "end": 6,
+         "trend": "y=0.59x+-1164.14",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of users in millions": 28.0
+      },
+      {
+         "Year": "2022",
+         "Number of users in millions": 27.4
+      },
+      {
+         "Year": "2021",
+         "Number of users in millions": 26.8
+      },
+      {
+         "Year": "2020",
+         "Number of users in millions": 26.2
+      },
+      {
+         "Year": "2019",
+         "Number of users in millions": 25.6
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": 25.0
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": 24.5
+      }
+   ]
+}

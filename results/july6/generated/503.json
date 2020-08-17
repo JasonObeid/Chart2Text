@@ -1,0 +1,232 @@
+{
+   "title": "State unemployment rate in the U.S. 2018",
+   "xAxis": "State",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This table ranks the 50 states of the U.S. and the West_Virginia of by their Unemployment rate . ",
+      "In U.S. 2018 , about 2.9 % of Idaho 's population was unemployed . ",
+      "The highest Unemployment rate recorded was in Alaska at 6.6 % ."
+   ],
+   "trends": [
+      {
+         "11": "2",
+         "13": "2"
+      },
+      {
+         "5": "43",
+         "8": "44"
+      },
+      {
+         "7": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "Alaska",
+         "Unemployment rate": "6.6"
+      },
+      {
+         "State": "District of Columbia",
+         "Unemployment rate": "5.6"
+      },
+      {
+         "State": "West Virginia",
+         "Unemployment rate": "5.3"
+      },
+      {
+         "State": "New Mexico",
+         "Unemployment rate": "4.9"
+      },
+      {
+         "State": "Louisiana",
+         "Unemployment rate": "4.9"
+      },
+      {
+         "State": "Arizona",
+         "Unemployment rate": "4.8"
+      },
+      {
+         "State": "Mississippi",
+         "Unemployment rate": "4.8"
+      },
+      {
+         "State": "Nevada",
+         "Unemployment rate": "4.6"
+      },
+      {
+         "State": "Ohio",
+         "Unemployment rate": "4.6"
+      },
+      {
+         "State": "Washington",
+         "Unemployment rate": "4.5"
+      },
+      {
+         "State": "Illinois",
+         "Unemployment rate": "4.3"
+      },
+      {
+         "State": "Kentucky",
+         "Unemployment rate": "4.3"
+      },
+      {
+         "State": "Pennsylvania",
+         "Unemployment rate": "4.3"
+      },
+      {
+         "State": "Oregon",
+         "Unemployment rate": "4.2"
+      },
+      {
+         "State": "California",
+         "Unemployment rate": "4.2"
+      },
+      {
+         "State": "Connecticut",
+         "Unemployment rate": "4.1"
+      },
+      {
+         "State": "Michigan",
+         "Unemployment rate": "4.1"
+      },
+      {
+         "State": "New Jersey",
+         "Unemployment rate": "4.1"
+      },
+      {
+         "State": "New York",
+         "Unemployment rate": "4.1"
+      },
+      {
+         "State": "Rhode Island",
+         "Unemployment rate": "4.1"
+      },
+      {
+         "State": "Wyoming",
+         "Unemployment rate": "4.1"
+      },
+      {
+         "State": "Maryland",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "State": "Texas",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "State": "Alabama",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "State": "North Carolina",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "State": "Georgia",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "State": "Delaware",
+         "Unemployment rate": "3.8"
+      },
+      {
+         "State": "Arkansas",
+         "Unemployment rate": "3.7"
+      },
+      {
+         "State": "Montana",
+         "Unemployment rate": "3.7"
+      },
+      {
+         "State": "Florida",
+         "Unemployment rate": "3.6"
+      },
+      {
+         "State": "Tennessee",
+         "Unemployment rate": "3.5"
+      },
+      {
+         "State": "Maine",
+         "Unemployment rate": "3.4"
+      },
+      {
+         "State": "Oklahoma",
+         "Unemployment rate": "3.4"
+      },
+      {
+         "State": "South Carolina",
+         "Unemployment rate": "3.4"
+      },
+      {
+         "State": "Kansas",
+         "Unemployment rate": "3.4"
+      },
+      {
+         "State": "Indiana",
+         "Unemployment rate": "3.4"
+      },
+      {
+         "State": "Colorado",
+         "Unemployment rate": "3.3"
+      },
+      {
+         "State": "Massachusetts",
+         "Unemployment rate": "3.3"
+      },
+      {
+         "State": "Missouri",
+         "Unemployment rate": "3.2"
+      },
+      {
+         "State": "Utah",
+         "Unemployment rate": "3.1"
+      },
+      {
+         "State": "South Dakota",
+         "Unemployment rate": "3"
+      },
+      {
+         "State": "Virginia",
+         "Unemployment rate": "3"
+      },
+      {
+         "State": "Wisconsin",
+         "Unemployment rate": "3"
+      },
+      {
+         "State": "Minnesota",
+         "Unemployment rate": "2.9"
+      },
+      {
+         "State": "Idaho",
+         "Unemployment rate": "2.8"
+      },
+      {
+         "State": "Nebraska",
+         "Unemployment rate": "2.8"
+      },
+      {
+         "State": "Vermont",
+         "Unemployment rate": "2.7"
+      },
+      {
+         "State": "North Dakota",
+         "Unemployment rate": "2.6"
+      },
+      {
+         "State": "New Hampshire",
+         "Unemployment rate": "2.5"
+      },
+      {
+         "State": "Iowa",
+         "Unemployment rate": "2.5"
+      },
+      {
+         "State": "Hawaii",
+         "Unemployment rate": "2.4"
+      }
+   ]
+}

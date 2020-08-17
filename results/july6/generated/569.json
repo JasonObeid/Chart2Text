@@ -1,0 +1,59 @@
+{
+   "title": "Leading paid attractions in London 2018",
+   "xAxis": "Attractions",
+   "yAxis": "Number of visits in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Leading paid the largest Number of London 2018 thousands in the 2018 in . ",
+      "According to the source , Connecticut was the Attractions paid the attractions London 2018 thousands in 2018 paid 2855 visits to every thousands thousand ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Attractions": "Tower of London",
+         "Number of visits in thousands": "2855"
+      },
+      {
+         "Attractions": "Royal Botanic Gardens Kew Gardens",
+         "Number of visits in thousands": "1859"
+      },
+      {
+         "Attractions": "St Paul's Cathedral",
+         "Number of visits in thousands": "1657"
+      },
+      {
+         "Attractions": "Royal Academy of Arts",
+         "Number of visits in thousands": "1594"
+      },
+      {
+         "Attractions": "Westminster Abbey",
+         "Number of visits in thousands": "1546"
+      },
+      {
+         "Attractions": "ZSL London Zoo",
+         "Number of visits in thousands": "1134"
+      },
+      {
+         "Attractions": "Houses of Parliament",
+         "Number of visits in thousands": "1076"
+      },
+      {
+         "Attractions": "Hampton Court Palace",
+         "Number of visits in thousands": "903"
+      },
+      {
+         "Attractions": "Tower Bridge Exhibition",
+         "Number of visits in thousands": "837"
+      },
+      {
+         "Attractions": "Shakespeare's Globe",
+         "Number of visits in thousands": "819"
+      }
+   ]
+}

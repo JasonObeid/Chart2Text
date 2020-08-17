@@ -1,0 +1,126 @@
+{
+   "title": "U.S. per capita consumption of fresh lettuce ( romaine and leaf ) 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Per capita consumption in pounds, with a total of 19 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2004 to 2000.",
+      " But, the next significant trend is  negative which exists from 2017 to 2014.",
+      " Conversely, the next significant trend is  positive which exists from 2009 to 2006.",
+      " Also, the next significant trend is  positive which exists from 2014 to 2012."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 14,
+         "end": 18,
+         "trend": "y=1.0x+-1992.24",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 1,
+         "end": 4,
+         "trend": "y=1.52x+-3050.51",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 9,
+         "end": 12,
+         "trend": "y=-0.71x+1436.3",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-0.55x+1118.52",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": 12.3
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": 15.0
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": 14.5
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": 11.9
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": 10.8
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": 11.4
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": 11.9
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": 11.7
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": 12.0
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": 10.0
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": 10.4
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": 11.5
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": 12.0
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": 9.7
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": 12.0
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": 10.8
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": 9.6
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": 8.0
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": 8.4
+      }
+   ]
+}

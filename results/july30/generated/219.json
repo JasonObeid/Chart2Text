@@ -1,0 +1,82 @@
+{
+   "title": "Sporting goods industry : Revenue of Easton Bell Sports 2013\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue (in million U.S. dollars)",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue (in million U.S. dollars), with a total of 8 data points. The chart has 4 significant trends.",
+      " The longest trend is  positive which exists from 2013 to 2011.",
+      " Also, the next significant trend is  negative which exists from 2011 to 2009.",
+      " On the contrary, the next significant trend is  negative which exists from 2008 to 2006.",
+      " But, the next significant trend is  positive which exists from 2009 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-27.25x+55641.17",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=59.3x+-118418.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 5,
+         "end": 7,
+         "trend": "y=68.25x+-136264.68",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 4,
+         "end": 5,
+         "trend": "y=-59.2x+119649.1",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Revenue (in million U.S. dollars)": 780.4
+      },
+      {
+         "Year": "2012",
+         "Revenue (in million U.S. dollars)": 827.2
+      },
+      {
+         "Year": "2011",
+         "Revenue (in million U.S. dollars)": 834.9
+      },
+      {
+         "Year": "2010",
+         "Revenue (in million U.S. dollars)": 772.8
+      },
+      {
+         "Year": "2009",
+         "Revenue (in million U.S. dollars)": 716.3
+      },
+      {
+         "Year": "2008",
+         "Revenue (in million U.S. dollars)": 775.5
+      },
+      {
+         "Year": "2007",
+         "Revenue (in million U.S. dollars)": 724.7
+      },
+      {
+         "Year": "2006",
+         "Revenue (in million U.S. dollars)": 639.0
+      }
+   ]
+}

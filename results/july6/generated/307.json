@@ -1,0 +1,140 @@
+{
+   "title": "EU : number of enterprises in the restaurants & mobile food industry by country 2016",
+   "xAxis": "Country",
+   "yAxis": "Number of enterprises",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays the Number of enterprises 10,000 working in enterprises & in Europe 2016 . ",
+      "In this year , France had the highest Number of enterprises with 168338 enterprises 10,000 , this was closely followed by Italy with 146089 enterprises 10,000 and Germany with 133555 enterprises 10,000 . ",
+      "The source provides the information that the professions of Optometry and Optics in Spain and the Nordic & are combined in 11346 , as optometrists ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "12": "0",
+         "23": "1",
+         "25": "1",
+         "31": "2",
+         "33": "2"
+      },
+      {
+         "21": "14"
+      }
+   ],
+   "data": [
+      {
+         "Country": "France",
+         "Number of enterprises": "168338"
+      },
+      {
+         "Country": "Italy",
+         "Number of enterprises": "146089"
+      },
+      {
+         "Country": "Germany",
+         "Number of enterprises": "133555"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of enterprises": "83622"
+      },
+      {
+         "Country": "Spain",
+         "Number of enterprises": "75591"
+      },
+      {
+         "Country": "Czechia",
+         "Number of enterprises": "48241"
+      },
+      {
+         "Country": "Greece",
+         "Number of enterprises": "43766"
+      },
+      {
+         "Country": "Portugal",
+         "Number of enterprises": "29893"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of enterprises": "28750"
+      },
+      {
+         "Country": "Belgium",
+         "Number of enterprises": "28029"
+      },
+      {
+         "Country": "Poland",
+         "Number of enterprises": "27829"
+      },
+      {
+         "Country": "Austria",
+         "Number of enterprises": "27754"
+      },
+      {
+         "Country": "Sweden",
+         "Number of enterprises": "24953"
+      },
+      {
+         "Country": "Hungary",
+         "Number of enterprises": "16514"
+      },
+      {
+         "Country": "Bulgaria",
+         "Number of enterprises": "11346"
+      },
+      {
+         "Country": "Slovakia",
+         "Number of enterprises": "10692"
+      },
+      {
+         "Country": "Romania",
+         "Number of enterprises": "9355"
+      },
+      {
+         "Country": "Denmark",
+         "Number of enterprises": "8537"
+      },
+      {
+         "Country": "Finland",
+         "Number of enterprises": "7848"
+      },
+      {
+         "Country": "Ireland",
+         "Number of enterprises": "7570"
+      },
+      {
+         "Country": "Croatia",
+         "Number of enterprises": "6455"
+      },
+      {
+         "Country": "Slovenia",
+         "Number of enterprises": "4478"
+      },
+      {
+         "Country": "Cyprus",
+         "Number of enterprises": "2914"
+      },
+      {
+         "Country": "Lithuania",
+         "Number of enterprises": "2474"
+      },
+      {
+         "Country": "Latvia",
+         "Number of enterprises": "2360"
+      },
+      {
+         "Country": "Estonia",
+         "Number of enterprises": "1551"
+      },
+      {
+         "Country": "Luxembourg",
+         "Number of enterprises": "1430"
+      },
+      {
+         "Country": "Malta",
+         "Number of enterprises": "1160"
+      }
+   ]
+}

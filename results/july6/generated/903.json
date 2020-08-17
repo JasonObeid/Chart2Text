@@ -1,0 +1,285 @@
+{
+   "title": "Share of people worldwide who believed vaccines can cause autism as of 2017",
+   "labels": [
+      "Country",
+      "True",
+      "Don't know",
+      "False"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows Share people on worldwide who in 2017 . ",
+      "In Argentina , 62 % of residents believe that worldwide who among adults is morally False . ",
+      "who before marriage 20 out of 18 people in Argentina , Australia Belgium , and Canada believed that engaging in who before marriage was True Don't ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "3"
+         ]
+      },
+      {
+         "3": [
+            "11",
+            "1"
+         ],
+         "6": [
+            "24",
+            "1"
+         ],
+         "9": [
+            "0",
+            "0"
+         ],
+         "11": [
+            "1",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ],
+         "16": [
+            "4",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "Argentina",
+         "True": "10",
+         "Don't know": "28",
+         "False": "62"
+      },
+      {
+         "Country": "Australia",
+         "True": "14",
+         "Don't know": "27",
+         "False": "59"
+      },
+      {
+         "Country": "Belgium",
+         "True": "9",
+         "Don't know": "51",
+         "False": "40"
+      },
+      {
+         "Country": "Brazil",
+         "True": "10",
+         "Don't know": "35",
+         "False": "54"
+      },
+      {
+         "Country": "Canada",
+         "True": "16",
+         "Don't know": "32",
+         "False": "52"
+      },
+      {
+         "Country": "Chile",
+         "True": "16",
+         "Don't know": "31",
+         "False": "53"
+      },
+      {
+         "Country": "China",
+         "True": "19",
+         "Don't know": "50",
+         "False": "31"
+      },
+      {
+         "Country": "Colombia",
+         "True": "14",
+         "Don't know": "44",
+         "False": "42"
+      },
+      {
+         "Country": "Denmark",
+         "True": "22",
+         "Don't know": "36",
+         "False": "42"
+      },
+      {
+         "Country": "France",
+         "True": "17",
+         "Don't know": "48",
+         "False": "35"
+      },
+      {
+         "Country": "Germany",
+         "True": "12",
+         "Don't know": "36",
+         "False": "52"
+      },
+      {
+         "Country": "Great Britain",
+         "True": "20",
+         "Don't know": "35",
+         "False": "45"
+      },
+      {
+         "Country": "Hong Kong",
+         "True": "22",
+         "Don't know": "50",
+         "False": "28"
+      },
+      {
+         "Country": "Hungary",
+         "True": "10",
+         "Don't know": "42",
+         "False": "48"
+      },
+      {
+         "Country": "India",
+         "True": "44",
+         "Don't know": "36",
+         "False": "20"
+      },
+      {
+         "Country": "Indonesia",
+         "True": "23",
+         "Don't know": "32",
+         "False": "45"
+      },
+      {
+         "Country": "Israel",
+         "True": "29",
+         "Don't know": "35",
+         "False": "36"
+      },
+      {
+         "Country": "Italy",
+         "True": "14",
+         "Don't know": "38",
+         "False": "48"
+      },
+      {
+         "Country": "Japan",
+         "True": "12",
+         "Don't know": "63",
+         "False": "25"
+      },
+      {
+         "Country": "Malaysia",
+         "True": "30",
+         "Don't know": "35",
+         "False": "34"
+      },
+      {
+         "Country": "Mexico",
+         "True": "14",
+         "Don't know": "28",
+         "False": "58"
+      },
+      {
+         "Country": "Montenegro",
+         "True": "44",
+         "Don't know": "30",
+         "False": "26"
+      },
+      {
+         "Country": "Netherlands",
+         "True": "11",
+         "Don't know": "40",
+         "False": "49"
+      },
+      {
+         "Country": "New Zealand",
+         "True": "16",
+         "Don't know": "31",
+         "False": "53"
+      },
+      {
+         "Country": "Norway",
+         "True": "18",
+         "Don't know": "23",
+         "False": "59"
+      },
+      {
+         "Country": "Peru",
+         "True": "17",
+         "Don't know": "39",
+         "False": "45"
+      },
+      {
+         "Country": "Philippines",
+         "True": "28",
+         "Don't know": "33",
+         "False": "39"
+      },
+      {
+         "Country": "Poland",
+         "True": "17",
+         "Don't know": "38",
+         "False": "45"
+      },
+      {
+         "Country": "Russia",
+         "True": "14",
+         "Don't know": "47",
+         "False": "39"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "True": "24",
+         "Don't know": "51",
+         "False": "25"
+      },
+      {
+         "Country": "Serbia",
+         "True": "27",
+         "Don't know": "40",
+         "False": "34"
+      },
+      {
+         "Country": "Singapore",
+         "True": "20",
+         "Don't know": "48",
+         "False": "32"
+      },
+      {
+         "Country": "South Africa",
+         "True": "30",
+         "Don't know": "35",
+         "False": "34"
+      },
+      {
+         "Country": "South Korea",
+         "True": "19",
+         "Don't know": "52",
+         "False": "30"
+      },
+      {
+         "Country": "Spain",
+         "True": "8",
+         "Don't know": "39",
+         "False": "53"
+      },
+      {
+         "Country": "Sweden",
+         "True": "25",
+         "Don't know": "24",
+         "False": "52"
+      },
+      {
+         "Country": "Turkey",
+         "True": "31",
+         "Don't know": "47",
+         "False": "22"
+      },
+      {
+         "Country": "USA",
+         "True": "19",
+         "Don't know": "29",
+         "False": "52"
+      }
+   ]
+}

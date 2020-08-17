@@ -1,0 +1,70 @@
+{
+   "title": "U.S. disposable personal income - monthly percentage of change 2019/20\n",
+   "xAxis": "Month",
+   "yAxis": "Monthly percentage of change",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 13 categories for the x axis representing Month, and a y axis representing Monthly percentage of change.",
+      " The highest category is found at Jan_'20 where Monthly percentage of change is 0.6.",
+      " The lowest category is found at Oct_'19 where Monthly percentage of change is 0.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Month": "Jan '20",
+         "Monthly percentage of change": 0.6
+      },
+      {
+         "Month": "Dec '19",
+         "Monthly percentage of change": 0.1
+      },
+      {
+         "Month": "Nov '19",
+         "Monthly percentage of change": 0.4
+      },
+      {
+         "Month": "Oct '19",
+         "Monthly percentage of change": 0.0
+      },
+      {
+         "Month": "Sep '19",
+         "Monthly percentage of change": 0.3
+      },
+      {
+         "Month": "Aug '19",
+         "Monthly percentage of change": 0.6
+      },
+      {
+         "Month": "Jul '19",
+         "Monthly percentage of change": 0.3
+      },
+      {
+         "Month": "Jun '19",
+         "Monthly percentage of change": 0.4
+      },
+      {
+         "Month": "May '19",
+         "Monthly percentage of change": 0.3
+      },
+      {
+         "Month": "Apr '19",
+         "Monthly percentage of change": 0.4
+      },
+      {
+         "Month": "Mar '19",
+         "Monthly percentage of change": 0.4
+      },
+      {
+         "Month": "Feb '19",
+         "Monthly percentage of change": 0.5
+      },
+      {
+         "Month": "Jan '19",
+         "Monthly percentage of change": 0.2
+      }
+   ]
+}

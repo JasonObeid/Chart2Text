@@ -1,0 +1,58 @@
+{
+   "title": "Leading Youtubers from the Netherlands based on subscribers 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Number of subscribers in thousands.",
+      " The highest category is found at Trap_City where Number of subscribers in thousands is 9333.53.",
+      " The lowest category is found at Ti\u00ebsto where Number of subscribers in thousands is 2485.82."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Month": "Trap City",
+         "Number of subscribers in thousands": 9333.53
+      },
+      {
+         "Month": "NikkieTutorials",
+         "Number of subscribers in thousands": 8883.0
+      },
+      {
+         "Month": "Martin Garrix",
+         "Number of subscribers in thousands": 8102.89
+      },
+      {
+         "Month": "Kwebbelkop",
+         "Number of subscribers in thousands": 7898.74
+      },
+      {
+         "Month": "Jelly",
+         "Number of subscribers in thousands": 7643.67
+      },
+      {
+         "Month": "Hardwell",
+         "Number of subscribers in thousands": 4084.03
+      },
+      {
+         "Month": "Armada Music",
+         "Number of subscribers in thousands": 3261.56
+      },
+      {
+         "Month": "saskiasdansschool",
+         "Number of subscribers in thousands": 3032.43
+      },
+      {
+         "Month": "NiceNienke",
+         "Number of subscribers in thousands": 2622.09
+      },
+      {
+         "Month": "Ti\u00ebsto",
+         "Number of subscribers in thousands": 2485.82
+      }
+   ]
+}

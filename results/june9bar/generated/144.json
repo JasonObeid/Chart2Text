@@ -1,0 +1,98 @@
+{
+   "title": "Canada : Gross Domestic Product ( GDP ) by industry December 2019",
+   "xAxis": "Industry",
+   "yAxis": "GDP in million chained 2012 Canadian dollars",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the average GDP of Canada chained fourth as of Canada industry as of 2019 , Industry . ",
+      "In 2019 , there were a GDP of 142028 million in industry ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "4"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Real estate and rental and leasing",
+         "GDP in million chained 2012 Canadian dollars": "254294"
+      },
+      {
+         "Industry": "Manufacturing",
+         "GDP in million chained 2012 Canadian dollars": "199234"
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "GDP in million chained 2012 Canadian dollars": "145909"
+      },
+      {
+         "Industry": "Construction",
+         "GDP in million chained 2012 Canadian dollars": "142530"
+      },
+      {
+         "Industry": "Health care and social assistance",
+         "GDP in million chained 2012 Canadian dollars": "142028"
+      },
+      {
+         "Industry": "Public administration",
+         "GDP in million chained 2012 Canadian dollars": "134370"
+      },
+      {
+         "Industry": "Finance and insurance",
+         "GDP in million chained 2012 Canadian dollars": "133599"
+      },
+      {
+         "Industry": "Professional scientific and technical services",
+         "GDP in million chained 2012 Canadian dollars": "120820"
+      },
+      {
+         "Industry": "Educational services",
+         "GDP in million chained 2012 Canadian dollars": "104771"
+      },
+      {
+         "Industry": "Wholesale trade",
+         "GDP in million chained 2012 Canadian dollars": "103082"
+      },
+      {
+         "Industry": "Retail trade",
+         "GDP in million chained 2012 Canadian dollars": "102619"
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "GDP in million chained 2012 Canadian dollars": "89599"
+      },
+      {
+         "Industry": "Information and cultural industries",
+         "GDP in million chained 2012 Canadian dollars": "64323"
+      },
+      {
+         "Industry": "Administrative and support waste management and remediation services",
+         "GDP in million chained 2012 Canadian dollars": "52649"
+      },
+      {
+         "Industry": "Accommodation and food services",
+         "GDP in million chained 2012 Canadian dollars": "45160"
+      },
+      {
+         "Industry": "Utilities",
+         "GDP in million chained 2012 Canadian dollars": "43668"
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "GDP in million chained 2012 Canadian dollars": "40058"
+      },
+      {
+         "Industry": "Other services (except public administration)",
+         "GDP in million chained 2012 Canadian dollars": "38127"
+      },
+      {
+         "Industry": "Arts entertainment and recreation",
+         "GDP in million chained 2012 Canadian dollars": "15699"
+      },
+      {
+         "Industry": "Management of companies and enterprises",
+         "GDP in million chained 2012 Canadian dollars": "9303"
+      }
+   ]
+}

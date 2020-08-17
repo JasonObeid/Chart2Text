@@ -1,0 +1,43 @@
+{
+   "title": "Global datacenter colocation revenue 2014 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion U.S. dollars with a total of 5 data points. The chart has one significant trend.",
+      " This trend is extremely negative which exists from 2023 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=3.48x+-6983.13",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Revenue in billion U.S. dollars": 54.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in billion U.S. dollars": 38.2
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion U.S. dollars": 28.9
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": 27.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": 22.8
+      }
+   ]
+}

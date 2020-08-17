@@ -1,0 +1,54 @@
+{
+   "title": "U.S. teens : most frequently accessed social networks 2019\n",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents who use network most often",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Platform, and a y axis representing Share of respondents who use network most often.",
+      " The highest category is found at Instagram where Share of respondents who use network most often is 25.0.",
+      " The lowest category is found at Other where Share of respondents who use network most often is 1.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 7
+   },
+   "data": [
+      {
+         "Platform": "Instagram",
+         "Share of respondents who use network most often": 25.0
+      },
+      {
+         "Platform": "Facebook",
+         "Share of respondents who use network most often": 24.0
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents who use network most often": 22.0
+      },
+      {
+         "Platform": "YouTube",
+         "Share of respondents who use network most often": 16.0
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents who use network most often": 5.0
+      },
+      {
+         "Platform": "WhatsApp",
+         "Share of respondents who use network most often": 4.0
+      },
+      {
+         "Platform": "TikTok",
+         "Share of respondents who use network most often": 2.0
+      },
+      {
+         "Platform": "Other",
+         "Share of respondents who use network most often": 1.0
+      },
+      {
+         "Platform": "Don't know",
+         "Share of respondents who use network most often": 1.0
+      }
+   ]
+}

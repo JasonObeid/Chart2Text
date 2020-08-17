@@ -1,0 +1,38 @@
+{
+   "title": "Consumer Price Index of all urban consumers , by region 2019\n",
+   "xAxis": "Country",
+   "yAxis": "Consumer Price Index (100=1982-1984)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Country, and a y axis representing Consumer Price Index (100=1982-1984).",
+      " The highest category is found at West where Consumer Price Index (100=1982-1984) is 270.35.",
+      " The lowest category is found at Midwest where Consumer Price Index (100=1982-1984) is 237.78."
+   ],
+   "trends": {
+      "maxIndex": 4,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Country": "U.S. city average",
+         "Consumer Price Index (100=1982-1984)": 255.66
+      },
+      {
+         "Country": "Northeast",
+         "Consumer Price Index (100=1982-1984)": 269.39
+      },
+      {
+         "Country": "Midwest",
+         "Consumer Price Index (100=1982-1984)": 237.78
+      },
+      {
+         "Country": "South",
+         "Consumer Price Index (100=1982-1984)": 246.27
+      },
+      {
+         "Country": "West",
+         "Consumer Price Index (100=1982-1984)": 270.35
+      }
+   ]
+}

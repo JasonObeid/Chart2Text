@@ -1,0 +1,104 @@
+{
+   "title": "Franchise value of the Washington Redskins ( NFL ) 2002 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2017 to 2010.",
+      " On the other hand, the next significant trend is  negative which exists from 2009 to 2002."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 2,
+         "end": 9,
+         "trend": "y=265.18x+-531723.93",
+         "magnitude": ""
+      },
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 10,
+         "end": 17,
+         "trend": "y=108.49x+-216305.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": 3400.0
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": 3100.0
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": 3100.0
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": 2950.0
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": 2850.0
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": 2400.0
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": 1700.0
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": 1600.0
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": 1555.0
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": 1550.0
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": 1550.0
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": 1538.0
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": 1467.0
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": 1423.0
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": 1264.0
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": 1104.0
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": 952.0
+      },
+      {
+         "Year": "2002",
+         "Franchise value in million U.S. dollars": 845.0
+      }
+   ]
+}

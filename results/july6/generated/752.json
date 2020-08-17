@@ -1,0 +1,51 @@
+{
+   "title": "Disneyland Paris visitors spending per day 2006 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Average spend in euros (excluding VAT)",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Paris Average worldwide from 2010 to 2016 . ",
+      "During the marketing Year 2013 , Disneyland Paris Paris Average amounted to about 45.3 million euros (excluding ."
+   ],
+   "trends": [
+      {
+         "8": "6",
+         "10": "0"
+      },
+      {
+         "4": "3",
+         "12": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Average spend in euros (excluding VAT)": "54.0"
+      },
+      {
+         "Year": "2015",
+         "Average spend in euros (excluding VAT)": "53.7"
+      },
+      {
+         "Year": "2014",
+         "Average spend in euros (excluding VAT)": "50.7"
+      },
+      {
+         "Year": "2013",
+         "Average spend in euros (excluding VAT)": "48.1"
+      },
+      {
+         "Year": "2012",
+         "Average spend in euros (excluding VAT)": "46.4"
+      },
+      {
+         "Year": "2011",
+         "Average spend in euros (excluding VAT)": "46.2"
+      },
+      {
+         "Year": "2010",
+         "Average spend in euros (excluding VAT)": "45.3"
+      }
+   ]
+}

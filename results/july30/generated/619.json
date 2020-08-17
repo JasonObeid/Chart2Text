@@ -1,0 +1,58 @@
+{
+   "title": "Forbes ranking of the 10 richest people in Italy 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Wealth in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Wealth in billion U.S. dollars.",
+      " The highest category is found at Leonardo_Del_Vecchio where Wealth in billion U.S. dollars is 24.4.",
+      " The lowest category is found at Ennio_Doris where Wealth in billion U.S. dollars is 3.3."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Month": "Leonardo Del Vecchio",
+         "Wealth in billion U.S. dollars": 24.4
+      },
+      {
+         "Month": "Giovanni Ferrero",
+         "Wealth in billion U.S. dollars": 21.9
+      },
+      {
+         "Month": "Giorgio Armani",
+         "Wealth in billion U.S. dollars": 11.2
+      },
+      {
+         "Month": "Stefano Pessina",
+         "Wealth in billion U.S. dollars": 10.4
+      },
+      {
+         "Month": "Massimiliana Landini Aleotti",
+         "Wealth in billion U.S. dollars": 8.1
+      },
+      {
+         "Month": "Silvio Berlusconi",
+         "Wealth in billion U.S. dollars": 7.0
+      },
+      {
+         "Month": "Augusto e Giorgio Perfetti",
+         "Wealth in billion U.S. dollars": 6.9
+      },
+      {
+         "Month": "Paolo and Gianfelice Rocca",
+         "Wealth in billion U.S. dollars": 3.7
+      },
+      {
+         "Month": "Piero Ferrari",
+         "Wealth in billion U.S. dollars": 3.4
+      },
+      {
+         "Month": "Ennio Doris",
+         "Wealth in billion U.S. dollars": 3.3
+      }
+   ]
+}

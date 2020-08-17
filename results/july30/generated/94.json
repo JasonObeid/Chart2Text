@@ -1,0 +1,55 @@
+{
+   "title": "Value of the global eyewear market from 2018 to 2025\n",
+   "xAxis": "Year",
+   "yAxis": "Market value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Market value in billion U.S. dollars with a total of 8 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2025 to 2018."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 0,
+         "end": 7,
+         "trend": "y=11.34x+-22752.75",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2025",
+         "Market value in billion U.S. dollars": 210.87
+      },
+      {
+         "Year": "2024",
+         "Market value in billion U.S. dollars": 197.08
+      },
+      {
+         "Year": "2023",
+         "Market value in billion U.S. dollars": 184.18
+      },
+      {
+         "Year": "2022",
+         "Market value in billion U.S. dollars": 172.13
+      },
+      {
+         "Year": "2021",
+         "Market value in billion U.S. dollars": 160.87
+      },
+      {
+         "Year": "2020",
+         "Market value in billion U.S. dollars": 150.35
+      },
+      {
+         "Year": "2019",
+         "Market value in billion U.S. dollars": 140.51
+      },
+      {
+         "Year": "2018",
+         "Market value in billion U.S. dollars": 131.32
+      }
+   ]
+}

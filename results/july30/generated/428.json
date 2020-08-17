@@ -1,0 +1,46 @@
+{
+   "title": "Tour de France : Spanish winners until 2018\n",
+   "xAxis": "Cyclists",
+   "yAxis": "Number of victories",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Cyclists, and a y axis representing Number of victories.",
+      " The highest category is found at Miguel_Indur\u00e1in_(1991_1992_1993_1994_and_1995) where Number of victories is 5.0.",
+      " The lowest category is found at Carlos_Sastre_(2008) where Number of victories is 1.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Cyclists": "Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995)",
+         "Number of victories": 5.0
+      },
+      {
+         "Cyclists": "Alberto Contador (2007 and 2009)",
+         "Number of victories": 2.0
+      },
+      {
+         "Cyclists": "Carlos Sastre (2008)",
+         "Number of victories": 1.0
+      },
+      {
+         "Cyclists": "\u00d3scar Pereiro (2006)",
+         "Number of victories": 1.0
+      },
+      {
+         "Cyclists": "Perico Delgado (1988)",
+         "Number of victories": 1.0
+      },
+      {
+         "Cyclists": "Luis Oca\u00f1a (1973)",
+         "Number of victories": 1.0
+      },
+      {
+         "Cyclists": "Federico Mart\u00edn Bahamontes (1959)",
+         "Number of victories": 1.0
+      }
+   ]
+}

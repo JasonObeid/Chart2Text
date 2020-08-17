@@ -1,0 +1,94 @@
+{
+   "title": "Arsenal FC revenue by stream 2018/19",
+   "labels": [
+      "Season",
+      "Matchday",
+      "Broadcasting",
+      "Commercial"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "Broadcasting is the largest source of revenue for Arsenal . ",
+      "In 2018/2019 , the club earned approximately 210.6 million euros from Broadcasting , more than triple in 2010/2011 . ",
+      "The second biggest revenue stream is the Commercial one ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Season": "2018/19",
+         "Matchday": "109.2",
+         "Broadcasting": "210.6",
+         "Commercial": "125.8"
+      },
+      {
+         "Season": "2017/18",
+         "Matchday": "111.6",
+         "Broadcasting": "206.9",
+         "Commercial": "120.7"
+      },
+      {
+         "Season": "2016/17",
+         "Matchday": "116.4",
+         "Broadcasting": "234.7",
+         "Commercial": "136.5"
+      },
+      {
+         "Season": "2015/16",
+         "Matchday": "133.6",
+         "Broadcasting": "192.0",
+         "Commercial": "142.9"
+      },
+      {
+         "Season": "2014/15",
+         "Matchday": "132.0",
+         "Broadcasting": "167.7",
+         "Commercial": "135.8"
+      },
+      {
+         "Season": "2013/14",
+         "Matchday": "119.8",
+         "Broadcasting": "147.3",
+         "Commercial": "92.2"
+      },
+      {
+         "Season": "2012/13",
+         "Matchday": "108.3",
+         "Broadcasting": "103.2",
+         "Commercial": "72.8"
+      },
+      {
+         "Season": "2011/12",
+         "Matchday": "117.7",
+         "Broadcasting": "107.7",
+         "Commercial": "64.9"
+      },
+      {
+         "Season": "2010/11",
+         "Matchday": "103.2",
+         "Broadcasting": "96.7",
+         "Commercial": "51.2"
+      },
+      {
+         "Season": "2009/10",
+         "Matchday": "114.7",
+         "Broadcasting": "105.7",
+         "Commercial": "53.7"
+      },
+      {
+         "Season": "2008/09",
+         "Matchday": "117.5",
+         "Broadcasting": "89.0",
+         "Commercial": "56.5"
+      }
+   ]
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Age distribution of mobile gamers in the U.S. 2013\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of respondents with a total of 6 data points. The chart has one significant trend.",
+      " This trend is extremely positive which exists from 18-24 to 65+."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 0,
+         "end": 5,
+         "trend": "y=0.0x+7.98",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-24",
+         "Percentage of respondents": 7.0
+      },
+      {
+         "Year": "25-34",
+         "Percentage of respondents": 17.0
+      },
+      {
+         "Year": "35-44",
+         "Percentage of respondents": 19.0
+      },
+      {
+         "Year": "45-54",
+         "Percentage of respondents": 22.0
+      },
+      {
+         "Year": "55-64",
+         "Percentage of respondents": 24.0
+      },
+      {
+         "Year": "65+",
+         "Percentage of respondents": 11.0
+      }
+   ]
+}

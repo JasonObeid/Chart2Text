@@ -1,0 +1,32 @@
+{
+   "title": "Home renovators in the U.S. 2018 , by age",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a 2018 survey among adult Cubans living in U.S. on their opinion of renovators U.S. , their former President . ",
+      "55 % of respondents stated they have a very or somewhat 35-54 opinion of renovators U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "25-34",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "35-54",
+         "Share of respondents": "38"
+      },
+      {
+         "Response": "55+",
+         "Share of respondents": "55"
+      }
+   ]
+}

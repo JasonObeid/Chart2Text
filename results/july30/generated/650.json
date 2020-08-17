@@ -1,0 +1,52 @@
+{
+   "title": "Global NAND memory bit market share 2020 , by application",
+   "labels": [
+      "Race",
+      "2019",
+      "2020"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 6 categories for the x axis of Race representing 2019, and 2020.",
+      " The highest category is found at Smartphone with a mean value of 35.5.",
+      " The second highest category is found at SSD (client enterprise) with a mean value of 29.0.",
+      " This represents a difference of 20.2%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Race": "Smartphone",
+         "2019": "35",
+         "2020": "36"
+      },
+      {
+         "Race": "SSD (client enterprise)",
+         "2019": "28",
+         "2020": "30"
+      },
+      {
+         "Race": "Memory card",
+         "2019": "15",
+         "2020": "13"
+      },
+      {
+         "Race": "Tablet PC",
+         "2019": "12",
+         "2020": "11"
+      },
+      {
+         "Race": "Consumer",
+         "2019": "7",
+         "2020": "7"
+      },
+      {
+         "Race": "Other",
+         "2019": "3",
+         "2020": "3"
+      }
+   ]
+}

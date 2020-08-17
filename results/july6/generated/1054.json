@@ -1,0 +1,29 @@
+{
+   "title": "Share of Americans who believe in true love in 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a Share among adult Americans who have one or more who . ",
+      "The Share was conducted in 2019 , asking the respondents whether they ever regret getting any of their who , or not . ",
+      "94 % of respondents stated they do not regret getting any of their who ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes",
+         "Share of respondents": "94"
+      },
+      {
+         "Response": "No",
+         "Share of respondents": "6"
+      }
+   ]
+}

@@ -1,0 +1,75 @@
+{
+   "title": "France : number of public primary schools 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of public schools",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of public at primary establishments in France from 2005 to 2018 . ",
+      "In 2018 , the Number of public in travel primary ( including both international and domestic tourists ) amounted to approximately 44902 million ."
+   ],
+   "trends": [
+      {
+         "14": "12",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of public schools": "44902"
+      },
+      {
+         "Year": "2017",
+         "Number of public schools": "45401"
+      },
+      {
+         "Year": "2016",
+         "Number of public schools": "45877"
+      },
+      {
+         "Year": "2015",
+         "Number of public schools": "46435"
+      },
+      {
+         "Year": "2014",
+         "Number of public schools": "46962"
+      },
+      {
+         "Year": "2013",
+         "Number of public schools": "47306"
+      },
+      {
+         "Year": "2012",
+         "Number of public schools": "47672"
+      },
+      {
+         "Year": "2011",
+         "Number of public schools": "48139"
+      },
+      {
+         "Year": "2010",
+         "Number of public schools": "48522"
+      },
+      {
+         "Year": "2009",
+         "Number of public schools": "48975"
+      },
+      {
+         "Year": "2008",
+         "Number of public schools": "49498"
+      },
+      {
+         "Year": "2007",
+         "Number of public schools": "49928"
+      },
+      {
+         "Year": "2005",
+         "Number of public schools": "50668"
+      }
+   ]
+}

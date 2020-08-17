@@ -1,0 +1,49 @@
+{
+   "title": "Biggest U.S. government cyber security problems according to U.S. adults 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey about the most government cyber security problems in according as of 2018 . ",
+      "During the survey , 72 % of the respondents stated that Hacking_by_foreign_governments ( Securing_confidential_intelligence_reports and Hacking_by_foreign_governments ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "11": "0",
+         "13": "1",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Hacking by foreign governments",
+         "Share of respondents": "72"
+      },
+      {
+         "Response": "Securing confidential intelligence reports",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "Securing citizen records (ex. IRS filings)",
+         "Share of respondents": "17"
+      },
+      {
+         "Response": "Eavesdropping through smart technology",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "Securing records of military personnel",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "Interfering with elections through propaganda",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Interfering with elections by hacking the counting of ballots",
+         "Share of respondents": "8"
+      }
+   ]
+}

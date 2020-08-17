@@ -1,0 +1,87 @@
+{
+   "title": "Annual net sales of Amazon 2004 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Net revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars with a total of 16 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2019 to 2004."
+   ],
+   "trends": [
+      {
+         "Length": 16,
+         "direction": "negative",
+         "start": 0,
+         "end": 15,
+         "trend": "y=16.21x+-32519.27",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net revenue in billion U.S. dollars": 280.52
+      },
+      {
+         "Year": "2018",
+         "Net revenue in billion U.S. dollars": 232.89
+      },
+      {
+         "Year": "2017",
+         "Net revenue in billion U.S. dollars": 177.87
+      },
+      {
+         "Year": "2016",
+         "Net revenue in billion U.S. dollars": 135.99
+      },
+      {
+         "Year": "2015",
+         "Net revenue in billion U.S. dollars": 107.01
+      },
+      {
+         "Year": "2014",
+         "Net revenue in billion U.S. dollars": 88.99
+      },
+      {
+         "Year": "2013",
+         "Net revenue in billion U.S. dollars": 74.45
+      },
+      {
+         "Year": "2012",
+         "Net revenue in billion U.S. dollars": 61.09
+      },
+      {
+         "Year": "2011",
+         "Net revenue in billion U.S. dollars": 48.08
+      },
+      {
+         "Year": "2010",
+         "Net revenue in billion U.S. dollars": 34.2
+      },
+      {
+         "Year": "2009",
+         "Net revenue in billion U.S. dollars": 24.51
+      },
+      {
+         "Year": "2008",
+         "Net revenue in billion U.S. dollars": 19.17
+      },
+      {
+         "Year": "2007",
+         "Net revenue in billion U.S. dollars": 14.84
+      },
+      {
+         "Year": "2006",
+         "Net revenue in billion U.S. dollars": 10.71
+      },
+      {
+         "Year": "2005",
+         "Net revenue in billion U.S. dollars": 8.49
+      },
+      {
+         "Year": "2004",
+         "Net revenue in billion U.S. dollars": 6.92
+      }
+   ]
+}

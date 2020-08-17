@@ -1,0 +1,82 @@
+{
+   "title": "Real GDP of Michigan 2018 , by industry",
+   "xAxis": "Industry",
+   "yAxis": "Real value added in billion chained (2012) U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the Manufacturing value added to the Gross Domestic Product ( GDP ) of Michigan in 2018 , by Industry . ",
+      "In 2018 , the Transportation_and_warehousing Industry added 11.63 billion chained 2012 U.S. dollars of value to the state GDP ."
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {
+         "4": "10",
+         "7": "10"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Manufacturing",
+         "Real value added in billion chained (2012) U.S. dollars": "88.79"
+      },
+      {
+         "Industry": "Finance insurance real estate rental and leasing",
+         "Real value added in billion chained (2012) U.S. dollars": "76.55"
+      },
+      {
+         "Industry": "Professional and business services",
+         "Real value added in billion chained (2012) U.S. dollars": "65.72"
+      },
+      {
+         "Industry": "Government and government enterprises",
+         "Real value added in billion chained (2012) U.S. dollars": "47.6"
+      },
+      {
+         "Industry": "Educational services health care and social assistance",
+         "Real value added in billion chained (2012) U.S. dollars": "44.72"
+      },
+      {
+         "Industry": "Wholesale trade",
+         "Real value added in billion chained (2012) U.S. dollars": "32.33"
+      },
+      {
+         "Industry": "Retail trade",
+         "Real value added in billion chained (2012) U.S. dollars": "31.09"
+      },
+      {
+         "Industry": "Construction",
+         "Real value added in billion chained (2012) U.S. dollars": "16.71"
+      },
+      {
+         "Industry": "Arts entertainment recreation accommodation and food services",
+         "Real value added in billion chained (2012) U.S. dollars": "15.81"
+      },
+      {
+         "Industry": "Information",
+         "Real value added in billion chained (2012) U.S. dollars": "14.24"
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Real value added in billion chained (2012) U.S. dollars": "11.63"
+      },
+      {
+         "Industry": "Other services (except government and government enterprises)",
+         "Real value added in billion chained (2012) U.S. dollars": "10.14"
+      },
+      {
+         "Industry": "Utilities",
+         "Real value added in billion chained (2012) U.S. dollars": "9.24"
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "Real value added in billion chained (2012) U.S. dollars": "4.23"
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "Real value added in billion chained (2012) U.S. dollars": "2.36"
+      }
+   ]
+}

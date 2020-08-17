@@ -1,0 +1,107 @@
+{
+   "title": "Cost of EpiPens in the U.S. 2004 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Cost of EpiPens in U.S. Dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Cost of EpiPens in the EpiPens U.S. from 1st_November_2004 to 27th_July_2012 . ",
+      "In 27th_July_2012 , there were a total 608.61 EpiPens reported in the 2004 ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "14": "12"
+      },
+      {
+         "1": "12",
+         "7": "20"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1st November 2004",
+         "Cost of EpiPens in U.S. Dollars": "106.32"
+      },
+      {
+         "Year": "23rd February 2005",
+         "Cost of EpiPens in U.S. Dollars": "106.96"
+      },
+      {
+         "Year": "23rd February 2006",
+         "Cost of EpiPens in U.S. Dollars": "107.76"
+      },
+      {
+         "Year": "22nd February 2007",
+         "Cost of EpiPens in U.S. Dollars": "108.96"
+      },
+      {
+         "Year": "16th January 2008",
+         "Cost of EpiPens in U.S. Dollars": "110.18"
+      },
+      {
+         "Year": "14th January 2009",
+         "Cost of EpiPens in U.S. Dollars": "116.1"
+      },
+      {
+         "Year": "12th October 2009",
+         "Cost of EpiPens in U.S. Dollars": "139.42"
+      },
+      {
+         "Year": "3rd August 2010",
+         "Cost of EpiPens in U.S. Dollars": "150.76"
+      },
+      {
+         "Year": "15th December 2010",
+         "Cost of EpiPens in U.S. Dollars": "165.68"
+      },
+      {
+         "Year": "12th May 2011",
+         "Cost of EpiPens in U.S. Dollars": "176.5"
+      },
+      {
+         "Year": "18th October 2011",
+         "Cost of EpiPens in U.S. Dollars": "193.96"
+      },
+      {
+         "Year": "6th March 2012",
+         "Cost of EpiPens in U.S. Dollars": "208.84"
+      },
+      {
+         "Year": "27th July 2012",
+         "Cost of EpiPens in U.S. Dollars": "229.52"
+      },
+      {
+         "Year": "7th November 2012",
+         "Cost of EpiPens in U.S. Dollars": "252.24"
+      },
+      {
+         "Year": "17th July 2013",
+         "Cost of EpiPens in U.S. Dollars": "273.24"
+      },
+      {
+         "Year": "8th November 2013",
+         "Cost of EpiPens in U.S. Dollars": "313.94"
+      },
+      {
+         "Year": "2nd May 2014",
+         "Cost of EpiPens in U.S. Dollars": "354.94"
+      },
+      {
+         "Year": "5th Nov 2014",
+         "Cost of EpiPens in U.S. Dollars": "407.84"
+      },
+      {
+         "Year": "1st May 2015",
+         "Cost of EpiPens in U.S. Dollars": "468.06"
+      },
+      {
+         "Year": "23rd November 2015",
+         "Cost of EpiPens in U.S. Dollars": "537.8"
+      },
+      {
+         "Year": "16th May 2016",
+         "Cost of EpiPens in U.S. Dollars": "608.61"
+      }
+   ]
+}

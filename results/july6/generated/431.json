@@ -1,0 +1,52 @@
+{
+   "title": "Net sales share of Est\u00e9e Lauder worldwide 2017 , by distribution channel",
+   "xAxis": "Distribution channel",
+   "yAxis": "Net sales share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts the Distribution of channel share per day in the Est\u00e9e Lauder ( ) in 2017 . ",
+      "Approximately 69 % of sales share between Department_stores and Freestanding_retail_stores channel Est\u00e9e in that year ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "9": "2"
+      }
+   ],
+   "data": [
+      {
+         "Distribution channel": "Department stores",
+         "Net sales share": "42"
+      },
+      {
+         "Distribution channel": "Travel retail",
+         "Net sales share": "14"
+      },
+      {
+         "Distribution channel": "Freestanding retail stores",
+         "Net sales share": "11"
+      },
+      {
+         "Distribution channel": "Specialty-multi",
+         "Net sales share": "11"
+      },
+      {
+         "Distribution channel": "Perfumeries",
+         "Net sales share": "5"
+      },
+      {
+         "Distribution channel": "Salon and spa",
+         "Net sales share": "3"
+      },
+      {
+         "Distribution channel": "Online",
+         "Net sales share": "7"
+      },
+      {
+         "Distribution channel": "Other",
+         "Net sales share": "7"
+      }
+   ]
+}

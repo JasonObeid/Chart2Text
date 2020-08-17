@@ -1,0 +1,32 @@
+{
+   "title": "Number of U.S. Pinterest users 2017 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the U.S. Pinterest of users millions in Pinterest as of October 2017 . ",
+      "During this period of time , 32.6 millions of Indian users millions were Female . ",
+      "The majority of users millions were Male ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "13": "0"
+      },
+      {
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Number of users in millions": "58.9"
+      },
+      {
+         "Sex": "Male",
+         "Number of users in millions": "32.6"
+      }
+   ]
+}

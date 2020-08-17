@@ -1,0 +1,75 @@
+{
+   "title": "Arizona Diamondbacks average ticket price 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average ticket price for Arizona Diamondbacks Dodgers games in Major League Baseball from 2006 to 2019 . ",
+      "In 2019 , the Average ticket price was at 20.86 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "16": "12",
+         "18": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": "20.86"
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": "19.65"
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": "18.53"
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": "17.98"
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": "17.98"
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": "16.89"
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": "15.74"
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": "15.74"
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": "14.31"
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": "14.31"
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": "15.96"
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": "13.79"
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": "19.68"
+      }
+   ]
+}

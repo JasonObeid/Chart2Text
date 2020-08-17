@@ -1,0 +1,88 @@
+{
+   "title": "Refugees arriving by age U.S. 2018",
+   "xAxis": "Age in years",
+   "yAxis": "Number of persons",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Refugees arriving by of U.S. from 75_years_and_over 2018 to . ",
+      "In 2018 , the Number of 20_to_24_years had an average of 2442 million persons ."
+   ],
+   "trends": [
+      {
+         "10": "16"
+      },
+      {
+         "7": "5"
+      }
+   ],
+   "data": [
+      {
+         "Age in years": "Under 1 year",
+         "Number of persons": "50"
+      },
+      {
+         "Age in years": "1 to 4 years",
+         "Number of persons": "2442"
+      },
+      {
+         "Age in years": "5 to 9 years",
+         "Number of persons": "2914"
+      },
+      {
+         "Age in years": "10 to 14 years",
+         "Number of persons": "2706"
+      },
+      {
+         "Age in years": "15 to 19 years",
+         "Number of persons": "2692"
+      },
+      {
+         "Age in years": "20 to 24 years",
+         "Number of persons": "2383"
+      },
+      {
+         "Age in years": "25 to 29 years",
+         "Number of persons": "1952"
+      },
+      {
+         "Age in years": "30 to 34 years",
+         "Number of persons": "1910"
+      },
+      {
+         "Age in years": "35 to 39 years",
+         "Number of persons": "1418"
+      },
+      {
+         "Age in years": "40 to 44 years",
+         "Number of persons": "1073"
+      },
+      {
+         "Age in years": "45 to 49 years",
+         "Number of persons": "872"
+      },
+      {
+         "Age in years": "50 to 54 years",
+         "Number of persons": "621"
+      },
+      {
+         "Age in years": "55 to 59 years",
+         "Number of persons": "447"
+      },
+      {
+         "Age in years": "60 to 64 years",
+         "Number of persons": "334"
+      },
+      {
+         "Age in years": "65 to 69 years",
+         "Number of persons": "269"
+      },
+      {
+         "Age in years": "70 to 74 years",
+         "Number of persons": "159"
+      },
+      {
+         "Age in years": "75 years and over",
+         "Number of persons": "163"
+      }
+   ]
+}

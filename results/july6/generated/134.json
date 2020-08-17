@@ -1,0 +1,109 @@
+{
+   "title": "Average annual wages in Germany 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average annual wages in euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "Between 2000 and 2018 the Average annual of the Germany fluctuated between a high of 40522 34711 wages 1,000 people in 2018 and a low of 34711 in 2000 . ",
+      "From 2011 onwards the Average annual creeped up slightly and in the most recent Year of 2018 , reached 40522 Over 616 thousand deaths in 2018 alone Although there was a net decrease of around three thousand deaths recorded in the Germany between 2000 and 2018 , the Year with the lowest number of deaths was 2011 when there were just over 552 thousand deaths recorded ."
+   ],
+   "trends": [
+      {
+         "1": "18",
+         "3": "0",
+         "15": "0",
+         "16": "18",
+         "21": "0",
+         "26": "18",
+         "28": "18"
+      },
+      {
+         "1": "7",
+         "16": "0",
+         "19": "0",
+         "25": "0",
+         "43": "18",
+         "45": "0",
+         "56": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average annual wages in euros": "40522"
+      },
+      {
+         "Year": "2017",
+         "Average annual wages in euros": "39991"
+      },
+      {
+         "Year": "2016",
+         "Average annual wages in euros": "39041"
+      },
+      {
+         "Year": "2015",
+         "Average annual wages in euros": "38471"
+      },
+      {
+         "Year": "2014",
+         "Average annual wages in euros": "37652"
+      },
+      {
+         "Year": "2013",
+         "Average annual wages in euros": "37084"
+      },
+      {
+         "Year": "2012",
+         "Average annual wages in euros": "36642"
+      },
+      {
+         "Year": "2011",
+         "Average annual wages in euros": "36228"
+      },
+      {
+         "Year": "2010",
+         "Average annual wages in euros": "35621"
+      },
+      {
+         "Year": "2009",
+         "Average annual wages in euros": "35462"
+      },
+      {
+         "Year": "2008",
+         "Average annual wages in euros": "35322"
+      },
+      {
+         "Year": "2007",
+         "Average annual wages in euros": "35100"
+      },
+      {
+         "Year": "2006",
+         "Average annual wages in euros": "35160"
+      },
+      {
+         "Year": "2005",
+         "Average annual wages in euros": "35132"
+      },
+      {
+         "Year": "2004",
+         "Average annual wages in euros": "35193"
+      },
+      {
+         "Year": "2003",
+         "Average annual wages in euros": "35195"
+      },
+      {
+         "Year": "2002",
+         "Average annual wages in euros": "35241"
+      },
+      {
+         "Year": "2001",
+         "Average annual wages in euros": "35058"
+      },
+      {
+         "Year": "2000",
+         "Average annual wages in euros": "34711"
+      }
+   ]
+}

@@ -1,0 +1,67 @@
+{
+   "title": "Urbanization in the Netherlands 2018",
+   "xAxis": "Year",
+   "yAxis": "Proportion of urban population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Proportion of urban population in Netherlands from 2008 to 2018 . ",
+      "In 2018 , the average Proportion of population in Netherlands was 91.49 urban population ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Proportion of urban population": "91.49"
+      },
+      {
+         "Year": "2017",
+         "Proportion of urban population": "91.08"
+      },
+      {
+         "Year": "2016",
+         "Proportion of urban population": "90.64"
+      },
+      {
+         "Year": "2015",
+         "Proportion of urban population": "90.17"
+      },
+      {
+         "Year": "2014",
+         "Proportion of urban population": "89.69"
+      },
+      {
+         "Year": "2013",
+         "Proportion of urban population": "89.19"
+      },
+      {
+         "Year": "2012",
+         "Proportion of urban population": "88.59"
+      },
+      {
+         "Year": "2011",
+         "Proportion of urban population": "87.88"
+      },
+      {
+         "Year": "2010",
+         "Proportion of urban population": "87.13"
+      },
+      {
+         "Year": "2009",
+         "Proportion of urban population": "86.29"
+      },
+      {
+         "Year": "2008",
+         "Proportion of urban population": "85.4"
+      }
+   ]
+}

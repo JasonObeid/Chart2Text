@@ -1,0 +1,119 @@
+{
+   "title": "Engine manufacturing : volume of engines produced in the UK 2009 - 2016 , by manufacturer",
+   "labels": [
+      "Manufacturer",
+      "Bentley",
+      "BMW",
+      "Ford (Bridgend)",
+      "Ford (Dagenham)",
+      "Honda",
+      "Nissan",
+      "Toyota",
+      "Jaguar Land Rover"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the global manufacturing manufacturer engines produced as of 2017 , 2016 manufacturing volume size . ",
+      "During the survey period , it was found that Ford accounted for 689227 % of single-word manufacturing queries UK ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": [
+            "1",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Manufacturer": "2016",
+         "Bentley": "12728",
+         "BMW": "257106",
+         "Ford (Bridgend)": "659312",
+         "Ford (Dagenham)": "781501",
+         "Honda": "132371",
+         "Nissan": "264743",
+         "Toyota": "239287",
+         "Jaguar Land Rover": "201103"
+      },
+      {
+         "Manufacturer": "2015",
+         "Bentley": "11842",
+         "BMW": "170530",
+         "Ford (Bridgend)": "689227",
+         "Ford (Dagenham)": "918969",
+         "Honda": "125529",
+         "Nissan": "251059",
+         "Toyota": "203689",
+         "Jaguar Land Rover": "0"
+      },
+      {
+         "Manufacturer": "2014",
+         "Bentley": "10614",
+         "BMW": "226133",
+         "Ford (Bridgend)": "701392",
+         "Ford (Dagenham)": "831888",
+         "Honda": "118638",
+         "Nissan": "279385",
+         "Toyota": "226618",
+         "Jaguar Land Rover": "0"
+      },
+      {
+         "Manufacturer": "2013",
+         "Bentley": "10496",
+         "BMW": "408060",
+         "Ford (Bridgend)": "741073",
+         "Ford (Dagenham)": "787398",
+         "Honda": "139741",
+         "Nissan": "266130",
+         "Toyota": "200418",
+         "Jaguar Land Rover": "0"
+      },
+      {
+         "Manufacturer": "2012",
+         "Bentley": "9108",
+         "BMW": "385410",
+         "Ford (Bridgend)": "741754",
+         "Ford (Dagenham)": "812791",
+         "Honda": "154228",
+         "Nissan": "267839",
+         "Toyota": "124241",
+         "Jaguar Land Rover": "0"
+      },
+      {
+         "Manufacturer": "2011",
+         "Bentley": "7528",
+         "BMW": "433689",
+         "Ford (Bridgend)": "714709",
+         "Ford (Dagenham)": "987078",
+         "Honda": "97368",
+         "Nissan": "135958",
+         "Toyota": "127724",
+         "Jaguar Land Rover": "0"
+      },
+      {
+         "Manufacturer": "2010",
+         "Bentley": "4791",
+         "BMW": "385051",
+         "Ford (Bridgend)": "680717",
+         "Ford (Dagenham)": "959480",
+         "Honda": "136658",
+         "Nissan": "105766",
+         "Toyota": "114254",
+         "Jaguar Land Rover": "0"
+      },
+      {
+         "Manufacturer": "2009",
+         "Bentley": "3596",
+         "BMW": "362300",
+         "Ford (Bridgend)": "683340",
+         "Ford (Dagenham)": "746426",
+         "Honda": "60125",
+         "Nissan": "108955",
+         "Toyota": "88714",
+         "Jaguar Land Rover": "0"
+      }
+   ]
+}

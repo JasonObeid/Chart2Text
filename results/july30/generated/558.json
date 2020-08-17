@@ -1,0 +1,62 @@
+{
+   "title": "Japanese video games adapted into movies - box office revenue 2017\n",
+   "xAxis": "Film title (original writer company)",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Film title (original writer company), and a y axis representing Revenue in million U.S. dollars.",
+      " The highest category is found at Resident_Evil:_The_Final_Chapter_(Capcom) where Revenue in million U.S. dollars is 312.42.",
+      " The lowest category is found at House_Of_The_Dead_(Sega) where Revenue in million U.S. dollars is 13.82."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 10
+   },
+   "data": [
+      {
+         "Film title (original writer company)": "Resident Evil: The Final Chapter (Capcom)",
+         "Revenue in million U.S. dollars": 312.42
+      },
+      {
+         "Film title (original writer company)": "Resident Evil: Afterlife (Capcom)",
+         "Revenue in million U.S. dollars": 300.23
+      },
+      {
+         "Film title (original writer company)": "Resident Evil: Retribution (Capcom)",
+         "Revenue in million U.S. dollars": 240.0
+      },
+      {
+         "Film title (original writer company)": "Resident Evil: Extinction (Capcom)",
+         "Revenue in million U.S. dollars": 148.41
+      },
+      {
+         "Film title (original writer company)": "Resident Evil: Apocalypse (Capcom)",
+         "Revenue in million U.S. dollars": 129.34
+      },
+      {
+         "Film title (original writer company)": "Resident Evil (Capcom)",
+         "Revenue in million U.S. dollars": 102.98
+      },
+      {
+         "Film title (original writer company)": "Street Fighter (Capcom)",
+         "Revenue in million U.S. dollars": 99.42
+      },
+      {
+         "Film title (original writer company)": "Silent Hill (Konami)",
+         "Revenue in million U.S. dollars": 97.61
+      },
+      {
+         "Film title (original writer company)": "Final Fantasy: The Spirits Within (Square)",
+         "Revenue in million U.S. dollars": 85.13
+      },
+      {
+         "Film title (original writer company)": "Super Mario Bros. (Nintendo)",
+         "Revenue in million U.S. dollars": 20.92
+      },
+      {
+         "Film title (original writer company)": "House Of The Dead (Sega)",
+         "Revenue in million U.S. dollars": 13.82
+      }
+   ]
+}

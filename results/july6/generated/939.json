@@ -1,0 +1,52 @@
+{
+   "title": "Consumer product revenue of Warner Bros. 2018 , by segment",
+   "labels": [
+      "Year",
+      "Television product",
+      "Theatrical product",
+      "Games and other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Theatrical penetration of the Consumer revenue sector in Warner , showing the product of Theatrical and Television revenue Warner in 2018 and with a forecast for 2018 . ",
+      "In 2018 , Theatrical Bros. made up 4002 % of total revenue Warner of Consumer . ",
+      "This is predicted to increase 4002 % segment 2018 ."
+   ],
+   "trends": [
+      {
+         "24": [
+            "0",
+            "0"
+         ],
+         "30": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "7": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "9": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Television product": "3621",
+         "Theatrical product": "4002",
+         "Games and other": "1080"
+      }
+   ]
+}

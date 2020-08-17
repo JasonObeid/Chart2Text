@@ -1,0 +1,146 @@
+{
+   "title": "NFL teams - number of Facebook fans 2019\n",
+   "xAxis": "Team",
+   "yAxis": "Facebook fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 32 categories for the x axis representing Team, and a y axis representing Facebook fans in millions.",
+      " The highest category is found at Dallas_Cowboys where Facebook fans in millions is 8.58.",
+      " The lowest category is found at Jacksonville_Jaguars where Facebook fans in millions is 0.63."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 31
+   },
+   "data": [
+      {
+         "Team": "Dallas Cowboys",
+         "Facebook fans in millions": 8.58
+      },
+      {
+         "Team": "New England Patriots",
+         "Facebook fans in millions": 7.07
+      },
+      {
+         "Team": "Pittsburgh Steelers",
+         "Facebook fans in millions": 6.38
+      },
+      {
+         "Team": "Green Bay Packers",
+         "Facebook fans in millions": 5.3
+      },
+      {
+         "Team": "Denver Broncos",
+         "Facebook fans in millions": 4.25
+      },
+      {
+         "Team": "San Francisco 49ers",
+         "Facebook fans in millions": 4.05
+      },
+      {
+         "Team": "New Orleans Saints",
+         "Facebook fans in millions": 4.02
+      },
+      {
+         "Team": "Chicago Bears",
+         "Facebook fans in millions": 4.0
+      },
+      {
+         "Team": "Seattle Seahawks",
+         "Facebook fans in millions": 3.93
+      },
+      {
+         "Team": "New York Giants",
+         "Facebook fans in millions": 3.86
+      },
+      {
+         "Team": "Oakland Raiders",
+         "Facebook fans in millions": 3.37
+      },
+      {
+         "Team": "Philadelphia Eagles",
+         "Facebook fans in millions": 3.25
+      },
+      {
+         "Team": "Carolina Panthers",
+         "Facebook fans in millions": 2.33
+      },
+      {
+         "Team": "Baltimore Ravens",
+         "Facebook fans in millions": 2.27
+      },
+      {
+         "Team": "Miami Dolphins",
+         "Facebook fans in millions": 2.26
+      },
+      {
+         "Team": "Indianapolis Colts",
+         "Facebook fans in millions": 2.19
+      },
+      {
+         "Team": "Houston Texans",
+         "Facebook fans in millions": 2.18
+      },
+      {
+         "Team": "Minnesota Vikings",
+         "Facebook fans in millions": 2.16
+      },
+      {
+         "Team": "Atlanta Falcons",
+         "Facebook fans in millions": 2.0
+      },
+      {
+         "Team": "Washington Redskins",
+         "Facebook fans in millions": 1.92
+      },
+      {
+         "Team": "New York Jets",
+         "Facebook fans in millions": 1.88
+      },
+      {
+         "Team": "Detroit Lions",
+         "Facebook fans in millions": 1.87
+      },
+      {
+         "Team": "Kansas City Chiefs",
+         "Facebook fans in millions": 1.62
+      },
+      {
+         "Team": "Los Angeles Chargers",
+         "Facebook fans in millions": 1.54
+      },
+      {
+         "Team": "Arizona Cardinals",
+         "Facebook fans in millions": 1.45
+      },
+      {
+         "Team": "Cleveland Browns",
+         "Facebook fans in millions": 1.31
+      },
+      {
+         "Team": "Cincinnati Bengals",
+         "Facebook fans in millions": 1.15
+      },
+      {
+         "Team": "Tennessee Titans",
+         "Facebook fans in millions": 0.95
+      },
+      {
+         "Team": "Tampa Bay Buccaneers",
+         "Facebook fans in millions": 0.94
+      },
+      {
+         "Team": "Buffalo Bills",
+         "Facebook fans in millions": 0.89
+      },
+      {
+         "Team": "Los Angeles Rams",
+         "Facebook fans in millions": 0.86
+      },
+      {
+         "Team": "Jacksonville Jaguars",
+         "Facebook fans in millions": 0.63
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "title": "Countries with the largest population 2018",
+   "xAxis": "Country",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Countries largest the Inhabitants of 2018 millions in the 2018 in . ",
+      "According to the source , Connecticut was the Country largest the population 2018 millions in 2018 largest 1393.8 millions to every millions thousand ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Inhabitants in millions": "1393.8"
+      },
+      {
+         "Country": "India",
+         "Inhabitants in millions": "1371.3"
+      },
+      {
+         "Country": "USA",
+         "Inhabitants in millions": "328.0"
+      },
+      {
+         "Country": "Indonesia",
+         "Inhabitants in millions": "265.2"
+      },
+      {
+         "Country": "Brazil",
+         "Inhabitants in millions": "209.4"
+      },
+      {
+         "Country": "Pakistan",
+         "Inhabitants in millions": "200.6"
+      },
+      {
+         "Country": "Nigeria",
+         "Inhabitants in millions": "195.9"
+      },
+      {
+         "Country": "Bangladesh",
+         "Inhabitants in millions": "166.4"
+      },
+      {
+         "Country": "Russia",
+         "Inhabitants in millions": "147.3"
+      },
+      {
+         "Country": "Mexico",
+         "Inhabitants in millions": "130.8"
+      }
+   ]
+}

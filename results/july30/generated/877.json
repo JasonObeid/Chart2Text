@@ -1,0 +1,58 @@
+{
+   "title": "China : weekly box office revenue November 2019 , by movie\n",
+   "xAxis": "Hollywood Films",
+   "yAxis": "Box office revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Hollywood Films, and a y axis representing Box office revenue in million U.S. dollars.",
+      " The highest category is found at Frozen_2 where Box office revenue in million U.S. dollars is 37.3.",
+      " The lowest category is found at Wings_Over_Everest where Box office revenue in million U.S. dollars is 1.5."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Hollywood Films": "Frozen 2",
+         "Box office revenue in million U.S. dollars": 37.3
+      },
+      {
+         "Hollywood Films": "Two Tigers",
+         "Box office revenue in million U.S. dollars": 19.6
+      },
+      {
+         "Hollywood Films": "Knives Out",
+         "Box office revenue in million U.S. dollars": 13.5
+      },
+      {
+         "Hollywood Films": "Miss Forever",
+         "Box office revenue in million U.S. dollars": 5.1
+      },
+      {
+         "Hollywood Films": "Somewhere Winter",
+         "Box office revenue in million U.S. dollars": 4.6
+      },
+      {
+         "Hollywood Films": "My People My Country",
+         "Box office revenue in million U.S. dollars": 3.3
+      },
+      {
+         "Hollywood Films": "Midway",
+         "Box office revenue in million U.S. dollars": 3.2
+      },
+      {
+         "Hollywood Films": "Leggenda del pianista sull'oceano La",
+         "Box office revenue in million U.S. dollars": 2.7
+      },
+      {
+         "Hollywood Films": "Better Days",
+         "Box office revenue in million U.S. dollars": 1.7
+      },
+      {
+         "Hollywood Films": "Wings Over Everest",
+         "Box office revenue in million U.S. dollars": 1.5
+      }
+   ]
+}

@@ -1,0 +1,56 @@
+{
+   "title": "Facebook Messenger : number of monthly active users 2014 to 2017",
+   "xAxis": "Month",
+   "yAxis": "Number of monthly active users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows a timeline with the amount of monthly active Messenger users worldwide as of 2017 . ",
+      "As of that Month , the social messaging app community had accumulated over 1300 millions monthly active users , up from over 1200 millions MAU in the previous year ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "0",
+         "22": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Sep '17",
+         "Number of monthly active users in millions": "1300"
+      },
+      {
+         "Month": "Apr '17",
+         "Number of monthly active users in millions": "1200"
+      },
+      {
+         "Month": "Jul '16",
+         "Number of monthly active users in millions": "1000"
+      },
+      {
+         "Month": "Apr '16",
+         "Number of monthly active users in millions": "900"
+      },
+      {
+         "Month": "Dec '15",
+         "Number of monthly active users in millions": "800"
+      },
+      {
+         "Month": "Jun '15",
+         "Number of monthly active users in millions": "700"
+      },
+      {
+         "Month": "Mar '15",
+         "Number of monthly active users in millions": "600"
+      },
+      {
+         "Month": "Nov '14",
+         "Number of monthly active users in millions": "500"
+      },
+      {
+         "Month": "Apr '14",
+         "Number of monthly active users in millions": "200"
+      }
+   ]
+}

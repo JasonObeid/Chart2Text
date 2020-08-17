@@ -1,0 +1,94 @@
+{
+   "title": "Personal income in New York - income per capita 2000 to 2018\n",
+   "xAxis": "Fiscal years",
+   "yAxis": "Income in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 19 categories for the x axis representing Fiscal years, and a y axis representing Income in U.S. dollars.",
+      " The highest category is found at '18 where Income in U.S. dollars is 68668.0.",
+      " The lowest category is found at '00 where Income in U.S. dollars is 36028.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 18
+   },
+   "data": [
+      {
+         "Fiscal years": "'18",
+         "Income in U.S. dollars": 68668.0
+      },
+      {
+         "Fiscal years": "'17",
+         "Income in U.S. dollars": 65644.0
+      },
+      {
+         "Fiscal years": "'16",
+         "Income in U.S. dollars": 61226.0
+      },
+      {
+         "Fiscal years": "'15",
+         "Income in U.S. dollars": 59141.0
+      },
+      {
+         "Fiscal years": "'14",
+         "Income in U.S. dollars": 56743.0
+      },
+      {
+         "Fiscal years": "'13",
+         "Income in U.S. dollars": 54491.0
+      },
+      {
+         "Fiscal years": "'12",
+         "Income in U.S. dollars": 53982.0
+      },
+      {
+         "Fiscal years": "'11",
+         "Income in U.S. dollars": 51498.0
+      },
+      {
+         "Fiscal years": "'10",
+         "Income in U.S. dollars": 48972.0
+      },
+      {
+         "Fiscal years": "'09",
+         "Income in U.S. dollars": 47277.0
+      },
+      {
+         "Fiscal years": "'08",
+         "Income in U.S. dollars": 48328.0
+      },
+      {
+         "Fiscal years": "'07",
+         "Income in U.S. dollars": 47520.0
+      },
+      {
+         "Fiscal years": "'06",
+         "Income in U.S. dollars": 44179.0
+      },
+      {
+         "Fiscal years": "'05",
+         "Income in U.S. dollars": 40905.0
+      },
+      {
+         "Fiscal years": "'04",
+         "Income in U.S. dollars": 39185.0
+      },
+      {
+         "Fiscal years": "'03",
+         "Income in U.S. dollars": 37459.0
+      },
+      {
+         "Fiscal years": "'02",
+         "Income in U.S. dollars": 37008.0
+      },
+      {
+         "Fiscal years": "'01",
+         "Income in U.S. dollars": 37194.0
+      },
+      {
+         "Fiscal years": "'00",
+         "Income in U.S. dollars": 36028.0
+      }
+   ]
+}

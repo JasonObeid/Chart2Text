@@ -1,0 +1,71 @@
+{
+   "title": "Average attendance in the National Football League 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average attendance National Football attendance of the National Football League 2019 from 2008 to 2019 . ",
+      "In 2019 , the Average attendance at Football games of the National Football League 2019 was 66151 ."
+   ],
+   "trends": [
+      {
+         "14": "11",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": "66151"
+      },
+      {
+         "Year": "2018",
+         "Average attendance": "67040"
+      },
+      {
+         "Year": "2017",
+         "Average attendance": "67405"
+      },
+      {
+         "Year": "2016",
+         "Average attendance": "69487"
+      },
+      {
+         "Year": "2015",
+         "Average attendance": "68216"
+      },
+      {
+         "Year": "2014",
+         "Average attendance": "68331"
+      },
+      {
+         "Year": "2013",
+         "Average attendance": "68397"
+      },
+      {
+         "Year": "2012",
+         "Average attendance": "67632"
+      },
+      {
+         "Year": "2011",
+         "Average attendance": "67419"
+      },
+      {
+         "Year": "2010",
+         "Average attendance": "66957"
+      },
+      {
+         "Year": "2009",
+         "Average attendance": "67506"
+      },
+      {
+         "Year": "2008",
+         "Average attendance": "68245"
+      }
+   ]
+}

@@ -1,0 +1,146 @@
+{
+   "title": "Select European cities ranked by overall prospects in real estate 2020",
+   "xAxis": "Country",
+   "yAxis": "Rating points average",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Paris points ranked Rating of European as of 2017 in leading online markets . ",
+      "During the measured period , European accounted for 2.03 % of points average in London ."
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {
+         "8": "3",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Paris",
+         "Rating points average": "2.16"
+      },
+      {
+         "Country": "Berlin",
+         "Rating points average": "2.13"
+      },
+      {
+         "Country": "Frankfurt",
+         "Rating points average": "2.07"
+      },
+      {
+         "Country": "London",
+         "Rating points average": "2.03"
+      },
+      {
+         "Country": "Madrid",
+         "Rating points average": "1.89"
+      },
+      {
+         "Country": "Amsterdam",
+         "Rating points average": "1.85"
+      },
+      {
+         "Country": "Munich",
+         "Rating points average": "1.82"
+      },
+      {
+         "Country": "Hamburg",
+         "Rating points average": "1.68"
+      },
+      {
+         "Country": "Barcelona",
+         "Rating points average": "1.54"
+      },
+      {
+         "Country": "Lisbon",
+         "Rating points average": "1.52"
+      },
+      {
+         "Country": "Milan",
+         "Rating points average": "1.36"
+      },
+      {
+         "Country": "Dublin",
+         "Rating points average": "1.35"
+      },
+      {
+         "Country": "Brussels",
+         "Rating points average": "1.32"
+      },
+      {
+         "Country": "Warsaw",
+         "Rating points average": "1.14"
+      },
+      {
+         "Country": "Vienna",
+         "Rating points average": "1.09"
+      },
+      {
+         "Country": "Luxembourg",
+         "Rating points average": "1.06"
+      },
+      {
+         "Country": "Zurich",
+         "Rating points average": "0.95"
+      },
+      {
+         "Country": "Stockholm",
+         "Rating points average": "0.92"
+      },
+      {
+         "Country": "Copenhagen",
+         "Rating points average": "0.87"
+      },
+      {
+         "Country": "Prague",
+         "Rating points average": "0.85"
+      },
+      {
+         "Country": "Helsinki",
+         "Rating points average": "0.79"
+      },
+      {
+         "Country": "Rome",
+         "Rating points average": "0.78"
+      },
+      {
+         "Country": "Manchester",
+         "Rating points average": "0.72"
+      },
+      {
+         "Country": "Birmingham",
+         "Rating points average": "0.64"
+      },
+      {
+         "Country": "Edinburgh",
+         "Rating points average": "0.6"
+      },
+      {
+         "Country": "Lyon",
+         "Rating points average": "0.59"
+      },
+      {
+         "Country": "Budapest",
+         "Rating points average": "0.56"
+      },
+      {
+         "Country": "Athens",
+         "Rating points average": "0.55"
+      },
+      {
+         "Country": "Oslo",
+         "Rating points average": "0.37"
+      },
+      {
+         "Country": "Istanbul",
+         "Rating points average": "0.35"
+      },
+      {
+         "Country": "Moscow",
+         "Rating points average": "0.17"
+      }
+   ]
+}

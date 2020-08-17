@@ -1,0 +1,85 @@
+{
+   "title": "Leading U.S. states for rice yield per acre 2014 to 2019",
+   "labels": [
+      "State",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the average U.S. states with the highest amount of rice yield from 2014 to 2019 . ",
+      "California , was the leading producer , where 40.4 million pounds of rice were produced in 2019 . ",
+      "rice yield Dairy farming is an agricultural business which is engaged in the long-term rice yield within the dairy industry ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": [
+            "0",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "California",
+         "2014": "8580",
+         "2015": "8890",
+         "2016": "8840",
+         "2017": "8410",
+         "2018": "8620",
+         "2019": "8450"
+      },
+      {
+         "State": "Arkansas",
+         "2014": "7560",
+         "2015": "7340",
+         "2016": "6920",
+         "2017": "7490",
+         "2018": "7520",
+         "2019": "7480"
+      },
+      {
+         "State": "Missouri",
+         "2014": "6830",
+         "2015": "7020",
+         "2016": "6650",
+         "2017": "7440",
+         "2018": "7770",
+         "2019": "7370"
+      },
+      {
+         "State": "Mississippi",
+         "2014": "7420",
+         "2015": "7110",
+         "2016": "7180",
+         "2017": "7400",
+         "2018": "7350",
+         "2019": "7350"
+      },
+      {
+         "State": "Texas",
+         "2014": "7360",
+         "2015": "6900",
+         "2016": "7360",
+         "2017": "7260",
+         "2018": "7970",
+         "2019": "7350"
+      },
+      {
+         "State": "Louisiana",
+         "2014": "7130",
+         "2015": "6940",
+         "2016": "6630",
+         "2017": "6710",
+         "2018": "7130",
+         "2019": "6380"
+      }
+   ]
+}

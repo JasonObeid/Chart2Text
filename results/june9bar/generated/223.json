@@ -1,0 +1,67 @@
+{
+   "title": "Average planned spend on Christmas presents in selected European countries 2015",
+   "xAxis": "Country",
+   "yAxis": "Median amount in euros",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Median of the Average planned spend Christmas as of 2020 , presents Country . ",
+      "During the measured period , planned euros in United_Kingdom had the highest monthly active Average planned spend with a total of 420 thousand ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United Kingdom",
+         "Median amount in euros": "420"
+      },
+      {
+         "Country": "Luxembourg",
+         "Median amount in euros": "300"
+      },
+      {
+         "Country": "France",
+         "Median amount in euros": "250"
+      },
+      {
+         "Country": "Austria",
+         "Median amount in euros": "250"
+      },
+      {
+         "Country": "Spain",
+         "Median amount in euros": "200"
+      },
+      {
+         "Country": "Italy",
+         "Median amount in euros": "200"
+      },
+      {
+         "Country": "Germany",
+         "Median amount in euros": "200"
+      },
+      {
+         "Country": "Belgium",
+         "Median amount in euros": "150"
+      },
+      {
+         "Country": "Czech Republic",
+         "Median amount in euros": "150"
+      },
+      {
+         "Country": "Romania",
+         "Median amount in euros": "110"
+      },
+      {
+         "Country": "Poland",
+         "Median amount in euros": "70"
+      },
+      {
+         "Country": "Netherlands",
+         "Median amount in euros": "40"
+      }
+   ]
+}

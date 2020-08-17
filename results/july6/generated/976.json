@@ -1,0 +1,69 @@
+{
+   "title": "Fertility rate in Denmark 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Fertility rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Fertility rate in Denmark from 2009 to 2019 . ",
+      "The Fertility rate has declined in this time period from 1.9 children per woman in 2011 to 1.7 in 2013 ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "0"
+      },
+      {
+         "10": "9",
+         "15": "8",
+         "17": "0",
+         "19": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Fertility rate": "1.7"
+      },
+      {
+         "Year": "2018",
+         "Fertility rate": "1.73"
+      },
+      {
+         "Year": "2017",
+         "Fertility rate": "1.75"
+      },
+      {
+         "Year": "2016",
+         "Fertility rate": "1.79"
+      },
+      {
+         "Year": "2015",
+         "Fertility rate": "1.71"
+      },
+      {
+         "Year": "2014",
+         "Fertility rate": "1.69"
+      },
+      {
+         "Year": "2013",
+         "Fertility rate": "1.67"
+      },
+      {
+         "Year": "2012",
+         "Fertility rate": "1.73"
+      },
+      {
+         "Year": "2011",
+         "Fertility rate": "1.75"
+      },
+      {
+         "Year": "2010",
+         "Fertility rate": "1.9"
+      },
+      {
+         "Year": "2009",
+         "Fertility rate": "1.84"
+      }
+   ]
+}

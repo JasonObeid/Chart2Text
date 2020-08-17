@@ -1,0 +1,76 @@
+{
+   "title": "Inflation rate in Sub-Saharan Africa 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 11 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2024 to 2017.",
+      " Likewise, the next significant trend is extremely negative which exists from 2017 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "positive",
+         "start": 0,
+         "end": 7,
+         "trend": "y=-0.52x+1067.19",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 7,
+         "end": 10,
+         "trend": "y=1.74x+-3496.19",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inflation rate compared to previous year": 6.64
+      },
+      {
+         "Year": "2023",
+         "Inflation rate compared to previous year": 6.7
+      },
+      {
+         "Year": "2022",
+         "Inflation rate compared to previous year": 6.83
+      },
+      {
+         "Year": "2021",
+         "Inflation rate compared to previous year": 7.08
+      },
+      {
+         "Year": "2020",
+         "Inflation rate compared to previous year": 8.04
+      },
+      {
+         "Year": "2019",
+         "Inflation rate compared to previous year": 8.38
+      },
+      {
+         "Year": "2018",
+         "Inflation rate compared to previous year": 8.45
+      },
+      {
+         "Year": "2017",
+         "Inflation rate compared to previous year": 10.88
+      },
+      {
+         "Year": "2016",
+         "Inflation rate compared to previous year": 10.85
+      },
+      {
+         "Year": "2015",
+         "Inflation rate compared to previous year": 6.93
+      },
+      {
+         "Year": "2014",
+         "Inflation rate compared to previous year": 6.39
+      }
+   ]
+}

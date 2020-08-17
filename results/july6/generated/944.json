@@ -1,0 +1,62 @@
+{
+   "title": "Siemens AG - revenue 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the sales of the AG revenue 2010 in Siemens AG 2010 and a forecast for the years 2019 . ",
+      "According to CLSA Asia-Pacific Market , AG sales Revenue in Siemens AG will amount to 71227 million euros in 2014 ."
+   ],
+   "trends": [
+      {
+         "21": "0"
+      },
+      {
+         "14": "5",
+         "18": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million euros": "86849"
+      },
+      {
+         "Year": "2018",
+         "Revenue in million euros": "83044"
+      },
+      {
+         "Year": "2017",
+         "Revenue in million euros": "82863"
+      },
+      {
+         "Year": "2016",
+         "Revenue in million euros": "79644"
+      },
+      {
+         "Year": "2015",
+         "Revenue in million euros": "75636"
+      },
+      {
+         "Year": "2014",
+         "Revenue in million euros": "71227"
+      },
+      {
+         "Year": "2013",
+         "Revenue in million euros": "73445"
+      },
+      {
+         "Year": "2012",
+         "Revenue in million euros": "74734"
+      },
+      {
+         "Year": "2011",
+         "Revenue in million euros": "69607"
+      },
+      {
+         "Year": "2010",
+         "Revenue in million euros": "65067"
+      }
+   ]
+}

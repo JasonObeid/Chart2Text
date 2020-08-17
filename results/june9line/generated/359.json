@@ -1,0 +1,105 @@
+{
+   "title": "Average annual wages in Spain 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average annual wages in euros",
+   "graphType": "line",
+   "summary": [
+      "As of 2018 , the Average annual wage of Spain was 30101 thousand euros per Year , a growth of just over 5.8 thousand euros when compared with 2000 . ",
+      "From 2000 until 2007 , wages grew by less than a thousand euros , with wage growth accelerating mainly in the period after 2010 . ",
+      "The 607 Euro increase recorded between 2010 and 2011 was the largest wage rise seen during this period ."
+   ],
+   "trends": [
+      {
+         "2": "0",
+         "11": "9",
+         "28": "18"
+      },
+      {
+         "1": "18",
+         "3": "11",
+         "23": "8"
+      },
+      {
+         "6": "8",
+         "8": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average annual wages in euros": "27946"
+      },
+      {
+         "Year": "2017",
+         "Average annual wages in euros": "28171"
+      },
+      {
+         "Year": "2016",
+         "Average annual wages in euros": "28738"
+      },
+      {
+         "Year": "2015",
+         "Average annual wages in euros": "28902"
+      },
+      {
+         "Year": "2014",
+         "Average annual wages in euros": "28405"
+      },
+      {
+         "Year": "2013",
+         "Average annual wages in euros": "28400"
+      },
+      {
+         "Year": "2012",
+         "Average annual wages in euros": "28336"
+      },
+      {
+         "Year": "2011",
+         "Average annual wages in euros": "29166"
+      },
+      {
+         "Year": "2010",
+         "Average annual wages in euros": "29585"
+      },
+      {
+         "Year": "2009",
+         "Average annual wages in euros": "30101"
+      },
+      {
+         "Year": "2008",
+         "Average annual wages in euros": "28198"
+      },
+      {
+         "Year": "2007",
+         "Average annual wages in euros": "27101"
+      },
+      {
+         "Year": "2006",
+         "Average annual wages in euros": "26751"
+      },
+      {
+         "Year": "2005",
+         "Average annual wages in euros": "26853"
+      },
+      {
+         "Year": "2004",
+         "Average annual wages in euros": "26697"
+      },
+      {
+         "Year": "2003",
+         "Average annual wages in euros": "26976"
+      },
+      {
+         "Year": "2002",
+         "Average annual wages in euros": "27049"
+      },
+      {
+         "Year": "2001",
+         "Average annual wages in euros": "26851"
+      },
+      {
+         "Year": "2000",
+         "Average annual wages in euros": "26856"
+      }
+   ]
+}

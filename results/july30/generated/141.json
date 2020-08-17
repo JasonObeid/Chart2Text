@@ -1,0 +1,58 @@
+{
+   "title": "Most popular Belgium-based influencers on Instagram 2019\n",
+   "xAxis": "Instagram User",
+   "yAxis": "Number of followers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Instagram User, and a y axis representing Number of followers.",
+      " The highest category is found at angele_vl_(Ang\u00e8le_stage_name_of_Ang\u00e8le_Van_Laeken) where Number of followers is 2488193.0.",
+      " The lowest category is found at matthiasgeerts_(Matthias_Geerts) where Number of followers is 308271.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Instagram User": "angele vl (Ang\u00e8le stage name of Ang\u00e8le Van Laeken)",
+         "Number of followers": 2488193.0
+      },
+      {
+         "Instagram User": "jimmylabeeu  (Jimmy Labeeu)",
+         "Number of followers": 1885413.0
+      },
+      {
+         "Instagram User": "driesmertens  (Dries Mertens)",
+         "Number of followers": 1547373.0
+      },
+      {
+         "Instagram User": "elvis.romeo (Rom\u00e9o Elvis)",
+         "Number of followers": 1442010.0
+      },
+      {
+         "Instagram User": "amelie lens (Amelie Lens)",
+         "Number of followers": 1139768.0
+      },
+      {
+         "Instagram User": "gaellegd (Gaelle Garcia Diaz)",
+         "Number of followers": 1135845.0
+      },
+      {
+         "Instagram User": "aurelievandaelen  (Aur\u00e9lie Van Daelen)",
+         "Number of followers": 720274.0
+      },
+      {
+         "Instagram User": "pommelinetilliere (Pommeline Tilli\u00e8re)",
+         "Number of followers": 519828.0
+      },
+      {
+         "Instagram User": "chloekitembo (Chloe Kitembo)",
+         "Number of followers": 408670.0
+      },
+      {
+         "Instagram User": "matthiasgeerts (Matthias Geerts)",
+         "Number of followers": 308271.0
+      }
+   ]
+}

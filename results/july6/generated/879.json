@@ -1,0 +1,87 @@
+{
+   "title": "Total contribution of travel and tourism to GDP in Italy 2014 to 2029",
+   "xAxis": "Year",
+   "yAxis": "GDP contribution in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the contribution rate of the global travel tourism GDP from 2014 to 2029 . ",
+      "The travel tourism GDP is contribution to grow by 244.1 billion in 2020 , reaching 42 billion U.S. dollars in size ."
+   ],
+   "trends": [
+      {
+         "13": "15",
+         "15": "0"
+      },
+      {
+         "9": "9",
+         "12": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2029",
+         "GDP contribution in billion euros": "331.0"
+      },
+      {
+         "Year": "2028",
+         "GDP contribution in billion euros": "321.5"
+      },
+      {
+         "Year": "2027",
+         "GDP contribution in billion euros": "311.5"
+      },
+      {
+         "Year": "2026",
+         "GDP contribution in billion euros": "301.5"
+      },
+      {
+         "Year": "2025",
+         "GDP contribution in billion euros": "291.5"
+      },
+      {
+         "Year": "2024",
+         "GDP contribution in billion euros": "281.8"
+      },
+      {
+         "Year": "2023",
+         "GDP contribution in billion euros": "272.1"
+      },
+      {
+         "Year": "2022",
+         "GDP contribution in billion euros": "262.7"
+      },
+      {
+         "Year": "2021",
+         "GDP contribution in billion euros": "252.6"
+      },
+      {
+         "Year": "2020",
+         "GDP contribution in billion euros": "244.1"
+      },
+      {
+         "Year": "2019",
+         "GDP contribution in billion euros": "237.8"
+      },
+      {
+         "Year": "2018",
+         "GDP contribution in billion euros": "232.2"
+      },
+      {
+         "Year": "2017",
+         "GDP contribution in billion euros": "224.3"
+      },
+      {
+         "Year": "2016",
+         "GDP contribution in billion euros": "214.8"
+      },
+      {
+         "Year": "2015",
+         "GDP contribution in billion euros": "210.5"
+      },
+      {
+         "Year": "2014",
+         "GDP contribution in billion euros": "197.0"
+      }
+   ]
+}

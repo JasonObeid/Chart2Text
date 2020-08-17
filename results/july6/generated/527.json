@@ -1,0 +1,63 @@
+{
+   "title": "eBay : gross merchandise volume 2014 - 2019 , by segment",
+   "labels": [
+      "Year",
+      "Marketplace",
+      "StubHub"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the volume of the eBay automobile production merchandise in 2015 and 2019 , by region . ",
+      "In 2019 , the Marketplace American merchandise is projected to have volume of about 85510 million units ."
+   ],
+   "trends": [
+      {
+         "12": [
+            "4",
+            "0"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Marketplace": "85510",
+         "StubHub": "4700"
+      },
+      {
+         "Year": "2018",
+         "Marketplace": "89829",
+         "StubHub": "4751"
+      },
+      {
+         "Year": "2017",
+         "Marketplace": "83883",
+         "StubHub": "4520"
+      },
+      {
+         "Year": "2016",
+         "Marketplace": "79178",
+         "StubHub": "4310"
+      },
+      {
+         "Year": "2015",
+         "Marketplace": "77729",
+         "StubHub": "3575"
+      }
+   ]
+}

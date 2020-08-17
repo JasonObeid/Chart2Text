@@ -1,0 +1,98 @@
+{
+   "title": "U.S. sweet cherry production 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand tons",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the estimated sweet amount of strawberries produced in the U.S. from 2000 to 2018 . ",
+      "In 2018 , around 344.4 thousand tons of strawberries were produced in the U.S. ."
+   ],
+   "trends": [
+      {
+         "14": "18",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Production in thousand tons": "344.4"
+      },
+      {
+         "Year": "2017",
+         "Production in thousand tons": "437.6"
+      },
+      {
+         "Year": "2016",
+         "Production in thousand tons": "350.2"
+      },
+      {
+         "Year": "2015",
+         "Production in thousand tons": "335.5"
+      },
+      {
+         "Year": "2014",
+         "Production in thousand tons": "363.6"
+      },
+      {
+         "Year": "2013",
+         "Production in thousand tons": "332.1"
+      },
+      {
+         "Year": "2012",
+         "Production in thousand tons": "424.0"
+      },
+      {
+         "Year": "2011",
+         "Production in thousand tons": "334.4"
+      },
+      {
+         "Year": "2010",
+         "Production in thousand tons": "313.2"
+      },
+      {
+         "Year": "2009",
+         "Production in thousand tons": "442.9"
+      },
+      {
+         "Year": "2008",
+         "Production in thousand tons": "248.1"
+      },
+      {
+         "Year": "2007",
+         "Production in thousand tons": "310.7"
+      },
+      {
+         "Year": "2006",
+         "Production in thousand tons": "294.2"
+      },
+      {
+         "Year": "2005",
+         "Production in thousand tons": "250.8"
+      },
+      {
+         "Year": "2004",
+         "Production in thousand tons": "283.1"
+      },
+      {
+         "Year": "2003",
+         "Production in thousand tons": "245.7"
+      },
+      {
+         "Year": "2002",
+         "Production in thousand tons": "181.4"
+      },
+      {
+         "Year": "2001",
+         "Production in thousand tons": "230.4"
+      },
+      {
+         "Year": "2000",
+         "Production in thousand tons": "207.9"
+      }
+   ]
+}

@@ -1,0 +1,70 @@
+{
+   "title": "Total population of the United States 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Total population of United States from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of United States was around 327.35 millions people . ",
+      "See Switzerland 's population figures for comparison ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "10": "6"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "338.27"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "336.45"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "334.64"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "332.84"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "331.05"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "329.27"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "327.35"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "325.33"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "323.23"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "320.93"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "318.62"
+      }
+   ]
+}

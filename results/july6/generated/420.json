@@ -1,0 +1,79 @@
+{
+   "title": "Median age of the U.S. population 1960 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Median age in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Median age of the U.S. population 1960 in the 2018 from 1960 to 2018 . ",
+      "In 2018 , the Median age of the U.S. population 1960 in the 2018 was 38.2 years ."
+   ],
+   "trends": [
+      {
+         "15": "13",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Median age in years": "38.2"
+      },
+      {
+         "Year": "2017",
+         "Median age in years": "38.0"
+      },
+      {
+         "Year": "2016",
+         "Median age in years": "37.9"
+      },
+      {
+         "Year": "2015",
+         "Median age in years": "37.8"
+      },
+      {
+         "Year": "2014",
+         "Median age in years": "37.7"
+      },
+      {
+         "Year": "2013",
+         "Median age in years": "37.6"
+      },
+      {
+         "Year": "2012",
+         "Median age in years": "37.5"
+      },
+      {
+         "Year": "2011",
+         "Median age in years": "37.3"
+      },
+      {
+         "Year": "2010",
+         "Median age in years": "37.2"
+      },
+      {
+         "Year": "2000",
+         "Median age in years": "35.3"
+      },
+      {
+         "Year": "1990",
+         "Median age in years": "32.9"
+      },
+      {
+         "Year": "1980",
+         "Median age in years": "30.0"
+      },
+      {
+         "Year": "1970",
+         "Median age in years": "28.1"
+      },
+      {
+         "Year": "1960",
+         "Median age in years": "29.5"
+      }
+   ]
+}

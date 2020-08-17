@@ -1,0 +1,42 @@
+{
+   "title": "Quarterly average daily rate of hotels in New York 2016 to 2017",
+   "labels": [
+      "Quarter",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 4 categories for the x axis of Quarter representing 2016, and 2017.",
+      " The highest category is found at Q1 with a mean value of 258.5.",
+      " The second highest category is found at Q4 with a mean value of 194.5.",
+      " This represents a difference of 28.3%."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "secondIndex": 3
+   },
+   "data": [
+      {
+         "Quarter": "Q4",
+         "2016": "389",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2016": "350",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q2",
+         "2016": "351",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q1",
+         "2016": "260",
+         "2017": "257"
+      }
+   ]
+}

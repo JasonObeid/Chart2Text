@@ -1,0 +1,53 @@
+{
+   "title": "NHL sponsorship revenue 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Revenue of the NHL Warriors franchise from the 2001/02 season to the fiscal Year of 17/18 . ",
+      "In the last season , the Revenue of the NHL Warriors was 559.5 million U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "19": "0"
+      },
+      {
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "17/18",
+         "Revenue in million U.S. dollars": "559.5"
+      },
+      {
+         "Year": "16/17",
+         "Revenue in million U.S. dollars": "505.0"
+      },
+      {
+         "Year": "15/16",
+         "Revenue in million U.S. dollars": "477.0"
+      },
+      {
+         "Year": "14/15",
+         "Revenue in million U.S. dollars": "447.0"
+      },
+      {
+         "Year": "13/14",
+         "Revenue in million U.S. dollars": "409.0"
+      },
+      {
+         "Year": "12/13",
+         "Revenue in million U.S. dollars": "390.0"
+      },
+      {
+         "Year": "11/12",
+         "Revenue in million U.S. dollars": "372.0"
+      },
+      {
+         "Year": "10/11",
+         "Revenue in million U.S. dollars": "356.0"
+      }
+   ]
+}

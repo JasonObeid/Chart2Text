@@ -1,0 +1,87 @@
+{
+   "title": "Average age at first marriage in Sweden 2008 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , just over one fifth of the Dutch population smoked . ",
+      "33.9 % were Women Men , defined by the source as people Average more than 20 cigarettes a day . ",
+      "Average is becoming less and popular in the Sweden ."
+   ],
+   "trends": [
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "0": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Men": "36.3",
+         "Women": "33.9"
+      },
+      {
+         "Year": "2017",
+         "Men": "36.2",
+         "Women": "33.6"
+      },
+      {
+         "Year": "2016",
+         "Men": "36.2",
+         "Women": "33.6"
+      },
+      {
+         "Year": "2015",
+         "Men": "36.0",
+         "Women": "33.5"
+      },
+      {
+         "Year": "2014",
+         "Men": "35.7",
+         "Women": "33.2"
+      },
+      {
+         "Year": "2013",
+         "Men": "35.6",
+         "Women": "33.0"
+      },
+      {
+         "Year": "2012",
+         "Men": "35.9",
+         "Women": "33.4"
+      },
+      {
+         "Year": "2011",
+         "Men": "35.6",
+         "Women": "33.1"
+      },
+      {
+         "Year": "2010",
+         "Men": "35.5",
+         "Women": "32.9"
+      },
+      {
+         "Year": "2009",
+         "Men": "35.1",
+         "Women": "32.5"
+      },
+      {
+         "Year": "2008",
+         "Men": "35.1",
+         "Women": "32.5"
+      }
+   ]
+}

@@ -1,0 +1,60 @@
+{
+   "title": "Alibaba : number of employees 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "graphType": "line",
+   "summary": [
+      "The Alibaba group saw a two-year increase in employment between 2016 and 2018 before falling in 2019 . ",
+      "There were approximately 21930 thousand people employed by Alibaba group globally in 2012 . ",
+      "As of 2019 the total Number of global employees at the Alibaba group reached almost 101958 thousand employees ."
+   ],
+   "trends": [
+      {
+         "10": "3",
+         "12": "1",
+         "16": "0"
+      },
+      {
+         "3": "7",
+         "12": "7"
+      },
+      {
+         "2": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of employees": "101958"
+      },
+      {
+         "Year": "2018",
+         "Number of employees": "66421"
+      },
+      {
+         "Year": "2017",
+         "Number of employees": "50092"
+      },
+      {
+         "Year": "2016",
+         "Number of employees": "36450"
+      },
+      {
+         "Year": "2015",
+         "Number of employees": "34985"
+      },
+      {
+         "Year": "2014",
+         "Number of employees": "22072"
+      },
+      {
+         "Year": "2013",
+         "Number of employees": "20674"
+      },
+      {
+         "Year": "2012",
+         "Number of employees": "21930"
+      }
+   ]
+}

@@ -1,0 +1,49 @@
+{
+   "title": "Top selling apparel categories for shops in the U.S. based on generated revenue 2013",
+   "xAxis": "Category",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the categories for of Top and selling to internet users in the U.S. in 2013 . ",
+      "During the survey , it was found that 11 % of U.S. users had their Top selling Outerwear added to their Outerwear ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "17": "5",
+         "21": "5"
+      }
+   ],
+   "data": [
+      {
+         "Category": "T-shirts",
+         "Share of respondents": "25"
+      },
+      {
+         "Category": "Polo/sport shirts",
+         "Share of respondents": "17"
+      },
+      {
+         "Category": "Sweatshirts",
+         "Share of respondents": "11"
+      },
+      {
+         "Category": "Headwear",
+         "Share of respondents": "10"
+      },
+      {
+         "Category": "Bags",
+         "Share of respondents": "6.6"
+      },
+      {
+         "Category": "Outerwear",
+         "Share of respondents": "5.7"
+      },
+      {
+         "Category": "Teamwear/school uniforms",
+         "Share of respondents": "5.1"
+      }
+   ]
+}

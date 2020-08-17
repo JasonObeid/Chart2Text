@@ -1,0 +1,77 @@
+{
+   "title": "U.S. drone strikes in Yemen 2011 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of drone strikes",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of drone strikes, with a total of 9 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2017 to 2014.",
+      " But, the next significant trend is  positive which exists from 2014 to 2011.",
+      " Also, the next significant trend is  positive which exists from 2019 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 2,
+         "end": 5,
+         "trend": "y=34.6x+-69685.8",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 5,
+         "end": 8,
+         "trend": "y=0.3x+-582.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-59.5x+120128.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of drone strikes": 8.0
+      },
+      {
+         "Year": "2018",
+         "Number of drone strikes": 36.0
+      },
+      {
+         "Year": "2017",
+         "Number of drone strikes": 127.0
+      },
+      {
+         "Year": "2016",
+         "Number of drone strikes": 37.0
+      },
+      {
+         "Year": "2015",
+         "Number of drone strikes": 21.0
+      },
+      {
+         "Year": "2014",
+         "Number of drone strikes": 17.0
+      },
+      {
+         "Year": "2013",
+         "Number of drone strikes": 22.0
+      },
+      {
+         "Year": "2012",
+         "Number of drone strikes": 37.0
+      },
+      {
+         "Year": "2011",
+         "Number of drone strikes": 11.0
+      }
+   ]
+}

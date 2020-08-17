@@ -1,0 +1,69 @@
+{
+   "title": "Number of mobile internet users in the United Kingdom ( UK ) Q3 2013-Q2 2016",
+   "xAxis": "Quarter",
+   "yAxis": "Users in millions",
+   "graphType": "bar",
+   "summary": [
+      "The timeline presents the Number mobile of the United Kingdom from the first Quarter of Q2_2016 . ",
+      "As of the fourth Quarter of 2016 , there were approximately 42.77 millions of Q2_2016 ."
+   ],
+   "trends": [
+      {
+         "14": "0"
+      },
+      {
+         "11": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q2 2016",
+         "Users in millions": "42.77"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Users in millions": "42.03"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Users in millions": "41.27"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Users in millions": "40.36"
+      },
+      {
+         "Quarter": "Q2 2015",
+         "Users in millions": "39.56"
+      },
+      {
+         "Quarter": "Q1 2015",
+         "Users in millions": "38.7"
+      },
+      {
+         "Quarter": "Q4 2014",
+         "Users in millions": "37.82"
+      },
+      {
+         "Quarter": "Q3 2014",
+         "Users in millions": "36.73"
+      },
+      {
+         "Quarter": "Q2 2014",
+         "Users in millions": "35.78"
+      },
+      {
+         "Quarter": "Q1 2014",
+         "Users in millions": "34.75"
+      },
+      {
+         "Quarter": "Q4 2013",
+         "Users in millions": "33.69"
+      },
+      {
+         "Quarter": "Q3 2013",
+         "Users in millions": "32.57"
+      }
+   ]
+}

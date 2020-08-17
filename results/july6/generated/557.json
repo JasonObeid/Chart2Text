@@ -1,0 +1,74 @@
+{
+   "title": "Number of visitors to the Vietnam Veterans Memorial in the U.S. 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "Vietnam Veterans Memorial U.S. Park in the U.S. attracted a total of approximately 4.58 millions visitors in 2019 , down from its visitation peak of 5.6 millions in 2015 . ",
+      "A Vietnam Veterans Memorial U.S. uniting nations Vietnam Veterans Memorial U.S. Park 's name derived from the many glaciers that shaped its topography for over 5.6 millions years . ",
+      "Located in Montana on the Canada-U.S. border , Vietnam Veterans Memorial U.S. Park is the second half of the Glacier-Waterton International Peace Vietnam Veterans Memorial U.S. , the first half being Waterton Lakes Vietnam Veterans Memorial U.S. in Canada ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "14": "0",
+         "22": "4",
+         "25": "4"
+      },
+      {
+         "19": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": "4.58"
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": "4.72"
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": "5.07"
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": "5.3"
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": "5.6"
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": "4.4"
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": "4.14"
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": "4.42"
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": "4.02"
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": "4.56"
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": "4.44"
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": "4.24"
+      }
+   ]
+}

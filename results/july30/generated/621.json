@@ -1,0 +1,93 @@
+{
+   "title": "Net income of Marriott International worldwide 2007 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net income in million U.S. dollars, with a total of 13 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2015 to 2011.",
+      " Conversely, the next significant trend is  negative which exists from 2018 to 2016.",
+      " But, the next significant trend is  positive which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 4,
+         "end": 8,
+         "trend": "y=150.4x+-302153.8",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 1,
+         "end": 3,
+         "trend": "y=563.5x+-1135226.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 10,
+         "end": 12,
+         "trend": "y=-175.5x+352871.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net income in million U.S. dollars": 1273.0
+      },
+      {
+         "Year": "2018",
+         "Net income in million U.S. dollars": 1907.0
+      },
+      {
+         "Year": "2017",
+         "Net income in million U.S. dollars": 1372.0
+      },
+      {
+         "Year": "2016",
+         "Net income in million U.S. dollars": 780.0
+      },
+      {
+         "Year": "2015",
+         "Net income in million U.S. dollars": 859.0
+      },
+      {
+         "Year": "2014",
+         "Net income in million U.S. dollars": 753.0
+      },
+      {
+         "Year": "2013",
+         "Net income in million U.S. dollars": 626.0
+      },
+      {
+         "Year": "2012",
+         "Net income in million U.S. dollars": 571.0
+      },
+      {
+         "Year": "2011",
+         "Net income in million U.S. dollars": 198.0
+      },
+      {
+         "Year": "2010",
+         "Net income in million U.S. dollars": 458.0
+      },
+      {
+         "Year": "2009",
+         "Net income in million U.S. dollars": 346.0
+      },
+      {
+         "Year": "2008",
+         "Net income in million U.S. dollars": 359.0
+      },
+      {
+         "Year": "2007",
+         "Net income in million U.S. dollars": 697.0
+      }
+   ]
+}

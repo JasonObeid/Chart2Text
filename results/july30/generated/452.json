@@ -1,0 +1,105 @@
+{
+   "title": "Major countries in bismuth mine production 2015 to 2019",
+   "labels": [
+      "Country",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 10 categories for the x axis of Country representing 2015, 2016, 2017, 2018, and 2019.",
+      " The highest category is found at China with a mean value of 11280.0.",
+      " The second highest category is found at Laos with a mean value of 1602.0.",
+      " This represents a difference of 150.3%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Country": "China",
+         "2015": "7500",
+         "2016": "7400",
+         "2017": "13500",
+         "2018": "14000",
+         "2019": "14000"
+      },
+      {
+         "Country": "Laos",
+         "2015": "0",
+         "2016": "0",
+         "2017": "2000",
+         "2018": "3010",
+         "2019": "3000"
+      },
+      {
+         "Country": "Japan",
+         "2015": "0",
+         "2016": "0",
+         "2017": "525",
+         "2018": "571",
+         "2019": "540"
+      },
+      {
+         "Country": "Mexico",
+         "2015": "700",
+         "2016": "700",
+         "2017": "513",
+         "2018": "333",
+         "2019": "400"
+      },
+      {
+         "Country": "Kazakhstan",
+         "2015": "0",
+         "2016": "0",
+         "2017": "270",
+         "2018": "290",
+         "2019": "270"
+      },
+      {
+         "Country": "Bulgaria",
+         "2015": "0",
+         "2016": "0",
+         "2017": "50",
+         "2018": "50",
+         "2019": "50"
+      },
+      {
+         "Country": "Canada",
+         "2015": "3",
+         "2016": "3",
+         "2017": "25",
+         "2018": "25",
+         "2019": "25"
+      },
+      {
+         "Country": "Russia",
+         "2015": "40",
+         "2016": "40",
+         "2017": "4",
+         "2018": "0",
+         "2019": "0"
+      },
+      {
+         "Country": "Vietnam",
+         "2015": "5000",
+         "2016": "2000",
+         "2017": "0",
+         "2018": "0",
+         "2019": "0"
+      },
+      {
+         "Country": "Bolivia",
+         "2015": "10",
+         "2016": "10",
+         "2017": "0",
+         "2018": "0",
+         "2019": "0"
+      }
+   ]
+}

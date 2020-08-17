@@ -1,0 +1,107 @@
+{
+   "title": "BHP 's production of selected metals 2008 to 2019",
+   "labels": [
+      "Year",
+      "Copper",
+      "Nickel",
+      "Iron ore"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the BHP of 's in the BHP selected of 2008 under 18 from 2008 to 2019 . ",
+      "Just over seven % 's had three or ore 2008 under 18 living in the household in 2019 ."
+   ],
+   "trends": [
+      {
+         "17": [
+            "11",
+            "0"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "17": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Copper": "1689.3",
+         "Nickel": "87.4",
+         "Iron ore": "237694"
+      },
+      {
+         "Year": "2018",
+         "Copper": "1753.3",
+         "Nickel": "93.0",
+         "Iron ore": "238421"
+      },
+      {
+         "Year": "2017",
+         "Copper": "1326.0",
+         "Nickel": "85.8",
+         "Iron ore": "231352"
+      },
+      {
+         "Year": "2016",
+         "Copper": "1579.8",
+         "Nickel": "80.7",
+         "Iron ore": "226958"
+      },
+      {
+         "Year": "2015",
+         "Copper": "1708.0",
+         "Nickel": "90.0",
+         "Iron ore": "232508"
+      },
+      {
+         "Year": "2014",
+         "Copper": "1727.0",
+         "Nickel": "99.0",
+         "Iron ore": "203564"
+      },
+      {
+         "Year": "2013",
+         "Copper": "1689.0",
+         "Nickel": "154.1",
+         "Iron ore": "169856"
+      },
+      {
+         "Year": "2012",
+         "Copper": "1468.0",
+         "Nickel": "157.9",
+         "Iron ore": "159478"
+      },
+      {
+         "Year": "2011",
+         "Copper": "1139.4",
+         "Nickel": "152.7",
+         "Iron ore": "134406"
+      },
+      {
+         "Year": "2010",
+         "Copper": "1075.2",
+         "Nickel": "176.2",
+         "Iron ore": "124962"
+      },
+      {
+         "Year": "2009",
+         "Copper": "1207.1",
+         "Nickel": "173.1",
+         "Iron ore": "114415"
+      },
+      {
+         "Year": "2008",
+         "Copper": "1375.5",
+         "Nickel": "167.9",
+         "Iron ore": "112260"
+      }
+   ]
+}

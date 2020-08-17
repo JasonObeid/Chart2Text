@@ -1,0 +1,60 @@
+{
+   "title": "Muslims in Spain 2018 , by nationality",
+   "xAxis": "Country",
+   "yAxis": "Number of Muslims",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of Muslims Spain in by as of 2018 , sorted by Number of Muslims . ",
+      "As of 2018 , had the highest of Spain by of ."
+   ],
+   "trends": [
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Spain",
+         "Number of Muslims": "847801"
+      },
+      {
+         "Country": "Morocco",
+         "Number of Muslims": "769050"
+      },
+      {
+         "Country": "Pakistan",
+         "Number of Muslims": "82738"
+      },
+      {
+         "Country": "Senegal",
+         "Number of Muslims": "66046"
+      },
+      {
+         "Country": "Algeria",
+         "Number of Muslims": "60820"
+      },
+      {
+         "Country": "Nigeria",
+         "Number of Muslims": "39374"
+      },
+      {
+         "Country": "Mali",
+         "Number of Muslims": "23685"
+      },
+      {
+         "Country": "Gambia",
+         "Number of Muslims": "19381"
+      },
+      {
+         "Country": "Bangladesh",
+         "Number of Muslims": "15979"
+      },
+      {
+         "Country": "Guinea",
+         "Number of Muslims": "10186"
+      },
+      {
+         "Country": "Others",
+         "Number of Muslims": "58615"
+      }
+   ]
+}

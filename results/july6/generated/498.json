@@ -1,0 +1,54 @@
+{
+   "title": "Global in-app advertising and app store revenues 2015 & 2020",
+   "labels": [
+      "Year",
+      "Apps excl. games - mobile in-app advertising",
+      "Apps excl. games - mobile app store",
+      "Games - mobile in-app advertising",
+      "Games - mobile app store"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Global of in-app advertising in Global 2015 and 2020 , 2015 & . ",
+      "In 2015 , Apps excl. automobiles and mobile generated a Global of 19.3 % in the total advertising in Global ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "1",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "12": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Apps excl. games - mobile in-app advertising": "65.8",
+         "Apps excl. games - mobile app store": "18.8",
+         "Games - mobile in-app advertising": "51.4",
+         "Games - mobile app store": "53.0"
+      },
+      {
+         "Year": "2015",
+         "Apps excl. games - mobile in-app advertising": "19.3",
+         "Apps excl. games - mobile app store": "4.5",
+         "Games - mobile in-app advertising": "21.1",
+         "Games - mobile app store": "24.8"
+      }
+   ]
+}

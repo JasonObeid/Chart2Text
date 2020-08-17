@@ -1,0 +1,75 @@
+{
+   "title": "Rural population share in France 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Share of the rural population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of the rural population with a total of 13 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 2018 to 2006."
+   ],
+   "trends": [
+      {
+         "Length": 13,
+         "direction": "positive",
+         "start": 0,
+         "end": 12,
+         "trend": "y=-0.26x+543.99",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of the rural population": 19.5
+      },
+      {
+         "Year": "2017",
+         "Share of the rural population": 19.8
+      },
+      {
+         "Year": "2016",
+         "Share of the rural population": 20.0
+      },
+      {
+         "Year": "2015",
+         "Share of the rural population": 20.3
+      },
+      {
+         "Year": "2014",
+         "Share of the rural population": 20.6
+      },
+      {
+         "Year": "2013",
+         "Share of the rural population": 20.9
+      },
+      {
+         "Year": "2012",
+         "Share of the rural population": 21.1
+      },
+      {
+         "Year": "2011",
+         "Share of the rural population": 21.4
+      },
+      {
+         "Year": "2010",
+         "Share of the rural population": 21.6
+      },
+      {
+         "Year": "2009",
+         "Share of the rural population": 21.9
+      },
+      {
+         "Year": "2008",
+         "Share of the rural population": 22.1
+      },
+      {
+         "Year": "2007",
+         "Share of the rural population": 22.4
+      },
+      {
+         "Year": "2006",
+         "Share of the rural population": 22.6
+      }
+   ]
+}

@@ -1,0 +1,39 @@
+{
+   "title": "Expenditure of affluent U.S. households on fees for social , recreation , health club\n",
+   "xAxis": "Year",
+   "yAxis": "Amount spent in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Amount spent in U.S. dollars with a total of 4 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 2013 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=3.28x+-6565.21",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Amount spent in U.S. dollars": 46.58
+      },
+      {
+         "Year": "2014",
+         "Amount spent in U.S. dollars": 47.39
+      },
+      {
+         "Year": "2015",
+         "Amount spent in U.S. dollars": 51.52
+      },
+      {
+         "Year": "2016",
+         "Amount spent in U.S. dollars": 56.15
+      }
+   ]
+}

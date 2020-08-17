@@ -1,0 +1,40 @@
+{
+   "title": "Leading car rental companies in the U.S. ranked by index ranking 2018",
+   "xAxis": "Brand",
+   "yAxis": "Index ranking",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Leading car rental companies in U.S. 2018 , by on Index ranking . ",
+      "In that year , Enterprise was the Leading car rental chain in U.S. by on Index ranking of about 20.9 % ranking ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Enterprise",
+         "Index ranking": "20.9"
+      },
+      {
+         "Brand": "Hertz",
+         "Index ranking": "14.4"
+      },
+      {
+         "Brand": "Budget",
+         "Index ranking": "11.6"
+      },
+      {
+         "Brand": "Avis",
+         "Index ranking": "10.2"
+      },
+      {
+         "Brand": "Alamo",
+         "Index ranking": "7.8"
+      }
+   ]
+}

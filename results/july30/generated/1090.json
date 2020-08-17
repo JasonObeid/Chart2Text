@@ -1,0 +1,58 @@
+{
+   "title": "Groupon : TTM gross profit per average active customer 2017 to 2019\n",
+   "xAxis": "Quarter",
+   "yAxis": "TTM gross billings per average active customer in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Quarter, and a y axis representing TTM gross billings per average active customer in U.S. dollars.",
+      " The highest category is found at Q1_'19 where TTM gross billings per average active customer in U.S. dollars is 27.59.",
+      " The lowest category is found at Q3_'17 where TTM gross billings per average active customer in U.S. dollars is 26.43."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "TTM gross billings per average active customer in U.S. dollars": 27.19
+      },
+      {
+         "Quarter": "Q3 '19",
+         "TTM gross billings per average active customer in U.S. dollars": 27.45
+      },
+      {
+         "Quarter": "Q2 '19",
+         "TTM gross billings per average active customer in U.S. dollars": 27.51
+      },
+      {
+         "Quarter": "Q1 '19",
+         "TTM gross billings per average active customer in U.S. dollars": 27.59
+      },
+      {
+         "Quarter": "Q4 '18",
+         "TTM gross billings per average active customer in U.S. dollars": 27.42
+      },
+      {
+         "Quarter": "Q3 '18",
+         "TTM gross billings per average active customer in U.S. dollars": 27.51
+      },
+      {
+         "Quarter": "Q2 '18",
+         "TTM gross billings per average active customer in U.S. dollars": 27.27
+      },
+      {
+         "Quarter": "Q1 '18",
+         "TTM gross billings per average active customer in U.S. dollars": 27.16
+      },
+      {
+         "Quarter": "Q4 '17",
+         "TTM gross billings per average active customer in U.S. dollars": 26.93
+      },
+      {
+         "Quarter": "Q3 '17",
+         "TTM gross billings per average active customer in U.S. dollars": 26.43
+      }
+   ]
+}

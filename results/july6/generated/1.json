@@ -1,0 +1,102 @@
+{
+   "title": "Electricity prices for households in Croatia 2010 - 2019 , semi-annually",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "Since 2010_S2 , the household price of Electricity in Croatia has seen little change , rising from 11.51 Euro cents per kilowatt-hour to 13.21 Euro cents in the first semester of 2019_S1 . ",
+      "Looking at the figures , it can be seen that on average prices were cheaper in the second half of each Year . ",
+      "A noticeable exception was in the second half of 2012_S2 , when prices increased by 1.11 Euro cents compared the first half of the Year ."
+   ],
+   "trends": [
+      {
+         "1": "17",
+         "17": "18",
+         "23": "0",
+         "31": "0"
+      },
+      {},
+      {
+         "9": "13"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019 S1",
+         "Euro cents per kilowatt-hour": "13.21"
+      },
+      {
+         "Year": "2018 S2",
+         "Euro cents per kilowatt-hour": "13.21"
+      },
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": "13.11"
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": "12.36"
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": "11.96"
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": "13.31"
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": "13.11"
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": "13.12"
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": "13.17"
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": "13.24"
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": "13.12"
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": "13.5"
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": "13.72"
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": "13.84"
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": "12.08"
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": "11.46"
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": "11.37"
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": "11.53"
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": "11.51"
+      }
+   ]
+}

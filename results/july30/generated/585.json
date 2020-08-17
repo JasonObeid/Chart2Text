@@ -1,0 +1,68 @@
+{
+   "title": "Number of stores of Sears Holdings worldwide 2009 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of stores, with a total of 9 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2017 to 2011.",
+      " Also, the next significant trend is extremely negative which exists from 2011 to 2009."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 0,
+         "end": 6,
+         "trend": "y=-429.18x+866482.21",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 6,
+         "end": 8,
+         "trend": "y=74.0x+-144799.67",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of stores": 1002.0
+      },
+      {
+         "Year": "2016",
+         "Number of stores": 1430.0
+      },
+      {
+         "Year": "2015",
+         "Number of stores": 1672.0
+      },
+      {
+         "Year": "2014",
+         "Number of stores": 1725.0
+      },
+      {
+         "Year": "2013",
+         "Number of stores": 2429.0
+      },
+      {
+         "Year": "2012",
+         "Number of stores": 2548.0
+      },
+      {
+         "Year": "2011",
+         "Number of stores": 4010.0
+      },
+      {
+         "Year": "2010",
+         "Number of stores": 3949.0
+      },
+      {
+         "Year": "2009",
+         "Number of stores": 3862.0
+      }
+   ]
+}

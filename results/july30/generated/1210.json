@@ -1,0 +1,47 @@
+{
+   "title": "Share of the population who gave to charity in England 2019 , by age\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents with a total of 6 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 16_to_24 to 75_and_over."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 0,
+         "end": 5,
+         "trend": "y=0.0x+70.49",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "16 to 24",
+         "Share of respondents": 59.0
+      },
+      {
+         "Year": "25 to 34",
+         "Share of respondents": 69.0
+      },
+      {
+         "Year": "35 to 49",
+         "Share of respondents": 76.0
+      },
+      {
+         "Year": "50 to 64",
+         "Share of respondents": 79.0
+      },
+      {
+         "Year": "65 to 74",
+         "Share of respondents": 82.0
+      },
+      {
+         "Year": "75 and over",
+         "Share of respondents": 83.0
+      }
+   ]
+}

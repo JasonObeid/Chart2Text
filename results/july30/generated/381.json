@@ -1,0 +1,58 @@
+{
+   "title": "Leading men 's hair coloring brands in the U.S. 2019\n",
+   "xAxis": "Brand",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Brand, and a y axis representing Sales in million U.S. dollars.",
+      " The highest category is found at Just_For_Men where Sales in million U.S. dollars is 138.0.",
+      " The lowest category is found at Grecian_5 where Sales in million U.S. dollars is 0.1."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Brand": "Just For Men",
+         "Sales in million U.S. dollars": 138.0
+      },
+      {
+         "Brand": "Just For Men Autostop",
+         "Sales in million U.S. dollars": 27.2
+      },
+      {
+         "Brand": "Just For Men Control GX",
+         "Sales in million U.S. dollars": 18.2
+      },
+      {
+         "Brand": "Just For Men Touch of Gray",
+         "Sales in million U.S. dollars": 9.7
+      },
+      {
+         "Brand": "Softsheen-Carson Dark & Natural",
+         "Sales in million U.S. dollars": 5.7
+      },
+      {
+         "Brand": "Private label",
+         "Sales in million U.S. dollars": 2.8
+      },
+      {
+         "Brand": "Grecian Formula 16",
+         "Sales in million U.S. dollars": 2.3
+      },
+      {
+         "Brand": "Just For Men Original Formula",
+         "Sales in million U.S. dollars": 0.5
+      },
+      {
+         "Brand": "Creme of Nature",
+         "Sales in million U.S. dollars": 0.3
+      },
+      {
+         "Brand": "Grecian 5",
+         "Sales in million U.S. dollars": 0.1
+      }
+   ]
+}

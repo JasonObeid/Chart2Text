@@ -1,0 +1,106 @@
+{
+   "title": "Dividend per share of Daimler AG 2006 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Dividend per share in euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Dividend per share in euros, with a total of 14 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2015 to 2012.",
+      " Contrarily, the next significant trend is  positive which exists from 2009 to 2006.",
+      " Also, the next significant trend is  positive which exists from 2019 to 2017.",
+      " In a similar manner, the next significant trend is  negative which exists from 2011 to 2009."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 4,
+         "end": 7,
+         "trend": "y=0.34x+-671.98",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 10,
+         "end": 13,
+         "trend": "y=-0.59x+1185.45",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-1.38x+2777.35",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=1.1x+-2209.65",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Dividend per share in euros": 0.9
+      },
+      {
+         "Year": "2018",
+         "Dividend per share in euros": 3.25
+      },
+      {
+         "Year": "2017",
+         "Dividend per share in euros": 3.65
+      },
+      {
+         "Year": "2016",
+         "Dividend per share in euros": 3.25
+      },
+      {
+         "Year": "2015",
+         "Dividend per share in euros": 3.25
+      },
+      {
+         "Year": "2014",
+         "Dividend per share in euros": 2.45
+      },
+      {
+         "Year": "2013",
+         "Dividend per share in euros": 2.25
+      },
+      {
+         "Year": "2012",
+         "Dividend per share in euros": 2.2
+      },
+      {
+         "Year": "2011",
+         "Dividend per share in euros": 2.2
+      },
+      {
+         "Year": "2010",
+         "Dividend per share in euros": 1.85
+      },
+      {
+         "Year": "2009",
+         "Dividend per share in euros": 0.0
+      },
+      {
+         "Year": "2008",
+         "Dividend per share in euros": 0.6
+      },
+      {
+         "Year": "2007",
+         "Dividend per share in euros": 2.0
+      },
+      {
+         "Year": "2006",
+         "Dividend per share in euros": 1.5
+      }
+   ]
+}

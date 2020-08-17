@@ -1,0 +1,70 @@
+{
+   "title": "Coal - global proved reserves by type 2010 to 2018",
+   "labels": [
+      "Year",
+      "Anthracite and bituminous",
+      "Sub-bituminous and lignite"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the value of business-to-business ( 2018 , including-business-to-government or B2G ) and business-to-consumer ( 2018 ) Coal global proved reserves in the Coal from 2010 to 2018 . ",
+      "In 2018 , global to and bituminous ( 2018 ) amounted to 734903 million British pounds . ",
+      "This is an increase of over 70 million British pounds since 2016 ."
+   ],
+   "trends": [
+      {
+         "27": [
+            "0",
+            "0"
+         ],
+         "29": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "4",
+            "0"
+         ],
+         "12": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "11": [
+            "3",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Anthracite and bituminous": "404762",
+         "Sub-bituminous and lignite": "456176"
+      },
+      {
+         "Year": "2012",
+         "Anthracite and bituminous": "404762",
+         "Sub-bituminous and lignite": "456176"
+      },
+      {
+         "Year": "2014",
+         "Anthracite and bituminous": "403199",
+         "Sub-bituminous and lignite": "488332"
+      },
+      {
+         "Year": "2016",
+         "Anthracite and bituminous": "816214",
+         "Sub-bituminous and lignite": "323117"
+      },
+      {
+         "Year": "2018",
+         "Anthracite and bituminous": "734903",
+         "Sub-bituminous and lignite": "319879"
+      }
+   ]
+}

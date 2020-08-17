@@ -1,0 +1,80 @@
+{
+   "title": "Miele : global revenue 2006/07 to 2017/18\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion euros, with a total of 12 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2017/18 to 2008/09.",
+      " But, the next significant trend is  positive which exists from 2008/09 to 2006/07."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 0,
+         "end": 9,
+         "trend": "y=0.15x+-300.26",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=0.01x+-27.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Revenue in billion euros": 4.1
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in billion euros": 3.93
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in billion euros": 3.71
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in billion euros": 3.49
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in billion euros": 3.22
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in billion euros": 3.15
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in billion euros": 3.04
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in billion euros": 2.95
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in billion euros": 2.83
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in billion euros": 2.77
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in billion euros": 2.81
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in billion euros": 2.74
+      }
+   ]
+}

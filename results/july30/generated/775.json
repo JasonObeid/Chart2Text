@@ -1,0 +1,58 @@
+{
+   "title": "Leading airlines worldwide - based on total number of passengers 2018\n",
+   "xAxis": "Airlines",
+   "yAxis": "Number of passengers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Airlines, and a y axis representing Number of passengers in millions.",
+      " The highest category is found at American where Number of passengers in millions is 203.7.",
+      " The lowest category is found at Air_China where Number of passengers in millions is 110.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Airlines": "American",
+         "Number of passengers in millions": 203.7
+      },
+      {
+         "Airlines": "Delta",
+         "Number of passengers in millions": 192.5
+      },
+      {
+         "Airlines": "Southwest",
+         "Number of passengers in millions": 163.6
+      },
+      {
+         "Airlines": "United Continental",
+         "Number of passengers in millions": 158.3
+      },
+      {
+         "Airlines": "Lufthansa",
+         "Number of passengers in millions": 142.3
+      },
+      {
+         "Airlines": "Ryanair",
+         "Number of passengers in millions": 142.1
+      },
+      {
+         "Airlines": "China Southern",
+         "Number of passengers in millions": 140.0
+      },
+      {
+         "Airlines": "China Eastern",
+         "Number of passengers in millions": 122.5
+      },
+      {
+         "Airlines": "IAG",
+         "Number of passengers in millions": 113.0
+      },
+      {
+         "Airlines": "Air China",
+         "Number of passengers in millions": 110.0
+      }
+   ]
+}

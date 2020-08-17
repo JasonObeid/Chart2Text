@@ -1,0 +1,95 @@
+{
+   "title": "Public sector expenditure as a share of GDP in the United Kingdom ( UK ) 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Expenditure as share of GDP",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total United Kingdom ( UK ) expenditure share GDP from fiscal Year 2000/01 to fiscal Year 2018/19 . ",
+      "There were some fluctuations during this period , the largest of which was from 2008/09 to 2009/10 when the revenue went from a peak of 36.9 billion British pounds ( GDP ) to 39.4 billion GDP in the next fiscal Year ."
+   ],
+   "trends": [
+      {},
+      {
+         "25": "10",
+         "33": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18/19",
+         "Expenditure as share of GDP": "34.1"
+      },
+      {
+         "Year": "17/18",
+         "Expenditure as share of GDP": "34.4"
+      },
+      {
+         "Year": "16/17",
+         "Expenditure as share of GDP": "34.8"
+      },
+      {
+         "Year": "15/16",
+         "Expenditure as share of GDP": "35.7"
+      },
+      {
+         "Year": "14/15",
+         "Expenditure as share of GDP": "36.4"
+      },
+      {
+         "Year": "13/14",
+         "Expenditure as share of GDP": "37.3"
+      },
+      {
+         "Year": "12/13",
+         "Expenditure as share of GDP": "38.3"
+      },
+      {
+         "Year": "11/12",
+         "Expenditure as share of GDP": "39.1"
+      },
+      {
+         "Year": "10/11",
+         "Expenditure as share of GDP": "39.7"
+      },
+      {
+         "Year": "09/10",
+         "Expenditure as share of GDP": "39.4"
+      },
+      {
+         "Year": "08/09",
+         "Expenditure as share of GDP": "36.9"
+      },
+      {
+         "Year": "07/08",
+         "Expenditure as share of GDP": "34.9"
+      },
+      {
+         "Year": "06/07",
+         "Expenditure as share of GDP": "34.5"
+      },
+      {
+         "Year": "05/06",
+         "Expenditure as share of GDP": "34.7"
+      },
+      {
+         "Year": "04/05",
+         "Expenditure as share of GDP": "34.9"
+      },
+      {
+         "Year": "03/04",
+         "Expenditure as share of GDP": "34"
+      },
+      {
+         "Year": "02/03",
+         "Expenditure as share of GDP": "32.8"
+      },
+      {
+         "Year": "01/02",
+         "Expenditure as share of GDP": "32.1"
+      },
+      {
+         "Year": "00/01",
+         "Expenditure as share of GDP": "31.8"
+      }
+   ]
+}

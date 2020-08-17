@@ -1,0 +1,47 @@
+{
+   "title": "Attitudes towards gay marriage in Great Britain from 1975 to 2014",
+   "labels": [
+      "Year",
+      "Agree",
+      "Disagree",
+      "Don't know"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Attitudes of towards gay in Great Britain 1975 and 2014 , from 1975 . ",
+      "In 1975 , Agree automobiles and Agree generated a Attitudes of 16 % in the total gay in Great Britain ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "1",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Agree": "69",
+         "Disagree": "28",
+         "Don't know": "3"
+      },
+      {
+         "Year": "1975",
+         "Agree": "16",
+         "Disagree": "53",
+         "Don't know": "31"
+      }
+   ]
+}

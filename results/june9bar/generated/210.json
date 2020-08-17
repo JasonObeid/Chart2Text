@@ -1,0 +1,51 @@
+{
+   "title": "Engie - revenue by region 2018",
+   "xAxis": "Country",
+   "yAxis": "Revenue in billion euros",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows a ranking of key revenue by in selected countries in 2018 , with the highest rate of Engie revenue worldwide . ",
+      "The majority of France , with around 24.98 billion euros ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "France",
+         "Revenue in billion euros": "24.98"
+      },
+      {
+         "Country": "Other EU countries",
+         "Revenue in billion euros": "15.45"
+      },
+      {
+         "Country": "Belgium",
+         "Revenue in billion euros": "5.96"
+      },
+      {
+         "Country": "Asia Middle East and Oceania",
+         "Revenue in billion euros": "4.94"
+      },
+      {
+         "Country": "South America",
+         "Revenue in billion euros": "4.2"
+      },
+      {
+         "Country": "North America",
+         "Revenue in billion euros": "3.87"
+      },
+      {
+         "Country": "Other European countries",
+         "Revenue in billion euros": "0.82"
+      },
+      {
+         "Country": "Africa",
+         "Revenue in billion euros": "0.39"
+      }
+   ]
+}

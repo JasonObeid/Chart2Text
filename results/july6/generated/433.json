@@ -1,0 +1,85 @@
+{
+   "title": "Male tennis players by number of Grand Slam tournament titles up to 2020",
+   "xAxis": "Month",
+   "yAxis": "Number of Grand Slam victories",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic presents a ranking of leading Grand Slam by on Grand as of 2017 , based on the Number of Slam . ",
+      "As of the survey period , Novak_Djokovic_(SRB) ranked third with 17 million Slam . ",
+      "Roger_Federer_(SUI) Cosmetics was ranked first with 20 million Slam ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "2",
+         "10": "2"
+      },
+      {
+         "0": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Roger Federer (SUI)",
+         "Number of Grand Slam victories": "20"
+      },
+      {
+         "Month": "Rafael Nadal (ESP)",
+         "Number of Grand Slam victories": "19"
+      },
+      {
+         "Month": "Novak Djokovic (SRB)",
+         "Number of Grand Slam victories": "17"
+      },
+      {
+         "Month": "Pete Sampras (USA)",
+         "Number of Grand Slam victories": "14"
+      },
+      {
+         "Month": "Roy Emerson (AUS)",
+         "Number of Grand Slam victories": "12"
+      },
+      {
+         "Month": "Bj\u00f6rn Borg (SWE)",
+         "Number of Grand Slam victories": "11"
+      },
+      {
+         "Month": "Rodney Laver (AUS)",
+         "Number of Grand Slam victories": "11"
+      },
+      {
+         "Month": "William Tilden (USA)",
+         "Number of Grand Slam victories": "10"
+      },
+      {
+         "Month": "Frederick Perry (ENG)",
+         "Number of Grand Slam victories": "8"
+      },
+      {
+         "Month": "Andre Agassi (USA)",
+         "Number of Grand Slam victories": "8"
+      },
+      {
+         "Month": "James Connors (USA)",
+         "Number of Grand Slam victories": "8"
+      },
+      {
+         "Month": "Kenneth Rosewall (AUS)",
+         "Number of Grand Slam victories": "8"
+      },
+      {
+         "Month": "Ivan Lendl (CZE/USA)",
+         "Number of Grand Slam victories": "8"
+      },
+      {
+         "Month": "Henri Cochet (FRA)",
+         "Number of Grand Slam victories": "8"
+      },
+      {
+         "Month": "Max D\u00e9cugis (FRA)",
+         "Number of Grand Slam victories": "8"
+      }
+   ]
+}

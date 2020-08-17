@@ -1,0 +1,112 @@
+{
+   "title": "Polo Ralph Lauren 's workforce worldwide 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of employees, with a total of 11 data points. The chart has 6 significant trends.",
+      " The longest trend is  negative which exists from 2012 to 2009.",
+      " Contrarily, the next significant trend is  negative which exists from 2019 to 2017.",
+      " But, the next significant trend is  negative which exists from 2016 to 2014.",
+      " On the contrary, the next significant trend is  positive which exists from 2017 to 2016.",
+      " Correspondingly, the next significant trend is  neutral which exists from 2014 to 2013.",
+      " Correspondingly, the next significant trend is  positive which exists from 2013 to 2012."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 7,
+         "end": 10,
+         "trend": "y=2900.0x+-5809200.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=500.0x+-985300.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 3,
+         "end": 5,
+         "trend": "y=1500.0x+-2997833.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 2,
+         "end": 3,
+         "trend": "y=-2700.0x+5469200.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 5,
+         "end": 6,
+         "trend": "y=0.0x+23000.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 6,
+         "end": 7,
+         "trend": "y=-2000.0x+4049000.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of employees": 24300.0
+      },
+      {
+         "Year": "2018",
+         "Number of employees": 23500.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees": 23300.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 26000.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 25000.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 23000.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 23000.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees": 25000.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 24000.0
+      },
+      {
+         "Year": "2010",
+         "Number of employees": 19000.0
+      },
+      {
+         "Year": "2009",
+         "Number of employees": 17000.0
+      }
+   ]
+}

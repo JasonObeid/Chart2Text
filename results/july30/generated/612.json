@@ -1,0 +1,51 @@
+{
+   "title": "Number of Starwood Hotels and Resorts hotels worldwide 2009 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Number of hotels",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of hotels with a total of 7 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 2009 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 0,
+         "end": 6,
+         "trend": "y=44.25x+-87955.57",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2009",
+         "Number of hotels": 942.0
+      },
+      {
+         "Year": "2010",
+         "Number of hotels": 979.0
+      },
+      {
+         "Year": "2011",
+         "Number of hotels": 1041.0
+      },
+      {
+         "Year": "2012",
+         "Number of hotels": 1077.0
+      },
+      {
+         "Year": "2013",
+         "Number of hotels": 1121.0
+      },
+      {
+         "Year": "2014",
+         "Number of hotels": 1161.0
+      },
+      {
+         "Year": "2015",
+         "Number of hotels": 1207.0
+      }
+   ]
+}

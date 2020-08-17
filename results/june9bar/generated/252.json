@@ -1,0 +1,55 @@
+{
+   "title": "Sales of the leading toy companies worldwide 2013",
+   "xAxis": "Company",
+   "yAxis": "Sales in million U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Sales of the Sales leading toy companies in the 2013 in . ",
+      "In that year , Hasbro had a Sales of 4500 million U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2",
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Mattel",
+         "Sales in million U.S. dollars": "6300"
+      },
+      {
+         "Company": "Lego",
+         "Sales in million U.S. dollars": "4500"
+      },
+      {
+         "Company": "Hasbro",
+         "Sales in million U.S. dollars": "4000"
+      },
+      {
+         "Company": "MGA Entertainment",
+         "Sales in million U.S. dollars": "2000"
+      },
+      {
+         "Company": "Playmobil",
+         "Sales in million U.S. dollars": "790"
+      },
+      {
+         "Company": "Jakks Pacific",
+         "Sales in million U.S. dollars": "700"
+      },
+      {
+         "Company": "LeapFrog",
+         "Sales in million U.S. dollars": "580"
+      },
+      {
+         "Company": "MEGA Bloks",
+         "Sales in million U.S. dollars": "400"
+      },
+      {
+         "Company": "Melissa & Doug",
+         "Sales in million U.S. dollars": "325"
+      }
+   ]
+}

@@ -1,0 +1,156 @@
+{
+   "title": "Latin America & Caribbean : unemployment rate 2019 - 2024 , by country",
+   "labels": [
+      "Country",
+      "2019",
+      "2024"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Belize & Caribbean unemployment ( Latin ) in Latin America Caribbean 2019 and 2024 . ",
+      "In 2024 , Caribbean unemployment in the Puerto_Rico amounted to some 11.4 million metric tons . ",
+      "Thus , the Puerto_Rico is among the global top three Caribbean producers ."
+   ],
+   "trends": [
+      {
+         "4": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "7": [
+            "3",
+            "0"
+         ],
+         "11": [
+            "3",
+            "2"
+         ]
+      },
+      {
+         "3": [
+            "3",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "Venezuela",
+         "2019": "44.3",
+         "2024": "56"
+      },
+      {
+         "Country": "Nicaragua",
+         "2019": "23.4",
+         "2024": "12.5"
+      },
+      {
+         "Country": "Brazil",
+         "2019": "11.4",
+         "2024": "9"
+      },
+      {
+         "Country": "Puerto Rico",
+         "2019": "11",
+         "2024": "11.4"
+      },
+      {
+         "Country": "Jamaica",
+         "2019": "11",
+         "2024": "8.6"
+      },
+      {
+         "Country": "Barbados",
+         "2019": "10.4",
+         "2024": "9.3"
+      },
+      {
+         "Country": "Belize",
+         "2019": "10.1",
+         "2024": "13.7"
+      },
+      {
+         "Country": "Argentina",
+         "2019": "9.9",
+         "2024": "8.8"
+      },
+      {
+         "Country": "Colombia",
+         "2019": "9.7",
+         "2024": "9"
+      },
+      {
+         "Country": "Costa Rica",
+         "2019": "9.7",
+         "2024": "9.3"
+      },
+      {
+         "Country": "Bahamas",
+         "2019": "9",
+         "2024": "8.6"
+      },
+      {
+         "Country": "Uruguay",
+         "2019": "8.1",
+         "2024": "7.4"
+      },
+      {
+         "Country": "El Salvador",
+         "2019": "6.7",
+         "2024": "6.9"
+      },
+      {
+         "Country": "Peru",
+         "2019": "6.6",
+         "2024": "6.5"
+      },
+      {
+         "Country": "Chile",
+         "2019": "6.5",
+         "2024": "6"
+      },
+      {
+         "Country": "Panama",
+         "2019": "6.1",
+         "2024": "6"
+      },
+      {
+         "Country": "Paraguay",
+         "2019": "5.7",
+         "2024": "5.8"
+      },
+      {
+         "Country": "Dominican Republic",
+         "2019": "5.2",
+         "2024": "5.2"
+      },
+      {
+         "Country": "Trinidad and Tobago",
+         "2019": "4.8",
+         "2024": "4.4"
+      },
+      {
+         "Country": "Ecuador",
+         "2019": "4.3",
+         "2024": "4.5"
+      },
+      {
+         "Country": "Bolivia",
+         "2019": "4",
+         "2024": "4"
+      },
+      {
+         "Country": "Mexico",
+         "2019": "3.5",
+         "2024": "3.4"
+      },
+      {
+         "Country": "Honduras",
+         "2019": "3.4",
+         "2024": "3.7"
+      }
+   ]
+}

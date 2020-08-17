@@ -1,0 +1,65 @@
+{
+   "title": "U.S. consumer sentiments towards Black Friday shopping 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the results of a survey about the sentiments towards of several individual U.S. None_of_these in Black Friday 2015 , phrased It's_a_tradition the question : `` except reading books . ",
+      "As of 2017 , 42 % of respondents felt None_of_these followed by the It_is_a_great_opportunity_to_buy_gifts_for_the_holidays and I_like_it_even_more_now_that_I_can_shop_online were followed by It's_a_tradition ."
+   ],
+   "trends": [
+      {
+         "16": "9",
+         "23": "1"
+      },
+      {
+         "4": "0",
+         "9": "9",
+         "13": "0",
+         "15": "2",
+         "19": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "It is a great opportunity to buy gifts for the holidays",
+         "Share of respondents": "42"
+      },
+      {
+         "Response": "It's a tradition",
+         "Share of respondents": "39"
+      },
+      {
+         "Response": "I like it even more now that I can shop online",
+         "Share of respondents": "37"
+      },
+      {
+         "Response": "It is the best opportunity to buy expensive items at a discount",
+         "Share of respondents": "33"
+      },
+      {
+         "Response": "It is when you find promotions that are not available at any other time of year",
+         "Share of respondents": "31"
+      },
+      {
+         "Response": "It is a good way to spend quality time with friends/family",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "I will wait until Cyber Monday to do most of my shopping",
+         "Share of respondents": "18"
+      },
+      {
+         "Response": "Promotions are never on products I am interested in",
+         "Share of respondents": "16"
+      },
+      {
+         "Response": "Retailers just discount their worst brands",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "None of these",
+         "Share of respondents": "5"
+      }
+   ]
+}

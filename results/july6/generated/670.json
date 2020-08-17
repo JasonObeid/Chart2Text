@@ -1,0 +1,60 @@
+{
+   "title": "Overall highest winning percentage of pro tennis players 2016",
+   "xAxis": "Month",
+   "yAxis": "Winning percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Overall highest percentage titles tennis as of 2019 . ",
+      "With 89.7 percentage sold tennis , Andy_Murray 7 was the Overall highest percentage game as of 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Andy Murray",
+         "Winning percentage": "89.7"
+      },
+      {
+         "Month": "Novak Djokovic",
+         "Winning percentage": "87.8"
+      },
+      {
+         "Month": "Milos Raonic",
+         "Winning percentage": "75.4"
+      },
+      {
+         "Month": "Roger Federer",
+         "Winning percentage": "75"
+      },
+      {
+         "Month": "Rafael Nadal",
+         "Winning percentage": "73.6"
+      },
+      {
+         "Month": "Kei Nishikori",
+         "Winning percentage": "73.4"
+      },
+      {
+         "Month": "Juan Martin del Potro",
+         "Winning percentage": "72.7"
+      },
+      {
+         "Month": "Nick Kyrgios",
+         "Winning percentage": "72.2"
+      },
+      {
+         "Month": "Gael Monfils",
+         "Winning percentage": "72.1"
+      },
+      {
+         "Month": "Stan Wawrinka",
+         "Winning percentage": "71.9"
+      }
+   ]
+}

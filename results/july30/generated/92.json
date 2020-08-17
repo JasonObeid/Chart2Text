@@ -1,0 +1,145 @@
+{
+   "title": "Clothing and clothing accessories store sales in the United States 1992 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 26 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 0 to 92.",
+      " On the contrary, the next significant trend is  negative which exists from 16 to 9.",
+      " Differently, the next significant trend is  negative which exists from 7 to 1."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 17,
+         "end": 25,
+         "trend": "y=-0.3x+165.24",
+         "magnitude": ""
+      },
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 1,
+         "end": 8,
+         "trend": "y=7.98x+137.27",
+         "magnitude": ""
+      },
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 10,
+         "end": 16,
+         "trend": "y=9.49x+154.01",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "17",
+         "Billion U.S. dollars": 258.74
+      },
+      {
+         "Year": "16",
+         "Billion U.S. dollars": 259.84
+      },
+      {
+         "Year": "15",
+         "Billion U.S. dollars": 255.8
+      },
+      {
+         "Year": "14",
+         "Billion U.S. dollars": 250.41
+      },
+      {
+         "Year": "13",
+         "Billion U.S. dollars": 244.72
+      },
+      {
+         "Year": "12",
+         "Billion U.S. dollars": 239.49
+      },
+      {
+         "Year": "11",
+         "Billion U.S. dollars": 228.61
+      },
+      {
+         "Year": "10",
+         "Billion U.S. dollars": 213.29
+      },
+      {
+         "Year": "9",
+         "Billion U.S. dollars": 204.48
+      },
+      {
+         "Year": "8",
+         "Billion U.S. dollars": 215.58
+      },
+      {
+         "Year": "7",
+         "Billion U.S. dollars": 221.21
+      },
+      {
+         "Year": "6",
+         "Billion U.S. dollars": 213.19
+      },
+      {
+         "Year": "5",
+         "Billion U.S. dollars": 200.97
+      },
+      {
+         "Year": "4",
+         "Billion U.S. dollars": 190.25
+      },
+      {
+         "Year": "3",
+         "Billion U.S. dollars": 178.69
+      },
+      {
+         "Year": "2",
+         "Billion U.S. dollars": 172.3
+      },
+      {
+         "Year": "1",
+         "Billion U.S. dollars": 167.29
+      },
+      {
+         "Year": "0",
+         "Billion U.S. dollars": 167.67
+      },
+      {
+         "Year": "99",
+         "Billion U.S. dollars": 159.75
+      },
+      {
+         "Year": "98",
+         "Billion U.S. dollars": 149.15
+      },
+      {
+         "Year": "97",
+         "Billion U.S. dollars": 140.29
+      },
+      {
+         "Year": "96",
+         "Billion U.S. dollars": 136.58
+      },
+      {
+         "Year": "95",
+         "Billion U.S. dollars": 131.33
+      },
+      {
+         "Year": "94",
+         "Billion U.S. dollars": 129.08
+      },
+      {
+         "Year": "93",
+         "Billion U.S. dollars": 124.75
+      },
+      {
+         "Year": "92",
+         "Billion U.S. dollars": 120.1
+      }
+   ]
+}

@@ -1,0 +1,45 @@
+{
+   "title": "Total retail sales of U.S. shopping malls 2005 , by size",
+   "xAxis": "Gross leasable area in square feet",
+   "yAxis": "Total retail sales in billion U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Total retail sales U.S. in the sales as of 2015 , sorted malls 2005 . ",
+      "During that period , 443.8 billion of the retail sales in Less_than_100001 were 100001_to_200000 via Less_than_100001 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "11": "0",
+         "13": "1",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Gross leasable area in square feet": "Less than 100001",
+         "Total retail sales in billion U.S. dollars": "443.8"
+      },
+      {
+         "Gross leasable area in square feet": "100001 to 200000",
+         "Total retail sales in billion U.S. dollars": "388.6"
+      },
+      {
+         "Gross leasable area in square feet": "200001 to 400000",
+         "Total retail sales in billion U.S. dollars": "234.2"
+      },
+      {
+         "Gross leasable area in square feet": "400001 to 800000",
+         "Total retail sales in billion U.S. dollars": "197.6"
+      },
+      {
+         "Gross leasable area in square feet": "800001 to 1000000",
+         "Total retail sales in billion U.S. dollars": "97.3"
+      },
+      {
+         "Gross leasable area in square feet": "More than one million",
+         "Total retail sales in billion U.S. dollars": "168.9"
+      }
+   ]
+}

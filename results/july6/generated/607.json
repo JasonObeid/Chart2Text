@@ -1,0 +1,82 @@
+{
+   "title": "Fatal police shootings England and Wales 2004 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Fatailities",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the England stadium Fatailities for the England Championships from 2004 to 2018/19 . ",
+      "A England of 4 million people watched the matches of the England EURO 2017/18 tournament live in the stadiums ."
+   ],
+   "trends": [
+      {
+         "14": "0"
+      },
+      {
+         "3": "1",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Fatailities": "3"
+      },
+      {
+         "Year": "2017/18",
+         "Fatailities": "4"
+      },
+      {
+         "Year": "2016/17",
+         "Fatailities": "6"
+      },
+      {
+         "Year": "2015/16",
+         "Fatailities": "3"
+      },
+      {
+         "Year": "2014/15",
+         "Fatailities": "1"
+      },
+      {
+         "Year": "2013/14",
+         "Fatailities": "0"
+      },
+      {
+         "Year": "2012/13",
+         "Fatailities": "0"
+      },
+      {
+         "Year": "2011/12",
+         "Fatailities": "2"
+      },
+      {
+         "Year": "2010/11",
+         "Fatailities": "2"
+      },
+      {
+         "Year": "2009/10",
+         "Fatailities": "2"
+      },
+      {
+         "Year": "2008/09",
+         "Fatailities": "3"
+      },
+      {
+         "Year": "2007/08",
+         "Fatailities": "5"
+      },
+      {
+         "Year": "2006/07",
+         "Fatailities": "1"
+      },
+      {
+         "Year": "2005/06",
+         "Fatailities": "5"
+      },
+      {
+         "Year": "2004/05",
+         "Fatailities": "3"
+      }
+   ]
+}

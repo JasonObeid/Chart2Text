@@ -1,0 +1,84 @@
+{
+   "title": "Global mine production of asbestos 2007 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in thousand metric tons, with a total of 13 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2019 to 2014.",
+      " Likewise, the next significant trend is  positive which exists from 2010 to 2007."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 0,
+         "end": 5,
+         "trend": "y=-207.43x+419733.05",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 9,
+         "end": 12,
+         "trend": "y=-59.0x+120594.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in thousand metric tons": 1100.0
+      },
+      {
+         "Year": "2018",
+         "Production in thousand metric tons": 1150.0
+      },
+      {
+         "Year": "2017",
+         "Production in thousand metric tons": 1170.0
+      },
+      {
+         "Year": "2016",
+         "Production in thousand metric tons": 1280.0
+      },
+      {
+         "Year": "2015",
+         "Production in thousand metric tons": 2000.0
+      },
+      {
+         "Year": "2014",
+         "Production in thousand metric tons": 2020.0
+      },
+      {
+         "Year": "2013",
+         "Production in thousand metric tons": 2020.0
+      },
+      {
+         "Year": "2012",
+         "Production in thousand metric tons": 1970.0
+      },
+      {
+         "Year": "2011",
+         "Production in thousand metric tons": 2030.0
+      },
+      {
+         "Year": "2010",
+         "Production in thousand metric tons": 2010.0
+      },
+      {
+         "Year": "2009",
+         "Production in thousand metric tons": 2070.0
+      },
+      {
+         "Year": "2008",
+         "Production in thousand metric tons": 2090.0
+      },
+      {
+         "Year": "2007",
+         "Production in thousand metric tons": 2200.0
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "title": "Countries with the most Snapchat users 2020",
+   "xAxis": "Country",
+   "yAxis": "Audience size in millions",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives a ranking of the Countries most the largest Snapchat audiences worldwide as of 2020 . ",
+      "During the measured period , the United_States were ranked first most an Audience of 101.25 millions 2020 ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Audience size in millions": "101.25"
+      },
+      {
+         "Country": "India",
+         "Audience size in millions": "22.95"
+      },
+      {
+         "Country": "France",
+         "Audience size in millions": "21.25"
+      },
+      {
+         "Country": "United Kingdom",
+         "Audience size in millions": "18.7"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Audience size in millions": "16.1"
+      },
+      {
+         "Country": "Mexico",
+         "Audience size in millions": "14.8"
+      },
+      {
+         "Country": "Brazil",
+         "Audience size in millions": "13.95"
+      },
+      {
+         "Country": "Germany",
+         "Audience size in millions": "12.15"
+      },
+      {
+         "Country": "Canada",
+         "Audience size in millions": "8.15"
+      },
+      {
+         "Country": "Russia",
+         "Audience size in millions": "7.75"
+      }
+   ]
+}

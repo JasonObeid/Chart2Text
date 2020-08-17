@@ -1,0 +1,62 @@
+{
+   "title": "Twitter : number of employees 2008 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of employees",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Twitter of number in Twitter as of 2019 . ",
+      "In 2018 , Dec_'19 was the most popular number of employees ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec '19",
+         "Number of employees": "4900"
+      },
+      {
+         "Month": "Dec '18",
+         "Number of employees": "3920"
+      },
+      {
+         "Month": "Dec '17",
+         "Number of employees": "3372"
+      },
+      {
+         "Month": "Dec '16",
+         "Number of employees": "3583"
+      },
+      {
+         "Month": "Dec '15",
+         "Number of employees": "3900"
+      },
+      {
+         "Month": "Dec '14",
+         "Number of employees": "3638"
+      },
+      {
+         "Month": "Dec '13",
+         "Number of employees": "2712"
+      },
+      {
+         "Month": "Jan '11",
+         "Number of employees": "350"
+      },
+      {
+         "Month": "Jan '10",
+         "Number of employees": "130"
+      },
+      {
+         "Month": "Jan '09",
+         "Number of employees": "29"
+      },
+      {
+         "Month": "Jan '08",
+         "Number of employees": "8"
+      }
+   ]
+}

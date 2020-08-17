@@ -1,0 +1,62 @@
+{
+   "title": "Tier 1 capital ratio at Bank of America 2009 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Tier 1 capital ratio",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic presents the Tier 1 capital ratio at Bank America from 2009 to 2018 . ",
+      "Tier 1 capital is the core measure of bank 's financial strength from the regulator 's point of view . ",
+      "It is the ratio of bank 's core equity capital to the total risk-weighted assets ."
+   ],
+   "trends": [
+      {
+         "11": "9",
+         "13": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Tier 1 capital ratio": "13.2"
+      },
+      {
+         "Year": "2017",
+         "Tier 1 capital ratio": "13"
+      },
+      {
+         "Year": "2016",
+         "Tier 1 capital ratio": "12.4"
+      },
+      {
+         "Year": "2015",
+         "Tier 1 capital ratio": "11.3"
+      },
+      {
+         "Year": "2014",
+         "Tier 1 capital ratio": "13.4"
+      },
+      {
+         "Year": "2013",
+         "Tier 1 capital ratio": "12.2"
+      },
+      {
+         "Year": "2012",
+         "Tier 1 capital ratio": "11"
+      },
+      {
+         "Year": "2011",
+         "Tier 1 capital ratio": "9.9"
+      },
+      {
+         "Year": "2010",
+         "Tier 1 capital ratio": "8.6"
+      },
+      {
+         "Year": "2009",
+         "Tier 1 capital ratio": "7.8"
+      }
+   ]
+}

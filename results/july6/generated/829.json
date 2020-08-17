@@ -1,0 +1,40 @@
+{
+   "title": "Fresh orange production volume in the European Union 2016/17 , by country",
+   "xAxis": "Country",
+   "yAxis": "Volume in 1,000 tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Fresh orange production volume European Union in . ",
+      "In , the most important orange partner volume European Union was Spain , accounting volume 3731 % of all tons ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Spain",
+         "Volume in 1,000 tons": "3731"
+      },
+      {
+         "Country": "Italy",
+         "Volume in 1,000 tons": "1500"
+      },
+      {
+         "Country": "Greece",
+         "Volume in 1,000 tons": "920"
+      },
+      {
+         "Country": "Portugal",
+         "Volume in 1,000 tons": "344"
+      },
+      {
+         "Country": "Cyprus",
+         "Volume in 1,000 tons": "30"
+      }
+   ]
+}

@@ -1,0 +1,70 @@
+{
+   "title": "Number of hospitals in Finland 2007 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of hospitals",
+   "graphType": "line",
+   "summary": [
+      "The Number of hospitals in Finland peaked in 2012 , when almost 325 thousand couples got divorced . ",
+      "Since then the divorce Number decreased until 2017 , when it again increased and amounted to almost 247 thousand hospitals . ",
+      "A similar trend can be seen in the neighbor country Norway , where the Number of hospitals decreased for several years but increased again in 2016 ."
+   ],
+   "trends": [
+      {
+         "8": "5",
+         "12": "10"
+      },
+      {
+         "7": "0",
+         "17": "0"
+      },
+      {
+         "25": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of hospitals": "247"
+      },
+      {
+         "Year": "2016",
+         "Number of hospitals": "262"
+      },
+      {
+         "Year": "2015",
+         "Number of hospitals": "268"
+      },
+      {
+         "Year": "2014",
+         "Number of hospitals": "258"
+      },
+      {
+         "Year": "2013",
+         "Number of hospitals": "259"
+      },
+      {
+         "Year": "2012",
+         "Number of hospitals": "263"
+      },
+      {
+         "Year": "2011",
+         "Number of hospitals": "275"
+      },
+      {
+         "Year": "2010",
+         "Number of hospitals": "280"
+      },
+      {
+         "Year": "2009",
+         "Number of hospitals": "298"
+      },
+      {
+         "Year": "2008",
+         "Number of hospitals": "320"
+      },
+      {
+         "Year": "2007",
+         "Number of hospitals": "325"
+      }
+   ]
+}

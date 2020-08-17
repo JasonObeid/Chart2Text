@@ -1,0 +1,47 @@
+{
+   "title": "Residential solar PV : U.S. market value 2016",
+   "xAxis": "Year",
+   "yAxis": "Market value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the Market value of solar PV U.S. in the PV U.S. snow sports market from 2011 to 2016 . ",
+      "In 2016 , the total Market value of solar PV U.S. amounted to approximately 4.7 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "17": "5",
+         "19": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Market value in billion U.S. dollars": "4.7"
+      },
+      {
+         "Year": "2015",
+         "Market value in billion U.S. dollars": "3.7"
+      },
+      {
+         "Year": "2014",
+         "Market value in billion U.S. dollars": "2.9"
+      },
+      {
+         "Year": "2013",
+         "Market value in billion U.S. dollars": "2.3"
+      },
+      {
+         "Year": "2012",
+         "Market value in billion U.S. dollars": "1.7"
+      },
+      {
+         "Year": "2011",
+         "Market value in billion U.S. dollars": "1.2"
+      }
+   ]
+}

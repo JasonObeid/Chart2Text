@@ -1,0 +1,71 @@
+{
+   "title": "Number of casinos worldwide 2011 by region",
+   "xAxis": "Country",
+   "yAxis": "Number of casinos",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of casinos in Number 2011 , broken down 2011 by . ",
+      "That year , there were a total of approximately two thousand casinos in North_America . ",
+      "Almost 1623 thousand had Spanish by , followed 2011 casinos with a Moroccan by with figures that almost reached 770 thousand individuals ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "0"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "North America",
+         "Number of casinos": "1623"
+      },
+      {
+         "Country": "Western Europe",
+         "Number of casinos": "682"
+      },
+      {
+         "Country": "Eastern Europe",
+         "Number of casinos": "479"
+      },
+      {
+         "Country": "South America",
+         "Number of casinos": "199"
+      },
+      {
+         "Country": "Africa",
+         "Number of casinos": "157"
+      },
+      {
+         "Country": "Caribbean",
+         "Number of casinos": "124"
+      },
+      {
+         "Country": "Far East",
+         "Number of casinos": "103"
+      },
+      {
+         "Country": "Central America",
+         "Number of casinos": "93"
+      },
+      {
+         "Country": "Central Asia",
+         "Number of casinos": "42"
+      },
+      {
+         "Country": "Oceania",
+         "Number of casinos": "25"
+      },
+      {
+         "Country": "South Asia",
+         "Number of casinos": "15"
+      },
+      {
+         "Country": "Middle East",
+         "Number of casinos": "5"
+      }
+   ]
+}

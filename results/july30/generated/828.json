@@ -1,0 +1,74 @@
+{
+   "title": "Breakdown of the Department of Homeland Security budget by organization 2020\n",
+   "xAxis": "Organisation",
+   "yAxis": "Budget authority in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 14 categories for the x axis representing Organisation, and a y axis representing Budget authority in million U.S. dollars.",
+      " The highest category is found at Federal_Emergency_Management_Agency where Budget authority in million U.S. dollars is 28708.82.",
+      " The lowest category is found at Office_of_Inspector_General where Budget authority in million U.S. dollars is 170.19."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 13
+   },
+   "data": [
+      {
+         "Organisation": "Federal Emergency Management Agency",
+         "Budget authority in million U.S. dollars": 28708.82
+      },
+      {
+         "Organisation": "U.S. Customs and Border Protection",
+         "Budget authority in million U.S. dollars": 20850.39
+      },
+      {
+         "Organisation": "U.S. Coast Guard",
+         "Budget authority in million U.S. dollars": 11339.98
+      },
+      {
+         "Organisation": "U.S. Immigration and Customs Enforcement",
+         "Budget authority in million U.S. dollars": 9308.59
+      },
+      {
+         "Organisation": "Transportation Security Administration",
+         "Budget authority in million U.S. dollars": 7785.63
+      },
+      {
+         "Organisation": "United States Citizenship and Immigration Services",
+         "Budget authority in million U.S. dollars": 4840.41
+      },
+      {
+         "Organisation": "Cybersecurity and Infrastructure Security Agency",
+         "Budget authority in million U.S. dollars": 3168.08
+      },
+      {
+         "Organisation": "U.S. Secret Service",
+         "Budget authority in million U.S. dollars": 2573.98
+      },
+      {
+         "Organisation": "Management Directorate",
+         "Budget authority in million U.S. dollars": 1698.6
+      },
+      {
+         "Organisation": "Science and Technology Directorate",
+         "Budget authority in million U.S. dollars": 582.12
+      },
+      {
+         "Organisation": "Countering Weapons of Mass Destruction",
+         "Budget authority in million U.S. dollars": 423.16
+      },
+      {
+         "Organisation": "Federal Law Enforcement Training Centers",
+         "Budget authority in million U.S. dollars": 350.94
+      },
+      {
+         "Organisation": "Analysis and Operations",
+         "Budget authority in million U.S. dollars": 276.64
+      },
+      {
+         "Organisation": "Office of Inspector General",
+         "Budget authority in million U.S. dollars": 170.19
+      }
+   ]
+}

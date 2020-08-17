@@ -1,0 +1,38 @@
+{
+   "title": "Number of earthquakes in Italy 2018 - 2019 , by magnitude\n",
+   "xAxis": "Magnitude",
+   "yAxis": "Number of earthquakes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Magnitude, and a y axis representing Number of earthquakes.",
+      " The highest category is found at Magnitude_0+ where Number of earthquakes is 21869.0.",
+      " The lowest category is found at Magnitude_5.5+ where Number of earthquakes is 0.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Magnitude": "Magnitude 0+",
+         "Number of earthquakes": 21869.0
+      },
+      {
+         "Magnitude": "Magnitude 2+",
+         "Number of earthquakes": 2384.0
+      },
+      {
+         "Magnitude": "Magnitude 3+",
+         "Number of earthquakes": 226.0
+      },
+      {
+         "Magnitude": "Magnitude 4+",
+         "Number of earthquakes": 20.0
+      },
+      {
+         "Magnitude": "Magnitude 5.5+",
+         "Number of earthquakes": 0.0
+      }
+   ]
+}

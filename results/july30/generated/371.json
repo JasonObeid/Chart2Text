@@ -1,0 +1,89 @@
+{
+   "title": "U.S. passenger-miles : Intercity/Amtrak 2007 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "U.S. passenger-miles in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing U.S. passenger-miles in millions, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2013 to 2009.",
+      " But, the next significant trend is  positive which exists from 2016 to 2013.",
+      " Likewise, the next significant trend is  positive which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 5,
+         "end": 9,
+         "trend": "y=307.0x+-610789.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 2,
+         "end": 5,
+         "trend": "y=-242.8x+495874.1",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=65.0x+-124561.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. passenger-miles in millions": 6361.0
+      },
+      {
+         "Year": "2017",
+         "U.S. passenger-miles in millions": 6563.0
+      },
+      {
+         "Year": "2016",
+         "U.S. passenger-miles in millions": 6520.0
+      },
+      {
+         "Year": "2015",
+         "U.S. passenger-miles in millions": 6536.0
+      },
+      {
+         "Year": "2014",
+         "U.S. passenger-miles in millions": 6675.0
+      },
+      {
+         "Year": "2013",
+         "U.S. passenger-miles in millions": 7283.0
+      },
+      {
+         "Year": "2012",
+         "U.S. passenger-miles in millions": 6752.0
+      },
+      {
+         "Year": "2011",
+         "U.S. passenger-miles in millions": 6568.0
+      },
+      {
+         "Year": "2010",
+         "U.S. passenger-miles in millions": 6420.0
+      },
+      {
+         "Year": "2009",
+         "U.S. passenger-miles in millions": 5914.0
+      },
+      {
+         "Year": "2008",
+         "U.S. passenger-miles in millions": 6179.0
+      },
+      {
+         "Year": "2007",
+         "U.S. passenger-miles in millions": 5784.0
+      }
+   ]
+}

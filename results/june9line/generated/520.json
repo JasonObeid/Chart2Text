@@ -1,0 +1,76 @@
+{
+   "title": "Population in Norway 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "graphType": "line",
+   "summary": [
+      "The Population Norway in was slightly between 2009 and 2015 , peaking in 2009 at 4.8 millions . ",
+      "In the following years , the Population Norway never fell below 5.33 , except in 2014 , when the Population Norway was 5.12 . ",
+      "According to this forecast , between 2016 and 2019 the Population Norway is expected to increase again slightly , until it is back at the 2019 level in 2019 ."
+   ],
+   "trends": [
+      {
+         "8": "10",
+         "10": "4",
+         "14": "10",
+         "16": "10"
+      },
+      {
+         "11": "0",
+         "15": "5",
+         "22": "5"
+      },
+      {
+         "6": "3",
+         "8": "0",
+         "25": "0",
+         "28": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "5.33"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "5.3"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "5.26"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "5.21"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "5.17"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "5.12"
+      },
+      {
+         "Year": "2013",
+         "Inhabitants in millions": "5.05"
+      },
+      {
+         "Year": "2012",
+         "Inhabitants in millions": "4.99"
+      },
+      {
+         "Year": "2011",
+         "Inhabitants in millions": "4.92"
+      },
+      {
+         "Year": "2010",
+         "Inhabitants in millions": "4.86"
+      },
+      {
+         "Year": "2009",
+         "Inhabitants in millions": "4.8"
+      }
+   ]
+}

@@ -1,0 +1,44 @@
+{
+   "title": "Forecast on U.S. petroleum refinery end-use market output 2020 to 2024",
+   "xAxis": "Year",
+   "yAxis": "Change from year to year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the refinery end-use year rate of the U.S. Change from 2020 to 2024 . ",
+      "The Change from is expected to grow by 0.5 % from 2021 to 2022 ."
+   ],
+   "trends": [
+      {
+         "14": "4",
+         "16": "0"
+      },
+      {
+         "8": "2",
+         "11": "3",
+         "13": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Change from year to year": "2"
+      },
+      {
+         "Year": "2023",
+         "Change from year to year": "0.5"
+      },
+      {
+         "Year": "2022",
+         "Change from year to year": "0.5"
+      },
+      {
+         "Year": "2021",
+         "Change from year to year": "0.8"
+      },
+      {
+         "Year": "2020",
+         "Change from year to year": "2.2"
+      }
+   ]
+}

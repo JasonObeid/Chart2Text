@@ -1,0 +1,73 @@
+{
+   "title": "Production of copper in Canada by province 2018",
+   "xAxis": "Month",
+   "yAxis": "Production in metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Canada Business Production from 2019 to 2020 . ",
+      "In 2020 , the Production amounted to 27456 . ",
+      "The Production consists of 10 indicators derived from questions addressing Canada owners : Plans to create employment ; plans to make capital outlays ; plans to increase inventories ; expect economy to improve ; expect real sales higher ; current inventory ; current job openings ; expected credit conditions ; now a good time to expand ; earnings trends ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Newfoundland and Labrador",
+         "Production in metric tons": "27456"
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Production in metric tons": "0"
+      },
+      {
+         "Month": "Nova Scotia",
+         "Production in metric tons": "0"
+      },
+      {
+         "Month": "New Brunswick",
+         "Production in metric tons": "487"
+      },
+      {
+         "Month": "Quebec",
+         "Production in metric tons": "35912"
+      },
+      {
+         "Month": "Ontario",
+         "Production in metric tons": "135297"
+      },
+      {
+         "Month": "Manitoba",
+         "Production in metric tons": "33608"
+      },
+      {
+         "Month": "Saskatchewan",
+         "Production in metric tons": "0"
+      },
+      {
+         "Month": "Alberta",
+         "Production in metric tons": "0"
+      },
+      {
+         "Month": "British Columbia",
+         "Production in metric tons": "293468"
+      },
+      {
+         "Month": "Yukon",
+         "Production in metric tons": "9282"
+      },
+      {
+         "Month": "Northwest Territories",
+         "Production in metric tons": "0"
+      },
+      {
+         "Month": "Nunavut",
+         "Production in metric tons": "0"
+      }
+   ]
+}

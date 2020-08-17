@@ -1,0 +1,68 @@
+{
+   "title": "Market share of passengers carried in India 2018 by domestic airlines",
+   "xAxis": "Airline Brand",
+   "yAxis": "Domestic market share",
+   "graphType": "bar",
+   "summary": [
+      "The statistic presents the Domestic market of share India 2018 as of 2018 , measured Airline . ",
+      "In that year , Indigo had a Indigo of 39.7 % share ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "7": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Airline Brand": "Indigo",
+         "Domestic market share": "39.7"
+      },
+      {
+         "Airline Brand": "Jet Airways",
+         "Domestic market share": "15"
+      },
+      {
+         "Airline Brand": "Spicejet",
+         "Domestic market share": "13.1"
+      },
+      {
+         "Airline Brand": "Air India",
+         "Domestic market share": "12"
+      },
+      {
+         "Airline Brand": "Go Air",
+         "Domestic market share": "8.8"
+      },
+      {
+         "Airline Brand": "Air Asia",
+         "Domestic market share": "4"
+      },
+      {
+         "Airline Brand": "Vistara",
+         "Domestic market share": "3.6"
+      },
+      {
+         "Airline Brand": "Jetlite",
+         "Domestic market share": "2.2"
+      },
+      {
+         "Airline Brand": "Alliance Air",
+         "Domestic market share": "1"
+      },
+      {
+         "Airline Brand": "Truejet",
+         "Domestic market share": "0.4"
+      },
+      {
+         "Airline Brand": "Air India Express",
+         "Domestic market share": "0.1"
+      },
+      {
+         "Airline Brand": "Others",
+         "Domestic market share": "0.02"
+      }
+   ]
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Forecast of nickel consumption worldwide 2015 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Consumption in thousand metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Consumption in thousand metric tons with a total of 6 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2020 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 0,
+         "end": 5,
+         "trend": "y=81.74x+-162750.71",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Consumption in thousand metric tons": 2376.0
+      },
+      {
+         "Year": "2019",
+         "Consumption in thousand metric tons": 2288.0
+      },
+      {
+         "Year": "2018",
+         "Consumption in thousand metric tons": 2199.0
+      },
+      {
+         "Year": "2017",
+         "Consumption in thousand metric tons": 2117.0
+      },
+      {
+         "Year": "2016",
+         "Consumption in thousand metric tons": 2050.0
+      },
+      {
+         "Year": "2015",
+         "Consumption in thousand metric tons": 1963.0
+      }
+   ]
+}

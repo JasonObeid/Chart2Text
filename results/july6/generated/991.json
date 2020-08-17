@@ -1,0 +1,69 @@
+{
+   "title": "Salaries of heads of state and government",
+   "xAxis": "Month",
+   "yAxis": "Annual salary (in U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the heads Annual of nurse state in government Canada , sorted government , in . ",
+      "In Lee_Hsien_Loong_(Singapore) , around 2183500 salary were part of the government state , while in Mwai_Kibaki_(Kenya) there were almost 72,000 salary ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "4": "0",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Lee Hsien Loong (Singapore)",
+         "Annual salary (in U.S. dollars)": "2183500"
+      },
+      {
+         "Month": "Mwai Kibaki (Kenya)",
+         "Annual salary (in U.S. dollars)": "427900"
+      },
+      {
+         "Month": "Barack Obama (United States)",
+         "Annual salary (in U.S. dollars)": "400000"
+      },
+      {
+         "Month": "Nicolas Sarkozy (France)",
+         "Annual salary (in U.S. dollars)": "302400"
+      },
+      {
+         "Month": "Stephen Harper (Canada)",
+         "Annual salary (in U.S. dollars)": "296400"
+      },
+      {
+         "Month": "Brian Cowen (Ireland)",
+         "Annual salary (in U.S. dollars)": "287900"
+      },
+      {
+         "Month": "Julia Gillard (Australia)",
+         "Annual salary (in U.S. dollars)": "286800"
+      },
+      {
+         "Month": "Angela Merkel (Germany)",
+         "Annual salary (in U.S. dollars)": "283600"
+      },
+      {
+         "Month": "Naoto Kan (Japan)",
+         "Annual salary (in U.S. dollars)": "273700"
+      },
+      {
+         "Month": "Jacob Zuma (South Africa)",
+         "Annual salary (in U.S. dollars)": "272300"
+      },
+      {
+         "Month": "John Key (New Zealand)",
+         "Annual salary (in U.S. dollars)": "271800"
+      },
+      {
+         "Month": "David Cameron (United Kingdom)",
+         "Annual salary (in U.S. dollars)": "215400"
+      }
+   ]
+}

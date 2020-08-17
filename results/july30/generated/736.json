@@ -1,0 +1,30 @@
+{
+   "title": "Banco Santander global operations : geographic diversification of profit 2019\n",
+   "xAxis": "Region",
+   "yAxis": "Share of attributable profit",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Region, and a y axis representing Share of attributable profit.",
+      " The highest category is found at Europe where Share of attributable profit is 47.0.",
+      " The lowest category is found at North_America where Share of attributable profit is 16.0."
+   ],
+   "trends": {
+      "maxIndex": 2,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Region": "North America",
+         "Share of attributable profit": 16.0
+      },
+      {
+         "Region": "South America",
+         "Share of attributable profit": 37.0
+      },
+      {
+         "Region": "Europe",
+         "Share of attributable profit": 47.0
+      }
+   ]
+}

@@ -1,0 +1,105 @@
+{
+   "title": "Share of economic sectors in the GDP in Bulgaria 2008 to 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Share of the economic sectors GDP ( Bulgaria ) 2008 2018 in Bulgaria from 2008 to 2018 . ",
+      "In 2018 , Agriculture contributed around 3.65 % to the Bulgaria of , 23.76 % came from the Industry and 59.24 % from the service sector ."
+   ],
+   "trends": [
+      {
+         "19": [
+            "10",
+            "0"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "3.65",
+         "Industry": "23.76",
+         "Services": "59.24"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "4.07",
+         "Industry": "24.67",
+         "Services": "57.99"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "4.05",
+         "Industry": "24.43",
+         "Services": "57.8"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "4.14",
+         "Industry": "24.09",
+         "Services": "58.2"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "4.56",
+         "Industry": "23.68",
+         "Services": "58.6"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "4.61",
+         "Industry": "23.48",
+         "Services": "57.99"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "4.56",
+         "Industry": "25",
+         "Services": "56.97"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "4.6",
+         "Industry": "25.61",
+         "Services": "57.24"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "4.16",
+         "Industry": "23.81",
+         "Services": "58.99"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "4.24",
+         "Industry": "26.38",
+         "Services": "56.19"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "5.88",
+         "Industry": "24.92",
+         "Services": "53.31"
+      }
+   ]
+}

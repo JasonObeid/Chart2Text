@@ -1,0 +1,47 @@
+{
+   "title": "Prescription for glasses or contact lenses in the UK 2014 , by country",
+   "labels": [
+      "Country",
+      "Yes",
+      "No"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 5 categories for the x axis of Country representing Yes, and No.",
+      " The highest category is found at Northern Ireland with a mean value of 50.0.",
+      " The second highest category is found at Scotland with a mean value of 50.0.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "secondIndex": 3
+   },
+   "data": [
+      {
+         "Country": "England",
+         "Yes": "78",
+         "No": "22"
+      },
+      {
+         "Country": "Wales",
+         "Yes": "66",
+         "No": "33"
+      },
+      {
+         "Country": "Scotland",
+         "Yes": "84",
+         "No": "16"
+      },
+      {
+         "Country": "Northern Ireland",
+         "Yes": "77",
+         "No": "23"
+      },
+      {
+         "Country": "United Kingdom",
+         "Yes": "77",
+         "No": "22"
+      }
+   ]
+}

@@ -1,0 +1,94 @@
+{
+   "title": "Infant mortality rate in Greece 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Deaths per 1,000 live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Deaths per 1,000 live births, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2015 to 2011.",
+      " On the contrary, the next significant trend is  neutral which exists from 2011 to 2008.",
+      " On the contrary, the next significant trend is  positive which exists from 2018 to 2016.",
+      " Additionally, the next significant trend is  neutral which exists from 2016 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 3,
+         "end": 7,
+         "trend": "y=0.12x+-238.04",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "neutral",
+         "start": 7,
+         "end": 10,
+         "trend": "y=0.0x+3.3",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-0.1x+205.4",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 2,
+         "end": 3,
+         "trend": "y=0.0x+3.8",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Deaths per 1,000 live births": 3.6
+      },
+      {
+         "Year": "2017",
+         "Deaths per 1,000 live births": 3.7
+      },
+      {
+         "Year": "2016",
+         "Deaths per 1,000 live births": 3.8
+      },
+      {
+         "Year": "2015",
+         "Deaths per 1,000 live births": 3.8
+      },
+      {
+         "Year": "2014",
+         "Deaths per 1,000 live births": 3.6
+      },
+      {
+         "Year": "2013",
+         "Deaths per 1,000 live births": 3.5
+      },
+      {
+         "Year": "2012",
+         "Deaths per 1,000 live births": 3.4
+      },
+      {
+         "Year": "2011",
+         "Deaths per 1,000 live births": 3.3
+      },
+      {
+         "Year": "2010",
+         "Deaths per 1,000 live births": 3.3
+      },
+      {
+         "Year": "2009",
+         "Deaths per 1,000 live births": 3.3
+      },
+      {
+         "Year": "2008",
+         "Deaths per 1,000 live births": 3.3
+      }
+   ]
+}

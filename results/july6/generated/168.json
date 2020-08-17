@@ -1,0 +1,99 @@
+{
+   "title": "Leading car manufacturing countries worldwide 2018",
+   "labels": [
+      "Country",
+      "Cars",
+      "Commercial vehicles"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Leading car in the manufacturing countries worldwide in 2018 . ",
+      "In that year , China was the Leading producer with a manufacturing countries rate of approximately 4279.77 million U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Cars": "23529.42",
+         "Commercial vehicles": "4279.77"
+      },
+      {
+         "Country": "United States",
+         "Cars": "2795.97",
+         "Commercial vehicles": "8518.73"
+      },
+      {
+         "Country": "Japan",
+         "Cars": "8358.22",
+         "Commercial vehicles": "1370.31"
+      },
+      {
+         "Country": "India",
+         "Cars": "4064.77",
+         "Commercial vehicles": "1109.87"
+      },
+      {
+         "Country": "Germany",
+         "Cars": "5120.41",
+         "Commercial vehicles": "0.0"
+      },
+      {
+         "Country": "Mexico",
+         "Cars": "1575.81",
+         "Commercial vehicles": "2524.72"
+      },
+      {
+         "Country": "South Korea",
+         "Cars": "3661.73",
+         "Commercial vehicles": "367.1"
+      },
+      {
+         "Country": "Brazil",
+         "Cars": "2386.76",
+         "Commercial vehicles": "493.05"
+      },
+      {
+         "Country": "Spain",
+         "Cars": "2267.4",
+         "Commercial vehicles": "552.17"
+      },
+      {
+         "Country": "France",
+         "Cars": "1763.0",
+         "Commercial vehicles": "507.0"
+      },
+      {
+         "Country": "Thailand",
+         "Cars": "877.02",
+         "Commercial vehicles": "1290.68"
+      },
+      {
+         "Country": "Canada",
+         "Cars": "655.9",
+         "Commercial vehicles": "1364.94"
+      },
+      {
+         "Country": "Russia",
+         "Cars": "1563.57",
+         "Commercial vehicles": "204.1"
+      },
+      {
+         "Country": "UK",
+         "Cars": "1519.44",
+         "Commercial vehicles": "84.89"
+      }
+   ]
+}

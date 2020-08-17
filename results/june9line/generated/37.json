@@ -1,0 +1,67 @@
+{
+   "title": "Edible grocery sales forecast for Tesco in the United Kingdom ( UK ) from 2010 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Sales in million US dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Sales million of the carmaker Tesco from the fiscal Year of 2008 to the fiscal Year of 2020 in million dollars . ",
+      "In the fiscal Year of 2020 , Tesco grocery Sales million amounted to around 52714.03 million dollars ( roughly 22.3 million U.S. dollars ) . ",
+      "The Tesco Motor Corporation is a Japan-based multinational company with headquarters in Japan ."
+   ],
+   "trends": [
+      {
+         "21": "0"
+      },
+      {
+         "5": "0",
+         "14": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Sales in million US dollars": "52714.03"
+      },
+      {
+         "Year": "2019",
+         "Sales in million US dollars": "50821.69"
+      },
+      {
+         "Year": "2018",
+         "Sales in million US dollars": "49342.45"
+      },
+      {
+         "Year": "2017",
+         "Sales in million US dollars": "47921.14"
+      },
+      {
+         "Year": "2016",
+         "Sales in million US dollars": "46631.26"
+      },
+      {
+         "Year": "2015",
+         "Sales in million US dollars": "45524.45"
+      },
+      {
+         "Year": "2014",
+         "Sales in million US dollars": "47444.1"
+      },
+      {
+         "Year": "2013",
+         "Sales in million US dollars": "44802.19"
+      },
+      {
+         "Year": "2012",
+         "Sales in million US dollars": "45335.47"
+      },
+      {
+         "Year": "2011",
+         "Sales in million US dollars": "44899.26"
+      },
+      {
+         "Year": "2010",
+         "Sales in million US dollars": "40675.81"
+      }
+   ]
+}

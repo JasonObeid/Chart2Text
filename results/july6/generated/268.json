@@ -1,0 +1,121 @@
+{
+   "title": "Average age at marriage in the Netherlands 1950 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Average age of Netherlands inhabitants from 1950 to 2018 . ",
+      "In 2018 , about 38.2 % of inhabitants were aged 0 to 14 years , while approximately 35.2 % were aged 15 to 64 , and 35.2 % of Netherlands inhabitants were aged Women or older ."
+   ],
+   "trends": [
+      {
+         "10": [
+            "14",
+            "0"
+         ],
+         "12": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "4": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "26": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Men": "38.2",
+         "Women": "35.2"
+      },
+      {
+         "Year": "2015",
+         "Men": "37.5",
+         "Women": "34.4"
+      },
+      {
+         "Year": "2010",
+         "Men": "36.6",
+         "Women": "33.4"
+      },
+      {
+         "Year": "2005",
+         "Men": "35.8",
+         "Women": "32.7"
+      },
+      {
+         "Year": "2000",
+         "Men": "34.1",
+         "Women": "31.1"
+      },
+      {
+         "Year": "1995",
+         "Men": "32.4",
+         "Women": "29.6"
+      },
+      {
+         "Year": "1990",
+         "Men": "30.7",
+         "Women": "28.0"
+      },
+      {
+         "Year": "1985",
+         "Men": "29.1",
+         "Women": "26.3"
+      },
+      {
+         "Year": "1980",
+         "Men": "27.4",
+         "Women": "24.5"
+      },
+      {
+         "Year": "1975",
+         "Men": "26.5",
+         "Women": "23.8"
+      },
+      {
+         "Year": "1970",
+         "Men": "26.2",
+         "Women": "23.7"
+      },
+      {
+         "Year": "1965",
+         "Men": "27.1",
+         "Women": "24.3"
+      },
+      {
+         "Year": "1960",
+         "Men": "28.3",
+         "Women": "25.4"
+      },
+      {
+         "Year": "1955",
+         "Men": "29.2",
+         "Women": "26.3"
+      },
+      {
+         "Year": "1950",
+         "Men": "30.0",
+         "Women": "26.9"
+      }
+   ]
+}

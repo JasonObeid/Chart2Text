@@ -1,0 +1,81 @@
+{
+   "title": "New York Rangers ( NHL ) average ticket price 2014/15\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 14/15 to 10/11.",
+      " But, the next significant trend is  negative which exists from 08/09 to 05/06.",
+      " On the other hand, the next significant trend is  neutral which exists from 10/11 to 08/09."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=0.05x+13.12",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 6,
+         "end": 9,
+         "trend": "y=0.04x+24.53",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 4,
+         "end": 6,
+         "trend": "y=0.0x+58.57",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "14/15",
+         "Average ticket price in U.S. dollars": 77.87
+      },
+      {
+         "Year": "13/14",
+         "Average ticket price in U.S. dollars": 74.89
+      },
+      {
+         "Year": "12/13",
+         "Average ticket price in U.S. dollars": 72.04
+      },
+      {
+         "Year": "11/12",
+         "Average ticket price in U.S. dollars": 66.2
+      },
+      {
+         "Year": "10/11",
+         "Average ticket price in U.S. dollars": 58.57
+      },
+      {
+         "Year": "09/10",
+         "Average ticket price in U.S. dollars": 58.57
+      },
+      {
+         "Year": "08/09",
+         "Average ticket price in U.S. dollars": 58.57
+      },
+      {
+         "Year": "07/08",
+         "Average ticket price in U.S. dollars": 54.96
+      },
+      {
+         "Year": "06/07",
+         "Average ticket price in U.S. dollars": 50.33
+      },
+      {
+         "Year": "05/06",
+         "Average ticket price in U.S. dollars": 45.83
+      }
+   ]
+}

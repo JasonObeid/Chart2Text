@@ -1,0 +1,82 @@
+{
+   "title": "Public opinion on the most important problem facing the U.S. 2020\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 16 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Dissatisfaction_with_government/Poor_leadership where Share of respondents is 28.0.",
+      " The lowest category is found at Situation_in_Iraq/ISIS where Share of respondents is 2.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Response": "Dissatisfaction with government/Poor leadership",
+         "Share of respondents": 28.0
+      },
+      {
+         "Response": "Immigration",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Healthcare",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Ethics/moral/religious/family decline",
+         "Share of respondents": 5.0
+      },
+      {
+         "Response": "Unifying the country",
+         "Share of respondents": 5.0
+      },
+      {
+         "Response": "Poverty/Hunger/Homelessness",
+         "Share of respondents": 5.0
+      },
+      {
+         "Response": "Lack of respect for each other",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Environment/Pollution/Climate change",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Race relations/Racism",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Situation in Iraq/ISIS",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Foreign policy/Foreign aid/Focus overseas",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Economy in general",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Guns/Gun control",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Gap between rich and poor",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Education",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Wars/War (nonspecific)/Fear of war",
+         "Share of respondents": 2.0
+      }
+   ]
+}

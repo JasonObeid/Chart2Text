@@ -1,0 +1,65 @@
+{
+   "title": "Population density in Italy 2018",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants per square kilometer",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , Italy had a Population density of about 206.67 people per square kilometer . ",
+      "The country has one of the lowest Population densities in the world , as the total Population is very small in relation to the dimensions of the land . ",
+      "Italy has a relatively stable Population size , consistently with a growth of around one percent compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "10": "4"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Inhabitants per square kilometer": "205.45"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants per square kilometer": "205.81"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants per square kilometer": "206.12"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants per square kilometer": "206.47"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants per square kilometer": "206.67"
+      },
+      {
+         "Year": "2013",
+         "Inhabitants per square kilometer": "204.78"
+      },
+      {
+         "Year": "2012",
+         "Inhabitants per square kilometer": "202.42"
+      },
+      {
+         "Year": "2011",
+         "Inhabitants per square kilometer": "201.87"
+      },
+      {
+         "Year": "2010",
+         "Inhabitants per square kilometer": "201.53"
+      },
+      {
+         "Year": "2009",
+         "Inhabitants per square kilometer": "200.91"
+      },
+      {
+         "Year": "2008",
+         "Inhabitants per square kilometer": "200.0"
+      }
+   ]
+}

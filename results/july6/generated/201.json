@@ -1,0 +1,55 @@
+{
+   "title": "Global broiler meat production 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the broiler Production of Global Corporation between the fiscal Year of 2012 and the fiscal Year of 2019 . ",
+      "For the fiscal Year of 2019 , the Cincinnati-based specialized facility services company reported an broiler Production of just under 97802 thousand metric tons ."
+   ],
+   "trends": [
+      {
+         "14": "7",
+         "20": "0"
+      },
+      {
+         "5": "0",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in thousand metric tons": "97802"
+      },
+      {
+         "Year": "2018",
+         "Production in thousand metric tons": "95500"
+      },
+      {
+         "Year": "2017",
+         "Production in thousand metric tons": "93622"
+      },
+      {
+         "Year": "2016",
+         "Production in thousand metric tons": "92252"
+      },
+      {
+         "Year": "2015",
+         "Production in thousand metric tons": "91352"
+      },
+      {
+         "Year": "2014",
+         "Production in thousand metric tons": "86761"
+      },
+      {
+         "Year": "2013",
+         "Production in thousand metric tons": "84369"
+      },
+      {
+         "Year": "2012",
+         "Production in thousand metric tons": "83267"
+      }
+   ]
+}

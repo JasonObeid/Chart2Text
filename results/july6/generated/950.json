@@ -1,0 +1,60 @@
+{
+   "title": "Runner-up at World Cup tournaments by country 1930 to 2014",
+   "xAxis": "Country",
+   "yAxis": "Number of runners-up",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the share of tournaments runners-up Runner-up World Cup runners-up country in 1930 , Country . ",
+      "In 1930 , tournaments Runner-up World Cup runners-up by in Germany accounted for around 4 % of the world 's total tournaments runners-up grid-connected World Cup runners-up ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of runners-up": "4"
+      },
+      {
+         "Country": "Netherlands the",
+         "Number of runners-up": "3"
+      },
+      {
+         "Country": "Argentina",
+         "Number of runners-up": "3"
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of runners-up": "2"
+      },
+      {
+         "Country": "Brazil",
+         "Number of runners-up": "2"
+      },
+      {
+         "Country": "Czechoslovakia",
+         "Number of runners-up": "2"
+      },
+      {
+         "Country": "Italy",
+         "Number of runners-up": "2"
+      },
+      {
+         "Country": "Hungary",
+         "Number of runners-up": "2"
+      },
+      {
+         "Country": "France",
+         "Number of runners-up": "1"
+      },
+      {
+         "Country": "Sweden",
+         "Number of runners-up": "1"
+      }
+   ]
+}

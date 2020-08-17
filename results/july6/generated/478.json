@@ -1,0 +1,58 @@
+{
+   "title": "Canada - resident population , by gender and age group 2019",
+   "labels": [
+      "Age group",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays the Canada of resident that the gender of a Canada award age group gone on to win an Academy Award in that same year , sorted by category . ",
+      "The Academy Award for 0_to_17_years has been 2019 3.69 resident by a Canada winner in the same year , and 3.53 resident by Female else ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "0",
+            "0"
+         ],
+         "8": [
+            "0",
+            "1"
+         ],
+         "20": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Age group": "0 to 17 years",
+         "Male": "3.69",
+         "Female": "3.53"
+      },
+      {
+         "Age group": "18 to 24 years",
+         "Male": "1.76",
+         "Female": "1.62"
+      },
+      {
+         "Age group": "25 to 44 years",
+         "Male": "5.16",
+         "Female": "5.07"
+      },
+      {
+         "Age group": "45 to 64 years",
+         "Male": "5.04",
+         "Female": "5.12"
+      },
+      {
+         "Age group": "65 years and over",
+         "Male": "3.03",
+         "Female": "3.56"
+      }
+   ]
+}

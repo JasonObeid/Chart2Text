@@ -1,0 +1,40 @@
+{
+   "title": "YouTube usage penetration in the United States 2019 , by age group",
+   "xAxis": "Year",
+   "yAxis": "Reach",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the share of internet users in the United States who were using United States as of the third quarter 2019 , sorted by age . ",
+      "Overall , 81 % of States online users aged 26 to 35 15-25_years used the mobile messaging service ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "15-25 years",
+         "Reach": "81"
+      },
+      {
+         "Year": "26-35 years",
+         "Reach": "71"
+      },
+      {
+         "Year": "36-45 years",
+         "Reach": "67"
+      },
+      {
+         "Year": "46-55 years",
+         "Reach": "66"
+      },
+      {
+         "Year": "56+ years",
+         "Reach": "58"
+      }
+   ]
+}

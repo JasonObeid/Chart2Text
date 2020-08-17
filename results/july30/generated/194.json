@@ -1,0 +1,122 @@
+{
+   "title": "Dallas Mavericks ' revenue 2001 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2018/19 to 2011/12.",
+      " Differently, the next significant trend is  negative which exists from 2008/09 to 2006/07.",
+      " On the other hand, the next significant trend is  negative which exists from 2005/06 to 2003/04.",
+      " Conversely, the next significant trend is  neutral which exists from 2003/04 to 2001/02."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 0,
+         "end": 7,
+         "trend": "y=24.13x+-48403.68",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 10,
+         "end": 12,
+         "trend": "y=7.0x+-13900.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 13,
+         "end": 15,
+         "trend": "y=11.5x+-22919.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 15,
+         "end": 17,
+         "trend": "y=6.0x+-11899.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 307.0
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 287.0
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 233.0
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 194.0
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 177.0
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": 168.0
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": 162.0
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": 137.0
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": 166.0
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": 146.0
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": 154.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": 153.0
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": 140.0
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": 140.0
+      },
+      {
+         "Year": "2004/05",
+         "Revenue in million U.S. dollars": 124.0
+      },
+      {
+         "Year": "2003/04",
+         "Revenue in million U.S. dollars": 117.0
+      },
+      {
+         "Year": "2002/03",
+         "Revenue in million U.S. dollars": 117.0
+      },
+      {
+         "Year": "2001/02",
+         "Revenue in million U.S. dollars": 105.0
+      }
+   ]
+}

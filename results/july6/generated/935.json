@@ -1,0 +1,40 @@
+{
+   "title": "U.S. grill ownership by type of grill 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic illustrates the answers to the following survey question : `` The ownership Gas_grill grill will probably cost a thousand euros . ",
+      "Electric_grill you willing to pay that ? '' As of 2018 , roughly 20 % of the respondents said to Gas_grill the from U.S. when it is released , even if it 2018 them a thousand euros . ",
+      "However , more than half of the respondents said the price is Charcoal_grill absurd for an U.S. Gas_grill ."
+   ],
+   "trends": [
+      {
+         "14": "0"
+      },
+      {
+         "0": "2",
+         "20": "0",
+         "22": "0"
+      },
+      {
+         "12": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Gas grill",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "Charcoal grill",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Electric grill",
+         "Share of respondents": "9"
+      }
+   ]
+}

@@ -1,0 +1,67 @@
+{
+   "title": "National debt of Nigeria in relation to gross domestic product ( GDP ) 2024 \n",
+   "xAxis": "Year",
+   "yAxis": "National debt in relation to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing National debt in relation to GDP with a total of 11 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2024 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 11,
+         "direction": "negative",
+         "start": 0,
+         "end": 10,
+         "trend": "y=1.83x+-3664.89",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in relation to GDP": 35.98
+      },
+      {
+         "Year": "2023",
+         "National debt in relation to GDP": 35.06
+      },
+      {
+         "Year": "2022",
+         "National debt in relation to GDP": 33.88
+      },
+      {
+         "Year": "2021",
+         "National debt in relation to GDP": 32.64
+      },
+      {
+         "Year": "2020",
+         "National debt in relation to GDP": 31.35
+      },
+      {
+         "Year": "2019",
+         "National debt in relation to GDP": 29.78
+      },
+      {
+         "Year": "2018",
+         "National debt in relation to GDP": 27.26
+      },
+      {
+         "Year": "2017",
+         "National debt in relation to GDP": 25.34
+      },
+      {
+         "Year": "2016",
+         "National debt in relation to GDP": 23.41
+      },
+      {
+         "Year": "2015",
+         "National debt in relation to GDP": 20.33
+      },
+      {
+         "Year": "2014",
+         "National debt in relation to GDP": 17.54
+      }
+   ]
+}

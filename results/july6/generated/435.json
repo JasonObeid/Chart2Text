@@ -1,0 +1,68 @@
+{
+   "title": "Regular season average attendance of the San Francisco Giants 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average Regular season home attendance of the San Francisco Giants Dodgers from 2009 to 2019 . ",
+      "In 2019 , the Average Regular season home attendance of the San Francisco Giants Dodgers was 41818 33429 \u2022 San Francisco Giants Dodgers total home attendance \u2022 Major League Baseball Average per game attendance \u2022 Major League Baseball total attendance . "
+   ],
+   "trends": [
+      {
+         "14": "10",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "14": "8",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": "33429"
+      },
+      {
+         "Year": "2018",
+         "Average attendance": "38965"
+      },
+      {
+         "Year": "2017",
+         "Average attendance": "40785"
+      },
+      {
+         "Year": "2016",
+         "Average attendance": "41546"
+      },
+      {
+         "Year": "2015",
+         "Average attendance": "41677"
+      },
+      {
+         "Year": "2014",
+         "Average attendance": "41588"
+      },
+      {
+         "Year": "2013",
+         "Average attendance": "41584"
+      },
+      {
+         "Year": "2012",
+         "Average attendance": "41695"
+      },
+      {
+         "Year": "2011",
+         "Average attendance": "41818"
+      },
+      {
+         "Year": "2010",
+         "Average attendance": "37499"
+      },
+      {
+         "Year": "2009",
+         "Average attendance": "35322"
+      }
+   ]
+}

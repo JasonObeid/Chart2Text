@@ -1,0 +1,39 @@
+{
+   "title": "Global operating margin of CPG companies 2016 , by company",
+   "xAxis": "Company",
+   "yAxis": "Operating margin",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Operating of the operating margin CPG companies in 2016 . ",
+      "As of that year , the Kraft_Heinz had a Operating of around 21.9 % margin CPG ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Kraft Heinz",
+         "Operating margin": "21.9"
+      },
+      {
+         "Company": "Kimberly-Clark",
+         "Operating margin": "18.2"
+      },
+      {
+         "Company": "General Mills",
+         "Operating margin": "15.9"
+      },
+      {
+         "Company": "PepsiCo",
+         "Operating margin": "15.6"
+      },
+      {
+         "Company": "Nestl\u00e9",
+         "Operating margin": "14.7"
+      }
+   ]
+}

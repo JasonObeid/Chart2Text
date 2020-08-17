@@ -1,0 +1,94 @@
+{
+   "title": "Internazionale Milan revenue by stream 2018/19",
+   "labels": [
+      "Season",
+      "Matchday",
+      "Broadcasting",
+      "Commercial"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "Broadcasting is the largest source of revenue for Internazionale Milan . ",
+      "In 2018/2019 , the club earned approximately 159.2 million euros from Broadcasting , more than triple in 2010/2011 . ",
+      "The second biggest revenue stream is the Commercial one ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Season": "2018/19",
+         "Matchday": "50.9",
+         "Broadcasting": "159.2",
+         "Commercial": "154.5"
+      },
+      {
+         "Season": "2017/18",
+         "Matchday": "35.3",
+         "Broadcasting": "97.7",
+         "Commercial": "147.8"
+      },
+      {
+         "Season": "2016/17",
+         "Matchday": "28.4",
+         "Broadcasting": "103.6",
+         "Commercial": "130.1"
+      },
+      {
+         "Season": "2015/16",
+         "Matchday": "25.7",
+         "Broadcasting": "98.6",
+         "Commercial": "54.9"
+      },
+      {
+         "Season": "2014/15",
+         "Matchday": "22.2",
+         "Broadcasting": "97.2",
+         "Commercial": "45.4"
+      },
+      {
+         "Season": "2013/14",
+         "Matchday": "18.8",
+         "Broadcasting": "84.8",
+         "Commercial": "60.4"
+      },
+      {
+         "Season": "2012/13",
+         "Matchday": "19.4",
+         "Broadcasting": "81.5",
+         "Commercial": "67.9"
+      },
+      {
+         "Season": "2011/12",
+         "Matchday": "23.2",
+         "Broadcasting": "112.4",
+         "Commercial": "50.3"
+      },
+      {
+         "Season": "2010/11",
+         "Matchday": "32.9",
+         "Broadcasting": "124.4",
+         "Commercial": "54.1"
+      },
+      {
+         "Season": "2009/10",
+         "Matchday": "38.6",
+         "Broadcasting": "137.9",
+         "Commercial": "48.3"
+      },
+      {
+         "Season": "2008/09",
+         "Matchday": "28.2",
+         "Broadcasting": "115.7",
+         "Commercial": "52.6"
+      }
+   ]
+}

@@ -1,0 +1,30 @@
+{
+   "title": "Ad blocker usage in the United Kingdom ( UK ) 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey about the most usage United Kingdom UK in 2018 as of 2018 . ",
+      "During the survey , 53 % of respondents stated that they believed that they had abandoned shopping UK ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Use ad blocker",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Don't use ad blocker",
+         "Share of respondents": "53"
+      },
+      {
+         "Response": "Don't know",
+         "Share of respondents": "6"
+      }
+   ]
+}

@@ -1,0 +1,62 @@
+{
+   "title": "U.S. per capita consumption of fresh fruit by fruit type 2018\n",
+   "xAxis": "Fruits",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Fruits, and a y axis representing Per capita consumption in pounds.",
+      " The highest category is found at Bananas where Per capita consumption in pounds is 28.2.",
+      " The lowest category is found at Cherries where Per capita consumption in pounds is 1.3."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 10
+   },
+   "data": [
+      {
+         "Fruits": "Bananas",
+         "Per capita consumption in pounds": 28.2
+      },
+      {
+         "Fruits": "Apples",
+         "Per capita consumption in pounds": 16.9
+      },
+      {
+         "Fruits": "Oranges",
+         "Per capita consumption in pounds": 8.2
+      },
+      {
+         "Fruits": "Grapes",
+         "Per capita consumption in pounds": 8.1
+      },
+      {
+         "Fruits": "Avocados",
+         "Per capita consumption in pounds": 8.0
+      },
+      {
+         "Fruits": "Pineapples",
+         "Per capita consumption in pounds": 7.8
+      },
+      {
+         "Fruits": "Strawberries",
+         "Per capita consumption in pounds": 7.1
+      },
+      {
+         "Fruits": "Lemons",
+         "Per capita consumption in pounds": 4.2
+      },
+      {
+         "Fruits": "Pears",
+         "Per capita consumption in pounds": 2.9
+      },
+      {
+         "Fruits": "Peaches",
+         "Per capita consumption in pounds": 2.2
+      },
+      {
+         "Fruits": "Cherries",
+         "Per capita consumption in pounds": 1.3
+      }
+   ]
+}

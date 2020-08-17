@@ -1,0 +1,79 @@
+{
+   "title": "Participants in gymnastics in the U.S. from 2006 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of participants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of participants in gymnastics the U.S. from 2006 to 2017 . ",
+      "In 2017 , the Number of participants ( aged six years and older ) in gymnastics amounted to approximately 4.81 millions . ",
+      "Participation in gymnastics - additional information The Number of participants in gymnastics the U.S. increased significantly from 3.63 in 2006 up to 5.4 millions in 2012 ."
+   ],
+   "trends": [
+      {
+         "13": "11",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "19": "0"
+      },
+      {
+         "18": "11",
+         "19": "11",
+         "21": "11",
+         "24": "5",
+         "27": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of participants in millions": "4.81"
+      },
+      {
+         "Year": "2016",
+         "Number of participants in millions": "5.38"
+      },
+      {
+         "Year": "2015",
+         "Number of participants in millions": "4.68"
+      },
+      {
+         "Year": "2014",
+         "Number of participants in millions": "4.62"
+      },
+      {
+         "Year": "2013",
+         "Number of participants in millions": "4.97"
+      },
+      {
+         "Year": "2012",
+         "Number of participants in millions": "5.4"
+      },
+      {
+         "Year": "2011",
+         "Number of participants in millions": "4.83"
+      },
+      {
+         "Year": "2010",
+         "Number of participants in millions": "4.82"
+      },
+      {
+         "Year": "2009",
+         "Number of participants in millions": "4.02"
+      },
+      {
+         "Year": "2008",
+         "Number of participants in millions": "3.88"
+      },
+      {
+         "Year": "2007",
+         "Number of participants in millions": "4.07"
+      },
+      {
+         "Year": "2006",
+         "Number of participants in millions": "3.63"
+      }
+   ]
+}

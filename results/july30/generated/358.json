@@ -1,0 +1,58 @@
+{
+   "title": "Leading diversified financial service companies in the U.S. 2018 , by revenue\n",
+   "xAxis": "Month",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Revenue in billion U.S. dollars.",
+      " The highest category is found at Fannie_Mae where Revenue in billion U.S. dollars is 120.1.",
+      " The lowest category is found at Voya_Financial where Revenue in billion U.S. dollars is 8.93."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Month": "Fannie Mae",
+         "Revenue in billion U.S. dollars": 120.1
+      },
+      {
+         "Month": "Freddie Mac",
+         "Revenue in billion U.S. dollars": 73.6
+      },
+      {
+         "Month": "American Express",
+         "Revenue in billion U.S. dollars": 43.28
+      },
+      {
+         "Month": "INTL FCStone",
+         "Revenue in billion U.S. dollars": 27.66
+      },
+      {
+         "Month": "Icahn Enterprises",
+         "Revenue in billion U.S. dollars": 18.98
+      },
+      {
+         "Month": "Synchrony Financial",
+         "Revenue in billion U.S. dollars": 18.25
+      },
+      {
+         "Month": "Marsh & McLennan",
+         "Revenue in billion U.S. dollars": 14.95
+      },
+      {
+         "Month": "Ameriprise Financial",
+         "Revenue in billion U.S. dollars": 12.92
+      },
+      {
+         "Month": "Ally Financial",
+         "Revenue in billion U.S. dollars": 10.47
+      },
+      {
+         "Month": "Voya Financial",
+         "Revenue in billion U.S. dollars": 8.93
+      }
+   ]
+}

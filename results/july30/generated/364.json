@@ -1,0 +1,42 @@
+{
+   "title": "U.S. opinion poll : sexiest musical instrument 2014\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Guitar where Share of respondents is 26.0.",
+      " The lowest category is found at Flute where Share of respondents is 5.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 5
+   },
+   "data": [
+      {
+         "Response": "Guitar",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Saxophone",
+         "Share of respondents": 25.0
+      },
+      {
+         "Response": "Piano",
+         "Share of respondents": 21.0
+      },
+      {
+         "Response": "Violin",
+         "Share of respondents": 14.0
+      },
+      {
+         "Response": "Drums",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Flute",
+         "Share of respondents": 5.0
+      }
+   ]
+}

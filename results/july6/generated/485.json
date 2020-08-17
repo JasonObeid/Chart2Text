@@ -1,0 +1,41 @@
+{
+   "title": "Game developer distribution worldwide 2017 , by age",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a 2017 survey among Americans aged 16 and older regarding the Game they are looking for in a close distribution . ",
+      "This statistic only shows the top five answers to that question . ",
+      "56 % of the respondents stated a close distribution has to be loyal ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "4"
+      }
+   ],
+   "data": [
+      {
+         "Response": "25 to 29 years",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "30 to 34 years",
+         "Share of respondents": "24"
+      },
+      {
+         "Response": "40 to 50 years",
+         "Share of respondents": "17"
+      },
+      {
+         "Response": "more than 50 years",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "56"
+      }
+   ]
+}

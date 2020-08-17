@@ -1,0 +1,80 @@
+{
+   "title": "Percentage added to U.S. GDP 2018 , by industry",
+   "xAxis": "Industry",
+   "yAxis": "Percentage of GDP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Industry GDP of the U.S. GDP 2018 in the by in 2018 . ",
+      "The survey revealed that 20.7 percentage of the GDP added 2018 in the by were Finance_insurance_real_estate_rental_and_leasing ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Finance insurance real estate rental and leasing",
+         "Percentage of GDP": "20.7"
+      },
+      {
+         "Industry": "Professional and business services",
+         "Percentage of GDP": "12.6"
+      },
+      {
+         "Industry": "Government",
+         "Percentage of GDP": "12.2"
+      },
+      {
+         "Industry": "Manufacturing",
+         "Percentage of GDP": "11.4"
+      },
+      {
+         "Industry": "Educational services health care and social assistance",
+         "Percentage of GDP": "8.7"
+      },
+      {
+         "Industry": "Wholesale trade",
+         "Percentage of GDP": "6"
+      },
+      {
+         "Industry": "Retail trade",
+         "Percentage of GDP": "5.5"
+      },
+      {
+         "Industry": "Information",
+         "Percentage of GDP": "5.5"
+      },
+      {
+         "Industry": "Construction",
+         "Percentage of GDP": "4.1"
+      },
+      {
+         "Industry": "Arts entertainment recreation accommodation and food services",
+         "Percentage of GDP": "4.1"
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Percentage of GDP": "3.2"
+      },
+      {
+         "Industry": "Other services except government",
+         "Percentage of GDP": "2.1"
+      },
+      {
+         "Industry": "Mining",
+         "Percentage of GDP": "1.6"
+      },
+      {
+         "Industry": "Utilities",
+         "Percentage of GDP": "1.6"
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "Percentage of GDP": "0.8"
+      }
+   ]
+}

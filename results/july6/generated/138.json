@@ -1,0 +1,40 @@
+{
+   "title": "Major sporting events worldwide - projected TV viewership 2014",
+   "xAxis": "Event",
+   "yAxis": "Viewership in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Viewership of millions paid hourly rates at or below the prevailing federal events worldwide in the sporting in 2014 , TV Event . ",
+      "In 2014 , around 350 people without a FIFA_World_Cup_Final diploma earned the events worldwide or below ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Event": "FIFA World Cup Final",
+         "Viewership in millions": "350"
+      },
+      {
+         "Event": "UEFA Champions League Final",
+         "Viewership in millions": "170"
+      },
+      {
+         "Event": "Winter Olympics opening ceremony",
+         "Viewership in millions": "140"
+      },
+      {
+         "Event": "Super Bowl",
+         "Viewership in millions": "125"
+      },
+      {
+         "Event": "Winter Olympics closing ceremony",
+         "Viewership in millions": "80"
+      }
+   ]
+}

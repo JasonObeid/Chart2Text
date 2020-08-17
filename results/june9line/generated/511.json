@@ -1,0 +1,68 @@
+{
+   "title": "Vending machines : sales volume of vended products 2010",
+   "xAxis": "Year",
+   "yAxis": "Vended volume (in billion U.S. dollars)",
+   "graphType": "line",
+   "summary": [
+      "The Vended of Vending citizens aged six and above that participated machines sales amounted to approximately 11.8 billion in 2010 . ",
+      "This Vended has almost halved in size over the past 10 years . ",
+      "The two types of machines sales is a recreational activity or sport where volume can choose to use either inline skates or 2x2 wheel skates ."
+   ],
+   "trends": [
+      {
+         "19": "11"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "1999",
+         "Vended volume (in billion U.S. dollars)": "36.6"
+      },
+      {
+         "Year": "2000",
+         "Vended volume (in billion U.S. dollars)": "38.7"
+      },
+      {
+         "Year": "2001",
+         "Vended volume (in billion U.S. dollars)": "41.0"
+      },
+      {
+         "Year": "2002",
+         "Vended volume (in billion U.S. dollars)": "41.1"
+      },
+      {
+         "Year": "2003",
+         "Vended volume (in billion U.S. dollars)": "42.2"
+      },
+      {
+         "Year": "2004",
+         "Vended volume (in billion U.S. dollars)": "44.2"
+      },
+      {
+         "Year": "2005",
+         "Vended volume (in billion U.S. dollars)": "46.0"
+      },
+      {
+         "Year": "2006",
+         "Vended volume (in billion U.S. dollars)": "46.8"
+      },
+      {
+         "Year": "2007",
+         "Vended volume (in billion U.S. dollars)": "47.5"
+      },
+      {
+         "Year": "2008",
+         "Vended volume (in billion U.S. dollars)": "45.6"
+      },
+      {
+         "Year": "2009",
+         "Vended volume (in billion U.S. dollars)": "42.9"
+      },
+      {
+         "Year": "2010",
+         "Vended volume (in billion U.S. dollars)": "42.2"
+      }
+   ]
+}

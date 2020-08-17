@@ -1,0 +1,93 @@
+{
+   "title": "Total assets of JPMorgan Chase 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Total assets in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Total assets in billion U.S. dollars, with a total of 13 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely negative which exists from 2014 to 2009.",
+      " Contrarily, the next significant trend is extremely negative which exists from 2018 to 2015.",
+      " Contrarily, the next significant trend is extremely negative which exists from 2008 to 2006."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 4,
+         "end": 9,
+         "trend": "y=105.4x+-209717.78",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=85.51x+-169935.25",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 10,
+         "end": 12,
+         "trend": "y=411.77x+-824716.12",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Total assets in billion U.S. dollars": 2622.53
+      },
+      {
+         "Year": "2017",
+         "Total assets in billion U.S. dollars": 2533.6
+      },
+      {
+         "Year": "2016",
+         "Total assets in billion U.S. dollars": 2490.97
+      },
+      {
+         "Year": "2015",
+         "Total assets in billion U.S. dollars": 2351.7
+      },
+      {
+         "Year": "2014",
+         "Total assets in billion U.S. dollars": 2572.27
+      },
+      {
+         "Year": "2013",
+         "Total assets in billion U.S. dollars": 2415.69
+      },
+      {
+         "Year": "2012",
+         "Total assets in billion U.S. dollars": 2359.14
+      },
+      {
+         "Year": "2011",
+         "Total assets in billion U.S. dollars": 2265.79
+      },
+      {
+         "Year": "2010",
+         "Total assets in billion U.S. dollars": 2117.61
+      },
+      {
+         "Year": "2009",
+         "Total assets in billion U.S. dollars": 2031.99
+      },
+      {
+         "Year": "2008",
+         "Total assets in billion U.S. dollars": 2175.05
+      },
+      {
+         "Year": "2007",
+         "Total assets in billion U.S. dollars": 1562.15
+      },
+      {
+         "Year": "2006",
+         "Total assets in billion U.S. dollars": 1351.52
+      }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+   "title": "Urbanization in Greece 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , approximately a third of the total population in Greece lived in cities . ",
+      "The trend shows an increase of Urbanization by almost 4 % in the last decade , meaning people have moved away from rural areas to find work and make a living in the cities . ",
+      "Leaving the field Over the last decade , Urbanization in Greece has increased by almost 4 % , as more and people leave the agricultural sector to find work in services ."
+   ],
+   "trends": [
+      {
+         "1": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population": "79.06"
+      },
+      {
+         "Year": "2017",
+         "Share of urban population": "78.72"
+      },
+      {
+         "Year": "2016",
+         "Share of urban population": "78.39"
+      },
+      {
+         "Year": "2015",
+         "Share of urban population": "78.05"
+      },
+      {
+         "Year": "2014",
+         "Share of urban population": "77.7"
+      },
+      {
+         "Year": "2013",
+         "Share of urban population": "77.36"
+      },
+      {
+         "Year": "2012",
+         "Share of urban population": "77"
+      },
+      {
+         "Year": "2011",
+         "Share of urban population": "76.65"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population": "76.29"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population": "75.93"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population": "75.57"
+      }
+   ]
+}

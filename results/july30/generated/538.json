@@ -1,0 +1,59 @@
+{
+   "title": "Chicago Bulls concession stand prices ( beer , soft drink , hot dog ) 2010 to 2016",
+   "labels": [
+      "Year",
+      "Beer",
+      "Soft drink",
+      "Hot dog"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This grouped bar chart has 6 categories for the x axis of Year representing Beer, Soft drink, Hot dog.",
+      " The highest category is found at 2014/15 with a mean value of 6.666666666666667.",
+      " The second highest category is found at 2015/16 with a mean value of 6.666666666666667.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Year": "2015/16",
+         "Beer": "8.0",
+         "Soft drink": "5.75",
+         "Hot dog": "6.25"
+      },
+      {
+         "Year": "2014/15",
+         "Beer": "8.0",
+         "Soft drink": "5.75",
+         "Hot dog": "6.25"
+      },
+      {
+         "Year": "2013/14",
+         "Beer": "7.5",
+         "Soft drink": "5.5",
+         "Hot dog": "6.0"
+      },
+      {
+         "Year": "2012/13",
+         "Beer": "7.5",
+         "Soft drink": "5.25",
+         "Hot dog": "5.75"
+      },
+      {
+         "Year": "2011/12",
+         "Beer": "7.75",
+         "Soft drink": "5.25",
+         "Hot dog": "5.75"
+      },
+      {
+         "Year": "2010/11",
+         "Beer": "7.5",
+         "Soft drink": "5.0",
+         "Hot dog": "5.75"
+      }
+   ]
+}

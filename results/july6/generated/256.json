@@ -1,0 +1,80 @@
+{
+   "title": "Monthly inflation rate in Germany 2019 to 2020",
+   "xAxis": "Month",
+   "yAxis": "Changes compared to the same month last year",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Monthly inflation rate networking 2019 in selected Germany 2020 , based on user figures . ",
+      "As of 2013 , Facebook was the Monthly inflation rate Germany in Dez_'18 with 1.7 % compared same ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "13",
+         "14": "13"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jan '20",
+         "Changes compared to the same month last year": "1.7"
+      },
+      {
+         "Month": "Dec '19",
+         "Changes compared to the same month last year": "1.5"
+      },
+      {
+         "Month": "Nov '19",
+         "Changes compared to the same month last year": "1.1"
+      },
+      {
+         "Month": "Oct '19",
+         "Changes compared to the same month last year": "1.1"
+      },
+      {
+         "Month": "Sep '19",
+         "Changes compared to the same month last year": "1.2"
+      },
+      {
+         "Month": "Aug '19",
+         "Changes compared to the same month last year": "1.4"
+      },
+      {
+         "Month": "Jul '19",
+         "Changes compared to the same month last year": "1.7"
+      },
+      {
+         "Month": "Jun '19",
+         "Changes compared to the same month last year": "1.6"
+      },
+      {
+         "Month": "May '19",
+         "Changes compared to the same month last year": "1.4"
+      },
+      {
+         "Month": "Apr '19",
+         "Changes compared to the same month last year": "2"
+      },
+      {
+         "Month": "Mar '19",
+         "Changes compared to the same month last year": "1.3"
+      },
+      {
+         "Month": "Feb '19",
+         "Changes compared to the same month last year": "1.5"
+      },
+      {
+         "Month": "Jan '19",
+         "Changes compared to the same month last year": "1.4"
+      },
+      {
+         "Month": "Dez '18",
+         "Changes compared to the same month last year": "1.7"
+      },
+      {
+         "Month": "Nov '18",
+         "Changes compared to the same month last year": "2.3"
+      }
+   ]
+}

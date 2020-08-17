@@ -1,0 +1,68 @@
+{
+   "title": "Regular season average attendance of the Cincinnati Reds 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average Regular season home attendance of the Cincinnati Reds Dodgers from 2009 to 2019 . ",
+      "In 2019 , the Average Regular season home attendance of the Cincinnati Reds Dodgers was 31288 22329 \u2022 Cincinnati Reds Dodgers total home attendance \u2022 Major League Baseball Average per game attendance \u2022 Major League Baseball total attendance . "
+   ],
+   "trends": [
+      {
+         "14": "10",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "14": "6",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": "22329"
+      },
+      {
+         "Year": "2018",
+         "Average attendance": "20115"
+      },
+      {
+         "Year": "2017",
+         "Average attendance": "22677"
+      },
+      {
+         "Year": "2016",
+         "Average attendance": "23383"
+      },
+      {
+         "Year": "2015",
+         "Average attendance": "29870"
+      },
+      {
+         "Year": "2014",
+         "Average attendance": "30576"
+      },
+      {
+         "Year": "2013",
+         "Average attendance": "31288"
+      },
+      {
+         "Year": "2012",
+         "Average attendance": "28978"
+      },
+      {
+         "Year": "2011",
+         "Average attendance": "27327"
+      },
+      {
+         "Year": "2010",
+         "Average attendance": "25438"
+      },
+      {
+         "Year": "2009",
+         "Average attendance": "21579"
+      }
+   ]
+}

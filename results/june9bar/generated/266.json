@@ -1,0 +1,38 @@
+{
+   "title": "Preferred modes of transportation when taking a family vacation in the U.S. 2015",
+   "xAxis": "Preferred mode of travel",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the Share of internet users in the Preferred who were using U.S. as of 2020 . ",
+      "During the survey period of time , 63 % of respondents stated they have a very popular social networking site ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Preferred mode of travel": "Car",
+         "Share of respondents": "63"
+      },
+      {
+         "Preferred mode of travel": "Plane",
+         "Share of respondents": "31"
+      },
+      {
+         "Preferred mode of travel": "RV",
+         "Share of respondents": "3"
+      },
+      {
+         "Preferred mode of travel": "Train",
+         "Share of respondents": "2"
+      },
+      {
+         "Preferred mode of travel": "Other",
+         "Share of respondents": "1"
+      }
+   ]
+}

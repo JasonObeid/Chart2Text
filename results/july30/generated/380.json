@@ -1,0 +1,109 @@
+{
+   "title": "Natural gas prices for households in Germany 2010 - 2018 , semi-annually\n",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 17 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2018_S1 to 2015_S2.",
+      " Likewise, the next significant trend is  negative which exists from 2013_S2 to 2012_S1.",
+      " Conversely, the next significant trend is  negative which exists from 2011_S2 to 2010_S1."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 0,
+         "end": 5,
+         "trend": "y=-0.27x+559.97",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 9,
+         "end": 12,
+         "trend": "y=0.32x+-647.47",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 13,
+         "end": 16,
+         "trend": "y=0.46x+-918.92",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": 6.08
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": 6.09
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": 6.11
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": 6.42
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": 6.61
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": 6.81
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": 6.76
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": 6.81
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": 6.78
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": 6.89
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": 6.61
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": 6.48
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": 6.37
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": 6.4
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": 5.88
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": 5.71
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": 5.65
+      }
+   ]
+}

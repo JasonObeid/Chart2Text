@@ -1,0 +1,52 @@
+{
+   "title": "Daily active users of Instagram Stories 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of DAU in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "As of Jan_'19 , it was estimated that Instagram Stories had just 500 thousand DAU in the users , a significant drop from the 500 millions recorded in Jun_'18 . ",
+      "Instagram Stories is no stranger to media attention , but after the recent claims from a source that they had obtained internal data about Instagram Stories 's floundering subscriber base , the company is once again in the spotlight . ",
+      "What is Instagram Stories ? is a subscription-based movie ticketing service , designed to allow DAU to buy a select amount of movie tickets each Month for a single fee ."
+   ],
+   "trends": [
+      {
+         "2": "0",
+         "11": "0",
+         "23": "0",
+         "27": "1"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Jan '19",
+         "Number of DAU in millions": "500"
+      },
+      {
+         "Month": "Jun '18",
+         "Number of DAU in millions": "400"
+      },
+      {
+         "Month": "Oct '17",
+         "Number of DAU in millions": "300"
+      },
+      {
+         "Month": "Jun '17",
+         "Number of DAU in millions": "250"
+      },
+      {
+         "Month": "Apr '17",
+         "Number of DAU in millions": "200"
+      },
+      {
+         "Month": "Jan '17",
+         "Number of DAU in millions": "150"
+      },
+      {
+         "Month": "Oct '16",
+         "Number of DAU in millions": "100"
+      }
+   ]
+}

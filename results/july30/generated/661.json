@@ -1,0 +1,50 @@
+{
+   "title": "John Grisham - earnings 2010 to 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Earnings in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Month, and a y axis representing Earnings in million U.S. dollars.",
+      " The highest category is found at May_2011_to_May_2012 where Earnings in million U.S. dollars is 26.0.",
+      " The lowest category is found at June_2016_to_June_2017 where Earnings in million U.S. dollars is 14.0."
+   ],
+   "trends": {
+      "maxIndex": 6,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Month": "June 2017 to June 2018",
+         "Earnings in million U.S. dollars": 21.0
+      },
+      {
+         "Month": "June 2016 to June 2017",
+         "Earnings in million U.S. dollars": 14.0
+      },
+      {
+         "Month": "June 2015 to June 2016",
+         "Earnings in million U.S. dollars": 18.0
+      },
+      {
+         "Month": "June 2014 to June 2015",
+         "Earnings in million U.S. dollars": 14.0
+      },
+      {
+         "Month": "June 2013 to June 2014",
+         "Earnings in million U.S. dollars": 17.0
+      },
+      {
+         "Month": "June 2012 to June 2013",
+         "Earnings in million U.S. dollars": 18.0
+      },
+      {
+         "Month": "May 2011 to May 2012",
+         "Earnings in million U.S. dollars": 26.0
+      },
+      {
+         "Month": "May 2010 to April 2011",
+         "Earnings in million U.S. dollars": 18.0
+      }
+   ]
+}

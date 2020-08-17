@@ -1,0 +1,75 @@
+{
+   "title": "Profits of HSBC 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Profits in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Profits in the NFL and the HSBC from 2007 to 2019 . ",
+      "In 2019 , the Profits amounted to approximately 8.71 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "13": "12",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Profits in billion U.S. dollars": "8.71"
+      },
+      {
+         "Year": "2018",
+         "Profits in billion U.S. dollars": "15.03"
+      },
+      {
+         "Year": "2017",
+         "Profits in billion U.S. dollars": "11.88"
+      },
+      {
+         "Year": "2016",
+         "Profits in billion U.S. dollars": "3.45"
+      },
+      {
+         "Year": "2015",
+         "Profits in billion U.S. dollars": "15.1"
+      },
+      {
+         "Year": "2014",
+         "Profits in billion U.S. dollars": "14.71"
+      },
+      {
+         "Year": "2013",
+         "Profits in billion U.S. dollars": "17.8"
+      },
+      {
+         "Year": "2012",
+         "Profits in billion U.S. dollars": "15.33"
+      },
+      {
+         "Year": "2011",
+         "Profits in billion U.S. dollars": "17.94"
+      },
+      {
+         "Year": "2010",
+         "Profits in billion U.S. dollars": "14.19"
+      },
+      {
+         "Year": "2009",
+         "Profits in billion U.S. dollars": "6.69"
+      },
+      {
+         "Year": "2008",
+         "Profits in billion U.S. dollars": "6.5"
+      },
+      {
+         "Year": "2007",
+         "Profits in billion U.S. dollars": "20.46"
+      }
+   ]
+}

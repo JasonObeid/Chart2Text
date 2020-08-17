@@ -1,0 +1,99 @@
+{
+   "title": "Population of Iceland 2009 - 2019 , by gender",
+   "labels": [
+      "Year",
+      "Males",
+      "Females"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Population in Iceland from 2009 to 2019 , by gender . ",
+      "The number of male and female inhabitants were quite close to each other in the whole period . ",
+      "In the Year 2019 , there were about 182837 million men and 174154 million women living in Iceland ."
+   ],
+   "trends": [
+      {
+         "8": [
+            "10",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      },
+      {},
+      {
+         "3": [
+            "0",
+            "0"
+         ],
+         "8": [
+            "0",
+            "1"
+         ],
+         "12": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Males": "182837",
+         "Females": "174154"
+      },
+      {
+         "Year": "2018",
+         "Males": "177600",
+         "Females": "170850"
+      },
+      {
+         "Year": "2017",
+         "Males": "171033",
+         "Females": "167316"
+      },
+      {
+         "Year": "2016",
+         "Males": "167270",
+         "Females": "165259"
+      },
+      {
+         "Year": "2015",
+         "Males": "165186",
+         "Females": "163914"
+      },
+      {
+         "Year": "2014",
+         "Males": "163318",
+         "Females": "162353"
+      },
+      {
+         "Year": "2013",
+         "Males": "161438",
+         "Females": "160419"
+      },
+      {
+         "Year": "2012",
+         "Males": "160364",
+         "Females": "159211"
+      },
+      {
+         "Year": "2011",
+         "Males": "160006",
+         "Females": "158446"
+      },
+      {
+         "Year": "2010",
+         "Males": "159936",
+         "Females": "157694"
+      },
+      {
+         "Year": "2009",
+         "Males": "162068",
+         "Females": "157300"
+      }
+   ]
+}

@@ -1,0 +1,101 @@
+{
+   "title": "Countries ranked by number of ice hockey players 2018/19",
+   "xAxis": "Country",
+   "yAxis": "Number of players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the twenty Countries ranked by in the number according to the Global Peace Number 2018 . ",
+      "According to the Global Peace Number , Canada was the Countries ranked Country in the number with an Number value of 1.072 . ",
+      "Additional information on the Global Peace Number The Global Peace Number is an effort by the Institute for Economics and Peace to measure the degree of peacefulness in by across the global and rank them accordingly ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Number of players": "621026"
+      },
+      {
+         "Country": "United States",
+         "Number of players": "567908"
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of players": "121613"
+      },
+      {
+         "Country": "Russia",
+         "Number of players": "112236"
+      },
+      {
+         "Country": "Finland",
+         "Number of players": "64641"
+      },
+      {
+         "Country": "Sweden",
+         "Number of players": "55431"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of players": "27867"
+      },
+      {
+         "Country": "France",
+         "Number of players": "21667"
+      },
+      {
+         "Country": "Germany",
+         "Number of players": "21340"
+      },
+      {
+         "Country": "Japan",
+         "Number of players": "18837"
+      },
+      {
+         "Country": "Slovakia",
+         "Number of players": "11394"
+      },
+      {
+         "Country": "Norway",
+         "Number of players": "10353"
+      },
+      {
+         "Country": "Great Britain",
+         "Number of players": "8162"
+      },
+      {
+         "Country": "Austria",
+         "Number of players": "7670"
+      },
+      {
+         "Country": "Hungary",
+         "Number of players": "7106"
+      },
+      {
+         "Country": "Latvia",
+         "Number of players": "7000"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Number of players": "6915"
+      },
+      {
+         "Country": "Ukraine",
+         "Number of players": "5384"
+      },
+      {
+         "Country": "Italy",
+         "Number of players": "5210"
+      },
+      {
+         "Country": "Belarus",
+         "Number of players": "4580"
+      }
+   ]
+}

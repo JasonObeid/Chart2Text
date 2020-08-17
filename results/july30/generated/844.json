@@ -1,0 +1,38 @@
+{
+   "title": "Number of Dollar Tree stores in Canada by province 2019\n",
+   "xAxis": "Province",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Province, and a y axis representing Number of stores.",
+      " The highest category is found at Ontario where Number of stores is 110.0.",
+      " The lowest category is found at Manitoba where Number of stores is 13.0."
+   ],
+   "trends": {
+      "maxIndex": 4,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Province": "Manitoba",
+         "Number of stores": 13.0
+      },
+      {
+         "Province": "Saskatchewan",
+         "Number of stores": 16.0
+      },
+      {
+         "Province": "Alberta",
+         "Number of stores": 37.0
+      },
+      {
+         "Province": "British Columbia",
+         "Number of stores": 49.0
+      },
+      {
+         "Province": "Ontario",
+         "Number of stores": 110.0
+      }
+   ]
+}

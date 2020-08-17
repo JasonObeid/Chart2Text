@@ -1,0 +1,67 @@
+{
+   "title": "National debt of Pakistan in relation to gross domestic product ( GDP ) 2024",
+   "xAxis": "Year",
+   "yAxis": "National debt in relation to GDP",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the National debt of the Pakistan Emirates ' ( UAE ) from 2014 to 2018 , in relation to gross domestic product , with projections up until 2024 . ",
+      "In 2018 , the Pakistan Emirates ' National debt amounted to approximately 65.41 % of the country 's gross domestic product ."
+   ],
+   "trends": [
+      {
+         "15": "10",
+         "17": "6",
+         "30": "0"
+      },
+      {
+         "1": "6",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in relation to GDP": "65.41"
+      },
+      {
+         "Year": "2023",
+         "National debt in relation to GDP": "68.98"
+      },
+      {
+         "Year": "2022",
+         "National debt in relation to GDP": "72.48"
+      },
+      {
+         "Year": "2021",
+         "National debt in relation to GDP": "76.11"
+      },
+      {
+         "Year": "2020",
+         "National debt in relation to GDP": "78.65"
+      },
+      {
+         "Year": "2019",
+         "National debt in relation to GDP": "76.73"
+      },
+      {
+         "Year": "2018",
+         "National debt in relation to GDP": "71.69"
+      },
+      {
+         "Year": "2017",
+         "National debt in relation to GDP": "67.05"
+      },
+      {
+         "Year": "2016",
+         "National debt in relation to GDP": "67.63"
+      },
+      {
+         "Year": "2015",
+         "National debt in relation to GDP": "63.32"
+      },
+      {
+         "Year": "2014",
+         "National debt in relation to GDP": "63.47"
+      }
+   ]
+}

@@ -1,0 +1,70 @@
+{
+   "title": "Budget balance in Japan in relation to gross domestic product ( GDP ) 2024",
+   "xAxis": "Year",
+   "yAxis": "Budget balance to GDP ratio",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Budget balance in Japan from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Budget balance in Japan was at around -3.21 % . ",
+      "See the figures for the population of Japan for comparison ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "11": "6"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Budget balance to GDP ratio": "-1.96"
+      },
+      {
+         "Year": "2023",
+         "Budget balance to GDP ratio": "-1.78"
+      },
+      {
+         "Year": "2022",
+         "Budget balance to GDP ratio": "-1.77"
+      },
+      {
+         "Year": "2021",
+         "Budget balance to GDP ratio": "-1.95"
+      },
+      {
+         "Year": "2020",
+         "Budget balance to GDP ratio": "-2.16"
+      },
+      {
+         "Year": "2019",
+         "Budget balance to GDP ratio": "-2.95"
+      },
+      {
+         "Year": "2018",
+         "Budget balance to GDP ratio": "-3.21"
+      },
+      {
+         "Year": "2017",
+         "Budget balance to GDP ratio": "-3.17"
+      },
+      {
+         "Year": "2016",
+         "Budget balance to GDP ratio": "-3.69"
+      },
+      {
+         "Year": "2015",
+         "Budget balance to GDP ratio": "-3.81"
+      },
+      {
+         "Year": "2014",
+         "Budget balance to GDP ratio": "-5.64"
+      }
+   ]
+}

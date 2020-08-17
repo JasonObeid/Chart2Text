@@ -1,0 +1,62 @@
+{
+   "title": "Number of deaths caused by majors droughts worldwide up to 2016",
+   "xAxis": "Country and Year",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Number of deaths caused by the world 's majors droughts by 1900 to 2016 . ",
+      "The Country in India_(1942) 1973 claimed 1500000 lives . ",
+      "Natural disasters Natural , such as earthquakes , volcanic eruption , tsunamis floods , tornados or droughts affect people worldwide ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "2",
+         "7": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country and Year": "China (1928)",
+         "Number of deaths": "3000000"
+      },
+      {
+         "Country and Year": "Bangladesh (1943)",
+         "Number of deaths": "1900000"
+      },
+      {
+         "Country and Year": "India (1942)",
+         "Number of deaths": "1500000"
+      },
+      {
+         "Country and Year": "India (1965)",
+         "Number of deaths": "1500000"
+      },
+      {
+         "Country and Year": "India (1900)",
+         "Number of deaths": "1250000"
+      },
+      {
+         "Country and Year": "Soviet Union (1921)",
+         "Number of deaths": "1200000"
+      },
+      {
+         "Country and Year": "China (1920)",
+         "Number of deaths": "500000"
+      },
+      {
+         "Country and Year": "Ethiopia (May 1983)",
+         "Number of deaths": "300000"
+      },
+      {
+         "Country and Year": "Sudan (April 1983)",
+         "Number of deaths": "150000"
+      },
+      {
+         "Country and Year": "Ethiopia (December 1973)",
+         "Number of deaths": "100000"
+      }
+   ]
+}

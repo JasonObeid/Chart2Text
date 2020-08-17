@@ -1,0 +1,104 @@
+{
+   "title": "Global papaya production 2000 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Million metric tons, with a total of 18 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2014 to 2005.",
+      " But, the next significant trend is  positive which exists from 2003 to 2000."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 3,
+         "end": 12,
+         "trend": "y=0.5x+-995.41",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 14,
+         "end": 17,
+         "trend": "y=0.26x+-512.29",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Million metric tons": 13.02
+      },
+      {
+         "Year": "2016",
+         "Million metric tons": 13.05
+      },
+      {
+         "Year": "2015",
+         "Million metric tons": 12.08
+      },
+      {
+         "Year": "2014",
+         "Million metric tons": 12.67
+      },
+      {
+         "Year": "2013",
+         "Million metric tons": 12.36
+      },
+      {
+         "Year": "2012",
+         "Million metric tons": 12.01
+      },
+      {
+         "Year": "2011",
+         "Million metric tons": 11.3
+      },
+      {
+         "Year": "2010",
+         "Million metric tons": 11.19
+      },
+      {
+         "Year": "2009",
+         "Million metric tons": 10.73
+      },
+      {
+         "Year": "2008",
+         "Million metric tons": 10.02
+      },
+      {
+         "Year": "2007",
+         "Million metric tons": 9.53
+      },
+      {
+         "Year": "2006",
+         "Million metric tons": 8.91
+      },
+      {
+         "Year": "2005",
+         "Million metric tons": 8.03
+      },
+      {
+         "Year": "2004",
+         "Million metric tons": 8.67
+      },
+      {
+         "Year": "2003",
+         "Million metric tons": 8.16
+      },
+      {
+         "Year": "2002",
+         "Million metric tons": 8.42
+      },
+      {
+         "Year": "2001",
+         "Million metric tons": 8.55
+      },
+      {
+         "Year": "2000",
+         "Million metric tons": 7.25
+      }
+   ]
+}

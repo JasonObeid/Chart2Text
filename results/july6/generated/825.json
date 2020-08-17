@@ -1,0 +1,38 @@
+{
+   "title": "Age of U.S. video game players in 2019",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the preferred time of the day for 2019 in the players to shop U.S.",
+      "During the 2015 survey , 40 % of survey respondents stated that their Age U.S. video game were between 18_to_35_years and 50_years_and_older 18_to_35_years ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "19": "1",
+         "21": "3",
+         "22": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "Under 18 years",
+         "Share of respondents": "21"
+      },
+      {
+         "Year": "18 to 35 years",
+         "Share of respondents": "40"
+      },
+      {
+         "Year": "36 to 49 years",
+         "Share of respondents": "18"
+      },
+      {
+         "Year": "50 years and older",
+         "Share of respondents": "21"
+      }
+   ]
+}

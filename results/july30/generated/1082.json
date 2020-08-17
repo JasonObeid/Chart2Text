@@ -1,0 +1,51 @@
+{
+   "title": "Indonesia social media user penetration 2017 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Share of group",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of group with a total of 7 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2023 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 0,
+         "end": 6,
+         "trend": "y=1.5x+-2996.86",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Share of group": 37.0
+      },
+      {
+         "Year": "2022",
+         "Share of group": 36.0
+      },
+      {
+         "Year": "2021",
+         "Share of group": 35.0
+      },
+      {
+         "Year": "2020",
+         "Share of group": 34.0
+      },
+      {
+         "Year": "2019",
+         "Share of group": 32.0
+      },
+      {
+         "Year": "2018 ",
+         "Share of group": 30.0
+      },
+      {
+         "Year": "2017",
+         "Share of group": 28.0
+      }
+   ]
+}

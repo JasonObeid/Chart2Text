@@ -1,0 +1,51 @@
+{
+   "title": "Influence of friends and family on American teenagers ' decisions regarding sex in 2012",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among 559 industrial enterprises on their opinion on the Influence nation in Parents as of October 2012 . ",
+      "At that time , 4 % of respondents stated that they used Someone_else passwords for Parents to ."
+   ],
+   "trends": [
+      {
+         "20": "0"
+      },
+      {
+         "4": "5",
+         "12": "6",
+         "15": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Parents",
+         "Share of respondents": "38"
+      },
+      {
+         "Response": "Friends",
+         "Share of respondents": "22"
+      },
+      {
+         "Response": "The media",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Religious leaders",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Siblings",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Teachers and educators",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Someone else",
+         "Share of respondents": "10"
+      }
+   ]
+}

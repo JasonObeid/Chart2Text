@@ -1,0 +1,69 @@
+{
+   "title": "Forecast of population growth in Denmark 2019 to 2029",
+   "xAxis": "Year",
+   "yAxis": "Number of inhabitants (in millions)",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Denmark of the Number inhabitants since the birth of Christ . ",
+      "6.09 billion people were living on earth in 2029 . ",
+      "Additional information on Number inhabitants The global inhabitants has risen dramatically in the last 100 years from 6.02 million in 2026 to surpassing 6.09 million in 2011 ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "8": "0"
+      },
+      {
+         "17": "3",
+         "20": "3",
+         "23": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2029",
+         "Number of inhabitants (in millions)": "6.09"
+      },
+      {
+         "Year": "2028",
+         "Number of inhabitants (in millions)": "6.07"
+      },
+      {
+         "Year": "2027",
+         "Number of inhabitants (in millions)": "6.04"
+      },
+      {
+         "Year": "2026",
+         "Number of inhabitants (in millions)": "6.02"
+      },
+      {
+         "Year": "2025",
+         "Number of inhabitants (in millions)": "6.0"
+      },
+      {
+         "Year": "2024",
+         "Number of inhabitants (in millions)": "5.97"
+      },
+      {
+         "Year": "2023",
+         "Number of inhabitants (in millions)": "5.95"
+      },
+      {
+         "Year": "2022",
+         "Number of inhabitants (in millions)": "5.92"
+      },
+      {
+         "Year": "2021",
+         "Number of inhabitants (in millions)": "5.89"
+      },
+      {
+         "Year": "2020",
+         "Number of inhabitants (in millions)": "5.87"
+      },
+      {
+         "Year": "2019",
+         "Number of inhabitants (in millions)": "5.83"
+      }
+   ]
+}

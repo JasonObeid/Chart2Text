@@ -1,0 +1,50 @@
+{
+   "title": "Largest U.S. Christian denominations 2010 , by number of adherents",
+   "xAxis": "Christian grouping",
+   "yAxis": "Number of followers",
+   "graphType": "bar",
+   "summary": [
+      "The statistic presents the Largest Christian Number denominations 2010 number adherents of 2017 . ",
+      "As of the fourth quarter of 2010 , it was found that 150686156 % of the number adherents ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "7"
+      }
+   ],
+   "data": [
+      {
+         "Christian grouping": "Catholic",
+         "Number of followers": "58928987"
+      },
+      {
+         "Christian grouping": "Evangelical and Conservative Protestant",
+         "Number of followers": "50013803"
+      },
+      {
+         "Christian grouping": "Mainline Protestant",
+         "Number of followers": "22655826"
+      },
+      {
+         "Christian grouping": "Latter-day Saints",
+         "Number of followers": "6267771"
+      },
+      {
+         "Christian grouping": "Black Protestant",
+         "Number of followers": "4877067"
+      },
+      {
+         "Christian grouping": "Orthodox Christian",
+         "Number of followers": "1056535"
+      },
+      {
+         "Christian grouping": "Other Faiths",
+         "Number of followers": "6667542"
+      },
+      {
+         "Christian grouping": "Total",
+         "Number of followers": "150686156"
+      }
+   ]
+}

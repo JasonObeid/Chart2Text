@@ -1,0 +1,111 @@
+{
+   "title": "Price of gas oil per metric ton : manufacturing industry in the UK 2010 to 2018",
+   "labels": [
+      "Year",
+      "Small consumer",
+      "Medium consumer",
+      "Large consumer",
+      "Average"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Price gas of UK inhabitants from 2010 to 2018 . ",
+      "In 2018 , about 681.4 % of inhabitants were aged 0 to 14 years , while approximately 676.9 % were aged 15 to 64 , and 651.6 % of UK inhabitants were aged consumer or older ."
+   ],
+   "trends": [
+      {
+         "10": [
+            "8",
+            "0"
+         ],
+         "12": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "4": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "26": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Small consumer": "681.4",
+         "Medium consumer": "676.9",
+         "Large consumer": "651.6",
+         "Average": "655.2"
+      },
+      {
+         "Year": "2017",
+         "Small consumer": "610.6",
+         "Medium consumer": "584.9",
+         "Large consumer": "557.5",
+         "Average": "562.9"
+      },
+      {
+         "Year": "2016",
+         "Small consumer": "544.4",
+         "Medium consumer": "493.3",
+         "Large consumer": "471.6",
+         "Average": "476.7"
+      },
+      {
+         "Year": "2015",
+         "Small consumer": "558.6",
+         "Medium consumer": "553.2",
+         "Large consumer": "505.0",
+         "Average": "509.6"
+      },
+      {
+         "Year": "2014",
+         "Small consumer": "750.2",
+         "Medium consumer": "748.5",
+         "Large consumer": "670.7",
+         "Average": "684.3"
+      },
+      {
+         "Year": "2013",
+         "Small consumer": "815.3",
+         "Medium consumer": "803.1",
+         "Large consumer": "743.2",
+         "Average": "753.9"
+      },
+      {
+         "Year": "2012",
+         "Small consumer": "825.7",
+         "Medium consumer": "806.6",
+         "Large consumer": "759.6",
+         "Average": "768.3"
+      },
+      {
+         "Year": "2011",
+         "Small consumer": "782.4",
+         "Medium consumer": "766.2",
+         "Large consumer": "731.7",
+         "Average": "738.1"
+      },
+      {
+         "Year": "2010",
+         "Small consumer": "618.6",
+         "Medium consumer": "620.4",
+         "Large consumer": "588.0",
+         "Average": "593.6"
+      }
+   ]
+}

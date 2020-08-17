@@ -1,0 +1,58 @@
+{
+   "title": "Market share of the global luggage market 2015 , by company\n",
+   "xAxis": "Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Company, and a y axis representing Market share.",
+      " The highest category is found at Samsonite_International_SA where Market share is 17.3.",
+      " The lowest category is found at Shanghai_Taifeng_Cases_Co_Ltd where Market share is 0.6."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Company": "Samsonite International SA",
+         "Market share": 17.3
+      },
+      {
+         "Company": "LVMH Mo\u00ebt Hennessy Louis Vuitton SA",
+         "Market share": 5.0
+      },
+      {
+         "Company": "Delsey SA",
+         "Market share": 2.0
+      },
+      {
+         "Company": "Rimowa GmbH",
+         "Market share": 1.8
+      },
+      {
+         "Company": "VF Corp",
+         "Market share": 1.3
+      },
+      {
+         "Company": "Tumi Holdings Inc",
+         "Market share": 1.3
+      },
+      {
+         "Company": "VIP Industries Ltd",
+         "Market share": 1.2
+      },
+      {
+         "Company": "Kering SA",
+         "Market share": 1.0
+      },
+      {
+         "Company": "Herm\u00e8s International SCA",
+         "Market share": 0.9
+      },
+      {
+         "Company": "Shanghai Taifeng Cases Co Ltd",
+         "Market share": 0.6
+      }
+   ]
+}

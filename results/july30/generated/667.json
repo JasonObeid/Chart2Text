@@ -1,0 +1,172 @@
+{
+   "title": "Brazil : voting intention for 2018 presidential elections , by candidate",
+   "labels": [
+      "Month",
+      "Situation A",
+      "Situation B"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 30 categories for the x axis of Month representing Situation A, and Situation B.",
+      " The highest category is found at Luiz In\u00e1cio Lula da Silva (PT) with a mean value of 19.5.",
+      " The second highest category is found at Blank or voided ballots/No vote with a mean value of 11.0.",
+      " This represents a difference of 55.7%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Month": "Luiz In\u00e1cio Lula da Silva (PT)",
+         "Situation A": "39",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Jair Bolsonaro (PSL)",
+         "Situation A": "19",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Marina Silva (REDE)",
+         "Situation A": "8",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Geraldo Alckmin (PSDB)",
+         "Situation A": "6",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Ciro Gomes (PDT)",
+         "Situation A": "5",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Alvaro Dias (PODE)",
+         "Situation A": "3",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Jo\u00e3o Amoedo (NOVO)",
+         "Situation A": "2",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Henrique Meirelles (MDB)",
+         "Situation A": "1",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Guilherme Boulos (PSOL)",
+         "Situation A": "1",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Cabo Daciolo (PATRI)",
+         "Situation A": "1",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Vera L\u00facia (PSTU)",
+         "Situation A": "1",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Jo\u00e3o Goulart Filho (PPL)",
+         "Situation A": "0",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Jos\u00e9 Maria Eymael (DC)",
+         "Situation A": "0",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Blank or voided ballots / No vote",
+         "Situation A": "11",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Do not know",
+         "Situation A": "3",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Jair Bolsonaro",
+         "Situation A": "0",
+         "Situation B": "22"
+      },
+      {
+         "Month": "Marina Silva",
+         "Situation A": "0",
+         "Situation B": "16"
+      },
+      {
+         "Month": "Ciro Gomes",
+         "Situation A": "0",
+         "Situation B": "10"
+      },
+      {
+         "Month": "Geraldo Alckmin",
+         "Situation A": "0",
+         "Situation B": "9"
+      },
+      {
+         "Month": "Alvaro Dias",
+         "Situation A": "0",
+         "Situation B": "4"
+      },
+      {
+         "Month": "Fernando Haddad (PT)",
+         "Situation A": "0",
+         "Situation B": "4"
+      },
+      {
+         "Month": "Jo\u00e3o Amoedo",
+         "Situation A": "0",
+         "Situation B": "2"
+      },
+      {
+         "Month": "Henrique Meirelles",
+         "Situation A": "0",
+         "Situation B": "2"
+      },
+      {
+         "Month": "Vera L\u00facia",
+         "Situation A": "0",
+         "Situation B": "1"
+      },
+      {
+         "Month": "Cabo Daciolo",
+         "Situation A": "0",
+         "Situation B": "1"
+      },
+      {
+         "Month": "Guilherme Boulos",
+         "Situation A": "0",
+         "Situation B": "1"
+      },
+      {
+         "Month": "Jo\u00e3o Goulart Filho",
+         "Situation A": "0",
+         "Situation B": "1"
+      },
+      {
+         "Month": "Jos\u00e9 Maria Eymael",
+         "Situation A": "0",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Blank or voided ballots/No vote",
+         "Situation A": "0",
+         "Situation B": "22"
+      },
+      {
+         "Month": "Don't know",
+         "Situation A": "0",
+         "Situation B": "6"
+      }
+   ]
+}

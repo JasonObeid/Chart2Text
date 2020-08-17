@@ -1,0 +1,48 @@
+{
+   "title": "Daily social media usage in Denmark 2018 , by social media site",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the media of users in the Denmark accessing Daily . ",
+      "As of the third quarter of 2018 , it was found that 53 % of Denmark Daily users accessed the social platform Facebook ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "0",
+         "22": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of respondents": "53"
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents": "19"
+      },
+      {
+         "Platform": "Instagram",
+         "Share of respondents": "19"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of respondents": "4"
+      },
+      {
+         "Platform": "WhatsApp",
+         "Share of respondents": "4"
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of respondents": "2"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents": "1"
+      }
+   ]
+}

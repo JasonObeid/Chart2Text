@@ -1,0 +1,60 @@
+{
+   "title": "Countries with biggest Facebook user share 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of global monthly active Facebook users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the share of user monthly Countries Facebook active 2018 in , 2018 Country . ",
+      "In 2018 , user Countries Facebook active share in India accounted for around 12 % of the world 's total user monthly grid-connected Facebook active ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "India",
+         "Share of global monthly active Facebook users": "12"
+      },
+      {
+         "Country": "United States",
+         "Share of global monthly active Facebook users": "11"
+      },
+      {
+         "Country": "Brazil",
+         "Share of global monthly active Facebook users": "6"
+      },
+      {
+         "Country": "Indonesia",
+         "Share of global monthly active Facebook users": "6"
+      },
+      {
+         "Country": "Mexico",
+         "Share of global monthly active Facebook users": "4"
+      },
+      {
+         "Country": "Philippines",
+         "Share of global monthly active Facebook users": "3"
+      },
+      {
+         "Country": "Vietnam",
+         "Share of global monthly active Facebook users": "3"
+      },
+      {
+         "Country": "Thailand",
+         "Share of global monthly active Facebook users": "2"
+      },
+      {
+         "Country": "Turkey",
+         "Share of global monthly active Facebook users": "2"
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of global monthly active Facebook users": "2"
+      }
+   ]
+}

@@ -1,0 +1,72 @@
+{
+   "title": "Number of road deaths in Portugal 2006 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of deaths traffic fatalities per Year in Portugal between 2006 and 2017 . ",
+      "In the period of consideration , deaths fatalities presented an overall trend of decline . ",
+      "The Year with the lowest amount of fatalities was 2015 , with a total of 207 deaths traffic fatalities in Portugal ."
+   ],
+   "trends": [
+      {
+         "14": "11",
+         "16": "0"
+      },
+      {},
+      {
+         "9": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of fatalities": "602"
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": "563"
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": "593"
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": "638"
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": "637"
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": "718"
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": "891"
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": "937"
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": "737"
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": "885"
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": "974"
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": "969"
+      }
+   ]
+}

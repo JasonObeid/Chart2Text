@@ -1,0 +1,68 @@
+{
+   "title": "Passenger car sales in Sweden 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Passenger Units of sales sold in the Sweden from 2009 to 2019 . ",
+      "In 2019 , approximately 169,000 babies were born alive in the Sweden . ",
+      "In the same period , the Units of stillborn children in the Sweden decreased , as can be seen in this statistic ."
+   ],
+   "trends": [
+      {
+         "13": "10",
+         "15": "0"
+      },
+      {
+         "1": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Units sold": "356036"
+      },
+      {
+         "Year": "2018",
+         "Units sold": "353729"
+      },
+      {
+         "Year": "2017",
+         "Units sold": "379393"
+      },
+      {
+         "Year": "2016",
+         "Units sold": "372318"
+      },
+      {
+         "Year": "2015",
+         "Units sold": "345108"
+      },
+      {
+         "Year": "2014",
+         "Units sold": "303948"
+      },
+      {
+         "Year": "2013",
+         "Units sold": "269599"
+      },
+      {
+         "Year": "2012",
+         "Units sold": "279899"
+      },
+      {
+         "Year": "2011",
+         "Units sold": "304984"
+      },
+      {
+         "Year": "2010",
+         "Units sold": "289684"
+      },
+      {
+         "Year": "2009",
+         "Units sold": "213408"
+      }
+   ]
+}

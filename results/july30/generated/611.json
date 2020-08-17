@@ -1,0 +1,186 @@
+{
+   "title": "Subaru car sales in the United Kingdom ( UK ) 2016 to 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 42 categories for the x axis representing Month, and a y axis representing Units sold.",
+      " The highest category is found at Sep_18 where Units sold is 829.0.",
+      " The lowest category is found at Aug_17 where Units sold is 44.0."
+   ],
+   "trends": {
+      "maxIndex": 15,
+      "minIndex": 28
+   },
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Units sold": 708.0
+      },
+      {
+         "Month": "Nov 19",
+         "Units sold": 157.0
+      },
+      {
+         "Month": "Oct 19",
+         "Units sold": 88.0
+      },
+      {
+         "Month": "Sep 19",
+         "Units sold": 526.0
+      },
+      {
+         "Month": "Aug 19",
+         "Units sold": 52.0
+      },
+      {
+         "Month": "Jul 19",
+         "Units sold": 103.0
+      },
+      {
+         "Month": "Jun 19",
+         "Units sold": 244.0
+      },
+      {
+         "Month": "May 19",
+         "Units sold": 138.0
+      },
+      {
+         "Month": "Apr 19",
+         "Units sold": 101.0
+      },
+      {
+         "Month": "Mar 19",
+         "Units sold": 632.0
+      },
+      {
+         "Month": "Feb 19",
+         "Units sold": 74.0
+      },
+      {
+         "Month": "Jan 19",
+         "Units sold": 174.0
+      },
+      {
+         "Month": "Dec 18",
+         "Units sold": 193.0
+      },
+      {
+         "Month": "Nov 18",
+         "Units sold": 145.0
+      },
+      {
+         "Month": "Oct 18",
+         "Units sold": 135.0
+      },
+      {
+         "Month": "Sep 18",
+         "Units sold": 829.0
+      },
+      {
+         "Month": "Aug 18",
+         "Units sold": 100.0
+      },
+      {
+         "Month": "Jul 18",
+         "Units sold": 112.0
+      },
+      {
+         "Month": "Jun 18",
+         "Units sold": 265.0
+      },
+      {
+         "Month": "May 18",
+         "Units sold": 231.0
+      },
+      {
+         "Month": "Apr 18",
+         "Units sold": 153.0
+      },
+      {
+         "Month": "Mar 18",
+         "Units sold": 761.0
+      },
+      {
+         "Month": "Feb 18",
+         "Units sold": 62.0
+      },
+      {
+         "Month": "Jan 18",
+         "Units sold": 155.0
+      },
+      {
+         "Month": "Dec 17",
+         "Units sold": 246.0
+      },
+      {
+         "Month": "Nov 17",
+         "Units sold": 216.0
+      },
+      {
+         "Month": "Oct 17",
+         "Units sold": 99.0
+      },
+      {
+         "Month": "Sep 17",
+         "Units sold": 510.0
+      },
+      {
+         "Month": "Aug 17",
+         "Units sold": 44.0
+      },
+      {
+         "Month": "Jul 17",
+         "Units sold": 152.0
+      },
+      {
+         "Month": "Jun 17",
+         "Units sold": 202.0
+      },
+      {
+         "Month": "May 17",
+         "Units sold": 155.0
+      },
+      {
+         "Month": "Apr 17",
+         "Units sold": 123.0
+      },
+      {
+         "Month": "Mar 17",
+         "Units sold": 706.0
+      },
+      {
+         "Month": "Feb 17",
+         "Units sold": 48.0
+      },
+      {
+         "Month": "Jan 17",
+         "Units sold": 178.0
+      },
+      {
+         "Month": "Dec 16",
+         "Units sold": 330.0
+      },
+      {
+         "Month": "Nov 16",
+         "Units sold": 219.0
+      },
+      {
+         "Month": "Oct 16",
+         "Units sold": 256.0
+      },
+      {
+         "Month": "Sep 16",
+         "Units sold": 762.0
+      },
+      {
+         "Month": "Aug 16",
+         "Units sold": 69.0
+      },
+      {
+         "Month": "Jul 16",
+         "Units sold": 148.0
+      }
+   ]
+}

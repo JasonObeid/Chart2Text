@@ -1,0 +1,47 @@
+{
+   "title": "U.S. market share of hand-held hair dryer manufacturer 2004 to 2008",
+   "labels": [
+      "unknown",
+      "2004",
+      "2008"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 5 categories for the x axis of unknown representing 2004, 2008.",
+      " The highest category is found at Conair with a mean value of 47.0.",
+      " The second highest category is found at Helen of Troy with a mean value of 35.0.",
+      " This represents a difference of 29.3%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "unknown": "Conair",
+         "2004": "50",
+         "2008": "44"
+      },
+      {
+         "unknown": "Helen of Troy",
+         "2004": "36",
+         "2008": "34"
+      },
+      {
+         "unknown": "Revlon",
+         "2004": "0",
+         "2008": "11"
+      },
+      {
+         "unknown": "Spectrum Brands (Rayovac Remington)",
+         "2004": "4",
+         "2008": "5"
+      },
+      {
+         "unknown": "Others",
+         "2004": "10",
+         "2008": "6"
+      }
+   ]
+}

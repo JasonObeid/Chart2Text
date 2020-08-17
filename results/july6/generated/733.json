@@ -1,0 +1,231 @@
+{
+   "title": "U.S . Median age of the population 2018 , by state",
+   "xAxis": "State",
+   "yAxis": "Age in years",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the percentage of years led state a female householder with no spouse present with own children under 18 years living in the household in the Median in 2018 , state . ",
+      "In 2018 , about 38.8 % of Californian years were Median age years with at least one child . ",
+      "Additional information on Median age years and poverty in the Louisiana For most Median mothers a constant battle persists between finding the time and energy to raise their children and the demands of working to supply an income to house and feed their families ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "20"
+      },
+      {
+         "10": "18"
+      }
+   ],
+   "data": [
+      {
+         "State": "Alabama",
+         "Age in years": "39.3"
+      },
+      {
+         "State": "Alaska",
+         "Age in years": "34.9"
+      },
+      {
+         "State": "Arizona",
+         "Age in years": "38.0"
+      },
+      {
+         "State": "Arkansas",
+         "Age in years": "38.1"
+      },
+      {
+         "State": "California",
+         "Age in years": "36.7"
+      },
+      {
+         "State": "Colorado",
+         "Age in years": "36.9"
+      },
+      {
+         "State": "Connecticut",
+         "Age in years": "41.1"
+      },
+      {
+         "State": "Delaware",
+         "Age in years": "41.1"
+      },
+      {
+         "State": "District of Columbia",
+         "Age in years": "33.9"
+      },
+      {
+         "State": "Florida",
+         "Age in years": "42.2"
+      },
+      {
+         "State": "Georgia",
+         "Age in years": "36.8"
+      },
+      {
+         "State": "Hawaii",
+         "Age in years": "39.3"
+      },
+      {
+         "State": "Idaho",
+         "Age in years": "36.8"
+      },
+      {
+         "State": "Illinois",
+         "Age in years": "38.3"
+      },
+      {
+         "State": "Indiana",
+         "Age in years": "37.8"
+      },
+      {
+         "State": "Iowa",
+         "Age in years": "38.1"
+      },
+      {
+         "State": "Kansas",
+         "Age in years": "37.1"
+      },
+      {
+         "State": "Kentucky",
+         "Age in years": "39.1"
+      },
+      {
+         "State": "Louisiana",
+         "Age in years": "37.3"
+      },
+      {
+         "State": "Maine",
+         "Age in years": "45.1"
+      },
+      {
+         "State": "Maryland",
+         "Age in years": "38.8"
+      },
+      {
+         "State": "Massachusetts",
+         "Age in years": "39.5"
+      },
+      {
+         "State": "Michigan",
+         "Age in years": "39.8"
+      },
+      {
+         "State": "Minnesota",
+         "Age in years": "38.2"
+      },
+      {
+         "State": "Mississippi",
+         "Age in years": "37.7"
+      },
+      {
+         "State": "Missouri",
+         "Age in years": "38.8"
+      },
+      {
+         "State": "Montana",
+         "Age in years": "40.1"
+      },
+      {
+         "State": "Nebraska",
+         "Age in years": "36.7"
+      },
+      {
+         "State": "Nevada",
+         "Age in years": "38.2"
+      },
+      {
+         "State": "New Hampshire",
+         "Age in years": "43.1"
+      },
+      {
+         "State": "New Jersey",
+         "Age in years": "40.0"
+      },
+      {
+         "State": "New Mexico",
+         "Age in years": "38.1"
+      },
+      {
+         "State": "New York",
+         "Age in years": "39.0"
+      },
+      {
+         "State": "North Carolina",
+         "Age in years": "38.9"
+      },
+      {
+         "State": "North Dakota",
+         "Age in years": "35.4"
+      },
+      {
+         "State": "Ohio",
+         "Age in years": "39.5"
+      },
+      {
+         "State": "Oklahoma",
+         "Age in years": "36.7"
+      },
+      {
+         "State": "Oregon",
+         "Age in years": "39.6"
+      },
+      {
+         "State": "Pennsylvania",
+         "Age in years": "40.8"
+      },
+      {
+         "State": "Puerto Rico",
+         "Age in years": "42.9"
+      },
+      {
+         "State": "Rhode Island",
+         "Age in years": "40.0"
+      },
+      {
+         "State": "South Carolina",
+         "Age in years": "39.7"
+      },
+      {
+         "State": "South Dakota",
+         "Age in years": "37.2"
+      },
+      {
+         "State": "Tennessee",
+         "Age in years": "38.9"
+      },
+      {
+         "State": "Texas",
+         "Age in years": "34.9"
+      },
+      {
+         "State": "Utah",
+         "Age in years": "31.0"
+      },
+      {
+         "State": "Vermont",
+         "Age in years": "43.1"
+      },
+      {
+         "State": "Virginia",
+         "Age in years": "38.3"
+      },
+      {
+         "State": "Washington",
+         "Age in years": "37.7"
+      },
+      {
+         "State": "West Virginia",
+         "Age in years": "42.8"
+      },
+      {
+         "State": "Wisconsin",
+         "Age in years": "39.6"
+      },
+      {
+         "State": "Wyoming",
+         "Age in years": "38.5"
+      }
+   ]
+}

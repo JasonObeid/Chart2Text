@@ -1,0 +1,95 @@
+{
+   "title": "Inbound visitor growth in the Middle East 2011 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Year-over-year visitor growth",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Year-over-year visitor growth, with a total of 9 data points. The chart has 5 significant trends.",
+      " The longest trend is  negative which exists from 2014 to 2011.",
+      " But, the next significant trend is  positive which exists from 2016 to 2014.",
+      " Additionally, the next significant trend is  negative which exists from 2019 to 2018.",
+      " On the other hand, the next significant trend is  positive which exists from 2018 to 2017.",
+      " Additionally, the next significant trend is  negative which exists from 2017 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 5,
+         "end": 8,
+         "trend": "y=1.82x+-3658.35",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 3,
+         "end": 5,
+         "trend": "y=-3.4x+6854.9",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 0,
+         "end": 1,
+         "trend": "y=1.1x+-2216.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 1,
+         "end": 2,
+         "trend": "y=-0.3x+608.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 2,
+         "end": 3,
+         "trend": "y=2.3x+-4635.6",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Year-over-year visitor growth": 4.3
+      },
+      {
+         "Year": "2018",
+         "Year-over-year visitor growth": 3.2
+      },
+      {
+         "Year": "2017",
+         "Year-over-year visitor growth": 3.5
+      },
+      {
+         "Year": "2016",
+         "Year-over-year visitor growth": 1.2
+      },
+      {
+         "Year": "2015",
+         "Year-over-year visitor growth": 2.5
+      },
+      {
+         "Year": "2014",
+         "Year-over-year visitor growth": 8.0
+      },
+      {
+         "Year": "2013",
+         "Year-over-year visitor growth": 4.2
+      },
+      {
+         "Year": "2012",
+         "Year-over-year visitor growth": 3.1
+      },
+      {
+         "Year": "2011",
+         "Year-over-year visitor growth": 2.3
+      }
+   ]
+}

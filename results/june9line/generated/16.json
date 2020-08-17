@@ -1,0 +1,98 @@
+{
+   "title": "U.S. per capita consumption of fresh citrus fruit 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "graphType": "line",
+   "summary": [
+      "The timeline shows the Per capita consumption of fresh citrus in the U.S. from 2000 to 2018 . ",
+      "According to the report , the U.S. Per capita consumption of fresh citrus amounted to 23.95 pounds in 2007 ."
+   ],
+   "trends": [
+      {
+         "14": "18",
+         "16": "0"
+      },
+      {
+         "15": "0",
+         "18": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": "23.95"
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": "23.82"
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": "24.07"
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": "22.75"
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": "23.28"
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": "23.97"
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": "23.54"
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": "22.81"
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": "21.59"
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": "20.69"
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": "20.62"
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": "17.94"
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": "21.64"
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": "21.63"
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": "22.7"
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": "23.82"
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": "23.37"
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": "23.93"
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": "23.54"
+      }
+   ]
+}

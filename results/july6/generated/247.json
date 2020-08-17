@@ -1,0 +1,88 @@
+{
+   "title": "Kidnapping : percentage of cases for ransom 2004 - 2012 , by continent",
+   "labels": [
+      "Year",
+      "Latin America",
+      "Middle East",
+      "Asia and the Pacific",
+      "Europe and CIS",
+      "US, Canada and the Caribbean",
+      "Africa"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the consumer percentage on Kidnapping by product continent in the Kidnapping ( ) from 2012 to 2004 , with a forecast estimate for 2004 . ",
+      "In each Year during this period , percentage on Kidnapping Latin was the highest across the various categories , at an estimated 55 percentage British pounds in 2004 . ",
+      "In comparison , Middle percentage was estimated at 15 percentage pounds that same Year , while percentage on Asia and Europe was forecast to reach 15 percentage pounds and 8 percentage pounds , respectively ."
+   ],
+   "trends": [
+      {
+         "18": [
+            "0",
+            "0"
+         ],
+         "20": [
+            "2",
+            "0"
+         ],
+         "27": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "22": [
+            "2",
+            "1"
+         ],
+         "27": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "8": [
+            "2",
+            "2"
+         ],
+         "25": [
+            "2",
+            "3"
+         ],
+         "29": [
+            "2",
+            "4"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Latin America": "25",
+         "Middle East": "19",
+         "Asia and the Pacific": "31",
+         "Europe and CIS": "2",
+         "US, Canada and the Caribbean": "1",
+         "Africa": "22"
+      },
+      {
+         "Year": "2008",
+         "Latin America": "40",
+         "Middle East": "4",
+         "Asia and the Pacific": "38",
+         "Europe and CIS": "2",
+         "US, Canada and the Caribbean": "2",
+         "Africa": "14"
+      },
+      {
+         "Year": "2004",
+         "Latin America": "55",
+         "Middle East": "15",
+         "Asia and the Pacific": "15",
+         "Europe and CIS": "8",
+         "US, Canada and the Caribbean": "4",
+         "Africa": "3"
+      }
+   ]
+}

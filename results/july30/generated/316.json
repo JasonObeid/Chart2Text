@@ -1,0 +1,125 @@
+{
+   "title": "Unemployment rate in Colombia 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2015 to 2009.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2007 to 2002.",
+      " In a similar manner, the next significant trend is extremely negative which exists from 2019 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 4,
+         "end": 10,
+         "trend": "y=-0.61x+1245.06",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 12,
+         "end": 17,
+         "trend": "y=-0.92x+1848.0",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=0.22x+-430.88",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 9.19
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 9.09
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 8.87
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 8.69
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 8.3
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 8.57
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 9.05
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 9.74
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 10.11
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 10.98
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 12.07
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 11.27
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 11.2
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 11.51
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 11.87
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 13.72
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 14.19
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 15.63
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 15.04
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 20.52
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 20.06
+      }
+   ]
+}

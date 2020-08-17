@@ -1,0 +1,98 @@
+{
+   "title": "Average attendance in the National Football League 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 12 data points. The chart has 4 significant trends.",
+      " The longest trend is  positive which exists from 2019 to 2016.",
+      " Also, the next significant trend is  negative which exists from 2013 to 2010.",
+      " Conversely, the next significant trend is  positive which exists from 2015 to 2013.",
+      " Likewise, the next significant trend is  positive which exists from 2010 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-1037.3x+2160273.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 6,
+         "end": 9,
+         "trend": "y=453.3x+-844211.7",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-90.5x+250581.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=-644.0x+1361365.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": 66151.0
+      },
+      {
+         "Year": "2018",
+         "Average attendance": 67040.0
+      },
+      {
+         "Year": "2017",
+         "Average attendance": 67405.0
+      },
+      {
+         "Year": "2016",
+         "Average attendance": 69487.0
+      },
+      {
+         "Year": "2015",
+         "Average attendance": 68216.0
+      },
+      {
+         "Year": "2014",
+         "Average attendance": 68331.0
+      },
+      {
+         "Year": "2013",
+         "Average attendance": 68397.0
+      },
+      {
+         "Year": "2012",
+         "Average attendance": 67632.0
+      },
+      {
+         "Year": "2011",
+         "Average attendance": 67419.0
+      },
+      {
+         "Year": "2010",
+         "Average attendance": 66957.0
+      },
+      {
+         "Year": "2009",
+         "Average attendance": 67506.0
+      },
+      {
+         "Year": "2008",
+         "Average attendance": 68245.0
+      }
+   ]
+}

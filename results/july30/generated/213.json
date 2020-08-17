@@ -1,0 +1,99 @@
+{
+   "title": "Average ticket price Orlando Magic ( NBA ) games 2015/16\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points. The chart has 5 significant trends.",
+      " The longest trend is  neutral which exists from 2015/16 to 2013/14.",
+      " Contrarily, the next significant trend is  positive which exists from 2013/14 to 2011/12.",
+      " Also, the next significant trend is  negative which exists from 2011/12 to 2009/10.",
+      " But, the next significant trend is  negative which exists from 2008/09 to 2006/07.",
+      " Contrarily, the next significant trend is  neutral which exists from 2009/10 to 2008/09."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 0,
+         "end": 2,
+         "trend": "y=0.0x+39.4",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 2,
+         "end": 4,
+         "trend": "y=-2.12x+4316.91",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 4,
+         "end": 6,
+         "trend": "y=1.68x+-3324.43",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 7,
+         "end": 9,
+         "trend": "y=2.5x+-4989.52",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 6,
+         "end": 7,
+         "trend": "y=0.0x+40.3",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": 39.4
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 39.4
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 39.4
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 41.18
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 43.65
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 43.0
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 40.3
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 40.3
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 38.46
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 35.29
+      }
+   ]
+}

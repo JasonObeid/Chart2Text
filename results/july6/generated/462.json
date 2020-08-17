@@ -1,0 +1,56 @@
+{
+   "title": "Southern California Edison 's total assets 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Net income of the sports company Southern California Edison from 2011 to 2018 . ",
+      "Southern California Edison had a Net income of 40315 56574 U.S. dollars in 2018 ."
+   ],
+   "trends": [
+      {
+         "12": "7",
+         "14": "0"
+      },
+      {
+         "6": "7",
+         "7": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Net income in million U.S. dollars": "56574"
+      },
+      {
+         "Year": "2017",
+         "Net income in million U.S. dollars": "51515"
+      },
+      {
+         "Year": "2016",
+         "Net income in million U.S. dollars": "50891"
+      },
+      {
+         "Year": "2015",
+         "Net income in million U.S. dollars": "49795"
+      },
+      {
+         "Year": "2014",
+         "Net income in million U.S. dollars": "49456"
+      },
+      {
+         "Year": "2013",
+         "Net income in million U.S. dollars": "45786"
+      },
+      {
+         "Year": "2012",
+         "Net income in million U.S. dollars": "44034"
+      },
+      {
+         "Year": "2011",
+         "Net income in million U.S. dollars": "40315"
+      }
+   ]
+}

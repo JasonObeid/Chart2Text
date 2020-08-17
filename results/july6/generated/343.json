@@ -1,0 +1,67 @@
+{
+   "title": "Infant mortality rate in Greece 2018",
+   "xAxis": "Year",
+   "yAxis": "Deaths per 1,000 live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Infant mortality rate in Greece from 2008 to 2018 . ",
+      "In 2018 , the Infant mortality rate in Greece was at about 3.6 Deaths per 1,000 live births ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Deaths per 1,000 live births": "3.6"
+      },
+      {
+         "Year": "2017",
+         "Deaths per 1,000 live births": "3.7"
+      },
+      {
+         "Year": "2016",
+         "Deaths per 1,000 live births": "3.8"
+      },
+      {
+         "Year": "2015",
+         "Deaths per 1,000 live births": "3.8"
+      },
+      {
+         "Year": "2014",
+         "Deaths per 1,000 live births": "3.6"
+      },
+      {
+         "Year": "2013",
+         "Deaths per 1,000 live births": "3.5"
+      },
+      {
+         "Year": "2012",
+         "Deaths per 1,000 live births": "3.4"
+      },
+      {
+         "Year": "2011",
+         "Deaths per 1,000 live births": "3.3"
+      },
+      {
+         "Year": "2010",
+         "Deaths per 1,000 live births": "3.3"
+      },
+      {
+         "Year": "2009",
+         "Deaths per 1,000 live births": "3.3"
+      },
+      {
+         "Year": "2008",
+         "Deaths per 1,000 live births": "3.3"
+      }
+   ]
+}

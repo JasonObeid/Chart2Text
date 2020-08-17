@@ -1,0 +1,70 @@
+{
+   "title": "Most popular leisure activities among Millennials in the U.S. 2013",
+   "xAxis": "Activity",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the distribution of a survey among Millennials adult popular . ",
+      "The survey was fielded online by Harris Interactive in 2014 , asking the respondents where they usually activities their shampoo and/or U.S.",
+      "Some 16 % of Millennials adults indicated that they buy their shampoo/conditioner Computer/internet ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "3",
+         "12": "3"
+      }
+   ],
+   "data": [
+      {
+         "Activity": "Watch TV",
+         "Share of respondents": "38"
+      },
+      {
+         "Activity": "Reading",
+         "Share of respondents": "31"
+      },
+      {
+         "Activity": "Spending time with family and friends",
+         "Share of respondents": "19"
+      },
+      {
+         "Activity": "Computer/internet",
+         "Share of respondents": "16"
+      },
+      {
+         "Activity": "Playing video games and computer/internet games",
+         "Share of respondents": "16"
+      },
+      {
+         "Activity": "Watching/going to the movies",
+         "Share of respondents": "13"
+      },
+      {
+         "Activity": "Exercise/working out",
+         "Share of respondents": "13"
+      },
+      {
+         "Activity": "Concerts/listening to/playing music",
+         "Share of respondents": "10"
+      },
+      {
+         "Activity": "Walking/running/jogging",
+         "Share of respondents": "5"
+      },
+      {
+         "Activity": "Eating/going to restaurants",
+         "Share of respondents": "5"
+      },
+      {
+         "Activity": "Cooking/baking",
+         "Share of respondents": "5"
+      },
+      {
+         "Activity": "Shopping",
+         "Share of respondents": "5"
+      }
+   ]
+}

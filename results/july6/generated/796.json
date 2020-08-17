@@ -1,0 +1,66 @@
+{
+   "title": "Number of Apple stores worldwide 2005 to 2015",
+   "xAxis": "Fiscal years",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "In 2005 , the German drug store chain Rossman opened their store Number four thousand . ",
+      "For the past ten years the Number of Apple stores in Apple have seen a continuous growth . ",
+      "In 2015 , their numbers reached 463 stores ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal years": "2015",
+         "Number of stores": "463"
+      },
+      {
+         "Fiscal years": "2014",
+         "Number of stores": "437"
+      },
+      {
+         "Fiscal years": "2013",
+         "Number of stores": "416"
+      },
+      {
+         "Fiscal years": "2012",
+         "Number of stores": "390"
+      },
+      {
+         "Fiscal years": "2011",
+         "Number of stores": "357"
+      },
+      {
+         "Fiscal years": "2010",
+         "Number of stores": "317"
+      },
+      {
+         "Fiscal years": "2009",
+         "Number of stores": "273"
+      },
+      {
+         "Fiscal years": "2008",
+         "Number of stores": "247"
+      },
+      {
+         "Fiscal years": "2007",
+         "Number of stores": "197"
+      },
+      {
+         "Fiscal years": "2006",
+         "Number of stores": "165"
+      },
+      {
+         "Fiscal years": "2005",
+         "Number of stores": "116"
+      }
+   ]
+}

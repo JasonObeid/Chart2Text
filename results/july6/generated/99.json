@@ -1,0 +1,89 @@
+{
+   "title": "Monsanto 's seed and genomics segment net sales 2011 to 2017",
+   "labels": [
+      "Year",
+      "Corn seed and traits",
+      "Soybean seed and traits",
+      "Vegetable seeds",
+      "Cotton seed and traits"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Monsanto estimated annual 's to seed different universities and college institutions in the genomics for academic years 2017 to 2011 . ",
+      "The Monsanto 's of attendance ( which includes tuition , fees room and board ) in Corn seed in-state institutions was 1542 Monsanto dollars in the academic Year 2011 ."
+   ],
+   "trends": [
+      {
+         "21": [
+            "0",
+            "0"
+         ],
+         "23": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "22": [
+            "6",
+            "2"
+         ],
+         "29": [
+            "6",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Corn seed and traits": "6270",
+         "Soybean seed and traits": "2662",
+         "Vegetable seeds": "815",
+         "Cotton seed and traits": "615"
+      },
+      {
+         "Year": "2016",
+         "Corn seed and traits": "5825",
+         "Soybean seed and traits": "2162",
+         "Vegetable seeds": "801",
+         "Cotton seed and traits": "440"
+      },
+      {
+         "Year": "2015",
+         "Corn seed and traits": "5953",
+         "Soybean seed and traits": "2276",
+         "Vegetable seeds": "816",
+         "Cotton seed and traits": "523"
+      },
+      {
+         "Year": "2014",
+         "Corn seed and traits": "6401",
+         "Soybean seed and traits": "2102",
+         "Vegetable seeds": "867",
+         "Cotton seed and traits": "665"
+      },
+      {
+         "Year": "2013",
+         "Corn seed and traits": "6596",
+         "Soybean seed and traits": "1653",
+         "Vegetable seeds": "821",
+         "Cotton seed and traits": "695"
+      },
+      {
+         "Year": "2012",
+         "Corn seed and traits": "5814",
+         "Soybean seed and traits": "1771",
+         "Vegetable seeds": "851",
+         "Cotton seed and traits": "779"
+      },
+      {
+         "Year": "2011",
+         "Corn seed and traits": "4805",
+         "Soybean seed and traits": "1542",
+         "Vegetable seeds": "895",
+         "Cotton seed and traits": "847"
+      }
+   ]
+}

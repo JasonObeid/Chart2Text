@@ -1,0 +1,43 @@
+{
+   "title": "American teenagers ' belief in existence of a God",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "A 2017 survey of American adults found that approximately 54 % of American Absolutely_certain_that_there_is_a_God and 7 % of American Not_sure_whether_or_not_there_is_a_God currently smoke existence . ",
+      "Impact of Legalizing Cannabis in the American . ",
+      "Since Washington and Colorado legalized recreational existence in 2012 , several more states have followed suit ."
+   ],
+   "trends": [
+      {
+         "9": "0",
+         "13": "0",
+         "15": "2",
+         "19": "4"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Absolutely certain that there is a God",
+         "Share of respondents": "54"
+      },
+      {
+         "Response": "Somewhat certain that there is a God",
+         "Share of respondents": "15"
+      },
+      {
+         "Response": "Somewhat certain that there is no God",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Absolutely certain that there is no God",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Not sure whether or not there is a God",
+         "Share of respondents": "16"
+      }
+   ]
+}

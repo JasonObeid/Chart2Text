@@ -1,0 +1,107 @@
+{
+   "title": "Unemployment rate in Ghana 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Ghana from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Ghana was at approximately 6.78 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "6.78"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "6.71"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "6.63"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "6.77"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "6.81"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "6.48"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "6.43"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "6.01"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "5.91"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "5.32"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "5.17"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "4.66"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "4.57"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "4.64"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "5.54"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "6.47"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "7.57"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "8.58"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "9.29"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "10.36"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "10.1"
+      }
+   ]
+}

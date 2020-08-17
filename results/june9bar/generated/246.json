@@ -1,0 +1,56 @@
+{
+   "title": "2018 FIFA World Cup : average age of Latin American soccer teams",
+   "xAxis": "Country",
+   "yAxis": "Average age in years",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the Average age of active 2018 Cup in selected countries . ",
+      "As of Latin American 2018 , Peru had the second-youngest 2018 user base with an Average age of 27.5 years . ",
+      "In Costa_Rica , active 2018 Cup averaged 29.8 years ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "17",
+         "17": "17"
+      },
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Costa Rica",
+         "Average age in years": "29.8"
+      },
+      {
+         "Country": "Argentina",
+         "Average age in years": "29.6"
+      },
+      {
+         "Country": "Mexico",
+         "Average age in years": "29.3"
+      },
+      {
+         "Country": "Panama",
+         "Average age in years": "28.9"
+      },
+      {
+         "Country": "Brazil",
+         "Average age in years": "28.6"
+      },
+      {
+         "Country": "Colombia",
+         "Average age in years": "28.4"
+      },
+      {
+         "Country": "Uruguay",
+         "Average age in years": "28.2"
+      },
+      {
+         "Country": "Peru",
+         "Average age in years": "27.5"
+      }
+   ]
+}

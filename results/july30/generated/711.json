@@ -1,0 +1,72 @@
+{
+   "title": "World 's largest cities",
+   "labels": [
+      "unknown",
+      "2010",
+      "2025"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 10 categories for the x axis of unknown representing 2010, 2025.",
+      " The highest category is found at Tokyo with a mean value of 36.900000000000006.",
+      " The second highest category is found at Delhi with a mean value of 25.4.",
+      " This represents a difference of 36.9%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "unknown": "Tokyo",
+         "2010": "36.7",
+         "2025": "37.1"
+      },
+      {
+         "unknown": "Delhi",
+         "2010": "22.2",
+         "2025": "28.6"
+      },
+      {
+         "unknown": "S\u00e3o Paulo",
+         "2010": "20.3",
+         "2025": "21.7"
+      },
+      {
+         "unknown": "Mumbai",
+         "2010": "20.0",
+         "2025": "25.8"
+      },
+      {
+         "unknown": "Mexico City",
+         "2010": "19.5",
+         "2025": "20.7"
+      },
+      {
+         "unknown": "New York-Newark",
+         "2010": "19.4",
+         "2025": "20.6"
+      },
+      {
+         "unknown": "Shanghai",
+         "2010": "16.6",
+         "2025": "20.0"
+      },
+      {
+         "unknown": "Calcutta",
+         "2010": "15.6",
+         "2025": "20.1"
+      },
+      {
+         "unknown": "Dhaka",
+         "2010": "14.6",
+         "2025": "20.9"
+      },
+      {
+         "unknown": "Karachi",
+         "2010": "13.1",
+         "2025": "18.7"
+      }
+   ]
+}

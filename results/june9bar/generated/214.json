@@ -1,0 +1,32 @@
+{
+   "title": "Frequency of making online restaurant reservations in the U.S. as of June 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the Frequency making online restaurant of Frequency in the June as of 2018 . ",
+      "During the survey , 37.6 % of Frequency stated that they used Yes_many_times for Never ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "12": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes many times",
+         "Share of respondents": "9.6"
+      },
+      {
+         "Response": "Yes once or twice",
+         "Share of respondents": "37.6"
+      },
+      {
+         "Response": "Never",
+         "Share of respondents": "52.8"
+      }
+   ]
+}

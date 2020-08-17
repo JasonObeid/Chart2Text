@@ -1,0 +1,58 @@
+{
+   "title": "Countries with the largest population 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Inhabitants in millions.",
+      " The highest category is found at China where Inhabitants in millions is 1393.8.",
+      " The lowest category is found at Mexico where Inhabitants in millions is 130.8."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Country": "China",
+         "Inhabitants in millions": 1393.8
+      },
+      {
+         "Country": "India",
+         "Inhabitants in millions": 1371.3
+      },
+      {
+         "Country": "USA",
+         "Inhabitants in millions": 328.0
+      },
+      {
+         "Country": "Indonesia",
+         "Inhabitants in millions": 265.2
+      },
+      {
+         "Country": "Brazil",
+         "Inhabitants in millions": 209.4
+      },
+      {
+         "Country": "Pakistan",
+         "Inhabitants in millions": 200.6
+      },
+      {
+         "Country": "Nigeria",
+         "Inhabitants in millions": 195.9
+      },
+      {
+         "Country": "Bangladesh",
+         "Inhabitants in millions": 166.4
+      },
+      {
+         "Country": "Russia",
+         "Inhabitants in millions": 147.3
+      },
+      {
+         "Country": "Mexico",
+         "Inhabitants in millions": 130.8
+      }
+   ]
+}

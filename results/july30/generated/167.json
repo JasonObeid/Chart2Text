@@ -1,0 +1,116 @@
+{
+   "title": "Youth unemployment rate in Jordan in 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2008 to 2005.",
+      " In a similar manner, the next significant trend is  negative which exists from 2002 to 1999."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 11,
+         "end": 14,
+         "trend": "y=-1.11x+2263.17",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 17,
+         "end": 20,
+         "trend": "y=1.06x+-2087.84",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": 36.68
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": 37.24
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": 34.86
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": 35.63
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": 30.9
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": 28.43
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": 29.87
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": 28.84
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": 30.03
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": 28.88
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": 29.12
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": 28.51
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": 29.04
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": 30.45
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": 31.75
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": 31.37
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": 31.06
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": 32.62
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": 31.08
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": 29.4
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": 29.65
+      }
+   ]
+}

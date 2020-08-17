@@ -1,0 +1,101 @@
+{
+   "title": "Nuclear power plants : permanent shutdowns 2005 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of shutdowns",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of shutdowns, with a total of 15 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2018 to 2016.",
+      " On the contrary, the next significant trend is  negative which exists from 2009 to 2007.",
+      " On the other hand, the next significant trend is  positive which exists from 2007 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 1,
+         "end": 3,
+         "trend": "y=1.5x+-3020.17",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 10,
+         "end": 12,
+         "trend": "y=1.0x+-2006.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 12,
+         "end": 14,
+         "trend": "y=-0.5x+1006.67",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2018",
+         "Number of shutdowns": 7.0
+      },
+      {
+         "Year": "2017",
+         "Number of shutdowns": 5.0
+      },
+      {
+         "Year": "2016",
+         "Number of shutdowns": 4.0
+      },
+      {
+         "Year": "2015",
+         "Number of shutdowns": 7.0
+      },
+      {
+         "Year": "2014",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2013",
+         "Number of shutdowns": 6.0
+      },
+      {
+         "Year": "2012",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2011",
+         "Number of shutdowns": 13.0
+      },
+      {
+         "Year": "2010",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2009",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2008",
+         "Number of shutdowns": 2.0
+      },
+      {
+         "Year": "2007",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2006",
+         "Number of shutdowns": 8.0
+      },
+      {
+         "Year": "2005",
+         "Number of shutdowns": 2.0
+      }
+   ]
+}

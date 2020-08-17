@@ -1,0 +1,51 @@
+{
+   "title": "Smartphone penetration as share of population in Indonesia 2017 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Share of population with a smartphone",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of population with a smartphone with a total of 7 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2023 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 0,
+         "end": 6,
+         "trend": "y=1.5x+-3000.86",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Share of population with a smartphone": 33.0
+      },
+      {
+         "Year": "2022",
+         "Share of population with a smartphone": 32.0
+      },
+      {
+         "Year": "2021",
+         "Share of population with a smartphone": 31.0
+      },
+      {
+         "Year": "2020",
+         "Share of population with a smartphone": 30.0
+      },
+      {
+         "Year": "2019",
+         "Share of population with a smartphone": 28.0
+      },
+      {
+         "Year": "2018",
+         "Share of population with a smartphone": 26.0
+      },
+      {
+         "Year": "2017",
+         "Share of population with a smartphone": 24.0
+      }
+   ]
+}

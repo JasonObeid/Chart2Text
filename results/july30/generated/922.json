@@ -1,0 +1,116 @@
+{
+   "title": "Gross domestic product ( GDP ) in Afghanistan 2024\n",
+   "xAxis": "Year",
+   "yAxis": "GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP in billion U.S. dollars, with a total of 21 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2012 to 2004.",
+      " But, the next significant trend is  negative which exists from 2024 to 2019."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 12,
+         "end": 20,
+         "trend": "y=1.93x+-3871.73",
+         "magnitude": ""
+      },
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 0,
+         "end": 5,
+         "trend": "y=1.34x+-2692.17",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP in billion U.S. dollars": 25.19
+      },
+      {
+         "Year": "2023",
+         "GDP in billion U.S. dollars": 23.24
+      },
+      {
+         "Year": "2022",
+         "GDP in billion U.S. dollars": 21.54
+      },
+      {
+         "Year": "2021",
+         "GDP in billion U.S. dollars": 20.0
+      },
+      {
+         "Year": "2020",
+         "GDP in billion U.S. dollars": 18.86
+      },
+      {
+         "Year": "2019",
+         "GDP in billion U.S. dollars": 18.73
+      },
+      {
+         "Year": "2018",
+         "GDP in billion U.S. dollars": 19.63
+      },
+      {
+         "Year": "2017",
+         "GDP in billion U.S. dollars": 20.24
+      },
+      {
+         "Year": "2016",
+         "GDP in billion U.S. dollars": 19.43
+      },
+      {
+         "Year": "2015",
+         "GDP in billion U.S. dollars": 20.06
+      },
+      {
+         "Year": "2014",
+         "GDP in billion U.S. dollars": 20.62
+      },
+      {
+         "Year": "2013",
+         "GDP in billion U.S. dollars": 20.17
+      },
+      {
+         "Year": "2012",
+         "GDP in billion U.S. dollars": 20.29
+      },
+      {
+         "Year": "2011",
+         "GDP in billion U.S. dollars": 17.89
+      },
+      {
+         "Year": "2010",
+         "GDP in billion U.S. dollars": 15.33
+      },
+      {
+         "Year": "2009",
+         "GDP in billion U.S. dollars": 12.07
+      },
+      {
+         "Year": "2008",
+         "GDP in billion U.S. dollars": 10.3
+      },
+      {
+         "Year": "2007",
+         "GDP in billion U.S. dollars": 8.56
+      },
+      {
+         "Year": "2006",
+         "GDP in billion U.S. dollars": 6.93
+      },
+      {
+         "Year": "2005",
+         "GDP in billion U.S. dollars": 6.17
+      },
+      {
+         "Year": "2004",
+         "GDP in billion U.S. dollars": 5.15
+      }
+   ]
+}

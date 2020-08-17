@@ -1,0 +1,116 @@
+{
+   "title": "Youth unemployment rate in Ghana in 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2015 to 2006.",
+      " Differently, the next significant trend is  positive which exists from 2006 to 1999."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 4,
+         "end": 13,
+         "trend": "y=0.59x+-1177.78",
+         "magnitude": ""
+      },
+      {
+         "Length": 8,
+         "direction": "positive",
+         "start": 13,
+         "end": 20,
+         "trend": "y=-1.01x+2033.27",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": 13.69
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": 13.7
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": 13.7
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": 14.07
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": 14.1
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": 13.51
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": 13.37
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": 12.55
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": 12.17
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": 11.15
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": 10.83
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": 9.53
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": 9.35
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": 9.31
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": 10.63
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": 11.89
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": 13.33
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": 14.52
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": 15.14
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": 16.26
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": 15.83
+      }
+   ]
+}

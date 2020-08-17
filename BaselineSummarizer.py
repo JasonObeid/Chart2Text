@@ -121,6 +121,8 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                 dataJson.append(dico)
             if (chartType == "bar"):
                 meanCategoricalDict = {}
+                stringLabels.insert(len(stringLabels)-1, 'and')
+                categories = ', '.join(stringLabels[1:-1]) + f' {stringLabels[-1]}'
                 if rowCount > 1:
                     for category in categoricalValueArr:
                         meanCategoricalDict[category[0]] = mean(category[1:])
@@ -129,7 +131,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                     denominator = (sortedCategories[-1][1] + sortedCategories[-2][1]) / 2
                     topTwoDelta = round((numerator / denominator) * 100, 1)
 
-                    summary1 = f"This grouped bar chart has {rowCount} categories for the x axis of {stringLabels[0]} representing {', '.join(stringLabels[1:])}."
+                    summary1 = f"This grouped bar chart has {rowCount} categories for the x axis of {stringLabels[0]} representing {categories}."
                     summary2 = f" The highest category is found at {sortedCategories[-1][0]} with a mean value of {sortedCategories[-1][1]}."
                     summaryArray.append(summary1)
                     summaryArray.append(summary2)
@@ -138,7 +140,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                     #minValueIndex = valueArr[0].index(sortedCategories[-1][0])
                     trendsArray = {"maxIndex": maxValueIndex, "secondIndex": secondValueIndex}#, "minIndex": minValueIndex}
                 else:
-                    summary1 = f"This grouped bar chart has 1 category for the x axis of {stringLabels[0]} representing {', '.join(stringLabels[1:])}."
+                    summary1 = f"This grouped bar chart has 1 category for the x axis of {stringLabels[0]} representing {categories}."
                     summaryArray.append(summary1)
                     trendsArray = {"maxIndex": 0, "secondIndex": 0}
                 summary3 = f" The second highest category is found at {sortedCategories[-2][0]} with a mean value of {sortedCategories[-2][1]}."
@@ -177,11 +179,11 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                 index = stringLabels.index(maxLine[0])
                 maxLineData = max(intData[index])
                 maxXValue = valueArr[0][intData[index].index(maxLineData)]
+                secondLine = sortedLines[-2]
+                index = stringLabels.index(secondLine[0])
+                secondLineData = max(intData[index])
+                secondXValue = valueArr[0][intData[index].index(secondLineData)]
                 if len(labelArr[1:]) > 2:
-                    secondLine = sortedLines[-2]
-                    index = stringLabels.index(secondLine[0])
-                    secondLineData = max(intData[index])
-                    secondXValue = valueArr[0][intData[index].index(secondLineData)]
                     summaryArr = f'This line chart has {lineCount} lines. The line representing' \
                                  f' {maxLine[0]} had the highest values across {stringLabels[0]} with a mean value of {maxLine[1]}.' \
                                  f' This peaked at {maxXValue} with a value of {maxLineData}. ' \
@@ -215,8 +217,8 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                     xValueArr.append((datum[i].split('|')[1]))
                     cleanXArr.append((datum[i].split('|')[1].replace('_', ' ')))
                 else:
-                    yValueArr.append(float(datum[i].split('|')[1]))
-                    cleanYArr.append(float(datum[i].split('|')[1].replace('_', ' ')))
+                    yValueArr.append(float(re.sub("[^\d\.]", "", datum[i].split('|')[1])))
+                    cleanYArr.append(float(re.sub("[^\d\.]", "", datum[i].split('|')[1])))
             titleArr = title.split()
             xValueArr = pd.Series(xValueArr)
             yValueArr = pd.Series(yValueArr)
@@ -285,10 +287,18 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                             endIndex = n + 1
                         else:
                             endIndex = n
-                        xRange = numericXValueArr.loc[startIndex:endIndex]
-                        yRange = yValueArr.loc[startIndex:endIndex]
-                        result = linregress(xRange, yRange)
-                        slope = round(result.slope, 2)
+                        #if endIndex - startIndex > 1:
+                        xRange = list(numericXValueArr.loc[startIndex:endIndex].array)
+                        yRange = list(yValueArr.loc[startIndex:endIndex].array)
+                        try:
+                            result = linregress(xRange, yRange)
+                            np.seterr('raise')
+                            slope = round(result.slope, 2)
+                        except:
+                            print('slope err')
+                            slope = 1
+                            intercept = 1
+                        """
                         # normalize slope to between 0 and 1
                         minimum = min(yValueArr)
                         maximum = max(yValueArr)
@@ -307,9 +317,10 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                             magnitude = "moderately"
                         else:
                             magnitude = "slightly"
-
                         if type1 == "neutral":
                             magnitude = ""
+                        """
+                        magnitude = ""
                         intercept = round(result[1], 2)
                         trend = "y=" + str(slope) + "x+" + str(intercept)
                         trendRange = {"Length": (endIndex - startIndex + 1), "direction": currentVal, "start": startIndex,

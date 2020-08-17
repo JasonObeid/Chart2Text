@@ -1,0 +1,50 @@
+{
+   "title": "Revenue per employee of leading tech companies 2018\n",
+   "xAxis": "Company",
+   "yAxis": "Revenue per employee in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Company, and a y axis representing Revenue per employee in U.S. dollars.",
+      " The highest category is found at Netflix where Revenue per employee in U.S. dollars is 2224555.0.",
+      " The lowest category is found at Amazon where Revenue per employee in U.S. dollars is 359671.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 7
+   },
+   "data": [
+      {
+         "Company": "Netflix",
+         "Revenue per employee in U.S. dollars": 2224555.0
+      },
+      {
+         "Company": "Apple",
+         "Revenue per employee in U.S. dollars": 2012083.0
+      },
+      {
+         "Company": "Facebook",
+         "Revenue per employee in U.S. dollars": 1569056.0
+      },
+      {
+         "Company": "Alphabet",
+         "Revenue per employee in U.S. dollars": 1385214.0
+      },
+      {
+         "Company": "Microsoft",
+         "Revenue per employee in U.S. dollars": 873910.0
+      },
+      {
+         "Company": "Twitter",
+         "Revenue per employee in U.S. dollars": 776112.0
+      },
+      {
+         "Company": "Alibaba",
+         "Revenue per employee in U.S. dollars": 550737.0
+      },
+      {
+         "Company": "Amazon",
+         "Revenue per employee in U.S. dollars": 359671.0
+      }
+   ]
+}

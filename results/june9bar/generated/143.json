@@ -1,0 +1,58 @@
+{
+   "title": "Most viewed YouTube videos of all time 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of views in billions",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Most viewed YouTube videos all YouTube 2019 as of 2018 . ",
+      "As of that Month , the Most viewed a total of 6.55 billions views ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Luis Fonsi - Despacito ft. Daddy Yankee",
+         "Number of views in billions": "6.55"
+      },
+      {
+         "Month": "Ed Sheeran - Shape of You",
+         "Number of views in billions": "4.51"
+      },
+      {
+         "Month": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+         "Number of views in billions": "4.31"
+      },
+      {
+         "Month": "Masha and the Bear: Recipe for Disaster",
+         "Number of views in billions": "4.18"
+      },
+      {
+         "Month": "Pinkfong Kids' Songs & Stories - Baby Shark Dance",
+         "Number of views in billions": "4.06"
+      },
+      {
+         "Month": "Mark Ronson ft. Bruno Mars - Uptown Funk",
+         "Number of views in billions": "3.73"
+      },
+      {
+         "Month": "PSY - GANGNAM STYLE",
+         "Number of views in billions": "3.47"
+      },
+      {
+         "Month": "Justin Bieber - Sorry",
+         "Number of views in billions": "3.22"
+      },
+      {
+         "Month": "Maroon 5 - Sugar",
+         "Number of views in billions": "3.08"
+      },
+      {
+         "Month": "Katy Perry - Roar",
+         "Number of views in billions": "2.97"
+      }
+   ]
+}

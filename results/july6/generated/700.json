@@ -1,0 +1,123 @@
+{
+   "title": "Religious affiliation in the United States 2017 , by age",
+   "labels": [
+      "Age group",
+      "Unaffiliated",
+      "White Evangelical Protestant",
+      "White Mainline Protestant",
+      "White Catholic",
+      "Hispanic Catholic",
+      "Black Protestant",
+      "Other Christian",
+      "Jewish",
+      "Other religion",
+      "Other world religions",
+      "Hispanic Protestant",
+      "Mormon",
+      "Don't know/refused"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey conducted irregularly between 18-29 and 65_and_older among adult Americans , asking them if they Unaffiliated of affiliation between people of different skin color . ",
+      "While in 18-29 , only 65_and_older % stated they approved of intermarriages , 12 % said the same in 65_and_older . ",
+      "The increased acceptance of Religious marriages The remarkable change in approval of Religious affiliation amongst Americans displays an ongoing trend of public acceptance of lifestyles that were once disapproved of ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "5": [
+            "3",
+            "0"
+         ],
+         "13": [
+            "3",
+            "1"
+         ],
+         "19": [
+            "3",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age group": "18-29",
+         "Unaffiliated": "38",
+         "White Evangelical Protestant": "8",
+         "White Mainline Protestant": "8",
+         "White Catholic": "8",
+         "Hispanic Catholic": "9",
+         "Black Protestant": "7",
+         "Other Christian": "7",
+         "Jewish": "1",
+         "Other religion": "1",
+         "Other world religions": "4",
+         "Hispanic Protestant": "6",
+         "Mormon": "2",
+         "Don't know/refused": "3"
+      },
+      {
+         "Age group": "30-49",
+         "Unaffiliated": "26",
+         "White Evangelical Protestant": "14",
+         "White Mainline Protestant": "11",
+         "White Catholic": "11",
+         "Hispanic Catholic": "10",
+         "Black Protestant": "8",
+         "Other Christian": "6",
+         "Jewish": "1",
+         "Other religion": "1",
+         "Other world religions": "3",
+         "Hispanic Protestant": "5",
+         "Mormon": "2",
+         "Don't know/refused": "3"
+      },
+      {
+         "Age group": "50-64",
+         "Unaffiliated": "18",
+         "White Evangelical Protestant": "21",
+         "White Mainline Protestant": "15",
+         "White Catholic": "15",
+         "Hispanic Catholic": "6",
+         "Black Protestant": "9",
+         "Other Christian": "6",
+         "Jewish": "2",
+         "Other religion": "1",
+         "Other world religions": "1",
+         "Hispanic Protestant": "9",
+         "Mormon": "2",
+         "Don't know/refused": "3"
+      },
+      {
+         "Age group": "65 and older",
+         "Unaffiliated": "12",
+         "White Evangelical Protestant": "26",
+         "White Mainline Protestant": "19",
+         "White Catholic": "16",
+         "Hispanic Catholic": "4",
+         "Black Protestant": "7",
+         "Other Christian": "5",
+         "Jewish": "2",
+         "Other religion": "1",
+         "Other world religions": "1",
+         "Hispanic Protestant": "7",
+         "Mormon": "2",
+         "Don't know/refused": "3"
+      }
+   ]
+}

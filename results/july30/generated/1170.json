@@ -1,0 +1,46 @@
+{
+   "title": "Canada - average working hours per week 2019\n",
+   "xAxis": "Average usual weekly hours",
+   "yAxis": "Number of employed person in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Average usual weekly hours, and a y axis representing Number of employed person in thousands.",
+      " The highest category is found at 40_hours where Number of employed person in thousands is 7282.5.",
+      " The lowest category is found at 41_to_49_hours where Number of employed person in thousands is 1044.2."
+   ],
+   "trends": {
+      "maxIndex": 4,
+      "minIndex": 5
+   },
+   "data": [
+      {
+         "Average usual weekly hours": "1 to 14 hours",
+         "Number of employed person in thousands": 1151.0
+      },
+      {
+         "Average usual weekly hours": "15 to 29 hours",
+         "Number of employed person in thousands": 2459.6
+      },
+      {
+         "Average usual weekly hours": "30 to 34 hours",
+         "Number of employed person in thousands": 1469.2
+      },
+      {
+         "Average usual weekly hours": "35 to 39 hours",
+         "Number of employed person in thousands": 4287.8
+      },
+      {
+         "Average usual weekly hours": "40 hours",
+         "Number of employed person in thousands": 7282.5
+      },
+      {
+         "Average usual weekly hours": "41 to 49 hours",
+         "Number of employed person in thousands": 1044.2
+      },
+      {
+         "Average usual weekly hours": "50 hours or more",
+         "Number of employed person in thousands": 1361.3
+      }
+   ]
+}

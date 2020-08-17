@@ -1,0 +1,113 @@
+{
+   "title": "Distribution of U.S. toy manufacturer Mattel 's sales by customer 2019",
+   "labels": [
+      "Year",
+      "Wal-Mart",
+      "Toys 'R' Us",
+      "Target"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Distribution of U.S. in the Mattel manufacturer Distribution of 's under Mattel from 2007 to 2019 . ",
+      "Just over seven percent U.S. had three or Target 's under 18 % in the household in 2019 ."
+   ],
+   "trends": [
+      {
+         "17": [
+            "12",
+            "0"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "17": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Wal-Mart": "1.01",
+         "Toys 'R' Us": "0",
+         "Target": "0.44"
+      },
+      {
+         "Year": "2018",
+         "Wal-Mart": "1.07",
+         "Toys 'R' Us": "0",
+         "Target": "0.45"
+      },
+      {
+         "Year": "2017",
+         "Wal-Mart": "1.02",
+         "Toys 'R' Us": "0.4",
+         "Target": "0.37"
+      },
+      {
+         "Year": "2016",
+         "Wal-Mart": "1.1",
+         "Toys 'R' Us": "0.6",
+         "Target": "0.4"
+      },
+      {
+         "Year": "2015",
+         "Wal-Mart": "1.0",
+         "Toys 'R' Us": "0.6",
+         "Target": "0.5"
+      },
+      {
+         "Year": "2014",
+         "Wal-Mart": "1.1",
+         "Toys 'R' Us": "0.6",
+         "Target": "0.5"
+      },
+      {
+         "Year": "2013",
+         "Wal-Mart": "1.2",
+         "Toys 'R' Us": "0.7",
+         "Target": "0.5"
+      },
+      {
+         "Year": "2012",
+         "Wal-Mart": "1.2",
+         "Toys 'R' Us": "0.7",
+         "Target": "0.5"
+      },
+      {
+         "Year": "2011",
+         "Wal-Mart": "1.2",
+         "Toys 'R' Us": "0.7",
+         "Target": "0.5"
+      },
+      {
+         "Year": "2010",
+         "Wal-Mart": "1.1",
+         "Toys 'R' Us": "0.8",
+         "Target": "0.5"
+      },
+      {
+         "Year": "2009",
+         "Wal-Mart": "1.0",
+         "Toys 'R' Us": "0.7",
+         "Target": "0.5"
+      },
+      {
+         "Year": "2008",
+         "Wal-Mart": "1.1",
+         "Toys 'R' Us": "0.7",
+         "Target": "0.5"
+      },
+      {
+         "Year": "2007",
+         "Wal-Mart": "1.1",
+         "Toys 'R' Us": "0.7",
+         "Target": "0.6"
+      }
+   ]
+}

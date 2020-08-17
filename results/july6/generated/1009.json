@@ -1,0 +1,106 @@
+{
+   "title": "Distribution of gross domestic product ( GDP ) across economic sectors Costa Rica 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , Agriculture contributed around 4.58 % to the GDP of Costa Rica , 19.47 % came from Industry , and 68.35 % from the Services sector . ",
+      "The same Year , the Australian inflation rate , another important key indicator for its economic situation , amounted to 1.96 % . ",
+      "Why is the inflation rate important ? Inflation is the steady increase in price levels for consumer goods and Services during a certain timespan ."
+   ],
+   "trends": [
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "0",
+            "2"
+         ],
+         "21": [
+            "0",
+            "3"
+         ]
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "4.58",
+         "Industry": "19.47",
+         "Services": "68.35"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "5.01",
+         "Industry": "18.99",
+         "Services": "68.07"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "5.13",
+         "Industry": "19.14",
+         "Services": "67.51"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "4.96",
+         "Industry": "19.42",
+         "Services": "67.39"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "5.12",
+         "Industry": "20.17",
+         "Services": "66.38"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "5.04",
+         "Industry": "20.76",
+         "Services": "65.69"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "5.41",
+         "Industry": "21.93",
+         "Services": "64.14"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "5.84",
+         "Industry": "22.32",
+         "Services": "63.11"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "6.59",
+         "Industry": "23.24",
+         "Services": "61.8"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "7.09",
+         "Industry": "23.65",
+         "Services": "60.84"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "7.02",
+         "Industry": "23.69",
+         "Services": "59.18"
+      }
+   ]
+}

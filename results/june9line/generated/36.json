@@ -1,0 +1,68 @@
+{
+   "title": "Crude death rate in Sweden 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Death rate per thousand mid-year population",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the degree of Crude in Sweden from 2008 to 2018 and details the thousand of the entire per , living in rate areas . ",
+      "In 2018 , 9.1 thousand of the total per in Sweden lived in cities . ",
+      "Sweden 's rural exodus Sweden is one of the largest countries in the world regarding land area , second behind Russia ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "3": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Death rate per thousand mid-year population": "9.1"
+      },
+      {
+         "Year": "2017",
+         "Death rate per thousand mid-year population": "9.1"
+      },
+      {
+         "Year": "2016",
+         "Death rate per thousand mid-year population": "9.2"
+      },
+      {
+         "Year": "2015",
+         "Death rate per thousand mid-year population": "9.3"
+      },
+      {
+         "Year": "2014",
+         "Death rate per thousand mid-year population": "9.2"
+      },
+      {
+         "Year": "2013",
+         "Death rate per thousand mid-year population": "9.4"
+      },
+      {
+         "Year": "2012",
+         "Death rate per thousand mid-year population": "9.7"
+      },
+      {
+         "Year": "2011",
+         "Death rate per thousand mid-year population": "9.5"
+      },
+      {
+         "Year": "2010",
+         "Death rate per thousand mid-year population": "9.6"
+      },
+      {
+         "Year": "2009",
+         "Death rate per thousand mid-year population": "9.7"
+      },
+      {
+         "Year": "2008",
+         "Death rate per thousand mid-year population": "9.9"
+      }
+   ]
+}

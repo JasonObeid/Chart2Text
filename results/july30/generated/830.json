@@ -1,0 +1,54 @@
+{
+   "title": "Pork imports of selected countries worldwide 2020 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Import volume in thousand metric tones",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Country, and a y axis representing Import volume in thousand metric tones.",
+      " The highest category is found at China where Import volume in thousand metric tones is 3700.0.",
+      " The lowest category is found at Canada where Import volume in thousand metric tones is 260.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 7
+   },
+   "data": [
+      {
+         "Country": "China",
+         "Import volume in thousand metric tones": 3700.0
+      },
+      {
+         "Country": "Japan",
+         "Import volume in thousand metric tones": 1490.0
+      },
+      {
+         "Country": "Mexico",
+         "Import volume in thousand metric tones": 1235.0
+      },
+      {
+         "Country": "Korea South",
+         "Import volume in thousand metric tones": 695.0
+      },
+      {
+         "Country": "United States",
+         "Import volume in thousand metric tones": 401.0
+      },
+      {
+         "Country": "Hong Kong",
+         "Import volume in thousand metric tones": 300.0
+      },
+      {
+         "Country": "Philippines",
+         "Import volume in thousand metric tones": 300.0
+      },
+      {
+         "Country": "Canada",
+         "Import volume in thousand metric tones": 260.0
+      },
+      {
+         "Country": "Others",
+         "Import volume in thousand metric tones": 1590.0
+      }
+   ]
+}

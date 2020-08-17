@@ -1,0 +1,84 @@
+{
+   "title": "Number of arrivals in tourist accommodation Latvia 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of arrivals in millions, with a total of 13 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2018 to 2009.",
+      " Conversely, the next significant trend is  negative which exists from 2008 to 2006."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 0,
+         "end": 9,
+         "trend": "y=0.18x+-357.56",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 10,
+         "end": 12,
+         "trend": "y=0.12x+-229.34",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of arrivals in millions": 2.8
+      },
+      {
+         "Year": "2017",
+         "Number of arrivals in millions": 2.58
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in millions": 2.3
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in millions": 2.14
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in millions": 2.1
+      },
+      {
+         "Year": "2013",
+         "Number of arrivals in millions": 1.84
+      },
+      {
+         "Year": "2012",
+         "Number of arrivals in millions": 1.64
+      },
+      {
+         "Year": "2011",
+         "Number of arrivals in millions": 1.58
+      },
+      {
+         "Year": "2010",
+         "Number of arrivals in millions": 1.31
+      },
+      {
+         "Year": "2009",
+         "Number of arrivals in millions": 1.11
+      },
+      {
+         "Year": "2008",
+         "Number of arrivals in millions": 1.56
+      },
+      {
+         "Year": "2007",
+         "Number of arrivals in millions": 1.49
+      },
+      {
+         "Year": "2006",
+         "Number of arrivals in millions": 1.33
+      }
+   ]
+}

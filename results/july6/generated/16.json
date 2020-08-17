@@ -1,0 +1,52 @@
+{
+   "title": "Quarterly average daily rate of hotels in Los Angeles 2016 to 2017",
+   "labels": [
+      "Quarter",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Quarterly average daily rate of hotels in Los Angeles 2016 and . ",
+      "In the first Quarter of 2016 , the average daily rate for hotels in Los Angeles the country was 224 U.S. dollars . ",
+      "Accommodation in Los Angeles - additional information The average daily rate of hotels in Los Angeles appears to be much higher in the fourth Quarter of the year , reaching 224 U.S. dollars in 2016 ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": [
+            "3",
+            "2"
+         ]
+      },
+      {
+         "28": [
+            "3",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4",
+         "2016": "212",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2016": "221",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q2",
+         "2016": "221",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q1",
+         "2016": "224",
+         "2017": "224"
+      }
+   ]
+}

@@ -1,0 +1,172 @@
+{
+   "title": "U.S. imports of trade goods from China 1985 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Import volume in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Import volume in billion U.S. dollars, with a total of 35 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2008 to 1985.",
+      " On the other hand, the next significant trend is  negative which exists from 2015 to 2009."
+   ],
+   "trends": [
+      {
+         "Length": 24,
+         "direction": "negative",
+         "start": 11,
+         "end": 34,
+         "trend": "y=13.42x+-26695.36",
+         "magnitude": ""
+      },
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 4,
+         "end": 10,
+         "trend": "y=28.88x+-57691.77",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Import volume in billion U.S. dollars": 452.24
+      },
+      {
+         "Year": "2018",
+         "Import volume in billion U.S. dollars": 539.67
+      },
+      {
+         "Year": "2017",
+         "Import volume in billion U.S. dollars": 505.22
+      },
+      {
+         "Year": "2016",
+         "Import volume in billion U.S. dollars": 462.42
+      },
+      {
+         "Year": "2015",
+         "Import volume in billion U.S. dollars": 483.2
+      },
+      {
+         "Year": "2014",
+         "Import volume in billion U.S. dollars": 468.47
+      },
+      {
+         "Year": "2013",
+         "Import volume in billion U.S. dollars": 440.43
+      },
+      {
+         "Year": "2012",
+         "Import volume in billion U.S. dollars": 425.62
+      },
+      {
+         "Year": "2011",
+         "Import volume in billion U.S. dollars": 399.37
+      },
+      {
+         "Year": "2010",
+         "Import volume in billion U.S. dollars": 364.95
+      },
+      {
+         "Year": "2009",
+         "Import volume in billion U.S. dollars": 296.37
+      },
+      {
+         "Year": "2008",
+         "Import volume in billion U.S. dollars": 337.77
+      },
+      {
+         "Year": "2007",
+         "Import volume in billion U.S. dollars": 321.44
+      },
+      {
+         "Year": "2006",
+         "Import volume in billion U.S. dollars": 287.77
+      },
+      {
+         "Year": "2005",
+         "Import volume in billion U.S. dollars": 243.47
+      },
+      {
+         "Year": "2004",
+         "Import volume in billion U.S. dollars": 196.68
+      },
+      {
+         "Year": "2003",
+         "Import volume in billion U.S. dollars": 152.44
+      },
+      {
+         "Year": "2002",
+         "Import volume in billion U.S. dollars": 125.19
+      },
+      {
+         "Year": "2001",
+         "Import volume in billion U.S. dollars": 102.28
+      },
+      {
+         "Year": "2000",
+         "Import volume in billion U.S. dollars": 100.02
+      },
+      {
+         "Year": "1999",
+         "Import volume in billion U.S. dollars": 81.79
+      },
+      {
+         "Year": "1998",
+         "Import volume in billion U.S. dollars": 71.17
+      },
+      {
+         "Year": "1997",
+         "Import volume in billion U.S. dollars": 62.56
+      },
+      {
+         "Year": "1996",
+         "Import volume in billion U.S. dollars": 51.51
+      },
+      {
+         "Year": "1995",
+         "Import volume in billion U.S. dollars": 45.54
+      },
+      {
+         "Year": "1994",
+         "Import volume in billion U.S. dollars": 38.79
+      },
+      {
+         "Year": "1993",
+         "Import volume in billion U.S. dollars": 31.54
+      },
+      {
+         "Year": "1992",
+         "Import volume in billion U.S. dollars": 25.73
+      },
+      {
+         "Year": "1991",
+         "Import volume in billion U.S. dollars": 18.97
+      },
+      {
+         "Year": "1990",
+         "Import volume in billion U.S. dollars": 15.24
+      },
+      {
+         "Year": "1989",
+         "Import volume in billion U.S. dollars": 11.99
+      },
+      {
+         "Year": "1988",
+         "Import volume in billion U.S. dollars": 8.51
+      },
+      {
+         "Year": "1987",
+         "Import volume in billion U.S. dollars": 6.29
+      },
+      {
+         "Year": "1986",
+         "Import volume in billion U.S. dollars": 4.77
+      },
+      {
+         "Year": "1985",
+         "Import volume in billion U.S. dollars": 3.86
+      }
+   ]
+}

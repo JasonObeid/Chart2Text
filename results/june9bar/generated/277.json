@@ -1,0 +1,63 @@
+{
+   "title": "Distribution of consumer transactions worldwide 2018 , by payment channel",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Distribution consumer transactions worldwide 2018 by in the payment as of 2013 . ",
+      "During the survey , 41 % of the respondents named watching In-store as their Distribution preferred activity during transactions for Distribution ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "In-store",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Other online",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Buy buttons",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Other mobile transfers",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "P2P transfer",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Mobile messenger apps",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "QR codes",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Other in-app payments",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Smart home device",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Wearables / contactless",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "2"
+      }
+   ]
+}

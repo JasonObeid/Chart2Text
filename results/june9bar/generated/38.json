@@ -1,0 +1,78 @@
+{
+   "title": "Employees ' average working hours per week worldwide 2011",
+   "xAxis": "Country",
+   "yAxis": "Average working hours per week",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Average of the Employees ' average working in 2011 , broken down hours Country . ",
+      "According to the source , with a total of 42 working hours ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Singapore",
+         "Average working hours per week": "44"
+      },
+      {
+         "Country": "India",
+         "Average working hours per week": "42"
+      },
+      {
+         "Country": "Brazil",
+         "Average working hours per week": "40"
+      },
+      {
+         "Country": "Mexico",
+         "Average working hours per week": "40"
+      },
+      {
+         "Country": "U.S.",
+         "Average working hours per week": "40"
+      },
+      {
+         "Country": "Worldwide",
+         "Average working hours per week": "40"
+      },
+      {
+         "Country": "Japan",
+         "Average working hours per week": "40"
+      },
+      {
+         "Country": "Argentina",
+         "Average working hours per week": "40"
+      },
+      {
+         "Country": "Spain",
+         "Average working hours per week": "40"
+      },
+      {
+         "Country": "Sweden",
+         "Average working hours per week": "40"
+      },
+      {
+         "Country": "Germany",
+         "Average working hours per week": "39"
+      },
+      {
+         "Country": "U.K.",
+         "Average working hours per week": "37"
+      },
+      {
+         "Country": "France",
+         "Average working hours per week": "37"
+      },
+      {
+         "Country": "Italy",
+         "Average working hours per week": "36"
+      },
+      {
+         "Country": "Netherlands",
+         "Average working hours per week": "36"
+      }
+   ]
+}

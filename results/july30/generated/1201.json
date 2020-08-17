@@ -1,0 +1,26 @@
+{
+   "title": "Facebook usage reach in the United States 2019 , by gender\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Women where Share of respondents is 75.0.",
+      " The lowest category is found at Men where Share of respondents is 63.0."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Response": "Men",
+         "Share of respondents": 63.0
+      },
+      {
+         "Response": "Women",
+         "Share of respondents": 75.0
+      }
+   ]
+}

@@ -1,0 +1,66 @@
+{
+   "title": "Budgeted public sector spending in the United Kingdom 2019/20 by function",
+   "xAxis": "Industry",
+   "yAxis": "Amount budgeted in billion GBP",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the Budgeted public of United Kingdom Industry billion GBP of United Kingdom 2019/20 as of 2019 , function Industry . ",
+      "In , there were 256 billion budgeted GBP ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Social protection",
+         "Amount budgeted in billion GBP": "256"
+      },
+      {
+         "Industry": "Health",
+         "Amount budgeted in billion GBP": "166"
+      },
+      {
+         "Industry": "Education",
+         "Amount budgeted in billion GBP": "103"
+      },
+      {
+         "Industry": "Other (including EU transactions",
+         "Amount budgeted in billion GBP": "58"
+      },
+      {
+         "Industry": "Defense",
+         "Amount budgeted in billion GBP": "52"
+      },
+      {
+         "Industry": "Net debt increase",
+         "Amount budgeted in billion GBP": "43"
+      },
+      {
+         "Industry": "Transport",
+         "Amount budgeted in billion GBP": "37"
+      },
+      {
+         "Industry": "Public order and safety",
+         "Amount budgeted in billion GBP": "35"
+      },
+      {
+         "Industry": "Personal social services",
+         "Amount budgeted in billion GBP": "34"
+      },
+      {
+         "Industry": "Housing and environment",
+         "Amount budgeted in billion GBP": "32"
+      },
+      {
+         "Industry": "Housing and community amenities",
+         "Amount budgeted in billion GBP": "32"
+      },
+      {
+         "Industry": "Industry agriculture and employment",
+         "Amount budgeted in billion GBP": "25"
+      }
+   ]
+}

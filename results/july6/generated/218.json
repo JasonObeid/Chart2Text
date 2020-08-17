@@ -1,0 +1,102 @@
+{
+   "title": "Countries with the highest unemployment rate",
+   "xAxis": "Country",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Countries highest unemployment in the rate as rated according to the Unemployment rate for . ",
+      "In , the Countries highest Country in the rate was considered to be Burkina_Faso with a Unemployment rate of 77 . ",
+      "Quality of life around the rate economic indicator , Unemployment rate was created by Arthur Okun ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "0",
+         "21": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Burkina Faso",
+         "Unemployment rate": "77"
+      },
+      {
+         "Country": "Syria",
+         "Unemployment rate": "50"
+      },
+      {
+         "Country": "Senegal",
+         "Unemployment rate": "48"
+      },
+      {
+         "Country": "Haiti",
+         "Unemployment rate": "40.6"
+      },
+      {
+         "Country": "Kenya",
+         "Unemployment rate": "40"
+      },
+      {
+         "Country": "Djibouti",
+         "Unemployment rate": "40"
+      },
+      {
+         "Country": "Marshall Islands",
+         "Unemployment rate": "36"
+      },
+      {
+         "Country": "Republic of the Congo",
+         "Unemployment rate": "36"
+      },
+      {
+         "Country": "Namibia",
+         "Unemployment rate": "34"
+      },
+      {
+         "Country": "Kiribati",
+         "Unemployment rate": "30.6"
+      },
+      {
+         "Country": "Kosovo",
+         "Unemployment rate": "30.5"
+      },
+      {
+         "Country": "Libya",
+         "Unemployment rate": "30"
+      },
+      {
+         "Country": "American Samoa",
+         "Unemployment rate": "29.8"
+      },
+      {
+         "Country": "Lesotho",
+         "Unemployment rate": "28.1"
+      },
+      {
+         "Country": "Eswatini",
+         "Unemployment rate": "28"
+      },
+      {
+         "Country": "Gabon",
+         "Unemployment rate": "28"
+      },
+      {
+         "Country": "South Africa",
+         "Unemployment rate": "27.6"
+      },
+      {
+         "Country": "Yemen",
+         "Unemployment rate": "27"
+      },
+      {
+         "Country": "Gaza Strip",
+         "Unemployment rate": "26.7"
+      },
+      {
+         "Country": "West Bank",
+         "Unemployment rate": "26.7"
+      }
+   ]
+}

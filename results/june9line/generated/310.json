@@ -1,0 +1,42 @@
+{
+   "title": "U.S. rice import volume 2013/14 - 2017/18",
+   "xAxis": "Year",
+   "yAxis": "Imports in thousand metric tons",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the Imports of rice , metric and tons in the United Kingdom ( U.S. ) from 2013/14 to 2017/18 . ",
+      "There were 755 of these establishments , compared to almost 61,000 in 2013/14 ."
+   ],
+   "trends": [
+      {
+         "19": "0",
+         "21": "4"
+      },
+      {
+         "2": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013/14",
+         "Imports in thousand metric tons": "755"
+      },
+      {
+         "Year": "2014/15",
+         "Imports in thousand metric tons": "757"
+      },
+      {
+         "Year": "2015/16",
+         "Imports in thousand metric tons": "768"
+      },
+      {
+         "Year": "2016/17",
+         "Imports in thousand metric tons": "787"
+      },
+      {
+         "Year": "2017/18",
+         "Imports in thousand metric tons": "775"
+      }
+   ]
+}

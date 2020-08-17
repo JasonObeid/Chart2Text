@@ -1,0 +1,30 @@
+{
+   "title": "Forecast : Online retail sales value in Germany 2013 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales in billion euros",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the forecasted Sales of the retail sales value Germany , a comparison between 2013 and 2018 . ",
+      "In 2018 , the retail sales value Germany is expected to have a cargo Sales of around 41 billion euros ( twenty-foot equivalent units ) ."
+   ],
+   "trends": [
+      {
+         "16": "0",
+         "18": "1"
+      },
+      {
+         "1": "1",
+         "17": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Sales in billion euros": "25"
+      },
+      {
+         "Year": "2018",
+         "Sales in billion euros": "41"
+      }
+   ]
+}

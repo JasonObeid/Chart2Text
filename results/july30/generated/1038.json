@@ -1,0 +1,71 @@
+{
+   "title": "Hanjin Shipping - number of TEUs 2016",
+   "labels": [
+      "Month",
+      "Owned",
+      "Chartered",
+      "Orderbook"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 8 categories for the x axis of Month representing Owned, Chartered, and Orderbook.",
+      " The highest category is found at August 15 2016 with a mean value of 213851.33333333334.",
+      " The second highest category is found at September 7 2016 with a mean value of 213653.66666666666.",
+      " This represents a difference of 0.1%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Month": "September 7 2016",
+         "Owned": "292311",
+         "Chartered": "318250",
+         "Orderbook": "30400"
+      },
+      {
+         "Month": "August 15 2016",
+         "Owned": "292311",
+         "Chartered": "318843",
+         "Orderbook": "30400"
+      },
+      {
+         "Month": "July 12 2016",
+         "Owned": "274078",
+         "Chartered": "342284",
+         "Orderbook": "0"
+      },
+      {
+         "Month": "June 13 2016",
+         "Owned": "274078",
+         "Chartered": "351338",
+         "Orderbook": "0"
+      },
+      {
+         "Month": "May 18 2016",
+         "Owned": "274078",
+         "Chartered": "339733",
+         "Orderbook": "9030"
+      },
+      {
+         "Month": "April 20 2016",
+         "Owned": "274078",
+         "Chartered": "339315",
+         "Orderbook": "9030"
+      },
+      {
+         "Month": "March 21 2016",
+         "Owned": "274078",
+         "Chartered": "347165",
+         "Orderbook": "9030"
+      },
+      {
+         "Month": "February 9 2016",
+         "Owned": "274078",
+         "Chartered": "346692",
+         "Orderbook": "18060"
+      }
+   ]
+}

@@ -1,0 +1,80 @@
+{
+   "title": "Passenger cars - major producing countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Production in million units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the major of million Passenger 2018 in selected countries in 2018 . ",
+      "That year , the major of million units in Brazil 's electricity cars amounted to approximately 2.39 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "6",
+         "16": "6"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Production in million units": "23.53"
+      },
+      {
+         "Country": "Japan",
+         "Production in million units": "8.36"
+      },
+      {
+         "Country": "Germany",
+         "Production in million units": "5.12"
+      },
+      {
+         "Country": "India",
+         "Production in million units": "4.06"
+      },
+      {
+         "Country": "South Korea",
+         "Production in million units": "3.66"
+      },
+      {
+         "Country": "U.S.",
+         "Production in million units": "2.8"
+      },
+      {
+         "Country": "Brazil",
+         "Production in million units": "2.39"
+      },
+      {
+         "Country": "Spain",
+         "Production in million units": "2.27"
+      },
+      {
+         "Country": "France",
+         "Production in million units": "1.76"
+      },
+      {
+         "Country": "Mexico",
+         "Production in million units": "1.58"
+      },
+      {
+         "Country": "Russia",
+         "Production in million units": "1.56"
+      },
+      {
+         "Country": "UK",
+         "Production in million units": "1.52"
+      },
+      {
+         "Country": "Czechia",
+         "Production in million units": "1.35"
+      },
+      {
+         "Country": "Slovakia",
+         "Production in million units": "1.09"
+      },
+      {
+         "Country": "Indonesia",
+         "Production in million units": "1.06"
+      }
+   ]
+}

@@ -1,0 +1,97 @@
+{
+   "title": "Forecast of the gross domestic product ( GDP ) growth in the euro countries 2020",
+   "xAxis": "Country",
+   "yAxis": "GDP growth compared to previous year",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays the 20 Forecast gross the domestic growth of the GDP growth euro ( GDP ) in 2020 . ",
+      "In 2020 , Cyprus ranked 4th gross an estimated GDP growth of approximately 3.34 % compared to the previous year . ",
+      "GDP around the world GDP growth euro ( GDP ) is an indicator of the monetary value of all goods and services produced by a nation in a specific time period ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "3",
+         "13": "3"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Malta",
+         "GDP growth compared to previous year": "4.44"
+      },
+      {
+         "Country": "Slovak Republic",
+         "GDP growth compared to previous year": "3.46"
+      },
+      {
+         "Country": "Ireland",
+         "GDP growth compared to previous year": "3.45"
+      },
+      {
+         "Country": "Cyprus",
+         "GDP growth compared to previous year": "3.34"
+      },
+      {
+         "Country": "Latvia",
+         "GDP growth compared to previous year": "3.15"
+      },
+      {
+         "Country": "Estonia",
+         "GDP growth compared to previous year": "2.9"
+      },
+      {
+         "Country": "Slovenia",
+         "GDP growth compared to previous year": "2.83"
+      },
+      {
+         "Country": "Luxembourg",
+         "GDP growth compared to previous year": "2.75"
+      },
+      {
+         "Country": "Lithuania",
+         "GDP growth compared to previous year": "2.63"
+      },
+      {
+         "Country": "Greece",
+         "GDP growth compared to previous year": "2.16"
+      },
+      {
+         "Country": "Spain",
+         "GDP growth compared to previous year": "1.88"
+      },
+      {
+         "Country": "Finland",
+         "GDP growth compared to previous year": "1.73"
+      },
+      {
+         "Country": "Austria",
+         "GDP growth compared to previous year": "1.7"
+      },
+      {
+         "Country": "Netherlands",
+         "GDP growth compared to previous year": "1.69"
+      },
+      {
+         "Country": "Portugal",
+         "GDP growth compared to previous year": "1.5"
+      },
+      {
+         "Country": "Germany",
+         "GDP growth compared to previous year": "1.44"
+      },
+      {
+         "Country": "France",
+         "GDP growth compared to previous year": "1.41"
+      },
+      {
+         "Country": "Belgium",
+         "GDP growth compared to previous year": "1.39"
+      },
+      {
+         "Country": "Italy",
+         "GDP growth compared to previous year": "0.91"
+      }
+   ]
+}

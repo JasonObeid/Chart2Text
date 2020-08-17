@@ -1,0 +1,66 @@
+{
+   "title": "U.S. - forecast for higher education outlays 2019 to 2030\n",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Higher education outlay in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 12 categories for the x axis representing Fiscal Year, and a y axis representing Higher education outlay in billion U.S. dollars.",
+      " The highest category is found at '19 where Higher education outlay in billion U.S. dollars is 33.0.",
+      " The lowest category is found at '20 where Higher education outlay in billion U.S. dollars is 2.0."
+   ],
+   "trends": {
+      "maxIndex": 11,
+      "minIndex": 10
+   },
+   "data": [
+      {
+         "Fiscal Year": "'30",
+         "Higher education outlay in billion U.S. dollars": 5.0
+      },
+      {
+         "Fiscal Year": "'29",
+         "Higher education outlay in billion U.S. dollars": 5.0
+      },
+      {
+         "Fiscal Year": "'28",
+         "Higher education outlay in billion U.S. dollars": 5.0
+      },
+      {
+         "Fiscal Year": "'27",
+         "Higher education outlay in billion U.S. dollars": 5.0
+      },
+      {
+         "Fiscal Year": "'26",
+         "Higher education outlay in billion U.S. dollars": 5.0
+      },
+      {
+         "Fiscal Year": "'25",
+         "Higher education outlay in billion U.S. dollars": 5.0
+      },
+      {
+         "Fiscal Year": "'24",
+         "Higher education outlay in billion U.S. dollars": 5.0
+      },
+      {
+         "Fiscal Year": "'23",
+         "Higher education outlay in billion U.S. dollars": 5.0
+      },
+      {
+         "Fiscal Year": "'22",
+         "Higher education outlay in billion U.S. dollars": 5.0
+      },
+      {
+         "Fiscal Year": "'21",
+         "Higher education outlay in billion U.S. dollars": 4.0
+      },
+      {
+         "Fiscal Year": "'20",
+         "Higher education outlay in billion U.S. dollars": 2.0
+      },
+      {
+         "Fiscal Year": "'19",
+         "Higher education outlay in billion U.S. dollars": 33.0
+      }
+   ]
+}

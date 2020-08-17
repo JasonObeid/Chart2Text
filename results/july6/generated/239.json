@@ -1,0 +1,101 @@
+{
+   "title": "Highest grossing 3D movies in North America 2019",
+   "xAxis": "Month",
+   "yAxis": "Lifetime gross in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the highest-grossing movies North America 2019 worldwide in 2019 , based on the Lifetime they manage . ",
+      "The firm Star_Wars:_The_Force_Awakens was the movies North America firm with Lifetime gross Avengers:_Endgame worth a total of 936.66 million dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "0",
+         "12": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Star Wars: The Force Awakens",
+         "Lifetime gross in million U.S. dollars": "936.66"
+      },
+      {
+         "Month": "Avengers: Endgame",
+         "Lifetime gross in million U.S. dollars": "842.76"
+      },
+      {
+         "Month": "Avatar",
+         "Lifetime gross in million U.S. dollars": "760.51"
+      },
+      {
+         "Month": "Black Panther",
+         "Lifetime gross in million U.S. dollars": "700.06"
+      },
+      {
+         "Month": "Avengers: Infinity War",
+         "Lifetime gross in million U.S. dollars": "678.82"
+      },
+      {
+         "Month": "Jurassic World",
+         "Lifetime gross in million U.S. dollars": "652.27"
+      },
+      {
+         "Month": "Marvel's The Avengers",
+         "Lifetime gross in million U.S. dollars": "623.36"
+      },
+      {
+         "Month": "Star Wars: The Last Jedi",
+         "Lifetime gross in million U.S. dollars": "620.18"
+      },
+      {
+         "Month": "Incredibles 2",
+         "Lifetime gross in million U.S. dollars": "608.59"
+      },
+      {
+         "Month": "Rogue One: A Star Wars Story",
+         "Lifetime gross in million U.S. dollars": "532.18"
+      },
+      {
+         "Month": "Beauty and the Beast (2017)",
+         "Lifetime gross in million U.S. dollars": "504.01"
+      },
+      {
+         "Month": "Finding Dory",
+         "Lifetime gross in million U.S. dollars": "486.3"
+      },
+      {
+         "Month": "Avengers: Age of Ultron",
+         "Lifetime gross in million U.S. dollars": "459.01"
+      },
+      {
+         "Month": "Captain Marvel",
+         "Lifetime gross in million U.S. dollars": "426.82"
+      },
+      {
+         "Month": "Jurassic World: Fallen Kingdom",
+         "Lifetime gross in million U.S. dollars": "416.77"
+      },
+      {
+         "Month": "Toy Story 3",
+         "Lifetime gross in million U.S. dollars": "415.0"
+      },
+      {
+         "Month": "Wonder Woman",
+         "Lifetime gross in million U.S. dollars": "412.56"
+      },
+      {
+         "Month": "Iron Man 3",
+         "Lifetime gross in million U.S. dollars": "409.01"
+      },
+      {
+         "Month": "Captain America: Civil War",
+         "Lifetime gross in million U.S. dollars": "408.08"
+      },
+      {
+         "Month": "Jumanji: Welcome to the Jungle",
+         "Lifetime gross in million U.S. dollars": "404.52"
+      }
+   ]
+}

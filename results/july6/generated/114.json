@@ -1,0 +1,49 @@
+{
+   "title": "`` Game of Thrones '' deadliest seasons 2019 , by number of deaths",
+   "xAxis": "Season",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of deaths in Thrones 2019 , '' deadliest . ",
+      "In 2019 approximately five thousand deaths were counted in Thrones ."
+   ],
+   "trends": [
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Season": "Season 1",
+         "Number of deaths": "59"
+      },
+      {
+         "Season": "Season 2",
+         "Number of deaths": "130"
+      },
+      {
+         "Season": "Season 3",
+         "Number of deaths": "87"
+      },
+      {
+         "Season": "Season 4",
+         "Number of deaths": "182"
+      },
+      {
+         "Season": "Season 5",
+         "Number of deaths": "246"
+      },
+      {
+         "Season": "Season 6",
+         "Number of deaths": "540"
+      },
+      {
+         "Season": "Season 7",
+         "Number of deaths": "1096"
+      },
+      {
+         "Season": "Season 8",
+         "Number of deaths": "3523"
+      }
+   ]
+}

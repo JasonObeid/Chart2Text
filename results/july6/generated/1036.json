@@ -1,0 +1,67 @@
+{
+   "title": "Number of live births in Denmark 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of births",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , nearly 118,000 babies were born in Denmark . ",
+      "This was the lowest Number of births in the last decade . ",
+      "The Number of children born in the country peaked in 2010 , at just over 129,000 ."
+   ],
+   "trends": [
+      {
+         "1": "0"
+      },
+      {},
+      {
+         "10": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of births": "61476"
+      },
+      {
+         "Year": "2017",
+         "Number of births": "61397"
+      },
+      {
+         "Year": "2016",
+         "Number of births": "61614"
+      },
+      {
+         "Year": "2015",
+         "Number of births": "58205"
+      },
+      {
+         "Year": "2014",
+         "Number of births": "56870"
+      },
+      {
+         "Year": "2013",
+         "Number of births": "55873"
+      },
+      {
+         "Year": "2012",
+         "Number of births": "57916"
+      },
+      {
+         "Year": "2011",
+         "Number of births": "58998"
+      },
+      {
+         "Year": "2010",
+         "Number of births": "63411"
+      },
+      {
+         "Year": "2009",
+         "Number of births": "62818"
+      },
+      {
+         "Year": "2008",
+         "Number of births": "65038"
+      }
+   ]
+}

@@ -1,0 +1,119 @@
+{
+   "title": "MMR vaccination rate among U.S. children aged 19 - 35 months 1994 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Immunization rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Immunization of vaccination rate among in the children from 1994 to 2017 . ",
+      "In 2017 , there were 91.5 vaccination rate among in the children ."
+   ],
+   "trends": [
+      {
+         "14": "23",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Immunization rate": "91.5"
+      },
+      {
+         "Year": "2016",
+         "Immunization rate": "91.1"
+      },
+      {
+         "Year": "2015",
+         "Immunization rate": "91.9"
+      },
+      {
+         "Year": "2014",
+         "Immunization rate": "91.5"
+      },
+      {
+         "Year": "2013",
+         "Immunization rate": "91.9"
+      },
+      {
+         "Year": "2012",
+         "Immunization rate": "90.8"
+      },
+      {
+         "Year": "2011",
+         "Immunization rate": "91.6"
+      },
+      {
+         "Year": "2010",
+         "Immunization rate": "91.5"
+      },
+      {
+         "Year": "2009",
+         "Immunization rate": "90"
+      },
+      {
+         "Year": "2008",
+         "Immunization rate": "92.1"
+      },
+      {
+         "Year": "2007",
+         "Immunization rate": "92.3"
+      },
+      {
+         "Year": "2006",
+         "Immunization rate": "92.3"
+      },
+      {
+         "Year": "2005",
+         "Immunization rate": "91.5"
+      },
+      {
+         "Year": "2004",
+         "Immunization rate": "93"
+      },
+      {
+         "Year": "2003",
+         "Immunization rate": "93"
+      },
+      {
+         "Year": "2002",
+         "Immunization rate": "91.6"
+      },
+      {
+         "Year": "2001",
+         "Immunization rate": "91.4"
+      },
+      {
+         "Year": "2000",
+         "Immunization rate": "91"
+      },
+      {
+         "Year": "1999",
+         "Immunization rate": "92"
+      },
+      {
+         "Year": "1998",
+         "Immunization rate": "86"
+      },
+      {
+         "Year": "1997",
+         "Immunization rate": "88.5"
+      },
+      {
+         "Year": "1996",
+         "Immunization rate": "91"
+      },
+      {
+         "Year": "1995",
+         "Immunization rate": "90"
+      },
+      {
+         "Year": "1994",
+         "Immunization rate": "89"
+      }
+   ]
+}

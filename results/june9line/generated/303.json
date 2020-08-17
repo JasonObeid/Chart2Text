@@ -1,0 +1,44 @@
+{
+   "title": "Percentage of population volunteering in the U.S. in 2015 , by age",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population volunteering",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Percentage of population Percentage in the volunteering in 2015 , by of age . ",
+      "In 2015 , a total of 21.8 children aged 16_to_24_years and were abused in the volunteering ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "9": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "16 to 24 years",
+         "Percentage of population volunteering": "21.8"
+      },
+      {
+         "Year": "25 to 34 years",
+         "Percentage of population volunteering": "22.3"
+      },
+      {
+         "Year": "35 to 44 years",
+         "Percentage of population volunteering": "28.9"
+      },
+      {
+         "Year": "45 to 54 years",
+         "Percentage of population volunteering": "28"
+      },
+      {
+         "Year": "55 to 64 years",
+         "Percentage of population volunteering": "25.1"
+      },
+      {
+         "Year": "65 years and over",
+         "Percentage of population volunteering": "23.5"
+      }
+   ]
+}

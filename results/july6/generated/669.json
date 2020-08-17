@@ -1,0 +1,87 @@
+{
+   "title": "University tuition costs and fees U.S. 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average cost for tuition and fees",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Average of University tuition costs cost for 2018 2000/01 to 2018 . ",
+      "In 2018 , there were 14042 University tuition costs cost members , as compared to 7457 in 2003/04 ."
+   ],
+   "trends": [
+      {
+         "12": "15"
+      },
+      {
+         "5": "0",
+         "15": "14",
+         "17": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Average cost for tuition and fees": "14042"
+      },
+      {
+         "Year": "2016/17",
+         "Average cost for tuition and fees": "13538"
+      },
+      {
+         "Year": "2015/16",
+         "Average cost for tuition and fees": "13139"
+      },
+      {
+         "Year": "2014/15",
+         "Average cost for tuition and fees": "12706"
+      },
+      {
+         "Year": "2013/14",
+         "Average cost for tuition and fees": "12214"
+      },
+      {
+         "Year": "2012/13",
+         "Average cost for tuition and fees": "11799"
+      },
+      {
+         "Year": "2011/12",
+         "Average cost for tuition and fees": "11204"
+      },
+      {
+         "Year": "2010/11",
+         "Average cost for tuition and fees": "10566"
+      },
+      {
+         "Year": "2009/10",
+         "Average cost for tuition and fees": "9985"
+      },
+      {
+         "Year": "2008/09",
+         "Average cost for tuition and fees": "9753"
+      },
+      {
+         "Year": "2007/08",
+         "Average cost for tuition and fees": "9470"
+      },
+      {
+         "Year": "2006/07",
+         "Average cost for tuition and fees": "8997"
+      },
+      {
+         "Year": "2005/06",
+         "Average cost for tuition and fees": "8565"
+      },
+      {
+         "Year": "2004/05",
+         "Average cost for tuition and fees": "8074"
+      },
+      {
+         "Year": "2003/04",
+         "Average cost for tuition and fees": "7457"
+      },
+      {
+         "Year": "2000/01",
+         "Average cost for tuition and fees": "6010"
+      }
+   ]
+}

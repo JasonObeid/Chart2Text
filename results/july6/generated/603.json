@@ -1,0 +1,95 @@
+{
+   "title": "Countries with the largest number of Starbucks stores worldwide as of September 2019",
+   "labels": [
+      "Country",
+      "Company operated stores",
+      "Licensed stores"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the number of largest and number due to Countries from the worldwide in Starbucks Africa which lasts since 2014 . ",
+      "As of 30 , 2019 there have been 3521 largest in China , resulting in 0 number . ",
+      "The Countries virus causes extremely severe hemorrhagic fever and is considered a Risk Group 0 Pathogen September the World Health Organization ( WHO ) ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": [
+            "1",
+            "1"
+         ],
+         "12": [
+            "1",
+            "0"
+         ],
+         "16": [
+            "1",
+            "2"
+         ]
+      },
+      {
+         "14": [
+            "6",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Company operated stores": "8575",
+         "Licensed stores": "6031"
+      },
+      {
+         "Country": "China",
+         "Company operated stores": "3521",
+         "Licensed stores": "0"
+      },
+      {
+         "Country": "Japan",
+         "Company operated stores": "1286",
+         "Licensed stores": "0"
+      },
+      {
+         "Country": "Canada",
+         "Company operated stores": "1109",
+         "Licensed stores": "409"
+      },
+      {
+         "Country": "Thailand",
+         "Company operated stores": "352",
+         "Licensed stores": "0"
+      },
+      {
+         "Country": "United Kingdom",
+         "Company operated stores": "335",
+         "Licensed stores": "653"
+      },
+      {
+         "Country": "South Korea",
+         "Company operated stores": "0",
+         "Licensed stores": "1231"
+      },
+      {
+         "Country": "Taiwan",
+         "Company operated stores": "0",
+         "Licensed stores": "458"
+      },
+      {
+         "Country": "Turkey",
+         "Company operated stores": "0",
+         "Licensed stores": "453"
+      },
+      {
+         "Country": "Indonesia",
+         "Company operated stores": "0",
+         "Licensed stores": "365"
+      },
+      {
+         "Country": "Philippines",
+         "Company operated stores": "0",
+         "Licensed stores": "360"
+      }
+   ]
+}

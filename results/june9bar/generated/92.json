@@ -1,0 +1,59 @@
+{
+   "title": "Best selling video games on all gaming platforms in France 2018 , by sales volume",
+   "xAxis": "Month",
+   "yAxis": "Number of units sold in thousands",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Best selling video games in the France ( ) from 2018 to . ",
+      "In FIFA_19 , Switzerland and had an Best selling Number of 1353.4 thousands ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "FIFA 19",
+         "Number of units sold in thousands": "1353.4"
+      },
+      {
+         "Month": "Red Dead Redemption 2",
+         "Number of units sold in thousands": "1011.0"
+      },
+      {
+         "Month": "Call of Duty: Black Ops 4",
+         "Number of units sold in thousands": "565.0"
+      },
+      {
+         "Month": "Mario Kart 8 Deluxe",
+         "Number of units sold in thousands": "542.4"
+      },
+      {
+         "Month": "Super Mario Party",
+         "Number of units sold in thousands": "380.3"
+      },
+      {
+         "Month": "Spider-Man",
+         "Number of units sold in thousands": "345.3"
+      },
+      {
+         "Month": "Super Smash Bros. Ultimate",
+         "Number of units sold in thousands": "335.6"
+      },
+      {
+         "Month": "Super Mario Odyssey",
+         "Number of units sold in thousands": "328.7"
+      },
+      {
+         "Month": "Assassin\u2019s Creed Odyssey",
+         "Number of units sold in thousands": "322.8"
+      },
+      {
+         "Month": "God of War",
+         "Number of units sold in thousands": "301.4"
+      }
+   ]
+}

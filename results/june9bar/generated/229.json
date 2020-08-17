@@ -1,0 +1,65 @@
+{
+   "title": "Number of active physicians in Utah 2019 , by specialty area",
+   "xAxis": "Specialty area",
+   "yAxis": "Number of physicians",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts the Number of active physicians in Utah as of 2019 , ordered by Total_specialty area . ",
+      "At that time , there were 439 Anesthesiologists active in Utah . ",
+      "There are approximately 21,400 Total_specialty physicians active in the state ."
+   ],
+   "trends": [
+      {
+         "16": "9"
+      },
+      {
+         "6": "2",
+         "7": "2"
+      },
+      {
+         "4": "9"
+      }
+   ],
+   "data": [
+      {
+         "Specialty area": "Psychiatry",
+         "Number of physicians": "304"
+      },
+      {
+         "Specialty area": "Surgery",
+         "Number of physicians": "316"
+      },
+      {
+         "Specialty area": "Anesthesiologists",
+         "Number of physicians": "439"
+      },
+      {
+         "Specialty area": "Emergency medicine",
+         "Number of physicians": "426"
+      },
+      {
+         "Specialty area": "Radiology",
+         "Number of physicians": "311"
+      },
+      {
+         "Specialty area": "Cardiology",
+         "Number of physicians": "174"
+      },
+      {
+         "Specialty area": "Oncology (cancer)",
+         "Number of physicians": "106"
+      },
+      {
+         "Specialty area": "Endocrinology diabetes & metabolism",
+         "Number of physicians": "33"
+      },
+      {
+         "Specialty area": "All other specialities",
+         "Number of physicians": "1587"
+      },
+      {
+         "Specialty area": "Total specialty",
+         "Number of physicians": "3696"
+      }
+   ]
+}

@@ -1,0 +1,108 @@
+{
+   "title": "Canada : violent crime rate 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Violent crime rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Violent crime rate, with a total of 19 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2000 to 2014.",
+      " Differently, the next significant trend is  positive which exists from 2014 to 2018."
+   ],
+   "trends": [
+      {
+         "Length": 15,
+         "direction": "negative",
+         "start": 0,
+         "end": 14,
+         "trend": "y=-28.38x+58289.14",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 14,
+         "end": 18,
+         "trend": "y=24.11x+-47516.38",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Violent crime rate": 1494.21
+      },
+      {
+         "Year": "2001",
+         "Violent crime rate": 1473.43
+      },
+      {
+         "Year": "2002",
+         "Violent crime rate": 1440.77
+      },
+      {
+         "Year": "2003",
+         "Violent crime rate": 1434.79
+      },
+      {
+         "Year": "2004",
+         "Violent crime rate": 1404.21
+      },
+      {
+         "Year": "2005",
+         "Violent crime rate": 1388.91
+      },
+      {
+         "Year": "2006",
+         "Violent crime rate": 1386.69
+      },
+      {
+         "Year": "2007",
+         "Violent crime rate": 1353.85
+      },
+      {
+         "Year": "2008",
+         "Violent crime rate": 1334.33
+      },
+      {
+         "Year": "2009",
+         "Violent crime rate": 1321.89
+      },
+      {
+         "Year": "2010",
+         "Violent crime rate": 1291.62
+      },
+      {
+         "Year": "2011",
+         "Violent crime rate": 1235.72
+      },
+      {
+         "Year": "2012",
+         "Violent crime rate": 1198.78
+      },
+      {
+         "Year": "2013",
+         "Violent crime rate": 1095.65
+      },
+      {
+         "Year": "2014",
+         "Violent crime rate": 1044.23
+      },
+      {
+         "Year": "2015",
+         "Violent crime rate": 1070.26
+      },
+      {
+         "Year": "2016",
+         "Violent crime rate": 1076.07
+      },
+      {
+         "Year": "2017",
+         "Violent crime rate": 1112.82
+      },
+      {
+         "Year": "2018",
+         "Violent crime rate": 1143.5
+      }
+   ]
+}

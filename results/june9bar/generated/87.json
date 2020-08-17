@@ -1,0 +1,42 @@
+{
+   "title": "Main export partners of Iran 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total exports",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Main export partners Iran in 2017 . ",
+      "In 2017 , the most important export partner Iran was Japan , accounting Iran 27.5 % of all exports ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Japan",
+         "Share in total exports": "5.3"
+      },
+      {
+         "Country": "Italy",
+         "Share in total exports": "5.7"
+      },
+      {
+         "Country": "Turkey",
+         "Share in total exports": "11.1"
+      },
+      {
+         "Country": "South Korea",
+         "Share in total exports": "11.4"
+      },
+      {
+         "Country": "India",
+         "Share in total exports": "15.1"
+      },
+      {
+         "Country": "China",
+         "Share in total exports": "27.5"
+      }
+   ]
+}

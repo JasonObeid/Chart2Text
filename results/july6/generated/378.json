@@ -1,0 +1,67 @@
+{
+   "title": "Latin America : Big Mac index in Argentina 2020",
+   "xAxis": "Year",
+   "yAxis": "Average price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Average price of Big at U.S. Argentina in Latin America from 2010 to 2020 . ",
+      "In 2014 , the Average price of Big at U.S. in Latin America was about 3.03 dollars ."
+   ],
+   "trends": [
+      {
+         "14": "10",
+         "16": "0"
+      },
+      {
+         "1": "6",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Average price in U.S. dollars": "2.85"
+      },
+      {
+         "Year": "2019",
+         "Average price in U.S. dollars": "2.0"
+      },
+      {
+         "Year": "2018",
+         "Average price in U.S. dollars": "3.96"
+      },
+      {
+         "Year": "2017",
+         "Average price in U.S. dollars": "3.47"
+      },
+      {
+         "Year": "2016",
+         "Average price in U.S. dollars": "2.39"
+      },
+      {
+         "Year": "2015",
+         "Average price in U.S. dollars": "3.25"
+      },
+      {
+         "Year": "2014",
+         "Average price in U.S. dollars": "3.03"
+      },
+      {
+         "Year": "2013",
+         "Average price in U.S. dollars": "3.82"
+      },
+      {
+         "Year": "2012",
+         "Average price in U.S. dollars": "4.64"
+      },
+      {
+         "Year": "2011",
+         "Average price in U.S. dollars": "4.84"
+      },
+      {
+         "Year": "2010",
+         "Average price in U.S. dollars": "1.84"
+      }
+   ]
+}

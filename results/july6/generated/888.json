@@ -1,0 +1,124 @@
+{
+   "title": "Prices of season tickets of the Bundesliga clubs in 2019/2020",
+   "labels": [
+      "Year",
+      "Standing places",
+      "Most expensive seats"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Standing Bundesliga ( UK ) tickets 2019/2020 Bundesliga clubs from fiscal Year VFL_Wolfsburg to fiscal Year FSV_Mainz_05 . ",
+      "Most clubs peaked in SC_Paderborn_07 with revenue of 9.8 million British pounds ( GBP ) ."
+   ],
+   "trends": [
+      {
+         "16": [
+            "17",
+            "0"
+         ],
+         "20": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "10",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "FSV Mainz 05",
+         "Standing places": "179\u20ac",
+         "Most expensive seats": "950\u20ac"
+      },
+      {
+         "Year": "SC Freiburg",
+         "Standing places": "195\u20ac",
+         "Most expensive seats": "865\u20ac"
+      },
+      {
+         "Year": "Eintracht Frankfurt",
+         "Standing places": "184\u20ac",
+         "Most expensive seats": "827\u20ac"
+      },
+      {
+         "Year": "1. FC K\u00f6ln",
+         "Standing places": "165\u20ac",
+         "Most expensive seats": "785\u20ac"
+      },
+      {
+         "Year": "Schalke 04",
+         "Standing places": "1905\u20ac",
+         "Most expensive seats": "776\u20ac"
+      },
+      {
+         "Year": "Bayern M\u00fcnchen",
+         "Standing places": "145\u20ac",
+         "Most expensive seats": "765\u20ac"
+      },
+      {
+         "Year": "Borussia Dortmund",
+         "Standing places": "219\u20ac",
+         "Most expensive seats": "759\u20ac"
+      },
+      {
+         "Year": "Fortuna D\u00fcsseldorf",
+         "Standing places": "195\u20ac",
+         "Most expensive seats": "759\u20ac"
+      },
+      {
+         "Year": "Hertha BSC",
+         "Standing places": "199\u20ac",
+         "Most expensive seats": "749\u20ac"
+      },
+      {
+         "Year": "RB Leipzig",
+         "Standing places": "180\u20ac",
+         "Most expensive seats": "740\u20ac"
+      },
+      {
+         "Year": "SC Paderborn 07",
+         "Standing places": "225\u20ac",
+         "Most expensive seats": "735\u20ac"
+      },
+      {
+         "Year": "Werder Bremen",
+         "Standing places": "195\u20ac",
+         "Most expensive seats": "730\u20ac"
+      },
+      {
+         "Year": "1. FC Union Berlin",
+         "Standing places": "187\u20ac",
+         "Most expensive seats": "680\u20ac"
+      },
+      {
+         "Year": "Borussia M\u00f6nchengladbach",
+         "Standing places": "190\u20ac",
+         "Most expensive seats": "675\u20ac"
+      },
+      {
+         "Year": "FC Augsburg",
+         "Standing places": "199\u20ac",
+         "Most expensive seats": "629\u20ac"
+      },
+      {
+         "Year": "Bayer Leverkusen",
+         "Standing places": "190\u20ac",
+         "Most expensive seats": "595\u20ac"
+      },
+      {
+         "Year": "1899 Hoffenheim",
+         "Standing places": "150\u20ac",
+         "Most expensive seats": "584\u20ac"
+      },
+      {
+         "Year": "VFL Wolfsburg",
+         "Standing places": "145\u20ac",
+         "Most expensive seats": "440\u20ac"
+      }
+   ]
+}

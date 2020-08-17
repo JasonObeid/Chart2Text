@@ -1,0 +1,69 @@
+{
+   "title": "Fertility rate in Nepal 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of children born per woman",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Fertility rate in Nepal from 2007 to 2017 . ",
+      "In 2017 , the Fertility rate in Nepal was 1.97 children per woman . ",
+      "Overall , the Number of births in Nepal reached about 17.23 million that Year ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of children born per woman": "1.97"
+      },
+      {
+         "Year": "2016",
+         "Number of children born per woman": "2.03"
+      },
+      {
+         "Year": "2015",
+         "Number of children born per woman": "2.1"
+      },
+      {
+         "Year": "2014",
+         "Number of children born per woman": "2.18"
+      },
+      {
+         "Year": "2013",
+         "Number of children born per woman": "2.26"
+      },
+      {
+         "Year": "2012",
+         "Number of children born per woman": "2.35"
+      },
+      {
+         "Year": "2011",
+         "Number of children born per woman": "2.44"
+      },
+      {
+         "Year": "2010",
+         "Number of children born per woman": "2.54"
+      },
+      {
+         "Year": "2009",
+         "Number of children born per woman": "2.64"
+      },
+      {
+         "Year": "2008",
+         "Number of children born per woman": "2.75"
+      },
+      {
+         "Year": "2007",
+         "Number of children born per woman": "2.87"
+      }
+   ]
+}

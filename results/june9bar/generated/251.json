@@ -1,0 +1,38 @@
+{
+   "title": "Facebook reactions on top shared content 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of reactions",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of adults in the Facebook who were using Facebook as of 2019 , sorted 2017 . ",
+      "During that period of time , 41 % of female reactions stated that they used the social networking site ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Love",
+         "Share of reactions": "41"
+      },
+      {
+         "Response": "Haha",
+         "Share of reactions": "28"
+      },
+      {
+         "Response": "Wow",
+         "Share of reactions": "15"
+      },
+      {
+         "Response": "Sad",
+         "Share of reactions": "12"
+      },
+      {
+         "Response": "Angry",
+         "Share of reactions": "5"
+      }
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "title": "Urbanization in Ireland 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the degree of Urbanization in Ireland from 2008 to 2018 . ",
+      "Urbanization means the Share of urban population in the total population of a country . ",
+      "In 2018 , 63.17 % of Ireland 's total population lived in urban areas and cities ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population in total population": "63.17"
+      },
+      {
+         "Year": "2017",
+         "Share of urban population in total population": "62.95"
+      },
+      {
+         "Year": "2016",
+         "Share of urban population in total population": "62.74"
+      },
+      {
+         "Year": "2015",
+         "Share of urban population in total population": "62.54"
+      },
+      {
+         "Year": "2014",
+         "Share of urban population in total population": "62.34"
+      },
+      {
+         "Year": "2013",
+         "Share of urban population in total population": "62.14"
+      },
+      {
+         "Year": "2012",
+         "Share of urban population in total population": "61.94"
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": "61.74"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": "61.54"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": "61.34"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": "61.14"
+      }
+   ]
+}

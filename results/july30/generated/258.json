@@ -1,0 +1,93 @@
+{
+   "title": "Oakland Athletics average ticket price 2006 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2016 to 2011.",
+      " Contrarily, the next significant trend is  positive which exists from 2011 to 2008.",
+      " Also, the next significant trend is  negative which exists from 2008 to 2006."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 2,
+         "end": 7,
+         "trend": "y=0.64x+-1271.63",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 7,
+         "end": 10,
+         "trend": "y=-2.53x+5110.31",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 10,
+         "end": 12,
+         "trend": "y=3.55x+-7099.79",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": 24.3
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": 24.13
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": 24.46
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": 24.0
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": 22.84
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": 22.12
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": 21.64
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": 21.52
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": 22.04
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": 24.31
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": 29.2
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": 23.88
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": 22.1
+      }
+   ]
+}

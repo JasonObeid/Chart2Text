@@ -1,0 +1,61 @@
+{
+   "title": "U.S. consumer perception of Amazon as a company 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. consumer perception Amazon company 2017 in the 2017 as of 2013 . ",
+      "During the survey , 67 % of the female respondents named I_like_using_Amazon as their U.S. preferred activity during perception I_trust_Amazon_with_my_payment_information ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "11": "0",
+         "19": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "I like using Amazon",
+         "Share of respondents": "67"
+      },
+      {
+         "Response": "With Amazon I get what I need",
+         "Share of respondents": "57"
+      },
+      {
+         "Response": "I trust Amazon with my payment information",
+         "Share of respondents": "53"
+      },
+      {
+         "Response": "Amazon takes the interests of its customers seriously",
+         "Share of respondents": "38"
+      },
+      {
+         "Response": "Amazon assumes a pioneering role in this day and age",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Amazon is an integral part of my life",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Amazon respects my privacy",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "I would like to see more products and services from Amazon",
+         "Share of respondents": "27"
+      },
+      {
+         "Response": "There are no alternatives to Amazon",
+         "Share of respondents": "18"
+      },
+      {
+         "Response": "None of the above",
+         "Share of respondents": "12"
+      }
+   ]
+}

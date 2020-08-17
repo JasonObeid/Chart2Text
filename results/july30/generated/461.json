@@ -1,0 +1,84 @@
+{
+   "title": "Kansas City Royals average ticket price 2006 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2009 to 2006.",
+      " On the contrary, the next significant trend is  negative which exists from 2015 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 9,
+         "end": 12,
+         "trend": "y=2.01x+-4012.77",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 3,
+         "end": 5,
+         "trend": "y=4.97x+-9974.74",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": 32.84
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": 33.58
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": 26.88
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": 29.76
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": 24.73
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": 19.83
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": 21.84
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": 18.95
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": 19.38
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": 19.38
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": 17.54
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": 14.48
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": 13.71
+      }
+   ]
+}

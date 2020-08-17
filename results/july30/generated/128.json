@@ -1,0 +1,38 @@
+{
+   "title": "Scania - key figures 2018\n",
+   "xAxis": "Key area",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Key area, and a y axis representing Unnamed: 1.",
+      " The highest category is found at Net_sales_Scania_Group_(million_Swedish_kronor) where Unnamed: 1 is 137126.0.",
+      " The lowest category is found at Operating_margin_() where Unnamed: 1 is 10.1."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Key area": "New vehicle deliveries (units)",
+         "Unnamed: 1": 96477.0
+      },
+      {
+         "Key area": "Net sales Scania Group (million Swedish kronor)",
+         "Unnamed: 1": 137126.0
+      },
+      {
+         "Key area": "Net income for the period (million euros)",
+         "Unnamed: 1": 9734.0
+      },
+      {
+         "Key area": "Operating income (million Swedish kronor)",
+         "Unnamed: 1": 13832.0
+      },
+      {
+         "Key area": "Operating margin ()",
+         "Unnamed: 1": 10.1
+      }
+   ]
+}

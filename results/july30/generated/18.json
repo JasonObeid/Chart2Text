@@ -1,0 +1,90 @@
+{
+   "title": "Trump budget proposal 2018 : changes by department\n",
+   "xAxis": "Department Name",
+   "yAxis": "Percentage change from 2017",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 18 categories for the x axis representing Department Name, and a y axis representing Percentage change from 2017.",
+      " The highest category is found at Defense_Department where Percentage change from 2017 is 9.0.",
+      " The lowest category is found at Environmental_Protection_Agency where Percentage change from 2017 is -31.0."
+   ],
+   "trends": {
+      "maxIndex": 17,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Department Name": "Environmental Protection Agency",
+         "Percentage change from 2017": -31.0
+      },
+      {
+         "Department Name": "State Department",
+         "Percentage change from 2017": -29.0
+      },
+      {
+         "Department Name": "Agriculture Department",
+         "Percentage change from 2017": -21.0
+      },
+      {
+         "Department Name": "Labor Department",
+         "Percentage change from 2017": -21.0
+      },
+      {
+         "Department Name": "Department of Health and Human Services",
+         "Percentage change from 2017": -18.0
+      },
+      {
+         "Department Name": "Commerce Department",
+         "Percentage change from 2017": -16.0
+      },
+      {
+         "Department Name": "Education Department",
+         "Percentage change from 2017": -14.0
+      },
+      {
+         "Department Name": "Department of Housing and Urban Development",
+         "Percentage change from 2017": -13.0
+      },
+      {
+         "Department Name": "Transportation Department",
+         "Percentage change from 2017": -13.0
+      },
+      {
+         "Department Name": "Interior Department",
+         "Percentage change from 2017": -12.0
+      },
+      {
+         "Department Name": "Energy Department",
+         "Percentage change from 2017": -6.0
+      },
+      {
+         "Department Name": "Small Business Administration",
+         "Percentage change from 2017": -5.0
+      },
+      {
+         "Department Name": "Treasury Department",
+         "Percentage change from 2017": -4.0
+      },
+      {
+         "Department Name": "Justice Department",
+         "Percentage change from 2017": -4.0
+      },
+      {
+         "Department Name": "NASA",
+         "Percentage change from 2017": -1.0
+      },
+      {
+         "Department Name": "Department of Veterans Affairs",
+         "Percentage change from 2017": 6.0
+      },
+      {
+         "Department Name": "Department of Homeland Security",
+         "Percentage change from 2017": 7.0
+      },
+      {
+         "Department Name": "Defense Department",
+         "Percentage change from 2017": 9.0
+      }
+   ]
+}

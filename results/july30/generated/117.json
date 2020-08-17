@@ -1,0 +1,50 @@
+{
+   "title": "Engie - revenue by region 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Revenue in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Country, and a y axis representing Revenue in billion euros.",
+      " The highest category is found at France where Revenue in billion euros is 24.98.",
+      " The lowest category is found at Africa where Revenue in billion euros is 0.39."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 7
+   },
+   "data": [
+      {
+         "Country": "France",
+         "Revenue in billion euros": 24.98
+      },
+      {
+         "Country": "Other EU countries",
+         "Revenue in billion euros": 15.45
+      },
+      {
+         "Country": "Belgium",
+         "Revenue in billion euros": 5.96
+      },
+      {
+         "Country": "Asia Middle East and Oceania",
+         "Revenue in billion euros": 4.94
+      },
+      {
+         "Country": "South America",
+         "Revenue in billion euros": 4.2
+      },
+      {
+         "Country": "North America",
+         "Revenue in billion euros": 3.87
+      },
+      {
+         "Country": "Other European countries",
+         "Revenue in billion euros": 0.82
+      },
+      {
+         "Country": "Africa",
+         "Revenue in billion euros": 0.39
+      }
+   ]
+}

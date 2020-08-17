@@ -1,0 +1,53 @@
+{
+   "title": "Gender distribution of full-time U.S. law enforcement employees 2018",
+   "labels": [
+      "unknown",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays the Law_enforcement_employees rate of individuals suffering distribution an full-time U.S. in the U.S. in 2018 . ",
+      "Approximately 73.3 % of sufferers Male and 26.7 % of sufferers Female Male make a Law_enforcement_employees ."
+   ],
+   "trends": [
+      {
+         "4": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Law enforcement employees",
+         "Male": "73.3",
+         "Female": "26.7"
+      },
+      {
+         "unknown": "Officers",
+         "Male": "87.4",
+         "Female": "12.6"
+      },
+      {
+         "unknown": "Civilians",
+         "Male": "39.7",
+         "Female": "60.3"
+      }
+   ]
+}

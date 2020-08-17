@@ -1,0 +1,54 @@
+{
+   "title": "YouTube : all-time beauty content category views 2017\n",
+   "xAxis": "Selected Cosmetics",
+   "yAxis": "Amount of category views in billions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Selected Cosmetics, and a y axis representing Amount of category views in billions.",
+      " The highest category is found at Beauty_-_overall where Amount of category views in billions is 219.0.",
+      " The lowest category is found at Nails where Amount of category views in billions is 4.0."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "Selected Cosmetics": "Personal care - overall",
+         "Amount of category views in billions": 28.0
+      },
+      {
+         "Selected Cosmetics": "Deodorant",
+         "Amount of category views in billions": 17.0
+      },
+      {
+         "Selected Cosmetics": "Body care",
+         "Amount of category views in billions": 16.0
+      },
+      {
+         "Selected Cosmetics": "Beauty - overall",
+         "Amount of category views in billions": 219.0
+      },
+      {
+         "Selected Cosmetics": "Cosmetics",
+         "Amount of category views in billions": 156.0
+      },
+      {
+         "Selected Cosmetics": "Hair",
+         "Amount of category views in billions": 87.0
+      },
+      {
+         "Selected Cosmetics": "Skincare",
+         "Amount of category views in billions": 73.0
+      },
+      {
+         "Selected Cosmetics": "Fragrance",
+         "Amount of category views in billions": 24.0
+      },
+      {
+         "Selected Cosmetics": "Nails",
+         "Amount of category views in billions": 4.0
+      }
+   ]
+}

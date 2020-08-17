@@ -1,0 +1,56 @@
+{
+   "title": "UK cyber security : total market size 2010 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Market size in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Market of size in UK from 2010 to 2017 . ",
+      "According to the report , around 3489 thousand babies were born in UK 2017 , an increase from the previous Year were 3330 thousand babies were born ."
+   ],
+   "trends": [
+      {
+         "10": "7",
+         "12": "0"
+      },
+      {
+         "6": "0",
+         "14": "0",
+         "23": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Market size in million GBP": "3489"
+      },
+      {
+         "Year": "2016",
+         "Market size in million GBP": "3330"
+      },
+      {
+         "Year": "2015",
+         "Market size in million GBP": "3173"
+      },
+      {
+         "Year": "2014",
+         "Market size in million GBP": "2996"
+      },
+      {
+         "Year": "2013",
+         "Market size in million GBP": "2796"
+      },
+      {
+         "Year": "2012",
+         "Market size in million GBP": "2621"
+      },
+      {
+         "Year": "2011",
+         "Market size in million GBP": "2492"
+      },
+      {
+         "Year": "2010",
+         "Market size in million GBP": "2407"
+      }
+   ]
+}

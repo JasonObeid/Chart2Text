@@ -1,0 +1,36 @@
+{
+   "title": "U.S. Amazon Prime Day conversion rate 2017 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Conversion rate",
+   "graphType": "line",
+   "summary": [
+      "The statistic presents the projected Conversion of Amazon Prime rate in Amazon Prime Day from 2017 to 2019 . ",
+      "NIKO Media Research projected the Conversion would rise from 11.2 % in 2017 to 13.5 % in 2019 ."
+   ],
+   "trends": [
+      {
+         "13": "2",
+         "15": "0"
+      },
+      {
+         "9": "2",
+         "12": "2",
+         "14": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Conversion rate": "13.5"
+      },
+      {
+         "Year": "2018",
+         "Conversion rate": "11.6"
+      },
+      {
+         "Year": "2017",
+         "Conversion rate": "11.2"
+      }
+   ]
+}

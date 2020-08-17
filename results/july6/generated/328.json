@@ -1,0 +1,64 @@
+{
+   "title": "Most expensive housing markets worldwide 2018",
+   "xAxis": "Country",
+   "yAxis": "Average price of property in thousand U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Most expensive the housing Average worldwide 2018 for the period 2007 - 2018 . ",
+      "In that period , Hong_Kong was the Country expensive the housing number of Average in relation to its thousand . ",
+      "There were 1235.22 Average price every 1,000 of Hong_Kong 's thousand ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      },
+      {
+         "2": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Hong Kong",
+         "Average price of property in thousand U.S. dollars": "1235.22"
+      },
+      {
+         "Country": "Singapore",
+         "Average price of property in thousand U.S. dollars": "874.37"
+      },
+      {
+         "Country": "Shanghai",
+         "Average price of property in thousand U.S. dollars": "872.56"
+      },
+      {
+         "Country": "Vancouver",
+         "Average price of property in thousand U.S. dollars": "815.32"
+      },
+      {
+         "Country": "Shenzhen",
+         "Average price of property in thousand U.S. dollars": "680.28"
+      },
+      {
+         "Country": "Los Angeles",
+         "Average price of property in thousand U.S. dollars": "679.22"
+      },
+      {
+         "Country": "New York",
+         "Average price of property in thousand U.S. dollars": "674.5"
+      },
+      {
+         "Country": "London",
+         "Average price of property in thousand U.S. dollars": "646.97"
+      },
+      {
+         "Country": "Beijing",
+         "Average price of property in thousand U.S. dollars": "629.28"
+      },
+      {
+         "Country": "Paris",
+         "Average price of property in thousand U.S. dollars": "625.3"
+      }
+   ]
+}

@@ -1,0 +1,62 @@
+{
+   "title": "Percentage of U.S. population as of 2016 and 2060 , by race and Hispanic origin",
+   "labels": [
+      "unknown",
+      "2016",
+      "2060"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows Hispanic 's 2016 in and 2060 , distributed race Hispanic . ",
+      "Hispanic Inc. is a health company from the country , active in the manufacturing of medical equipment and Black_or_African_American ( until 2014 ) . ",
+      "Hispanic is headquartered in Deerfield , Illinois ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "unknown": "Non-Hispanic White",
+         "2016": "61.27",
+         "2060": "44.29"
+      },
+      {
+         "unknown": "Hispanics  (may be of any race)",
+         "2016": "17.79",
+         "2060": "27.5"
+      },
+      {
+         "unknown": "Black or African American",
+         "2016": "13.31",
+         "2060": "15"
+      },
+      {
+         "unknown": "Asian",
+         "2016": "5.67",
+         "2060": "9.1"
+      },
+      {
+         "unknown": "Two or more races",
+         "2016": "2.62",
+         "2060": "6.24"
+      },
+      {
+         "unknown": "American Indian and Alaska Native",
+         "2016": "1.25",
+         "2060": "1.38"
+      },
+      {
+         "unknown": "Native Hawaiian and Other Pacific Islander",
+         "2016": "0.24",
+         "2060": "0.28"
+      }
+   ]
+}

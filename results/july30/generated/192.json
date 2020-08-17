@@ -1,0 +1,145 @@
+{
+   "title": "Death from amphetamine drug use in England and Wales 1993 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of deaths, with a total of 26 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2016 to 2011.",
+      " Differently, the next significant trend is  positive which exists from 2011 to 2008.",
+      " Similarly, the next significant trend is  negative which exists from 1999 to 1996."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 2,
+         "end": 7,
+         "trend": "y=11.49x+-23056.15",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 7,
+         "end": 10,
+         "trend": "y=-4.1x+8289.7",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 19,
+         "end": 22,
+         "trend": "y=10.9x+-21725.5",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of deaths": 100.0
+      },
+      {
+         "Year": "2017",
+         "Number of deaths": 91.0
+      },
+      {
+         "Year": "2016",
+         "Number of deaths": 96.0
+      },
+      {
+         "Year": "2015",
+         "Number of deaths": 90.0
+      },
+      {
+         "Year": "2014",
+         "Number of deaths": 85.0
+      },
+      {
+         "Year": "2013",
+         "Number of deaths": 56.0
+      },
+      {
+         "Year": "2012",
+         "Number of deaths": 49.0
+      },
+      {
+         "Year": "2011",
+         "Number of deaths": 46.0
+      },
+      {
+         "Year": "2010",
+         "Number of deaths": 48.0
+      },
+      {
+         "Year": "2009",
+         "Number of deaths": 50.0
+      },
+      {
+         "Year": "2008",
+         "Number of deaths": 59.0
+      },
+      {
+         "Year": "2007",
+         "Number of deaths": 50.0
+      },
+      {
+         "Year": "2006",
+         "Number of deaths": 49.0
+      },
+      {
+         "Year": "2005",
+         "Number of deaths": 50.0
+      },
+      {
+         "Year": "2004",
+         "Number of deaths": 43.0
+      },
+      {
+         "Year": "2003",
+         "Number of deaths": 33.0
+      },
+      {
+         "Year": "2002",
+         "Number of deaths": 51.0
+      },
+      {
+         "Year": "2001",
+         "Number of deaths": 28.0
+      },
+      {
+         "Year": "2000",
+         "Number of deaths": 40.0
+      },
+      {
+         "Year": "1999",
+         "Number of deaths": 67.0
+      },
+      {
+         "Year": "1998",
+         "Number of deaths": 48.0
+      },
+      {
+         "Year": "1997",
+         "Number of deaths": 41.0
+      },
+      {
+         "Year": "1996",
+         "Number of deaths": 33.0
+      },
+      {
+         "Year": "1995",
+         "Number of deaths": 35.0
+      },
+      {
+         "Year": "1994",
+         "Number of deaths": 19.0
+      },
+      {
+         "Year": "1993",
+         "Number of deaths": 37.0
+      }
+   ]
+}

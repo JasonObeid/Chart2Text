@@ -1,0 +1,58 @@
+{
+   "title": "Manufacturing costs in pharmaceutical industry by country 2016",
+   "xAxis": "Country",
+   "yAxis": "Manufacturing costs index (U.S. = 100)",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Manufacturing of the Manufacturing costs pharmaceutical industry in the by as of 2020 . ",
+      "During the survey period , it was found that 100 % of Manufacturing industry ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "9"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Mexico",
+         "Manufacturing costs index (U.S. = 100)": "82.9"
+      },
+      {
+         "Country": "Canada",
+         "Manufacturing costs index (U.S. = 100)": "88.8"
+      },
+      {
+         "Country": "Netherlands",
+         "Manufacturing costs index (U.S. = 100)": "89.9"
+      },
+      {
+         "Country": "Italy",
+         "Manufacturing costs index (U.S. = 100)": "90.3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Manufacturing costs index (U.S. = 100)": "90.8"
+      },
+      {
+         "Country": "Australia",
+         "Manufacturing costs index (U.S. = 100)": "91.3"
+      },
+      {
+         "Country": "France",
+         "Manufacturing costs index (U.S. = 100)": "91.8"
+      },
+      {
+         "Country": "Germany",
+         "Manufacturing costs index (U.S. = 100)": "93.4"
+      },
+      {
+         "Country": "Japan",
+         "Manufacturing costs index (U.S. = 100)": "93.6"
+      },
+      {
+         "Country": "United States",
+         "Manufacturing costs index (U.S. = 100)": "100"
+      }
+   ]
+}

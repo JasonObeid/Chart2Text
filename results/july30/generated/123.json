@@ -1,0 +1,62 @@
+{
+   "title": "Per capita consumption of chewing gum in selected countries worldwide 2009 to 2012\n",
+   "xAxis": "Country",
+   "yAxis": "Index value",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Country, and a y axis representing Index value.",
+      " The highest category is found at United_States where Index value is 152.0.",
+      " The lowest category is found at India where Index value is 10.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 10
+   },
+   "data": [
+      {
+         "Country": "United States",
+         "Index value": 152.0
+      },
+      {
+         "Country": "Austria",
+         "Index value": 114.0
+      },
+      {
+         "Country": "Belgium",
+         "Index value": 112.0
+      },
+      {
+         "Country": "Germany",
+         "Index value": 100.0
+      },
+      {
+         "Country": "France",
+         "Index value": 96.0
+      },
+      {
+         "Country": "Great Britain",
+         "Index value": 89.0
+      },
+      {
+         "Country": "Spain",
+         "Index value": 85.0
+      },
+      {
+         "Country": "Russia",
+         "Index value": 84.0
+      },
+      {
+         "Country": "Poland",
+         "Index value": 70.0
+      },
+      {
+         "Country": "China",
+         "Index value": 31.0
+      },
+      {
+         "Country": "India",
+         "Index value": 10.0
+      }
+   ]
+}

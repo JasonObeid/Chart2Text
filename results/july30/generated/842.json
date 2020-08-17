@@ -1,0 +1,59 @@
+{
+   "title": "Miami-Fort Lauderdale-West Palm Beach metro area population U.S. 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of residents with a total of 9 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 2010 to 2018."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "positive",
+         "start": 0,
+         "end": 8,
+         "trend": "y=76811.48x+-148781334.32",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Number of residents": 5583547.0
+      },
+      {
+         "Year": "2011",
+         "Number of residents": 5693531.0
+      },
+      {
+         "Year": "2012",
+         "Number of residents": 5771731.0
+      },
+      {
+         "Year": "2013",
+         "Number of residents": 5849411.0
+      },
+      {
+         "Year": "2014",
+         "Number of residents": 5921030.0
+      },
+      {
+         "Year": "2015",
+         "Number of residents": 5998284.0
+      },
+      {
+         "Year": "2016",
+         "Number of residents": 6086935.0
+      },
+      {
+         "Year": "2017",
+         "Number of residents": 6149687.0
+      },
+      {
+         "Year": "2018",
+         "Number of residents": 6198782.0
+      }
+   ]
+}

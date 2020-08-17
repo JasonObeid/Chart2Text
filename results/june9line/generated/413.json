@@ -1,0 +1,46 @@
+{
+   "title": "Scotland : forecasted median age of population 2014 to 2039",
+   "xAxis": "Year",
+   "yAxis": "Age",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows total Age Scotland median the Supplemental Nutrition Assistance Program ( age , formerly called Scotland ) from 2014 to 2039 . ",
+      "In 2029 , about 43.5 % Age were spent median the Supplemental Nutrition Assistance Program ."
+   ],
+   "trends": [
+      {
+         "21": "5",
+         "23": "0"
+      },
+      {
+         "1": "2",
+         "4": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2039",
+         "Age": "45.2"
+      },
+      {
+         "Year": "2034",
+         "Age": "44.3"
+      },
+      {
+         "Year": "2029",
+         "Age": "43.5"
+      },
+      {
+         "Year": "2024",
+         "Age": "42.9"
+      },
+      {
+         "Year": "2019",
+         "Age": "42.4"
+      },
+      {
+         "Year": "2014",
+         "Age": "41.9"
+      }
+   ]
+}

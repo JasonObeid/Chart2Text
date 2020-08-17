@@ -1,0 +1,43 @@
+{
+   "title": "Most popular global mobile messaging apps 2019",
+   "xAxis": "Platform",
+   "yAxis": "Monthly active users in millions",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents a ranking of the Most popular global mobile in the United Kingdom ( Most ) . ",
+      "During the survey period , it was found that WhatsApp had 1600 millions users ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "WhatsApp",
+         "Monthly active users in millions": "1600"
+      },
+      {
+         "Platform": "Facebook Messenger",
+         "Monthly active users in millions": "1300"
+      },
+      {
+         "Platform": "WeChat",
+         "Monthly active users in millions": "1133"
+      },
+      {
+         "Platform": "QQ Mobile",
+         "Monthly active users in millions": "808"
+      },
+      {
+         "Platform": "Snapchat",
+         "Monthly active users in millions": "314"
+      },
+      {
+         "Platform": "Telegram",
+         "Monthly active users in millions": "200"
+      }
+   ]
+}

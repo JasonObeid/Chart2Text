@@ -1,0 +1,45 @@
+{
+   "title": "Most followed sports leagues in the U.S. 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Most followed sports leagues U.S. in the 2019 as of 2013 . ",
+      "During the survey , 16 % of respondents stated that they NFL a MLB and NBA ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "11": "0",
+         "13": "1",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "NFL",
+         "Share of respondents": "33"
+      },
+      {
+         "Response": "MLB",
+         "Share of respondents": "16"
+      },
+      {
+         "Response": "NBA",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "NHL",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "MLS",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "I don't follow any of these leagues",
+         "Share of respondents": "32"
+      }
+   ]
+}

@@ -1,0 +1,69 @@
+{
+   "title": "Per capita consumption of alcohol in Norway 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in liters",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The Per capita of Per capita manufactured in the Norway was approximately 40 thousand tons in 2018 , an increase of over eight thousand tons from 2017 . ",
+      "This constitutes a recovery of the production capita , which collapsed between 2008 and 2011 falling by just under eighty percent , before it stagnated in the early 2010s . ",
+      "A stagnating market ? The corresponding developments in Per values give the same picture as above ."
+   ],
+   "trends": [
+      {
+         "16": "0",
+         "26": "1"
+      },
+      {
+         "12": "10",
+         "14": "7"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in liters": "82.79"
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in liters": "81.91"
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in liters": "82.33"
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in liters": "80.71"
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in liters": "81.94"
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in liters": "83.94"
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in liters": "83.93"
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in liters": "87.87"
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in liters": "89.58"
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in liters": "90.96"
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in liters": "92.91"
+      }
+   ]
+}

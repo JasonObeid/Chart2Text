@@ -1,0 +1,78 @@
+{
+   "title": "Companies on the insurance market in the United Kingdom ( UK ) 2004 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of companies",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the Number of insurance companies in the United Kingdom from 2004 to 2017 . ",
+      "In 2017 , there were a Number of 436 insurance companies in the United Kingdom , an increase of 14.4 % compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "12": "13",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of companies": "436"
+      },
+      {
+         "Year": "2016",
+         "Number of companies": "464"
+      },
+      {
+         "Year": "2015",
+         "Number of companies": "496"
+      },
+      {
+         "Year": "2014",
+         "Number of companies": "526"
+      },
+      {
+         "Year": "2013",
+         "Number of companies": "613"
+      },
+      {
+         "Year": "2012",
+         "Number of companies": "528"
+      },
+      {
+         "Year": "2011",
+         "Number of companies": "540"
+      },
+      {
+         "Year": "2010",
+         "Number of companies": "521"
+      },
+      {
+         "Year": "2009",
+         "Number of companies": "534"
+      },
+      {
+         "Year": "2008",
+         "Number of companies": "549"
+      },
+      {
+         "Year": "2007",
+         "Number of companies": "576"
+      },
+      {
+         "Year": "2006",
+         "Number of companies": "594"
+      },
+      {
+         "Year": "2005",
+         "Number of companies": "640"
+      },
+      {
+         "Year": "2004",
+         "Number of companies": "673"
+      }
+   ]
+}

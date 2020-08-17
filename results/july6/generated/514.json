@@ -1,0 +1,45 @@
+{
+   "title": "Natural disasters - continents with the most fatalities 2018",
+   "xAxis": "Country",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Natural of disasters fatalities in selected countries in 2018 . ",
+      "The Asia ( UK ) had the highest Number of fatalities with disasters in Natural , with a Natural of 79.8 million fatalities . ",
+      "The Number of fatalities with disasters in Oceania was noticeably less at 1.6 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "20": "0"
+      },
+      {
+         "7": "4",
+         "12": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Asia",
+         "Number of fatalities": "79.8"
+      },
+      {
+         "Country": "Africa",
+         "Number of fatalities": "8.7"
+      },
+      {
+         "Country": "Americas",
+         "Number of fatalities": "8.1"
+      },
+      {
+         "Country": "Europe",
+         "Number of fatalities": "1.9"
+      },
+      {
+         "Country": "Oceania",
+         "Number of fatalities": "1.6"
+      }
+   ]
+}

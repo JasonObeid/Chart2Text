@@ -1,0 +1,64 @@
+{
+   "title": "Qdoba company-owned restaurant sales from 2011 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Sales in million U.S. dollars, with a total of 8 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2017 to 2011.",
+      " On the other hand, the next significant trend is  positive which exists from 2018 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 1,
+         "end": 7,
+         "trend": "y=44.16x+-88606.55",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-243.94x+492463.54",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in million U.S. dollars": 192.62
+      },
+      {
+         "Year": "2017",
+         "Sales in million U.S. dollars": 436.56
+      },
+      {
+         "Year": "2016",
+         "Sales in million U.S. dollars": 415.5
+      },
+      {
+         "Year": "2015",
+         "Sales in million U.S. dollars": 374.34
+      },
+      {
+         "Year": "2014",
+         "Sales in million U.S. dollars": 338.45
+      },
+      {
+         "Year": "2013",
+         "Sales in million U.S. dollars": 293.27
+      },
+      {
+         "Year": "2012",
+         "Sales in million U.S. dollars": 239.49
+      },
+      {
+         "Year": "2011",
+         "Sales in million U.S. dollars": 168.8
+      }
+   ]
+}

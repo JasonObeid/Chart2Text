@@ -1,0 +1,54 @@
+{
+   "title": "Total direct staff of Citigroup 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of direct staff in thousands",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Number of direct staff in Citigroup from 2011 to 2018 . ",
+      "In 2018 , there were 204 thousands direct staff in Citigroup ."
+   ],
+   "trends": [
+      {
+         "11": "7",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of direct staff in thousands": "204"
+      },
+      {
+         "Year": "2017",
+         "Number of direct staff in thousands": "209"
+      },
+      {
+         "Year": "2016",
+         "Number of direct staff in thousands": "219"
+      },
+      {
+         "Year": "2015",
+         "Number of direct staff in thousands": "231"
+      },
+      {
+         "Year": "2014",
+         "Number of direct staff in thousands": "241"
+      },
+      {
+         "Year": "2013",
+         "Number of direct staff in thousands": "251"
+      },
+      {
+         "Year": "2012",
+         "Number of direct staff in thousands": "259"
+      },
+      {
+         "Year": "2011",
+         "Number of direct staff in thousands": "266"
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "title": "Revenue share of various apparel decorating services in the U.S. 2014",
+   "xAxis": "Decorating service",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among 559 industrial enterprises on their opinion on the Revenue nation in U.S. apparel as of 2014 . ",
+      "7 % of respondents stated Heat_transfers was currently the Revenue Decorating in U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Decorating service": "Embroidery",
+         "Share of respondents": "45"
+      },
+      {
+         "Decorating service": "Screen printing",
+         "Share of respondents": "26"
+      },
+      {
+         "Decorating service": "Heat transfers",
+         "Share of respondents": "7"
+      },
+      {
+         "Decorating service": "Vinyl (cut) letters/designs",
+         "Share of respondents": "6"
+      },
+      {
+         "Decorating service": "Digitizing/artwork services",
+         "Share of respondents": "5"
+      },
+      {
+         "Decorating service": "Sublimation printing",
+         "Share of respondents": "3"
+      },
+      {
+         "Decorating service": "Emblems/patches",
+         "Share of respondents": "3"
+      },
+      {
+         "Decorating service": "Direct-to-garment printing",
+         "Share of respondents": "3"
+      },
+      {
+         "Decorating service": "Rhinestones/crystals",
+         "Share of respondents": "1"
+      },
+      {
+         "Decorating service": "Other",
+         "Share of respondents": "1"
+      }
+   ]
+}

@@ -1,0 +1,52 @@
+{
+   "title": "Nuclear energy - global market size by segment through 2030",
+   "labels": [
+      "unknown",
+      "2011",
+      "2030"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 6 categories for the x axis of unknown representing 2011, 2030.",
+      " The highest category is found at Nuclear generation with a mean value of 216.5.",
+      " The second highest category is found at Radiation management with a mean value of 168.0.",
+      " This represents a difference of 25.2%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "unknown": "Nuclear generation",
+         "2011": "133",
+         "2030": "300"
+      },
+      {
+         "unknown": "Radiation management",
+         "2011": "69",
+         "2030": "267"
+      },
+      {
+         "unknown": "Nuclear power plant construction",
+         "2011": "31",
+         "2030": "53"
+      },
+      {
+         "unknown": "Service",
+         "2011": "18",
+         "2030": "22"
+      },
+      {
+         "unknown": "Front end of fuel cycle",
+         "2011": "17",
+         "2030": "26"
+      },
+      {
+         "unknown": "Spent nuclear fuel reprocessing and secondary fuel",
+         "2011": "3",
+         "2030": "9"
+      }
+   ]
+}

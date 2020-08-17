@@ -1,0 +1,94 @@
+{
+   "title": "Prime office rental prices in Dublin Q1 2015-Q3 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Cost per square meter in euros",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the rental number of per square meter euros in Dublin 's per from the first Quarter of 2019 to the first Quarter of 2019 . ",
+      "In the fourth Quarter of 2019 , the website 's per amounted to 538 million meter per square meter of euros per square meter ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 '15",
+         "Cost per square meter in euros": "538"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Cost per square meter in euros": "552"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Cost per square meter in euros": "592"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Cost per square meter in euros": "619"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Cost per square meter in euros": "619"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Cost per square meter in euros": "619"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Cost per square meter in euros": "646"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Cost per square meter in euros": "646"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Cost per square meter in euros": "646"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Cost per square meter in euros": "646"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q1 '18 ",
+         "Cost per square meter in euros": "-"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Cost per square meter in euros": "-"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Cost per square meter in euros": "673"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Cost per square meter in euros": "673"
+      }
+   ]
+}

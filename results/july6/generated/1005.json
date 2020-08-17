@@ -1,0 +1,69 @@
+{
+   "title": "Weekly food spending in the United Kingdom ( UK ) 2016 , by age and category",
+   "labels": [
+      "Year",
+      "Groceries",
+      "Takeaways",
+      "Eating out"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Weekly of first spending and business spending United Kingdom UK in the 2016 from 18_-_24_years_old to 55+_years_old . ",
+      "During the survey in 45_-_54_years_old , 55 % of respondents said Groceries billion or Groceries of United Groceries were in first or business spending ."
+   ],
+   "trends": [
+      {
+         "18": [
+            "0",
+            "0"
+         ],
+         "20": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "3",
+            "0"
+         ],
+         "6": [
+            "3",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "18 - 24 years old",
+         "Groceries": "27",
+         "Takeaways": "20",
+         "Eating out": "11"
+      },
+      {
+         "Year": "25 - 34 years old",
+         "Groceries": "38",
+         "Takeaways": "18",
+         "Eating out": "10"
+      },
+      {
+         "Year": "35 - 44 years old",
+         "Groceries": "48",
+         "Takeaways": "17",
+         "Eating out": "10"
+      },
+      {
+         "Year": "45 - 54 years old",
+         "Groceries": "55",
+         "Takeaways": "15",
+         "Eating out": "11"
+      },
+      {
+         "Year": "55+ years old",
+         "Groceries": "54",
+         "Takeaways": "8",
+         "Eating out": "11"
+      }
+   ]
+}

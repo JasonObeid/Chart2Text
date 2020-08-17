@@ -1,0 +1,37 @@
+{
+   "title": "Recovery from an eating disorder in the United Kingdom ( UK ) 2015 , by disorder",
+   "labels": [
+      "Category",
+      "Anorexia nervosa",
+      "Bulimia nervosa"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 3 categories for the x axis of Category representing Anorexia nervosa, and Bulimia nervosa.",
+      " The highest category is found at Full recovery with a mean value of 45.5.",
+      " The second highest category is found at Improvement with a mean value of 30.0.",
+      " This represents a difference of 41.1%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Category": "Full recovery",
+         "Anorexia nervosa": "46",
+         "Bulimia nervosa": "45"
+      },
+      {
+         "Category": "Improvement",
+         "Anorexia nervosa": "33",
+         "Bulimia nervosa": "27"
+      },
+      {
+         "Category": "Chronically ill",
+         "Anorexia nervosa": "20",
+         "Bulimia nervosa": "23"
+      }
+   ]
+}

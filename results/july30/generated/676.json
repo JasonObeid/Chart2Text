@@ -1,0 +1,107 @@
+{
+   "title": "Leading smartphone and tablet activities 2017 , by device",
+   "labels": [
+      "Response",
+      "Tablet",
+      "Smartphone"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 17 categories for the x axis of Response representing Tablet, and Smartphone.",
+      " The highest category is found at E-mail with a mean value of 40.5.",
+      " The second highest category is found at Watching movies/videos online with a mean value of 37.5.",
+      " This represents a difference of 7.7%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Response": "Watching movies/videos online",
+         "Tablet": "23",
+         "Smartphone": "52"
+      },
+      {
+         "Response": "E-mail",
+         "Tablet": "22",
+         "Smartphone": "59"
+      },
+      {
+         "Response": "Using social media sites",
+         "Tablet": "19",
+         "Smartphone": "54"
+      },
+      {
+         "Response": "Reading news",
+         "Tablet": "19",
+         "Smartphone": "48"
+      },
+      {
+         "Response": "Online shopping",
+         "Tablet": "18",
+         "Smartphone": "43"
+      },
+      {
+         "Response": "Downloading software/applications",
+         "Tablet": "16",
+         "Smartphone": "42"
+      },
+      {
+         "Response": "Listening to streaming music/radio",
+         "Tablet": "12",
+         "Smartphone": "38"
+      },
+      {
+         "Response": "Instant messaging/video calling",
+         "Tablet": "12",
+         "Smartphone": "43"
+      },
+      {
+         "Response": "Uploading/sharing content",
+         "Tablet": "11",
+         "Smartphone": "39"
+      },
+      {
+         "Response": "Online banking",
+         "Tablet": "11",
+         "Smartphone": "36"
+      },
+      {
+         "Response": "Online gaming",
+         "Tablet": "11",
+         "Smartphone": "28"
+      },
+      {
+         "Response": "Using online payment systems/wallets",
+         "Tablet": "10",
+         "Smartphone": "30"
+      },
+      {
+         "Response": "Online data storage",
+         "Tablet": "10",
+         "Smartphone": "29"
+      },
+      {
+         "Response": "Visiting adult websites",
+         "Tablet": "6",
+         "Smartphone": "17"
+      },
+      {
+         "Response": "Visiting online dating websites/services or apps",
+         "Tablet": "6",
+         "Smartphone": "18"
+      },
+      {
+         "Response": "Online gambling/betting",
+         "Tablet": "5",
+         "Smartphone": "10"
+      },
+      {
+         "Response": "Trading securities/shares online",
+         "Tablet": "4",
+         "Smartphone": "9"
+      }
+   ]
+}

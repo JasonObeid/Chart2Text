@@ -1,0 +1,74 @@
+{
+   "title": "Share of art buyers who bought art and/or collectibles via the internet 2014 to 2019",
+   "labels": [
+      "Year",
+      "Yes",
+      "No"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the bought of art buyers who from 2014 to 2019 In 2014 , art buyers who accounted for 38 % of all Share art data who . ",
+      "This bought is projected to grow 44 % in 2019 at a CAGR of 60 % . ",
+      "art buyers who includes video streaming , audio streaming , online gaming , social networking , web browsing and online storage ."
+   ],
+   "trends": [
+      {
+         "10": [
+            "5",
+            "0"
+         ],
+         "12": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "5",
+            "0"
+         ],
+         "21": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "10": [
+            "0",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Yes": "44",
+         "No": "56"
+      },
+      {
+         "Year": "2018",
+         "Yes": "43",
+         "No": "57"
+      },
+      {
+         "Year": "2017",
+         "Yes": "49",
+         "No": "51"
+      },
+      {
+         "Year": "2016",
+         "Yes": "49",
+         "No": "51"
+      },
+      {
+         "Year": "2015",
+         "Yes": "49",
+         "No": "51"
+      },
+      {
+         "Year": "2014",
+         "Yes": "38",
+         "No": "62"
+      }
+   ]
+}

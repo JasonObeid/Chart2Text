@@ -1,0 +1,67 @@
+{
+   "title": "Daily mobile app usage in Asia Pacific 2016 , by country",
+   "xAxis": "Country",
+   "yAxis": "Average daily usage time in minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the percentage of usage that speak English as an Additional Language ( mobile ) at daily Asia in China as of 2016 , Country . ",
+      "With over half of its usage as non-native speakers of English , Philippines had the highest percentage of usage with mobile , at the other end of the spectrum , the Vietnam China and the India Thailand remained regions with the highest percentages of native English speaking usage . ",
+      "This also reflects the National Census data for languages ."
+   ],
+   "trends": [
+      {
+         "21": "5"
+      },
+      {
+         "12": "0",
+         "31": "4",
+         "32": "5",
+         "35": "7",
+         "36": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Philippines",
+         "Average daily usage time in minutes": "72"
+      },
+      {
+         "Country": "Indonesia",
+         "Average daily usage time in minutes": "69"
+      },
+      {
+         "Country": "Thailand",
+         "Average daily usage time in minutes": "68"
+      },
+      {
+         "Country": "Malaysia",
+         "Average daily usage time in minutes": "59"
+      },
+      {
+         "Country": "Vietnam",
+         "Average daily usage time in minutes": "51"
+      },
+      {
+         "Country": "China",
+         "Average daily usage time in minutes": "45"
+      },
+      {
+         "Country": "Singapore",
+         "Average daily usage time in minutes": "45"
+      },
+      {
+         "Country": "India",
+         "Average daily usage time in minutes": "44"
+      },
+      {
+         "Country": "South Korea",
+         "Average daily usage time in minutes": "34"
+      },
+      {
+         "Country": "Japan",
+         "Average daily usage time in minutes": "22"
+      }
+   ]
+}

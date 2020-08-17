@@ -1,0 +1,53 @@
+{
+   "title": "General Motors - revenue 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows Motors AR 2019 Revenue worldwide from 2013 to 2019 . ",
+      "Motors revenue 2013 2019 Revenue reached 135.73 billion U.S. dollars in 2015 and is forecast to amount around 149.18 billion U.S. dollars by 2016 ."
+   ],
+   "trends": [
+      {
+         "9": "6",
+         "11": "0"
+      },
+      {
+         "6": "4",
+         "11": "4",
+         "19": "3",
+         "24": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in billion U.S. dollars": "137.2"
+      },
+      {
+         "Year": "2018",
+         "Revenue in billion U.S. dollars": "147.05"
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion U.S. dollars": "145.59"
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion U.S. dollars": "149.18"
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": "135.73"
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": "137.96"
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion U.S. dollars": "138.79"
+      }
+   ]
+}

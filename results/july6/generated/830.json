@@ -1,0 +1,105 @@
+{
+   "title": "Age structure in Denmark 2018",
+   "labels": [
+      "Year",
+      "0-14 years",
+      "15-64 years",
+      "65 years and older"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Age structure in Denmark from 2008 to 2018 . ",
+      "In 2018 , about 16.46 % of Denmark 's total population were aged 0 to 14 years ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "10",
+            "0"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "4": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "0-14 years": "16.46",
+         "15-64 years": "63.73",
+         "65 years and older": "19.81"
+      },
+      {
+         "Year": "2017",
+         "0-14 years": "16.49",
+         "15-64 years": "63.85",
+         "65 years and older": "19.66"
+      },
+      {
+         "Year": "2016",
+         "0-14 years": "16.6",
+         "15-64 years": "63.98",
+         "65 years and older": "19.42"
+      },
+      {
+         "Year": "2015",
+         "0-14 years": "16.84",
+         "15-64 years": "64.11",
+         "65 years and older": "19.05"
+      },
+      {
+         "Year": "2014",
+         "0-14 years": "17.03",
+         "15-64 years": "64.4",
+         "65 years and older": "18.57"
+      },
+      {
+         "Year": "2013",
+         "0-14 years": "17.28",
+         "15-64 years": "64.69",
+         "65 years and older": "18.03"
+      },
+      {
+         "Year": "2012",
+         "0-14 years": "17.57",
+         "15-64 years": "64.94",
+         "65 years and older": "17.49"
+      },
+      {
+         "Year": "2011",
+         "0-14 years": "17.81",
+         "15-64 years": "65.16",
+         "65 years and older": "17.03"
+      },
+      {
+         "Year": "2010",
+         "0-14 years": "17.95",
+         "15-64 years": "65.38",
+         "65 years and older": "16.67"
+      },
+      {
+         "Year": "2009",
+         "0-14 years": "18.16",
+         "15-64 years": "65.54",
+         "65 years and older": "16.3"
+      },
+      {
+         "Year": "2008",
+         "0-14 years": "18.35",
+         "15-64 years": "65.69",
+         "65 years and older": "15.96"
+      }
+   ]
+}

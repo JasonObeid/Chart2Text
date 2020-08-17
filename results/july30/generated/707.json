@@ -1,0 +1,34 @@
+{
+   "title": "Costs of external consequences of cyber attacks on businesses 2018\n",
+   "xAxis": "Category",
+   "yAxis": "Cost in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Category, and a y axis representing Cost in million U.S. dollars.",
+      " The highest category is found at Information_loss where Cost in million U.S. dollars is 5.9.",
+      " The lowest category is found at Revenue_loss where Cost in million U.S. dollars is 0.5."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Category": "Business disruption",
+         "Cost in million U.S. dollars": 4.0
+      },
+      {
+         "Category": "Information loss",
+         "Cost in million U.S. dollars": 5.9
+      },
+      {
+         "Category": "Equipment damages",
+         "Cost in million U.S. dollars": 2.6
+      },
+      {
+         "Category": "Revenue loss",
+         "Cost in million U.S. dollars": 0.5
+      }
+   ]
+}

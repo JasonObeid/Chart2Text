@@ -1,0 +1,43 @@
+{
+   "title": "Average hours spent watching TV weekly in the United Kingdom ( UK ) in 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents with a total of 5 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 5_hours_or_less to I_don't_watch_TV."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 0,
+         "end": 4,
+         "trend": "y=0.01x+15.72",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "5 hours or less",
+         "Share of respondents": 9.0
+      },
+      {
+         "Year": "6 to 10 hours",
+         "Share of respondents": 18.0
+      },
+      {
+         "Year": "11 to 20 hours",
+         "Share of respondents": 31.0
+      },
+      {
+         "Year": "More than 20 hours",
+         "Share of respondents": 39.0
+      },
+      {
+         "Year": "I don't watch TV",
+         "Share of respondents": 2.0
+      }
+   ]
+}

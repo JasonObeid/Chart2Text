@@ -1,0 +1,33 @@
+{
+   "title": "Share of U.S. teenagers who use Snapchat 2018 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "According to a third quarter 2018 survey , 74 % of 13-14 internet users in the U.S. Snapchat used Share . ",
+      "The video platform had a U.S. Share of 63 % among 15-17 use internet users . ",
+      "Overall , 38 % of use Share users accessed the platform several times a day ."
+   ],
+   "trends": [
+      {
+         "8": "1",
+         "11": "0"
+      },
+      {
+         "8": "0",
+         "11": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "13-14",
+         "Share of respondents": "63"
+      },
+      {
+         "Year": "15-17",
+         "Share of respondents": "74"
+      }
+   ]
+}

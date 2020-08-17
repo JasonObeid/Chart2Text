@@ -1,0 +1,62 @@
+{
+   "title": "Latin America : minimum monthly wages in 2019 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Monthly minimum wage in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Country, and a y axis representing Monthly minimum wage in U.S. dollars.",
+      " The highest category is found at Uruguay where Monthly minimum wage in U.S. dollars is 462.3.",
+      " The lowest category is found at Venezuela where Monthly minimum wage in U.S. dollars is 7.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 10
+   },
+   "data": [
+      {
+         "Country": "Uruguay",
+         "Monthly minimum wage in U.S. dollars": 462.3
+      },
+      {
+         "Country": "Chile",
+         "Monthly minimum wage in U.S. dollars": 431.7
+      },
+      {
+         "Country": "Ecuador",
+         "Monthly minimum wage in U.S. dollars": 394.0
+      },
+      {
+         "Country": "Paraguay",
+         "Monthly minimum wage in U.S. dollars": 355.6
+      },
+      {
+         "Country": "Bolivia",
+         "Monthly minimum wage in U.S. dollars": 298.0
+      },
+      {
+         "Country": "Argentina",
+         "Monthly minimum wage in U.S. dollars": 297.9
+      },
+      {
+         "Country": "Peru",
+         "Monthly minimum wage in U.S. dollars": 275.7
+      },
+      {
+         "Country": "Brazil",
+         "Monthly minimum wage in U.S. dollars": 257.3
+      },
+      {
+         "Country": "Colombia",
+         "Monthly minimum wage in U.S. dollars": 254.7
+      },
+      {
+         "Country": "Mexico",
+         "Monthly minimum wage in U.S. dollars": 156.9
+      },
+      {
+         "Country": "Venezuela",
+         "Monthly minimum wage in U.S. dollars": 7.0
+      }
+   ]
+}

@@ -1,0 +1,50 @@
+{
+   "title": "PUBG player share 2017 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Share of players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Country, and a y axis representing Share of players.",
+      " The highest category is found at Other where Share of players is 31.2.",
+      " The lowest category is found at United_Kingdom where Share of players is 4.0."
+   ],
+   "trends": {
+      "maxIndex": 7,
+      "minIndex": 6
+   },
+   "data": [
+      {
+         "Country": "United States",
+         "Share of players": 24.0
+      },
+      {
+         "Country": "China",
+         "Share of players": 19.0
+      },
+      {
+         "Country": "Germany",
+         "Share of players": 6.0
+      },
+      {
+         "Country": "Russia",
+         "Share of players": 6.0
+      },
+      {
+         "Country": "South Korea",
+         "Share of players": 5.5
+      },
+      {
+         "Country": "Japan",
+         "Share of players": 4.3
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of players": 4.0
+      },
+      {
+         "Country": "Other",
+         "Share of players": 31.2
+      }
+   ]
+}

@@ -1,0 +1,29 @@
+{
+   "title": "LinkedIn : distribution of global audiences 2020 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of users",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the distribution of LinkedIn users in the global as of Fall 2020 , sorted by gender . ",
+      "During the survey period , 57 percentage of LinkedIn users were Female and 43 percentage of users were Male ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "11": "0",
+         "13": "0",
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Percentage of users": "43"
+      },
+      {
+         "Sex": "Male",
+         "Percentage of users": "57"
+      }
+   ]
+}

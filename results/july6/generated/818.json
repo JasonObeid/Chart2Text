@@ -1,0 +1,70 @@
+{
+   "title": "Total population of Turkey 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Total population of Turkey from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of Turkey was around 82.0 millions people . ",
+      "See Switzerland 's population figures for comparison ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "10": "6"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "88.03"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "87.05"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "86.06"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "85.05"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "84.04"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "83.02"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "82.0"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "80.81"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "79.82"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "78.74"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "77.7"
+      }
+   ]
+}

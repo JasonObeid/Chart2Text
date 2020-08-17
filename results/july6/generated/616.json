@@ -1,0 +1,484 @@
+{
+   "title": "Market share held by smartphone OS in Australia 2013 - 2019 , by month",
+   "labels": [
+      "Month",
+      "Android",
+      "iOS",
+      "Blackberry",
+      "Windows",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Market share held by the leading operating systems for smartphones in Australia from 2013 to 2019 . ",
+      "In 2019 the Android operating system had a Market share of 60 % in Australia . "
+   ],
+   "trends": [
+      {},
+      {
+         "11": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Month": "Sep '19",
+         "Android": "60",
+         "iOS": "39.6",
+         "Blackberry": "0.1",
+         "Windows": "0.2",
+         "Other": "0.1"
+      },
+      {
+         "Month": "Dec '18",
+         "Android": "56.5",
+         "iOS": "43.1",
+         "Blackberry": "0.1",
+         "Windows": "0.3",
+         "Other": "0"
+      },
+      {
+         "Month": "Jul '17",
+         "Android": "64.7",
+         "iOS": "35",
+         "Blackberry": "0",
+         "Windows": "0.4",
+         "Other": "0"
+      },
+      {
+         "Month": "Jun '17",
+         "Android": "63.9",
+         "iOS": "35.8",
+         "Blackberry": "0",
+         "Windows": "0.3",
+         "Other": "0"
+      },
+      {
+         "Month": "May '17",
+         "Android": "61.5",
+         "iOS": "38.1",
+         "Blackberry": "0.1",
+         "Windows": "0.2",
+         "Other": "0.1"
+      },
+      {
+         "Month": "Apr '17",
+         "Android": "61.1",
+         "iOS": "38.4",
+         "Blackberry": "0.1",
+         "Windows": "0.2",
+         "Other": "0.2"
+      },
+      {
+         "Month": "Mar '17",
+         "Android": "59.8",
+         "iOS": "39.1",
+         "Blackberry": "0.2",
+         "Windows": "0.6",
+         "Other": "0.3"
+      },
+      {
+         "Month": "Feb '17",
+         "Android": "59.5",
+         "iOS": "38.9",
+         "Blackberry": "0.6",
+         "Windows": "0.7",
+         "Other": "0.3"
+      },
+      {
+         "Month": "Jan '17",
+         "Android": "55.7",
+         "iOS": "42.4",
+         "Blackberry": "0.6",
+         "Windows": "1",
+         "Other": "0.2"
+      },
+      {
+         "Month": "Dec '16",
+         "Android": "52.3",
+         "iOS": "44.9",
+         "Blackberry": "0.7",
+         "Windows": "1.9",
+         "Other": "0.2"
+      },
+      {
+         "Month": "Nov '16",
+         "Android": "50.1",
+         "iOS": "46.4",
+         "Blackberry": "1",
+         "Windows": "2.3",
+         "Other": "0.1"
+      },
+      {
+         "Month": "Oct '16",
+         "Android": "55.7",
+         "iOS": "39.3",
+         "Blackberry": "1.8",
+         "Windows": "3",
+         "Other": "0.2"
+      },
+      {
+         "Month": "Sep '16",
+         "Android": "58.2",
+         "iOS": "37.1",
+         "Blackberry": "2.2",
+         "Windows": "2.3",
+         "Other": "0.2"
+      },
+      {
+         "Month": "Aug '16",
+         "Android": "62.8",
+         "iOS": "33",
+         "Blackberry": "1.6",
+         "Windows": "2.4",
+         "Other": "0.3"
+      },
+      {
+         "Month": "Jul '16",
+         "Android": "60.4",
+         "iOS": "35.2",
+         "Blackberry": "0.7",
+         "Windows": "3",
+         "Other": "0.4"
+      },
+      {
+         "Month": "Jun '16",
+         "Android": "61.6",
+         "iOS": "34.7",
+         "Blackberry": "0.3",
+         "Windows": "3",
+         "Other": "0.3"
+      },
+      {
+         "Month": "May '16",
+         "Android": "64.4",
+         "iOS": "32.5",
+         "Blackberry": "0.3",
+         "Windows": "2.6",
+         "Other": "0.3"
+      },
+      {
+         "Month": "Apr '16",
+         "Android": "64",
+         "iOS": "32.7",
+         "Blackberry": "0.3",
+         "Windows": "2.8",
+         "Other": "0.2"
+      },
+      {
+         "Month": "Mar '16",
+         "Android": "60.1",
+         "iOS": "35.3",
+         "Blackberry": "0.3",
+         "Windows": "3.7",
+         "Other": "0.7"
+      },
+      {
+         "Month": "Feb '16",
+         "Android": "55.1",
+         "iOS": "38.2",
+         "Blackberry": "0.2",
+         "Windows": "5.8",
+         "Other": "0.7"
+      },
+      {
+         "Month": "Jan '16",
+         "Android": "52.6",
+         "iOS": "41.2",
+         "Blackberry": "0.2",
+         "Windows": "5.4",
+         "Other": "0.6"
+      },
+      {
+         "Month": "Dec '15",
+         "Android": "53.5",
+         "iOS": "39.6",
+         "Blackberry": "0.3",
+         "Windows": "6.3",
+         "Other": "0.3"
+      },
+      {
+         "Month": "Nov '15",
+         "Android": "53.7",
+         "iOS": "40.5",
+         "Blackberry": "0.5",
+         "Windows": "5.3",
+         "Other": "0"
+      },
+      {
+         "Month": "Oct '15",
+         "Android": "54.9",
+         "iOS": "37.9",
+         "Blackberry": "0.5",
+         "Windows": "6.5",
+         "Other": "0.2"
+      },
+      {
+         "Month": "Sep '15",
+         "Android": "54.5",
+         "iOS": "36.8",
+         "Blackberry": "1.1",
+         "Windows": "7.4",
+         "Other": "0.2"
+      },
+      {
+         "Month": "Aug '15",
+         "Android": "53.1",
+         "iOS": "37.8",
+         "Blackberry": "1.5",
+         "Windows": "7.4",
+         "Other": "0.2"
+      },
+      {
+         "Month": "Jul '15",
+         "Android": "56.1",
+         "iOS": "34.9",
+         "Blackberry": "2",
+         "Windows": "6.9",
+         "Other": "0.1"
+      },
+      {
+         "Month": "Jun '15",
+         "Android": "57.2",
+         "iOS": "34.6",
+         "Blackberry": "1.2",
+         "Windows": "6.3",
+         "Other": "0.3"
+      },
+      {
+         "Month": "May '15",
+         "Android": "56.2",
+         "iOS": "35.9",
+         "Blackberry": "1",
+         "Windows": "6.3",
+         "Other": "0.6"
+      },
+      {
+         "Month": "Apr '15",
+         "Android": "53.8",
+         "iOS": "36.8",
+         "Blackberry": "1.2",
+         "Windows": "7.7",
+         "Other": "0.5"
+      },
+      {
+         "Month": "Mar '15",
+         "Android": "52.3",
+         "iOS": "38.4",
+         "Blackberry": "1.6",
+         "Windows": "7.3",
+         "Other": "0.4"
+      },
+      {
+         "Month": "Feb '15",
+         "Android": "50.6",
+         "iOS": "38.5",
+         "Blackberry": "1.2",
+         "Windows": "9.3",
+         "Other": "0.5"
+      },
+      {
+         "Month": "Jan '15",
+         "Android": "46.9",
+         "iOS": "42.4",
+         "Blackberry": "0",
+         "Windows": "8.7",
+         "Other": "1.9"
+      },
+      {
+         "Month": "Dec '14",
+         "Android": "43.7",
+         "iOS": "45.1",
+         "Blackberry": "0.9",
+         "Windows": "9.2",
+         "Other": "1.1"
+      },
+      {
+         "Month": "Nov '14",
+         "Android": "45",
+         "iOS": "44.9",
+         "Blackberry": "0.9",
+         "Windows": "8",
+         "Other": "1.1"
+      },
+      {
+         "Month": "Oct '14",
+         "Android": "50.8",
+         "iOS": "40.4",
+         "Blackberry": "0.8",
+         "Windows": "7.3",
+         "Other": "0.7"
+      },
+      {
+         "Month": "Sep '14",
+         "Android": "58.1",
+         "iOS": "34.7",
+         "Blackberry": "0.6",
+         "Windows": "6.2",
+         "Other": "0.4"
+      },
+      {
+         "Month": "Aug '14",
+         "Android": "64.3",
+         "iOS": "29.3",
+         "Blackberry": "0.8",
+         "Windows": "5.1",
+         "Other": "0.4"
+      },
+      {
+         "Month": "Jul '14",
+         "Android": "66.5",
+         "iOS": "27",
+         "Blackberry": "0.5",
+         "Windows": "5.7",
+         "Other": "0.4"
+      },
+      {
+         "Month": "Jun '14",
+         "Android": "68",
+         "iOS": "25.5",
+         "Blackberry": "0.5",
+         "Windows": "5.3",
+         "Other": "0.7"
+      },
+      {
+         "Month": "May '14",
+         "Android": "63.7",
+         "iOS": "28",
+         "Blackberry": "0.5",
+         "Windows": "7.2",
+         "Other": "0.6"
+      },
+      {
+         "Month": "Apr '14",
+         "Android": "60.8",
+         "iOS": "30.1",
+         "Blackberry": "0.9",
+         "Windows": "6.7",
+         "Other": "1.5"
+      },
+      {
+         "Month": "Mar '14",
+         "Android": "57.3",
+         "iOS": "33.1",
+         "Blackberry": "1",
+         "Windows": "6.9",
+         "Other": "1.7"
+      },
+      {
+         "Month": "Feb '14",
+         "Android": "58.5",
+         "iOS": "33.9",
+         "Blackberry": "0.7",
+         "Windows": "5",
+         "Other": "1.8"
+      },
+      {
+         "Month": "Jan '14",
+         "Android": "57.7",
+         "iOS": "35.1",
+         "Blackberry": "0.3",
+         "Windows": "5.1",
+         "Other": "1.7"
+      },
+      {
+         "Month": "Dec '13",
+         "Android": "57.5",
+         "iOS": "34.8",
+         "Blackberry": "0.7",
+         "Windows": "5.2",
+         "Other": "1.7"
+      },
+      {
+         "Month": "Nov '13",
+         "Android": "55.1",
+         "iOS": "35",
+         "Blackberry": "1.4",
+         "Windows": "6.9",
+         "Other": "1.5"
+      },
+      {
+         "Month": "Oct '13",
+         "Android": "54.9",
+         "iOS": "35",
+         "Blackberry": "1.6",
+         "Windows": "7.3",
+         "Other": "1.1"
+      },
+      {
+         "Month": "Sep '13",
+         "Android": "55.6",
+         "iOS": "32.6",
+         "Blackberry": "1.3",
+         "Windows": "9.3",
+         "Other": "1.3"
+      },
+      {
+         "Month": "Aug '13",
+         "Android": "63.4",
+         "iOS": "27.1",
+         "Blackberry": "0.4",
+         "Windows": "6.8",
+         "Other": "2.3"
+      },
+      {
+         "Month": "Jul '13",
+         "Android": "63.4",
+         "iOS": "26.9",
+         "Blackberry": "0.4",
+         "Windows": "6.7",
+         "Other": "2.6"
+      },
+      {
+         "Month": "Jun '13",
+         "Android": "64.8",
+         "iOS": "27.4",
+         "Blackberry": "0.3",
+         "Windows": "5.2",
+         "Other": "2.3"
+      },
+      {
+         "Month": "May '13",
+         "Android": "63.3",
+         "iOS": "28.2",
+         "Blackberry": "0.7",
+         "Windows": "5.5",
+         "Other": "2.3"
+      },
+      {
+         "Month": "Apr '13",
+         "Android": "64.1",
+         "iOS": "28.1",
+         "Blackberry": "0.6",
+         "Windows": "5",
+         "Other": "2.2"
+      },
+      {
+         "Month": "Mar '13",
+         "Android": "61.6",
+         "iOS": "31.1",
+         "Blackberry": "0.5",
+         "Windows": "4.1",
+         "Other": "2.7"
+      },
+      {
+         "Month": "Feb '13",
+         "Android": "58.8",
+         "iOS": "34.8",
+         "Blackberry": "0.4",
+         "Windows": "3.5",
+         "Other": "2.5"
+      },
+      {
+         "Month": "Jan '13",
+         "Android": "57.9",
+         "iOS": "36",
+         "Blackberry": "0.5",
+         "Windows": "3.4",
+         "Other": "2.3"
+      }
+   ]
+}

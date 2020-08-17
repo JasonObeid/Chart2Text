@@ -1,0 +1,38 @@
+{
+   "title": "U.S. states with state cyber bullying laws as of November 2018\n",
+   "xAxis": "Category Of Cyber Bullying Law",
+   "yAxis": "State totals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Category Of Cyber Bullying Law, and a y axis representing State totals.",
+      " The highest category is found at School_policy where State totals is 49.0.",
+      " The lowest category is found at Includes_off-campus where State totals is 17.0."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Category Of Cyber Bullying Law": "Includes cyber bullying or online harassment",
+         "State totals": 48.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "Criminal Sanction for cyber bullying or electronic harassment",
+         "State totals": 44.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "School sanction for cyber bullying",
+         "State totals": 45.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "School policy",
+         "State totals": 49.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "Includes off-campus",
+         "State totals": 17.0
+      }
+   ]
+}

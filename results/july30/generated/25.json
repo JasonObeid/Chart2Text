@@ -1,0 +1,80 @@
+{
+   "title": "Sales forecast for eye care product Restasis in U.S. 2014 to 2025\n",
+   "xAxis": "Year",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Sales in million U.S. dollars, with a total of 12 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2014 to 2023.",
+      " In a similar manner, the next significant trend is  negative which exists from 2023 to 2025."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "positive",
+         "start": 0,
+         "end": 9,
+         "trend": "y=143.52x+-287961.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 9,
+         "end": 11,
+         "trend": "y=-341.0x+692149.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Sales in million U.S. dollars": 1084.0
+      },
+      {
+         "Year": "2015",
+         "Sales in million U.S. dollars": 1217.0
+      },
+      {
+         "Year": "2016",
+         "Sales in million U.S. dollars": 1361.0
+      },
+      {
+         "Year": "2017",
+         "Sales in million U.S. dollars": 1524.0
+      },
+      {
+         "Year": "2018",
+         "Sales in million U.S. dollars": 1679.0
+      },
+      {
+         "Year": "2019",
+         "Sales in million U.S. dollars": 1830.0
+      },
+      {
+         "Year": "2020",
+         "Sales in million U.S. dollars": 1975.0
+      },
+      {
+         "Year": "2021",
+         "Sales in million U.S. dollars": 2115.0
+      },
+      {
+         "Year": "2022",
+         "Sales in million U.S. dollars": 2242.0
+      },
+      {
+         "Year": "2023",
+         "Sales in million U.S. dollars": 2332.0
+      },
+      {
+         "Year": "2024",
+         "Sales in million U.S. dollars": 1914.0
+      },
+      {
+         "Year": "2025",
+         "Sales in million U.S. dollars": 1650.0
+      }
+   ]
+}

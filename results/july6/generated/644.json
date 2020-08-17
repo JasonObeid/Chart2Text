@@ -1,0 +1,104 @@
+{
+   "title": "Population of Luxembourg 2009 - 2019 , by gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the Luxembourg of Belgium from 2009 to 2019 , by gender . ",
+      "In 2009 , Belgium had about 249406 million Male inhabitants and 289193 million Female inhabitants . ",
+      "The number increased for both the Male and the Female Luxembourg , to roughly 5.6 Male inhabitants and 5.8 Female inhabitants in 2019 ."
+   ],
+   "trends": [
+      {
+         "8": [
+            "10",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "0"
+         ],
+         "6": [
+            "9",
+            "1"
+         ],
+         "11": [
+            "3",
+            "1"
+         ]
+      },
+      {
+         "22": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Male": "308720",
+         "Female": "305174"
+      },
+      {
+         "Year": "2018",
+         "Male": "302580",
+         "Female": "299425"
+      },
+      {
+         "Year": "2017",
+         "Male": "296641",
+         "Female": "294026"
+      },
+      {
+         "Year": "2016",
+         "Male": "289193",
+         "Female": "287056"
+      },
+      {
+         "Year": "2015",
+         "Male": "281972",
+         "Female": "280986"
+      },
+      {
+         "Year": "2014",
+         "Male": "275117",
+         "Female": "274563"
+      },
+      {
+         "Year": "2013",
+         "Male": "268412",
+         "Female": "268627"
+      },
+      {
+         "Year": "2012",
+         "Male": "261820",
+         "Female": "263033"
+      },
+      {
+         "Year": "2011",
+         "Male": "254619",
+         "Female": "257221"
+      },
+      {
+         "Year": "2010",
+         "Male": "249406",
+         "Female": "252660"
+      },
+      {
+         "Year": "2009",
+         "Male": "244835",
+         "Female": "248665"
+      }
+   ]
+}

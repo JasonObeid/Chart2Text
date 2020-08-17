@@ -1,0 +1,59 @@
+{
+   "title": "U.S. rice exports - top destination country 2017",
+   "xAxis": "Country",
+   "yAxis": "Exports in metric tons",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts the 15 U.S. rice the exports top destination country 2017 in . ",
+      "According to the report , Haiti accounted for 508527 % of 2017 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Mexico",
+         "Exports in metric tons": "894043"
+      },
+      {
+         "Country": "Haiti",
+         "Exports in metric tons": "508527"
+      },
+      {
+         "Country": "Japan",
+         "Exports in metric tons": "302752"
+      },
+      {
+         "Country": "Venezuela",
+         "Exports in metric tons": "240063"
+      },
+      {
+         "Country": "Canada",
+         "Exports in metric tons": "221833"
+      },
+      {
+         "Country": "Costa Rica",
+         "Exports in metric tons": "164114"
+      },
+      {
+         "Country": "Korea South",
+         "Exports in metric tons": "152098"
+      },
+      {
+         "Country": "Jordan",
+         "Exports in metric tons": "146558"
+      },
+      {
+         "Country": "Honduras",
+         "Exports in metric tons": "137420"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Exports in metric tons": "124913"
+      }
+   ]
+}

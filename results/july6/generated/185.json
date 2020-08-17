@@ -1,0 +1,71 @@
+{
+   "title": "Poverty risk rate in Belgium 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "At-risk-of-poverty rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the At-risk-of-poverty of rate in Belgium from 2008 to 2018 . ",
+      "In 2018 , there were 16.4 rate in Belgium . ",
+      "Gambling in Belgium - additional information The At-risk-of-poverty of rate in Belgium increased by more than 2,000 between 2007 and 2017 ."
+   ],
+   "trends": [
+      {
+         "13": "10",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      },
+      {
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "At-risk-of-poverty rate": "16.4"
+      },
+      {
+         "Year": "2017",
+         "At-risk-of-poverty rate": "15.9"
+      },
+      {
+         "Year": "2016",
+         "At-risk-of-poverty rate": "15.5"
+      },
+      {
+         "Year": "2015",
+         "At-risk-of-poverty rate": "14.9"
+      },
+      {
+         "Year": "2014",
+         "At-risk-of-poverty rate": "15.5"
+      },
+      {
+         "Year": "2013",
+         "At-risk-of-poverty rate": "15.1"
+      },
+      {
+         "Year": "2012",
+         "At-risk-of-poverty rate": "15.3"
+      },
+      {
+         "Year": "2011",
+         "At-risk-of-poverty rate": "15.3"
+      },
+      {
+         "Year": "2010",
+         "At-risk-of-poverty rate": "14.6"
+      },
+      {
+         "Year": "2009",
+         "At-risk-of-poverty rate": "14.6"
+      },
+      {
+         "Year": "2008",
+         "At-risk-of-poverty rate": "14.7"
+      }
+   ]
+}

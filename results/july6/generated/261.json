@@ -1,0 +1,107 @@
+{
+   "title": "Number of immigrants in Denmark 2020 , by country of origin",
+   "xAxis": "Country",
+   "yAxis": "Number of immigrants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Number of immigrants to Denmark in 2020 , by top 20 countries of origin . ",
+      "Most of the immigrants came to Denmark from Poland , amounting to 41529 people . ",
+      "The second and third most popular countries of origin were the neighbouring countries , Syria with 35536 people , and Turkey with nearly 33111 thousand people ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "12": "0"
+      },
+      {
+         "14": "1",
+         "16": "1",
+         "20": "2",
+         "23": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Poland",
+         "Number of immigrants": "41529"
+      },
+      {
+         "Country": "Syria",
+         "Number of immigrants": "35536"
+      },
+      {
+         "Country": "Turkey",
+         "Number of immigrants": "33111"
+      },
+      {
+         "Country": "Germany",
+         "Number of immigrants": "30639"
+      },
+      {
+         "Country": "Romania",
+         "Number of immigrants": "29443"
+      },
+      {
+         "Country": "Iraq",
+         "Number of immigrants": "21840"
+      },
+      {
+         "Country": "Iran",
+         "Number of immigrants": "17195"
+      },
+      {
+         "Country": "Bosnia and Herzegovina",
+         "Number of immigrants": "16755"
+      },
+      {
+         "Country": "Norway",
+         "Number of immigrants": "15670"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of immigrants": "15510"
+      },
+      {
+         "Country": "Pakistan",
+         "Number of immigrants": "14471"
+      },
+      {
+         "Country": "Sweden",
+         "Number of immigrants": "14387"
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of immigrants": "13864"
+      },
+      {
+         "Country": "Lithuania",
+         "Number of immigrants": "13233"
+      },
+      {
+         "Country": "Lebanon",
+         "Number of immigrants": "12990"
+      },
+      {
+         "Country": "India",
+         "Number of immigrants": "12764"
+      },
+      {
+         "Country": "China",
+         "Number of immigrants": "12452"
+      },
+      {
+         "Country": "Ukraine",
+         "Number of immigrants": "12054"
+      },
+      {
+         "Country": "Thailand",
+         "Number of immigrants": "11915"
+      },
+      {
+         "Country": "Somalia",
+         "Number of immigrants": "11282"
+      }
+   ]
+}

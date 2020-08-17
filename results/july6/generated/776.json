@@ -1,0 +1,67 @@
+{
+   "title": "Growth of the gross domestic product of Iran 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the GDP of growth to the product Iran 2024 ( growth ) in Iran from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the growth in Iran amounted to about -9.46 % of the country 's product Iran 2024 ."
+   ],
+   "trends": [
+      {
+         "19": "10",
+         "21": "6",
+         "27": "0"
+      },
+      {
+         "1": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth": "1.09"
+      },
+      {
+         "Year": "2023",
+         "GDP growth": "0.98"
+      },
+      {
+         "Year": "2022",
+         "GDP growth": "0.98"
+      },
+      {
+         "Year": "2021",
+         "GDP growth": "0.99"
+      },
+      {
+         "Year": "2020",
+         "GDP growth": "0.05"
+      },
+      {
+         "Year": "2019",
+         "GDP growth": "-9.46"
+      },
+      {
+         "Year": "2018",
+         "GDP growth": "-4.85"
+      },
+      {
+         "Year": "2017",
+         "GDP growth": "3.73"
+      },
+      {
+         "Year": "2016",
+         "GDP growth": "12.52"
+      },
+      {
+         "Year": "2015",
+         "GDP growth": "-1.59"
+      },
+      {
+         "Year": "2014",
+         "GDP growth": "3.22"
+      }
+   ]
+}

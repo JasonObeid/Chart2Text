@@ -1,0 +1,42 @@
+{
+   "title": "Deaths per day in West African countries with 2014 Ebola outbreak by disease\n",
+   "xAxis": "Diseases",
+   "yAxis": "Number of deaths per day",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Diseases, and a y axis representing Number of deaths per day.",
+      " The highest category is found at HIV/AIDS where Number of deaths per day is 685.0.",
+      " The lowest category is found at Ebola where Number of deaths per day is 4.0."
+   ],
+   "trends": {
+      "maxIndex": 5,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Diseases": "Ebola",
+         "Number of deaths per day": 4.0
+      },
+      {
+         "Diseases": "Lassa fever",
+         "Number of deaths per day": 14.0
+      },
+      {
+         "Diseases": "Tuberculosis",
+         "Number of deaths per day": 110.0
+      },
+      {
+         "Diseases": "Diarrhoea",
+         "Number of deaths per day": 404.0
+      },
+      {
+         "Diseases": "Malaria",
+         "Number of deaths per day": 552.0
+      },
+      {
+         "Diseases": "HIV/AIDS",
+         "Number of deaths per day": 685.0
+      }
+   ]
+}

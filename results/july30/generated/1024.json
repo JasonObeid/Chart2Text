@@ -1,0 +1,106 @@
+{
+   "title": "Average daily television viewing time in France 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Time in hours and minutes (hh.mm)",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Time in hours and minutes (hh.mm), with a total of 14 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2012 to 2008.",
+      " On the other hand, the next significant trend is  positive which exists from 2018 to 2015.",
+      " Likewise, the next significant trend is  positive which exists from 2014 to 2012.",
+      " Likewise, the next significant trend is  negative which exists from 2007 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 6,
+         "end": 10,
+         "trend": "y=0.07x+-145.38",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-0.03x+53.83",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-0.04x+94.04",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 11,
+         "end": 13,
+         "trend": "y=0.01x+-6.77",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Time in hours and minutes (hh.mm)": 3.36
+      },
+      {
+         "Year": "2017",
+         "Time in hours and minutes (hh.mm)": 3.42
+      },
+      {
+         "Year": "2016",
+         "Time in hours and minutes (hh.mm)": 3.43
+      },
+      {
+         "Year": "2015",
+         "Time in hours and minutes (hh.mm)": 3.44
+      },
+      {
+         "Year": "2014",
+         "Time in hours and minutes (hh.mm)": 3.41
+      },
+      {
+         "Year": "2013",
+         "Time in hours and minutes (hh.mm)": 3.46
+      },
+      {
+         "Year": "2012",
+         "Time in hours and minutes (hh.mm)": 3.5
+      },
+      {
+         "Year": "2011",
+         "Time in hours and minutes (hh.mm)": 3.47
+      },
+      {
+         "Year": "2010",
+         "Time in hours and minutes (hh.mm)": 3.32
+      },
+      {
+         "Year": "2009",
+         "Time in hours and minutes (hh.mm)": 3.25
+      },
+      {
+         "Year": "2008",
+         "Time in hours and minutes (hh.mm)": 3.24
+      },
+      {
+         "Year": "2007",
+         "Time in hours and minutes (hh.mm)": 3.27
+      },
+      {
+         "Year": "2006",
+         "Time in hours and minutes (hh.mm)": 3.24
+      },
+      {
+         "Year": "2005",
+         "Time in hours and minutes (hh.mm)": 3.26
+      }
+   ]
+}

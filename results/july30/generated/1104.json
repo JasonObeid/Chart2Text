@@ -1,0 +1,103 @@
+{
+   "title": "Manchester United total revenue 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is  negative which exists from 2019 to 2015.",
+      " On the contrary, the next significant trend is  negative which exists from 2014 to 2012.",
+      " On the contrary, the next significant trend is  negative which exists from 2011 to 2009.",
+      " Conversely, the next significant trend is  positive which exists from 2015 to 2014.",
+      " Also, the next significant trend is  positive which exists from 2012 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=65.15x+-130700.7",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 5,
+         "end": 7,
+         "trend": "y=74.23x+-148925.38",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=34.82x+-69605.31",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 4,
+         "end": 5,
+         "trend": "y=-49.97x+101209.3",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 7,
+         "end": 8,
+         "trend": "y=-14.62x+29836.71",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": 796.4
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 775.96
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 764.36
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 677.76
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 519.75
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 569.72
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 477.65
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 421.27
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 435.89
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 376.68
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 366.24
+      }
+   ]
+}

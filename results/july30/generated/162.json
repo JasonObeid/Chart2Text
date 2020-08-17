@@ -1,0 +1,105 @@
+{
+   "title": "Reasons for watching reality TV in the U.S. 2017 , by age",
+   "labels": [
+      "Race",
+      "18-24",
+      "25-34",
+      "35-44",
+      "45-54",
+      "55+"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 10 categories for the x axis of Race representing 18-24, 25-34, 35-44, 45-54, and 55+.",
+      " The highest category is found at None of these with a mean value of 41.4.",
+      " The second highest category is found at I like the drama with a mean value of 20.0.",
+      " This represents a difference of 69.7%."
+   ],
+   "trends": {
+      "maxIndex": 8,
+      "secondIndex": 8
+   },
+   "data": [
+      {
+         "Race": "I like the drama",
+         "18-24": "28",
+         "25-34": "26",
+         "35-44": "18",
+         "45-54": "17",
+         "55+": "11"
+      },
+      {
+         "Race": "It's mindless",
+         "18-24": "17",
+         "25-34": "19",
+         "35-44": "14",
+         "45-54": "12",
+         "55+": "8"
+      },
+      {
+         "Race": "It's good background noise",
+         "18-24": "17",
+         "25-34": "13",
+         "35-44": "12",
+         "45-54": "10",
+         "55+": "8"
+      },
+      {
+         "Race": "It helps me forget about real issues in my life/in the world",
+         "18-24": "13",
+         "25-34": "17",
+         "35-44": "14",
+         "45-54": "12",
+         "55+": "11"
+      },
+      {
+         "Race": "I'm invested",
+         "18-24": "12",
+         "25-34": "10",
+         "35-44": "6",
+         "45-54": "4",
+         "55+": "2"
+      },
+      {
+         "Race": "It helps me stay informed about popular culture",
+         "18-24": "11",
+         "25-34": "14",
+         "35-44": "11",
+         "45-54": "8",
+         "55+": "9"
+      },
+      {
+         "Race": "To connect with likeminded viewers",
+         "18-24": "7",
+         "25-34": "5",
+         "35-44": "7",
+         "45-54": "3",
+         "55+": "2"
+      },
+      {
+         "Race": "Other",
+         "18-24": "6",
+         "25-34": "6",
+         "35-44": "4",
+         "45-54": "8",
+         "55+": "7"
+      },
+      {
+         "Race": "None of these",
+         "18-24": "24",
+         "25-34": "34",
+         "35-44": "42",
+         "45-54": "48",
+         "55+": "59"
+      },
+      {
+         "Race": "Don't know",
+         "18-24": "8",
+         "25-34": "5",
+         "35-44": "5",
+         "45-54": "7",
+         "55+": "4"
+      }
+   ]
+}

@@ -1,0 +1,89 @@
+{
+   "title": "Maple syrup production in Canada 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Production in million gallons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in million gallons, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2017 to 2015.",
+      " On the other hand, the next significant trend is  positive which exists from 2015 to 2013.",
+      " In a similar manner, the next significant trend is  positive which exists from 2010 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=1.8x+-3617.61",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-0.57x+1157.46",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=1.07x+-2142.47",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in million gallons": 13.2
+      },
+      {
+         "Year": "2018",
+         "Production in million gallons": 9.8
+      },
+      {
+         "Year": "2017",
+         "Production in million gallons": 12.51
+      },
+      {
+         "Year": "2016",
+         "Production in million gallons": 12.16
+      },
+      {
+         "Year": "2015",
+         "Production in million gallons": 8.91
+      },
+      {
+         "Year": "2014",
+         "Production in million gallons": 9.49
+      },
+      {
+         "Year": "2013",
+         "Production in million gallons": 10.05
+      },
+      {
+         "Year": "2012",
+         "Production in million gallons": 7.86
+      },
+      {
+         "Year": "2011",
+         "Production in million gallons": 8.55
+      },
+      {
+         "Year": "2010",
+         "Production in million gallons": 7.27
+      },
+      {
+         "Year": "2009",
+         "Production in million gallons": 9.08
+      },
+      {
+         "Year": "2008",
+         "Production in million gallons": 5.13
+      }
+   ]
+}

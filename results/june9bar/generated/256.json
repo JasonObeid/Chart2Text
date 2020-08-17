@@ -1,0 +1,223 @@
+{
+   "title": "Homicide - number of murders by U.S. state in 2018",
+   "xAxis": "State",
+   "yAxis": "Number of murder victims",
+   "graphType": "bar",
+   "summary": [
+      "This graph displays the Homicide number of murders in the by in 2018 , state . ",
+      "In 2018 , around 1322 % of murder victims were produced in Florida ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "12": "2"
+      }
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Number of murder victims": "1739"
+      },
+      {
+         "State": "Texas",
+         "Number of murder victims": "1322"
+      },
+      {
+         "State": "Florida",
+         "Number of murder victims": "1107"
+      },
+      {
+         "State": "Illinois",
+         "Number of murder victims": "884"
+      },
+      {
+         "State": "Pennsylvania",
+         "Number of murder victims": "784"
+      },
+      {
+         "State": "Georgia",
+         "Number of murder victims": "642"
+      },
+      {
+         "State": "North Carolina",
+         "Number of murder victims": "628"
+      },
+      {
+         "State": "Missouri",
+         "Number of murder victims": "607"
+      },
+      {
+         "State": "Ohio",
+         "Number of murder victims": "564"
+      },
+      {
+         "State": "New York",
+         "Number of murder victims": "562"
+      },
+      {
+         "State": "Michigan",
+         "Number of murder victims": "551"
+      },
+      {
+         "State": "Louisiana",
+         "Number of murder victims": "530"
+      },
+      {
+         "State": "Tennessee",
+         "Number of murder victims": "498"
+      },
+      {
+         "State": "Maryland",
+         "Number of murder victims": "490"
+      },
+      {
+         "State": "Indiana",
+         "Number of murder victims": "438"
+      },
+      {
+         "State": "South Carolina",
+         "Number of murder victims": "392"
+      },
+      {
+         "State": "Virginia",
+         "Number of murder victims": "391"
+      },
+      {
+         "State": "Alabama",
+         "Number of murder victims": "383"
+      },
+      {
+         "State": "Arizona",
+         "Number of murder victims": "369"
+      },
+      {
+         "State": "New Jersey",
+         "Number of murder victims": "286"
+      },
+      {
+         "State": "Kentucky",
+         "Number of murder victims": "244"
+      },
+      {
+         "State": "Washington",
+         "Number of murder victims": "236"
+      },
+      {
+         "State": "Arkansas",
+         "Number of murder victims": "216"
+      },
+      {
+         "State": "Colorado",
+         "Number of murder victims": "210"
+      },
+      {
+         "State": "Oklahoma",
+         "Number of murder victims": "206"
+      },
+      {
+         "State": "Nevada",
+         "Number of murder victims": "202"
+      },
+      {
+         "State": "Wisconsin",
+         "Number of murder victims": "176"
+      },
+      {
+         "State": "Mississippi",
+         "Number of murder victims": "171"
+      },
+      {
+         "State": "New Mexico",
+         "Number of murder victims": "167"
+      },
+      {
+         "State": "District of Columbia",
+         "Number of murder victims": "160"
+      },
+      {
+         "State": "Massachusetts",
+         "Number of murder victims": "136"
+      },
+      {
+         "State": "Kansas",
+         "Number of murder victims": "113"
+      },
+      {
+         "State": "Minnesota",
+         "Number of murder victims": "106"
+      },
+      {
+         "State": "Connecticut",
+         "Number of murder victims": "83"
+      },
+      {
+         "State": "Oregon",
+         "Number of murder victims": "82"
+      },
+      {
+         "State": "West Virginia",
+         "Number of murder victims": "67"
+      },
+      {
+         "State": "Utah",
+         "Number of murder victims": "60"
+      },
+      {
+         "State": "Iowa",
+         "Number of murder victims": "54"
+      },
+      {
+         "State": "Delaware",
+         "Number of murder victims": "48"
+      },
+      {
+         "State": "Alaska",
+         "Number of murder victims": "47"
+      },
+      {
+         "State": "Nebraska",
+         "Number of murder victims": "44"
+      },
+      {
+         "State": "Hawaii",
+         "Number of murder victims": "36"
+      },
+      {
+         "State": "Idaho",
+         "Number of murder victims": "35"
+      },
+      {
+         "State": "Montana",
+         "Number of murder victims": "34"
+      },
+      {
+         "State": "Maine",
+         "Number of murder victims": "24"
+      },
+      {
+         "State": "New Hampshire",
+         "Number of murder victims": "21"
+      },
+      {
+         "State": "North Dakota",
+         "Number of murder victims": "18"
+      },
+      {
+         "State": "Rhode Island",
+         "Number of murder victims": "16"
+      },
+      {
+         "State": "Wyoming",
+         "Number of murder victims": "13"
+      },
+      {
+         "State": "South Dakota",
+         "Number of murder victims": "12"
+      },
+      {
+         "State": "Vermont",
+         "Number of murder victims": "10"
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Leading motor vehicle manufacturers worldwide - production 2017",
+   "xAxis": "Manufacturer",
+   "yAxis": "Production in thousand units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the leading 15 Manufacturer models according to the Auto Express Driver Power 2017 survey responses manufacturers on Manufacturer worldwide production . ",
+      "The survey was carried thousand by the British automotive magazine online between 2014 and 2015 . ",
+      "Toyota dominated this category securing the top three spots with the Toyota , Volkswagen and Hyundai models as well having three other models in the top 15 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "0",
+         "11": "0",
+         "13": "1",
+         "16": "1",
+         "17": "2"
+      }
+   ],
+   "data": [
+      {
+         "Manufacturer": "Toyota",
+         "Production in thousand units": "10466"
+      },
+      {
+         "Manufacturer": "Volkswagen",
+         "Production in thousand units": "10382"
+      },
+      {
+         "Manufacturer": "Hyundai",
+         "Production in thousand units": "7218"
+      },
+      {
+         "Manufacturer": "GM",
+         "Production in thousand units": "6857"
+      },
+      {
+         "Manufacturer": "Ford",
+         "Production in thousand units": "6387"
+      },
+      {
+         "Manufacturer": "Nissan",
+         "Production in thousand units": "5769"
+      },
+      {
+         "Manufacturer": "Honda",
+         "Production in thousand units": "5237"
+      },
+      {
+         "Manufacturer": "Fiat",
+         "Production in thousand units": "4601"
+      },
+      {
+         "Manufacturer": "Renault",
+         "Production in thousand units": "4154"
+      },
+      {
+         "Manufacturer": "PSA",
+         "Production in thousand units": "3650"
+      },
+      {
+         "Manufacturer": "Suzuki",
+         "Production in thousand units": "3302"
+      },
+      {
+         "Manufacturer": "SAIC",
+         "Production in thousand units": "2867"
+      },
+      {
+         "Manufacturer": "Daimler",
+         "Production in thousand units": "2549"
+      },
+      {
+         "Manufacturer": "BMW",
+         "Production in thousand units": "2506"
+      },
+      {
+         "Manufacturer": "Geely",
+         "Production in thousand units": "1950"
+      }
+   ]
+}

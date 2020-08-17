@@ -1,0 +1,53 @@
+{
+   "title": "Number of Overwatch players worldwide 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of players in millions",
+   "graphType": "bar",
+   "summary": [
+      "Overwatch is a free-to-play online collectible card game which reached a milestone 40 millions players 2018 in October_2016 May_2016 , thereby doubling the Number of players since August_2016 . ",
+      "The game originally bore the subtitle `` Overwatch of '' as it is based in the same universe as Blizzard 's extremely popular Overwatch series . ",
+      "Overwatch still going strong after 30 years Overwatch is seen as one of the jewels in the crown of Blizzard Entertainment ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "17": "4",
+         "18": "6",
+         "27": "5"
+      },
+      {},
+      {
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "May 2018",
+         "Number of players in millions": "40"
+      },
+      {
+         "Month": "October 2017",
+         "Number of players in millions": "35"
+      },
+      {
+         "Month": "April 2017",
+         "Number of players in millions": "30"
+      },
+      {
+         "Month": "January 2017",
+         "Number of players in millions": "25"
+      },
+      {
+         "Month": "October 2016",
+         "Number of players in millions": "20"
+      },
+      {
+         "Month": "August 2016",
+         "Number of players in millions": "15"
+      },
+      {
+         "Month": "May 2016",
+         "Number of players in millions": "7"
+      }
+   ]
+}

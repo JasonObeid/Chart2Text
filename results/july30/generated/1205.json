@@ -1,0 +1,58 @@
+{
+   "title": "FIFA World Cup : players with most matches 1930 to 2018\n",
+   "xAxis": "Player",
+   "yAxis": "Number of appearances",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Player, and a y axis representing Number of appearances.",
+      " The highest category is found at Lothar_Matth\u00e4us_(Germany) where Number of appearances is 25.0.",
+      " The lowest category is found at Cafu_(Brazil) where Number of appearances is 20.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 6
+   },
+   "data": [
+      {
+         "Player": "Lothar Matth\u00e4us (Germany)",
+         "Number of appearances": 25.0
+      },
+      {
+         "Player": "Miroslav Klose (Germany)",
+         "Number of appearances": 24.0
+      },
+      {
+         "Player": "Paolo Maldini (Italy)",
+         "Number of appearances": 23.0
+      },
+      {
+         "Player": "Uwe Seeler (Germany)",
+         "Number of appearances": 21.0
+      },
+      {
+         "Player": "Diege Maradona (Argentina)",
+         "Number of appearances": 21.0
+      },
+      {
+         "Player": "W\u0142adys\u0142aw \u017bmuda (Poland)",
+         "Number of appearances": 21.0
+      },
+      {
+         "Player": "Cafu (Brazil)",
+         "Number of appearances": 20.0
+      },
+      {
+         "Player": "Bastian Schweinsteiger (Germany)",
+         "Number of appearances": 20.0
+      },
+      {
+         "Player": "Philipp Lahm (Germany)",
+         "Number of appearances": 20.0
+      },
+      {
+         "Player": "Grzegorz Lato (Poland)",
+         "Number of appearances": 20.0
+      }
+   ]
+}

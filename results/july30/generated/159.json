@@ -1,0 +1,34 @@
+{
+   "title": "Consumer preference : fiction versus non-fiction books in England 2013\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Mixture_of_both where Share of respondents is 44.0.",
+      " The lowest category is found at Neither where Share of respondents is 8.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Response": "Mixture of both",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Fiction",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Non-fiction",
+         "Share of respondents": 22.0
+      },
+      {
+         "Response": "Neither",
+         "Share of respondents": 8.0
+      }
+   ]
+}

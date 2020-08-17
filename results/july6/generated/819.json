@@ -1,0 +1,81 @@
+{
+   "title": "Canoes - number of units sold in the U.S. 2013",
+   "xAxis": "Year",
+   "yAxis": "Canoes sold",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Canoes of number sold , and U.S. in the 2013 from 2000 to 2013 . ",
+      "In 2013 , 111800 people worked either part-time or full-time as number U.S. , sold or . ",
+      "Included are solo sold without employees working part-time or full-time in their artistic trade ."
+   ],
+   "trends": [
+      {
+         "16": "13",
+         "18": "0"
+      },
+      {
+         "1": "0",
+         "3": "13"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Canoes sold": "74100"
+      },
+      {
+         "Year": "2012",
+         "Canoes sold": "78600"
+      },
+      {
+         "Year": "2011",
+         "Canoes sold": "77800"
+      },
+      {
+         "Year": "2010",
+         "Canoes sold": "77100"
+      },
+      {
+         "Year": "2009",
+         "Canoes sold": "89600"
+      },
+      {
+         "Year": "2008",
+         "Canoes sold": "73700"
+      },
+      {
+         "Year": "2007",
+         "Canoes sold": "99600"
+      },
+      {
+         "Year": "2006",
+         "Canoes sold": "99900"
+      },
+      {
+         "Year": "2005",
+         "Canoes sold": "77200"
+      },
+      {
+         "Year": "2004",
+         "Canoes sold": "93900"
+      },
+      {
+         "Year": "2003",
+         "Canoes sold": "86700"
+      },
+      {
+         "Year": "2002",
+         "Canoes sold": "100000"
+      },
+      {
+         "Year": "2001",
+         "Canoes sold": "105800"
+      },
+      {
+         "Year": "2000",
+         "Canoes sold": "111800"
+      }
+   ]
+}

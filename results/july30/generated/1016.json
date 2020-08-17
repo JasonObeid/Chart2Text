@@ -1,0 +1,68 @@
+{
+   "title": "Attendance at Cineplex cinemas 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Attendance in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Attendance in millions, with a total of 9 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2015 to 2010.",
+      " On the other hand, the next significant trend is  positive which exists from 2018 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 3,
+         "end": 8,
+         "trend": "y=2.11x+-4183.73",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-2.74x+5596.01",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Attendance in millions": 69.27
+      },
+      {
+         "Year": "2017",
+         "Attendance in millions": 70.4
+      },
+      {
+         "Year": "2016",
+         "Attendance in millions": 74.6
+      },
+      {
+         "Year": "2015",
+         "Attendance in millions": 77.0
+      },
+      {
+         "Year": "2014",
+         "Attendance in millions": 73.6
+      },
+      {
+         "Year": "2013",
+         "Attendance in millions": 72.7
+      },
+      {
+         "Year": "2012",
+         "Attendance in millions": 71.2
+      },
+      {
+         "Year": "2011",
+         "Attendance in millions": 66.1
+      },
+      {
+         "Year": "2010",
+         "Attendance in millions": 67.0
+      }
+   ]
+}

@@ -1,0 +1,70 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in New Zealand 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , the growth in real Gross domestic product ( GDP ) in New Zealand was up 5.1 % from the Year before , continuing a trend of positive growth in GDP . ",
+      "It is projected that New Zealand 's real GDP will grow through 2024 , though at a declining rate to around 2.49 % . ",
+      "In 2018 , New Zealand 's GDP reached over 586 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "1": "6"
+      },
+      {
+         "11": "0",
+         "20": "0"
+      },
+      {
+         "1": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": "2.49"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "2.46"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "2.6"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "2.62"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "2.7"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "2.51"
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": "2.81"
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": "2.62"
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": "4.18"
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": "4"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "3.13"
+      }
+   ]
+}

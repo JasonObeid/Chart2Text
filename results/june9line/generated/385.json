@@ -1,0 +1,75 @@
+{
+   "title": "LVMH Group 's R & D expenditure worldwide 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "R&D expenditure in million euros",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the R&D of the world & D vessel fleet from 2008 through 2019 . ",
+      "In 2019 , the world & D ship fleet had a R&D of around 140 million metric tons deadweight . ",
+      "The R&D of the world 's & D fleet increased marginally by 0.07 million between 2018 and 2008 according to the source ."
+   ],
+   "trends": [
+      {
+         "13": "11",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      },
+      {
+         "15": "1",
+         "17": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "R&D expenditure in million euros": "140"
+      },
+      {
+         "Year": "2018",
+         "R&D expenditure in million euros": "130"
+      },
+      {
+         "Year": "2017",
+         "R&D expenditure in million euros": "130"
+      },
+      {
+         "Year": "2016",
+         "R&D expenditure in million euros": "111"
+      },
+      {
+         "Year": "2015",
+         "R&D expenditure in million euros": "97"
+      },
+      {
+         "Year": "2014",
+         "R&D expenditure in million euros": "79"
+      },
+      {
+         "Year": "2013",
+         "R&D expenditure in million euros": "71"
+      },
+      {
+         "Year": "2012",
+         "R&D expenditure in million euros": "68"
+      },
+      {
+         "Year": "2011",
+         "R&D expenditure in million euros": "63"
+      },
+      {
+         "Year": "2010",
+         "R&D expenditure in million euros": "46"
+      },
+      {
+         "Year": "2009",
+         "R&D expenditure in million euros": "45"
+      },
+      {
+         "Year": "2008",
+         "R&D expenditure in million euros": "43"
+      }
+   ]
+}

@@ -1,0 +1,112 @@
+{
+   "title": "EU car sales : share of diesel engines 2013 - 2017 , by brand",
+   "labels": [
+      "unknown",
+      "2013",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 18 categories for the x axis of unknown representing 2013, 2017.",
+      " The highest category is found at Volvo with a mean value of 83.0.",
+      " The second highest category is found at BMW with a mean value of 74.5.",
+      " This represents a difference of 10.8%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "unknown": "Volvo",
+         "2013": "87",
+         "2017": "79"
+      },
+      {
+         "unknown": "BMW",
+         "2013": "81",
+         "2017": "68"
+      },
+      {
+         "unknown": "Mercedes",
+         "2013": "71",
+         "2017": "68"
+      },
+      {
+         "unknown": "Audi",
+         "2013": "75",
+         "2017": "59"
+      },
+      {
+         "unknown": "Renault",
+         "2013": "60",
+         "2017": "49"
+      },
+      {
+         "unknown": "Peugeot",
+         "2013": "61",
+         "2017": "49"
+      },
+      {
+         "unknown": "Nissan",
+         "2013": "51",
+         "2017": "47"
+      },
+      {
+         "unknown": "Volkswagen",
+         "2013": "56",
+         "2017": "47"
+      },
+      {
+         "unknown": "Ford",
+         "2013": "45",
+         "2017": "44"
+      },
+      {
+         "unknown": "Citroen",
+         "2013": "64",
+         "2017": "43"
+      },
+      {
+         "unknown": "Skoda",
+         "2013": "46",
+         "2017": "41"
+      },
+      {
+         "unknown": "Dacia",
+         "2013": "52",
+         "2017": "39"
+      },
+      {
+         "unknown": "Kia",
+         "2013": "45",
+         "2017": "39"
+      },
+      {
+         "unknown": "Fiat",
+         "2013": "31",
+         "2017": "36"
+      },
+      {
+         "unknown": "Hyundai",
+         "2013": "39",
+         "2017": "32"
+      },
+      {
+         "unknown": "Opel",
+         "2013": "41",
+         "2017": "30"
+      },
+      {
+         "unknown": "Seat",
+         "2013": "44",
+         "2017": "29"
+      },
+      {
+         "unknown": "Toyota",
+         "2013": "26",
+         "2017": "8"
+      }
+   ]
+}

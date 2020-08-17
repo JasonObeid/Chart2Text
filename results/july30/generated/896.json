@@ -1,0 +1,107 @@
+{
+   "title": "Youth unemployment rate in Egypt in 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate with a total of 21 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 2019 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 0,
+         "end": 4,
+         "trend": "y=-0.62x+1279.89",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": 32.43
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": 32.6
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": 32.95
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": 34.28
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": 34.68
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": 32.65
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": 34.37
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": 34.54
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": 29.44
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": 24.43
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": 25.44
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": 25.77
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": 25.04
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": 30.23
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": 31.18
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": 28.32
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": 29.15
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": 26.23
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": 27.49
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": 24.38
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": 20.13
+      }
+   ]
+}

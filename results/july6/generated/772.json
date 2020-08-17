@@ -1,0 +1,63 @@
+{
+   "title": "Average ticket price Brooklyn Nets ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average ticket price for Brooklyn Nets games of the National Basketball Association from 2006/07 to 2015/16 . ",
+      "In the 2006/07 season , the Average ticket price was 66.15 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": "66.15"
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": "66.15"
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": "60.5"
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": "55.89"
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": "37.06"
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": "40.5"
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": "44.51"
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": "54.98"
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": "60.98"
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": "60.98"
+      }
+   ]
+}

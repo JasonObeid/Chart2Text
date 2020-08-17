@@ -1,0 +1,55 @@
+{
+   "title": "Travel and tourism 's total contribution to GDP in Germany 2012 to 2028",
+   "xAxis": "Year",
+   "yAxis": "Value in billion euros",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the total contribution of Travel and tourism to GDP in Germany from 2012 to 2018 , with a forecast for 2028 . ",
+      "Over this period , the contribution of the Travel and tourism industry to GDP in Germany has increased , reaching 348.1 billion euros in 2017 ."
+   ],
+   "trends": [
+      {
+         "15": "7",
+         "17": "1",
+         "23": "0"
+      },
+      {
+         "20": "2",
+         "24": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2028",
+         "Value in billion euros": "411.0"
+      },
+      {
+         "Year": "2018",
+         "Value in billion euros": "358.3"
+      },
+      {
+         "Year": "2017",
+         "Value in billion euros": "348.1"
+      },
+      {
+         "Year": "2016",
+         "Value in billion euros": "342.2"
+      },
+      {
+         "Year": "2015",
+         "Value in billion euros": "336.2"
+      },
+      {
+         "Year": "2014",
+         "Value in billion euros": "325.7"
+      },
+      {
+         "Year": "2013",
+         "Value in billion euros": "315.9"
+      },
+      {
+         "Year": "2012",
+         "Value in billion euros": "318.0"
+      }
+   ]
+}

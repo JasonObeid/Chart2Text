@@ -1,0 +1,83 @@
+{
+   "title": "Number of M & A deals in Europe 2014 to 2015",
+   "xAxis": "Month",
+   "yAxis": "Number of deals",
+   "graphType": "bar",
+   "summary": [
+      "The statistic presents the Number of Number M A & in the Europe as of 2014 . ",
+      "As of that Month , the mobile messenger had an overall Number of 1253 million deals , up from 1097 million deals in the country ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "11",
+         "19": "4"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jun 15",
+         "Number of deals": "1222"
+      },
+      {
+         "Month": "May 15",
+         "Number of deals": "1030"
+      },
+      {
+         "Month": "Apr 15",
+         "Number of deals": "1107"
+      },
+      {
+         "Month": "Mar 15",
+         "Number of deals": "1166"
+      },
+      {
+         "Month": "Feb 15",
+         "Number of deals": "1097"
+      },
+      {
+         "Month": "Jan 15",
+         "Number of deals": "1076"
+      },
+      {
+         "Month": "Dec 14",
+         "Number of deals": "1235"
+      },
+      {
+         "Month": "Nov 14",
+         "Number of deals": "1152"
+      },
+      {
+         "Month": "Oct 14",
+         "Number of deals": "1167"
+      },
+      {
+         "Month": "Sep 14",
+         "Number of deals": "1222"
+      },
+      {
+         "Month": "Aug 14",
+         "Number of deals": "912"
+      },
+      {
+         "Month": "Jul 14",
+         "Number of deals": "1253"
+      },
+      {
+         "Month": "Jun 14",
+         "Number of deals": "1171"
+      },
+      {
+         "Month": "May 14",
+         "Number of deals": "1070"
+      },
+      {
+         "Month": "Apr 14",
+         "Number of deals": "1185"
+      },
+      {
+         "Month": "Mar 14",
+         "Number of deals": "1062"
+      }
+   ]
+}

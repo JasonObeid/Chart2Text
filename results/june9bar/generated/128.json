@@ -1,0 +1,46 @@
+{
+   "title": "Forecast of office rent growth in the U.S. 2015 to 2016",
+   "xAxis": "Quarter",
+   "yAxis": "Rent growth",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Forecast office of U.S. from the first Quarter of 2015 to the fourth Quarter of Q4_2016 . ",
+      "In the fourth Quarter of 2015 , the photo sharing app is projected to have been steadily dropping in 2015 ."
+   ],
+   "trends": [
+      {
+         "20": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 2016",
+         "Rent growth": "1"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Rent growth": "0.9"
+      },
+      {
+         "Quarter": "Q2 2015",
+         "Rent growth": "0.8"
+      }
+   ]
+}

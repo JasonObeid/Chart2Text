@@ -1,0 +1,103 @@
+{
+   "title": "Ratio of government expenditure to gross domestic product ( GDP ) in Malaysia 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Ratio of government expenditure to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is  positive which exists from 2017 to 2014.",
+      " Similarly, the next significant trend is  positive which exists from 2024 to 2022.",
+      " Correspondingly, the next significant trend is  positive which exists from 2021 to 2019.",
+      " In a similar manner, the next significant trend is  negative which exists from 2019 to 2017.",
+      " Contrarily, the next significant trend is  negative which exists from 2022 to 2021."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 7,
+         "end": 10,
+         "trend": "y=-1.52x+3077.22",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-0.05x+131.66",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 3,
+         "end": 5,
+         "trend": "y=-1.28x+2606.91",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 5,
+         "end": 7,
+         "trend": "y=0.7x+-1380.09",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 2,
+         "end": 3,
+         "trend": "y=0.05x+-80.64",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Ratio of government expenditure to GDP": 20.35
+      },
+      {
+         "Year": "2023",
+         "Ratio of government expenditure to GDP": 20.37
+      },
+      {
+         "Year": "2022",
+         "Ratio of government expenditure to GDP": 20.46
+      },
+      {
+         "Year": "2021",
+         "Ratio of government expenditure to GDP": 20.41
+      },
+      {
+         "Year": "2020",
+         "Ratio of government expenditure to GDP": 20.54
+      },
+      {
+         "Year": "2019",
+         "Ratio of government expenditure to GDP": 22.97
+      },
+      {
+         "Year": "2018",
+         "Ratio of government expenditure to GDP": 22.7
+      },
+      {
+         "Year": "2017",
+         "Ratio of government expenditure to GDP": 21.58
+      },
+      {
+         "Year": "2016",
+         "Ratio of government expenditure to GDP": 22.7
+      },
+      {
+         "Year": "2015",
+         "Ratio of government expenditure to GDP": 24.71
+      },
+      {
+         "Year": "2014",
+         "Ratio of government expenditure to GDP": 25.96
+      }
+   ]
+}

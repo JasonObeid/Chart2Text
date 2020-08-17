@@ -1,0 +1,44 @@
+{
+   "title": "Wimbledon : broadcast viewing figures 2018 , by channel and event",
+   "xAxis": "Broadcast Category",
+   "yAxis": "Number of viewers in million",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Broadcast viewing figures 2018 by event U.S. on Wimbledon as of 2011 . ",
+      "ESPN_cumulative Broadcast received 29.42 likes from U.S. event ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "1",
+         "3": "1"
+      }
+   ],
+   "data": [
+      {
+         "Broadcast Category": "ESPN highest peak (singles finals ladies)",
+         "Number of viewers in million": "2.91"
+      },
+      {
+         "Broadcast Category": "ESPN cumulative",
+         "Number of viewers in million": "29.42"
+      },
+      {
+         "Broadcast Category": "BBC singles finals gentlemen",
+         "Number of viewers in million": "4.5"
+      },
+      {
+         "Broadcast Category": "BBC singles finals ladies",
+         "Number of viewers in million": "4.6"
+      },
+      {
+         "Broadcast Category": "BBC highest peak (3rd round Djokovic vs Edmund)",
+         "Number of viewers in million": "6.54"
+      },
+      {
+         "Broadcast Category": "BBC cumulative reach",
+         "Number of viewers in million": "26.0"
+      }
+   ]
+}

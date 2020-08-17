@@ -1,0 +1,59 @@
+{
+   "title": "Premier League total broadcasting payments to clubs 2010 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Broadcasting payments in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Broadcasting payments in million GBP with a total of 9 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2018/19 to 2010/11."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 0,
+         "end": 8,
+         "trend": "y=214.2x+-429707.26",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Broadcasting payments in million GBP": 2456.01
+      },
+      {
+         "Year": "2017/18",
+         "Broadcasting payments in million GBP": 2419.6
+      },
+      {
+         "Year": "2016/17",
+         "Broadcasting payments in million GBP": 2398.5
+      },
+      {
+         "Year": "2015/16",
+         "Broadcasting payments in million GBP": 1633.9
+      },
+      {
+         "Year": "2014/15",
+         "Broadcasting payments in million GBP": 1605.3
+      },
+      {
+         "Year": "2013/14",
+         "Broadcasting payments in million GBP": 1563.0
+      },
+      {
+         "Year": "2012/13",
+         "Broadcasting payments in million GBP": 1061.0
+      },
+      {
+         "Year": "2011/12",
+         "Broadcasting payments in million GBP": 1055.0
+      },
+      {
+         "Year": "2010/11",
+         "Broadcasting payments in million GBP": 953.0
+      }
+   ]
+}

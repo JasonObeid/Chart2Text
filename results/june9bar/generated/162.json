@@ -1,0 +1,30 @@
+{
+   "title": "Number of followers of Michael Kors on social media 2020",
+   "xAxis": "Platform",
+   "yAxis": "Number of followers in millions",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the global active usage penetration rate of leading Michael media sites as of 2019 . ",
+      "During the survey period , it was found that 17.91 millions of internet users had found that they used the followers ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Number of followers in millions": "17.91"
+      },
+      {
+         "Platform": "Instagram",
+         "Number of followers in millions": "16.0"
+      },
+      {
+         "Platform": "Twitter",
+         "Number of followers in millions": "3.5"
+      }
+   ]
+}

@@ -1,0 +1,93 @@
+{
+   "title": "Average vehicle speed on roads in Great Britain 2014",
+   "labels": [
+      "Vehicle type",
+      "Motorcycles",
+      "Cars",
+      "Cars towing",
+      "Light Goods",
+      "Buses/coaches",
+      "Rigid heavy goods vehicles",
+      "Articulated heavy goods vehicles"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic provides information regarding the Great Britain of vehicle speed 40_mph_built-up_roads 30_mph_built-up_roads Britain 2014 . ",
+      "The survey revealed that 30 % of the respondents Motorcycles purchase 30_mph_built-up_roads products 2014 ."
+   ],
+   "trends": [
+      {
+         "10": [
+            "1",
+            "0"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "1"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Vehicle type": "30 mph built-up roads",
+         "Motorcycles": "30",
+         "Cars": "30",
+         "Cars towing": "29",
+         "Light Goods": "30",
+         "Buses/coaches": "27",
+         "Rigid heavy goods vehicles": "29",
+         "Articulated heavy goods vehicles": "29"
+      },
+      {
+         "Vehicle type": "40 mph built-up roads",
+         "Motorcycles": "36",
+         "Cars": "35",
+         "Cars towing": "33",
+         "Light Goods": "35",
+         "Buses/coaches": "33",
+         "Rigid heavy goods vehicles": "34",
+         "Articulated heavy goods vehicles": "35"
+      },
+      {
+         "Vehicle type": "Motorways",
+         "Motorcycles": "68",
+         "Cars": "68",
+         "Cars towing": "57",
+         "Light Goods": "68",
+         "Buses/coaches": "58",
+         "Rigid heavy goods vehicles": "60",
+         "Articulated heavy goods vehicles": "54"
+      },
+      {
+         "Vehicle type": "Dual carriageways",
+         "Motorcycles": "67",
+         "Cars": "67",
+         "Cars towing": "56",
+         "Light Goods": "57",
+         "Buses/coaches": "56",
+         "Rigid heavy goods vehicles": "59",
+         "Articulated heavy goods vehicles": "53"
+      },
+      {
+         "Vehicle type": "Single carriageways",
+         "Motorcycles": "51",
+         "Cars": "47",
+         "Cars towing": "43",
+         "Light Goods": "48",
+         "Buses/coaches": "46",
+         "Rigid heavy goods vehicles": "46",
+         "Articulated heavy goods vehicles": "44"
+      }
+   ]
+}

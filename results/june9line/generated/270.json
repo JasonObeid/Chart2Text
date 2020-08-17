@@ -1,0 +1,80 @@
+{
+   "title": "Revenue of the top European soccer leagues ( Big Five ) 2006 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion euros",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Revenue of the European from the 2006/07 season to the 2019/20 season . ",
+      "According to Deloitte , in the 2019/20 season the Revenue of the Spanish football club increased by 22 billion , to 17.95 billion euros , with record matchday and commercial Revenue for a football club . ",
+      "European - additional information European 's brand and team value increased significantly in 2014 , thanks in part to the high-profile signing of Luis Suarez from Liverpool European in 2014 ."
+   ],
+   "trends": [
+      {
+         "10": "13",
+         "14": "0"
+      },
+      {
+         "6": "0",
+         "21": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019/20",
+         "Revenue in billion euros": "17.95"
+      },
+      {
+         "Year": "2018/19",
+         "Revenue in billion euros": "17.0"
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in billion euros": "15.59"
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in billion euros": "14.66"
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in billion euros": "13.42"
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in billion euros": "12.1"
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in billion euros": "11.3"
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in billion euros": "9.8"
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in billion euros": "9.3"
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in billion euros": "8.6"
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in billion euros": "8.4"
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in billion euros": "7.9"
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in billion euros": "7.7"
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in billion euros": "7.16"
+      }
+   ]
+}

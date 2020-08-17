@@ -1,0 +1,140 @@
+{
+   "title": "NCAA division I men 's basketball attendance leaders 2019",
+   "xAxis": "State",
+   "yAxis": "Average attendance",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the NCAA division I men in the leaders as of 2017 , by State . ",
+      "As of 2019 , Syracuse had the highest Average attendance , followed by Kentucky with 21695 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "1",
+         "15": "1"
+      }
+   ],
+   "data": [
+      {
+         "State": "Syracuse",
+         "Average attendance": "21992"
+      },
+      {
+         "State": "Kentucky",
+         "Average attendance": "21695"
+      },
+      {
+         "State": "North Carolina",
+         "Average attendance": "19715"
+      },
+      {
+         "State": "Tennessee",
+         "Average attendance": "19034"
+      },
+      {
+         "State": "Wisconsin",
+         "Average attendance": "17170"
+      },
+      {
+         "State": "Louisville",
+         "Average attendance": "16601"
+      },
+      {
+         "State": "Kansas",
+         "Average attendance": "16236"
+      },
+      {
+         "State": "Creighton",
+         "Average attendance": "15980"
+      },
+      {
+         "State": "Marquette",
+         "Average attendance": "15611"
+      },
+      {
+         "State": "Nebraska",
+         "Average attendance": "15341"
+      },
+      {
+         "State": "Arkansas",
+         "Average attendance": "15278"
+      },
+      {
+         "State": "Indiana",
+         "Average attendance": "15206"
+      },
+      {
+         "State": "Michigan St.",
+         "Average attendance": "14797"
+      },
+      {
+         "State": "Perdue",
+         "Average attendance": "14467"
+      },
+      {
+         "State": "Iowa St.",
+         "Average attendance": "14099"
+      },
+      {
+         "State": "Virginia",
+         "Average attendance": "14087"
+      },
+      {
+         "State": "Memphis",
+         "Average attendance": "14065"
+      },
+      {
+         "State": "Maryland",
+         "Average attendance": "14009"
+      },
+      {
+         "State": "Ohio St.",
+         "Average attendance": "13922"
+      },
+      {
+         "State": "NC State",
+         "Average attendance": "13897"
+      },
+      {
+         "State": "Arizona",
+         "Average attendance": "13744"
+      },
+      {
+         "State": "Dayton",
+         "Average attendance": "12957"
+      },
+      {
+         "State": "Iowa",
+         "Average attendance": "12869"
+      },
+      {
+         "State": "Michigan",
+         "Average attendance": "12505"
+      },
+      {
+         "State": "Illinois",
+         "Average attendance": "12456"
+      },
+      {
+         "State": "Texas Tech",
+         "Average attendance": "12098"
+      },
+      {
+         "State": "BYU",
+         "Average attendance": "11958"
+      },
+      {
+         "State": "South Carolina",
+         "Average attendance": "11472"
+      },
+      {
+         "State": "Cincinnati",
+         "Average attendance": "11256"
+      },
+      {
+         "State": "New Mexico",
+         "Average attendance": "11107"
+      }
+   ]
+}

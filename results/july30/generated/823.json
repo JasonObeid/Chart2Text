@@ -1,0 +1,32 @@
+{
+   "title": "Ethnicity distribution of acting winners at the Academy Awards 1928 to 2015",
+   "labels": [
+      "Award",
+      "White",
+      "Other Ethnicities"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 2 categories for the x axis of Award representing White, and Other Ethnicities.",
+      " The highest category is found at Best Actor with a mean value of 50.0.",
+      " The second highest category is found at Best Actress with a mean value of 50.0.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Award": "Best Actress",
+         "White": "98.9",
+         "Other Ethnicities": "1.1"
+      },
+      {
+         "Award": "Best Actor",
+         "White": "93.2",
+         "Other Ethnicities": "6.8"
+      }
+   ]
+}

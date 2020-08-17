@@ -1,0 +1,135 @@
+{
+   "title": "USA - reported larceny-theft rate 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Rate per 100,000 population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph shows the reported larceny-theft and non-negligent 1990 Rate in the country from 1990 to 2018 . ",
+      "In 2018 , the nationwide Rate was 1594.6 cases per 100,000 of the population ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'18",
+         "Rate per 100,000 population": "1594.6"
+      },
+      {
+         "Year": "'17",
+         "Rate per 100,000 population": "1695.5"
+      },
+      {
+         "Year": "'16",
+         "Rate per 100,000 population": "1745.4"
+      },
+      {
+         "Year": "'15",
+         "Rate per 100,000 population": "1783.6"
+      },
+      {
+         "Year": "'14",
+         "Rate per 100,000 population": "1821.5"
+      },
+      {
+         "Year": "'13",
+         "Rate per 100,000 population": "1901.9"
+      },
+      {
+         "Year": "'12",
+         "Rate per 100,000 population": "1965.4"
+      },
+      {
+         "Year": "'11",
+         "Rate per 100,000 population": "1974.1"
+      },
+      {
+         "Year": "'10",
+         "Rate per 100,000 population": "2005.8"
+      },
+      {
+         "Year": "'09",
+         "Rate per 100,000 population": "2064.5"
+      },
+      {
+         "Year": "'08",
+         "Rate per 100,000 population": "2166.1"
+      },
+      {
+         "Year": "'07",
+         "Rate per 100,000 population": "2185.4"
+      },
+      {
+         "Year": "'06",
+         "Rate per 100,000 population": "2213.2"
+      },
+      {
+         "Year": "'05",
+         "Rate per 100,000 population": "2288.0"
+      },
+      {
+         "Year": "'04",
+         "Rate per 100,000 population": "2362.3"
+      },
+      {
+         "Year": "'03",
+         "Rate per 100,000 population": "2416.5"
+      },
+      {
+         "Year": "'02",
+         "Rate per 100,000 population": "2450.7"
+      },
+      {
+         "Year": "'01",
+         "Rate per 100,000 population": "2484.6"
+      },
+      {
+         "Year": "'00",
+         "Rate per 100,000 population": "2477.3"
+      },
+      {
+         "Year": "'99",
+         "Rate per 100,000 population": "2550.7"
+      },
+      {
+         "Year": "'98",
+         "Rate per 100,000 population": "2729.0"
+      },
+      {
+         "Year": "'97",
+         "Rate per 100,000 population": "2886.6"
+      },
+      {
+         "Year": "'96",
+         "Rate per 100,000 population": "2979.7"
+      },
+      {
+         "Year": "'95",
+         "Rate per 100,000 population": "3043.8"
+      },
+      {
+         "Year": "'94",
+         "Rate per 100,000 population": "3026.7"
+      },
+      {
+         "Year": "'93",
+         "Rate per 100,000 population": "3032.4"
+      },
+      {
+         "Year": "'92",
+         "Rate per 100,000 population": "3103.0"
+      },
+      {
+         "Year": "'91",
+         "Rate per 100,000 population": "3228.8"
+      },
+      {
+         "Year": "'90",
+         "Rate per 100,000 population": "3194.8"
+      }
+   ]
+}

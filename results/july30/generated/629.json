@@ -1,0 +1,125 @@
+{
+   "title": "Unemployment rate in Jamaica 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2007 to 1999.",
+      " Also, the next significant trend is  negative which exists from 2013 to 2007.",
+      " Contrarily, the next significant trend is  positive which exists from 2018 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "positive",
+         "start": 12,
+         "end": 20,
+         "trend": "y=-0.83x+1671.25",
+         "magnitude": ""
+      },
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 6,
+         "end": 12,
+         "trend": "y=0.89x+-1785.27",
+         "magnitude": ""
+      },
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 1,
+         "end": 6,
+         "trend": "y=-1.02x+2060.55",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 9.52
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 9.45
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 11.66
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 13.19
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 13.51
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 13.74
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 15.25
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 13.93
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 12.7
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 12.37
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 11.36
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 10.33
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 9.75
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 10.33
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 11.26
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 11.44
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 11.74
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 14.19
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 14.93
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 15.54
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 15.74
+      }
+   ]
+}

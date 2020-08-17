@@ -1,0 +1,142 @@
+{
+   "title": "Leading grocery retailers ranked by market share in the United Kingdom ( UK ) 2011 to 2015",
+   "labels": [
+      "Year",
+      "Tesco",
+      "Sainsburys",
+      "Asda",
+      "Morrisons",
+      "Co-op",
+      "Waitrose",
+      "Marks and Spencer",
+      "Aldi",
+      "Iceland",
+      "Lidl",
+      "Farmfoods",
+      "Internet",
+      "Other multiples",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the share of United Kingdom grocery retailers from 2011 to 2015 . ",
+      "In 2015 , there were a Tesco of 19 unprovoked United Kingdom grocery on humans retailers . ",
+      "13 of these unprovoked grocery were Sainsburys ."
+   ],
+   "trends": [
+      {
+         "10": [
+            "0",
+            "0"
+         ],
+         "12": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "4",
+            "0"
+         ],
+         "8": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "0": [
+            "4",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "Tesco": "25",
+         "Sainsburys": "15",
+         "Asda": "14",
+         "Morrisons": "12",
+         "Co-op": "5",
+         "Waitrose": "5",
+         "Marks and Spencer": "4",
+         "Aldi": "3",
+         "Iceland": "3",
+         "Lidl": "2",
+         "Farmfoods": "1",
+         "Internet": "4",
+         "Other multiples": "5",
+         "Other": "7"
+      },
+      {
+         "Year": "2012",
+         "Tesco": "24",
+         "Sainsburys": "13",
+         "Asda": "13",
+         "Morrisons": "12",
+         "Co-op": "4",
+         "Waitrose": "4",
+         "Marks and Spencer": "4",
+         "Aldi": "3",
+         "Iceland": "3",
+         "Lidl": "2",
+         "Farmfoods": "0",
+         "Internet": "4",
+         "Other multiples": "4.7",
+         "Other": "8"
+      },
+      {
+         "Year": "2013",
+         "Tesco": "22",
+         "Sainsburys": "13",
+         "Asda": "13",
+         "Morrisons": "10",
+         "Co-op": "5",
+         "Waitrose": "5",
+         "Marks and Spencer": "4",
+         "Aldi": "5",
+         "Iceland": "3",
+         "Lidl": "3",
+         "Farmfoods": "0",
+         "Internet": "5",
+         "Other multiples": "5",
+         "Other": "8"
+      },
+      {
+         "Year": "2014",
+         "Tesco": "21",
+         "Sainsburys": "15",
+         "Asda": "13",
+         "Morrisons": "11",
+         "Co-op": "6",
+         "Waitrose": "6",
+         "Marks and Spencer": "4",
+         "Aldi": "6",
+         "Iceland": "4",
+         "Lidl": "4",
+         "Farmfoods": "0",
+         "Internet": "3",
+         "Other multiples": "4",
+         "Other": "2"
+      },
+      {
+         "Year": "2015",
+         "Tesco": "19",
+         "Sainsburys": "13",
+         "Asda": "13",
+         "Morrisons": "10",
+         "Co-op": "4",
+         "Waitrose": "5",
+         "Marks and Spencer": "4",
+         "Aldi": "6",
+         "Iceland": "2",
+         "Lidl": "4",
+         "Farmfoods": "0",
+         "Internet": "6",
+         "Other multiples": "6",
+         "Other": "1"
+      }
+   ]
+}

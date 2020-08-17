@@ -1,0 +1,263 @@
+{
+   "title": "Foreign Direct investment ( FDI ) in Canada , by country 2018",
+   "xAxis": "Country",
+   "yAxis": "FDI in million Canadian dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the degree of FDI in by country worldwide . ",
+      "According to the FDI Index , Argentina occupied the last place in FDI with -60 FDI million in 2018 . ",
+      "Netherlands and United_States were ranked first and second with 406051 and 106706 out of 100 FDI million respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "58",
+         "15": "58"
+      },
+      {
+         "0": "1",
+         "2": "0",
+         "9": "0",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "FDI in million Canadian dollars": "406051"
+      },
+      {
+         "Country": "Netherlands",
+         "FDI in million Canadian dollars": "106706"
+      },
+      {
+         "Country": "Luxembourg",
+         "FDI in million Canadian dollars": "55828"
+      },
+      {
+         "Country": "United Kingdom",
+         "FDI in million Canadian dollars": "50353"
+      },
+      {
+         "Country": "Switzerland",
+         "FDI in million Canadian dollars": "46147"
+      },
+      {
+         "Country": "Japan",
+         "FDI in million Canadian dollars": "28871"
+      },
+      {
+         "Country": "Hong Kong",
+         "FDI in million Canadian dollars": "21802"
+      },
+      {
+         "Country": "Germany",
+         "FDI in million Canadian dollars": "17008"
+      },
+      {
+         "Country": "People's Republic of China",
+         "FDI in million Canadian dollars": "16959"
+      },
+      {
+         "Country": "Bermuda",
+         "FDI in million Canadian dollars": "16604"
+      },
+      {
+         "Country": "Brazil",
+         "FDI in million Canadian dollars": "14628"
+      },
+      {
+         "Country": "France",
+         "FDI in million Canadian dollars": "13509"
+      },
+      {
+         "Country": "Australia",
+         "FDI in million Canadian dollars": "9682"
+      },
+      {
+         "Country": "Cayman Islands",
+         "FDI in million Canadian dollars": "8912"
+      },
+      {
+         "Country": "Ireland",
+         "FDI in million Canadian dollars": "8094"
+      },
+      {
+         "Country": "Belgium",
+         "FDI in million Canadian dollars": "8015"
+      },
+      {
+         "Country": "Spain",
+         "FDI in million Canadian dollars": "4823"
+      },
+      {
+         "Country": "Norway",
+         "FDI in million Canadian dollars": "4563"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "FDI in million Canadian dollars": "3441"
+      },
+      {
+         "Country": "British Virgin Islands",
+         "FDI in million Canadian dollars": "2928"
+      },
+      {
+         "Country": "Poland",
+         "FDI in million Canadian dollars": "2830"
+      },
+      {
+         "Country": "Mexico",
+         "FDI in million Canadian dollars": "2730"
+      },
+      {
+         "Country": "Sweden",
+         "FDI in million Canadian dollars": "2585"
+      },
+      {
+         "Country": "India",
+         "FDI in million Canadian dollars": "2561"
+      },
+      {
+         "Country": "South Korea",
+         "FDI in million Canadian dollars": "2398"
+      },
+      {
+         "Country": "Hungary",
+         "FDI in million Canadian dollars": "2289"
+      },
+      {
+         "Country": "Kuwait",
+         "FDI in million Canadian dollars": "2158"
+      },
+      {
+         "Country": "Russian Federation",
+         "FDI in million Canadian dollars": "1581"
+      },
+      {
+         "Country": "Italy",
+         "FDI in million Canadian dollars": "1510"
+      },
+      {
+         "Country": "Chile",
+         "FDI in million Canadian dollars": "1439"
+      },
+      {
+         "Country": "Uruguay",
+         "FDI in million Canadian dollars": "1329"
+      },
+      {
+         "Country": "Barbados",
+         "FDI in million Canadian dollars": "1256"
+      },
+      {
+         "Country": "Nigeria",
+         "FDI in million Canadian dollars": "934"
+      },
+      {
+         "Country": "Austria",
+         "FDI in million Canadian dollars": "922"
+      },
+      {
+         "Country": "Cyprus",
+         "FDI in million Canadian dollars": "898"
+      },
+      {
+         "Country": "Finland",
+         "FDI in million Canadian dollars": "776"
+      },
+      {
+         "Country": "South Africa",
+         "FDI in million Canadian dollars": "754"
+      },
+      {
+         "Country": "Denmark",
+         "FDI in million Canadian dollars": "728"
+      },
+      {
+         "Country": "Kyrgyzstan",
+         "FDI in million Canadian dollars": "693"
+      },
+      {
+         "Country": "Yemen",
+         "FDI in million Canadian dollars": "348"
+      },
+      {
+         "Country": "Malaysia",
+         "FDI in million Canadian dollars": "241"
+      },
+      {
+         "Country": "Israel",
+         "FDI in million Canadian dollars": "181"
+      },
+      {
+         "Country": "New Zealand",
+         "FDI in million Canadian dollars": "127"
+      },
+      {
+         "Country": "Singapore",
+         "FDI in million Canadian dollars": "116"
+      },
+      {
+         "Country": "Indonesia",
+         "FDI in million Canadian dollars": "84"
+      },
+      {
+         "Country": "Taiwan",
+         "FDI in million Canadian dollars": "76"
+      },
+      {
+         "Country": "Portugal",
+         "FDI in million Canadian dollars": "70"
+      },
+      {
+         "Country": "Thailand",
+         "FDI in million Canadian dollars": "56"
+      },
+      {
+         "Country": "Liberia",
+         "FDI in million Canadian dollars": "49"
+      },
+      {
+         "Country": "Guyana",
+         "FDI in million Canadian dollars": "1"
+      },
+      {
+         "Country": "Jamaica",
+         "FDI in million Canadian dollars": "1"
+      },
+      {
+         "Country": "Philippines",
+         "FDI in million Canadian dollars": "-1"
+      },
+      {
+         "Country": "Iceland",
+         "FDI in million Canadian dollars": "-1"
+      },
+      {
+         "Country": "Panama",
+         "FDI in million Canadian dollars": "-1"
+      },
+      {
+         "Country": "Costa Rica",
+         "FDI in million Canadian dollars": "-1"
+      },
+      {
+         "Country": "Turkey",
+         "FDI in million Canadian dollars": "-2"
+      },
+      {
+         "Country": "Colombia",
+         "FDI in million Canadian dollars": "-7"
+      },
+      {
+         "Country": "Bahamas",
+         "FDI in million Canadian dollars": "-39"
+      },
+      {
+         "Country": "Argentina",
+         "FDI in million Canadian dollars": "-60"
+      }
+   ]
+}

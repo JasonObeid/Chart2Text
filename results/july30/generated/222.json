@@ -1,0 +1,139 @@
+{
+   "title": "Total U.S. hay production 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in thousand tons, with a total of 20 data points. The chart has 5 significant trends.",
+      " The longest trend is  negative which exists from 2009 to 2012.",
+      " On the contrary, the next significant trend is  negative which exists from 2016 to 2019.",
+      " On the other hand, the next significant trend is  positive which exists from 2002 to 2004.",
+      " Likewise, the next significant trend is  negative which exists from 2004 to 2006.",
+      " Contrarily, the next significant trend is  positive which exists from 2012 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 9,
+         "end": 12,
+         "trend": "y=-10700.4x+21648067.2",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 16,
+         "end": 19,
+         "trend": "y=-2624.8x+5425262.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 2,
+         "end": 4,
+         "trend": "y=4327.5x+-8512989.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-8669.5x+17532136.17",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 12,
+         "end": 14,
+         "trend": "y=11425.5x+-22868865.83",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Production in thousand tons": 153603.0
+      },
+      {
+         "Year": "2001",
+         "Production in thousand tons": 156416.0
+      },
+      {
+         "Year": "2002",
+         "Production in thousand tons": 149467.0
+      },
+      {
+         "Year": "2003",
+         "Production in thousand tons": 157390.0
+      },
+      {
+         "Year": "2004",
+         "Production in thousand tons": 158122.0
+      },
+      {
+         "Year": "2005",
+         "Production in thousand tons": 150461.0
+      },
+      {
+         "Year": "2006",
+         "Production in thousand tons": 140783.0
+      },
+      {
+         "Year": "2007",
+         "Production in thousand tons": 146901.0
+      },
+      {
+         "Year": "2008",
+         "Production in thousand tons": 146270.0
+      },
+      {
+         "Year": "2009",
+         "Production in thousand tons": 147700.0
+      },
+      {
+         "Year": "2010",
+         "Production in thousand tons": 145000.0
+      },
+      {
+         "Year": "2011",
+         "Production in thousand tons": 129880.0
+      },
+      {
+         "Year": "2012",
+         "Production in thousand tons": 117072.0
+      },
+      {
+         "Year": "2013",
+         "Production in thousand tons": 135002.0
+      },
+      {
+         "Year": "2014",
+         "Production in thousand tons": 139923.0
+      },
+      {
+         "Year": "2015",
+         "Production in thousand tons": 134502.0
+      },
+      {
+         "Year": "2016",
+         "Production in thousand tons": 134995.0
+      },
+      {
+         "Year": "2017",
+         "Production in thousand tons": 131455.0
+      },
+      {
+         "Year": "2018",
+         "Production in thousand tons": 123600.0
+      },
+      {
+         "Year": "2019",
+         "Production in thousand tons": 128864.0
+      }
+   ]
+}

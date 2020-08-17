@@ -1,0 +1,119 @@
+{
+   "title": "Global net income of Levi Strauss 2010 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net income in million U.S. dollars, with a total of 15 data points. The chart has 5 significant trends.",
+      " The longest trend is  positive which exists from 2011 to 2007.",
+      " Additionally, the next significant trend is  negative which exists from 2019 to 2017.",
+      " Conversely, the next significant trend is  negative which exists from 2016 to 2014.",
+      " Contrarily, the next significant trend is  negative which exists from 2013 to 2011.",
+      " On the other hand, the next significant trend is  negative which exists from 2007 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 8,
+         "end": 12,
+         "trend": "y=-73.33x+147543.35",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=55.21x+-111092.19",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 3,
+         "end": 5,
+         "trend": "y=93.45x+-188099.95",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 6,
+         "end": 8,
+         "trend": "y=46.51x+-93420.11",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 12,
+         "end": 14,
+         "trend": "y=154.71x+-310053.6",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net income in million U.S. dollars": 394.98
+      },
+      {
+         "Year": "2018",
+         "Net income in million U.S. dollars": 285.24
+      },
+      {
+         "Year": "2017",
+         "Net income in million U.S. dollars": 284.56
+      },
+      {
+         "Year": "2016",
+         "Net income in million U.S. dollars": 291.21
+      },
+      {
+         "Year": "2015",
+         "Net income in million U.S. dollars": 209.89
+      },
+      {
+         "Year": "2014",
+         "Net income in million U.S. dollars": 104.31
+      },
+      {
+         "Year": "2013",
+         "Net income in million U.S. dollars": 228.14
+      },
+      {
+         "Year": "2012",
+         "Net income in million U.S. dollars": 140.96
+      },
+      {
+         "Year": "2011",
+         "Net income in million U.S. dollars": 135.11
+      },
+      {
+         "Year": "2010",
+         "Net income in million U.S. dollars": 149.45
+      },
+      {
+         "Year": "2009",
+         "Net income in million U.S. dollars": 150.71
+      },
+      {
+         "Year": "2008",
+         "Net income in million U.S. dollars": 230.38
+      },
+      {
+         "Year": "2007",
+         "Net income in million U.S. dollars": 461.29
+      },
+      {
+         "Year": "2006",
+         "Net income in million U.S. dollars": 240.72
+      },
+      {
+         "Year": "2005",
+         "Net income in million U.S. dollars": 151.88
+      }
+   ]
+}

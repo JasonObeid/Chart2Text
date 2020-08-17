@@ -1,0 +1,59 @@
+{
+   "title": "Volcanic eruptions - people affected worldwide up to 2016",
+   "xAxis": "Location and Date",
+   "yAxis": "Number of victims",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Volcanic eruptions people affected worldwide up 2016 as of October 2016 . ",
+      "As of the third quarter of 2016 , Volcanic_eruption_in_the_Philippines_(June_9_1991) had an average of 1036065 million victims ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Location and Date": "Volcanic eruption in the Philippines (June 9 1991)",
+         "Number of victims": "1036065"
+      },
+      {
+         "Location and Date": "Volcano eruption in Ecuador (August 14 2015)",
+         "Number of victims": "800000"
+      },
+      {
+         "Location and Date": "Volcanic eruption in Nicaragua (April 9 1992)",
+         "Number of victims": "300075"
+      },
+      {
+         "Location and Date": "Volcano eruption in Ecuador (August 14 2006)",
+         "Number of victims": "300013"
+      },
+      {
+         "Location and Date": "Volcano eruption in Indonesia (April 5 1982)",
+         "Number of victims": "300000"
+      },
+      {
+         "Location and Date": "Volcano eruption in Indonesia (1969)",
+         "Number of victims": "250000"
+      },
+      {
+         "Location and Date": "Volcanic eruption in Comoros (November 24 2005)",
+         "Number of victims": "245000"
+      },
+      {
+         "Location and Date": "Volcanic eruption in the Philippines (Feb. 6 1993)",
+         "Number of victims": "165009"
+      },
+      {
+         "Location and Date": "Volcanic eruption in Papua New Guinea (September 19 1994)",
+         "Number of victims": "152002"
+      },
+      {
+         "Location and Date": "Volcanic eruption in Indonesia (October 24 2002)",
+         "Number of victims": "137140"
+      }
+   ]
+}

@@ -1,0 +1,30 @@
+{
+   "title": "MSC - number of TEUs 2020\n",
+   "xAxis": "Ownership Type",
+   "yAxis": "Number of TEUs",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Ownership Type, and a y axis representing Number of TEUs.",
+      " The highest category is found at Chartered where Number of TEUs is 2771795.0.",
+      " The lowest category is found at Orderbook where Number of TEUs is 217500.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Ownership Type": "Chartered",
+         "Number of TEUs": 2771795.0
+      },
+      {
+         "Ownership Type": "Owned",
+         "Number of TEUs": 1044800.0
+      },
+      {
+         "Ownership Type": "Orderbook",
+         "Number of TEUs": 217500.0
+      }
+   ]
+}

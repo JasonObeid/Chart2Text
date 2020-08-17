@@ -1,0 +1,222 @@
+{
+   "title": "Total number of registered automobiles in the U.S. by state 2017\n",
+   "xAxis": "State",
+   "yAxis": "Number of registered automobiles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 51 categories for the x axis representing State, and a y axis representing Number of registered automobiles.",
+      " The highest category is found at California where Number of registered automobiles is 14860967.0.",
+      " The lowest category is found at Alaska where Number of registered automobiles is 173487.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 50
+   },
+   "data": [
+      {
+         "State": "California",
+         "Number of registered automobiles": 14860967.0
+      },
+      {
+         "State": "Texas",
+         "Number of registered automobiles": 8176879.0
+      },
+      {
+         "State": "Florida",
+         "Number of registered automobiles": 7778493.0
+      },
+      {
+         "State": "Illinois",
+         "Number of registered automobiles": 4655844.0
+      },
+      {
+         "State": "Ohio",
+         "Number of registered automobiles": 4605459.0
+      },
+      {
+         "State": "New York",
+         "Number of registered automobiles": 4563035.0
+      },
+      {
+         "State": "Pennsylvania",
+         "Number of registered automobiles": 4463267.0
+      },
+      {
+         "State": "Georgia",
+         "Number of registered automobiles": 3536055.0
+      },
+      {
+         "State": "North Carolina",
+         "Number of registered automobiles": 3317918.0
+      },
+      {
+         "State": "Michigan",
+         "Number of registered automobiles": 3257473.0
+      },
+      {
+         "State": "Virginia",
+         "Number of registered automobiles": 3251339.0
+      },
+      {
+         "State": "Washington",
+         "Number of registered automobiles": 2925765.0
+      },
+      {
+         "State": "New Jersey",
+         "Number of registered automobiles": 2798699.0
+      },
+      {
+         "State": "Arizona",
+         "Number of registered automobiles": 2391624.0
+      },
+      {
+         "State": "Tennessee",
+         "Number of registered automobiles": 2325004.0
+      },
+      {
+         "State": "Indiana",
+         "Number of registered automobiles": 2261440.0
+      },
+      {
+         "State": "Massachusetts",
+         "Number of registered automobiles": 2208468.0
+      },
+      {
+         "State": "Minnesota",
+         "Number of registered automobiles": 2146187.0
+      },
+      {
+         "State": "Missouri",
+         "Number of registered automobiles": 2141050.0
+      },
+      {
+         "State": "Wisconsin",
+         "Number of registered automobiles": 2092584.0
+      },
+      {
+         "State": "Alabama",
+         "Number of registered automobiles": 2065463.0
+      },
+      {
+         "State": "Maryland",
+         "Number of registered automobiles": 2006904.0
+      },
+      {
+         "State": "South Carolina",
+         "Number of registered automobiles": 1808401.0
+      },
+      {
+         "State": "Colorado",
+         "Number of registered automobiles": 1785058.0
+      },
+      {
+         "State": "Kentucky",
+         "Number of registered automobiles": 1691085.0
+      },
+      {
+         "State": "Oregon",
+         "Number of registered automobiles": 1542461.0
+      },
+      {
+         "State": "Louisiana",
+         "Number of registered automobiles": 1389436.0
+      },
+      {
+         "State": "Oklahoma",
+         "Number of registered automobiles": 1337624.0
+      },
+      {
+         "State": "Connecticut",
+         "Number of registered automobiles": 1302339.0
+      },
+      {
+         "State": "Iowa",
+         "Number of registered automobiles": 1268996.0
+      },
+      {
+         "State": "Nevada",
+         "Number of registered automobiles": 1047508.0
+      },
+      {
+         "State": "Kansas",
+         "Number of registered automobiles": 987259.0
+      },
+      {
+         "State": "Arkansas",
+         "Number of registered automobiles": 926789.0
+      },
+      {
+         "State": "Utah",
+         "Number of registered automobiles": 925052.0
+      },
+      {
+         "State": "Mississippi",
+         "Number of registered automobiles": 822864.0
+      },
+      {
+         "State": "Nebraska",
+         "Number of registered automobiles": 677040.0
+      },
+      {
+         "State": "New Mexico",
+         "Number of registered automobiles": 609494.0
+      },
+      {
+         "State": "West Virginia",
+         "Number of registered automobiles": 562984.0
+      },
+      {
+         "State": "Idaho",
+         "Number of registered automobiles": 550006.0
+      },
+      {
+         "State": "Hawaii",
+         "Number of registered automobiles": 512386.0
+      },
+      {
+         "State": "New Hampshire",
+         "Number of registered automobiles": 505381.0
+      },
+      {
+         "State": "Montana",
+         "Number of registered automobiles": 441392.0
+      },
+      {
+         "State": "Rhode Island",
+         "Number of registered automobiles": 420313.0
+      },
+      {
+         "State": "Delaware",
+         "Number of registered automobiles": 419199.0
+      },
+      {
+         "State": "Maine",
+         "Number of registered automobiles": 387233.0
+      },
+      {
+         "State": "South Dakota",
+         "Number of registered automobiles": 353180.0
+      },
+      {
+         "State": "North Dakota",
+         "Number of registered automobiles": 276545.0
+      },
+      {
+         "State": "Vermont",
+         "Number of registered automobiles": 221936.0
+      },
+      {
+         "State": "Dist. of Col.",
+         "Number of registered automobiles": 208141.0
+      },
+      {
+         "State": "Wyoming",
+         "Number of registered automobiles": 193523.0
+      },
+      {
+         "State": "Alaska",
+         "Number of registered automobiles": 173487.0
+      }
+   ]
+}

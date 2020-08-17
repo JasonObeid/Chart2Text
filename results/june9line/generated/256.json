@@ -1,0 +1,59 @@
+{
+   "title": "Hotel occupancy rate in Rome 2011 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Occupancy rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Occupancy rate Rome from 2019 to 2012 , as well a projection for 2011 . ",
+      "In 2011 , a Occupancy of 66 rate of raisins were produced Rome ."
+   ],
+   "trends": [
+      {
+         "9": "8",
+         "11": "1",
+         "19": "0"
+      },
+      {
+         "1": "0",
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "Occupancy rate": "67"
+      },
+      {
+         "Year": "2012",
+         "Occupancy rate": "66"
+      },
+      {
+         "Year": "2013",
+         "Occupancy rate": "67"
+      },
+      {
+         "Year": "2014",
+         "Occupancy rate": "69"
+      },
+      {
+         "Year": "2015",
+         "Occupancy rate": "69"
+      },
+      {
+         "Year": "2016",
+         "Occupancy rate": "70"
+      },
+      {
+         "Year": "2017",
+         "Occupancy rate": "70"
+      },
+      {
+         "Year": "2018",
+         "Occupancy rate": "70"
+      },
+      {
+         "Year": "2019",
+         "Occupancy rate": "71"
+      }
+   ]
+}

@@ -1,0 +1,130 @@
+{
+   "title": "NFL teams ranked by number of Super Bowl appearances all time 2020\n",
+   "xAxis": "Team",
+   "yAxis": "Number of Super Bowl appearances",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 28 categories for the x axis representing Team, and a y axis representing Number of Super Bowl appearances.",
+      " The highest category is found at New_England_Patriots where Number of Super Bowl appearances is 11.0.",
+      " The lowest category is found at New_Orleans_Saints where Number of Super Bowl appearances is 1.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 22
+   },
+   "data": [
+      {
+         "Team": "New England Patriots",
+         "Number of Super Bowl appearances": 11.0
+      },
+      {
+         "Team": "Pittsburgh Steelers",
+         "Number of Super Bowl appearances": 8.0
+      },
+      {
+         "Team": "Dallas Cowboys",
+         "Number of Super Bowl appearances": 8.0
+      },
+      {
+         "Team": "Denver Broncos",
+         "Number of Super Bowl appearances": 8.0
+      },
+      {
+         "Team": "San Francisco 49ers",
+         "Number of Super Bowl appearances": 7.0
+      },
+      {
+         "Team": "Washington Redskins",
+         "Number of Super Bowl appearances": 5.0
+      },
+      {
+         "Team": "Green Bay Packers",
+         "Number of Super Bowl appearances": 5.0
+      },
+      {
+         "Team": "Miami Dolphins",
+         "Number of Super Bowl appearances": 5.0
+      },
+      {
+         "Team": "New York Giants",
+         "Number of Super Bowl appearances": 5.0
+      },
+      {
+         "Team": "Oakland Raiders",
+         "Number of Super Bowl appearances": 5.0
+      },
+      {
+         "Team": "Buffalo Bills",
+         "Number of Super Bowl appearances": 4.0
+      },
+      {
+         "Team": "Minnesota Vikings",
+         "Number of Super Bowl appearances": 4.0
+      },
+      {
+         "Team": "Indianapolis Colts",
+         "Number of Super Bowl appearances": 4.0
+      },
+      {
+         "Team": "Los Angeles Rams",
+         "Number of Super Bowl appearances": 4.0
+      },
+      {
+         "Team": "Philadelphia Eagles",
+         "Number of Super Bowl appearances": 3.0
+      },
+      {
+         "Team": "Kansas City Chiefs",
+         "Number of Super Bowl appearances": 3.0
+      },
+      {
+         "Team": "Seattle Seahawks",
+         "Number of Super Bowl appearances": 3.0
+      },
+      {
+         "Team": "Carolina Panthers",
+         "Number of Super Bowl appearances": 2.0
+      },
+      {
+         "Team": "Atlanta Falcons",
+         "Number of Super Bowl appearances": 2.0
+      },
+      {
+         "Team": "Baltimore Ravens",
+         "Number of Super Bowl appearances": 2.0
+      },
+      {
+         "Team": "Cincinnati Bengals",
+         "Number of Super Bowl appearances": 2.0
+      },
+      {
+         "Team": "Chicago Bears",
+         "Number of Super Bowl appearances": 2.0
+      },
+      {
+         "Team": "New Orleans Saints",
+         "Number of Super Bowl appearances": 1.0
+      },
+      {
+         "Team": "Arizona Cardinals",
+         "Number of Super Bowl appearances": 1.0
+      },
+      {
+         "Team": "Tennessee Titans",
+         "Number of Super Bowl appearances": 1.0
+      },
+      {
+         "Team": "Tampa Bay Buccaneers",
+         "Number of Super Bowl appearances": 1.0
+      },
+      {
+         "Team": "Los Angeles Chargers",
+         "Number of Super Bowl appearances": 1.0
+      },
+      {
+         "Team": "New York Jets",
+         "Number of Super Bowl appearances": 1.0
+      }
+   ]
+}

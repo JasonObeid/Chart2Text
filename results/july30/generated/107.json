@@ -1,0 +1,118 @@
+{
+   "title": "Cesarean sections in selected countries 2017\n",
+   "xAxis": "Country",
+   "yAxis": "Cesarean sections per 1,000 live births",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 25 categories for the x axis representing Country, and a y axis representing Cesarean sections per 1,000 live births.",
+      " The highest category is found at Turkey where Cesarean sections per 1,000 live births is 531.4.",
+      " The lowest category is found at Israel where Cesarean sections per 1,000 live births is 148.4."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 24
+   },
+   "data": [
+      {
+         "Country": "Turkey",
+         "Cesarean sections per 1,000 live births": 531.4
+      },
+      {
+         "Country": "Korea",
+         "Cesarean sections per 1,000 live births": 451.9
+      },
+      {
+         "Country": "Poland",
+         "Cesarean sections per 1,000 live births": 393.0
+      },
+      {
+         "Country": "Hungary",
+         "Cesarean sections per 1,000 live births": 373.0
+      },
+      {
+         "Country": "Italy",
+         "Cesarean sections per 1,000 live births": 338.2
+      },
+      {
+         "Country": "United States",
+         "Cesarean sections per 1,000 live births": 320.0
+      },
+      {
+         "Country": "Switzerland",
+         "Cesarean sections per 1,000 live births": 318.6
+      },
+      {
+         "Country": "Germany",
+         "Cesarean sections per 1,000 live births": 301.7
+      },
+      {
+         "Country": "Slovak Republic",
+         "Cesarean sections per 1,000 live births": 296.8
+      },
+      {
+         "Country": "Luxembourg",
+         "Cesarean sections per 1,000 live births": 296.8
+      },
+      {
+         "Country": "Austria",
+         "Cesarean sections per 1,000 live births": 292.5
+      },
+      {
+         "Country": "Canada",
+         "Cesarean sections per 1,000 live births": 277.3
+      },
+      {
+         "Country": "United Kingdom",
+         "Cesarean sections per 1,000 live births": 273.8
+      },
+      {
+         "Country": "Spain",
+         "Cesarean sections per 1,000 live births": 243.7
+      },
+      {
+         "Country": "Lithuania",
+         "Cesarean sections per 1,000 live births": 222.6
+      },
+      {
+         "Country": "Slovenia",
+         "Cesarean sections per 1,000 live births": 213.8
+      },
+      {
+         "Country": "Belgium",
+         "Cesarean sections per 1,000 live births": 209.7
+      },
+      {
+         "Country": "France",
+         "Cesarean sections per 1,000 live births": 197.0
+      },
+      {
+         "Country": "Estonia",
+         "Cesarean sections per 1,000 live births": 194.4
+      },
+      {
+         "Country": "Latvia",
+         "Cesarean sections per 1,000 live births": 193.9
+      },
+      {
+         "Country": "Sweden",
+         "Cesarean sections per 1,000 live births": 166.4
+      },
+      {
+         "Country": "Finland",
+         "Cesarean sections per 1,000 live births": 164.9
+      },
+      {
+         "Country": "Iceland",
+         "Cesarean sections per 1,000 live births": 161.7
+      },
+      {
+         "Country": "Norway",
+         "Cesarean sections per 1,000 live births": 159.5
+      },
+      {
+         "Country": "Israel",
+         "Cesarean sections per 1,000 live births": 148.4
+      }
+   ]
+}

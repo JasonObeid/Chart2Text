@@ -1,0 +1,46 @@
+{
+   "title": "Surface area of the Nordic countries 2017",
+   "xAxis": "Country",
+   "yAxis": "Surface area in square kilometers",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Surface of Nordic area in Nordic countries as of 2020 , sorted by Country . ",
+      "According to the source , 447420 million of kilometers Nordic countries app and had the highest in the 2017 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Sweden",
+         "Surface area in square kilometers": "447420"
+      },
+      {
+         "Country": "Greenland",
+         "Surface area in square kilometers": "410450"
+      },
+      {
+         "Country": "Norway",
+         "Surface area in square kilometers": "385178"
+      },
+      {
+         "Country": "Finland",
+         "Surface area in square kilometers": "338420"
+      },
+      {
+         "Country": "Iceland",
+         "Surface area in square kilometers": "103000"
+      },
+      {
+         "Country": "Denmark",
+         "Surface area in square kilometers": "42922"
+      },
+      {
+         "Country": "Faroe Islands",
+         "Surface area in square kilometers": "1396"
+      }
+   ]
+}

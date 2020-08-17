@@ -1,0 +1,66 @@
+{
+   "title": "Car rental in the U.S. - total cars in service 2002 to 2012",
+   "xAxis": "Year",
+   "yAxis": "Cars in service in thousands",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the revenue of the Car of young people between the ages of 2012 to in the rental cars 2002 to 2012 . ",
+      "In 2012 , approximately 1643 thousands young people cars that 2012 lived in the rental ."
+   ],
+   "trends": [
+      {
+         "22": "0",
+         "24": "10"
+      },
+      {
+         "1": "10",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2002",
+         "Cars in service in thousands": "1643"
+      },
+      {
+         "Year": "2003",
+         "Cars in service in thousands": "1617"
+      },
+      {
+         "Year": "2004",
+         "Cars in service in thousands": "1665"
+      },
+      {
+         "Year": "2005",
+         "Cars in service in thousands": "1714"
+      },
+      {
+         "Year": "2006",
+         "Cars in service in thousands": "1768"
+      },
+      {
+         "Year": "2007",
+         "Cars in service in thousands": "1861"
+      },
+      {
+         "Year": "2008",
+         "Cars in service in thousands": "1813"
+      },
+      {
+         "Year": "2009",
+         "Cars in service in thousands": "1637"
+      },
+      {
+         "Year": "2010",
+         "Cars in service in thousands": "1629"
+      },
+      {
+         "Year": "2011",
+         "Cars in service in thousands": "1761"
+      },
+      {
+         "Year": "2012",
+         "Cars in service in thousands": "1857"
+      }
+   ]
+}

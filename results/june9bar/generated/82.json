@@ -1,0 +1,60 @@
+{
+   "title": "Number of deaths caused by majors droughts worldwide up to 2016",
+   "xAxis": "Country and Year",
+   "yAxis": "Number of deaths",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Number of by majors worldwide in the Number from 1900 to 2016 . ",
+      "Between China_(1928) , 3000000 accounted for 1900000 of all time ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "3": "0",
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country and Year": "China (1928)",
+         "Number of deaths": "3000000"
+      },
+      {
+         "Country and Year": "Bangladesh (1943)",
+         "Number of deaths": "1900000"
+      },
+      {
+         "Country and Year": "India (1942)",
+         "Number of deaths": "1500000"
+      },
+      {
+         "Country and Year": "India (1965)",
+         "Number of deaths": "1500000"
+      },
+      {
+         "Country and Year": "India (1900)",
+         "Number of deaths": "1250000"
+      },
+      {
+         "Country and Year": "Soviet Union (1921)",
+         "Number of deaths": "1200000"
+      },
+      {
+         "Country and Year": "China (1920)",
+         "Number of deaths": "500000"
+      },
+      {
+         "Country and Year": "Ethiopia (May 1983)",
+         "Number of deaths": "300000"
+      },
+      {
+         "Country and Year": "Sudan (April 1983)",
+         "Number of deaths": "150000"
+      },
+      {
+         "Country and Year": "Ethiopia (December 1973)",
+         "Number of deaths": "100000"
+      }
+   ]
+}

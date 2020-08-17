@@ -1,0 +1,79 @@
+{
+   "title": "Organic food sales in the U.S. from 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Organic and food Sales in the U.S. from 2005 to 2018 . ",
+      "In 2018 , some 47.9 billion U.S. dollars of food were generated from the U.S. ."
+   ],
+   "trends": [
+      {
+         "12": "13",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in billion U.S. dollars": "47.9"
+      },
+      {
+         "Year": "2017",
+         "Sales in billion U.S. dollars": "45.2"
+      },
+      {
+         "Year": "2016",
+         "Sales in billion U.S. dollars": "43.0"
+      },
+      {
+         "Year": "2015",
+         "Sales in billion U.S. dollars": "39.75"
+      },
+      {
+         "Year": "2014",
+         "Sales in billion U.S. dollars": "35.95"
+      },
+      {
+         "Year": "2013",
+         "Sales in billion U.S. dollars": "32.34"
+      },
+      {
+         "Year": "2012",
+         "Sales in billion U.S. dollars": "29.02"
+      },
+      {
+         "Year": "2011",
+         "Sales in billion U.S. dollars": "26.34"
+      },
+      {
+         "Year": "2010",
+         "Sales in billion U.S. dollars": "24.12"
+      },
+      {
+         "Year": "2009",
+         "Sales in billion U.S. dollars": "22.5"
+      },
+      {
+         "Year": "2008",
+         "Sales in billion U.S. dollars": "21.57"
+      },
+      {
+         "Year": "2007",
+         "Sales in billion U.S. dollars": "18.19"
+      },
+      {
+         "Year": "2006",
+         "Sales in billion U.S. dollars": "15.63"
+      },
+      {
+         "Year": "2005",
+         "Sales in billion U.S. dollars": "13.26"
+      }
+   ]
+}

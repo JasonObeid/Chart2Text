@@ -1,0 +1,50 @@
+{
+   "title": "Number of registered members on Foursquare 2010 to 2014",
+   "xAxis": "Month",
+   "yAxis": "Number of registered members in millions",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of registered members in Foursquare from 2010 to 2014 . ",
+      "In that year , the majority of the Number registered members in the Foursquare amounted to 5 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec '10",
+         "Number of registered members in millions": "5"
+      },
+      {
+         "Month": "Jan '11",
+         "Number of registered members in millions": "6"
+      },
+      {
+         "Month": "Mar '12",
+         "Number of registered members in millions": "15"
+      },
+      {
+         "Month": "May '12",
+         "Number of registered members in millions": "20"
+      },
+      {
+         "Month": "Jan '13",
+         "Number of registered members in millions": "30"
+      },
+      {
+         "Month": "Jan '14",
+         "Number of registered members in millions": "45"
+      },
+      {
+         "Month": "May '14",
+         "Number of registered members in millions": "50"
+      },
+      {
+         "Month": "Oct '14",
+         "Number of registered members in millions": "55"
+      }
+   ]
+}

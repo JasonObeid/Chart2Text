@@ -1,0 +1,63 @@
+{
+   "title": "Companies on the Norwegian insurance market 2011 to 2015",
+   "labels": [
+      "Year",
+      "Domestic market",
+      "Total market"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the insurance of Norwegian developers market from 2011 to 2015 , by region . ",
+      "For 2015 , Norwegian market are projected to total 119 million units in Norwegian ."
+   ],
+   "trends": [
+      {
+         "10": [
+            "4",
+            "0"
+         ],
+         "12": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2014",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2013",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2012",
+         "Domestic market": "118",
+         "Total market": "118"
+      },
+      {
+         "Year": "2011",
+         "Domestic market": "117",
+         "Total market": "117"
+      }
+   ]
+}

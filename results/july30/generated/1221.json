@@ -1,0 +1,54 @@
+{
+   "title": "Job creation by U.S. president from Eisenhower to Obama\n",
+   "xAxis": "American Presidents",
+   "yAxis": "Monthly average change in private sector jobs in thousand",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing American Presidents, and a y axis representing Monthly average change in private sector jobs in thousand.",
+      " The highest category is found at Bill_Clinton where Monthly average change in private sector jobs in thousand is 214.0.",
+      " The lowest category is found at George_W._Bush where Monthly average change in private sector jobs in thousand is 6.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "American Presidents": "Bill Clinton",
+         "Monthly average change in private sector jobs in thousand": 214.0
+      },
+      {
+         "American Presidents": "Jimmy Carter",
+         "Monthly average change in private sector jobs in thousand": 188.0
+      },
+      {
+         "American Presidents": "Ronald Reagan",
+         "Monthly average change in private sector jobs in thousand": 151.0
+      },
+      {
+         "American Presidents": "JFK / LBJ",
+         "Monthly average change in private sector jobs in thousand": 125.0
+      },
+      {
+         "American Presidents": "Richard Nixon / Gerald Ford",
+         "Monthly average change in private sector jobs in thousand": 86.0
+      },
+      {
+         "American Presidents": "Barack Obama (thru June 2012)",
+         "Monthly average change in private sector jobs in thousand": 76.0
+      },
+      {
+         "American Presidents": "George H.W. Bush",
+         "Monthly average change in private sector jobs in thousand": 25.0
+      },
+      {
+         "American Presidents": "Dwight Eisenhower",
+         "Monthly average change in private sector jobs in thousand": 16.0
+      },
+      {
+         "American Presidents": "George W. Bush",
+         "Monthly average change in private sector jobs in thousand": 6.0
+      }
+   ]
+}

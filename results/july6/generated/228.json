@@ -1,0 +1,37 @@
+{
+   "title": "Airport market share of major car rental companies in the U.S. in 2013",
+   "xAxis": "Company",
+   "yAxis": "Airport market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the percentage of U.S. market major car rental companies U.S. Company in 2013 , by the Company of . ",
+      "36.1 % of market with Other and Company used car rental companies in 2013 ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "5": "3",
+         "7": "3"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Hertz Global Holdings",
+         "Airport market share": "36.1"
+      },
+      {
+         "Company": "Enterprise Holdings",
+         "Airport market share": "33.2"
+      },
+      {
+         "Company": "Avis Budget Group",
+         "Airport market share": "26"
+      },
+      {
+         "Company": "Other",
+         "Airport market share": "4.7"
+      }
+   ]
+}

@@ -1,0 +1,120 @@
+{
+   "title": "Number of international students in the U.S. , by country of origin 2018/19",
+   "xAxis": "Country",
+   "yAxis": "Number of international students",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. and territories international the students projected U.S. by between and . ",
+      "Between and , China is projected to have the students U.S. by , international an Number of 7262 students born ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "19": "24"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of international students": "369548"
+      },
+      {
+         "Country": "India",
+         "Number of international students": "202014"
+      },
+      {
+         "Country": "South Korea",
+         "Number of international students": "52250"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Number of international students": "37080"
+      },
+      {
+         "Country": "Canada",
+         "Number of international students": "26122"
+      },
+      {
+         "Country": "Vietnam",
+         "Number of international students": "24392"
+      },
+      {
+         "Country": "Taiwan",
+         "Number of international students": "23369"
+      },
+      {
+         "Country": "Japan",
+         "Number of international students": "18105"
+      },
+      {
+         "Country": "Brazil",
+         "Number of international students": "16059"
+      },
+      {
+         "Country": "Mexico",
+         "Number of international students": "15229"
+      },
+      {
+         "Country": "Nigeria",
+         "Number of international students": "13423"
+      },
+      {
+         "Country": "Nepal",
+         "Number of international students": "13229"
+      },
+      {
+         "Country": "Iran",
+         "Number of international students": "12142"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of international students": "11146"
+      },
+      {
+         "Country": "Turkey",
+         "Number of international students": "10159"
+      },
+      {
+         "Country": "Kuwait",
+         "Number of international students": "9195"
+      },
+      {
+         "Country": "Germany",
+         "Number of international students": "9191"
+      },
+      {
+         "Country": "France",
+         "Number of international students": "8716"
+      },
+      {
+         "Country": "Indonesia",
+         "Number of international students": "8356"
+      },
+      {
+         "Country": "Bangladesh",
+         "Number of international students": "8249"
+      },
+      {
+         "Country": "Colombia",
+         "Number of international students": "8060"
+      },
+      {
+         "Country": "Pakistan",
+         "Number of international students": "7957"
+      },
+      {
+         "Country": "Venezuela",
+         "Number of international students": "7760"
+      },
+      {
+         "Country": "Malaysia",
+         "Number of international students": "7709"
+      },
+      {
+         "Country": "Spain",
+         "Number of international students": "7262"
+      }
+   ]
+}

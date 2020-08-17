@@ -1,0 +1,107 @@
+{
+   "title": "Number of Steam users 2012 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of Steam in ( Steam ) from November_2012 to 2019 2012 . ",
+      "The Number is the users that divides a users into two numerically equal groups ; that is , half of the Number in Steam increased by in 2016 . ",
+      "The Number of Steam reached a Number that was 18.5 millions in 2019 ."
+   ],
+   "trends": [
+      {
+         "13": "20"
+      },
+      {},
+      {
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "September 2019",
+         "Number of users in millions": "14.15"
+      },
+      {
+         "Month": "October 2018",
+         "Number of users in millions": "18.5"
+      },
+      {
+         "Month": "January 2018",
+         "Number of users in millions": "18.5"
+      },
+      {
+         "Month": "November 2017",
+         "Number of users in millions": "17.68"
+      },
+      {
+         "Month": "September 2017",
+         "Number of users in millions": "15.0"
+      },
+      {
+         "Month": "July 2017",
+         "Number of users in millions": "13.15"
+      },
+      {
+         "Month": "April 2017",
+         "Number of users in millions": "11.83"
+      },
+      {
+         "Month": "January 2017",
+         "Number of users in millions": "14.21"
+      },
+      {
+         "Month": "October 2016",
+         "Number of users in millions": "11.13"
+      },
+      {
+         "Month": "July 2016",
+         "Number of users in millions": "12.28"
+      },
+      {
+         "Month": "April 2016",
+         "Number of users in millions": "12.74"
+      },
+      {
+         "Month": "January 2016",
+         "Number of users in millions": "12.33"
+      },
+      {
+         "Month": "November 2015",
+         "Number of users in millions": "13.48"
+      },
+      {
+         "Month": "June 2015",
+         "Number of users in millions": "10.05"
+      },
+      {
+         "Month": "May 2015",
+         "Number of users in millions": "9.5"
+      },
+      {
+         "Month": "March 2015",
+         "Number of users in millions": "9.1"
+      },
+      {
+         "Month": "January 2015",
+         "Number of users in millions": "8.5"
+      },
+      {
+         "Month": "November 2014",
+         "Number of users in millions": "9.3"
+      },
+      {
+         "Month": "June 2014",
+         "Number of users in millions": "8.0"
+      },
+      {
+         "Month": "December 2013",
+         "Number of users in millions": "7.0"
+      },
+      {
+         "Month": "November 2012",
+         "Number of users in millions": "6.0"
+      }
+   ]
+}

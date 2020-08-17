@@ -1,0 +1,43 @@
+{
+   "title": "China smartphone unit shipments 2013 to 2018",
+   "xAxis": "Quarter",
+   "yAxis": "Shipments in million units",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the Shipments of China units smartphone from the first Quarter of 2013 to the fourth Quarter of 2018 . ",
+      "In the last reported period , there were 109.6 million units in the fourth Quarter of 2017 ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 2018",
+         "Shipments in million units": "109.6"
+      },
+      {
+         "Quarter": "2017",
+         "Shipments in million units": "454.4"
+      },
+      {
+         "Quarter": "2016",
+         "Shipments in million units": "448.5"
+      },
+      {
+         "Quarter": "2015",
+         "Shipments in million units": "385.3"
+      },
+      {
+         "Quarter": "2014",
+         "Shipments in million units": "392.8"
+      },
+      {
+         "Quarter": "2013",
+         "Shipments in million units": "359.0"
+      }
+   ]
+}

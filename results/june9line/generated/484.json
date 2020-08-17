@@ -1,0 +1,66 @@
+{
+   "title": "Infant mortality rate in Haiti 2018",
+   "xAxis": "Year",
+   "yAxis": "Deaths per 1,000 live births",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Infant mortality rate in the Haiti from 2008 to 2018 . ",
+      "In 2018 , the Infant mortality rate in the Haiti was at about 49.5 Deaths per 1,000 live births ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Deaths per 1,000 live births": "49.5"
+      },
+      {
+         "Year": "2017",
+         "Deaths per 1,000 live births": "50.8"
+      },
+      {
+         "Year": "2016",
+         "Deaths per 1,000 live births": "52.1"
+      },
+      {
+         "Year": "2015",
+         "Deaths per 1,000 live births": "53.3"
+      },
+      {
+         "Year": "2014",
+         "Deaths per 1,000 live births": "54.5"
+      },
+      {
+         "Year": "2013",
+         "Deaths per 1,000 live births": "55.7"
+      },
+      {
+         "Year": "2012",
+         "Deaths per 1,000 live births": "56.8"
+      },
+      {
+         "Year": "2011",
+         "Deaths per 1,000 live births": "57.9"
+      },
+      {
+         "Year": "2010",
+         "Deaths per 1,000 live births": "85.6"
+      },
+      {
+         "Year": "2009",
+         "Deaths per 1,000 live births": "60.2"
+      },
+      {
+         "Year": "2008",
+         "Deaths per 1,000 live births": "61.4"
+      }
+   ]
+}

@@ -1,0 +1,63 @@
+{
+   "title": "Consolidated sales of L'Or\u00e9al worldwide 2009 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Sales in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Sales in million euros with a total of 10 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2018 to 2009."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 0,
+         "end": 9,
+         "trend": "y=1027.92x+-2046953.26",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in million euros": 26937.0
+      },
+      {
+         "Year": "2017",
+         "Sales in million euros": 26024.0
+      },
+      {
+         "Year": "2016",
+         "Sales in million euros": 25837.0
+      },
+      {
+         "Year": "2015",
+         "Sales in million euros": 25257.0
+      },
+      {
+         "Year": "2014",
+         "Sales in million euros": 22532.0
+      },
+      {
+         "Year": "2013",
+         "Sales in million euros": 22124.0
+      },
+      {
+         "Year": "2012",
+         "Sales in million euros": 21638.0
+      },
+      {
+         "Year": "2011",
+         "Sales in million euros": 20343.0
+      },
+      {
+         "Year": "2010",
+         "Sales in million euros": 19496.0
+      },
+      {
+         "Year": "2009",
+         "Sales in million euros": 17473.0
+      }
+   ]
+}

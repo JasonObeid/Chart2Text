@@ -1,0 +1,58 @@
+{
+   "title": "Number of active physicians in Alabama 2019 , by specialty area\n",
+   "xAxis": "Specialty area",
+   "yAxis": "Number of physicians",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Specialty area, and a y axis representing Number of physicians.",
+      " The highest category is found at Total_specialty where Number of physicians is 6342.0.",
+      " The lowest category is found at Endocrinology_diabetes_&_metabolism where Number of physicians is 71.0."
+   ],
+   "trends": {
+      "maxIndex": 9,
+      "minIndex": 7
+   },
+   "data": [
+      {
+         "Specialty area": "Psychiatry",
+         "Number of physicians": 506.0
+      },
+      {
+         "Specialty area": "Surgery",
+         "Number of physicians": 754.0
+      },
+      {
+         "Specialty area": "Anesthesiologists",
+         "Number of physicians": 602.0
+      },
+      {
+         "Specialty area": "Emergency medicine",
+         "Number of physicians": 465.0
+      },
+      {
+         "Specialty area": "Radiology",
+         "Number of physicians": 674.0
+      },
+      {
+         "Specialty area": "Cardiology",
+         "Number of physicians": 410.0
+      },
+      {
+         "Specialty area": "Oncology (cancer)",
+         "Number of physicians": 241.0
+      },
+      {
+         "Specialty area": "Endocrinology diabetes & metabolism",
+         "Number of physicians": 71.0
+      },
+      {
+         "Specialty area": "All other specialities",
+         "Number of physicians": 2619.0
+      },
+      {
+         "Specialty area": "Total specialty",
+         "Number of physicians": 6342.0
+      }
+   ]
+}

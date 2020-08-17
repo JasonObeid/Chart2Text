@@ -1,0 +1,89 @@
+{
+   "title": "Regal Entertainment Group 's net income 2006 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net income in million U.S. dollars, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is strongly positive which exists from 2011 to 2006.",
+      " Similarly, the next significant trend is extremely negative which exists from 2016 to 2014.",
+      " On the other hand, the next significant trend is extremely negative which exists from 2013 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 6,
+         "end": 11,
+         "trend": "y=-33.89x+68196.88",
+         "magnitude": "strongly"
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 1,
+         "end": 3,
+         "trend": "y=32.65x+-65646.78",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 4,
+         "end": 6,
+         "trend": "y=58.75x+-118091.7",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Net income in million U.S. dollars": 112.3
+      },
+      {
+         "Year": "2016",
+         "Net income in million U.S. dollars": 170.5
+      },
+      {
+         "Year": "2015",
+         "Net income in million U.S. dollars": 153.2
+      },
+      {
+         "Year": "2014",
+         "Net income in million U.S. dollars": 105.2
+      },
+      {
+         "Year": "2013",
+         "Net income in million U.S. dollars": 157.6
+      },
+      {
+         "Year": "2012",
+         "Net income in million U.S. dollars": 142.2
+      },
+      {
+         "Year": "2011",
+         "Net income in million U.S. dollars": 40.1
+      },
+      {
+         "Year": "2010",
+         "Net income in million U.S. dollars": 77.6
+      },
+      {
+         "Year": "2009",
+         "Net income in million U.S. dollars": 95.5
+      },
+      {
+         "Year": "2008",
+         "Net income in million U.S. dollars": 112.2
+      },
+      {
+         "Year": "2007",
+         "Net income in million U.S. dollars": 360.4
+      },
+      {
+         "Year": "2006",
+         "Net income in million U.S. dollars": 104.3
+      }
+   ]
+}

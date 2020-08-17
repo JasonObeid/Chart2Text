@@ -1,0 +1,40 @@
+{
+   "title": "Active duty U.S. military personnel numbers , by service branch 2010",
+   "xAxis": "Month",
+   "yAxis": "Share of military personnel",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Active duty U.S. military in U.S. 2010 , by on Share military . ",
+      "In that year , Army was the Active duty U.S. chain in U.S. by on Share military of about 561979 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Army",
+         "Share of military personnel": "561979"
+      },
+      {
+         "Month": "Air Force",
+         "Share of military personnel": "329640"
+      },
+      {
+         "Month": "Navy",
+         "Share of military personnel": "323139"
+      },
+      {
+         "Month": "Marine Corps",
+         "Share of military personnel": "202612"
+      },
+      {
+         "Month": "Coast Guard",
+         "Share of military personnel": "41327"
+      }
+   ]
+}

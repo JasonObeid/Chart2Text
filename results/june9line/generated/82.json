@@ -1,0 +1,84 @@
+{
+   "title": "Nuclear power plants : permanent shutdowns 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of shutdowns",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the shutdowns of Nuclear shutdowns to ( Nuclear penetration ) on the European domestic Nuclear market between 2005 and 2019 . ",
+      "The shutdowns is used as an indicator of Nuclear sector development . ",
+      "In 2019 , the shutdowns to was 3 % ."
+   ],
+   "trends": [
+      {
+         "21": "14",
+         "23": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of shutdowns": "3"
+      },
+      {
+         "Year": "2018",
+         "Number of shutdowns": "7"
+      },
+      {
+         "Year": "2017",
+         "Number of shutdowns": "5"
+      },
+      {
+         "Year": "2016",
+         "Number of shutdowns": "4"
+      },
+      {
+         "Year": "2015",
+         "Number of shutdowns": "7"
+      },
+      {
+         "Year": "2014",
+         "Number of shutdowns": "1"
+      },
+      {
+         "Year": "2013",
+         "Number of shutdowns": "6"
+      },
+      {
+         "Year": "2012",
+         "Number of shutdowns": "3"
+      },
+      {
+         "Year": "2011",
+         "Number of shutdowns": "13"
+      },
+      {
+         "Year": "2010",
+         "Number of shutdowns": "1"
+      },
+      {
+         "Year": "2009",
+         "Number of shutdowns": "3"
+      },
+      {
+         "Year": "2008",
+         "Number of shutdowns": "2"
+      },
+      {
+         "Year": "2007",
+         "Number of shutdowns": "1"
+      },
+      {
+         "Year": "2006",
+         "Number of shutdowns": "8"
+      },
+      {
+         "Year": "2005",
+         "Number of shutdowns": "2"
+      }
+   ]
+}

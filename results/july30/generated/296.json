@@ -1,0 +1,55 @@
+{
+   "title": "UK cyber security : total market size 2010 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Market size in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Market size in million GBP with a total of 8 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2017 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 0,
+         "end": 7,
+         "trend": "y=162.14x+-323561.64",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Market size in million GBP": 3489.0
+      },
+      {
+         "Year": "2016",
+         "Market size in million GBP": 3330.0
+      },
+      {
+         "Year": "2015",
+         "Market size in million GBP": 3173.0
+      },
+      {
+         "Year": "2014",
+         "Market size in million GBP": 2996.0
+      },
+      {
+         "Year": "2013",
+         "Market size in million GBP": 2796.0
+      },
+      {
+         "Year": "2012",
+         "Market size in million GBP": 2621.0
+      },
+      {
+         "Year": "2011",
+         "Market size in million GBP": 2492.0
+      },
+      {
+         "Year": "2010",
+         "Market size in million GBP": 2407.0
+      }
+   ]
+}

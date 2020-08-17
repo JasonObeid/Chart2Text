@@ -1,0 +1,59 @@
+{
+   "title": "Total assets of the Bank of China 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Total assets in billion yuan",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Total of assets billion owned by households in the China from 2010 to 2018 . ",
+      "In 2018 , there were around 21267.28 thousand assets billion on Total assets and Bank in the China ."
+   ],
+   "trends": [
+      {
+         "15": "8",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Total assets in billion yuan": "21267.28"
+      },
+      {
+         "Year": "2017",
+         "Total assets in billion yuan": "19467.42"
+      },
+      {
+         "Year": "2016",
+         "Total assets in billion yuan": "18148.89"
+      },
+      {
+         "Year": "2015",
+         "Total assets in billion yuan": "16815.6"
+      },
+      {
+         "Year": "2014",
+         "Total assets in billion yuan": "15251.4"
+      },
+      {
+         "Year": "2013",
+         "Total assets in billion yuan": "13874.3"
+      },
+      {
+         "Year": "2012",
+         "Total assets in billion yuan": "12680.6"
+      },
+      {
+         "Year": "2011",
+         "Total assets in billion yuan": "11829.8"
+      },
+      {
+         "Year": "2010",
+         "Total assets in billion yuan": "10459.7"
+      }
+   ]
+}

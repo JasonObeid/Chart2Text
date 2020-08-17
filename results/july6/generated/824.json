@@ -1,0 +1,41 @@
+{
+   "title": "Public opinion on adoption rights for same-sex couples in the U.S. 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the survey on Yes_should usage in the U.S. in 2014 . ",
+      "According to the survey , 63 % of the respondents used an Yes_should , while 63 % did not . ",
+      "2 % of respondents said they did n't No_opinion if they used Yes_should blocking software ."
+   ],
+   "trends": [
+      {
+         "6": "0"
+      },
+      {
+         "5": "0",
+         "12": "0",
+         "15": "0"
+      },
+      {
+         "0": "2",
+         "8": "2",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes should",
+         "Share of respondents": "63"
+      },
+      {
+         "Response": "No should not",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "No opinion",
+         "Share of respondents": "2"
+      }
+   ]
+}

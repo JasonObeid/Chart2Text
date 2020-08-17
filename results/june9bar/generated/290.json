@@ -1,0 +1,67 @@
+{
+   "title": "Global exports of broiler meat 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Export volume in thousand metric tons",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts the forecast Export volume of exports worldwide in 2019 , leading Country . ",
+      "The estimated exports broiler of the United_States were amounted to approximately 3248 thousand metric tons in 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Brazil",
+         "Export volume in thousand metric tons": "3775"
+      },
+      {
+         "Country": "United States",
+         "Export volume in thousand metric tons": "3248"
+      },
+      {
+         "Country": "EU",
+         "Export volume in thousand metric tons": "1500"
+      },
+      {
+         "Country": "Thailand",
+         "Export volume in thousand metric tons": "900"
+      },
+      {
+         "Country": "China",
+         "Export volume in thousand metric tons": "475"
+      },
+      {
+         "Country": "Turkey",
+         "Export volume in thousand metric tons": "400"
+      },
+      {
+         "Country": "Ukraine",
+         "Export volume in thousand metric tons": "350"
+      },
+      {
+         "Country": "Belarus",
+         "Export volume in thousand metric tons": "185"
+      },
+      {
+         "Country": "Russia",
+         "Export volume in thousand metric tons": "180"
+      },
+      {
+         "Country": "Argentina",
+         "Export volume in thousand metric tons": "145"
+      },
+      {
+         "Country": "Canada",
+         "Export volume in thousand metric tons": "130"
+      },
+      {
+         "Country": "Others",
+         "Export volume in thousand metric tons": "331"
+      }
+   ]
+}

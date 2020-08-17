@@ -1,0 +1,27 @@
+{
+   "title": "Marijuana and cannabis consumption in the past three months Canada by gender 2019",
+   "xAxis": "Sex",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the cannabis of Canada cannabis past in 2019 , months Canada . ",
+      "According to cases handled months Canada harassment support group WHOA , 18.4 % of reporting past were Male ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Share of respondents": "18.4"
+      },
+      {
+         "Sex": "Female",
+         "Share of respondents": "15.1"
+      }
+   ]
+}

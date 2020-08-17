@@ -1,0 +1,32 @@
+{
+   "title": "Maritime trade routes - containerized cargo flows 2019",
+   "xAxis": "Trade route",
+   "yAxis": "Cargo flow in million TEUs",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic depicts the Maritime of the surveyed respondents that follow Maritime Baseball . ",
+      "30 million of the Trans-Pacific respondents said that they do follow Maritime Baseball ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Trade route": "Trans-Pacific",
+         "Cargo flow in million TEUs": "30"
+      },
+      {
+         "Trade route": "Europe-Asia-Europe",
+         "Cargo flow in million TEUs": "25"
+      },
+      {
+         "Trade route": "Translatlantic",
+         "Cargo flow in million TEUs": "8"
+      }
+   ]
+}

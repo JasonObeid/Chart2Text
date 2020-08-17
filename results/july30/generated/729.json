@@ -1,0 +1,93 @@
+{
+   "title": "Coca-Cola Company 's net operating revenues worldwide 2007 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenues in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, with a total of 13 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2018 to 2012.",
+      " Additionally, the next significant trend is  negative which exists from 2012 to 2009.",
+      " On the contrary, the next significant trend is  positive which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 1,
+         "end": 7,
+         "trend": "y=-2.38x+4833.89",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 7,
+         "end": 10,
+         "trend": "y=6.25x+-12527.47",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 10,
+         "end": 12,
+         "trend": "y=1.06x+-2107.92",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenues in billion U.S. dollars": 37.27
+      },
+      {
+         "Year": "2018",
+         "Revenues in billion U.S. dollars": 34.3
+      },
+      {
+         "Year": "2017",
+         "Revenues in billion U.S. dollars": 36.21
+      },
+      {
+         "Year": "2016",
+         "Revenues in billion U.S. dollars": 41.86
+      },
+      {
+         "Year": "2015",
+         "Revenues in billion U.S. dollars": 44.29
+      },
+      {
+         "Year": "2014",
+         "Revenues in billion U.S. dollars": 46.0
+      },
+      {
+         "Year": "2013",
+         "Revenues in billion U.S. dollars": 46.85
+      },
+      {
+         "Year": "2012",
+         "Revenues in billion U.S. dollars": 48.02
+      },
+      {
+         "Year": "2011",
+         "Revenues in billion U.S. dollars": 46.54
+      },
+      {
+         "Year": "2010",
+         "Revenues in billion U.S. dollars": 35.12
+      },
+      {
+         "Year": "2009",
+         "Revenues in billion U.S. dollars": 30.99
+      },
+      {
+         "Year": "2008",
+         "Revenues in billion U.S. dollars": 31.94
+      },
+      {
+         "Year": "2007",
+         "Revenues in billion U.S. dollars": 28.86
+      }
+   ]
+}

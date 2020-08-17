@@ -1,0 +1,134 @@
+{
+   "title": "Unemployment rate in Brunei Darussalam 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2013 to 2007.",
+      " But, the next significant trend is  negative which exists from 2004 to 1999.",
+      " On the contrary, the next significant trend is  negative which exists from 2017 to 2014.",
+      " Differently, the next significant trend is  positive which exists from 2007 to 2004."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 6,
+         "end": 12,
+         "trend": "y=0.25x+-491.04",
+         "magnitude": ""
+      },
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 15,
+         "end": 20,
+         "trend": "y=0.08x+-150.39",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 2,
+         "end": 5,
+         "trend": "y=0.79x+-1574.02",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 12,
+         "end": 15,
+         "trend": "y=-0.1x+212.35",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 9.25
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 9.22
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 9.32
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 8.56
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 7.76
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 6.97
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 7.03
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 6.9
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 6.72
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 6.66
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 6.42
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 5.7
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 5.62
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 5.74
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 5.87
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 5.92
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 5.88
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 5.77
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 5.63
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 5.6
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 5.57
+      }
+   ]
+}

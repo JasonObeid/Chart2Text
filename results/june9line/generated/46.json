@@ -1,0 +1,51 @@
+{
+   "title": "Bulgari : turnover 2011 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Turnover in million euros",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Turnover of television million in the 2017 from 2011 to 2017 . ",
+      "According to the source , there were 177.0 million turnover in the 2017 in 2011 a decrease of more almost 10 million from 2011 ."
+   ],
+   "trends": [
+      {
+         "13": "6",
+         "15": "0"
+      },
+      {
+         "7": "0",
+         "15": "0",
+         "25": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Turnover in million euros": "177.0"
+      },
+      {
+         "Year": "2016",
+         "Turnover in million euros": "194.9"
+      },
+      {
+         "Year": "2015",
+         "Turnover in million euros": "143.4"
+      },
+      {
+         "Year": "2014",
+         "Turnover in million euros": "121.6"
+      },
+      {
+         "Year": "2013",
+         "Turnover in million euros": "96.8"
+      },
+      {
+         "Year": "2012",
+         "Turnover in million euros": "104.7"
+      },
+      {
+         "Year": "2011",
+         "Turnover in million euros": "96.4"
+      }
+   ]
+}

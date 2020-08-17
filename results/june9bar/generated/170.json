@@ -1,0 +1,34 @@
+{
+   "title": "Most important export partner countries for Brazil in 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total export",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of Brazil important export partner as of 2019 , sorted for Brazil 2017 Country . ",
+      "During that year , around 21.8 % of all export ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Share in total export": "21.8"
+      },
+      {
+         "Country": "United States",
+         "Share in total export": "12.5"
+      },
+      {
+         "Country": "Argentina",
+         "Share in total export": "8.1"
+      },
+      {
+         "Country": "Netherlands",
+         "Share in total export": "4.3"
+      }
+   ]
+}

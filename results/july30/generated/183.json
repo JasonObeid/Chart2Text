@@ -1,0 +1,113 @@
+{
+   "title": "Franchise value of the Atlanta Braves 2002 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely negative which exists from 2019 to 2009.",
+      " Differently, the next significant trend is extremely negative which exists from 2008 to 2004.",
+      " Conversely, the next significant trend is extremely positive which exists from 2004 to 2002."
+   ],
+   "trends": [
+      {
+         "Length": 11,
+         "direction": "negative",
+         "start": 0,
+         "end": 10,
+         "trend": "y=144.35x+-289785.05",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 11,
+         "end": 15,
+         "trend": "y=32.2x+-64170.0",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 15,
+         "end": 17,
+         "trend": "y=-25.0x+50482.0",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": 1700.0
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": 1625.0
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": 1500.0
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": 1175.0
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": 1150.0
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": 730.0
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": 629.0
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": 508.0
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": 482.0
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": 450.0
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": 446.0
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": 497.0
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": 458.0
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": 405.0
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": 382.0
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": 374.0
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": 423.0
+      },
+      {
+         "Year": "2002",
+         "Franchise value in million U.S. dollars": 424.0
+      }
+   ]
+}

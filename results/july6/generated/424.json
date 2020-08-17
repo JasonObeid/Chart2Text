@@ -1,0 +1,66 @@
+{
+   "title": "Number of Starwood Hotels & Resorts properties worldwide in 2015 , by brand",
+   "xAxis": "Brand",
+   "yAxis": "Number of hotels",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number Starwood Hotels & in Starwood Hotels Resorts 2015 , worldwide Brand . ",
+      "The survey revealed that 446 % of the hotels Starwood St._Regis Brand Hotels & . ",
+      "Residential construction involves the building and selling of both individual and multi-family dwellings ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "3",
+         "10": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "St. Regis",
+         "Number of hotels": "36"
+      },
+      {
+         "Brand": "The Luxury Collection",
+         "Number of hotels": "99"
+      },
+      {
+         "Brand": "W",
+         "Number of hotels": "46"
+      },
+      {
+         "Brand": "Sheraton",
+         "Number of hotels": "446"
+      },
+      {
+         "Brand": "Westin",
+         "Number of hotels": "209"
+      },
+      {
+         "Brand": "Le M\u00e9ridien",
+         "Number of hotels": "103"
+      },
+      {
+         "Brand": "Four Points",
+         "Number of hotels": "210"
+      },
+      {
+         "Brand": "Aloft",
+         "Number of hotels": "104"
+      },
+      {
+         "Brand": "Element",
+         "Number of hotels": "20"
+      },
+      {
+         "Brand": "Tribute",
+         "Number of hotels": "6"
+      },
+      {
+         "Brand": "Independent / Other",
+         "Number of hotels": "18"
+      }
+   ]
+}

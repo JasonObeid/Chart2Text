@@ -1,0 +1,112 @@
+{
+   "title": "Development of the world population until 2050",
+   "xAxis": "Year",
+   "yAxis": "World population in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic presents a population until the 2050 of the World population from 1950 to 2050 . ",
+      "The World population in 2050 is estimated to be until 9.74 billions people . ",
+      "This would be an increase from 3.34 billions people in 1965 ."
+   ],
+   "trends": [
+      {
+         "13": "20",
+         "15": "0"
+      },
+      {
+         "4": "0",
+         "10": "0"
+      },
+      {
+         "6": "17",
+         "10": "17"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2050",
+         "World population in billions": "9.74"
+      },
+      {
+         "Year": "2045",
+         "World population in billions": "9.48"
+      },
+      {
+         "Year": "2040",
+         "World population in billions": "9.2"
+      },
+      {
+         "Year": "2035",
+         "World population in billions": "8.89"
+      },
+      {
+         "Year": "2030",
+         "World population in billions": "8.55"
+      },
+      {
+         "Year": "2025",
+         "World population in billions": "8.18"
+      },
+      {
+         "Year": "2020",
+         "World population in billions": "7.79"
+      },
+      {
+         "Year": "2015",
+         "World population in billions": "7.38"
+      },
+      {
+         "Year": "2010",
+         "World population in billions": "6.96"
+      },
+      {
+         "Year": "2005",
+         "World population in billions": "6.54"
+      },
+      {
+         "Year": "2000",
+         "World population in billions": "6.14"
+      },
+      {
+         "Year": "1995",
+         "World population in billions": "5.74"
+      },
+      {
+         "Year": "1990",
+         "World population in billions": "5.33"
+      },
+      {
+         "Year": "1985",
+         "World population in billions": "4.87"
+      },
+      {
+         "Year": "1980",
+         "World population in billions": "4.46"
+      },
+      {
+         "Year": "1975",
+         "World population in billions": "4.08"
+      },
+      {
+         "Year": "1970",
+         "World population in billions": "3.7"
+      },
+      {
+         "Year": "1965",
+         "World population in billions": "3.34"
+      },
+      {
+         "Year": "1960",
+         "World population in billions": "3.03"
+      },
+      {
+         "Year": "1955",
+         "World population in billions": "2.77"
+      },
+      {
+         "Year": "1950",
+         "World population in billions": "2.54"
+      }
+   ]
+}

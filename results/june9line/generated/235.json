@@ -1,0 +1,70 @@
+{
+   "title": "Annual average housing prices Spain 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Price in euros per square meter built",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Price of square euros per in the Spain from 2007 to 2018 . ",
+      "In 2007 , about 2246 square were 2007 ."
+   ],
+   "trends": [
+      {
+         "14": "0",
+         "16": "11"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2007",
+         "Price in euros per square meter built": "2246"
+      },
+      {
+         "Year": "2008",
+         "Price in euros per square meter built": "2285"
+      },
+      {
+         "Year": "2009",
+         "Price in euros per square meter built": "2185"
+      },
+      {
+         "Year": "2010",
+         "Price in euros per square meter built": "2060"
+      },
+      {
+         "Year": "2011",
+         "Price in euros per square meter built": "1907"
+      },
+      {
+         "Year": "2012",
+         "Price in euros per square meter built": "1768"
+      },
+      {
+         "Year": "2013",
+         "Price in euros per square meter built": "1602"
+      },
+      {
+         "Year": "2014",
+         "Price in euros per square meter built": "1477"
+      },
+      {
+         "Year": "2015",
+         "Price in euros per square meter built": "1431"
+      },
+      {
+         "Year": "2016",
+         "Price in euros per square meter built": "1447"
+      },
+      {
+         "Year": "2017",
+         "Price in euros per square meter built": "1532"
+      },
+      {
+         "Year": "2018",
+         "Price in euros per square meter built": "1613"
+      }
+   ]
+}

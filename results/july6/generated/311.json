@@ -1,0 +1,71 @@
+{
+   "title": "LINE app : quarterly revenue 2012 to 2015",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in billion yen",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the consolidated number of monthly Revenue yen ( LINE ) across billion 's online shopping properties from the fourth Quarter of 2016 to the fourth Quarter of 2012 . ",
+      "As of the last Quarter of 2012 , billion 's Chinese e-commerce properties had been accessed by around 30.0 billion yen LINE ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '15",
+         "Revenue in billion yen": "30.0"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Revenue in billion yen": "29.9"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Revenue in billion yen": "25.3"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Revenue in billion yen": "25.4"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Revenue in billion yen": "23.6"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Revenue in billion yen": "20.9"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Revenue in billion yen": "17.7"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Revenue in billion yen": "14.6"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Revenue in billion yen": "12.2"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Revenue in billion yen": "10.2"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Revenue in billion yen": "7.4"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Revenue in billion yen": "4.5"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Revenue in billion yen": "2.2"
+      }
+   ]
+}

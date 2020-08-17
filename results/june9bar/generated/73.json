@@ -1,0 +1,56 @@
+{
+   "title": "Most important things for young people ( 16 - 24 ) in Great Britain 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among 559 industrial enterprises on their opinion on the Most nation in Family for as of 2018 . ",
+      "At that time , 51 % of respondents stated that they used None_of_the_above passwords for Family to ."
+   ],
+   "trends": [
+      {
+         "20": "0"
+      },
+      {
+         "4": "0",
+         "12": "7",
+         "15": "0",
+         "17": "0",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Family",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Friends",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Having a good education",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "Living a healthy active lifestyle",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "Having money",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Doing good things for the community",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "The environment",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "None of the above",
+         "Share of respondents": "5"
+      }
+   ]
+}

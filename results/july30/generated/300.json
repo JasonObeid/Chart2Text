@@ -1,0 +1,75 @@
+{
+   "title": "Yandex : annual revenue 2007 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion Russian rubles",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion Russian rubles with a total of 13 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2019 to 2007."
+   ],
+   "trends": [
+      {
+         "Length": 13,
+         "direction": "negative",
+         "start": 0,
+         "end": 12,
+         "trend": "y=12.42x+-24943.58",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in billion Russian rubles": 175.39
+      },
+      {
+         "Year": "2018",
+         "Revenue in billion Russian rubles": 127.66
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion Russian rubles": 94.1
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion Russian rubles": 75.9
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion Russian rubles": 59.8
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion Russian rubles": 50.77
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion Russian rubles": 39.5
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion Russian rubles": 28.77
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion Russian rubles": 20.03
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion Russian rubles": 12.5
+      },
+      {
+         "Year": "2009",
+         "Revenue in billion Russian rubles": 8.73
+      },
+      {
+         "Year": "2008",
+         "Revenue in billion Russian rubles": 7.65
+      },
+      {
+         "Year": "2007",
+         "Revenue in billion Russian rubles": 4.25
+      }
+   ]
+}

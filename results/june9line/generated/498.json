@@ -1,0 +1,106 @@
+{
+   "title": "Cotton price received by U.S. farmers 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Price per pound in U.S. cents",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Cotton price received per pound in the U.S. from 1990 to 2018 . ",
+      "In calendar Year 2017 , the average price per one pound of Cotton received was about 86.85 U.S. cents ."
+   ],
+   "trends": [
+      {
+         "14": "20",
+         "16": "0"
+      },
+      {
+         "3": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Price per pound in U.S. cents": "86.85"
+      },
+      {
+         "Year": "2017",
+         "Price per pound in U.S. cents": "84.48"
+      },
+      {
+         "Year": "2016",
+         "Price per pound in U.S. cents": "64.7"
+      },
+      {
+         "Year": "2015",
+         "Price per pound in U.S. cents": "61.49"
+      },
+      {
+         "Year": "2014",
+         "Price per pound in U.S. cents": "74.9"
+      },
+      {
+         "Year": "2013",
+         "Price per pound in U.S. cents": "77.23"
+      },
+      {
+         "Year": "2012",
+         "Price per pound in U.S. cents": "79.5"
+      },
+      {
+         "Year": "2011",
+         "Price per pound in U.S. cents": "88.02"
+      },
+      {
+         "Year": "2010",
+         "Price per pound in U.S. cents": "70.95"
+      },
+      {
+         "Year": "2009",
+         "Price per pound in U.S. cents": "49.15"
+      },
+      {
+         "Year": "2008",
+         "Price per pound in U.S. cents": "60.79"
+      },
+      {
+         "Year": "2007",
+         "Price per pound in U.S. cents": "49.96"
+      },
+      {
+         "Year": "2006",
+         "Price per pound in U.S. cents": "47.53"
+      },
+      {
+         "Year": "2005",
+         "Price per pound in U.S. cents": "42.69"
+      },
+      {
+         "Year": "2004",
+         "Price per pound in U.S. cents": "54.3"
+      },
+      {
+         "Year": "2003",
+         "Price per pound in U.S. cents": "51.65"
+      },
+      {
+         "Year": "2002",
+         "Price per pound in U.S. cents": "33.63"
+      },
+      {
+         "Year": "2001",
+         "Price per pound in U.S. cents": "38.86"
+      },
+      {
+         "Year": "2000",
+         "Price per pound in U.S. cents": "49.81"
+      },
+      {
+         "Year": "1995",
+         "Price per pound in U.S. cents": "77.21"
+      },
+      {
+         "Year": "1990",
+         "Price per pound in U.S. cents": "64.83"
+      }
+   ]
+}

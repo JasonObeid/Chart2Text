@@ -1,0 +1,50 @@
+{
+   "title": "Change of domestic heating oil price in selected countries 2018 to 2019",
+   "xAxis": "Country",
+   "yAxis": "Change in heating oil price",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Change of the Change domestic heating oil in the price as of 2019 , countries Country . ",
+      "In 2018 , there were 5.9 % of all oil ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Change in heating oil price": "7"
+      },
+      {
+         "Country": "Italy",
+         "Change in heating oil price": "5.9"
+      },
+      {
+         "Country": "Spain",
+         "Change in heating oil price": "5.9"
+      },
+      {
+         "Country": "France",
+         "Change in heating oil price": "4"
+      },
+      {
+         "Country": "United Kingdom",
+         "Change in heating oil price": "0.8"
+      },
+      {
+         "Country": "Japan",
+         "Change in heating oil price": "-0.1"
+      },
+      {
+         "Country": "Germany",
+         "Change in heating oil price": "-4.4"
+      },
+      {
+         "Country": "United States",
+         "Change in heating oil price": "-"
+      }
+   ]
+}

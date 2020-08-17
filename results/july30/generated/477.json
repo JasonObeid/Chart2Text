@@ -1,0 +1,54 @@
+{
+   "title": "Profile of Millennial travelers in the U.S. as of July 2016\n",
+   "xAxis": "Profile Type",
+   "yAxis": "Average Traveler Psychographic Intensity Index score",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Profile Type, and a y axis representing Average Traveler Psychographic Intensity Index score.",
+      " The highest category is found at Cultural_interest where Average Traveler Psychographic Intensity Index score is 70.3.",
+      " The lowest category is found at Price_sensitivity where Average Traveler Psychographic Intensity Index score is 55.4."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "Profile Type": "Cultural interest",
+         "Average Traveler Psychographic Intensity Index score": 70.3
+      },
+      {
+         "Profile Type": "Exploration hungry",
+         "Average Traveler Psychographic Intensity Index score": 69.5
+      },
+      {
+         "Profile Type": "Food and cuisine driven traveler",
+         "Average Traveler Psychographic Intensity Index score": 68.5
+      },
+      {
+         "Profile Type": "Wants the real destination not commercial tourism product",
+         "Average Traveler Psychographic Intensity Index score": 65.2
+      },
+      {
+         "Profile Type": "Connected during leisure travel and its planning",
+         "Average Traveler Psychographic Intensity Index score": 65.1
+      },
+      {
+         "Profile Type": "Intensively plans leisure travel",
+         "Average Traveler Psychographic Intensity Index score": 60.5
+      },
+      {
+         "Profile Type": "Nature lovers",
+         "Average Traveler Psychographic Intensity Index score": 58.8
+      },
+      {
+         "Profile Type": "Activity seekers",
+         "Average Traveler Psychographic Intensity Index score": 56.9
+      },
+      {
+         "Profile Type": "Price sensitivity",
+         "Average Traveler Psychographic Intensity Index score": 55.4
+      }
+   ]
+}

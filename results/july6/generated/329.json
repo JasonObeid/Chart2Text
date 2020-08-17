@@ -1,0 +1,99 @@
+{
+   "title": "Monthly ARPU through mobile subscribers in the UK 2007 - 2016 , by pay type",
+   "labels": [
+      "Year",
+      "Post-pay",
+      "Blended",
+      "Pre-pay"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the ARPU of mobile prisoners in Finland from 2007 to 2016 , broken down 2016 the by of prison pay . ",
+      "4.74\u00a3 % of mobile prisoners with six or Pre-pay previous prison pay released in 2016 returned to prison within a five-year period ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "9",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "0": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Post-pay": "21.25\u00a3",
+         "Blended": "15.19\u00a3",
+         "Pre-pay": "4.74\u00a3"
+      },
+      {
+         "Year": "2015",
+         "Post-pay": "21.99\u00a3",
+         "Blended": "15.02\u00a3",
+         "Pre-pay": "4.73\u00a3"
+      },
+      {
+         "Year": "2014",
+         "Post-pay": "22.97\u00a3",
+         "Blended": "15.38\u00a3",
+         "Pre-pay": "5.01\u00a3"
+      },
+      {
+         "Year": "2013",
+         "Post-pay": "24.45\u00a3",
+         "Blended": "15.89\u00a3",
+         "Pre-pay": "5.58\u00a3"
+      },
+      {
+         "Year": "2012",
+         "Post-pay": "27.35\u00a3",
+         "Blended": "16.87\u00a3",
+         "Pre-pay": "6.16\u00a3"
+      },
+      {
+         "Year": "2011",
+         "Post-pay": "29.05\u00a3",
+         "Blended": "16.94\u00a3",
+         "Pre-pay": "6.41\u00a3"
+      },
+      {
+         "Year": "2010",
+         "Post-pay": "28.15\u00a3",
+         "Blended": "15.6\u00a3",
+         "Pre-pay": "6.23\u00a3"
+      },
+      {
+         "Year": "2009",
+         "Post-pay": "30\u00a3",
+         "Blended": "16\u00a3",
+         "Pre-pay": "7.07\u00a3"
+      },
+      {
+         "Year": "2008",
+         "Post-pay": "32.78\u00a3",
+         "Blended": "17.15\u00a3",
+         "Pre-pay": "7.24\u00a3"
+      },
+      {
+         "Year": "2007",
+         "Post-pay": "34.58\u00a3",
+         "Blended": "17.4\u00a3",
+         "Pre-pay": "7.43\u00a3"
+      }
+   ]
+}

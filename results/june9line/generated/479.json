@@ -1,0 +1,52 @@
+{
+   "title": "Average spending on Christmas gifts in the U.S .",
+   "xAxis": "Year",
+   "yAxis": "Average estimated amount in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Average of Christmas U.S ( LoL ) monthly active amount worldwide from 2006 to 2011 . ",
+      "In 2011 , LoL had 712 million Christmas U.S , up from 909 million in 2007 . ",
+      "Being one of the most prominent eSports games , in 2007 LoL championship finals attracted 36 million viewers worldwide ."
+   ],
+   "trends": [
+      {
+         "17": "0",
+         "19": "5"
+      },
+      {
+         "1": "5",
+         "5": "5",
+         "11": "1",
+         "14": "1"
+      },
+      {
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2006",
+         "Average estimated amount in U.S. dollars": "907"
+      },
+      {
+         "Year": "2007",
+         "Average estimated amount in U.S. dollars": "909"
+      },
+      {
+         "Year": "2008",
+         "Average estimated amount in U.S. dollars": "801"
+      },
+      {
+         "Year": "2009",
+         "Average estimated amount in U.S. dollars": "740"
+      },
+      {
+         "Year": "2010",
+         "Average estimated amount in U.S. dollars": "715"
+      },
+      {
+         "Year": "2011",
+         "Average estimated amount in U.S. dollars": "712"
+      }
+   ]
+}

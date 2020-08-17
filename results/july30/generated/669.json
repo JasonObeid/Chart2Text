@@ -1,0 +1,78 @@
+{
+   "title": "Leading primetime TV programming genres viewed in the U.S. 2015\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 15 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Sitcoms_or_comedy where Share of respondents is 48.0.",
+      " The lowest category is found at Soap_operas where Share of respondents is 4.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 14
+   },
+   "data": [
+      {
+         "Response": "Sitcoms or comedy",
+         "Share of respondents": 48.0
+      },
+      {
+         "Response": "Movies",
+         "Share of respondents": 43.0
+      },
+      {
+         "Response": "Drama",
+         "Share of respondents": 42.0
+      },
+      {
+         "Response": "Reality",
+         "Share of respondents": 34.0
+      },
+      {
+         "Response": "Action/adventure",
+         "Share of respondents": 32.0
+      },
+      {
+         "Response": "History or science",
+         "Share of respondents": 27.0
+      },
+      {
+         "Response": "News/public affairs",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Sports",
+         "Share of respondents": 22.0
+      },
+      {
+         "Response": "'How to\" or home-related",
+         "Share of respondents": 17.0
+      },
+      {
+         "Response": "Weather",
+         "Share of respondents": 13.0
+      },
+      {
+         "Response": "Talk or interview",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Children's",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Other type not listed",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Music videos",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Soap operas",
+         "Share of respondents": 4.0
+      }
+   ]
+}

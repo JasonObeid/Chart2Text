@@ -1,0 +1,97 @@
+{
+   "title": "UEFA ( Union of European Football Associations ) total revenue 2004 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million euros, with a total of 14 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2015/16 to 2012/13.",
+      " Differently, the next significant trend is  negative which exists from 2007/08 to 2004/05.",
+      " Contrarily, the next significant trend is  positive which exists from 2017/18 to 2015/16."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 2,
+         "end": 5,
+         "trend": "y=901.17x+-1811980.68",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 10,
+         "end": 13,
+         "trend": "y=424.93x+-851094.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-895.0x+1807721.83",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Revenue in million euros": 2789.8
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million euros": 2835.9
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million euros": 4579.8
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million euros": 2099.41
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million euros": 1730.4
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million euros": 1698.9
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million euros": 2795.7
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million euros": 1384.1
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million euros": 1394.7
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million euros": 907.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million euros": 1925.26
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million euros": 1151.6
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million euros": 700.45
+      },
+      {
+         "Year": "2004/05",
+         "Revenue in million euros": 659.2
+      }
+   ]
+}

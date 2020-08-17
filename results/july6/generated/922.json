@@ -1,0 +1,133 @@
+{
+   "title": "Daily online activities of adult U.S. internet users 2017 , by age",
+   "labels": [
+      "unknown",
+      "18-29",
+      "30-59",
+      "60+"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the results of a survey conducted irregularly between Buy_a_product_online and None_of_the_above among adult Americans and the Daily of online activities in the U.S. as of 2017 . ",
+      "During the survey , 49 % of respondents stated that they approved of Send_instant_messages and Get_news_online ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "13",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "7",
+            "0"
+         ],
+         "15": [
+            "4",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Buy a product online",
+         "18-29": "49",
+         "30-59": "49",
+         "60+": "41"
+      },
+      {
+         "unknown": "Buy or make a reservation for travel",
+         "18-29": "13",
+         "30-59": "22",
+         "60+": "15"
+      },
+      {
+         "unknown": "Check weather reports and forecasts online",
+         "18-29": "50",
+         "30-59": "57",
+         "60+": "61"
+      },
+      {
+         "unknown": "Do any banking online",
+         "18-29": "49",
+         "30-59": "55",
+         "60+": "55"
+      },
+      {
+         "unknown": "Get news online",
+         "18-29": "57",
+         "30-59": "64",
+         "60+": "58"
+      },
+      {
+         "unknown": "Look for news and information about politics",
+         "18-29": "29",
+         "30-59": "39",
+         "60+": "40"
+      },
+      {
+         "unknown": "Participate in an online auction",
+         "18-29": "12",
+         "30-59": "11",
+         "60+": "8"
+      },
+      {
+         "unknown": "Send instant messages",
+         "18-29": "49",
+         "30-59": "43",
+         "60+": "24"
+      },
+      {
+         "unknown": "Send or read e-mail",
+         "18-29": "77",
+         "30-59": "86",
+         "60+": "91"
+      },
+      {
+         "unknown": "Use a search engine to find information",
+         "18-29": "67",
+         "30-59": "72",
+         "60+": "70"
+      },
+      {
+         "unknown": "Use a social networking site",
+         "18-29": "74",
+         "30-59": "67",
+         "60+": "49"
+      },
+      {
+         "unknown": "Use classified ads sites like Craigslist",
+         "18-29": "16",
+         "30-59": "17",
+         "60+": "12"
+      },
+      {
+         "unknown": "Watch a video on a video-sharing site",
+         "18-29": "55",
+         "30-59": "40",
+         "60+": "20"
+      },
+      {
+         "unknown": "None of the above",
+         "18-29": "1",
+         "30-59": "1",
+         "60+": "2"
+      },
+      {
+         "unknown": "I don\u2019t use the Internet",
+         "18-29": "0",
+         "30-59": "1",
+         "60+": "0"
+      }
+   ]
+}

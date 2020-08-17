@@ -1,0 +1,38 @@
+{
+   "title": "Countries with the highest proportion of soccer players 2010\n",
+   "xAxis": "Country",
+   "yAxis": "Proportion of soccer players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Country, and a y axis representing Proportion of soccer players.",
+      " The highest category is found at Germany where Proportion of soccer players is 19.8.",
+      " The lowest category is found at The_Netherlands where Proportion of soccer players is 10.4."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Country": "Germany",
+         "Proportion of soccer players": 19.8
+      },
+      {
+         "Country": "Chile",
+         "Proportion of soccer players": 15.7
+      },
+      {
+         "Country": "Paraguay",
+         "Proportion of soccer players": 14.8
+      },
+      {
+         "Country": "Slovakia",
+         "Proportion of soccer players": 11.4
+      },
+      {
+         "Country": "The Netherlands",
+         "Proportion of soccer players": 10.4
+      }
+   ]
+}

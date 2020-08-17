@@ -1,0 +1,52 @@
+{
+   "title": "Quarterly average daily rate of hotels in San Francisco 2016 to 2017",
+   "labels": [
+      "Quarter",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Quarterly average daily rate of hotels in San Francisco 2016 and 2017 . ",
+      "In the first Quarter of 2017 , the average daily rate of hotels in San Francisco the country was 338 U.S. dollars . ",
+      "Accommodation in San Francisco - additional information The average daily rate of hotels in San Francisco appears to be much higher in the fourth Quarter of the year , reaching 324 U.S. dollars in 2016 ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": [
+            "3",
+            "2"
+         ]
+      },
+      {
+         "28": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4",
+         "2016": "320",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2016": "324",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q2",
+         "2016": "322",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q1",
+         "2016": "324",
+         "2017": "338"
+      }
+   ]
+}

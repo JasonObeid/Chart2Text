@@ -1,0 +1,98 @@
+{
+   "title": "Driving theory test pass rates in the United Kingdom 2007 - 2019 by gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Driving estimated annual theory to test different universities and college institutions in the pass for academic years 2018/19 to 2007/08 . ",
+      "The Driving theory of attendance ( which includes tuition , fees room and board ) in Male Female in-state institutions was 68.9 United Kingdom dollars in the academic Year 2007/08 ."
+   ],
+   "trends": [
+      {
+         "21": [
+            "0",
+            "0"
+         ],
+         "23": [
+            "11",
+            "0"
+         ]
+      },
+      {
+         "22": [
+            "11",
+            "2"
+         ],
+         "29": [
+            "11",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Male": "45.7",
+         "Female": "49.2"
+      },
+      {
+         "Year": "2017/18",
+         "Male": "46.8",
+         "Female": "50.7"
+      },
+      {
+         "Year": "2016/17",
+         "Male": "46.8",
+         "Female": "50.7"
+      },
+      {
+         "Year": "2015/16",
+         "Male": "47.7",
+         "Female": "51"
+      },
+      {
+         "Year": "2014/15",
+         "Male": "48.7",
+         "Female": "53.6"
+      },
+      {
+         "Year": "2013/14",
+         "Male": "48.8",
+         "Female": "54.7"
+      },
+      {
+         "Year": "2012/13",
+         "Male": "56.2",
+         "Female": "62.3"
+      },
+      {
+         "Year": "2011/12",
+         "Male": "58.1",
+         "Female": "63.7"
+      },
+      {
+         "Year": "2010/11",
+         "Male": "60.4",
+         "Female": "66"
+      },
+      {
+         "Year": "2009/10",
+         "Male": "61.1",
+         "Female": "66.9"
+      },
+      {
+         "Year": "2008/09",
+         "Male": "62.6",
+         "Female": "68.7"
+      },
+      {
+         "Year": "2007/08",
+         "Male": "62.3",
+         "Female": "68.9"
+      }
+   ]
+}

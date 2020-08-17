@@ -1,0 +1,38 @@
+{
+   "title": "India : mobile activities as of January 2018\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Visit_a_social_network where Share of respondents is 21.0.",
+      " The lowest category is found at Look_for_product_information where Share of respondents is 4.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Response": "Visit a social network",
+         "Share of respondents": 21.0
+      },
+      {
+         "Response": "Watch videos",
+         "Share of respondents": 16.0
+      },
+      {
+         "Response": "Use a search engine",
+         "Share of respondents": 15.0
+      },
+      {
+         "Response": "Look for product information",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Play games",
+         "Share of respondents": 4.0
+      }
+   ]
+}

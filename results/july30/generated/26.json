@@ -1,0 +1,78 @@
+{
+   "title": "Top-selling DVDs in the U.S. in 2019\n",
+   "xAxis": "Movies",
+   "yAxis": "Number of units sold in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 15 categories for the x axis representing Movies, and a y axis representing Number of units sold in thousands.",
+      " The highest category is found at The_Goonies where Number of units sold in thousands is 903.47.",
+      " The lowest category is found at Aladdin where Number of units sold in thousands is 506.52."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 14
+   },
+   "data": [
+      {
+         "Movies": "The Goonies",
+         "Number of units sold in thousands": 903.47
+      },
+      {
+         "Movies": "Aquaman",
+         "Number of units sold in thousands": 868.93
+      },
+      {
+         "Movies": "Bohemian Rhapsody",
+         "Number of units sold in thousands": 855.06
+      },
+      {
+         "Movies": "Avengers: Endgame",
+         "Number of units sold in thousands": 848.49
+      },
+      {
+         "Movies": "Captain Marvel",
+         "Number of units sold in thousands": 840.92
+      },
+      {
+         "Movies": "A Star is Born",
+         "Number of units sold in thousands": 832.1
+      },
+      {
+         "Movies": "How to Train Your Dragon: The Hidden World",
+         "Number of units sold in thousands": 686.49
+      },
+      {
+         "Movies": "Hocus Pocus",
+         "Number of units sold in thousands": 656.63
+      },
+      {
+         "Movies": "Matilda",
+         "Number of units sold in thousands": 569.92
+      },
+      {
+         "Movies": "John Wick: Chapter 3 - Parabellum",
+         "Number of units sold in thousands": 567.68
+      },
+      {
+         "Movies": "Fantastic Beasts: The Crimes of Grindelwald",
+         "Number of units sold in thousands": 542.02
+      },
+      {
+         "Movies": "Bumblebee",
+         "Number of units sold in thousands": 531.96
+      },
+      {
+         "Movies": "Dr. Seuss' The Grinch",
+         "Number of units sold in thousands": 529.48
+      },
+      {
+         "Movies": "Pokemon: Detective Pikachu",
+         "Number of units sold in thousands": 509.33
+      },
+      {
+         "Movies": "Aladdin",
+         "Number of units sold in thousands": 506.52
+      }
+   ]
+}

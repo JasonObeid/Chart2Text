@@ -1,0 +1,58 @@
+{
+   "title": "Total and mobile messenger app retention rates 2014 to 2015",
+   "labels": [
+      "Year",
+      "Average",
+      "Messaging apps"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This graph shows the percentage of Americans app were rates in 2014 , distinguished 2015 and . ",
+      "In 2014 , 47.51 % of the Average Americans , aged 12th_month 1st_month and 12th_month , were rates ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": [
+            "4",
+            "0"
+         ],
+         "12": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "4",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "1st month",
+         "Average": "36",
+         "Messaging apps": "68"
+      },
+      {
+         "Year": "2nd month",
+         "Average": "29",
+         "Messaging apps": "67"
+      },
+      {
+         "Year": "3rd month",
+         "Average": "25",
+         "Messaging apps": "65"
+      },
+      {
+         "Year": "6th month",
+         "Average": "18",
+         "Messaging apps": "62"
+      },
+      {
+         "Year": "12th month",
+         "Average": "11",
+         "Messaging apps": "62"
+      }
+   ]
+}

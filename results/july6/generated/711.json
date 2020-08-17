@@ -1,0 +1,96 @@
+{
+   "title": "World 's largest cities",
+   "labels": [
+      "unknown",
+      "2010",
+      "2025"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the World 's of the largest S\u00e3o_Paulo cities in and , cities . ",
+      "In , the World 's of the Tokyo , and Tokyo cities of the largest S\u00e3o_Paulo cities amounted to an estimated 37.1 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "8": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ],
+         "12": [
+            "0",
+            "0"
+         ],
+         "17": [
+            "2",
+            "0"
+         ],
+         "23": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Tokyo",
+         "2010": "36.7",
+         "2025": "37.1"
+      },
+      {
+         "unknown": "Delhi",
+         "2010": "22.2",
+         "2025": "28.6"
+      },
+      {
+         "unknown": "S\u00e3o Paulo",
+         "2010": "20.3",
+         "2025": "21.7"
+      },
+      {
+         "unknown": "Mumbai",
+         "2010": "20.0",
+         "2025": "25.8"
+      },
+      {
+         "unknown": "Mexico City",
+         "2010": "19.5",
+         "2025": "20.7"
+      },
+      {
+         "unknown": "New York-Newark",
+         "2010": "19.4",
+         "2025": "20.6"
+      },
+      {
+         "unknown": "Shanghai",
+         "2010": "16.6",
+         "2025": "20.0"
+      },
+      {
+         "unknown": "Calcutta",
+         "2010": "15.6",
+         "2025": "20.1"
+      },
+      {
+         "unknown": "Dhaka",
+         "2010": "14.6",
+         "2025": "20.9"
+      },
+      {
+         "unknown": "Karachi",
+         "2010": "13.1",
+         "2025": "18.7"
+      }
+   ]
+}

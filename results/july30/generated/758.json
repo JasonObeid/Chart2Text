@@ -1,0 +1,85 @@
+{
+   "title": "National debt in the US in relation to gross domestic product ( GDP ) 2024 \n",
+   "xAxis": "Year",
+   "yAxis": "National debt in relation to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing National debt in relation to GDP, with a total of 11 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2024 to 2018.",
+      " Contrarily, the next significant trend is  positive which exists from 2018 to 2016.",
+      " In a similar manner, the next significant trend is  negative which exists from 2016 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 0,
+         "end": 6,
+         "trend": "y=1.95x+-3838.07",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 6,
+         "end": 8,
+         "trend": "y=-1.28x+2687.45",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=1.2x+-2322.78",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in relation to GDP": 115.77
+      },
+      {
+         "Year": "2023",
+         "National debt in relation to GDP": 114.19
+      },
+      {
+         "Year": "2022",
+         "National debt in relation to GDP": 112.25
+      },
+      {
+         "Year": "2021",
+         "National debt in relation to GDP": 109.99
+      },
+      {
+         "Year": "2020",
+         "National debt in relation to GDP": 108.02
+      },
+      {
+         "Year": "2019",
+         "National debt in relation to GDP": 106.22
+      },
+      {
+         "Year": "2018",
+         "National debt in relation to GDP": 104.26
+      },
+      {
+         "Year": "2017",
+         "National debt in relation to GDP": 105.99
+      },
+      {
+         "Year": "2016",
+         "National debt in relation to GDP": 106.82
+      },
+      {
+         "Year": "2015",
+         "National debt in relation to GDP": 104.65
+      },
+      {
+         "Year": "2014",
+         "National debt in relation to GDP": 104.41
+      }
+   ]
+}

@@ -1,0 +1,78 @@
+{
+   "title": "Number of road deaths in Romania 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "graphType": "line",
+   "summary": [
+      "There were 1818 road deaths recorded in Romania 2014 . ",
+      "Romania had been able to decrease the Number of people fatally injured on its roads by nearly half since 2006 . ",
+      "2011 and 2015 were the only years in which the Number of fatal accidents increased ."
+   ],
+   "trends": [
+      {
+         "2": "4",
+         "9": "4"
+      },
+      {
+         "19": "12"
+      },
+      {
+         "0": "7",
+         "2": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": "1867"
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": "1951"
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": "1913"
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": "1893"
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": "1818"
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": "1861"
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": "2042"
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": "2018"
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": "2377"
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": "2797"
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": "3065"
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": "2800"
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": "2587"
+      }
+   ]
+}

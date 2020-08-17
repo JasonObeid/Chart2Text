@@ -1,0 +1,79 @@
+{
+   "title": "Smartphone users in the United States 2010 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Smartphone users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows Smartphone conceptions in United States and leading to 2023 from 2010 to 2023 . ",
+      "The figures show a general decrease in the Smartphone of 2023 , amounting to under 62.6 thousand in 2010 ."
+   ],
+   "trends": [
+      {
+         "13": "13",
+         "15": "0"
+      },
+      {
+         "16": "13",
+         "19": "13"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Smartphone users in millions": "285.3"
+      },
+      {
+         "Year": "2022",
+         "Smartphone users in millions": "281.9"
+      },
+      {
+         "Year": "2021",
+         "Smartphone users in millions": "277.8"
+      },
+      {
+         "Year": "2020",
+         "Smartphone users in millions": "272.6"
+      },
+      {
+         "Year": "2019",
+         "Smartphone users in millions": "265.9"
+      },
+      {
+         "Year": "2018",
+         "Smartphone users in millions": "257.3"
+      },
+      {
+         "Year": "2017",
+         "Smartphone users in millions": "246.6"
+      },
+      {
+         "Year": "2016",
+         "Smartphone users in millions": "208.61"
+      },
+      {
+         "Year": "2015",
+         "Smartphone users in millions": "190.64"
+      },
+      {
+         "Year": "2014",
+         "Smartphone users in millions": "171.0"
+      },
+      {
+         "Year": "2013",
+         "Smartphone users in millions": "144.5"
+      },
+      {
+         "Year": "2012",
+         "Smartphone users in millions": "122.0"
+      },
+      {
+         "Year": "2011",
+         "Smartphone users in millions": "92.8"
+      },
+      {
+         "Year": "2010",
+         "Smartphone users in millions": "62.6"
+      }
+   ]
+}

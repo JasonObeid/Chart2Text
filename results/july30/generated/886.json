@@ -1,0 +1,34 @@
+{
+   "title": "Number of assaults by weapon U.S. 2018\n",
+   "xAxis": "Weapon used",
+   "yAxis": "Number of assaults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Weapon used, and a y axis representing Number of assaults.",
+      " The highest category is found at Other_weapon where Number of assaults is 223997.0.",
+      " The lowest category is found at Knife_or_cutting_instrument where Number of assaults is 123253.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Weapon used": "Other weapon",
+         "Number of assaults": 223997.0
+      },
+      {
+         "Weapon used": "Firearm",
+         "Number of assaults": 185437.0
+      },
+      {
+         "Weapon used": "Personal weapons",
+         "Number of assaults": 179008.0
+      },
+      {
+         "Weapon used": "Knife or cutting instrument",
+         "Number of assaults": 123253.0
+      }
+   ]
+}

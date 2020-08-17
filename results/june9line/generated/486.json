@@ -1,0 +1,45 @@
+{
+   "title": "Forecast on U.S. petroleum refinery end-use market output 2020 to 2024",
+   "xAxis": "Year",
+   "yAxis": "Change from year to year",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays a Forecast of the petroleum and refinery end-use from output in the U.S. year 2020 to 2024 . ",
+      "year 2022 to 2023 , the petroleum and refinery end-use from output is expected to increase by 2.2 % . ",
+      "Appreciation of the U.S. dollar is likely to reduce costs and increase production in the chemical industry ."
+   ],
+   "trends": [
+      {
+         "17": "4",
+         "19": "0"
+      },
+      {
+         "1": "2",
+         "3": "1",
+         "17": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Change from year to year": "2"
+      },
+      {
+         "Year": "2023",
+         "Change from year to year": "0.5"
+      },
+      {
+         "Year": "2022",
+         "Change from year to year": "0.5"
+      },
+      {
+         "Year": "2021",
+         "Change from year to year": "0.8"
+      },
+      {
+         "Year": "2020",
+         "Change from year to year": "2.2"
+      }
+   ]
+}

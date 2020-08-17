@@ -1,0 +1,58 @@
+{
+   "title": "Latin America & the Caribbean : athletes in 2018 Winter Games , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Number of athletes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Number of athletes.",
+      " The highest category is found at Total where Number of athletes is 37.0.",
+      " The lowest category is found at Puerto_Rico where Number of athletes is 1.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Country": "Total",
+         "Number of athletes": 37.0
+      },
+      {
+         "Country": "Puerto Rico",
+         "Number of athletes": 1.0
+      },
+      {
+         "Country": "Ecuador",
+         "Number of athletes": 1.0
+      },
+      {
+         "Country": "Bolivia",
+         "Number of athletes": 2.0
+      },
+      {
+         "Country": "Jamaica",
+         "Number of athletes": 3.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of athletes": 4.0
+      },
+      {
+         "Country": "Colombia",
+         "Number of athletes": 4.0
+      },
+      {
+         "Country": "Argentina",
+         "Number of athletes": 6.0
+      },
+      {
+         "Country": "Chile",
+         "Number of athletes": 7.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of athletes": 9.0
+      }
+   ]
+}

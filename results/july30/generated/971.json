@@ -1,0 +1,125 @@
+{
+   "title": "Unemployment rate in Egypt 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2019 to 2013.",
+      " Additionally, the next significant trend is extremely negative which exists from 2003 to 1999.",
+      " But, the next significant trend is extremely positive which exists from 2008 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 0,
+         "end": 6,
+         "trend": "y=-0.36x+746.72",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 16,
+         "end": 20,
+         "trend": "y=0.71x+-1421.27",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 11,
+         "end": 14,
+         "trend": "y=-0.97x+1962.08",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 11.29
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 11.44
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 11.77
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 12.41
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 13.05
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 13.11
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 13.15
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 12.6
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 11.85
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 11.85
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 9.09
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 8.52
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 8.8
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 10.49
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 11.2
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 10.32
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 11.01
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 10.01
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 9.26
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 8.98
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 7.95
+      }
+   ]
+}

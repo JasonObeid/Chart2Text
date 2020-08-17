@@ -1,0 +1,72 @@
+Example 13:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2018']}
+title: U.S. exports - top trading partners 2018
+X_Axis['Country']: ['Canada', 'Mexico', 'China', 'Japan', 'United_Kingdom', 'Germany', 'Korea_South', 'Netherlands', 'Brazil', 'Hong_Kong', 'France', 'Singapore', 'India', 'Belgium', 'Taiwan']
+Y_Axis['Export', 'value', 'in', 'billion', 'U.S.', 'dollars']: ['298.7', '265.0', '120.3', '75.0', '66.2', '57.7', '56.3', '49.4', '39.5', '37.5', '36.3', '33.1', '33.1', '31.4', '30.2']
+
+gold: This graph shows the largest trading partners for the United States in 2018 , by value of exported trade goods . In 2018 , the United States exported trade goods worth about 39.5 billion U.S. dollars to Brazil .
+gold_template: This graph shows the largest templateTitle[3] templateTitle[4] for the templateXValue[4] States in templateTitleDate[0] , by templateYLabel[1] of exported trade goods . In templateTitleDate[0] , the templateXValue[4] States exported trade goods worth about templateYValue[8] templateScale templateYLabel[3] templateYLabel[4] to templateXValue[8] .
+
+generated_template: This statistic shows the templateYLabel[0] of the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleDate[0] , broken down templateTitle[4] templateXLabel[0] . According to the source , templateXValue[4] had a templateYLabel[0] of templateYValue[4] templateYLabel[1] templateYLabel[2] .
+generated: This statistic shows the Export of the U.S. exports top trading in 2018 , broken down partners Country .  According to the source , United_Kingdom had a Export of 66.2 value billion .
+
+Example 49:
+titleEntities: {'Subject': ['Most'], 'Date': ['2019']}
+title: Most popular global mobile messaging apps 2019
+X_Axis['Platform']: ['WhatsApp', 'Facebook_Messenger', 'WeChat', 'QQ_Mobile', 'Snapchat', 'Telegram']
+Y_Axis['Monthly', 'active', 'users', 'in', 'millions']: ['1600', '1300', '1133', '808', '314', '200']
+
+gold: As of October 2019 , 1.6 billion users were accessing the WhatsApp messenger on a monthly basis . The app 's reach is usage penetration is particularly strong in markets outside of the United States and it is one of the most popular mobile social apps worldwide . In February 2014 , social network Facebook acquired the mobile app for 19 billion U.S. dollars .
+gold_template: As of October templateTitleDate[0] , templateYValue[max] templateScale templateYLabel[2] were accessing the templateXValue[0] templateXValue[1] on a templateYLabel[0] basis . The app 's reach is usage penetration is particularly strong in markets outside of the country and it is one of the templateTitleSubject[0] templateTitle[1] templateXValue[3] social templateTitle[5] worldwide . In 2014 , social network templateXValue[1] acquired the templateXValue[3] app for 19 templateScale U.S. dollars .
+
+generated_template: This statistic presents a ranking of the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] in the United Kingdom ( templateTitleSubject[0] ) . During the survey period , it was found that templateXValue[0] had templateYValue[max] templateScale templateYLabel[2] .
+generated: This statistic presents a ranking of the Most popular global mobile in the United Kingdom ( Most ) .  During the survey period , it was found that WhatsApp had 1600 millions users .
+
+Example 52:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2017']}
+title: Number of women murdered by men in the U.S. by state 2017
+X_Axis['U.S.', 'states']: ['California', 'Texas', 'Georgia', 'Pennsylvania', 'Ohio', 'New_York', 'Virginia', 'Tennessee', 'Arizona', 'North_Carolina', 'Louisiana', 'Michigan', 'South_Carolina', 'Missouri', 'Illinois', 'Washington', 'New_Jersey', 'Kentucky', 'Maryland', 'Indiana', 'Arkansas', 'Colorado', 'Nevada', 'Wisconsin', 'Oklahoma', 'Massachusetts', 'Mississippi', 'Oregon', 'Minnesota', 'Kansas', 'West_Virginia', 'New_Mexico', 'Connecticut', 'Alaska', 'Idaho', 'Iowa', 'Utah', 'Montana', 'Delaware', 'Nebraska', 'Hawaii', 'Vermont', 'South_Dakota', 'Rhode_Island', 'Maine', 'North_Dakoda', 'New_Hampshire', 'Wyoming']
+Y_Axis['Number', 'of', 'homicide', 'victims']: ['232', '221', '96', '82', '78', '74', '73', '69', '68', '65', '63', '58', '52', '51', '49', '42', '41', '40', '39', '38', '34', '32', '30', '30', '28', '23', '22', '21', '21', '16', '15', '15', '15', '14', '13', '12', '12', '10', '7', '7', '6', '6', '6', '5', '5', '4', '4', '4']
+
+gold: This statistic shows the number of female homicide victims in single offender homicides per state in the United States in 2017 . In 2017 , there were 221 women killed by male single offenders in the state of Texas . Texas was the state with the highest number of women murdered by men in single offender homicides .
+gold_template: This statistic shows the templateYLabel[0] of female templateYLabel[1] templateYLabel[2] in single offender homicides per templateTitle[7] in the templateTitle[5] in templateTitleDate[0] . In templateTitleDate[0] , there were templateYValue[1] templateTitle[1] killed templateTitle[3] male single offenders in the templateTitle[7] of templateXValue[1] . templateXValue[1] was the templateTitle[7] with the highest templateYLabel[0] of templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in single offender homicides .
+
+generated_template: This statistic shows the templateYLabel[0] of internet users in the templateTitle[0] who were using templateTitleSubject[0] as of 2020 . During the survey period , it was found that just templateYValue[4] templateScale of internet users had been accessed here .
+generated: This statistic shows the Number of internet users in the Number who were using U.S. as of 2020 .  During the survey period , it was found that just 78 % of internet users had been accessed here .
+
+Example 112:
+titleEntities: {'Subject': ['Rakuten Group', 'GMS'], 'Date': ['2014', '2019']}
+title: Rakuten Group : quarterly domestic e-commerce GMS 2014 to 2019
+X_Axis['Quarter']: ["Q4_'19", "Q3_'19", "Q2_'19", "Q1_'19", "Q4_'18", "Q3_'18", "Q2_'18", "Q1_'18", "Q4_'17", "Q3_'17", "Q2_'17", "Q1_'17", "Q4_'16", "Q3_'16", "Q2_'16", "Q1_'16", "Q4_'15", "Q3_'15", "Q2_'15", "Q1_'15", "Q4_'14", "Q3_'14", "Q2_'14", "Q1_'14"]
+Y_Axis['Gross', 'merchandise', 'sales', 'in', 'billion', 'Japanese', 'yen']: ['1053.1', '1012.8', '921.9', '871.7', '974.4', '855.3', '805.2', '770.0', '868.0', '771.3', '735.8', '704.0', '778.4', '748.9', '705.4', '682.8', '741.8', '685.3', '640.8', '611.9', '671.0', '607.7', '548.6', '607.0']
+
+gold: In the fourth quarter of 2019 , the domestic gross transaction value of the Rakuten Group 's e-commerce sectors amounted to approximately 1.05 trillion Japanese yen , up 8.1 percent compared to the fourth quarter of the previous year . The company is headquartered in Tokyo , where it was founded in 1997 .
+gold_template: In the fourth templateXLabel[0] of templateTitleDate[max] , the templateTitle[3] templateYLabel[0] transaction value of the templateTitleSubject[0] 's templateTitle[4] sectors amounted to approximately templateYValue[max] templateScale templateYLabel[4] templateYLabel[5] , up 8.1 templateScale compared to the fourth templateXLabel[0] of the previous year . The company is headquartered in Tokyo , where it was founded in 1997 .
+
+generated_template: This statistic gives information on the templateYLabel[0] of templateTitleSubject[0] templateYLabel[2] templateTitle[1] from the first templateXLabel[0] of templateTitleDate[min] to the fourth templateXLabel[0] of templateTitleDate[max] . In the fourth templateXLabel[0] of templateTitleDate[max] , templateTitle[0] 's templateTitle[1] templateYLabel[1] templateYLabel[2] amounted to templateYValue[min] templateScale of Japanese e-commerce company .
+generated: This statistic gives information on the Gross of Rakuten Group sales Group from the first Quarter of 2014 to the fourth Quarter of 2019 .  In the fourth Quarter of 2019 , Rakuten 's Group merchandise sales amounted to 548.6 billion of Japanese e-commerce company .
+
+Example 151:
+titleEntities: {'Subject': ['Share'], 'Date': ['2012']}
+title: Share of global seeds market value by country 2012
+X_Axis['Country']: ['United_States', 'China', 'France', 'Brazil', 'Canada', 'India', 'Japan', 'Germany', 'Argentina', 'Italy']
+Y_Axis['Market', 'value', 'share']: ['26.71', '22.15', '6.23', '5.84', '4.72', '4.45', '3.01', '2.6', '2.2', '1.71']
+
+gold: This graph depicts the shares of the global seeds market value in 2012 , by country . The United States and China both held more than 20 percent of the market value worldwide in that year .
+gold_template: This graph depicts the shares of the templateTitle[1] templateTitle[2] templateYLabel[0] templateYLabel[1] in templateTitleDate[0] , templateTitle[5] templateXLabel[0] . The templateXValue[0] and templateXValue[1] both held more than 20 templateScale of the templateYLabel[0] templateYLabel[1] worldwide in that year .
+
+generated_template: This statistic shows the templateYLabel[0] of the templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleDate[0] . In that year , the templateXValue[0] was the templateTitle[0] templateTitle[2] templateXLabel[0] .
+generated: This statistic shows the Market of the global seeds market in 2012 .  In that year , the United_States was the Share seeds Country .
+
+Example 202:
+titleEntities: {'Subject': ['U.S.'], 'Date': []}
+title: U.S. women who have given oral sex to a male in their lifetime , by age group
+X_Axis['Age', 'group']: ['14-15', '16-17', '18-19', '20-24', '25-29', '30-39', '40-49', '50-59', '60-69', '70_and_older']
+Y_Axis['Share', 'of', 'respondents']: ['13', '29', '61', '78', '89', '80', '83', '80', '73', '43']
+
+gold: This statistic shows the share of American women who have ever given oral sex to a male in their lifetime , sorted by age group . The findings were acquired in early 2009 and published in the Journal of Sexual Medicine , a publication on sexual behavior in the United States , in 2010 . 89 percent of respondents aged 25 to 29 stated they have given oral sex to a male at some time during their life .
+gold_template: This statistic shows the templateYLabel[0] of American templateTitle[1] templateTitle[2] templateTitle[3] ever templateTitle[4] templateTitle[5] templateTitle[6] to a templateTitle[7] in templateTitle[8] templateTitle[9] , sorted templateTitle[10] templateXLabel[0] templateXLabel[1] . The findings were acquired in early 2009 and published in the Journal of Sexual Medicine , a publication on sexual behavior in the templateTitle[0] , in 2010 . templateYValue[max] templateScale of templateYLabel[1] aged 25 to templateYValue[1] stated they templateTitle[3] templateTitle[4] templateTitle[5] templateTitle[6] to a templateTitle[7] at some time during templateTitle[8] life .
+
+generated_template: This statistic shows the templateYLabel[0] of American templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] templateTitle[6] at some point during templateTitle[7] templateTitle[8] , sorted templateTitle[9] templateXLabel[0] templateXLabel[1] . The findings were acquired in early 2009 and published in the Journal of Sexual Medicine , a publication on sexual behavior in the templateTitle[0] , in 2010 . templateYValue[max] templateScale of templateYLabel[1] aged 25 to 29 stated they templateTitle[3] templateTitle[4] templateTitle[5] templateTitle[6] at some point during templateTitle[7] life .
+generated: This statistic shows the Share of American women who have given oral sex at some point during male their , sorted lifetime Age group .  The findings were acquired in early 2009 and published in the Journal of Sexual Medicine , a publication on sexual behavior in the U.S. , in 2010 .  89 % of respondents aged 25 to 29 stated they have given oral sex at some point during male life .
+

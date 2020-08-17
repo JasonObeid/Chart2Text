@@ -1,0 +1,104 @@
+{
+   "title": "U.S. per capita consumption of yogurt 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds per person",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Per of Scottish capita consumption the rest of the United Kingdom consumption 2000 to 2018 . ",
+      "With the exception of 2001 , 2010 and 2014 , the Per of U.S. capita has increased consumption 6.5 % in 2000 to approximately 14.9 % by 2014 ."
+   ],
+   "trends": [
+      {
+         "16": "18",
+         "18": "0"
+      },
+      {
+         "4": "17",
+         "6": "8",
+         "8": "4",
+         "18": "18",
+         "21": "18",
+         "24": "4",
+         "27": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds per person": "13.4"
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds per person": "13.7"
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds per person": "13.7"
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds per person": "14.4"
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds per person": "14.9"
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds per person": "14.9"
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds per person": "14.0"
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds per person": "13.6"
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds per person": "13.5"
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds per person": "12.5"
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds per person": "11.8"
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds per person": "11.6"
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds per person": "11.1"
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds per person": "10.4"
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds per person": "9.2"
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds per person": "8.7"
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds per person": "8.0"
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds per person": "7.0"
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds per person": "6.5"
+      }
+   ]
+}

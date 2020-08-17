@@ -1,0 +1,34 @@
+{
+   "title": "Mass shootings in the U.S. : legality of shooter 's weapons , as of February 2020\n",
+   "xAxis": "Category Of The Weapon",
+   "yAxis": "Number of incidents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Category Of The Weapon, and a y axis representing Number of incidents.",
+      " The highest category is found at Legally_obtained where Number of incidents is 82.0.",
+      " The lowest category is found at Some_weapons_were_legally_obtained_others_possibly_illegally where Number of incidents is 1.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Category Of The Weapon": "Legally obtained",
+         "Number of incidents": 82.0
+      },
+      {
+         "Category Of The Weapon": "Illegally obtained",
+         "Number of incidents": 16.0
+      },
+      {
+         "Category Of The Weapon": "Unknown/to be determined",
+         "Number of incidents": 18.0
+      },
+      {
+         "Category Of The Weapon": "Some weapons were legally obtained others possibly illegally",
+         "Number of incidents": 1.0
+      }
+   ]
+}

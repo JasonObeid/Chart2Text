@@ -1,0 +1,98 @@
+{
+   "title": "Electricity prices for households in Luxembourg 2010 - 2019 , semi-annually",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Electricity prices for household end users in Luxembourg semi-annually from 2010_S2 to 2019_S1 . ",
+      "In the second half of 2018_S2 , the average Electricity price for households was 17.98 Euro cents per kWh ."
+   ],
+   "trends": [
+      {
+         "14": "17",
+         "16": "0"
+      },
+      {
+         "5": "1",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019 S1",
+         "Euro cents per kilowatt-hour": "17.98"
+      },
+      {
+         "Year": "2018 S2",
+         "Euro cents per kilowatt-hour": "16.91"
+      },
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": "16.71"
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": "16.18"
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": "16.15"
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": "16.98"
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": "16.98"
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": "17.67"
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": "17.67"
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": "17.38"
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": "17.38"
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": "16.46"
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": "16.65"
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": "17.06"
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": "16.96"
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": "16.62"
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": "16.78"
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": "17.47"
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": "17.26"
+      }
+   ]
+}

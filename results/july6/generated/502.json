@@ -1,0 +1,113 @@
+{
+   "title": "Employment by economic sector in Austria 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the distribution of Employment in Austria by economic sector from 2009 to 2019 . ",
+      "In 2019 , 3.86 % of the employees in Austria were active in the agricultural sector , 24.47 % in Industry and 71.67 % in the service sector ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "3.86",
+         "Industry": "24.47",
+         "Services": "71.67"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "3.9",
+         "Industry": "24.68",
+         "Services": "71.43"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "3.93",
+         "Industry": "24.92",
+         "Services": "71.15"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "4.35",
+         "Industry": "25.56",
+         "Services": "70.09"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "4.53",
+         "Industry": "25.76",
+         "Services": "69.71"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "4.84",
+         "Industry": "25.75",
+         "Services": "69.41"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "4.58",
+         "Industry": "25.91",
+         "Services": "69.52"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "4.68",
+         "Industry": "26.08",
+         "Services": "69.25"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "4.94",
+         "Industry": "26.03",
+         "Services": "69.04"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "5.21",
+         "Industry": "24.91",
+         "Services": "69.88"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "5.32",
+         "Industry": "24.97",
+         "Services": "69.71"
+      }
+   ]
+}

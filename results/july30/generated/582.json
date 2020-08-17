@@ -1,0 +1,106 @@
+{
+   "title": "Activision Blizzard 's net income/loss from 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net income in million U.S. dollars, with a total of 14 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2012 to 2008.",
+      " Conversely, the next significant trend is  negative which exists from 2016 to 2014.",
+      " Differently, the next significant trend is  positive which exists from 2014 to 2012.",
+      " Correspondingly, the next significant trend is  negative which exists from 2007 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 6,
+         "end": 10,
+         "trend": "y=305.6x+-613681.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=65.5x+-131084.83",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-157.0x+317039.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 11,
+         "end": 13,
+         "trend": "y=91.0x+-182409.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Net income in million U.S. dollars": 1813.0
+      },
+      {
+         "Year": "2017",
+         "Net income in million U.S. dollars": 273.0
+      },
+      {
+         "Year": "2016",
+         "Net income in million U.S. dollars": 966.0
+      },
+      {
+         "Year": "2015",
+         "Net income in million U.S. dollars": 892.0
+      },
+      {
+         "Year": "2014",
+         "Net income in million U.S. dollars": 835.0
+      },
+      {
+         "Year": "2013",
+         "Net income in million U.S. dollars": 1010.0
+      },
+      {
+         "Year": "2012",
+         "Net income in million U.S. dollars": 1149.0
+      },
+      {
+         "Year": "2011",
+         "Net income in million U.S. dollars": 1085.0
+      },
+      {
+         "Year": "2010",
+         "Net income in million U.S. dollars": 418.0
+      },
+      {
+         "Year": "2009",
+         "Net income in million U.S. dollars": 113.0
+      },
+      {
+         "Year": "2008",
+         "Net income in million U.S. dollars": 107.0
+      },
+      {
+         "Year": "2007",
+         "Net income in million U.S. dollars": 227.0
+      },
+      {
+         "Year": "2006",
+         "Net income in million U.S. dollars": 139.0
+      },
+      {
+         "Year": "2005",
+         "Net income in million U.S. dollars": 45.0
+      }
+   ]
+}

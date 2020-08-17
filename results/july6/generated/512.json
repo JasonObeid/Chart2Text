@@ -1,0 +1,78 @@
+{
+   "title": "Fatalities - U.S. train crashes 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "U.S. travel fatalities have been recorded in each of the last 12 years , with a total of 878 deaths in 2018 due to U.S. crashes . ",
+      "However , despite some pronounced year-to-year differences , the overall trend has been for a reduction in the Number of fatalities \u2013 a trend confirmed when looking at a slightly longer or much longer time frame . ",
+      "Fatal airline accidents According to the Convention on International Civil Aviation , U.S. train fatalities refer to an incident where a person is fatally injured due to an occurrence associated with the operation of the aircraft ."
+   ],
+   "trends": [
+      {
+         "18": "0",
+         "21": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": "878"
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": "823"
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": "760"
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": "749"
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": "768"
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": "702"
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": "669"
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": "681"
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": "735"
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": "695"
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": "804"
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": "851"
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": "903"
+      },
+      {
+         "Year": "2005",
+         "Number of fatalities": "884"
+      }
+   ]
+}

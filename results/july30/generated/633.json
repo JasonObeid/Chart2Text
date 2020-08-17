@@ -1,0 +1,50 @@
+{
+   "title": "FIFA World Cup 2014 Brazil total costs\n",
+   "xAxis": "Breakdown of Project",
+   "yAxis": "Costs in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Breakdown of Project, and a y axis representing Costs in million U.S. dollars.",
+      " The highest category is found at Stadium_construction_&_renovation where Costs in million U.S. dollars is 3600.0.",
+      " The lowest category is found at Tourism_infrastructure_projects where Costs in million U.S. dollars is 76.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 7
+   },
+   "data": [
+      {
+         "Breakdown of Project": "Stadium construction & renovation",
+         "Costs in million U.S. dollars": 3600.0
+      },
+      {
+         "Breakdown of Project": "Urban mobility projects",
+         "Costs in million U.S. dollars": 3400.0
+      },
+      {
+         "Breakdown of Project": "Upgrades at airports",
+         "Costs in million U.S. dollars": 2600.0
+      },
+      {
+         "Breakdown of Project": "Public security & military defence forces",
+         "Costs in million U.S. dollars": 797.0
+      },
+      {
+         "Breakdown of Project": "Port infrastructure",
+         "Costs in million U.S. dollars": 249.0
+      },
+      {
+         "Breakdown of Project": "Telecommunications networks & services",
+         "Costs in million U.S. dollars": 171.0
+      },
+      {
+         "Breakdown of Project": "Complementary work for Confederations Cup",
+         "Costs in million U.S. dollars": 88.0
+      },
+      {
+         "Breakdown of Project": "Tourism infrastructure projects",
+         "Costs in million U.S. dollars": 76.0
+      }
+   ]
+}

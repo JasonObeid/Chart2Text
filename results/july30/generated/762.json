@@ -1,0 +1,35 @@
+{
+   "title": "Worldwide shipments of smart watches 2013 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Shipments in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Shipments in millions with a total of 3 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2015 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=11.84x+-23844.63",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Shipments in millions": 24.92
+      },
+      {
+         "Year": "2014",
+         "Shipments in millions": 7.44
+      },
+      {
+         "Year": "2013",
+         "Shipments in millions": 1.23
+      }
+   ]
+}

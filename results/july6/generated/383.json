@@ -1,0 +1,127 @@
+{
+   "title": "Deep and surface mining coal production in the United Kingdom ( UK ) 1970 to 2018",
+   "labels": [
+      "Year",
+      "Deep mined",
+      "Surface mining"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Deep of surface and mining coal in the production from 1970 to 2018 . ",
+      "In 1970 , there were 7390 Deep and 7390 Surface mining coal in the production ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "16",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "16",
+            "0"
+         ],
+         "5": [
+            "0",
+            "1"
+         ],
+         "8": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Deep mined": "7390",
+         "Surface mining": "10426"
+      },
+      {
+         "Year": "2017",
+         "Deep mined": "7520",
+         "Surface mining": "9854"
+      },
+      {
+         "Year": "2016",
+         "Deep mined": "8096",
+         "Surface mining": "9509"
+      },
+      {
+         "Year": "2015",
+         "Deep mined": "7674",
+         "Surface mining": "8866"
+      },
+      {
+         "Year": "2014",
+         "Deep mined": "9444",
+         "Surface mining": "8635"
+      },
+      {
+         "Year": "2013",
+         "Deep mined": "9563",
+         "Surface mining": "10445"
+      },
+      {
+         "Year": "2012",
+         "Deep mined": "12542",
+         "Surface mining": "11993"
+      },
+      {
+         "Year": "2011",
+         "Deep mined": "15633",
+         "Surface mining": "12126"
+      },
+      {
+         "Year": "2010",
+         "Deep mined": "16391",
+         "Surface mining": "13148"
+      },
+      {
+         "Year": "2005",
+         "Deep mined": "17347",
+         "Surface mining": "14166"
+      },
+      {
+         "Year": "2000",
+         "Deep mined": "17188",
+         "Surface mining": "13412"
+      },
+      {
+         "Year": "1995",
+         "Deep mined": "35150",
+         "Surface mining": "16369"
+      },
+      {
+         "Year": "1990",
+         "Deep mined": "72899",
+         "Surface mining": "19863"
+      },
+      {
+         "Year": "1985",
+         "Deep mined": "75289",
+         "Surface mining": "18822"
+      },
+      {
+         "Year": "1980",
+         "Deep mined": "112430",
+         "Surface mining": "17667"
+      },
+      {
+         "Year": "1975",
+         "Deep mined": "117412",
+         "Surface mining": "11271"
+      },
+      {
+         "Year": "1970",
+         "Deep mined": "136686",
+         "Surface mining": "10509"
+      }
+   ]
+}

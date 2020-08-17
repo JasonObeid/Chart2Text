@@ -1,0 +1,66 @@
+{
+   "title": "Share of Americans with at least one tattoo - by age 2003 to 2015",
+   "labels": [
+      "Country",
+      "2003",
+      "2008",
+      "2012",
+      "2015"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 6 categories for the x axis of Country representing 2003, 2008, 2012, and 2015.",
+      " The highest category is found at 30 to 39 with a mean value of 36.5.",
+      " The second highest category is found at 25 to 29 with a mean value of 35.0.",
+      " This represents a difference of 4.2%."
+   ],
+   "trends": {
+      "maxIndex": 2,
+      "secondIndex": 2
+   },
+   "data": [
+      {
+         "Country": "18 to 24",
+         "2003": "13",
+         "2008": "9",
+         "2012": "22",
+         "2015": "35"
+      },
+      {
+         "Country": "25 to 29",
+         "2003": "36",
+         "2008": "32",
+         "2012": "30",
+         "2015": "42"
+      },
+      {
+         "Country": "30 to 39",
+         "2003": "28",
+         "2008": "25",
+         "2012": "38",
+         "2015": "55"
+      },
+      {
+         "Country": "40 to 49",
+         "2003": "14",
+         "2008": "12",
+         "2012": "27",
+         "2015": "33"
+      },
+      {
+         "Country": "50 to 64",
+         "2003": "10",
+         "2008": "8",
+         "2012": "11",
+         "2015": "13"
+      },
+      {
+         "Country": "65 and older",
+         "2003": "7",
+         "2008": "9",
+         "2012": "5",
+         "2015": "11"
+      }
+   ]
+}

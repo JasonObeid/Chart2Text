@@ -1,0 +1,119 @@
+{
+   "title": "Sales volume of USB flash drives in Germany 2004 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Sales volume in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Sales volume in millions, with a total of 15 data points. The chart has 5 significant trends.",
+      " The longest trend is  negative which exists from 2008 to 2004.",
+      " On the contrary, the next significant trend is  negative which exists from 2016 to 2013.",
+      " Conversely, the next significant trend is  positive which exists from 2018 to 2016.",
+      " In a similar manner, the next significant trend is  negative which exists from 2012 to 2010.",
+      " Conversely, the next significant trend is  positive which exists from 2010 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 10,
+         "end": 14,
+         "trend": "y=2.69x+-5393.87",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 2,
+         "end": 5,
+         "trend": "y=0.85x+-1695.04",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-1.65x+3332.15",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 6,
+         "end": 8,
+         "trend": "y=2.04x+-4078.57",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 8,
+         "end": 10,
+         "trend": "y=-0.61x+1238.08",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales volume in millions": 12.88
+      },
+      {
+         "Year": "2017",
+         "Sales volume in millions": 13.51
+      },
+      {
+         "Year": "2016",
+         "Sales volume in millions": 16.17
+      },
+      {
+         "Year": "2015",
+         "Sales volume in millions": 15.94
+      },
+      {
+         "Year": "2014",
+         "Sales volume in millions": 15.46
+      },
+      {
+         "Year": "2013",
+         "Sales volume in millions": 13.5
+      },
+      {
+         "Year": "2012",
+         "Sales volume in millions": 15.85
+      },
+      {
+         "Year": "2011",
+         "Sales volume in millions": 13.82
+      },
+      {
+         "Year": "2010",
+         "Sales volume in millions": 11.78
+      },
+      {
+         "Year": "2009",
+         "Sales volume in millions": 12.99
+      },
+      {
+         "Year": "2008",
+         "Sales volume in millions": 13.0
+      },
+      {
+         "Year": "2007",
+         "Sales volume in millions": 8.18
+      },
+      {
+         "Year": "2006",
+         "Sales volume in millions": 5.0
+      },
+      {
+         "Year": "2005",
+         "Sales volume in millions": 3.2
+      },
+      {
+         "Year": "2004",
+         "Sales volume in millions": 2.03
+      }
+   ]
+}

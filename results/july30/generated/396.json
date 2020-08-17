@@ -1,0 +1,52 @@
+{
+   "title": "Snap worldwide net income 2015 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Income/ loss in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Income/ loss in million U.S. dollars, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2019 to 2017.",
+      " Similarly, the next significant trend is  negative which exists from 2017 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-1205.7x+2435024.24",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=1536.09x+-3095313.24",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Income/ loss in million U.S. dollars": 1033.66
+      },
+      {
+         "Year": "2018",
+         "Income/ loss in million U.S. dollars": 1255.91
+      },
+      {
+         "Year": "2017",
+         "Income/ loss in million U.S. dollars": 3445.07
+      },
+      {
+         "Year": "2016",
+         "Income/ loss in million U.S. dollars": 514.64
+      },
+      {
+         "Year": "2015",
+         "Income/ loss in million U.S. dollars": 372.89
+      }
+   ]
+}

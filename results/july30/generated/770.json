@@ -1,0 +1,47 @@
+{
+   "title": "Number of Spotify employees 2011 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of employees with a total of 6 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2018 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 0,
+         "end": 5,
+         "trend": "y=522.14x+-1050085.15",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": 4165.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 2162.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 1581.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 1365.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 958.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 311.0
+      }
+   ]
+}

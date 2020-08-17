@@ -1,0 +1,62 @@
+{
+   "title": "Top U.S. hospital operators based on number of hospitals 2019",
+   "xAxis": "Operator (City, State)",
+   "yAxis": "Number of hospitals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of hospitals in U.S. 2019 , operators Operator . ",
+      "In 2019 , the Top Number of hospitals in U.S. was Hospital_Corporation_of_America_(Nashville_Tenn.) , making it Atrium_Health_(Charlotte_N.C.) and in Hospital_Corporation_of_America_(Nashville_Tenn.) ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "15": "9",
+         "17": "9",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Operator (City, State)": "Hospital Corporation of America (Nashville Tenn.)",
+         "Number of hospitals": "185"
+      },
+      {
+         "Operator (City, State)": "Ascension Health (St. Louis)",
+         "Number of hospitals": "151"
+      },
+      {
+         "Operator (City, State)": "CommonSpirit Health (Chicago Ill.)",
+         "Number of hospitals": "142"
+      },
+      {
+         "Operator (City, State)": "Community Health Systems (Franklin Tenn.)",
+         "Number of hospitals": "105"
+      },
+      {
+         "Operator (City, State)": "Trinity Health (Livonia Mich.)",
+         "Number of hospitals": "92"
+      },
+      {
+         "Operator (City, State)": "LifePoint Hospitals (Brentwood Tenn.)",
+         "Number of hospitals": "86"
+      },
+      {
+         "Operator (City, State)": "Tenet Healthcare Corp. (Dallas Tex.)",
+         "Number of hospitals": "65"
+      },
+      {
+         "Operator (City, State)": "Vibra Healthcare (Mechanicsburg Pa.)",
+         "Number of hospitals": "65"
+      },
+      {
+         "Operator (City, State)": "Providence Health & Services (Renton Wash.)",
+         "Number of hospitals": "51"
+      },
+      {
+         "Operator (City, State)": "Atrium Health (Charlotte N.C.)",
+         "Number of hospitals": "50"
+      }
+   ]
+}

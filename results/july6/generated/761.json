@@ -1,0 +1,111 @@
+{
+   "title": "Median age of the population in Poland 2015",
+   "xAxis": "Year",
+   "yAxis": "Median age in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The Median age in Poland was 30.7 years old in 1985 , meaning half the population was older than this at the time , and half older . ",
+      "This figure has increased since its low point in 1970 , which was likely due to the Poland War . ",
+      "The Median age is expected to increase 51.2 years by 2050 ."
+   ],
+   "trends": [
+      {
+         "6": "13",
+         "10": "13"
+      },
+      {
+         "9": "16"
+      },
+      {
+         "8": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2050",
+         "Median age in years": "51.2"
+      },
+      {
+         "Year": "2045",
+         "Median age in years": "50.8"
+      },
+      {
+         "Year": "2040",
+         "Median age in years": "49.7"
+      },
+      {
+         "Year": "2035",
+         "Median age in years": "48.0"
+      },
+      {
+         "Year": "2030",
+         "Median age in years": "46.0"
+      },
+      {
+         "Year": "2025",
+         "Median age in years": "43.7"
+      },
+      {
+         "Year": "2020",
+         "Median age in years": "41.7"
+      },
+      {
+         "Year": "2015",
+         "Median age in years": "39.7"
+      },
+      {
+         "Year": "2010",
+         "Median age in years": "38.1"
+      },
+      {
+         "Year": "2005",
+         "Median age in years": "36.6"
+      },
+      {
+         "Year": "2000",
+         "Median age in years": "35.0"
+      },
+      {
+         "Year": "1995",
+         "Median age in years": "33.6"
+      },
+      {
+         "Year": "1990",
+         "Median age in years": "32.2"
+      },
+      {
+         "Year": "1985",
+         "Median age in years": "30.7"
+      },
+      {
+         "Year": "1980",
+         "Median age in years": "29.5"
+      },
+      {
+         "Year": "1975",
+         "Median age in years": "28.6"
+      },
+      {
+         "Year": "1970",
+         "Median age in years": "28.1"
+      },
+      {
+         "Year": "1965",
+         "Median age in years": "27.4"
+      },
+      {
+         "Year": "1960",
+         "Median age in years": "26.5"
+      },
+      {
+         "Year": "1955",
+         "Median age in years": "26.0"
+      },
+      {
+         "Year": "1950",
+         "Median age in years": "25.8"
+      }
+   ]
+}

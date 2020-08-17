@@ -1,0 +1,41 @@
+{
+   "title": "Distribution of Reddit.com traffic 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Share of traffic",
+   "graphType": "bar",
+   "summary": [
+      "This statistic represents the regional Distribution of Reddit.com traffic in the last 3.27 months . ",
+      "As of October 2019 , the United_States accounted for 49.57 % of desktop traffic to the visual blogging site during this period of time ."
+   ],
+   "trends": [
+      {
+         "12": "4"
+      },
+      {
+         "6": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of traffic": "49.57"
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of traffic": "7.79"
+      },
+      {
+         "Country": "Canada",
+         "Share of traffic": "7.75"
+      },
+      {
+         "Country": "Australia",
+         "Share of traffic": "4.28"
+      },
+      {
+         "Country": "Germany",
+         "Share of traffic": "3.27"
+      }
+   ]
+}

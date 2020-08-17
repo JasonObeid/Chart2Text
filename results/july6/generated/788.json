@@ -1,0 +1,143 @@
+{
+   "title": "Occupancy rate of Marriott International hotels 2010 - 2018 , by region",
+   "labels": [
+      "Year",
+      "North America",
+      "Caribbean & Latin America",
+      "Europe",
+      "United Kingdom",
+      "Middle East & Africa",
+      "Asia Pacific",
+      "Overall worldwide"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Occupancy rate Marriott International ( RevPAR ) of Marriott International hotels worldwide from 2010 to 2019 , region . ",
+      "The RevPAR of Marriott International 2018 in North America was 75.8 U.S. dollars in 2019 ."
+   ],
+   "trends": [
+      {
+         "16": [
+            "0",
+            "0"
+         ],
+         "18": [
+            "9",
+            "0"
+         ]
+      },
+      {
+         "9": [
+            "9",
+            "1"
+         ],
+         "13": [
+            "9",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "North America": "68.1",
+         "Caribbean & Latin America": "70.7",
+         "Europe": "71.1",
+         "United Kingdom": "76.4",
+         "Middle East & Africa": "70.5",
+         "Asia Pacific": "66.7",
+         "Overall worldwide": "68.7"
+      },
+      {
+         "Year": "2011",
+         "North America": "70.2",
+         "Caribbean & Latin America": "72.6",
+         "Europe": "73.2",
+         "United Kingdom": "0",
+         "Middle East & Africa": "58.8",
+         "Asia Pacific": "73.1",
+         "Overall worldwide": "70.3"
+      },
+      {
+         "Year": "2012",
+         "North America": "71.6",
+         "Caribbean & Latin America": "72.3",
+         "Europe": "72.7",
+         "United Kingdom": "0",
+         "Middle East & Africa": "61.8",
+         "Asia Pacific": "73",
+         "Overall worldwide": "71.4"
+      },
+      {
+         "Year": "2013",
+         "North America": "72.3",
+         "Caribbean & Latin America": "73.5",
+         "Europe": "73.5",
+         "United Kingdom": "0",
+         "Middle East & Africa": "55.7",
+         "Asia Pacific": "73",
+         "Overall worldwide": "70.7"
+      },
+      {
+         "Year": "2014",
+         "North America": "74.2",
+         "Caribbean & Latin America": "73.6",
+         "Europe": "74.9",
+         "United Kingdom": "0",
+         "Middle East & Africa": "60.1",
+         "Asia Pacific": "73.7",
+         "Overall worldwide": "73.7"
+      },
+      {
+         "Year": "2015",
+         "North America": "74.7",
+         "Caribbean & Latin America": "72.4",
+         "Europe": "75.9",
+         "United Kingdom": "0",
+         "Middle East & Africa": "61.2",
+         "Asia Pacific": "74.1",
+         "Overall worldwide": "74.1"
+      },
+      {
+         "Year": "2016",
+         "North America": "75.8",
+         "Caribbean & Latin America": "65.3",
+         "Europe": "71.8",
+         "United Kingdom": "0",
+         "Middle East & Africa": "64.6",
+         "Asia Pacific": "75.2",
+         "Overall worldwide": "72.5"
+      },
+      {
+         "Year": "2017",
+         "North America": "76",
+         "Caribbean & Latin America": "66.5",
+         "Europe": "73.5",
+         "United Kingdom": "0",
+         "Middle East & Africa": "65.7",
+         "Asia Pacific": "72.8",
+         "Overall worldwide": "73.7"
+      },
+      {
+         "Year": "2018",
+         "North America": "75.7",
+         "Caribbean & Latin America": "64.8",
+         "Europe": "74",
+         "United Kingdom": "0",
+         "Middle East & Africa": "66.4",
+         "Asia Pacific": "73.5",
+         "Overall worldwide": "73.7"
+      },
+      {
+         "Year": "2019",
+         "North America": "75.8",
+         "Caribbean & Latin America": "65.1",
+         "Europe": "74.7",
+         "United Kingdom": "0",
+         "Middle East & Africa": "68.5",
+         "Asia Pacific": "72.4",
+         "Overall worldwide": "73.7"
+      }
+   ]
+}

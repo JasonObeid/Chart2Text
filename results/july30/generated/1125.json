@@ -1,0 +1,54 @@
+{
+   "title": "Crude oil imports to Canada by region of origin 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Imports in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Country, and a y axis representing Imports in million metric tons.",
+      " The highest category is found at Total where Imports in million metric tons is 29.1.",
+      " The lowest category is found at Russia where Imports in million metric tons is 0.2."
+   ],
+   "trends": {
+      "maxIndex": 8,
+      "minIndex": 7
+   },
+   "data": [
+      {
+         "Country": "United States",
+         "Imports in million metric tons": 18.8
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Imports in million metric tons": 5.6
+      },
+      {
+         "Country": "West Africa",
+         "Imports in million metric tons": 1.1
+      },
+      {
+         "Country": "Europe",
+         "Imports in million metric tons": 1.4
+      },
+      {
+         "Country": "CIS (excluding Russia)",
+         "Imports in million metric tons": 1.1
+      },
+      {
+         "Country": "North Africa",
+         "Imports in million metric tons": 0.5
+      },
+      {
+         "Country": "South and Central America",
+         "Imports in million metric tons": 0.3
+      },
+      {
+         "Country": "Russia",
+         "Imports in million metric tons": 0.2
+      },
+      {
+         "Country": "Total",
+         "Imports in million metric tons": 29.1
+      }
+   ]
+}

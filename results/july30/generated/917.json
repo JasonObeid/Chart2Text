@@ -1,0 +1,97 @@
+{
+   "title": "Expenditure on beer in the United Kingdom 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Expenditure in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Expenditure in million GBP, with a total of 14 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2014 to 2010.",
+      " On the other hand, the next significant trend is  negative which exists from 2018 to 2015.",
+      " But, the next significant trend is  positive which exists from 2008 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 4,
+         "end": 8,
+         "trend": "y=147.4x+-292307.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=363.1x+-727207.9",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 10,
+         "end": 13,
+         "trend": "y=-28.5x+60977.5",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Expenditure in million GBP": 5631.0
+      },
+      {
+         "Year": "2017",
+         "Expenditure in million GBP": 5091.0
+      },
+      {
+         "Year": "2016",
+         "Expenditure in million GBP": 4640.0
+      },
+      {
+         "Year": "2015",
+         "Expenditure in million GBP": 4571.0
+      },
+      {
+         "Year": "2014",
+         "Expenditure in million GBP": 4573.0
+      },
+      {
+         "Year": "2013",
+         "Expenditure in million GBP": 4435.0
+      },
+      {
+         "Year": "2012",
+         "Expenditure in million GBP": 4188.0
+      },
+      {
+         "Year": "2011",
+         "Expenditure in million GBP": 4119.0
+      },
+      {
+         "Year": "2010",
+         "Expenditure in million GBP": 3994.0
+      },
+      {
+         "Year": "2009",
+         "Expenditure in million GBP": 4142.0
+      },
+      {
+         "Year": "2008",
+         "Expenditure in million GBP": 3677.0
+      },
+      {
+         "Year": "2007",
+         "Expenditure in million GBP": 3802.0
+      },
+      {
+         "Year": "2006",
+         "Expenditure in million GBP": 3976.0
+      },
+      {
+         "Year": "2005",
+         "Expenditure in million GBP": 3714.0
+      }
+   ]
+}

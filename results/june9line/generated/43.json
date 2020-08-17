@@ -1,0 +1,68 @@
+{
+   "title": "PC penetration in the Middle East and Africa 2005 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Penetration in percent",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the PC penetration in Middle East from 2005 to 2015 . ",
+      "In the Year 2015 , about 7 percent were of childbearing age . ",
+      "Despite a decreased PC penetration , the total population of Middle East is expected to increase over the next few years ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "0"
+      },
+      {
+         "3": "0",
+         "6": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Penetration in percent": "7"
+      },
+      {
+         "Year": "2014",
+         "Penetration in percent": "5"
+      },
+      {
+         "Year": "2013",
+         "Penetration in percent": "3"
+      },
+      {
+         "Year": "2011",
+         "Penetration in percent": "2"
+      },
+      {
+         "Year": "2012",
+         "Penetration in percent": "2"
+      },
+      {
+         "Year": "2010",
+         "Penetration in percent": "1"
+      },
+      {
+         "Year": "2009",
+         "Penetration in percent": "1"
+      },
+      {
+         "Year": "2008",
+         "Penetration in percent": "1"
+      },
+      {
+         "Year": "2007",
+         "Penetration in percent": "1"
+      },
+      {
+         "Year": "2006",
+         "Penetration in percent": "1"
+      },
+      {
+         "Year": "2005",
+         "Penetration in percent": "1"
+      }
+   ]
+}

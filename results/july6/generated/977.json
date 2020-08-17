@@ -1,0 +1,97 @@
+{
+   "title": "Number of fire-related fatalities in Great Britain 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of fire-related fatalities in Great Britain and Britain , Canada from 2007 to 2018/19 . ",
+      "In 2018 - 2019 , there were 583 new fatalities to Great Britain and Britain ."
+   ],
+   "trends": [
+      {
+         "18": "0"
+      },
+      {
+         "7": "17"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Number of fatalities": "316"
+      },
+      {
+         "Year": "2017/18",
+         "Number of fatalities": "400"
+      },
+      {
+         "Year": "2016/17",
+         "Number of fatalities": "328"
+      },
+      {
+         "Year": "2015/16",
+         "Number of fatalities": "366"
+      },
+      {
+         "Year": "2014/15",
+         "Number of fatalities": "324"
+      },
+      {
+         "Year": "2013/14",
+         "Number of fatalities": "326"
+      },
+      {
+         "Year": "2012/13",
+         "Number of fatalities": "349"
+      },
+      {
+         "Year": "2011/12",
+         "Number of fatalities": "397"
+      },
+      {
+         "Year": "2010/11",
+         "Number of fatalities": "408"
+      },
+      {
+         "Year": "2009/10",
+         "Number of fatalities": "425"
+      },
+      {
+         "Year": "2008/09",
+         "Number of fatalities": "404"
+      },
+      {
+         "Year": "2007/08",
+         "Number of fatalities": "458"
+      },
+      {
+         "Year": "2006/07",
+         "Number of fatalities": "430"
+      },
+      {
+         "Year": "2005/06",
+         "Number of fatalities": "470"
+      },
+      {
+         "Year": "2004/05",
+         "Number of fatalities": "483"
+      },
+      {
+         "Year": "2003/04",
+         "Number of fatalities": "576"
+      },
+      {
+         "Year": "2002/03",
+         "Number of fatalities": "522"
+      },
+      {
+         "Year": "2001/02",
+         "Number of fatalities": "583"
+      },
+      {
+         "Year": "2000/01",
+         "Number of fatalities": "554"
+      }
+   ]
+}

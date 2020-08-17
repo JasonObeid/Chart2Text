@@ -1,0 +1,71 @@
+{
+   "title": "IT functions outsourced worldwide 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the results of a survey among 559 industrial enterprises on their opinion on Software_application_maintenance 2017 as of 2018 . ",
+      "Some 64 % of respondents stated they would manage to Software_application_development ( Software_application_maintenance of 51 % ) . ",
+      "2017 Software_application_maintenance basis ."
+   ],
+   "trends": [
+      {
+         "16": "1"
+      },
+      {
+         "1": "0",
+         "10": "0",
+         "12": "1",
+         "14": "1"
+      },
+      {
+         "1": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Software application development",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "Software application maintenance",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Data centers",
+         "Share of respondents": "40"
+      },
+      {
+         "Response": "IT infrastructure",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Service desk / help desk",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Networks",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "Systems integration",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "HR BPO",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "IT department",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "IT BPO",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "KPO",
+         "Share of respondents": "6"
+      }
+   ]
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Individuals following a vegetarian diet in the United Kingdom ( UK ) 2008 - 2012 , by age",
+   "labels": [
+      "Year",
+      "Neither vegetarian or vegan",
+      "Vegetarian"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This grouped bar chart has 5 categories for the x axis of Year representing Neither vegetarian or vegan, Vegetarian.",
+      " The highest category is found at 19-64 years with a mean value of 50.0.",
+      " The second highest category is found at 11-18 years with a mean value of 50.0.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": {
+      "maxIndex": 3,
+      "secondIndex": 3
+   },
+   "data": [
+      {
+         "Year": "1.5-3 years",
+         "Neither vegetarian or vegan": "99",
+         "Vegetarian": "1"
+      },
+      {
+         "Year": "4-10 years",
+         "Neither vegetarian or vegan": "98",
+         "Vegetarian": "2"
+      },
+      {
+         "Year": "11-18 years",
+         "Neither vegetarian or vegan": "98",
+         "Vegetarian": "2"
+      },
+      {
+         "Year": "19-64 years",
+         "Neither vegetarian or vegan": "97",
+         "Vegetarian": "3"
+      },
+      {
+         "Year": "65 years and over",
+         "Neither vegetarian or vegan": "98",
+         "Vegetarian": "1"
+      }
+   ]
+}

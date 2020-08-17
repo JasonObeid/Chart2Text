@@ -1,0 +1,107 @@
+{
+   "title": "Number of PwC employees worldwide by region 2013 to 2019",
+   "labels": [
+      "Year",
+      "Americas",
+      "Asia",
+      "Australasia and Pacific Islands",
+      "Central and Eastern Europe",
+      "Middle East and Africa",
+      "Western Europe"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number PwC employees of worldwide by in the PwC from 2013 to 2019 , . ",
+      "In 2019 , one employees of worldwide by in Americas was worth 59103 PwC dollars . ",
+      "In 2024 , the global Number for one pound of worldwide is expected to reach approximately 0.22 PwC dollars ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "6",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "12": [
+            "6",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Americas": "73801",
+         "Asia": "73856",
+         "Australasia and Pacific Islands": "10444",
+         "Central and Eastern Europe": "13695",
+         "Middle East and Africa": "16145",
+         "Western Europe": "88064"
+      },
+      {
+         "Year": "2018",
+         "Americas": "71222",
+         "Asia": "68963",
+         "Australasia and Pacific Islands": "8966",
+         "Central and Eastern Europe": "11538",
+         "Middle East and Africa": "15090",
+         "Western Europe": "75151"
+      },
+      {
+         "Year": "2017",
+         "Americas": "70982",
+         "Asia": "60255",
+         "Australasia and Pacific Islands": "8308",
+         "Central and Eastern Europe": "10451",
+         "Middle East and Africa": "13974",
+         "Western Europe": "72265"
+      },
+      {
+         "Year": "2016",
+         "Americas": "70883",
+         "Asia": "53010",
+         "Australasia and Pacific Islands": "7639",
+         "Central and Eastern Europe": "9273",
+         "Middle East and Africa": "13036",
+         "Western Europe": "69627"
+      },
+      {
+         "Year": "2015",
+         "Americas": "66517",
+         "Asia": "47090",
+         "Australasia and Pacific Islands": "7339",
+         "Central and Eastern Europe": "8432",
+         "Middle East and Africa": "12861",
+         "Western Europe": "65870"
+      },
+      {
+         "Year": "2014",
+         "Americas": "62803",
+         "Asia": "43370",
+         "Australasia and Pacific Islands": "6967",
+         "Central and Eastern Europe": "7746",
+         "Middle East and Africa": "12486",
+         "Western Europe": "62061"
+      },
+      {
+         "Year": "2013",
+         "Americas": "59103",
+         "Asia": "38863",
+         "Australasia and Pacific Islands": "6760",
+         "Central and Eastern Europe": "7490",
+         "Middle East and Africa": "11578",
+         "Western Europe": "60441"
+      }
+   ]
+}

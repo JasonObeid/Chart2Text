@@ -1,0 +1,47 @@
+{
+   "title": "Red Bull 's number of cans sold worldwide 2011 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Number of cans in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of cans in billions with a total of 6 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2016 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 0,
+         "end": 5,
+         "trend": "y=0.35x+-702.79",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Number of cans in billions": 6.06
+      },
+      {
+         "Year": "2015",
+         "Number of cans in billions": 5.96
+      },
+      {
+         "Year": "2014",
+         "Number of cans in billions": 5.61
+      },
+      {
+         "Year": "2013",
+         "Number of cans in billions": 5.39
+      },
+      {
+         "Year": "2012",
+         "Number of cans in billions": 5.23
+      },
+      {
+         "Year": "2011",
+         "Number of cans in billions": 4.08
+      }
+   ]
+}

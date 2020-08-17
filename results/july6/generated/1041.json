@@ -1,0 +1,63 @@
+{
+   "title": "Average per game attendance Manchester United 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the Average per game attendance at games of the Manchester United United 2009 from the 2009/10 season to the 2018/19 season . ",
+      "In 2018/19 , the Average attendance at the games was at 74879 ."
+   ],
+   "trends": [
+      {
+         "17": "9",
+         "21": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Average attendance": "74879"
+      },
+      {
+         "Year": "2017/18",
+         "Average attendance": "75102"
+      },
+      {
+         "Year": "2016/17",
+         "Average attendance": "75305"
+      },
+      {
+         "Year": "2015/16",
+         "Average attendance": "75279"
+      },
+      {
+         "Year": "2014/15",
+         "Average attendance": "75335"
+      },
+      {
+         "Year": "2013/14",
+         "Average attendance": "75203"
+      },
+      {
+         "Year": "2012/13",
+         "Average attendance": "75530"
+      },
+      {
+         "Year": "2011/12",
+         "Average attendance": "75387"
+      },
+      {
+         "Year": "2010/11",
+         "Average attendance": "75104"
+      },
+      {
+         "Year": "2009/10",
+         "Average attendance": "74864"
+      }
+   ]
+}

@@ -1,0 +1,37 @@
+{
+   "title": "Average sales per unit of Outback Steakhouse restaurants in the U.S. 2015 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average sales in thousand U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "Outback Steakhouse ' Outback Steakhouse has been declining over recent years , falling to 3580 sales in the financial Year of 2018 . ",
+      "Outback Steakhouse FedEx Outback Steakhouse is the global Outback Steakhouse package and freight delivery segment of the U.S-based courier service Outback Steakhouse . ",
+      "In addition to their motorized sales , Outback Steakhouse also maintains a Steakhouse of 681 aircraft for the transportation of cargo ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "20": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average sales in thousand U.S. dollars": "3580"
+      },
+      {
+         "Year": "2017",
+         "Average sales in thousand U.S. dollars": "3542"
+      },
+      {
+         "Year": "2016",
+         "Average sales in thousand U.S. dollars": "3354"
+      },
+      {
+         "Year": "2015",
+         "Average sales in thousand U.S. dollars": "3430"
+      }
+   ]
+}

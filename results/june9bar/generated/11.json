@@ -1,0 +1,47 @@
+{
+   "title": "Ultra high net worth individuals - distribution by region 2019",
+   "xAxis": "Region",
+   "yAxis": "Number of UHNW individuals",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of Ultra high net worth as of 2018 , sorted by Region . ",
+      "During that period of time , North_America was ranked first with an average Number of 84054 % of the app individuals ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Region": "North America",
+         "Number of UHNW individuals": "84054"
+      },
+      {
+         "Region": "Europe",
+         "Number of UHNW individuals": "33551"
+      },
+      {
+         "Region": "Asia-Pacific",
+         "Number of UHNW individuals": "22657"
+      },
+      {
+         "Region": "China",
+         "Number of UHNW individuals": "18132"
+      },
+      {
+         "Region": "Latin America",
+         "Number of UHNW individuals": "4460"
+      },
+      {
+         "Region": "India",
+         "Number of UHNW individuals": "4376"
+      },
+      {
+         "Region": "Africa",
+         "Number of UHNW individuals": "804"
+      }
+   ]
+}

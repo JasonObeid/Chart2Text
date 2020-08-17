@@ -1,0 +1,58 @@
+{
+   "title": "Leading cinema circuits in North America in 2018 , by number of screens",
+   "xAxis": "Month",
+   "yAxis": "Number of screens",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of times Leading cinema circuits North in North America as of 2018 . ",
+      "In that year , Leading cinema circuits had a total of 7350 screens ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "AMC Theatres",
+         "Number of screens": "8218"
+      },
+      {
+         "Month": "Regal Entertainment Group",
+         "Number of screens": "7350"
+      },
+      {
+         "Month": "Cinemark USA Inc.",
+         "Number of screens": "4544"
+      },
+      {
+         "Month": "Cineplex Entertainment LP",
+         "Number of screens": "1683"
+      },
+      {
+         "Month": "Marcus Theatres Corp.",
+         "Number of screens": "895"
+      },
+      {
+         "Month": "Harkins Theatres",
+         "Number of screens": "515"
+      },
+      {
+         "Month": "Southern Theatres LLC",
+         "Number of screens": "499"
+      },
+      {
+         "Month": "B & B Theatres",
+         "Number of screens": "400"
+      },
+      {
+         "Month": "National Amusements Inc.",
+         "Number of screens": "392"
+      },
+      {
+         "Month": "Malco Theatres Inc.",
+         "Number of screens": "353"
+      }
+   ]
+}

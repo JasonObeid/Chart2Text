@@ -1,0 +1,110 @@
+{
+   "title": "Global sulfur production by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Price in U.S. dollars per ton",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Price of Global sulfur dollars worldwide by as of 2020 , sorted by Country . ",
+      "In that year , Global sulfur production averaged 500 U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "22"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Price in U.S. dollars per ton": "17400"
+      },
+      {
+         "Country": "United States",
+         "Price in U.S. dollars per ton": "8800"
+      },
+      {
+         "Country": "Russia",
+         "Price in U.S. dollars per ton": "7100"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Price in U.S. dollars per ton": "6600"
+      },
+      {
+         "Country": "Canada",
+         "Price in U.S. dollars per ton": "5300"
+      },
+      {
+         "Country": "Other",
+         "Price in U.S. dollars per ton": "3900"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Price in U.S. dollars per ton": "3600"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Price in U.S. dollars per ton": "3400"
+      },
+      {
+         "Country": "India",
+         "Price in U.S. dollars per ton": "3400"
+      },
+      {
+         "Country": "Japan",
+         "Price in U.S. dollars per ton": "3400"
+      },
+      {
+         "Country": "South Korea",
+         "Price in U.S. dollars per ton": "3100"
+      },
+      {
+         "Country": "Iran",
+         "Price in U.S. dollars per ton": "2200"
+      },
+      {
+         "Country": "Qatar",
+         "Price in U.S. dollars per ton": "2100"
+      },
+      {
+         "Country": "Chile",
+         "Price in U.S. dollars per ton": "1500"
+      },
+      {
+         "Country": "Poland",
+         "Price in U.S. dollars per ton": "1230"
+      },
+      {
+         "Country": "Finland",
+         "Price in U.S. dollars per ton": "940"
+      },
+      {
+         "Country": "Kuwait",
+         "Price in U.S. dollars per ton": "900"
+      },
+      {
+         "Country": "Australia",
+         "Price in U.S. dollars per ton": "900"
+      },
+      {
+         "Country": "Germany",
+         "Price in U.S. dollars per ton": "870"
+      },
+      {
+         "Country": "Venezuela",
+         "Price in U.S. dollars per ton": "700"
+      },
+      {
+         "Country": "Italy",
+         "Price in U.S. dollars per ton": "550"
+      },
+      {
+         "Country": "Netherlands",
+         "Price in U.S. dollars per ton": "520"
+      },
+      {
+         "Country": "Brazil",
+         "Price in U.S. dollars per ton": "500"
+      }
+   ]
+}

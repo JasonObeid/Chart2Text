@@ -1,0 +1,322 @@
+{
+   "title": "Internet retail sales value trend monthly in the United Kingdom ( UK ) 2013 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Percentage change",
+   "graphType": "bar",
+   "summary": [
+      "The number of retail value trend in the European Union increased by 12.4 percentage from 2018 to 2019 . ",
+      "This is primarily due to a low baseline from 2018 which saw low sales . ",
+      "In 2018 , European new-car intenders flocked to dealerships ahead of price increases tied to tougher emissions tests , and EU auto sales increased 30.1 percentage over 2017 ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {},
+      {
+         "24": "27"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Mar 19",
+         "Percentage change": "12.4"
+      },
+      {
+         "Month": "Feb 19",
+         "Percentage change": "11.8"
+      },
+      {
+         "Month": "Jan 19",
+         "Percentage change": "11.6"
+      },
+      {
+         "Month": "Dec 18",
+         "Percentage change": "13.3"
+      },
+      {
+         "Month": "Nov 18",
+         "Percentage change": "13"
+      },
+      {
+         "Month": "Oct 18",
+         "Percentage change": "12.9"
+      },
+      {
+         "Month": "Sep 18",
+         "Percentage change": "12"
+      },
+      {
+         "Month": "Aug 18",
+         "Percentage change": "14.2"
+      },
+      {
+         "Month": "Jul 18",
+         "Percentage change": "16.1"
+      },
+      {
+         "Month": "Jun 18",
+         "Percentage change": "15.8"
+      },
+      {
+         "Month": "May 18",
+         "Percentage change": "21"
+      },
+      {
+         "Month": "Apr 18",
+         "Percentage change": "13"
+      },
+      {
+         "Month": "Mar 18",
+         "Percentage change": "16.5"
+      },
+      {
+         "Month": "Feb 18",
+         "Percentage change": "15.3"
+      },
+      {
+         "Month": "Jan 18",
+         "Percentage change": "13.6"
+      },
+      {
+         "Month": "Dec 17",
+         "Percentage change": "9"
+      },
+      {
+         "Month": "Nov 17",
+         "Percentage change": "10.1"
+      },
+      {
+         "Month": "Oct 17",
+         "Percentage change": "9.6"
+      },
+      {
+         "Month": "Sep 17",
+         "Percentage change": "13.6"
+      },
+      {
+         "Month": "Aug 17",
+         "Percentage change": "19"
+      },
+      {
+         "Month": "Jul 17",
+         "Percentage change": "20.1"
+      },
+      {
+         "Month": "Jun 17",
+         "Percentage change": "20.1"
+      },
+      {
+         "Month": "May 17",
+         "Percentage change": "17.1"
+      },
+      {
+         "Month": "Apr 17",
+         "Percentage change": "22.1"
+      },
+      {
+         "Month": "Mar 17",
+         "Percentage change": "24.3"
+      },
+      {
+         "Month": "Feb 17",
+         "Percentage change": "22.2"
+      },
+      {
+         "Month": "Jan 17",
+         "Percentage change": "16.1"
+      },
+      {
+         "Month": "Dec 16",
+         "Percentage change": "30.1"
+      },
+      {
+         "Month": "Nov 16",
+         "Percentage change": "28.4"
+      },
+      {
+         "Month": "Oct 16",
+         "Percentage change": "30"
+      },
+      {
+         "Month": "Sep 16",
+         "Percentage change": "25.8"
+      },
+      {
+         "Month": "Aug 16",
+         "Percentage change": "23.6"
+      },
+      {
+         "Month": "Jul 16",
+         "Percentage change": "17.8"
+      },
+      {
+         "Month": "Jun 16",
+         "Percentage change": "17.2"
+      },
+      {
+         "Month": "May 16",
+         "Percentage change": "19.6"
+      },
+      {
+         "Month": "Apr 16",
+         "Percentage change": "12.9"
+      },
+      {
+         "Month": "Mar 16",
+         "Percentage change": "11.6"
+      },
+      {
+         "Month": "Feb 16",
+         "Percentage change": "12.4"
+      },
+      {
+         "Month": "Jan 16",
+         "Percentage change": "13.8"
+      },
+      {
+         "Month": "Dec 15",
+         "Percentage change": "8.4"
+      },
+      {
+         "Month": "Nov 15",
+         "Percentage change": "14.9"
+      },
+      {
+         "Month": "Oct 15",
+         "Percentage change": "11.6"
+      },
+      {
+         "Month": "Sep 15",
+         "Percentage change": "14.4"
+      },
+      {
+         "Month": "Aug 15",
+         "Percentage change": "8.7"
+      },
+      {
+         "Month": "Jul 15",
+         "Percentage change": "13.2"
+      },
+      {
+         "Month": "Jun 15",
+         "Percentage change": "13.9"
+      },
+      {
+         "Month": "May 15",
+         "Percentage change": "9.4"
+      },
+      {
+         "Month": "Apr 15",
+         "Percentage change": "14.3"
+      },
+      {
+         "Month": "Mar 15",
+         "Percentage change": "12.5"
+      },
+      {
+         "Month": "Feb 15",
+         "Percentage change": "11.4"
+      },
+      {
+         "Month": "Jan 15",
+         "Percentage change": "19.3"
+      },
+      {
+         "Month": "Dec 14",
+         "Percentage change": "11.1"
+      },
+      {
+         "Month": "Nov 14",
+         "Percentage change": "19.7"
+      },
+      {
+         "Month": "Oct 14",
+         "Percentage change": "12"
+      },
+      {
+         "Month": "Sep 14",
+         "Percentage change": "10.1"
+      },
+      {
+         "Month": "Aug 14",
+         "Percentage change": "13.7"
+      },
+      {
+         "Month": "Jul 14",
+         "Percentage change": "14.8"
+      },
+      {
+         "Month": "Jun 14",
+         "Percentage change": "15"
+      },
+      {
+         "Month": "May 14",
+         "Percentage change": "16.6"
+      },
+      {
+         "Month": "Apr 14",
+         "Percentage change": "15"
+      },
+      {
+         "Month": "Mar 14",
+         "Percentage change": "9.1"
+      },
+      {
+         "Month": "Feb 14",
+         "Percentage change": "11.9"
+      },
+      {
+         "Month": "Jan 14",
+         "Percentage change": "11"
+      },
+      {
+         "Month": "Dec 13",
+         "Percentage change": "13.5"
+      },
+      {
+         "Month": "Nov 13",
+         "Percentage change": "17.5"
+      },
+      {
+         "Month": "Oct 13",
+         "Percentage change": "17.8"
+      },
+      {
+         "Month": "Sep 13",
+         "Percentage change": "17.4"
+      },
+      {
+         "Month": "Aug 13",
+         "Percentage change": "21.7"
+      },
+      {
+         "Month": "Jul 13",
+         "Percentage change": "10.2"
+      },
+      {
+         "Month": "Jun 13",
+         "Percentage change": "18.1"
+      },
+      {
+         "Month": "May 13",
+         "Percentage change": "10.7"
+      },
+      {
+         "Month": "Apr 13",
+         "Percentage change": "13.9"
+      },
+      {
+         "Month": "Mar 13",
+         "Percentage change": "18.8"
+      },
+      {
+         "Month": "Feb 13",
+         "Percentage change": "12.9"
+      },
+      {
+         "Month": "Jan 13",
+         "Percentage change": "12.8"
+      }
+   ]
+}

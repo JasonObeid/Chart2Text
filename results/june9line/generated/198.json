@@ -1,0 +1,63 @@
+{
+   "title": "Southwest Airlines - available seat miles 2011 to 2019",
+   "xAxis": "Year",
+   "yAxis": "ASMs in billions",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the seat miles ASMs billions going to the Southwest Airlines Society out of the whole seat miles financial ASMs in the United Kingdom ( Southwest Airlines ) from 2011 to 2019 . ",
+      "It can be seen that Southwest Airlines 's seat account ASMs billions increased during the period under observation , reaching a billions of 159.8 billions as of the Year ending 2019 2018 all standard and packaged miles . ",
+      "The smallest billions of the seat account ASMs was found in 2011 , when a billions of 120.58 was recorded ."
+   ],
+   "trends": [
+      {
+         "29": "8",
+         "31": "0"
+      },
+      {
+         "22": "1",
+         "30": "1"
+      },
+      {
+         "11": "8",
+         "17": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "ASMs in billions": "157.25"
+      },
+      {
+         "Year": "2018",
+         "ASMs in billions": "159.8"
+      },
+      {
+         "Year": "2017",
+         "ASMs in billions": "153.81"
+      },
+      {
+         "Year": "2016",
+         "ASMs in billions": "148.52"
+      },
+      {
+         "Year": "2015",
+         "ASMs in billions": "140.5"
+      },
+      {
+         "Year": "2014",
+         "ASMs in billions": "131.0"
+      },
+      {
+         "Year": "2013",
+         "ASMs in billions": "130.34"
+      },
+      {
+         "Year": "2012",
+         "ASMs in billions": "128.14"
+      },
+      {
+         "Year": "2011",
+         "ASMs in billions": "120.58"
+      }
+   ]
+}

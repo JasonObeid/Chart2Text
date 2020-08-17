@@ -1,0 +1,58 @@
+{
+   "title": "Runner-up at World Cup tournaments by country 1930 to 2014\n",
+   "xAxis": "Country",
+   "yAxis": "Number of runners-up",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Number of runners-up.",
+      " The highest category is found at Germany where Number of runners-up is 4.0.",
+      " The lowest category is found at France where Number of runners-up is 1.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of runners-up": 4.0
+      },
+      {
+         "Country": "Netherlands the",
+         "Number of runners-up": 3.0
+      },
+      {
+         "Country": "Argentina",
+         "Number of runners-up": 3.0
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Czechoslovakia",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Italy",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Hungary",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "France",
+         "Number of runners-up": 1.0
+      },
+      {
+         "Country": "Sweden",
+         "Number of runners-up": 1.0
+      }
+   ]
+}

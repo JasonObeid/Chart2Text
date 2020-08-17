@@ -1,0 +1,77 @@
+{
+   "title": "U.S. metropolitan area interstates - average truck speed 2015",
+   "xAxis": "Selcted areas",
+   "yAxis": "Average speed in miles per hour",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the leading 15 Selcted models according to the Auto Express Driver Power 2015 survey responses interstates on average truck . ",
+      "The survey was carried out by the British automotive magazine online between 2015 and . ",
+      "Atlanta had four models in the top 15 interstates on average truck ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "3"
+      }
+   ],
+   "data": [
+      {
+         "Selcted areas": "Phoenix",
+         "Average speed in miles per hour": "60.36"
+      },
+      {
+         "Selcted areas": "Dallas",
+         "Average speed in miles per hour": "59.46"
+      },
+      {
+         "Selcted areas": "Miami",
+         "Average speed in miles per hour": "59.04"
+      },
+      {
+         "Selcted areas": "Atlanta",
+         "Average speed in miles per hour": "58.79"
+      },
+      {
+         "Selcted areas": "Houston",
+         "Average speed in miles per hour": "58.06"
+      },
+      {
+         "Selcted areas": "Detroit",
+         "Average speed in miles per hour": "56.54"
+      },
+      {
+         "Selcted areas": "Washington",
+         "Average speed in miles per hour": "56.34"
+      },
+      {
+         "Selcted areas": "Boston",
+         "Average speed in miles per hour": "54.79"
+      },
+      {
+         "Selcted areas": "Philadelphia",
+         "Average speed in miles per hour": "54.54"
+      },
+      {
+         "Selcted areas": "Seattle",
+         "Average speed in miles per hour": "54.07"
+      },
+      {
+         "Selcted areas": "New York",
+         "Average speed in miles per hour": "53.9"
+      },
+      {
+         "Selcted areas": "Chicago",
+         "Average speed in miles per hour": "53.26"
+      },
+      {
+         "Selcted areas": "Los Angeles",
+         "Average speed in miles per hour": "47.93"
+      },
+      {
+         "Selcted areas": "San Francisco",
+         "Average speed in miles per hour": "47.61"
+      }
+   ]
+}

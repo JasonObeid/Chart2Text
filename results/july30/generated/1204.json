@@ -1,0 +1,77 @@
+{
+   "title": "Textbook publishing revenue in the U.S. 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, with a total of 9 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2018 to 2015.",
+      " Similarly, the next significant trend is  negative which exists from 2015 to 2012.",
+      " Conversely, the next significant trend is  positive which exists from 2012 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-0.9x+1831.03",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 3,
+         "end": 6,
+         "trend": "y=1.07x+-2137.13",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 6,
+         "end": 8,
+         "trend": "y=-0.22x+450.83",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in billion U.S. dollars": 8.79
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion U.S. dollars": 9.87
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion U.S. dollars": 10.17
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": 11.7
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": 8.62
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion U.S. dollars": 8.58
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion U.S. dollars": 8.16
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion U.S. dollars": 8.46
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion U.S. dollars": 8.6
+      }
+   ]
+}

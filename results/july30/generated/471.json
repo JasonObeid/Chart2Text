@@ -1,0 +1,54 @@
+{
+   "title": "Mobile operators : carrier market shares in the United Kingdom ( UK ) 2018\n",
+   "xAxis": "Mobile Carrier",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Mobile Carrier, and a y axis representing Market share.",
+      " The highest category is found at BT_(including_EE) where Market share is 28.0.",
+      " The lowest category is found at Talk_Talk where Market share is 1.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 6
+   },
+   "data": [
+      {
+         "Mobile Carrier": "BT (including EE)",
+         "Market share": 28.0
+      },
+      {
+         "Mobile Carrier": "O2",
+         "Market share": 26.0
+      },
+      {
+         "Mobile Carrier": "Vodafone",
+         "Market share": 21.0
+      },
+      {
+         "Mobile Carrier": "Three",
+         "Market share": 12.0
+      },
+      {
+         "Mobile Carrier": "Tesco Mobile",
+         "Market share": 6.0
+      },
+      {
+         "Mobile Carrier": "Virgin Mobile",
+         "Market share": 4.0
+      },
+      {
+         "Mobile Carrier": "Talk Talk",
+         "Market share": 1.0
+      },
+      {
+         "Mobile Carrier": "iD Mobile",
+         "Market share": 1.0
+      },
+      {
+         "Mobile Carrier": "Sky",
+         "Market share": 1.0
+      }
+   ]
+}

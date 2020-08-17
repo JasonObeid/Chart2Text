@@ -1,0 +1,26 @@
+{
+   "title": "Travelers in the U.S. who find family vacation planning stressful in 2014 , by gender",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of adults in the U.S. who were using Travelers as of 2019 , sorted planning stressful . ",
+      "During that period of time , 74 % of female respondents stated that they used the social networking site ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Women",
+         "Share of respondents": "74"
+      },
+      {
+         "Response": "Men",
+         "Share of respondents": "67"
+      }
+   ]
+}

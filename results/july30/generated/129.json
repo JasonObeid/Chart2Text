@@ -1,0 +1,94 @@
+{
+   "title": "Venezuela 's budget balance in relation to GDP 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Budget balance in relation to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Budget balance in relation to GDP, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2014 to 2010.",
+      " But, the next significant trend is  negative which exists from 2018 to 2015.",
+      " On the contrary, the next significant trend is  positive which exists from 2010 to 2008.",
+      " Also, the next significant trend is  positive which exists from 2015 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 4,
+         "end": 8,
+         "trend": "y=2.46x+-4949.53",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=6.55x+-13192.93",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 8,
+         "end": 10,
+         "trend": "y=0.64x+-1280.13",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 3,
+         "end": 4,
+         "trend": "y=-4.9x+9884.15",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Budget balance in relation to GDP": 30.56
+      },
+      {
+         "Year": "2017",
+         "Budget balance in relation to GDP": 16.61
+      },
+      {
+         "Year": "2016",
+         "Budget balance in relation to GDP": 10.83
+      },
+      {
+         "Year": "2015",
+         "Budget balance in relation to GDP": 10.65
+      },
+      {
+         "Year": "2014",
+         "Budget balance in relation to GDP": 15.55
+      },
+      {
+         "Year": "2013",
+         "Budget balance in relation to GDP": 11.27
+      },
+      {
+         "Year": "2012",
+         "Budget balance in relation to GDP": 10.45
+      },
+      {
+         "Year": "2011",
+         "Budget balance in relation to GDP": 8.24
+      },
+      {
+         "Year": "2010",
+         "Budget balance in relation to GDP": 4.74
+      },
+      {
+         "Year": "2009",
+         "Budget balance in relation to GDP": 8.69
+      },
+      {
+         "Year": "2008",
+         "Budget balance in relation to GDP": 3.46
+      }
+   ]
+}

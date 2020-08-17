@@ -1,0 +1,69 @@
+{
+   "title": "Games industry M & A transactions cumulative value worldwide 2010 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Value in million U.S. dollars, with a total of 7 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2016 to 2014.",
+      " Additionally, the next significant trend is  negative which exists from 2014 to 2012.",
+      " Differently, the next significant trend is  positive which exists from 2012 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-3305.3x+6664601.73",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=3532.7x+-7107015.43",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=305.5x+-613628.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Value in million U.S. dollars": 1146.8
+      },
+      {
+         "Year": "2015",
+         "Value in million U.S. dollars": 4362.5
+      },
+      {
+         "Year": "2014",
+         "Value in million U.S. dollars": 7757.4
+      },
+      {
+         "Year": "2013",
+         "Value in million U.S. dollars": 4479.6
+      },
+      {
+         "Year": "2012",
+         "Value in million U.S. dollars": 692.0
+      },
+      {
+         "Year": "2011",
+         "Value in million U.S. dollars": 1423.5
+      },
+      {
+         "Year": "2010",
+         "Value in million U.S. dollars": 81.0
+      }
+   ]
+}

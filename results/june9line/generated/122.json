@@ -1,0 +1,84 @@
+{
+   "title": "U.S. airlines - domestic passenger enplanements 2004 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Passenger enplanements (in millions)",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the Passenger enplanements of the millions) domestic passenger enplanements from 2004 to 2018 . ",
+      "In 2018 , the domestic passenger enplanements increased by an estimated 777.91 % compared to the previous sales Year . ",
+      "domestic passenger enplanements Since the early twentieth century , the production of passenger has been controlled by a handful of multi-national corporations ."
+   ],
+   "trends": [
+      {
+         "13": "14",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Passenger enplanements (in millions)": "777.91"
+      },
+      {
+         "Year": "2017",
+         "Passenger enplanements (in millions)": "741.73"
+      },
+      {
+         "Year": "2016",
+         "Passenger enplanements (in millions)": "719.99"
+      },
+      {
+         "Year": "2015",
+         "Passenger enplanements (in millions)": "696.01"
+      },
+      {
+         "Year": "2014",
+         "Passenger enplanements (in millions)": "662.82"
+      },
+      {
+         "Year": "2013",
+         "Passenger enplanements (in millions)": "645.68"
+      },
+      {
+         "Year": "2012",
+         "Passenger enplanements (in millions)": "642.29"
+      },
+      {
+         "Year": "2011",
+         "Passenger enplanements (in millions)": "638.25"
+      },
+      {
+         "Year": "2010",
+         "Passenger enplanements (in millions)": "629.54"
+      },
+      {
+         "Year": "2009",
+         "Passenger enplanements (in millions)": "618.05"
+      },
+      {
+         "Year": "2008",
+         "Passenger enplanements (in millions)": "651.71"
+      },
+      {
+         "Year": "2007",
+         "Passenger enplanements (in millions)": "679.17"
+      },
+      {
+         "Year": "2006",
+         "Passenger enplanements (in millions)": "658.36"
+      },
+      {
+         "Year": "2005",
+         "Passenger enplanements (in millions)": "657.26"
+      },
+      {
+         "Year": "2004",
+         "Passenger enplanements (in millions)": "629.77"
+      }
+   ]
+}

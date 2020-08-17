@@ -1,0 +1,95 @@
+{
+   "title": "Italy : volume of crude oil imported Q1 2018 , by country of origin",
+   "xAxis": "Country",
+   "yAxis": "Import volume in tons",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Import of the Italy volume crude oil in 2018 as of 2020 . ",
+      "According to the measured period , Azarbaijan had the highest prevalence of oil 2018 by Albania Country ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "16": "18"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Azarbaijan",
+         "Import volume in tons": "12298989"
+      },
+      {
+         "Country": "Iran",
+         "Import volume in tons": "9324007"
+      },
+      {
+         "Country": "Iraq",
+         "Import volume in tons": "2041664"
+      },
+      {
+         "Country": "Libya",
+         "Import volume in tons": "1840713"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Import volume in tons": "1825182"
+      },
+      {
+         "Country": "Russia",
+         "Import volume in tons": "1052134"
+      },
+      {
+         "Country": "Nigeria",
+         "Import volume in tons": "767828"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Import volume in tons": "703232"
+      },
+      {
+         "Country": "USA",
+         "Import volume in tons": "504954"
+      },
+      {
+         "Country": "Angola",
+         "Import volume in tons": "322012"
+      },
+      {
+         "Country": "Canada",
+         "Import volume in tons": "317132"
+      },
+      {
+         "Country": "Kuwait",
+         "Import volume in tons": "312218"
+      },
+      {
+         "Country": "Egypt",
+         "Import volume in tons": "204085"
+      },
+      {
+         "Country": "Cameroon",
+         "Import volume in tons": "185753"
+      },
+      {
+         "Country": "Algeria",
+         "Import volume in tons": "155279"
+      },
+      {
+         "Country": "Equatorial Guinea",
+         "Import volume in tons": "89845"
+      },
+      {
+         "Country": "Tunisia",
+         "Import volume in tons": "56891"
+      },
+      {
+         "Country": "Mauritania",
+         "Import volume in tons": "33791"
+      },
+      {
+         "Country": "Albania",
+         "Import volume in tons": "123"
+      }
+   ]
+}

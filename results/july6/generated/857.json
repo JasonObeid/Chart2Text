@@ -1,0 +1,68 @@
+{
+   "title": "U.S. market share of men 's electric shaver manufacturer 2004 to 2008",
+   "labels": [
+      "unknown",
+      "2004",
+      "2008"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows U.S. and market on share men in the 's in 2004 . ",
+      "The survey revealed that 33 % of respondents are budgeting 1 thousand U.S. dollars or Spectrum_Brands_(Remington/Rayovac) for their share renovation ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "6",
+            "1"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Spectrum Brands (Remington/Rayovac)",
+         "2004": "33",
+         "2008": "41"
+      },
+      {
+         "unknown": "Philips (Norelco)",
+         "2004": "44",
+         "2008": "34"
+      },
+      {
+         "unknown": "Proctor & Gamble (Gillette/Braun)",
+         "2004": "14",
+         "2008": "10"
+      },
+      {
+         "unknown": "Conair",
+         "2004": "0",
+         "2008": "8"
+      },
+      {
+         "unknown": "Matsushita (Panasonic)",
+         "2004": "5",
+         "2008": "5"
+      },
+      {
+         "unknown": "Wahl",
+         "2004": "3",
+         "2008": "0"
+      },
+      {
+         "unknown": "Others",
+         "2004": "1",
+         "2008": "2"
+      }
+   ]
+}

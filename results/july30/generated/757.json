@@ -1,0 +1,85 @@
+{
+   "title": "Unemployment rate in Canada 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 11 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2024 to 2019.",
+      " On the other hand, the next significant trend is  positive which exists from 2019 to 2016.",
+      " In a similar manner, the next significant trend is  negative which exists from 2016 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 0,
+         "end": 5,
+         "trend": "y=0.14x+-273.95",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 5,
+         "end": 8,
+         "trend": "y=-0.41x+833.41",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=0.03x+-53.51",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Unemployment rate": 6.5
+      },
+      {
+         "Year": "2023",
+         "Unemployment rate": 6.39
+      },
+      {
+         "Year": "2022",
+         "Unemployment rate": 6.25
+      },
+      {
+         "Year": "2021",
+         "Unemployment rate": 6.12
+      },
+      {
+         "Year": "2020",
+         "Unemployment rate": 6.0
+      },
+      {
+         "Year": "2019",
+         "Unemployment rate": 5.79
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 5.83
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 6.33
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 6.99
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 6.9
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 6.93
+      }
+   ]
+}

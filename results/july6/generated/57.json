@@ -1,0 +1,55 @@
+{
+   "title": "Number of grocery stores in Canada by employment size 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number grocery of Number stores in Canada from 500+_employees to 1-4_employees . ",
+      "The Number grocery of Number stores in Canada is estimated to reach 5648 stores in 1-4_employees ."
+   ],
+   "trends": [
+      {
+         "12": "7",
+         "14": "0"
+      },
+      {
+         "12": "0",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1-4 employees",
+         "Number of stores": "5648"
+      },
+      {
+         "Year": "5-9 employees",
+         "Number of stores": "3302"
+      },
+      {
+         "Year": "10-19 employees",
+         "Number of stores": "2312"
+      },
+      {
+         "Year": "20-49 employees",
+         "Number of stores": "1290"
+      },
+      {
+         "Year": "50-99 employees",
+         "Number of stores": "1595"
+      },
+      {
+         "Year": "100-199 employees",
+         "Number of stores": "1165"
+      },
+      {
+         "Year": "200-499 employees",
+         "Number of stores": "261"
+      },
+      {
+         "Year": "500+ employees",
+         "Number of stores": "13"
+      }
+   ]
+}

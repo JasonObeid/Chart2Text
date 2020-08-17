@@ -1,0 +1,134 @@
+{
+   "title": "Unemployment rate in Hungary 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 4 significant trends.",
+      " The longest trend is  positive which exists from 2019 to 2010.",
+      " Additionally, the next significant trend is  negative which exists from 2006 to 2002.",
+      " On the contrary, the next significant trend is  negative which exists from 2010 to 2007.",
+      " Conversely, the next significant trend is  positive which exists from 2002 to 1999."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "positive",
+         "start": 0,
+         "end": 9,
+         "trend": "y=-1.04x+2098.61",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 13,
+         "end": 17,
+         "trend": "y=0.52x+-1027.68",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 9,
+         "end": 12,
+         "trend": "y=1.35x+-2700.36",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 17,
+         "end": 20,
+         "trend": "y=-0.48x+976.43",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 3.46
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 3.66
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 4.16
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 5.12
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 6.81
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 7.73
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 10.18
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 11.0
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 11.03
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 11.17
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 10.03
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 7.82
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 7.41
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 7.49
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 7.19
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 5.83
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 5.79
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 5.61
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 5.67
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 6.56
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 6.93
+      }
+   ]
+}

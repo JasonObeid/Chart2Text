@@ -1,0 +1,38 @@
+{
+   "title": "Number of missing persons files in the U.S. by race 2019\n",
+   "xAxis": "Race",
+   "yAxis": "Number of missing persons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Race, and a y axis representing Number of missing persons.",
+      " The highest category is found at White where Number of missing persons is 359768.0.",
+      " The lowest category is found at Indian where Number of missing persons is 10447.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 4
+   },
+   "data": [
+      {
+         "Race": "White",
+         "Number of missing persons": 359768.0
+      },
+      {
+         "Race": "Black",
+         "Number of missing persons": 205802.0
+      },
+      {
+         "Race": "Unknown",
+         "Number of missing persons": 20587.0
+      },
+      {
+         "Race": "Asian",
+         "Number of missing persons": 12671.0
+      },
+      {
+         "Race": "Indian",
+         "Number of missing persons": 10447.0
+      }
+   ]
+}

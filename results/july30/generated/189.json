@@ -1,0 +1,97 @@
+{
+   "title": "European ATM numbers 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Total number of ATMs",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Total number of ATMs, with a total of 14 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely negative which exists from 2012 to 2005.",
+      " On the other hand, the next significant trend is extremely negative which exists from 2016 to 2013.",
+      " On the other hand, the next significant trend is extremely positive which exists from 2018 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 6,
+         "end": 13,
+         "trend": "y=12799.89x+-25332074.18",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 2,
+         "end": 5,
+         "trend": "y=4170.4x+-7989375.8",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-6834.0x+14197560.0",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Total number of ATMs": 406532.0
+      },
+      {
+         "Year": "2017",
+         "Total number of ATMs": 413414.0
+      },
+      {
+         "Year": "2016",
+         "Total number of ATMs": 420200.0
+      },
+      {
+         "Year": "2015",
+         "Total number of ATMs": 411243.0
+      },
+      {
+         "Year": "2014",
+         "Total number of ATMs": 409136.0
+      },
+      {
+         "Year": "2013",
+         "Total number of ATMs": 407001.0
+      },
+      {
+         "Year": "2012",
+         "Total number of ATMs": 412799.0
+      },
+      {
+         "Year": "2011",
+         "Total number of ATMs": 403996.0
+      },
+      {
+         "Year": "2010",
+         "Total number of ATMs": 398040.0
+      },
+      {
+         "Year": "2009",
+         "Total number of ATMs": 391175.0
+      },
+      {
+         "Year": "2008",
+         "Total number of ATMs": 383951.0
+      },
+      {
+         "Year": "2007",
+         "Total number of ATMs": 362244.0
+      },
+      {
+         "Year": "2006",
+         "Total number of ATMs": 335083.0
+      },
+      {
+         "Year": "2005",
+         "Total number of ATMs": 324797.0
+      }
+   ]
+}

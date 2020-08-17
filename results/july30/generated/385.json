@@ -1,0 +1,113 @@
+{
+   "title": "Kit sponsorship revenue of German Bundesliga clubs 2019/20\n",
+   "xAxis": "Year",
+   "yAxis": "Kit sponsorship revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Kit sponsorship revenue in million euros, with a total of 18 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from Hertha_BSC_Berlin_(Tedi) to FSV_Mainz_05_(K\u00f6mmerling).",
+      " Conversely, the next significant trend is  negative which exists from FC_Bayern_Munich_(Telekom) to VfL_Wolfsburg_(Volkswagen).",
+      " Contrarily, the next significant trend is  negative which exists from SC_Freiburg_(Schwarzwaldmilch) to SC_Paderborn_(Sunmaker)."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 7,
+         "end": 12,
+         "trend": "y=-0.0x+6.3",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-2.75x+31.83",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 15,
+         "end": 17,
+         "trend": "y=-0.5x+10.5",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "FC Bayern Munich (Telekom)",
+         "Kit sponsorship revenue in million euros": 35.0
+      },
+      {
+         "Year": "FC Schalke 04 (Gazprom)",
+         "Kit sponsorship revenue in million euros": 24.0
+      },
+      {
+         "Year": "VfL Wolfsburg (Volkswagen)",
+         "Kit sponsorship revenue in million euros": 20.0
+      },
+      {
+         "Year": "Borussia Dortmund (Evonik)",
+         "Kit sponsorship revenue in million euros": 20.0
+      },
+      {
+         "Year": "RB Leipzig (Red Bull)",
+         "Kit sponsorship revenue in million euros": 9.0
+      },
+      {
+         "Year": "Borussia M\u00f6nchengladbach (Postbank)",
+         "Kit sponsorship revenue in million euros": 9.0
+      },
+      {
+         "Year": "1. FC K\u00f6ln (Rewe)",
+         "Kit sponsorship revenue in million euros": 7.5
+      },
+      {
+         "Year": "Hertha BSC Berlin (Tedi)",
+         "Kit sponsorship revenue in million euros": 7.5
+      },
+      {
+         "Year": "SV Werder Bremen (Wiesenhof)",
+         "Kit sponsorship revenue in million euros": 7.3
+      },
+      {
+         "Year": "Eintracht Frankfurt (Indeed)",
+         "Kit sponsorship revenue in million euros": 6.7
+      },
+      {
+         "Year": "Bayer 04 Leverkusen (Barmenia)",
+         "Kit sponsorship revenue in million euros": 6.0
+      },
+      {
+         "Year": "1899 Hoffenheim (SAP)",
+         "Kit sponsorship revenue in million euros": 5.0
+      },
+      {
+         "Year": "FSV Mainz 05 (K\u00f6mmerling)",
+         "Kit sponsorship revenue in million euros": 4.0
+      },
+      {
+         "Year": "FC Augsburg (WWK)",
+         "Kit sponsorship revenue in million euros": 4.5
+      },
+      {
+         "Year": "Fortuna D\u00fcsseldorf (Henkel)",
+         "Kit sponsorship revenue in million euros": 3.0
+      },
+      {
+         "Year": "SC Freiburg (Schwarzwaldmilch)",
+         "Kit sponsorship revenue in million euros": 3.0
+      },
+      {
+         "Year": "Union Berlin (Aroundtown)",
+         "Kit sponsorship revenue in million euros": 2.5
+      },
+      {
+         "Year": "SC Paderborn (Sunmaker)",
+         "Kit sponsorship revenue in million euros": 2.0
+      }
+   ]
+}

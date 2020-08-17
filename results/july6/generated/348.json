@@ -1,0 +1,187 @@
+{
+   "title": "Average number of minutes waiting in the emergency department in the UK 2011 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of the Average number minutes in the UK ( ) from 2016 to 2019 . ",
+      "The Average number minutes held a range between 69 and hundred minutes , meaning it consistently among the previous year ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "12"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Mar 2018",
+         "Number of minutes": "64"
+      },
+      {
+         "Month": "Jan 2018",
+         "Number of minutes": "57"
+      },
+      {
+         "Month": "Nov 2017",
+         "Number of minutes": "60"
+      },
+      {
+         "Month": "Sep 2017",
+         "Number of minutes": "58"
+      },
+      {
+         "Month": "Jul 2017",
+         "Number of minutes": "60"
+      },
+      {
+         "Month": "May 2017",
+         "Number of minutes": "59"
+      },
+      {
+         "Month": "Mar 2017",
+         "Number of minutes": "58"
+      },
+      {
+         "Month": "Jan 2017",
+         "Number of minutes": "57"
+      },
+      {
+         "Month": "Nov 2016",
+         "Number of minutes": "59"
+      },
+      {
+         "Month": "Sep 2016",
+         "Number of minutes": "59"
+      },
+      {
+         "Month": "Jul 2016",
+         "Number of minutes": "62"
+      },
+      {
+         "Month": "May 2016",
+         "Number of minutes": "62"
+      },
+      {
+         "Month": "Mar 2016",
+         "Number of minutes": "69"
+      },
+      {
+         "Month": "Jan 2016",
+         "Number of minutes": "58"
+      },
+      {
+         "Month": "Nov 2015",
+         "Number of minutes": "58"
+      },
+      {
+         "Month": "Sep 2015",
+         "Number of minutes": "55"
+      },
+      {
+         "Month": "Jul 2015",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "May 2015",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "Mar 2015",
+         "Number of minutes": "56"
+      },
+      {
+         "Month": "Jan 2015",
+         "Number of minutes": "46"
+      },
+      {
+         "Month": "Nov 2014",
+         "Number of minutes": "54"
+      },
+      {
+         "Month": "Sep 2014",
+         "Number of minutes": "55"
+      },
+      {
+         "Month": "Jul 2014",
+         "Number of minutes": "56"
+      },
+      {
+         "Month": "May 2014",
+         "Number of minutes": "56"
+      },
+      {
+         "Month": "Mar 2014",
+         "Number of minutes": "56"
+      },
+      {
+         "Month": "Jan 2014",
+         "Number of minutes": "47"
+      },
+      {
+         "Month": "Nov 2013",
+         "Number of minutes": "50"
+      },
+      {
+         "Month": "Sep 2013",
+         "Number of minutes": "50"
+      },
+      {
+         "Month": "Jul 2013",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "May 2013",
+         "Number of minutes": "51"
+      },
+      {
+         "Month": "Mar 2013",
+         "Number of minutes": "57"
+      },
+      {
+         "Month": "Jan 2013",
+         "Number of minutes": "50"
+      },
+      {
+         "Month": "Nov 2012",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "Sep 2012",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "Jul 2012",
+         "Number of minutes": "54"
+      },
+      {
+         "Month": "May 2012",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "Mar 2012",
+         "Number of minutes": "55"
+      },
+      {
+         "Month": "Jan 2012",
+         "Number of minutes": "49"
+      },
+      {
+         "Month": "Nov 2011",
+         "Number of minutes": "51"
+      },
+      {
+         "Month": "Sep 2011",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "Jul 2011",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "May 2011",
+         "Number of minutes": "57"
+      }
+   ]
+}

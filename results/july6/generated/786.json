@@ -1,0 +1,67 @@
+{
+   "title": "Homicide rate per 100,000 population in Finland in 2007 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of victims per 100,000 inhabitants",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Number of victims per to the 100,000 population Finland ( 100,000 ) in the Finland from 2007 to 2017 . ",
+      "In 2017 , the Number of victims per in the Finland was about 1.11 million ."
+   ],
+   "trends": [
+      {
+         "20": "10",
+         "22": "0"
+      },
+      {
+         "1": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of victims per 100,000 inhabitants": "1.11"
+      },
+      {
+         "Year": "2016",
+         "Number of victims per 100,000 inhabitants": "1.14"
+      },
+      {
+         "Year": "2015",
+         "Number of victims per 100,000 inhabitants": "1.28"
+      },
+      {
+         "Year": "2014",
+         "Number of victims per 100,000 inhabitants": "1.43"
+      },
+      {
+         "Year": "2013",
+         "Number of victims per 100,000 inhabitants": "1.43"
+      },
+      {
+         "Year": "2012",
+         "Number of victims per 100,000 inhabitants": "1.35"
+      },
+      {
+         "Year": "2011",
+         "Number of victims per 100,000 inhabitants": "1.83"
+      },
+      {
+         "Year": "2010",
+         "Number of victims per 100,000 inhabitants": "1.9"
+      },
+      {
+         "Year": "2009",
+         "Number of victims per 100,000 inhabitants": "2.06"
+      },
+      {
+         "Year": "2008",
+         "Number of victims per 100,000 inhabitants": "2.23"
+      },
+      {
+         "Year": "2007",
+         "Number of victims per 100,000 inhabitants": "2.19"
+      }
+   ]
+}

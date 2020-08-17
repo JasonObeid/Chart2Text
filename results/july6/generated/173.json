@@ -1,0 +1,51 @@
+{
+   "title": "QVC number of employees 2012 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the QVC Number of employees the QVC 2018 Corporation from 2012 to 2018 . ",
+      "In 2018 , the QVC 2018 Corporation employed 17.0 associates ."
+   ],
+   "trends": [
+      {
+         "14": "6",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "8": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees in thousands": "21.4"
+      },
+      {
+         "Year": "2017",
+         "Number of employees in thousands": "17.1"
+      },
+      {
+         "Year": "2016",
+         "Number of employees in thousands": "17.7"
+      },
+      {
+         "Year": "2015",
+         "Number of employees in thousands": "17.6"
+      },
+      {
+         "Year": "2014",
+         "Number of employees in thousands": "17.3"
+      },
+      {
+         "Year": "2013",
+         "Number of employees in thousands": "17.5"
+      },
+      {
+         "Year": "2012",
+         "Number of employees in thousands": "17.0"
+      }
+   ]
+}

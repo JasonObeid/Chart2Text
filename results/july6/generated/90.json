@@ -1,0 +1,43 @@
+{
+   "title": "Iron ore mine production - U.S. 2015 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic represents the mine Production of Iron in the mine from 2015 to 2019 . ",
+      "In 2019 , the U.S. produced some 48.0 metric tons of Iron ."
+   ],
+   "trends": [
+      {
+         "12": "4",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in million metric tons": "48.0"
+      },
+      {
+         "Year": "2018",
+         "Production in million metric tons": "49.5"
+      },
+      {
+         "Year": "2017",
+         "Production in million metric tons": "47.9"
+      },
+      {
+         "Year": "2016",
+         "Production in million metric tons": "41.8"
+      },
+      {
+         "Year": "2015",
+         "Production in million metric tons": "46.1"
+      }
+   ]
+}

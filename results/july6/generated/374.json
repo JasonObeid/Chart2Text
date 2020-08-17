@@ -1,0 +1,83 @@
+{
+   "title": "U.S. wage and salary workers : weekly earnings by education and gender 2019",
+   "labels": [
+      "unknown",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. wage salary of workers High_school_no_college care Advanced_degree to Men and Women consumers in the U.S. , according to a survey conducted in 2013 . ",
+      "High_school_no_college moisturising and hydrating salary were considered the U.S. wage salary High_school_no_college both genders , with 865 % of women stating this as wage . ",
+      "The Some_college_or_associate's_degree moisturiser market takes up the largest proportion of the workers High_school_no_college care market with a share of 41.6 % in 2019 ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "2",
+            "0"
+         ],
+         "11": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "0": [
+            "2",
+            "0"
+         ],
+         "11": [
+            "2",
+            "0"
+         ],
+         "16": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "0"
+         ],
+         "12": [
+            "2",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Total",
+         "Men": "1070",
+         "Women": "865"
+      },
+      {
+         "unknown": "Less than a high school diploma",
+         "Men": "644",
+         "Women": "494"
+      },
+      {
+         "unknown": "High school no college",
+         "Men": "844",
+         "Women": "633"
+      },
+      {
+         "unknown": "Some college or associate's degree",
+         "Men": "991",
+         "Women": "737"
+      },
+      {
+         "unknown": "Bachelor's degree",
+         "Men": "1442",
+         "Women": "1100"
+      },
+      {
+         "unknown": "Advanced degree",
+         "Men": "1878",
+         "Women": "1365"
+      }
+   ]
+}

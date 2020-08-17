@@ -1,0 +1,109 @@
+{
+   "title": "Number of homicide offences in England and Wales 2002 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of homicides offences",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of homicides offences, with a total of 17 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2017/18 to 2013/14.",
+      " But, the next significant trend is  positive which exists from 2006/07 to 2002/03.",
+      " Additionally, the next significant trend is  positive which exists from 2009/10 to 2007/08."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 1,
+         "end": 5,
+         "trend": "y=57.2x+-114638.4",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 12,
+         "end": 16,
+         "trend": "y=-77.52x+156239.25",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=-77.5x+156306.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Number of homicides offences": 701.0
+      },
+      {
+         "Year": "2017/18",
+         "Number of homicides offences": 728.0
+      },
+      {
+         "Year": "2016/17",
+         "Number of homicides offences": 721.0
+      },
+      {
+         "Year": "2015/16",
+         "Number of homicides offences": 577.0
+      },
+      {
+         "Year": "2014/15",
+         "Number of homicides offences": 539.0
+      },
+      {
+         "Year": "2013/14",
+         "Number of homicides offences": 533.0
+      },
+      {
+         "Year": "2012/13",
+         "Number of homicides offences": 558.0
+      },
+      {
+         "Year": "2011/12",
+         "Number of homicides offences": 553.0
+      },
+      {
+         "Year": "2010/11",
+         "Number of homicides offences": 639.0
+      },
+      {
+         "Year": "2009/10",
+         "Number of homicides offences": 620.0
+      },
+      {
+         "Year": "2008/09",
+         "Number of homicides offences": 664.0
+      },
+      {
+         "Year": "2007/08",
+         "Number of homicides offences": 775.0
+      },
+      {
+         "Year": "2006/07",
+         "Number of homicides offences": 758.0
+      },
+      {
+         "Year": "2005/06",
+         "Number of homicides offences": 764.0
+      },
+      {
+         "Year": "2004/05",
+         "Number of homicides offences": 868.0
+      },
+      {
+         "Year": "2004/04",
+         "Number of homicides offences": 904.0
+      },
+      {
+         "Year": "2002/03",
+         "Number of homicides offences": 1047.0
+      }
+   ]
+}

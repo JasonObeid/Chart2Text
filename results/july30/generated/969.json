@@ -1,0 +1,67 @@
+{
+   "title": "National debt of India 2024\n",
+   "xAxis": "Year",
+   "yAxis": "National debt in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing National debt in billion U.S. dollars with a total of 11 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2024 to 2014."
+   ],
+   "trends": [
+      {
+         "Length": 11,
+         "direction": "negative",
+         "start": 0,
+         "end": 10,
+         "trend": "y=210.93x+-423779.42",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in billion U.S. dollars": 3299.94
+      },
+      {
+         "Year": "2023",
+         "National debt in billion U.S. dollars": 2984.05
+      },
+      {
+         "Year": "2022",
+         "National debt in billion U.S. dollars": 2701.91
+      },
+      {
+         "Year": "2021",
+         "National debt in billion U.S. dollars": 2449.0
+      },
+      {
+         "Year": "2020",
+         "National debt in billion U.S. dollars": 2219.37
+      },
+      {
+         "Year": "2019",
+         "National debt in billion U.S. dollars": 2009.81
+      },
+      {
+         "Year": "2018",
+         "National debt in billion U.S. dollars": 1801.98
+      },
+      {
+         "Year": "2017",
+         "National debt in billion U.S. dollars": 1615.18
+      },
+      {
+         "Year": "2016",
+         "National debt in billion U.S. dollars": 1448.03
+      },
+      {
+         "Year": "2015",
+         "National debt in billion U.S. dollars": 1319.32
+      },
+      {
+         "Year": "2014",
+         "National debt in billion U.S. dollars": 1160.56
+      }
+   ]
+}

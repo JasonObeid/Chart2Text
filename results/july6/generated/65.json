@@ -1,0 +1,65 @@
+{
+   "title": "Survey on the most important social issues in Sweden 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This survey shows the Survey Sweden gave most not reporting cases of social on their premises to the School_and_education in Sweden and in 2018 . ",
+      "Of respondents , 44 % claimed they did not Environment the incident as there was no Healthcare or damage the crime was too trivial to Environment the School_and_education ."
+   ],
+   "trends": [
+      {
+         "18": "1"
+      },
+      {
+         "3": "0",
+         "9": "5",
+         "16": "0",
+         "26": "5",
+         "29": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Healthcare",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "School and education",
+         "Share of respondents": "33"
+      },
+      {
+         "Response": "Crime/Law enforcement",
+         "Share of respondents": "31"
+      },
+      {
+         "Response": "Immigration",
+         "Share of respondents": "25"
+      },
+      {
+         "Response": "Integration",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Environment",
+         "Share of respondents": "15"
+      },
+      {
+         "Response": "Elderly care",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Swedish economy",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "Unemployment",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Social differences",
+         "Share of respondents": "10"
+      }
+   ]
+}

@@ -1,0 +1,93 @@
+{
+   "title": "Boston Red Sox average ticket price 2006 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2011 to 2006.",
+      " On the other hand, the next significant trend is  negative which exists from 2019 to 2014.",
+      " Conversely, the next significant trend is  neutral which exists from 2013 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 7,
+         "end": 12,
+         "trend": "y=1.42x+-2812.01",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=1.43x+-2831.59",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 5,
+         "end": 7,
+         "trend": "y=0.0x+53.38",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": 59.32
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": 56.97
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": 54.79
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": 52.34
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": 52.32
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": 53.38
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": 53.38
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": 53.38
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": 52.32
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": 50.24
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": 48.8
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": 47.71
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": 46.46
+      }
+   ]
+}

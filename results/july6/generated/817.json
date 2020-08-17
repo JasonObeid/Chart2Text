@@ -1,0 +1,68 @@
+{
+   "title": "International overnight visitors in European city destinations in 2016",
+   "xAxis": "City",
+   "yAxis": "Number of international overnight visitors in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "In 2016 , hip-hop City London amassed almost 19.06 millions international in the European , outranking Vienna , Istanbul and Barcelona . ",
+      "Music streaming is a lucrative source of income for modern musicians and can make up significant portions of their annual income . ",
+      "Second in the ranking was Paris with 15.45 millions international , falling behind slightly after far outperforming all other visitors in 2018 with more than ten millions that year ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "8": "0",
+         "16": "7",
+         "18": "2",
+         "21": "3"
+      },
+      {},
+      {
+         "5": "1",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "City": "London",
+         "Number of international overnight visitors in millions": "19.06"
+      },
+      {
+         "City": "Paris",
+         "Number of international overnight visitors in millions": "15.45"
+      },
+      {
+         "City": "Istanbul",
+         "Number of international overnight visitors in millions": "9.16"
+      },
+      {
+         "City": "Barcelona",
+         "Number of international overnight visitors in millions": "8.36"
+      },
+      {
+         "City": "Amsterdam",
+         "Number of international overnight visitors in millions": "8.36"
+      },
+      {
+         "City": "Milan",
+         "Number of international overnight visitors in millions": "8.17"
+      },
+      {
+         "City": "Rome",
+         "Number of international overnight visitors in millions": "7.09"
+      },
+      {
+         "City": "Vienna",
+         "Number of international overnight visitors in millions": "6.42"
+      },
+      {
+         "City": "Prague",
+         "Number of international overnight visitors in millions": "6.11"
+      },
+      {
+         "City": "Dublin",
+         "Number of international overnight visitors in millions": "5.51"
+      }
+   ]
+}

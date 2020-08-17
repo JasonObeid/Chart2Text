@@ -1,0 +1,86 @@
+{
+   "title": "Cloud infrastructure services market share worldwide 2017 - 2019 , by vendor",
+   "labels": [
+      "Quarter",
+      "Amazon Web Services",
+      "Microsoft",
+      "IBM",
+      "Google",
+      "Alibaba",
+      "Next 10",
+      "Other",
+      "Rackspace"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the share of infrastructure services market in the Cloud ( ) from 2017 to 2019 , vendor Quarter . ",
+      "The infrastructure of those Microsoft infrastructure services market was 33 % in the same Quarter of 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": [
+            "4",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q2 2017",
+         "Amazon Web Services": "34",
+         "Microsoft": "11",
+         "IBM": "8",
+         "Google": "6",
+         "Alibaba": "0",
+         "Next 10": "20",
+         "Other": "23",
+         "Rackspace": "0"
+      },
+      {
+         "Quarter": "Q4 2017",
+         "Amazon Web Services": "34",
+         "Microsoft": "13",
+         "IBM": "8",
+         "Google": "6",
+         "Alibaba": "4",
+         "Next 10": "16",
+         "Other": "20",
+         "Rackspace": "0"
+      },
+      {
+         "Quarter": "Q3 2018",
+         "Amazon Web Services": "34",
+         "Microsoft": "15",
+         "IBM": "7",
+         "Google": "7",
+         "Alibaba": "4",
+         "Next 10": "16",
+         "Other": "18",
+         "Rackspace": "0"
+      },
+      {
+         "Quarter": "Q4 2018",
+         "Amazon Web Services": "34",
+         "Microsoft": "15",
+         "IBM": "7",
+         "Google": "7",
+         "Alibaba": "4",
+         "Next 10": "15",
+         "Other": "17",
+         "Rackspace": "0"
+      },
+      {
+         "Quarter": "Q2 2019",
+         "Amazon Web Services": "33",
+         "Microsoft": "16",
+         "IBM": "8",
+         "Google": "0",
+         "Alibaba": "0",
+         "Next 10": "0",
+         "Other": "43",
+         "Rackspace": "0"
+      }
+   ]
+}

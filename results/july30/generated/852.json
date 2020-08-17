@@ -1,0 +1,105 @@
+{
+   "title": "Natural gas consumption in the United States : 1995 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Consumption in trillion cubic feet",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Consumption in trillion cubic feet, with a total of 16 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2016 to 2009.",
+      " Contrarily, the next significant trend is  positive which exists from 2006 to 1995.",
+      " Additionally, the next significant trend is  negative which exists from 2008 to 2006."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 2,
+         "end": 9,
+         "trend": "y=0.65x+-1278.02",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 12,
+         "end": 15,
+         "trend": "y=-0.06x+143.83",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 10,
+         "end": 12,
+         "trend": "y=0.79x+-1562.84",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Consumption in trillion cubic feet": 29.95
+      },
+      {
+         "Year": "2017",
+         "Consumption in trillion cubic feet": 27.13
+      },
+      {
+         "Year": "2016",
+         "Consumption in trillion cubic feet": 27.44
+      },
+      {
+         "Year": "2015",
+         "Consumption in trillion cubic feet": 27.24
+      },
+      {
+         "Year": "2014",
+         "Consumption in trillion cubic feet": 26.59
+      },
+      {
+         "Year": "2013",
+         "Consumption in trillion cubic feet": 26.16
+      },
+      {
+         "Year": "2012",
+         "Consumption in trillion cubic feet": 25.54
+      },
+      {
+         "Year": "2011",
+         "Consumption in trillion cubic feet": 24.48
+      },
+      {
+         "Year": "2010",
+         "Consumption in trillion cubic feet": 24.09
+      },
+      {
+         "Year": "2009",
+         "Consumption in trillion cubic feet": 22.91
+      },
+      {
+         "Year": "2008",
+         "Consumption in trillion cubic feet": 23.28
+      },
+      {
+         "Year": "2007",
+         "Consumption in trillion cubic feet": 23.1
+      },
+      {
+         "Year": "2006",
+         "Consumption in trillion cubic feet": 21.7
+      },
+      {
+         "Year": "2005",
+         "Consumption in trillion cubic feet": 22.01
+      },
+      {
+         "Year": "2000",
+         "Consumption in trillion cubic feet": 23.33
+      },
+      {
+         "Year": "1995",
+         "Consumption in trillion cubic feet": 22.21
+      }
+   ]
+}

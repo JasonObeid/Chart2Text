@@ -1,0 +1,143 @@
+{
+   "title": "Mexican Americans - unemployment rate in the U.S. 1990 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the Unemployment rate in the Mexican Americans from 1990 to 2019 . ",
+      "In 1990 , this rate stood at 8.4 % . ",
+      "Unemployment rate stood at 4.4 % in 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "29"
+      },
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'19",
+         "Unemployment rate": "4.4"
+      },
+      {
+         "Year": "'18",
+         "Unemployment rate": "4.7"
+      },
+      {
+         "Year": "'17",
+         "Unemployment rate": "5.1"
+      },
+      {
+         "Year": "'16",
+         "Unemployment rate": "5.8"
+      },
+      {
+         "Year": "'15",
+         "Unemployment rate": "6.4"
+      },
+      {
+         "Year": "'14",
+         "Unemployment rate": "7.2"
+      },
+      {
+         "Year": "'13",
+         "Unemployment rate": "9"
+      },
+      {
+         "Year": "'12",
+         "Unemployment rate": "10.4"
+      },
+      {
+         "Year": "'11",
+         "Unemployment rate": "11.6"
+      },
+      {
+         "Year": "'10",
+         "Unemployment rate": "12.4"
+      },
+      {
+         "Year": "'09",
+         "Unemployment rate": "12.2"
+      },
+      {
+         "Year": "'08",
+         "Unemployment rate": "7.7"
+      },
+      {
+         "Year": "'07",
+         "Unemployment rate": "5.6"
+      },
+      {
+         "Year": "'06",
+         "Unemployment rate": "5.2"
+      },
+      {
+         "Year": "'05",
+         "Unemployment rate": "6.2"
+      },
+      {
+         "Year": "'04",
+         "Unemployment rate": "7.2"
+      },
+      {
+         "Year": "'03",
+         "Unemployment rate": "7.7"
+      },
+      {
+         "Year": "'02",
+         "Unemployment rate": "7.5"
+      },
+      {
+         "Year": "'01",
+         "Unemployment rate": "6.7"
+      },
+      {
+         "Year": "'00",
+         "Unemployment rate": "5.9"
+      },
+      {
+         "Year": "'99",
+         "Unemployment rate": "6.6"
+      },
+      {
+         "Year": "'98",
+         "Unemployment rate": "7.3"
+      },
+      {
+         "Year": "'97",
+         "Unemployment rate": "7.7"
+      },
+      {
+         "Year": "'96",
+         "Unemployment rate": "9.2"
+      },
+      {
+         "Year": "'95",
+         "Unemployment rate": "9.7"
+      },
+      {
+         "Year": "'94",
+         "Unemployment rate": "10.1"
+      },
+      {
+         "Year": "'93",
+         "Unemployment rate": "10.7"
+      },
+      {
+         "Year": "'92",
+         "Unemployment rate": "11.8"
+      },
+      {
+         "Year": "'91",
+         "Unemployment rate": "10.5"
+      },
+      {
+         "Year": "'90",
+         "Unemployment rate": "8.4"
+      }
+   ]
+}

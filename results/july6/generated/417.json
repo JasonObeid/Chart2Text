@@ -1,0 +1,74 @@
+{
+   "title": "Public opinion of important issues facing the Netherlands 2019",
+   "xAxis": "Issue",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Issue issues of Canadians for 2019 , distinguished facing 2019 of Issue . ",
+      "In 2019 , about 66 % of respondents in Netherlands were The_environment_climate_and_energy_issues or ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "11": "0",
+         "13": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Issue": "The environment climate and energy issues",
+         "Share of respondents": "66"
+      },
+      {
+         "Issue": "Health and social security",
+         "Share of respondents": "31"
+      },
+      {
+         "Issue": "The education system",
+         "Share of respondents": "25"
+      },
+      {
+         "Issue": "Crime",
+         "Share of respondents": "15"
+      },
+      {
+         "Issue": "Housing",
+         "Share of respondents": "15"
+      },
+      {
+         "Issue": "Pensions",
+         "Share of respondents": "14"
+      },
+      {
+         "Issue": "Immigration",
+         "Share of respondents": "13"
+      },
+      {
+         "Issue": "Rising prices/inflation/cost of living",
+         "Share of respondents": "9"
+      },
+      {
+         "Issue": "Economic situation",
+         "Share of respondents": "5"
+      },
+      {
+         "Issue": "Terrorism",
+         "Share of respondents": "4"
+      },
+      {
+         "Issue": "Taxation",
+         "Share of respondents": "1"
+      },
+      {
+         "Issue": "Unemployment",
+         "Share of respondents": "1"
+      },
+      {
+         "Issue": "Government debt",
+         "Share of respondents": "0"
+      }
+   ]
+}

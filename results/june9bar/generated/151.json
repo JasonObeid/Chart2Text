@@ -1,0 +1,58 @@
+{
+   "title": "Share of global seeds market value by country 2012",
+   "xAxis": "Country",
+   "yAxis": "Market value share",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Market of the global seeds market in 2012 . ",
+      "In that year , the United_States was the Share seeds Country ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Market value share": "26.71"
+      },
+      {
+         "Country": "China",
+         "Market value share": "22.15"
+      },
+      {
+         "Country": "France",
+         "Market value share": "6.23"
+      },
+      {
+         "Country": "Brazil",
+         "Market value share": "5.84"
+      },
+      {
+         "Country": "Canada",
+         "Market value share": "4.72"
+      },
+      {
+         "Country": "India",
+         "Market value share": "4.45"
+      },
+      {
+         "Country": "Japan",
+         "Market value share": "3.01"
+      },
+      {
+         "Country": "Germany",
+         "Market value share": "2.6"
+      },
+      {
+         "Country": "Argentina",
+         "Market value share": "2.2"
+      },
+      {
+         "Country": "Italy",
+         "Market value share": "1.71"
+      }
+   ]
+}

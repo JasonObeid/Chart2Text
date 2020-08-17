@@ -1,0 +1,117 @@
+{
+   "title": "Foreign exchange earnings from tourism in India 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Foreign exchange earnings in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Foreign exchange earnings in billion U.S. dollars, with a total of 19 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2018 to 2009.",
+      " Conversely, the next significant trend is  negative which exists from 2008 to 2002.",
+      " But, the next significant trend is  positive which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 0,
+         "end": 9,
+         "trend": "y=1.76x+-3517.02",
+         "magnitude": ""
+      },
+      {
+         "Length": 7,
+         "direction": "negative",
+         "start": 10,
+         "end": 16,
+         "trend": "y=1.47x+-2942.01",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 16,
+         "end": 18,
+         "trend": "y=-0.18x+363.43",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Foreign exchange earnings in billion U.S. dollars": 28.59
+      },
+      {
+         "Year": "2017",
+         "Foreign exchange earnings in billion U.S. dollars": 27.31
+      },
+      {
+         "Year": "2016",
+         "Foreign exchange earnings in billion U.S. dollars": 22.92
+      },
+      {
+         "Year": "2015",
+         "Foreign exchange earnings in billion U.S. dollars": 21.1
+      },
+      {
+         "Year": "2014",
+         "Foreign exchange earnings in billion U.S. dollars": 19.7
+      },
+      {
+         "Year": "2013",
+         "Foreign exchange earnings in billion U.S. dollars": 18.39
+      },
+      {
+         "Year": "2012",
+         "Foreign exchange earnings in billion U.S. dollars": 17.74
+      },
+      {
+         "Year": "2011",
+         "Foreign exchange earnings in billion U.S. dollars": 16.56
+      },
+      {
+         "Year": "2010",
+         "Foreign exchange earnings in billion U.S. dollars": 14.19
+      },
+      {
+         "Year": "2009",
+         "Foreign exchange earnings in billion U.S. dollars": 11.39
+      },
+      {
+         "Year": "2008",
+         "Foreign exchange earnings in billion U.S. dollars": 11.83
+      },
+      {
+         "Year": "2007",
+         "Foreign exchange earnings in billion U.S. dollars": 10.73
+      },
+      {
+         "Year": "2006",
+         "Foreign exchange earnings in billion U.S. dollars": 8.63
+      },
+      {
+         "Year": "2005",
+         "Foreign exchange earnings in billion U.S. dollars": 7.49
+      },
+      {
+         "Year": "2004",
+         "Foreign exchange earnings in billion U.S. dollars": 6.17
+      },
+      {
+         "Year": "2003",
+         "Foreign exchange earnings in billion U.S. dollars": 4.46
+      },
+      {
+         "Year": "2002",
+         "Foreign exchange earnings in billion U.S. dollars": 3.1
+      },
+      {
+         "Year": "2001",
+         "Foreign exchange earnings in billion U.S. dollars": 3.2
+      },
+      {
+         "Year": "2000",
+         "Foreign exchange earnings in billion U.S. dollars": 3.46
+      }
+   ]
+}

@@ -1,0 +1,45 @@
+{
+   "title": "Sunflower seed production in major countries 2018/19",
+   "xAxis": "Region",
+   "yAxis": "Production in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the world 's Sunflower Production in , broken down major countries . ",
+      "In , over 370 million metric tons of Sunflower were produced in the Ukraine were . ",
+      "The world metric amounted to 7.69 million metric tons in ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "Ukraine",
+         "Production in million metric tons": "15.0"
+      },
+      {
+         "Region": "Russia",
+         "Production in million metric tons": "12.71"
+      },
+      {
+         "Region": "European Union",
+         "Production in million metric tons": "9.9"
+      },
+      {
+         "Region": "Argentina",
+         "Production in million metric tons": "3.5"
+      },
+      {
+         "Region": "Turkey",
+         "Production in million metric tons": "1.8"
+      },
+      {
+         "Region": "Other",
+         "Production in million metric tons": "8.55"
+      }
+   ]
+}

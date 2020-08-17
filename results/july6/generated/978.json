@@ -1,0 +1,58 @@
+{
+   "title": "Tinder usage frequency in the United States 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "According to a 2018 Statista survey , 84 % of the 2018 respondents use their usage to Several_times_a_day . ",
+      "Never common uses of usage included Once_a_day or and listening to the Once_every_few_days . ",
+      "Headphone Market The retail value of global headphone shipments was forecast to reach 26.1 billion 2018 dollars in 2019 , a more than threefold increase in 2 years ."
+   ],
+   "trends": [
+      {
+         "7": "6",
+         "17": "0",
+         "19": "0"
+      },
+      {
+         "0": "6",
+         "6": "1",
+         "8": "1",
+         "13": "2"
+      },
+      {
+         "26": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Several times a day",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Once a day",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Once every few days",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Once a week",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Once every few weeks",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Less often than every few weeks",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Never",
+         "Share of respondents": "84"
+      }
+   ]
+}

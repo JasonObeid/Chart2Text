@@ -1,0 +1,70 @@
+{
+   "title": "Total population of Argentina 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Total population of Argentina from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of Argentina was around 44.56 millions people . ",
+      "See Switzerland 's population figures for comparison ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "10": "6"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "47.6"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "47.08"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "46.56"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "46.05"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "45.55"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "45.05"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "44.56"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "44.07"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "43.59"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "43.13"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "42.67"
+      }
+   ]
+}

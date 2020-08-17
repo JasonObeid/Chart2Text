@@ -1,0 +1,103 @@
+{
+   "title": "Electricity prices for households in Hungary 2010 - 2019 , semi-annually",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "Since the first half of 2010_S2 , household Electricity prices in Hungary have seen an overall increase , to 11.18 Euro cents per kilowatt-hour ( kWh ) in the second half of 2018_S2 . ",
+      "This was the highest price during the reporting period . ",
+      "prices fell noticeably between 2014_S2 and the first half of 2015_S2 , with households paying less than 11.14 Euro cents per kWh ."
+   ],
+   "trends": [
+      {
+         "5": "17",
+         "20": "1",
+         "33": "1"
+      },
+      {},
+      {
+         "4": "9",
+         "10": "7",
+         "17": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019 S1",
+         "Euro cents per kilowatt-hour": "11.2"
+      },
+      {
+         "Year": "2018 S2",
+         "Euro cents per kilowatt-hour": "11.18"
+      },
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": "11.23"
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": "11.34"
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": "11.25"
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": "11.25"
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": "11.14"
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": "11.45"
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": "11.27"
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": "11.46"
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": "12.02"
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": "13.26"
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": "13.97"
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": "16.18"
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": "15.49"
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": "15.53"
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": "16.82"
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": "15.74"
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": "17.01"
+      }
+   ]
+}

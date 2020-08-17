@@ -1,0 +1,73 @@
+{
+   "title": "2018 FIFA World Cup Russia ticket prices by category",
+   "labels": [
+      "Ticket Type",
+      "Cat 1",
+      "Cat 2",
+      "Cat 3",
+      "Cat 4"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 7 categories for the x axis of Ticket Type representing Cat 1, Cat 2, Cat 3, and Cat 4.",
+      " The highest category is found at Final (64) with a mean value of 593.75.",
+      " The second highest category is found at Semi-finals (61 to 62) with a mean value of 396.25.",
+      " This represents a difference of 39.9%."
+   ],
+   "trends": {
+      "maxIndex": 6,
+      "secondIndex": 6
+   },
+   "data": [
+      {
+         "Ticket Type": "Opening match (1)",
+         "Cat 1": "550",
+         "Cat 2": "390",
+         "Cat 3": "220",
+         "Cat 4": "50"
+      },
+      {
+         "Ticket Type": "Group matches (2 to 48)",
+         "Cat 1": "210",
+         "Cat 2": "165",
+         "Cat 3": "105",
+         "Cat 4": "20"
+      },
+      {
+         "Ticket Type": "Round of 16 (49 to 56)",
+         "Cat 1": "245",
+         "Cat 2": "185",
+         "Cat 3": "115",
+         "Cat 4": "35"
+      },
+      {
+         "Ticket Type": "Quarter-finals (57 to 60)",
+         "Cat 1": "365",
+         "Cat 2": "255",
+         "Cat 3": "175",
+         "Cat 4": "60"
+      },
+      {
+         "Ticket Type": "Semi-finals (61 to 62)",
+         "Cat 1": "750",
+         "Cat 2": "480",
+         "Cat 3": "285",
+         "Cat 4": "70"
+      },
+      {
+         "Ticket Type": "3rd/4th place match (63)",
+         "Cat 1": "365",
+         "Cat 2": "255",
+         "Cat 3": "175",
+         "Cat 4": "60"
+      },
+      {
+         "Ticket Type": "Final (64)",
+         "Cat 1": "1100",
+         "Cat 2": "710",
+         "Cat 3": "455",
+         "Cat 4": "110"
+      }
+   ]
+}

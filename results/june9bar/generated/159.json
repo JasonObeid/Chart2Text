@@ -1,0 +1,29 @@
+{
+   "title": "Dietary supplement usage in U.S. adults by gender 2018",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of U.S. adults",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among Indian supplement usage in the usage adults by gender . ",
+      "During the survey period , 77 percentage of U.S. usage were Female and 73 percentage were Male ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "11": "0",
+         "13": "1",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Percentage of U.S. adults": "77"
+      },
+      {
+         "Sex": "Male",
+         "Percentage of U.S. adults": "73"
+      }
+   ]
+}

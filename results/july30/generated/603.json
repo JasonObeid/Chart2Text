@@ -1,0 +1,116 @@
+{
+   "title": "Median age of the population in Hong Kong 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Median age in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Median age in years, with a total of 21 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2050 to 1965.",
+      " On the contrary, the next significant trend is  positive which exists from 1965 to 1950."
+   ],
+   "trends": [
+      {
+         "Length": 18,
+         "direction": "negative",
+         "start": 0,
+         "end": 17,
+         "trend": "y=0.41x+-791.38",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 17,
+         "end": 20,
+         "trend": "y=-0.16x+328.47",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2050",
+         "Median age in years": 53.4
+      },
+      {
+         "Year": "2045",
+         "Median age in years": 52.7
+      },
+      {
+         "Year": "2040",
+         "Median age in years": 51.3
+      },
+      {
+         "Year": "2035",
+         "Median age in years": 49.7
+      },
+      {
+         "Year": "2030",
+         "Median age in years": 47.9
+      },
+      {
+         "Year": "2025",
+         "Median age in years": 46.4
+      },
+      {
+         "Year": "2020",
+         "Median age in years": 44.8
+      },
+      {
+         "Year": "2015",
+         "Median age in years": 43.2
+      },
+      {
+         "Year": "2010",
+         "Median age in years": 41.2
+      },
+      {
+         "Year": "2005",
+         "Median age in years": 39.1
+      },
+      {
+         "Year": "2000",
+         "Median age in years": 36.2
+      },
+      {
+         "Year": "1995",
+         "Median age in years": 34.0
+      },
+      {
+         "Year": "1990",
+         "Median age in years": 31.0
+      },
+      {
+         "Year": "1985",
+         "Median age in years": 28.3
+      },
+      {
+         "Year": "1980",
+         "Median age in years": 25.7
+      },
+      {
+         "Year": "1975",
+         "Median age in years": 23.1
+      },
+      {
+         "Year": "1970",
+         "Median age in years": 21.7
+      },
+      {
+         "Year": "1965",
+         "Median age in years": 21.3
+      },
+      {
+         "Year": "1960",
+         "Median age in years": 23.4
+      },
+      {
+         "Year": "1955",
+         "Median age in years": 24.0
+      },
+      {
+         "Year": "1950",
+         "Median age in years": 23.7
+      }
+   ]
+}

@@ -1,0 +1,60 @@
+{
+   "title": "Average mobile app user acquisition costs 2018 - 2019 , by user action and OS",
+   "labels": [
+      "unknown",
+      "Android",
+      "iOS",
+      "Total"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The graph shows the Average and mobile of OS user in the app in 2018 , costs 2018 . ",
+      "In 2018 , about 45.86 % Subscribe user were Android user ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "4",
+            "1"
+         ],
+         "6": [
+            "4",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Install",
+         "Android": "1.22",
+         "iOS": "3.6",
+         "Total": "1.75"
+      },
+      {
+         "unknown": "Register",
+         "Android": "2.17",
+         "iOS": "7.55",
+         "Total": "3.52"
+      },
+      {
+         "unknown": "In-app purchase",
+         "Android": "86.72",
+         "iOS": "77.45",
+         "Total": "86.61"
+      },
+      {
+         "unknown": "Purchase",
+         "Android": "51.49",
+         "iOS": "87.31",
+         "Total": "75.22"
+      },
+      {
+         "unknown": "Subscribe",
+         "Android": "45.86",
+         "iOS": "33.12",
+         "Total": "36.39"
+      }
+   ]
+}

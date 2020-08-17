@@ -1,0 +1,48 @@
+{
+   "title": "Largest Mainline Protestant churches in the U.S. 2010 , by congregations",
+   "xAxis": "Mainline Protestant church",
+   "yAxis": "Number of congregations",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the total Number of congregations in the Protestant in 2010 , by Mainline . ",
+      "In 2010 , 33323 % of the congregations was United_Methodist_Church in Protestant ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Mainline Protestant church": "United Methodist Church",
+         "Number of congregations": "33323"
+      },
+      {
+         "Mainline Protestant church": "Presbyterian Church (U.S.A.)",
+         "Number of congregations": "10487"
+      },
+      {
+         "Mainline Protestant church": "Evangelical Lutheran Church in America",
+         "Number of congregations": "9846"
+      },
+      {
+         "Mainline Protestant church": "Episcopal Church",
+         "Number of congregations": "6794"
+      },
+      {
+         "Mainline Protestant church": "American Baptist Churches in the U.S.A.",
+         "Number of congregations": "5243"
+      },
+      {
+         "Mainline Protestant church": "United Church of Christ",
+         "Number of congregations": "5225"
+      },
+      {
+         "Mainline Protestant church": "All other Mainline Protestant",
+         "Number of congregations": "6842"
+      }
+   ]
+}

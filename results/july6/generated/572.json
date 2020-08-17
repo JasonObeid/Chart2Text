@@ -1,0 +1,76 @@
+{
+   "title": "Leading 5 purchasing countries of IKEA products 2012 to 2016",
+   "labels": [
+      "Country",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Leading of 5 purchasing in the IKEA from 2012 to 2016 , . ",
+      "In 2016 , there were 23 5 purchasing in the IKEA ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "2012": "22",
+         "2013": "23",
+         "2014": "25",
+         "2015": "25",
+         "2016": "26"
+      },
+      {
+         "Country": "Poland",
+         "2012": "18",
+         "2013": "18",
+         "2014": "18",
+         "2015": "19",
+         "2016": "18"
+      },
+      {
+         "Country": "Italy",
+         "2012": "8",
+         "2013": "8",
+         "2014": "7",
+         "2015": "8",
+         "2016": "8"
+      },
+      {
+         "Country": "Sweden",
+         "2012": "5",
+         "2013": "6",
+         "2014": "5",
+         "2015": "5",
+         "2016": "5"
+      },
+      {
+         "Country": "Lithuania",
+         "2012": "4",
+         "2013": "4",
+         "2014": "4",
+         "2015": "5",
+         "2016": "5"
+      },
+      {
+         "Country": "Others",
+         "2012": "0",
+         "2013": "0",
+         "2014": "0",
+         "2015": "0",
+         "2016": "38"
+      }
+   ]
+}

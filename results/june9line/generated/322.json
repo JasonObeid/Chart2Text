@@ -1,0 +1,68 @@
+{
+   "title": "Fertility rate in Russia 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of children born per woman",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Fertility rate in Russia from 2007 to 2017 . ",
+      "In the Year 2017 , about 1.76 children were born per woman of childbearing age . ",
+      "Despite a decreasing Fertility rate , the total population of Russia is expected to increase over the next few years ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "0"
+      },
+      {
+         "3": "0",
+         "6": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of children born per woman": "1.76"
+      },
+      {
+         "Year": "2016",
+         "Number of children born per woman": "1.76"
+      },
+      {
+         "Year": "2015",
+         "Number of children born per woman": "1.78"
+      },
+      {
+         "Year": "2014",
+         "Number of children born per woman": "1.75"
+      },
+      {
+         "Year": "2013",
+         "Number of children born per woman": "1.71"
+      },
+      {
+         "Year": "2012",
+         "Number of children born per woman": "1.69"
+      },
+      {
+         "Year": "2011",
+         "Number of children born per woman": "1.58"
+      },
+      {
+         "Year": "2010",
+         "Number of children born per woman": "1.57"
+      },
+      {
+         "Year": "2009",
+         "Number of children born per woman": "1.54"
+      },
+      {
+         "Year": "2008",
+         "Number of children born per woman": "1.5"
+      },
+      {
+         "Year": "2007",
+         "Number of children born per woman": "1.42"
+      }
+   ]
+}

@@ -1,0 +1,74 @@
+{
+   "title": "Mexico : religion affiliation share 2018 , by type\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 14 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Catholic where Share of respondents is 80.8.",
+      " The lowest category is found at Baptist_evangelist where Share of respondents is 0.1."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 6
+   },
+   "data": [
+      {
+         "Response": "Catholic",
+         "Share of respondents": 80.8
+      },
+      {
+         "Response": "Evangelist (unspecified)",
+         "Share of respondents": 1.3
+      },
+      {
+         "Response": "Jehova's witness",
+         "Share of respondents": 1.2
+      },
+      {
+         "Response": "Pentecostal evangelist",
+         "Share of respondents": 0.8
+      },
+      {
+         "Response": "Adventist",
+         "Share of respondents": 0.2
+      },
+      {
+         "Response": "Mormon",
+         "Share of respondents": 0.2
+      },
+      {
+         "Response": "Baptist evangelist",
+         "Share of respondents": 0.1
+      },
+      {
+         "Response": "None",
+         "Share of respondents": 10.6
+      },
+      {
+         "Response": "Believer without formal affiliation to any religion",
+         "Share of respondents": 2.8
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 0.8
+      },
+      {
+         "Response": "Do not know",
+         "Share of respondents": 0.5
+      },
+      {
+         "Response": "Do not answer",
+         "Share of respondents": 0.3
+      },
+      {
+         "Response": "Agnostic",
+         "Share of respondents": 0.2
+      },
+      {
+         "Response": "Atheist",
+         "Share of respondents": 0.2
+      }
+   ]
+}

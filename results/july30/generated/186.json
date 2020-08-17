@@ -1,0 +1,58 @@
+{
+   "title": "Leading cigarette brands in the United Kingdom ( UK ) 2016 , by sales value\n",
+   "xAxis": "Month",
+   "yAxis": "Sales value in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Sales value in million GBP.",
+      " The highest category is found at Sterling where Sales value in million GBP is 1511.3.",
+      " The lowest category is found at Windsor where Sales value in million GBP is 461.9."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Month": "Sterling",
+         "Sales value in million GBP": 1511.3
+      },
+      {
+         "Month": "Mayfair",
+         "Sales value in million GBP": 1046.1
+      },
+      {
+         "Month": "Lambert and Butler",
+         "Sales value in million GBP": 787.7
+      },
+      {
+         "Month": "Marlboro",
+         "Sales value in million GBP": 782.2
+      },
+      {
+         "Month": "Richmond",
+         "Sales value in million GBP": 724.3
+      },
+      {
+         "Month": "Players",
+         "Sales value in million GBP": 718.9
+      },
+      {
+         "Month": "John Player Special",
+         "Sales value in million GBP": 677.2
+      },
+      {
+         "Month": "Carlton",
+         "Sales value in million GBP": 540.6
+      },
+      {
+         "Month": "Silk Cut",
+         "Sales value in million GBP": 503.5
+      },
+      {
+         "Month": "Windsor",
+         "Sales value in million GBP": 461.9
+      }
+   ]
+}

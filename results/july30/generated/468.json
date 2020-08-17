@@ -1,0 +1,37 @@
+{
+   "title": "Life expectancy in North America 2019",
+   "labels": [
+      "Country",
+      "Males",
+      "Females"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 3 categories for the x axis of Country representing Males, and Females.",
+      " The highest category is found at Canada with a mean value of 82.0.",
+      " The second highest category is found at USA with a mean value of 78.5.",
+      " This represents a difference of 4.4%."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "secondIndex": 1
+   },
+   "data": [
+      {
+         "Country": "North America",
+         "Males": "76",
+         "Females": "81"
+      },
+      {
+         "Country": "Canada",
+         "Males": "80",
+         "Females": "84"
+      },
+      {
+         "Country": "USA",
+         "Males": "76",
+         "Females": "81"
+      }
+   ]
+}

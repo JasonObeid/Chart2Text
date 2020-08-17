@@ -1,0 +1,110 @@
+{
+   "title": "India 's sales of automobiles 2010- 2019 by type",
+   "labels": [
+      "unknown",
+      "Two wheelers",
+      "Passenger vehicles",
+      "Commercial vehicles",
+      "Three wheelers"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the ranking of leading India sales globally in 2019 , by type FY_2019 . ",
+      "The FY_2011 by figures have also been provided for reference . ",
+      "The revenues type FY_2019 of FY_2018 , a global provider of banking and payment FY_2011 , amounted to approximately 20.2 billion U.S. dollars in 2019 ."
+   ],
+   "trends": [
+      {
+         "17": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "8",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "1",
+            "0"
+         ],
+         "15": [
+            "8",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "FY 2019",
+         "Two wheelers": "21.18",
+         "Passenger vehicles": "3.4",
+         "Commercial vehicles": "1.0",
+         "Three wheelers": "0.7"
+      },
+      {
+         "unknown": "FY 2018",
+         "Two wheelers": "20.2",
+         "Passenger vehicles": "3.3",
+         "Commercial vehicles": "0.86",
+         "Three wheelers": "0.64"
+      },
+      {
+         "unknown": "FY 2017",
+         "Two wheelers": "17.6",
+         "Passenger vehicles": "3.0",
+         "Commercial vehicles": "0.71",
+         "Three wheelers": "0.51"
+      },
+      {
+         "unknown": "FY 2016",
+         "Two wheelers": "16.5",
+         "Passenger vehicles": "2.8",
+         "Commercial vehicles": "0.69",
+         "Three wheelers": "0.54"
+      },
+      {
+         "unknown": "FY 2015",
+         "Two wheelers": "16.0",
+         "Passenger vehicles": "2.6",
+         "Commercial vehicles": "0.61",
+         "Three wheelers": "0.53"
+      },
+      {
+         "unknown": "FY 2014",
+         "Two wheelers": "14.8",
+         "Passenger vehicles": "2.5",
+         "Commercial vehicles": "0.63",
+         "Three wheelers": "0.48"
+      },
+      {
+         "unknown": "FY 2013",
+         "Two wheelers": "13.8",
+         "Passenger vehicles": "2.7",
+         "Commercial vehicles": "0.79",
+         "Three wheelers": "0.54"
+      },
+      {
+         "unknown": "FY 2012",
+         "Two wheelers": "13.4",
+         "Passenger vehicles": "2.6",
+         "Commercial vehicles": "0.81",
+         "Three wheelers": "0.51"
+      },
+      {
+         "unknown": "FY 2011",
+         "Two wheelers": "11.8",
+         "Passenger vehicles": "2.5",
+         "Commercial vehicles": "0.68",
+         "Three wheelers": "0.53"
+      }
+   ]
+}

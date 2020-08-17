@@ -1,0 +1,107 @@
+{
+   "title": "Mid-size luxury vehicles : sales by model in the United States 2019",
+   "labels": [
+      "Model",
+      "2019",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 17 categories for the x axis of Model representing 2019, and 2018.",
+      " The highest category is found at Tesla Model 3 with a mean value of 150708.5.",
+      " The second highest category is found at Lexus ES with a mean value of 49909.0.",
+      " This represents a difference of 100.5%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Model": "Tesla Model 3",
+         "2019": "161100",
+         "2018": "140317"
+      },
+      {
+         "Model": "Lexus ES",
+         "2019": "51336",
+         "2018": "48482"
+      },
+      {
+         "Model": "Mercedes-Benz E / CLS-Class",
+         "2019": "39858",
+         "2018": "46424"
+      },
+      {
+         "Model": "BMW 5-Series",
+         "2019": "38709",
+         "2018": "43937"
+      },
+      {
+         "Model": "Audi A6",
+         "2019": "17807",
+         "2018": "10561"
+      },
+      {
+         "Model": "Lincoln MKZ",
+         "2019": "17726",
+         "2018": "19852"
+      },
+      {
+         "Model": "Cadillac XTS",
+         "2019": "11306",
+         "2018": "17729"
+      },
+      {
+         "Model": "Cadillac CT6",
+         "2019": "7952",
+         "2018": "9669"
+      },
+      {
+         "Model": "Genesis G80",
+         "2019": "7095",
+         "2018": "7446"
+      },
+      {
+         "Model": "Cadillac CTS",
+         "2019": "6966",
+         "2018": "11220"
+      },
+      {
+         "Model": "Lincoln Continental",
+         "2019": "6587",
+         "2018": "8758"
+      },
+      {
+         "Model": "Audi A7",
+         "2019": "4955",
+         "2018": "3852"
+      },
+      {
+         "Model": "Volvo 90-Series",
+         "2019": "4052",
+         "2018": "9892"
+      },
+      {
+         "Model": "Lexus GS",
+         "2019": "3378",
+         "2018": "6604"
+      },
+      {
+         "Model": "Infiniti Q70",
+         "2019": "2552",
+         "2018": "4479"
+      },
+      {
+         "Model": "Jaguar XF",
+         "2019": "1236",
+         "2018": "2208"
+      },
+      {
+         "Model": "Acura RLX",
+         "2019": "1019",
+         "2018": "1931"
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Number of households in Sweden 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of households",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The Number of the Sweden luxury 2011 2018 S.p.A. amounted to 4345582 million households in 2018 . ",
+      "This figure represents a decrease compared to the peak reached by the 2011 in 2015 , when the Number reported amounted to 4536214 million households . ",
+      "The reduction in Number coincided with lower profits for the 2011 during the same period ."
+   ],
+   "trends": [
+      {
+         "13": "7",
+         "17": "0"
+      },
+      {
+         "14": "3",
+         "22": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of households": "4657395"
+      },
+      {
+         "Year": "2017",
+         "Number of households": "4593508"
+      },
+      {
+         "Year": "2016",
+         "Number of households": "4536214"
+      },
+      {
+         "Year": "2015",
+         "Number of households": "4481746"
+      },
+      {
+         "Year": "2014",
+         "Number of households": "4432614"
+      },
+      {
+         "Year": "2013",
+         "Number of households": "4389007"
+      },
+      {
+         "Year": "2012",
+         "Number of households": "4360368"
+      },
+      {
+         "Year": "2011",
+         "Number of households": "4345582"
+      }
+   ]
+}

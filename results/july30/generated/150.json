@@ -1,0 +1,47 @@
+{
+   "title": "Global mobile video traffic 2017 to 2022\n",
+   "xAxis": "Year",
+   "yAxis": "Traffic in PB per month",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Traffic in PB per month with a total of 6 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2022 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "negative",
+         "start": 0,
+         "end": 5,
+         "trend": "y=10635.97x+-21450857.13",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2022",
+         "Traffic in PB per month": 60889.0
+      },
+      {
+         "Year": "2021",
+         "Traffic in PB per month": 42734.0
+      },
+      {
+         "Year": "2020",
+         "Traffic in PB per month": 29149.0
+      },
+      {
+         "Year": "2019",
+         "Traffic in PB per month": 19279.0
+      },
+      {
+         "Year": "2018",
+         "Traffic in PB per month": 12051.0
+      },
+      {
+         "Year": "2017",
+         "Traffic in PB per month": 6821.0
+      }
+   ]
+}

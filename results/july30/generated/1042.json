@@ -1,0 +1,112 @@
+{
+   "title": "Number of live births in the EU in 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of live births in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of live births in millions, with a total of 11 data points. The chart has 6 significant trends.",
+      " The longest trend is  positive which exists from 2013 to 2010.",
+      " Correspondingly, the next significant trend is  positive which exists from 2018 to 2016.",
+      " Also, the next significant trend is  neutral which exists from 2010 to 2008.",
+      " Also, the next significant trend is  negative which exists from 2016 to 2015.",
+      " On the other hand, the next significant trend is  positive which exists from 2015 to 2014.",
+      " Additionally, the next significant trend is  negative which exists from 2014 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 5,
+         "end": 8,
+         "trend": "y=-0.1x+212.43",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-0.1x+196.68",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 8,
+         "end": 10,
+         "trend": "y=-0.03x+65.7",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 2,
+         "end": 3,
+         "trend": "y=0.04x+-75.49",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 3,
+         "end": 4,
+         "trend": "y=-0.03x+65.56",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 4,
+         "end": 5,
+         "trend": "y=0.06x+-115.7",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of live births in millions": 4.96
+      },
+      {
+         "Year": "2017",
+         "Number of live births in millions": 5.07
+      },
+      {
+         "Year": "2016",
+         "Number of live births in millions": 5.15
+      },
+      {
+         "Year": "2015",
+         "Number of live births in millions": 5.11
+      },
+      {
+         "Year": "2014",
+         "Number of live births in millions": 5.14
+      },
+      {
+         "Year": "2013",
+         "Number of live births in millions": 5.08
+      },
+      {
+         "Year": "2012",
+         "Number of live births in millions": 5.23
+      },
+      {
+         "Year": "2011",
+         "Number of live births in millions": 5.27
+      },
+      {
+         "Year": "2010",
+         "Number of live births in millions": 5.41
+      },
+      {
+         "Year": "2009",
+         "Number of live births in millions": 5.41
+      },
+      {
+         "Year": "2008",
+         "Number of live births in millions": 5.47
+      }
+   ]
+}

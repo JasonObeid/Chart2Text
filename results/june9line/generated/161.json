@@ -1,0 +1,55 @@
+{
+   "title": "Singapore : mobile phone internet users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of mobile phone internet users in millions",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Number of mobile internet users in Singapore from 2017 to 2023 . ",
+      "In 2018 , 4.5 millions people accessed the internet through their mobile phone . ",
+      "In 2023 , this figure is projected to amount 4.9 millions mobile phone internet users ."
+   ],
+   "trends": [
+      {
+         "12": "6",
+         "14": "0"
+      },
+      {
+         "1": "5",
+         "3": "5"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of mobile phone internet users in millions": "4.9"
+      },
+      {
+         "Year": "2022",
+         "Number of mobile phone internet users in millions": "4.9"
+      },
+      {
+         "Year": "2021",
+         "Number of mobile phone internet users in millions": "4.8"
+      },
+      {
+         "Year": "2020",
+         "Number of mobile phone internet users in millions": "4.7"
+      },
+      {
+         "Year": "2019",
+         "Number of mobile phone internet users in millions": "4.6"
+      },
+      {
+         "Year": "2018",
+         "Number of mobile phone internet users in millions": "4.5"
+      },
+      {
+         "Year": "2017",
+         "Number of mobile phone internet users in millions": "4.3"
+      }
+   ]
+}

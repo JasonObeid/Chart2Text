@@ -1,0 +1,95 @@
+{
+   "title": "Percentage of population with a university degree , by country 2007",
+   "xAxis": "Country",
+   "yAxis": "Percent with a university degree",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Percent of Percentage university degree worldwide as of 2019 , sorted 2007 Country . ",
+      "During the survey period , New_Zealand had the highest Percent of 35 university degree worldwide ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "11": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Percent with a university degree": "48"
+      },
+      {
+         "Country": "New Zealand",
+         "Percent with a university degree": "41"
+      },
+      {
+         "Country": "Japan",
+         "Percent with a university degree": "41"
+      },
+      {
+         "Country": "United States",
+         "Percent with a university degree": "40"
+      },
+      {
+         "Country": "Korea Republic of",
+         "Percent with a university degree": "35"
+      },
+      {
+         "Country": "Norway",
+         "Percent with a university degree": "34"
+      },
+      {
+         "Country": "Australia",
+         "Percent with a university degree": "34"
+      },
+      {
+         "Country": "Ireland",
+         "Percent with a university degree": "32"
+      },
+      {
+         "Country": "United Kingdom",
+         "Percent with a university degree": "32"
+      },
+      {
+         "Country": "Denmark",
+         "Percent with a university degree": "32"
+      },
+      {
+         "Country": "Sweden",
+         "Percent with a university degree": "31"
+      },
+      {
+         "Country": "Netherlands",
+         "Percent with a university degree": "31"
+      },
+      {
+         "Country": "Spain",
+         "Percent with a university degree": "29"
+      },
+      {
+         "Country": "France",
+         "Percent with a university degree": "27"
+      },
+      {
+         "Country": "Germany",
+         "Percent with a university degree": "24"
+      },
+      {
+         "Country": "Austria",
+         "Percent with a university degree": "18"
+      },
+      {
+         "Country": "Mexico",
+         "Percent with a university degree": "15"
+      },
+      {
+         "Country": "Portugal",
+         "Percent with a university degree": "14"
+      },
+      {
+         "Country": "Italy",
+         "Percent with a university degree": "13"
+      }
+   ]
+}

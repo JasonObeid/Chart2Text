@@ -1,0 +1,98 @@
+{
+   "title": "Leading 20 U.S. brands 2018 , by brand value\n",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Brand, and a y axis representing Brand value in million U.S. dollars.",
+      " The highest category is found at Amazon where Brand value in million U.S. dollars is 187905.0.",
+      " The lowest category is found at Nike where Brand value in million U.S. dollars is 32421.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Brand": "Amazon",
+         "Brand value in million U.S. dollars": 187905.0
+      },
+      {
+         "Brand": "Apple",
+         "Brand value in million U.S. dollars": 153634.0
+      },
+      {
+         "Brand": "Google",
+         "Brand value in million U.S. dollars": 142755.0
+      },
+      {
+         "Brand": "Microsoft",
+         "Brand value in million U.S. dollars": 119595.0
+      },
+      {
+         "Brand": "AT&T",
+         "Brand value in million U.S. dollars": 87005.0
+      },
+      {
+         "Brand": "Facebook",
+         "Brand value in million U.S. dollars": 83202.0
+      },
+      {
+         "Brand": "Verizon",
+         "Brand value in million U.S. dollars": 71154.0
+      },
+      {
+         "Brand": "Walmart",
+         "Brand value in million U.S. dollars": 67867.0
+      },
+      {
+         "Brand": "The Home Depot",
+         "Brand value in million U.S. dollars": 47056.0
+      },
+      {
+         "Brand": "Walt Disney",
+         "Brand value in million U.S. dollars": 45750.0
+      },
+      {
+         "Brand": "Wells Fargo",
+         "Brand value in million U.S. dollars": 39948.0
+      },
+      {
+         "Brand": "Starbucks",
+         "Brand value in million U.S. dollars": 39268.0
+      },
+      {
+         "Brand": "YouTube",
+         "Brand value in million U.S. dollars": 37847.0
+      },
+      {
+         "Brand": "Bank of America",
+         "Brand value in million U.S. dollars": 36687.0
+      },
+      {
+         "Brand": "Citi",
+         "Brand value in million U.S. dollars": 36407.0
+      },
+      {
+         "Brand": "Chase",
+         "Brand value in million U.S. dollars": 36265.0
+      },
+      {
+         "Brand": "Coca-Cola",
+         "Brand value in million U.S. dollars": 36188.0
+      },
+      {
+         "Brand": "Marlboro",
+         "Brand value in million U.S. dollars": 33569.0
+      },
+      {
+         "Brand": "IBM",
+         "Brand value in million U.S. dollars": 32854.0
+      },
+      {
+         "Brand": "Nike",
+         "Brand value in million U.S. dollars": 32421.0
+      }
+   ]
+}

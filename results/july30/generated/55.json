@@ -1,0 +1,117 @@
+{
+   "title": "Number of cars on the road in the United Kingdom ( UK ) 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of cars in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of cars in millions, with a total of 19 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2008 to 2000.",
+      " On the contrary, the next significant trend is  negative which exists from 2018 to 2014.",
+      " On the contrary, the next significant trend is  negative which exists from 2013 to 2009."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 10,
+         "end": 18,
+         "trend": "y=0.39x+-745.76",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=0.5x+-976.36",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 5,
+         "end": 9,
+         "trend": "y=0.18x+-331.54",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of cars in millions": 32.5
+      },
+      {
+         "Year": "2017",
+         "Number of cars in millions": 32.2
+      },
+      {
+         "Year": "2016",
+         "Number of cars in millions": 31.8
+      },
+      {
+         "Year": "2015",
+         "Number of cars in millions": 31.2
+      },
+      {
+         "Year": "2014",
+         "Number of cars in millions": 30.5
+      },
+      {
+         "Year": "2013",
+         "Number of cars in millions": 30.9
+      },
+      {
+         "Year": "2012",
+         "Number of cars in millions": 30.5
+      },
+      {
+         "Year": "2011",
+         "Number of cars in millions": 30.4
+      },
+      {
+         "Year": "2010",
+         "Number of cars in millions": 30.3
+      },
+      {
+         "Year": "2009",
+         "Number of cars in millions": 30.1
+      },
+      {
+         "Year": "2008",
+         "Number of cars in millions": 30.3
+      },
+      {
+         "Year": "2007",
+         "Number of cars in millions": 30.2
+      },
+      {
+         "Year": "2006",
+         "Number of cars in millions": 29.9
+      },
+      {
+         "Year": "2005",
+         "Number of cars in millions": 29.8
+      },
+      {
+         "Year": "2004",
+         "Number of cars in millions": 29.4
+      },
+      {
+         "Year": "2003",
+         "Number of cars in millions": 29.0
+      },
+      {
+         "Year": "2002",
+         "Number of cars in millions": 28.5
+      },
+      {
+         "Year": "2001",
+         "Number of cars in millions": 27.8
+      },
+      {
+         "Year": "2000",
+         "Number of cars in millions": 27.2
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "title": "Number of enrolled university students in South Korea 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Enrolled university students in millions",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Enrolled of university students in South Korea from 2011 to 2018 . ",
+      "In 2018 , there were 2.03 millions university students in South Korea ."
+   ],
+   "trends": [
+      {
+         "11": "7",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Enrolled university students in millions": "2.03"
+      },
+      {
+         "Year": "2017",
+         "Enrolled university students in millions": "2.05"
+      },
+      {
+         "Year": "2016",
+         "Enrolled university students in millions": "2.08"
+      },
+      {
+         "Year": "2015",
+         "Enrolled university students in millions": "2.11"
+      },
+      {
+         "Year": "2014",
+         "Enrolled university students in millions": "2.13"
+      },
+      {
+         "Year": "2013",
+         "Enrolled university students in millions": "2.13"
+      },
+      {
+         "Year": "2012",
+         "Enrolled university students in millions": "2.1"
+      },
+      {
+         "Year": "2011",
+         "Enrolled university students in millions": "2.07"
+      }
+   ]
+}

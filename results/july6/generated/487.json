@@ -1,0 +1,66 @@
+{
+   "title": "Mobile/fixed market share of Vodafone in its main markets 2018",
+   "labels": [
+      "Country",
+      "Mobile market",
+      "Fixed market"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the average Mobile/fixed market in South_Africa/Africa_(Vodacom_Group) for those born in 2018 , by gender and region . ",
+      "The average Mobile/fixed market across the whole continent was 31.5 years for Mobile and 0 years for Fixed . ",
+      "The average Mobile/fixed market globally was 70 years for Mobile and 75 years for Fixed in 2018 ."
+   ],
+   "trends": [
+      {
+         "8": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "9": [
+            "2",
+            "1"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "South Africa/Africa (Vodacom Group)",
+         "Mobile market": "46.3",
+         "Fixed market": "0"
+      },
+      {
+         "Country": "Germany",
+         "Mobile market": "33.6",
+         "Fixed market": "21.4"
+      },
+      {
+         "Country": "India",
+         "Mobile market": "31.5",
+         "Fixed market": "0"
+      },
+      {
+         "Country": "Italy",
+         "Mobile market": "31.1",
+         "Fixed market": "9.3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Mobile market": "21.3",
+         "Fixed market": "6.8"
+      },
+      {
+         "Country": "Spain",
+         "Mobile market": "17.4",
+         "Fixed market": "17.4"
+      }
+   ]
+}

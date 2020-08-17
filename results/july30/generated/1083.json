@@ -1,0 +1,46 @@
+{
+   "title": "Global market share held by PC vendors 2019\n",
+   "xAxis": "Brand",
+   "yAxis": "Share of shipments",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Brand, and a y axis representing Share of shipments.",
+      " The highest category is found at Lenovo where Share of shipments is 24.1.",
+      " The lowest category is found at Asus where Share of shipments is 5.5."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 5
+   },
+   "data": [
+      {
+         "Brand": "Lenovo",
+         "Share of shipments": 24.1
+      },
+      {
+         "Brand": "HP Inc",
+         "Share of shipments": 22.2
+      },
+      {
+         "Brand": "Dell",
+         "Share of shipments": 16.8
+      },
+      {
+         "Brand": "Apple",
+         "Share of shipments": 7.0
+      },
+      {
+         "Brand": "Acer",
+         "Share of shipments": 5.7
+      },
+      {
+         "Brand": "Asus",
+         "Share of shipments": 5.5
+      },
+      {
+         "Brand": "Others",
+         "Share of shipments": 18.7
+      }
+   ]
+}

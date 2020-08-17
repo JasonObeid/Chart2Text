@@ -1,0 +1,113 @@
+{
+   "title": "Miami Heat 's revenue 2001 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2018/19 to 2014/15.",
+      " On the contrary, the next significant trend is  negative which exists from 2005/06 to 2001/02.",
+      " On the other hand, the next significant trend is  positive which exists from 2009/10 to 2007/08."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=27.7x+-55604.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 13,
+         "end": 17,
+         "trend": "y=10.0x+-19923.8",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=-3.5x+7155.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 294.0
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 259.0
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 253.0
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 210.0
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 180.0
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": 188.0
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": 188.0
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": 150.0
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": 158.0
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": 124.0
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": 126.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": 131.0
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": 131.0
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": 132.0
+      },
+      {
+         "Year": "2004/05",
+         "Revenue in million U.S. dollars": 119.0
+      },
+      {
+         "Year": "2003/04",
+         "Revenue in million U.S. dollars": 93.0
+      },
+      {
+         "Year": "2002/03",
+         "Revenue in million U.S. dollars": 91.0
+      },
+      {
+         "Year": "2001/02",
+         "Revenue in million U.S. dollars": 96.0
+      }
+   ]
+}

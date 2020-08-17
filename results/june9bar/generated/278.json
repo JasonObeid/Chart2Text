@@ -1,0 +1,59 @@
+{
+   "title": "Solar PV capacity - new installations worldwide by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Percentage of newly installed capacity",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Percentage of the PV newly capacity new as of October 2018 , installations Country . ",
+      "During that period , there were 11 newly installed in China ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "2",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Percentage of newly installed capacity": "45"
+      },
+      {
+         "Country": "India",
+         "Percentage of newly installed capacity": "11"
+      },
+      {
+         "Country": "US",
+         "Percentage of newly installed capacity": "11"
+      },
+      {
+         "Country": "Japan",
+         "Percentage of newly installed capacity": "7"
+      },
+      {
+         "Country": "Australia",
+         "Percentage of newly installed capacity": "4"
+      },
+      {
+         "Country": "Germany",
+         "Percentage of newly installed capacity": "3"
+      },
+      {
+         "Country": "Mexico",
+         "Percentage of newly installed capacity": "3"
+      },
+      {
+         "Country": "Republic of Korea",
+         "Percentage of newly installed capacity": "2"
+      },
+      {
+         "Country": "Turkey",
+         "Percentage of newly installed capacity": "2"
+      },
+      {
+         "Country": "Netherlands",
+         "Percentage of newly installed capacity": "1"
+      }
+   ]
+}

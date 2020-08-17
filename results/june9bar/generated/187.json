@@ -1,0 +1,38 @@
+{
+   "title": "U.S. mobile device owner monthly app download rate 2018 , by age group",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among 559 industrial enterprises on their opinion on Millennials_(18-34) owner as of 2018 . ",
+      "In today 's Teens_(13-17) , 39 % of the respondents stated that they had attained a Millennials_(18-34) ."
+   ],
+   "trends": [
+      {
+         "16": "1"
+      },
+      {
+         "3": "0",
+         "5": "3",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Teens (13-17)",
+         "Share of respondents": "83"
+      },
+      {
+         "Response": "Millennials (18-34)",
+         "Share of respondents": "74"
+      },
+      {
+         "Response": "Gen X (35-54)",
+         "Share of respondents": "59"
+      },
+      {
+         "Response": "Boomers (55-64)",
+         "Share of respondents": "39"
+      }
+   ]
+}

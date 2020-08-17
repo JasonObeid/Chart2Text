@@ -1,0 +1,101 @@
+{
+   "title": "Suggested retail price of a PlayStation 4 in 2014 , by country",
+   "xAxis": "Country",
+   "yAxis": "Price in U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the PlayStation retail price PlayStation 4 2014 by country in 2014 . ",
+      "In that year , the Brazil produced some 1702.43 million dollars , followed by Argentina and India ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "8": "0",
+         "14": "1",
+         "16": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Brazil",
+         "Price in U.S. dollars": "1702.43"
+      },
+      {
+         "Country": "Argentina",
+         "Price in U.S. dollars": "1387.9"
+      },
+      {
+         "Country": "India",
+         "Price in U.S. dollars": "653.54"
+      },
+      {
+         "Country": "Indonesia",
+         "Price in U.S. dollars": "619.76"
+      },
+      {
+         "Country": "Thailand",
+         "Price in U.S. dollars": "614.77"
+      },
+      {
+         "Country": "South Africa",
+         "Price in U.S. dollars": "585.79"
+      },
+      {
+         "Country": "United Kingdom",
+         "Price in U.S. dollars": "580.94"
+      },
+      {
+         "Country": "Philippines",
+         "Price in U.S. dollars": "559.51"
+      },
+      {
+         "Country": "Germany",
+         "Price in U.S. dollars": "557.07"
+      },
+      {
+         "Country": "Malaysia",
+         "Price in U.S. dollars": "550.76"
+      },
+      {
+         "Country": "Russia",
+         "Price in U.S. dollars": "523.85"
+      },
+      {
+         "Country": "Singapore",
+         "Price in U.S. dollars": "505.7"
+      },
+      {
+         "Country": "South Korea",
+         "Price in U.S. dollars": "466.82"
+      },
+      {
+         "Country": "Australia",
+         "Price in U.S. dollars": "492.84"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Price in U.S. dollars": "462.56"
+      },
+      {
+         "Country": "Canada",
+         "Price in U.S. dollars": "451.42"
+      },
+      {
+         "Country": "Hong Kong",
+         "Price in U.S. dollars": "435.23"
+      },
+      {
+         "Country": "Taiwan",
+         "Price in U.S. dollars": "427.83"
+      },
+      {
+         "Country": "United States",
+         "Price in U.S. dollars": "399.99"
+      },
+      {
+         "Country": "Japan",
+         "Price in U.S. dollars": "392.38"
+      }
+   ]
+}

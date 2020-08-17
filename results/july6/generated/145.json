@@ -1,0 +1,36 @@
+{
+   "title": "U.S. health expenditure as percentage of GDP 2050 forecast",
+   "xAxis": "Year",
+   "yAxis": "Expenditure as percentage of GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the U.S. of health expenditure percentage GDP water pipe in GDP 2007 , 2009 and 2050 . ",
+      "In 2007 , health expenditure and footwear percentage are expected to grow by 16 percentage ."
+   ],
+   "trends": [
+      {
+         "15": "0",
+         "17": "1",
+         "19": "2"
+      },
+      {
+         "1": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2007",
+         "Expenditure as percentage of GDP": "16"
+      },
+      {
+         "Year": "2009",
+         "Expenditure as percentage of GDP": "18"
+      },
+      {
+         "Year": "2050",
+         "Expenditure as percentage of GDP": "37"
+      }
+   ]
+}

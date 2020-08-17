@@ -1,0 +1,62 @@
+{
+   "title": "U.S. TV viewership selected games 2014 FIFA World Cup in Brazil",
+   "labels": [
+      "2014 World Cup Matches",
+      "ESPN/ABC",
+      "Univision"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 8 categories for the x axis of 2014 World Cup Matches representing ESPN/ABC, and Univision.",
+      " The highest category is found at World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC) with a mean value of 13.25.",
+      " The second highest category is found at Group match - USA vs. Portugal (06/22/14)(Univision & ESPN) with a mean value of 12.35.",
+      " This represents a difference of 7.0%."
+   ],
+   "trends": {
+      "maxIndex": 7,
+      "secondIndex": 7
+   },
+   "data": [
+      {
+         "2014 World Cup Matches": "Opening match - Brazil vs. Croatia (06/12/14)(Univision & ESPN)",
+         "ESPN/ABC": "4.4",
+         "Univision": "5.1"
+      },
+      {
+         "2014 World Cup Matches": "Group match - USA vs. Ghana (06/17/14)(Univision & ESPN)",
+         "ESPN/ABC": "11.1",
+         "Univision": "4.8"
+      },
+      {
+         "2014 World Cup Matches": "Group match - USA vs. Portugal (06/22/14)(Univision & ESPN)",
+         "ESPN/ABC": "18.2",
+         "Univision": "6.5"
+      },
+      {
+         "2014 World Cup Matches": "Group match - USA vs. Germany (06/22/14)(Univision & ESPN)",
+         "ESPN/ABC": "10.8",
+         "Univision": "3.4"
+      },
+      {
+         "2014 World Cup Matches": "Round of 16 - USA vs. Belgium (07/01/14)(Univision & ESPN)",
+         "ESPN/ABC": "16.5",
+         "Univision": "5.1"
+      },
+      {
+         "2014 World Cup Matches": "Semifinal - Brazil vs. Germany (07/08/14)(Univision & ESPN)",
+         "ESPN/ABC": "6.6",
+         "Univision": "5.8"
+      },
+      {
+         "2014 World Cup Matches": "Semifinal - Argentina vs. Netherlands (07/09/14)(Univision & ESPN)",
+         "ESPN/ABC": "6.8",
+         "Univision": "5.4"
+      },
+      {
+         "2014 World Cup Matches": "World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC)",
+         "ESPN/ABC": "17.3",
+         "Univision": "9.2"
+      }
+   ]
+}

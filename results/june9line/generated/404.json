@@ -1,0 +1,44 @@
+{
+   "title": "Distribution of women practicing nudism at the beach in France 2017 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of women surveyed",
+   "graphType": "line",
+   "summary": [
+      "The figure shows the Share of women France ( UK ) practicing nudism from 2017 to . ",
+      "13 women were recorded in 60_years_and_older , with numbers increasing during the following years . ",
+      "Though by 18_to_24_years numbers had dropped to 5 women ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "4",
+         "5": "4"
+      },
+      {
+         "2": "0",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18 to 24 years",
+         "Share of women surveyed": "6"
+      },
+      {
+         "Year": "25 to 34 years",
+         "Share of women surveyed": "5"
+      },
+      {
+         "Year": "35 to 49 years",
+         "Share of women surveyed": "9"
+      },
+      {
+         "Year": "50 to 59 years",
+         "Share of women surveyed": "11"
+      },
+      {
+         "Year": "60 years and older",
+         "Share of women surveyed": "13"
+      }
+   ]
+}

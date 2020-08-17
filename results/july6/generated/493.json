@@ -1,0 +1,60 @@
+{
+   "title": "Largest cities in Ukraine 2016",
+   "xAxis": "Month",
+   "yAxis": "Residents in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Largest cities Ukraine 2016 titles as of 2019 . ",
+      "With 2.91 millions sold 2016 , Ky\u00efv_(Kiev) 7 was the Largest cities Ukraine 2016 game as of 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Ky\u00efv (Kiev)",
+         "Residents in millions": "2.91"
+      },
+      {
+         "Month": "Charkiv",
+         "Residents in millions": "1.45"
+      },
+      {
+         "Month": "Od\u0117sa",
+         "Residents in millions": "1.01"
+      },
+      {
+         "Month": "Dniprop\u0117trovs'k",
+         "Residents in millions": "0.98"
+      },
+      {
+         "Month": "Don\u0117c'k",
+         "Residents in millions": "0.93"
+      },
+      {
+         "Month": "Zapori\u017e\u017eija",
+         "Residents in millions": "0.76"
+      },
+      {
+         "Month": "L'viv",
+         "Residents in millions": "0.73"
+      },
+      {
+         "Month": "Kryvyj Rih",
+         "Residents in millions": "0.64"
+      },
+      {
+         "Month": "Mykola\u00efv",
+         "Residents in millions": "0.49"
+      },
+      {
+         "Month": "Mariupol'",
+         "Residents in millions": "0.45"
+      }
+   ]
+}

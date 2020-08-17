@@ -1,0 +1,58 @@
+{
+   "title": "Global tobacco production value 2016 , by country",
+   "xAxis": "Country",
+   "yAxis": "Production value in million U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Production of the Global tobacco production value in the 2016 as of 2016 . ",
+      "During this year , it was found that 3434.02 million of reporting value ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China mainland",
+         "Production value in million U.S. dollars": "3434.02"
+      },
+      {
+         "Country": "United States of America",
+         "Production value in million U.S. dollars": "1108.88"
+      },
+      {
+         "Country": "Brazil",
+         "Production value in million U.S. dollars": "873.93"
+      },
+      {
+         "Country": "India",
+         "Production value in million U.S. dollars": "616.44"
+      },
+      {
+         "Country": "Japan",
+         "Production value in million U.S. dollars": "304.35"
+      },
+      {
+         "Country": "Indonesia",
+         "Production value in million U.S. dollars": "264.49"
+      },
+      {
+         "Country": "Turkey",
+         "Production value in million U.S. dollars": "232.77"
+      },
+      {
+         "Country": "Republic of Korea",
+         "Production value in million U.S. dollars": "212.25"
+      },
+      {
+         "Country": "Italy",
+         "Production value in million U.S. dollars": "177.31"
+      },
+      {
+         "Country": "Mozambique",
+         "Production value in million U.S. dollars": "146.08"
+      }
+   ]
+}

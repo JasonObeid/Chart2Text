@@ -1,0 +1,75 @@
+{
+   "title": "Texas Rangers average ticket price 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the Average ticket price for Texas Rangers games in Major League Baseball from 2006 to 2019 . ",
+      "In 2019 , the Average ticket price was at 25.75 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "15": "12",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": "25.75"
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": "26.94"
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": "23.64"
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": "23.64"
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": "23.54"
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": "22.54"
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": "20.49"
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": "18.6"
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": "20.65"
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": "19.41"
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": "18.01"
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": "16.47"
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": "15.81"
+      }
+   ]
+}

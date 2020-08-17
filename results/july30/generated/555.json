@@ -1,0 +1,63 @@
+{
+   "title": "Inbound tourism in Qatar from 2013 to 2022 \n",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of arrivals in millions with a total of 10 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 2013 to 2022."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "positive",
+         "start": 0,
+         "end": 9,
+         "trend": "y=0.29x+-584.79",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Number of arrivals in millions": 1.0
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in millions": 1.2
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in millions": 1.4
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in millions": 1.6
+      },
+      {
+         "Year": "2017",
+         "Number of arrivals in millions": 1.8
+      },
+      {
+         "Year": "2018",
+         "Number of arrivals in millions": 2.1
+      },
+      {
+         "Year": "2019",
+         "Number of arrivals in millions": 2.4
+      },
+      {
+         "Year": "2020",
+         "Number of arrivals in millions": 2.8
+      },
+      {
+         "Year": "2021",
+         "Number of arrivals in millions": 3.2
+      },
+      {
+         "Year": "2022",
+         "Number of arrivals in millions": 3.7
+      }
+   ]
+}

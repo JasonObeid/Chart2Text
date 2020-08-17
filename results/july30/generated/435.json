@@ -1,0 +1,34 @@
+{
+   "title": "Internet service provider market share in Vietnam fourth quarter 2013\n",
+   "xAxis": "Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Company, and a y axis representing Market share.",
+      " The highest category is found at VNPT where Market share is 56.6.",
+      " The lowest category is found at Others where Market share is 6.6."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Company": "VNPT",
+         "Market share": 56.6
+      },
+      {
+         "Company": "FPT Telecom",
+         "Market share": 27.0
+      },
+      {
+         "Company": "Viettel",
+         "Market share": 9.8
+      },
+      {
+         "Company": "Others",
+         "Market share": 6.6
+      }
+   ]
+}

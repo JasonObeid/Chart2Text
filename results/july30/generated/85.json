@@ -1,0 +1,54 @@
+{
+   "title": "Apple : iPod sales worldwide 2006 to 2014\n",
+   "xAxis": "fiscal years",
+   "yAxis": "Sales in million units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing fiscal years, and a y axis representing Sales in million units.",
+      " The highest category is found at 2008 where Sales in million units is 54.83.",
+      " The lowest category is found at 2014 where Sales in million units is 14.38."
+   ],
+   "trends": {
+      "maxIndex": 6,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "fiscal years": "2014",
+         "Sales in million units": 14.38
+      },
+      {
+         "fiscal years": "2013",
+         "Sales in million units": 26.38
+      },
+      {
+         "fiscal years": "2012",
+         "Sales in million units": 35.17
+      },
+      {
+         "fiscal years": "2011",
+         "Sales in million units": 42.62
+      },
+      {
+         "fiscal years": "2010",
+         "Sales in million units": 50.31
+      },
+      {
+         "fiscal years": "2009",
+         "Sales in million units": 54.13
+      },
+      {
+         "fiscal years": "2008",
+         "Sales in million units": 54.83
+      },
+      {
+         "fiscal years": "2007",
+         "Sales in million units": 51.63
+      },
+      {
+         "fiscal years": "2006",
+         "Sales in million units": 39.41
+      }
+   ]
+}

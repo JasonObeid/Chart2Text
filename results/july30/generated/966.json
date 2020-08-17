@@ -1,0 +1,114 @@
+{
+   "title": "Nissan car sales in Europe 2003 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of units sold",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of units sold, with a total of 16 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2011 to 2007.",
+      " On the other hand, the next significant trend is  positive which exists from 2007 to 2003.",
+      " Correspondingly, the next significant trend is  negative which exists from 2015 to 2013.",
+      " On the other hand, the next significant trend is  positive which exists from 2013 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 7,
+         "end": 11,
+         "trend": "y=38604.9x+-77176286.1",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 11,
+         "end": 15,
+         "trend": "y=-26971.5x+54448285.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 3,
+         "end": 5,
+         "trend": "y=66456.0x+-133358089.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 5,
+         "end": 7,
+         "trend": "y=-24435.0x+49605655.67",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of units sold": 487017.0
+      },
+      {
+         "Year": "2017",
+         "Number of units sold": 560415.0
+      },
+      {
+         "Year": "2016",
+         "Number of units sold": 547343.0
+      },
+      {
+         "Year": "2015",
+         "Number of units sold": 554046.0
+      },
+      {
+         "Year": "2014",
+         "Number of units sold": 477703.0
+      },
+      {
+         "Year": "2013",
+         "Number of units sold": 421134.0
+      },
+      {
+         "Year": "2012",
+         "Number of units sold": 436169.0
+      },
+      {
+         "Year": "2011",
+         "Number of units sold": 470004.0
+      },
+      {
+         "Year": "2010",
+         "Number of units sold": 411084.0
+      },
+      {
+         "Year": "2009",
+         "Number of units sold": 372096.0
+      },
+      {
+         "Year": "2008",
+         "Number of units sold": 338169.0
+      },
+      {
+         "Year": "2007",
+         "Number of units sold": 313437.0
+      },
+      {
+         "Year": "2006",
+         "Number of units sold": 332150.0
+      },
+      {
+         "Year": "2005",
+         "Number of units sold": 387325.0
+      },
+      {
+         "Year": "2004",
+         "Number of units sold": 409717.0
+      },
+      {
+         "Year": "2003",
+         "Number of units sold": 409511.0
+      }
+   ]
+}

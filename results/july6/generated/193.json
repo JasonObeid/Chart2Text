@@ -1,0 +1,107 @@
+{
+   "title": "Unemployment rate in Kenya 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Kenya from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Kenya was at approximately 9.31 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "9.31"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "9.31"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "9.29"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "9.63"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "9.68"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "9.59"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "9.79"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "9.66"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "9.68"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "9.73"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "9.6"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "8.93"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "9.07"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "9.44"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "9.78"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "9.97"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "10.1"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "10.09"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "9.9"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "9.9"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "10"
+      }
+   ]
+}

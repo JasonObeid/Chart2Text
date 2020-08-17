@@ -1,0 +1,54 @@
+{
+   "title": "Global railway technology market - CAGR by region 2010 to 2015",
+   "xAxis": "Region",
+   "yAxis": "Compound annual growth rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Compound of South/Central_America in the railway in 2010 , market Region . ",
+      "In 2010 , about 6.8 million South/Central_America were counted in the railway ."
+   ],
+   "trends": [
+      {
+         "6": "0"
+      },
+      {
+         "4": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Region": "South/Central America",
+         "Compound annual growth rate": "6.8"
+      },
+      {
+         "Region": "North America",
+         "Compound annual growth rate": "5"
+      },
+      {
+         "Region": "CIS",
+         "Compound annual growth rate": "4.9"
+      },
+      {
+         "Region": "Asia",
+         "Compound annual growth rate": "4.3"
+      },
+      {
+         "Region": "Africa/Middle East",
+         "Compound annual growth rate": "4"
+      },
+      {
+         "Region": "Western Europe",
+         "Compound annual growth rate": "3.3"
+      },
+      {
+         "Region": "Eastern Europe",
+         "Compound annual growth rate": "2.9"
+      },
+      {
+         "Region": "Australia/Pacific",
+         "Compound annual growth rate": "2.3"
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Under Armour 's total workforce worldwide from 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of employees, with a total of 11 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2017 to 2009.",
+      " Contrarily, the next significant trend is  negative which exists from 2019 to 2018.",
+      " Conversely, the next significant trend is  positive which exists from 2018 to 2017."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 2,
+         "end": 10,
+         "trend": "y=1765.0x+-3543933.89",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 0,
+         "end": 1,
+         "trend": "y=1400.0x+-2810200.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 1,
+         "end": 2,
+         "trend": "y=-800.0x+1629400.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of employees": 16400.0
+      },
+      {
+         "Year": "2018",
+         "Number of employees": 15000.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees": 15800.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 15200.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 13400.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 10700.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 7800.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees": 5900.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 5400.0
+      },
+      {
+         "Year": "2010",
+         "Number of employees": 3900.0
+      },
+      {
+         "Year": "2009",
+         "Number of employees": 3000.0
+      }
+   ]
+}

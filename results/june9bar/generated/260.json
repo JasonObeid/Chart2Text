@@ -1,0 +1,77 @@
+{
+   "title": "Viki : number of monthly active users 2012 to 2015",
+   "xAxis": "Month",
+   "yAxis": "Number of monthly active users in millions",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Viki Number of the Viki monthly active Viki users worldwide as of 2019 . ",
+      "As of that Month , the mobile messaging app announced more than 40.1 millions monthly active users , up from over 4.9 millions MAU in 2016 . ",
+      "The service is one of the most popular mobile apps worldwide ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "12",
+         "21": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Mar '12",
+         "Number of monthly active users in millions": "3.8"
+      },
+      {
+         "Month": "Jun '12",
+         "Number of monthly active users in millions": "4.9"
+      },
+      {
+         "Month": "Sep '12",
+         "Number of monthly active users in millions": "7.3"
+      },
+      {
+         "Month": "Dec '12",
+         "Number of monthly active users in millions": "14.9"
+      },
+      {
+         "Month": "Mar '13",
+         "Number of monthly active users in millions": "15.9"
+      },
+      {
+         "Month": "Jun '13",
+         "Number of monthly active users in millions": "19.9"
+      },
+      {
+         "Month": "Sep '13",
+         "Number of monthly active users in millions": "23.9"
+      },
+      {
+         "Month": "Dec '13",
+         "Number of monthly active users in millions": "28.2"
+      },
+      {
+         "Month": "Mar '14",
+         "Number of monthly active users in millions": "29.3"
+      },
+      {
+         "Month": "Jun '14",
+         "Number of monthly active users in millions": "31.9"
+      },
+      {
+         "Month": "Sep '14",
+         "Number of monthly active users in millions": "35.2"
+      },
+      {
+         "Month": "Dec '14",
+         "Number of monthly active users in millions": "39.4"
+      },
+      {
+         "Month": "Mar '15",
+         "Number of monthly active users in millions": "40.1"
+      },
+      {
+         "Month": "Jun '15",
+         "Number of monthly active users in millions": "39.5"
+      }
+   ]
+}

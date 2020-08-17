@@ -1,0 +1,66 @@
+{
+   "title": "Denso - global revenue 2008 to 2019\n",
+   "xAxis": "Fiscal year",
+   "yAxis": "Net sales in million Japanese yen",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 12 categories for the x axis representing Fiscal year, and a y axis representing Net sales in million Japanese yen.",
+      " The highest category is found at 2019 where Net sales in million Japanese yen is 5362772.0.",
+      " The lowest category is found at 2010 where Net sales in million Japanese yen is 2976709.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Fiscal year": "2019",
+         "Net sales in million Japanese yen": 5362772.0
+      },
+      {
+         "Fiscal year": "2018",
+         "Net sales in million Japanese yen": 5108291.0
+      },
+      {
+         "Fiscal year": "2017",
+         "Net sales in million Japanese yen": 4527148.0
+      },
+      {
+         "Fiscal year": "2016",
+         "Net sales in million Japanese yen": 4524522.0
+      },
+      {
+         "Fiscal year": "2015",
+         "Net sales in million Japanese yen": 4309787.0
+      },
+      {
+         "Fiscal year": "2014",
+         "Net sales in million Japanese yen": 4094960.0
+      },
+      {
+         "Fiscal year": "2013",
+         "Net sales in million Japanese yen": 3580923.0
+      },
+      {
+         "Fiscal year": "2012",
+         "Net sales in million Japanese yen": 3154630.0
+      },
+      {
+         "Fiscal year": "2011",
+         "Net sales in million Japanese yen": 3131460.0
+      },
+      {
+         "Fiscal year": "2010",
+         "Net sales in million Japanese yen": 2976709.0
+      },
+      {
+         "Fiscal year": "2009",
+         "Net sales in million Japanese yen": 3142665.0
+      },
+      {
+         "Fiscal year": "2008",
+         "Net sales in million Japanese yen": 4025076.0
+      }
+   ]
+}

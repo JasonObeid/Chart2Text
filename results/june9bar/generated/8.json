@@ -1,0 +1,51 @@
+{
+   "title": "Most used EIFS and STUCCO brands in the U.S. 2018",
+   "xAxis": "Brand",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays a rankings of the used EIFS STUCCO brands U.S. 2018 as of 2018 . ",
+      "The survey revealed that 34.6 % of the respondents named watching Dryvit ( DuPont ) ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "7",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Dryvit",
+         "Share of respondents": "26.9"
+      },
+      {
+         "Brand": "STO",
+         "Share of respondents": "11.5"
+      },
+      {
+         "Brand": "Omega Products",
+         "Share of respondents": "6.7"
+      },
+      {
+         "Brand": "Senergy",
+         "Share of respondents": "5.8"
+      },
+      {
+         "Brand": "Simplex (Finestone)",
+         "Share of respondents": "5.8"
+      },
+      {
+         "Brand": "Parex/La Habra",
+         "Share of respondents": "4.8"
+      },
+      {
+         "Brand": "TEC",
+         "Share of respondents": "3.8"
+      },
+      {
+         "Brand": "None of these",
+         "Share of respondents": "34.6"
+      }
+   ]
+}

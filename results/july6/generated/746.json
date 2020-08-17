@@ -1,0 +1,51 @@
+{
+   "title": "Change of domestic heating oil price in selected countries 2018 to 2019",
+   "xAxis": "Country",
+   "yAxis": "Change in heating oil price",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the percentage of oil computer Change and usage among the populations of selected countries as of 2012 . ",
+      "In the U.S. oil Change and usage was found to be at -4.4 % of the heating ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "6"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Change in heating oil price": "7"
+      },
+      {
+         "Country": "Italy",
+         "Change in heating oil price": "5.9"
+      },
+      {
+         "Country": "Spain",
+         "Change in heating oil price": "5.9"
+      },
+      {
+         "Country": "France",
+         "Change in heating oil price": "4"
+      },
+      {
+         "Country": "United Kingdom",
+         "Change in heating oil price": "0.8"
+      },
+      {
+         "Country": "Japan",
+         "Change in heating oil price": "-0.1"
+      },
+      {
+         "Country": "Germany",
+         "Change in heating oil price": "-4.4"
+      },
+      {
+         "Country": "United States",
+         "Change in heating oil price": "0"
+      }
+   ]
+}

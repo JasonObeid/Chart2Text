@@ -1,0 +1,53 @@
+{
+   "title": "Monsanto 's number of regular and temporary workers worldwide 2013 to 2017",
+   "labels": [
+      "unknown",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Monsanto of the regular temporary workers worldwide in Monsanto America in 2013 and 2014 with a forecast for 2017 , unknown in % Temporary_workers dollars . ",
+      "In 2014 , the regular temporary workers worldwide in the Temporary_workers was valued at around 22400 million dollars and was expected to grow almost 22500 million dollars 2017 the year 2017 ."
+   ],
+   "trends": [
+      {
+         "29": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "10": [
+            "1",
+            "0"
+         ],
+         "15": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Regular workers",
+         "2013": "21900",
+         "2014": "22400",
+         "2015": "22500",
+         "2016": "20800",
+         "2017": "20500"
+      },
+      {
+         "unknown": "Temporary workers",
+         "2013": "4300",
+         "2014": "4600",
+         "2015": "3000",
+         "2016": "3300",
+         "2017": "2800"
+      }
+   ]
+}

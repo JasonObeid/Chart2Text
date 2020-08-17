@@ -1,0 +1,38 @@
+{
+   "title": "Vehicle sales in the United States 2019\n",
+   "xAxis": "Vehicles",
+   "yAxis": "Vehicle retail sales in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Vehicles, and a y axis representing Vehicle retail sales in thousands.",
+      " The highest category is found at Motor_vehicles_(total) where Vehicle retail sales in thousands is 17494.6.",
+      " The lowest category is found at Heavy_trucks where Vehicle retail sales in thousands is 529.5."
+   ],
+   "trends": {
+      "maxIndex": 4,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Vehicles": "Light vehicles (total)",
+         "Vehicle retail sales in thousands": 16965.2
+      },
+      {
+         "Vehicles": "Thereof light trucks",
+         "Vehicle retail sales in thousands": 12237.8
+      },
+      {
+         "Vehicles": "Thereof autos",
+         "Vehicle retail sales in thousands": 4727.3
+      },
+      {
+         "Vehicles": "Heavy trucks",
+         "Vehicle retail sales in thousands": 529.5
+      },
+      {
+         "Vehicles": "Motor vehicles (total)",
+         "Vehicle retail sales in thousands": 17494.6
+      }
+   ]
+}

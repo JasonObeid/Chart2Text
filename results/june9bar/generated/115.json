@@ -1,0 +1,103 @@
+{
+   "title": "Top countries by pharmaceutical industry employment 2014",
+   "xAxis": "Country",
+   "yAxis": "Number of employees",
+   "graphType": "bar",
+   "summary": [
+      "In 2014 , China was the Top largest countries fourth as of 2018 , followed by India and United_States with over 251995 thousand people . ",
+      "As of 2014 , China 's Top second and the world 's third Top ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "16": "1",
+         "18": "2",
+         "21": "2"
+      },
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of employees": "2301534"
+      },
+      {
+         "Country": "India",
+         "Number of employees": "567469"
+      },
+      {
+         "Country": "United States",
+         "Number of employees": "251995"
+      },
+      {
+         "Country": "Germany",
+         "Number of employees": "128000"
+      },
+      {
+         "Country": "Brazil",
+         "Number of employees": "105253"
+      },
+      {
+         "Country": "Japan",
+         "Number of employees": "91529"
+      },
+      {
+         "Country": "Russian Federation",
+         "Number of employees": "66523"
+      },
+      {
+         "Country": "Indonesia",
+         "Number of employees": "64059"
+      },
+      {
+         "Country": "Italy",
+         "Number of employees": "59300"
+      },
+      {
+         "Country": "Mexico",
+         "Number of employees": "51125"
+      },
+      {
+         "Country": "Thailand",
+         "Number of employees": "48000"
+      },
+      {
+         "Country": "Egypt",
+         "Number of employees": "47753"
+      },
+      {
+         "Country": "France",
+         "Number of employees": "47000"
+      },
+      {
+         "Country": "Spain",
+         "Number of employees": "43723"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of employees": "43258"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of employees": "41690"
+      },
+      {
+         "Country": "Vietnam",
+         "Number of employees": "39749"
+      },
+      {
+         "Country": "Poland",
+         "Number of employees": "38000"
+      },
+      {
+         "Country": "Pakistan",
+         "Number of employees": "36336"
+      },
+      {
+         "Country": "Turkey",
+         "Number of employees": "35100"
+      }
+   ]
+}

@@ -1,0 +1,71 @@
+{
+   "title": "U.S. passenger-miles : Intercity/Amtrak 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "U.S. passenger-miles in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the U.S. of passenger-miles 2018 in the Intercity/Amtrak from 2007 to 2018 . ",
+      "In 2018 , about 6361 passenger-miles in the Intercity/Amtrak were 2018 to be adopted ."
+   ],
+   "trends": [
+      {
+         "14": "11",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. passenger-miles in millions": "6361"
+      },
+      {
+         "Year": "2017",
+         "U.S. passenger-miles in millions": "6563"
+      },
+      {
+         "Year": "2016",
+         "U.S. passenger-miles in millions": "6520"
+      },
+      {
+         "Year": "2015",
+         "U.S. passenger-miles in millions": "6536"
+      },
+      {
+         "Year": "2014",
+         "U.S. passenger-miles in millions": "6675"
+      },
+      {
+         "Year": "2013",
+         "U.S. passenger-miles in millions": "7283"
+      },
+      {
+         "Year": "2012",
+         "U.S. passenger-miles in millions": "6752"
+      },
+      {
+         "Year": "2011",
+         "U.S. passenger-miles in millions": "6568"
+      },
+      {
+         "Year": "2010",
+         "U.S. passenger-miles in millions": "6420"
+      },
+      {
+         "Year": "2009",
+         "U.S. passenger-miles in millions": "5914"
+      },
+      {
+         "Year": "2008",
+         "U.S. passenger-miles in millions": "6179"
+      },
+      {
+         "Year": "2007",
+         "U.S. passenger-miles in millions": "5784"
+      }
+   ]
+}

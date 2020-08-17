@@ -1,0 +1,45 @@
+{
+   "title": "U.S. households - average hours per day of computer usage in 2009",
+   "xAxis": "Hours used per day",
+   "yAxis": "Housing units in millions",
+   "graphType": "bar",
+   "summary": [
+      "The statistic depicts the U.S. of households in computer 1_to_3_hours U.S. in 2009 . ",
+      "The Less_than_1_hour Hours of computer Housing was at around 32.0 millions in 2009 ."
+   ],
+   "trends": [
+      {
+         "9": "1"
+      },
+      {
+         "1": "0",
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Hours used per day": "Less than 1 hour",
+         "Housing units in millions": "16.6"
+      },
+      {
+         "Hours used per day": "1 to 3 hours",
+         "Housing units in millions": "32.0"
+      },
+      {
+         "Hours used per day": "3 to 6 hours",
+         "Housing units in millions": "17.5"
+      },
+      {
+         "Hours used per day": "6 to 10 hours",
+         "Housing units in millions": "7.7"
+      },
+      {
+         "Hours used per day": "More than 10 hours",
+         "Housing units in millions": "12.5"
+      },
+      {
+         "Hours used per day": "No computers",
+         "Housing units in millions": "27.4"
+      }
+   ]
+}

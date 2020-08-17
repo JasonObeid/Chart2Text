@@ -1,0 +1,58 @@
+{
+   "title": "Largest cities in Ukraine 2016\n",
+   "xAxis": "Month",
+   "yAxis": "Residents in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Residents in millions.",
+      " The highest category is found at Ky\u00efv_(Kiev) where Residents in millions is 2.91.",
+      " The lowest category is found at Mariupol' where Residents in millions is 0.45."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Month": "Ky\u00efv (Kiev)",
+         "Residents in millions": 2.91
+      },
+      {
+         "Month": "Charkiv",
+         "Residents in millions": 1.45
+      },
+      {
+         "Month": "Od\u0117sa",
+         "Residents in millions": 1.01
+      },
+      {
+         "Month": "Dniprop\u0117trovs'k",
+         "Residents in millions": 0.98
+      },
+      {
+         "Month": "Don\u0117c'k",
+         "Residents in millions": 0.93
+      },
+      {
+         "Month": "Zapori\u017e\u017eija",
+         "Residents in millions": 0.76
+      },
+      {
+         "Month": "L'viv",
+         "Residents in millions": 0.73
+      },
+      {
+         "Month": "Kryvyj Rih",
+         "Residents in millions": 0.64
+      },
+      {
+         "Month": "Mykola\u00efv",
+         "Residents in millions": 0.49
+      },
+      {
+         "Month": "Mariupol'",
+         "Residents in millions": 0.45
+      }
+   ]
+}

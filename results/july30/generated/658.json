@@ -1,0 +1,117 @@
+{
+   "title": "Arizona - real GDP 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Real GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Real GDP in billion U.S. dollars, with a total of 19 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2018 to 2009.",
+      " Differently, the next significant trend is  negative which exists from 2007 to 2000.",
+      " But, the next significant trend is  positive which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 0,
+         "end": 9,
+         "trend": "y=5.62x+-11048.82",
+         "magnitude": ""
+      },
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 11,
+         "end": 18,
+         "trend": "y=11.95x+-23707.47",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 9,
+         "end": 11,
+         "trend": "y=-14.92x+30221.81",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Real GDP in billion U.S. dollars": 309.07
+      },
+      {
+         "Year": "2017",
+         "Real GDP in billion U.S. dollars": 297.21
+      },
+      {
+         "Year": "2016",
+         "Real GDP in billion U.S. dollars": 288.68
+      },
+      {
+         "Year": "2015",
+         "Real GDP in billion U.S. dollars": 279.43
+      },
+      {
+         "Year": "2014",
+         "Real GDP in billion U.S. dollars": 273.41
+      },
+      {
+         "Year": "2013",
+         "Real GDP in billion U.S. dollars": 270.15
+      },
+      {
+         "Year": "2012",
+         "Real GDP in billion U.S. dollars": 268.29
+      },
+      {
+         "Year": "2011",
+         "Real GDP in billion U.S. dollars": 263.21
+      },
+      {
+         "Year": "2010",
+         "Real GDP in billion U.S. dollars": 257.48
+      },
+      {
+         "Year": "2009",
+         "Real GDP in billion U.S. dollars": 255.08
+      },
+      {
+         "Year": "2008",
+         "Real GDP in billion U.S. dollars": 277.48
+      },
+      {
+         "Year": "2007",
+         "Real GDP in billion U.S. dollars": 284.91
+      },
+      {
+         "Year": "2006",
+         "Real GDP in billion U.S. dollars": 277.29
+      },
+      {
+         "Year": "2005",
+         "Real GDP in billion U.S. dollars": 263.06
+      },
+      {
+         "Year": "2004",
+         "Real GDP in billion U.S. dollars": 243.25
+      },
+      {
+         "Year": "2003",
+         "Real GDP in billion U.S. dollars": 233.34
+      },
+      {
+         "Year": "2002",
+         "Real GDP in billion U.S. dollars": 219.31
+      },
+      {
+         "Year": "2001",
+         "Real GDP in billion U.S. dollars": 212.66
+      },
+      {
+         "Year": "2000",
+         "Real GDP in billion U.S. dollars": 207.79
+      }
+   ]
+}

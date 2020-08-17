@@ -1,0 +1,50 @@
+{
+   "title": "Number of households in the U.S. 2015 , by age of householder\n",
+   "xAxis": "Age of householder",
+   "yAxis": "Number of households in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Age of householder, and a y axis representing Number of households in millions.",
+      " The highest category is found at 45_to_54_years_old where Number of households in millions is 23.57.",
+      " The lowest category is found at 15_to_24_years_old where Number of households in millions is 6.37."
+   ],
+   "trends": {
+      "maxIndex": 4,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Age of householder": "15 to 24 years old",
+         "Number of households in millions": 6.37
+      },
+      {
+         "Age of householder": "25 to 29 years old",
+         "Number of households in millions": 9.35
+      },
+      {
+         "Age of householder": "30 to 34 years old",
+         "Number of households in millions": 10.73
+      },
+      {
+         "Age of householder": "35 to 44 years old",
+         "Number of households in millions": 21.12
+      },
+      {
+         "Age of householder": "45 to 54 years old",
+         "Number of households in millions": 23.57
+      },
+      {
+         "Age of householder": "55 to 64 years old",
+         "Number of households in millions": 23.51
+      },
+      {
+         "Age of householder": "65 to 74 years old",
+         "Number of households in millions": 16.89
+      },
+      {
+         "Age of householder": "75 years old and over",
+         "Number of households in millions": 13.06
+      }
+   ]
+}

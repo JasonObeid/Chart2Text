@@ -1,0 +1,48 @@
+{
+   "title": "Tourism industry growth expectations according to travel experts 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "As of 2018 , 56 % of U.S.-based respondents stated that their favorite moving watching location was at Slightly_decline . ",
+      "Only around 1 % of respondents stated that they Tourism Significantly_grow or Significantly_decline and . ",
+      "The search of lodging has consolidated as the past nine years thanks to Significantly_decline ."
+   ],
+   "trends": [
+      {
+         "4": "3",
+         "18": "1"
+      },
+      {
+         "2": "0",
+         "10": "4",
+         "12": "0",
+         "14": "0"
+      },
+      {
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Significantly decline",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Slightly decline",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "No change",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Slightly grow",
+         "Share of respondents": "56"
+      },
+      {
+         "Response": "Significantly grow",
+         "Share of respondents": "18"
+      }
+   ]
+}

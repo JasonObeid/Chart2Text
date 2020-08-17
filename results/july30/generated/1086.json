@@ -1,0 +1,222 @@
+{
+   "title": "U.S. motorcycle registrations by state 2017\n",
+   "xAxis": "State",
+   "yAxis": "Registrations in units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 51 categories for the x axis representing State, and a y axis representing Registrations in units.",
+      " The highest category is found at California where Registrations in units is 842543.0.",
+      " The lowest category is found at Dist._of_Col. where Registrations in units is 4290.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 50
+   },
+   "data": [
+      {
+         "State": "California",
+         "Registrations in units": 842543.0
+      },
+      {
+         "State": "Florida",
+         "Registrations in units": 586267.0
+      },
+      {
+         "State": "Ohio",
+         "Registrations in units": 410187.0
+      },
+      {
+         "State": "New York",
+         "Registrations in units": 392178.0
+      },
+      {
+         "State": "Pennsylvania",
+         "Registrations in units": 377158.0
+      },
+      {
+         "State": "Texas",
+         "Registrations in units": 364690.0
+      },
+      {
+         "State": "Illinois",
+         "Registrations in units": 333943.0
+      },
+      {
+         "State": "Wisconsin",
+         "Registrations in units": 324670.0
+      },
+      {
+         "State": "Montana",
+         "Registrations in units": 306655.0
+      },
+      {
+         "State": "Michigan",
+         "Registrations in units": 258487.0
+      },
+      {
+         "State": "Indiana",
+         "Registrations in units": 250579.0
+      },
+      {
+         "State": "Minnesota",
+         "Registrations in units": 241556.0
+      },
+      {
+         "State": "Washington",
+         "Registrations in units": 231401.0
+      },
+      {
+         "State": "Georgia",
+         "Registrations in units": 203922.0
+      },
+      {
+         "State": "Iowa",
+         "Registrations in units": 194603.0
+      },
+      {
+         "State": "Virginia",
+         "Registrations in units": 193951.0
+      },
+      {
+         "State": "Colorado",
+         "Registrations in units": 190002.0
+      },
+      {
+         "State": "North Carolina",
+         "Registrations in units": 188843.0
+      },
+      {
+         "State": "Massachusetts",
+         "Registrations in units": 168931.0
+      },
+      {
+         "State": "Tennessee",
+         "Registrations in units": 165968.0
+      },
+      {
+         "State": "Arizona",
+         "Registrations in units": 164055.0
+      },
+      {
+         "State": "New Jersey",
+         "Registrations in units": 152979.0
+      },
+      {
+         "State": "Oregon",
+         "Registrations in units": 142738.0
+      },
+      {
+         "State": "Missouri",
+         "Registrations in units": 138294.0
+      },
+      {
+         "State": "Oklahoma",
+         "Registrations in units": 136190.0
+      },
+      {
+         "State": "Maryland",
+         "Registrations in units": 118277.0
+      },
+      {
+         "State": "South Carolina",
+         "Registrations in units": 118132.0
+      },
+      {
+         "State": "South Dakota",
+         "Registrations in units": 117461.0
+      },
+      {
+         "State": "Louisiana",
+         "Registrations in units": 113664.0
+      },
+      {
+         "State": "Alabama",
+         "Registrations in units": 112185.0
+      },
+      {
+         "State": "Kentucky",
+         "Registrations in units": 101163.0
+      },
+      {
+         "State": "Kansas",
+         "Registrations in units": 95892.0
+      },
+      {
+         "State": "Connecticut",
+         "Registrations in units": 90131.0
+      },
+      {
+         "State": "Arkansas",
+         "Registrations in units": 89457.0
+      },
+      {
+         "State": "Utah",
+         "Registrations in units": 83993.0
+      },
+      {
+         "State": "New Hampshire",
+         "Registrations in units": 78798.0
+      },
+      {
+         "State": "Nevada",
+         "Registrations in units": 76032.0
+      },
+      {
+         "State": "Idaho",
+         "Registrations in units": 63297.0
+      },
+      {
+         "State": "West Virginia",
+         "Registrations in units": 60582.0
+      },
+      {
+         "State": "New Mexico",
+         "Registrations in units": 57718.0
+      },
+      {
+         "State": "Nebraska",
+         "Registrations in units": 55736.0
+      },
+      {
+         "State": "North Dakota",
+         "Registrations in units": 51941.0
+      },
+      {
+         "State": "Maine",
+         "Registrations in units": 51467.0
+      },
+      {
+         "State": "Hawaii",
+         "Registrations in units": 35576.0
+      },
+      {
+         "State": "Alaska",
+         "Registrations in units": 31859.0
+      },
+      {
+         "State": "Vermont",
+         "Registrations in units": 30955.0
+      },
+      {
+         "State": "Rhode Island",
+         "Registrations in units": 30914.0
+      },
+      {
+         "State": "Wyoming",
+         "Registrations in units": 28960.0
+      },
+      {
+         "State": "Mississippi",
+         "Registrations in units": 28124.0
+      },
+      {
+         "State": "Delaware",
+         "Registrations in units": 27810.0
+      },
+      {
+         "State": "Dist. of Col.",
+         "Registrations in units": 4290.0
+      }
+   ]
+}

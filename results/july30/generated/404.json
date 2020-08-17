@@ -1,0 +1,81 @@
+{
+   "title": "Revenue of Sonic Corporation in the U.S. from 2009 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 10 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2013 to 2009.",
+      " Likewise, the next significant trend is  negative which exists from 2016 to 2013.",
+      " On the other hand, the next significant trend is  positive which exists from 2018 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 5,
+         "end": 9,
+         "trend": "y=-33.46x+67861.93",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 2,
+         "end": 5,
+         "trend": "y=24.49x+-48764.31",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-91.37x+184785.6",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 423.59
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 477.27
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 606.32
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 606.09
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 552.35
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 542.59
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 543.73
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 545.95
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 550.93
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 706.28
+      }
+   ]
+}

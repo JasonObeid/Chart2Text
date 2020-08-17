@@ -1,0 +1,90 @@
+{
+   "title": "Turkey : social network penetration Q3 2019",
+   "xAxis": "Platform",
+   "yAxis": "Share of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "Youtube is the most active Turkey social among internet users in the Turkey ( ) , with 90 % of people reporting use of the service . ",
+      "Instagram was very close behind , with a rate of 83 % . ",
+      "Youtube 's broad audience in the Turkey YouTube reaches a broad audience in the Turkey , making it an attractive partner for advertisers of almost any product ."
+   ],
+   "trends": [
+      {
+         "0": "0"
+      },
+      {
+         "0": "1",
+         "10": "1"
+      },
+      {
+         "0": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Youtube",
+         "Share of population": "90"
+      },
+      {
+         "Platform": "Instagram",
+         "Share of population": "83"
+      },
+      {
+         "Platform": "Whatsapp",
+         "Share of population": "81"
+      },
+      {
+         "Platform": "Facebook",
+         "Share of population": "76"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of population": "61"
+      },
+      {
+         "Platform": "FB Messenger",
+         "Share of population": "53"
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of population": "34"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of population": "32"
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of population": "29"
+      },
+      {
+         "Platform": "TikTok",
+         "Share of population": "27"
+      },
+      {
+         "Platform": "Skype",
+         "Share of population": "27"
+      },
+      {
+         "Platform": "Twitch",
+         "Share of population": "24"
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of population": "20"
+      },
+      {
+         "Platform": "Reddit",
+         "Share of population": "16"
+      },
+      {
+         "Platform": "WeChat",
+         "Share of population": "15"
+      },
+      {
+         "Platform": "Line",
+         "Share of population": "14"
+      }
+   ]
+}

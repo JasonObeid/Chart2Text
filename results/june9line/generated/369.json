@@ -1,0 +1,99 @@
+{
+   "title": "Per capita real GDP of Texas 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita real GDP in chained 2012 U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Per capita real Gross Domestic Product of Texas from 2000 to 2018 . ",
+      "In 2018 , the Per capita real GDP of Texas stood at 59674 chained 2012 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "13": "18",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "12": "0",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita real GDP in chained 2012 U.S. dollars": "59674"
+      },
+      {
+         "Year": "2017",
+         "Per capita real GDP in chained 2012 U.S. dollars": "58125"
+      },
+      {
+         "Year": "2016",
+         "Per capita real GDP in chained 2012 U.S. dollars": "57280"
+      },
+      {
+         "Year": "2015",
+         "Per capita real GDP in chained 2012 U.S. dollars": "58077"
+      },
+      {
+         "Year": "2014",
+         "Per capita real GDP in chained 2012 U.S. dollars": "56457"
+      },
+      {
+         "Year": "2013",
+         "Per capita real GDP in chained 2012 U.S. dollars": "55573"
+      },
+      {
+         "Year": "2012",
+         "Per capita real GDP in chained 2012 U.S. dollars": "54097"
+      },
+      {
+         "Year": "2011",
+         "Per capita real GDP in chained 2012 U.S. dollars": "52397"
+      },
+      {
+         "Year": "2010",
+         "Per capita real GDP in chained 2012 U.S. dollars": "51568"
+      },
+      {
+         "Year": "2009",
+         "Per capita real GDP in chained 2012 U.S. dollars": "51264"
+      },
+      {
+         "Year": "2008",
+         "Per capita real GDP in chained 2012 U.S. dollars": "52481"
+      },
+      {
+         "Year": "2007",
+         "Per capita real GDP in chained 2012 U.S. dollars": "53470"
+      },
+      {
+         "Year": "2006",
+         "Per capita real GDP in chained 2012 U.S. dollars": "51811"
+      },
+      {
+         "Year": "2005",
+         "Per capita real GDP in chained 2012 U.S. dollars": "49732"
+      },
+      {
+         "Year": "2004",
+         "Per capita real GDP in chained 2012 U.S. dollars": "49241"
+      },
+      {
+         "Year": "2003",
+         "Per capita real GDP in chained 2012 U.S. dollars": "47583"
+      },
+      {
+         "Year": "2002",
+         "Per capita real GDP in chained 2012 U.S. dollars": "48031"
+      },
+      {
+         "Year": "2001",
+         "Per capita real GDP in chained 2012 U.S. dollars": "47932"
+      },
+      {
+         "Year": "2000",
+         "Per capita real GDP in chained 2012 U.S. dollars": "47664"
+      }
+   ]
+}

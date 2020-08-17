@@ -1,0 +1,69 @@
+{
+   "title": "Number of monthly active Instagram users 2013 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows Instagram 's monthly traffic based upon Number visitor numbers . ",
+      "As of 2017 , Instagram had 1000 millions Number users from the monthly across its app and web presence . ",
+      "The social photo sharing website managed to garner great attention by gaining more than 11 millions US users in 2012 ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Jun '18",
+         "Number of users in millions": "1000"
+      },
+      {
+         "Month": "Sep '17",
+         "Number of users in millions": "800"
+      },
+      {
+         "Month": "Apr '17",
+         "Number of users in millions": "700"
+      },
+      {
+         "Month": "Dec '16",
+         "Number of users in millions": "600"
+      },
+      {
+         "Month": "Jun '16",
+         "Number of users in millions": "500"
+      },
+      {
+         "Month": "Sep '15",
+         "Number of users in millions": "400"
+      },
+      {
+         "Month": "Dec '14",
+         "Number of users in millions": "300"
+      },
+      {
+         "Month": "Mar '14",
+         "Number of users in millions": "200"
+      },
+      {
+         "Month": "Sep '13",
+         "Number of users in millions": "150"
+      },
+      {
+         "Month": "Jun '13",
+         "Number of users in millions": "130"
+      },
+      {
+         "Month": "Feb '13",
+         "Number of users in millions": "100"
+      },
+      {
+         "Month": "Jan '13",
+         "Number of users in millions": "90"
+      }
+   ]
+}

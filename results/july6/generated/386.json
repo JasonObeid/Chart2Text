@@ -1,0 +1,102 @@
+{
+   "title": "Percentage of population with a university degree , by country 2007",
+   "xAxis": "Country",
+   "yAxis": "Percent with a university degree",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Percent of university degree by selected country 2007 in countries 2007 . ",
+      "The majority of immigrants in Canada that year were Swedes returning to Canada . ",
+      "The remaining top five countries of 2007 were New_Zealand , Japan Syria and Korea_Republic_of ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "12": "0"
+      },
+      {
+         "8": "1",
+         "10": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Canada",
+         "Percent with a university degree": "48"
+      },
+      {
+         "Country": "New Zealand",
+         "Percent with a university degree": "41"
+      },
+      {
+         "Country": "Japan",
+         "Percent with a university degree": "41"
+      },
+      {
+         "Country": "United States",
+         "Percent with a university degree": "40"
+      },
+      {
+         "Country": "Korea Republic of",
+         "Percent with a university degree": "35"
+      },
+      {
+         "Country": "Norway",
+         "Percent with a university degree": "34"
+      },
+      {
+         "Country": "Australia",
+         "Percent with a university degree": "34"
+      },
+      {
+         "Country": "Ireland",
+         "Percent with a university degree": "32"
+      },
+      {
+         "Country": "United Kingdom",
+         "Percent with a university degree": "32"
+      },
+      {
+         "Country": "Denmark",
+         "Percent with a university degree": "32"
+      },
+      {
+         "Country": "Sweden",
+         "Percent with a university degree": "31"
+      },
+      {
+         "Country": "Netherlands",
+         "Percent with a university degree": "31"
+      },
+      {
+         "Country": "Spain",
+         "Percent with a university degree": "29"
+      },
+      {
+         "Country": "France",
+         "Percent with a university degree": "27"
+      },
+      {
+         "Country": "Germany",
+         "Percent with a university degree": "24"
+      },
+      {
+         "Country": "Austria",
+         "Percent with a university degree": "18"
+      },
+      {
+         "Country": "Mexico",
+         "Percent with a university degree": "15"
+      },
+      {
+         "Country": "Portugal",
+         "Percent with a university degree": "14"
+      },
+      {
+         "Country": "Italy",
+         "Percent with a university degree": "13"
+      }
+   ]
+}

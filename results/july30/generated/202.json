@@ -1,0 +1,93 @@
+{
+   "title": "Number of road deaths in Switzerland 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of fatalities, with a total of 13 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2011 to 2006.",
+      " In a similar manner, the next significant trend is  negative which exists from 2018 to 2016.",
+      " On the contrary, the next significant trend is  positive which exists from 2014 to 2012."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 7,
+         "end": 12,
+         "trend": "y=-12.26x+24969.64",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=8.5x+-16918.17",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-48.0x+96907.67",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": 233.0
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": 230.0
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": 216.0
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": 253.0
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": 243.0
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": 269.0
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": 339.0
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": 320.0
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": 327.0
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": 349.0
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": 357.0
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": 384.0
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": 370.0
+      }
+   ]
+}

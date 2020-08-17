@@ -1,0 +1,62 @@
+{
+   "title": "Distribution of consumer transactions worldwide 2018 , by payment channel\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at In-store where Share of respondents is 41.0.",
+      " The lowest category is found at Smart_home_device where Share of respondents is 2.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "Response": "In-store",
+         "Share of respondents": 41.0
+      },
+      {
+         "Response": "Other online",
+         "Share of respondents": 14.0
+      },
+      {
+         "Response": "Buy buttons",
+         "Share of respondents": 9.0
+      },
+      {
+         "Response": "Other mobile transfers",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "P2P transfer",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Mobile messenger apps",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "QR codes",
+         "Share of respondents": 5.0
+      },
+      {
+         "Response": "Other in-app payments",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Smart home device",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Wearables / contactless",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 2.0
+      }
+   ]
+}

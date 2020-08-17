@@ -1,0 +1,70 @@
+{
+   "title": "Toyota 's R & D expenditure 2007 to 2019\n",
+   "xAxis": "Financial year",
+   "yAxis": "R&D spending in million Japanese yen",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 13 categories for the x axis representing Financial year, and a y axis representing R&D spending in million Japanese yen.",
+      " The highest category is found at 2018 where R&D spending in million Japanese yen is 1064200.0.",
+      " The lowest category is found at 2010 where R&D spending in million Japanese yen is 725345.0."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Financial year": "2019",
+         "R&D spending in million Japanese yen": 1048800.0
+      },
+      {
+         "Financial year": "2018",
+         "R&D spending in million Japanese yen": 1064200.0
+      },
+      {
+         "Financial year": "2017",
+         "R&D spending in million Japanese yen": 1037500.0
+      },
+      {
+         "Financial year": "2016",
+         "R&D spending in million Japanese yen": 1055600.0
+      },
+      {
+         "Financial year": "2015",
+         "R&D spending in million Japanese yen": 1004547.0
+      },
+      {
+         "Financial year": "2014",
+         "R&D spending in million Japanese yen": 910517.0
+      },
+      {
+         "Financial year": "2013",
+         "R&D spending in million Japanese yen": 807454.0
+      },
+      {
+         "Financial year": "2012",
+         "R&D spending in million Japanese yen": 779806.0
+      },
+      {
+         "Financial year": "2011",
+         "R&D spending in million Japanese yen": 730340.0
+      },
+      {
+         "Financial year": "2010",
+         "R&D spending in million Japanese yen": 725345.0
+      },
+      {
+         "Financial year": "2009",
+         "R&D spending in million Japanese yen": 904075.0
+      },
+      {
+         "Financial year": "2008",
+         "R&D spending in million Japanese yen": 958882.0
+      },
+      {
+         "Financial year": "2007",
+         "R&D spending in million Japanese yen": 890782.0
+      }
+   ]
+}

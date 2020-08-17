@@ -1,0 +1,59 @@
+{
+   "title": "Leading video gaming brands on Twitter 2018 , by followers",
+   "xAxis": "Brand",
+   "yAxis": "Brand fans in millions",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the most popular video gaming brands in the United Kingdom ( Twitter ) as of 2018 . ",
+      "As of 2018 , PlayStation was ranked by around 15.63 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "PlayStation",
+         "Brand fans in millions": "15.63"
+      },
+      {
+         "Brand": "Xbox",
+         "Brand fans in millions": "12.87"
+      },
+      {
+         "Brand": "Nintendo of America",
+         "Brand fans in millions": "9.44"
+      },
+      {
+         "Brand": "Rockstar Games",
+         "Brand fans in millions": "9.31"
+      },
+      {
+         "Brand": "Ubisoft",
+         "Brand fans in millions": "7.11"
+      },
+      {
+         "Brand": "EA SPORTS FIFA",
+         "Brand fans in millions": "6.4"
+      },
+      {
+         "Brand": "Sonic the Hedgehog",
+         "Brand fans in millions": "5.76"
+      },
+      {
+         "Brand": "Fortnite",
+         "Brand fans in millions": "5.64"
+      },
+      {
+         "Brand": "Electronic Arts",
+         "Brand fans in millions": "5.19"
+      },
+      {
+         "Brand": "League of Legends",
+         "Brand fans in millions": "4.36"
+      }
+   ]
+}

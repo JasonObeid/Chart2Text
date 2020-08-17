@@ -1,0 +1,72 @@
+{
+   "title": "Maple syrup average price per gallon in the U.S. 2018",
+   "xAxis": "State",
+   "yAxis": "Average price per gallon in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the State price of Canadians for 2018 , distinguished per U.S. of State . ",
+      "In 2018 , about 76.0 Canadians had an State of Connecticut State or more ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "Connecticut",
+         "Average price per gallon in U.S. dollars": "76.0"
+      },
+      {
+         "State": "Minnesota",
+         "Average price per gallon in U.S. dollars": "61.5"
+      },
+      {
+         "State": "New Hampshire",
+         "Average price per gallon in U.S. dollars": "56.0"
+      },
+      {
+         "State": "Massachusetts",
+         "Average price per gallon in U.S. dollars": "53.0"
+      },
+      {
+         "State": "Indiana",
+         "Average price per gallon in U.S. dollars": "50.0"
+      },
+      {
+         "State": "Ohio",
+         "Average price per gallon in U.S. dollars": "45.0"
+      },
+      {
+         "State": "West Virginia",
+         "Average price per gallon in U.S. dollars": "44.5"
+      },
+      {
+         "State": "Maine",
+         "Average price per gallon in U.S. dollars": "40.0"
+      },
+      {
+         "State": "Pennsylvania",
+         "Average price per gallon in U.S. dollars": "39.0"
+      },
+      {
+         "State": "Michigan",
+         "Average price per gallon in U.S. dollars": "39.0"
+      },
+      {
+         "State": "New York",
+         "Average price per gallon in U.S. dollars": "32.0"
+      },
+      {
+         "State": "Wisconsin",
+         "Average price per gallon in U.S. dollars": "32.0"
+      },
+      {
+         "State": "Vermont",
+         "Average price per gallon in U.S. dollars": "28.0"
+      }
+   ]
+}

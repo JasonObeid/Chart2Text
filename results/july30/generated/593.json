@@ -1,0 +1,67 @@
+{
+   "title": "Population density in Canada 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants per square kilometer",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inhabitants per square kilometer with a total of 11 data points. The chart has one significant trend.",
+      " This trend is extremely negative which exists from 2018 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 11,
+         "direction": "negative",
+         "start": 0,
+         "end": 10,
+         "trend": "y=0.04x+-77.57",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Inhabitants per square kilometer": 4.08
+      },
+      {
+         "Year": "2017",
+         "Inhabitants per square kilometer": 4.02
+      },
+      {
+         "Year": "2016",
+         "Inhabitants per square kilometer": 3.97
+      },
+      {
+         "Year": "2015",
+         "Inhabitants per square kilometer": 3.93
+      },
+      {
+         "Year": "2014",
+         "Inhabitants per square kilometer": 3.9
+      },
+      {
+         "Year": "2013",
+         "Inhabitants per square kilometer": 3.86
+      },
+      {
+         "Year": "2012",
+         "Inhabitants per square kilometer": 3.82
+      },
+      {
+         "Year": "2011",
+         "Inhabitants per square kilometer": 3.78
+      },
+      {
+         "Year": "2010",
+         "Inhabitants per square kilometer": 3.74
+      },
+      {
+         "Year": "2009",
+         "Inhabitants per square kilometer": 3.7
+      },
+      {
+         "Year": "2008",
+         "Inhabitants per square kilometer": 3.66
+      }
+   ]
+}

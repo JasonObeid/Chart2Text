@@ -1,0 +1,58 @@
+{
+   "title": "Comic book reading among young people in the UK 2015 , by demographic\n",
+   "xAxis": "Demographic",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Demographic, and a y axis representing Share of respondents.",
+      " The highest category is found at Boys where Share of respondents is 34.0.",
+      " The lowest category is found at KS5 where Share of respondents is 14.4."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 5
+   },
+   "data": [
+      {
+         "Demographic": "Boys",
+         "Share of respondents": 34.0
+      },
+      {
+         "Demographic": "Girls",
+         "Share of respondents": 19.3
+      },
+      {
+         "Demographic": "KS2",
+         "Share of respondents": 29.3
+      },
+      {
+         "Demographic": "KS3",
+         "Share of respondents": 27.5
+      },
+      {
+         "Demographic": "KS4",
+         "Share of respondents": 17.6
+      },
+      {
+         "Demographic": "KS5",
+         "Share of respondents": 14.4
+      },
+      {
+         "Demographic": "White",
+         "Share of respondents": 26.2
+      },
+      {
+         "Demographic": "Mixed",
+         "Share of respondents": 30.8
+      },
+      {
+         "Demographic": "Asian",
+         "Share of respondents": 28.6
+      },
+      {
+         "Demographic": "Black",
+         "Share of respondents": 29.1
+      }
+   ]
+}

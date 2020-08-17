@@ -1,0 +1,143 @@
+{
+   "title": "USA - number of arrests for all offenses 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of arrests",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number arrests of USA for parent families with a female householder and no spouse present in the USA from 1990 to 2018 . ",
+      "In 1990 , 14195100 % of all USA families with a for mother in the offenses lived below the Number level . ",
+      "In 2018 , that figure was at 10310960 ."
+   ],
+   "trends": [
+      {
+         "23": "28",
+         "25": "0"
+      },
+      {
+         "1": "28",
+         "3": "28"
+      },
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of arrests": "10310960"
+      },
+      {
+         "Year": "2017",
+         "Number of arrests": "10554985"
+      },
+      {
+         "Year": "2016",
+         "Number of arrests": "10662252"
+      },
+      {
+         "Year": "2015",
+         "Number of arrests": "10797088"
+      },
+      {
+         "Year": "2014",
+         "Number of arrests": "11205833"
+      },
+      {
+         "Year": "2013",
+         "Number of arrests": "11302102"
+      },
+      {
+         "Year": "2012",
+         "Number of arrests": "12196959"
+      },
+      {
+         "Year": "2011",
+         "Number of arrests": "12408899"
+      },
+      {
+         "Year": "2010",
+         "Number of arrests": "13120947"
+      },
+      {
+         "Year": "2009",
+         "Number of arrests": "13687241"
+      },
+      {
+         "Year": "2008",
+         "Number of arrests": "14005615"
+      },
+      {
+         "Year": "2007",
+         "Number of arrests": "14209365"
+      },
+      {
+         "Year": "2006",
+         "Number of arrests": "14380370"
+      },
+      {
+         "Year": "2005",
+         "Number of arrests": "14094186"
+      },
+      {
+         "Year": "2004",
+         "Number of arrests": "13938071"
+      },
+      {
+         "Year": "2003",
+         "Number of arrests": "13639500"
+      },
+      {
+         "Year": "2002",
+         "Number of arrests": "13741400"
+      },
+      {
+         "Year": "2001",
+         "Number of arrests": "13699300"
+      },
+      {
+         "Year": "2000",
+         "Number of arrests": "13980300"
+      },
+      {
+         "Year": "1999",
+         "Number of arrests": "14031100"
+      },
+      {
+         "Year": "1998",
+         "Number of arrests": "14528300"
+      },
+      {
+         "Year": "1997",
+         "Number of arrests": "15284300"
+      },
+      {
+         "Year": "1996",
+         "Number of arrests": "15168100"
+      },
+      {
+         "Year": "1995",
+         "Number of arrests": "15119800"
+      },
+      {
+         "Year": "1994",
+         "Number of arrests": "14648700"
+      },
+      {
+         "Year": "1993",
+         "Number of arrests": "14036300"
+      },
+      {
+         "Year": "1992",
+         "Number of arrests": "14075100"
+      },
+      {
+         "Year": "1991",
+         "Number of arrests": "14211900"
+      },
+      {
+         "Year": "1990",
+         "Number of arrests": "14195100"
+      }
+   ]
+}

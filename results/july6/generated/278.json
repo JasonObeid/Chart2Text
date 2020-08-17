@@ -1,0 +1,85 @@
+{
+   "title": "Major countries in lithium mine production 2014 to 2019",
+   "labels": [
+      "Country",
+      "2014",
+      "2016",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the ten Major lithium with the highest amount of production 2014 from to 2019 . ",
+      "Australia , was the leading producer , where 40.4 million pounds of production were produced in 2019 . ",
+      "production 2014 Dairy farming is an agricultural business which is engaged in the long-term production 2014 within the dairy industry ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": [
+            "0",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Australia",
+         "2014": "13300",
+         "2016": "14300",
+         "2018": "58800",
+         "2019": "42000"
+      },
+      {
+         "Country": "Chile",
+         "2014": "11500",
+         "2016": "12000",
+         "2018": "17000",
+         "2019": "18000"
+      },
+      {
+         "Country": "China",
+         "2014": "2300",
+         "2016": "2000",
+         "2018": "7100",
+         "2019": "7500"
+      },
+      {
+         "Country": "Argentina",
+         "2014": "3200",
+         "2016": "5700",
+         "2018": "6400",
+         "2019": "6400"
+      },
+      {
+         "Country": "Zimbabwe",
+         "2014": "900",
+         "2016": "900",
+         "2018": "1600",
+         "2019": "1600"
+      },
+      {
+         "Country": "Portugal",
+         "2014": "300",
+         "2016": "200",
+         "2018": "800",
+         "2019": "1200"
+      },
+      {
+         "Country": "Brazil",
+         "2014": "160",
+         "2016": "200",
+         "2018": "300",
+         "2019": "300"
+      },
+      {
+         "Country": "Namibia",
+         "2014": "0",
+         "2016": "0",
+         "2018": "500",
+         "2019": "0"
+      }
+   ]
+}

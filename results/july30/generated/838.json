@@ -1,0 +1,121 @@
+{
+   "title": "Gini index of Taiwan 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Gini's concentration coefficient",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Gini's concentration coefficient, with a total of 11 data points. The chart has 7 significant trends.",
+      " The longest trend is  negative which exists from 2018 to 2016.",
+      " But, the next significant trend is  positive which exists from 2013 to 2011.",
+      " Likewise, the next significant trend is  positive which exists from 2010 to 2008.",
+      " Additionally, the next significant trend is  positive which exists from 2016 to 2015.",
+      " In a similar manner, the next significant trend is  negative which exists from 2015 to 2014.",
+      " Contrarily, the next significant trend is  neutral which exists from 2014 to 2013.",
+      " Contrarily, the next significant trend is  neutral which exists from 2011 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=0.1x+-168.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 5,
+         "end": 7,
+         "trend": "y=-0.3x+637.47",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 8,
+         "end": 10,
+         "trend": "y=0.05x+-66.18",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 2,
+         "end": 3,
+         "trend": "y=-0.2x+436.8",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 3,
+         "end": 4,
+         "trend": "y=0.2x+-369.2",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 4,
+         "end": 5,
+         "trend": "y=0.0x+33.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 7,
+         "end": 8,
+         "trend": "y=0.0x+34.2",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Gini's concentration coefficient": 33.8
+      },
+      {
+         "Year": "2017",
+         "Gini's concentration coefficient": 33.7
+      },
+      {
+         "Year": "2016",
+         "Gini's concentration coefficient": 33.6
+      },
+      {
+         "Year": "2015",
+         "Gini's concentration coefficient": 33.8
+      },
+      {
+         "Year": "2014",
+         "Gini's concentration coefficient": 33.6
+      },
+      {
+         "Year": "2013",
+         "Gini's concentration coefficient": 33.6
+      },
+      {
+         "Year": "2012",
+         "Gini's concentration coefficient": 33.8
+      },
+      {
+         "Year": "2011",
+         "Gini's concentration coefficient": 34.2
+      },
+      {
+         "Year": "2010",
+         "Gini's concentration coefficient": 34.2
+      },
+      {
+         "Year": "2009",
+         "Gini's concentration coefficient": 34.5
+      },
+      {
+         "Year": "2008",
+         "Gini's concentration coefficient": 34.1
+      }
+   ]
+}

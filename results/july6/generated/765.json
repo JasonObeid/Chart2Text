@@ -1,0 +1,55 @@
+{
+   "title": "Share of mobile banking users among mobile phone owners in the U.S. 2009 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Share of mobile banking users",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows users among mobile ' responses to a survey question asked from 2009 to 2016 , about increases in among users . ",
+      "In 2016 , 51 % of users among mobile surveyed said users had increased in the last Year ."
+   ],
+   "trends": [
+      {
+         "14": "7",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Share of mobile banking users": "51"
+      },
+      {
+         "Year": "2015",
+         "Share of mobile banking users": "46"
+      },
+      {
+         "Year": "2014",
+         "Share of mobile banking users": "42"
+      },
+      {
+         "Year": "2013",
+         "Share of mobile banking users": "38"
+      },
+      {
+         "Year": "2012",
+         "Share of mobile banking users": "33"
+      },
+      {
+         "Year": "2011",
+         "Share of mobile banking users": "29"
+      },
+      {
+         "Year": "2010",
+         "Share of mobile banking users": "19"
+      },
+      {
+         "Year": "2009",
+         "Share of mobile banking users": "18"
+      }
+   ]
+}

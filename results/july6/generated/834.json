@@ -1,0 +1,45 @@
+{
+   "title": "Terrorism - number of hostages taken by region",
+   "xAxis": "Country",
+   "yAxis": "Number of hostages taken",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Terrorism of the hostages taken as of mid-2019 , by region . ",
+      "As of , about 2651 % of the hostages taken was living in Africa . ",
+      "The total world taken amounted to 7.69 billion people on the planet ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Africa",
+         "Number of hostages taken": "2651"
+      },
+      {
+         "Country": "South Asia",
+         "Number of hostages taken": "1748"
+      },
+      {
+         "Country": "Near East",
+         "Number of hostages taken": "1206"
+      },
+      {
+         "Country": "East Asia and Pacific",
+         "Number of hostages taken": "246"
+      },
+      {
+         "Country": "Western Hemisphere",
+         "Number of hostages taken": "190"
+      },
+      {
+         "Country": "Europe and Eurasia",
+         "Number of hostages taken": "9"
+      }
+   ]
+}

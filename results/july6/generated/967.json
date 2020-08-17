@@ -1,0 +1,57 @@
+{
+   "title": "Number of car sharing users worldwide 2006 to 2025",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of users in Number from 2006 to 2025_(forecast) . ",
+      "In 2025_(forecast) , the Number of users in Number is expected to reach 36.0 millions , up from 1.16 millions in 2010 ."
+   ],
+   "trends": [
+      {
+         "11": "7",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "14": "0",
+         "19": "5",
+         "22": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2025 (forecast)",
+         "Number of users in millions": "36.0"
+      },
+      {
+         "Year": "2015",
+         "Number of users in millions": "7.0"
+      },
+      {
+         "Year": "2014",
+         "Number of users in millions": "4.94"
+      },
+      {
+         "Year": "2013",
+         "Number of users in millions": "3.48"
+      },
+      {
+         "Year": "2012",
+         "Number of users in millions": "2.34"
+      },
+      {
+         "Year": "2010",
+         "Number of users in millions": "1.16"
+      },
+      {
+         "Year": "2008",
+         "Number of users in millions": "0.67"
+      },
+      {
+         "Year": "2006",
+         "Number of users in millions": "0.35"
+      }
+   ]
+}

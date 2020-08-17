@@ -1,0 +1,58 @@
+{
+   "title": "Daily engagement rate of U.S. mobile social users 2019",
+   "xAxis": "Platform",
+   "yAxis": "Share of daily active users",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the Daily engagement rate networking mobile in the social as of 2019 , ranked first . ",
+      "During the measured period , it was found that 19.3 % of the daily active in the social networking app ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "9"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of daily active users": "63.7"
+      },
+      {
+         "Platform": "Instagram",
+         "Share of daily active users": "58.8"
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of daily active users": "55.3"
+      },
+      {
+         "Platform": "Facebook Messenger",
+         "Share of daily active users": "54.9"
+      },
+      {
+         "Platform": "WhatsApp",
+         "Share of daily active users": "46.2"
+      },
+      {
+         "Platform": "Reddit",
+         "Share of daily active users": "43.8"
+      },
+      {
+         "Platform": "TikTok",
+         "Share of daily active users": "40"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of daily active users": "38.3"
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of daily active users": "23.6"
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of daily active users": "19.3"
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "title": "DOTA 2 The International prize pool 2011 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Prize pool in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Prize pool in million U.S. dollars with a total of 9 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2019 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 0,
+         "end": 8,
+         "trend": "y=4.27x+-8588.08",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Prize pool in million U.S. dollars": 34.33
+      },
+      {
+         "Year": "2018",
+         "Prize pool in million U.S. dollars": 25.53
+      },
+      {
+         "Year": "2017",
+         "Prize pool in million U.S. dollars": 24.69
+      },
+      {
+         "Year": "2016",
+         "Prize pool in million U.S. dollars": 20.77
+      },
+      {
+         "Year": "2015",
+         "Prize pool in million U.S. dollars": 18.43
+      },
+      {
+         "Year": "2014",
+         "Prize pool in million U.S. dollars": 10.93
+      },
+      {
+         "Year": "2013",
+         "Prize pool in million U.S. dollars": 2.87
+      },
+      {
+         "Year": "2012",
+         "Prize pool in million U.S. dollars": 1.6
+      },
+      {
+         "Year": "2011",
+         "Prize pool in million U.S. dollars": 1.6
+      }
+   ]
+}

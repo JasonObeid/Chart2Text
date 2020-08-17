@@ -1,0 +1,94 @@
+{
+   "title": "Revenue of Starwood Hotels & Resorts 2005 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is  positive which exists from 2015 to 2012.",
+      " Also, the next significant trend is  negative which exists from 2012 to 2009.",
+      " Contrarily, the next significant trend is  positive which exists from 2009 to 2007.",
+      " Also, the next significant trend is  negative which exists from 2007 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 0,
+         "end": 3,
+         "trend": "y=-0.18x+372.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 3,
+         "end": 6,
+         "trend": "y=0.54x+-1082.25",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 6,
+         "end": 8,
+         "trend": "y=-0.65x+1310.68",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=0.07x+-134.52",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": 5.76
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": 5.98
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion U.S. dollars": 6.12
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion U.S. dollars": 6.32
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion U.S. dollars": 5.62
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion U.S. dollars": 5.07
+      },
+      {
+         "Year": "2009",
+         "Revenue in billion U.S. dollars": 4.7
+      },
+      {
+         "Year": "2008",
+         "Revenue in billion U.S. dollars": 5.75
+      },
+      {
+         "Year": "2007",
+         "Revenue in billion U.S. dollars": 6.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in billion U.S. dollars": 5.84
+      },
+      {
+         "Year": "2005",
+         "Revenue in billion U.S. dollars": 5.86
+      }
+   ]
+}

@@ -1,0 +1,37 @@
+{
+   "title": "Global feed conversion ratio of selected meat and fish",
+   "xAxis": "Animal Type",
+   "yAxis": "Feed conversion ratio",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the percentage of Global conversion ratio selected meat fish Type in , by the Animal of Type . ",
+      "7.0 % of conversion with Salmon and Type used selected meat fish in ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "5": "3",
+         "7": "3"
+      }
+   ],
+   "data": [
+      {
+         "Animal Type": "Cattle",
+         "Feed conversion ratio": "7.0"
+      },
+      {
+         "Animal Type": "Pork",
+         "Feed conversion ratio": "3.0"
+      },
+      {
+         "Animal Type": "Chicken",
+         "Feed conversion ratio": "1.9"
+      },
+      {
+         "Animal Type": "Salmon",
+         "Feed conversion ratio": "1.1"
+      }
+   ]
+}

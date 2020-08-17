@@ -1,0 +1,41 @@
+{
+   "title": "Likelihood of subscribing to Disney+ in the U.S. 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a 2019 survey among Americans aged 16 and older regarding the Likelihood they are looking for in a close Disney+ . ",
+      "This statistic only shows the top five answers to that question . ",
+      "39 % of the respondents stated a close Disney+ has to be loyal ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Very likely",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Somewhat likely",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "Not that likely",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "Not likely at all",
+         "Share of respondents": "39"
+      },
+      {
+         "Response": "Don't know/no opinion",
+         "Share of respondents": "11"
+      }
+   ]
+}

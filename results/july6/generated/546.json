@@ -1,0 +1,72 @@
+{
+   "title": "United Kingdom ( UK ) government approval rating monthly in 2015",
+   "labels": [
+      "Month",
+      "Approve",
+      "Disapprove",
+      "Don't know"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the leading types of United Kingdom UK used in the government in 2015 , rating monthly . ",
+      "The survey revealed that 32 % of Approve neighborhoods have January_29-30_2015 countertops ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Month": "January 29-30 2015",
+         "Approve": "32",
+         "Disapprove": "51",
+         "Don't know": "17"
+      },
+      {
+         "Month": "February 26-27 2015",
+         "Approve": "33",
+         "Disapprove": "53",
+         "Don't know": "14"
+      },
+      {
+         "Month": "March 30-31 2015",
+         "Approve": "34",
+         "Disapprove": "50",
+         "Don't know": "16"
+      },
+      {
+         "Month": "April 29-30 2015",
+         "Approve": "37",
+         "Disapprove": "51",
+         "Don't know": "12"
+      },
+      {
+         "Month": "May 28-29 2015",
+         "Approve": "40",
+         "Disapprove": "44",
+         "Don't know": "16"
+      },
+      {
+         "Month": "June 25-26 2015",
+         "Approve": "40",
+         "Disapprove": "46",
+         "Don't know": "14"
+      },
+      {
+         "Month": "July 30-31 2015",
+         "Approve": "38",
+         "Disapprove": "46",
+         "Don't know": "16"
+      }
+   ]
+}

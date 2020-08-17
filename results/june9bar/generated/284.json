@@ -1,0 +1,33 @@
+{
+   "title": "Proportion of individuals who have tried waterpipe , shisha or hooka in EU-28 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the Proportion individuals who have of EU-28 in the hooka as of 2013 . ",
+      "During the survey , 87 % of EU-28 stated they used Yes a Never and Spontaneous ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "11": "0",
+         "13": "1",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "Never",
+         "Share of respondents": "87"
+      },
+      {
+         "Response": "Spontaneous",
+         "Share of respondents": "0"
+      }
+   ]
+}

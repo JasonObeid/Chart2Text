@@ -1,0 +1,99 @@
+{
+   "title": "Per capita consumption of high fructose corn syrup in the U.S. 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Per capita consumption of fructose corn in the Per from 2000 to 2018 . ",
+      "According to the report , the U.S. Per capita consumption of fructose corn amounted to approximately 37.6 pounds in 2018 ."
+   ],
+   "trends": [
+      {
+         "14": "18",
+         "16": "0"
+      },
+      {
+         "16": "0",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": "37.6"
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": "40.5"
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": "41.4"
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": "42.5"
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": "43.4"
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": "43.7"
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": "45.8"
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": "46.7"
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": "48.4"
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": "49.7"
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": "52.7"
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": "55.9"
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": "57.8"
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": "58.9"
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": "59.6"
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": "60.6"
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": "62.5"
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": "62.2"
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": "62.5"
+      }
+   ]
+}

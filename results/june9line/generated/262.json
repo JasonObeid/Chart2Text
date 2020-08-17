@@ -1,0 +1,66 @@
+{
+   "title": "Unemployment rate in Belgium 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Unemployment rate in Belgium from 2008 to 2018 . ",
+      "In 2018 , the Unemployment of Belgium increased by about 6 % ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Unemployment rate": "6"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "7.1"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "7.9"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "8.6"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "8.6"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "8.5"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "7.6"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "7.2"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "8.4"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "8"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "7"
+      }
+   ]
+}

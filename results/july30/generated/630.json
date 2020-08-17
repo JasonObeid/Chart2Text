@@ -1,0 +1,82 @@
+{
+   "title": "Revenue of Mattel 's Barbie brand worldwide from 2012 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Gross sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Gross sales in million U.S. dollars, with a total of 8 data points. The chart has 4 significant trends.",
+      " The longest trend is  positive which exists from 2015 to 2012.",
+      " In a similar manner, the next significant trend is  negative which exists from 2019 to 2017.",
+      " Contrarily, the next significant trend is  positive which exists from 2017 to 2016.",
+      " Likewise, the next significant trend is  negative which exists from 2016 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 4,
+         "end": 7,
+         "trend": "y=-130.15x+263155.4",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=102.44x+-205656.05",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 2,
+         "end": 3,
+         "trend": "y=-16.91x+35062.36",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 3,
+         "end": 4,
+         "trend": "y=65.9x+-131882.6",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Gross sales in million U.S. dollars": 1159.77
+      },
+      {
+         "Year": "2018",
+         "Gross sales in million U.S. dollars": 1088.95
+      },
+      {
+         "Year": "2017",
+         "Gross sales in million U.S. dollars": 954.89
+      },
+      {
+         "Year": "2016",
+         "Gross sales in million U.S. dollars": 971.8
+      },
+      {
+         "Year": "2015",
+         "Gross sales in million U.S. dollars": 905.9
+      },
+      {
+         "Year": "2014",
+         "Gross sales in million U.S. dollars": 1009.5
+      },
+      {
+         "Year": "2013",
+         "Gross sales in million U.S. dollars": 1202.8
+      },
+      {
+         "Year": "2012",
+         "Gross sales in million U.S. dollars": 1275.3
+      }
+   ]
+}

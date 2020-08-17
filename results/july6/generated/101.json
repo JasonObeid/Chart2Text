@@ -1,0 +1,83 @@
+{
+   "title": "Projected Consumer Price Index in the United States 2010 to 2024",
+   "xAxis": "Year",
+   "yAxis": "Consumer price index (100=1982-1984)",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the price rate of the global Price Index United from 2010 to 2024 . ",
+      "The Price Index United is Consumer to grow by 237.0 % in 2015 , reaching 42 billion U.S. dollars in size ."
+   ],
+   "trends": [
+      {
+         "13": "14",
+         "15": "0"
+      },
+      {
+         "9": "9",
+         "12": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Consumer price index (100=1982-1984)": "287.51"
+      },
+      {
+         "Year": "2023",
+         "Consumer price index (100=1982-1984)": "281.23"
+      },
+      {
+         "Year": "2022",
+         "Consumer price index (100=1982-1984)": "275.09"
+      },
+      {
+         "Year": "2021",
+         "Consumer price index (100=1982-1984)": "269.1"
+      },
+      {
+         "Year": "2020",
+         "Consumer price index (100=1982-1984)": "263.12"
+      },
+      {
+         "Year": "2019",
+         "Consumer price index (100=1982-1984)": "256.12"
+      },
+      {
+         "Year": "2018",
+         "Consumer price index (100=1982-1984)": "251.1"
+      },
+      {
+         "Year": "2017",
+         "Consumer price index (100=1982-1984)": "245.13"
+      },
+      {
+         "Year": "2016",
+         "Consumer price index (100=1982-1984)": "240.01"
+      },
+      {
+         "Year": "2015",
+         "Consumer price index (100=1982-1984)": "237.0"
+      },
+      {
+         "Year": "2014",
+         "Consumer price index (100=1982-1984)": "236.72"
+      },
+      {
+         "Year": "2013",
+         "Consumer price index (100=1982-1984)": "232.95"
+      },
+      {
+         "Year": "2012",
+         "Consumer price index (100=1982-1984)": "229.59"
+      },
+      {
+         "Year": "2011",
+         "Consumer price index (100=1982-1984)": "224.92"
+      },
+      {
+         "Year": "2010",
+         "Consumer price index (100=1982-1984)": "218.08"
+      }
+   ]
+}

@@ -1,0 +1,91 @@
+{
+   "title": "Market value of first Bundesliga football clubs in Germany in 2020",
+   "xAxis": "Club Name",
+   "yAxis": "Market value in million euros",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Market value first Bundesliga of first Bundesliga clubs Germany as of 2017 . ",
+      "As of the third quarter of 2020 , FC_Bayern_M\u00fcnchen had the highest Market value of first Bundesliga at 933.15 million euros ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Club Name": "FC Bayern M\u00fcnchen",
+         "Market value in million euros": "933.15"
+      },
+      {
+         "Club Name": "Borussia Dortmund",
+         "Market value in million euros": "637.4"
+      },
+      {
+         "Club Name": "RasenBallsport Leipzig",
+         "Market value in million euros": "594.4"
+      },
+      {
+         "Club Name": "Bayer 04 Leverkusen",
+         "Market value in million euros": "445.75"
+      },
+      {
+         "Club Name": "Borussia M\u00f6nchengladbach",
+         "Market value in million euros": "312.0"
+      },
+      {
+         "Club Name": "FC Schalke 04",
+         "Market value in million euros": "242.75"
+      },
+      {
+         "Club Name": "TSG 1899 Hoffenheim",
+         "Market value in million euros": "238.23"
+      },
+      {
+         "Club Name": "Hertha BSC",
+         "Market value in million euros": "233.2"
+      },
+      {
+         "Club Name": "VfL Wolfsburg",
+         "Market value in million euros": "230.95"
+      },
+      {
+         "Club Name": "Eintracht Frankfurt",
+         "Market value in million euros": "215.8"
+      },
+      {
+         "Club Name": "SV Werder Bremen",
+         "Market value in million euros": "189.75"
+      },
+      {
+         "Club Name": "1. FSV Mainz 05",
+         "Market value in million euros": "147.4"
+      },
+      {
+         "Club Name": "SC Freiburg",
+         "Market value in million euros": "145.4"
+      },
+      {
+         "Club Name": "FC Augsburg",
+         "Market value in million euros": "131.15"
+      },
+      {
+         "Club Name": "1. FC K\u00f6ln",
+         "Market value in million euros": "102.2"
+      },
+      {
+         "Club Name": "Fortuna D\u00fcsseldorf",
+         "Market value in million euros": "93.15"
+      },
+      {
+         "Club Name": "1. FC Union Berlin",
+         "Market value in million euros": "43.05"
+      },
+      {
+         "Club Name": "SC Paderborn",
+         "Market value in million euros": "31.25"
+      }
+   ]
+}

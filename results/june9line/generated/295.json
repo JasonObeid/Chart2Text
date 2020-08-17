@@ -1,0 +1,54 @@
+{
+   "title": "Mexico : mobile phone internet user penetration 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Share of population",
+   "graphType": "line",
+   "summary": [
+      "This statistic provides information on the mobile internet rate in Mexico from 2017 to 2023 . ",
+      "In 2017 , 43 % of the Singaporean population were using the mobile . ",
+      "In 2023 , this figure is projected to grow 59 % ."
+   ],
+   "trends": [
+      {
+         "12": "6",
+         "14": "0"
+      },
+      {
+         "1": "6",
+         "3": "6"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Share of population": "59"
+      },
+      {
+         "Year": "2022",
+         "Share of population": "58"
+      },
+      {
+         "Year": "2021",
+         "Share of population": "56"
+      },
+      {
+         "Year": "2020",
+         "Share of population": "53"
+      },
+      {
+         "Year": "2019",
+         "Share of population": "50"
+      },
+      {
+         "Year": "2018",
+         "Share of population": "47"
+      },
+      {
+         "Year": "2017",
+         "Share of population": "43"
+      }
+   ]
+}

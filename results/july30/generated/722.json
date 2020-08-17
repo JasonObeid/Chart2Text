@@ -1,0 +1,55 @@
+{
+   "title": "International tourism spending in Portugal 2012 to 2028\n",
+   "xAxis": "Year",
+   "yAxis": "Spending in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Spending in billion euros with a total of 8 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2028 to 2012."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 0,
+         "end": 7,
+         "trend": "y=0.92x+-1831.03",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2028",
+         "Spending in billion euros": 26.4
+      },
+      {
+         "Year": "2018",
+         "Spending in billion euros": 19.4
+      },
+      {
+         "Year": "2017",
+         "Spending in billion euros": 18.1
+      },
+      {
+         "Year": "2016",
+         "Spending in billion euros": 15.6
+      },
+      {
+         "Year": "2015",
+         "Spending in billion euros": 14.5
+      },
+      {
+         "Year": "2014",
+         "Spending in billion euros": 13.9
+      },
+      {
+         "Year": "2013",
+         "Spending in billion euros": 12.8
+      },
+      {
+         "Year": "2012",
+         "Spending in billion euros": 12.2
+      }
+   ]
+}

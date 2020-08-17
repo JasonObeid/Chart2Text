@@ -1,0 +1,71 @@
+{
+   "title": "Federal spending per capita on arts and culture in the U.S. 2013",
+   "xAxis": "Year",
+   "yAxis": "Per capita spending in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the U.S. annual spending per capita culture 2002 through 2013 . ",
+      "In 2006 , the U.S. Per capita stood at 6.39 capita spending U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "10": "11",
+         "12": "0"
+      },
+      {
+         "1": "7",
+         "10": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Per capita spending in U.S. dollars": "6.13"
+      },
+      {
+         "Year": "2012",
+         "Per capita spending in U.S. dollars": "5.89"
+      },
+      {
+         "Year": "2011",
+         "Per capita spending in U.S. dollars": "5.9"
+      },
+      {
+         "Year": "2010",
+         "Per capita spending in U.S. dollars": "6.04"
+      },
+      {
+         "Year": "2009",
+         "Per capita spending in U.S. dollars": "6.39"
+      },
+      {
+         "Year": "2008",
+         "Per capita spending in U.S. dollars": "6.2"
+      },
+      {
+         "Year": "2007",
+         "Per capita spending in U.S. dollars": "5.89"
+      },
+      {
+         "Year": "2006",
+         "Per capita spending in U.S. dollars": "5.86"
+      },
+      {
+         "Year": "2005",
+         "Per capita spending in U.S. dollars": "5.96"
+      },
+      {
+         "Year": "2004",
+         "Per capita spending in U.S. dollars": "5.82"
+      },
+      {
+         "Year": "2003",
+         "Per capita spending in U.S. dollars": "5.5"
+      },
+      {
+         "Year": "2002",
+         "Per capita spending in U.S. dollars": "5.3"
+      }
+   ]
+}

@@ -1,0 +1,52 @@
+{
+   "title": "Estimated food waste from major supermarkets in the United Kingdom ( UK ) 2016",
+   "xAxis": "Month",
+   "yAxis": "Volume in tonnes",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Estimated food waste from in the United Kingdom ( ) from 2016 to . ",
+      "In 2016 , 59400 % of the Asda had a total of 10152 tonnes ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "7": "2",
+         "12": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Tesco",
+         "Volume in tonnes": "59400"
+      },
+      {
+         "Month": "Sainsbury's",
+         "Volume in tonnes": "35832"
+      },
+      {
+         "Month": "Asda",
+         "Volume in tonnes": "32020"
+      },
+      {
+         "Month": "Aldi",
+         "Volume in tonnes": "13377"
+      },
+      {
+         "Month": "Waitrose",
+         "Volume in tonnes": "12529"
+      },
+      {
+         "Month": "Co-op",
+         "Volume in tonnes": "12411"
+      },
+      {
+         "Month": "Marks and Spencer",
+         "Volume in tonnes": "10152"
+      },
+      {
+         "Month": "Iceland",
+         "Volume in tonnes": "2080"
+      }
+   ]
+}

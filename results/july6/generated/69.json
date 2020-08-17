@@ -1,0 +1,90 @@
+{
+   "title": "Car sales by brand in Canada - December 2018/19",
+   "labels": [
+      "unknown",
+      "December 2018",
+      "December 2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "Forecasts suggest that by the year the largest segment within the virtual and brand reality industry will be Ford . ",
+      "Ford game segment revenues are expected to reach nearly 15503 million U.S. dollars by and continue growing to around 11.5 million by . ",
+      "The Toyota and Hyundai 2018/19 are also expected to experience high levels of growth in the coming years , further exhibiting the wide range of possible uses for the technology ."
+   ],
+   "trends": [
+      {
+         "19": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "0": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "3": [
+            "2",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Ford",
+         "December 2018": "15503",
+         "December 2019": "14614"
+      },
+      {
+         "unknown": "Toyota",
+         "December 2018": "14153",
+         "December 2019": "11500"
+      },
+      {
+         "unknown": "Hyundai",
+         "December 2018": "6760",
+         "December 2019": "7807"
+      },
+      {
+         "unknown": "Honda",
+         "December 2018": "9011",
+         "December 2019": "7467"
+      },
+      {
+         "unknown": "Ram",
+         "December 2018": "5325",
+         "December 2019": "7018"
+      },
+      {
+         "unknown": "Nissan",
+         "December 2018": "8518",
+         "December 2019": "6767"
+      },
+      {
+         "unknown": "Chevrolet",
+         "December 2018": "7692",
+         "December 2019": "6639"
+      },
+      {
+         "unknown": "GMC",
+         "December 2018": "4517",
+         "December 2019": "5561"
+      },
+      {
+         "unknown": "Subaru",
+         "December 2018": "3998",
+         "December 2019": "4671"
+      }
+   ]
+}

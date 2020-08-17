@@ -1,0 +1,44 @@
+{
+   "title": "Facebook reactions on top shared content 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of reactions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of reactions Facebook worldwide in 2017 , Response . ",
+      "In that year , 41 % of Facebook 's reactions came from Love . ",
+      "Founded in 1961 Agordo , Italy the Facebook Group S.p.A. is the Angry 's largest eyewear company ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "14": "0"
+      },
+      {
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Love",
+         "Share of reactions": "41"
+      },
+      {
+         "Response": "Haha",
+         "Share of reactions": "28"
+      },
+      {
+         "Response": "Wow",
+         "Share of reactions": "15"
+      },
+      {
+         "Response": "Sad",
+         "Share of reactions": "12"
+      },
+      {
+         "Response": "Angry",
+         "Share of reactions": "5"
+      }
+   ]
+}

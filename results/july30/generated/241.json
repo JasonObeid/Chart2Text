@@ -1,0 +1,138 @@
+{
+   "title": "Most popular gaming related apps in the U.S. 2019 , by audience\n",
+   "xAxis": "Month",
+   "yAxis": "Million unique visitors",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 30 categories for the x axis representing Month, and a y axis representing Million unique visitors.",
+      " The highest category is found at Google_Play_Games where Million unique visitors is 18.74.",
+      " The lowest category is found at EA where Million unique visitors is 3.04."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 29
+   },
+   "data": [
+      {
+         "Month": "Google Play Games",
+         "Million unique visitors": 18.74
+      },
+      {
+         "Month": "Pok\u00e9mon GO",
+         "Million unique visitors": 10.66
+      },
+      {
+         "Month": "Candy Crush Saga",
+         "Million unique visitors": 10.23
+      },
+      {
+         "Month": "GameSpot (main)",
+         "Million unique visitors": 10.05
+      },
+      {
+         "Month": "IGN",
+         "Million unique visitors": 9.56
+      },
+      {
+         "Month": "Wordscapes",
+         "Million unique visitors": 8.91
+      },
+      {
+         "Month": "Lucky Money",
+         "Million unique visitors": 8.83
+      },
+      {
+         "Month": "Game Launcher (for Samsung)",
+         "Million unique visitors": 6.97
+      },
+      {
+         "Month": "Words With Friends",
+         "Million unique visitors": 6.95
+      },
+      {
+         "Month": "Solitaire by MobilityWare",
+         "Million unique visitors": 6.85
+      },
+      {
+         "Month": "Candy Crush Soda Saga",
+         "Million unique visitors": 5.95
+      },
+      {
+         "Month": "Steam Community Activity",
+         "Million unique visitors": 5.31
+      },
+      {
+         "Month": "Coin Master",
+         "Million unique visitors": 4.83
+      },
+      {
+         "Month": "Trivia Today",
+         "Million unique visitors": 4.37
+      },
+      {
+         "Month": "Nintendo",
+         "Million unique visitors": 4.36
+      },
+      {
+         "Month": "Homescapes",
+         "Million unique visitors": 4.35
+      },
+      {
+         "Month": "Xbox",
+         "Million unique visitors": 4.35
+      },
+      {
+         "Month": "Zynga (main)",
+         "Million unique visitors": 4.3
+      },
+      {
+         "Month": "Gardenscapes - New Acres",
+         "Million unique visitors": 4.26
+      },
+      {
+         "Month": "Mario Kart Tour",
+         "Million unique visitors": 4.21
+      },
+      {
+         "Month": "Kotaku",
+         "Million unique visitors": 3.92
+      },
+      {
+         "Month": "Gamepedia",
+         "Million unique visitors": 3.72
+      },
+      {
+         "Month": "Cookie Jam",
+         "Million unique visitors": 3.49
+      },
+      {
+         "Month": "POP! Slots",
+         "Million unique visitors": 3.46
+      },
+      {
+         "Month": "Toon Blast",
+         "Million unique visitors": 3.43
+      },
+      {
+         "Month": "Game Tools (for Samsung)",
+         "Million unique visitors": 3.43
+      },
+      {
+         "Month": "GamesRadar+",
+         "Million unique visitors": 3.3
+      },
+      {
+         "Month": "Lucky Time",
+         "Million unique visitors": 3.28
+      },
+      {
+         "Month": "Sudoku",
+         "Million unique visitors": 3.05
+      },
+      {
+         "Month": "EA",
+         "Million unique visitors": 3.04
+      }
+   ]
+}

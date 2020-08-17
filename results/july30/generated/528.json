@@ -1,0 +1,77 @@
+{
+   "title": "Average store size of Limited Brands worldwide from 2010 to 2018 , by brand",
+   "labels": [
+      "Year",
+      "Victoria's Secret stores",
+      "Bath & Body Works",
+      "La Senza"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This grouped bar chart has 9 categories for the x axis of Year representing Victoria's Secret stores, Bath & Body Works, La Senza.",
+      " The highest category is found at 2011 with a mean value of 3875.6666666666665.",
+      " The second highest category is found at 2012 with a mean value of 3874.0.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": {
+      "maxIndex": 7,
+      "secondIndex": 7
+   },
+   "data": [
+      {
+         "Year": "2018",
+         "Victoria's Secret stores": "6484",
+         "Bath & Body Works": "2585",
+         "La Senza": "0"
+      },
+      {
+         "Year": "2017",
+         "Victoria's Secret stores": "6415",
+         "Bath & Body Works": "2532",
+         "La Senza": "0"
+      },
+      {
+         "Year": "2016",
+         "Victoria's Secret stores": "6349",
+         "Bath & Body Works": "2459",
+         "La Senza": "0"
+      },
+      {
+         "Year": "2015",
+         "Victoria's Secret stores": "6187",
+         "Bath & Body Works": "2382",
+         "La Senza": "0"
+      },
+      {
+         "Year": "2014",
+         "Victoria's Secret stores": "6083",
+         "Bath & Body Works": "2359",
+         "La Senza": "0"
+      },
+      {
+         "Year": "2013",
+         "Victoria's Secret stores": "6018",
+         "Bath & Body Works": "2364",
+         "La Senza": "3185"
+      },
+      {
+         "Year": "2012",
+         "Victoria's Secret stores": "6038",
+         "Bath & Body Works": "2365",
+         "La Senza": "3219"
+      },
+      {
+         "Year": "2011",
+         "Victoria's Secret stores": "5941",
+         "Bath & Body Works": "2374",
+         "La Senza": "3312"
+      },
+      {
+         "Year": "2010",
+         "Victoria's Secret stores": "5892",
+         "Bath & Body Works": "2369",
+         "La Senza": "3343"
+      }
+   ]
+}

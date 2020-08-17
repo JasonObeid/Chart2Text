@@ -1,0 +1,30 @@
+{
+   "title": "Survey on regretting tattoos in the U.S. 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "In 2015 , some 23 % of respondents stated they will probably 2015 on that year , while almost half of all respondents stated they probably wo n't . ",
+      "Is romance really dead ? 2015 is generally considered the most romantic 2015 of the year , which people use to give flowers and tokens of appreciation to loved ones . ",
+      "About half of the American population celebrate 2015 , but this fact does No infer that the same Share of the population is taken or in love ; in fact , a certain Share of respondents rather bought 2015 presents for their pets last year rather than a significant other , and another significant Share of respondents spent the 2015 alone , with colleagues , friends or with family , rather than with a spouse or a partner ."
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {},
+      {
+         "15": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "No",
+         "Share of respondents": "77"
+      }
+   ]
+}

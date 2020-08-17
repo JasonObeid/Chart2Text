@@ -1,0 +1,71 @@
+{
+   "title": "Literacy rate in Jordan 2018",
+   "labels": [
+      "Year",
+      "Adult total",
+      "Adult male",
+      "Adult female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the Literacy rate in Jordan from 2007 to 2018 . ",
+      "The Literacy rate measures the percentage of people aged 15 and above who can read and write . ",
+      "In 2018 , Jordan 's Literacy rate was around 98.23 % ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "4",
+            "0"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {},
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Adult total": "98.23",
+         "Adult male": "98.61",
+         "Adult female": "97.83"
+      },
+      {
+         "Year": "2012",
+         "Adult total": "97.89",
+         "Adult male": "98.44",
+         "Adult female": "97.37"
+      },
+      {
+         "Year": "2011",
+         "Adult total": "95.9",
+         "Adult male": "97.75",
+         "Adult female": "93.93"
+      },
+      {
+         "Year": "2010",
+         "Adult total": "92.55",
+         "Adult male": "95.77",
+         "Adult female": "89.21"
+      },
+      {
+         "Year": "2007",
+         "Adult total": "92.2",
+         "Adult male": "95.49",
+         "Adult female": "88.9"
+      }
+   ]
+}

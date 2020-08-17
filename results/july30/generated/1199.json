@@ -1,0 +1,58 @@
+{
+   "title": "Leading eSports games worldwide 2019 , by tournament prize pool\n",
+   "xAxis": "Game Name",
+   "yAxis": "Total prize pool in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Game Name, and a y axis representing Total prize pool in million U.S. dollars.",
+      " The highest category is found at Fortnite where Total prize pool in million U.S. dollars is 64.37.",
+      " The lowest category is found at Rainbow_Six_Siege where Total prize pool in million U.S. dollars is 3.88."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Game Name": "Fortnite",
+         "Total prize pool in million U.S. dollars": 64.37
+      },
+      {
+         "Game Name": "DOTA 2",
+         "Total prize pool in million U.S. dollars": 46.15
+      },
+      {
+         "Game Name": "Counter-Strike: Global Offensive",
+         "Total prize pool in million U.S. dollars": 18.22
+      },
+      {
+         "Game Name": "PlayerUnknown\u2019s Battlegrounds",
+         "Total prize pool in million U.S. dollars": 12.41
+      },
+      {
+         "Game Name": "Overwatch",
+         "Total prize pool in million U.S. dollars": 9.09
+      },
+      {
+         "Game Name": "League of Legends",
+         "Total prize pool in million U.S. dollars": 8.95
+      },
+      {
+         "Game Name": "Call of Duty: Black Ops 4",
+         "Total prize pool in million U.S. dollars": 6.52
+      },
+      {
+         "Game Name": "Arena of Valor",
+         "Total prize pool in million U.S. dollars": 5.8
+      },
+      {
+         "Game Name": "Hearthstone",
+         "Total prize pool in million U.S. dollars": 4.07
+      },
+      {
+         "Game Name": "Rainbow Six Siege",
+         "Total prize pool in million U.S. dollars": 3.88
+      }
+   ]
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Planned Easter expenditure per capita in the U.S. by item 2019",
+   "xAxis": "Month",
+   "yAxis": "Average expenditure in U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Planned Easter expenditure per in the by as of 2018 , broken down by Gifts . ",
+      "As of that year , around 47.97$ % expenditure reporting per were Food ."
+   ],
+   "trends": [
+      {
+         "18": "2"
+      },
+      {
+         "6": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Food",
+         "Average expenditure in U.S. dollars": "47.97$"
+      },
+      {
+         "Month": "Clothing",
+         "Average expenditure in U.S. dollars": "27.29$"
+      },
+      {
+         "Month": "Gifts",
+         "Average expenditure in U.S. dollars": "24.01$"
+      },
+      {
+         "Month": "Candy",
+         "Average expenditure in U.S. dollars": "20.78$"
+      },
+      {
+         "Month": "Flowers",
+         "Average expenditure in U.S. dollars": "10.79$"
+      },
+      {
+         "Month": "Decorations",
+         "Average expenditure in U.S. dollars": "8.73$"
+      },
+      {
+         "Month": "Greeting cards",
+         "Average expenditure in U.S. dollars": "6.52$"
+      },
+      {
+         "Month": "Other",
+         "Average expenditure in U.S. dollars": "5.15$"
+      }
+   ]
+}

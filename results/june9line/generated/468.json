@@ -1,0 +1,58 @@
+{
+   "title": "Average annual food away-from-home expenditures of U.S. households 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Expenditure in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Average Expenditure of U.S. dollars in the away-from-home from 2010 to 2018 . ",
+      "In 2018 , there were a Average of 3459 dollars of Expenditure U.S. dollars in Average ."
+   ],
+   "trends": [
+      {
+         "13": "8",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Expenditure in U.S. dollars": "3459"
+      },
+      {
+         "Year": "2017",
+         "Expenditure in U.S. dollars": "3365"
+      },
+      {
+         "Year": "2016",
+         "Expenditure in U.S. dollars": "3154"
+      },
+      {
+         "Year": "2015",
+         "Expenditure in U.S. dollars": "3008"
+      },
+      {
+         "Year": "2014",
+         "Expenditure in U.S. dollars": "2787"
+      },
+      {
+         "Year": "2013",
+         "Expenditure in U.S. dollars": "2625"
+      },
+      {
+         "Year": "2012",
+         "Expenditure in U.S. dollars": "2678"
+      },
+      {
+         "Year": "2011",
+         "Expenditure in U.S. dollars": "2620"
+      },
+      {
+         "Year": "2010",
+         "Expenditure in U.S. dollars": "2505"
+      }
+   ]
+}

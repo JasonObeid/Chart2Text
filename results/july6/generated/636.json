@@ -1,0 +1,113 @@
+{
+   "title": "Employment by economic sector in Kuwait 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the distribution of Employment in Kuwait by economic sector from 2009 to 2019 . ",
+      "In 2019 , 2.23 % of the employees in Kuwait were active in the agricultural sector , 25.37 % in Industry and 72.4 % in the service sector ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "2.23",
+         "Industry": "25.37",
+         "Services": "72.4"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "2.26",
+         "Industry": "25.39",
+         "Services": "72.34"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "2.29",
+         "Industry": "25.39",
+         "Services": "72.33"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "2.31",
+         "Industry": "25.37",
+         "Services": "72.32"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "2.29",
+         "Industry": "25.17",
+         "Services": "72.55"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "2.38",
+         "Industry": "25.42",
+         "Services": "72.2"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "2.41",
+         "Industry": "25.46",
+         "Services": "72.12"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "2.44",
+         "Industry": "25.45",
+         "Services": "72.11"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "2.46",
+         "Industry": "25.4",
+         "Services": "72.14"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "2.46",
+         "Industry": "25.27",
+         "Services": "72.28"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "2.46",
+         "Industry": "25.01",
+         "Services": "72.53"
+      }
+   ]
+}

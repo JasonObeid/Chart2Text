@@ -1,0 +1,97 @@
+{
+   "title": "General Electric : number of employees 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of employees in thousands, with a total of 14 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2013 to 2010.",
+      " Contrarily, the next significant trend is  positive which exists from 2010 to 2007.",
+      " Also, the next significant trend is  negative which exists from 2007 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 5,
+         "end": 8,
+         "trend": "y=6.4x+-12573.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 8,
+         "end": 11,
+         "trend": "y=-13.9x+28228.4",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 11,
+         "end": 13,
+         "trend": "y=5.5x+-10712.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees in thousands": 283.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees in thousands": 313.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees in thousands": 295.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees in thousands": 333.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees in thousands": 305.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees in thousands": 307.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees in thousands": 305.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees in thousands": 301.0
+      },
+      {
+         "Year": "2010",
+         "Number of employees in thousands": 287.0
+      },
+      {
+         "Year": "2009",
+         "Number of employees in thousands": 304.0
+      },
+      {
+         "Year": "2008",
+         "Number of employees in thousands": 323.0
+      },
+      {
+         "Year": "2007",
+         "Number of employees in thousands": 327.0
+      },
+      {
+         "Year": "2006",
+         "Number of employees in thousands": 319.0
+      },
+      {
+         "Year": "2005",
+         "Number of employees in thousands": 316.0
+      }
+   ]
+}

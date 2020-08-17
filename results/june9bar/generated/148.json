@@ -1,0 +1,98 @@
+{
+   "title": "Google Play : number of available apps as of Q4 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Number of available apps",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the Number of available apps in the Google Play Q4 app store . ",
+      "As of the third Quarter of 2019 , approximately 1605359 mobile apps were available , representing a 3.88 % increase compared to the previous Quarter ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "19"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Number of available apps": "2570520"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Number of available apps": "2469894"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Number of available apps": "2327628"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Number of available apps": "2134302"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Number of available apps": "1977776"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Number of available apps": "2108450"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Number of available apps": "2977833"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Number of available apps": "3849865"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Number of available apps": "3662276"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Number of available apps": "3364880"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Number of available apps": "3172310"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Number of available apps": "2956763"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Number of available apps": "2811106"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Number of available apps": "2781508"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Number of available apps": "2539526"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Number of available apps": "2294798"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Number of available apps": "2012040"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Number of available apps": "1811532"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Number of available apps": "1670113"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Number of available apps": "1605359"
+      }
+   ]
+}

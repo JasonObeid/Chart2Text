@@ -1,0 +1,102 @@
+{
+   "title": "U.S. geology - number of earthquakes from 2000 to 2012\n",
+   "xAxis": "Year",
+   "yAxis": "Number of earthquakes",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of earthquakes, with a total of 13 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely negative which exists from 2010 to 2006.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2012 to 2010.",
+      " Likewise, the next significant trend is extremely negative which exists from 2005 to 2003.",
+      " On the other hand, the next significant trend is extremely negative which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 2,
+         "end": 6,
+         "trend": "y=1290.1x+-2586130.2",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-2330.5x+4692492.17",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 7,
+         "end": 9,
+         "trend": "y=369.5x+-737084.33",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 10,
+         "end": 12,
+         "trend": "y=767.0x+-1531940.67",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Number of earthquakes": 3836.0
+      },
+      {
+         "Year": "2011",
+         "Number of earthquakes": 5237.0
+      },
+      {
+         "Year": "2010",
+         "Number of earthquakes": 8497.0
+      },
+      {
+         "Year": "2009",
+         "Number of earthquakes": 4264.0
+      },
+      {
+         "Year": "2008",
+         "Number of earthquakes": 3618.0
+      },
+      {
+         "Year": "2007",
+         "Number of earthquakes": 2791.0
+      },
+      {
+         "Year": "2006",
+         "Number of earthquakes": 2783.0
+      },
+      {
+         "Year": "2005",
+         "Number of earthquakes": 3685.0
+      },
+      {
+         "Year": "2004",
+         "Number of earthquakes": 3550.0
+      },
+      {
+         "Year": "2003",
+         "Number of earthquakes": 2946.0
+      },
+      {
+         "Year": "2002",
+         "Number of earthquakes": 3876.0
+      },
+      {
+         "Year": "2001",
+         "Number of earthquakes": 2261.0
+      },
+      {
+         "Year": "2000",
+         "Number of earthquakes": 2342.0
+      }
+   ]
+}

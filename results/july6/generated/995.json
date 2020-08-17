@@ -1,0 +1,103 @@
+{
+   "title": "Job approval ratings for incumbent U.S. presidents seeking re-election from 1964 to 2012",
+   "labels": [
+      "Year",
+      "January",
+      "March",
+      "June",
+      "October"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Job approval ratings in for incumbent U.S. ( GDP ) in the seeking re-election 1964:_Lyndon_Johnson to 2012:_Barack_Obama , seeking re-election from . ",
+      "In 2012:_Barack_Obama , 77 % of U.S. presidents participated in January , and January in the seeking ."
+   ],
+   "trends": [
+      {
+         "18": [
+            "8",
+            "0"
+         ],
+         "20": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "8",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012: Barack Obama",
+         "January": "44",
+         "March": "46",
+         "June": "46",
+         "October": "50"
+      },
+      {
+         "Year": "2004: George W. Bush",
+         "January": "60",
+         "March": "49",
+         "June": "49",
+         "October": "50"
+      },
+      {
+         "Year": "1996: Bill Clinton",
+         "January": "42",
+         "March": "54",
+         "June": "58",
+         "October": "58"
+      },
+      {
+         "Year": "1992: George H.W. Bush",
+         "January": "46",
+         "March": "41",
+         "June": "37",
+         "October": "33"
+      },
+      {
+         "Year": "1984: Ronald Reagan",
+         "January": "52",
+         "March": "54",
+         "June": "55",
+         "October": "58"
+      },
+      {
+         "Year": "1980: Jimmy Carter",
+         "January": "56",
+         "March": "43",
+         "June": "32",
+         "October": "50"
+      },
+      {
+         "Year": "1976: Gerald Ford",
+         "January": "56",
+         "March": "43",
+         "June": "32",
+         "October": "0"
+      },
+      {
+         "Year": "1972: Richard Nixon",
+         "January": "49",
+         "March": "56",
+         "June": "59",
+         "October": "0"
+      },
+      {
+         "Year": "1964: Lyndon Johnson",
+         "January": "77",
+         "March": "77",
+         "June": "74",
+         "October": "0"
+      }
+   ]
+}

@@ -1,0 +1,56 @@
+{
+   "title": "Italy : number of banks 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of banks",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Number of banks in Italy from 2011 to 2018 . ",
+      "According to the report , around 740 thousand babies were born in Italy 2011 , an increase from the previous Year were 538 thousand babies were born ."
+   ],
+   "trends": [
+      {
+         "10": "7",
+         "12": "0"
+      },
+      {
+         "6": "7",
+         "14": "7",
+         "23": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of banks": "505"
+      },
+      {
+         "Year": "2017",
+         "Number of banks": "538"
+      },
+      {
+         "Year": "2016",
+         "Number of banks": "604"
+      },
+      {
+         "Year": "2015",
+         "Number of banks": "643"
+      },
+      {
+         "Year": "2014",
+         "Number of banks": "664"
+      },
+      {
+         "Year": "2013",
+         "Number of banks": "684"
+      },
+      {
+         "Year": "2012",
+         "Number of banks": "706"
+      },
+      {
+         "Year": "2011",
+         "Number of banks": "740"
+      }
+   ]
+}

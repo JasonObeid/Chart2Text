@@ -1,0 +1,99 @@
+{
+   "title": "Population of Luxembourg 2019 , by age",
+   "xAxis": "Year",
+   "yAxis": "Number of inhabitants",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of Luxembourg inhabitants in Luxembourg from 2019 to . ",
+      "In 2019 , there were 32592 new inhabitants to Luxembourg ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "0-4 years",
+         "Number of inhabitants": "32592"
+      },
+      {
+         "Year": "5-9 years",
+         "Number of inhabitants": "33355"
+      },
+      {
+         "Year": "10-14 years",
+         "Number of inhabitants": "32660"
+      },
+      {
+         "Year": "15-19 years",
+         "Number of inhabitants": "33206"
+      },
+      {
+         "Year": "20-24 years",
+         "Number of inhabitants": "38038"
+      },
+      {
+         "Year": "25-29 years",
+         "Number of inhabitants": "46125"
+      },
+      {
+         "Year": "30-34 years",
+         "Number of inhabitants": "47863"
+      },
+      {
+         "Year": "35-39 years",
+         "Number of inhabitants": "48111"
+      },
+      {
+         "Year": "40-44 years",
+         "Number of inhabitants": "46177"
+      },
+      {
+         "Year": "45-49 years",
+         "Number of inhabitants": "46183"
+      },
+      {
+         "Year": "50-54 years",
+         "Number of inhabitants": "46695"
+      },
+      {
+         "Year": "55-59 years",
+         "Number of inhabitants": "41130"
+      },
+      {
+         "Year": "60-64 years",
+         "Number of inhabitants": "33431"
+      },
+      {
+         "Year": "65-69 years",
+         "Number of inhabitants": "26712"
+      },
+      {
+         "Year": "70-74 years",
+         "Number of inhabitants": "21074"
+      },
+      {
+         "Year": "75-79 years",
+         "Number of inhabitants": "16260"
+      },
+      {
+         "Year": "80-84 years",
+         "Number of inhabitants": "12270"
+      },
+      {
+         "Year": "85-89 years",
+         "Number of inhabitants": "8069"
+      },
+      {
+         "Year": "90-94 years",
+         "Number of inhabitants": "3177"
+      },
+      {
+         "Year": "95 years and older",
+         "Number of inhabitants": "766"
+      }
+   ]
+}

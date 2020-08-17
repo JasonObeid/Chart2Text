@@ -1,0 +1,31 @@
+{
+   "title": "Stereotyping of ethnic minorities in Hollywood movies 2016",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Stereotyping ethnic minorities Hollywood movies 2016 in the 2016 as of October 2016 . ",
+      "During the survey , 38 % of the respondents stated that they used Do_a_good_job_of_portraying_racial_minorities ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Do a good job of portraying racial minorities",
+         "Share of respondents": "38"
+      },
+      {
+         "Response": "Give into stereotypes when portraying racial minorities",
+         "Share of respondents": "37"
+      },
+      {
+         "Response": "Not sure",
+         "Share of respondents": "24"
+      }
+   ]
+}

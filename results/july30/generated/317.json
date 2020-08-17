@@ -1,0 +1,94 @@
+{
+   "title": "Inflation rate forecast ( CPI ) in the United Kingdom ( UK ) Q3 2019 to Q1 2024\n",
+   "xAxis": "Quarter",
+   "yAxis": "Inflation rate forecast",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 19 categories for the x axis representing Quarter, and a y axis representing Inflation rate forecast.",
+      " The highest category is found at Q3_2019 where Inflation rate forecast is 2.1.",
+      " The lowest category is found at Q2_2020 where Inflation rate forecast is 1.82."
+   ],
+   "trends": {
+      "maxIndex": 18,
+      "minIndex": 15
+   },
+   "data": [
+      {
+         "Quarter": "Q1 2024",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q4 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q3 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q2 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q1 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q4 2022",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q3 2022",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q2 2022",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q1 2022",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q4 2021",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q3 2021",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q2 2021",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q1 2021",
+         "Inflation rate forecast": 1.95
+      },
+      {
+         "Quarter": "Q4 2020",
+         "Inflation rate forecast": 1.9
+      },
+      {
+         "Quarter": "Q3 2020",
+         "Inflation rate forecast": 1.88
+      },
+      {
+         "Quarter": "Q2 2020",
+         "Inflation rate forecast": 1.82
+      },
+      {
+         "Quarter": "Q1 2020",
+         "Inflation rate forecast": 1.82
+      },
+      {
+         "Quarter": "Q4 2019",
+         "Inflation rate forecast": 2.01
+      },
+      {
+         "Quarter": "Q3 2019",
+         "Inflation rate forecast": 2.1
+      }
+   ]
+}

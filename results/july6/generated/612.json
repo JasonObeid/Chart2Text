@@ -1,0 +1,53 @@
+{
+   "title": "Google : global corporate demography 2019 , by gender and department",
+   "labels": [
+      "unknown",
+      "Female",
+      "Male"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays the Leadership rate of individuals suffering global an corporate demography in the Google in 2019 . ",
+      "Approximately 26.1 % of sufferers Female and 73.9 % of sufferers Male Female make a Leadership ."
+   ],
+   "trends": [
+      {
+         "4": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Leadership",
+         "Female": "26.1",
+         "Male": "73.9"
+      },
+      {
+         "unknown": "Tech",
+         "Female": "22.9",
+         "Male": "77.1"
+      },
+      {
+         "unknown": "Non-tech",
+         "Female": "47.9",
+         "Male": "52.2"
+      }
+   ]
+}

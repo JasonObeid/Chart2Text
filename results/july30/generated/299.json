@@ -1,0 +1,104 @@
+{
+   "title": "Revenue of the Oakland Raiders ( NFL ) 2001 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2018 to 2010.",
+      " On the other hand, the next significant trend is  negative which exists from 2009 to 2001."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 0,
+         "end": 8,
+         "trend": "y=18.8x+-37583.76",
+         "magnitude": ""
+      },
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 9,
+         "end": 17,
+         "trend": "y=11.42x+-22713.64",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 357.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 335.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 321.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 301.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 285.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 244.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 229.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 226.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 217.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 217.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 215.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 205.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 189.0
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 171.0
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 169.0
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 149.0
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 144.0
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 132.0
+      }
+   ]
+}

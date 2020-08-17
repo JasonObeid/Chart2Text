@@ -1,0 +1,47 @@
+{
+   "title": "Births - number by age of mother 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of children born in thousands",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the Number children that the Births ( ) is predicted to make the European Union mother from the Births financial Year 2018 to . ",
+      "The peak of children is expected to be in 15_to_19_years at 25038 thousands British pounds ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "11": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "15 to 19 years",
+         "Number of children born in thousands": "469"
+      },
+      {
+         "Year": "20 to 24 years",
+         "Number of children born in thousands": "3268"
+      },
+      {
+         "Year": "25 to 29 years",
+         "Number of children born in thousands": "9668"
+      },
+      {
+         "Year": "30 to 34 years",
+         "Number of children born in thousands": "15269"
+      },
+      {
+         "Year": "35 to 39 years",
+         "Number of children born in thousands": "19902"
+      },
+      {
+         "Year": "40 to 44 years",
+         "Number of children born in thousands": "20145"
+      },
+      {
+         "Year": "45 to 50 years",
+         "Number of children born in thousands": "25038"
+      }
+   ]
+}

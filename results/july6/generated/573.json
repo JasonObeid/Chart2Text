@@ -1,0 +1,73 @@
+{
+   "title": "Sales of smart home devices and controllers to dealers in the U.S. 2014 to 2017",
+   "labels": [
+      "Year",
+      "Smart home devices",
+      "Smart home controllers"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the dealers of various segments of the smart home devices ( VPN ) controllers worldwide in 2014 with a forecast to 2017 . ",
+      "In 2017 , the dealers of the multiprotocol label switching VPN controllers is expected to grow from 1.4 billion U.S. dollars to 3.1 billion U.S. dollars worldwide . ",
+      "Overall , the U.S. VPN controllers is valued at 45 billion U.S. dollars in 2014 and forecast for 70 billion U.S. dollars in 2017 ."
+   ],
+   "trends": [
+      {
+         "19": [
+            "3",
+            "0"
+         ],
+         "24": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "17": [
+            "3",
+            "2"
+         ],
+         "22": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "14": [
+            "3",
+            "0"
+         ],
+         "23": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Smart home devices": "35.9",
+         "Smart home controllers": "3.1"
+      },
+      {
+         "Year": "2016",
+         "Smart home devices": "29.9",
+         "Smart home controllers": "2.5"
+      },
+      {
+         "Year": "2015",
+         "Smart home devices": "24.9",
+         "Smart home controllers": "1.9"
+      },
+      {
+         "Year": "2014",
+         "Smart home devices": "20.7",
+         "Smart home controllers": "1.4"
+      }
+   ]
+}

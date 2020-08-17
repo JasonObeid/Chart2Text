@@ -1,0 +1,55 @@
+{
+   "title": "Molson Coors Brewing Company sales in Canada 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Sales in million Canadian dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Sales of million Canadian in the Olympic Molson Coors Brewing Company games from 2013 to 2019 . ",
+      "In the 2018 , 2041.4 million of Canadian in the Olympic Molson Coors Brewing Company games were women . ",
+      "This figure is projected to grow 59percent in 2019 ."
+   ],
+   "trends": [
+      {
+         "14": "6",
+         "16": "0"
+      },
+      {
+         "2": "1",
+         "4": "1"
+      },
+      {
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Sales in million Canadian dollars": "2034.2"
+      },
+      {
+         "Year": "2018",
+         "Sales in million Canadian dollars": "2041.4"
+      },
+      {
+         "Year": "2017",
+         "Sales in million Canadian dollars": "1993.7"
+      },
+      {
+         "Year": "2016",
+         "Sales in million Canadian dollars": "1706.8"
+      },
+      {
+         "Year": "2015",
+         "Sales in million Canadian dollars": "1228.2"
+      },
+      {
+         "Year": "2014",
+         "Sales in million Canadian dollars": "1287.2"
+      },
+      {
+         "Year": "2013",
+         "Sales in million Canadian dollars": "1313.8"
+      }
+   ]
+}

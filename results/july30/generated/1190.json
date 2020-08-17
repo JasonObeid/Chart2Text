@@ -1,0 +1,78 @@
+{
+   "title": "Market capitalization of leading 100 banks worldwide 2016 to 2019\n",
+   "xAxis": "Quarter",
+   "yAxis": "Market capitalization in trillion Euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 15 categories for the x axis representing Quarter, and a y axis representing Market capitalization in trillion Euros.",
+      " The highest category is found at Q4_'17 where Market capitalization in trillion Euros is 5.6.",
+      " The lowest category is found at Q2_'16 where Market capitalization in trillion Euros is 4.1."
+   ],
+   "trends": {
+      "maxIndex": 7,
+      "minIndex": 13
+   },
+   "data": [
+      {
+         "Quarter": "Q3 '19",
+         "Market capitalization in trillion Euros": 5.3
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Market capitalization in trillion Euros": 4.8
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Market capitalization in trillion Euros": 5.3
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Market capitalization in trillion Euros": 5.4
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Market capitalization in trillion Euros": 5.6
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Market capitalization in trillion Euros": 5.4
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Market capitalization in trillion Euros": 5.3
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Market capitalization in trillion Euros": 5.4
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Market capitalization in trillion Euros": 4.4
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Market capitalization in trillion Euros": 4.1
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Market capitalization in trillion Euros": 4.2
+      }
+   ]
+}

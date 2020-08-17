@@ -1,0 +1,73 @@
+{
+   "title": "Malaysia maternal mortality ratio 2011 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Maternal mortality ratio per hundred thousand live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Maternal mortality ratio per hundred thousand live births, with a total of 8 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2016 to 2013.",
+      " Differently, the next significant trend is  positive which exists from 2018 to 2016.",
+      " Likewise, the next significant trend is  positive which exists from 2013 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 2,
+         "end": 5,
+         "trend": "y=2.46x+-4931.52",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-2.8x+5673.47",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 5,
+         "end": 7,
+         "trend": "y=-2.4x+4852.4",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Maternal mortality ratio per hundred thousand live births": 23.5
+      },
+      {
+         "Year": "2017",
+         "Maternal mortality ratio per hundred thousand live births": 25.0
+      },
+      {
+         "Year": "2016",
+         "Maternal mortality ratio per hundred thousand live births": 29.1
+      },
+      {
+         "Year": "2015",
+         "Maternal mortality ratio per hundred thousand live births": 23.8
+      },
+      {
+         "Year": "2014",
+         "Maternal mortality ratio per hundred thousand live births": 22.3
+      },
+      {
+         "Year": "2013",
+         "Maternal mortality ratio per hundred thousand live births": 21.4
+      },
+      {
+         "Year": "2012",
+         "Maternal mortality ratio per hundred thousand live births": 23.2
+      },
+      {
+         "Year": "2011",
+         "Maternal mortality ratio per hundred thousand live births": 26.2
+      }
+   ]
+}

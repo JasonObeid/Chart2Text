@@ -1,0 +1,77 @@
+{
+   "title": "International visitor spending in Paris 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "International visitor spending in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing International visitor spending in billion U.S. dollars, with a total of 9 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2016 to 2013.",
+      " In a similar manner, the next significant trend is  negative which exists from 2013 to 2010.",
+      " On the other hand, the next significant trend is  negative which exists from 2018 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 2,
+         "end": 5,
+         "trend": "y=-2.54x+5136.2",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 5,
+         "end": 8,
+         "trend": "y=2.15x+-4308.52",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 0,
+         "end": 2,
+         "trend": "y=1.02x+-2034.21",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "International visitor spending in billion U.S. dollars": 14.06
+      },
+      {
+         "Year": "2017",
+         "International visitor spending in billion U.S. dollars": 13.05
+      },
+      {
+         "Year": "2016",
+         "International visitor spending in billion U.S. dollars": 12.03
+      },
+      {
+         "Year": "2015",
+         "International visitor spending in billion U.S. dollars": 13.41
+      },
+      {
+         "Year": "2014",
+         "International visitor spending in billion U.S. dollars": 16.42
+      },
+      {
+         "Year": "2013",
+         "International visitor spending in billion U.S. dollars": 19.5
+      },
+      {
+         "Year": "2012",
+         "International visitor spending in billion U.S. dollars": 17.25
+      },
+      {
+         "Year": "2011",
+         "International visitor spending in billion U.S. dollars": 14.95
+      },
+      {
+         "Year": "2010",
+         "International visitor spending in billion U.S. dollars": 13.1
+      }
+   ]
+}

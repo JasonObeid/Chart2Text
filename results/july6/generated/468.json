@@ -1,0 +1,52 @@
+{
+   "title": "Medium term forecast for global fertilizer demand by nutrient to 2023",
+   "labels": [
+      "Year",
+      "Urea (CH4N2O)",
+      "Phosphorus pentoxide (P2O5)",
+      "Potassium oxide (K2O)"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Phosphorus penetration of the Medium forecast sector in Medium , showing the term of Phosphorus and Urea forecast for in 2023 and with a forecast for 2023 . ",
+      "In 2023 , Phosphorus global made up 63.9 % of total forecast for of Medium . ",
+      "This is predicted to increase 63.9 % by 2023 ."
+   ],
+   "trends": [
+      {
+         "24": [
+            "0",
+            "0"
+         ],
+         "30": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "7": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "9": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Urea (CH4N2O)": "184",
+         "Phosphorus pentoxide (P2O5)": "63.9",
+         "Potassium oxide (K2O)": "45.7"
+      }
+   ]
+}

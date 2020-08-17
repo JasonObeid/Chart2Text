@@ -1,0 +1,120 @@
+{
+   "title": "Employment by economic sector in Finland 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Employment of the by economic sector Finland in from 2009 to 2019 . ",
+      "In 2019 , 3.69 % of the by were employed in Agriculture , 21.81 % in Industry and 74.5 % in Services . ",
+      "Employment of by in Finland \u2013 additional information In 2013 , Finland was the largest exporting country worldwide with an export value of about two billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "10",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "0",
+            "3"
+         ]
+      },
+      {
+         "9": [
+            "6",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "3.69",
+         "Industry": "21.81",
+         "Services": "74.5"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "3.73",
+         "Industry": "21.97",
+         "Services": "74.3"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "3.76",
+         "Industry": "22.16",
+         "Services": "74.08"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "3.87",
+         "Industry": "22.16",
+         "Services": "73.98"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "4.22",
+         "Industry": "21.7",
+         "Services": "74.07"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "4.26",
+         "Industry": "21.9",
+         "Services": "73.85"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "4.13",
+         "Industry": "22.85",
+         "Services": "73.02"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "4.16",
+         "Industry": "22.79",
+         "Services": "73.06"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "4.23",
+         "Industry": "23",
+         "Services": "72.78"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "4.44",
+         "Industry": "23.3",
+         "Services": "72.26"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "4.63",
+         "Industry": "23.95",
+         "Services": "71.43"
+      }
+   ]
+}

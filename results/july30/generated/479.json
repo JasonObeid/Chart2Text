@@ -1,0 +1,103 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Venezuela 2024\n",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP growth compared to previous year, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is  negative which exists from 2016 to 2013.",
+      " On the contrary, the next significant trend is  positive which exists from 2021 to 2019.",
+      " Correspondingly, the next significant trend is  negative which exists from 2019 to 2017.",
+      " Contrarily, the next significant trend is  positive which exists from 2013 to 2011.",
+      " Correspondingly, the next significant trend is  positive which exists from 2017 to 2016."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 5,
+         "end": 8,
+         "trend": "y=4.94x+-9950.55",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-15.0x+30316.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=9.66x+-19481.08",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 8,
+         "end": 10,
+         "trend": "y=-1.42x+2860.76",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 4,
+         "end": 5,
+         "trend": "y=-1.37x+2778.96",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 5.0
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 10.0
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 35.0
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 18.0
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 15.67
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 17.04
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 6.22
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 3.89
+      },
+      {
+         "Year": "2013",
+         "GDP growth compared to previous year": 1.34
+      },
+      {
+         "Year": "2012",
+         "GDP growth compared to previous year": 5.63
+      },
+      {
+         "Year": "2011",
+         "GDP growth compared to previous year": 4.18
+      }
+   ]
+}

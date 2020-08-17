@@ -1,0 +1,118 @@
+{
+   "title": "Copper consumption in the U.S. 2006 to 2019",
+   "labels": [
+      "Year",
+      "Reported, refined",
+      "Apparent, unmanufactured"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Copper of the consumption U.S. 2006 2019 in the 2019 from 2006 to 2019 . ",
+      "In 2019 , 1850 % of the consumption were employed in Reported, , 1800 % in Apparent, and 1800 % in Apparent, . ",
+      "The same Year , the total UK population amounted to about 62.3 million people ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "13",
+            "0"
+         ],
+         "17": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Reported, refined": "1850",
+         "Apparent, unmanufactured": "1800"
+      },
+      {
+         "Year": "2018",
+         "Reported, refined": "1820",
+         "Apparent, unmanufactured": "1830"
+      },
+      {
+         "Year": "2017",
+         "Reported, refined": "1800",
+         "Apparent, unmanufactured": "1860"
+      },
+      {
+         "Year": "2016",
+         "Reported, refined": "1800",
+         "Apparent, unmanufactured": "1880"
+      },
+      {
+         "Year": "2015",
+         "Reported, refined": "1810",
+         "Apparent, unmanufactured": "1840"
+      },
+      {
+         "Year": "2014",
+         "Reported, refined": "1760",
+         "Apparent, unmanufactured": "1780"
+      },
+      {
+         "Year": "2013",
+         "Reported, refined": "1830",
+         "Apparent, unmanufactured": "1750"
+      },
+      {
+         "Year": "2012",
+         "Reported, refined": "1760",
+         "Apparent, unmanufactured": "1760"
+      },
+      {
+         "Year": "2011",
+         "Reported, refined": "1760",
+         "Apparent, unmanufactured": "1730"
+      },
+      {
+         "Year": "2010",
+         "Reported, refined": "1760",
+         "Apparent, unmanufactured": "1760"
+      },
+      {
+         "Year": "2009",
+         "Reported, refined": "1650",
+         "Apparent, unmanufactured": "1580"
+      },
+      {
+         "Year": "2008",
+         "Reported, refined": "2020",
+         "Apparent, unmanufactured": "1990"
+      },
+      {
+         "Year": "2007",
+         "Reported, refined": "2140",
+         "Apparent, unmanufactured": "2270"
+      },
+      {
+         "Year": "2006",
+         "Reported, refined": "2110",
+         "Apparent, unmanufactured": "2200"
+      }
+   ]
+}

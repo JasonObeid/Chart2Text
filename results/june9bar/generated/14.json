@@ -1,0 +1,59 @@
+{
+   "title": "Economic loss due to major droughts worldwide up to 2016",
+   "xAxis": "Drought",
+   "yAxis": "Economic loss in billion U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Economic loss of due major droughts up as of October 2016 . ",
+      "As of the fourth Drought of 2016 , United_States_June_2012 had an average of 20.0 billion U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Drought": "United States June 2012",
+         "Economic loss in billion U.S. dollars": "20.0"
+      },
+      {
+         "Drought": "China P Rep January 1994",
+         "Economic loss in billion U.S. dollars": "13.8"
+      },
+      {
+         "Drought": "United States January 2011",
+         "Economic loss in billion U.S. dollars": "8.0"
+      },
+      {
+         "Drought": "Australia 1981",
+         "Economic loss in billion U.S. dollars": "6.0"
+      },
+      {
+         "Drought": "Brazil January 2014",
+         "Economic loss in billion U.S. dollars": "5.0"
+      },
+      {
+         "Drought": "Spain September 1990",
+         "Economic loss in billion U.S. dollars": "4.5"
+      },
+      {
+         "Drought": "China P Rep October 2009",
+         "Economic loss in billion U.S. dollars": "3.6"
+      },
+      {
+         "Drought": "United States July 2002",
+         "Economic loss in billion U.S. dollars": "3.3"
+      },
+      {
+         "Drought": "Iran Islam Rep April 1999",
+         "Economic loss in billion U.S. dollars": "3.3"
+      },
+      {
+         "Drought": "Spain April 1999",
+         "Economic loss in billion U.S. dollars": "3.2"
+      }
+   ]
+}

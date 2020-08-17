@@ -1,0 +1,98 @@
+{
+   "title": "Number of U.S. patents held by tech companies in 2012\n",
+   "xAxis": "Company",
+   "yAxis": "Number of U.S. patents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Company, and a y axis representing Number of U.S. patents.",
+      " The highest category is found at Samsung where Number of U.S. patents is 47855.0.",
+      " The lowest category is found at Amazon where Number of U.S. patents is 448.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Company": "Samsung",
+         "Number of U.S. patents": 47855.0
+      },
+      {
+         "Company": "Canon",
+         "Number of U.S. patents": 46322.0
+      },
+      {
+         "Company": "Sony",
+         "Number of U.S. patents": 36508.0
+      },
+      {
+         "Company": "Hewlett-Packard",
+         "Number of U.S. patents": 23904.0
+      },
+      {
+         "Company": "Xerox",
+         "Number of U.S. patents": 23603.0
+      },
+      {
+         "Company": "Intel",
+         "Number of U.S. patents": 21153.0
+      },
+      {
+         "Company": "Motorola",
+         "Number of U.S. patents": 21027.0
+      },
+      {
+         "Company": "Microsoft",
+         "Number of U.S. patents": 19800.0
+      },
+      {
+         "Company": "Ricoh",
+         "Number of U.S. patents": 14363.0
+      },
+      {
+         "Company": "Lucent",
+         "Number of U.S. patents": 11713.0
+      },
+      {
+         "Company": "Nokia",
+         "Number of U.S. patents": 9615.0
+      },
+      {
+         "Company": "Cisco",
+         "Number of U.S. patents": 7208.0
+      },
+      {
+         "Company": "Apple",
+         "Number of U.S. patents": 4649.0
+      },
+      {
+         "Company": "Oracle",
+         "Number of U.S. patents": 3371.0
+      },
+      {
+         "Company": "Dell",
+         "Number of U.S. patents": 2489.0
+      },
+      {
+         "Company": "Google",
+         "Number of U.S. patents": 1124.0
+      },
+      {
+         "Company": "Verizon",
+         "Number of U.S. patents": 1110.0
+      },
+      {
+         "Company": "Yahoo",
+         "Number of U.S. patents": 1029.0
+      },
+      {
+         "Company": "AOL",
+         "Number of U.S. patents": 533.0
+      },
+      {
+         "Company": "Amazon",
+         "Number of U.S. patents": 448.0
+      }
+   ]
+}

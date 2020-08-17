@@ -1,0 +1,107 @@
+{
+   "title": "Unemployment rate in Spain 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Spain from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Spain was at approximately 14.7 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "14.7"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "15.49"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "17.22"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "19.64"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "22.06"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "24.44"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "26.09"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "24.79"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "21.39"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "19.86"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "17.86"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "11.25"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "8.23"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "8.45"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "9.15"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "11.09"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "11.28"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "11.15"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "10.35"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "13.79"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "15.48"
+      }
+   ]
+}

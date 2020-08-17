@@ -1,0 +1,93 @@
+{
+   "title": "Leading pets owned by households in the United Kingdom ( UK ) 2018/19",
+   "xAxis": "Pet Type",
+   "yAxis": "Share of households",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey on the Leading pets owned by in United Kingdom . ",
+      "During the survey , 40 % of households stated that they used Any_pet or ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "12": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Pet Type": "Any pet",
+         "Share of households": "40"
+      },
+      {
+         "Pet Type": "Dogs",
+         "Share of households": "25"
+      },
+      {
+         "Pet Type": "Cats",
+         "Share of households": "17"
+      },
+      {
+         "Pet Type": "Rabbits",
+         "Share of households": "1"
+      },
+      {
+         "Pet Type": "Indoor Birds",
+         "Share of households": "1"
+      },
+      {
+         "Pet Type": "Guinea pigs",
+         "Share of households": "1"
+      },
+      {
+         "Pet Type": "Hamsters",
+         "Share of households": "1"
+      },
+      {
+         "Pet Type": "Tortoises and Turtles",
+         "Share of households": "0.7"
+      },
+      {
+         "Pet Type": "Lizards",
+         "Share of households": "0.6"
+      },
+      {
+         "Pet Type": "Domestic fowl",
+         "Share of households": "0.4"
+      },
+      {
+         "Pet Type": "Snakes",
+         "Share of households": "0.4"
+      },
+      {
+         "Pet Type": "Horses and ponies",
+         "Share of households": "0.3"
+      },
+      {
+         "Pet Type": "Rats",
+         "Share of households": "0.1"
+      },
+      {
+         "Pet Type": "Ferrets",
+         "Share of households": "0.1"
+      },
+      {
+         "Pet Type": "Gerbils",
+         "Share of households": "0.2"
+      },
+      {
+         "Pet Type": "People keep insects",
+         "Share of households": "0.1"
+      },
+      {
+         "Pet Type": "Pigeons",
+         "Share of households": "0.1"
+      },
+      {
+         "Pet Type": "Frogs and toads",
+         "Share of households": "0.1"
+      }
+   ]
+}

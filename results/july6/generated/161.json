@@ -1,0 +1,103 @@
+{
+   "title": "Nike 's North American revenue 2009 - 2019 , by segment",
+   "labels": [
+      "Year",
+      "Footwear",
+      "Apparel",
+      "Equipment"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "In 2019 , the 's of Nike in was six percent \u2013 the lowest it had been in a decade . ",
+      "There were real regional differences within the country though . ",
+      "The Footwear 2019 did particularly well economically , with an Nike 's of 10045 % in 2019 ."
+   ],
+   "trends": [
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      },
+      {},
+      {
+         "13": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Footwear": "10045",
+         "Apparel": "5260",
+         "Equipment": "597"
+      },
+      {
+         "Year": "2018",
+         "Footwear": "9322",
+         "Apparel": "4938",
+         "Equipment": "595"
+      },
+      {
+         "Year": "2017",
+         "Footwear": "9684",
+         "Apparel": "4886",
+         "Equipment": "646"
+      },
+      {
+         "Year": "2016",
+         "Footwear": "9299",
+         "Apparel": "4746",
+         "Equipment": "719"
+      },
+      {
+         "Year": "2015",
+         "Footwear": "8506",
+         "Apparel": "4410",
+         "Equipment": "824"
+      },
+      {
+         "Year": "2014",
+         "Footwear": "7495",
+         "Apparel": "3937",
+         "Equipment": "867"
+      },
+      {
+         "Year": "2013",
+         "Footwear": "6751",
+         "Apparel": "3591",
+         "Equipment": "816"
+      },
+      {
+         "Year": "2012",
+         "Footwear": "5941",
+         "Apparel": "2993",
+         "Equipment": "604"
+      },
+      {
+         "Year": "2011",
+         "Footwear": "5111",
+         "Apparel": "2103",
+         "Equipment": "365"
+      },
+      {
+         "Year": "2010",
+         "Footwear": "4610",
+         "Apparel": "1740",
+         "Equipment": "346"
+      },
+      {
+         "Year": "2009",
+         "Footwear": "4694",
+         "Apparel": "1740",
+         "Equipment": "344"
+      }
+   ]
+}

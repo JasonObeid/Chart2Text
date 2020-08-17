@@ -1,0 +1,60 @@
+{
+   "title": "Top U.S. states based on number of farms 2018",
+   "xAxis": "State",
+   "yAxis": "Number of farms",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. states the based Number 2018 from number as of 2018 . ",
+      "As of this time , Texas had the based number farms states 248000 deaths states number as the underlying cause of Number farms % ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "Texas",
+         "Number of farms": "248000"
+      },
+      {
+         "State": "Missouri",
+         "Number of farms": "95000"
+      },
+      {
+         "State": "Iowa",
+         "Number of farms": "86000"
+      },
+      {
+         "State": "Ohio",
+         "Number of farms": "77800"
+      },
+      {
+         "State": "Oklahoma",
+         "Number of farms": "77300"
+      },
+      {
+         "State": "Kentucky",
+         "Number of farms": "75100"
+      },
+      {
+         "State": "Illinois",
+         "Number of farms": "72000"
+      },
+      {
+         "State": "California",
+         "Number of farms": "69400"
+      },
+      {
+         "State": "Minnesota",
+         "Number of farms": "68500"
+      },
+      {
+         "State": "Wisconsin",
+         "Number of farms": "64800"
+      }
+   ]
+}

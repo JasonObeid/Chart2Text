@@ -1,0 +1,58 @@
+{
+   "title": "The most spoken languages worldwide\n",
+   "xAxis": "Languages",
+   "yAxis": "Native speaker in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Languages, and a y axis representing Native speaker in millions.",
+      " The highest category is found at Chinese where Native speaker in millions is 1311.0.",
+      " The lowest category is found at Lahnda where Native speaker in millions is 119.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "Languages": "Chinese",
+         "Native speaker in millions": 1311.0
+      },
+      {
+         "Languages": "Spanish",
+         "Native speaker in millions": 460.0
+      },
+      {
+         "Languages": "English",
+         "Native speaker in millions": 379.0
+      },
+      {
+         "Languages": "Hindi",
+         "Native speaker in millions": 341.0
+      },
+      {
+         "Languages": "Arabic",
+         "Native speaker in millions": 319.0
+      },
+      {
+         "Languages": "Bengali",
+         "Native speaker in millions": 228.0
+      },
+      {
+         "Languages": "Portuguese",
+         "Native speaker in millions": 221.0
+      },
+      {
+         "Languages": "Russian",
+         "Native speaker in millions": 154.0
+      },
+      {
+         "Languages": "Japanese",
+         "Native speaker in millions": 128.0
+      },
+      {
+         "Languages": "Lahnda",
+         "Native speaker in millions": 119.0
+      }
+   ]
+}

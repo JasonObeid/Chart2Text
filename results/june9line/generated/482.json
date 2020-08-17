@@ -1,0 +1,62 @@
+{
+   "title": "Stationery retail sales turnover in the United Kingdom ( UK ) 2008 to 207",
+   "xAxis": "Year",
+   "yAxis": "Turnover in million GBP",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Turnover million of the United Kingdom of from 2008 to 2017 . ",
+      "In 2017 , the Turnover million of the United Kingdom of amounted to approximately 4784 million GBP ."
+   ],
+   "trends": [
+      {
+         "12": "9",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Turnover in million GBP": "4784"
+      },
+      {
+         "Year": "2016",
+         "Turnover in million GBP": "4892"
+      },
+      {
+         "Year": "2015",
+         "Turnover in million GBP": "4372"
+      },
+      {
+         "Year": "2014",
+         "Turnover in million GBP": "4304"
+      },
+      {
+         "Year": "2013",
+         "Turnover in million GBP": "4620"
+      },
+      {
+         "Year": "2012",
+         "Turnover in million GBP": "4397"
+      },
+      {
+         "Year": "2011",
+         "Turnover in million GBP": "4432"
+      },
+      {
+         "Year": "2010",
+         "Turnover in million GBP": "4025"
+      },
+      {
+         "Year": "2009",
+         "Turnover in million GBP": "4423"
+      },
+      {
+         "Year": "2008",
+         "Turnover in million GBP": "4446"
+      }
+   ]
+}

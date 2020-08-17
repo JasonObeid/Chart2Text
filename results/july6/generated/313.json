@@ -1,0 +1,85 @@
+{
+   "title": "Leading hotel companies worldwide as of June 2019 , by number of properties",
+   "xAxis": "Month",
+   "yAxis": "Number of properties",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the leading 15 Month models according to the Auto Express Driver Power survey responses worldwide on Month June 2019 . ",
+      "The survey was carried properties by the British automotive magazine online between 2014 and 2015 . ",
+      "Wyndham_Hotel_Group dominated this category securing the top three spots with the Wyndham_Hotel_Group , Choice_Hotels_International and Marriott_International models as well having three other models in the top 15 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "0",
+         "11": "0",
+         "13": "1",
+         "16": "1",
+         "17": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Wyndham Hotel Group",
+         "Number of properties": "9157"
+      },
+      {
+         "Month": "Choice Hotels International",
+         "Number of properties": "7045"
+      },
+      {
+         "Month": "Marriott International",
+         "Number of properties": "7003"
+      },
+      {
+         "Month": "Hilton Worldwide",
+         "Number of properties": "5872"
+      },
+      {
+         "Month": "InterContinental Hotels Group (IHG)",
+         "Number of properties": "5656"
+      },
+      {
+         "Month": "Best Western Hotels & Resorts",
+         "Number of properties": "4008"
+      },
+      {
+         "Month": "G6 Hospitality",
+         "Number of properties": "1391"
+      },
+      {
+         "Month": "Radisson Hotel Group",
+         "Number of properties": "1179"
+      },
+      {
+         "Month": "RLH Corporation",
+         "Number of properties": "1167"
+      },
+      {
+         "Month": "Hyatt Hotels Corp.",
+         "Number of properties": "865"
+      },
+      {
+         "Month": "Aimbridge Hospitality",
+         "Number of properties": "834"
+      },
+      {
+         "Month": "Westmont Hospitality Group",
+         "Number of properties": "692"
+      },
+      {
+         "Month": "Red Roof",
+         "Number of properties": "637"
+      },
+      {
+         "Month": "Extended Stay America",
+         "Number of properties": "627"
+      },
+      {
+         "Month": "Interstate Hotels & Resorts",
+         "Number of properties": "479"
+      }
+   ]
+}

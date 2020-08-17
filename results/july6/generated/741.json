@@ -1,0 +1,44 @@
+{
+   "title": "Sales of Firehouse Subs in the U.S. 2014 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Sales ' Firehouse industry Subs and U.S. ( R & D ) Sales from 2014 to 2018 . ",
+      "In 2018 , the Sales on Firehouse R & D in the Sales came to some 794.0 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "18": "4",
+         "20": "0"
+      },
+      {
+         "1": "0",
+         "16": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in million U.S. dollars": "794.0"
+      },
+      {
+         "Year": "2017",
+         "Sales in million U.S. dollars": "715.9"
+      },
+      {
+         "Year": "2016",
+         "Sales in million U.S. dollars": "683.54"
+      },
+      {
+         "Year": "2015",
+         "Sales in million U.S. dollars": "648.53"
+      },
+      {
+         "Year": "2014",
+         "Sales in million U.S. dollars": "552.41"
+      }
+   ]
+}

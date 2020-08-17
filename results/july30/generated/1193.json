@@ -1,0 +1,30 @@
+{
+   "title": "U.S. Christmas lights energy costs\n",
+   "xAxis": "Lighting Type",
+   "yAxis": "Energy cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Lighting Type, and a y axis representing Energy cost in U.S. dollars.",
+      " The highest category is found at Standard_incandescent_lights_(125_lights_4_watts_each) where Energy cost in U.S. dollars is 27.21.",
+      " The lowest category is found at LED_lights_(280_lights_0.04_watts_each) where Energy cost in U.S. dollars is 0.06."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Lighting Type": "Standard incandescent lights (125 lights 4 watts each)",
+         "Energy cost in U.S. dollars": 27.21
+      },
+      {
+         "Lighting Type": "Mini-incandescent lights (300 lights 0.4 watts each)",
+         "Energy cost in U.S. dollars": 6.53
+      },
+      {
+         "Lighting Type": "LED lights (280 lights 0.04 watts each)",
+         "Energy cost in U.S. dollars": 0.06
+      }
+   ]
+}

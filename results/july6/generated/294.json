@@ -1,0 +1,87 @@
+{
+   "title": "Distribution of World of Warcraft Horde characters by class in 2019",
+   "labels": [
+      "unknown",
+      "US realms",
+      "EU realms"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows a Distribution of the World Warcraft Horde classes in the online computer game World Warcraft Horde of as 2019 . ",
+      "Approximately 11 % of all World Warcraft Horde characters in U.S. realms were Hunters . ",
+      "Overall in terms of 2019 the majority of players chose Hunters , and as for race , the most popular choice in the series was Human ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": [
+            "0",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "unknown": "Hunter",
+         "US realms": "11",
+         "EU realms": "10.2"
+      },
+      {
+         "unknown": "Warrior",
+         "US realms": "9.6",
+         "EU realms": "10.2"
+      },
+      {
+         "unknown": "Druid",
+         "US realms": "9.2",
+         "EU realms": "9.6"
+      },
+      {
+         "unknown": "Paladin",
+         "US realms": "8.9",
+         "EU realms": "8.6"
+      },
+      {
+         "unknown": "Death Knight",
+         "US realms": "8.6",
+         "EU realms": "8.4"
+      },
+      {
+         "unknown": "Mage",
+         "US realms": "8.6",
+         "EU realms": "8.7"
+      },
+      {
+         "unknown": "Warlock",
+         "US realms": "8.2",
+         "EU realms": "8.1"
+      },
+      {
+         "unknown": "Priest",
+         "US realms": "8",
+         "EU realms": "8"
+      },
+      {
+         "unknown": "Shaman",
+         "US realms": "8",
+         "EU realms": "8.3"
+      },
+      {
+         "unknown": "Rogue",
+         "US realms": "7.9",
+         "EU realms": "8"
+      },
+      {
+         "unknown": "Monk",
+         "US realms": "6.5",
+         "EU realms": "6.5"
+      },
+      {
+         "unknown": "Demon Hunter",
+         "US realms": "5.4",
+         "EU realms": "5.6"
+      }
+   ]
+}

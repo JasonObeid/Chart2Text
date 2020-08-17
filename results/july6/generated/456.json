@@ -1,0 +1,61 @@
+{
+   "title": "Largest U.S. Christian denominations 2010 , by number of adherents",
+   "xAxis": "Christian grouping",
+   "yAxis": "Number of followers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Number of followers E.L. James 's 'Fifty Christian of ' by in number Mainline_Protestant Catholic as of 2014 . ",
+      "The book by more than 1056535 million followers in Latter-day_Saints as of 2014 and a total of over 150686156 % Catholic . ",
+      "During a survey in 2016 , romance ranked third in a list of preferred e-book genres in the Evangelical_and_Conservative_Protestant ."
+   ],
+   "trends": [
+      {
+         "18": "2",
+         "19": "0"
+      },
+      {
+         "5": "5",
+         "9": "3",
+         "18": "7",
+         "20": "0"
+      },
+      {
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Christian grouping": "Catholic",
+         "Number of followers": "58928987"
+      },
+      {
+         "Christian grouping": "Evangelical and Conservative Protestant",
+         "Number of followers": "50013803"
+      },
+      {
+         "Christian grouping": "Mainline Protestant",
+         "Number of followers": "22655826"
+      },
+      {
+         "Christian grouping": "Latter-day Saints",
+         "Number of followers": "6267771"
+      },
+      {
+         "Christian grouping": "Black Protestant",
+         "Number of followers": "4877067"
+      },
+      {
+         "Christian grouping": "Orthodox Christian",
+         "Number of followers": "1056535"
+      },
+      {
+         "Christian grouping": "Other Faiths",
+         "Number of followers": "6667542"
+      },
+      {
+         "Christian grouping": "Total",
+         "Number of followers": "150686156"
+      }
+   ]
+}

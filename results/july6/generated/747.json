@@ -1,0 +1,40 @@
+{
+   "title": "United Kingdom tobacco imports : Leading 5 countries ranked by value 2019",
+   "xAxis": "Country",
+   "yAxis": "Import value in 1,000 GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the United Kingdom tobacco imports United Kingdom in 2019 . ",
+      "In 2019 , the most important Kingdom partner imports United Kingdom was Poland , accounting imports 203.88 % of all 1,000 ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Poland",
+         "Import value in 1,000 GBP": "203.88"
+      },
+      {
+         "Country": "Germany",
+         "Import value in 1,000 GBP": "107.07"
+      },
+      {
+         "Country": "Netherlands",
+         "Import value in 1,000 GBP": "94.13"
+      },
+      {
+         "Country": "Romania",
+         "Import value in 1,000 GBP": "21.27"
+      },
+      {
+         "Country": "Belgium",
+         "Import value in 1,000 GBP": "18.06"
+      }
+   ]
+}

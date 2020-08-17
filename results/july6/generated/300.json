@@ -1,0 +1,33 @@
+{
+   "title": "Snapchat usage penetration in the United States 2019 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Reach",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "According to a third quarter 2019 survey , 31 % of Male internet users in the United States used Snapchat . ",
+      "The video platform had a usage Reach of 16 % among Female States internet users . ",
+      "Overall , 38 % of States Snapchat users accessed the platform several times a day ."
+   ],
+   "trends": [
+      {
+         "8": "1",
+         "11": "0"
+      },
+      {
+         "8": "0",
+         "11": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Reach": "16"
+      },
+      {
+         "Sex": "Female",
+         "Reach": "31"
+      }
+   ]
+}

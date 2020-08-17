@@ -1,0 +1,112 @@
+{
+   "title": "Revenue of the Walt Disney Company 2010 - 2019 , by region",
+   "labels": [
+      "unknown",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Company of the Revenue Walt Disney in the Walt Disney Company ( ) from 2010 to 2019 , region . ",
+      "In 2019 , the largest Company was held region Latin_America_and_other United_States_and_Canada , accounting for 34021 % of the Revenue Walt Disney , followed region Asia_Pacific United_States_and_Canada ( 3333 % ) . ",
+      "The Disney Company of Revenue Walt types in the Walt Disney Company is predominantly made up of United_States_and_Canada , with the value of the Disney experiencing year on increases ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "3",
+            "0"
+         ],
+         "14": [
+            "3",
+            "4"
+         ],
+         "24": [
+            "1",
+            "0"
+         ],
+         "25": [
+            "3",
+            "0"
+         ],
+         "27": [
+            "1",
+            "4"
+         ]
+      },
+      {
+         "15": [
+            "3",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Latin America and other",
+         "2010": "914",
+         "2011": "1073",
+         "2012": "1295",
+         "2013": "1506",
+         "2014": "1609",
+         "2015": "1680",
+         "2016": "1720",
+         "2017": "1640",
+         "2018": "1839",
+         "2019": "3213"
+      },
+      {
+         "unknown": "Asia Pacific",
+         "2010": "2320",
+         "2011": "2517",
+         "2012": "2990",
+         "2013": "3333",
+         "2014": "3930",
+         "2015": "3958",
+         "2016": "4582",
+         "2017": "5075",
+         "2018": "5531",
+         "2019": "7796"
+      },
+      {
+         "unknown": "Europe",
+         "2010": "6550",
+         "2011": "6455",
+         "2012": "6223",
+         "2013": "6181",
+         "2014": "6505",
+         "2015": "6507",
+         "2016": "6714",
+         "2017": "6541",
+         "2018": "7026",
+         "2019": "8006"
+      },
+      {
+         "unknown": "United States and Canada",
+         "2010": "28279",
+         "2011": "30848",
+         "2012": "31770",
+         "2013": "34021",
+         "2014": "36769",
+         "2015": "40320",
+         "2016": "42616",
+         "2017": "41881",
+         "2018": "45038",
+         "2019": "50555"
+      }
+   ]
+}

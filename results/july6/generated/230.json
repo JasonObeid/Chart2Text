@@ -1,0 +1,66 @@
+{
+   "title": "Number of computers in households in Great Britain 2005 to 2013",
+   "labels": [
+      "Year",
+      "No computer",
+      "One computer",
+      "Two computers",
+      "Three+ computers"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number computers households Great in the Great Britain 2005 - 2013 , . ",
+      "30 % of the Dutch respondents aged 16 or 17 2013 reported that they believe households Great are a No ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": [
+            "4",
+            "1"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "No computer": "24",
+         "One computer": "37",
+         "Two computers": "21",
+         "Three+ computers": "18"
+      },
+      {
+         "Year": "2011",
+         "No computer": "24",
+         "One computer": "34",
+         "Two computers": "25",
+         "Three+ computers": "18"
+      },
+      {
+         "Year": "2009",
+         "No computer": "26",
+         "One computer": "41",
+         "Two computers": "20",
+         "Three+ computers": "13"
+      },
+      {
+         "Year": "2007",
+         "No computer": "28",
+         "One computer": "49",
+         "Two computers": "17",
+         "Three+ computers": "7"
+      },
+      {
+         "Year": "2005",
+         "No computer": "30",
+         "One computer": "53",
+         "Two computers": "11",
+         "Three+ computers": "5"
+      }
+   ]
+}

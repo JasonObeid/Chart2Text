@@ -1,0 +1,33 @@
+{
+   "title": "Facebook usage reach in the United States 2019 , by education",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the preferred United States for usage reach according to internet users in the Facebook in 2019 . ",
+      "During the survey period , it was found that 75 % of respondents most frequently used a Some_college High_school_or_less to pay for usage purchases ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "17": "1",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "High school or less",
+         "Share of respondents": "61"
+      },
+      {
+         "Response": "Some college",
+         "Share of respondents": "75"
+      },
+      {
+         "Response": "College +",
+         "Share of respondents": "74"
+      }
+   ]
+}

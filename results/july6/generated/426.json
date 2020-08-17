@@ -1,0 +1,113 @@
+{
+   "title": "Distribution of gross domestic product ( GDP ) across economic sectors Lithuania 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Distribution of the gross domestic product ( GDP ) across economic sectors in Lithuania from 2008 to 2018 . ",
+      "In 2018 , Agriculture contributed around 2.91 % to the GDP of Lithuania , 25.52 % came from the Industry and 61.44 % from the Services sector ."
+   ],
+   "trends": [
+      {
+         "19": [
+            "10",
+            "0"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "0",
+            "2"
+         ],
+         "21": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "2.91",
+         "Industry": "25.52",
+         "Services": "61.44"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "3.51",
+         "Industry": "25.88",
+         "Services": "60.45"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "3.11",
+         "Industry": "25.91",
+         "Services": "60.98"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "3.42",
+         "Industry": "26.65",
+         "Services": "59.97"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "3.42",
+         "Industry": "27.43",
+         "Services": "59.57"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "3.55",
+         "Industry": "27.35",
+         "Services": "59.75"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "3.99",
+         "Industry": "27.98",
+         "Services": "58.48"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "3.5",
+         "Industry": "28.04",
+         "Services": "58.48"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "3.03",
+         "Industry": "26.19",
+         "Services": "60.7"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "2.53",
+         "Industry": "25.06",
+         "Services": "62.63"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "3.28",
+         "Industry": "29.19",
+         "Services": "57.29"
+      }
+   ]
+}

@@ -1,0 +1,107 @@
+{
+   "title": "U.S. peanut production volume 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the amount of U.S. produced in the U.S. from 2000 to 2019 . ",
+      "In 2019 , more than 7115410 thousand pounds of U.S. were produced in the production . ",
+      "China was the largest U.S. producer worldwide in 2018 ."
+   ],
+   "trends": [
+      {
+         "12": "19",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "5": "2"
+      },
+      {
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in thousand pounds": "5496087"
+      },
+      {
+         "Year": "2018",
+         "Production in thousand pounds": "5461600"
+      },
+      {
+         "Year": "2017",
+         "Production in thousand pounds": "7115410"
+      },
+      {
+         "Year": "2016",
+         "Production in thousand pounds": "5684610"
+      },
+      {
+         "Year": "2015",
+         "Production in thousand pounds": "6001357"
+      },
+      {
+         "Year": "2014",
+         "Production in thousand pounds": "5188665"
+      },
+      {
+         "Year": "2013",
+         "Production in thousand pounds": "4173170"
+      },
+      {
+         "Year": "2012",
+         "Production in thousand pounds": "6753880"
+      },
+      {
+         "Year": "2011",
+         "Production in thousand pounds": "3658590"
+      },
+      {
+         "Year": "2010",
+         "Production in thousand pounds": "4156840"
+      },
+      {
+         "Year": "2009",
+         "Production in thousand pounds": "3691650"
+      },
+      {
+         "Year": "2008",
+         "Production in thousand pounds": "5162400"
+      },
+      {
+         "Year": "2007",
+         "Production in thousand pounds": "3672250"
+      },
+      {
+         "Year": "2006",
+         "Production in thousand pounds": "3464250"
+      },
+      {
+         "Year": "2005",
+         "Production in thousand pounds": "4869860"
+      },
+      {
+         "Year": "2004",
+         "Production in thousand pounds": "4288200"
+      },
+      {
+         "Year": "2003",
+         "Production in thousand pounds": "4144150"
+      },
+      {
+         "Year": "2002",
+         "Production in thousand pounds": "3321040"
+      },
+      {
+         "Year": "2001",
+         "Production in thousand pounds": "4276704"
+      },
+      {
+         "Year": "2000",
+         "Production in thousand pounds": "3265505"
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "title": "Reasons for unreported vandalism against businesses in England and Wales 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among 559 industrial enterprises on their opinion on the Reasons nation in England vandalism as of 2018 . ",
+      "13 % of respondents stated Private/dealt_with_ourselves was currently the Reasons Response in England vandalism ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "2",
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Trivial/no loss",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Lack of police engagement",
+         "Share of respondents": "40"
+      },
+      {
+         "Response": "Private/dealt with ourselves",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "Lack of evidence",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Reported to other authorities",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Inconvenient to report",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Police came",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Common occurrence",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Fear of reprisal",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "6"
+      }
+   ]
+}

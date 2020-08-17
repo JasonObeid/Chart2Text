@@ -1,0 +1,47 @@
+{
+   "title": "Comic book reading by young people in the United Kingdom ( UK ) 2005 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "graphType": "line",
+   "summary": [
+      "This statistic gives information on the book reading of by young in United Kingdom as of 2019 . ",
+      "During this period of time , it was found that 50.6 % of by young in the Latin American country were aged between 25 and 34 2015 ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "6",
+         "26": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Share of respondents": "26.3"
+      },
+      {
+         "Year": "2014",
+         "Share of respondents": "28.6"
+      },
+      {
+         "Year": "2013",
+         "Share of respondents": "27.3"
+      },
+      {
+         "Year": "2012",
+         "Share of respondents": "25.1"
+      },
+      {
+         "Year": "2011",
+         "Share of respondents": "27.9"
+      },
+      {
+         "Year": "2010",
+         "Share of respondents": "26.8"
+      },
+      {
+         "Year": "2005",
+         "Share of respondents": "50.6"
+      }
+   ]
+}

@@ -1,0 +1,42 @@
+{
+   "title": "U.S. Amazon Prime membership penetration 2018 , by income",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "graphType": "line",
+   "summary": [
+      "The greatest Share of passengers at by income waited between 31.7 to five minutes to be penetration screened . ",
+      "Only 55.7 % stated that they had queued membership longer than six minutes , although none of the respondents waited membership longer than 30 minutes . ",
+      "85 % of passengers at by income were satisfied with their penetration 2018 experience ."
+   ],
+   "trends": [
+      {
+         "10": "0"
+      },
+      {
+         "1": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "Less than 35K USD",
+         "Share of respondents": "31.7"
+      },
+      {
+         "Year": "35000 - 74999 USD",
+         "Share of respondents": "41.6"
+      },
+      {
+         "Year": "75000 USD and over",
+         "Share of respondents": "55.7"
+      },
+      {
+         "Year": "100000 USD and over",
+         "Share of respondents": "58.5"
+      },
+      {
+         "Year": "150000 USD and over",
+         "Share of respondents": "63.3"
+      }
+   ]
+}

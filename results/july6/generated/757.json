@@ -1,0 +1,115 @@
+{
+   "title": "Economic sector breakdown of the workforce in China 2008 to 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Manufacturing",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Economic of the sector breakdown workforce China in the China from 2008 to 2018 . ",
+      "In 2018 , 202.58 % of the sector were employed in Agriculture , 213.9 % in Manufacturing and 359.38 % in Services . ",
+      "The same Year , the total UK population amounted to about 62.3 million people ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "10",
+            "0"
+         ],
+         "17": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "0",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "202.58",
+         "Manufacturing": "213.9",
+         "Services": "359.38"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "209.44",
+         "Manufacturing": "218.24",
+         "Services": "348.72"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "214.96",
+         "Manufacturing": "223.5",
+         "Services": "337.57"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "219.19",
+         "Manufacturing": "226.93",
+         "Services": "328.39"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "227.9",
+         "Manufacturing": "230.99",
+         "Services": "313.64"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "241.71",
+         "Manufacturing": "231.7",
+         "Services": "296.36"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "257.73",
+         "Manufacturing": "232.41",
+         "Services": "276.9"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "265.94",
+         "Manufacturing": "225.44",
+         "Services": "272.82"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "279.31",
+         "Manufacturing": "218.42",
+         "Services": "263.32"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "288.9",
+         "Manufacturing": "210.8",
+         "Services": "258.57"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "299.23",
+         "Manufacturing": "205.53",
+         "Services": "250.87"
+      }
+   ]
+}

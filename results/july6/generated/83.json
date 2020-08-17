@@ -1,0 +1,50 @@
+{
+   "title": "Consumption of pork in India 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Consumption in thousand metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "Over 354.1 thousand metric tons of pork India was consumed across India in 2013 . ",
+      "There was a gradual increase in the Consumption of this variety of India . ",
+      "Chicken was arguably the most popular pork India consumed in the country ."
+   ],
+   "trends": [
+      {
+         "1": "6",
+         "13": "6"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Consumption in thousand metric tons": "294.39"
+      },
+      {
+         "Year": "2018",
+         "Consumption in thousand metric tons": "300.9"
+      },
+      {
+         "Year": "2017",
+         "Consumption in thousand metric tons": "306.35"
+      },
+      {
+         "Year": "2016",
+         "Consumption in thousand metric tons": "316.52"
+      },
+      {
+         "Year": "2015",
+         "Consumption in thousand metric tons": "344.16"
+      },
+      {
+         "Year": "2014",
+         "Consumption in thousand metric tons": "350.44"
+      },
+      {
+         "Year": "2013",
+         "Consumption in thousand metric tons": "354.1"
+      }
+   ]
+}

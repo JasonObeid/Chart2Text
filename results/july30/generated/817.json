@@ -1,0 +1,58 @@
+{
+   "title": "International overnight visitors in European city destinations in 2016\n",
+   "xAxis": "City",
+   "yAxis": "Number of international overnight visitors in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing City, and a y axis representing Number of international overnight visitors in millions.",
+      " The highest category is found at London where Number of international overnight visitors in millions is 19.06.",
+      " The lowest category is found at Dublin where Number of international overnight visitors in millions is 5.51."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 9
+   },
+   "data": [
+      {
+         "City": "London",
+         "Number of international overnight visitors in millions": 19.06
+      },
+      {
+         "City": "Paris",
+         "Number of international overnight visitors in millions": 15.45
+      },
+      {
+         "City": "Istanbul",
+         "Number of international overnight visitors in millions": 9.16
+      },
+      {
+         "City": "Barcelona",
+         "Number of international overnight visitors in millions": 8.36
+      },
+      {
+         "City": "Amsterdam",
+         "Number of international overnight visitors in millions": 8.36
+      },
+      {
+         "City": "Milan",
+         "Number of international overnight visitors in millions": 8.17
+      },
+      {
+         "City": "Rome",
+         "Number of international overnight visitors in millions": 7.09
+      },
+      {
+         "City": "Vienna",
+         "Number of international overnight visitors in millions": 6.42
+      },
+      {
+         "City": "Prague",
+         "Number of international overnight visitors in millions": 6.11
+      },
+      {
+         "City": "Dublin",
+         "Number of international overnight visitors in millions": 5.51
+      }
+   ]
+}

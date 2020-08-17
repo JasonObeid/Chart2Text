@@ -1,0 +1,35 @@
+{
+   "title": "Perceptions of social classes in Italy 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "In 2019 , some 10 % of respondents stated they will probably 2019 on that year , while almost half of all respondents stated they probably wo n't . ",
+      "Is romance really dead ? 2019 is generally considered the most romantic 2019 of the year , which people use to give flowers and tokens of appreciation to loved ones . ",
+      "About half of the American population celebrate 2019 , but this fact does Lower_class infer that the same Share of the population is taken or in love ; in fact , a certain Share of respondents rather bought 2019 presents for their pets last year rather than a significant other , and another significant Share of respondents spent the 2019 alone , with colleagues , friends or with family , rather than with a spouse or a partner ."
+   ],
+   "trends": [
+      {
+         "4": "0"
+      },
+      {},
+      {
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Upper class",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Middle class",
+         "Share of respondents": "52"
+      },
+      {
+         "Response": "Lower class",
+         "Share of respondents": "37"
+      }
+   ]
+}

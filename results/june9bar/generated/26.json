@@ -1,0 +1,47 @@
+{
+   "title": "U.S. mobile payment app usage 2016",
+   "xAxis": "Payment Method",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the mobile payment app of internet users in the U.S. as of 2017 , sorted by Payment . ",
+      "During the survey period of time , 18 % of respondents were Android_Pay ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Payment Method": "Android Pay",
+         "Share of respondents": "18"
+      },
+      {
+         "Payment Method": "Retailer mobile app",
+         "Share of respondents": "12"
+      },
+      {
+         "Payment Method": "Apple Pay",
+         "Share of respondents": "11"
+      },
+      {
+         "Payment Method": "Samsung Pay",
+         "Share of respondents": "3"
+      },
+      {
+         "Payment Method": "MasterPass",
+         "Share of respondents": "2"
+      },
+      {
+         "Payment Method": "CurrenC",
+         "Share of respondents": "1"
+      },
+      {
+         "Payment Method": "Windows Phone Wallet",
+         "Share of respondents": "1"
+      }
+   ]
+}

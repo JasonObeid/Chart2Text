@@ -1,0 +1,50 @@
+{
+   "title": "Airbus and Boeing - key figures 2019",
+   "labels": [
+      "unknown",
+      "Airbus",
+      "Boeing"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts the number of Airbus Boeing figures and key 2019 that were in operation as of year-end 2019 . ",
+      "At that moment , the company key 863 Deliveries Net_orders . ",
+      "Airbus , which is short for the full name Petr\u00f3leo Brasileiro S.A. , is a Brazilian multinational energy corporation ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "2",
+            "1"
+         ],
+         "8": [
+            "2",
+            "0"
+         ],
+         "9": [
+            "1",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "unknown": "Gross orders",
+         "Airbus": "1131",
+         "Boeing": "250"
+      },
+      {
+         "unknown": "Net orders",
+         "Airbus": "768",
+         "Boeing": "-87"
+      },
+      {
+         "unknown": "Deliveries",
+         "Airbus": "863",
+         "Boeing": "380"
+      }
+   ]
+}

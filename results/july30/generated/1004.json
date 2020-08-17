@@ -1,0 +1,26 @@
+{
+   "title": "Circulation of the Arizona Republic 2018\n",
+   "xAxis": "Day",
+   "yAxis": "Circulation",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Day, and a y axis representing Circulation.",
+      " The highest category is found at Sunday where Circulation is 378602.0.",
+      " The lowest category is found at Daily where Circulation is 130283.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Day": "Sunday",
+         "Circulation": 378602.0
+      },
+      {
+         "Day": "Daily",
+         "Circulation": 130283.0
+      }
+   ]
+}

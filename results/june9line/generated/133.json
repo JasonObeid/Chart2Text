@@ -1,0 +1,75 @@
+{
+   "title": "Number of road deaths in Switzerland 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "graphType": "line",
+   "summary": [
+      "There were 233 reported road deaths in Switzerland 2018 . ",
+      "This was a slight increase compared to the previous Year , but an increase of 14 incidents compared to the low reported in 2014 . ",
+      "The Northern European island state is known for enforcing a strict road safety policy in order to ensure the security of its residents and tourists in the country ."
+   ],
+   "trends": [
+      {
+         "2": "0",
+         "9": "0"
+      },
+      {
+         "23": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": "233"
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": "230"
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": "216"
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": "253"
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": "243"
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": "269"
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": "339"
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": "320"
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": "327"
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": "349"
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": "357"
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": "384"
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": "370"
+      }
+   ]
+}

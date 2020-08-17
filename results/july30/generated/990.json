@@ -1,0 +1,103 @@
+{
+   "title": "Number of divorces in Sweden 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of divorces",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of divorces, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is  positive which exists from 2017 to 2013.",
+      " Similarly, the next significant trend is  negative which exists from 2013 to 2011.",
+      " Conversely, the next significant trend is  negative which exists from 2010 to 2008.",
+      " Conversely, the next significant trend is  negative which exists from 2018 to 2017.",
+      " Contrarily, the next significant trend is  positive which exists from 2011 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "positive",
+         "start": 1,
+         "end": 5,
+         "trend": "y=-733.1x+1502480.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 5,
+         "end": 7,
+         "trend": "y=1024.5x+-2035686.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=1285.5x+-2558814.5",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 0,
+         "end": 1,
+         "trend": "y=748.0x+-1484506.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 7,
+         "end": 8,
+         "trend": "y=-267.0x+561821.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of divorces": 24958.0
+      },
+      {
+         "Year": "2017",
+         "Number of divorces": 24210.0
+      },
+      {
+         "Year": "2016",
+         "Number of divorces": 24258.0
+      },
+      {
+         "Year": "2015",
+         "Number of divorces": 24876.0
+      },
+      {
+         "Year": "2014",
+         "Number of divorces": 26143.0
+      },
+      {
+         "Year": "2013",
+         "Number of divorces": 26933.0
+      },
+      {
+         "Year": "2012",
+         "Number of divorces": 25005.0
+      },
+      {
+         "Year": "2011",
+         "Number of divorces": 24884.0
+      },
+      {
+         "Year": "2010",
+         "Number of divorces": 25151.0
+      },
+      {
+         "Year": "2009",
+         "Number of divorces": 23534.0
+      },
+      {
+         "Year": "2008",
+         "Number of divorces": 22580.0
+      }
+   ]
+}

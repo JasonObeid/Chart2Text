@@ -1,0 +1,30 @@
+{
+   "title": "Frequency of American families having dinner together at home 2013\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at 6_to_7_nights where Share of respondents is 53.0.",
+      " The lowest category is found at 0_to_3_nights where Share of respondents is 21.0."
+   ],
+   "trends": {
+      "maxIndex": 2,
+      "minIndex": 0
+   },
+   "data": [
+      {
+         "Response": "0 to 3 nights",
+         "Share of respondents": 21.0
+      },
+      {
+         "Response": "4 to 5 nights",
+         "Share of respondents": 28.0
+      },
+      {
+         "Response": "6 to 7 nights",
+         "Share of respondents": 53.0
+      }
+   ]
+}

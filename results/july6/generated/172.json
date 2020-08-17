@@ -1,0 +1,67 @@
+{
+   "title": "Total Apple App Store iOS developer payout 2014 to 2020",
+   "xAxis": "Month",
+   "yAxis": "Cumulative developer payout in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic gives information on the Cumulative of developer payout in Apple App Store 2014 , broken down developer payout . ",
+      "In 2014 , more than 100 billion of Brazilian developer payout were developer ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jan '20",
+         "Cumulative developer payout in billion U.S. dollars": "155"
+      },
+      {
+         "Month": "Jan '19",
+         "Cumulative developer payout in billion U.S. dollars": "120"
+      },
+      {
+         "Month": "Jun '18",
+         "Cumulative developer payout in billion U.S. dollars": "100"
+      },
+      {
+         "Month": "Jan '18",
+         "Cumulative developer payout in billion U.S. dollars": "86"
+      },
+      {
+         "Month": "Jun '17",
+         "Cumulative developer payout in billion U.S. dollars": "70"
+      },
+      {
+         "Month": "Jan '17",
+         "Cumulative developer payout in billion U.S. dollars": "60"
+      },
+      {
+         "Month": "Jun '16",
+         "Cumulative developer payout in billion U.S. dollars": "50"
+      },
+      {
+         "Month": "Jan '16",
+         "Cumulative developer payout in billion U.S. dollars": "40"
+      },
+      {
+         "Month": "Aug '15",
+         "Cumulative developer payout in billion U.S. dollars": "33"
+      },
+      {
+         "Month": "Jan '15",
+         "Cumulative developer payout in billion U.S. dollars": "25"
+      },
+      {
+         "Month": "Jul '14",
+         "Cumulative developer payout in billion U.S. dollars": "20"
+      },
+      {
+         "Month": "Jan '14",
+         "Cumulative developer payout in billion U.S. dollars": "15"
+      }
+   ]
+}

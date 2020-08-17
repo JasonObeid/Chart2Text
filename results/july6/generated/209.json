@@ -1,0 +1,82 @@
+{
+   "title": "Consumer spending in the United Kingdom ( UK ) 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Expenditure in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total annual Expenditure on Consumer and furnishings in the United Kingdom from 2005 to 2018 , based on volume . ",
+      "In 2018 , UK households purchased approximately 19.1 million British pounds worth of Consumer and furnishings , an increase on the previous Year of roughly one and a half million British pounds . ",
+      "According to results of the 2017 Statista Global Consumer survey , 24 million of UK consumers have bought Consumer and household goods online in the last 12 months , while 33 million claim to mostly look online for information about these products ."
+   ],
+   "trends": [
+      {
+         "15": "13",
+         "17": "0"
+      },
+      {
+         "1": "0"
+      },
+      {
+         "5": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Expenditure in million GBP": "1341849"
+      },
+      {
+         "Year": "2017",
+         "Expenditure in million GBP": "1288984"
+      },
+      {
+         "Year": "2016",
+         "Expenditure in million GBP": "1235247"
+      },
+      {
+         "Year": "2015",
+         "Expenditure in million GBP": "1178915"
+      },
+      {
+         "Year": "2014",
+         "Expenditure in million GBP": "1142350"
+      },
+      {
+         "Year": "2013",
+         "Expenditure in million GBP": "1097963"
+      },
+      {
+         "Year": "2012",
+         "Expenditure in million GBP": "1052306"
+      },
+      {
+         "Year": "2011",
+         "Expenditure in million GBP": "1012673"
+      },
+      {
+         "Year": "2010",
+         "Expenditure in million GBP": "983196"
+      },
+      {
+         "Year": "2009",
+         "Expenditure in million GBP": "959219"
+      },
+      {
+         "Year": "2008",
+         "Expenditure in million GBP": "984020"
+      },
+      {
+         "Year": "2007",
+         "Expenditure in million GBP": "952873"
+      },
+      {
+         "Year": "2006",
+         "Expenditure in million GBP": "911678"
+      },
+      {
+         "Year": "2005",
+         "Expenditure in million GBP": "873079"
+      }
+   ]
+}

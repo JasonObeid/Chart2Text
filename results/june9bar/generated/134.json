@@ -1,0 +1,40 @@
+{
+   "title": "Michelin - worldwide number of employees by region 2018",
+   "xAxis": "Region",
+   "yAxis": "Number of employees",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the worldwide of employees at Michelin agricultural company in 2018 , employees Region . ",
+      "In Asia_(excl._India) North_America , the company employed approximately 15259 % of the total people working for Michelin ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "2": "1",
+         "8": "2"
+      }
+   ],
+   "data": [
+      {
+         "Region": "Europe",
+         "Number of employees": "70599"
+      },
+      {
+         "Region": "North America",
+         "Number of employees": "21541"
+      },
+      {
+         "Region": "Asia (excl. India)",
+         "Number of employees": "15259"
+      },
+      {
+         "Region": "South America",
+         "Number of employees": "8166"
+      },
+      {
+         "Region": "Africa India Middle-East",
+         "Number of employees": "1848"
+      }
+   ]
+}

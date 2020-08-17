@@ -1,0 +1,67 @@
+{
+   "title": "Earthquakes that caused the most economic damage in the U.S. 1900 to 2016",
+   "xAxis": "Date, Location",
+   "yAxis": "Damage in million U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Earthquakes that caused most of U.S. damage as of 2013 . ",
+      "As of that Date, January_17_1994_Los_Angeles had a total of around 30000 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Date, Location": "January 17 1994 Los Angeles",
+         "Damage in million U.S. dollars": "30000"
+      },
+      {
+         "Date, Location": "October 18 1989 San Francisco",
+         "Damage in million U.S. dollars": "5600"
+      },
+      {
+         "Date, Location": "February 28 2001 Seattle",
+         "Damage in million U.S. dollars": "2000"
+      },
+      {
+         "Date, Location": "March 28 1964 Prince William Sound",
+         "Damage in million U.S. dollars": "1020"
+      },
+      {
+         "Date, Location": "August 24 2014 San Francisco California",
+         "Damage in million U.S. dollars": "700"
+      },
+      {
+         "Date, Location": "February 9 1971 Los Angeles",
+         "Damage in million U.S. dollars": "535"
+      },
+      {
+         "Date, Location": "April 18 1906 San Francisco",
+         "Damage in million U.S. dollars": "524"
+      },
+      {
+         "Date, Location": "October 1 1987 Los Angeles",
+         "Damage in million U.S. dollars": "213"
+      },
+      {
+         "Date, Location": "December 22 2003 San Robbles (California)",
+         "Damage in million U.S. dollars": "200"
+      },
+      {
+         "Date, Location": "October 15 2006 Hawai Island",
+         "Damage in million U.S. dollars": "150"
+      },
+      {
+         "Date, Location": "June 28 1992 Landers California",
+         "Damage in million U.S. dollars": "100"
+      },
+      {
+         "Date, Location": "April 22 1992 South California",
+         "Damage in million U.S. dollars": "100"
+      }
+   ]
+}

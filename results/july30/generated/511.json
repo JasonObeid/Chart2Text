@@ -1,0 +1,90 @@
+{
+   "title": "Average ticket price Miami Heat ( NBA ) games 2015/16\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2013/14 to 2009/10.",
+      " On the other hand, the next significant trend is  neutral which exists from 2009/10 to 2006/07.",
+      " On the other hand, the next significant trend is  positive which exists from 2015/16 to 2014/15.",
+      " Similarly, the next significant trend is  neutral which exists from 2014/15 to 2013/14."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 2,
+         "end": 6,
+         "trend": "y=5.15x+-10289.28",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "neutral",
+         "start": 6,
+         "end": 9,
+         "trend": "y=0.6x+-1146.45",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=-1.57x+3240.28",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 1,
+         "end": 2,
+         "trend": "y=0.0x+78.3",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": 76.73
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 78.3
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 78.3
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 72.5
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 67.0
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 60.5
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 58.55
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 58.55
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 58.55
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 56.55
+      }
+   ]
+}

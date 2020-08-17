@@ -1,0 +1,69 @@
+{
+   "title": "Skype usage reach in the United States 2018 , by age group\n",
+   "xAxis": "Year",
+   "yAxis": "Reach",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Reach, with a total of 7 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 25-34 to 55-64.",
+      " Differently, the next significant trend is  positive which exists from 55-64 to 75+.",
+      " Likewise, the next significant trend is  positive which exists from 18-24 to 25-34."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 1,
+         "end": 4,
+         "trend": "y=-0.01x+74.08",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 4,
+         "end": 6,
+         "trend": "y=0.0x+15.93",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=0.0x+48.43",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-24",
+         "Reach": 51.0
+      },
+      {
+         "Year": "25-34",
+         "Reach": 52.0
+      },
+      {
+         "Year": "35-44",
+         "Reach": 42.0
+      },
+      {
+         "Year": "45-54",
+         "Reach": 33.0
+      },
+      {
+         "Year": "55-64",
+         "Reach": 25.0
+      },
+      {
+         "Year": "65-75",
+         "Reach": 26.0
+      },
+      {
+         "Year": "75+",
+         "Reach": 16.0
+      }
+   ]
+}

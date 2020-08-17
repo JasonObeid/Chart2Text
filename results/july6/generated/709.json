@@ -1,0 +1,115 @@
+{
+   "title": "U.S. usage reach of leading social networks 2017 , by age group",
+   "labels": [
+      "Platform",
+      "Age 18-29",
+      "Age 30-59",
+      "Age 60+"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents a ranking of the U.S. usage mobile Google+ leading in the U.S. as of 2018 . ",
+      "During the survey period , 81 % of respondents stated that they used their mobile to LinkedIn or one to 1 30-59 18-29 ."
+   ],
+   "trends": [
+      {
+         "10": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "5": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "3",
+            "0"
+         ],
+         "18": [
+            "3",
+            "0"
+         ],
+         "21": [
+            "5",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Age 18-29": "86",
+         "Age 30-59": "81",
+         "Age 60+": "67"
+      },
+      {
+         "Platform": "Google+",
+         "Age 18-29": "26",
+         "Age 30-59": "23",
+         "Age 60+": "9"
+      },
+      {
+         "Platform": "Instagram",
+         "Age 18-29": "58",
+         "Age 30-59": "31",
+         "Age 60+": "7"
+      },
+      {
+         "Platform": "LinkedIn",
+         "Age 18-29": "19",
+         "Age 30-59": "21",
+         "Age 60+": "15"
+      },
+      {
+         "Platform": "Pinterest",
+         "Age 18-29": "37",
+         "Age 30-59": "28",
+         "Age 60+": "20"
+      },
+      {
+         "Platform": "Reddit",
+         "Age 18-29": "15",
+         "Age 30-59": "5",
+         "Age 60+": "1"
+      },
+      {
+         "Platform": "Snapchat",
+         "Age 18-29": "45",
+         "Age 30-59": "16",
+         "Age 60+": "1"
+      },
+      {
+         "Platform": "Tumblr",
+         "Age 18-29": "21",
+         "Age 30-59": "7",
+         "Age 60+": "2"
+      },
+      {
+         "Platform": "Twitter",
+         "Age 18-29": "47",
+         "Age 30-59": "39",
+         "Age 60+": "16"
+      },
+      {
+         "Platform": "YouTube",
+         "Age 18-29": "71",
+         "Age 30-59": "52",
+         "Age 60+": "25"
+      },
+      {
+         "Platform": "Other",
+         "Age 18-29": "1",
+         "Age 30-59": "1",
+         "Age 60+": "1"
+      },
+      {
+         "Platform": "I don\u2019t use social media",
+         "Age 18-29": "2",
+         "Age 30-59": "9",
+         "Age 60+": "27"
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Leading U.S. accounting firms by U.S. revenue 2018",
+   "xAxis": "Firm (Headquarters, Fiscal Year End)",
+   "yAxis": "Revenue in the U.S. in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the leading 15 Firm models according to the Auto Express Driver Power 2018 survey responses firms on Firm by U.S.",
+      "The survey was carried U.S. by the British automotive magazine online between 2014 and 2015 . ",
+      "Deloitte_LLP(New_York_May) dominated this category securing the top three spots with the Deloitte_LLP(New_York_May) , PwC_U.S.(New_York_June) and Ernst_&_Young_LLP(New_York_June) models as well having three other models in the top 15 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "0",
+         "11": "0",
+         "13": "1",
+         "16": "1",
+         "17": "2"
+      }
+   ],
+   "data": [
+      {
+         "Firm (Headquarters, Fiscal Year End)": "Deloitte LLP(New York May)",
+         "Revenue in the U.S. in billion U.S. dollars": "19.9"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "PwC U.S.(New York June)",
+         "Revenue in the U.S. in billion U.S. dollars": "15.4"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "Ernst & Young LLP(New York June)",
+         "Revenue in the U.S. in billion U.S. dollars": "14.0"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "KPMG LLP(New York September)",
+         "Revenue in the U.S. in billion U.S. dollars": "9.46"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "RSM U.S.(Chicago April)",
+         "Revenue in the U.S. in billion U.S. dollars": "2.14"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "Grant Thornton LLP(Chicago December)",
+         "Revenue in the U.S. in billion U.S. dollars": "1.87"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "BDO USA LLP(Chicago June )",
+         "Revenue in the U.S. in billion U.S. dollars": "1.47"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "CliftonLarsonAllen LLP (December)",
+         "Revenue in the U.S. in billion U.S. dollars": "0.95"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "Crowe Horwath LLP/(Chicago December)",
+         "Revenue in the U.S. in billion U.S. dollars": "0.92"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "CBIZ & Mayer Hoffman McCann PC(Cleveland December)",
+         "Revenue in the U.S. in billion U.S. dollars": "0.78"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "Moss Adams LLP(Seattle December)",
+         "Revenue in the U.S. in billion U.S. dollars": "0.69"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "CohnReznick LLP(New York January)",
+         "Revenue in the U.S. in billion U.S. dollars": "0.65"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "BKD LLP(Springfield Mo. May)",
+         "Revenue in the U.S. in billion U.S. dollars": "0.59"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "Baker Tilly Virchow Krause LLP(Chicago May)",
+         "Revenue in the U.S. in billion U.S. dollars": "0.58"
+      },
+      {
+         "Firm (Headquarters, Fiscal Year End)": "Marcum LLP(New York December)",
+         "Revenue in the U.S. in billion U.S. dollars": "0.55"
+      }
+   ]
+}

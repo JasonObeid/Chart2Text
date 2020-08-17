@@ -1,0 +1,56 @@
+{
+   "title": "Number of e-mails per day worldwide 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "E-mails sent and received in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic provides information on the E-mails of sent received in Number from 2017 to 2023 . ",
+      "In 2017 , Number had 269.0 billions sent received . ",
+      "This figure is projected to grow 347.3 billions sent received in 2023 ."
+   ],
+   "trends": [
+      {
+         "13": "6",
+         "15": "0"
+      },
+      {
+         "1": "6",
+         "5": "6"
+      },
+      {
+         "7": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "E-mails sent and received in billions": "347.3"
+      },
+      {
+         "Year": "2022",
+         "E-mails sent and received in billions": "333.2"
+      },
+      {
+         "Year": "2021",
+         "E-mails sent and received in billions": "319.6"
+      },
+      {
+         "Year": "2020",
+         "E-mails sent and received in billions": "306.4"
+      },
+      {
+         "Year": "2019",
+         "E-mails sent and received in billions": "293.6"
+      },
+      {
+         "Year": "2018",
+         "E-mails sent and received in billions": "281.1"
+      },
+      {
+         "Year": "2017",
+         "E-mails sent and received in billions": "269.0"
+      }
+   ]
+}

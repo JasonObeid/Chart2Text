@@ -1,0 +1,83 @@
+{
+   "title": "Selected European countries ranked by retail banking customer satisfaction 2016",
+   "xAxis": "Country",
+   "yAxis": "Share of customers with positive experience",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of the customers positive ranked by retail banking customer satisfaction as of 2020 . ",
+      "In that year , Selected European countries ranked was Netherlands , with an Share of 70.6 customers positive of 66 experience ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Netherlands",
+         "Share of customers with positive experience": "70.6"
+      },
+      {
+         "Country": "Czech Republic",
+         "Share of customers with positive experience": "67"
+      },
+      {
+         "Country": "Austria",
+         "Share of customers with positive experience": "66.8"
+      },
+      {
+         "Country": "Switzerland",
+         "Share of customers with positive experience": "64.8"
+      },
+      {
+         "Country": "Portugal",
+         "Share of customers with positive experience": "63"
+      },
+      {
+         "Country": "Germany",
+         "Share of customers with positive experience": "62.3"
+      },
+      {
+         "Country": "Poland",
+         "Share of customers with positive experience": "61.6"
+      },
+      {
+         "Country": "Sweden",
+         "Share of customers with positive experience": "60.7"
+      },
+      {
+         "Country": "Italy",
+         "Share of customers with positive experience": "59.5"
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of customers with positive experience": "58.4"
+      },
+      {
+         "Country": "Finland",
+         "Share of customers with positive experience": "58.2"
+      },
+      {
+         "Country": "Belgium",
+         "Share of customers with positive experience": "56.7"
+      },
+      {
+         "Country": "Denmark",
+         "Share of customers with positive experience": "55.9"
+      },
+      {
+         "Country": "Norway",
+         "Share of customers with positive experience": "53.9"
+      },
+      {
+         "Country": "France",
+         "Share of customers with positive experience": "52.3"
+      },
+      {
+         "Country": "Spain",
+         "Share of customers with positive experience": "35.7"
+      }
+   ]
+}

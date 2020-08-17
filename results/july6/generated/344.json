@@ -1,0 +1,74 @@
+{
+   "title": "U.S. music industry - revenue distribution 2017 - 2019 , by source",
+   "labels": [
+      "unknown",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic illustrates the industry of Digital_downloads and Synchronization for U.S. original programs at the Primetime U.S. music in the country from 2017 to 2019 . ",
+      "In 2019 , U.S. original programming received 79 Digital_downloads overall , trailing only HBO in terms of total Digital_downloads . ",
+      "The streaming service won 2 music in 2019 ."
+   ],
+   "trends": [
+      {
+         "6": [
+            "1",
+            "0"
+         ],
+         "8": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "7": [
+            "3",
+            "3"
+         ],
+         "8": [
+            "1",
+            "0"
+         ],
+         "18": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Synchronization",
+         "2017": "3",
+         "2018": "3",
+         "2019": "2"
+      },
+      {
+         "unknown": "Digital downloads",
+         "2017": "15",
+         "2018": "11",
+         "2019": "8"
+      },
+      {
+         "unknown": "Physical",
+         "2017": "17",
+         "2018": "12",
+         "2019": "10"
+      },
+      {
+         "unknown": "Streaming",
+         "2017": "65",
+         "2018": "75",
+         "2019": "79"
+      }
+   ]
+}

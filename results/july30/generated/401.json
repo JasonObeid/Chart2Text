@@ -1,0 +1,84 @@
+{
+   "title": "Texas Rangers average ticket price 2006 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely negative which exists from 2015 to 2011.",
+      " Differently, the next significant trend is extremely negative which exists from 2010 to 2006."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 3,
+         "end": 7,
+         "trend": "y=1.31x+-2621.31",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 8,
+         "end": 12,
+         "trend": "y=1.26x+-2516.03",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": 25.75
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": 26.94
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": 23.64
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": 23.64
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": 23.54
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": 22.54
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": 20.49
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": 18.6
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": 20.65
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": 19.41
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": 18.01
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": 16.47
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": 15.81
+      }
+   ]
+}

@@ -1,0 +1,94 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Greece 2024\n",
+   "xAxis": "Year",
+   "yAxis": "GDP growth rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP growth rate compared to previous year, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2020 to 2016.",
+      " Differently, the next significant trend is  positive which exists from 2023 to 2020.",
+      " Also, the next significant trend is  positive which exists from 2016 to 2014.",
+      " Additionally, the next significant trend is  negative which exists from 2024 to 2023."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 4,
+         "end": 8,
+         "trend": "y=0.45x+-912.59",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 1,
+         "end": 4,
+         "trend": "y=-0.43x+874.83",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 8,
+         "end": 10,
+         "trend": "y=-0.28x+554.58",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 0,
+         "end": 1,
+         "trend": "y=0.03x+-59.79",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth rate compared to previous year": 0.93
+      },
+      {
+         "Year": "2023",
+         "GDP growth rate compared to previous year": 0.9
+      },
+      {
+         "Year": "2022",
+         "GDP growth rate compared to previous year": 1.35
+      },
+      {
+         "Year": "2021",
+         "GDP growth rate compared to previous year": 1.71
+      },
+      {
+         "Year": "2020",
+         "GDP growth rate compared to previous year": 2.22
+      },
+      {
+         "Year": "2019",
+         "GDP growth rate compared to previous year": 1.98
+      },
+      {
+         "Year": "2018",
+         "GDP growth rate compared to previous year": 1.93
+      },
+      {
+         "Year": "2017",
+         "GDP growth rate compared to previous year": 1.51
+      },
+      {
+         "Year": "2016",
+         "GDP growth rate compared to previous year": 0.19
+      },
+      {
+         "Year": "2015",
+         "GDP growth rate compared to previous year": 0.44
+      },
+      {
+         "Year": "2014",
+         "GDP growth rate compared to previous year": 0.74
+      }
+   ]
+}

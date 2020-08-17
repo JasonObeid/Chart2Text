@@ -1,0 +1,94 @@
+{
+   "title": "Chelsea FC revenue by stream 2018/19",
+   "labels": [
+      "Season",
+      "Matchday",
+      "Broadcasting",
+      "Commercial"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "Broadcasting is the largest source of revenue for Chelsea FC . ",
+      "In 2018/2019 , the club earned approximately 227.1 million euros from Broadcasting , more than triple in 2010/2011 . ",
+      "The second biggest revenue stream is the Commercial one ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Season": "2018/19",
+         "Matchday": "75.6",
+         "Broadcasting": "227.1",
+         "Commercial": "210.4"
+      },
+      {
+         "Season": "2017/18",
+         "Matchday": "83.4",
+         "Broadcasting": "230.5",
+         "Commercial": "191.8"
+      },
+      {
+         "Season": "2016/17",
+         "Matchday": "76.2",
+         "Broadcasting": "189.1",
+         "Commercial": "162.7"
+      },
+      {
+         "Season": "2015/16",
+         "Matchday": "93.2",
+         "Broadcasting": "191.1",
+         "Commercial": "163.1"
+      },
+      {
+         "Season": "2014/15",
+         "Matchday": "93.1",
+         "Broadcasting": "178.2",
+         "Commercial": "148.7"
+      },
+      {
+         "Season": "2013/14",
+         "Matchday": "84.9",
+         "Broadcasting": "167.3",
+         "Commercial": "135.7"
+      },
+      {
+         "Season": "2012/13",
+         "Matchday": "82.5",
+         "Broadcasting": "123.0",
+         "Commercial": "97.9"
+      },
+      {
+         "Season": "2011/12",
+         "Matchday": "96.1",
+         "Broadcasting": "139.4",
+         "Commercial": "87.1"
+      },
+      {
+         "Season": "2010/11",
+         "Matchday": "74.7",
+         "Broadcasting": "112.3",
+         "Commercial": "62.8"
+      },
+      {
+         "Season": "2009/10",
+         "Matchday": "82.1",
+         "Broadcasting": "105.0",
+         "Commercial": "68.8"
+      },
+      {
+         "Season": "2008/09",
+         "Matchday": "87.4",
+         "Broadcasting": "92.9",
+         "Commercial": "62.0"
+      }
+   ]
+}

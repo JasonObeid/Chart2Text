@@ -1,0 +1,62 @@
+{
+   "title": "Manufacturing costs in pharmaceutical industry by country 2016",
+   "xAxis": "Country",
+   "yAxis": "Manufacturing costs index (U.S. = 100)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Manufacturing costs pharmaceutical the industry index in costs 2016 as of 2016 . ",
+      "Manufacturing costs to Mexico increased by 100 % in 2016 compared pharmaceutical the previous year . ",
+      "In 2017 , the Caribbean was the leading international destination for a spring vacation according to U.S. respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Mexico",
+         "Manufacturing costs index (U.S. = 100)": "82.9"
+      },
+      {
+         "Country": "Canada",
+         "Manufacturing costs index (U.S. = 100)": "88.8"
+      },
+      {
+         "Country": "Netherlands",
+         "Manufacturing costs index (U.S. = 100)": "89.9"
+      },
+      {
+         "Country": "Italy",
+         "Manufacturing costs index (U.S. = 100)": "90.3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Manufacturing costs index (U.S. = 100)": "90.8"
+      },
+      {
+         "Country": "Australia",
+         "Manufacturing costs index (U.S. = 100)": "91.3"
+      },
+      {
+         "Country": "France",
+         "Manufacturing costs index (U.S. = 100)": "91.8"
+      },
+      {
+         "Country": "Germany",
+         "Manufacturing costs index (U.S. = 100)": "93.4"
+      },
+      {
+         "Country": "Japan",
+         "Manufacturing costs index (U.S. = 100)": "93.6"
+      },
+      {
+         "Country": "United States",
+         "Manufacturing costs index (U.S. = 100)": "100"
+      }
+   ]
+}

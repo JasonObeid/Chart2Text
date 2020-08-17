@@ -1,0 +1,98 @@
+{
+   "title": "Global smartphone unit shipments of OPPO 2015 - 2019 , by quarter\n",
+   "xAxis": "Quarter",
+   "yAxis": "Unit shipments in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Quarter, and a y axis representing Unit shipments in millions.",
+      " The highest category is found at Q4_'16 where Unit shipments in millions is 31.6.",
+      " The lowest category is found at Q1_'15 where Unit shipments in millions is 7.3."
+   ],
+   "trends": {
+      "maxIndex": 12,
+      "minIndex": 19
+   },
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Unit shipments in millions": 30.6
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Unit shipments in millions": 31.2
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Unit shipments in millions": 29.5
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Unit shipments in millions": 23.1
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Unit shipments in millions": 29.2
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Unit shipments in millions": 29.9
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Unit shipments in millions": 29.4
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Unit shipments in millions": 24.6
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Unit shipments in millions": 27.3
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Unit shipments in millions": 30.6
+      },
+      {
+         "Quarter": "Q2' 17",
+         "Unit shipments in millions": 28.0
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Unit shipments in millions": 25.8
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Unit shipments in millions": 31.6
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Unit shipments in millions": 25.8
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Unit shipments in millions": 22.6
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Unit shipments in millions": 19.7
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Unit shipments in millions": 14.4
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Unit shipments in millions": 11.4
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Unit shipments in millions": 9.6
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Unit shipments in millions": 7.3
+      }
+   ]
+}

@@ -1,0 +1,94 @@
+{
+   "title": "BMW - motor vehicles produced worldwide 2006 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand units",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in thousand units, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2016 to 2013.",
+      " Contrarily, the next significant trend is  negative which exists from 2012 to 2009.",
+      " Contrarily, the next significant trend is  positive which exists from 2009 to 2006.",
+      " Likewise, the next significant trend is  positive which exists from 2013 to 2012."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=117.41x+-234319.65",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 4,
+         "end": 7,
+         "trend": "y=267.81x+-536794.17",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 7,
+         "end": 10,
+         "trend": "y=-42.68x+87089.8",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 3,
+         "end": 4,
+         "trend": "y=-59.11x+120994.8",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Production in thousand units": 2359.76
+      },
+      {
+         "Year": "2015",
+         "Production in thousand units": 2279.5
+      },
+      {
+         "Year": "2014",
+         "Production in thousand units": 2165.57
+      },
+      {
+         "Year": "2013",
+         "Production in thousand units": 2006.37
+      },
+      {
+         "Year": "2012",
+         "Production in thousand units": 2065.48
+      },
+      {
+         "Year": "2011",
+         "Production in thousand units": 1738.16
+      },
+      {
+         "Year": "2010",
+         "Production in thousand units": 1481.25
+      },
+      {
+         "Year": "2009",
+         "Production in thousand units": 1258.42
+      },
+      {
+         "Year": "2008",
+         "Production in thousand units": 1439.92
+      },
+      {
+         "Year": "2007",
+         "Production in thousand units": 1541.5
+      },
+      {
+         "Year": "2006",
+         "Production in thousand units": 1366.84
+      }
+   ]
+}

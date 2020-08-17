@@ -1,0 +1,187 @@
+Example 13:
+titleEntities: {'Subject': ['Turkey'], 'Date': ['2012', '2013']}
+title: Penetration rate of bottled water brands in Turkey 2012 to 2013
+Data:
+            0      1      2      3      4     5      6           7          8      9    10    11        12      13      14     15       16   17      18      19
+Brand  Erikli  Hayat  Pinar  Damla  Aytaç  Saka  Sirma  Güzelpinar  Pure_Life  Abant  Aqua  NAYA  Aquafina  Buxton  Dasani  Evian  Perrier  SPA  Vittel  Volvic
+2012       33     48     26     18      9    10     20           1          0      2     1     0         1       0       0      1        1    2       1       0
+2013       28     27     17     14     11    10      9           2          2      1     1     1         1       0       0      0        0    0       0       0 
+
+gold: This statistic illustrates the average penetration rate of bottled water brands in Turkey in 2012 and 2013 . The survey revealed that 14 percent of respondents purchased Damla brand bottled water within the last three to twelve months of 2013 .
+gold_template: This statistic illustrates the average templateTitle[0] templateTitle[1] of templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in templateTitleDate[min] and templateTitleDate[max] . The survey revealed that templateValue[2][3] templateScale of respondents purchased templateValue[0][3] templateLabel[0][0] templateTitle[2] templateTitle[3] within the last three to twelve months of templateTitleDate[max] .
+
+generated_template: This statistic shows the templateTitle[2] templateTitle[4] in the templateTitle[3] in templateTitleDate[0] , as ranked templateTitle[5] templateTitleSubject[0] . The top ranked templateValue[0][0] for that year was templateValue[0][0] in templateValue[0][3] . Students are expected to pay templateTitle[6] costs of templateValue[1][0] templateTitle[3] templateLabel[1][3] annually .
+generated: This statistic shows the bottled brands in the water in 2012 , as ranked Turkey .  The top ranked Erikli for that year was Erikli in Damla .  Students are expected to pay 2012 costs of 33 water 2012 annually .
+
+Example 49:
+titleEntities: {'Subject': ['Spain'], 'Date': ['2018']}
+title: Population density in Spain 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008']
+Y_Axis['Inhabitants', 'per', 'square', 'kilometer']: ['93.53', '93.27', '93.05', '92.95', '92.92', '93.2', '93.51', '93.51', '93.15', '92.98', '92.13']
+
+gold: The statistic shows the population density in Spain from 2008 to 2018 . In 2018 , the population density in Spain amounted to about 93.53 inhabitants per square kilometer .
+gold_template: The statistic shows the templateTitle[0] templateTitle[1] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateTitle[0] templateTitle[1] in templateTitleSubject[0] amounted to about templateYValue[idxmax(X)] templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+
+generated_template: The statistic shows the templateTitle[0] templateTitle[1] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateTitle[1] of templateTitleSubject[0] 's templateTitle[0] amounted to templateYValue[idxmax(X)] templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+generated: The statistic shows the Population density in Spain from 2008 to 2018 .  In 2018 , the density of Spain 's Population amounted to 93.53 Inhabitants per square kilometer .
+
+Example 52:
+titleEntities: {'Subject': ['Italy'], 'Date': ['2017']}
+title: Potential reasons to leave Italy for another country 2017
+X_Axis['Response']: ['To_go_to_a_place_where_taxes_are_lower', 'To_find_a_job/a_better_job/_a_better_paid_job', 'To_have_new_experiences', 'To_live_in_a_country_where_services_are_more_efficient', 'To_live_in_a_country_less_oppress_by_bureaucracy_and_where_there_are_rules', 'To_live_in_a_cleaner_and_more_tidier_country', 'Other', 'I_don´t_know/No_answer']
+Y_Axis['Share', 'of', 'respondents']: ['42.9', '36.8', '12.4', '9.4', '6.8', '6.2', '3.9', '3.6']
+
+gold: Almost 43 percent of Italian respondents would move to another country in which the taxes were lower than in Italy . In a survey conducted in 2017 , this was the most popular factor Italians indicated as a reason to leave their country . Furthermore , the possibility to find a better job , or a job at all , was a good reason for 36.8 percent of respondents .
+gold_template: Almost templateYValue[max] templateScale of Italian templateYLabel[1] would move to templateTitle[5] templateXValue[3] in which the templateXValue[0] were templateXValue[0] than in templateTitleSubject[0] . In a survey conducted in templateTitleDate[0] , this was the most popular factor Italians indicated as a reason to templateTitle[2] their templateXValue[3] . Furthermore , the possibility to templateXValue[1] a templateXValue[1] , or a templateXValue[1] at all , was a good reason templateTitle[4] templateYValue[1] templateScale of templateYLabel[1] .
+
+generated_template: This statistic shows the result of a survey question designed to find out what is templateTitle[0] templateTitle[1] to templateTitle[4] templateTitle[5] ( templateTitle[6] - templateTitle[7] ) in templateTitleSubject[0] , as of 2013 . The majority of templateYLabel[1] said that their templateXValue[0] is the templateTitle[0] templateTitle[1] thing to them .
+generated: This statistic shows the result of a survey question designed to find out what is Potential reasons to for another ( country - 2017 ) in Italy , as of 2013 .  The majority of respondents said that their To_go_to_a_place_where_taxes_are_lower is the Potential reasons thing to them .
+
+Example 112:
+titleEntities: {'Subject': ['Europe'], 'Date': ['2019']}
+title: Trend in new passenger car registrations in Europe 2019
+X_Axis['Month']: ['Dec_19', 'Nov_19', 'Oct_19', 'Sep_19', 'Aug_19', 'Jul_19', 'Jun_19', 'May_19', 'Apr_19', 'Mar_19', 'Feb_19', 'Jan_19', 'Dec_18', 'Nov_18', 'Oct_18', 'Sep_18', 'Aug_18']
+Y_Axis['Percentage', 'change']: ['21.7', '4.9', '8.7', '14.5', '-8.4', '1.4', '-7.8', '0.1', '-0.4', '-3.9', '-1', '-4.6', '-8.4', '-8', '-7.3', '-23.5', '31.2']
+
+gold: The number of new car registrations in the European Union increased by 21.7 percent from December 2018 to December 2019 . This is primarily due to a low baseline from December 2018 which saw low sales . In August 2018 , European new-car intenders flocked to dealerships ahead of price increases tied to tougher emissions tests , and EU auto sales increased 31 percent over August 2017 .
+gold_template: The number of templateTitle[1] templateTitle[3] templateTitle[4] in the European Union templatePositiveTrend by templateYValue[0] templateScale from 2018 to 2019 . This is primarily due to a low baseline from 2018 which saw low sales . In 2018 , European new-car intenders flocked to dealerships ahead of price increases tied to tougher emissions tests , and EU auto sales templatePositiveTrend templateYValue[max] templateScale over 2017 .
+
+generated_template: The statistic shows templateTitle[0] templateTitle[1] templateTitle[2] templateYLabel[1] templateYLabel[2] templateTitle[5] in the templateTitleSubject[0] ( templateTitleSubject[1] ) from templateTitleDate[min] to 2019 . In 2019 , the templateTitle[0] templateTitle[1] templateTitle[2] templateYLabel[1] templateYLabel[2] in the templateTitleSubject[0] amounted to templateYValue[max] templateYLabel[3] templateYLabel[4] .
+generated: The statistic shows Trend new passenger change Europe in the Europe ( ) from 2019 to .  In 2019 , the Trend new passenger change in the Europe amounted to 31.2 change .
+
+Example 151:
+titleEntities: {'Subject': ['Miami Heat'], 'Date': ['2001', '2019']}
+title: Miami Heat 's revenue 2001 to 2019
+X_Axis['Year']: ['2018/19', '2017/18', '2016/17', '2015/16', '2014/15', '2013/14', '2012/13', '2011/12', '2010/11', '2009/10', '2008/09', '2007/08', '2006/07', '2005/06', '2004/05', '2003/04', '2002/03', '2001/02']
+Y_Axis['Revenue', 'in', 'million', 'U.S.', 'dollars']: ['294', '259', '253', '210', '180', '188', '188', '150', '158', '124', '126', '131', '131', '132', '119', '93', '91', '96']
+
+gold: The statistic shows the revenue of the Miami Heat franchise from the 2001/02 season to the 2018/19 season . In 2018/19 , the estimated revenue of the National Basketball Association franchise amounted to 294 million U.S. dollars . Miami Heat The Miami Heat is a professional basketball team of the National Basketball Association ( NBA ) .
+gold_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the templateXValue[last] season to the templateXValue[0] season . In templateXValue[0] , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] templateScale templateYLabel[2] templateYLabel[3] . templateTitleSubject[0] The templateTitleSubject[0] is a professional basketball team of the National Basketball Association ( NBA ) .
+
+generated_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] franchise from the templateXValue[last] season to the templateXValue[0] season . In templateXValue[0] , the estimated templateYLabel[0] of the National Basketball Association franchise amounted to templateYValue[max] templateScale templateYLabel[2] templateYLabel[3] .
+generated: The statistic shows the Revenue of the Miami Heat franchise from the 2001/02 season to the 2018/19 season .  In 2018/19 , the estimated Revenue of the National Basketball Association franchise amounted to 294 million U.S. dollars .
+
+Example 202:
+titleEntities: {'Subject': ['Facebook'], 'Date': ['2020']}
+title: Most popular politicians on Facebook 2020
+X_Axis['Government', 'Figures']: ['Barack_Obama', 'Narendra_Modi', 'Imran_Khan_(official)', 'Hillary_Clinton', 'Mitt_Romney', 'Recep_Tayyip_Erdoğan', 'Arvind_Kejriwal', 'U.S._Senator_Bernie_Sanders', 'Justin_Trudeau', 'Bernie_Sanders']
+Y_Axis['Number', 'of', 'Facebook', 'followers', 'in', 'millions']: ['55.04', '44.65', '9.72', '9.71', '9.6', '9296.0', '7.96', '7.45', '6.81', '5.35']
+
+gold: This statistic gives information on the most popular politicians on Facebook , ranked by number of fans on the social network . As of February 2020 , former U.S. president Barack Obama was ranked first with over 55 million Facebook fans .
+gold_template: This statistic gives information on the templateTitle[0] templateTitle[1] templateTitle[2] on templateYLabel[1] , ranked by templateYLabel[0] of fans on the social network . As of 2020 , former templateXValue[7] president templateXValue[0] was ranked first with over templateYValue[0] templateScale templateYLabel[1] fans .
+
+generated_template: The statistic shows the templateXLabel[0] templateTitle[1] programs with the most templateYLabel[1] in the templateTitleSubject[0] templateTitle[1] templateYLabel[0] ( Madness , Big Dance ) . The templateTitle[1] team of templateXValue[3] has participated templateYValue[2] times in the templateYLabel[0] up to templateTitleDate[max] .
+generated: The statistic shows the Government popular programs with the most Facebook in the Facebook popular Number ( Madness , Big Dance ) .  The popular team of Hillary_Clinton has participated 9.72 times in the Number up to 2020 .
+
+Example 316:
+titleEntities: {'Subject': ['Colombia'], 'Date': ['2019']}
+title: Unemployment rate in Colombia 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999']
+Y_Axis['Unemployment', 'rate']: ['9.19', '9.09', '8.87', '8.69', '8.3', '8.57', '9.05', '9.74', '10.11', '10.98', '12.07', '11.27', '11.2', '11.51', '11.87', '13.72', '14.19', '15.63', '15.04', '20.52', '20.06']
+
+gold: This statistic shows the unemployment rate in Colombia from 1999 to 2019 . In 2019 , the unemployment rate in Colombia was at approximately 9.19 percent .
+gold_template: This statistic shows the templateYLabel[0] templateYLabel[1] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] templateYLabel[1] in templateTitleSubject[0] was at approximately templateYValue[idxmax(X)] templateScale .
+
+generated_template: The statistic shows the templateYLabel[0] templateYLabel[1] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] templateYLabel[1] in templateTitleSubject[0] was at about templateYValue[idxmax(X)] templateScale . Trade in templateTitleSubject[0] is a templatePositiveTrend market and recognized as one of the world 's newest industrialized countries .
+generated: The statistic shows the Unemployment rate in Colombia from 1999 to 2019 .  In 2019 , the Unemployment rate in Colombia was at about 9.19 % .  Trade in Colombia is a growing market and recognized as one of the world 's newest industrialized countries .
+
+Example 492:
+titleEntities: {'Subject': ['United Kingdom', 'UK'], 'Date': ['2019']}
+title: Cartoon Network viewers reached quarterly in the United Kingdom ( UK ) Q1 2012-Q3 2019
+X_Axis['Quarter']: ['Q1_2012', 'Q2_2012', 'Q3_2012', 'Q4_2012', 'Q1_2013', 'Q2_2013', 'Q3_2013', 'Q4_2013', 'Q1_2014', 'Q2_2014', 'Q3_2014', 'Q4_2014', 'Q1_2015', 'Q2_2015', 'Q3_2015', 'Q4_2015', 'Q1_2016', 'Q2_2016', 'Q3_2016', 'Q4_2016', 'Q1_2017', 'Q2_2017', 'Q3_2017', 'Q4_2017', 'Q1_2018', 'Q2_2018', 'Q3_2018', 'Q4_2018', 'Q1_2019', 'Q2_2019', 'Q3_2019']
+Y_Axis['Viewers', 'in', 'thousands']: ['5377', '5415', '5570', '5537', '5675', '5684', '5826', '6185', '6297', '6075', '6617', '7018', '6359', '6214', '6379', '4035', '6163', '5812', '6322', '5409', '4747', '4782', '4685', '4730', '4558', '4673', '4987', '4549', '3998', '3639', '3998']
+
+gold: This statistic shows the quarterly reach of the Cartoon Network television channel in the United Kingdom ( UK ) from the first quarter of 2012 to the third quarter of 2019 . In the fourth quarter of 2014 , Cartoon Network reached over 7 million viewers . The number of viewers fell to roughly four million in the most recent period in consideration .
+gold_template: This statistic shows the templateTitle[4] reach of the templateTitle[0] templateTitle[1] television channel in the templateTitleSubject[0] ( templateTitleSubject[1] ) from the first templateXLabel[0] of templateXValue[0] to the third templateXLabel[0] of templateXValue[28] . In the fourth templateXLabel[0] of templateXValue[8] , templateTitle[0] templateTitle[1] templateTitle[3] over templateYValue[10] templateScale templateYLabel[0] . The number of templateYLabel[0] templateNegativeTrend to roughly templateYValue[15] templateScale in the most recent period in consideration .
+
+generated_template: This statistic shows the templateTitle[3] reach of the templateTitleSubject[0] television channel in the United Kingdom ( templateTitleSubject[1] ) from the first templateXLabel[0] of templateXValue[0] to the third templateXLabel[0] of templateXValue[28] . In the templateXLabel[0] ending 2014 , templateTitleSubject[0] templateTitle[2] templateYValue[10] templateScale templateYLabel[0] . The number of templateYLabel[0] templateNegativeTrend to roughly templateYValue[min] templateScale in the last period in consideration .
+generated: This statistic shows the reached reach of the United Kingdom television channel in the United Kingdom ( UK ) from the first Quarter of Q1_2012 to the third Quarter of Q1_2019 .  In the Quarter ending 2014 , United Kingdom viewers 6617 thousands Viewers .  The number of Viewers dropped to roughly 3639 thousands in the last period in consideration .
+
+Example 499:
+titleEntities: {'Subject': ['Steam'], 'Date': ['2012', '2019']}
+title: Number of Steam users 2012 to 2019
+X_Axis['Month']: ['September_2019', 'October_2018', 'January_2018', 'November_2017', 'September_2017', 'July_2017', 'April_2017', 'January_2017', 'October_2016', 'July_2016', 'April_2016', 'January_2016', 'November_2015', 'June_2015', 'May_2015', 'March_2015', 'January_2015', 'November_2014', 'June_2014', 'December_2013', 'November_2012']
+Y_Axis['Number', 'of', 'users', 'in', 'millions']: ['14.15', '18.5', '18.5', '17.68', '15.0', '13.15', '11.83', '14.21', '11.13', '12.28', '12.74', '12.33', '13.48', '10.05', '9.5', '9.1', '8.5', '9.3', '8.0', '7.0', '6.0']
+
+gold: The online gaming platform , Steam , was first released by the Valve Corporation in 2003 . What started off as a small platform for Valve to provide updates to its games has turned into the largest computer gaming platform in the world . As of September 2019 , Steam reached a peak of 14.15 million concurrent users .
+gold_template: The online gaming platform , templateTitleSubject[0] , was first released by the Valve Corporation in 2003 . What started off as a small platform for Valve to provide updates to its games has turned into the largest computer gaming platform in the world . As of templateXValue[0] , templateTitleSubject[0] reached a peak of templateYValue[0] templateScale concurrent templateYLabel[1] .
+
+generated_template: This statistic shows the templateYLabel[0] of templateTitleSubject[1] in templateTitleSubject[0] ( templateTitleSubject[1] ) from templateXValue[last] to templateTitle[7] templateTitleDate[0] . The templateYLabel[0] is the templateYLabel[1] that divides a templateTitle[2] into two numerically equal groups ; that is , half of the templateYLabel[0] in templateTitleSubject[0] templatePositiveTrend by in 2016 . The templateYLabel[0] of templateTitleSubject[0] reached a templateYLabel[0] that was templateYValue[max] templateScale in 2019 .
+generated: This statistic shows the Number of Steam in ( Steam ) from November_2012 to 2019 2012 .  The Number is the users that divides a users into two numerically equal groups ; that is , half of the Number in Steam increased by in 2016 .  The Number of Steam reached a Number that was 18.5 millions in 2019 .
+
+Example 528:
+titleEntities: {'Subject': ['Limited Brands'], 'Date': ['2010', '2018']}
+title: Average store size of Limited Brands worldwide from 2010 to 2018 , by brand
+Data:
+                             0     1     2     3     4     5     6     7     8
+Year                      2018  2017  2016  2015  2014  2013  2012  2011  2010
+Victoria's Secret stores  6484  6415  6349  6187  6083  6018  6038  5941  5892
+Bath & Body Works         2585  2532  2459  2382  2359  2364  2365  2374  2369
+La Senza                     0     0     0     0     0  3185  3219  3312  3343 
+
+gold: In 2018 , the average size of a Victoria 's Secret store was about 6,484 selling square feet . The average size of a Bath & Body Works store was 2,585 selling square feet that year . Limited Brands ( currently known as L Brands , Inc ) is an American fashion retailer based in Columbus , Ohio .
+gold_template: In templateValue[0][0] , the templateTitle[0] templateTitle[2] of a Victoria 's templateLabel[1][1] templateTitle[1] was about templateValue[1][0] selling square feet . The templateTitle[0] templateTitle[2] of a templateLabel[2][0] templateLabel[2][1] templateLabel[2][2] templateLabel[2][3] templateTitle[1] was templateValue[2][0] selling square feet that templateLabel[0][0] . templateTitleSubject[0] ( currently known as L templateTitleSubject[0] , Inc ) is an American fashion retailer based in Columbus , Ohio .
+
+generated_template: This statistic depicts the daily templateScale of the templateTitleSubject[0] templateTitle[2] participating in templateTitle[4] , templateTitle[5] and recreational activities templateTitle[6] templateTitle[7] by gender from templateValue[0][last] to templateValue[0][0] . According to the source , templateValue[2][0] templateScale of templateLabel[2][0] participated in templateTitle[4] , templateTitle[5] and recreational activities every templateTitle[7] in templateValue[0][0] .
+generated: This statistic depicts the daily percentage of the Limited Brands size participating in Brands , worldwide and recreational activities from 2010 by gender from 2010 to 2018 .  According to the source , 2585 thousands of Bath participated in Brands , worldwide and recreational activities every 2010 in 2018 .
+
+Example 662:
+titleEntities: {'Subject': ['Switzerland'], 'Date': ['2015']}
+title: Median age of the population in Switzerland 2015
+X_Axis['Year']: ['2050', '2045', '2040', '2035', '2030', '2025', '2020', '2015', '2010', '2005', '2000', '1995', '1990', '1985', '1980', '1975', '1970', '1965', '1960', '1955', '1950']
+Y_Axis['Median', 'age', 'in', 'years']: ['47.5', '47.5', '47.0', '46.2', '45.2', '44.0', '43.1', '42.2', '41.6', '40.1', '38.6', '37.2', '36.9', '36.0', '34.6', '32.9', '31.8', '31.5', '32.7', '32.9', '33.2']
+
+gold: This statistic shows the median age of the population in Switzerland from 1950 to 2050 . The median age of a population is an index that divides the population into two equal groups : half of the population is older than the median age and the other half younger.In 2015 , the median age of Switzerland 's population was 42.2 years . See Switzerland 's population figures for comparison .
+gold_template: This statistic shows the templateYLabel[0] templateYLabel[1] of the templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . The templateYLabel[0] templateYLabel[1] of a templateTitle[2] is an index that divides the templateTitle[2] into two equal groups : half of the templateTitle[2] is older than the templateYLabel[0] templateYLabel[1] and the other half younger.In templateXValue[7] , the templateYLabel[0] templateYLabel[1] of templateTitleSubject[0] 's templateTitle[2] was templateYValue[7] templateYLabel[2] . See templateTitleSubject[0] 's templateTitle[2] figures for comparison .
+
+generated_template: This statistic shows the templateYLabel[0] templateYLabel[1] of the templateTitle[2] in templateTitleSubject[0] from templateXValue[min] to templateXValue[max] .The templateYLabel[0] templateYLabel[1] is the templateYLabel[1] that divides a templateTitle[2] into two numerically equal groups ; that is , half the people are younger than this templateYLabel[1] and half are older . It is a single index that summarizes the templateYLabel[1] distribution of a templateTitle[2] . In templateXValue[7] , the templateYLabel[0] templateYLabel[1] of the templateTitle[2] of templateTitleSubject[0] was templateYValue[7] templateYLabel[2] .
+generated: This statistic shows the Median age of the population in Switzerland from 1950 to 2050 .The Median age is the age that divides a population into two numerically equal groups ; that is , half the people are younger than this age and half are older .  It is a single index that summarizes the age distribution of a population .  In 2015 , the Median age of the population of Switzerland was 42.2 years .
+
+Example 734:
+titleEntities: {'Subject': ['Nationwide Building Society', 'UK'], 'Date': ['2011', '2019']}
+title: Nationwide Building Society : saving market share of the UK 's savings market 2011 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011']
+Y_Axis['Market', 'share']: ['10.1', '10', '10.1', '10.2', '10.2', '10.6', '10.5', '11', '11.1']
+
+gold: The UK based Nationwide Building Society is the largest building society in the world with approximately 15.9 million members , of which over half were active members in 2019 . As well as being a building society , Nationwide is one of the United Kingdom 's leading and most widespread financial institutes , specializing in household savings and mortgages . Market share of Nationwide products As of April 2019 , Nationwide 's market share of UK 's savings accounts market increased by 0.1 percent from the previous year .
+gold_template: The templateTitleSubject[1] based templateTitleSubject[0] Society is the largest templateTitleSubject[0] in the world with approximately 15.9 templateScale members , of which over half were active members in templateXValue[max] . As well as being a templateTitleSubject[0] , templateTitleSubject[0] is one of the United Kingdom templateTitle[7] leading and most widespread financial institutes , specializing in household templateTitle[8] and mortgages . templateYLabel[0] templateYLabel[1] of templateTitleSubject[0] products As of 2019 , templateTitleSubject[0] templateTitle[7] templateYLabel[0] templateYLabel[1] of templateTitleSubject[1] templateTitle[7] templateTitle[8] accounts templateYLabel[0] templatePositiveTrend by 0.1 templateScale from the previous templateXLabel[0] .
+
+generated_template: This statistic shows templateTitleSubject[0] templateTitle[1] templateTitleSubject[0] templateTitle[3] templateYLabel[1] of the templateTitle[5] templateTitle[6] templateTitle[7] templateYLabel[0] templateTitle[9] from templateXValue[min] to templateXValue[max] . In templateXValue[2] , templateTitleSubject[0] templateTitle[1] templateTitleSubject[0] templateTitle[3] templateYLabel[1] of the global templateTitle[5] templateTitle[6] templateTitle[7] templateYLabel[0] is estimated to be templateYValue[2] templateScale .
+generated: This statistic shows Nationwide Building Society Building saving share of the share UK 's Market from 2011 to 2019 .  In 2017 , Nationwide Building Society Building saving share of the global share UK 's Market is estimated to be 10.1 % .
+
+Example 767:
+titleEntities: {'Subject': ['Oman'], 'Date': ['2024']}
+title: Gross domestic product ( GDP ) in Oman 2024 
+X_Axis['Year']: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984']
+Y_Axis['Gross', 'domestic', 'product', 'in', 'billion', 'U.S.', 'dollars']: ['90.56', '87.02', '84.05', '81.9', '78.66', '76.61', '79.28', '70.6', '65.48', '68.92', '81.08', '78.78', '76.62', '68.02', '57.05', '48.39', '60.91', '42.09', '37.22', '31.08', '24.76', '21.63', '20.14', '19.45', '19.51', '15.59', '14.0', '15.84', '15.28', '13.8', '12.92', '12.49', '12.45', '11.34', '11.69', '9.37', '8.39', '8.63', '8.23', '10.4', '9.36']
+
+gold: The statistic shows gross domestic product ( GDP ) in Oman from 1984 to 2018 , with projections up until 2024 . Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given year . GDP is an important indicator of a country 's economic power .
+gold_template: The statistic shows templateYLabel[0] templateYLabel[1] templateYLabel[2] ( templateTitle[3] ) in templateTitleSubject[0] from templateXValue[min] to templateXValue[6] , with projections up until templateXValue[max] . templateYLabel[0] templateYLabel[1] templateYLabel[2] ( templateTitle[3] ) denotes the aggregate value of all services and goods produced within a country in any given templateXLabel[0] . templateTitle[3] is an important indicator of a country 's economic power .
+
+generated_template: The statistic shows templateYLabel[0] templateYLabel[1] templateYLabel[2] ( templateTitle[3] ) in templateTitleSubject[0] from templateXValue[min] to templateXValue[7] , with projections up until templateXValue[max] . templateYLabel[0] templateYLabel[1] templateYLabel[2] ( templateTitle[3] ) denotes the aggregate value of all services and goods produced within a country in any given templateXLabel[0] . templateTitle[3] is an important indicator of a country 's economic power .
+generated: The statistic shows Gross domestic product ( GDP ) in Oman from 1984 to 2017 , with projections up until 2024 .  Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given Year .  GDP is an important indicator of a country 's economic power .
+
+Example 816:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['2006', '2017']}
+title: Participants in gymnastics in the U.S. from 2006 to 2017
+X_Axis['Year']: ['2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006']
+Y_Axis['Number', 'of', 'participants', 'in', 'millions']: ['4.81', '5.38', '4.68', '4.62', '4.97', '5.4', '4.83', '4.82', '4.02', '3.88', '4.07', '3.63']
+
+gold: The number of U.S. participants in gymnastics aged six years and older amounted to approximately 4.81 million in 2017 , down from the previous year 's participation by around 10 percent . A participant is defined as an individual who took part in gymnastics at least once in the given year . Gymnastics in the U.S.While participation has decreased , national interest in the sport is relatively high and estimated to keep increasing - in 2018 , it was estimated that around 6.8 million Americans were very interested in gymnastics .
+gold_template: The templateYLabel[0] of templateTitleSubject[0] templateYLabel[1] in templateTitle[1] aged six years and older amounted to approximately templateYValue[0] templateScale in templateXValue[max] , down templateTitle[3] the previous templateXLabel[0] 's participation by around 10 templateScale . A participant is defined as an individual who took part in templateTitle[1] at least once in the given templateXLabel[0] . templateTitle[1] in the U.S.While participation has templateNegativeTrend , national interest in the sport is relatively high and estimated to keep templatePositiveTrend - in 2018 , it was estimated that around 6.8 templateScale Americans were very interested in templateTitle[1] .
+
+generated_template: This statistic shows the templateYLabel[0] of templateYLabel[1] in templateTitle[1] in the templateTitle[2] templateTitle[3] templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] of templateYLabel[1] ( aged six years and older ) in templateTitle[1] amounted to approximately templateYValue[idxmax(X)] templateScale . Participation in templateTitle[1] - additional information The templateYLabel[0] of templateYLabel[1] in templateTitle[1] in the templateTitle[2] templatePositiveTrend significantly templateTitle[3] templateYValue[last] templateYValue[idxmin(X)] in templateXValue[min] up to templateYValue[max] templateScale in templateXValue[idxmax(Y)] .
+generated: This statistic shows the Number of participants in gymnastics the U.S. from 2006 to 2017 .  In 2017 , the Number of participants ( aged six years and older ) in gymnastics amounted to approximately 4.81 millions .  Participation in gymnastics - additional information The Number of participants in gymnastics the U.S. increased significantly from 3.63 in 2006 up to 5.4 millions in 2012 .
+
+Example 829:
+titleEntities: {'Subject': ['European Union'], 'Date': []}
+title: Fresh orange production volume in the European Union 2016/17 , by country
+X_Axis['Country']: ['Spain', 'Italy', 'Greece', 'Portugal', 'Cyprus']
+Y_Axis['Volume', 'in', '1,000', 'tons']: ['3731', '1500', '920', '344', '30']
+
+gold: In 2018/2019 , Spain was the leading producer of fresh oranges in the European Union ( EU28 ) , with over 3.7 million tons of fresh oranges produced . The Spanish production was more than two times the production of Italy , the second largest producer of oranges . The other three producers in the EU produced less than one million tons during this year .
+gold_template: In 2018/2019 , templateXValue[0] was the leading producer of templateTitle[0] oranges in the templateTitleSubject[0] ( EU28 ) , with over 3.7 templateScale templateYLabel[2] of templateTitle[0] oranges produced . The Spanish templateTitle[2] was more than two times the templateTitle[2] of templateXValue[1] , the second largest producer of oranges . The other three producers in the EU produced less than one templateScale templateYLabel[2] during this year .
+
+generated_template: This statistic shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitleSubject[0] in templateTitleDate[0] . In templateTitleDate[0] , the most important templateTitle[1] partner templateTitle[3] templateTitleSubject[0] was templateXValue[0] , accounting templateTitle[3] templateYValue[max] templateScale of all templateYLabel[2] .
+generated: This statistic shows the Fresh orange production volume European Union in .  In , the most important orange partner volume European Union was Spain , accounting volume 3731 % of all tons .
+

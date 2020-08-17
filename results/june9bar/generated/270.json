@@ -1,0 +1,34 @@
+{
+   "title": "Instagram usage reach in the United States 2019 , by age group",
+   "xAxis": "Age group",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Share of adults in the Instagram who were using Instagram as of 2019 , sorted by age . ",
+      "During that period of time , 67 % of female respondents stated that they used the social networking site ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Age group": "18-29",
+         "Share of respondents": "67"
+      },
+      {
+         "Age group": "30-49",
+         "Share of respondents": "47"
+      },
+      {
+         "Age group": "50-64",
+         "Share of respondents": "23"
+      },
+      {
+         "Age group": "65+",
+         "Share of respondents": "8"
+      }
+   ]
+}

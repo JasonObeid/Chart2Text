@@ -1,0 +1,67 @@
+{
+   "title": "Number of births in Belgium 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of births",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of Belgium births in the Belgium from 2008 to 2018 . ",
+      "In 2018 , approximately 169,000 babies were born alive in the Belgium . ",
+      "In the same period , the Number of stillborn children in the Belgium decreased , as can be seen in this statistic ."
+   ],
+   "trends": [
+      {
+         "13": "10",
+         "15": "0"
+      },
+      {
+         "1": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of births": "117800"
+      },
+      {
+         "Year": "2017",
+         "Number of births": "119102"
+      },
+      {
+         "Year": "2016",
+         "Number of births": "121713"
+      },
+      {
+         "Year": "2015",
+         "Number of births": "121713"
+      },
+      {
+         "Year": "2014",
+         "Number of births": "124415"
+      },
+      {
+         "Year": "2013",
+         "Number of births": "124862"
+      },
+      {
+         "Year": "2012",
+         "Number of births": "126993"
+      },
+      {
+         "Year": "2011",
+         "Number of births": "127655"
+      },
+      {
+         "Year": "2010",
+         "Number of births": "129173"
+      },
+      {
+         "Year": "2009",
+         "Number of births": "127297"
+      },
+      {
+         "Year": "2008",
+         "Number of births": "128049"
+      }
+   ]
+}

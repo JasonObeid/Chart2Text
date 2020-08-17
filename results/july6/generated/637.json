@@ -1,0 +1,69 @@
+{
+   "title": "EU-28 : monthly harmonized consumer price index in 2017 to 2018",
+   "xAxis": "Month",
+   "yAxis": "HICP, 2015=100",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the monthly HICP, of nurse harmonized in consumer price in Canada , sorted index 2017 , in 2017 . ",
+      "In Sep_18 , around 104.58 2015=100 were part of the consumer price harmonized , while in Aug_18 there were almost 72,000 2015=100 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "4": "0",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Sep 18",
+         "HICP, 2015=100": "104.58"
+      },
+      {
+         "Month": "Aug 18",
+         "HICP, 2015=100": "104.16"
+      },
+      {
+         "Month": "Jul 18",
+         "HICP, 2015=100": "103.95"
+      },
+      {
+         "Month": "Jun 18",
+         "HICP, 2015=100": "104.18"
+      },
+      {
+         "Month": "May 18",
+         "HICP, 2015=100": "104.07"
+      },
+      {
+         "Month": "Apr 18",
+         "HICP, 2015=100": "103.6"
+      },
+      {
+         "Month": "Mar 18",
+         "HICP, 2015=100": "103.25"
+      },
+      {
+         "Month": "Feb 18",
+         "HICP, 2015=100": "102.49"
+      },
+      {
+         "Month": "Jan 18",
+         "HICP, 2015=100": "102.27"
+      },
+      {
+         "Month": "Dec 17",
+         "HICP, 2015=100": "102.96"
+      },
+      {
+         "Month": "Nov 17",
+         "HICP, 2015=100": "102.62"
+      },
+      {
+         "Month": "Oct 17",
+         "HICP, 2015=100": "102.48"
+      }
+   ]
+}

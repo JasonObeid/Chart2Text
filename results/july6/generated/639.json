@@ -1,0 +1,71 @@
+{
+   "title": "Number of unemployed people in urban China 2018",
+   "xAxis": "Year",
+   "yAxis": "Unemployed people in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployed of people 2018 in the people from 2007 to 2018 . ",
+      "In 2018 , about 9.74 people in the China were 2018 to be adopted ."
+   ],
+   "trends": [
+      {
+         "14": "11",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Unemployed people in millions": "9.74"
+      },
+      {
+         "Year": "2017",
+         "Unemployed people in millions": "9.72"
+      },
+      {
+         "Year": "2016",
+         "Unemployed people in millions": "9.82"
+      },
+      {
+         "Year": "2015",
+         "Unemployed people in millions": "9.66"
+      },
+      {
+         "Year": "2014",
+         "Unemployed people in millions": "9.52"
+      },
+      {
+         "Year": "2013",
+         "Unemployed people in millions": "9.26"
+      },
+      {
+         "Year": "2012",
+         "Unemployed people in millions": "9.17"
+      },
+      {
+         "Year": "2011",
+         "Unemployed people in millions": "9.22"
+      },
+      {
+         "Year": "2010",
+         "Unemployed people in millions": "9.08"
+      },
+      {
+         "Year": "2009",
+         "Unemployed people in millions": "9.21"
+      },
+      {
+         "Year": "2008",
+         "Unemployed people in millions": "8.86"
+      },
+      {
+         "Year": "2007",
+         "Unemployed people in millions": "8.3"
+      }
+   ]
+}

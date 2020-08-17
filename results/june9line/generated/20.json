@@ -1,0 +1,110 @@
+{
+   "title": "Unemployment rate in Nicaragua 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate in Nicaragua from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Nicaragua was at approximately 4.87 % . ",
+      "Unemployment in Nicaragua 's Unemployment is relatively low and stable at around 4.87 % which means the population is experiencing close to full employment ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "4.87"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "4.48"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "4.21"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "4.34"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "4.4"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "4.52"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "5.28"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "5.21"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "6.38"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "7.83"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "8.16"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "6.2"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "4.89"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "5.31"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "5.37"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "6.41"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "7.6"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "7.61"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "7.44"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "7.47"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "7.35"
+      }
+   ]
+}

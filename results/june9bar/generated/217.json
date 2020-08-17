@@ -1,0 +1,43 @@
+{
+   "title": "Number of crowdfunding platforms worldwide 2014 , by region",
+   "xAxis": "Country",
+   "yAxis": "Number of CFPs",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the CFPs of the Number crowdfunding platforms worldwide as of 2014 , region . ",
+      "According to the source , it was found that around 600 % of the world platforms CFPs for crowdfunding platforms CFPs in Europe ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0",
+         "23": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Europe",
+         "Number of CFPs": "600"
+      },
+      {
+         "Country": "North America",
+         "Number of CFPs": "375"
+      },
+      {
+         "Country": "Asia",
+         "Number of CFPs": "169"
+      },
+      {
+         "Country": "South America",
+         "Number of CFPs": "50"
+      },
+      {
+         "Country": "Oceania",
+         "Number of CFPs": "37"
+      },
+      {
+         "Country": "Africa",
+         "Number of CFPs": "19"
+      }
+   ]
+}

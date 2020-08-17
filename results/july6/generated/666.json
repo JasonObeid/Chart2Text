@@ -1,0 +1,72 @@
+{
+   "title": "Novartis ' number of full-time employees by division 2013 to 2014",
+   "labels": [
+      "unknown",
+      "2013",
+      "2014"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic outlines the Alcon Novartis ' in the number from 2013 to 2014 , by mine type . ",
+      "In 2014 , the Novartis industry in the number employed 59079 people . ",
+      "Of that number , more than 32,000 employees worked Pharmaceuticals ."
+   ],
+   "trends": [
+      {
+         "4": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "10": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "9": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "Pharmaceuticals",
+         "2013": "65262",
+         "2014": "59079"
+      },
+      {
+         "unknown": "Sandoz",
+         "2013": "26905",
+         "2014": "26423"
+      },
+      {
+         "unknown": "Alcon",
+         "2013": "25494",
+         "2014": "23900"
+      },
+      {
+         "unknown": "Consumer Health",
+         "2013": "9213",
+         "2014": "9020"
+      },
+      {
+         "unknown": "Business services",
+         "2013": "0",
+         "2014": "7508"
+      },
+      {
+         "unknown": "Vaccines and Diagnostics",
+         "2013": "6997",
+         "2014": "6491"
+      },
+      {
+         "unknown": "Corporate",
+         "2013": "1059",
+         "2014": "992"
+      }
+   ]
+}

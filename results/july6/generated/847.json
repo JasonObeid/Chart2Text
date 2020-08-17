@@ -1,0 +1,87 @@
+{
+   "title": "U.S. per capita consumption of fresh berries 2000 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The timeline shows the Per capita consumption of fresh ( green beans ) in the U.S. from 2000 to 2015 . ",
+      "The U.S. Per capita consumption of fresh ( green beans ) amounted to about 10.25 pounds in 2015 ."
+   ],
+   "trends": [
+      {
+         "17": "15",
+         "19": "0"
+      },
+      {
+         "14": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": "10.25"
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": "10.03"
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": "9.85"
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": "9.69"
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": "9.02"
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": "8.61"
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": "8.48"
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": "7.51"
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": "7.13"
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": "7.04"
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": "6.46"
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": "6.24"
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": "5.91"
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": "5.21"
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": "4.75"
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": "5.31"
+      }
+   ]
+}

@@ -1,0 +1,86 @@
+{
+   "title": "Active Duty U.S. Navy personnel numbers from 1995 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of Navy personnel",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the Number Navy of U.S. Navy personnel in the numbers between 1995 and 2018 . ",
+      "In 2018 , the Number Navy of Active Duty Navy U.S. Navy personnel stood at around 325395 % ."
+   ],
+   "trends": [
+      {
+         "14": "15",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of Navy personnel": "325395"
+      },
+      {
+         "Year": "2017",
+         "Number of Navy personnel": "319492"
+      },
+      {
+         "Year": "2016",
+         "Number of Navy personnel": "320101"
+      },
+      {
+         "Year": "2015",
+         "Number of Navy personnel": "323334"
+      },
+      {
+         "Year": "2014",
+         "Number of Navy personnel": "321599"
+      },
+      {
+         "Year": "2013",
+         "Number of Navy personnel": "319838"
+      },
+      {
+         "Year": "2012",
+         "Number of Navy personnel": "314339"
+      },
+      {
+         "Year": "2011",
+         "Number of Navy personnel": "320141"
+      },
+      {
+         "Year": "2010",
+         "Number of Navy personnel": "323139"
+      },
+      {
+         "Year": "2009",
+         "Number of Navy personnel": "324239"
+      },
+      {
+         "Year": "2008",
+         "Number of Navy personnel": "326684"
+      },
+      {
+         "Year": "2007",
+         "Number of Navy personnel": "332269"
+      },
+      {
+         "Year": "2006",
+         "Number of Navy personnel": "345098"
+      },
+      {
+         "Year": "2005",
+         "Number of Navy personnel": "357853"
+      },
+      {
+         "Year": "2000",
+         "Number of Navy personnel": "367371"
+      },
+      {
+         "Year": "1995",
+         "Number of Navy personnel": "429630"
+      }
+   ]
+}

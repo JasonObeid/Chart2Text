@@ -1,0 +1,67 @@
+{
+   "title": "Global gross domestic product ( GDP ) 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the GDP 's of the billion 2024 ( U.S. ) adjusted for Purchasing Power Parity ( PPP ) from 2014 to 2024 . ",
+      "In 2018 , the GDP 's of billion U.S. ( in relation to PPP dollars ) amounted to about 84929.51 billion ."
+   ],
+   "trends": [
+      {
+         "25": "10",
+         "27": "0"
+      },
+      {
+         "1": "6",
+         "20": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP in billion U.S. dollars": "111569.46"
+      },
+      {
+         "Year": "2023",
+         "GDP in billion U.S. dollars": "105786.19"
+      },
+      {
+         "Year": "2022",
+         "GDP in billion U.S. dollars": "100409.01"
+      },
+      {
+         "Year": "2021",
+         "GDP in billion U.S. dollars": "95353.02"
+      },
+      {
+         "Year": "2020",
+         "GDP in billion U.S. dollars": "90519.61"
+      },
+      {
+         "Year": "2019",
+         "GDP in billion U.S. dollars": "86598.83"
+      },
+      {
+         "Year": "2018",
+         "GDP in billion U.S. dollars": "84929.51"
+      },
+      {
+         "Year": "2017",
+         "GDP in billion U.S. dollars": "80262.15"
+      },
+      {
+         "Year": "2016",
+         "GDP in billion U.S. dollars": "75823.65"
+      },
+      {
+         "Year": "2015",
+         "GDP in billion U.S. dollars": "74779.48"
+      },
+      {
+         "Year": "2014",
+         "GDP in billion U.S. dollars": "78944.49"
+      }
+   ]
+}

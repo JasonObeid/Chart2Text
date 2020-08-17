@@ -1,0 +1,158 @@
+{
+   "title": "Alabama - unemployment rate 1992 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 27 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from '18 to '09.",
+      " Correspondingly, the next significant trend is extremely positive which exists from '98 to '92.",
+      " In a similar manner, the next significant trend is extremely positive which exists from '06 to '03.",
+      " Likewise, the next significant trend is extremely negative which exists from '03 to '00."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "positive",
+         "start": 0,
+         "end": 9,
+         "trend": "y=-0.8x+18.16",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 20,
+         "end": 26,
+         "trend": "y=-0.54x+57.53",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 12,
+         "end": 15,
+         "trend": "y=-0.72x+8.29",
+         "magnitude": "extremely"
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 15,
+         "end": 18,
+         "trend": "y=0.5x+4.65",
+         "magnitude": "extremely"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'18",
+         "Unemployment rate": 3.9
+      },
+      {
+         "Year": "'17",
+         "Unemployment rate": 4.4
+      },
+      {
+         "Year": "'16",
+         "Unemployment rate": 5.8
+      },
+      {
+         "Year": "'15",
+         "Unemployment rate": 6.1
+      },
+      {
+         "Year": "'14",
+         "Unemployment rate": 6.8
+      },
+      {
+         "Year": "'13",
+         "Unemployment rate": 7.2
+      },
+      {
+         "Year": "'12",
+         "Unemployment rate": 8.0
+      },
+      {
+         "Year": "'11",
+         "Unemployment rate": 9.7
+      },
+      {
+         "Year": "'10",
+         "Unemployment rate": 10.5
+      },
+      {
+         "Year": "'09",
+         "Unemployment rate": 11.0
+      },
+      {
+         "Year": "'08",
+         "Unemployment rate": 5.7
+      },
+      {
+         "Year": "'07",
+         "Unemployment rate": 4.0
+      },
+      {
+         "Year": "'06",
+         "Unemployment rate": 4.0
+      },
+      {
+         "Year": "'05",
+         "Unemployment rate": 4.5
+      },
+      {
+         "Year": "'04",
+         "Unemployment rate": 5.7
+      },
+      {
+         "Year": "'03",
+         "Unemployment rate": 6.0
+      },
+      {
+         "Year": "'02",
+         "Unemployment rate": 5.9
+      },
+      {
+         "Year": "'01",
+         "Unemployment rate": 5.1
+      },
+      {
+         "Year": "'00",
+         "Unemployment rate": 4.6
+      },
+      {
+         "Year": "'99",
+         "Unemployment rate": 4.7
+      },
+      {
+         "Year": "'98",
+         "Unemployment rate": 4.4
+      },
+      {
+         "Year": "'97",
+         "Unemployment rate": 5.0
+      },
+      {
+         "Year": "'96",
+         "Unemployment rate": 5.2
+      },
+      {
+         "Year": "'95",
+         "Unemployment rate": 6.0
+      },
+      {
+         "Year": "'94",
+         "Unemployment rate": 6.2
+      },
+      {
+         "Year": "'93",
+         "Unemployment rate": 7.3
+      },
+      {
+         "Year": "'92",
+         "Unemployment rate": 7.6
+      }
+   ]
+}

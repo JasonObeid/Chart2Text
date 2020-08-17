@@ -1,0 +1,42 @@
+{
+   "title": "Quarterly average daily rate of hotels in Portland 2016 to 2017",
+   "labels": [
+      "Quarter",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 4 categories for the x axis of Quarter representing 2016, 2017.",
+      " The highest category is found at Q1 with a mean value of 163.5.",
+      " The second highest category is found at Q3 with a mean value of 95.5.",
+      " This represents a difference of 52.5%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Quarter": "Q1",
+         "2016": "162",
+         "2017": "165"
+      },
+      {
+         "Quarter": "Q2",
+         "2016": "179",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2016": "191",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q4",
+         "2016": "171",
+         "2017": "0"
+      }
+   ]
+}

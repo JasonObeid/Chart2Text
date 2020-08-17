@@ -1,0 +1,87 @@
+{
+   "title": "France : total number of marriages 2004 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of marriages",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "From 2004 to 2018 , the total Number of marriages in France has been increasing , reaching 235000 in 2005 compared to 278439 marriages fifteen years earlier . ",
+      "This increase has also been seen in the death rate in France . ",
+      "Over the same time period , the death rate in the country went from 8.3 per 1,000 inhabitants , up to 9.2 in 2018 ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "3": "14",
+         "17": "14",
+         "19": "1",
+         "22": "0"
+      },
+      {},
+      {
+         "23": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2004",
+         "Number of marriages": "278439"
+      },
+      {
+         "Year": "2005",
+         "Number of marriages": "283036"
+      },
+      {
+         "Year": "2006",
+         "Number of marriages": "273914"
+      },
+      {
+         "Year": "2007",
+         "Number of marriages": "273669"
+      },
+      {
+         "Year": "2008",
+         "Number of marriages": "265404"
+      },
+      {
+         "Year": "2009",
+         "Number of marriages": "251478"
+      },
+      {
+         "Year": "2010",
+         "Number of marriages": "251654"
+      },
+      {
+         "Year": "2011",
+         "Number of marriages": "236826"
+      },
+      {
+         "Year": "2012",
+         "Number of marriages": "245930"
+      },
+      {
+         "Year": "2013",
+         "Number of marriages": "238592"
+      },
+      {
+         "Year": "2014",
+         "Number of marriages": "241300"
+      },
+      {
+         "Year": "2015",
+         "Number of marriages": "236300"
+      },
+      {
+         "Year": "2016",
+         "Number of marriages": "232700"
+      },
+      {
+         "Year": "2017",
+         "Number of marriages": "233900"
+      },
+      {
+         "Year": "2018",
+         "Number of marriages": "235000"
+      }
+   ]
+}

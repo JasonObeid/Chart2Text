@@ -1,0 +1,60 @@
+{
+   "title": "Number of top 500 supercomputers worldwide 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of supercomputers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Number of supercomputers in Number top the greatest earthquake occurrence 2019 to . ",
+      "During this time , about 29 million supercomputers in China were supercomputers by ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of supercomputers": "219"
+      },
+      {
+         "Country": "United States",
+         "Number of supercomputers": "116"
+      },
+      {
+         "Country": "Japan",
+         "Number of supercomputers": "29"
+      },
+      {
+         "Country": "France",
+         "Number of supercomputers": "19"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of supercomputers": "18"
+      },
+      {
+         "Country": "Germany",
+         "Number of supercomputers": "14"
+      },
+      {
+         "Country": "Ireland",
+         "Number of supercomputers": "13"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of supercomputers": "13"
+      },
+      {
+         "Country": "Canada",
+         "Number of supercomputers": "8"
+      },
+      {
+         "Country": "Rest of world",
+         "Number of supercomputers": "51"
+      }
+   ]
+}

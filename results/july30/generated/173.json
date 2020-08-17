@@ -1,0 +1,139 @@
+{
+   "title": "Year-to-year percentage of change in holiday retail sales in the U.S. 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage change in retail sales",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage change in retail sales, with a total of 20 data points. The chart has 5 significant trends.",
+      " The longest trend is  negative which exists from 2004 to 2000.",
+      " But, the next significant trend is  positive which exists from 2007 to 2004.",
+      " Also, the next significant trend is  negative which exists from 2017 to 2015.",
+      " Contrarily, the next significant trend is  negative which exists from 2014 to 2012.",
+      " But, the next significant trend is  positive which exists from 2012 to 2010."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 15,
+         "end": 19,
+         "trend": "y=0.98x+-1964.07",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "positive",
+         "start": 12,
+         "end": 15,
+         "trend": "y=-1.53x+3073.14",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 2,
+         "end": 4,
+         "trend": "y=1.05x+-2112.97",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 5,
+         "end": 7,
+         "trend": "y=1.25x+-2512.72",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 7,
+         "end": 9,
+         "trend": "y=-1.3x+2618.43",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Percentage change in retail sales": 4.0
+      },
+      {
+         "Year": "2018",
+         "Percentage change in retail sales": 2.1
+      },
+      {
+         "Year": "2017",
+         "Percentage change in retail sales": 5.2
+      },
+      {
+         "Year": "2016",
+         "Percentage change in retail sales": 3.2
+      },
+      {
+         "Year": "2015",
+         "Percentage change in retail sales": 3.1
+      },
+      {
+         "Year": "2014",
+         "Percentage change in retail sales": 5.1
+      },
+      {
+         "Year": "2013",
+         "Percentage change in retail sales": 2.9
+      },
+      {
+         "Year": "2012",
+         "Percentage change in retail sales": 2.6
+      },
+      {
+         "Year": "2011",
+         "Percentage change in retail sales": 4.6
+      },
+      {
+         "Year": "2010",
+         "Percentage change in retail sales": 5.2
+      },
+      {
+         "Year": "2009",
+         "Percentage change in retail sales": 0.2
+      },
+      {
+         "Year": "2008",
+         "Percentage change in retail sales": 4.7
+      },
+      {
+         "Year": "2007",
+         "Percentage change in retail sales": 2.7
+      },
+      {
+         "Year": "2006",
+         "Percentage change in retail sales": 3.2
+      },
+      {
+         "Year": "2005",
+         "Percentage change in retail sales": 6.2
+      },
+      {
+         "Year": "2004",
+         "Percentage change in retail sales": 6.8
+      },
+      {
+         "Year": "2003",
+         "Percentage change in retail sales": 5.1
+      },
+      {
+         "Year": "2002",
+         "Percentage change in retail sales": 2.1
+      },
+      {
+         "Year": "2001",
+         "Percentage change in retail sales": 2.07
+      },
+      {
+         "Year": "2000",
+         "Percentage change in retail sales": 3.4
+      }
+   ]
+}

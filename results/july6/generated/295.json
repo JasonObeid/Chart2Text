@@ -1,0 +1,57 @@
+{
+   "title": "Projected world population distribution , by age group 2020 to 2100",
+   "labels": [
+      "Year",
+      "0 - 14 years",
+      "15 - 59 years",
+      "60 years and over"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Projected of world by from 2020 to 2100 . ",
+      "In 2020 , the revenue from smartwatch Projected by amounted to 25.4 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "2",
+            "0"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "11": [
+            "2",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2100",
+         "0 - 14 years": "17.4",
+         "15 - 59 years": "54.3",
+         "60 years and over": "28.2"
+      },
+      {
+         "Year": "2050",
+         "0 - 14 years": "21.1",
+         "15 - 59 years": "57.5",
+         "60 years and over": "21.4"
+      },
+      {
+         "Year": "2020",
+         "0 - 14 years": "25.4",
+         "15 - 59 years": "61.1",
+         "60 years and over": "13.5"
+      }
+   ]
+}

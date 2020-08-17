@@ -1,0 +1,47 @@
+{
+   "title": "Piracy - actual and attempted attacks worldwide by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Number of incidents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of Piracy incidents in selected countries in 2019 , worldwide Country . ",
+      "In 2019 , there were 35 actual in Nigeria ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Nigeria",
+         "Number of incidents": "35"
+      },
+      {
+         "Country": "Indonesia",
+         "Number of incidents": "25"
+      },
+      {
+         "Country": "Singapore Staits",
+         "Number of incidents": "12"
+      },
+      {
+         "Country": "Malaysia",
+         "Number of incidents": "11"
+      },
+      {
+         "Country": "Peru",
+         "Number of incidents": "10"
+      },
+      {
+         "Country": "Venezuela",
+         "Number of incidents": "6"
+      },
+      {
+         "Country": "Cameroon",
+         "Number of incidents": "6"
+      }
+   ]
+}

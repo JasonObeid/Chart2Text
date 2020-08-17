@@ -1,0 +1,53 @@
+{
+   "title": "adidas Group - revenue from H1 2017 to H1 2019 , by region",
+   "labels": [
+      "Half",
+      "Asia-Pacific",
+      "Europe",
+      "North America",
+      "Latin America",
+      "Emerging Markets",
+      "Russia/CIS"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 3 categories for the x axis of Half representing Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS.",
+      " The highest category is found at 1st half 2019 with a mean value of 1841.6666666666667.",
+      " The second highest category is found at 1st half 2018 with a mean value of 1738.5.",
+      " This represents a difference of 5.8%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Half": "1st half 2019",
+         "Asia-Pacific": "4011",
+         "Europe": "2972",
+         "North America": "2370",
+         "Latin America": "779",
+         "Emerging Markets": "611",
+         "Russia/CIS": "307"
+      },
+      {
+         "Half": "1st half 2018",
+         "Asia-Pacific": "3582",
+         "Europe": "3023",
+         "North America": "2122",
+         "Latin America": "847",
+         "Emerging Markets": "560",
+         "Russia/CIS": "297"
+      },
+      {
+         "Half": "1st half 2017",
+         "Asia-Pacific": "3240",
+         "Europe": "2969",
+         "North America": "2001",
+         "Latin America": "895",
+         "Emerging Markets": "644",
+         "Russia/CIS": "341"
+      }
+   ]
+}

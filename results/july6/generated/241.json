@@ -1,0 +1,45 @@
+{
+   "title": "Japan - Electricity production by energy source",
+   "xAxis": "Energy source",
+   "yAxis": "Electricity produced in million megawatt hours",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the total Electricity of produced million in the production in 2010 , sorted source , in source of Energy source . ",
+      "In 2010 , there were 20.0 produced million operating within the production with between Gas_coal_petroleum and Nuclear_energy source of Energy source ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "14": "0",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Energy source": "Gas coal petroleum",
+         "Electricity produced in million megawatt hours": "43.6"
+      },
+      {
+         "Energy source": "Nuclear energy",
+         "Electricity produced in million megawatt hours": "20.0"
+      },
+      {
+         "Energy source": "Hydropower",
+         "Electricity produced in million megawatt hours": "4.1"
+      },
+      {
+         "Energy source": "Renewable energies",
+         "Electricity produced in million megawatt hours": "0.2"
+      },
+      {
+         "Energy source": "Acquisition",
+         "Electricity produced in million megawatt hours": "13.4"
+      },
+      {
+         "Energy source": "Total",
+         "Electricity produced in million megawatt hours": "81.4"
+      }
+   ]
+}

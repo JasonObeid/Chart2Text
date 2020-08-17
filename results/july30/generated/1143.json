@@ -1,0 +1,66 @@
+{
+   "title": "Number of earthquakes , by country 1900 to 2016\n",
+   "xAxis": "Country",
+   "yAxis": "Number of earthquakes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 12 categories for the x axis representing Country, and a y axis representing Number of earthquakes.",
+      " The highest category is found at China where Number of earthquakes is 157.0.",
+      " The lowest category is found at Afghanistan where Number of earthquakes is 32.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 8
+   },
+   "data": [
+      {
+         "Country": "China",
+         "Number of earthquakes": 157.0
+      },
+      {
+         "Country": "Indonesia",
+         "Number of earthquakes": 113.0
+      },
+      {
+         "Country": "Iran (Islamic Republic of)",
+         "Number of earthquakes": 106.0
+      },
+      {
+         "Country": "Turkey",
+         "Number of earthquakes": 77.0
+      },
+      {
+         "Country": "Japan",
+         "Number of earthquakes": 61.0
+      },
+      {
+         "Country": "Peru",
+         "Number of earthquakes": 44.0
+      },
+      {
+         "Country": "United States of America",
+         "Number of earthquakes": 41.0
+      },
+      {
+         "Country": "Italy",
+         "Number of earthquakes": 33.0
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of earthquakes": 32.0
+      },
+      {
+         "Country": "India",
+         "Number of earthquakes": 32.0
+      },
+      {
+         "Country": "Greece",
+         "Number of earthquakes": 32.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of earthquakes": 32.0
+      }
+   ]
+}

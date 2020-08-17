@@ -1,0 +1,103 @@
+{
+   "title": "Age distribution in Mexico 2008 to 2018",
+   "labels": [
+      "Year",
+      "Ages 0-14",
+      "Ages 15-64",
+      "Ages 65+"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , the distribution of Age in Mexico was six percent \u2013 the lowest it had been in a decade . ",
+      "There were real regional differences within the country though . ",
+      "The Ages 2018 did particularly well economically , with an Age distribution of 26.56 % in 2018 ."
+   ],
+   "trends": [
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      },
+      {},
+      {
+         "13": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Ages 0-14": "26.56",
+         "Ages 15-64": "66.22",
+         "Ages 65+": "7.22"
+      },
+      {
+         "Year": "2017",
+         "Ages 0-14": "26.94",
+         "Ages 15-64": "66.02",
+         "Ages 65+": "7.04"
+      },
+      {
+         "Year": "2016",
+         "Ages 0-14": "27.3",
+         "Ages 15-64": "65.82",
+         "Ages 65+": "6.87"
+      },
+      {
+         "Year": "2015",
+         "Ages 0-14": "27.64",
+         "Ages 15-64": "65.64",
+         "Ages 65+": "6.72"
+      },
+      {
+         "Year": "2014",
+         "Ages 0-14": "28.01",
+         "Ages 15-64": "65.42",
+         "Ages 65+": "6.57"
+      },
+      {
+         "Year": "2013",
+         "Ages 0-14": "28.35",
+         "Ages 15-64": "65.2",
+         "Ages 65+": "6.45"
+      },
+      {
+         "Year": "2012",
+         "Ages 0-14": "28.7",
+         "Ages 15-64": "64.96",
+         "Ages 65+": "6.34"
+      },
+      {
+         "Year": "2011",
+         "Ages 0-14": "29.08",
+         "Ages 15-64": "64.68",
+         "Ages 65+": "6.24"
+      },
+      {
+         "Year": "2010",
+         "Ages 0-14": "29.51",
+         "Ages 15-64": "64.35",
+         "Ages 65+": "6.14"
+      },
+      {
+         "Year": "2009",
+         "Ages 0-14": "29.96",
+         "Ages 15-64": "64.01",
+         "Ages 65+": "6.03"
+      },
+      {
+         "Year": "2008",
+         "Ages 0-14": "30.45",
+         "Ages 15-64": "63.63",
+         "Ages 65+": "5.92"
+      }
+   ]
+}

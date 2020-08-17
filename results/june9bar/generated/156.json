@@ -1,0 +1,79 @@
+{
+   "title": "Best cars to own based on ride quality in Great Britain ( UK ) 2016",
+   "xAxis": "Car Model",
+   "yAxis": "Percentage",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Best cars of the own based ride in Great as of 2020 . ",
+      "As of the measured period , it was found that 97.19 percentage any Tesla_Model_S_MkI ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Car Model": "Tesla Model S MkI",
+         "Percentage": "97.19"
+      },
+      {
+         "Car Model": "Land Rover Discovery MkIV",
+         "Percentage": "94.63"
+      },
+      {
+         "Car Model": "Renault Kadjar MkI",
+         "Percentage": "93.72"
+      },
+      {
+         "Car Model": "Lexus IS MkIII",
+         "Percentage": "93.3"
+      },
+      {
+         "Car Model": "Renault ZOE MkI",
+         "Percentage": "92.99"
+      },
+      {
+         "Car Model": "Lexus GS MkIV",
+         "Percentage": "92.8"
+      },
+      {
+         "Car Model": "Jaguar XF MkI",
+         "Percentage": "92.68"
+      },
+      {
+         "Car Model": "Citroen C5 MkII",
+         "Percentage": "92.62"
+      },
+      {
+         "Car Model": "Skoda Citigo MkI",
+         "Percentage": "92.41"
+      },
+      {
+         "Car Model": "Jeep Grand Cherokee MKIV",
+         "Percentage": "92.38"
+      },
+      {
+         "Car Model": "Toyota Land Cruiser MkVII",
+         "Percentage": "92.26"
+      },
+      {
+         "Car Model": "Lexus RX MkII",
+         "Percentage": "92.07"
+      },
+      {
+         "Car Model": "MG MG6 MkI",
+         "Percentage": "91.7"
+      },
+      {
+         "Car Model": "Lexus RX MkIII",
+         "Percentage": "91.35"
+      },
+      {
+         "Car Model": "Subaru Forester MkIV",
+         "Percentage": "91.32"
+      }
+   ]
+}

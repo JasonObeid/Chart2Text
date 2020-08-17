@@ -1,0 +1,95 @@
+{
+   "title": "Average age of cars on the road in the United Kingdom ( UK ) , 2000 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Average age",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "In 2016 , the Average age of United Kingdom amounted to about 7.7 % compared to the previous Year . ",
+      "From 2000 to the previous Year , the Average age of a result was steadily . ",
+      "In 2016 , the Average age of United Kingdom was about 7.7 % ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {
+         "1": "16"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Average age": "7.7"
+      },
+      {
+         "Year": "2015",
+         "Average age": "7.8"
+      },
+      {
+         "Year": "2014",
+         "Average age": "7.8"
+      },
+      {
+         "Year": "2013",
+         "Average age": "7.7"
+      },
+      {
+         "Year": "2012",
+         "Average age": "7.59"
+      },
+      {
+         "Year": "2011",
+         "Average age": "7.44"
+      },
+      {
+         "Year": "2010",
+         "Average age": "7.25"
+      },
+      {
+         "Year": "2009",
+         "Average age": "7.06"
+      },
+      {
+         "Year": "2008",
+         "Average age": "6.93"
+      },
+      {
+         "Year": "2007",
+         "Average age": "6.79"
+      },
+      {
+         "Year": "2006",
+         "Average age": "6.73"
+      },
+      {
+         "Year": "2005",
+         "Average age": "6.7"
+      },
+      {
+         "Year": "2004",
+         "Average age": "6.69"
+      },
+      {
+         "Year": "2003",
+         "Average age": "6.78"
+      },
+      {
+         "Year": "2002",
+         "Average age": "6.88"
+      },
+      {
+         "Year": "2001",
+         "Average age": "7.01"
+      },
+      {
+         "Year": "2000",
+         "Average age": "7.11"
+      }
+   ]
+}

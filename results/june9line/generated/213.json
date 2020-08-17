@@ -1,0 +1,76 @@
+{
+   "title": "Volume of wine produced in Portugal 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Thousands of hectoliters",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the development of Thousands hectoliters of Portugal from 2006 to 2018 . ",
+      "The Thousands hectoliters of Portugal increased from approximately 5.6 thousands hectoliters in 2011 to approximately 7.54 thousands hectoliters in 2006 ."
+   ],
+   "trends": [
+      {
+         "11": "12",
+         "13": "0"
+      },
+      {
+         "8": "7",
+         "13": "7",
+         "16": "12",
+         "21": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Thousands of hectoliters": "6.1"
+      },
+      {
+         "Year": "2017",
+         "Thousands of hectoliters": "6.7"
+      },
+      {
+         "Year": "2016",
+         "Thousands of hectoliters": "6.0"
+      },
+      {
+         "Year": "2015",
+         "Thousands of hectoliters": "7.0"
+      },
+      {
+         "Year": "2014",
+         "Thousands of hectoliters": "6.2"
+      },
+      {
+         "Year": "2013",
+         "Thousands of hectoliters": "6.2"
+      },
+      {
+         "Year": "2012",
+         "Thousands of hectoliters": "6.3"
+      },
+      {
+         "Year": "2011",
+         "Thousands of hectoliters": "5.6"
+      },
+      {
+         "Year": "2010",
+         "Thousands of hectoliters": "7.13"
+      },
+      {
+         "Year": "2009",
+         "Thousands of hectoliters": "5.87"
+      },
+      {
+         "Year": "2008",
+         "Thousands of hectoliters": "5.69"
+      },
+      {
+         "Year": "2007",
+         "Thousands of hectoliters": "6.07"
+      },
+      {
+         "Year": "2006",
+         "Thousands of hectoliters": "7.54"
+      }
+   ]
+}

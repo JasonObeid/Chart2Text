@@ -1,0 +1,45 @@
+{
+   "title": "Zinc production U.S. 2015 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand metric tons",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents a Zinc of the U.S. and 2015 2019 thousand in the production metric 2015 to 2019 . ",
+      "metric 2017 to 2018 , the U.S. and 2015 2019 thousand is expected to increase by 825 thousand . ",
+      "Appreciation of the U.S. dollar is likely to reduce costs and increase production in the chemical industry ."
+   ],
+   "trends": [
+      {
+         "17": "4",
+         "19": "0"
+      },
+      {
+         "1": "2",
+         "3": "1",
+         "17": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in thousand metric tons": "780"
+      },
+      {
+         "Year": "2018",
+         "Production in thousand metric tons": "824"
+      },
+      {
+         "Year": "2017",
+         "Production in thousand metric tons": "774"
+      },
+      {
+         "Year": "2016",
+         "Production in thousand metric tons": "805"
+      },
+      {
+         "Year": "2015",
+         "Production in thousand metric tons": "825"
+      }
+   ]
+}

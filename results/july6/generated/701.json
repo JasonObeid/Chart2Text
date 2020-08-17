@@ -1,0 +1,71 @@
+{
+   "title": "Participants in roller skating in the U.S. from 2006 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of participants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of participants in roller skating in the U.S. from 2006 to 2017 . ",
+      "In 2017 , the Number of participants ( aged six years and older ) in roller skating amounted to approximately 11.58 millions ."
+   ],
+   "trends": [
+      {
+         "14": "11",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of participants in millions": "11.58"
+      },
+      {
+         "Year": "2016",
+         "Number of participants in millions": "11.88"
+      },
+      {
+         "Year": "2015",
+         "Number of participants in millions": "12.67"
+      },
+      {
+         "Year": "2014",
+         "Number of participants in millions": "12.98"
+      },
+      {
+         "Year": "2013",
+         "Number of participants in millions": "12.73"
+      },
+      {
+         "Year": "2012",
+         "Number of participants in millions": "13.35"
+      },
+      {
+         "Year": "2011",
+         "Number of participants in millions": "14.5"
+      },
+      {
+         "Year": "2010",
+         "Number of participants in millions": "16.11"
+      },
+      {
+         "Year": "2009",
+         "Number of participants in millions": "16.42"
+      },
+      {
+         "Year": "2008",
+         "Number of participants in millions": "17.46"
+      },
+      {
+         "Year": "2007",
+         "Number of participants in millions": "19.74"
+      },
+      {
+         "Year": "2006",
+         "Number of participants in millions": "19.87"
+      }
+   ]
+}

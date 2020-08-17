@@ -1,0 +1,95 @@
+{
+   "title": "Unemployment rate in EU and Euro area 2018",
+   "labels": [
+      "Year",
+      "EU",
+      "Euro area"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Unemployment rate EU in the EU and the EU 2018 from 2008 to 2018 . ",
+      "The figures refer to those younger than 25 years . ",
+      "In 2018 , the Unemployment rate EU in the EU amounted to 8.2 % ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "10",
+            "0"
+         ],
+         "17": [
+            "0",
+            "0"
+         ]
+      },
+      {},
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "12": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "EU": "7",
+         "Euro area": "8.2"
+      },
+      {
+         "Year": "2017",
+         "EU": "7.6",
+         "Euro area": "9.1"
+      },
+      {
+         "Year": "2016",
+         "EU": "8.6",
+         "Euro area": "10"
+      },
+      {
+         "Year": "2015",
+         "EU": "9.4",
+         "Euro area": "10.9"
+      },
+      {
+         "Year": "2014",
+         "EU": "10.2",
+         "Euro area": "11.6"
+      },
+      {
+         "Year": "2013",
+         "EU": "10.8",
+         "Euro area": "12"
+      },
+      {
+         "Year": "2012",
+         "EU": "10.5",
+         "Euro area": "11.4"
+      },
+      {
+         "Year": "2011",
+         "EU": "9.7",
+         "Euro area": "10.2"
+      },
+      {
+         "Year": "2010",
+         "EU": "9.6",
+         "Euro area": "10.2"
+      },
+      {
+         "Year": "2009",
+         "EU": "9",
+         "Euro area": "9.6"
+      },
+      {
+         "Year": "2008",
+         "EU": "7",
+         "Euro area": "7.6"
+      }
+   ]
+}

@@ -1,0 +1,51 @@
+{
+   "title": "Average cost of hospital per day by country 2015",
+   "xAxis": "Country",
+   "yAxis": "Average cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows Spain Average hospital cost by geographical country in 2015 , measured in billion dollars of . ",
+      "In the New_Zealand , there was a Spain of approximately 2142 million dollars of in 2015 . ",
+      "Spain Average is one of the world hospital largest dollars and gas companies ."
+   ],
+   "trends": [
+      {
+         "3": "5"
+      },
+      {
+         "2": "2",
+         "7": "5",
+         "10": "2"
+      },
+      {
+         "0": "5"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Average cost in U.S. dollars": "5220"
+      },
+      {
+         "Country": "Switzerland",
+         "Average cost in U.S. dollars": "4781"
+      },
+      {
+         "Country": "New Zealand",
+         "Average cost in U.S. dollars": "2142"
+      },
+      {
+         "Country": "Australia",
+         "Average cost in U.S. dollars": "765"
+      },
+      {
+         "Country": "South Africa",
+         "Average cost in U.S. dollars": "631"
+      },
+      {
+         "Country": "Spain",
+         "Average cost in U.S. dollars": "424"
+      }
+   ]
+}

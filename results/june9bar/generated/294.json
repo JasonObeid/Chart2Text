@@ -1,0 +1,41 @@
+{
+   "title": "Methods of ordering food for takeout or delivery in the U.S. as of April 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Methods ordering food of for By_phone takeout delivery in the U.S. as of 2015 . ",
+      "During the survey , 43.5 % of respondents stated they would choose In_person ordering ."
+   ],
+   "trends": [
+      {
+         "9": "0"
+      },
+      {
+         "4": "1",
+         "12": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "By phone",
+         "Share of respondents": "50.5"
+      },
+      {
+         "Response": "In person",
+         "Share of respondents": "43.5"
+      },
+      {
+         "Response": "Online",
+         "Share of respondents": "32.1"
+      },
+      {
+         "Response": "Via mobile app",
+         "Share of respondents": "3.9"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "0.2"
+      }
+   ]
+}

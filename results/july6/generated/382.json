@@ -1,0 +1,70 @@
+{
+   "title": "Number of Royal Dutch Shell shares 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of shares in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total Number of shares millions Dutch Royal Dutch Shell plc in the United Kingdom ( UK ) between 2008 and 2018 . ",
+      "Passenger numbers for the UK based airline have been increasing since 2010 and reached 8283 millions Dutch 2018 . ",
+      "This figure excludes the company 's subsidiary BA CityFlyer ."
+   ],
+   "trends": [
+      {
+         "20": "10",
+         "22": "0"
+      },
+      {
+         "11": "8",
+         "14": "0",
+         "17": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of shares in millions": "8283"
+      },
+      {
+         "Year": "2017",
+         "Number of shares in millions": "8223"
+      },
+      {
+         "Year": "2016",
+         "Number of shares in millions": "7834"
+      },
+      {
+         "Year": "2015",
+         "Number of shares in millions": "6320"
+      },
+      {
+         "Year": "2014",
+         "Number of shares in millions": "6311"
+      },
+      {
+         "Year": "2013",
+         "Number of shares in millions": "6291"
+      },
+      {
+         "Year": "2012",
+         "Number of shares in millions": "6261"
+      },
+      {
+         "Year": "2011",
+         "Number of shares in millions": "6213"
+      },
+      {
+         "Year": "2010",
+         "Number of shares in millions": "6133"
+      },
+      {
+         "Year": "2009",
+         "Number of shares in millions": "6125"
+      },
+      {
+         "Year": "2008",
+         "Number of shares in millions": "6159"
+      }
+   ]
+}

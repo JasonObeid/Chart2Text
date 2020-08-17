@@ -1,0 +1,58 @@
+{
+   "title": "University applicants in the United Kingdom ( UK ) 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of university applicants",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the Number university of the United Kingdom of from 2010 to 2018 . ",
+      "In 2018 , the United Kingdom of generated Number university worth approximately 674890 million applicants ."
+   ],
+   "trends": [
+      {
+         "12": "8",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "12": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of university applicants": "636960"
+      },
+      {
+         "Year": "2017",
+         "Number of university applicants": "649700"
+      },
+      {
+         "Year": "2016",
+         "Number of university applicants": "674890"
+      },
+      {
+         "Year": "2015",
+         "Number of university applicants": "673040"
+      },
+      {
+         "Year": "2014",
+         "Number of university applicants": "659030"
+      },
+      {
+         "Year": "2013",
+         "Number of university applicants": "635910"
+      },
+      {
+         "Year": "2012",
+         "Number of university applicants": "616700"
+      },
+      {
+         "Year": "2011",
+         "Number of university applicants": "668150"
+      },
+      {
+         "Year": "2010",
+         "Number of university applicants": "658560"
+      }
+   ]
+}

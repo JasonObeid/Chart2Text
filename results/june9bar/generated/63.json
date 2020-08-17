@@ -1,0 +1,44 @@
+{
+   "title": "Americans ' level of pride to be an American 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey about the level pride of several individual Americans No_opinion in Americans pride as of 2018 . ",
+      "During the survey , 47 % of respondents stated that they used the social networking site ."
+   ],
+   "trends": [
+      {
+         "16": "5"
+      },
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Extremely",
+         "Share of respondents": "47"
+      },
+      {
+         "Response": "Very",
+         "Share of respondents": "25"
+      },
+      {
+         "Response": "Moderately",
+         "Share of respondents": "16"
+      },
+      {
+         "Response": "Only a little",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Not at all",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "No opinion",
+         "Share of respondents": "1"
+      }
+   ]
+}

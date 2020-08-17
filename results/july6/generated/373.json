@@ -1,0 +1,68 @@
+{
+   "title": "Market share held by NAND and DRAM manufacturers 2017 and Q1'18",
+   "labels": [
+      "Year",
+      "SK Hynix",
+      "Micron",
+      "Sony",
+      "Toshiba",
+      "Samsung",
+      "TI",
+      "Intel",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows projected figures for the NAND market from 2017 to , 2017 product Q1'18 . ",
+      "For Q1_2018 , the NAND share held of Micron and NAND are by to reach 26.4 million units . ",
+      "The NAND NAND market - additional information After decades of being part of the essential arsenal of fictional heroes from Batman to James Bond , NAND ( also known as Sony technology or Sony computers ) are finally entering the mainstream ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "17": [
+            "1",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "SK Hynix": "27.8",
+         "Micron": "25.1",
+         "Sony": "10.5",
+         "Toshiba": "11.5",
+         "Samsung": "8.4",
+         "TI": "6",
+         "Intel": "3.7",
+         "Other": "7"
+      },
+      {
+         "Year": "Q1 2018",
+         "SK Hynix": "29.2",
+         "Micron": "26.4",
+         "Sony": "10.7",
+         "Toshiba": "8.6",
+         "Samsung": "6.8",
+         "TI": "5.9",
+         "Intel": "3.7",
+         "Other": "7"
+      }
+   ]
+}

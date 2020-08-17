@@ -1,0 +1,59 @@
+{
+   "title": "Saudi Arabia : number of internet users 2015 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of internet users in millions with a total of 9 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2023 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 9,
+         "direction": "negative",
+         "start": 0,
+         "end": 8,
+         "trend": "y=1.75x+-3513.47",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of internet users in millions": 35.0
+      },
+      {
+         "Year": "2022",
+         "Number of internet users in millions": 34.1
+      },
+      {
+         "Year": "2021",
+         "Number of internet users in millions": 33.0
+      },
+      {
+         "Year": "2020",
+         "Number of internet users in millions": 31.7
+      },
+      {
+         "Year": "2019",
+         "Number of internet users in millions": 30.2
+      },
+      {
+         "Year": "2018",
+         "Number of internet users in millions": 28.5
+      },
+      {
+         "Year": "2017",
+         "Number of internet users in millions": 26.4
+      },
+      {
+         "Year": "2016",
+         "Number of internet users in millions": 22.42
+      },
+      {
+         "Year": "2015",
+         "Number of internet users in millions": 21.54
+      }
+   ]
+}

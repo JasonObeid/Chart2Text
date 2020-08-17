@@ -1,0 +1,62 @@
+{
+   "title": "Major species groups in global aquaculture production worldwide 2017",
+   "xAxis": "Month",
+   "yAxis": "Production in thousand metric tons",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the annual Production of global aquaculture in selected Major worldwide as of 2013 . ",
+      "As of the third Month of 2017 , around 28345 thousand metric tons ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Carps barbels and other cyprinids",
+         "Production in thousand metric tons": "28345"
+      },
+      {
+         "Month": "Miscellaneous freshwater fishes",
+         "Production in thousand metric tons": "10433"
+      },
+      {
+         "Month": "Tilapias and other cichlids",
+         "Production in thousand metric tons": "5881"
+      },
+      {
+         "Month": "Oysters",
+         "Production in thousand metric tons": "5711"
+      },
+      {
+         "Month": "Clams cockles arkshells",
+         "Production in thousand metric tons": "5658"
+      },
+      {
+         "Month": "Shrimps prawns",
+         "Production in thousand metric tons": "5512"
+      },
+      {
+         "Month": "Salmons trouts smelts",
+         "Production in thousand metric tons": "3477"
+      },
+      {
+         "Month": "Freshwater crustaceans",
+         "Production in thousand metric tons": "2526"
+      },
+      {
+         "Month": "Scallops pectens",
+         "Production in thousand metric tons": "2185"
+      },
+      {
+         "Month": "Mussels",
+         "Production in thousand metric tons": "2164"
+      },
+      {
+         "Month": "Marine fishes not identified",
+         "Production in thousand metric tons": "990"
+      }
+   ]
+}

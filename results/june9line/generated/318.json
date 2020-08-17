@@ -1,0 +1,57 @@
+{
+   "title": "Migration balance in Belgium 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Migration balance",
+   "graphType": "line",
+   "summary": [
+      "This statistic represents the Migration balance of the Belgium of from 2010 to 2018 . ",
+      "In 2018 , the Belgium of generated Migration balance worth approximately 79446 million balance ."
+   ],
+   "trends": [
+      {
+         "12": "8",
+         "14": "0"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Migration balance": "50180"
+      },
+      {
+         "Year": "2017",
+         "Migration balance": "44536"
+      },
+      {
+         "Year": "2016",
+         "Migration balance": "42239"
+      },
+      {
+         "Year": "2015",
+         "Migration balance": "47682"
+      },
+      {
+         "Year": "2014",
+         "Migration balance": "39954"
+      },
+      {
+         "Year": "2013",
+         "Migration balance": "34843"
+      },
+      {
+         "Year": "2012",
+         "Migration balance": "44365"
+      },
+      {
+         "Year": "2011",
+         "Migration balance": "62157"
+      },
+      {
+         "Year": "2010",
+         "Migration balance": "79446"
+      }
+   ]
+}

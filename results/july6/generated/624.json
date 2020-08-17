@@ -1,0 +1,64 @@
+{
+   "title": "Leading countries based on hard coal production 2017",
+   "xAxis": "Country",
+   "yAxis": "Production in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the world 's Leading 10 based of hard coal in 2017 . ",
+      "In that year , China was the Leading producer with a Production volume of nearly 3236.1 million metric tons , followed by India with approximately 680.5 million metric tons of hard coal . ",
+      "Maize was the Leading vegetable based on countries Production volume in that year ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "15": "0",
+         "22": "1",
+         "25": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Production in million metric tons": "3236.1"
+      },
+      {
+         "Country": "India",
+         "Production in million metric tons": "680.5"
+      },
+      {
+         "Country": "United States",
+         "Production in million metric tons": "639.1"
+      },
+      {
+         "Country": "Australia",
+         "Production in million metric tons": "435.9"
+      },
+      {
+         "Country": "Indonesia",
+         "Production in million metric tons": "420.0"
+      },
+      {
+         "Country": "Russia",
+         "Production in million metric tons": "333.0"
+      },
+      {
+         "Country": "South Africa",
+         "Production in million metric tons": "252.3"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Production in million metric tons": "105.9"
+      },
+      {
+         "Country": "Colombia",
+         "Production in million metric tons": "90.9"
+      },
+      {
+         "Country": "Poland",
+         "Production in million metric tons": "65.8"
+      }
+   ]
+}

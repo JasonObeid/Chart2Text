@@ -1,0 +1,104 @@
+{
+   "title": "Average daily temperatures in the United Kingdom ( UK ) 2001 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Degrees Celsius",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Degrees of Scottish Celsius United the rest of the United Kingdom 2001 to 2019 . ",
+      "With the exception of 2002 , 2011 and 2015 , the Degrees of UK Celsius has increased United 10.2 % in 2010 to approximately 10.9 % by 2014 ."
+   ],
+   "trends": [
+      {
+         "16": "18",
+         "18": "0"
+      },
+      {
+         "4": "17",
+         "6": "8",
+         "8": "4",
+         "18": "18",
+         "21": "9",
+         "24": "5",
+         "27": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Degrees Celsius": "10.5"
+      },
+      {
+         "Year": "2018",
+         "Degrees Celsius": "10.6"
+      },
+      {
+         "Year": "2017",
+         "Degrees Celsius": "10.6"
+      },
+      {
+         "Year": "2016",
+         "Degrees Celsius": "10.3"
+      },
+      {
+         "Year": "2015",
+         "Degrees Celsius": "10.3"
+      },
+      {
+         "Year": "2014",
+         "Degrees Celsius": "10.9"
+      },
+      {
+         "Year": "2013",
+         "Degrees Celsius": "9.7"
+      },
+      {
+         "Year": "2012",
+         "Degrees Celsius": "9.8"
+      },
+      {
+         "Year": "2011",
+         "Degrees Celsius": "10.7"
+      },
+      {
+         "Year": "2010",
+         "Degrees Celsius": "9.0"
+      },
+      {
+         "Year": "2009",
+         "Degrees Celsius": "10.1"
+      },
+      {
+         "Year": "2008",
+         "Degrees Celsius": "10.0"
+      },
+      {
+         "Year": "2007",
+         "Degrees Celsius": "10.5"
+      },
+      {
+         "Year": "2006",
+         "Degrees Celsius": "10.8"
+      },
+      {
+         "Year": "2005",
+         "Degrees Celsius": "10.5"
+      },
+      {
+         "Year": "2004",
+         "Degrees Celsius": "10.6"
+      },
+      {
+         "Year": "2003",
+         "Degrees Celsius": "10.6"
+      },
+      {
+         "Year": "2002",
+         "Degrees Celsius": "10.8"
+      },
+      {
+         "Year": "2001",
+         "Degrees Celsius": "10.2"
+      }
+   ]
+}

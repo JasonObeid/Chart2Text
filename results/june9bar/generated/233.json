@@ -1,0 +1,95 @@
+{
+   "title": "Murder in the U.S. : number of offenders by age 2018",
+   "xAxis": "Age of offender in years",
+   "yAxis": "Number of offenders",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of Murder U.S. number offenders by in the 2018 as of 2019 , sorted 2018 Age . ",
+      "In 2018 , around 5099 % of U.S. offenders in 9_to_12 Age ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "18",
+         "11": "3"
+      }
+   ],
+   "data": [
+      {
+         "Age of offender in years": "Infant (<1)",
+         "Number of offenders": "0"
+      },
+      {
+         "Age of offender in years": "1 to 4",
+         "Number of offenders": "1"
+      },
+      {
+         "Age of offender in years": "5 to 8",
+         "Number of offenders": "1"
+      },
+      {
+         "Age of offender in years": "9 to 12",
+         "Number of offenders": "8"
+      },
+      {
+         "Age of offender in years": "13 to 16",
+         "Number of offenders": "496"
+      },
+      {
+         "Age of offender in years": "17 to 19",
+         "Number of offenders": "1479"
+      },
+      {
+         "Age of offender in years": "20 to 24",
+         "Number of offenders": "2254"
+      },
+      {
+         "Age of offender in years": "25 to 29",
+         "Number of offenders": "1998"
+      },
+      {
+         "Age of offender in years": "30 to 34",
+         "Number of offenders": "1440"
+      },
+      {
+         "Age of offender in years": "35 to 39",
+         "Number of offenders": "1161"
+      },
+      {
+         "Age of offender in years": "40 to 44",
+         "Number of offenders": "651"
+      },
+      {
+         "Age of offender in years": "45 to 49",
+         "Number of offenders": "495"
+      },
+      {
+         "Age of offender in years": "50 to 54",
+         "Number of offenders": "439"
+      },
+      {
+         "Age of offender in years": "55 to 59",
+         "Number of offenders": "346"
+      },
+      {
+         "Age of offender in years": "60 to 64",
+         "Number of offenders": "186"
+      },
+      {
+         "Age of offender in years": "65 to 69",
+         "Number of offenders": "106"
+      },
+      {
+         "Age of offender in years": "70 to 74",
+         "Number of offenders": "82"
+      },
+      {
+         "Age of offender in years": "75+",
+         "Number of offenders": "93"
+      },
+      {
+         "Age of offender in years": "Unknown",
+         "Number of offenders": "5099"
+      }
+   ]
+}

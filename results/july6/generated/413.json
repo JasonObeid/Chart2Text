@@ -1,0 +1,56 @@
+{
+   "title": "Preferred online retail payment methods worldwide 2017",
+   "xAxis": "Payment Method",
+   "yAxis": "Share of online shoppers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Payment online programs with the most online in the Preferred online Share ( Madness , Big Dance ) . ",
+      "The online team of Cash_on_delivery has participated 28 times in the Share up to 2017 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "3",
+         "7": "2"
+      }
+   ],
+   "data": [
+      {
+         "Payment Method": "Credit cards",
+         "Share of online shoppers": "42"
+      },
+      {
+         "Payment Method": "Electronic payment (PayPal if available)",
+         "Share of online shoppers": "39"
+      },
+      {
+         "Payment Method": "Debit cards",
+         "Share of online shoppers": "28"
+      },
+      {
+         "Payment Method": "Cash on delivery",
+         "Share of online shoppers": "23"
+      },
+      {
+         "Payment Method": "Bank transfers",
+         "Share of online shoppers": "20"
+      },
+      {
+         "Payment Method": "Gift cards or vouchers",
+         "Share of online shoppers": "15"
+      },
+      {
+         "Payment Method": "Mobile payment",
+         "Share of online shoppers": "14"
+      },
+      {
+         "Payment Method": "Cryptocurrencies (Bitcoin)",
+         "Share of online shoppers": "3"
+      },
+      {
+         "Payment Method": "Other",
+         "Share of online shoppers": "3"
+      }
+   ]
+}

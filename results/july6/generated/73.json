@@ -1,0 +1,98 @@
+{
+   "title": "GDP of Canada 1960 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Gross domestic product in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows Gross domestic product ( 2018 ) in Canada from 1960 to 2018 . ",
+      "Gross domestic product ( 2018 ) denotes the aggregate value of all services and goods produced within a country in any given Year . ",
+      "2018 is an important indicator of a country 's economic power ."
+   ],
+   "trends": [
+      {
+         "12": "18",
+         "14": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Gross domestic product in billion U.S. dollars": "1709.33"
+      },
+      {
+         "Year": "2017",
+         "Gross domestic product in billion U.S. dollars": "1646.87"
+      },
+      {
+         "Year": "2016",
+         "Gross domestic product in billion U.S. dollars": "1526.71"
+      },
+      {
+         "Year": "2015",
+         "Gross domestic product in billion U.S. dollars": "1552.9"
+      },
+      {
+         "Year": "2014",
+         "Gross domestic product in billion U.S. dollars": "1801.48"
+      },
+      {
+         "Year": "2013",
+         "Gross domestic product in billion U.S. dollars": "1842.02"
+      },
+      {
+         "Year": "2012",
+         "Gross domestic product in billion U.S. dollars": "1823.97"
+      },
+      {
+         "Year": "2011",
+         "Gross domestic product in billion U.S. dollars": "1789.14"
+      },
+      {
+         "Year": "2010",
+         "Gross domestic product in billion U.S. dollars": "1613.54"
+      },
+      {
+         "Year": "2005",
+         "Gross domestic product in billion U.S. dollars": "1169.36"
+      },
+      {
+         "Year": "2000",
+         "Gross domestic product in billion U.S. dollars": "742.3"
+      },
+      {
+         "Year": "1995",
+         "Gross domestic product in billion U.S. dollars": "604.03"
+      },
+      {
+         "Year": "1990",
+         "Gross domestic product in billion U.S. dollars": "593.93"
+      },
+      {
+         "Year": "1985",
+         "Gross domestic product in billion U.S. dollars": "364.76"
+      },
+      {
+         "Year": "1980",
+         "Gross domestic product in billion U.S. dollars": "273.85"
+      },
+      {
+         "Year": "1975",
+         "Gross domestic product in billion U.S. dollars": "173.83"
+      },
+      {
+         "Year": "1970",
+         "Gross domestic product in billion U.S. dollars": "87.9"
+      },
+      {
+         "Year": "1965",
+         "Gross domestic product in billion U.S. dollars": "53.91"
+      },
+      {
+         "Year": "1960",
+         "Gross domestic product in billion U.S. dollars": "41.09"
+      }
+   ]
+}

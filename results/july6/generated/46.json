@@ -1,0 +1,73 @@
+{
+   "title": "Market size of professional football in Europe 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic illustrates the Revenue of Europe & Cie. from 2006/07 to 2017/18 . ",
+      "In its fiscal Year 2016/17 , Europe made total Revenue of 28.4 billion euros worldwide , a record high . ",
+      "Europe 's annual sales have witnessed continuous growth during the measured period ."
+   ],
+   "trends": [
+      {
+         "10": "11",
+         "12": "0"
+      },
+      {
+         "4": "1",
+         "11": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Revenue in billion euros": "28.4"
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in billion euros": "25.5"
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in billion euros": "24.6"
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in billion euros": "21.8"
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in billion euros": "21.3"
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in billion euros": "19.9"
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in billion euros": "19.4"
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in billion euros": "16.9"
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in billion euros": "16.3"
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in billion euros": "15.7"
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in billion euros": "14.6"
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in billion euros": "13.6"
+      }
+   ]
+}

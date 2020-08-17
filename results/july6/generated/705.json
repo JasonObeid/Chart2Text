@@ -1,0 +1,94 @@
+{
+   "title": "Population to dentist ratio in Canada by province 2014",
+   "labels": [
+      "Month",
+      "1997",
+      "2005",
+      "2014"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Canada by of Canada and dentist to province 2014 from to 2014 , . ",
+      "Canada and dentist directly contributed approximately 2610 % jobs to the Saskatchewan Newfoundland_and_Labrador Asian economy in 2014 ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": [
+            "2",
+            "2"
+         ],
+         "11": [
+            "1",
+            "0"
+         ],
+         "12": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Month": "Newfoundland and Labrador",
+         "1997": "3720",
+         "2005": "3150",
+         "2014": "2740"
+      },
+      {
+         "Month": "Saskatchewan",
+         "1997": "2870",
+         "2005": "2790",
+         "2014": "2680"
+      },
+      {
+         "Month": "New Brunswick",
+         "1997": "3100",
+         "2005": "2610",
+         "2014": "2450"
+      },
+      {
+         "Month": "Manitoba",
+         "1997": "2120",
+         "2005": "2060",
+         "2014": "1910"
+      },
+      {
+         "Month": "Prince Edward Island",
+         "1997": "2780",
+         "2005": "2260",
+         "2014": "1890"
+      },
+      {
+         "Month": "Alberta",
+         "1997": "1960",
+         "2005": "1820",
+         "2014": "1850"
+      },
+      {
+         "Month": "Nova Scotia",
+         "1997": "2170",
+         "2005": "1830",
+         "2014": "1730"
+      },
+      {
+         "Month": "Quebec",
+         "1997": "1880",
+         "2005": "1870",
+         "2014": "1660"
+      },
+      {
+         "Month": "Ontario",
+         "1997": "1760",
+         "2005": "1590",
+         "2014": "1510"
+      },
+      {
+         "Month": "British Columbia",
+         "1997": "1610",
+         "2005": "1470",
+         "2014": "1470"
+      }
+   ]
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Canada retail e-commerce sales growth 2018 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Year-over-year change",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Year-over-year change with a total of 6 data points. The chart has one significant trend.",
+      " This trend is  positive which exists from 2023 to 2018."
+   ],
+   "trends": [
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 0,
+         "end": 5,
+         "trend": "y=-1.38x+2801.23",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Year-over-year change": 3.1
+      },
+      {
+         "Year": "2022",
+         "Year-over-year change": 4.7
+      },
+      {
+         "Year": "2021",
+         "Year-over-year change": 6.9
+      },
+      {
+         "Year": "2020",
+         "Year-over-year change": 9.1
+      },
+      {
+         "Year": "2019",
+         "Year-over-year change": 10.1
+      },
+      {
+         "Year": "2018",
+         "Year-over-year change": 9.1
+      }
+   ]
+}

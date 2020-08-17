@@ -1,0 +1,67 @@
+{
+   "title": "Total population of Pakistan 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Total population of Pakistan from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of Pakistan amounted to approximately 200.96 millions Inhabitants ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "11": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "224.66"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "220.53"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "216.47"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "212.48"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "208.57"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "204.73"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "200.96"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "197.26"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "193.56"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "189.87"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "186.19"
+      }
+   ]
+}

@@ -1,0 +1,104 @@
+{
+   "title": "Esophageal cancer cases in England 2017 , by age and gender",
+   "labels": [
+      "Age group",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Esophageal cancer cases England 2017 in the England age gender from 2017 to . ",
+      "During the survey , 18 % of respondents in the 156 to Men olds group stated they were unemployed ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "3",
+            "1"
+         ],
+         "10": [
+            "14",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Age group": "20-24",
+         "Men": "4",
+         "Women": "1"
+      },
+      {
+         "Age group": "25-29",
+         "Men": "7",
+         "Women": "1"
+      },
+      {
+         "Age group": "30-34",
+         "Men": "10",
+         "Women": "1"
+      },
+      {
+         "Age group": "35-39",
+         "Men": "18",
+         "Women": "7"
+      },
+      {
+         "Age group": "40-44",
+         "Men": "34",
+         "Women": "9"
+      },
+      {
+         "Age group": "45-49",
+         "Men": "124",
+         "Women": "30"
+      },
+      {
+         "Age group": "50-54",
+         "Men": "248",
+         "Women": "72"
+      },
+      {
+         "Age group": "55-59",
+         "Men": "433",
+         "Women": "106"
+      },
+      {
+         "Age group": "60-64",
+         "Men": "616",
+         "Women": "203"
+      },
+      {
+         "Age group": "65-69",
+         "Men": "850",
+         "Women": "317"
+      },
+      {
+         "Age group": "70-74",
+         "Men": "1037",
+         "Women": "372"
+      },
+      {
+         "Age group": "75-79",
+         "Men": "793",
+         "Women": "354"
+      },
+      {
+         "Age group": "80-84",
+         "Men": "567",
+         "Women": "352"
+      },
+      {
+         "Age group": "85-89",
+         "Men": "383",
+         "Women": "278"
+      },
+      {
+         "Age group": "90 and over",
+         "Men": "156",
+         "Women": "186"
+      }
+   ]
+}

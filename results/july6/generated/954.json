@@ -1,0 +1,39 @@
+{
+   "title": "Apple Music users in the U.S. 2018 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of users",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Apple of Music users in the Apple Music as of 2014 , broken down age . ",
+      "During the measured period , 23 % of Music users were between 30 and 34 years old ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-24",
+         "Share of users": "17"
+      },
+      {
+         "Year": "25-34",
+         "Share of users": "23"
+      },
+      {
+         "Year": "35-44",
+         "Share of users": "22"
+      },
+      {
+         "Year": "45-54",
+         "Share of users": "15"
+      },
+      {
+         "Year": "55+",
+         "Share of users": "23"
+      }
+   ]
+}

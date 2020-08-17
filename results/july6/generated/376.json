@@ -1,0 +1,57 @@
+{
+   "title": "Number of social network users Australia 2015 to 2022",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of Australia users in Australia from 2015 to 2022 . ",
+      "In 2022 , the Number of Australia users in Australia is expected to reach 19.27 millions , up from 17.19 millions in 2017 ."
+   ],
+   "trends": [
+      {
+         "11": "7",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "14": "0",
+         "19": "5",
+         "22": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2022",
+         "Number of users in millions": "19.27"
+      },
+      {
+         "Year": "2021",
+         "Number of users in millions": "18.94"
+      },
+      {
+         "Year": "2020",
+         "Number of users in millions": "18.58"
+      },
+      {
+         "Year": "2019",
+         "Number of users in millions": "18.17"
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": "17.7"
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": "17.19"
+      },
+      {
+         "Year": "2016",
+         "Number of users in millions": "16.62"
+      },
+      {
+         "Year": "2015",
+         "Number of users in millions": "15.99"
+      }
+   ]
+}

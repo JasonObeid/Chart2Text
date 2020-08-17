@@ -1,0 +1,72 @@
+{
+   "title": "Vending machines : Market share of product categories in the U.S. 2010",
+   "labels": [
+      "Food Type",
+      "2009",
+      "2010"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This grouped bar chart has 10 categories for the x axis of Food Type representing 2009, and 2010.",
+      " The highest category is found at Packaged cold beverages with a mean value of 55.150000000000006.",
+      " The second highest category is found at Snacks confections pastry with a mean value of 22.75.",
+      " This represents a difference of 83.2%."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "secondIndex": 0
+   },
+   "data": [
+      {
+         "Food Type": "Packaged cold beverages",
+         "2009": "54.2",
+         "2010": "56.1"
+      },
+      {
+         "Food Type": "Snacks confections pastry",
+         "2009": "22.5",
+         "2010": "23"
+      },
+      {
+         "Food Type": "Hot drinks",
+         "2009": "8.4",
+         "2010": "6.8"
+      },
+      {
+         "Food Type": "Vended food",
+         "2009": "6.7",
+         "2010": "6.5"
+      },
+      {
+         "Food Type": "Ice cream",
+         "2009": "2",
+         "2010": "2.1"
+      },
+      {
+         "Food Type": "Milk",
+         "2009": "1.9",
+         "2010": "1.8"
+      },
+      {
+         "Food Type": "Bulk vending",
+         "2009": "1",
+         "2010": "1"
+      },
+      {
+         "Food Type": "Cold drinks (cup)",
+         "2009": "1",
+         "2010": "0.6"
+      },
+      {
+         "Food Type": "Cigarettes & Cigars",
+         "2009": "0.7",
+         "2010": "0.6"
+      },
+      {
+         "Food Type": "All other",
+         "2009": "1.6",
+         "2010": "1.5"
+      }
+   ]
+}

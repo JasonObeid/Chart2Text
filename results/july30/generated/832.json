@@ -1,0 +1,55 @@
+{
+   "title": "Missing persons cases 2012 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of cases",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of cases with a total of 8 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from H1_2019 to 2012."
+   ],
+   "trends": [
+      {
+         "Length": 8,
+         "direction": "negative",
+         "start": 0,
+         "end": 7,
+         "trend": "y=-79.21x+331143.54",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "H1 2019",
+         "Number of cases": 236656.0
+      },
+      {
+         "Year": "2018",
+         "Number of cases": 229687.0
+      },
+      {
+         "Year": "2017",
+         "Number of cases": 211219.0
+      },
+      {
+         "Year": "2016",
+         "Number of cases": 189110.0
+      },
+      {
+         "Year": "2015",
+         "Number of cases": 166280.0
+      },
+      {
+         "Year": "2014",
+         "Number of cases": 149036.0
+      },
+      {
+         "Year": "2013",
+         "Number of cases": 133989.0
+      },
+      {
+         "Year": "2012",
+         "Number of cases": 120791.0
+      }
+   ]
+}

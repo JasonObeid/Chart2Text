@@ -1,0 +1,85 @@
+{
+   "title": "Music genres preferred by consumers in the U.S. 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic presents the results of a survey conducted in 2018 and 2019 to find out about the situation of Jazz and Electronic/dance ( in ) equality across 27 countries . ",
+      "When asked which were the main by Latin Jazz and were consumers in U.S. , 56.8 % of respondents answered Rock ."
+   ],
+   "trends": [
+      {
+         "20": "7",
+         "22": "6"
+      },
+      {
+         "7": "13",
+         "8": "7",
+         "10": "7",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Rock",
+         "Share of respondents": "56.8"
+      },
+      {
+         "Response": "Pop",
+         "Share of respondents": "56.1"
+      },
+      {
+         "Response": "Country",
+         "Share of respondents": "49.9"
+      },
+      {
+         "Response": "R&B and Soul",
+         "Share of respondents": "38.9"
+      },
+      {
+         "Response": "Hip Hop",
+         "Share of respondents": "37.4"
+      },
+      {
+         "Response": "Easy Listening",
+         "Share of respondents": "32.7"
+      },
+      {
+         "Response": "Electronic/dance",
+         "Share of respondents": "20.6"
+      },
+      {
+         "Response": "Jazz",
+         "Share of respondents": "20.2"
+      },
+      {
+         "Response": "Blues",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "Classical and Opera",
+         "Share of respondents": "17.4"
+      },
+      {
+         "Response": "Heavy metal",
+         "Share of respondents": "16.9"
+      },
+      {
+         "Response": "Reggae",
+         "Share of respondents": "16.1"
+      },
+      {
+         "Response": "Folk",
+         "Share of respondents": "14.1"
+      },
+      {
+         "Response": "Latin",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "9.3"
+      }
+   ]
+}

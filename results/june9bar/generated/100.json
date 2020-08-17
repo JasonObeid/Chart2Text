@@ -1,0 +1,58 @@
+{
+   "title": "Leading diversified financial service companies in the U.S. 2018 , by revenue",
+   "xAxis": "Month",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the diversified financial service companies U.S. in selected U.S. 2018 as of 2018 . ",
+      "As of that year , U.S. had a total of 120.1 billion U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Fannie Mae",
+         "Revenue in billion U.S. dollars": "120.1"
+      },
+      {
+         "Month": "Freddie Mac",
+         "Revenue in billion U.S. dollars": "73.6"
+      },
+      {
+         "Month": "American Express",
+         "Revenue in billion U.S. dollars": "43.28"
+      },
+      {
+         "Month": "INTL FCStone",
+         "Revenue in billion U.S. dollars": "27.66"
+      },
+      {
+         "Month": "Icahn Enterprises",
+         "Revenue in billion U.S. dollars": "18.98"
+      },
+      {
+         "Month": "Synchrony Financial",
+         "Revenue in billion U.S. dollars": "18.25"
+      },
+      {
+         "Month": "Marsh & McLennan",
+         "Revenue in billion U.S. dollars": "14.95"
+      },
+      {
+         "Month": "Ameriprise Financial",
+         "Revenue in billion U.S. dollars": "12.92"
+      },
+      {
+         "Month": "Ally Financial",
+         "Revenue in billion U.S. dollars": "10.47"
+      },
+      {
+         "Month": "Voya Financial",
+         "Revenue in billion U.S. dollars": "8.93"
+      }
+   ]
+}

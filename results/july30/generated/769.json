@@ -1,0 +1,141 @@
+{
+   "title": "Net interest margin of banks in the U.S. 1995 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Net interest margin",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net interest margin, with a total of 25 data points. The chart has 3 significant trends.",
+      " The longest trend is  positive which exists from 2008 to 2002.",
+      " In a similar manner, the next significant trend is  positive which exists from 2015 to 2010.",
+      " Correspondingly, the next significant trend is  negative which exists from 2019 to 2015."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 11,
+         "end": 17,
+         "trend": "y=-0.12x+244.9",
+         "magnitude": ""
+      },
+      {
+         "Length": 6,
+         "direction": "positive",
+         "start": 4,
+         "end": 9,
+         "trend": "y=-0.16x+317.28",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=0.1x+-202.57",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net interest margin": 3.35
+      },
+      {
+         "Year": "2018",
+         "Net interest margin": 3.31
+      },
+      {
+         "Year": "2017",
+         "Net interest margin": 3.14
+      },
+      {
+         "Year": "2016",
+         "Net interest margin": 3.03
+      },
+      {
+         "Year": "2015",
+         "Net interest margin": 2.98
+      },
+      {
+         "Year": "2014",
+         "Net interest margin": 3.1
+      },
+      {
+         "Year": "2013",
+         "Net interest margin": 3.2
+      },
+      {
+         "Year": "2012",
+         "Net interest margin": 3.41
+      },
+      {
+         "Year": "2011",
+         "Net interest margin": 3.55
+      },
+      {
+         "Year": "2010",
+         "Net interest margin": 3.76
+      },
+      {
+         "Year": "2009",
+         "Net interest margin": 3.36
+      },
+      {
+         "Year": "2008",
+         "Net interest margin": 3.27
+      },
+      {
+         "Year": "2007",
+         "Net interest margin": 3.35
+      },
+      {
+         "Year": "2006",
+         "Net interest margin": 3.45
+      },
+      {
+         "Year": "2005",
+         "Net interest margin": 3.56
+      },
+      {
+         "Year": "2004",
+         "Net interest margin": 3.62
+      },
+      {
+         "Year": "2003",
+         "Net interest margin": 3.75
+      },
+      {
+         "Year": "2002",
+         "Net interest margin": 4.07
+      },
+      {
+         "Year": "2001",
+         "Net interest margin": 3.85
+      },
+      {
+         "Year": "2000",
+         "Net interest margin": 3.93
+      },
+      {
+         "Year": "1999",
+         "Net interest margin": 4.04
+      },
+      {
+         "Year": "1998",
+         "Net interest margin": 4.04
+      },
+      {
+         "Year": "1997",
+         "Net interest margin": 4.3
+      },
+      {
+         "Year": "1996",
+         "Net interest margin": 4.3
+      },
+      {
+         "Year": "1995",
+         "Net interest margin": 4.23
+      }
+   ]
+}

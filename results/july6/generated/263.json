@@ -1,0 +1,100 @@
+{
+   "title": "Number of hospitals in Germany 2000 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of hospitals",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "According to a survey conducted by the Organization for Economic Cooperation and Development ( OECD ) , the Number of hospitals in Germany steadily decreased between the years 2000 and 2013 , going from 2242 to 1942 within twelve years . ",
+      "Nevertheless , this trend was abruptly reverted during the first Year of the Hollande Presidency : the Number of hospitals jumped from 1942 in 2017 to 2242 in 2000 . ",
+      "The Number of Public hospitals in Germany have increased during Hollande 's presidency During the first Year of the former French president Fran\u00e7ois Hollande Presidency , the Number of publicly owned hospitals in Germany also increased at an abrupt pace , going from 928 in 2013 to 1,458 hospitals in 2014 ."
+   ],
+   "trends": [
+      {
+         "28": "16",
+         "30": "4",
+         "34": "16",
+         "36": "0"
+      },
+      {
+         "22": "0",
+         "24": "0",
+         "26": "16",
+         "28": "16"
+      },
+      {
+         "45": "4",
+         "50": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of hospitals": "1942"
+      },
+      {
+         "Year": "2016",
+         "Number of hospitals": "1951"
+      },
+      {
+         "Year": "2015",
+         "Number of hospitals": "1956"
+      },
+      {
+         "Year": "2014",
+         "Number of hospitals": "1980"
+      },
+      {
+         "Year": "2013",
+         "Number of hospitals": "1996"
+      },
+      {
+         "Year": "2012",
+         "Number of hospitals": "2017"
+      },
+      {
+         "Year": "2011",
+         "Number of hospitals": "2045"
+      },
+      {
+         "Year": "2010",
+         "Number of hospitals": "2064"
+      },
+      {
+         "Year": "2009",
+         "Number of hospitals": "2084"
+      },
+      {
+         "Year": "2008",
+         "Number of hospitals": "2083"
+      },
+      {
+         "Year": "2007",
+         "Number of hospitals": "2087"
+      },
+      {
+         "Year": "2006",
+         "Number of hospitals": "2104"
+      },
+      {
+         "Year": "2005",
+         "Number of hospitals": "2139"
+      },
+      {
+         "Year": "2004",
+         "Number of hospitals": "2166"
+      },
+      {
+         "Year": "2003",
+         "Number of hospitals": "2197"
+      },
+      {
+         "Year": "2002",
+         "Number of hospitals": "2221"
+      },
+      {
+         "Year": "2000",
+         "Number of hospitals": "2242"
+      }
+   ]
+}

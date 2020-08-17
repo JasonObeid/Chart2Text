@@ -1,0 +1,143 @@
+{
+   "title": "Population in China in 2018 , by region",
+   "xAxis": "Province",
+   "yAxis": "Population in million inhabitants",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the Population China 2018 by region ( China ) region as of 2020 . ",
+      "As of the fourth Province of 2019 , 113.46 million of China stated that they went to Guangdong ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Province": "Guangdong",
+         "Population in million inhabitants": "113.46"
+      },
+      {
+         "Province": "Shandong",
+         "Population in million inhabitants": "100.47"
+      },
+      {
+         "Province": "Henan",
+         "Population in million inhabitants": "96.05"
+      },
+      {
+         "Province": "Sichuan",
+         "Population in million inhabitants": "83.41"
+      },
+      {
+         "Province": "Jiangsu",
+         "Population in million inhabitants": "80.51"
+      },
+      {
+         "Province": "Hebei",
+         "Population in million inhabitants": "75.56"
+      },
+      {
+         "Province": "Hunan",
+         "Population in million inhabitants": "68.99"
+      },
+      {
+         "Province": "Anhui",
+         "Population in million inhabitants": "63.24"
+      },
+      {
+         "Province": "Hubei",
+         "Population in million inhabitants": "59.17"
+      },
+      {
+         "Province": "Zhejiang",
+         "Population in million inhabitants": "57.37"
+      },
+      {
+         "Province": "Guangxi",
+         "Population in million inhabitants": "49.26"
+      },
+      {
+         "Province": "Yunnan",
+         "Population in million inhabitants": "48.3"
+      },
+      {
+         "Province": "Jiangxi",
+         "Population in million inhabitants": "46.48"
+      },
+      {
+         "Province": "Liaoning",
+         "Population in million inhabitants": "43.59"
+      },
+      {
+         "Province": "Fujian",
+         "Population in million inhabitants": "39.41"
+      },
+      {
+         "Province": "Shaanxi",
+         "Population in million inhabitants": "38.64"
+      },
+      {
+         "Province": "Heilongjiang",
+         "Population in million inhabitants": "37.73"
+      },
+      {
+         "Province": "Shanxi",
+         "Population in million inhabitants": "37.18"
+      },
+      {
+         "Province": "Guizhou",
+         "Population in million inhabitants": "36.0"
+      },
+      {
+         "Province": "Chongqing",
+         "Population in million inhabitants": "31.02"
+      },
+      {
+         "Province": "Jilin",
+         "Population in million inhabitants": "27.04"
+      },
+      {
+         "Province": "Gansu",
+         "Population in million inhabitants": "26.37"
+      },
+      {
+         "Province": "Inner Mongolia",
+         "Population in million inhabitants": "25.34"
+      },
+      {
+         "Province": "Xinjiang",
+         "Population in million inhabitants": "24.87"
+      },
+      {
+         "Province": "Shanghai",
+         "Population in million inhabitants": "24.24"
+      },
+      {
+         "Province": "Beijing",
+         "Population in million inhabitants": "21.54"
+      },
+      {
+         "Province": "Tianjin",
+         "Population in million inhabitants": "15.6"
+      },
+      {
+         "Province": "Hainan",
+         "Population in million inhabitants": "9.34"
+      },
+      {
+         "Province": "Ningxia",
+         "Population in million inhabitants": "6.88"
+      },
+      {
+         "Province": "Qinghai",
+         "Population in million inhabitants": "6.03"
+      },
+      {
+         "Province": "Tibet",
+         "Population in million inhabitants": "3.44"
+      }
+   ]
+}

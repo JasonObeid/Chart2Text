@@ -1,0 +1,160 @@
+{
+   "title": "Americans ' moral stance towards doctor-assisted suicide from 2001 to 2018",
+   "labels": [
+      "Year",
+      "Morally acceptable",
+      "Morally wrong",
+      "Depends on situation"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Americans of ' moral stance towards from 2001 to 2018 , from 2001 . ",
+      "In 2018 , there were 57 % ' moral stance in Morally acceptable and 3 % in the Depends on . ",
+      "' tourism - additional information The Americans of ' moral stance towards increase year-on-year between 2001 and 2017 , with the exception of 2008 when the figure fell slightly \u2013 most likely due to the economic downturn experienced globally during that Year ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "16",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "5": [
+            "1",
+            "1"
+         ],
+         "14": [
+            "0",
+            "3"
+         ]
+      },
+      {
+         "15": [
+            "16",
+            "0"
+         ],
+         "17": [
+            "1",
+            "0"
+         ],
+         "23": [
+            "9",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Morally acceptable": "54",
+         "Morally wrong": "42",
+         "Depends on situation": "3"
+      },
+      {
+         "Year": "2017",
+         "Morally acceptable": "57",
+         "Morally wrong": "37",
+         "Depends on situation": "4"
+      },
+      {
+         "Year": "2016",
+         "Morally acceptable": "53",
+         "Morally wrong": "41",
+         "Depends on situation": "4"
+      },
+      {
+         "Year": "2015",
+         "Morally acceptable": "56",
+         "Morally wrong": "37",
+         "Depends on situation": "4"
+      },
+      {
+         "Year": "2014",
+         "Morally acceptable": "52",
+         "Morally wrong": "43",
+         "Depends on situation": "3"
+      },
+      {
+         "Year": "2013",
+         "Morally acceptable": "45",
+         "Morally wrong": "49",
+         "Depends on situation": "4"
+      },
+      {
+         "Year": "2012",
+         "Morally acceptable": "45",
+         "Morally wrong": "48",
+         "Depends on situation": "4"
+      },
+      {
+         "Year": "2011",
+         "Morally acceptable": "45",
+         "Morally wrong": "48",
+         "Depends on situation": "5"
+      },
+      {
+         "Year": "2010",
+         "Morally acceptable": "46",
+         "Morally wrong": "46",
+         "Depends on situation": "6"
+      },
+      {
+         "Year": "2008",
+         "Morally acceptable": "51",
+         "Morally wrong": "44",
+         "Depends on situation": "3"
+      },
+      {
+         "Year": "2007",
+         "Morally acceptable": "49",
+         "Morally wrong": "44",
+         "Depends on situation": "5"
+      },
+      {
+         "Year": "2006",
+         "Morally acceptable": "50",
+         "Morally wrong": "41",
+         "Depends on situation": "6"
+      },
+      {
+         "Year": "2005",
+         "Morally acceptable": "49",
+         "Morally wrong": "46",
+         "Depends on situation": "4"
+      },
+      {
+         "Year": "2004",
+         "Morally acceptable": "53",
+         "Morally wrong": "41",
+         "Depends on situation": "3"
+      },
+      {
+         "Year": "2003",
+         "Morally acceptable": "45",
+         "Morally wrong": "49",
+         "Depends on situation": "5"
+      },
+      {
+         "Year": "2002",
+         "Morally acceptable": "50",
+         "Morally wrong": "44",
+         "Depends on situation": "4"
+      },
+      {
+         "Year": "2001",
+         "Morally acceptable": "49",
+         "Morally wrong": "40",
+         "Depends on situation": "8"
+      }
+   ]
+}

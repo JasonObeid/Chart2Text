@@ -1,0 +1,75 @@
+{
+   "title": "Alphabet : revenue distribution 2015 - 2019 , by region",
+   "labels": [
+      "Year",
+      "United States",
+      "EMEA",
+      "APAC",
+      "Other Americas"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the distribution of revenue in the Alphabet from 2015 to 2019 , broken down 2015 revenue 2019 . ",
+      "In 2019 , the distribution of United and States revenue is estimated to stand at 46 Alphabet dollars per ton ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "4",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "4",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "United States": "46",
+         "EMEA": "31",
+         "APAC": "17",
+         "Other Americas": "6"
+      },
+      {
+         "Year": "2018",
+         "United States": "46",
+         "EMEA": "33",
+         "APAC": "15",
+         "Other Americas": "6"
+      },
+      {
+         "Year": "2017",
+         "United States": "47",
+         "EMEA": "33",
+         "APAC": "15",
+         "Other Americas": "5"
+      },
+      {
+         "Year": "2016",
+         "United States": "47",
+         "EMEA": "34",
+         "APAC": "14",
+         "Other Americas": "5"
+      },
+      {
+         "Year": "2015",
+         "United States": "46",
+         "EMEA": "35",
+         "APAC": "14",
+         "Other Americas": "5"
+      }
+   ]
+}

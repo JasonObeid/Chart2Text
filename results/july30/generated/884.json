@@ -1,0 +1,63 @@
+{
+   "title": "South Korea : e-commerce sales volume 2009 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "E-commerce sales volume in trillion Korean won",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing E-commerce sales volume in trillion Korean won with a total of 10 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2018 to 2009."
+   ],
+   "trends": [
+      {
+         "Length": 10,
+         "direction": "negative",
+         "start": 0,
+         "end": 9,
+         "trend": "y=9.4x+-18872.73",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "E-commerce sales volume in trillion Korean won": 113.73
+      },
+      {
+         "Year": "2017",
+         "E-commerce sales volume in trillion Korean won": 91.99
+      },
+      {
+         "Year": "2016",
+         "E-commerce sales volume in trillion Korean won": 64.91
+      },
+      {
+         "Year": "2015",
+         "E-commerce sales volume in trillion Korean won": 53.89
+      },
+      {
+         "Year": "2014",
+         "E-commerce sales volume in trillion Korean won": 45.3
+      },
+      {
+         "Year": "2013",
+         "E-commerce sales volume in trillion Korean won": 38.5
+      },
+      {
+         "Year": "2012",
+         "E-commerce sales volume in trillion Korean won": 34.07
+      },
+      {
+         "Year": "2011",
+         "E-commerce sales volume in trillion Korean won": 29.07
+      },
+      {
+         "Year": "2010",
+         "E-commerce sales volume in trillion Korean won": 25.2
+      },
+      {
+         "Year": "2009",
+         "E-commerce sales volume in trillion Korean won": 20.64
+      }
+   ]
+}

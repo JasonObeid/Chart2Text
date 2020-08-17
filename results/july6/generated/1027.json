@@ -1,0 +1,71 @@
+{
+   "title": "Number of homicides in Denmark 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of homicides",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of homicides in 2009 Denmark from 2009 to 2019 . ",
+      "In 2019 , there were 48 homicides in Denmark . ",
+      "Gambling in Denmark - additional information The Number of homicides in Denmark increased by more than 2,000 between 2007 and 2018 ."
+   ],
+   "trends": [
+      {
+         "13": "10",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      },
+      {
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of homicides": "48"
+      },
+      {
+         "Year": "2018",
+         "Number of homicides": "52"
+      },
+      {
+         "Year": "2017",
+         "Number of homicides": "54"
+      },
+      {
+         "Year": "2016",
+         "Number of homicides": "49"
+      },
+      {
+         "Year": "2015",
+         "Number of homicides": "46"
+      },
+      {
+         "Year": "2014",
+         "Number of homicides": "59"
+      },
+      {
+         "Year": "2013",
+         "Number of homicides": "41"
+      },
+      {
+         "Year": "2012",
+         "Number of homicides": "43"
+      },
+      {
+         "Year": "2011",
+         "Number of homicides": "49"
+      },
+      {
+         "Year": "2010",
+         "Number of homicides": "49"
+      },
+      {
+         "Year": "2009",
+         "Number of homicides": "56"
+      }
+   ]
+}

@@ -1,0 +1,118 @@
+{
+   "title": "Births delivered by forceps or vacuum extraction in the U.S. 1990 to 2018",
+   "labels": [
+      "Year",
+      "Forceps",
+      "Vacuum extraction"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Births delivered by of forceps vacuum in the U.S. from 1990 to 2018 . ",
+      "In 2018 , 0.5 million delivered by of forceps vacuum in Forceps was ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "15",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Forceps": "0.5",
+         "Vacuum extraction": "2.5"
+      },
+      {
+         "Year": "2017",
+         "Forceps": "0.5",
+         "Vacuum extraction": "2.6"
+      },
+      {
+         "Year": "2016",
+         "Forceps": "0.5",
+         "Vacuum extraction": "2.6"
+      },
+      {
+         "Year": "2015",
+         "Forceps": "0.56",
+         "Vacuum extraction": "2.58"
+      },
+      {
+         "Year": "2014",
+         "Forceps": "0.57",
+         "Vacuum extraction": "2.64"
+      },
+      {
+         "Year": "2013",
+         "Forceps": "0.59",
+         "Vacuum extraction": "2.72"
+      },
+      {
+         "Year": "2012",
+         "Forceps": "0.61",
+         "Vacuum extraction": "2.79"
+      },
+      {
+         "Year": "2011",
+         "Forceps": "0.65",
+         "Vacuum extraction": "2.85"
+      },
+      {
+         "Year": "2010",
+         "Forceps": "0.66",
+         "Vacuum extraction": "2.96"
+      },
+      {
+         "Year": "2009",
+         "Forceps": "0.67",
+         "Vacuum extraction": "3.04"
+      },
+      {
+         "Year": "2008",
+         "Forceps": "0.71",
+         "Vacuum extraction": "3.22"
+      },
+      {
+         "Year": "2007",
+         "Forceps": "0.76",
+         "Vacuum extraction": "3.47"
+      },
+      {
+         "Year": "2005",
+         "Forceps": "0.93",
+         "Vacuum extraction": "3.87"
+      },
+      {
+         "Year": "2000",
+         "Forceps": "2.07",
+         "Vacuum extraction": "4.85"
+      },
+      {
+         "Year": "1995",
+         "Forceps": "3.48",
+         "Vacuum extraction": "5.9"
+      },
+      {
+         "Year": "1990",
+         "Forceps": "5.11",
+         "Vacuum extraction": "3.9"
+      }
+   ]
+}

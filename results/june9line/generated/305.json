@@ -1,0 +1,78 @@
+{
+   "title": "Regular season home attendance of the Los Angeles Rams 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Home attendance",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the total Regular season Home attendance of the Los Angeles Rams franchise of the National Football League from 2006 to 2019 . ",
+      "In 2019 , the Regular season Home attendance of the franchise was 498605 ."
+   ],
+   "trends": [
+      {
+         "19": "13",
+         "21": "0"
+      },
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Home attendance": "498605"
+      },
+      {
+         "Year": "2018",
+         "Home attendance": "579439"
+      },
+      {
+         "Year": "2017",
+         "Home attendance": "507136"
+      },
+      {
+         "Year": "2016",
+         "Home attendance": "665318"
+      },
+      {
+         "Year": "2015",
+         "Home attendance": "419220"
+      },
+      {
+         "Year": "2014",
+         "Home attendance": "456146"
+      },
+      {
+         "Year": "2013",
+         "Home attendance": "455657"
+      },
+      {
+         "Year": "2012",
+         "Home attendance": "396925"
+      },
+      {
+         "Year": "2011",
+         "Home attendance": "451153"
+      },
+      {
+         "Year": "2010",
+         "Home attendance": "423376"
+      },
+      {
+         "Year": "2009",
+         "Home attendance": "441896"
+      },
+      {
+         "Year": "2008",
+         "Home attendance": "479840"
+      },
+      {
+         "Year": "2007",
+         "Home attendance": "514352"
+      },
+      {
+         "Year": "2006",
+         "Home attendance": "522608"
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "title": "Top 10 strongest nation brands by BSI score 2019",
+   "xAxis": "Country",
+   "yAxis": "Brand Strength Index Score",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Top 10 the strongest nation of brands as of 2015 . ",
+      "During that year , the Singapore was the Top 10 Country with an strongest of 90.5 Strength Index ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Singapore",
+         "Brand Strength Index Score": "90.5"
+      },
+      {
+         "Country": "Switzerland",
+         "Brand Strength Index Score": "89.9"
+      },
+      {
+         "Country": "Netherlands",
+         "Brand Strength Index Score": "89.6"
+      },
+      {
+         "Country": "Germany",
+         "Brand Strength Index Score": "88.2"
+      },
+      {
+         "Country": "Luxembourg",
+         "Brand Strength Index Score": "86.9"
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Brand Strength Index Score": "86.6"
+      },
+      {
+         "Country": "Finland",
+         "Brand Strength Index Score": "86.4"
+      },
+      {
+         "Country": "Japan",
+         "Brand Strength Index Score": "85.8"
+      },
+      {
+         "Country": "United States",
+         "Brand Strength Index Score": "85.7"
+      },
+      {
+         "Country": "Denmark",
+         "Brand Strength Index Score": "85.6"
+      }
+   ]
+}

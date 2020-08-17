@@ -1,0 +1,35 @@
+{
+   "title": "Lung transplant list in the United Kingdom ( UK ) 2019",
+   "xAxis": "Country of residence",
+   "yAxis": "Number of individuals on the waiting list",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Number of transplant individuals in the United in 2019 , Kingdom Country . ",
+      "In that year , 283 % of transplant individuals in the United ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country of residence": "England",
+         "Number of individuals on the waiting list": "283"
+      },
+      {
+         "Country of residence": "Wales",
+         "Number of individuals on the waiting list": "22"
+      },
+      {
+         "Country of residence": "Scotland",
+         "Number of individuals on the waiting list": "28"
+      },
+      {
+         "Country of residence": "Northern Ireland",
+         "Number of individuals on the waiting list": "14"
+      }
+   ]
+}

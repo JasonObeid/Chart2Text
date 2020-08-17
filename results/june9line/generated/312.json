@@ -1,0 +1,69 @@
+{
+   "title": "Population in Sweden 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Population Sweden of the Sweden from 2009 to 2019 . ",
+      "The Sweden is based on data from the most recent census adjusted by the components of Sweden change produced since the last census , or based on Sweden registers . ",
+      "At the beginning of 2019 , the Population Sweden of the Sweden amounted to approximately 10.33 Inhabitants ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {},
+      {
+         "4": "0",
+         "15": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "10.33"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "10.23"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "10.12"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "10.0"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "9.85"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "9.75"
+      },
+      {
+         "Year": "2013",
+         "Inhabitants in millions": "9.64"
+      },
+      {
+         "Year": "2012",
+         "Inhabitants in millions": "9.56"
+      },
+      {
+         "Year": "2011",
+         "Inhabitants in millions": "9.48"
+      },
+      {
+         "Year": "2010",
+         "Inhabitants in millions": "9.42"
+      },
+      {
+         "Year": "2009",
+         "Inhabitants in millions": "9.34"
+      }
+   ]
+}

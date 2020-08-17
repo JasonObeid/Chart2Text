@@ -1,0 +1,85 @@
+{
+   "title": "U.S. winter heating oil prices 2005/06 - 2019/20",
+   "xAxis": "Winter of",
+   "yAxis": "Price in U.S. dollars per gallon",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the leading 15 Winter models according to the Auto Express Driver Power survey responses oil on Winter prices 2005/06 . ",
+      "The survey was carried U.S. by the British automotive magazine online between 2014 and 2015 . ",
+      "2019/20 dominated this category securing the top three spots with the 2019/20 , 2018/19 and 2017/18 models as well having three other models in the top 15 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "0",
+         "11": "0",
+         "13": "1",
+         "16": "1",
+         "17": "2"
+      }
+   ],
+   "data": [
+      {
+         "Winter of": "2019/20",
+         "Price in U.S. dollars per gallon": "3.02"
+      },
+      {
+         "Winter of": "2018/19",
+         "Price in U.S. dollars per gallon": "3.07"
+      },
+      {
+         "Winter of": "2017/18",
+         "Price in U.S. dollars per gallon": "2.78"
+      },
+      {
+         "Winter of": "2016/17",
+         "Price in U.S. dollars per gallon": "2.41"
+      },
+      {
+         "Winter of": "2015/16",
+         "Price in U.S. dollars per gallon": "2.06"
+      },
+      {
+         "Winter of": "2014/15",
+         "Price in U.S. dollars per gallon": "3.04"
+      },
+      {
+         "Winter of": "2013/14",
+         "Price in U.S. dollars per gallon": "3.88"
+      },
+      {
+         "Winter of": "2012/13",
+         "Price in U.S. dollars per gallon": "3.87"
+      },
+      {
+         "Winter of": "2011/12",
+         "Price in U.S. dollars per gallon": "3.73"
+      },
+      {
+         "Winter of": "2010/11",
+         "Price in U.S. dollars per gallon": "3.38"
+      },
+      {
+         "Winter of": "2009/10",
+         "Price in U.S. dollars per gallon": "2.85"
+      },
+      {
+         "Winter of": "2008/09",
+         "Price in U.S. dollars per gallon": "2.65"
+      },
+      {
+         "Winter of": "2007/08",
+         "Price in U.S. dollars per gallon": "3.33"
+      },
+      {
+         "Winter of": "2006/07",
+         "Price in U.S. dollars per gallon": "2.42"
+      },
+      {
+         "Winter of": "2005/06",
+         "Price in U.S. dollars per gallon": "2.44"
+      }
+   ]
+}

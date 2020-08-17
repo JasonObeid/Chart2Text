@@ -1,0 +1,74 @@
+{
+   "title": "Voting intention in the Irish abortion referendum 2018 , by age group",
+   "labels": [
+      "Year",
+      "Yes - In favor of repealing the 8th Amendment",
+      "No - against repealing the 8th Amendment",
+      "Not sure",
+      "Will not vote",
+      "Refused"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic above presents the results of a survey among American adults regarding the Voting of intention they Irish within the last Year . ",
+      "In Not , 30 % of respondents stated that they Irish more than 52 intention in the past Year . ",
+      "Book purchasing in the 2018 \u2013 additional information A survey in 2013 asked its respondents to rate the most important features in printed intention which attracted them to buy ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": [
+            "4",
+            "1"
+         ],
+         "13": [
+            "0",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "18-24",
+         "Yes - In favor of repealing the 8th Amendment": "52",
+         "No - against repealing the 8th Amendment": "27",
+         "Not sure": "12",
+         "Will not vote": "8",
+         "Refused": "1"
+      },
+      {
+         "Year": "25-34",
+         "Yes - In favor of repealing the 8th Amendment": "53",
+         "No - against repealing the 8th Amendment": "23",
+         "Not sure": "17",
+         "Will not vote": "6",
+         "Refused": "1"
+      },
+      {
+         "Year": "35-49",
+         "Yes - In favor of repealing the 8th Amendment": "49",
+         "No - against repealing the 8th Amendment": "26",
+         "Not sure": "18",
+         "Will not vote": "5",
+         "Refused": "2"
+      },
+      {
+         "Year": "50-64",
+         "Yes - In favor of repealing the 8th Amendment": "37",
+         "No - against repealing the 8th Amendment": "38",
+         "Not sure": "18",
+         "Will not vote": "2",
+         "Refused": "5"
+      },
+      {
+         "Year": "65+",
+         "Yes - In favor of repealing the 8th Amendment": "30",
+         "No - against repealing the 8th Amendment": "47",
+         "Not sure": "17",
+         "Will not vote": "5",
+         "Refused": "1"
+      }
+   ]
+}

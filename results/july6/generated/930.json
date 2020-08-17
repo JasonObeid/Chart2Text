@@ -1,0 +1,63 @@
+{
+   "title": "Companies ' market share global smartwatch market 2014",
+   "xAxis": "Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Market share of the market share in 2014 , market Company . ",
+      "In that year , The market share of Samsung was approximately 26 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Samsung",
+         "Market share": "23"
+      },
+      {
+         "Company": "Lenovo",
+         "Market share": "10"
+      },
+      {
+         "Company": "LG",
+         "Market share": "7"
+      },
+      {
+         "Company": "Pebble",
+         "Market share": "7"
+      },
+      {
+         "Company": "Garmin",
+         "Market share": "7"
+      },
+      {
+         "Company": "Sony",
+         "Market share": "6"
+      },
+      {
+         "Company": "Fitbit",
+         "Market share": "6"
+      },
+      {
+         "Company": "Withings",
+         "Market share": "4"
+      },
+      {
+         "Company": "Polar",
+         "Market share": "2"
+      },
+      {
+         "Company": "Asus",
+         "Market share": "2"
+      },
+      {
+         "Company": "Other",
+         "Market share": "26"
+      }
+   ]
+}

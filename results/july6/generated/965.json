@@ -1,0 +1,113 @@
+{
+   "title": "Employment by economic sector in Guatemala 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the distribution of Employment in Guatemala and the Guatemala by economic sector from 2009 to 2019 . ",
+      "In 2019 , approximately 29.19 % of the employees in Guatemala and the Guatemala were working in the agricultural sector , 20.62 % in Industry and about 50.19 % in the service sector ."
+   ],
+   "trends": [
+      {
+         "16": [
+            "10",
+            "0"
+         ],
+         "18": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "4": [
+            "0",
+            "1"
+         ],
+         "21": [
+            "0",
+            "2"
+         ],
+         "27": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "29.19",
+         "Industry": "20.62",
+         "Services": "50.19"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "29.26",
+         "Industry": "20.76",
+         "Services": "49.98"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "29.32",
+         "Industry": "20.9",
+         "Services": "49.79"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "29.38",
+         "Industry": "21.01",
+         "Services": "49.61"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "31.88",
+         "Industry": "18.9",
+         "Services": "49.23"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "31.53",
+         "Industry": "19.46",
+         "Services": "49.01"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "30.88",
+         "Industry": "18.16",
+         "Services": "50.96"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "32.26",
+         "Industry": "19.5",
+         "Services": "48.25"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "37.57",
+         "Industry": "19.88",
+         "Services": "42.55"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "37.04",
+         "Industry": "19.77",
+         "Services": "43.19"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "36.12",
+         "Industry": "20.28",
+         "Services": "43.6"
+      }
+   ]
+}

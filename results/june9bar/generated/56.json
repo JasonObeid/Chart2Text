@@ -1,0 +1,59 @@
+{
+   "title": "Largest cities in Russia 2015",
+   "xAxis": "Month",
+   "yAxis": "Residents in million",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the ten Largest cities in Russia as of 2015 . ",
+      "In 2015 , around 12.05 million people lived in Moscow , making it the Largest city in Russia ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Moscow",
+         "Residents in million": "12.05"
+      },
+      {
+         "Month": "St. Petersburg",
+         "Residents in million": "5.19"
+      },
+      {
+         "Month": "Novosibirsk",
+         "Residents in million": "1.57"
+      },
+      {
+         "Month": "Jekaterinburg",
+         "Residents in million": "1.43"
+      },
+      {
+         "Month": "Ni\u017enij Novgorod",
+         "Residents in million": "1.27"
+      },
+      {
+         "Month": "Kazan'",
+         "Residents in million": "1.21"
+      },
+      {
+         "Month": "\u010cel'abinsk",
+         "Residents in million": "1.18"
+      },
+      {
+         "Month": "Samara",
+         "Residents in million": "1.17"
+      },
+      {
+         "Month": "Omsk",
+         "Residents in million": "1.17"
+      },
+      {
+         "Month": "Rostov-na-Donu",
+         "Residents in million": "1.11"
+      }
+   ]
+}

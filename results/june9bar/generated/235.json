@@ -1,0 +1,102 @@
+{
+   "title": "Countries with the lowest access to electricity 2017",
+   "xAxis": "Country",
+   "yAxis": "Access rate",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Access of the Countries lowest access electricity as of 2020 , sorted by Country . ",
+      "In that year , Countries lowest access averaged 9.3 rate ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Burundi",
+         "Access rate": "9.3"
+      },
+      {
+         "Country": "Chad",
+         "Access rate": "10.9"
+      },
+      {
+         "Country": "Malawi",
+         "Access rate": "12.7"
+      },
+      {
+         "Country": "Dem. Republic of the Congo",
+         "Access rate": "19.1"
+      },
+      {
+         "Country": "Niger",
+         "Access rate": "20"
+      },
+      {
+         "Country": "Liberia",
+         "Access rate": "21.5"
+      },
+      {
+         "Country": "Uganda",
+         "Access rate": "22"
+      },
+      {
+         "Country": "Sierra Leone",
+         "Access rate": "23.4"
+      },
+      {
+         "Country": "Madagascar",
+         "Access rate": "24.1"
+      },
+      {
+         "Country": "South Sudan",
+         "Access rate": "25.4"
+      },
+      {
+         "Country": "Burkina Faso",
+         "Access rate": "25.5"
+      },
+      {
+         "Country": "Guinea-Bissau",
+         "Access rate": "26"
+      },
+      {
+         "Country": "Mozambique",
+         "Access rate": "27.4"
+      },
+      {
+         "Country": "Central African Republic",
+         "Access rate": "30"
+      },
+      {
+         "Country": "Tanzania",
+         "Access rate": "32.8"
+      },
+      {
+         "Country": "Somalia",
+         "Access rate": "32.9"
+      },
+      {
+         "Country": "Lesotho",
+         "Access rate": "33.7"
+      },
+      {
+         "Country": "Rwanda",
+         "Access rate": "34.1"
+      },
+      {
+         "Country": "Guinea",
+         "Access rate": "35.4"
+      },
+      {
+         "Country": "Zambia",
+         "Access rate": "40.3"
+      },
+      {
+         "Country": "Global average",
+         "Access rate": "88.8"
+      }
+   ]
+}

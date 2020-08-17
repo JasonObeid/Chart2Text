@@ -1,0 +1,105 @@
+{
+   "title": "Age structure in Indonesia 2018",
+   "labels": [
+      "Year",
+      "0-14 years",
+      "15-64 years",
+      "65 years and older"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Age structure in Indonesia from 2008 to 2018 . ",
+      "In 2018 , about 26.55 % of Indonesia 's total population were aged 0 to 14 years ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "10",
+            "0"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "4": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "0-14 years": "26.55",
+         "15-64 years": "67.59",
+         "65 years and older": "5.86"
+      },
+      {
+         "Year": "2017",
+         "0-14 years": "26.91",
+         "15-64 years": "67.4",
+         "65 years and older": "5.68"
+      },
+      {
+         "Year": "2016",
+         "0-14 years": "27.23",
+         "15-64 years": "67.24",
+         "65 years and older": "5.52"
+      },
+      {
+         "Year": "2015",
+         "0-14 years": "27.45",
+         "15-64 years": "67.17",
+         "65 years and older": "5.38"
+      },
+      {
+         "Year": "2014",
+         "0-14 years": "27.77",
+         "15-64 years": "66.95",
+         "65 years and older": "5.28"
+      },
+      {
+         "Year": "2013",
+         "0-14 years": "28.04",
+         "15-64 years": "66.77",
+         "65 years and older": "5.19"
+      },
+      {
+         "Year": "2012",
+         "0-14 years": "28.27",
+         "15-64 years": "66.61",
+         "65 years and older": "5.12"
+      },
+      {
+         "Year": "2011",
+         "0-14 years": "28.52",
+         "15-64 years": "66.43",
+         "65 years and older": "5.04"
+      },
+      {
+         "Year": "2010",
+         "0-14 years": "28.83",
+         "15-64 years": "66.21",
+         "65 years and older": "4.96"
+      },
+      {
+         "Year": "2009",
+         "0-14 years": "28.91",
+         "15-64 years": "66.12",
+         "65 years and older": "4.97"
+      },
+      {
+         "Year": "2008",
+         "0-14 years": "29.04",
+         "15-64 years": "66",
+         "65 years and older": "4.95"
+      }
+   ]
+}

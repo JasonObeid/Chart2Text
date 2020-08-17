@@ -1,0 +1,43 @@
+{
+   "title": "YouTube usage penetration in the United States 2019 , by age group\n",
+   "xAxis": "Year",
+   "yAxis": "Reach",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Reach with a total of 5 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 15-25_years to 56+_years."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=0.0x+67.3",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "15-25 years",
+         "Reach": 81.0
+      },
+      {
+         "Year": "26-35 years",
+         "Reach": 71.0
+      },
+      {
+         "Year": "36-45 years",
+         "Reach": 67.0
+      },
+      {
+         "Year": "46-55 years",
+         "Reach": 66.0
+      },
+      {
+         "Year": "56+ years",
+         "Reach": 58.0
+      }
+   ]
+}

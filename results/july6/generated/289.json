@@ -1,0 +1,63 @@
+{
+   "title": "Leading countries ranked by mobile app store downloads 2016 to 2018",
+   "labels": [
+      "Country",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "In 2018 , China was the biggest by brand in the Leading with a Leading countries of close to 40 % . ",
+      "This is a decrease compared to the previous year . ",
+      "Second in the Leading was India ."
+   ],
+   "trends": [
+      {
+         "3": [
+            "0",
+            "0"
+         ]
+      },
+      {},
+      {
+         "5": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "2016": "53.1",
+         "2017": "79.3",
+         "2018": "89.7"
+      },
+      {
+         "Country": "India",
+         "2016": "6.5",
+         "2017": "12.1",
+         "2018": "17.2"
+      },
+      {
+         "Country": "United States",
+         "2016": "11.7",
+         "2017": "11.3",
+         "2018": "11.9"
+      },
+      {
+         "Country": "Brazil",
+         "2016": "5.7",
+         "2017": "6.3",
+         "2018": "7.3"
+      },
+      {
+         "Country": "Indonesia",
+         "2016": "3.3",
+         "2017": "4.0",
+         "2018": "5.1"
+      }
+   ]
+}

@@ -1,0 +1,99 @@
+{
+   "title": "Average ticket price Chicago Blackhawks ( NHL ) 2014/15\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points. The chart has 5 significant trends.",
+      " The longest trend is  negative which exists from 2014/15 to 2010/11.",
+      " Conversely, the next significant trend is  negative which exists from 2007/08 to 2005/06.",
+      " Contrarily, the next significant trend is  neutral which exists from 2010/11 to 2009/10.",
+      " Contrarily, the next significant trend is  negative which exists from 2009/10 to 2008/09.",
+      " On the contrary, the next significant trend is  positive which exists from 2008/09 to 2007/08."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=6.4x+-12821.71",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 7,
+         "end": 9,
+         "trend": "y=8.67x+-17351.36",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 4,
+         "end": 5,
+         "trend": "y=0.0x+55.39",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 5,
+         "end": 6,
+         "trend": "y=8.59x+-17201.92",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 6,
+         "end": 7,
+         "trend": "y=-5.42x+10930.16",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 78.8
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 72.95
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 62.88
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 55.72
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 55.39
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 55.39
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 46.8
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 52.22
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 34.88
+      },
+      {
+         "Year": "2005/06",
+         "Average ticket price in U.S. dollars": 34.88
+      }
+   ]
+}

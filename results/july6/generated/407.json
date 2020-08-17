@@ -1,0 +1,51 @@
+{
+   "title": "Aggregated revenues of PwC by industry sector 2018",
+   "xAxis": "Industry sector",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Aggregated revenues Revenue of by industry in the sector in 2018 . ",
+      "The Aggregated revenues Revenue of by for the sector amounted to approximately 10.73 billion U.S. dollars in 2018 ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Industry sector": "Financial services",
+         "Revenue in billion U.S. dollars": "10.73"
+      },
+      {
+         "Industry sector": "Industrial manufacturing and automotive",
+         "Revenue in billion U.S. dollars": "6.53"
+      },
+      {
+         "Industry sector": "Consumer markets",
+         "Revenue in billion U.S. dollars": "6.47"
+      },
+      {
+         "Industry sector": "Technology media and telecommunications",
+         "Revenue in billion U.S. dollars": "5.47"
+      },
+      {
+         "Industry sector": "Energy utilities and resources",
+         "Revenue in billion U.S. dollars": "3.91"
+      },
+      {
+         "Industry sector": "Health industries",
+         "Revenue in billion U.S. dollars": "3.18"
+      },
+      {
+         "Industry sector": "Government and public services",
+         "Revenue in billion U.S. dollars": "2.64"
+      },
+      {
+         "Industry sector": "Private equity and sovereign investment funds",
+         "Revenue in billion U.S. dollars": "2.37"
+      }
+   ]
+}

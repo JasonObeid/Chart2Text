@@ -1,0 +1,83 @@
+{
+   "title": "Type of tea most consumed in Great Britain 2014",
+   "xAxis": "Type of tea",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the percentage of middle and high school students in the country who were English_breakfast , divided by the type of English_breakfast tea endured . ",
+      "During the 2019 survey , 10 % of English_breakfast tea victims had English_breakfast impersonated Green during the last 52 days . ",
+      "English_breakfast tea includes unwanted contact by threatening or insulting the respondent via digital communications as well sharing private information Green ."
+   ],
+   "trends": [
+      {
+         "16": "0",
+         "23": "0"
+      },
+      {
+         "5": "7",
+         "8": "0",
+         "12": "0",
+         "14": "1",
+         "18": "0"
+      },
+      {
+         "0": "0",
+         "20": "1"
+      }
+   ],
+   "data": [
+      {
+         "Type of tea": "English breakfast",
+         "Share of respondents": "52"
+      },
+      {
+         "Type of tea": "Green",
+         "Share of respondents": "23"
+      },
+      {
+         "Type of tea": "Earl Grey",
+         "Share of respondents": "22"
+      },
+      {
+         "Type of tea": "Fruit",
+         "Share of respondents": "19"
+      },
+      {
+         "Type of tea": "Peppermint",
+         "Share of respondents": "16"
+      },
+      {
+         "Type of tea": "Herbal",
+         "Share of respondents": "15"
+      },
+      {
+         "Type of tea": "Camomile",
+         "Share of respondents": "11"
+      },
+      {
+         "Type of tea": "Decaffeinated",
+         "Share of respondents": "10"
+      },
+      {
+         "Type of tea": "Assam",
+         "Share of respondents": "9"
+      },
+      {
+         "Type of tea": "Darjeeling",
+         "Share of respondents": "8"
+      },
+      {
+         "Type of tea": "Chai",
+         "Share of respondents": "7"
+      },
+      {
+         "Type of tea": "Other",
+         "Share of respondents": "16"
+      },
+      {
+         "Type of tea": "Not applicable - I never drink tea",
+         "Share of respondents": "18"
+      }
+   ]
+}

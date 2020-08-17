@@ -1,0 +1,93 @@
+{
+   "title": "Total recalls of children 's products in the U.S. 2001 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of recalls",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , the Number of German recalls amounted to 52 million , an increase compared to the previous Year at 93 % . ",
+      "This Number has only been increased in recent years . ",
+      "Considering current German population numbers stand at almost 83 million , such a high Number of recalls is significant in itself and also for predicting future trends on digitalization and online connectivity in the country ."
+   ],
+   "trends": [
+      {
+         "1": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of recalls": "52"
+      },
+      {
+         "Year": "2017",
+         "Number of recalls": "93"
+      },
+      {
+         "Year": "2016",
+         "Number of recalls": "76"
+      },
+      {
+         "Year": "2015",
+         "Number of recalls": "68"
+      },
+      {
+         "Year": "2014",
+         "Number of recalls": "75"
+      },
+      {
+         "Year": "2013",
+         "Number of recalls": "114"
+      },
+      {
+         "Year": "2012",
+         "Number of recalls": "97"
+      },
+      {
+         "Year": "2011",
+         "Number of recalls": "124"
+      },
+      {
+         "Year": "2010",
+         "Number of recalls": "148"
+      },
+      {
+         "Year": "2009",
+         "Number of recalls": "143"
+      },
+      {
+         "Year": "2008",
+         "Number of recalls": "209"
+      },
+      {
+         "Year": "2007",
+         "Number of recalls": "232"
+      },
+      {
+         "Year": "2006",
+         "Number of recalls": "111"
+      },
+      {
+         "Year": "2005",
+         "Number of recalls": "122"
+      },
+      {
+         "Year": "2004",
+         "Number of recalls": "87"
+      },
+      {
+         "Year": "2003",
+         "Number of recalls": "66"
+      },
+      {
+         "Year": "2002",
+         "Number of recalls": "90"
+      },
+      {
+         "Year": "2001",
+         "Number of recalls": "118"
+      }
+   ]
+}

@@ -1,0 +1,90 @@
+{
+   "title": "Head value of sheep and lambs in the U.S. 2001 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Value per head in U.S. dollars",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Value per of head U.S. dollars in U.S. from the Year 2001 to 2017 . ",
+      "In 2017 , Head Value per of head in U.S. stood at around 203 % ."
+   ],
+   "trends": [
+      {
+         "15": "16",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Value per head in U.S. dollars": "203"
+      },
+      {
+         "Year": "2016",
+         "Value per head in U.S. dollars": "202"
+      },
+      {
+         "Year": "2015",
+         "Value per head in U.S. dollars": "214"
+      },
+      {
+         "Year": "2014",
+         "Value per head in U.S. dollars": "188"
+      },
+      {
+         "Year": "2013",
+         "Value per head in U.S. dollars": "177"
+      },
+      {
+         "Year": "2012",
+         "Value per head in U.S. dollars": "221"
+      },
+      {
+         "Year": "2011",
+         "Value per head in U.S. dollars": "170"
+      },
+      {
+         "Year": "2010",
+         "Value per head in U.S. dollars": "135"
+      },
+      {
+         "Year": "2009",
+         "Value per head in U.S. dollars": "133"
+      },
+      {
+         "Year": "2008",
+         "Value per head in U.S. dollars": "138"
+      },
+      {
+         "Year": "2007",
+         "Value per head in U.S. dollars": "134"
+      },
+      {
+         "Year": "2006",
+         "Value per head in U.S. dollars": "141"
+      },
+      {
+         "Year": "2005",
+         "Value per head in U.S. dollars": "130"
+      },
+      {
+         "Year": "2004",
+         "Value per head in U.S. dollars": "119"
+      },
+      {
+         "Year": "2003",
+         "Value per head in U.S. dollars": "104"
+      },
+      {
+         "Year": "2002",
+         "Value per head in U.S. dollars": "92"
+      },
+      {
+         "Year": "2001",
+         "Value per head in U.S. dollars": "100"
+      }
+   ]
+}

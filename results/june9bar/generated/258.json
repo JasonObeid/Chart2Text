@@ -1,0 +1,62 @@
+{
+   "title": "Most used paint brands in the U.S. 2018",
+   "xAxis": "Brand",
+   "yAxis": "Share of respondents",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays a ranking of the Most by U.S. brands in 2018 . ",
+      "The Brand respondents of the Most used paint brands in 2018 , Sherwin-Williams was the Most basis ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Sherwin-Williams",
+         "Share of respondents": "49.5"
+      },
+      {
+         "Brand": "Benjamin Moore",
+         "Share of respondents": "22.4"
+      },
+      {
+         "Brand": "Behr Paint Cooperation",
+         "Share of respondents": "12.1"
+      },
+      {
+         "Brand": "Kelly Moore",
+         "Share of respondents": "2.8"
+      },
+      {
+         "Brand": "Valspar",
+         "Share of respondents": "1.9"
+      },
+      {
+         "Brand": "PPG Pittsburgh Paints",
+         "Share of respondents": "1.9"
+      },
+      {
+         "Brand": "Zar (United Gilsonite Labs)",
+         "Share of respondents": "1.9"
+      },
+      {
+         "Brand": "Devoe & Raynolds",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "Dutch Boy",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "Olympic",
+         "Share of respondents": "0.9"
+      },
+      {
+         "Brand": "None of these",
+         "Share of respondents": "4.7"
+      }
+   ]
+}

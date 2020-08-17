@@ -1,0 +1,66 @@
+{
+   "title": "Salaries of heads of state and government\n",
+   "xAxis": "Month",
+   "yAxis": "Annual salary (in U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 12 categories for the x axis representing Month, and a y axis representing Annual salary (in U.S. dollars).",
+      " The highest category is found at Lee_Hsien_Loong_(Singapore) where Annual salary (in U.S. dollars) is 2183500.0.",
+      " The lowest category is found at David_Cameron_(United_Kingdom) where Annual salary (in U.S. dollars) is 215400.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 11
+   },
+   "data": [
+      {
+         "Month": "Lee Hsien Loong (Singapore)",
+         "Annual salary (in U.S. dollars)": 2183500.0
+      },
+      {
+         "Month": "Mwai Kibaki (Kenya)",
+         "Annual salary (in U.S. dollars)": 427900.0
+      },
+      {
+         "Month": "Barack Obama (United States)",
+         "Annual salary (in U.S. dollars)": 400000.0
+      },
+      {
+         "Month": "Nicolas Sarkozy (France)",
+         "Annual salary (in U.S. dollars)": 302400.0
+      },
+      {
+         "Month": "Stephen Harper (Canada)",
+         "Annual salary (in U.S. dollars)": 296400.0
+      },
+      {
+         "Month": "Brian Cowen (Ireland)",
+         "Annual salary (in U.S. dollars)": 287900.0
+      },
+      {
+         "Month": "Julia Gillard (Australia)",
+         "Annual salary (in U.S. dollars)": 286800.0
+      },
+      {
+         "Month": "Angela Merkel (Germany)",
+         "Annual salary (in U.S. dollars)": 283600.0
+      },
+      {
+         "Month": "Naoto Kan (Japan)",
+         "Annual salary (in U.S. dollars)": 273700.0
+      },
+      {
+         "Month": "Jacob Zuma (South Africa)",
+         "Annual salary (in U.S. dollars)": 272300.0
+      },
+      {
+         "Month": "John Key (New Zealand)",
+         "Annual salary (in U.S. dollars)": 271800.0
+      },
+      {
+         "Month": "David Cameron (United Kingdom)",
+         "Annual salary (in U.S. dollars)": 215400.0
+      }
+   ]
+}

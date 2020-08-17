@@ -1,0 +1,126 @@
+{
+   "title": "Per capita consumption of tree nuts in the U.S. 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Per capita consumption in pounds, with a total of 19 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2004 to 2000.",
+      " On the contrary, the next significant trend is  negative which exists from 2018 to 2015.",
+      " On the other hand, the next significant trend is  negative which exists from 2010 to 2008.",
+      " But, the next significant trend is  negative which exists from 2007 to 2005."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 14,
+         "end": 18,
+         "trend": "y=0.25x+-493.32",
+         "magnitude": ""
+      },
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 0,
+         "end": 3,
+         "trend": "y=0.32x+-640.53",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 8,
+         "end": 10,
+         "trend": "y=0.1x+-197.2",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 11,
+         "end": 13,
+         "trend": "y=0.46x+-909.53",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": 5.1
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": 5.0
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": 4.8
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": 4.1
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": 4.1
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": 4.0
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": 4.2
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": 3.8
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": 3.8
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": 3.7
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": 3.6
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": 3.6
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": 3.3
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": 2.69
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": 3.53
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": 3.52
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": 3.35
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": 2.88
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": 2.61
+      }
+   ]
+}

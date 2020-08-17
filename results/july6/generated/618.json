@@ -1,0 +1,49 @@
+{
+   "title": "Election 2012 exit polls : percentage of votes by ethnicity",
+   "labels": [
+      "unknown",
+      "Barack Obama",
+      "Mitt Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the percentage of votes the 2012 presidential elections in the country on 6 , 2012 by unknown . ",
+      "According to the exit polls , about 39 percentage of voters with an unknown of less than White unknown nationwide have voted for Barack Obama ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "0",
+            "1"
+         ],
+         "18": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "unknown": "White",
+         "Barack Obama": "39",
+         "Mitt Romney": "59"
+      },
+      {
+         "unknown": "Black",
+         "Barack Obama": "93",
+         "Mitt Romney": "6"
+      },
+      {
+         "unknown": "Hispanic",
+         "Barack Obama": "71",
+         "Mitt Romney": "27"
+      },
+      {
+         "unknown": "Asian",
+         "Barack Obama": "73",
+         "Mitt Romney": "26"
+      }
+   ]
+}

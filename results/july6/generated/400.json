@@ -1,0 +1,74 @@
+{
+   "title": "Number of visitors to the Grand Canyon National Park in the U.S. 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "Grand Canyon National Park U.S. Park in the Park attracted a total of approximately 5.97 millions visitors in 2019 , down from its visitation peak of 6.38 millions in 2018 . ",
+      "A Grand Canyon National Park U.S. uniting nations Grand Canyon National Park U.S. Park 's name derived from the many glaciers that shaped its topography for over 5.52 millions years . ",
+      "Located in Montana on the Canada-U.S. border , Grand Canyon National Park U.S. Park is the second half of the Glacier-Waterton International Peace Grand Canyon National Park U.S. , the first half being Waterton Lakes Grand Canyon National Park U.S. in Canada ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "14": "0",
+         "22": "1",
+         "25": "1"
+      },
+      {
+         "19": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": "5.97"
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": "6.38"
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": "6.25"
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": "5.97"
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": "5.52"
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": "4.76"
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": "4.56"
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": "4.42"
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": "4.3"
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": "4.39"
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": "4.35"
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": "4.43"
+      }
+   ]
+}

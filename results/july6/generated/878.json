@@ -1,0 +1,105 @@
+{
+   "title": "Age structure of the population in the United Arab Emirates 2018",
+   "labels": [
+      "Age groups",
+      "Ages 0-14",
+      "Ages 15-64",
+      "Ages 65 and older"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Age structure of United Arab Emirates inhabitants from 2008 to 2018 , Emirates 2018 . ",
+      "In 2018 , about 14.6 % of United Arab Emirates structure were Ages 0-14 ."
+   ],
+   "trends": [
+      {
+         "10": [
+            "10",
+            "0"
+         ],
+         "12": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "4": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Age groups": "2018",
+         "Ages 0-14": "14.6",
+         "Ages 15-64": "84.31",
+         "Ages 65 and older": "1.09"
+      },
+      {
+         "Age groups": "2017",
+         "Ages 0-14": "14.5",
+         "Ages 15-64": "84.46",
+         "Ages 65 and older": "1.03"
+      },
+      {
+         "Age groups": "2016",
+         "Ages 0-14": "14.39",
+         "Ages 15-64": "84.63",
+         "Ages 65 and older": "0.99"
+      },
+      {
+         "Age groups": "2015",
+         "Ages 0-14": "14.16",
+         "Ages 15-64": "84.9",
+         "Ages 65 and older": "0.93"
+      },
+      {
+         "Age groups": "2014",
+         "Ages 0-14": "13.93",
+         "Ages 15-64": "85.17",
+         "Ages 65 and older": "0.9"
+      },
+      {
+         "Age groups": "2013",
+         "Ages 0-14": "13.73",
+         "Ages 15-64": "85.41",
+         "Ages 65 and older": "0.86"
+      },
+      {
+         "Age groups": "2012",
+         "Ages 0-14": "13.58",
+         "Ages 15-64": "85.62",
+         "Ages 65 and older": "0.8"
+      },
+      {
+         "Age groups": "2011",
+         "Ages 0-14": "13.42",
+         "Ages 15-64": "85.83",
+         "Ages 65 and older": "0.74"
+      },
+      {
+         "Age groups": "2010",
+         "Ages 0-14": "13.16",
+         "Ages 15-64": "86.16",
+         "Ages 65 and older": "0.69"
+      },
+      {
+         "Age groups": "2009",
+         "Ages 0-14": "13.66",
+         "Ages 15-64": "85.65",
+         "Ages 65 and older": "0.69"
+      },
+      {
+         "Age groups": "2008",
+         "Ages 0-14": "14.28",
+         "Ages 15-64": "85.01",
+         "Ages 65 and older": "0.71"
+      }
+   ]
+}

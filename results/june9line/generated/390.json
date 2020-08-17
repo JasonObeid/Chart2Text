@@ -1,0 +1,101 @@
+{
+   "title": "Number of births in Canada 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of births",
+   "graphType": "line",
+   "summary": [
+      "Over the past two decades , the Number births in the Canada has remained relatively stable . ",
+      "In 2019 , the Number births in the Canada was 382533 births . ",
+      "Speeds peaked during this period in 2015 at 383579 births , before falling to 383579 births the following Year ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {
+         "6": "4",
+         "8": "3",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of births": "382533"
+      },
+      {
+         "Year": "2018",
+         "Number of births": "378848"
+      },
+      {
+         "Year": "2017",
+         "Number of births": "379675"
+      },
+      {
+         "Year": "2016",
+         "Number of births": "383579"
+      },
+      {
+         "Year": "2015",
+         "Number of births": "383315"
+      },
+      {
+         "Year": "2014",
+         "Number of births": "382281"
+      },
+      {
+         "Year": "2013",
+         "Number of births": "381607"
+      },
+      {
+         "Year": "2012",
+         "Number of births": "378840"
+      },
+      {
+         "Year": "2011",
+         "Number of births": "376951"
+      },
+      {
+         "Year": "2010",
+         "Number of births": "379373"
+      },
+      {
+         "Year": "2009",
+         "Number of births": "379290"
+      },
+      {
+         "Year": "2008",
+         "Number of births": "373695"
+      },
+      {
+         "Year": "2007",
+         "Number of births": "360916"
+      },
+      {
+         "Year": "2006",
+         "Number of births": "346082"
+      },
+      {
+         "Year": "2005",
+         "Number of births": "339270"
+      },
+      {
+         "Year": "2004",
+         "Number of births": "337762"
+      },
+      {
+         "Year": "2003",
+         "Number of births": "330523"
+      },
+      {
+         "Year": "2002",
+         "Number of births": "328155"
+      },
+      {
+         "Year": "2001",
+         "Number of births": "327107"
+      }
+   ]
+}

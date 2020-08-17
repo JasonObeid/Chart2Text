@@ -1,0 +1,54 @@
+{
+   "title": "Desktop/laptop ownership among U.S. adults 2008 to 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Share of U.S. adults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Month, and a y axis representing Share of U.S. adults.",
+      " The highest category is found at November_2016 where Share of U.S. adults is 78.0.",
+      " The lowest category is found at January_2018 where Share of U.S. adults is 73.0."
+   ],
+   "trends": {
+      "maxIndex": 2,
+      "minIndex": 1
+   },
+   "data": [
+      {
+         "Month": "February 2019",
+         "Share of U.S. adults": 74.0
+      },
+      {
+         "Month": "January 2018",
+         "Share of U.S. adults": 73.0
+      },
+      {
+         "Month": "November 2016",
+         "Share of U.S. adults": 78.0
+      },
+      {
+         "Month": "April 2016",
+         "Share of U.S. adults": 74.0
+      },
+      {
+         "Month": "April 2015",
+         "Share of U.S. adults": 73.0
+      },
+      {
+         "Month": "January 2012",
+         "Share of U.S. adults": 78.0
+      },
+      {
+         "Month": "December 2011",
+         "Share of U.S. adults": 75.0
+      },
+      {
+         "Month": "June 2010",
+         "Share of U.S. adults": 78.0
+      },
+      {
+         "Month": "January 2008",
+         "Share of U.S. adults": 74.0
+      }
+   ]
+}

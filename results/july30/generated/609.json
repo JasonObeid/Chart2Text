@@ -1,0 +1,65 @@
+{
+   "title": "Consumers who have purchased a meal from a food truck in the U.S. 2014 , by age\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 6 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 18_to_34_years to 45_to_54_years.",
+      " But, the next significant trend is  neutral which exists from 45_to_54_years to 65_years_and_over.",
+      " But, the next significant trend is  positive which exists from All_adults to 18_to_34_years."
+   ],
+   "trends": [
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 1,
+         "end": 3,
+         "trend": "y=-0.0x+61.78",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "neutral",
+         "start": 3,
+         "end": 5,
+         "trend": "y=0.0x+30.13",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 0,
+         "end": 1,
+         "trend": "y=0.0x+47.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "All adults",
+         "Share of respondents": 47.0
+      },
+      {
+         "Year": "18 to 34 years",
+         "Share of respondents": 56.0
+      },
+      {
+         "Year": "35 to 44 years",
+         "Share of respondents": 54.0
+      },
+      {
+         "Year": "45 to 54 years",
+         "Share of respondents": 48.0
+      },
+      {
+         "Year": "55 to 64 years",
+         "Share of respondents": 48.0
+      },
+      {
+         "Year": "65 years and over",
+         "Share of respondents": 30.0
+      }
+   ]
+}

@@ -1,0 +1,78 @@
+{
+   "title": "Cities with the most parkland per 1,000 residents in the U.S. 2018\n",
+   "xAxis": "City",
+   "yAxis": "Acres of parkland per 1,000 residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 15 categories for the x axis representing City, and a y axis representing Acres of parkland per 1,000 residents.",
+      " The highest category is found at Anchorage where Acres of parkland per 1,000 residents is 3012.8.",
+      " The lowest category is found at Phoenix where Acres of parkland per 1,000 residents is 30.7."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 14
+   },
+   "data": [
+      {
+         "City": "Anchorage",
+         "Acres of parkland per 1,000 residents": 3012.8
+      },
+      {
+         "City": "Chesapeake",
+         "Acres of parkland per 1,000 residents": 228.1
+      },
+      {
+         "City": "Scottsdale",
+         "Acres of parkland per 1,000 residents": 126.4
+      },
+      {
+         "City": "Fremont",
+         "Acres of parkland per 1,000 residents": 106.0
+      },
+      {
+         "City": "Jacksonville",
+         "Acres of parkland per 1,000 residents": 74.9
+      },
+      {
+         "City": "New Orleans",
+         "Acres of parkland per 1,000 residents": 70.8
+      },
+      {
+         "City": "North Las Vegas",
+         "Acres of parkland per 1,000 residents": 68.7
+      },
+      {
+         "City": "Honolulu",
+         "Acres of parkland per 1,000 residents": 65.8
+      },
+      {
+         "City": "Virginia Beach",
+         "Acres of parkland per 1,000 residents": 54.0
+      },
+      {
+         "City": "Nashville/Davidson",
+         "Acres of parkland per 1,000 residents": 49.6
+      },
+      {
+         "City": "Albuquerque",
+         "Acres of parkland per 1,000 residents": 47.2
+      },
+      {
+         "City": "El Paso",
+         "Acres of parkland per 1,000 residents": 44.0
+      },
+      {
+         "City": "Irvine",
+         "Acres of parkland per 1,000 residents": 42.8
+      },
+      {
+         "City": "Kansas City",
+         "Acres of parkland per 1,000 residents": 35.7
+      },
+      {
+         "City": "Phoenix",
+         "Acres of parkland per 1,000 residents": 30.7
+      }
+   ]
+}

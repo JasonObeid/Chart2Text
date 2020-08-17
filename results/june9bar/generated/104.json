@@ -1,0 +1,49 @@
+{
+   "title": "Natural and synthetic diamonds price difference Q1 2016-Q3 2017",
+   "xAxis": "Quarter",
+   "yAxis": "Price difference in percent",
+   "graphType": "bar",
+   "summary": [
+      "The timeline shows the Natural synthetic diamonds of Q1 from the first Quarter of Q3_2017 to the fourth Quarter of Q3_2017 . ",
+      "In the fourth Quarter of 2017 , Natural 's synthetic had fourth Quarter of -18.3 percent of growth ."
+   ],
+   "trends": [
+      {
+         "14": "0",
+         "20": "0"
+      },
+      {
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 2017",
+         "Price difference in percent": "-18.3"
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Price difference in percent": "-15.7"
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Price difference in percent": "-20.1"
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Price difference in percent": "-18.1"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Price difference in percent": "-15.3"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Price difference in percent": "-17.8"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Price difference in percent": "-17.6"
+      }
+   ]
+}

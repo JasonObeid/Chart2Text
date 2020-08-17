@@ -1,0 +1,31 @@
+{
+   "title": "Share of households with Netflix in the U.S. 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Share of TV households",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of TV households with a total of 2 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2017 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 0,
+         "end": 1,
+         "trend": "y=4.33x+-8686.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Share of TV households": 54.0
+      },
+      {
+         "Year": "2011",
+         "Share of TV households": 28.0
+      }
+   ]
+}

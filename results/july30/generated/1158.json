@@ -1,0 +1,90 @@
+{
+   "title": "Average ticket price Golden State Warriors ( NBA ) games 2015/16\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points. The chart has 4 significant trends.",
+      " The longest trend is  negative which exists from 2015/16 to 2011/12.",
+      " On the other hand, the next significant trend is  positive which exists from 2010/11 to 2008/09.",
+      " Similarly, the next significant trend is  negative which exists from 2008/09 to 2006/07.",
+      " On the contrary, the next significant trend is  neutral which exists from 2011/12 to 2010/11."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 0,
+         "end": 4,
+         "trend": "y=10.31x+-20705.77",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 5,
+         "end": 7,
+         "trend": "y=-2.43x+4928.79",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 7,
+         "end": 9,
+         "trend": "y=6.18x+-12381.04",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 4,
+         "end": 5,
+         "trend": "y=0.0x+34.13",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": 79.84
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 47.38
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 44.27
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 35.7
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 34.13
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 34.13
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 37.5
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 39.0
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 31.13
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 26.63
+      }
+   ]
+}

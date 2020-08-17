@@ -1,0 +1,34 @@
+{
+   "title": "Number of Pok\u00e9mon GO daily users in the U.S. 2016\n",
+   "xAxis": "Month",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Month, and a y axis representing Number of users in millions.",
+      " The highest category is found at July_19 where Number of users in millions is 45.0.",
+      " The lowest category is found at July_12 where Number of users in millions is 21.0."
+   ],
+   "trends": {
+      "maxIndex": 1,
+      "minIndex": 3
+   },
+   "data": [
+      {
+         "Month": "August 16",
+         "Number of users in millions": 30.0
+      },
+      {
+         "Month": "July 19",
+         "Number of users in millions": 45.0
+      },
+      {
+         "Month": "July 14",
+         "Number of users in millions": 25.0
+      },
+      {
+         "Month": "July 12",
+         "Number of users in millions": 21.0
+      }
+   ]
+}

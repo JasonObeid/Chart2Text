@@ -1,0 +1,48 @@
+{
+   "title": "Share of U.S. consumers shopping on Black Friday 2015 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the development of Share current account holders , who use U.S. consumers to communicate with their bank at least once a month in the U.S. Black Friday ( ) from 2015 to 2019 . ",
+      "By 2019 , it can be seen that 36 % of respondents stated they used U.S. consumers at least once a month . ",
+      "The increases observed in U.S. consumers usage were steep over time : in 2015 , only 35 % of current account holders on the British market turned monthly to U.S. consumers as a secure way of communicating with their bank ."
+   ],
+   "trends": [
+      {
+         "33": "0",
+         "35": "4"
+      },
+      {
+         "1": "4",
+         "8": "4"
+      },
+      {
+         "13": "0",
+         "16": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Share of respondents": "59"
+      },
+      {
+         "Year": "2016",
+         "Share of respondents": "51"
+      },
+      {
+         "Year": "2017",
+         "Share of respondents": "35"
+      },
+      {
+         "Year": "2018",
+         "Share of respondents": "37"
+      },
+      {
+         "Year": "2019",
+         "Share of respondents": "36"
+      }
+   ]
+}

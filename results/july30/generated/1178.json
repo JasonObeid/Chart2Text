@@ -1,0 +1,112 @@
+{
+   "title": "Laptop penetration in the United Kingdom ( UK ) 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 11 data points. The chart has 6 significant trends.",
+      " The longest trend is  negative which exists from 2013 to 2009.",
+      " Contrarily, the next significant trend is  positive which exists from 2019 to 2017.",
+      " In a similar manner, the next significant trend is  neutral which exists from 2017 to 2016.",
+      " In a similar manner, the next significant trend is  positive which exists from 2016 to 2015.",
+      " Correspondingly, the next significant trend is  negative which exists from 2015 to 2014.",
+      " But, the next significant trend is  positive which exists from 2014 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 6,
+         "end": 10,
+         "trend": "y=4.8x+-9595.6",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 0,
+         "end": 2,
+         "trend": "y=-2.0x+4098.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "neutral",
+         "start": 2,
+         "end": 3,
+         "trend": "y=0.0x+64.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 3,
+         "end": 4,
+         "trend": "y=-1.0x+2080.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "negative",
+         "start": 4,
+         "end": 5,
+         "trend": "y=2.0x+-3965.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 2,
+         "direction": "positive",
+         "start": 5,
+         "end": 6,
+         "trend": "y=-3.0x+6105.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Percentage of population": 60.0
+      },
+      {
+         "Year": "2018",
+         "Percentage of population": 63.0
+      },
+      {
+         "Year": "2017",
+         "Percentage of population": 64.0
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": 64.0
+      },
+      {
+         "Year": "2015",
+         "Percentage of population": 65.0
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": 63.0
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": 66.0
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": 62.0
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": 59.0
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": 52.0
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": 47.0
+      }
+   ]
+}

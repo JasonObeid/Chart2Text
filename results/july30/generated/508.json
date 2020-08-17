@@ -1,0 +1,218 @@
+{
+   "title": "Population of metropolitan areas in the U.S. 2018\n",
+   "xAxis": "Metropolitan Areas",
+   "yAxis": "Number of residents in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 50 categories for the x axis representing Metropolitan Areas, and a y axis representing Number of residents in thousands.",
+      " The highest category is found at New_York-Newark-Jersey_City_NY-NJ-PA where Number of residents in thousands is 19979.48.",
+      " The lowest category is found at Buffalo-Cheektowaga-Niagara_Falls_NY where Number of residents in thousands is 1130.15."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 49
+   },
+   "data": [
+      {
+         "Metropolitan Areas": "New York-Newark-Jersey City NY-NJ-PA",
+         "Number of residents in thousands": 19979.48
+      },
+      {
+         "Metropolitan Areas": "Los Angeles-Long Beach-Anaheim CA",
+         "Number of residents in thousands": 13291.49
+      },
+      {
+         "Metropolitan Areas": "Chicago-Naperville-Elgin IL-IN-WI",
+         "Number of residents in thousands": 9498.72
+      },
+      {
+         "Metropolitan Areas": "Dallas-Fort Worth-Arlington TX",
+         "Number of residents in thousands": 7539.71
+      },
+      {
+         "Metropolitan Areas": "Houston-The Woodlands-Sugar Land TX",
+         "Number of residents in thousands": 6997.38
+      },
+      {
+         "Metropolitan Areas": "Washington-Arlington-Alexandria DC-VA-MD-WV",
+         "Number of residents in thousands": 6249.95
+      },
+      {
+         "Metropolitan Areas": "Miami-Fort Lauderdale-West Palm Beach FL",
+         "Number of residents in thousands": 6198.78
+      },
+      {
+         "Metropolitan Areas": "Philadelphia-Camden-Wilmington PA-NJ-DE-MD",
+         "Number of residents in thousands": 6096.37
+      },
+      {
+         "Metropolitan Areas": "Atlanta-Sandy Springs-Roswell GA",
+         "Number of residents in thousands": 5949.95
+      },
+      {
+         "Metropolitan Areas": "Boston-Cambridge-Newton MA-NH",
+         "Number of residents in thousands": 4875.39
+      },
+      {
+         "Metropolitan Areas": "Phoenix-Mesa-Scottsdale AZ",
+         "Number of residents in thousands": 4857.96
+      },
+      {
+         "Metropolitan Areas": "San Francisco-Oakland-Hayward CA",
+         "Number of residents in thousands": 4729.48
+      },
+      {
+         "Metropolitan Areas": "Riverside-San Bernardino-Ontario CA",
+         "Number of residents in thousands": 4622.36
+      },
+      {
+         "Metropolitan Areas": "Detroit-Warren-Dearborn MI",
+         "Number of residents in thousands": 4326.44
+      },
+      {
+         "Metropolitan Areas": "Seattle-Tacoma-Bellevue WA",
+         "Number of residents in thousands": 3939.36
+      },
+      {
+         "Metropolitan Areas": "Minneapolis-St. Paul-Bloomington MN-WI",
+         "Number of residents in thousands": 3629.19
+      },
+      {
+         "Metropolitan Areas": "San Diego-Carlsbad CA",
+         "Number of residents in thousands": 3343.36
+      },
+      {
+         "Metropolitan Areas": "Tampa-St. Petersburg-Clearwater FL",
+         "Number of residents in thousands": 3142.66
+      },
+      {
+         "Metropolitan Areas": "Denver-Aurora-Lakewood CO",
+         "Number of residents in thousands": 2932.42
+      },
+      {
+         "Metropolitan Areas": "St. Louis MO-IL",
+         "Number of residents in thousands": 2805.47
+      },
+      {
+         "Metropolitan Areas": "Baltimore-Columbia-Towson MD",
+         "Number of residents in thousands": 2802.79
+      },
+      {
+         "Metropolitan Areas": "Orlando-Kissimmee-Sanford FL",
+         "Number of residents in thousands": 2572.96
+      },
+      {
+         "Metropolitan Areas": "Charlotte-Concord-Gastonia NC-SC",
+         "Number of residents in thousands": 2569.21
+      },
+      {
+         "Metropolitan Areas": "San Antonio-New Braunfels TX",
+         "Number of residents in thousands": 2518.04
+      },
+      {
+         "Metropolitan Areas": "Portland-Vancouver-Hillsboro OR-WA",
+         "Number of residents in thousands": 2478.81
+      },
+      {
+         "Metropolitan Areas": "Sacramento--Roseville--Arden-Arcade CA",
+         "Number of residents in thousands": 2345.21
+      },
+      {
+         "Metropolitan Areas": "Pittsburgh PA",
+         "Number of residents in thousands": 2324.74
+      },
+      {
+         "Metropolitan Areas": "Las Vegas-Henderson-Paradise NV",
+         "Number of residents in thousands": 2231.65
+      },
+      {
+         "Metropolitan Areas": "Cincinnati OH-KY-IN",
+         "Number of residents in thousands": 2190.21
+      },
+      {
+         "Metropolitan Areas": "Austin-Round Rock TX",
+         "Number of residents in thousands": 2168.32
+      },
+      {
+         "Metropolitan Areas": "Kansas City MO-KS",
+         "Number of residents in thousands": 2143.65
+      },
+      {
+         "Metropolitan Areas": "Columbus OH",
+         "Number of residents in thousands": 2106.54
+      },
+      {
+         "Metropolitan Areas": "Cleveland-Elyria OH",
+         "Number of residents in thousands": 2057.01
+      },
+      {
+         "Metropolitan Areas": "Indianapolis-Carmel-Anderson IN",
+         "Number of residents in thousands": 2048.7
+      },
+      {
+         "Metropolitan Areas": "San Jose-Sunnyvale-Santa Clara CA",
+         "Number of residents in thousands": 1999.11
+      },
+      {
+         "Metropolitan Areas": "Nashville-Davidson--Murfreesboro--Franklin TN",
+         "Number of residents in thousands": 1930.96
+      },
+      {
+         "Metropolitan Areas": "Virginia Beach-Norfolk-Newport News VA-NC",
+         "Number of residents in thousands": 1728.73
+      },
+      {
+         "Metropolitan Areas": "Providence-Warwick RI-MA",
+         "Number of residents in thousands": 1621.34
+      },
+      {
+         "Metropolitan Areas": "Milwaukee-Waukesha-West Allis WI",
+         "Number of residents in thousands": 1576.11
+      },
+      {
+         "Metropolitan Areas": "Jacksonville FL",
+         "Number of residents in thousands": 1534.7
+      },
+      {
+         "Metropolitan Areas": "Oklahoma City OK",
+         "Number of residents in thousands": 1396.45
+      },
+      {
+         "Metropolitan Areas": "Raleigh NC",
+         "Number of residents in thousands": 1362.54
+      },
+      {
+         "Metropolitan Areas": "Memphis TN-MS-AR",
+         "Number of residents in thousands": 1350.62
+      },
+      {
+         "Metropolitan Areas": "Richmond VA",
+         "Number of residents in thousands": 1306.17
+      },
+      {
+         "Metropolitan Areas": "Louisville/Jefferson County KY-IN",
+         "Number of residents in thousands": 1297.3
+      },
+      {
+         "Metropolitan Areas": "New Orleans-Metairie LA",
+         "Number of residents in thousands": 1270.4
+      },
+      {
+         "Metropolitan Areas": "Salt Lake City UT",
+         "Number of residents in thousands": 1222.54
+      },
+      {
+         "Metropolitan Areas": "Hartford-West Hartford-East Hartford CT",
+         "Number of residents in thousands": 1206.3
+      },
+      {
+         "Metropolitan Areas": "Birmingham-Hoover AL",
+         "Number of residents in thousands": 1151.8
+      },
+      {
+         "Metropolitan Areas": "Buffalo-Cheektowaga-Niagara Falls NY",
+         "Number of residents in thousands": 1130.15
+      }
+   ]
+}

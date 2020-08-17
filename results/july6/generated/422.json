@@ -1,0 +1,69 @@
+{
+   "title": "Urbanization in Cambodia 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the degree of Urbanization in Cambodia from 2008 to 2018 . ",
+      "Urbanization means the Share of urban population in the total population of a country . ",
+      "In 2018 , 23.39 % of Cambodia 's total population lived in urban areas and cities ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population in total population": "23.39"
+      },
+      {
+         "Year": "2017",
+         "Share of urban population in total population": "22.98"
+      },
+      {
+         "Year": "2016",
+         "Share of urban population in total population": "22.58"
+      },
+      {
+         "Year": "2015",
+         "Share of urban population in total population": "22.19"
+      },
+      {
+         "Year": "2014",
+         "Share of urban population in total population": "21.8"
+      },
+      {
+         "Year": "2013",
+         "Share of urban population in total population": "21.42"
+      },
+      {
+         "Year": "2012",
+         "Share of urban population in total population": "21.04"
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": "20.66"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": "20.29"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": "19.93"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": "19.57"
+      }
+   ]
+}

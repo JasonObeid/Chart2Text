@@ -1,0 +1,61 @@
+{
+   "title": "Number of stores of Sears Holdings worldwide 2009 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number of stores Sears Holdings worldwide from 2009 to 2017 . ",
+      "In 2017 , Sears Holdings employed a Number of 1002 people throughout the world . ",
+      "Sears Holdings is the world 's largest cosmetics and beauty company , concentrating on hair color , skin care , sun protection , make-up perfumes , and hair care ."
+   ],
+   "trends": [
+      {
+         "12": "8",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "8": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of stores": "1002"
+      },
+      {
+         "Year": "2016",
+         "Number of stores": "1430"
+      },
+      {
+         "Year": "2015",
+         "Number of stores": "1672"
+      },
+      {
+         "Year": "2014",
+         "Number of stores": "1725"
+      },
+      {
+         "Year": "2013",
+         "Number of stores": "2429"
+      },
+      {
+         "Year": "2012",
+         "Number of stores": "2548"
+      },
+      {
+         "Year": "2011",
+         "Number of stores": "4010"
+      },
+      {
+         "Year": "2010",
+         "Number of stores": "3949"
+      },
+      {
+         "Year": "2009",
+         "Number of stores": "3862"
+      }
+   ]
+}

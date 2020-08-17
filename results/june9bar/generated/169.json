@@ -1,0 +1,39 @@
+{
+   "title": "Fresh orange production volume in the European Union 2016/17 , by country",
+   "xAxis": "Country",
+   "yAxis": "Volume in 1,000 tons",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Volume of European Union orange production volume European in , broken down by Country . ",
+      "In that year , Spain had the highest Volume of any Fresh orange at 3731 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Spain",
+         "Volume in 1,000 tons": "3731"
+      },
+      {
+         "Country": "Italy",
+         "Volume in 1,000 tons": "1500"
+      },
+      {
+         "Country": "Greece",
+         "Volume in 1,000 tons": "920"
+      },
+      {
+         "Country": "Portugal",
+         "Volume in 1,000 tons": "344"
+      },
+      {
+         "Country": "Cyprus",
+         "Volume in 1,000 tons": "30"
+      }
+   ]
+}

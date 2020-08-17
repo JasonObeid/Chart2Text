@@ -1,0 +1,89 @@
+{
+   "title": "Fatality rate per 100,000 drivers licensed in the U.S. 1990 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Fatalities per 100,000 licensed drivers",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the annual Fatalities of U.S. per 100,000 annum from 1990 to 2017 . ",
+      "The largest Fatalities of U.S. per 100,000 was in 2010 with a total production of 26.7 million 100,000 of per . ",
+      "Since then the total Fatalities of per 100,000 has declined ."
+   ],
+   "trends": [
+      {
+         "13": "15",
+         "15": "0"
+      },
+      {
+         "9": "7",
+         "15": "15"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Fatalities per 100,000 licensed drivers": "16.48"
+      },
+      {
+         "Year": "2016",
+         "Fatalities per 100,000 licensed drivers": "17.05"
+      },
+      {
+         "Year": "2015",
+         "Fatalities per 100,000 licensed drivers": "16.27"
+      },
+      {
+         "Year": "2014",
+         "Fatalities per 100,000 licensed drivers": "15.29"
+      },
+      {
+         "Year": "2013",
+         "Fatalities per 100,000 licensed drivers": "15.5"
+      },
+      {
+         "Year": "2012",
+         "Fatalities per 100,000 licensed drivers": "15.95"
+      },
+      {
+         "Year": "2011",
+         "Fatalities per 100,000 licensed drivers": "15.33"
+      },
+      {
+         "Year": "2010",
+         "Fatalities per 100,000 licensed drivers": "15.71"
+      },
+      {
+         "Year": "2009",
+         "Fatalities per 100,000 licensed drivers": "16.16"
+      },
+      {
+         "Year": "2008",
+         "Fatalities per 100,000 licensed drivers": "17.96"
+      },
+      {
+         "Year": "2007",
+         "Fatalities per 100,000 licensed drivers": "20.05"
+      },
+      {
+         "Year": "2006",
+         "Fatalities per 100,000 licensed drivers": "21.06"
+      },
+      {
+         "Year": "2005",
+         "Fatalities per 100,000 licensed drivers": "21.7"
+      },
+      {
+         "Year": "2000",
+         "Fatalities per 100,000 licensed drivers": "22.0"
+      },
+      {
+         "Year": "1995",
+         "Fatalities per 100,000 licensed drivers": "23.68"
+      },
+      {
+         "Year": "1990",
+         "Fatalities per 100,000 licensed drivers": "26.7"
+      }
+   ]
+}

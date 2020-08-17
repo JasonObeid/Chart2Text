@@ -1,0 +1,116 @@
+{
+   "title": "Unemployment rate in Fiji 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 2 significant trends.",
+      " The longest trend is  positive which exists from 2008 to 2002.",
+      " In a similar manner, the next significant trend is  negative which exists from 2012 to 2008."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 11,
+         "end": 17,
+         "trend": "y=-0.09x+180.78",
+         "magnitude": ""
+      },
+      {
+         "Length": 5,
+         "direction": "negative",
+         "start": 7,
+         "end": 11,
+         "trend": "y=0.2x+-407.84",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 4.14
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 4.32
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 4.55
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 4.53
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 4.36
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 4.52
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 4.41
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 4.35
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 4.16
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 3.62
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 3.76
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 3.83
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 3.89
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 4.06
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 4.07
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 4.16
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 4.12
+      }
+   ]
+}

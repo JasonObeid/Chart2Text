@@ -1,0 +1,97 @@
+{
+   "title": "Regular season home attendance of the Atlanta Falcons 2006 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Home attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Home attendance, with a total of 14 data points. The chart has 3 significant trends.",
+      " The longest trend is  negative which exists from 2013 to 2010.",
+      " But, the next significant trend is  negative which exists from 2018 to 2016.",
+      " Differently, the next significant trend is  positive which exists from 2008 to 2006."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 6,
+         "end": 9,
+         "trend": "y=6586.6x+-12694630.9",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 1,
+         "end": 3,
+         "trend": "y=11593.0x+-22810126.67",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 11,
+         "end": 13,
+         "trend": "y=-25468.0x+51655471.33",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Home attendance": 572811.0
+      },
+      {
+         "Year": "2018",
+         "Home attendance": 583184.0
+      },
+      {
+         "Year": "2017",
+         "Home attendance": 575681.0
+      },
+      {
+         "Year": "2016",
+         "Home attendance": 559998.0
+      },
+      {
+         "Year": "2015",
+         "Home attendance": 562845.0
+      },
+      {
+         "Year": "2014",
+         "Home attendance": 493515.0
+      },
+      {
+         "Year": "2013",
+         "Home attendance": 561795.0
+      },
+      {
+         "Year": "2012",
+         "Home attendance": 560773.0
+      },
+      {
+         "Year": "2011",
+         "Home attendance": 551892.0
+      },
+      {
+         "Year": "2010",
+         "Home attendance": 542800.0
+      },
+      {
+         "Year": "2009",
+         "Home attendance": 545384.0
+      },
+      {
+         "Year": "2008",
+         "Home attendance": 512520.0
+      },
+      {
+         "Year": "2007",
+         "Home attendance": 547610.0
+      },
+      {
+         "Year": "2006",
+         "Home attendance": 563456.0
+      }
+   ]
+}

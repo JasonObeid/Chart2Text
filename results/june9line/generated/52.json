@@ -1,0 +1,52 @@
+{
+   "title": "Average CPI in the UAE 2012 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Consumer price index",
+   "graphType": "line",
+   "summary": [
+      "This statistic presents the Consumer of CPI UAE ( LoL ) monthly active index worldwide from 2012 to 2017 . ",
+      "In 2017 , LoL had 107.83 % CPI UAE , up from 105.75 % in 2016 . ",
+      "Being one of the most prominent eSports games , in 2016 LoL championship finals attracted 36 million viewers worldwide ."
+   ],
+   "trends": [
+      {
+         "17": "5",
+         "19": "0"
+      },
+      {
+         "1": "0",
+         "5": "0",
+         "11": "1",
+         "14": "1"
+      },
+      {
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Consumer price index": "107.83"
+      },
+      {
+         "Year": "2016",
+         "Consumer price index": "105.75"
+      },
+      {
+         "Year": "2015",
+         "Consumer price index": "125.75"
+      },
+      {
+         "Year": "2014",
+         "Consumer price index": "120.84"
+      },
+      {
+         "Year": "2013",
+         "Consumer price index": "118.07"
+      },
+      {
+         "Year": "2012",
+         "Consumer price index": "116.78"
+      }
+   ]
+}

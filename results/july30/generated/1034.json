@@ -1,0 +1,67 @@
+{
+   "title": "Smartphone users in Canada 2013 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Smartphone users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Smartphone users in millions with a total of 11 data points. The chart has one significant trend.",
+      " This trend is  negative which exists from 2023 to 2013."
+   ],
+   "trends": [
+      {
+         "Length": 11,
+         "direction": "negative",
+         "start": 0,
+         "end": 10,
+         "trend": "y=1.44x+-2871.7",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Smartphone users in millions": 30.4
+      },
+      {
+         "Year": "2022",
+         "Smartphone users in millions": 29.6
+      },
+      {
+         "Year": "2021",
+         "Smartphone users in millions": 28.7
+      },
+      {
+         "Year": "2020",
+         "Smartphone users in millions": 27.7
+      },
+      {
+         "Year": "2019",
+         "Smartphone users in millions": 26.6
+      },
+      {
+         "Year": "2018",
+         "Smartphone users in millions": 25.4
+      },
+      {
+         "Year": "2017",
+         "Smartphone users in millions": 24.1
+      },
+      {
+         "Year": "2016",
+         "Smartphone users in millions": 22.63
+      },
+      {
+         "Year": "2015",
+         "Smartphone users in millions": 21.09
+      },
+      {
+         "Year": "2014",
+         "Smartphone users in millions": 18.0
+      },
+      {
+         "Year": "2013",
+         "Smartphone users in millions": 15.2
+      }
+   ]
+}

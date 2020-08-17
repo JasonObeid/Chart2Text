@@ -1,0 +1,49 @@
+{
+   "title": "Automobile production - automatic transmission forecast 2010 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Million transmissions",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows a Automobile of the volume of production Million globally from 2010 to 2015 . ",
+      "By 2015 , it is predicted that production Million will reach nearly 28.65 million transmissions transmission . ",
+      "production is most commonly used for making steels , nonferrous alloys , and electroplating ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "15": "5"
+      },
+      {
+         "1": "5",
+         "12": "5"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Million transmissions": "25.03"
+      },
+      {
+         "Year": "2011",
+         "Million transmissions": "25.36"
+      },
+      {
+         "Year": "2012",
+         "Million transmissions": "26.72"
+      },
+      {
+         "Year": "2013",
+         "Million transmissions": "27.82"
+      },
+      {
+         "Year": "2014",
+         "Million transmissions": "28.46"
+      },
+      {
+         "Year": "2015",
+         "Million transmissions": "28.65"
+      }
+   ]
+}

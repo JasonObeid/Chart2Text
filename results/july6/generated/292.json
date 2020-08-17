@@ -1,0 +1,77 @@
+{
+   "title": "Global wearable technology unit sales by category 2014 to 2018",
+   "labels": [
+      "Year",
+      "Watch",
+      "Wristband",
+      "Glass",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic depicts the Global wearable of Global in the sales by 2014 to 2018 , by ownership type . ",
+      "In 2018 , Global generated 15 billion sales dollars in Wristband Global wearable . ",
+      "Global is owned by Bloomin ' Brands , Inc. a U.S.-based Global company ."
+   ],
+   "trends": [
+      {
+         "12": [
+            "4",
+            "0"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "5": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Watch": "80",
+         "Wristband": "15",
+         "Glass": "6",
+         "Other": "22"
+      },
+      {
+         "Year": "2017",
+         "Watch": "65",
+         "Wristband": "15",
+         "Glass": "4",
+         "Other": "15"
+      },
+      {
+         "Year": "2016",
+         "Watch": "50",
+         "Wristband": "20",
+         "Glass": "2",
+         "Other": "7"
+      },
+      {
+         "Year": "2015",
+         "Watch": "35",
+         "Wristband": "15",
+         "Glass": "1",
+         "Other": "5"
+      },
+      {
+         "Year": "2014",
+         "Watch": "5",
+         "Wristband": "15",
+         "Glass": "0",
+         "Other": "3"
+      }
+   ]
+}

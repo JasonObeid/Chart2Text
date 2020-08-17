@@ -1,0 +1,130 @@
+{
+   "title": "Economic damage caused by floods in the U.S. 1995 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Damage in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Damage in million U.S. dollars, with a total of 20 data points. The chart has 4 significant trends.",
+      " The longest trend is  positive which exists from 2012 to 2018.",
+      " In a similar manner, the next significant trend is  negative which exists from 2000 to 2002.",
+      " On the contrary, the next significant trend is  negative which exists from 2003 to 2005.",
+      " Conversely, the next significant trend is  positive which exists from 2009 to 2011."
+   ],
+   "trends": [
+      {
+         "Length": 7,
+         "direction": "positive",
+         "start": 13,
+         "end": 19,
+         "trend": "y=4599.54x+-9256451.32",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 1,
+         "end": 3,
+         "trend": "y=-300.0x+601343.33",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 4,
+         "end": 6,
+         "trend": "y=-501.5x+1006931.0",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "positive",
+         "start": 10,
+         "end": 12,
+         "trend": "y=3464.0x+-6958321.67",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "1995",
+         "Damage in million U.S. dollars": 1251.0
+      },
+      {
+         "Year": "2000",
+         "Damage in million U.S. dollars": 1255.0
+      },
+      {
+         "Year": "2001",
+         "Damage in million U.S. dollars": 1220.0
+      },
+      {
+         "Year": "2002",
+         "Damage in million U.S. dollars": 655.0
+      },
+      {
+         "Year": "2003",
+         "Damage in million U.S. dollars": 2541.0
+      },
+      {
+         "Year": "2004",
+         "Damage in million U.S. dollars": 1696.0
+      },
+      {
+         "Year": "2005",
+         "Damage in million U.S. dollars": 1538.0
+      },
+      {
+         "Year": "2006",
+         "Damage in million U.S. dollars": 3768.0
+      },
+      {
+         "Year": "2007",
+         "Damage in million U.S. dollars": 1278.0
+      },
+      {
+         "Year": "2008",
+         "Damage in million U.S. dollars": 3406.0
+      },
+      {
+         "Year": "2009",
+         "Damage in million U.S. dollars": 1050.0
+      },
+      {
+         "Year": "2010",
+         "Damage in million U.S. dollars": 3927.0
+      },
+      {
+         "Year": "2011",
+         "Damage in million U.S. dollars": 7978.0
+      },
+      {
+         "Year": "2012",
+         "Damage in million U.S. dollars": 494.0
+      },
+      {
+         "Year": "2013",
+         "Damage in million U.S. dollars": 2172.0
+      },
+      {
+         "Year": "2014",
+         "Damage in million U.S. dollars": 2626.0
+      },
+      {
+         "Year": "2015",
+         "Damage in million U.S. dollars": 2749.0
+      },
+      {
+         "Year": "2016",
+         "Damage in million U.S. dollars": 10907.0
+      },
+      {
+         "Year": "2017",
+         "Damage in million U.S. dollars": 60700.0
+      },
+      {
+         "Year": "2018",
+         "Damage in million U.S. dollars": 1644.0
+      }
+   ]
+}

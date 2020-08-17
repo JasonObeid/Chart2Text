@@ -1,0 +1,88 @@
+{
+   "title": "Edmonton Oilers ' revenue 2005 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 14 data points. The chart has 2 significant trends.",
+      " The longest trend is  negative which exists from 2011/12 to 2008/09.",
+      " Differently, the next significant trend is  negative which exists from 2007/08 to 2005/06."
+   ],
+   "trends": [
+      {
+         "Length": 4,
+         "direction": "negative",
+         "start": 7,
+         "end": 10,
+         "trend": "y=7.8x+-15581.1",
+         "magnitude": ""
+      },
+      {
+         "Length": 3,
+         "direction": "negative",
+         "start": 11,
+         "end": 13,
+         "trend": "y=5.0x+-9953.0",
+         "magnitude": ""
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 154.0
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 145.0
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 151.0
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 117.0
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 119.0
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": 119.0
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": 80.0
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": 106.0
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": 96.0
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": 87.0
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": 83.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": 85.0
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": 71.0
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": 75.0
+      }
+   ]
+}

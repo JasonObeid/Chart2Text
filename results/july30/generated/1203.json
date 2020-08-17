@@ -1,0 +1,34 @@
+{
+   "title": "Average weekly working hours in Sweden 2019 , by type of employment\n",
+   "xAxis": "Form of Employment",
+   "yAxis": "Average number of working hours per week",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Form of Employment, and a y axis representing Average number of working hours per week.",
+      " The highest category is found at Self-employed where Average number of working hours per week is 35.4.",
+      " The lowest category is found at Temporary_employed where Average number of working hours per week is 25.5."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 2
+   },
+   "data": [
+      {
+         "Form of Employment": "Self-employed",
+         "Average number of working hours per week": 35.4
+      },
+      {
+         "Form of Employment": "Permanently employed",
+         "Average number of working hours per week": 30.4
+      },
+      {
+         "Form of Employment": "Temporary employed",
+         "Average number of working hours per week": 25.5
+      },
+      {
+         "Form of Employment": "Employed total",
+         "Average number of working hours per week": 30.2
+      }
+   ]
+}

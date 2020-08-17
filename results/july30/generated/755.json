@@ -1,0 +1,62 @@
+{
+   "title": "Number of cruise passengers by source market worldwide 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Number of passengers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Country, and a y axis representing Number of passengers in millions.",
+      " The highest category is found at North_America where Number of passengers in millions is 14.24.",
+      " The lowest category is found at Central_America where Number of passengers in millions is 0.05."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 10
+   },
+   "data": [
+      {
+         "Country": "North America",
+         "Number of passengers in millions": 14.24
+      },
+      {
+         "Country": "Western Europe",
+         "Number of passengers in millions": 6.73
+      },
+      {
+         "Country": "Asia",
+         "Number of passengers in millions": 4.24
+      },
+      {
+         "Country": "Australasia/New Zealand/Pacific",
+         "Number of passengers in millions": 1.46
+      },
+      {
+         "Country": "South America",
+         "Number of passengers in millions": 0.88
+      },
+      {
+         "Country": "Scandinavia/Iceland",
+         "Number of passengers in millions": 0.23
+      },
+      {
+         "Country": "Eastern Europe",
+         "Number of passengers in millions": 0.21
+      },
+      {
+         "Country": "Africa",
+         "Number of passengers in millions": 0.15
+      },
+      {
+         "Country": "Middle East/Arabia",
+         "Number of passengers in millions": 0.11
+      },
+      {
+         "Country": "Caribbean",
+         "Number of passengers in millions": 0.06
+      },
+      {
+         "Country": "Central America",
+         "Number of passengers in millions": 0.05
+      }
+   ]
+}

@@ -1,0 +1,70 @@
+{
+   "title": "Type of tea most consumed in Great Britain 2014\n",
+   "xAxis": "Type of tea",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summary": [
+      "This bar chart has 13 categories for the x axis representing Type of tea, and a y axis representing Share of respondents.",
+      " The highest category is found at English_breakfast where Share of respondents is 52.0.",
+      " The lowest category is found at Chai where Share of respondents is 7.0."
+   ],
+   "trends": {
+      "maxIndex": 0,
+      "minIndex": 10
+   },
+   "data": [
+      {
+         "Type of tea": "English breakfast",
+         "Share of respondents": 52.0
+      },
+      {
+         "Type of tea": "Green",
+         "Share of respondents": 23.0
+      },
+      {
+         "Type of tea": "Earl Grey",
+         "Share of respondents": 22.0
+      },
+      {
+         "Type of tea": "Fruit",
+         "Share of respondents": 19.0
+      },
+      {
+         "Type of tea": "Peppermint",
+         "Share of respondents": 16.0
+      },
+      {
+         "Type of tea": "Herbal",
+         "Share of respondents": 15.0
+      },
+      {
+         "Type of tea": "Camomile",
+         "Share of respondents": 11.0
+      },
+      {
+         "Type of tea": "Decaffeinated",
+         "Share of respondents": 10.0
+      },
+      {
+         "Type of tea": "Assam",
+         "Share of respondents": 9.0
+      },
+      {
+         "Type of tea": "Darjeeling",
+         "Share of respondents": 8.0
+      },
+      {
+         "Type of tea": "Chai",
+         "Share of respondents": 7.0
+      },
+      {
+         "Type of tea": "Other",
+         "Share of respondents": 16.0
+      },
+      {
+         "Type of tea": "Not applicable - I never drink tea",
+         "Share of respondents": 18.0
+      }
+   ]
+}

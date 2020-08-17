@@ -1,0 +1,109 @@
+{
+   "title": "Unemployment rate in Ethiopia 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Unemployment rate in Ethiopia from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Ethiopia was at about 1.79 % . ",
+      "Trade in Ethiopia is a growing market and recognized as one of the world 's newest industrialized countries ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "1.79"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "1.81"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "1.81"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "1.94"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "2.01"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "2.1"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "2.25"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "2.2"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "2.29"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "2.39"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "2.35"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "2.13"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "2.18"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "2.3"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "2.5"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "2.67"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "2.91"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "3.07"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "3.21"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "3.44"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "3.71"
+      }
+   ]
+}
