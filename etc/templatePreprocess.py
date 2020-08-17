@@ -1042,6 +1042,11 @@ with open('../data/chartCounts.txt', mode='wt', encoding='utf8') as myfile20:
     myfile20.write(f"{[f'{key}: {val}' for key, val in simple]}\n")
     myfile20.write(f"{[f'{key}: {val}' for key, val in complex]}")
 
+with open('../data/summaryList.txt', mode='wt', encoding='utf8') as myfile21:
+    myfile21.writelines("%s" % line for line in oldSummaryArr)
+with open('../data/titleList.txt', mode='wt', encoding='utf8') as myfile22:
+    myfile22.writelines("%s" % line for line in titleArr)
+
 import matplotlib.pyplot as plt
 
 plt.hist(dataRatioArr, 6)
