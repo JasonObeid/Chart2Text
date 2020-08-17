@@ -9,7 +9,7 @@ module load python/3.7 arch/avx512 StdEnv/2018.3
 
 virtualenv --no-download $SLURM_TMPDIR/env
 source $SLURM_TMPDIR/env/bin/activate
-pip install torch--1.5.0 --no-index
+pip install torch==1.5.0 --no-index
 pip install torchvision --no-index
 pip install numpy --no-index
 pip install spacy --no-index

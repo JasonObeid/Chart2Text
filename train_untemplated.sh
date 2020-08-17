@@ -1,9 +1,9 @@
 #!/bin/bash
 #SBATCH --account=def-enamul
-#SBATCH --gres=gpu:t4:1
+#SBATCH --gres=gpu:1
 #SBATCH --cpus-per-task=2
 #SBATCH --mem=12G
-#SBATCH --time=0-6:00
+#SBATCH --time=0-12:00
 
 module load python/3.7 arch/avx512 StdEnv/2018.3
 
