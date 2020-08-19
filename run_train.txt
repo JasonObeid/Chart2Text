@@ -38,8 +38,8 @@ python3 model/summarize.py --model_path june9line-40.pth --table_path data/line/
 --output_path results/june9line/templateOutput_609gp40_beam=4_batch=8.txt \
 --title_path data/line/test/testTitle.txt --beam_size 4 --batch_size 8
 
-python3 model/summarize.py --model_path june30-80.pth --table_path data/test/testData.txt \
---output_path results/july6/templateOutput-p80.txt \
+python3 model/summarize.py --model_path aug17-80.pth --table_path data/test/testData.txt \
+--output_path results/aug17/templateOutput-p80.txt \
 --title_path data/test/testTitle.txt --beam_size 4 --batch_size 8
 
 perl model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/july6/generated-p80.txt

@@ -1,5 +1,4 @@
 import json
-
 import spacy
 import en_core_web_md
 import re
@@ -242,12 +241,12 @@ goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
 
-analysisPath = '../results/july6/analysis-p80.txt'
-generatedPath = '../results/july6/templateOutput-p80.txt'
-comparisonPath = '../results/july6/summaryComparison-p80.txt'
-outputPath = '../results/july6/generated-p80.txt'
-websitePath = '../results/july6/generated'
-newDataPath = '../results/july6/data'
+analysisPath = '../results/aug17/analysis-p80.txt'
+generatedPath = '../results/aug17/templateOutput-p80.txt'
+comparisonPath = '../results/aug17/summaryComparison-p80.txt'
+outputPath = '../results/aug17/generated-p80.txt'
+websitePath = '../results/aug17/generated'
+newDataPath = '../results/aug17/data'
 
 nlp = spacy.load('en_core_web_md')
 fb = FitBert()
@@ -664,7 +663,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                 cleanTemplates.append(newSentence)
             dataJson = [{' '.join(xLabel):xVal, ' '.join(yLabel):yVal} for xVal, yVal in zip(cleanXArr, cleanYArr)]
             websiteInput = {"title":title.strip(), "xAxis":' '.join(xLabel), "yAxis":' '.join(yLabel), "columnType":"two", \
-                            "graphType":chartType, "summary":reversedSentences, "trends":cleanTemplates, "data":dataJson}
+                            "graphType":chartType, "summaryType":"nlp", "summary":reversedSentences, "trends":cleanTemplates, "data":dataJson}
             with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                 json.dump(websiteInput, websiteFile, indent=3)
             #data = {' '.join(xLabel):cleanXArr, ' '.join(yLabel):cleanYArr}
