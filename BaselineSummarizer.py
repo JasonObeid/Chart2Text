@@ -192,29 +192,27 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                     meanLineVals.append(x)
                 sortedLines = sorted(meanLineVals,key=itemgetter(1))
                 # if more than 2 lines
-                print(sortedLines)
                 lineCount = len(labelArr) - 1
                 maxLine = sortedLines[-1]
                 index1 = stringLabels.index(maxLine[0]) - 1
-                rowIndex1 =
                 maxLineData = round(max(intData[index1]), 2)
                 maxXValue = valueArr[0][intData[index1].index(maxLineData)]
                 secondLine = sortedLines[-2]
-                print(secondLine)
-                print(intData[1:])
+                rowIndex1 = intData[index1].index(maxLineData)
                 index2 = stringLabels.index(secondLine[0]) - 1
                 secondLineData = round(max(intData[index2]), 2)
                 secondXValue = valueArr[0][intData[index2].index(secondLineData)]
+                rowIndex2 = intData[index2].index(secondLineData)
                 summaryArr = [f'This line chart has {lineCount} lines.',
                               f' The line representing {maxLine[0]} had the highest values across {stringLabels[0]} with a mean value of {maxLine[1]}.',
                               f' This peaked at {maxXValue} with a value of {maxLineData}. ',
                               f' The line with the second highest values was {secondLine[0]} with a mean value of {secondLine[1]}.',
                               f' This line peaked at {secondXValue} with a value of {secondLineData}']
                 trendsArray = [{},
-                               {"2": ["0", str(index1)], "16": [str(rowCount-1), str(index1)]},
-                               {"1": ["0", str(index1)], "9": ["0", str(index1)]},
-                               {"2": ["0", str(index2)], "15": [str(rowCount-1), str(index2)]},
-                               {"1": ["0", str(index2)], "10": ["0", str(index2)]}
+                               {"2": ["0", str(index1)], "16": [str(rowCount - 1), str(index1)]},
+                               {"1": [str(rowIndex1), str(index1)], "9": [str(rowIndex1), str(index1)]},
+                               {"2": ["0", str(index2)], "15": [str(rowCount - 1), str(index2)]},
+                               {"1": [str(rowIndex2), str(index2)], "10": [str(rowIndex2), str(index2)]}
                                ]
                 websiteInput = {"title": title.strip(), "labels": [' '.join(label) for label in labelArr],
                                 "columnType": "multi", \
