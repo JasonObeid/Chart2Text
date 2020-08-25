@@ -1,0 +1,49 @@
+{
+   "title": "Number of assaults by weapon U.S. 2018",
+   "xAxis": "Weapon used",
+   "yAxis": "Number of assaults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , Other_weapon assaults accounted for the largest assaults of Number U.S. by 2018 Knife_or_cutting_instrument , with a 223997 % assaults . ",
+      "185437 % of the company by Number Knife_or_cutting_instrument was made through Firearm assaults that year . ",
+      "Firearm assaults setting the pace strong growth of Number U.S. by Firearm segment \u2013 increase seven percent since 2012 \u2013 has contributed towards the decreased assaults of its Other_weapon used ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "15": "3",
+         "19": "0"
+      },
+      {
+         "0": "1",
+         "7": "3",
+         "11": "1"
+      },
+      {
+         "0": "1",
+         "12": "1",
+         "30": "0"
+      }
+   ],
+   "data": [
+      {
+         "Weapon used": "Other weapon",
+         "Number of assaults": "223997"
+      },
+      {
+         "Weapon used": "Firearm",
+         "Number of assaults": "185437"
+      },
+      {
+         "Weapon used": "Personal weapons",
+         "Number of assaults": "179008"
+      },
+      {
+         "Weapon used": "Knife or cutting instrument",
+         "Number of assaults": "123253"
+      }
+   ],
+   "gold": "In 2018 , there were 185,437 aggravated assaults where firearms were used . In comparison , there were 123,253 aggravated assaults where knives or other cutting instruments were used . What are firearms ? Firearms are portable weapons used to shoot bullets .\n"
+}

@@ -1,0 +1,30 @@
+{
+   "title": "Churn rate of Spotify worldwide 2017 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Churn rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Churn rate with a total of 2 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2018 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Churn rate": 19.8
+      },
+      {
+         "Year": "2017",
+         "Churn rate": 18.1
+      }
+   ],
+   "gold": "The cumulative subscriber churn rate of Spotify worldwide amounted to 19.8 percent in 2018 , up from 18.1 percent in the previous year . The source noted that this is partially due to promotional trials - whilst such trials draw in new subscribers , many of whom tend to convert , Spotify counts paid trialists in its subscriber numbers , meaning that those who do not convert then become churned subscribers .\n"
+}

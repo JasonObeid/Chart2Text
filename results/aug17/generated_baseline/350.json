@@ -1,0 +1,74 @@
+{
+   "title": "Rural population share in France 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Share of the rural population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of the rural population with a total of 13 data points. The chart has one significant trend.",
+      " This trend is negative which exists from 2018 to 2006."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of the rural population": 19.5
+      },
+      {
+         "Year": "2017",
+         "Share of the rural population": 19.8
+      },
+      {
+         "Year": "2016",
+         "Share of the rural population": 20.0
+      },
+      {
+         "Year": "2015",
+         "Share of the rural population": 20.3
+      },
+      {
+         "Year": "2014",
+         "Share of the rural population": 20.6
+      },
+      {
+         "Year": "2013",
+         "Share of the rural population": 20.9
+      },
+      {
+         "Year": "2012",
+         "Share of the rural population": 21.1
+      },
+      {
+         "Year": "2011",
+         "Share of the rural population": 21.4
+      },
+      {
+         "Year": "2010",
+         "Share of the rural population": 21.6
+      },
+      {
+         "Year": "2009",
+         "Share of the rural population": 21.9
+      },
+      {
+         "Year": "2008",
+         "Share of the rural population": 22.1
+      },
+      {
+         "Year": "2007",
+         "Share of the rural population": 22.4
+      },
+      {
+         "Year": "2006",
+         "Share of the rural population": 22.6
+      }
+   ],
+   "gold": "In 2018 , the rural population in France reached 19.5 percent of the total . In 2018 , Europe was ranked third continent worldwide in terms of degree of urbanization . 80 percent of the European population was living in cities in 2018 , but this figure is expected to decrease by 2050 .\n"
+}

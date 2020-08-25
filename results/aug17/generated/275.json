@@ -1,0 +1,43 @@
+{
+   "title": "PUBG unit sales worldwide 2018",
+   "xAxis": "Month",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Since its release in 2011 , PUBG has recorded worldwide sales of 50 millions units , making it one of the best-selling games of all time along with other legendary games such as Tetris and Grand Theft Auto V. The popular sandbox game , which is developed by Swedish game publisher , Mojang allows players to build 3D worlds with different types of blocks and then explore and craft items within their new world . ",
+      "PUBG - a global hit PUBG is available across several computer operating systems and was more recently released for console . ",
+      "Due to the freedom that is afforded players and the infinite Unit of ways the game can develop , it still remains popular with fans some eight years after its release ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "June 2018",
+         "Unit sales in millions": "50"
+      },
+      {
+         "Month": "September 2017",
+         "Unit sales in millions": "10"
+      },
+      {
+         "Month": "August 2017",
+         "Unit sales in millions": "8"
+      },
+      {
+         "Month": "June 2017",
+         "Unit sales in millions": "4"
+      },
+      {
+         "Month": "May 2017",
+         "Unit sales in millions": "2"
+      }
+   ],
+   "gold": "Since it was first released by developer Bluehole in March 2017 , PlayerUnknown 's Battlegrounds ( PUBG ) has developed a loyal legion of fans . While the battle royale game only sold two million copies within the first few months of its Early Access release on Steam , this number had jumped to 50 million units just a year later in June 2018 . One of the biggest games on Steam PUBG is an online multiplayer game which pits up to 100 players against each other at one time .\n"
+}

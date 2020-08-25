@@ -1,0 +1,61 @@
+{
+   "title": "Vending machines : sales volume of vended products 2010\n",
+   "xAxis": "Year",
+   "yAxis": "Vended volume (in billion U.S. dollars)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the federal arts and culture spending in the united per capita from 2002 to 2013 . In 2013 , 6.13 u.s. dollars were spent per capita on arts and culture in the u.s. by federal institutions .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "1999",
+         "Vended volume (in billion U.S. dollars)": 36.6
+      },
+      {
+         "Year": "2000",
+         "Vended volume (in billion U.S. dollars)": 38.7
+      },
+      {
+         "Year": "2001",
+         "Vended volume (in billion U.S. dollars)": 41.0
+      },
+      {
+         "Year": "2002",
+         "Vended volume (in billion U.S. dollars)": 41.1
+      },
+      {
+         "Year": "2003",
+         "Vended volume (in billion U.S. dollars)": 42.2
+      },
+      {
+         "Year": "2004",
+         "Vended volume (in billion U.S. dollars)": 44.2
+      },
+      {
+         "Year": "2005",
+         "Vended volume (in billion U.S. dollars)": 46.0
+      },
+      {
+         "Year": "2006",
+         "Vended volume (in billion U.S. dollars)": 46.8
+      },
+      {
+         "Year": "2007",
+         "Vended volume (in billion U.S. dollars)": 47.5
+      },
+      {
+         "Year": "2008",
+         "Vended volume (in billion U.S. dollars)": 45.6
+      },
+      {
+         "Year": "2009",
+         "Vended volume (in billion U.S. dollars)": 42.9
+      },
+      {
+         "Year": "2010",
+         "Vended volume (in billion U.S. dollars)": 42.2
+      }
+   ],
+   "gold": "This graph depicts the total sales volume of products sold through vending machines in the U.S. from 1999 to 2010 . In 1999 , the sales volume was 36.6 billion U.S. dollars .\n"
+}

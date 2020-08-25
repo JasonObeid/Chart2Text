@@ -1,0 +1,57 @@
+{
+   "title": "Poverty risk rate in Belgium 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "At-risk-of-poverty rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the total number of passengers uplifted by easyjet Airline Company Ltd between 2008 and 2018 . easyjet is the UK 's biggest airline in terms of number of passengers and is based at Luton airport . In 2018 easyjet UK Ltd joined the easyjet Airline Company Ltd Group .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "At-risk-of-poverty rate": 16.4
+      },
+      {
+         "Year": "2017",
+         "At-risk-of-poverty rate": 15.9
+      },
+      {
+         "Year": "2016",
+         "At-risk-of-poverty rate": 15.5
+      },
+      {
+         "Year": "2015",
+         "At-risk-of-poverty rate": 14.9
+      },
+      {
+         "Year": "2014",
+         "At-risk-of-poverty rate": 15.5
+      },
+      {
+         "Year": "2013",
+         "At-risk-of-poverty rate": 15.1
+      },
+      {
+         "Year": "2012",
+         "At-risk-of-poverty rate": 15.3
+      },
+      {
+         "Year": "2011",
+         "At-risk-of-poverty rate": 15.3
+      },
+      {
+         "Year": "2010",
+         "At-risk-of-poverty rate": 14.6
+      },
+      {
+         "Year": "2009",
+         "At-risk-of-poverty rate": 14.6
+      },
+      {
+         "Year": "2008",
+         "At-risk-of-poverty rate": 14.7
+      }
+   ],
+   "gold": "Between 2008 and 2018 , roughly 15 percent of the Belgium population was at risk of poverty , defined by Statistics Belgium as 60 percent of the average disposable income in the country . People with an income lower than this are considered poor . In 2018 , this definition matched nearly 16 percent of the Belgians .\n"
+}

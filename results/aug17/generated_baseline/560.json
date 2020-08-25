@@ -1,0 +1,101 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Japan 2024\n",
+   "xAxis": "Year",
+   "yAxis": "GDP growth rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP growth rate compared to previous year, with a total of 11 data points. The chart has 8 significant trends.",
+      " The longest trend is moderately negative which exists from 2021 to 2019.",
+      " Contrarily, the next significant trend is moderately negative which exists from 2016 to 2014.",
+      " Differently, the next significant trend is moderately neutral which exists from 2024 to 2023.",
+      " Differently, the next significant trend is moderately negative which exists from 2023 to 2022.",
+      " On the other hand, the next significant trend is moderately positive which exists from 2022 to 2021.",
+      " Also, the next significant trend is moderately positive which exists from 2019 to 2018.",
+      " Likewise, the next significant trend is slightly negative which exists from 2018 to 2017.",
+      " Contrarily, the next significant trend is extremely positive which exists from 2017 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "3",
+         "12": "5"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      },
+      {
+         "3": "5",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth rate compared to previous year": 0.5
+      },
+      {
+         "Year": "2023",
+         "GDP growth rate compared to previous year": 0.5
+      },
+      {
+         "Year": "2022",
+         "GDP growth rate compared to previous year": 0.52
+      },
+      {
+         "Year": "2021",
+         "GDP growth rate compared to previous year": 0.45
+      },
+      {
+         "Year": "2020",
+         "GDP growth rate compared to previous year": 0.47
+      },
+      {
+         "Year": "2019",
+         "GDP growth rate compared to previous year": 0.89
+      },
+      {
+         "Year": "2018",
+         "GDP growth rate compared to previous year": 0.81
+      },
+      {
+         "Year": "2017",
+         "GDP growth rate compared to previous year": 1.94
+      },
+      {
+         "Year": "2016",
+         "GDP growth rate compared to previous year": 0.61
+      },
+      {
+         "Year": "2015",
+         "GDP growth rate compared to previous year": 1.22
+      },
+      {
+         "Year": "2014",
+         "GDP growth rate compared to previous year": 0.38
+      }
+   ],
+   "gold": "The statistic shows the growth rate of the real gross domestic product ( GDP ) in Japan from 2014 to 2018 , with projections up until 2024 . In 2018 , Japan 's GDP increased by 0.81 percent compared to the previous year . For comparison , the GDP growth rate of China had reached about 7.3 percent that same year.Gross domestic product growth rate in Japan GDP serves as one of the most heavily relied upon indicators to gauge the state and health of a country 's economy .\n"
+}

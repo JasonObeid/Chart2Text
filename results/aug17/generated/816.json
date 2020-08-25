@@ -1,0 +1,64 @@
+{
+   "title": "Output gap forecast comparison UK from 2019 to 2023",
+   "labels": [
+      "Year",
+      "OBR",
+      "IMF"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the comparison and UK from forecast share of 2019 in UK until 2022 with a forecast for 2023 , by OBR and IMF Output . ",
+      "In 2022 , the OBR Output of the comparison and UK from had accounted for 0 % of UK forecast IMF 2019 ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "1",
+            "0"
+         ],
+         "20": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "15": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "OBR": "0",
+         "IMF": "0"
+      },
+      {
+         "Year": "2022",
+         "OBR": "0",
+         "IMF": "0"
+      },
+      {
+         "Year": "2021",
+         "OBR": "-0.1",
+         "IMF": "0"
+      },
+      {
+         "Year": "2020",
+         "OBR": "-0.2",
+         "IMF": "0"
+      },
+      {
+         "Year": "2019",
+         "OBR": "-0.1",
+         "IMF": "0"
+      }
+   ],
+   "gold": "This statistic shows a comparison of output gap predictions in the United Kingdom ( UK ) from 2019 to 2023 . In 2019 , the Office for Budget Responsibility ( OBR ) estimated a negative output gap of 0.1 percent .\n"
+}

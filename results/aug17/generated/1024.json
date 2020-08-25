@@ -1,0 +1,81 @@
+{
+   "title": "Average daily television viewing time in France 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Time in hours and minutes (hh.mm)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The total minutes of Time hours , including fuel , reached a peak minutes of over 423 million British pounds in 2018 . ",
+      "This marked an increase of about 18 million British pounds on the previous Year . ",
+      "For the Time industry excluding fuel hours , this figure similarly indicated a record minutes in 2018 with a significant rise on the Year prior ."
+   ],
+   "trends": [
+      {
+         "21": "0"
+      },
+      {},
+      {
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Time in hours and minutes (hh.mm)": "3.36"
+      },
+      {
+         "Year": "2017",
+         "Time in hours and minutes (hh.mm)": "3.42"
+      },
+      {
+         "Year": "2016",
+         "Time in hours and minutes (hh.mm)": "3.43"
+      },
+      {
+         "Year": "2015",
+         "Time in hours and minutes (hh.mm)": "3.44"
+      },
+      {
+         "Year": "2014",
+         "Time in hours and minutes (hh.mm)": "3.41"
+      },
+      {
+         "Year": "2013",
+         "Time in hours and minutes (hh.mm)": "3.46"
+      },
+      {
+         "Year": "2012",
+         "Time in hours and minutes (hh.mm)": "3.5"
+      },
+      {
+         "Year": "2011",
+         "Time in hours and minutes (hh.mm)": "3.47"
+      },
+      {
+         "Year": "2010",
+         "Time in hours and minutes (hh.mm)": "3.32"
+      },
+      {
+         "Year": "2009",
+         "Time in hours and minutes (hh.mm)": "3.25"
+      },
+      {
+         "Year": "2008",
+         "Time in hours and minutes (hh.mm)": "3.24"
+      },
+      {
+         "Year": "2007",
+         "Time in hours and minutes (hh.mm)": "3.27"
+      },
+      {
+         "Year": "2006",
+         "Time in hours and minutes (hh.mm)": "3.24"
+      },
+      {
+         "Year": "2005",
+         "Time in hours and minutes (hh.mm)": "3.26"
+      }
+   ],
+   "gold": "This statistic shows the average time individuals spent watching television per day in France from 2005 to 2018 . The data refers to television owners in metropolitan France aged four years and older . In 2018 , the average daily television viewing time in France came to three hours and 36 minutes , six minute less than one year earlier and a continuous slight decrease since 2015 .\n"
+}

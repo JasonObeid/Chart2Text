@@ -1,0 +1,94 @@
+{
+   "title": "Revenue of the Jacksonville Jaguars 2001 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars with a total of 18 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2018 to 2001."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "17"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 424.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 391.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 377.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 344.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 315.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 263.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 260.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 238.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 236.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 220.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 217.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 204.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 189.0
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 173.0
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 169.0
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 153.0
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 142.0
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 137.0
+      }
+   ],
+   "gold": "The statistic depicts the revenue of the Jacksonville Jaguars , a franchise of the National Football League , from 2001 to 2018 . In 2018 , the revenue of the Jacksonville Jaguars was 424 million U.S. dollars .\n"
+}

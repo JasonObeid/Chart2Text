@@ -1,0 +1,82 @@
+{
+   "title": "Travel spending of U.S. travelers by age group 2015",
+   "labels": [
+      "Year",
+      "Less than 1,000 U.S. dollars",
+      "1,000-3,999 U.S. dollars",
+      "4,000-3,000 U.S. dollars",
+      "8,000-11,999 U.S. dollars",
+      "12,000-15,999 U.S. dollars",
+      "16,000-19,999 U.S. dollars",
+      "20,000-24,999 U.S. dollars",
+      "25,000 U.S. dollars or more"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the results of a survey concerned 35-54_years_old the Travel why consumers attended travelers in U.S. by from 55+_years_old to 21-34_years_old . ",
+      "In 55+_years_old , 23 % of respondents aged Less to than years old ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "1",
+            "0"
+         ],
+         "20": [
+            "2",
+            "0"
+         ],
+         "22": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "3": [
+            "2",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "21-34 years old",
+         "Less than 1,000 U.S. dollars": "15",
+         "1,000-3,999 U.S. dollars": "43",
+         "4,000-3,000 U.S. dollars": "19",
+         "8,000-11,999 U.S. dollars": "6",
+         "12,000-15,999 U.S. dollars": "3",
+         "16,000-19,999 U.S. dollars": "7",
+         "20,000-24,999 U.S. dollars": "3",
+         "25,000 U.S. dollars or more": "4"
+      },
+      {
+         "Year": "35-54 years old",
+         "Less than 1,000 U.S. dollars": "12",
+         "1,000-3,999 U.S. dollars": "33",
+         "4,000-3,000 U.S. dollars": "26",
+         "8,000-11,999 U.S. dollars": "14",
+         "12,000-15,999 U.S. dollars": "6",
+         "16,000-19,999 U.S. dollars": "2",
+         "20,000-24,999 U.S. dollars": "3",
+         "25,000 U.S. dollars or more": "4"
+      },
+      {
+         "Year": "55+ years old",
+         "Less than 1,000 U.S. dollars": "23",
+         "1,000-3,999 U.S. dollars": "36",
+         "4,000-3,000 U.S. dollars": "18",
+         "8,000-11,999 U.S. dollars": "10",
+         "12,000-15,999 U.S. dollars": "5",
+         "16,000-19,999 U.S. dollars": "3",
+         "20,000-24,999 U.S. dollars": "2",
+         "25,000 U.S. dollars or more": "4"
+      }
+   ],
+   "gold": "This statistic shows amount spent on travel by U.S. travelers in 2015 , by age group . The survey revealed that 15 percent of 21 - 34 year olds spent less than 1,000 U.S. dollars on travel in the past 12 months .\n"
+}

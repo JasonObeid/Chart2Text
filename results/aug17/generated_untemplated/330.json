@@ -1,0 +1,36 @@
+{
+   "title": "Election 2012 exit polls : percentage of votes by ethnicity",
+   "labels": [
+      "Race",
+      "Barack Obama",
+      "Mitt Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This survey , conducted in the united in 2014 , shows if respondents assess today 's political climate as being more angry and bad tempered than in the past . In 2014 , 69 percent of respondents thought that the current political climate is more angry and bad tempered than that of the past .\n",
+   "trends": {},
+   "data": [
+      {
+         "Race": "White",
+         "Barack Obama": "39",
+         "Mitt Romney": "59"
+      },
+      {
+         "Race": "Black",
+         "Barack Obama": "93",
+         "Mitt Romney": "6"
+      },
+      {
+         "Race": "Hispanic",
+         "Barack Obama": "71",
+         "Mitt Romney": "27"
+      },
+      {
+         "Race": "Asian",
+         "Barack Obama": "73",
+         "Mitt Romney": "26"
+      }
+   ],
+   "gold": "This graph shows the percentage of votes of the 2012 presidential elections in the United States on November 6 , 2012 , by ethnicity . According to the exit polls , about 71 percent of Hispanic voters nationwide have voted for Barack Obama . Elections in the U.S .\n"
+}

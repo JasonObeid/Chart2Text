@@ -1,0 +1,59 @@
+{
+   "title": "United States : retail e-commerce sales 2017 to 2024",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows States AR sales Revenue worldwide from 2017 to 2024 . ",
+      "States retail e-commerce sales Revenue reached 274755 million U.S. dollars in 2017 and is forecast to amount around 599186 million U.S. dollars by 2024 ."
+   ],
+   "trends": [
+      {
+         "9": "7",
+         "11": "0"
+      },
+      {
+         "6": "7",
+         "11": "7",
+         "19": "0",
+         "24": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Revenue in million U.S. dollars": "599186"
+      },
+      {
+         "Year": "2023",
+         "Revenue in million U.S. dollars": "565696"
+      },
+      {
+         "Year": "2022",
+         "Revenue in million U.S. dollars": "524091"
+      },
+      {
+         "Year": "2021",
+         "Revenue in million U.S. dollars": "474540"
+      },
+      {
+         "Year": "2020",
+         "Revenue in million U.S. dollars": "419879"
+      },
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": "365207"
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": "315629"
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": "274755"
+      }
+   ],
+   "gold": "In 2019 , U.S. online retail sales of physical goods amounted to 365.2 billion US dollars and are projected to reach close to 600 billion US dollars in 2024 . Apparel and accessories retail e-commerce in the U.S. is projected to generate 194.4 billion U.S. dollars in revenue by 2024 .\n"
+}

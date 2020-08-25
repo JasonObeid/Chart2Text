@@ -1,0 +1,131 @@
+{
+   "title": "Employment by economic sector in Norway 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Services had the highest values across Year with a mean value of 77.9.",
+      " This peaked at 2019 with a value of 78.8. ",
+      " The line with the second highest values was Industry with a mean value of 19.8.",
+      " This line peaked at 2014 with a value of 20.4"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "10": [
+            "5",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "2.02",
+         "Industry": "19.09",
+         "Services": "78.89"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "2.04",
+         "Industry": "19.24",
+         "Services": "78.72"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "2.06",
+         "Industry": "19.41",
+         "Services": "78.53"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "2.09",
+         "Industry": "19.47",
+         "Services": "78.44"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "2.01",
+         "Industry": "20.12",
+         "Services": "77.87"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "2.25",
+         "Industry": "20.44",
+         "Services": "77.31"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "2.21",
+         "Industry": "20.32",
+         "Services": "77.48"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "2.23",
+         "Industry": "20.23",
+         "Services": "77.54"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "2.37",
+         "Industry": "20.25",
+         "Services": "77.38"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "2.55",
+         "Industry": "19.7",
+         "Services": "77.76"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "2.7",
+         "Industry": "20.22",
+         "Services": "77.08"
+      }
+   ],
+   "gold": "The statistic shows the distribution of employment in Norway by economic sector from 2009 to 2019 . In 2019 , 2.02 percent of the employees in Norway were active in the agricultural sector , 19.09 percent in industry and 78.89 percent in the service sector .\n"
+}

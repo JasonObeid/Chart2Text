@@ -1,0 +1,40 @@
+{
+   "title": "Population of Greece 2016 , by gender\n",
+   "xAxis": "Gender",
+   "yAxis": "Total population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Gender, and a y axis representing Total population.",
+      " The highest category is found at Total where Total population is 10783748.0.",
+      " The lowest category is found at Males where Total population is 5224210.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Gender": "Females",
+         "Total population": 5559538.0
+      },
+      {
+         "Gender": "Males",
+         "Total population": 5224210.0
+      },
+      {
+         "Gender": "Total",
+         "Total population": 10783748.0
+      }
+   ],
+   "gold": "This statistic displays the population of Greece by gender in 2016 . In this year there were a total of 10.78 million inhabitants in Greece . There were almost 5.56 million female inhabitants , whereas there were less than 5.3 million male inhabitants .\n"
+}

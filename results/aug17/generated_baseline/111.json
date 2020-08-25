@@ -1,0 +1,93 @@
+{
+   "title": "Red Lobster restaurants in the U.S. and Canada 2013\n",
+   "xAxis": "Year",
+   "yAxis": "Number of restaurants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of restaurants, with a total of 14 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely negative which exists from 2008 to 2013.",
+      " Conversely, the next significant trend is extremely negative which exists from 2000 to 2004.",
+      " Contrarily, the next significant trend is moderately negative which exists from 2004 to 2006.",
+      " On the contrary, the next significant trend is slightly neutral which exists from 2006 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "8",
+         "12": "13"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Number of restaurants": 654.0
+      },
+      {
+         "Year": "2001",
+         "Number of restaurants": 661.0
+      },
+      {
+         "Year": "2002",
+         "Number of restaurants": 667.0
+      },
+      {
+         "Year": "2003",
+         "Number of restaurants": 673.0
+      },
+      {
+         "Year": "2004",
+         "Number of restaurants": 680.0
+      },
+      {
+         "Year": "2005",
+         "Number of restaurants": 679.0
+      },
+      {
+         "Year": "2006",
+         "Number of restaurants": 682.0
+      },
+      {
+         "Year": "2007",
+         "Number of restaurants": 680.0
+      },
+      {
+         "Year": "2008",
+         "Number of restaurants": 680.0
+      },
+      {
+         "Year": "2009",
+         "Number of restaurants": 690.0
+      },
+      {
+         "Year": "2010",
+         "Number of restaurants": 694.0
+      },
+      {
+         "Year": "2011",
+         "Number of restaurants": 698.0
+      },
+      {
+         "Year": "2012",
+         "Number of restaurants": 704.0
+      },
+      {
+         "Year": "2013",
+         "Number of restaurants": 705.0
+      }
+   ],
+   "gold": "The statistic shows the number of Red Lobster restaurants in the United States and Canada from 2000 to 2013 . In 2013 , there were 705 Red Lobster restaurants in North America .\n"
+}

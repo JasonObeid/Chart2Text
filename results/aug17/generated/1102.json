@@ -1,0 +1,109 @@
+{
+   "title": "Number of lobbyists in the U.S. 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of lobbyists",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic represents the total U.S. energy-related lobbyists Number between 2000 and 2019 . ",
+      "In 2019 , around 11862 million lobbyists of CO2 Number were produced from energy consumption in the Number . ",
+      "In 2016 , around 34.8 million lobbyists of was emitted globally ."
+   ],
+   "trends": [
+      {
+         "11": "19",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      },
+      {
+         "1": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of lobbyists": "11862"
+      },
+      {
+         "Year": "2018",
+         "Number of lobbyists": "11656"
+      },
+      {
+         "Year": "2017",
+         "Number of lobbyists": "11554"
+      },
+      {
+         "Year": "2016",
+         "Number of lobbyists": "11188"
+      },
+      {
+         "Year": "2015",
+         "Number of lobbyists": "11519"
+      },
+      {
+         "Year": "2014",
+         "Number of lobbyists": "11789"
+      },
+      {
+         "Year": "2013",
+         "Number of lobbyists": "12082"
+      },
+      {
+         "Year": "2012",
+         "Number of lobbyists": "12171"
+      },
+      {
+         "Year": "2011",
+         "Number of lobbyists": "12607"
+      },
+      {
+         "Year": "2010",
+         "Number of lobbyists": "12912"
+      },
+      {
+         "Year": "2009",
+         "Number of lobbyists": "13719"
+      },
+      {
+         "Year": "2008",
+         "Number of lobbyists": "14132"
+      },
+      {
+         "Year": "2007",
+         "Number of lobbyists": "14825"
+      },
+      {
+         "Year": "2006",
+         "Number of lobbyists": "14488"
+      },
+      {
+         "Year": "2005",
+         "Number of lobbyists": "14093"
+      },
+      {
+         "Year": "2004",
+         "Number of lobbyists": "13215"
+      },
+      {
+         "Year": "2003",
+         "Number of lobbyists": "12960"
+      },
+      {
+         "Year": "2002",
+         "Number of lobbyists": "12149"
+      },
+      {
+         "Year": "2001",
+         "Number of lobbyists": "11853"
+      },
+      {
+         "Year": "2000",
+         "Number of lobbyists": "12540"
+      }
+   ],
+   "gold": "This statistic shows the number of registered active lobbyists in the United States from 2000 to 2019 . In 2019 , the total number of unique , registered lobbyists who have actively lobbied amounted to 11,862 .\n"
+}

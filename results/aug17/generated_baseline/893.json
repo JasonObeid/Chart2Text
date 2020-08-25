@@ -1,0 +1,162 @@
+{
+   "title": "Producer Price Index for commodities 1990 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Producer Price Index (100=1982)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Producer Price Index (100=1982), with a total of 30 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly positive which exists from '98 to '90.",
+      " In a similar manner, the next significant trend is extremely positive which exists from '09 to '02.",
+      " Likewise, the next significant trend is slightly negative which exists from '19 to '14.",
+      " Contrarily, the next significant trend is extremely positive which exists from '14 to '09.",
+      " Likewise, the next significant trend is slightly positive which exists from '02 to '98."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "21",
+         "12": "29"
+      },
+      {
+         "3": "10",
+         "14": "17"
+      },
+      {
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "10"
+      },
+      {
+         "3": "17",
+         "14": "21"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'19",
+         "Producer Price Index (100=1982)": 199.8
+      },
+      {
+         "Year": "'18",
+         "Producer Price Index (100=1982)": 202.0
+      },
+      {
+         "Year": "'17",
+         "Producer Price Index (100=1982)": 193.5
+      },
+      {
+         "Year": "'16",
+         "Producer Price Index (100=1982)": 185.4
+      },
+      {
+         "Year": "'15",
+         "Producer Price Index (100=1982)": 190.4
+      },
+      {
+         "Year": "'14",
+         "Producer Price Index (100=1982)": 205.3
+      },
+      {
+         "Year": "'13",
+         "Producer Price Index (100=1982)": 203.4
+      },
+      {
+         "Year": "'12",
+         "Producer Price Index (100=1982)": 202.2
+      },
+      {
+         "Year": "'11",
+         "Producer Price Index (100=1982)": 201.0
+      },
+      {
+         "Year": "'10",
+         "Producer Price Index (100=1982)": 184.7
+      },
+      {
+         "Year": "'09",
+         "Producer Price Index (100=1982)": 172.9
+      },
+      {
+         "Year": "'08",
+         "Producer Price Index (100=1982)": 189.6
+      },
+      {
+         "Year": "'07",
+         "Producer Price Index (100=1982)": 172.6
+      },
+      {
+         "Year": "'06",
+         "Producer Price Index (100=1982)": 164.7
+      },
+      {
+         "Year": "'05",
+         "Producer Price Index (100=1982)": 157.4
+      },
+      {
+         "Year": "'04",
+         "Producer Price Index (100=1982)": 146.7
+      },
+      {
+         "Year": "'03",
+         "Producer Price Index (100=1982)": 138.1
+      },
+      {
+         "Year": "'02",
+         "Producer Price Index (100=1982)": 131.1
+      },
+      {
+         "Year": "'01",
+         "Producer Price Index (100=1982)": 134.2
+      },
+      {
+         "Year": "'00",
+         "Producer Price Index (100=1982)": 132.7
+      },
+      {
+         "Year": "'99",
+         "Producer Price Index (100=1982)": 125.5
+      },
+      {
+         "Year": "'98",
+         "Producer Price Index (100=1982)": 124.4
+      },
+      {
+         "Year": "'97",
+         "Producer Price Index (100=1982)": 127.6
+      },
+      {
+         "Year": "'96",
+         "Producer Price Index (100=1982)": 127.7
+      },
+      {
+         "Year": "'95",
+         "Producer Price Index (100=1982)": 124.7
+      },
+      {
+         "Year": "'94",
+         "Producer Price Index (100=1982)": 120.4
+      },
+      {
+         "Year": "'93",
+         "Producer Price Index (100=1982)": 118.9
+      },
+      {
+         "Year": "'92",
+         "Producer Price Index (100=1982)": 117.2
+      },
+      {
+         "Year": "'91",
+         "Producer Price Index (100=1982)": 116.5
+      },
+      {
+         "Year": "'90",
+         "Producer Price Index (100=1982)": 116.3
+      }
+   ],
+   "gold": "This statistic shows the Producer Price Index for commodities in the United States of America form 1990 to 2019 . In 2019 , the PPI stood at 199.8 . The Producer Price Index ( PPI ) program measures the average change over time in the selling prices received by domestic producers for their output .\n"
+}

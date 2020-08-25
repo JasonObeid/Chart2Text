@@ -1,0 +1,33 @@
+{
+   "title": "Michelin - worldwide number of employees by region 2018\n",
+   "xAxis": "Region",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of employees of the big Four accounting / audit firms worldwide in 2019 . pwc employed 276005 members of staff in 2019 . The `` big Four '' - additional information The `` big Four '' are the four global leaders in auditing and accounting .\n",
+   "trends": {},
+   "data": [
+      {
+         "Region": "Europe",
+         "Number of employees": 70599.0
+      },
+      {
+         "Region": "North America",
+         "Number of employees": 21541.0
+      },
+      {
+         "Region": "Asia (excl. India)",
+         "Number of employees": 15259.0
+      },
+      {
+         "Region": "South America",
+         "Number of employees": 8166.0
+      },
+      {
+         "Region": "Africa India Middle-East",
+         "Number of employees": 1848.0
+      }
+   ],
+   "gold": "The statistic shows the worldwide number of Michelin 's employees in 2018 , by region . Michelin had 21,541 employees in North America in 2018 . In that same year , some 17.5 percent of their employees worldwide were women .\n"
+}

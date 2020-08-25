@@ -1,0 +1,72 @@
+{
+   "title": "Fans of NHL hockey in Canada 2014 , by age group",
+   "labels": [
+      "Year",
+      "Yes",
+      "No"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Fans NHL hockey Canada in the NHL in 2014 , age group and . ",
+      "In the group of 65+_years 18-34_years and 65+_years , there were 47 Yes deaths , age Canada , per 100,000 residents reported in the 2014 that Total ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": [
+            "5",
+            "0"
+         ],
+         "6": [
+            "1",
+            "0"
+         ],
+         "8": [
+            "5",
+            "0"
+         ],
+         "12": [
+            "5",
+            "1"
+         ],
+         "27": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Total",
+         "Yes": "53",
+         "No": "47"
+      },
+      {
+         "Year": "18-34 years",
+         "Yes": "60",
+         "No": "40"
+      },
+      {
+         "Year": "35-44 years",
+         "Yes": "49",
+         "No": "51"
+      },
+      {
+         "Year": "45-54 years",
+         "Yes": "57",
+         "No": "43"
+      },
+      {
+         "Year": "55-64 years",
+         "Yes": "48",
+         "No": "52"
+      },
+      {
+         "Year": "65+ years",
+         "Yes": "47",
+         "No": "53"
+      }
+   ],
+   "gold": "The statistic shows the results of a survey which asked people in Canada if they consider themselves NHL hockey fans . During the survey , 60 percent of the respondents aged 18 - 34 years said that they are NHL hockey fans .\n"
+}

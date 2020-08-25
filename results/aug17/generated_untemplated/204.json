@@ -1,0 +1,41 @@
+{
+   "title": "Toys and games market : market segmentation by value 2009\n",
+   "xAxis": "Name",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic illustrates the market share of major microwave oven manufactures in the united in 2014 . In 2008 , samsung hold 15 percent of the microwave oven market in the united .\n",
+   "trends": {},
+   "data": [
+      {
+         "Name": "Other",
+         "Market share": 30.5
+      },
+      {
+         "Name": "Infant/Pre-school toys",
+         "Market share": 16.2
+      },
+      {
+         "Name": "Activity toys",
+         "Market share": 15.1
+      },
+      {
+         "Name": "Dolls",
+         "Market share": 12.2
+      },
+      {
+         "Name": "Ride-ons",
+         "Market share": 11.4
+      },
+      {
+         "Name": "Games and puzzles",
+         "Market share": 9.5
+      },
+      {
+         "Name": "Plush toys",
+         "Market share": 5.1
+      }
+   ],
+   "gold": "This graph depicts the share of toy categories of the total market value in 2009 . Activity toys accounted for 15.1 percent of total toys and games market revenue .\n"
+}

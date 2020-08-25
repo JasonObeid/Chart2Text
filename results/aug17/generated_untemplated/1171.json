@@ -1,0 +1,61 @@
+{
+   "title": "Top 10 causes of infant mortality in Canada in 2018\n",
+   "xAxis": "Cause",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "In 2011 , the highest number of passenger immigrants in the united kingdom was recorded , with a total of 54386 deaths . In comparison , the number of deaths had the highest number of fatal deaths , with 10 percent of the number of deaths who had been increasing at home . This was the second highest number of deaths reported in the country .\n",
+   "trends": {},
+   "data": [
+      {
+         "Cause": "Congenital malformations deformations and chromosomal abnormalities",
+         "Number of deaths": 412.0
+      },
+      {
+         "Cause": "Disorders related to short gestation and low birth weight not elsewhere classified",
+         "Number of deaths": 171.0
+      },
+      {
+         "Cause": "Newborn affected by maternal complications of pregnancy",
+         "Number of deaths": 167.0
+      },
+      {
+         "Cause": "Newborn affected by complications of placenta cord and membranes",
+         "Number of deaths": 93.0
+      },
+      {
+         "Cause": "Complications of labor and delivery",
+         "Number of deaths": 65.0
+      },
+      {
+         "Cause": "Intrauterine hypoxia and birth asphyxia",
+         "Number of deaths": 51.0
+      },
+      {
+         "Cause": "Neonatal haemorrhages",
+         "Number of deaths": 49.0
+      },
+      {
+         "Cause": "Bacterial sepsis of newborn",
+         "Number of deaths": 47.0
+      },
+      {
+         "Cause": "Respiratory distress of newborn",
+         "Number of deaths": 19.0
+      },
+      {
+         "Cause": "Accidents (unintentional injuries)",
+         "Number of deaths": 17.0
+      },
+      {
+         "Cause": "Diseases of the circulatory system",
+         "Number of deaths": 17.0
+      },
+      {
+         "Cause": "Sudden infant death syndrome",
+         "Number of deaths": 10.0
+      }
+   ],
+   "gold": "This statistic shows the leading causes of infant mortality in Canada in 2018 . In 2018 , the leading cause of death of infants less than one year of age , at 412 deaths , was congenital malformations , deformations and chromosomal abnormalities .\n"
+}

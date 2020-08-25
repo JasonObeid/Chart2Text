@@ -1,0 +1,103 @@
+{
+   "title": "Value of consumer credit outstanding in the U.S. 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Consumer credit in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Consumer credit in billion U.S. dollars, with a total of 19 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2009.",
+      " Likewise, the next significant trend is slightly positive which exists from 2009 to 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "9"
+      },
+      {
+         "3": "9",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Consumer credit in billion U.S. dollars": 3918.3
+      },
+      {
+         "Year": "2017",
+         "Consumer credit in billion U.S. dollars": 3841.32
+      },
+      {
+         "Year": "2016",
+         "Consumer credit in billion U.S. dollars": 3644.2
+      },
+      {
+         "Year": "2015",
+         "Consumer credit in billion U.S. dollars": 3413.61
+      },
+      {
+         "Year": "2014",
+         "Consumer credit in billion U.S. dollars": 3314.57
+      },
+      {
+         "Year": "2013",
+         "Consumer credit in billion U.S. dollars": 3093.39
+      },
+      {
+         "Year": "2012",
+         "Consumer credit in billion U.S. dollars": 2918.26
+      },
+      {
+         "Year": "2011",
+         "Consumer credit in billion U.S. dollars": 2757.07
+      },
+      {
+         "Year": "2010",
+         "Consumer credit in billion U.S. dollars": 2646.81
+      },
+      {
+         "Year": "2009",
+         "Consumer credit in billion U.S. dollars": 2555.02
+      },
+      {
+         "Year": "2008",
+         "Consumer credit in billion U.S. dollars": 2643.79
+      },
+      {
+         "Year": "2007",
+         "Consumer credit in billion U.S. dollars": 2609.48
+      },
+      {
+         "Year": "2006",
+         "Consumer credit in billion U.S. dollars": 2456.72
+      },
+      {
+         "Year": "2005",
+         "Consumer credit in billion U.S. dollars": 2290.93
+      },
+      {
+         "Year": "2004",
+         "Consumer credit in billion U.S. dollars": 2192.25
+      },
+      {
+         "Year": "2003",
+         "Consumer credit in billion U.S. dollars": 2077.36
+      },
+      {
+         "Year": "2002",
+         "Consumer credit in billion U.S. dollars": 1972.11
+      },
+      {
+         "Year": "2001",
+         "Consumer credit in billion U.S. dollars": 1867.85
+      },
+      {
+         "Year": "2000",
+         "Consumer credit in billion U.S. dollars": 1716.97
+      }
+   ],
+   "gold": "This statistic presents the total consumer credit outstanding in the United States from 2000 to 2018 . In 2018 , the consumer credit outstanding in the U.S. amounted to approximately 3.92 trillion U.S. dollars .\n"
+}

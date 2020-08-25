@@ -1,0 +1,53 @@
+{
+   "title": "Boston Celtics concession stand prices ( beer , soft drink , hot dog ) 2010 to 2016",
+   "labels": [
+      "Year",
+      "Beer",
+      "Soft drink",
+      "Hot dog"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "The statistic depicts the concession stand prices at games of the philadelphia 76ers ( NBA ) from 2010/11 to 2015/16 . In the 2012/13 season , a 12 ounce beer cost 7.75 U.S. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2015/16",
+         "Beer": "8.5",
+         "Soft drink": "5.0",
+         "Hot dog": "5.5"
+      },
+      {
+         "Year": "2014/15",
+         "Beer": "8.5",
+         "Soft drink": "5.0",
+         "Hot dog": "5.5"
+      },
+      {
+         "Year": "2013/14",
+         "Beer": "8.25",
+         "Soft drink": "5.5",
+         "Hot dog": "5.5"
+      },
+      {
+         "Year": "2012/13",
+         "Beer": "8.0",
+         "Soft drink": "4.0",
+         "Hot dog": "4.75"
+      },
+      {
+         "Year": "2011/12",
+         "Beer": "7.25",
+         "Soft drink": "3.75",
+         "Hot dog": "4.5"
+      },
+      {
+         "Year": "2010/11",
+         "Beer": "7.25",
+         "Soft drink": "3.75",
+         "Hot dog": "4.5"
+      }
+   ],
+   "gold": "The statistic depicts the concession stand prices at games of the Boston Celtics ( NBA ) from 2010/11 to 2015/16 . In the 2013/14 season , a 16 ounce beer cost 8.25 U.S. dollars .\n"
+}

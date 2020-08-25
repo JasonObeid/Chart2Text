@@ -1,0 +1,63 @@
+{
+   "title": "Number of nursery schools in the United Kingdom 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of schools",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the Number of schools owned by households in the United from 2010/11 to 2018/19 . ",
+      "In 2018/19 , about 3.04 million schools were owned by American households . ",
+      "Thus , schools made up the most popular pet category in the United , based on the total Number ."
+   ],
+   "trends": [
+      {
+         "15": "8",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Number of schools": "3.04"
+      },
+      {
+         "Year": "2017/18",
+         "Number of schools": "3.04"
+      },
+      {
+         "Year": "2016/17",
+         "Number of schools": "3.02"
+      },
+      {
+         "Year": "2015/16",
+         "Number of schools": "3.07"
+      },
+      {
+         "Year": "2014/15",
+         "Number of schools": "2.97"
+      },
+      {
+         "Year": "2013/14",
+         "Number of schools": "3.03"
+      },
+      {
+         "Year": "2012/13",
+         "Number of schools": "3.09"
+      },
+      {
+         "Year": "2011/12",
+         "Number of schools": "3.1"
+      },
+      {
+         "Year": "2010/11",
+         "Number of schools": "3.13"
+      }
+   ],
+   "gold": "In the academic year 2018/19 there were approximately 3.04 thousand nursery schools in the United Kingdom , around 900 fewer than there were in the 2010/11 academic year . During 2017/18 nursery schools had the worst teacher to pupil ratio in the UK , with around 22 children for every one teacher .\n"
+}

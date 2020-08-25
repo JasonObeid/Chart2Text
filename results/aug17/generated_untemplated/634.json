@@ -1,0 +1,57 @@
+{
+   "title": "Number of students in upper secondary education in Denmark 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of students",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "In 2018 and 2018 , most Danes were never married ; the number of never married inhabitants was around 2.8 million in the fourth quarter of 2018 . By contrast , among all Danes , the fewest were divorced . In general , the number of divorces between different sexes fluctuated in recent years , peaking in 2014 at about 19 thousand divorces .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of students": 148551.0
+      },
+      {
+         "Year": "2017",
+         "Number of students": 150608.0
+      },
+      {
+         "Year": "2016",
+         "Number of students": 149788.0
+      },
+      {
+         "Year": "2015",
+         "Number of students": 148144.0
+      },
+      {
+         "Year": "2014",
+         "Number of students": 147760.0
+      },
+      {
+         "Year": "2013",
+         "Number of students": 148051.0
+      },
+      {
+         "Year": "2012",
+         "Number of students": 144791.0
+      },
+      {
+         "Year": "2011",
+         "Number of students": 140259.0
+      },
+      {
+         "Year": "2010",
+         "Number of students": 132619.0
+      },
+      {
+         "Year": "2009",
+         "Number of students": 122837.0
+      },
+      {
+         "Year": "2008",
+         "Number of students": 118217.0
+      }
+   ],
+   "gold": "The statistic shows the number of students in upper secondary education in Denmark from 2008 to 2018 . The number increased from about 118 thousand upper secondary education students in 2008 to about 149 thousand students in 2018 .\n"
+}

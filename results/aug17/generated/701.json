@@ -1,0 +1,109 @@
+{
+   "title": "U.S. sulfur dioxide emissions 1970 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Volume of emissions in thousand tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the total U.S. energy-related tons Volume between 1970 and 2017 . ",
+      "In 2017 , around 2815 thousand tons of CO2 Volume were produced from energy consumption in the U.S.",
+      "In 2014 , around 34.8 thousand tons of was emitted globally ."
+   ],
+   "trends": [
+      {
+         "11": "19",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      },
+      {
+         "1": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Volume of emissions in thousand tons": "2815"
+      },
+      {
+         "Year": "2016",
+         "Volume of emissions in thousand tons": "2960"
+      },
+      {
+         "Year": "2015",
+         "Volume of emissions in thousand tons": "3685"
+      },
+      {
+         "Year": "2014",
+         "Volume of emissions in thousand tons": "4674"
+      },
+      {
+         "Year": "2013",
+         "Volume of emissions in thousand tons": "4873"
+      },
+      {
+         "Year": "2012",
+         "Volume of emissions in thousand tons": "5079"
+      },
+      {
+         "Year": "2011",
+         "Volume of emissions in thousand tons": "6479"
+      },
+      {
+         "Year": "2010",
+         "Volume of emissions in thousand tons": "7732"
+      },
+      {
+         "Year": "2009",
+         "Volume of emissions in thousand tons": "9089"
+      },
+      {
+         "Year": "2008",
+         "Volume of emissions in thousand tons": "10324"
+      },
+      {
+         "Year": "2007",
+         "Volume of emissions in thousand tons": "11699"
+      },
+      {
+         "Year": "2006",
+         "Volume of emissions in thousand tons": "13123"
+      },
+      {
+         "Year": "2005",
+         "Volume of emissions in thousand tons": "14546"
+      },
+      {
+         "Year": "2000",
+         "Volume of emissions in thousand tons": "16347"
+      },
+      {
+         "Year": "1995",
+         "Volume of emissions in thousand tons": "18619"
+      },
+      {
+         "Year": "1990",
+         "Volume of emissions in thousand tons": "23077"
+      },
+      {
+         "Year": "1985",
+         "Volume of emissions in thousand tons": "23307"
+      },
+      {
+         "Year": "1980",
+         "Volume of emissions in thousand tons": "25926"
+      },
+      {
+         "Year": "1975",
+         "Volume of emissions in thousand tons": "28044"
+      },
+      {
+         "Year": "1970",
+         "Volume of emissions in thousand tons": "31218"
+      }
+   ],
+   "gold": "Sulfur dioxide ( SO2 ) emissions in the United States have decreased significantly over the last decades . SO2 emissions have fallen to 2.82 million tons in 2017 , in comparison to 31.22 million tons in 1970 . This reduction in SO2 is largely due to the implementation of the Acid Rain Program under the Clean Air Act through a cap and trade program for fossil-fuel powered plants .\n"
+}

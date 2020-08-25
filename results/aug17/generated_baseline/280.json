@@ -1,0 +1,68 @@
+{
+   "title": "European cities ranked worst for over-tourism 2017\n",
+   "xAxis": "Tourist Places",
+   "yAxis": "Overtourism score (1-10)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Tourist Places, and a y axis representing Overtourism score (1-10).",
+      " The highest category is found at Nantes_France where Overtourism score (1-10) is 3.61.",
+      " The lowest category is found at Barcelona_Spain where Overtourism score (1-10) is 2.05."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 9,
+         "12": 9
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Tourist Places": "Barcelona Spain",
+         "Overtourism score (1-10)": 2.05
+      },
+      {
+         "Tourist Places": "Amsterdam Netherlands",
+         "Overtourism score (1-10)": 2.18
+      },
+      {
+         "Tourist Places": "Venice Italy",
+         "Overtourism score (1-10)": 2.19
+      },
+      {
+         "Tourist Places": "Milan Italy",
+         "Overtourism score (1-10)": 2.66
+      },
+      {
+         "Tourist Places": "Budapest Hungary",
+         "Overtourism score (1-10)": 2.89
+      },
+      {
+         "Tourist Places": "Bucharest Romania",
+         "Overtourism score (1-10)": 3.22
+      },
+      {
+         "Tourist Places": "Reykjavik Iceland",
+         "Overtourism score (1-10)": 3.26
+      },
+      {
+         "Tourist Places": "Moscow Russia",
+         "Overtourism score (1-10)": 3.27
+      },
+      {
+         "Tourist Places": "Athens Greece",
+         "Overtourism score (1-10)": 3.45
+      },
+      {
+         "Tourist Places": "Nantes France",
+         "Overtourism score (1-10)": 3.61
+      }
+   ],
+   "gold": "Barcelona in Spain ranked as the worst city for overtourism in Europe . It was followed by Amsterdam in the Netherlands and Venice in Italy . All three have faced issues associated with mass tourism and have been forced to implement measures to tackle problems with overtourism .\n"
+}

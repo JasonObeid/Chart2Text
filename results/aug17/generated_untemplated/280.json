@@ -1,0 +1,53 @@
+{
+   "title": "European cities ranked worst for over-tourism 2017\n",
+   "xAxis": "Tourist Places",
+   "yAxis": "Overtourism score (1-10)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents a ranking of the top 10 u.s. non-profit hospitals based on the number of beds as of 2017 . At this point , the florida hospital orlando was ranked second among such hospitals in the united , with a total of 2473 beds .\n",
+   "trends": {},
+   "data": [
+      {
+         "Tourist Places": "Barcelona Spain",
+         "Overtourism score (1-10)": 2.05
+      },
+      {
+         "Tourist Places": "Amsterdam Netherlands",
+         "Overtourism score (1-10)": 2.18
+      },
+      {
+         "Tourist Places": "Venice Italy",
+         "Overtourism score (1-10)": 2.19
+      },
+      {
+         "Tourist Places": "Milan Italy",
+         "Overtourism score (1-10)": 2.66
+      },
+      {
+         "Tourist Places": "Budapest Hungary",
+         "Overtourism score (1-10)": 2.89
+      },
+      {
+         "Tourist Places": "Bucharest Romania",
+         "Overtourism score (1-10)": 3.22
+      },
+      {
+         "Tourist Places": "Reykjavik Iceland",
+         "Overtourism score (1-10)": 3.26
+      },
+      {
+         "Tourist Places": "Moscow Russia",
+         "Overtourism score (1-10)": 3.27
+      },
+      {
+         "Tourist Places": "Athens Greece",
+         "Overtourism score (1-10)": 3.45
+      },
+      {
+         "Tourist Places": "Nantes France",
+         "Overtourism score (1-10)": 3.61
+      }
+   ],
+   "gold": "Barcelona in Spain ranked as the worst city for overtourism in Europe . It was followed by Amsterdam in the Netherlands and Venice in Italy . All three have faced issues associated with mass tourism and have been forced to implement measures to tackle problems with overtourism .\n"
+}

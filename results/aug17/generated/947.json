@@ -1,0 +1,415 @@
+{
+   "title": "2016 U.S. election : delegates won by Republican candidates",
+   "labels": [
+      "State",
+      "Donald J. Trump",
+      "Ted Cruz",
+      "Marco Rubio",
+      "John Kasich"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays the percentage of individuals in selected Total use the U.S. 2016 of . ",
+      "In 2016 , 16 % of individuals in Massachusetts were 2016 U.S. users ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "3": [
+            "4",
+            "1"
+         ],
+         "8": [
+            "22",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "State": "Total",
+         "Donald J. Trump": "1447",
+         "Ted Cruz": "551",
+         "Marco Rubio": "167",
+         "John Kasich": "161"
+      },
+      {
+         "State": "Alabama",
+         "Donald J. Trump": "36",
+         "Ted Cruz": "13",
+         "Marco Rubio": "1",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Alaska",
+         "Donald J. Trump": "11",
+         "Ted Cruz": "12",
+         "Marco Rubio": "5",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Arizona",
+         "Donald J. Trump": "58",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Arkansas",
+         "Donald J. Trump": "16",
+         "Ted Cruz": "15",
+         "Marco Rubio": "9",
+         "John Kasich": "0"
+      },
+      {
+         "State": "California",
+         "Donald J. Trump": "172",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Colorado",
+         "Donald J. Trump": "0",
+         "Ted Cruz": "30",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Connecticut",
+         "Donald J. Trump": "28",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Delaware",
+         "Donald J. Trump": "16",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "District of Columbia",
+         "Donald J. Trump": "0",
+         "Ted Cruz": "0",
+         "Marco Rubio": "10",
+         "John Kasich": "9"
+      },
+      {
+         "State": "Florida",
+         "Donald J. Trump": "99",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Georgia",
+         "Donald J. Trump": "42",
+         "Ted Cruz": "18",
+         "Marco Rubio": "16",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Hawaii",
+         "Donald J. Trump": "11",
+         "Ted Cruz": "7",
+         "Marco Rubio": "1",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Idaho",
+         "Donald J. Trump": "12",
+         "Ted Cruz": "20",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Illinois",
+         "Donald J. Trump": "54",
+         "Ted Cruz": "9",
+         "Marco Rubio": "0",
+         "John Kasich": "6"
+      },
+      {
+         "State": "Indiana",
+         "Donald J. Trump": "57",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Iowa",
+         "Donald J. Trump": "7",
+         "Ted Cruz": "8",
+         "Marco Rubio": "7",
+         "John Kasich": "1"
+      },
+      {
+         "State": "Kansas",
+         "Donald J. Trump": "9",
+         "Ted Cruz": "24",
+         "Marco Rubio": "6",
+         "John Kasich": "1"
+      },
+      {
+         "State": "Kentucky",
+         "Donald J. Trump": "17",
+         "Ted Cruz": "15",
+         "Marco Rubio": "7",
+         "John Kasich": "7"
+      },
+      {
+         "State": "Louisiana",
+         "Donald J. Trump": "28",
+         "Ted Cruz": "18",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Maine",
+         "Donald J. Trump": "9",
+         "Ted Cruz": "12",
+         "Marco Rubio": "0",
+         "John Kasich": "2"
+      },
+      {
+         "State": "Maryland",
+         "Donald J. Trump": "38",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Massachusetts",
+         "Donald J. Trump": "22",
+         "Ted Cruz": "4",
+         "Marco Rubio": "8",
+         "John Kasich": "8"
+      },
+      {
+         "State": "Michigan",
+         "Donald J. Trump": "25",
+         "Ted Cruz": "17",
+         "Marco Rubio": "0",
+         "John Kasich": "17"
+      },
+      {
+         "State": "Minnesota",
+         "Donald J. Trump": "8",
+         "Ted Cruz": "13",
+         "Marco Rubio": "17",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Mississippi",
+         "Donald J. Trump": "25",
+         "Ted Cruz": "15",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Missouri",
+         "Donald J. Trump": "37",
+         "Ted Cruz": "15",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Montana",
+         "Donald J. Trump": "27",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Nebraska",
+         "Donald J. Trump": "36",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Nevada",
+         "Donald J. Trump": "14",
+         "Ted Cruz": "6",
+         "Marco Rubio": "7",
+         "John Kasich": "1"
+      },
+      {
+         "State": "New Hampshire",
+         "Donald J. Trump": "11",
+         "Ted Cruz": "3",
+         "Marco Rubio": "1",
+         "John Kasich": "4"
+      },
+      {
+         "State": "New Jersey",
+         "Donald J. Trump": "51",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "New Mexico",
+         "Donald J. Trump": "24",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "New York",
+         "Donald J. Trump": "89",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "6"
+      },
+      {
+         "State": "North Carolina",
+         "Donald J. Trump": "29",
+         "Ted Cruz": "27",
+         "Marco Rubio": "6",
+         "John Kasich": "9"
+      },
+      {
+         "State": "Northern Mariana Islands",
+         "Donald J. Trump": "9",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Ohio",
+         "Donald J. Trump": "0",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "66"
+      },
+      {
+         "State": "Oklahoma",
+         "Donald J. Trump": "13",
+         "Ted Cruz": "15",
+         "Marco Rubio": "12",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Oregon",
+         "Donald J. Trump": "18",
+         "Ted Cruz": "5",
+         "Marco Rubio": "0",
+         "John Kasich": "5"
+      },
+      {
+         "State": "Pennsylvania",
+         "Donald J. Trump": "17",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Puerto Rico",
+         "Donald J. Trump": "0",
+         "Ted Cruz": "0",
+         "Marco Rubio": "23",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Rhode Island",
+         "Donald J. Trump": "12",
+         "Ted Cruz": "2",
+         "Marco Rubio": "0",
+         "John Kasich": "5"
+      },
+      {
+         "State": "South Carolina",
+         "Donald J. Trump": "50",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "South Dakota",
+         "Donald J. Trump": "29",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Tennessee",
+         "Donald J. Trump": "33",
+         "Ted Cruz": "16",
+         "Marco Rubio": "9",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Texas",
+         "Donald J. Trump": "48",
+         "Ted Cruz": "104",
+         "Marco Rubio": "3",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Utah",
+         "Donald J. Trump": "0",
+         "Ted Cruz": "40",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Vermont",
+         "Donald J. Trump": "8",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "8"
+      },
+      {
+         "State": "Virgin Islands",
+         "Donald J. Trump": "1",
+         "Ted Cruz": "1",
+         "Marco Rubio": "2",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Virginia",
+         "Donald J. Trump": "17",
+         "Ted Cruz": "8",
+         "Marco Rubio": "16",
+         "John Kasich": "5"
+      },
+      {
+         "State": "Washington",
+         "Donald J. Trump": "40",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "West Virginia",
+         "Donald J. Trump": "30",
+         "Ted Cruz": "0",
+         "Marco Rubio": "0",
+         "John Kasich": "1"
+      },
+      {
+         "State": "Wisconsin",
+         "Donald J. Trump": "6",
+         "Ted Cruz": "36",
+         "Marco Rubio": "0",
+         "John Kasich": "0"
+      },
+      {
+         "State": "Wyoming",
+         "Donald J. Trump": "1",
+         "Ted Cruz": "23",
+         "Marco Rubio": "1",
+         "John Kasich": "0"
+      }
+   ],
+   "gold": "This statistic shows the number of delegates Republican Party candidates won during primaries in the race for the nomination to the U.S. presidential election in November 2016 . After the primaries , Donald Trump had earned 1,447 delegates . U.S. 2016 Elections : Iowa Republican caucus - additional information - additional information The 2016 election year has kicked off on February 1 with the Iowa caucuses , effectively the first step towards the nomination of both the Republican and Democrat candidates for the presidential elections .\n"
+}

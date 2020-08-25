@@ -1,0 +1,131 @@
+{
+   "title": "Age distribution in the Netherlands 2008 to 2018",
+   "labels": [
+      "Year",
+      "Ages 0-14",
+      "Ages 15-64",
+      "Ages 65+"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Ages 15-64 had the highest values across Year with a mean value of 66.0.",
+      " This peaked at 2008 with a value of 67.3. ",
+      " The line with the second highest values was Ages 0-14 with a mean value of 17.0.",
+      " This line peaked at 2008 with a value of 17.8"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "9": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "0"
+         ],
+         "10": [
+            "10",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Ages 0-14": "16.11",
+         "Ages 15-64": "64.7",
+         "Ages 65+": "19.2"
+      },
+      {
+         "Year": "2017",
+         "Ages 0-14": "16.35",
+         "Ages 15-64": "64.85",
+         "Ages 65+": "18.79"
+      },
+      {
+         "Year": "2016",
+         "Ages 0-14": "16.58",
+         "Ages 15-64": "65.05",
+         "Ages 65+": "18.37"
+      },
+      {
+         "Year": "2015",
+         "Ages 0-14": "16.76",
+         "Ages 15-64": "65.32",
+         "Ages 65+": "17.92"
+      },
+      {
+         "Year": "2014",
+         "Ages 0-14": "16.94",
+         "Ages 15-64": "65.62",
+         "Ages 65+": "17.44"
+      },
+      {
+         "Year": "2013",
+         "Ages 0-14": "17.08",
+         "Ages 15-64": "65.99",
+         "Ages 65+": "16.93"
+      },
+      {
+         "Year": "2012",
+         "Ages 0-14": "17.2",
+         "Ages 15-64": "66.41",
+         "Ages 65+": "16.39"
+      },
+      {
+         "Year": "2011",
+         "Ages 0-14": "17.33",
+         "Ages 15-64": "66.78",
+         "Ages 65+": "15.89"
+      },
+      {
+         "Year": "2010",
+         "Ages 0-14": "17.52",
+         "Ages 15-64": "67.04",
+         "Ages 65+": "15.44"
+      },
+      {
+         "Year": "2009",
+         "Ages 0-14": "17.69",
+         "Ages 15-64": "67.24",
+         "Ages 65+": "15.07"
+      },
+      {
+         "Year": "2008",
+         "Ages 0-14": "17.89",
+         "Ages 15-64": "67.33",
+         "Ages 65+": "14.77"
+      }
+   ],
+   "gold": "This statistic depicts the age distribution of the Netherlands from 2008 to 2018 . In 2018 , about 16.11 percent of the population in the Netherlands fell into the 0 - 14 year category , 64.7 percent into the 15 - 64 age group and 19.2 percent were over 65 years of age . See the Netherlands ' population figures here .\n"
+}

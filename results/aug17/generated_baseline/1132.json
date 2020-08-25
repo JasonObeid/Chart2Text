@@ -1,0 +1,304 @@
+{
+   "title": "Number of physicians in Vietnam 2017 , by region\n",
+   "xAxis": "Vietnamese Region",
+   "yAxis": "Number of physicians",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 69 categories for the x axis representing Vietnamese Region, and a y axis representing Number of physicians.",
+      " The highest category is found at Northern_Central_area_and_Central_coastal_area where Number of physicians is 11747.0.",
+      " The lowest category is found at Dak_Nong where Number of physicians is 269.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 68,
+         "12": 68
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Vietnamese Region": "Northern Central area and Central coastal area",
+         "Number of physicians": 11747.0
+      },
+      {
+         "Vietnamese Region": "Northern midlands and mountain areas",
+         "Number of physicians": 11511.0
+      },
+      {
+         "Vietnamese Region": "Mekong River Delta",
+         "Number of physicians": 11307.0
+      },
+      {
+         "Vietnamese Region": "Red River Delta",
+         "Number of physicians": 9406.0
+      },
+      {
+         "Vietnamese Region": "South East",
+         "Number of physicians": 5090.0
+      },
+      {
+         "Vietnamese Region": "Thanh Hoa",
+         "Number of physicians": 3016.0
+      },
+      {
+         "Vietnamese Region": "Ha Noi",
+         "Number of physicians": 2721.0
+      },
+      {
+         "Vietnamese Region": "Central Highlands",
+         "Number of physicians": 2656.0
+      },
+      {
+         "Vietnamese Region": "Ho Chi Minh city",
+         "Number of physicians": 1660.0
+      },
+      {
+         "Vietnamese Region": "Nghe An",
+         "Number of physicians": 1443.0
+      },
+      {
+         "Vietnamese Region": "Kien Giang",
+         "Number of physicians": 1413.0
+      },
+      {
+         "Vietnamese Region": "Dong Thap",
+         "Number of physicians": 1189.0
+      },
+      {
+         "Vietnamese Region": "Ha Giang",
+         "Number of physicians": 1174.0
+      },
+      {
+         "Vietnamese Region": "Phu Tho",
+         "Number of physicians": 1162.0
+      },
+      {
+         "Vietnamese Region": "Quang Nam",
+         "Number of physicians": 1110.0
+      },
+      {
+         "Vietnamese Region": "Bac Giang",
+         "Number of physicians": 1075.0
+      },
+      {
+         "Vietnamese Region": "An Giang",
+         "Number of physicians": 1071.0
+      },
+      {
+         "Vietnamese Region": "Hai Duong",
+         "Number of physicians": 1061.0
+      },
+      {
+         "Vietnamese Region": "Long An",
+         "Number of physicians": 1055.0
+      },
+      {
+         "Vietnamese Region": "Lai Chau",
+         "Number of physicians": 1004.0
+      },
+      {
+         "Vietnamese Region": "Tien Giang",
+         "Number of physicians": 972.0
+      },
+      {
+         "Vietnamese Region": "Hoa Binh",
+         "Number of physicians": 924.0
+      },
+      {
+         "Vietnamese Region": "Dien Bien",
+         "Number of physicians": 920.0
+      },
+      {
+         "Vietnamese Region": "Dong Nai",
+         "Number of physicians": 916.0
+      },
+      {
+         "Vietnamese Region": "Ha Tinh",
+         "Number of physicians": 915.0
+      },
+      {
+         "Vietnamese Region": "Son La",
+         "Number of physicians": 900.0
+      },
+      {
+         "Vietnamese Region": "Ben Tre",
+         "Number of physicians": 897.0
+      },
+      {
+         "Vietnamese Region": "Ca Mau",
+         "Number of physicians": 873.0
+      },
+      {
+         "Vietnamese Region": "Binh Thuan",
+         "Number of physicians": 854.0
+      },
+      {
+         "Vietnamese Region": "Lao Cai",
+         "Number of physicians": 797.0
+      },
+      {
+         "Vietnamese Region": "Dak Lak",
+         "Number of physicians": 793.0
+      },
+      {
+         "Vietnamese Region": "Hung Yen",
+         "Number of physicians": 777.0
+      },
+      {
+         "Vietnamese Region": "Binh Duong",
+         "Number of physicians": 776.0
+      },
+      {
+         "Vietnamese Region": "Thai Binh",
+         "Number of physicians": 775.0
+      },
+      {
+         "Vietnamese Region": "Lang Son",
+         "Number of physicians": 743.0
+      },
+      {
+         "Vietnamese Region": "Cao Bang",
+         "Number of physicians": 722.0
+      },
+      {
+         "Vietnamese Region": "Khanh Hoa",
+         "Number of physicians": 718.0
+      },
+      {
+         "Vietnamese Region": "Bac Ninh",
+         "Number of physicians": 697.0
+      },
+      {
+         "Vietnamese Region": "Binh Dinh",
+         "Number of physicians": 695.0
+      },
+      {
+         "Vietnamese Region": "Quang Ngai",
+         "Number of physicians": 695.0
+      },
+      {
+         "Vietnamese Region": "Soc Trang",
+         "Number of physicians": 687.0
+      },
+      {
+         "Vietnamese Region": "Tuyen Quang",
+         "Number of physicians": 687.0
+      },
+      {
+         "Vietnamese Region": "Vinh Long",
+         "Number of physicians": 680.0
+      },
+      {
+         "Vietnamese Region": "Tay Ninh",
+         "Number of physicians": 671.0
+      },
+      {
+         "Vietnamese Region": "Bac Lieu",
+         "Number of physicians": 663.0
+      },
+      {
+         "Vietnamese Region": "Gia Lai",
+         "Number of physicians": 662.0
+      },
+      {
+         "Vietnamese Region": "Binh Phuoc",
+         "Number of physicians": 651.0
+      },
+      {
+         "Vietnamese Region": "Vinh Phuc",
+         "Number of physicians": 647.0
+      },
+      {
+         "Vietnamese Region": "Hai Phong",
+         "Number of physicians": 642.0
+      },
+      {
+         "Vietnamese Region": "Can Tho",
+         "Number of physicians": 641.0
+      },
+      {
+         "Vietnamese Region": "Tra Vinh",
+         "Number of physicians": 615.0
+      },
+      {
+         "Vietnamese Region": "Yen Bai",
+         "Number of physicians": 602.0
+      },
+      {
+         "Vietnamese Region": "Lam Dong",
+         "Number of physicians": 601.0
+      },
+      {
+         "Vietnamese Region": "Nam Dinh",
+         "Number of physicians": 596.0
+      },
+      {
+         "Vietnamese Region": "Ninh Binh",
+         "Number of physicians": 589.0
+      },
+      {
+         "Vietnamese Region": "Quang Ninh",
+         "Number of physicians": 554.0
+      },
+      {
+         "Vietnamese Region": "Hau Giang",
+         "Number of physicians": 551.0
+      },
+      {
+         "Vietnamese Region": "Quang Binh",
+         "Number of physicians": 502.0
+      },
+      {
+         "Vietnamese Region": "Thai Nguyen",
+         "Number of physicians": 444.0
+      },
+      {
+         "Vietnamese Region": "Phu Yen",
+         "Number of physicians": 420.0
+      },
+      {
+         "Vietnamese Region": "Ba Ria - Vung Tau",
+         "Number of physicians": 416.0
+      },
+      {
+         "Vietnamese Region": "Ninh Thuan",
+         "Number of physicians": 414.0
+      },
+      {
+         "Vietnamese Region": "Bac Kan",
+         "Number of physicians": 357.0
+      },
+      {
+         "Vietnamese Region": "Ha Nam",
+         "Number of physicians": 347.0
+      },
+      {
+         "Vietnamese Region": "Quang Tri",
+         "Number of physicians": 345.0
+      },
+      {
+         "Vietnamese Region": "Da Nang",
+         "Number of physicians": 340.0
+      },
+      {
+         "Vietnamese Region": "Kon Tum",
+         "Number of physicians": 331.0
+      },
+      {
+         "Vietnamese Region": "Thua Thien-Hue",
+         "Number of physicians": 280.0
+      },
+      {
+         "Vietnamese Region": "Dak Nong",
+         "Number of physicians": 269.0
+      }
+   ],
+   "gold": "In 2017 , there were over three thousand physicians in Thanh Hoa . In that year , the total number of physicians amounted to approximately 51.72 thousand in the country .\n"
+}

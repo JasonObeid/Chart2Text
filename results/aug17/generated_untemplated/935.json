@@ -1,0 +1,65 @@
+{
+   "title": "Market share of UK gambling industry sectors by GGY 2009 to 2014",
+   "labels": [
+      "Year",
+      "Betting",
+      "Casino",
+      "Remote",
+      "Bingo",
+      "Arcades",
+      "Lottery"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "94 percent of adults in the united kingdom ( uk ) between the ages of 25 to 34 had their own social network profile as of 2018 , according to Ofcom . While those aged 75 years or older are the least likely to have their own profile , the share of people in that age group on social media increased from 19 percent in 2015 , to 38 percent in 2018 . Is Facebook losing younger users ? Just as the monthly number of Facebook visitors aged 55 years or older grew by 2.4 million from 2016 to 2018 , there were 400,000 fewer visitors aged from 18 to 34 years old .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2013/14",
+         "Betting": "46",
+         "Casino": "16",
+         "Remote": "19",
+         "Bingo": "9",
+         "Arcades": "5",
+         "Lottery": "5"
+      },
+      {
+         "Year": "2012/13",
+         "Betting": "48",
+         "Casino": "16",
+         "Remote": "16",
+         "Bingo": "10",
+         "Arcades": "5",
+         "Lottery": "4"
+      },
+      {
+         "Year": "2011/12",
+         "Betting": "50",
+         "Casino": "15",
+         "Remote": "13",
+         "Bingo": "12",
+         "Arcades": "5",
+         "Lottery": "5"
+      },
+      {
+         "Year": "2010/11",
+         "Betting": "52",
+         "Casino": "15",
+         "Remote": "12",
+         "Bingo": "11",
+         "Arcades": "7",
+         "Lottery": "3"
+      },
+      {
+         "Year": "2009/10",
+         "Betting": "52",
+         "Casino": "14",
+         "Remote": "12",
+         "Bingo": "11",
+         "Arcades": "8",
+         "Lottery": "3"
+      }
+   ],
+   "gold": "This statistic shows the market share of gambling industry sectors by gross gambling yield ( GGY ) in the United Kingdom from 2009 to 2014 . From October 2012 to September 2013 , Bingo accounted for 10 percent of the gambling market .\n"
+}

@@ -1,0 +1,79 @@
+{
+   "title": "Cars of the future - expectations",
+   "labels": [
+      "Race",
+      "I mostly agree",
+      "I totally agree"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 7 categories for the x axis of Race representing I mostly agree, and I totally agree.",
+      " The highest category is found at Maximal safety with a mean value of 46.3.",
+      " The second highest category is found at Economic mobility with a mean value of 44.4.",
+      " This represents a difference of 4.2%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "Maximal safety",
+         "I mostly agree": "17.3",
+         "I totally agree": "75.3"
+      },
+      {
+         "Race": "Economic mobility",
+         "I mostly agree": "25.1",
+         "I totally agree": "63.7"
+      },
+      {
+         "Race": "Highest comfortwhen travelling",
+         "I mostly agree": "34.1",
+         "I totally agree": "51.8"
+      },
+      {
+         "Race": "Sustainability andenvironmental friendliness",
+         "I mostly agree": "27.6",
+         "I totally agree": "58.1"
+      },
+      {
+         "Race": "That it is mainly functional",
+         "I mostly agree": "37.1",
+         "I totally agree": "41.6"
+      },
+      {
+         "Race": "Driving enjoyment -Driving should be fun",
+         "I mostly agree": "35",
+         "I totally agree": "40"
+      },
+      {
+         "Race": "Reflecting my socialstatus/my self-image",
+         "I mostly agree": "21.2",
+         "I totally agree": "13.7"
+      }
+   ],
+   "gold": "The statistic shows people 's expectations of cars in the future . 75.3 percent of respondents totally agree that cars of the future should be as save as possible .\n"
+}

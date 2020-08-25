@@ -1,0 +1,137 @@
+{
+   "title": "Sugar beet production in the U.S. 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in thousand tons, with a total of 20 data points. The chart has 8 significant trends.",
+      " The longest trend is slightly negative which exists from 2019 to 2016.",
+      " Conversely, the next significant trend is moderately negative which exists from 2006 to 2003.",
+      " On the contrary, the next significant trend is moderately positive which exists from 2003 to 2000.",
+      " Additionally, the next significant trend is extremely positive which exists from 2016 to 2014.",
+      " In a similar manner, the next significant trend is moderately negative which exists from 2014 to 2012.",
+      " But, the next significant trend is extremely negative which exists from 2012 to 2010.",
+      " Differently, the next significant trend is extremely positive which exists from 2010 to 2008.",
+      " Additionally, the next significant trend is slightly negative which exists from 2008 to 2006."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "13",
+         "14": "16"
+      },
+      {
+         "3": "16",
+         "14": "19"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      },
+      {
+         "3": "11",
+         "14": "13"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in thousand tons": 28600.0
+      },
+      {
+         "Year": "2018",
+         "Production in thousand tons": 33282.0
+      },
+      {
+         "Year": "2017",
+         "Production in thousand tons": 35317.0
+      },
+      {
+         "Year": "2016",
+         "Production in thousand tons": 36920.0
+      },
+      {
+         "Year": "2015",
+         "Production in thousand tons": 35371.0
+      },
+      {
+         "Year": "2014",
+         "Production in thousand tons": 31285.0
+      },
+      {
+         "Year": "2013",
+         "Production in thousand tons": 32789.0
+      },
+      {
+         "Year": "2012",
+         "Production in thousand tons": 35224.0
+      },
+      {
+         "Year": "2011",
+         "Production in thousand tons": 28896.0
+      },
+      {
+         "Year": "2010",
+         "Production in thousand tons": 32034.0
+      },
+      {
+         "Year": "2009",
+         "Production in thousand tons": 29783.0
+      },
+      {
+         "Year": "2008",
+         "Production in thousand tons": 26881.0
+      },
+      {
+         "Year": "2007",
+         "Production in thousand tons": 31834.0
+      },
+      {
+         "Year": "2006",
+         "Production in thousand tons": 34064.0
+      },
+      {
+         "Year": "2005",
+         "Production in thousand tons": 27433.0
+      },
+      {
+         "Year": "2004",
+         "Production in thousand tons": 30021.0
+      },
+      {
+         "Year": "2003",
+         "Production in thousand tons": 30710.0
+      },
+      {
+         "Year": "2002",
+         "Production in thousand tons": 27707.0
+      },
+      {
+         "Year": "2001",
+         "Production in thousand tons": 25708.0
+      },
+      {
+         "Year": "2000",
+         "Production in thousand tons": 32541.0
+      }
+   ],
+   "gold": "This statistic shows the total U.S. sugar beet production from 2000 to 2019 . According to the report , approximately 28.6 million tons of sugar beet were produced in the United States in 2019 .\n"
+}

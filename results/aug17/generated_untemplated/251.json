@@ -1,0 +1,47 @@
+{
+   "title": "U.S. consumer Christmas spending habits 2011 to 2013",
+   "labels": [
+      "Response",
+      "2011",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic presents the share of interest users in the united who have used whatsapp or apps as of the fourth quarter of 2019 , sorted by device . During the survey period it was found that they had children to more than 100 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Spend more than last Christmas",
+         "2011": "10",
+         "2012": "9",
+         "2013": "12"
+      },
+      {
+         "Response": "Spend the same as last Christmas",
+         "2011": "42",
+         "2012": "47",
+         "2013": "49"
+      },
+      {
+         "Response": "Spend less than last Christmas",
+         "2011": "39",
+         "2012": "32",
+         "2013": "28"
+      },
+      {
+         "Response": "Don't know",
+         "2011": "6",
+         "2012": "8",
+         "2013": "6"
+      },
+      {
+         "Response": "Do not celebrate Christmas",
+         "2011": "3",
+         "2012": "4",
+         "2013": "4"
+      }
+   ],
+   "gold": "The statistic depicts U.S. consumer Christmas spending habits from 2011 to 2013 . In 2011 , 42 percent of the respondents reported that they expect to spend the same as last Christmas .\n"
+}

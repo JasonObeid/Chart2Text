@@ -1,0 +1,33 @@
+{
+   "title": "BASF 's planned capital expenditure by region 2020 to 2024\n",
+   "xAxis": "Region",
+   "yAxis": "Share of capital expenditure",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic depicts the number of unlinked passenger trips provided by nj transit in the fiscal year of 2018 , broken down by transit type . In that year , nj transit reported some 23.66 million passenger trips on its light rail lines . nj transit is the second largest commuter rail provider in the country .\n",
+   "trends": {},
+   "data": [
+      {
+         "Region": "Asia Pacific",
+         "Share of capital expenditure": 41.0
+      },
+      {
+         "Region": "Europe",
+         "Share of capital expenditure": 34.0
+      },
+      {
+         "Region": "North America",
+         "Share of capital expenditure": 19.0
+      },
+      {
+         "Region": "South America Africa Middle East",
+         "Share of capital expenditure": 1.0
+      },
+      {
+         "Region": "Site alternatives currently being investigated",
+         "Share of capital expenditure": 5.0
+      }
+   ],
+   "gold": "This statistic shows BASF 's planned capital expenditure between 2020 and 2024 , by region . In that period , some 19 percent of the company 's planned capital expenditure are expected to be spent in North America .\n"
+}

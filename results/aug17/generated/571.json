@@ -1,0 +1,29 @@
+{
+   "title": "Number of U.S. Pinterest users 2017 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of daily and monthly active users of Pinterest worldwide in 2017 . ",
+      "Pinterest 's owner , Valve reported that the online video games distribution platform had 58.9 millions monthly active users in 2017 ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Number of users in millions": "58.9"
+      },
+      {
+         "Sex": "Male",
+         "Number of users in millions": "32.6"
+      }
+   ],
+   "gold": "This statistic shows the gender distribution of visitors to Pinterest.com , divided by visitors from the United States and from the United Kingom as of September 2013 . Pinterest 's usership in the United States is predominantly female as 67 percent of all users are women .\n"
+}

@@ -1,0 +1,93 @@
+{
+   "title": "Number of U.S. patents held by tech companies in 2012\n",
+   "xAxis": "Company",
+   "yAxis": "Number of U.S. patents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic depicts a ranking of the top-20 technology companies in 2019 according to their brand value as calculated by Millward Brown . apple is ranked as the most valuable technology company worldwide with a brand value over 309.5 billion u.s. dollars . Top technology brands \u2013 additional information With technology an essential part of people 's lives , it is no surprise to find technology companies among the most valuable brands worldwide .\n",
+   "trends": {},
+   "data": [
+      {
+         "Company": "Samsung",
+         "Number of U.S. patents": 47855.0
+      },
+      {
+         "Company": "Canon",
+         "Number of U.S. patents": 46322.0
+      },
+      {
+         "Company": "Sony",
+         "Number of U.S. patents": 36508.0
+      },
+      {
+         "Company": "Hewlett-Packard",
+         "Number of U.S. patents": 23904.0
+      },
+      {
+         "Company": "Xerox",
+         "Number of U.S. patents": 23603.0
+      },
+      {
+         "Company": "Intel",
+         "Number of U.S. patents": 21153.0
+      },
+      {
+         "Company": "Motorola",
+         "Number of U.S. patents": 21027.0
+      },
+      {
+         "Company": "Microsoft",
+         "Number of U.S. patents": 19800.0
+      },
+      {
+         "Company": "Ricoh",
+         "Number of U.S. patents": 14363.0
+      },
+      {
+         "Company": "Lucent",
+         "Number of U.S. patents": 11713.0
+      },
+      {
+         "Company": "Nokia",
+         "Number of U.S. patents": 9615.0
+      },
+      {
+         "Company": "Cisco",
+         "Number of U.S. patents": 7208.0
+      },
+      {
+         "Company": "Apple",
+         "Number of U.S. patents": 4649.0
+      },
+      {
+         "Company": "Oracle",
+         "Number of U.S. patents": 3371.0
+      },
+      {
+         "Company": "Dell",
+         "Number of U.S. patents": 2489.0
+      },
+      {
+         "Company": "Google",
+         "Number of U.S. patents": 1124.0
+      },
+      {
+         "Company": "Verizon",
+         "Number of U.S. patents": 1110.0
+      },
+      {
+         "Company": "Yahoo",
+         "Number of U.S. patents": 1029.0
+      },
+      {
+         "Company": "AOL",
+         "Number of U.S. patents": 533.0
+      },
+      {
+         "Company": "Amazon",
+         "Number of U.S. patents": 448.0
+      }
+   ],
+   "gold": "This statistic shows the number of U.S. patents held by selected tech companies . As of March 2012 , Samsung held 47,855 U.S. patents . Apple , one of Samsung 's main competitors , held 4,649 patents .\n"
+}

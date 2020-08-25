@@ -1,0 +1,109 @@
+{
+   "title": "Chicago White Sox revenue 2001 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately positive which exists from 2009 to 2001.",
+      " Correspondingly, the next significant trend is slightly positive which exists from 2013 to 2009.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2016 to 2013.",
+      " Similarly, the next significant trend is slightly negative which exists from 2018 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "9",
+         "12": "17"
+      },
+      {
+         "3": "5",
+         "14": "9"
+      },
+      {
+         "3": "2",
+         "14": "5"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 272.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 266.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 269.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 240.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 227.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 210.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 216.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 214.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 210.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 194.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 196.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 193.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 173.0
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 157.0
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 131.0
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 124.0
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 106.0
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 101.0
+      }
+   ],
+   "gold": "The statistic depicts the revenue of the Chicago White Sox from 2001 to 2018 . In 2018 , the revenue of the Major League Baseball franchise amounted to 272 million U.S. dollars.The Chicago White Sox are owned by Jerry Reinsdorf , who bought the franchise for 20 million U.S. dollars in 1981 .\n"
+}

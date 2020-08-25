@@ -1,0 +1,67 @@
+{
+   "title": "2018 FIFA World Cup Russia ticket prices by category",
+   "labels": [
+      "Ticket Type",
+      "Cat 1",
+      "Cat 2",
+      "Cat 3",
+      "Cat 4"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the average number of weeks between hair and beauty salon treatments for females in the United Kingdom in 2014 , 2015 , 2016 and 2017 by type . In 2014 , the time between haircuts averaged 5.8 weeks for women . As of the 2015 survey , this has increased to 7.3 weeks .\n",
+   "trends": {},
+   "data": [
+      {
+         "Ticket Type": "Opening match (1)",
+         "Cat 1": "550",
+         "Cat 2": "390",
+         "Cat 3": "220",
+         "Cat 4": "50"
+      },
+      {
+         "Ticket Type": "Group matches (2 to 48)",
+         "Cat 1": "210",
+         "Cat 2": "165",
+         "Cat 3": "105",
+         "Cat 4": "20"
+      },
+      {
+         "Ticket Type": "Round of 16 (49 to 56)",
+         "Cat 1": "245",
+         "Cat 2": "185",
+         "Cat 3": "115",
+         "Cat 4": "35"
+      },
+      {
+         "Ticket Type": "Quarter-finals (57 to 60)",
+         "Cat 1": "365",
+         "Cat 2": "255",
+         "Cat 3": "175",
+         "Cat 4": "60"
+      },
+      {
+         "Ticket Type": "Semi-finals (61 to 62)",
+         "Cat 1": "750",
+         "Cat 2": "480",
+         "Cat 3": "285",
+         "Cat 4": "70"
+      },
+      {
+         "Ticket Type": "3rd/4th place match (63)",
+         "Cat 1": "365",
+         "Cat 2": "255",
+         "Cat 3": "175",
+         "Cat 4": "60"
+      },
+      {
+         "Ticket Type": "Final (64)",
+         "Cat 1": "1100",
+         "Cat 2": "710",
+         "Cat 3": "455",
+         "Cat 4": "110"
+      }
+   ],
+   "gold": "The FIFA World Cup is one of the biggest sporting events in the world , so it is no wonder that tickets for the matches are hard to come by . A category one ( highest level ) ticket for the opening match of the 2018 World Cup in Russia would have set you back 550 U.S. dollars , whilst the top range tickets for the final cost a whopping 1,100 U.S. dollars . France emerge victorious in front of a big crowd The final of the 2018 World Cup was contested between Croatia and France , with the latter emerging victorious after an entertaining 4 - 2 victory .\n"
+}

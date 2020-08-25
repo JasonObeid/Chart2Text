@@ -1,0 +1,64 @@
+{
+   "title": "Amadeus : distribution market share 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Amadeus distribution Amadeus share of the 2019 Market is expected to gradually decline in the coming years to hit a low of 36.7 % in 2010 , a decrease of almost eight % since 2010 . ",
+      "Despite such forecast downturns within their 2019 segment , Amadeus distribution share total revenue has continued to increase in recent years . ",
+      "Amadeus distribution Amadeus origins distribution Amadeus , headquartered in New Jersey , operates over 200 subsidiary companies in 60 countries within the pharmaceutical , medical devices and consumer healthcare segments ."
+   ],
+   "trends": [
+      {
+         "25": "9",
+         "37": "9"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Market share": "44"
+      },
+      {
+         "Year": "2018",
+         "Market share": "43.7"
+      },
+      {
+         "Year": "2017",
+         "Market share": "43.9"
+      },
+      {
+         "Year": "2016",
+         "Market share": "43.2"
+      },
+      {
+         "Year": "2015",
+         "Market share": "42.5"
+      },
+      {
+         "Year": "2014",
+         "Market share": "40.7"
+      },
+      {
+         "Year": "2013",
+         "Market share": "40.1"
+      },
+      {
+         "Year": "2012",
+         "Market share": "38.6"
+      },
+      {
+         "Year": "2011",
+         "Market share": "37.7"
+      },
+      {
+         "Year": "2010",
+         "Market share": "36.7"
+      }
+   ],
+   "gold": "This statistic shows the Amadeus distribution platform market share of global air travel distribution systems from 2010 to 2019 . In 2019 , the Amadeus held 44 percent of the global air travel distribution systems market . In 2019 , the revenue of Amadeus was 6.25 billion U.S. dollars .\n"
+}

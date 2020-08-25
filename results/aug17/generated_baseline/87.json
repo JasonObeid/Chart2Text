@@ -1,0 +1,68 @@
+{
+   "title": "Most valuable Italian brands in 2019\n",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Brand, and a y axis representing Brand value in million U.S. dollars.",
+      " The highest category is found at Eni where Brand value in million U.S. dollars is 10711.0.",
+      " The lowest category is found at Poste_Italiane_Spa where Brand value in million U.S. dollars is 3120.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Eni",
+         "Brand value in million U.S. dollars": 10711.0
+      },
+      {
+         "Brand": "Enel",
+         "Brand value in million U.S. dollars": 10319.0
+      },
+      {
+         "Brand": "Gucci",
+         "Brand value in million U.S. dollars": 10192.0
+      },
+      {
+         "Brand": "TIM",
+         "Brand value in million U.S. dollars": 8707.0
+      },
+      {
+         "Brand": "Ferrari",
+         "Brand value in million U.S. dollars": 8327.0
+      },
+      {
+         "Brand": "Poste Italiane Spa",
+         "Brand value in million U.S. dollars": 3120.0
+      },
+      {
+         "Brand": "Generali",
+         "Brand value in million U.S. dollars": 7099.0
+      },
+      {
+         "Brand": "Intesa Sanpaolo Group",
+         "Brand value in million U.S. dollars": 5466.0
+      },
+      {
+         "Brand": "Prada",
+         "Brand value in million U.S. dollars": 4489.0
+      },
+      {
+         "Brand": "Ray-Ban",
+         "Brand value in million U.S. dollars": 3897.0
+      }
+   ],
+   "gold": "The multinational company Eni S.p.A. heads the ranking of the most valuable Italian brands , reaching a brand value of 10.7 billion U.S. dollars as of 2019 . The energy company outranks Enel and Gucci with brand values of roughly 10.3 and 10.1 billion dollars , respectively . TIM followed directly with an estimated brand equity of about 8.7 billion dollars .\n"
+}

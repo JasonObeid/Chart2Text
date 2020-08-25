@@ -1,0 +1,68 @@
+{
+   "title": "U.S. consumer perception of Amazon as a company 2017\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at I_like_using_Amazon where Share of respondents is 67.0.",
+      " The lowest category is found at None_of_the_above where Share of respondents is 12.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "I like using Amazon",
+         "Share of respondents": 67.0
+      },
+      {
+         "Response": "With Amazon I get what I need",
+         "Share of respondents": 57.0
+      },
+      {
+         "Response": "I trust Amazon with my payment information",
+         "Share of respondents": 53.0
+      },
+      {
+         "Response": "Amazon takes the interests of its customers seriously",
+         "Share of respondents": 38.0
+      },
+      {
+         "Response": "Amazon assumes a pioneering role in this day and age",
+         "Share of respondents": 35.0
+      },
+      {
+         "Response": "Amazon is an integral part of my life",
+         "Share of respondents": 32.0
+      },
+      {
+         "Response": "Amazon respects my privacy",
+         "Share of respondents": 32.0
+      },
+      {
+         "Response": "I would like to see more products and services from Amazon",
+         "Share of respondents": 27.0
+      },
+      {
+         "Response": "There are no alternatives to Amazon",
+         "Share of respondents": 18.0
+      },
+      {
+         "Response": "None of the above",
+         "Share of respondents": 12.0
+      }
+   ],
+   "gold": "The statistic shows U.S. consumer opinions on Amazon in general as of March 2017 . As of the Statista survey , 67 percent of survey respondents stated that they liked using Amazon . A third of respondents also stated that Amazon was an integral part of their life .\n"
+}

@@ -1,0 +1,60 @@
+{
+   "title": "Recovery from an eating disorder in the United Kingdom ( UK ) 2015 , by disorder",
+   "labels": [
+      "Category",
+      "Anorexia nervosa",
+      "Bulimia nervosa"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "United Kingdom reported 20 aircraft Chronically_ill in 2015 , meanwhile UK delivered 23 aircraft that year . ",
+      "The two manufacturers form a de-facto duopoly in the market for large jet airliners . ",
+      "With only 23 Chronically_ill , UK experienced its worst year in more than a decade ."
+   ],
+   "trends": [
+      {
+         "2": [
+            "2",
+            "1"
+         ],
+         "4": [
+            "2",
+            "0"
+         ],
+         "11": [
+            "2",
+            "2"
+         ]
+      },
+      {},
+      {
+         "2": [
+            "2",
+            "2"
+         ],
+         "3": [
+            "2",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Category": "Full recovery",
+         "Anorexia nervosa": "46",
+         "Bulimia nervosa": "45"
+      },
+      {
+         "Category": "Improvement",
+         "Anorexia nervosa": "33",
+         "Bulimia nervosa": "27"
+      },
+      {
+         "Category": "Chronically ill",
+         "Anorexia nervosa": "20",
+         "Bulimia nervosa": "23"
+      }
+   ],
+   "gold": "This statistic displays the recovery rate of individuals suffering from an eating disorder in the United Kingdom in 2015 . Approximately 46 percent of sufferers of anorexia nervosa and 45 percent of sufferers of bulimia nervosa make a full recovery .\n"
+}

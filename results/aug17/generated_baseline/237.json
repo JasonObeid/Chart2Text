@@ -1,0 +1,97 @@
+{
+   "title": "Industrial robots - worldwide sales 2004 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Sales in thousand units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Sales in thousand units, with a total of 15 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2012.",
+      " Likewise, the next significant trend is extremely positive which exists from 2012 to 2009.",
+      " Likewise, the next significant trend is moderately negative which exists from 2007 to 2004.",
+      " But, the next significant trend is slightly negative which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "6"
+      },
+      {
+         "3": "6",
+         "14": "9"
+      },
+      {
+         "3": "11",
+         "14": "14"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in thousand units": 384.0
+      },
+      {
+         "Year": "2017",
+         "Sales in thousand units": 382.0
+      },
+      {
+         "Year": "2016",
+         "Sales in thousand units": 294.0
+      },
+      {
+         "Year": "2015",
+         "Sales in thousand units": 254.0
+      },
+      {
+         "Year": "2014",
+         "Sales in thousand units": 221.0
+      },
+      {
+         "Year": "2013",
+         "Sales in thousand units": 178.0
+      },
+      {
+         "Year": "2012",
+         "Sales in thousand units": 159.0
+      },
+      {
+         "Year": "2011",
+         "Sales in thousand units": 166.0
+      },
+      {
+         "Year": "2010",
+         "Sales in thousand units": 121.0
+      },
+      {
+         "Year": "2009",
+         "Sales in thousand units": 60.0
+      },
+      {
+         "Year": "2008",
+         "Sales in thousand units": 113.0
+      },
+      {
+         "Year": "2007",
+         "Sales in thousand units": 114.0
+      },
+      {
+         "Year": "2006",
+         "Sales in thousand units": 112.0
+      },
+      {
+         "Year": "2005",
+         "Sales in thousand units": 120.0
+      },
+      {
+         "Year": "2004",
+         "Sales in thousand units": 97.0
+      }
+   ],
+   "gold": "Worldwide industrial robot shipments increased by one percent from about 382,000 in 2017 to around 384,000 in 2018 . Global spending on industrial robots is projected to exceed 24 billion U.S. dollars by 2025 . Leading markets Japan , China , the United States , South Korea , and Germany are counted among the five leading industrial robot markets worldwide .\n"
+}

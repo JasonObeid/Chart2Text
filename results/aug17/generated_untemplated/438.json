@@ -1,0 +1,33 @@
+{
+   "title": "Mexico : number of households 2005 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Number of households in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of mobile households in the united from 2015 to 2017 . In 2017 , the number of households reported by the police to the judicial authority amounted to 2.8 million .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2017",
+         "Number of households in millions": 34.07
+      },
+      {
+         "Year": "2016",
+         "Number of households in millions": 32.9
+      },
+      {
+         "Year": "2015",
+         "Number of households in millions": 31.95
+      },
+      {
+         "Year": "2010",
+         "Number of households in millions": 28.16
+      },
+      {
+         "Year": "2005",
+         "Number of households in millions": 24.8
+      }
+   ],
+   "gold": "The statistic presents a timeline with the number of households in Mexico between 2005 and 2017 . In 2017 , there were more than 34 million households in Mexico , up from nearly 33 million households a year earlier .\n"
+}

@@ -1,0 +1,91 @@
+{
+   "title": "United States : light vehicle sales by manufacturer 2017/18",
+   "labels": [
+      "Car Manufacturer",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "There are many hemp-derived company in the united kingdom ( uk ) in 2018 , with a total of 49.6 billion British pounds in 2018 . The largest largest share in the united kingdom is the second largest accounting for revenue . Compared to the decrease in the EU , accounting for roughly 25 billion British pounds in 2018 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Car Manufacturer": "General Motors",
+         "2017": "2986737",
+         "2018": "2934742"
+      },
+      {
+         "Car Manufacturer": "Ford Motor Company",
+         "2017": "2575200",
+         "2018": "2490175"
+      },
+      {
+         "Car Manufacturer": "Toyota Motor Sales U.S.A.",
+         "2017": "2433749",
+         "2018": "2426646"
+      },
+      {
+         "Car Manufacturer": "FCA",
+         "2017": "2073147",
+         "2018": "2238307"
+      },
+      {
+         "Car Manufacturer": "Nissan North America",
+         "2017": "1697150",
+         "2018": "1611951"
+      },
+      {
+         "Car Manufacturer": "Honda",
+         "2017": "1639352",
+         "2018": "1604561"
+      },
+      {
+         "Car Manufacturer": "Hyundai Kia Auto Group",
+         "2017": "1275222",
+         "2018": "1278740"
+      },
+      {
+         "Car Manufacturer": "Subaru of America",
+         "2017": "647956",
+         "2018": "680135"
+      },
+      {
+         "Car Manufacturer": "Volkswagen Group of America",
+         "2017": "620772",
+         "2018": "634509"
+      },
+      {
+         "Car Manufacturer": "BMW of North America",
+         "2017": "352787",
+         "2018": "354698"
+      },
+      {
+         "Car Manufacturer": "Daimler",
+         "2017": "375311",
+         "2018": "350360"
+      },
+      {
+         "Car Manufacturer": "Mazda Motor of America",
+         "2017": "289469",
+         "2018": "300325"
+      },
+      {
+         "Car Manufacturer": "Tesla Motors",
+         "2017": "50067",
+         "2018": "197517"
+      },
+      {
+         "Car Manufacturer": "Jaguar Land Rover N. A.",
+         "2017": "114212",
+         "2018": "122397"
+      },
+      {
+         "Car Manufacturer": "Volvo Cars North America",
+         "2017": "81434",
+         "2018": "98786"
+      }
+   ],
+   "gold": "This graph shows year-to-date passenger car sales in the United States between 2017 and 2018 , sorted by manufacturer . By the end of December 2018 , Toyota Motor had sold more than 2.4 million passenger cars here . Japan 's Toyota is one of the largest automobile manufacturers worldwide .\n"
+}

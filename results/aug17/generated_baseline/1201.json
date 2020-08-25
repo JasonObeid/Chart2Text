@@ -1,0 +1,36 @@
+{
+   "title": "Facebook usage reach in the United States 2019 , by gender\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Women where Share of respondents is 75.0.",
+      " The lowest category is found at Men where Share of respondents is 63.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Men",
+         "Share of respondents": 63.0
+      },
+      {
+         "Response": "Women",
+         "Share of respondents": 75.0
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who were using Facebook as of February 2019 , sorted by gender . During that period of time , 75 percent of female respondents stated that they used the social networking site .\n"
+}

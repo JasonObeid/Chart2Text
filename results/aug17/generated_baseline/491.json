@@ -1,0 +1,116 @@
+{
+   "title": "Youth unemployment rate in Ghana in 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2015 to 2006.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2006 to 1999.",
+      " Differently, the next significant trend is moderately negative which exists from 2019 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "13"
+      },
+      {
+         "3": "13",
+         "14": "20"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": 13.69
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": 13.7
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": 13.7
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": 14.07
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": 14.1
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": 13.51
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": 13.37
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": 12.55
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": 12.17
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": 11.15
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": 10.83
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": 9.53
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": 9.35
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": 9.31
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": 10.63
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": 11.89
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": 13.33
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": 14.52
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": 15.14
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": 16.26
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": 15.83
+      }
+   ],
+   "gold": "The statistic shows the youth unemployment rate in Ghana from 1999 and 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated youth unemployment rate in Ghana was at 13.69 percent .\n"
+}

@@ -1,0 +1,66 @@
+{
+   "title": "Quarterly average daily rate of hotels in Barcelona 2010 to 2017",
+   "labels": [
+      "Quarter",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the quarterly average daily rate of hotels in copenhagen from 2010 to 2017 . In the first quarter of 2017 , the average daily rate of hotels in copenhagen in Denmark was 1266 Danish krone .\n",
+   "trends": {},
+   "data": [
+      {
+         "Quarter": "Q4",
+         "2010": "120",
+         "2011": "136",
+         "2012": "150",
+         "2013": "125",
+         "2014": "144",
+         "2015": "169",
+         "2016": "175",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2010": "129",
+         "2011": "161",
+         "2012": "155",
+         "2013": "127",
+         "2014": "163",
+         "2015": "182",
+         "2016": "180",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q2",
+         "2010": "130",
+         "2011": "147",
+         "2012": "171",
+         "2013": "135",
+         "2014": "170",
+         "2015": "170",
+         "2016": "182",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q1",
+         "2010": "116",
+         "2011": "121",
+         "2012": "153",
+         "2013": "121",
+         "2014": "151",
+         "2015": "145",
+         "2016": "151",
+         "2017": "163"
+      }
+   ],
+   "gold": "This statistic shows the quarterly average daily rate of hotels in Barcelona from 2010 to 2017 . In the first quarter of 2017 , the average daily rate of hotels in Barcelona in Spain was 163 euros , down from 175 euros in the previous quarter .\n"
+}

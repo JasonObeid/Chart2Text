@@ -1,0 +1,71 @@
+{
+   "title": "South Korea : e-commerce sales volume 2009 to 2018",
+   "xAxis": "Year",
+   "yAxis": "E-commerce sales volume in trillion Korean won",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic depicts the manufacturers ( South ) sales of sporting goods equipment , fitness equipment , sales apparel , athletic footwear , and sales licensed merchandise in the trillion from 2009 to 2018 . ",
+      "In 2018 , South sales amounted to about 113.73 trillion Korean . ",
+      "Sporting goods manufacturers South sales - additional information South sales of sporting goods in the trillion reached 113.73 trillion Korean in 2018 , the highest figure to-date and a eight trillion dollar increase on the figure from 2014 ."
+   ],
+   "trends": [
+      {
+         "31": "9",
+         "33": "0"
+      },
+      {
+         "1": "0",
+         "8": "0"
+      },
+      {
+         "17": "0",
+         "22": "0",
+         "39": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "E-commerce sales volume in trillion Korean won": "113.73"
+      },
+      {
+         "Year": "2017",
+         "E-commerce sales volume in trillion Korean won": "91.99"
+      },
+      {
+         "Year": "2016",
+         "E-commerce sales volume in trillion Korean won": "64.91"
+      },
+      {
+         "Year": "2015",
+         "E-commerce sales volume in trillion Korean won": "53.89"
+      },
+      {
+         "Year": "2014",
+         "E-commerce sales volume in trillion Korean won": "45.3"
+      },
+      {
+         "Year": "2013",
+         "E-commerce sales volume in trillion Korean won": "38.5"
+      },
+      {
+         "Year": "2012",
+         "E-commerce sales volume in trillion Korean won": "34.07"
+      },
+      {
+         "Year": "2011",
+         "E-commerce sales volume in trillion Korean won": "29.07"
+      },
+      {
+         "Year": "2010",
+         "E-commerce sales volume in trillion Korean won": "25.2"
+      },
+      {
+         "Year": "2009",
+         "E-commerce sales volume in trillion Korean won": "20.64"
+      }
+   ],
+   "gold": "This timeline shows online shopping transaction volume in South Korea from 2009 to 2018 . In 2018 , the online shopping transactions totaled more than 113 trillion South Korean won , up from around 92 trillion won in the previous year .\n"
+}

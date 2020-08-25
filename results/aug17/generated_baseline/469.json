@@ -1,0 +1,82 @@
+{
+   "title": "Average ticket price Chicago Blackhawks ( NHL ) 2014/15\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2014/15 to 2010/11.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2007/08 to 2005/06.",
+      " Also, the next significant trend is moderately neutral which exists from 2010/11 to 2009/10.",
+      " Also, the next significant trend is extremely positive which exists from 2009/10 to 2008/09.",
+      " Similarly, the next significant trend is slightly negative which exists from 2008/09 to 2007/08."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 78.8
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 72.95
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 62.88
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 55.72
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 55.39
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 55.39
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 46.8
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 52.22
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 34.88
+      },
+      {
+         "Year": "2005/06",
+         "Average ticket price in U.S. dollars": 34.88
+      }
+   ],
+   "gold": "This graph depicts the average ticket price of Chicago Blackhawks games within the National Hockey League from 2005/06 to 2014/15 In the 2005/06 season , the average ticket price was 34.88 U.S. dollars . The Blackhawks play their home games at the United Center .\n"
+}

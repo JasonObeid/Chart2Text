@@ -1,0 +1,21 @@
+{
+   "title": "Facebook usage reach in the United States 2019 , by gender\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "A 2017 survey of u.s. adults found that approximately 13 percent of American men and 7 percent of American women currently smoke marijuana . Impact of Legalizing Cannabis in the u.s . Since Washington and Colorado legalized recreational marijuana in 2012 , several more states have followed suit .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Men",
+         "Share of respondents": 63.0
+      },
+      {
+         "Response": "Women",
+         "Share of respondents": 75.0
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who were using Facebook as of February 2019 , sorted by gender . During that period of time , 75 percent of female respondents stated that they used the social networking site .\n"
+}

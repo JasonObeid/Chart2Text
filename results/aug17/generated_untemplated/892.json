@@ -1,0 +1,29 @@
+{
+   "title": "Crude suicide rate in Vietnam 2000 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Crude suicide rate per 100,000 inhabitants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the forecast number of people in the united states who were using whatsapp as of the third quarter 2019 , sorted by age . Overall , high sales of u.s. adults aged between 18 and 29 years used the mobile app .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2015",
+         "Crude suicide rate per 100,000 inhabitants": 7.4
+      },
+      {
+         "Year": "2010",
+         "Crude suicide rate per 100,000 inhabitants": 7.1
+      },
+      {
+         "Year": "2005",
+         "Crude suicide rate per 100,000 inhabitants": 6.5
+      },
+      {
+         "Year": "2000",
+         "Crude suicide rate per 100,000 inhabitants": 6.8
+      }
+   ],
+   "gold": "This statistic shows the crude suicide rate in Vietnam from 2000 to 2015 . In 2015 , the crude suicide rate in Vietnam was approximately 7.4 deaths per 100,000 inhabitants .\n"
+}

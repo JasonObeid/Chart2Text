@@ -1,0 +1,39 @@
+{
+   "title": "Value of funds raised through crowdfunding globally 2014 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Amount in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Amount in million U.S. dollars, with a total of 3 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly negative which exists from 2016 to 2014.",
+      " But, the next significant trend is slightly positive which exists from 2016 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Amount in million U.S. dollars": 738.9
+      },
+      {
+         "Year": "2015",
+         "Amount in million U.S. dollars": 762.52
+      },
+      {
+         "Year": "2014",
+         "Amount in million U.S. dollars": 597.14
+      }
+   ],
+   "gold": "Crowdfunding occurs when a number of private individuals each pays a small amount of money to support a project . As of 2016 , this process had raised 738.9 million U.S. dollars globally . How does crowdfunding work ? There are three main types of crowdfunding : peer-to-peer lending , rewards and donation crowdfunding , and equity crowdfunding .\n"
+}

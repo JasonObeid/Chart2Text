@@ -1,0 +1,48 @@
+{
+   "title": "Number of vehicles imported into the United States by country 2012\n",
+   "xAxis": "Country",
+   "yAxis": "Imports in units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Country, and a y axis representing Imports in units.",
+      " The highest category is found at Japan where Imports in units is 2441298.0.",
+      " The lowest category is found at Germany where Imports in units is 796121.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Japan",
+         "Imports in units": 2441298.0
+      },
+      {
+         "Country": "Canada",
+         "Imports in units": 2105848.0
+      },
+      {
+         "Country": "Mexico",
+         "Imports in units": 1440116.0
+      },
+      {
+         "Country": "Korea",
+         "Imports in units": 1032638.0
+      },
+      {
+         "Country": "Germany",
+         "Imports in units": 796121.0
+      }
+   ],
+   "gold": "This statistic shows the number of passenger vehicles imported into the United States in 2012 , with a breakdown by country . U.S. imports of passenger vehicles from Korea stood at around 1.03 million units in 2012 .\n"
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Snap worldwide net income 2015 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Income/ loss in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Income/ loss in million U.S. dollars, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly negative which exists from 2019 to 2017.",
+      " Conversely, the next significant trend is extremely positive which exists from 2017 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Income/ loss in million U.S. dollars": 1033.66
+      },
+      {
+         "Year": "2018",
+         "Income/ loss in million U.S. dollars": 1255.91
+      },
+      {
+         "Year": "2017",
+         "Income/ loss in million U.S. dollars": 3445.07
+      },
+      {
+         "Year": "2016",
+         "Income/ loss in million U.S. dollars": 514.64
+      },
+      {
+         "Year": "2015",
+         "Income/ loss in million U.S. dollars": 372.89
+      }
+   ],
+   "gold": "This statistic presents the annual net loss of mobile messaging platform Snap . In 2019 , the chat app had generated 1.03 billion U.S. dollars in net losses , a slight improvement from 1.56 billion U.S. dollars in losses in the preceding year .\n"
+}

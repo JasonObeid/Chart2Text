@@ -1,0 +1,54 @@
+{
+   "title": "Indonesia : number of internet users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , the Number of Indonesia users in Indonesia amounted to 95.2 millions and is projected to grow 149.9 millions in 2023 . ",
+      "The current Indonesia usage penetration in Indonesia is about 64 millions of the population . ",
+      "Social media in Indonesia Social networking is a popular online activity in Indonesia ."
+   ],
+   "trends": [
+      {
+         "1": "5",
+         "12": "5",
+         "20": "0",
+         "23": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of users in millions": "149.9"
+      },
+      {
+         "Year": "2022",
+         "Number of users in millions": "141.3"
+      },
+      {
+         "Year": "2021",
+         "Number of users in millions": "131.0"
+      },
+      {
+         "Year": "2020",
+         "Number of users in millions": "119.4"
+      },
+      {
+         "Year": "2019",
+         "Number of users in millions": "107.2"
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": "95.2"
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": "84.0"
+      }
+   ],
+   "gold": "In 2018 , 95.2 million people were accessing the internet in Indonesia . This figure is projected to grow to almost 150 million in 2023 . Internet usage in Indonesia With over 143.26 million internet users , Indonesia is one of the biggest online markets worldwide .\n"
+}

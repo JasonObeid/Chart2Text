@@ -1,0 +1,45 @@
+{
+   "title": "Peak online shopping hours of U.S. consumers 2015",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "shopping gaming is no longer a hobby exclusively enjoyed by the young . ",
+      "As generations have grown up with shopping games a normal part of life , the Peak of the average gamer also increases . ",
+      "While 48 % of shopping hours U.S. still come from the 7-11_AM to 11_AM_-_4_PM Peak demographic , some 14 % are 9_PM_-_2_AM 7-11_AM and 9_PM_-_2_AM ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "2",
+         "11": "0",
+         "13": "1",
+         "18": "3",
+         "21": "3",
+         "22": "0",
+         "24": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "7-11 AM",
+         "Share of respondents": "10"
+      },
+      {
+         "Year": "11 AM - 4 PM",
+         "Share of respondents": "28"
+      },
+      {
+         "Year": "4-9 PM",
+         "Share of respondents": "48"
+      },
+      {
+         "Year": "9 PM - 2 AM",
+         "Share of respondents": "14"
+      }
+   ],
+   "gold": "This statistic presents the preferred time of the day for consumers in the United States to shop online . During the April 2015 survey , 48 percent of survey respondents stated that their peak online shopping hours were between 4 and 9 PM .\n"
+}

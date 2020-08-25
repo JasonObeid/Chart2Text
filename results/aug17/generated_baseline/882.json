@@ -1,0 +1,104 @@
+{
+   "title": "Number of customer transactions at the Home Depot and Lowe 's worldwide 2011 to 2018",
+   "labels": [
+      "Year",
+      "Home Depot",
+      "Lowe's"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Home Depot had the highest values across Year with a mean value of 1470.0.",
+      " This peaked at 2018 with a value of 1621.0. ",
+      " The line with the second highest values was Lowe's with a mean value of 877.0.",
+      " This line peaked at 2017 with a value of 953.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "10": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Home Depot": "1621",
+         "Lowe's": "941"
+      },
+      {
+         "Year": "2017",
+         "Home Depot": "1579",
+         "Lowe's": "953"
+      },
+      {
+         "Year": "2016",
+         "Home Depot": "1544",
+         "Lowe's": "945"
+      },
+      {
+         "Year": "2015",
+         "Home Depot": "1501",
+         "Lowe's": "878"
+      },
+      {
+         "Year": "2014",
+         "Home Depot": "1442",
+         "Lowe's": "857"
+      },
+      {
+         "Year": "2013",
+         "Home Depot": "1391",
+         "Lowe's": "828"
+      },
+      {
+         "Year": "2012",
+         "Home Depot": "1364",
+         "Lowe's": "804"
+      },
+      {
+         "Year": "2011",
+         "Home Depot": "1318",
+         "Lowe's": "810"
+      }
+   ],
+   "gold": "This statistic depicts the number of customer transactions at the Home Depot and Lowe 's worldwide from 2011 to 2018 . In 2018 , the Home Depot carried out 1.62 billion customer transactions worldwide .\n"
+}

@@ -1,0 +1,83 @@
+{
+   "title": "Distribution of gross domestic product ( GDP ) across economic sectors in the Netherlands",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the distribution of the gross domestic product ( gdp ) across economic sectors in south africa from 2008 to 2018 . In 2018 , agriculture had contributed around 2.18 percent to the gdp of south africa , whereas industry and services had contributed 25.85 and 61.04 percent of the total value added , respectively .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "1.63",
+         "Industry": "17.93",
+         "Services": "69.94"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "1.86",
+         "Industry": "17.7",
+         "Services": "70.07"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "1.77",
+         "Industry": "17.64",
+         "Services": "70.22"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "1.72",
+         "Industry": "18.19",
+         "Services": "70.06"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "1.74",
+         "Industry": "18.41",
+         "Services": "69.91"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "1.79",
+         "Industry": "19.33",
+         "Services": "69.07"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "1.66",
+         "Industry": "20.02",
+         "Services": "68.73"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "1.58",
+         "Industry": "20.07",
+         "Services": "68.45"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "1.78",
+         "Industry": "19.69",
+         "Services": "68.37"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "1.49",
+         "Industry": "20.44",
+         "Services": "67.73"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "1.58",
+         "Industry": "21.61",
+         "Services": "66.13"
+      }
+   ],
+   "gold": "This statistic shows the distribution of the gross domestic product ( GDP ) across economic sectors in the Netherlands from 2008 to 2018 . In 2018 , agriculture contributed around 1.63 percent to the GDP of the Netherlands , 17.93 percent came from the industry and 69.94 percent from the service sector .\n"
+}

@@ -1,0 +1,43 @@
+{
+   "title": "Average sales per unit of Outback Steakhouse restaurants in the U.S. 2015 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Average sales in thousand U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average sales in thousand U.S. dollars, with a total of 4 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly positive which exists from 2018 to 2015.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2018 to 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average sales in thousand U.S. dollars": 3580.0
+      },
+      {
+         "Year": "2017",
+         "Average sales in thousand U.S. dollars": 3542.0
+      },
+      {
+         "Year": "2016",
+         "Average sales in thousand U.S. dollars": 3354.0
+      },
+      {
+         "Year": "2015",
+         "Average sales in thousand U.S. dollars": 3430.0
+      }
+   ],
+   "gold": "This statistic shows the average sales per unit of Outback Steakhouse restaurants in the United States from 2015 to 2018 . Average sales per Outback Steakhouse restaurant amounted to approximately 3.58 million U.S. dollars in 2018 .\n"
+}

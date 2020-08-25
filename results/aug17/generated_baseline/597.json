@@ -1,0 +1,42 @@
+{
+   "title": "Share of people owning microwave ovens in Germany 2008 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents with a total of 5 data points. The chart has one significant trend.",
+      " This trend is negative which exists from 2017 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Share of respondents": 65.0
+      },
+      {
+         "Year": "2015",
+         "Share of respondents": 70.0
+      },
+      {
+         "Year": "2013",
+         "Share of respondents": 76.0
+      },
+      {
+         "Year": "2010",
+         "Share of respondents": 80.0
+      },
+      {
+         "Year": "2008",
+         "Share of respondents": 80.0
+      }
+   ],
+   "gold": "The figure shows the share of households owning microwave ovens in Germany from 2008 to 2017 . Over the time period under consideration , microwave oven ownership has decreased from 80 percent of respondents in 2008 to 65 percent in 2017 .\n"
+}

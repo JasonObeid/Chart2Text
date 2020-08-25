@@ -1,0 +1,42 @@
+{
+   "title": "Forecast Google Glass unit sales 2014 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unit sales in millions with a total of 5 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2018 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Unit sales in millions": 21.15
+      },
+      {
+         "Year": "2017",
+         "Unit sales in millions": 10.62
+      },
+      {
+         "Year": "2016",
+         "Unit sales in millions": 3.74
+      },
+      {
+         "Year": "2015",
+         "Unit sales in millions": 2.47
+      },
+      {
+         "Year": "2014",
+         "Unit sales in millions": 0.83
+      }
+   ],
+   "gold": "Here you can see a forecast for the sale of Google Glasses from 2014 to 2018 . The source predicts that Google 's product will sell well and that by 2018 will sell more than 21 million units .\n"
+}

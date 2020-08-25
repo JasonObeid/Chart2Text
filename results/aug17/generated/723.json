@@ -1,0 +1,64 @@
+{
+   "title": "Fastest supercomputers - number of computer cores 2019",
+   "xAxis": "Location",
+   "yAxis": "Number of cores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the Fastest supercomputers number computer as of 2019 , ranked 2019 Number . ",
+      "According to the estimates , Johan Sundstein , a Location from Denmark , also known as Summit_United_States , earned 10649600 million cores throughout his recorded supercomputers gaming career . ",
+      "supercomputers gaming \u2013 additional information Video gaming is no longer a pastime of purported home-dwellers or arcade-loitering individuals ; the professionalization of this activity has now validated it as a career choice for talented number to earn millions and sign lucrative sponsorship deals ."
+   ],
+   "trends": [
+      {},
+      {
+         "16": "0",
+         "19": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Location": "Summit United States",
+         "Number of cores": "2414592"
+      },
+      {
+         "Location": "Sierra  United States",
+         "Number of cores": "1572480"
+      },
+      {
+         "Location": "Sunway TaihuLight  China",
+         "Number of cores": "10649600"
+      },
+      {
+         "Location": "Tianhe-2A China",
+         "Number of cores": "4981760"
+      },
+      {
+         "Location": "Frontera United States",
+         "Number of cores": "448448"
+      },
+      {
+         "Location": "Piz Daint  Switzerland",
+         "Number of cores": "387872"
+      },
+      {
+         "Location": "Trinity  United States",
+         "Number of cores": "979072"
+      },
+      {
+         "Location": "AI Bridging Cloud Infrastructure (ABCI) Japan",
+         "Number of cores": "391680"
+      },
+      {
+         "Location": "SuperMUC-NG Germany",
+         "Number of cores": "305856"
+      },
+      {
+         "Location": "Lassen United States",
+         "Number of cores": "288288"
+      }
+   ],
+   "gold": "This ranking lists the number of computer cores of the 10 fastest supercomputers . The fastest supercomputer as of June 2019 , Summit , operated by the Oak Ridge National Laboratory in Tennessee , China , had 2.4 million computer cores .\n"
+}

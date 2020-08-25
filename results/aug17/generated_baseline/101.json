@@ -1,0 +1,52 @@
+{
+   "title": "Number of Crunchyroll subscribers 2012 to 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Number of users in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Month, and a y axis representing Number of users in thousands.",
+      " The highest category is found at November_2018 where Number of users in thousands is 2000.0.",
+      " The lowest category is found at September_2012 where Number of users in thousands is 100.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "November 2018",
+         "Number of users in thousands": 2000.0
+      },
+      {
+         "Month": "February 2017",
+         "Number of users in thousands": 1000.0
+      },
+      {
+         "Month": "November 2015",
+         "Number of users in thousands": 750.0
+      },
+      {
+         "Month": "November 2014",
+         "Number of users in thousands": 400.0
+      },
+      {
+         "Month": "March 2013",
+         "Number of users in thousands": 200.0
+      },
+      {
+         "Month": "September 2012",
+         "Number of users in thousands": 100.0
+      }
+   ],
+   "gold": "As of November 2018 , the anime-focused subscription video-on-demand platform Crunchyroll had around two million paying subscribers . Subscription numbers have grown rapidly in recent years , with the company managing to double its number of paying subscribers between February 2017 and November 2018 . What is Crunchyroll ? Similar to services like Netflix and Hulu , Crunchyroll provides subscribers with on-demand access to shows and video media through either monthly subscriptions or cheaper , ad-supported programming .\n"
+}

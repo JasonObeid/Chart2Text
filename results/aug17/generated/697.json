@@ -1,0 +1,67 @@
+{
+   "title": "Market share of leading smartphone brands in the Netherlands 2017 to 2018",
+   "labels": [
+      "Race",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "Samsung and Apple ( Outlook.com ) were still the most used share services in the Netherlands , according to survey respondents in 2018 . ",
+      "Compared to earlier years , the use of both Google 's as well Microsoft 's free e-mail service saw an increase in their usage among Dutch consumers , whilst e-mail services provided by domestic leading ( such as KPN and Ziggo ) saw much less use . ",
+      "Sending and receiving e-mails is a popular online communication method across all age groups in the country ."
+   ],
+   "trends": [
+      {
+         "0": [
+            "0",
+            "0"
+         ],
+         "2": [
+            "1",
+            "0"
+         ]
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Race": "Samsung",
+         "2017": "41",
+         "2018": "38"
+      },
+      {
+         "Race": "Apple",
+         "2017": "32",
+         "2018": "34"
+      },
+      {
+         "Race": "Huawei",
+         "2017": "6",
+         "2018": "7"
+      },
+      {
+         "Race": "Sony",
+         "2017": "5",
+         "2018": "0"
+      },
+      {
+         "Race": "LG",
+         "2017": "4",
+         "2018": "0"
+      },
+      {
+         "Race": "Microsoft",
+         "2017": "3",
+         "2018": "0"
+      },
+      {
+         "Race": "Other",
+         "2017": "9",
+         "2018": "0"
+      }
+   ],
+   "gold": "In 2018 , Samsung was the biggest smartphone brand in the Netherlands with a market share of close to 40 percent . This is a decrease compared to the previous year . Second in the Netherlands was Apple .\n"
+}

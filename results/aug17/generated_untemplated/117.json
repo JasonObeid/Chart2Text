@@ -1,0 +1,41 @@
+{
+   "title": "Coal - global proved reserves by type 2010 to 2018",
+   "labels": [
+      "Year",
+      "Anthracite and bituminous",
+      "Sub-bituminous and lignite"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows a forecast for the number of amish people and amish settlements in the united states from 2014 to 2018 . By the year 2050 it is expected that the amish population will have approximately tripled and the total number will reach 912258 people .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2010",
+         "Anthracite and bituminous": "404762",
+         "Sub-bituminous and lignite": "456176"
+      },
+      {
+         "Year": "2012",
+         "Anthracite and bituminous": "404762",
+         "Sub-bituminous and lignite": "456176"
+      },
+      {
+         "Year": "2014",
+         "Anthracite and bituminous": "403199",
+         "Sub-bituminous and lignite": "488332"
+      },
+      {
+         "Year": "2016",
+         "Anthracite and bituminous": "816214",
+         "Sub-bituminous and lignite": "323117"
+      },
+      {
+         "Year": "2018",
+         "Anthracite and bituminous": "734903",
+         "Sub-bituminous and lignite": "319879"
+      }
+   ],
+   "gold": "This statistic represents proved coal reserves worldwide between 2010 to 2018 , by type . In 2018 , global proved reserves of anthracite and bituminous coal amounted to around 735 billion metric tons . As of 2018 , the life years of coal is predicted to be a about 132 years at the current rate of production .\n"
+}

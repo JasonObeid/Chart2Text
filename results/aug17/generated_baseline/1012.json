@@ -1,0 +1,125 @@
+{
+   "title": "Total lobbying spending U.S. 1998 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Spending in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Spending in billion U.S. dollars, with a total of 22 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2010 to 1998.",
+      " Correspondingly, the next significant trend is moderately positive which exists from 2019 to 2016.",
+      " In a similar manner, the next significant trend is slightly positive which exists from 2016 to 2013.",
+      " Similarly, the next significant trend is slightly negative which exists from 2013 to 2010."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "9",
+         "12": "21"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      },
+      {
+         "3": "3",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Spending in billion U.S. dollars": 3.47
+      },
+      {
+         "Year": "2018",
+         "Spending in billion U.S. dollars": 3.46
+      },
+      {
+         "Year": "2017",
+         "Spending in billion U.S. dollars": 3.38
+      },
+      {
+         "Year": "2016",
+         "Spending in billion U.S. dollars": 3.16
+      },
+      {
+         "Year": "2015",
+         "Spending in billion U.S. dollars": 3.22
+      },
+      {
+         "Year": "2014",
+         "Spending in billion U.S. dollars": 3.25
+      },
+      {
+         "Year": "2013",
+         "Spending in billion U.S. dollars": 3.24
+      },
+      {
+         "Year": "2012",
+         "Spending in billion U.S. dollars": 3.3
+      },
+      {
+         "Year": "2011",
+         "Spending in billion U.S. dollars": 3.32
+      },
+      {
+         "Year": "2010",
+         "Spending in billion U.S. dollars": 3.51
+      },
+      {
+         "Year": "2009",
+         "Spending in billion U.S. dollars": 3.5
+      },
+      {
+         "Year": "2008",
+         "Spending in billion U.S. dollars": 3.31
+      },
+      {
+         "Year": "2007",
+         "Spending in billion U.S. dollars": 2.87
+      },
+      {
+         "Year": "2006",
+         "Spending in billion U.S. dollars": 2.63
+      },
+      {
+         "Year": "2005",
+         "Spending in billion U.S. dollars": 2.44
+      },
+      {
+         "Year": "2004",
+         "Spending in billion U.S. dollars": 2.19
+      },
+      {
+         "Year": "2003",
+         "Spending in billion U.S. dollars": 2.06
+      },
+      {
+         "Year": "2002",
+         "Spending in billion U.S. dollars": 1.83
+      },
+      {
+         "Year": "2001",
+         "Spending in billion U.S. dollars": 1.63
+      },
+      {
+         "Year": "2000",
+         "Spending in billion U.S. dollars": 1.56
+      },
+      {
+         "Year": "1999",
+         "Spending in billion U.S. dollars": 1.44
+      },
+      {
+         "Year": "1998",
+         "Spending in billion U.S. dollars": 1.45
+      }
+   ],
+   "gold": "This statistic shows the total lobbying spending in the United States from 1998 to 2019 . In 2019 , the total lobbying spending amounted to 3.47 billion U.S. dollars . Additional information on lobbying in the United States Since the turn of the millennium , the amount spent on lobbying in the United States has more than doubled .\n"
+}

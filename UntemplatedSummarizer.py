@@ -128,13 +128,13 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
             if (chartType == "bar"):
                 websiteInput = {"title": title.strip(), "labels": [' '.join(label) for label in labelArr],
                                 "columnType": "multi", "graphType": chartType, "summaryType": "nlp", "summary": caption,
-                                "trends": {}, "data": dataJson}
+                                "trends": {}, "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
             elif (chartType == "line"):
                 websiteInput = {"title": title.strip(), "labels": [' '.join(label) for label in labelArr],
                                 "columnType": "multi", "graphType": chartType, "summaryType": "nlp", "summary": caption,
-                                "trends": {}, "data": dataJson}
+                                "trends": {}, "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
         else:
@@ -157,7 +157,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                 dataJson = [{xLabel: xVal, yLabel: yVal} for xVal, yVal in zip(cleanXArr, cleanYArr)]
                 websiteInput = {"title": title, "xAxis": xLabel, "yAxis": yLabel,
                                 "columnType": "two", "graphType": chartType, "summaryType": "baseline", "summary": caption,
-                                "trends": {}, "data": dataJson}
+                                "trends": {}, "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
             # run line
@@ -166,7 +166,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                 websiteInput = {"title": title, "xAxis": xLabel, "yAxis": yLabel,
                                 "columnType": "two", "graphType": chartType, "summaryType": "baseline",
                                 "summary": caption,
-                                "trends": {}, "data": dataJson}
+                                "trends": {}, "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
         # print(summaryArray)

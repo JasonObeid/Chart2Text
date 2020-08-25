@@ -1,0 +1,131 @@
+{
+   "title": "Rice export prices worldwide 2011 - 2018 , by variety",
+   "labels": [
+      "Year",
+      "U.S. Long Grain 2.4",
+      "U.S. California Medium Grain 1.4",
+      "Thai Parboiled 100",
+      "India 25",
+      "Pak Basmati"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 5 lines.",
+      " The line representing Pak Basmati had the highest values across Year with a mean value of 1086.4.",
+      " This peaked at 2013 with a value of 1372.0. ",
+      " The line with the second highest values was U.S. California Medium Grain 1.4 with a mean value of 788.4.",
+      " This line peaked at 2014 with a value of 1007.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "16": [
+            "7",
+            "4"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "4"
+         ],
+         "9": [
+            "5",
+            "4"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "4",
+            "1"
+         ],
+         "10": [
+            "4",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. Long Grain 2.4": "531",
+         "U.S. California Medium Grain 1.4": "888",
+         "Thai Parboiled 100": "365",
+         "India 25": "374",
+         "Pak Basmati": "1023"
+      },
+      {
+         "Year": "2017",
+         "U.S. Long Grain 2.4": "456",
+         "U.S. California Medium Grain 1.4": "673",
+         "Thai Parboiled 100": "421",
+         "India 25": "361",
+         "Pak Basmati": "1131"
+      },
+      {
+         "Year": "2016",
+         "U.S. Long Grain 2.4": "438",
+         "U.S. California Medium Grain 1.4": "651",
+         "Thai Parboiled 100": "410",
+         "India 25": "333",
+         "Pak Basmati": "795"
+      },
+      {
+         "Year": "2015",
+         "U.S. Long Grain 2.4": "490",
+         "U.S. California Medium Grain 1.4": "857",
+         "Thai Parboiled 100": "392",
+         "India 25": "337",
+         "Pak Basmati": "849"
+      },
+      {
+         "Year": "2014",
+         "U.S. Long Grain 2.4": "571",
+         "U.S. California Medium Grain 1.4": "1007",
+         "Thai Parboiled 100": "435",
+         "India 25": "377",
+         "Pak Basmati": "1324"
+      },
+      {
+         "Year": "2013",
+         "U.S. Long Grain 2.4": "628",
+         "U.S. California Medium Grain 1.4": "692",
+         "Thai Parboiled 100": "530",
+         "India 25": "402",
+         "Pak Basmati": "1372"
+      },
+      {
+         "Year": "2012",
+         "U.S. Long Grain 2.4": "567",
+         "U.S. California Medium Grain 1.4": "718",
+         "Thai Parboiled 100": "594",
+         "India 25": "391",
+         "Pak Basmati": "1137"
+      },
+      {
+         "Year": "2011",
+         "U.S. Long Grain 2.4": "577",
+         "U.S. California Medium Grain 1.4": "821",
+         "Thai Parboiled 100": "563",
+         "India 25": "409",
+         "Pak Basmati": "1060"
+      }
+   ],
+   "gold": "This statistic shows rice export prices worldwide from 2011 to 2018 , by selected varieties . In 2016 , one metric ton of U.S. California Medium Grain rice had an average export price of 651 U.S. dollars .\n"
+}

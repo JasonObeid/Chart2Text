@@ -1,0 +1,301 @@
+{
+   "title": "Monthly hours of sunlight in UK 2014 to 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Number of hours",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic displays the monthly trend of the value of retail internet sales in the united kingdom ( uk ) from 2013 to 2019 . In 2019 , retail sales increased by 12.4 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Month": "Dec '19",
+         "Number of hours": 46.2
+      },
+      {
+         "Month": "Nov '19",
+         "Number of hours": 48.1
+      },
+      {
+         "Month": "Oct '19",
+         "Number of hours": 87.9
+      },
+      {
+         "Month": "Sep '19",
+         "Number of hours": 144.0
+      },
+      {
+         "Month": "Aug '19",
+         "Number of hours": 173.6
+      },
+      {
+         "Month": "Jul '19",
+         "Number of hours": 173.2
+      },
+      {
+         "Month": "Jun '19",
+         "Number of hours": 160.8
+      },
+      {
+         "Month": "May '19",
+         "Number of hours": 188.5
+      },
+      {
+         "Month": "Apr '19",
+         "Number of hours": 168.9
+      },
+      {
+         "Month": "Mar '19",
+         "Number of hours": 115.6
+      },
+      {
+         "Month": "Feb '19",
+         "Number of hours": 100.6
+      },
+      {
+         "Month": "Jan '19",
+         "Number of hours": 47.9
+      },
+      {
+         "Month": "Dec '18",
+         "Number of hours": 37.6
+      },
+      {
+         "Month": "Nov '18",
+         "Number of hours": 63.0
+      },
+      {
+         "Month": "Oct '18",
+         "Number of hours": 113.2
+      },
+      {
+         "Month": "Sep '18",
+         "Number of hours": 134.1
+      },
+      {
+         "Month": "Aug '18",
+         "Number of hours": 147.4
+      },
+      {
+         "Month": "Jul '18",
+         "Number of hours": 237.6
+      },
+      {
+         "Month": "Jun '18",
+         "Number of hours": 239.9
+      },
+      {
+         "Month": "May '18",
+         "Number of hours": 246.0
+      },
+      {
+         "Month": "Apr '18",
+         "Number of hours": 132.6
+      },
+      {
+         "Month": "Mar '18",
+         "Number of hours": 85.0
+      },
+      {
+         "Month": "Feb '18",
+         "Number of hours": 95.6
+      },
+      {
+         "Month": "Jan '18",
+         "Number of hours": 48.7
+      },
+      {
+         "Month": "Dec '17",
+         "Number of hours": 45.3
+      },
+      {
+         "Month": "Nov '17",
+         "Number of hours": 71.1
+      },
+      {
+         "Month": "Oct '17",
+         "Number of hours": 72.7
+      },
+      {
+         "Month": "Sep '17",
+         "Number of hours": 109.0
+      },
+      {
+         "Month": "Aug '17",
+         "Number of hours": 155.5
+      },
+      {
+         "Month": "Jul '17",
+         "Number of hours": 168.7
+      },
+      {
+         "Month": "Jun '17",
+         "Number of hours": 155.7
+      },
+      {
+         "Month": "May '17",
+         "Number of hours": 208.3
+      },
+      {
+         "Month": "Apr '17",
+         "Number of hours": 158.0
+      },
+      {
+         "Month": "Mar '17",
+         "Number of hours": 119.7
+      },
+      {
+         "Month": "Feb '17",
+         "Number of hours": 55.0
+      },
+      {
+         "Month": "Jan '17",
+         "Number of hours": 55.1
+      },
+      {
+         "Month": "Dec '16",
+         "Number of hours": 40.7
+      },
+      {
+         "Month": "Nov '16",
+         "Number of hours": 74.7
+      },
+      {
+         "Month": "Oct '16",
+         "Number of hours": 105.3
+      },
+      {
+         "Month": "Sep '16",
+         "Number of hours": 119.9
+      },
+      {
+         "Month": "Aug '16",
+         "Number of hours": 181.7
+      },
+      {
+         "Month": "Jul '16",
+         "Number of hours": 156.4
+      },
+      {
+         "Month": "Jun '16",
+         "Number of hours": 136.5
+      },
+      {
+         "Month": "May '16",
+         "Number of hours": 209.6
+      },
+      {
+         "Month": "Apr '16",
+         "Number of hours": 160.8
+      },
+      {
+         "Month": "Mar '16",
+         "Number of hours": 117.3
+      },
+      {
+         "Month": "Feb '16",
+         "Number of hours": 84.9
+      },
+      {
+         "Month": "Jan '16",
+         "Number of hours": 37.1
+      },
+      {
+         "Month": "Dec '15",
+         "Number of hours": 29.2
+      },
+      {
+         "Month": "Nov '15",
+         "Number of hours": 35.6
+      },
+      {
+         "Month": "Oct '15",
+         "Number of hours": 91.2
+      },
+      {
+         "Month": "Sep '15",
+         "Number of hours": 157.8
+      },
+      {
+         "Month": "Aug '15",
+         "Number of hours": 148.8
+      },
+      {
+         "Month": "Jul '15",
+         "Number of hours": 160.6
+      },
+      {
+         "Month": "Jun '15",
+         "Number of hours": 189.7
+      },
+      {
+         "Month": "May '15",
+         "Number of hours": 174.4
+      },
+      {
+         "Month": "Apr '15",
+         "Number of hours": 212.9
+      },
+      {
+         "Month": "Mar '15",
+         "Number of hours": 121.9
+      },
+      {
+         "Month": "Feb '15",
+         "Number of hours": 76.0
+      },
+      {
+         "Month": "Jan '15",
+         "Number of hours": 58.5
+      },
+      {
+         "Month": "Dec '14",
+         "Number of hours": 57.1
+      },
+      {
+         "Month": "Nov '14",
+         "Number of hours": 51.9
+      },
+      {
+         "Month": "Oct '14",
+         "Number of hours": 82.8
+      },
+      {
+         "Month": "Sep '14",
+         "Number of hours": 123.3
+      },
+      {
+         "Month": "Aug '14",
+         "Number of hours": 171.0
+      },
+      {
+         "Month": "Jul '14",
+         "Number of hours": 223.0
+      },
+      {
+         "Month": "Jun '14",
+         "Number of hours": 178.4
+      },
+      {
+         "Month": "May '14",
+         "Number of hours": 149.6
+      },
+      {
+         "Month": "Apr '14",
+         "Number of hours": 144.9
+      },
+      {
+         "Month": "Mar '14",
+         "Number of hours": 126.7
+      },
+      {
+         "Month": "Feb '14",
+         "Number of hours": 75.0
+      },
+      {
+         "Month": "Jan '14",
+         "Number of hours": 42.8
+      }
+   ],
+   "gold": "In the period of consideration , the total monthly hours of sunlight in the UK followed a similar pattern each year . The most notable change occurred in 2018 , when the hours of sunlight shot up in May , June and July to 246 , 240 and 238 hours respectively . Unsurprisingly it was the end of each year when sunlight hours were lowest .\n"
+}

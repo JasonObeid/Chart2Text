@@ -1,0 +1,169 @@
+{
+   "title": "U.S. construction : annual spending in public and private sectors 1998 to 2018",
+   "labels": [
+      "Year",
+      "Public sector",
+      "Private sector"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Private sector had the highest values across Year with a mean value of 717.9.",
+      " This peaked at '18 with a value of 992.0. ",
+      " The line with the second highest values was Public sector with a mean value of 254.3.",
+      " This line peaked at '09 with a value of 315.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "20",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "20",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "9",
+            "0"
+         ],
+         "10": [
+            "9",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "'18",
+         "Public sector": "302",
+         "Private sector": "992"
+      },
+      {
+         "Year": "'17",
+         "Public sector": "283",
+         "Private sector": "963"
+      },
+      {
+         "Year": "'16",
+         "Public sector": "292",
+         "Private sector": "899"
+      },
+      {
+         "Year": "'15",
+         "Public sector": "290",
+         "Private sector": "823"
+      },
+      {
+         "Year": "'14",
+         "Public sector": "276",
+         "Private sector": "730"
+      },
+      {
+         "Year": "'13",
+         "Public sector": "271",
+         "Private sector": "636"
+      },
+      {
+         "Year": "'12",
+         "Public sector": "279",
+         "Private sector": "571"
+      },
+      {
+         "Year": "'11",
+         "Public sector": "286",
+         "Private sector": "502"
+      },
+      {
+         "Year": "'10",
+         "Public sector": "304",
+         "Private sector": "505"
+      },
+      {
+         "Year": "'09",
+         "Public sector": "315",
+         "Private sector": "592"
+      },
+      {
+         "Year": "'08",
+         "Public sector": "309",
+         "Private sector": "769"
+      },
+      {
+         "Year": "'07",
+         "Public sector": "289",
+         "Private sector": "863"
+      },
+      {
+         "Year": "'06",
+         "Public sector": "255",
+         "Private sector": "912"
+      },
+      {
+         "Year": "'05",
+         "Public sector": "234",
+         "Private sector": "870"
+      },
+      {
+         "Year": "'04",
+         "Public sector": "220",
+         "Private sector": "771"
+      },
+      {
+         "Year": "'03",
+         "Public sector": "216",
+         "Private sector": "675"
+      },
+      {
+         "Year": "'02",
+         "Public sector": "213",
+         "Private sector": "634"
+      },
+      {
+         "Year": "'01",
+         "Public sector": "202",
+         "Private sector": "638"
+      },
+      {
+         "Year": "'00",
+         "Public sector": "181",
+         "Private sector": "621"
+      },
+      {
+         "Year": "'99",
+         "Public sector": "169",
+         "Private sector": "575"
+      },
+      {
+         "Year": "'98",
+         "Public sector": "155",
+         "Private sector": "534"
+      }
+   ],
+   "gold": "The statistic reflects the total value of both public and private sector construction spending in the United States between 1993 and 2018 . In 2018 , private sector construction spending is expected to total around 992 billion US dollars .\n"
+}

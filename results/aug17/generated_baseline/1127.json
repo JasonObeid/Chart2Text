@@ -1,0 +1,84 @@
+{
+   "title": "U.S. advanced flat glass prices in 1999 and 2019 by glass type",
+   "labels": [
+      "Glass Type",
+      "1999",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 8 categories for the x axis of Glass Type representing 1999, and 2019.",
+      " The highest category is found at Smart glass with a mean value of 50.77.",
+      " The second highest category is found at Ballistic glass with a mean value of 44.83.",
+      " This represents a difference of 12.4%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Glass Type": "Smart glass",
+         "1999": "38.05",
+         "2019": "63.5"
+      },
+      {
+         "Glass Type": "Ballistic glass",
+         "1999": "27.65",
+         "2019": "62.0"
+      },
+      {
+         "Glass Type": "Fire-rated glass",
+         "1999": "11.55",
+         "2019": "18.9"
+      },
+      {
+         "Glass Type": "Burglary resistant glass",
+         "1999": "7.7",
+         "2019": "18.6"
+      },
+      {
+         "Glass Type": "Hurricane glass",
+         "1999": "8.85",
+         "2019": "17.1"
+      },
+      {
+         "Glass Type": "Low-emissivity glass",
+         "1999": "5.89",
+         "2019": "13.85"
+      },
+      {
+         "Glass Type": "Reflective glass",
+         "1999": "5.81",
+         "2019": "13.0"
+      },
+      {
+         "Glass Type": "Safety glass",
+         "1999": "4.08",
+         "2019": "6.8"
+      }
+   ],
+   "gold": "This statistic shows theadvanced flat glass prices in the United States in 1999 , and forecast figures for 2019 . In 1999 , safety glass cost 4.08 dollars per square foot .\n"
+}

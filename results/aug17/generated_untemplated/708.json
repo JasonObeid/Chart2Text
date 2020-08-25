@@ -1,0 +1,45 @@
+{
+   "title": "Number of TV ads seen daily per person in the United Kingdom ( UK ) 2008 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Advertisements seen",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The statistic shows a forecast of the number of mobile banking users in the united states from 2008 to 2015 . According to the source , 38 percent of u.s. smartphone users in the united states will be due to more than 6.9 billion u.s. dollars in 2015 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2015",
+         "Advertisements seen": 45.0
+      },
+      {
+         "Year": "2014",
+         "Advertisements seen": 45.0
+      },
+      {
+         "Year": "2013",
+         "Advertisements seen": 47.0
+      },
+      {
+         "Year": "2012",
+         "Advertisements seen": 47.0
+      },
+      {
+         "Year": "2011",
+         "Advertisements seen": 47.0
+      },
+      {
+         "Year": "2010",
+         "Advertisements seen": 46.0
+      },
+      {
+         "Year": "2009",
+         "Advertisements seen": 43.0
+      },
+      {
+         "Year": "2008",
+         "Advertisements seen": 42.0
+      }
+   ],
+   "gold": "This statistic displays a timeline of the number of TV ads seen per individual per day in the United Kingdom from 2008 to 2015 . In 2012 , individuals saw on average 47 television commercials or advertisements per day .\n"
+}

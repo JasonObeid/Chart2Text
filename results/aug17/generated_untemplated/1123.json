@@ -1,0 +1,129 @@
+{
+   "title": "Voter turnout in UK elections 1918 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Voter turnout",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This graph shows the reported number of robbery cases in the united from 1990 to 2019 . In 2019 an estimated 282061 cases occurred nationwide .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Voter turnout": 67.3
+      },
+      {
+         "Year": "2017",
+         "Voter turnout": 68.8
+      },
+      {
+         "Year": "Brexit Referendum 2016",
+         "Voter turnout": 72.2
+      },
+      {
+         "Year": "2015",
+         "Voter turnout": 66.2
+      },
+      {
+         "Year": "2010",
+         "Voter turnout": 65.1
+      },
+      {
+         "Year": "2005",
+         "Voter turnout": 61.4
+      },
+      {
+         "Year": "2001",
+         "Voter turnout": 59.4
+      },
+      {
+         "Year": "1997",
+         "Voter turnout": 71.4
+      },
+      {
+         "Year": "1992",
+         "Voter turnout": 77.7
+      },
+      {
+         "Year": "1987",
+         "Voter turnout": 75.3
+      },
+      {
+         "Year": "1983",
+         "Voter turnout": 72.7
+      },
+      {
+         "Year": "1979",
+         "Voter turnout": 76.0
+      },
+      {
+         "Year": "Oct 1974",
+         "Voter turnout": 72.8
+      },
+      {
+         "Year": "Feb 1974",
+         "Voter turnout": 78.8
+      },
+      {
+         "Year": "1970",
+         "Voter turnout": 72.0
+      },
+      {
+         "Year": "1966",
+         "Voter turnout": 75.8
+      },
+      {
+         "Year": "1964",
+         "Voter turnout": 77.1
+      },
+      {
+         "Year": "1959",
+         "Voter turnout": 78.7
+      },
+      {
+         "Year": "1955",
+         "Voter turnout": 76.8
+      },
+      {
+         "Year": "1951",
+         "Voter turnout": 82.6
+      },
+      {
+         "Year": "1950",
+         "Voter turnout": 83.9
+      },
+      {
+         "Year": "1945",
+         "Voter turnout": 72.8
+      },
+      {
+         "Year": "1935",
+         "Voter turnout": 71.1
+      },
+      {
+         "Year": "1931",
+         "Voter turnout": 76.4
+      },
+      {
+         "Year": "1929",
+         "Voter turnout": 76.3
+      },
+      {
+         "Year": "1924",
+         "Voter turnout": 77.0
+      },
+      {
+         "Year": "1923",
+         "Voter turnout": 71.1
+      },
+      {
+         "Year": "1922",
+         "Voter turnout": 73.0
+      },
+      {
+         "Year": "1918",
+         "Voter turnout": 57.2
+      }
+   ],
+   "gold": "In the 2019 United Kingdom General Election , voter turnout was 67.3 percent of eligible voters , a 1.5 percent drop compared with the previous general election in 2017 . Between 1922 and 1997 voter turnout never fell below 70 percent , but in 2001 it dropped to just 59.4 percent . Since that low point , voter turnout has gradually recovered and reached 72.2 percent in the Brexit Referendum of 2016 , which is still some way off the peak of 83.9 percent recorded in the 1950 General Election .\n"
+}

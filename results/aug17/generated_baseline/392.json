@@ -1,0 +1,114 @@
+{
+   "title": "Cisco employees by region 2010 to 2019",
+   "labels": [
+      "Year",
+      "United States",
+      "Rest of World"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing United States had the highest values across Year with a mean value of 37327.4.",
+      " This peaked at 2019 with a value of 39000.0. ",
+      " The line with the second highest values was Rest of World with a mean value of 35351.4.",
+      " This line peaked at 2013 with a value of 37774.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "9",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "9",
+            "0"
+         ],
+         "9": [
+            "9",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "9",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "1"
+         ],
+         "10": [
+            "3",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "United States": "38350",
+         "Rest of World": "32350"
+      },
+      {
+         "Year": "2011",
+         "United States": "37300",
+         "Rest of World": "34525"
+      },
+      {
+         "Year": "2012",
+         "United States": "36052",
+         "Rest of World": "30587"
+      },
+      {
+         "Year": "2013",
+         "United States": "37275",
+         "Rest of World": "37774"
+      },
+      {
+         "Year": "2014",
+         "United States": "36725",
+         "Rest of World": "37317"
+      },
+      {
+         "Year": "2015",
+         "United States": "36222",
+         "Rest of World": "35611"
+      },
+      {
+         "Year": "2016",
+         "United States": "37550",
+         "Rest of World": "36150"
+      },
+      {
+         "Year": "2017",
+         "United States": "37000",
+         "Rest of World": "35900"
+      },
+      {
+         "Year": "2018",
+         "United States": "37800",
+         "Rest of World": "36400"
+      },
+      {
+         "Year": "2019",
+         "United States": "39000",
+         "Rest of World": "36900"
+      }
+   ],
+   "gold": "This statistic shows the number of employees at Cisco by geography from fiscal year 2010 to 2019 . Cisco employed 39 thousand people in the United States in FY2019 .\n"
+}

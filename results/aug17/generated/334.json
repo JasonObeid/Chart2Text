@@ -1,0 +1,172 @@
+{
+   "title": "Twitter : number of monthly active users 2010 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Number of monthly active users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "How many people use Twitter ? In the first Quarter of 2019 , the Number of monthly active Twitter users amounted to 330.0 millions , an increase from 321.0 millions in the previous period . ",
+      "In recent times , Twitter 's user growth has been not endeared the company to its investors - the growth compared to the previous Quarter only amounted to three millions and has hovered in the low single digits since 2017 as the company continues to struggle attract and retain users . ",
+      "Twitter audiences With more than 330 millions global monthly active users , Twitter is one of the biggest social networks worldwide ."
+   ],
+   "trends": [
+      {
+         "23": "0",
+         "29": "1"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 '19",
+         "Number of monthly active users in millions": "330.0"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Number of monthly active users in millions": "321.0"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Number of monthly active users in millions": "326.0"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Number of monthly active users in millions": "335.0"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Number of monthly active users in millions": "336.0"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Number of monthly active users in millions": "330.0"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Number of monthly active users in millions": "330.0"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Number of monthly active users in millions": "326.0"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Number of monthly active users in millions": "327.0"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Number of monthly active users in millions": "318.0"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Number of monthly active users in millions": "317.0"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Number of monthly active users in millions": "313.0"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Number of monthly active users in millions": "310.0"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Number of monthly active users in millions": "305.0"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Number of monthly active users in millions": "307.0"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Number of monthly active users in millions": "304.0"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Number of monthly active users in millions": "302.0"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Number of monthly active users in millions": "288.0"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Number of monthly active users in millions": "284.0"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Number of monthly active users in millions": "271.0"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Number of monthly active users in millions": "255.0"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Number of monthly active users in millions": "241.0"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Number of monthly active users in millions": "231.7"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Number of monthly active users in millions": "218.0"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Number of monthly active users in millions": "204.0"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Number of monthly active users in millions": "185.0"
+      },
+      {
+         "Quarter": "Q3 '12",
+         "Number of monthly active users in millions": "167.0"
+      },
+      {
+         "Quarter": "Q2 '12",
+         "Number of monthly active users in millions": "151.0"
+      },
+      {
+         "Quarter": "Q1 '12",
+         "Number of monthly active users in millions": "138.0"
+      },
+      {
+         "Quarter": "Q4 '11",
+         "Number of monthly active users in millions": "117.0"
+      },
+      {
+         "Quarter": "Q3 '11",
+         "Number of monthly active users in millions": "101.0"
+      },
+      {
+         "Quarter": "Q2 '11",
+         "Number of monthly active users in millions": "85.0"
+      },
+      {
+         "Quarter": "Q1 '11",
+         "Number of monthly active users in millions": "68.0"
+      },
+      {
+         "Quarter": "Q4 '10",
+         "Number of monthly active users in millions": "54.0"
+      },
+      {
+         "Quarter": "Q3 '10",
+         "Number of monthly active users in millions": "49.0"
+      },
+      {
+         "Quarter": "Q2 '10",
+         "Number of monthly active users in millions": "40.0"
+      },
+      {
+         "Quarter": "Q1 '10",
+         "Number of monthly active users in millions": "30.0"
+      }
+   ],
+   "gold": "How many people use Twitter ? As of the first quarter of 2019 , Twitter averaged 330 million monthly active users , a decline from its all-time high of 336 MAU in the first quarter of 2018 . As of the first quarter of 2019 , the company switched its user reporting metric to monetizable daily active users ( mDAU ) . Twitter Twitter is a social networking and microblogging service , enabling registered users to read and post short messages called tweets .\n"
+}

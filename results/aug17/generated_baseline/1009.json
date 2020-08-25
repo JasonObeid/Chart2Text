@@ -1,0 +1,48 @@
+{
+   "title": "Internet service provider market share in Australia fourth quarter 2013\n",
+   "xAxis": "Telecommunications Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Telecommunications Company, and a y axis representing Market share.",
+      " The highest category is found at Telstra where Market share is 46.3.",
+      " The lowest category is found at Australia_Other where Market share is 11.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Telecommunications Company": "Telstra",
+         "Market share": 46.3
+      },
+      {
+         "Telecommunications Company": "Optus",
+         "Market share": 15.9
+      },
+      {
+         "Telecommunications Company": "iiNet",
+         "Market share": 15.1
+      },
+      {
+         "Telecommunications Company": "TPG",
+         "Market share": 11.6
+      },
+      {
+         "Telecommunications Company": "Australia Other",
+         "Market share": 11.0
+      }
+   ],
+   "gold": "The statistic depicts a breakdown of the internet service provider ( ISP ) market in Australia in the fourth quarter of 2013 . The internet service provider Telstra held a market share of 46.3 percent . The total number of internet service subscribers in Australia was at around 6.15 million in the fourth quarter of 2013 .\n"
+}

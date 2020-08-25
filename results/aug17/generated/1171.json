@@ -1,0 +1,77 @@
+{
+   "title": "Top 10 causes of infant mortality in Canada in 2018",
+   "xAxis": "Cause",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , 412 people were killed Canada in . ",
+      "The most common Canada of 2018 was Congenital_malformations_deformations_and_chromosomal_abnormalities , a cancerous tumor . ",
+      "In 2017 , 10 deaths in the country were the Neonatal_haemorrhages Congenital_malformations_deformations_and_chromosomal_abnormalities ."
+   ],
+   "trends": [
+      {
+         "3": "0"
+      },
+      {
+         "7": "0"
+      },
+      {
+         "3": "11",
+         "10": "6",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Cause": "Congenital malformations deformations and chromosomal abnormalities",
+         "Number of deaths": "412"
+      },
+      {
+         "Cause": "Disorders related to short gestation and low birth weight not elsewhere classified",
+         "Number of deaths": "171"
+      },
+      {
+         "Cause": "Newborn affected by maternal complications of pregnancy",
+         "Number of deaths": "167"
+      },
+      {
+         "Cause": "Newborn affected by complications of placenta cord and membranes",
+         "Number of deaths": "93"
+      },
+      {
+         "Cause": "Complications of labor and delivery",
+         "Number of deaths": "65"
+      },
+      {
+         "Cause": "Intrauterine hypoxia and birth asphyxia",
+         "Number of deaths": "51"
+      },
+      {
+         "Cause": "Neonatal haemorrhages",
+         "Number of deaths": "49"
+      },
+      {
+         "Cause": "Bacterial sepsis of newborn",
+         "Number of deaths": "47"
+      },
+      {
+         "Cause": "Respiratory distress of newborn",
+         "Number of deaths": "19"
+      },
+      {
+         "Cause": "Accidents (unintentional injuries)",
+         "Number of deaths": "17"
+      },
+      {
+         "Cause": "Diseases of the circulatory system",
+         "Number of deaths": "17"
+      },
+      {
+         "Cause": "Sudden infant death syndrome",
+         "Number of deaths": "10"
+      }
+   ],
+   "gold": "This statistic shows the leading causes of infant mortality in Canada in 2018 . In 2018 , the leading cause of death of infants less than one year of age , at 412 deaths , was congenital malformations , deformations and chromosomal abnormalities .\n"
+}

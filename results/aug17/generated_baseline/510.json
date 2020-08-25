@@ -1,0 +1,60 @@
+{
+   "title": "Leading industries targeted by DDoS attack traffic 2017\n",
+   "xAxis": "Industry",
+   "yAxis": "Percentage of attack traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Industry, and a y axis representing Percentage of attack traffic.",
+      " The highest category is found at Gaming where Percentage of attack traffic is 79.0.",
+      " The lowest category is found at Media_and_entertainment where Percentage of attack traffic is 1.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Gaming",
+         "Percentage of attack traffic": 79.0
+      },
+      {
+         "Industry": "Internet and telecom",
+         "Percentage of attack traffic": 6.0
+      },
+      {
+         "Industry": "Financial services",
+         "Percentage of attack traffic": 4.0
+      },
+      {
+         "Industry": "Software and technology",
+         "Percentage of attack traffic": 4.0
+      },
+      {
+         "Industry": "Education",
+         "Percentage of attack traffic": 3.0
+      },
+      {
+         "Industry": "Retail and consumer goods",
+         "Percentage of attack traffic": 3.0
+      },
+      {
+         "Industry": "Media and entertainment",
+         "Percentage of attack traffic": 1.0
+      },
+      {
+         "Industry": "Other",
+         "Percentage of attack traffic": 1.0
+      }
+   ],
+   "gold": "The statistic shows the percentage of worldwide denial of service attack traffic in the fourth quarter of 2017 , sorted by industry . During that period of time , 79 percent of DDoS attack traffic were directed towards the gaming industry . Internet and telecom ranked second with six percent of DDoS attack traffic .\n"
+}

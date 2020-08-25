@@ -1,0 +1,106 @@
+{
+   "title": "The largest lakes in the U.S. in 2003 , by area",
+   "xAxis": "Lakes In The Us",
+   "yAxis": "Area in square miles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the square lakes of the leading by area in 2003 . ",
+      "Neutrogena 's Lake_Superior implements saw a 31700 million square increase while Lake_Ontario 's Rocket Lake_Huron experienced a 31700 million increase compared to Lake_Huron ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "0",
+         "6": "0",
+         "11": "4",
+         "13": "4",
+         "15": "1",
+         "23": "1"
+      }
+   ],
+   "data": [
+      {
+         "Lakes In The Us": "Lake Superior",
+         "Area in square miles": "31700"
+      },
+      {
+         "Lakes In The Us": "Lake Huron",
+         "Area in square miles": "23000"
+      },
+      {
+         "Lakes In The Us": "Lake Michigan",
+         "Area in square miles": "22300"
+      },
+      {
+         "Lakes In The Us": "Lake Erie",
+         "Area in square miles": "9910"
+      },
+      {
+         "Lakes In The Us": "Lake Ontario",
+         "Area in square miles": "7340"
+      },
+      {
+         "Lakes In The Us": "Great Salt Lake",
+         "Area in square miles": "2117"
+      },
+      {
+         "Lakes In The Us": "Lake of the Woods",
+         "Area in square miles": "1485"
+      },
+      {
+         "Lakes In The Us": "Iliamna Lake",
+         "Area in square miles": "1014"
+      },
+      {
+         "Lakes In The Us": "Lake Oahe ",
+         "Area in square miles": "685"
+      },
+      {
+         "Lakes In The Us": "Lake Okeechobee",
+         "Area in square miles": "662"
+      },
+      {
+         "Lakes In The Us": "Lake Pontchartrain",
+         "Area in square miles": "631"
+      },
+      {
+         "Lakes In The Us": "Lake Sakakawea ",
+         "Area in square miles": "520"
+      },
+      {
+         "Lakes In The Us": "Lake Champlain",
+         "Area in square miles": "490"
+      },
+      {
+         "Lakes In The Us": "Becharof Lake",
+         "Area in square miles": "453"
+      },
+      {
+         "Lakes In The Us": "Lake St. Clair",
+         "Area in square miles": "430"
+      },
+      {
+         "Lakes In The Us": "Red Lake",
+         "Area in square miles": "427"
+      },
+      {
+         "Lakes In The Us": "Selawik Lake",
+         "Area in square miles": "404"
+      },
+      {
+         "Lakes In The Us": "Fort Peck Lake ",
+         "Area in square miles": "393"
+      },
+      {
+         "Lakes In The Us": "Salton Sea",
+         "Area in square miles": "347"
+      },
+      {
+         "Lakes In The Us": "Rainy Lake",
+         "Area in square miles": "345"
+      }
+   ],
+   "gold": "This statistic shows the largest lakes in the U.S. as of 2003 , by area . Lake Superior covers an area of 31,700 square miles and is therefore the largest lake in the U.S .\n"
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Number of births in Norway 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The sales volume of chocolate bars manufactured in the uk was approximately 40 thousand tons in 2018 , an increase of over eight thousand tons from 2017 . This constitutes a recovery of the production volume , which collapsed between 2008 and 2011 and fell by just under eighty percent , before it stagnated in the early 2010s . A stagnating market ? The corresponding developments in sales values give the same picture as above .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of live births": 55120.0
+      },
+      {
+         "Year": "2017",
+         "Number of live births": 56633.0
+      },
+      {
+         "Year": "2016",
+         "Number of live births": 58890.0
+      },
+      {
+         "Year": "2015",
+         "Number of live births": 59058.0
+      },
+      {
+         "Year": "2014",
+         "Number of live births": 59084.0
+      },
+      {
+         "Year": "2013",
+         "Number of live births": 58995.0
+      },
+      {
+         "Year": "2012",
+         "Number of live births": 60255.0
+      },
+      {
+         "Year": "2011",
+         "Number of live births": 60220.0
+      },
+      {
+         "Year": "2010",
+         "Number of live births": 61442.0
+      },
+      {
+         "Year": "2009",
+         "Number of live births": 61807.0
+      },
+      {
+         "Year": "2008",
+         "Number of live births": 60497.0
+      }
+   ],
+   "gold": "This statistic shows the number of live births in Norway from 2008 to 2018 . The number of births has declined during the period , from the peak of roughly 61.8 thousand in 2009 to around 55.1 thousand in 2018 .\n"
+}

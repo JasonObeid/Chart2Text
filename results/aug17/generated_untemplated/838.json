@@ -1,0 +1,57 @@
+{
+   "title": "Gini index of Taiwan 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Gini's concentration coefficient",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the total assets of the china construction bank from 2008 to 2018 . The Chinese construction bank is one of the four major banks in china . This statistic depicts the total assets as reported on 31 of each year .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Gini's concentration coefficient": 33.8
+      },
+      {
+         "Year": "2017",
+         "Gini's concentration coefficient": 33.7
+      },
+      {
+         "Year": "2016",
+         "Gini's concentration coefficient": 33.6
+      },
+      {
+         "Year": "2015",
+         "Gini's concentration coefficient": 33.8
+      },
+      {
+         "Year": "2014",
+         "Gini's concentration coefficient": 33.6
+      },
+      {
+         "Year": "2013",
+         "Gini's concentration coefficient": 33.6
+      },
+      {
+         "Year": "2012",
+         "Gini's concentration coefficient": 33.8
+      },
+      {
+         "Year": "2011",
+         "Gini's concentration coefficient": 34.2
+      },
+      {
+         "Year": "2010",
+         "Gini's concentration coefficient": 34.2
+      },
+      {
+         "Year": "2009",
+         "Gini's concentration coefficient": 34.5
+      },
+      {
+         "Year": "2008",
+         "Gini's concentration coefficient": 34.1
+      }
+   ],
+   "gold": "This statistic shows the Gini 's concentration coefficient in Taiwan from 2008 to 2018 . In 2018 , the Gini index in Taiwan was 33.8 points , around 0.7 percentage points lower than in 2009 . In the countries having relative equality in their distributions of income , the value of the Gini coefficient usually ranges between the scores of 20 and 35 .\n"
+}

@@ -1,0 +1,47 @@
+{
+   "title": "Frequency of internet use in Spain 2017",
+   "xAxis": "Duration",
+   "yAxis": "Share of individuals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Once_a_week_(including_every_day) Duration internet is currently the most represented in Spain with 80 use , followed by Daily with 69 and At_least_once_a_week_(but_not_every_day) with 11 . ",
+      "Less_than_once_a_week brought up the rear with 5 individuals . ",
+      "Drugstores were the most common shopping locations for consumers buying cosmetics and body care products ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "12": "0",
+         "17": "1",
+         "19": "1",
+         "21": "2",
+         "23": "2"
+      },
+      {
+         "0": "3",
+         "6": "3"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Duration": "Once a week (including every day)",
+         "Share of individuals": "80"
+      },
+      {
+         "Duration": "Daily",
+         "Share of individuals": "69"
+      },
+      {
+         "Duration": "At least once a week (but not every day)",
+         "Share of individuals": "11"
+      },
+      {
+         "Duration": "Less than once a week",
+         "Share of individuals": "5"
+      }
+   ],
+   "gold": "This statistic shows the percentage of individuals using the internet by frequency in Spain in 2017 . In 2017 , 69 percent of individuals in Spain accessed the internet daily or more frequently .\n"
+}

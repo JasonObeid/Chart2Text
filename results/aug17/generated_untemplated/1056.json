@@ -1,0 +1,77 @@
+{
+   "title": "Volvo Group - global number of employees 2003 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "In 2018 , bnp paribas employed 196,000 people . This number was below 90,000 in 2003 but rose , peaking at 205,000 in 2010 . bnp paribas is headquartered in France , Paris but has operations around the globe .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": 105175.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees": 99488.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 94914.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 99501.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 92828.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 95533.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees": 98717.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 98162.0
+      },
+      {
+         "Year": "2010",
+         "Number of employees": 90409.0
+      },
+      {
+         "Year": "2009",
+         "Number of employees": 90208.0
+      },
+      {
+         "Year": "2008",
+         "Number of employees": 101380.0
+      },
+      {
+         "Year": "2007",
+         "Number of employees": 101700.0
+      },
+      {
+         "Year": "2006",
+         "Number of employees": 83190.0
+      },
+      {
+         "Year": "2005",
+         "Number of employees": 81860.0
+      },
+      {
+         "Year": "2004",
+         "Number of employees": 81080.0
+      },
+      {
+         "Year": "2003",
+         "Number of employees": 75740.0
+      }
+   ],
+   "gold": "This statistic represents the global number of Volvo Group employees from 2002 to 2018 . In 2018 , the Volvo Group had around 105,175 employees worldwide . This figure is considerably lower than that of other vehicle manufacturers : General Motors employed around 180,000 people in 2017 .\n"
+}

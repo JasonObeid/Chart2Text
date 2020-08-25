@@ -1,0 +1,84 @@
+{
+   "title": "Market share of selected TV stations in Germany 2019",
+   "labels": [
+      "TV Channel",
+      "Total audience (3 years and older)",
+      "14-49 years"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 8 categories for the x axis of TV Channel representing Total audience (3 years and older), and 14-49 years.",
+      " The highest category is found at RTL with a mean value of 10.2.",
+      " The second highest category is found at ZDF with a mean value of 9.15.",
+      " This represents a difference of 10.9%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "2",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "TV Channel": "ZDF",
+         "Total audience (3 years and older)": "12.7",
+         "14-49 years": "5.6"
+      },
+      {
+         "TV Channel": "ARD",
+         "Total audience (3 years and older)": "11.2",
+         "14-49 years": "6.5"
+      },
+      {
+         "TV Channel": "RTL",
+         "Total audience (3 years and older)": "8.5",
+         "14-49 years": "11.9"
+      },
+      {
+         "TV Channel": "Sat.1",
+         "Total audience (3 years and older)": "6.1",
+         "14-49 years": "8"
+      },
+      {
+         "TV Channel": "Vox",
+         "Total audience (3 years and older)": "4.9",
+         "14-49 years": "6.9"
+      },
+      {
+         "TV Channel": "ProSieben",
+         "Total audience (3 years and older)": "4.2",
+         "14-49 years": "9.2"
+      },
+      {
+         "TV Channel": "kabel eins",
+         "Total audience (3 years and older)": "3.6",
+         "14-49 years": "5"
+      },
+      {
+         "TV Channel": "RTL II",
+         "Total audience (3 years and older)": "2.9",
+         "14-49 years": "5.2"
+      }
+   ],
+   "gold": "This statistic shows data on the audience market share of selected television channels in Germany in 2019 . Among viewers aged three years and older , the market share of TV station ZDF amounted to almost 12.7 percent . In comparison , among the age group of people between 14 to 49 years , the channel had a market share of only 5.6 percent .\n"
+}

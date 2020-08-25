@@ -1,0 +1,47 @@
+{
+   "title": "United States - lasting of love in a relationship in 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly positive which exists from 2_to_5_years to A_lifetime.",
+      " In a similar manner, the next significant trend is extremely negative which exists from Less_than_two_years to 2_to_5_years."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "4"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "Less than two years",
+         "Share of respondents": 2.0
+      },
+      {
+         "Year": "2 to 5 years",
+         "Share of respondents": 6.0
+      },
+      {
+         "Year": "6 to 10 years",
+         "Share of respondents": 3.0
+      },
+      {
+         "Year": "11 to 20 years",
+         "Share of respondents": 2.0
+      },
+      {
+         "Year": "A lifetime",
+         "Share of respondents": 77.0
+      }
+   ],
+   "gold": "This statistic shows the results of a survey conducted in the United States in 2019 on how long the respondents thought the feeling of love could last in a relationship . According to 77 percent of respondents , the feeling of love in a relationship can last a lifetime .\n"
+}

@@ -1,0 +1,80 @@
+{
+   "title": "Personal goals of health/fitness club members 2014\n",
+   "xAxis": "Reasons to Reasons for joining",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 13 categories for the x axis representing Reasons to Reasons for joining, and a y axis representing Percentage of respondents.",
+      " The highest category is found at To_stay_healthy where Percentage of respondents is 64.0.",
+      " The lowest category is found at To_gain_weight where Percentage of respondents is 3.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Reasons to Reasons for joining": "To stay healthy",
+         "Percentage of respondents": 64.0
+      },
+      {
+         "Reasons to Reasons for joining": "To feel better about myself",
+         "Percentage of respondents": 52.0
+      },
+      {
+         "Reasons to Reasons for joining": "To stay in shape",
+         "Percentage of respondents": 46.0
+      },
+      {
+         "Reasons to Reasons for joining": "To look better",
+         "Percentage of respondents": 45.0
+      },
+      {
+         "Reasons to Reasons for joining": "To lose weight",
+         "Percentage of respondents": 45.0
+      },
+      {
+         "Reasons to Reasons for joining": "To get in shape",
+         "Percentage of respondents": 44.0
+      },
+      {
+         "Reasons to Reasons for joining": "To maintain strength",
+         "Percentage of respondents": 43.0
+      },
+      {
+         "Reasons to Reasons for joining": "To stay flexible",
+         "Percentage of respondents": 40.0
+      },
+      {
+         "Reasons to Reasons for joining": "To build muscle",
+         "Percentage of respondents": 39.0
+      },
+      {
+         "Reasons to Reasons for joining": "To maintain weight",
+         "Percentage of respondents": 27.0
+      },
+      {
+         "Reasons to Reasons for joining": "For a specific health concern",
+         "Percentage of respondents": 15.0
+      },
+      {
+         "Reasons to Reasons for joining": "To impress others",
+         "Percentage of respondents": 5.0
+      },
+      {
+         "Reasons to Reasons for joining": "To gain weight",
+         "Percentage of respondents": 3.0
+      }
+   ],
+   "gold": "The statistic shows the results of a survey concerned with the reasons why people are members in health clubs in the U.S. 45 percent of the respondents said that one of the reasons for their health club membership was that they want to lose weight .\n"
+}

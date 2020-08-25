@@ -1,0 +1,69 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Germany 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic depicts Germany 's real Gross domestic product ( GDP ) growth rate from 2014 to 2018 , with projections up until 2024 . ",
+      "GDP refers to the total market value of all goods and services that are produced within a country per Year . ",
+      "It is an important indicator of the economic strength of a country ."
+   ],
+   "trends": [
+      {
+         "15": "10",
+         "17": "6",
+         "23": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": "1.17"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "1.24"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "1.34"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "1.44"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "1.25"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "0.54"
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": "1.52"
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": "2.47"
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": "2.23"
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": "1.74"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "2.22"
+      }
+   ],
+   "gold": "In 2018 , Germany 's real gross domestic product grew by around 1.52 percent compared to the previous year . By 2024 , the German GDP is expected to increase by 1.17 percent compared to the previous year . Keeping it real Real gross domestic product is , by definition , a measure of the value of economic output adjusted for inflation .\n"
+}

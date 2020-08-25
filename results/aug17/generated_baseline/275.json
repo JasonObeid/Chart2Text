@@ -1,0 +1,48 @@
+{
+   "title": "PUBG unit sales worldwide 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Month, and a y axis representing Unit sales in millions.",
+      " The highest category is found at June_2018 where Unit sales in millions is 50.0.",
+      " The lowest category is found at May_2017 where Unit sales in millions is 2.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "June 2018",
+         "Unit sales in millions": 50.0
+      },
+      {
+         "Month": "September 2017",
+         "Unit sales in millions": 10.0
+      },
+      {
+         "Month": "August 2017",
+         "Unit sales in millions": 8.0
+      },
+      {
+         "Month": "June 2017",
+         "Unit sales in millions": 4.0
+      },
+      {
+         "Month": "May 2017",
+         "Unit sales in millions": 2.0
+      }
+   ],
+   "gold": "Since it was first released by developer Bluehole in March 2017 , PlayerUnknown 's Battlegrounds ( PUBG ) has developed a loyal legion of fans . While the battle royale game only sold two million copies within the first few months of its Early Access release on Steam , this number had jumped to 50 million units just a year later in June 2018 . One of the biggest games on Steam PUBG is an online multiplayer game which pits up to 100 players against each other at one time .\n"
+}

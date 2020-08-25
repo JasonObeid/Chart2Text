@@ -1,0 +1,66 @@
+{
+   "title": "Distribution of consumer transactions worldwide 2018 , by payment channel",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic reveals the IT Distribution most commonly consumer by IT leaders transactions , as of 2018 . ",
+      "In 2018 , In-store development was consumer by 41 % of respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "In-store",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Other online",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Buy buttons",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Other mobile transfers",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "P2P transfer",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Mobile messenger apps",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "QR codes",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Other in-app payments",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Smart home device",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Wearables / contactless",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "This statistic presents the most popular payment methods for everyday transactions according to internet users worldwide as of June 2018 . When asked to think about they payment methods for their ten most recent transactions , it was found that seven percent were made via P2P transfer . In-store still accounted for the single largest share of everyday transactions with 41 percent .\n"
+}

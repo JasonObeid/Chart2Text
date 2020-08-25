@@ -1,0 +1,131 @@
+{
+   "title": "Age structure in Ethiopia 2018",
+   "labels": [
+      "Year",
+      "0-14 years",
+      "15-64 years",
+      "65 years and older"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing 15-64 years had the highest values across Year with a mean value of 53.3.",
+      " This peaked at 2018 with a value of 55.7. ",
+      " The line with the second highest values was 0-14 years with a mean value of 43.3.",
+      " This line peaked at 2008 with a value of 45.7"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "0"
+         ],
+         "10": [
+            "10",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "0-14 years": "40.78",
+         "15-64 years": "55.72",
+         "65 years and older": "3.5"
+      },
+      {
+         "Year": "2017",
+         "0-14 years": "41.25",
+         "15-64 years": "55.26",
+         "65 years and older": "3.49"
+      },
+      {
+         "Year": "2016",
+         "0-14 years": "41.72",
+         "15-64 years": "54.81",
+         "65 years and older": "3.47"
+      },
+      {
+         "Year": "2015",
+         "0-14 years": "42.18",
+         "15-64 years": "54.37",
+         "65 years and older": "3.45"
+      },
+      {
+         "Year": "2014",
+         "0-14 years": "42.74",
+         "15-64 years": "53.83",
+         "65 years and older": "3.43"
+      },
+      {
+         "Year": "2013",
+         "0-14 years": "43.3",
+         "15-64 years": "53.3",
+         "65 years and older": "3.4"
+      },
+      {
+         "Year": "2012",
+         "0-14 years": "43.86",
+         "15-64 years": "52.77",
+         "65 years and older": "3.37"
+      },
+      {
+         "Year": "2011",
+         "0-14 years": "44.41",
+         "15-64 years": "52.26",
+         "65 years and older": "3.34"
+      },
+      {
+         "Year": "2010",
+         "0-14 years": "44.93",
+         "15-64 years": "51.77",
+         "65 years and older": "3.3"
+      },
+      {
+         "Year": "2009",
+         "0-14 years": "45.37",
+         "15-64 years": "51.37",
+         "65 years and older": "3.26"
+      },
+      {
+         "Year": "2008",
+         "0-14 years": "45.75",
+         "15-64 years": "51.02",
+         "65 years and older": "3.22"
+      }
+   ],
+   "gold": "This statistic shows the age structure in Ethiopia from 2008 to 2018 . In 2018 , about 40.78 percent of Ethiopia 's total population were aged 0 to 14 years .\n"
+}

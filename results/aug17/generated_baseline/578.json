@@ -1,0 +1,90 @@
+{
+   "title": "Maple syrup production in Canada 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Production in million gallons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in million gallons, with a total of 12 data points. The chart has 5 significant trends.",
+      " The longest trend is moderately negative which exists from 2011 to 2008.",
+      " Contrarily, the next significant trend is moderately negative which exists from 2019 to 2017.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2017 to 2015.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2015 to 2013.",
+      " Conversely, the next significant trend is moderately negative which exists from 2013 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "8",
+         "12": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in million gallons": 13.2
+      },
+      {
+         "Year": "2018",
+         "Production in million gallons": 9.8
+      },
+      {
+         "Year": "2017",
+         "Production in million gallons": 12.51
+      },
+      {
+         "Year": "2016",
+         "Production in million gallons": 12.16
+      },
+      {
+         "Year": "2015",
+         "Production in million gallons": 8.91
+      },
+      {
+         "Year": "2014",
+         "Production in million gallons": 9.49
+      },
+      {
+         "Year": "2013",
+         "Production in million gallons": 10.05
+      },
+      {
+         "Year": "2012",
+         "Production in million gallons": 7.86
+      },
+      {
+         "Year": "2011",
+         "Production in million gallons": 8.55
+      },
+      {
+         "Year": "2010",
+         "Production in million gallons": 7.27
+      },
+      {
+         "Year": "2009",
+         "Production in million gallons": 9.08
+      },
+      {
+         "Year": "2008",
+         "Production in million gallons": 5.13
+      }
+   ],
+   "gold": "This statistic shows the maple syrup production in Canada from 2008 to 2019 . Approximately 13.2 million gallons of maple syrup was produced in Canada in 2019 , up from 9.8 million gallons the previous year . Maple syrup in Canada - additional information Maple syrup is most commonly associated with Canada , the product 's largest producer .\n"
+}

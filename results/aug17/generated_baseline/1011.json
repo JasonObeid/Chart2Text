@@ -1,0 +1,154 @@
+{
+   "title": "U.S. and European natural gas price 1980 to 2030",
+   "labels": [
+      "Year",
+      "Europe",
+      "U.S."
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Europe had the highest values across Year with a mean value of 6.4.",
+      " This peaked at 2013 with a value of 11.1. ",
+      " The line with the second highest values was U.S. with a mean value of 3.1.",
+      " This line peaked at 2000 with a value of 4.8"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "17",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "11",
+            "0"
+         ],
+         "9": [
+            "11",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "17",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "15",
+            "1"
+         ],
+         "10": [
+            "15",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2030",
+         "Europe": "7.0",
+         "U.S.": "4.0"
+      },
+      {
+         "Year": "2025",
+         "Europe": "5.6",
+         "U.S.": "3.3"
+      },
+      {
+         "Year": "2022",
+         "Europe": "4.9",
+         "U.S.": "2.9"
+      },
+      {
+         "Year": "2021",
+         "Europe": "4.7",
+         "U.S.": "2.8"
+      },
+      {
+         "Year": "2020",
+         "Europe": "4.5",
+         "U.S.": "2.7"
+      },
+      {
+         "Year": "2019",
+         "Europe": "4.5",
+         "U.S.": "2.5"
+      },
+      {
+         "Year": "2018",
+         "Europe": "7.7",
+         "U.S.": "3.2"
+      },
+      {
+         "Year": "2017",
+         "Europe": "5.7",
+         "U.S.": "3.0"
+      },
+      {
+         "Year": "2016",
+         "Europe": "4.6",
+         "U.S.": "2.5"
+      },
+      {
+         "Year": "2015",
+         "Europe": "7.3",
+         "U.S.": "2.6"
+      },
+      {
+         "Year": "2014",
+         "Europe": "10.05",
+         "U.S.": "4.37"
+      },
+      {
+         "Year": "2013",
+         "Europe": "11.1",
+         "U.S.": "3.5"
+      },
+      {
+         "Year": "2012",
+         "Europe": "9.6",
+         "U.S.": "2.3"
+      },
+      {
+         "Year": "2011",
+         "Europe": "8.6",
+         "U.S.": "3.3"
+      },
+      {
+         "Year": "2010",
+         "Europe": "7.3",
+         "U.S.": "3.9"
+      },
+      {
+         "Year": "2000",
+         "Europe": "4.3",
+         "U.S.": "4.8"
+      },
+      {
+         "Year": "1990",
+         "Europe": "2.9",
+         "U.S.": "1.8"
+      },
+      {
+         "Year": "1980",
+         "Europe": "5.5",
+         "U.S.": "2.1"
+      }
+   ],
+   "gold": "This statistic represents the price of European and US natural gas from 1980 through 2018 , and provides projections up to 2030 . In 2030 , the price of natural gas in Europe is expected to reach about seven constant U.S. dollars per million British thermal units . Natural gas prices For millions of years , a combination of decayed plants and animals has been trapped beneath sand , silt and rock .\n"
+}

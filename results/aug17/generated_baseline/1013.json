@@ -1,0 +1,68 @@
+{
+   "title": "Ranking of the most popular blogs in Norway 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Number of visitors",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Number of visitors.",
+      " The highest category is found at Sophieelise where Number of visitors is 34173.0.",
+      " The lowest category is found at Martinelunde where Number of visitors is 11963.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Sophieelise",
+         "Number of visitors": 34173.0
+      },
+      {
+         "Month": "Annarasmussen",
+         "Number of visitors": 33363.0
+      },
+      {
+         "Month": "Isabelleeriksen",
+         "Number of visitors": 27246.0
+      },
+      {
+         "Month": "Straad",
+         "Number of visitors": 23413.0
+      },
+      {
+         "Month": "Sofienils1",
+         "Number of visitors": 22692.0
+      },
+      {
+         "Month": "Pilotfrue",
+         "Number of visitors": 21834.0
+      },
+      {
+         "Month": "Stina",
+         "Number of visitors": 18455.0
+      },
+      {
+         "Month": "Sofiemk",
+         "Number of visitors": 16394.0
+      },
+      {
+         "Month": "Andreaasveinsdottir",
+         "Number of visitors": 16346.0
+      },
+      {
+         "Month": "Martinelunde",
+         "Number of visitors": 11963.0
+      }
+   ],
+   "gold": "Sophie Elise ranked first among popular blogs in Norway , as of August 2019 . Her channel covered a variety of topics , but the 21-year-old described herself as blogger , influencer , DJ and author on her page . She reached over 34 thousand visitors for the evaluated period .\n"
+}

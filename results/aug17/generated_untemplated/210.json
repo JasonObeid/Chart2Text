@@ -1,0 +1,25 @@
+{
+   "title": "Average spend of eating out for lunch in the U.S. 2015\n",
+   "xAxis": "Days",
+   "yAxis": "Average cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the average prices for apps in the apple app store as of 2019 . During the survey period , it was found that the average price of an iOS gaming app was 51 cents . The average price of apps and games was 0.86 u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Days": "Per day",
+         "Average cost in U.S. dollars": 11.14
+      },
+      {
+         "Days": "Per week",
+         "Average cost in U.S. dollars": 20.05
+      },
+      {
+         "Days": "Per year",
+         "Average cost in U.S. dollars": 1043.0
+      }
+   ],
+   "gold": "The statistic shows the average cost of eating out for lunch in the United States in 2015 . The average cost of eating out for lunch in the U.S. was 11.14 U.S. dollars in 2015 . Eating out for lunch two times per week costs an average of 1,043 U.S. dollars per year .\n"
+}

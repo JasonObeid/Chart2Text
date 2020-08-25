@@ -1,0 +1,69 @@
+{
+   "title": "Venezuela 's budget balance in relation to GDP 2018",
+   "xAxis": "Year",
+   "yAxis": "Budget balance in relation to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows Venezuela 's Budget balance between the 2008 and 2018 fiscal years . ",
+      "Venezuela 's 's Budget balance reached around -30.56 billion GDP ( or about 33 billion U.S. dollars ) in its 2018 fiscal Year ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "7": "0",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Budget balance in relation to GDP": "-30.56"
+      },
+      {
+         "Year": "2017",
+         "Budget balance in relation to GDP": "-16.61"
+      },
+      {
+         "Year": "2016",
+         "Budget balance in relation to GDP": "-10.83"
+      },
+      {
+         "Year": "2015",
+         "Budget balance in relation to GDP": "-10.65"
+      },
+      {
+         "Year": "2014",
+         "Budget balance in relation to GDP": "-15.55"
+      },
+      {
+         "Year": "2013",
+         "Budget balance in relation to GDP": "-11.27"
+      },
+      {
+         "Year": "2012",
+         "Budget balance in relation to GDP": "-10.45"
+      },
+      {
+         "Year": "2011",
+         "Budget balance in relation to GDP": "-8.24"
+      },
+      {
+         "Year": "2010",
+         "Budget balance in relation to GDP": "-4.74"
+      },
+      {
+         "Year": "2009",
+         "Budget balance in relation to GDP": "-8.69"
+      },
+      {
+         "Year": "2008",
+         "Budget balance in relation to GDP": "-3.46"
+      }
+   ],
+   "gold": "The statistic shows Venezuela 's budget balance in relation to GDP between 2008 and 2017 , with projections up until 2018 . A positive value indicates a budget surplus , a negative value indicates a deficit . In 2017 , the budget deficit of Venezuela amounted to around 16.61 percent of GDP .\n"
+}

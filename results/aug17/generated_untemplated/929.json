@@ -1,0 +1,53 @@
+{
+   "title": "Most popular social media sites in Norway 2019 , by platform\n",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the social network membership reach among the online population in the united . During the 2017 survey , 27 percent of u.s. internet users accessed the social image sharing platform pinterest . facebook was ranked first with a 78 percent usage rate .\n",
+   "trends": {},
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of respondents": 83.0
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents": 61.0
+      },
+      {
+         "Platform": "YouTube",
+         "Share of respondents": 60.0
+      },
+      {
+         "Platform": "Instagram",
+         "Share of respondents": 57.0
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of respondents": 21.0
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents": 20.0
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of respondents": 16.0
+      },
+      {
+         "Platform": "Whatsapp",
+         "Share of respondents": 16.0
+      },
+      {
+         "Platform": "Reddit",
+         "Share of respondents": 6.0
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of respondents": 2.0
+      }
+   ],
+   "gold": "Facebook was the social media platform that was most common among Norwegians as of 2019 . A survey , conducted in the third quarter half of 2019 , showed that 83 percent of the respondents used Facebook . Snapchat came second and third in the ranking , with 60 percent of the interviewed Norwegians using it .\n"
+}

@@ -1,0 +1,126 @@
+{
+   "title": "Unemployment rate in Belgium 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly negative which exists from 2019 to 2014.",
+      " Contrarily, the next significant trend is extremely positive which exists from 2005 to 2001.",
+      " Also, the next significant trend is extremely positive which exists from 2014 to 2011.",
+      " Also, the next significant trend is moderately positive which exists from 2011 to 2008.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2008 to 2005."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "5"
+      },
+      {
+         "3": "14",
+         "14": "18"
+      },
+      {
+         "3": "5",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "11"
+      },
+      {
+         "3": "11",
+         "14": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 6.44
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 6.32
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 7.09
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 7.83
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 8.48
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 8.52
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 8.43
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 7.54
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 7.14
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 8.29
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 7.91
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 6.98
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 7.46
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 8.25
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 8.44
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 7.36
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 7.68
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 6.91
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 6.18
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 6.59
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 8.65
+      }
+   ],
+   "gold": "This statistic shows the unemployment rate in Belgium from 1999 to 2019 . In 2019 , the unemployment rate in Belgium was at approximately 6.44 percent .\n"
+}

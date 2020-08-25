@@ -1,0 +1,173 @@
+{
+   "title": "Refugees worldwide 2001 to 2018",
+   "labels": [
+      "Year",
+      "Refugees",
+      "Internally displaced persons",
+      "Asylum-seekers"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Internally displaced persons had the highest values across Year with a mean value of 28.3.",
+      " This peaked at 2018 with a value of 41.4. ",
+      " The line with the second highest values was Refugees with a mean value of 14.9.",
+      " This line peaked at 2018 with a value of 20.3"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "17",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "17",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Refugees": "20.36",
+         "Internally displaced persons": "41.43",
+         "Asylum-seekers": "3.5"
+      },
+      {
+         "Year": "2017",
+         "Refugees": "19.94",
+         "Internally displaced persons": "39.12",
+         "Asylum-seekers": "3.09"
+      },
+      {
+         "Year": "2016",
+         "Refugees": "16.53",
+         "Internally displaced persons": "36.63",
+         "Asylum-seekers": "6.51"
+      },
+      {
+         "Year": "2015",
+         "Refugees": "15.48",
+         "Internally displaced persons": "37.49",
+         "Asylum-seekers": "2.32"
+      },
+      {
+         "Year": "2014",
+         "Refugees": "13.69",
+         "Internally displaced persons": "32.27",
+         "Asylum-seekers": "1.8"
+      },
+      {
+         "Year": "2013",
+         "Refugees": "11.0",
+         "Internally displaced persons": "23.93",
+         "Asylum-seekers": "1.17"
+      },
+      {
+         "Year": "2012",
+         "Refugees": "9.88",
+         "Internally displaced persons": "17.67",
+         "Asylum-seekers": "0.94"
+      },
+      {
+         "Year": "2011",
+         "Refugees": "15.2",
+         "Internally displaced persons": "26.4",
+         "Asylum-seekers": "0.9"
+      },
+      {
+         "Year": "2010",
+         "Refugees": "15.4",
+         "Internally displaced persons": "27.5",
+         "Asylum-seekers": "0.8"
+      },
+      {
+         "Year": "2009",
+         "Refugees": "15.2",
+         "Internally displaced persons": "27.1",
+         "Asylum-seekers": "1.0"
+      },
+      {
+         "Year": "2008",
+         "Refugees": "15.2",
+         "Internally displaced persons": "26.0",
+         "Asylum-seekers": "0.8"
+      },
+      {
+         "Year": "2007",
+         "Refugees": "16.0",
+         "Internally displaced persons": "26.0",
+         "Asylum-seekers": "0.7"
+      },
+      {
+         "Year": "2006",
+         "Refugees": "14.3",
+         "Internally displaced persons": "24.4",
+         "Asylum-seekers": "0.7"
+      },
+      {
+         "Year": "2005",
+         "Refugees": "13.0",
+         "Internally displaced persons": "23.7",
+         "Asylum-seekers": "0.8"
+      },
+      {
+         "Year": "2004",
+         "Refugees": "13.8",
+         "Internally displaced persons": "25.3",
+         "Asylum-seekers": "0.9"
+      },
+      {
+         "Year": "2003",
+         "Refugees": "13.7",
+         "Internally displaced persons": "24.6",
+         "Asylum-seekers": "1.0"
+      },
+      {
+         "Year": "2002",
+         "Refugees": "14.6",
+         "Internally displaced persons": "25.0",
+         "Asylum-seekers": "1.1"
+      },
+      {
+         "Year": "2001",
+         "Refugees": "16.0",
+         "Internally displaced persons": "25.0",
+         "Asylum-seekers": "1.1"
+      }
+   ],
+   "gold": "The statistic shows the number of refugees worldwide from 2001 to 2018 . At the end of 2018 , 41.43 million people were internally displaced worldwide . Internally displaced persons are people or groups of individuals who have been forced to leave their homes or places of habitual residence , and who have not crossed an international border .\n"
+}

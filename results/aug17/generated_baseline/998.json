@@ -1,0 +1,81 @@
+{
+   "title": "Unemployment rate in South Korea 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly negative which exists from 2024 to 2020.",
+      " Conversely, the next significant trend is extremely positive which exists from 2020 to 2017.",
+      " Also, the next significant trend is moderately positive which exists from 2016 to 2014.",
+      " Likewise, the next significant trend is moderately neutral which exists from 2017 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "4",
+         "14": "7"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "7",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Unemployment rate": 3.8
+      },
+      {
+         "Year": "2023",
+         "Unemployment rate": 3.9
+      },
+      {
+         "Year": "2022",
+         "Unemployment rate": 4.0
+      },
+      {
+         "Year": "2021",
+         "Unemployment rate": 4.1
+      },
+      {
+         "Year": "2020",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "2019",
+         "Unemployment rate": 4.0
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 3.84
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 3.68
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 3.68
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 3.59
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 3.49
+      }
+   ],
+   "gold": "The statistic shows the unemployment rate in South Korea from 2014 to 2018 , with projections up until 2024 . In 2018 , the unemployment rate in South Korea was at around 3.84 percent . See the figures for the population of South Korea for comparison .\n"
+}

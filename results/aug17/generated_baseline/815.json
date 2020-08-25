@@ -1,0 +1,104 @@
+{
+   "title": "Franchise value of the Oakland Raiders ( NFL ) 2002 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2019 to 2010.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 2008 to 2002.",
+      " Also, the next significant trend is slightly negative which exists from 2010 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "9"
+      },
+      {
+         "3": "11",
+         "14": "17"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": 2900.0
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": 2420.0
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": 2380.0
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": 2100.0
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": 1430.0
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": 970.0
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": 825.0
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": 785.0
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": 761.0
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": 758.0
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": 797.0
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": 861.0
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": 812.0
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": 736.0
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": 676.0
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": 624.0
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": 576.0
+      },
+      {
+         "Year": "2002",
+         "Franchise value in million U.S. dollars": 421.0
+      }
+   ],
+   "gold": "This graph depicts the franchise value of the Oakland Raiders from the National Football League from 2002 to 2019 . In 2019 , the franchise value amounted to around 2.9 billion U.S. dollars .\n"
+}

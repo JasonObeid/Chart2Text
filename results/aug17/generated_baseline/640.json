@@ -1,0 +1,104 @@
+{
+   "title": "Estimated U.S. retail per capita sales from 2000 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Per capita sales in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Per capita sales in U.S. dollars, with a total of 18 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2017 to 2009.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2007 to 2000.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "8"
+      },
+      {
+         "3": "10",
+         "14": "17"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Per capita sales in U.S. dollars": 15522.0
+      },
+      {
+         "Year": "2016",
+         "Per capita sales in U.S. dollars": 15018.0
+      },
+      {
+         "Year": "2015",
+         "Per capita sales in U.S. dollars": 14721.0
+      },
+      {
+         "Year": "2014",
+         "Per capita sales in U.S. dollars": 14561.0
+      },
+      {
+         "Year": "2013",
+         "Per capita sales in U.S. dollars": 14099.0
+      },
+      {
+         "Year": "2012",
+         "Per capita sales in U.S. dollars": 13702.0
+      },
+      {
+         "Year": "2011",
+         "Per capita sales in U.S. dollars": 13166.0
+      },
+      {
+         "Year": "2010",
+         "Per capita sales in U.S. dollars": 12343.0
+      },
+      {
+         "Year": "2009",
+         "Per capita sales in U.S. dollars": 11776.0
+      },
+      {
+         "Year": "2008",
+         "Per capita sales in U.S. dollars": 12941.0
+      },
+      {
+         "Year": "2007",
+         "Per capita sales in U.S. dollars": 13263.0
+      },
+      {
+         "Year": "2006",
+         "Per capita sales in U.S. dollars": 12975.0
+      },
+      {
+         "Year": "2005",
+         "Per capita sales in U.S. dollars": 12484.0
+      },
+      {
+         "Year": "2004",
+         "Per capita sales in U.S. dollars": 11861.0
+      },
+      {
+         "Year": "2003",
+         "Per capita sales in U.S. dollars": 11247.0
+      },
+      {
+         "Year": "2002",
+         "Per capita sales in U.S. dollars": 10877.0
+      },
+      {
+         "Year": "2001",
+         "Per capita sales in U.S. dollars": 10746.0
+      },
+      {
+         "Year": "2000",
+         "Per capita sales in U.S. dollars": 10573.0
+      }
+   ],
+   "gold": "The timeline shows the estimated retail per capita sales in the United States from 2000 to 2017 . In 2017 , retail sales amounted to about 15,522 U.S. dollars per capita .\n"
+}

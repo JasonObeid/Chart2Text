@@ -1,0 +1,74 @@
+{
+   "title": "Number of visitors to Zion National Park in the U.S. 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of recreational visitors to the Zion National Park U.S. Memorial in the 2019 from 2008 to 2019 . ",
+      "The Number of visitors to the Zion National Park U.S. Memorial amounted to approximately 4.49 in 2019 ."
+   ],
+   "trends": [
+      {
+         "17": "11",
+         "19": "0"
+      },
+      {
+         "12": "0",
+         "13": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": "4.49"
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": "4.32"
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": "4.5"
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": "4.3"
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": "3.65"
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": "3.19"
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": "2.81"
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": "2.97"
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": "2.83"
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": "2.67"
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": "2.74"
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": "2.69"
+      }
+   ],
+   "gold": "The number of visitors to Zion National Park has been increasing in recent years . In 2019 , the park saw an increase in the number of visitors with 4.49 million visitors , compared to previous year 's 4.32 million . Zion National Park is located in Utah in the United States .\n"
+}

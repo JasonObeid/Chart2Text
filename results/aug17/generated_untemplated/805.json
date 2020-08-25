@@ -1,0 +1,33 @@
+{
+   "title": "Share of U.S. travelers who have had items stolen or lost 2015\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic provides information on the share of consumers with an active youtube or youtube red subscription in the united as of 2017 , sorted by age . According to the source , 27 percent of millennials who subscribe to online video or music had a youtube or youtube red subscription as of 2017 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Smartphone",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Credit card",
+         "Share of respondents": 9.0
+      },
+      {
+         "Response": "Debit card",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "License",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Passport",
+         "Share of respondents": 4.0
+      }
+   ],
+   "gold": "The statistic shows the share of U.S. survey respondents who have had items with sensitive information lost or stolen , while traveling . 10 percent of respondents have lost or had a smartphone stolen whilst traveling .\n"
+}

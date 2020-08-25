@@ -1,0 +1,84 @@
+{
+   "title": "Broadcasting rights revenue of European soccer leagues 2017/2018",
+   "xAxis": "Country",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Revenue of global merger and acquisition deals in , 2017/2018 Country . ",
+      "In that year , the Revenue of European revenue A deals in the England ( 2017/2018 Country ) , amounted to under 3210 million euros . ",
+      "The total Revenue of mergers and acquisitions worldwide decreased in compared to the previous year ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "0",
+         "22": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "England",
+         "Revenue in million euros": "3210"
+      },
+      {
+         "Country": "Spain",
+         "Revenue in million euros": "1609"
+      },
+      {
+         "Country": "Italy",
+         "Revenue in million euros": "1294"
+      },
+      {
+         "Country": "Germany",
+         "Revenue in million euros": "1248"
+      },
+      {
+         "Country": "France",
+         "Revenue in million euros": "791"
+      },
+      {
+         "Country": "Turkey",
+         "Revenue in million euros": "376"
+      },
+      {
+         "Country": "Portugal",
+         "Revenue in million euros": "225"
+      },
+      {
+         "Country": "Russia",
+         "Revenue in million euros": "112"
+      },
+      {
+         "Country": "Netherlands",
+         "Revenue in million euros": "89"
+      },
+      {
+         "Country": "Scotland",
+         "Revenue in million euros": "64"
+      },
+      {
+         "Country": "Denmark",
+         "Revenue in million euros": "50"
+      },
+      {
+         "Country": "Sweden",
+         "Revenue in million euros": "42"
+      },
+      {
+         "Country": "Poland",
+         "Revenue in million euros": "39"
+      },
+      {
+         "Country": "Norway",
+         "Revenue in million euros": "35"
+      },
+      {
+         "Country": "Austria",
+         "Revenue in million euros": "22"
+      }
+   ],
+   "gold": "This statistic shows the revenue from broadcasting rights of soccer leagues in Europe in the 2017/18 season . In that season , the broadcasting revenues of the English Premier League amounted to roughly 3.21 billion euros .\n"
+}

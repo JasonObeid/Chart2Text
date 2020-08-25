@@ -1,0 +1,109 @@
+{
+   "title": "Unemployment rate in Jamaica 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Unemployment rate in Jamaica from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Jamaica was at approximately 9.52 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "9.52"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "9.45"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "11.66"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "13.19"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "13.51"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "13.74"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "15.25"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "13.93"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "12.7"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "12.37"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "11.36"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "10.33"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "9.75"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "10.33"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "11.26"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "11.44"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "11.74"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "14.19"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "14.93"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "15.54"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "15.74"
+      }
+   ],
+   "gold": "In 2019 , the unemployment rate in Jamaica was at approximately 9.52 percent , a slight decrease from previous years . Jamaica 's economy is in good shape Although on a steady downward trend after peaking at over 15 percent in 2013 , Jamaica 's unemployment rate is still quite high but not alarmingly high in global comparison . More than half of the island 's population live in urban areas and cities already , and the numbers are rising .\n"
+}

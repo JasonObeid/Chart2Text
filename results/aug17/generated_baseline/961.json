@@ -1,0 +1,85 @@
+{
+   "title": "Number of visitors to Zion National Park in the U.S. 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of visitors in millions, with a total of 12 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2017 to 2013.",
+      " In a similar manner, the next significant trend is slightly positive which exists from 2013 to 2010.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2019 to 2017.",
+      " Conversely, the next significant trend is slightly negative which exists from 2010 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "6"
+      },
+      {
+         "3": "6",
+         "14": "9"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": 4.49
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": 4.32
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": 4.5
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": 4.3
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": 3.65
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": 3.19
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": 2.81
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": 2.97
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": 2.83
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": 2.67
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": 2.74
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": 2.69
+      }
+   ],
+   "gold": "The number of visitors to Zion National Park has been increasing in recent years . In 2019 , the park saw an increase in the number of visitors with 4.49 million visitors , compared to previous year 's 4.32 million . Zion National Park is located in Utah in the United States .\n"
+}

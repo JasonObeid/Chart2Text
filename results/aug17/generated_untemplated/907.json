@@ -1,0 +1,57 @@
+{
+   "title": "Annual rainfall in Belgium 2006 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Rainfall in millimeters",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the total consumption of paper and board in the united from 2006 to 2016 . In 2015 , the total consumption of paper and board in the united amounted to 77.44 million tons .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2016",
+         "Rainfall in millimeters": 942.0
+      },
+      {
+         "Year": "2015",
+         "Rainfall in millimeters": 737.0
+      },
+      {
+         "Year": "2014",
+         "Rainfall in millimeters": 784.0
+      },
+      {
+         "Year": "2013",
+         "Rainfall in millimeters": 816.0
+      },
+      {
+         "Year": "2012",
+         "Rainfall in millimeters": 977.0
+      },
+      {
+         "Year": "2011",
+         "Rainfall in millimeters": 815.0
+      },
+      {
+         "Year": "2010",
+         "Rainfall in millimeters": 914.0
+      },
+      {
+         "Year": "2009",
+         "Rainfall in millimeters": 764.0
+      },
+      {
+         "Year": "2008",
+         "Rainfall in millimeters": 862.0
+      },
+      {
+         "Year": "2007",
+         "Rainfall in millimeters": 880.0
+      },
+      {
+         "Year": "2006",
+         "Rainfall in millimeters": 835.0
+      }
+   ],
+   "gold": "Does it always rain in Belgium ? In some weeks that may seem to be the case , but in the last decade Belgium actually counted between 180 and 212 rain days a year . And in none of these years , the annual rainfall surpassed the thousand millimeters . Rainfall peaked in 2016 , at roughly 940 millimeters .\n"
+}

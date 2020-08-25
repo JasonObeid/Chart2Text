@@ -1,0 +1,56 @@
+{
+   "title": "Toys and games market : market segmentation by value 2009\n",
+   "xAxis": "Name",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Name, and a y axis representing Market share.",
+      " The highest category is found at Other where Market share is 30.5.",
+      " The lowest category is found at Plush_toys where Market share is 5.1."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Name": "Other",
+         "Market share": 30.5
+      },
+      {
+         "Name": "Infant/Pre-school toys",
+         "Market share": 16.2
+      },
+      {
+         "Name": "Activity toys",
+         "Market share": 15.1
+      },
+      {
+         "Name": "Dolls",
+         "Market share": 12.2
+      },
+      {
+         "Name": "Ride-ons",
+         "Market share": 11.4
+      },
+      {
+         "Name": "Games and puzzles",
+         "Market share": 9.5
+      },
+      {
+         "Name": "Plush toys",
+         "Market share": 5.1
+      }
+   ],
+   "gold": "This graph depicts the share of toy categories of the total market value in 2009 . Activity toys accounted for 15.1 percent of total toys and games market revenue .\n"
+}

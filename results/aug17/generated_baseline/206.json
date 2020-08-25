@@ -1,0 +1,80 @@
+{
+   "title": "Canadian snowmobile registrations by province 2018\n",
+   "xAxis": "Province",
+   "yAxis": "Number of registrations",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 13 categories for the x axis representing Province, and a y axis representing Number of registrations.",
+      " The highest category is found at Quebec where Number of registrations is 201732.0.",
+      " The lowest category is found at Yukon where Number of registrations is 1805.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Province": "Quebec",
+         "Number of registrations": 201732.0
+      },
+      {
+         "Province": "Ontario",
+         "Number of registrations": 155000.0
+      },
+      {
+         "Province": "Alberta",
+         "Number of registrations": 73000.0
+      },
+      {
+         "Province": "New Foundland",
+         "Number of registrations": 58700.0
+      },
+      {
+         "Province": "British Columbia",
+         "Number of registrations": 44500.0
+      },
+      {
+         "Province": "Manitoba",
+         "Number of registrations": 35354.0
+      },
+      {
+         "Province": "New Brunswick",
+         "Number of registrations": 19550.0
+      },
+      {
+         "Province": "Saskatchewan",
+         "Number of registrations": 16175.0
+      },
+      {
+         "Province": "Nunavut",
+         "Number of registrations": 14200.0
+      },
+      {
+         "Province": "North West Territory",
+         "Number of registrations": 9800.0
+      },
+      {
+         "Province": "Nova Scotia",
+         "Number of registrations": 7200.0
+      },
+      {
+         "Province": "Prince Edward Island",
+         "Number of registrations": 2180.0
+      },
+      {
+         "Province": "Yukon",
+         "Number of registrations": 1805.0
+      }
+   ],
+   "gold": "In the winter of 2019 , about 14,200 snowmobiles were registered in Nunavut . At some 200,000 , most snowmobile registrations took place in Quebec . In total , the International Snowmobile Manufacturers Association ( ISMA ) reported over 600,000 snowmobile registrations throughout Canada .\n"
+}

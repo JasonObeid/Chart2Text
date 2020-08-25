@@ -1,0 +1,86 @@
+{
+   "title": "Number of births in Norway 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of live births, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly negative which exists from 2018 to 2014.",
+      " Conversely, the next significant trend is extremely negative which exists from 2011 to 2008.",
+      " Conversely, the next significant trend is extremely positive which exists from 2014 to 2013.",
+      " Similarly, the next significant trend is slightly negative which exists from 2013 to 2012.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2012 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of live births": 55120.0
+      },
+      {
+         "Year": "2017",
+         "Number of live births": 56633.0
+      },
+      {
+         "Year": "2016",
+         "Number of live births": 58890.0
+      },
+      {
+         "Year": "2015",
+         "Number of live births": 59058.0
+      },
+      {
+         "Year": "2014",
+         "Number of live births": 59084.0
+      },
+      {
+         "Year": "2013",
+         "Number of live births": 58995.0
+      },
+      {
+         "Year": "2012",
+         "Number of live births": 60255.0
+      },
+      {
+         "Year": "2011",
+         "Number of live births": 60220.0
+      },
+      {
+         "Year": "2010",
+         "Number of live births": 61442.0
+      },
+      {
+         "Year": "2009",
+         "Number of live births": 61807.0
+      },
+      {
+         "Year": "2008",
+         "Number of live births": 60497.0
+      }
+   ],
+   "gold": "This statistic shows the number of live births in Norway from 2008 to 2018 . The number of births has declined during the period , from the peak of roughly 61.8 thousand in 2009 to around 55.1 thousand in 2018 .\n"
+}

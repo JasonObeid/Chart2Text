@@ -1,0 +1,53 @@
+{
+   "title": "Average ticket price New York Knicks ( NBA ) games 2015/16\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This graph depicts the average ticket price for milwaukee bucks games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 46.03 u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": 129.38
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 129.38
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 129.38
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 123.22
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 117.47
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 88.66
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 68.04
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 70.51
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 70.51
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 70.51
+      }
+   ],
+   "gold": "This graph depicts the average ticket price for New York Knicks games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 70.51 U.S. dollars . With an average price of more than 120 U.S. dollars , tickets for New York Knicks games are the most expensive in the league .\n"
+}

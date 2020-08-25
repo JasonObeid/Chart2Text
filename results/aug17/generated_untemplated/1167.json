@@ -1,0 +1,36 @@
+{
+   "title": "2012 election : support for Romney and Obama , by ethnic group",
+   "labels": [
+      "Race",
+      "Obama",
+      "Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This survey , conducted in the united in 2014 , shows if respondents assess today 's political climate as being more angry and bad tempered than in the past . In 2014 , 69 percent of respondents thought that the current political climate is more angry and bad tempered than that of the past .\n",
+   "trends": {},
+   "data": [
+      {
+         "Race": "White (non-Hispanic)",
+         "Obama": "37",
+         "Romney": "59"
+      },
+      {
+         "Race": "Nonwhite",
+         "Obama": "79",
+         "Romney": "15"
+      },
+      {
+         "Race": "Black",
+         "Obama": "90",
+         "Romney": "5"
+      },
+      {
+         "Race": "Hispanic",
+         "Obama": "69",
+         "Romney": "25"
+      }
+   ],
+   "gold": "This survey shows the voter support for Barack Obama and Mitt Romney in the 2012 election as of October 28 , by ethnic group . If the elections were held that day , about 90 percent of Black or African American voters would vote for Barack Obama .\n"
+}

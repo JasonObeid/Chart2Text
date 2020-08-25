@@ -1,0 +1,58 @@
+{
+   "title": "Estimated number of World of Warcraft subscribers 2015 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Subscribers in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Subscribers in millions with a total of 9 data points. The chart has one significant trend.",
+      " This trend is negative which exists from 2023 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Subscribers in millions": 4.46
+      },
+      {
+         "Year": "2022",
+         "Subscribers in millions": 4.59
+      },
+      {
+         "Year": "2021",
+         "Subscribers in millions": 4.74
+      },
+      {
+         "Year": "2020",
+         "Subscribers in millions": 4.88
+      },
+      {
+         "Year": "2019",
+         "Subscribers in millions": 5.03
+      },
+      {
+         "Year": "2018",
+         "Subscribers in millions": 5.19
+      },
+      {
+         "Year": "2017",
+         "Subscribers in millions": 5.42
+      },
+      {
+         "Year": "2016",
+         "Subscribers in millions": 5.67
+      },
+      {
+         "Year": "2015",
+         "Subscribers in millions": 5.5
+      }
+   ],
+   "gold": "How many people play World of Warcraft ? In 2015 , when Activision Blizzard last reported on WoW 's subscriptions , the game had 5.5 million global subscribers . It is projected that the numbers will be gradually decreasing to reach 4.46 million in 2023 . The game reached the peak of its popularity in the second half of 2010 , when Activision Blizzard 's estimates put the global number of WoW subscribers at 12 million .\n"
+}

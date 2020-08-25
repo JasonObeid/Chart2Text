@@ -1,0 +1,52 @@
+{
+   "title": "U.S. online shopping frequency 2014 to 2017\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Once_or_more_per_month where Share of respondents is 32.0.",
+      " The lowest category is found at Never where Share of respondents is 4.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "At least once a week",
+         "Share of respondents": 29.0
+      },
+      {
+         "Response": "Once or more per month",
+         "Share of respondents": 32.0
+      },
+      {
+         "Response": "7-12 times per year",
+         "Share of respondents": 13.0
+      },
+      {
+         "Response": "4-6 times per year",
+         "Share of respondents": 12.0
+      },
+      {
+         "Response": "1-3 times per year",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Never",
+         "Share of respondents": 4.0
+      }
+   ],
+   "gold": "This statistic presents the online shopping frequency of internet users in the United States as of March 2017 . During the most recent survey period , 29 percent of respondents stated they purchased goods online at least once a week .\n"
+}

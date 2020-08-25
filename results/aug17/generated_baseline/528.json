@@ -1,0 +1,149 @@
+{
+   "title": "Brand value of Premier League ( England ) football teams 2019",
+   "labels": [
+      "Year",
+      "Manchester United",
+      "Chelsea",
+      "Manchester City",
+      "Arsenal",
+      "Liverpool",
+      "Tottenham Hotspur"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 6 lines.",
+      " The line representing Manchester United had the highest values across Year with a mean value of 1193.9.",
+      " This peaked at 2018 with a value of 1895.0. ",
+      " The line with the second highest values was Manchester City with a mean value of 753.1.",
+      " This line peaked at 2019 with a value of 1407.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "8",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "7",
+            "0"
+         ],
+         "9": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "8",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "8",
+            "2"
+         ],
+         "10": [
+            "8",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "Manchester United": "661",
+         "Chelsea": "314",
+         "Manchester City": "170",
+         "Arsenal": "301",
+         "Liverpool": "250",
+         "Tottenham Hotspur": "127"
+      },
+      {
+         "Year": "2012",
+         "Manchester United": "853",
+         "Chelsea": "398",
+         "Manchester City": "302",
+         "Arsenal": "388",
+         "Liverpool": "367",
+         "Tottenham Hotspur": "255"
+      },
+      {
+         "Year": "2013",
+         "Manchester United": "837",
+         "Chelsea": "418",
+         "Manchester City": "332",
+         "Arsenal": "410",
+         "Liverpool": "361",
+         "Tottenham Hotspur": "219"
+      },
+      {
+         "Year": "2014",
+         "Manchester United": "739",
+         "Chelsea": "502",
+         "Manchester City": "510",
+         "Arsenal": "505",
+         "Liverpool": "469",
+         "Tottenham Hotspur": "248"
+      },
+      {
+         "Year": "2015",
+         "Manchester United": "1206",
+         "Chelsea": "795",
+         "Manchester City": "800",
+         "Arsenal": "703",
+         "Liverpool": "577",
+         "Tottenham Hotspur": "360"
+      },
+      {
+         "Year": "2016",
+         "Manchester United": "1170",
+         "Chelsea": "776",
+         "Manchester City": "905",
+         "Arsenal": "858",
+         "Liverpool": "748",
+         "Tottenham Hotspur": "441"
+      },
+      {
+         "Year": "2017",
+         "Manchester United": "1733",
+         "Chelsea": "1248",
+         "Manchester City": "1021",
+         "Arsenal": "941",
+         "Liverpool": "908",
+         "Tottenham Hotspur": "696"
+      },
+      {
+         "Year": "2018",
+         "Manchester United": "1895",
+         "Chelsea": "1195",
+         "Manchester City": "1331",
+         "Arsenal": "1083",
+         "Liverpool": "1204",
+         "Tottenham Hotspur": "764"
+      },
+      {
+         "Year": "2019",
+         "Manchester United": "1651",
+         "Chelsea": "1085",
+         "Manchester City": "1407",
+         "Arsenal": "993",
+         "Liverpool": "1336",
+         "Tottenham Hotspur": "850"
+      }
+   ],
+   "gold": "The statistic depicts the brand value of the most valuable English football teams from 2011 to 2019 . Manchester United had a brand value of 1.65 billion U.S. dollars in 2019 . A brand is defined here as the trademark and associated intellectual property .\n"
+}

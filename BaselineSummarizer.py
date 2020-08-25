@@ -163,7 +163,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                                 "columnType": "multi",
                                 "graphType": chartType, "summaryType": "baseline", "summary": summaryArray,
                                 "trends": trendsArray,
-                                "data": dataJson}
+                                "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
             elif (chartType == "line"):
@@ -218,7 +218,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                                 "columnType": "multi", \
                                 "graphType": chartType, "summaryType": "baseline", "summary": summaryArr,
                                 "trends": trendsArray,
-                                "data": dataJson}
+                                "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
         else:
@@ -259,7 +259,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                                 "columnType": "two", \
                                 "graphType": chartType, "summaryType": "baseline", "summary": summaryArray,
                                 "trends": trendsArray,
-                                "data": dataJson}
+                                "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
             # run line
@@ -388,7 +388,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                                 "columnType": "two", \
                                 "graphType": chartType, "summaryType": "baseline", "summary": summaryArray,
                                 "trends": graphTrendArray,
-                                "data": dataJson}
+                                "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
         # print(summaryArray)

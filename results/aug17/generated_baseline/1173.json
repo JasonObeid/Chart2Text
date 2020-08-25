@@ -1,0 +1,43 @@
+{
+   "title": "Football participation England 2016 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of participants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of participants, with a total of 4 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly negative which exists from 2019 to 2016.",
+      " Contrarily, the next significant trend is slightly positive which exists from 2019 to 2019."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of participants": 2056900.0
+      },
+      {
+         "Year": "2018",
+         "Number of participants": 2095900.0
+      },
+      {
+         "Year": "2017",
+         "Number of participants": 2299700.0
+      },
+      {
+         "Year": "2016",
+         "Number of participants": 2299000.0
+      }
+   ],
+   "gold": "Football is not only the most popular sport to watch and spectate in the United Kingdom ( UK ) and England but also the most popular team sport to participate in , with roughly 2.1 million people in England playing at least twice per month . 44.7 percent of 11 to 15 year old and 31.4 percent of 5 to 10 year old children play football on a monthly basis . Football nation Being home to not only the biggest football league but the biggest and most successful sports league in the world , the Premier League , England has many football fans who support the sport with famous clubs such as Manchester United , Liverpool FC , Arsenal FC or Manchester City .\n"
+}

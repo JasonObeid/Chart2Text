@@ -1,0 +1,65 @@
+{
+   "title": "Most popular product brands on Facebook 2020",
+   "xAxis": "Platform",
+   "yAxis": "Facebook fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic brands the Most popular Platform brands in 2020 , based on the Facebook of fans on BitTorrent . ",
+      "'Game of Facebook ' was the most-pirated Platform in 2020 . ",
+      "The most-downloaded episode of the American fantasy television series created for HBO was downloaded 214.62 millions times ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "0"
+      },
+      {
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Facebook fans in millions": "214.62"
+      },
+      {
+         "Platform": "Samsung",
+         "Facebook fans in millions": "160.05"
+      },
+      {
+         "Platform": "Coca-Cola",
+         "Facebook fans in millions": "107.11"
+      },
+      {
+         "Platform": "YouTube",
+         "Facebook fans in millions": "84.35"
+      },
+      {
+         "Platform": "McDonald's",
+         "Facebook fans in millions": "79.86"
+      },
+      {
+         "Platform": "Candy Crush Saga",
+         "Facebook fans in millions": "71.54"
+      },
+      {
+         "Platform": "Criminal Case",
+         "Facebook fans in millions": "65.88"
+      },
+      {
+         "Platform": "Texas HoldEm Poker",
+         "Facebook fans in millions": "63.66"
+      },
+      {
+         "Platform": "Instagram",
+         "Facebook fans in millions": "60.34"
+      },
+      {
+         "Platform": "KFC",
+         "Facebook fans in millions": "55.0"
+      }
+   ],
+   "gold": "Coca-Cola is one of the most recognizable brands worldwide , which in this case translates to over 107 million Facebook followers . Due its global reach , advertisers and marketers have recognized Facebook 's potential as a marketing tool to reach new and existing customers and as a result have come up with new and innovative ways of connecting with their target audiences .\n"
+}

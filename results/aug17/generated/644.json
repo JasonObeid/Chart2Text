@@ -1,0 +1,63 @@
+{
+   "title": "Number of expressways gas stations , by provider in France 2018",
+   "xAxis": "Company",
+   "yAxis": "Number of gas stations",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of stations internet users in the Number who were selected stations networks as of 2019 . ",
+      "During that period of time , At 72 % of gas stations had generated through Shell . ",
+      "Shell was ranked second with 46 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "2",
+         "15": "1"
+      },
+      {
+         "0": "1",
+         "5": "4"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Total",
+         "Number of gas stations": "121"
+      },
+      {
+         "Company": "Shell",
+         "Number of gas stations": "69"
+      },
+      {
+         "Company": "Avia",
+         "Number of gas stations": "72"
+      },
+      {
+         "Company": "BP",
+         "Number of gas stations": "59"
+      },
+      {
+         "Company": "Eni",
+         "Number of gas stations": "46"
+      },
+      {
+         "Company": "Esso",
+         "Number of gas stations": "46"
+      },
+      {
+         "Company": "Carrefour",
+         "Number of gas stations": "10"
+      },
+      {
+         "Company": "Leclerc",
+         "Number of gas stations": "12"
+      },
+      {
+         "Company": "Dyneff",
+         "Number of gas stations": "8"
+      }
+   ],
+   "gold": "This statistic shows the number of gas stations at motorways and expressways in France in 2018 , by brand . In 2018 , Esso possessed about 46 gas stations on French motorways and expressways in comparison to 121 gas stations for Total .\n"
+}

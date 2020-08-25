@@ -1,0 +1,55 @@
+{
+   "title": "Average living space of PRH tenants Hong Kong 2007 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average living space in square meters per person",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average living space in square meters per person, with a total of 7 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2007.",
+      " Similarly, the next significant trend is slightly neutral which exists from 2019 to 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "6"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average living space in square meters per person": 13.3
+      },
+      {
+         "Year": "2018",
+         "Average living space in square meters per person": 13.3
+      },
+      {
+         "Year": "2017",
+         "Average living space in square meters per person": 13.2
+      },
+      {
+         "Year": "2014",
+         "Average living space in square meters per person": 13.0
+      },
+      {
+         "Year": "2012",
+         "Average living space in square meters per person": 12.9
+      },
+      {
+         "Year": "2009",
+         "Average living space in square meters per person": 12.5
+      },
+      {
+         "Year": "2007",
+         "Average living space in square meters per person": 12.2
+      }
+   ],
+   "gold": "This statistic illustrates the average living space of public rental housing tenants in Hong Kong in selected years from 2007 to 2019 . As of March 2019 , the average living space in public rental housing in Hong Kong was around 13.3 square meters per person .\n"
+}

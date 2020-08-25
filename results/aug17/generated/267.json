@@ -1,0 +1,106 @@
+{
+   "title": "U.S. sweet potato production 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand cwt",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The potato production 2000 of the U.S. in 2018 was 27378 thousand British pounds , an increase when compared with the previous Year . ",
+      "From 2000 to 2007 the UK 's Production increased each Year , except for 2008 , when the British economy shrunk . ",
+      "By 2009 Production had recovered and resumed its steady growth ."
+   ],
+   "trends": [
+      {
+         "8": "0",
+         "10": "0"
+      },
+      {
+         "1": "18",
+         "3": "11",
+         "14": "10"
+      },
+      {
+         "1": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Production in thousand cwt": "27378"
+      },
+      {
+         "Year": "2017",
+         "Production in thousand cwt": "35646"
+      },
+      {
+         "Year": "2016",
+         "Production in thousand cwt": "31546"
+      },
+      {
+         "Year": "2015",
+         "Production in thousand cwt": "31016"
+      },
+      {
+         "Year": "2014",
+         "Production in thousand cwt": "29584"
+      },
+      {
+         "Year": "2013",
+         "Production in thousand cwt": "24785"
+      },
+      {
+         "Year": "2012",
+         "Production in thousand cwt": "26482"
+      },
+      {
+         "Year": "2011",
+         "Production in thousand cwt": "26964"
+      },
+      {
+         "Year": "2010",
+         "Production in thousand cwt": "23845"
+      },
+      {
+         "Year": "2009",
+         "Production in thousand cwt": "19469"
+      },
+      {
+         "Year": "2008",
+         "Production in thousand cwt": "18443"
+      },
+      {
+         "Year": "2007",
+         "Production in thousand cwt": "18070"
+      },
+      {
+         "Year": "2006",
+         "Production in thousand cwt": "16401"
+      },
+      {
+         "Year": "2005",
+         "Production in thousand cwt": "15730"
+      },
+      {
+         "Year": "2004",
+         "Production in thousand cwt": "16112"
+      },
+      {
+         "Year": "2003",
+         "Production in thousand cwt": "15891"
+      },
+      {
+         "Year": "2002",
+         "Production in thousand cwt": "12799"
+      },
+      {
+         "Year": "2001",
+         "Production in thousand cwt": "14515"
+      },
+      {
+         "Year": "2000",
+         "Production in thousand cwt": "13780"
+      }
+   ],
+   "gold": "This statistic shows the production of sweet potatoes in the United States from 2000 to 2018 . According to the report , approximately 31.55 million cwt of potatoes were produced in the country in 2016 .\n"
+}

@@ -1,0 +1,61 @@
+{
+   "title": "Purchasing power change in the Netherlands 2015 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Year on year percentage change",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Year on year percentage change, with a total of 6 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly negative which exists from 2017 to 2015.",
+      " Conversely, the next significant trend is slightly negative which exists from 2020 to 2019.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2019 to 2018.",
+      " Correspondingly, the next significant trend is slightly neutral which exists from 2018 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "3",
+         "12": "5"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Year on year percentage change": 1.3
+      },
+      {
+         "Year": "2019",
+         "Year on year percentage change": 1.6
+      },
+      {
+         "Year": "2018",
+         "Year on year percentage change": 0.3
+      },
+      {
+         "Year": "2017",
+         "Year on year percentage change": 0.3
+      },
+      {
+         "Year": "2016",
+         "Year on year percentage change": 2.6
+      },
+      {
+         "Year": "2015",
+         "Year on year percentage change": 1.0
+      }
+   ],
+   "gold": "In 2018 , the purchasing power in the Netherlands increased for the fourth year in a row . Purchasing power growth slowed down considerably though in 2017 and 2018 in comparison to 2015 and especially 2016 . In the next two years , the purchasing power was forecast to increase further .\n"
+}

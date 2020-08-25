@@ -1,0 +1,64 @@
+{
+   "title": "Largest cities in Ukraine 2016",
+   "xAxis": "Month",
+   "yAxis": "Residents in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic depicts the ten Largest cities in Ukraine 2016 . ",
+      "In 2016 , Ky\u00efv_(Kiev) had around 2.91 millions Residents , making it the Largest city in Ukraine . ",
+      "Population and workforce of Ukraine is the Largest country in the world ; with a total population of around 144 millions people ( 263767 ) , it is the ninth most populous nation worldwide ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "6": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Ky\u00efv (Kiev)",
+         "Residents in millions": "2.91"
+      },
+      {
+         "Month": "Charkiv",
+         "Residents in millions": "1.45"
+      },
+      {
+         "Month": "Od\u0117sa",
+         "Residents in millions": "1.01"
+      },
+      {
+         "Month": "Dniprop\u0117trovs'k",
+         "Residents in millions": "0.98"
+      },
+      {
+         "Month": "Don\u0117c'k",
+         "Residents in millions": "0.93"
+      },
+      {
+         "Month": "Zapori\u017e\u017eija",
+         "Residents in millions": "0.76"
+      },
+      {
+         "Month": "L'viv",
+         "Residents in millions": "0.73"
+      },
+      {
+         "Month": "Kryvyj Rih",
+         "Residents in millions": "0.64"
+      },
+      {
+         "Month": "Mykola\u00efv",
+         "Residents in millions": "0.49"
+      },
+      {
+         "Month": "Mariupol'",
+         "Residents in millions": "0.45"
+      }
+   ],
+   "gold": "This statistic shows the ten largest cities in Ukraine in 2016 . Around 2.91 million people lived in Kiev in 2016 , making it the largest city in Ukraine . Economic situation in the Ukraine Ukraine has a population of around 42 million inhabitants - close to 70 percent of which live in urban areas , with almost 3 million living in Ukraine 's largest city and capital , Kiev .\n"
+}

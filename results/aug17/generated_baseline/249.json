@@ -1,0 +1,135 @@
+{
+   "title": "Pharmacy and drug store sales in the U.S. 1992 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 27 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly positive which exists from 12 to 92.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 18 to 12."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "26"
+      },
+      {
+         "3": "0",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18",
+         "Billion U.S. dollars": 285.87
+      },
+      {
+         "Year": "17",
+         "Billion U.S. dollars": 276.92
+      },
+      {
+         "Year": "16",
+         "Billion U.S. dollars": 271.88
+      },
+      {
+         "Year": "15",
+         "Billion U.S. dollars": 263.47
+      },
+      {
+         "Year": "14",
+         "Billion U.S. dollars": 250.55
+      },
+      {
+         "Year": "13",
+         "Billion U.S. dollars": 235.55
+      },
+      {
+         "Year": "12",
+         "Billion U.S. dollars": 229.95
+      },
+      {
+         "Year": "11",
+         "Billion U.S. dollars": 231.25
+      },
+      {
+         "Year": "10",
+         "Billion U.S. dollars": 222.23
+      },
+      {
+         "Year": "9",
+         "Billion U.S. dollars": 217.26
+      },
+      {
+         "Year": "8",
+         "Billion U.S. dollars": 210.86
+      },
+      {
+         "Year": "7",
+         "Billion U.S. dollars": 202.28
+      },
+      {
+         "Year": "6",
+         "Billion U.S. dollars": 191.02
+      },
+      {
+         "Year": "5",
+         "Billion U.S. dollars": 179.17
+      },
+      {
+         "Year": "4",
+         "Billion U.S. dollars": 169.23
+      },
+      {
+         "Year": "3",
+         "Billion U.S. dollars": 165.52
+      },
+      {
+         "Year": "2",
+         "Billion U.S. dollars": 153.94
+      },
+      {
+         "Year": "1",
+         "Billion U.S. dollars": 141.77
+      },
+      {
+         "Year": "0",
+         "Billion U.S. dollars": 130.86
+      },
+      {
+         "Year": "99",
+         "Billion U.S. dollars": 121.28
+      },
+      {
+         "Year": "98",
+         "Billion U.S. dollars": 108.42
+      },
+      {
+         "Year": "97",
+         "Billion U.S. dollars": 98.82
+      },
+      {
+         "Year": "96",
+         "Billion U.S. dollars": 91.81
+      },
+      {
+         "Year": "95",
+         "Billion U.S. dollars": 85.84
+      },
+      {
+         "Year": "94",
+         "Billion U.S. dollars": 81.99
+      },
+      {
+         "Year": "93",
+         "Billion U.S. dollars": 79.71
+      },
+      {
+         "Year": "92",
+         "Billion U.S. dollars": 77.79
+      }
+   ],
+   "gold": "This timeline depicts pharmacy and drug store sales in the United States from 1992 to 2018 . In 2018 , U.S. pharmacy and drug store sales amounted to about 285.87 billion U.S. dollars.U.S . Pharmacies and Drug Stores IndustryThe retail drug industry is comprised of pharmacies or drugstores , as they are known in North America .\n"
+}

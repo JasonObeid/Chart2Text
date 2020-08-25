@@ -1,0 +1,39 @@
+{
+   "title": "Amount spent on smartphone accessories by U.S. consumers 2010",
+   "labels": [
+      "Response",
+      "Under $50",
+      "$50 - $100",
+      "$100 - $200",
+      "$200 and up"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the results of a survey in 2014 among u.s. adults by gender on the most important issues to them in choosing a spouse or partner . During the survey , 46 percent of men were of the opinion that finding someone with a steady job would be very important to them in choosing a spouse or partner while 78 percent of women were of the opinion that finding someone with a steady job would be very important to them .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Android owners",
+         "Under $50": "60",
+         "$50 - $100": "19",
+         "$100 - $200": "8",
+         "$200 and up": "6"
+      },
+      {
+         "Response": "iPhone owners",
+         "Under $50": "33",
+         "$50 - $100": "33",
+         "$100 - $200": "19",
+         "$200 and up": "9"
+      },
+      {
+         "Response": "BlackBerry owners",
+         "Under $50": "47",
+         "$50 - $100": "31",
+         "$100 - $200": "15",
+         "$200 and up": "1"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey conducted in 2010 in the United States asking smartphone users how much they have spent on accessories for their cell phone . The survey revealed that 60 percent of Android owners spent under 50 U.S. dollars on accessories for their mobile phone .\n"
+}

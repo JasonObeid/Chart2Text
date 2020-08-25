@@ -1,0 +1,46 @@
+{
+   "title": "Sales of streaming devices in the United States 2014",
+   "xAxis": "Streaming Brand",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the most viewed Sales on Unit in United States 2014 . ",
+      "Apple_TV was the Streaming with the highest devices sales in 2014 with a devices of 8.8 millions viewers ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Streaming Brand": "Apple TV",
+         "Unit sales in millions": "8.8"
+      },
+      {
+         "Streaming Brand": "Fire TV",
+         "Unit sales in millions": "5.8"
+      },
+      {
+         "Streaming Brand": "Roku",
+         "Unit sales in millions": "5.0"
+      },
+      {
+         "Streaming Brand": "Chromecast",
+         "Unit sales in millions": "4.0"
+      },
+      {
+         "Streaming Brand": "Tivo",
+         "Unit sales in millions": "1.2"
+      },
+      {
+         "Streaming Brand": "Other",
+         "Unit sales in millions": "2.8"
+      }
+   ],
+   "gold": "The statistic shows the unit sales of streaming devices in the United States in 2014 . 8.8 million units of the Apple TV streaming device are forecast to be sold in the United States in 2014 .\n"
+}

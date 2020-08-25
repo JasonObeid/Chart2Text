@@ -1,0 +1,37 @@
+{
+   "title": "U.S. online shopping frequency 2014 to 2017\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the reasons why users in the united use online dating sites or apps . During the 2017 survey , 61 percent of responding current or former dating website or app users said they used dating websites and apps to meet people who share their interests or hobbies .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "At least once a week",
+         "Share of respondents": 29.0
+      },
+      {
+         "Response": "Once or more per month",
+         "Share of respondents": 32.0
+      },
+      {
+         "Response": "7-12 times per year",
+         "Share of respondents": 13.0
+      },
+      {
+         "Response": "4-6 times per year",
+         "Share of respondents": 12.0
+      },
+      {
+         "Response": "1-3 times per year",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Never",
+         "Share of respondents": 4.0
+      }
+   ],
+   "gold": "This statistic presents the online shopping frequency of internet users in the United States as of March 2017 . During the most recent survey period , 29 percent of respondents stated they purchased goods online at least once a week .\n"
+}

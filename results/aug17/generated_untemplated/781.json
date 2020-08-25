@@ -1,0 +1,65 @@
+{
+   "title": "Number of arrivals in tourist accommodation Slovakia 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of tourist arrivals at accommodation establishments in bulgaria from 2006 to 2018 . In 2018 , the number of arrivals in travel accommodation ( including both international and domestic tourists ) amounted to approximately 7.8 million .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of arrivals in millions": 5.49
+      },
+      {
+         "Year": "2017",
+         "Number of arrivals in millions": 5.29
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in millions": 4.94
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in millions": 4.27
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in millions": 3.69
+      },
+      {
+         "Year": "2013",
+         "Number of arrivals in millions": 4.0
+      },
+      {
+         "Year": "2012",
+         "Number of arrivals in millions": 3.73
+      },
+      {
+         "Year": "2011",
+         "Number of arrivals in millions": 3.54
+      },
+      {
+         "Year": "2010",
+         "Number of arrivals in millions": 3.36
+      },
+      {
+         "Year": "2009",
+         "Number of arrivals in millions": 3.34
+      },
+      {
+         "Year": "2008",
+         "Number of arrivals in millions": 4.03
+      },
+      {
+         "Year": "2007",
+         "Number of arrivals in millions": 3.74
+      },
+      {
+         "Year": "2006",
+         "Number of arrivals in millions": 3.55
+      }
+   ],
+   "gold": "This statistic shows the number of tourist arrivals at accommodation establishments in Slovakia from 2006 to 2018 . In 2018 there were around 5.49 million arrivals at accommodation establishments in Slovakia .\n"
+}

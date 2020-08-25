@@ -1,0 +1,66 @@
+{
+   "title": "Population growth in Mexico 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Population growth compared to the previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Population growth compared to the previous year with a total of 11 data points. The chart has one significant trend.",
+      " This trend is negative which exists from 2018 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Population growth compared to the previous year": 1.13
+      },
+      {
+         "Year": "2017",
+         "Population growth compared to the previous year": 1.16
+      },
+      {
+         "Year": "2016",
+         "Population growth compared to the previous year": 1.2
+      },
+      {
+         "Year": "2015",
+         "Population growth compared to the previous year": 1.24
+      },
+      {
+         "Year": "2014",
+         "Population growth compared to the previous year": 1.28
+      },
+      {
+         "Year": "2013",
+         "Population growth compared to the previous year": 1.32
+      },
+      {
+         "Year": "2012",
+         "Population growth compared to the previous year": 1.36
+      },
+      {
+         "Year": "2011",
+         "Population growth compared to the previous year": 1.39
+      },
+      {
+         "Year": "2010",
+         "Population growth compared to the previous year": 1.44
+      },
+      {
+         "Year": "2009",
+         "Population growth compared to the previous year": 1.48
+      },
+      {
+         "Year": "2008",
+         "Population growth compared to the previous year": 1.5
+      }
+   ],
+   "gold": "The statistic shows the population growth in Mexico from 2008 to 2018 . In 2018 , the total population of Mexico grew by about 1.13 percent compared to the previous year . Among the largest cities in Mexico , Mexico City is leading with more than 8.5 million inhabitants .\n"
+}

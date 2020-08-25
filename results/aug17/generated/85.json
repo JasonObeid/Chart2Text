@@ -1,0 +1,59 @@
+{
+   "title": "U.S. investment banking : Number of establishments and employees",
+   "labels": [
+      "Year",
+      "Establishments",
+      "Employees"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the projected wholesale U.S. of investment banking Number and establishments in the employees from 2009 to 2006 . ",
+      "In 2009 , 4.9 investment banking Number were sold to employees in the employees ."
+   ],
+   "trends": [
+      {
+         "17": [
+            "3",
+            "0"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "0"
+         ],
+         "3": [
+            "3",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2006",
+         "Establishments": "7.6",
+         "Employees": "156"
+      },
+      {
+         "Year": "2007",
+         "Establishments": "9.3",
+         "Employees": "184"
+      },
+      {
+         "Year": "2008",
+         "Establishments": "4.5",
+         "Employees": "137"
+      },
+      {
+         "Year": "2009",
+         "Establishments": "4.9",
+         "Employees": "115"
+      }
+   ],
+   "gold": "The statistic represents the number of establishments and employees of investment banking businesses from 2006 to 2009 . In 2006 , U.S. investment banking businesses had 7,600 establishments and 156,000 employees .\n"
+}

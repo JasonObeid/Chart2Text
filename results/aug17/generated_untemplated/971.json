@@ -1,0 +1,86 @@
+{
+   "title": "National Hockey League - New Jersey Devils home attendance 2005 to 2019",
+   "labels": [
+      "Year",
+      "Total attendance",
+      "Average attendance"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This graph depicts the total/average regular season home attendance of the vancouver canucks franchise of the national hockey league from the 2005/06 season to the 2018/19 season . In 2018/19 , the total regular season home attendance of the franchise was 738918 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018/19",
+         "Total attendance": "608210",
+         "Average attendance": "14834"
+      },
+      {
+         "Year": "2017/18",
+         "Total attendance": "623240",
+         "Average attendance": "15200"
+      },
+      {
+         "Year": "2016/17",
+         "Total attendance": "597261",
+         "Average attendance": "14567"
+      },
+      {
+         "Year": "2015/16",
+         "Total attendance": "618029",
+         "Average attendance": "15073"
+      },
+      {
+         "Year": "2014/15",
+         "Total attendance": "622783",
+         "Average attendance": "15189"
+      },
+      {
+         "Year": "2013/14",
+         "Total attendance": "625570",
+         "Average attendance": "15257"
+      },
+      {
+         "Year": "2012/13",
+         "Total attendance": "410739",
+         "Average attendance": "17114"
+      },
+      {
+         "Year": "2011/12",
+         "Total attendance": "631258",
+         "Average attendance": "15396"
+      },
+      {
+         "Year": "2010/11",
+         "Total attendance": "605803",
+         "Average attendance": "14775"
+      },
+      {
+         "Year": "2009/10",
+         "Total attendance": "636975",
+         "Average attendance": "15535"
+      },
+      {
+         "Year": "2008/09",
+         "Total attendance": "647397",
+         "Average attendance": "15790"
+      },
+      {
+         "Year": "2007/08",
+         "Total attendance": "638144",
+         "Average attendance": "15564"
+      },
+      {
+         "Year": "2006/07",
+         "Total attendance": "581225",
+         "Average attendance": "14176"
+      },
+      {
+         "Year": "2005/06",
+         "Total attendance": "583448",
+         "Average attendance": "14230"
+      }
+   ],
+   "gold": "This graph depicts the total/average regular season home attendance of the New Jersey Devils franchise of the National Hockey League from the 2005/06 season to the 2018/19 season . In 2018/19 , the total regular season home attendance of the franchise was 608,210 .\n"
+}

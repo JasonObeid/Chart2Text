@@ -1,0 +1,88 @@
+{
+   "title": "Value of the leading merchandise exporters worldwide 2018 , by exporting nation\n",
+   "xAxis": "Exporting nation",
+   "yAxis": "Export value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 15 categories for the x axis representing Exporting nation, and a y axis representing Export value in billion U.S. dollars.",
+      " The highest category is found at China where Export value in billion U.S. dollars is 2487.0.",
+      " The lowest category is found at Kingdom_of_Saudi_Arabia where Export value in billion U.S. dollars is 299.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Exporting nation": "China",
+         "Export value in billion U.S. dollars": 2487.0
+      },
+      {
+         "Exporting nation": "Extra-EU (28)",
+         "Export value in billion U.S. dollars": 2309.0
+      },
+      {
+         "Exporting nation": "United States",
+         "Export value in billion U.S. dollars": 1664.0
+      },
+      {
+         "Exporting nation": "Japan",
+         "Export value in billion U.S. dollars": 738.0
+      },
+      {
+         "Exporting nation": "Republic of Korea",
+         "Export value in billion U.S. dollars": 605.0
+      },
+      {
+         "Exporting nation": "Hong Kong China",
+         "Export value in billion U.S. dollars": 569.0
+      },
+      {
+         "Exporting nation": "Mexico",
+         "Export value in billion U.S. dollars": 451.0
+      },
+      {
+         "Exporting nation": "Canada",
+         "Export value in billion U.S. dollars": 450.0
+      },
+      {
+         "Exporting nation": "Russian Federation",
+         "Export value in billion U.S. dollars": 444.0
+      },
+      {
+         "Exporting nation": "Singapore",
+         "Export value in billion U.S. dollars": 413.0
+      },
+      {
+         "Exporting nation": "United Arab Emirates",
+         "Export value in billion U.S. dollars": 346.0
+      },
+      {
+         "Exporting nation": "Chinese Taipei",
+         "Export value in billion U.S. dollars": 336.0
+      },
+      {
+         "Exporting nation": "India",
+         "Export value in billion U.S. dollars": 326.0
+      },
+      {
+         "Exporting nation": "Switzerland",
+         "Export value in billion U.S. dollars": 311.0
+      },
+      {
+         "Exporting nation": "Kingdom of Saudi Arabia",
+         "Export value in billion U.S. dollars": 299.0
+      }
+   ],
+   "gold": "This statistic shows the value of the leading merchandise exporters worldwide in 2018 , by exporting nation . In that year , the United States was the third largest merchandise exporting nation in the world , with a value amounting to about 1.66 trillion U.S. dollars .\n"
+}

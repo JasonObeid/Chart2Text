@@ -1,0 +1,56 @@
+{
+   "title": "Most popular crisps and savoury snack brands in the United Kingdom ( UK ) 2013",
+   "xAxis": "Snack Brand",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Most popular crisps savoury in the United Kingdom ( UK ) , ranked by Most purchased among consumers in a survey conducted in 2013 . ",
+      "According to the survey results , the leading alcoholic spirit Walkers was purchased by 42 % of respondents , followed by Bailey 's Doritos at 32 % . ",
+      "Spirit consumption is more common in the off-trade than the on-trade , with Walkers the Most popular spirit category when based on the distribution of sales ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0",
+         "14": "0",
+         "23": "1",
+         "25": "1"
+      },
+      {
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Snack Brand": "Walkers",
+         "Share of respondents currently purchasing": "42"
+      },
+      {
+         "Snack Brand": "Doritos",
+         "Share of respondents currently purchasing": "32"
+      },
+      {
+         "Snack Brand": "Hula Hoops",
+         "Share of respondents currently purchasing": "26"
+      },
+      {
+         "Snack Brand": "Pringles",
+         "Share of respondents currently purchasing": "26"
+      },
+      {
+         "Snack Brand": "McCoys",
+         "Share of respondents currently purchasing": "25"
+      },
+      {
+         "Snack Brand": "Own brand crisps",
+         "Share of respondents currently purchasing": "24"
+      },
+      {
+         "Snack Brand": "KP nuts",
+         "Share of respondents currently purchasing": "22"
+      }
+   ],
+   "gold": "This statistic displays the leading crisp and savory snack brands in the United Kingdom ( UK ) , ranked by most purchased . According to the survey conducted in November 2013 , the leading six products were all crisps . Walkers ranked highest with 42 percent of respondents purchasing their crisps at the time of survey , followed by Doritos at 32 percent .\n"
+}

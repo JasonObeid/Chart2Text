@@ -1,0 +1,42 @@
+{
+   "title": "GM 's research and development expenditures 2015 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Expenditures in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Expenditures in billion U.S. dollars with a total of 5 data points. The chart has one significant trend.",
+      " This trend is negative which exists from 2015 to 2019."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Expenditures in billion U.S. dollars": 6.0
+      },
+      {
+         "Year": "2016",
+         "Expenditures in billion U.S. dollars": 6.6
+      },
+      {
+         "Year": "2017",
+         "Expenditures in billion U.S. dollars": 7.3
+      },
+      {
+         "Year": "2018",
+         "Expenditures in billion U.S. dollars": 7.8
+      },
+      {
+         "Year": "2019",
+         "Expenditures in billion U.S. dollars": 6.8
+      }
+   ],
+   "gold": "General Motors incurred around 6.8 billion U.S. dollars in R & D costs in 2019 . This figure puts the car manufacturer 's R & D intensity at five percent . That said , the company declared interest to enter into cost sharing arrangements with third parties .\n"
+}

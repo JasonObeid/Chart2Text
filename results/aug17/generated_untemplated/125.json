@@ -1,0 +1,65 @@
+{
+   "title": "Number of road deaths in Germany 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "Between 2006 and 2018 , road fatalities in sweden had seen a net decline of 27 percent . The lowest figure of such fatalities was recorded in 2017 at 253 . These figures stand in contrast to an increase in the volume of passenger road transport .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": 3275.0
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": 3180.0
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": 3206.0
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": 3459.0
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": 3377.0
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": 3339.0
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": 3600.0
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": 4009.0
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": 3648.0
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": 4152.0
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": 4477.0
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": 4949.0
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": 5091.0
+      }
+   ],
+   "gold": "This line graph shows the number of road traffic fatalities per year in Germany between 2006 and 2018 . In 2009 , 4,152 individuals were killed in motor vehicle accidents . An overall decrease in the number of road deaths was observed within the time period shown .\n"
+}

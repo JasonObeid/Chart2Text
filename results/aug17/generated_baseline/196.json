@@ -1,0 +1,84 @@
+{
+   "title": "MINI - worldwide sales volume 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Sales in units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Sales in units, with a total of 13 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2014 to 2009.",
+      " Likewise, the next significant trend is moderately positive which exists from 2018 to 2014.",
+      " Likewise, the next significant trend is slightly positive which exists from 2009 to 2006."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "9"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in units": 361531.0
+      },
+      {
+         "Year": "2017",
+         "Sales in units": 371881.0
+      },
+      {
+         "Year": "2016",
+         "Sales in units": 360233.0
+      },
+      {
+         "Year": "2015",
+         "Sales in units": 338466.0
+      },
+      {
+         "Year": "2014",
+         "Sales in units": 302183.0
+      },
+      {
+         "Year": "2013",
+         "Sales in units": 305030.0
+      },
+      {
+         "Year": "2012",
+         "Sales in units": 301526.0
+      },
+      {
+         "Year": "2011",
+         "Sales in units": 285060.0
+      },
+      {
+         "Year": "2010",
+         "Sales in units": 234175.0
+      },
+      {
+         "Year": "2009",
+         "Sales in units": 216538.0
+      },
+      {
+         "Year": "2008",
+         "Sales in units": 232425.0
+      },
+      {
+         "Year": "2007",
+         "Sales in units": 222875.0
+      },
+      {
+         "Year": "2006",
+         "Sales in units": 188077.0
+      }
+   ],
+   "gold": "Deliveries of BMW MINI-badged cars stood at about 361,500 units in 2018 . BMW has operated the MINI brand since 2000 and adapted the trademark compact style originally designed by Birmingham-based British Motor Corporation ( BMC ) to meet modern preferences . In the UK , the MINI brand was launched with great success .\n"
+}

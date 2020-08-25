@@ -1,0 +1,68 @@
+{
+   "title": "Symbol groups ranked by number of convenience stores in the United Kingdom ( UK ) 2014\n",
+   "xAxis": "Symbol Groups",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Symbol Groups, and a y axis representing Number of stores.",
+      " The highest category is found at Premier where Number of stores is 2950.0.",
+      " The lowest category is found at McColl's where Number of stores is 719.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Symbol Groups": "Premier",
+         "Number of stores": 2950.0
+      },
+      {
+         "Symbol Groups": "Best-one",
+         "Number of stores": 2904.0
+      },
+      {
+         "Symbol Groups": "Costcutter",
+         "Number of stores": 2547.0
+      },
+      {
+         "Symbol Groups": "Spar",
+         "Number of stores": 2312.0
+      },
+      {
+         "Symbol Groups": "Londis",
+         "Number of stores": 2018.0
+      },
+      {
+         "Symbol Groups": "Lifestyle express",
+         "Number of stores": 1976.0
+      },
+      {
+         "Symbol Groups": "The Co-operative",
+         "Number of stores": 1785.0
+      },
+      {
+         "Symbol Groups": "Tesco Express",
+         "Number of stores": 1463.0
+      },
+      {
+         "Symbol Groups": "Nisa",
+         "Number of stores": 1002.0
+      },
+      {
+         "Symbol Groups": "McColl's",
+         "Number of stores": 719.0
+      }
+   ],
+   "gold": "This statistic shows the leading ten symbol groups in the United Kingdom ( UK ) retail sector , ranked by number of convenience stores in 2014 . Premier ranked highest , with 2950 convenience stores , followed by Best-one , Costcutter , Spar and Londis .\n"
+}

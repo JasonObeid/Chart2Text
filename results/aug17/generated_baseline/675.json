@@ -1,0 +1,48 @@
+{
+   "title": "Opinion on novel coronavirus COVID-19 as a health issue India 2020\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Staying_alert_and_taking_precautions where Share of respondents is 72.0.",
+      " The lowest category is found at Don't_know_much_about_coronavirus where Share of respondents is 3.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Staying alert and taking precautions",
+         "Share of respondents": 72.0
+      },
+      {
+         "Response": "Don't believe it can impact us or Indians at large",
+         "Share of respondents": 16.0
+      },
+      {
+         "Response": "Can't say",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Don't know much about coronavirus",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Don't believe it can impact us",
+         "Share of respondents": 3.0
+      }
+   ],
+   "gold": "According to a survey conducted to understand the opinion among Indians on the issue of novel coronavirus COVID-19 , about 72 percent of respondents stated that they are staying alert and taking precautions . On the contrary , 16 percent said that they did not believe that the virus can impact them or Indians at large . As of February 2020 , India had three confirmed cases of COVID-19 .\n"
+}

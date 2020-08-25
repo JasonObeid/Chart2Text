@@ -1,0 +1,51 @@
+{
+   "title": "OLED panel fabrication : U.S. cost targets 2016 to 2025",
+   "labels": [
+      "Year",
+      "Depreciation",
+      "Labor",
+      "Organic materials",
+      "Inorganic materials",
+      "Other fixed costs"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows a forecast for house price growth in london , united kingdom ( uk ) between 2015 and 2019 . The cumulative growth in house prices between 2015 and 2019 is expected at a level of 29.4 percent for the greater london area .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2016",
+         "Depreciation": "600",
+         "Labor": "100",
+         "Organic materials": "150",
+         "Inorganic materials": "200",
+         "Other fixed costs": "50"
+      },
+      {
+         "Year": "2018",
+         "Depreciation": "140",
+         "Labor": "25",
+         "Organic materials": "100",
+         "Inorganic materials": "140",
+         "Other fixed costs": "15"
+      },
+      {
+         "Year": "2020",
+         "Depreciation": "70",
+         "Labor": "15",
+         "Organic materials": "50",
+         "Inorganic materials": "100",
+         "Other fixed costs": "10"
+      },
+      {
+         "Year": "2025",
+         "Depreciation": "35",
+         "Labor": "5",
+         "Organic materials": "15",
+         "Inorganic materials": "30",
+         "Other fixed costs": "5"
+      }
+   ],
+   "gold": "This statistic shows the cost targets for organic light-emitting diode ( OLED ) panel fabrication in the United States from 2016 to 2025 , by cost area . The target for labor costs for 2025 is expected to reach decrease to 5 U.S. dollars per square meter of OLED panel produced .\n"
+}

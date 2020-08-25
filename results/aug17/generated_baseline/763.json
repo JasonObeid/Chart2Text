@@ -1,0 +1,131 @@
+{
+   "title": "Distribution of gross domestic product ( GDP ) across economic sectors Costa Rica 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Services had the highest values across Year with a mean value of 64.7.",
+      " This peaked at 2018 with a value of 68.3. ",
+      " The line with the second highest values was Industry with a mean value of 21.1.",
+      " This line peaked at 2009 with a value of 23.6"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "9",
+            "1"
+         ],
+         "10": [
+            "9",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "4.58",
+         "Industry": "19.47",
+         "Services": "68.35"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "5.01",
+         "Industry": "18.99",
+         "Services": "68.07"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "5.13",
+         "Industry": "19.14",
+         "Services": "67.51"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "4.96",
+         "Industry": "19.42",
+         "Services": "67.39"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "5.12",
+         "Industry": "20.17",
+         "Services": "66.38"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "5.04",
+         "Industry": "20.76",
+         "Services": "65.69"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "5.41",
+         "Industry": "21.93",
+         "Services": "64.14"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "5.84",
+         "Industry": "22.32",
+         "Services": "63.11"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "6.59",
+         "Industry": "23.24",
+         "Services": "61.8"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "7.09",
+         "Industry": "23.65",
+         "Services": "60.84"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "7.02",
+         "Industry": "23.69",
+         "Services": "59.18"
+      }
+   ],
+   "gold": "This statistic shows the distribution of the gross domestic product ( GDP ) across economic sectors in Costa Rica from 2008 to 2018 . In 2018 , agriculture contributed around 4.58 percent to the GDP of Costa Rica , 19.47 percent came from the industry and 68.35 percent from the services sector .\n"
+}

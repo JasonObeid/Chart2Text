@@ -1,0 +1,37 @@
+{
+   "title": "Purchasing power change in the Netherlands 2015 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Year on year percentage change",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of asylum applications in ireland in 2015 and 2016 , with a forecast to 2020 . In 2015 , asylum applications made in ireland amounted to roughly 163 thousands .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2020",
+         "Year on year percentage change": 1.3
+      },
+      {
+         "Year": "2019",
+         "Year on year percentage change": 1.6
+      },
+      {
+         "Year": "2018",
+         "Year on year percentage change": 0.3
+      },
+      {
+         "Year": "2017",
+         "Year on year percentage change": 0.3
+      },
+      {
+         "Year": "2016",
+         "Year on year percentage change": 2.6
+      },
+      {
+         "Year": "2015",
+         "Year on year percentage change": 1.0
+      }
+   ],
+   "gold": "In 2018 , the purchasing power in the Netherlands increased for the fourth year in a row . Purchasing power growth slowed down considerably though in 2017 and 2018 in comparison to 2015 and especially 2016 . In the next two years , the purchasing power was forecast to increase further .\n"
+}

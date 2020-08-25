@@ -1,0 +1,52 @@
+{
+   "title": "South Africa : number of internet users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "It is expected that by 2023 , around 49.0 millions Filipinos will become internet of a number internet . ",
+      "Considering the forecasted population of around 118 millions , it reflects the high popularity of number media in the South Africa . ",
+      "Current state of number media in the South Africa have been called the number media capital of the world , because most of the number media internet have an extraordinarily high usage time of about four hours per day ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "8": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of internet users in millions": "49.0"
+      },
+      {
+         "Year": "2022",
+         "Number of internet users in millions": "46.8"
+      },
+      {
+         "Year": "2021",
+         "Number of internet users in millions": "44.4"
+      },
+      {
+         "Year": "2020",
+         "Number of internet users in millions": "41.9"
+      },
+      {
+         "Year": "2019",
+         "Number of internet users in millions": "39.3"
+      },
+      {
+         "Year": "2018",
+         "Number of internet users in millions": "36.6"
+      },
+      {
+         "Year": "2017",
+         "Number of internet users in millions": "33.9"
+      }
+   ],
+   "gold": "This statistic provides information on the number of internet users in South Africa from 2017 to 2023 . In 2018 , South Africa had 36.6 million internet users . This figure is projected to grow to 49 million internet users in 2022 .\n"
+}

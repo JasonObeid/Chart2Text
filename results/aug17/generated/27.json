@@ -1,0 +1,104 @@
+{
+   "title": "Average annual wages in Italy 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average annual wages in euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Over the past two decades , the Average annual in the Italy has remained relatively stable . ",
+      "In 2018 , the Average annual in the Italy was 29601 wages . ",
+      "Speeds peaked during this period in 2014 at 30620 wages , before falling to 29634 wages the following Year ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {
+         "6": "4",
+         "8": "8",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average annual wages in euros": "29601"
+      },
+      {
+         "Year": "2017",
+         "Average annual wages in euros": "29558"
+      },
+      {
+         "Year": "2016",
+         "Average annual wages in euros": "29843"
+      },
+      {
+         "Year": "2015",
+         "Average annual wages in euros": "29634"
+      },
+      {
+         "Year": "2014",
+         "Average annual wages in euros": "29390"
+      },
+      {
+         "Year": "2013",
+         "Average annual wages in euros": "29277"
+      },
+      {
+         "Year": "2012",
+         "Average annual wages in euros": "29231"
+      },
+      {
+         "Year": "2011",
+         "Average annual wages in euros": "30140"
+      },
+      {
+         "Year": "2010",
+         "Average annual wages in euros": "30620"
+      },
+      {
+         "Year": "2009",
+         "Average annual wages in euros": "30330"
+      },
+      {
+         "Year": "2008",
+         "Average annual wages in euros": "30179"
+      },
+      {
+         "Year": "2007",
+         "Average annual wages in euros": "30148"
+      },
+      {
+         "Year": "2006",
+         "Average annual wages in euros": "30176"
+      },
+      {
+         "Year": "2005",
+         "Average annual wages in euros": "29970"
+      },
+      {
+         "Year": "2004",
+         "Average annual wages in euros": "29636"
+      },
+      {
+         "Year": "2003",
+         "Average annual wages in euros": "29042"
+      },
+      {
+         "Year": "2002",
+         "Average annual wages in euros": "29073"
+      },
+      {
+         "Year": "2001",
+         "Average annual wages in euros": "29272"
+      },
+      {
+         "Year": "2000",
+         "Average annual wages in euros": "29125"
+      }
+   ],
+   "gold": "Between 2000 and 2018 , the average wage in Italy was stable , remaining between 29 thousand and 30 thousand euros . In 2018 , male managers represented the group of people with the highest earnings . Their gross salary amounted to 102 thousand euros a year .\n"
+}

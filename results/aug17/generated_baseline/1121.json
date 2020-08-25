@@ -1,0 +1,68 @@
+{
+   "title": "Solar PV capacity - new installations worldwide by country 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Percentage of newly installed capacity",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Percentage of newly installed capacity.",
+      " The highest category is found at China where Percentage of newly installed capacity is 45.0.",
+      " The lowest category is found at Netherlands where Percentage of newly installed capacity is 1.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Percentage of newly installed capacity": 45.0
+      },
+      {
+         "Country": "India",
+         "Percentage of newly installed capacity": 11.0
+      },
+      {
+         "Country": "US",
+         "Percentage of newly installed capacity": 11.0
+      },
+      {
+         "Country": "Japan",
+         "Percentage of newly installed capacity": 7.0
+      },
+      {
+         "Country": "Australia",
+         "Percentage of newly installed capacity": 4.0
+      },
+      {
+         "Country": "Germany",
+         "Percentage of newly installed capacity": 3.0
+      },
+      {
+         "Country": "Mexico",
+         "Percentage of newly installed capacity": 3.0
+      },
+      {
+         "Country": "Republic of Korea",
+         "Percentage of newly installed capacity": 2.0
+      },
+      {
+         "Country": "Turkey",
+         "Percentage of newly installed capacity": 2.0
+      },
+      {
+         "Country": "Netherlands",
+         "Percentage of newly installed capacity": 1.0
+      }
+   ],
+   "gold": "This statistic shows the share of new installed solar PV capacity worldwide in 2018 , by country . In 2018 , new solar PV capacity installations in China accounted for around 45 percent of the world 's total new installed grid-connected PV capacity .\n"
+}

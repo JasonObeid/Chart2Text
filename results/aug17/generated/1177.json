@@ -1,0 +1,142 @@
+{
+   "title": "MLB all-time RBI leaders 2019",
+   "xAxis": "Players",
+   "yAxis": "Number of runs batted in",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Players all-time runs batted 2019 as of October 9 , 2019 . ",
+      "Hank_Aaron has batted the most runs in Major League Baseball history with 2297 runs ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Players": "Hank Aaron",
+         "Number of runs batted in": "2297"
+      },
+      {
+         "Players": "Babe Ruth",
+         "Number of runs batted in": "2214"
+      },
+      {
+         "Players": "Alex Rodriguez",
+         "Number of runs batted in": "2086"
+      },
+      {
+         "Players": "Cap Anson",
+         "Number of runs batted in": "2075"
+      },
+      {
+         "Players": "Albert Pujols",
+         "Number of runs batted in": "2075"
+      },
+      {
+         "Players": "Barry Bonds",
+         "Number of runs batted in": "1996"
+      },
+      {
+         "Players": "Lou Gehrig",
+         "Number of runs batted in": "1995"
+      },
+      {
+         "Players": "Stan Musial",
+         "Number of runs batted in": "1951"
+      },
+      {
+         "Players": "Ty Cobb",
+         "Number of runs batted in": "1944"
+      },
+      {
+         "Players": "Jimmie Foxx",
+         "Number of runs batted in": "1922"
+      },
+      {
+         "Players": "Eddie Murray",
+         "Number of runs batted in": "1917"
+      },
+      {
+         "Players": "Willie Mays",
+         "Number of runs batted in": "1903"
+      },
+      {
+         "Players": "Mel Ott",
+         "Number of runs batted in": "1860"
+      },
+      {
+         "Players": "Carl Yastrzemski",
+         "Number of runs batted in": "1844"
+      },
+      {
+         "Players": "Ted Williams",
+         "Number of runs batted in": "1839"
+      },
+      {
+         "Players": "Ken Griffey",
+         "Number of runs batted in": "1836"
+      },
+      {
+         "Players": "Rafael Palmeiro",
+         "Number of runs batted in": "1835"
+      },
+      {
+         "Players": "Dave Winfield",
+         "Number of runs batted in": "1833"
+      },
+      {
+         "Players": "Manny Ramirez",
+         "Number of runs batted in": "1831"
+      },
+      {
+         "Players": "Al Simmons",
+         "Number of runs batted in": "1828"
+      },
+      {
+         "Players": "Frank Robinson",
+         "Number of runs batted in": "1812"
+      },
+      {
+         "Players": "David Ortiz",
+         "Number of runs batted in": "1768"
+      },
+      {
+         "Players": "Honus Wagner",
+         "Number of runs batted in": "1732"
+      },
+      {
+         "Players": "Adrian Beltre",
+         "Number of runs batted in": "1707"
+      },
+      {
+         "Players": "Frank Thomas",
+         "Number of runs batted in": "1704"
+      },
+      {
+         "Players": "Reggie Jackson",
+         "Number of runs batted in": "1702"
+      },
+      {
+         "Players": "Jim Thome",
+         "Number of runs batted in": "1699"
+      },
+      {
+         "Players": "Cal Ripken",
+         "Number of runs batted in": "1695"
+      },
+      {
+         "Players": "Miguel Cabrera",
+         "Number of runs batted in": "1694"
+      },
+      {
+         "Players": "Gary Sheffield",
+         "Number of runs batted in": "1676"
+      }
+   ],
+   "gold": "This statistic shows the MLB all-time RBI leaders as of October 9 , 2019 . Hank Aaron has batted in the most runs in Major League Baseball history with 2,297 RBI .\n"
+}

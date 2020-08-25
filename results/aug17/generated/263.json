@@ -1,0 +1,78 @@
+{
+   "title": "Population density in Texas 1960 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of residents per square mile",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Population density in the federal state of Texas from 1960 to 2018 . ",
+      "In 2018 , the Population density of Texas stood at 109.9 per square mile of land area ."
+   ],
+   "trends": [
+      {
+         "13": "12",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "10": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of residents per square mile": "109.9"
+      },
+      {
+         "Year": "2017",
+         "Number of residents per square mile": "108.4"
+      },
+      {
+         "Year": "2016",
+         "Number of residents per square mile": "106.7"
+      },
+      {
+         "Year": "2015",
+         "Number of residents per square mile": "105.2"
+      },
+      {
+         "Year": "2014",
+         "Number of residents per square mile": "103.2"
+      },
+      {
+         "Year": "2013",
+         "Number of residents per square mile": "101.2"
+      },
+      {
+         "Year": "2012",
+         "Number of residents per square mile": "99.8"
+      },
+      {
+         "Year": "2010",
+         "Number of residents per square mile": "96.3"
+      },
+      {
+         "Year": "2000",
+         "Number of residents per square mile": "79.8"
+      },
+      {
+         "Year": "1990",
+         "Number of residents per square mile": "65.0"
+      },
+      {
+         "Year": "1980",
+         "Number of residents per square mile": "54.5"
+      },
+      {
+         "Year": "1970",
+         "Number of residents per square mile": "42.9"
+      },
+      {
+         "Year": "1960",
+         "Number of residents per square mile": "36.6"
+      }
+   ],
+   "gold": "This graph shows the population density in the federal state of Texas from 1960 to 2018 . In 2018 , the population density of Texas stood at 109.9 residents per square mile of land area .\n"
+}

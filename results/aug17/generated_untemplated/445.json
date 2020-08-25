@@ -1,0 +1,115 @@
+{
+   "title": "Monthly retail sales of beer , wine and liquor stores in Canada 2015 to 2019",
+   "labels": [
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "The average retail price for one kilogram of bananas in canada was 1.55 Canadian dollars in 2019 . This price remained relatively stable in 2019 , staying between 1.54 and 1.57 Canadian dollars per kilogram . Prices were higher in 2015 , with an average monthly cost of 1.7 dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Month": "Dec",
+         "2015": "1.82",
+         "2016": "1.86",
+         "2017": "1.94",
+         "2018": "1.98",
+         "2019": "0"
+      },
+      {
+         "Month": "Nov",
+         "2015": "1.81",
+         "2016": "1.9",
+         "2017": "1.91",
+         "2018": "1.98",
+         "2019": "0"
+      },
+      {
+         "Month": "Oct",
+         "2015": "1.77",
+         "2016": "1.88",
+         "2017": "1.93",
+         "2018": "2.01",
+         "2019": "0"
+      },
+      {
+         "Month": "Sep",
+         "2015": "1.84",
+         "2016": "1.85",
+         "2017": "1.91",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "Aug",
+         "2015": "1.84",
+         "2016": "1.85",
+         "2017": "1.89",
+         "2018": "2.02",
+         "2019": "0"
+      },
+      {
+         "Month": "Jul",
+         "2015": "1.8",
+         "2016": "1.83",
+         "2017": "1.93",
+         "2018": "1.98",
+         "2019": "0"
+      },
+      {
+         "Month": "Jun",
+         "2015": "1.77",
+         "2016": "1.86",
+         "2017": "1.91",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "May",
+         "2015": "1.73",
+         "2016": "1.9",
+         "2017": "1.9",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "Apr",
+         "2015": "1.77",
+         "2016": "1.85",
+         "2017": "1.87",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "Mar",
+         "2015": "1.77",
+         "2016": "1.88",
+         "2017": "1.87",
+         "2018": "1.94",
+         "2019": "0"
+      },
+      {
+         "Month": "Feb",
+         "2015": "1.73",
+         "2016": "1.87",
+         "2017": "1.89",
+         "2018": "1.93",
+         "2019": "2.01"
+      },
+      {
+         "Month": "Jan",
+         "2015": "1.71",
+         "2016": "1.81",
+         "2017": "1.87",
+         "2018": "1.95",
+         "2019": "2.02"
+      }
+   ],
+   "gold": "Retail sales of beer , wine and liquor stores reached approximately 2.01 billion Canadian dollars in February 2019 , an increase of around 80 million Canadian dollars compared to February in the previous year . Monthly sales have witnessed a steady increase over the past five years . Of these beverages , wine is the most popular among Canadians , followed by domestic and imported beer .\n"
+}

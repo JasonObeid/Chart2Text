@@ -1,0 +1,46 @@
+{
+   "title": "Annual closing prices - Volkswagen shares 2013 to 2018",
+   "labels": [
+      "Year",
+      "Common stock",
+      "Preferred stock"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows projected rare earth production from china and also the rest of world from 2013 to 2018 . For 2018 , it was estimated that the rare earth production worldwide ( excluding china ) will be some 75 thousand metric tons while china 's production was expected to be around 100300 metric tons .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Common stock": "139.1",
+         "Preferred stock": "138.92"
+      },
+      {
+         "Year": "2017",
+         "Common stock": "168.7",
+         "Preferred stock": "166.45"
+      },
+      {
+         "Year": "2016",
+         "Common stock": "136.75",
+         "Preferred stock": "133.35"
+      },
+      {
+         "Year": "2015",
+         "Common stock": "142.3",
+         "Preferred stock": "133.75"
+      },
+      {
+         "Year": "2014",
+         "Common stock": "180.1",
+         "Preferred stock": "184.65"
+      },
+      {
+         "Year": "2013",
+         "Common stock": "196.9",
+         "Preferred stock": "204.15"
+      }
+   ],
+   "gold": "In 2018 , Volkswagen shares closed at almost 140 euros : Volkswagen 's preference shares were valued at just under 139 euros , while ordinary shares closed at a little over 139 euros . In 2018 , Volkswagen 's shares were worth significantly less than five years earlier . Much of this drop in value is attributed to the company 's involvement in the 2015 diesel emissions scandal .\n"
+}

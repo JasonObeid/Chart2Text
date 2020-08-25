@@ -1,0 +1,50 @@
+{
+   "title": "Share of people owning microwave ovens in Germany 2008 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the development of Share current account holders , who use people owning to communicate with their bank at least once a month in the Germany ( ) from 2008 to 2017 . ",
+      "By 2017 , it can be seen that 65 % of respondents stated they used people owning at least once a month . ",
+      "The increases observed in people owning usage were steep over time : in 2008 , only 65 % of current account holders on the British market turned monthly to people owning as a secure way of communicating with their bank ."
+   ],
+   "trends": [
+      {
+         "33": "4",
+         "35": "0"
+      },
+      {
+         "1": "0",
+         "8": "0"
+      },
+      {
+         "13": "4",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Share of respondents": "65"
+      },
+      {
+         "Year": "2015",
+         "Share of respondents": "70"
+      },
+      {
+         "Year": "2013",
+         "Share of respondents": "76"
+      },
+      {
+         "Year": "2010",
+         "Share of respondents": "80"
+      },
+      {
+         "Year": "2008",
+         "Share of respondents": "80"
+      }
+   ],
+   "gold": "The figure shows the share of households owning microwave ovens in Germany from 2008 to 2017 . Over the time period under consideration , microwave oven ownership has decreased from 80 percent of respondents in 2008 to 65 percent in 2017 .\n"
+}

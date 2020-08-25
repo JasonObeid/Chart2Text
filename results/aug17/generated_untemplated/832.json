@@ -1,0 +1,45 @@
+{
+   "title": "Missing persons cases 2012 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of cases",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the number of employees in great britain from 2012 to 2019 , with a forecast for 2028 . In 2018 , a total of 1149402 people made , up from 80 million in the previous year .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "H1 2019",
+         "Number of cases": 236656.0
+      },
+      {
+         "Year": "2018",
+         "Number of cases": 229687.0
+      },
+      {
+         "Year": "2017",
+         "Number of cases": 211219.0
+      },
+      {
+         "Year": "2016",
+         "Number of cases": 189110.0
+      },
+      {
+         "Year": "2015",
+         "Number of cases": 166280.0
+      },
+      {
+         "Year": "2014",
+         "Number of cases": 149036.0
+      },
+      {
+         "Year": "2013",
+         "Number of cases": 133989.0
+      },
+      {
+         "Year": "2012",
+         "Number of cases": 120791.0
+      }
+   ],
+   "gold": "In June 2019 , the number of cases of missing people amounted to 236,656 . More specifically , the chart displays the total number of reports recorded by the Police between 1974 and June 2019 . In 1974 , a database recording the number of missing people cases was started .\n"
+}

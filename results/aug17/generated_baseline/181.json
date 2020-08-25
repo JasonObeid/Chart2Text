@@ -1,0 +1,69 @@
+{
+   "title": "French households savings rate 2010 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Savings rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Savings rate, with a total of 8 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly negative which exists from 2013 to 2010.",
+      " On the contrary, the next significant trend is moderately positive which exists from 2015 to 2013.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2017 to 2016.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2016 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "7"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Savings rate": 14.6
+      },
+      {
+         "Year": "2016",
+         "Savings rate": 14.0
+      },
+      {
+         "Year": "2015",
+         "Savings rate": 14.5
+      },
+      {
+         "Year": "2014",
+         "Savings rate": 14.4
+      },
+      {
+         "Year": "2013",
+         "Savings rate": 14.3
+      },
+      {
+         "Year": "2012",
+         "Savings rate": 15.1
+      },
+      {
+         "Year": "2011",
+         "Savings rate": 15.6
+      },
+      {
+         "Year": "2010",
+         "Savings rate": 15.8
+      }
+   ],
+   "gold": "The statistic presents the personal savings rate in France from 2010 to 2017 . The personal savings rate amounted to 14.6 percent in the first quarter of 2017 in France . The savings rate refers to the amount of money , expressed as a percentage or ratio , that a person deducts from his disposable personal income .\n"
+}

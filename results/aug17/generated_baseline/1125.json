@@ -1,0 +1,64 @@
+{
+   "title": "Crude oil imports to Canada by region of origin 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Imports in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Country, and a y axis representing Imports in million metric tons.",
+      " The highest category is found at Total where Imports in million metric tons is 29.1.",
+      " The lowest category is found at Russia where Imports in million metric tons is 0.2."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 8,
+         "12": 8
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Imports in million metric tons": 18.8
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Imports in million metric tons": 5.6
+      },
+      {
+         "Country": "West Africa",
+         "Imports in million metric tons": 1.1
+      },
+      {
+         "Country": "Europe",
+         "Imports in million metric tons": 1.4
+      },
+      {
+         "Country": "CIS (excluding Russia)",
+         "Imports in million metric tons": 1.1
+      },
+      {
+         "Country": "North Africa",
+         "Imports in million metric tons": 0.5
+      },
+      {
+         "Country": "South and Central America",
+         "Imports in million metric tons": 0.3
+      },
+      {
+         "Country": "Russia",
+         "Imports in million metric tons": 0.2
+      },
+      {
+         "Country": "Total",
+         "Imports in million metric tons": 29.1
+      }
+   ],
+   "gold": "In 2018 , Canada imported 18.8 million metric tons of crude oil from the United States , which was the largest quantity Canada imported from of any country . Canadian crude oil In 1858 , the first oil deposit in North America was found in Ontario , Canada . Today , however , Canada 's largest volume of crude oil is produced in Alberta , where the Athabasca oil sands are located .\n"
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Runner-up at World Cup tournaments by country 1930 to 2014\n",
+   "xAxis": "Country",
+   "yAxis": "Number of runners-up",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of titles from latin america and the caribbean participating in the 2018 PyeongChang winter games , sorted by country . Out of a total of 37 athletes from this region , 9 were from brazil and 7 from chile .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of runners-up": 4.0
+      },
+      {
+         "Country": "Netherlands the",
+         "Number of runners-up": 3.0
+      },
+      {
+         "Country": "Argentina",
+         "Number of runners-up": 3.0
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Czechoslovakia",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Italy",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Hungary",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "France",
+         "Number of runners-up": 1.0
+      },
+      {
+         "Country": "Sweden",
+         "Number of runners-up": 1.0
+      }
+   ],
+   "gold": "The statistic depicts the number of vice-championships at soccer World Cups since 1930 by country . Germany has been runners-up four times .\n"
+}

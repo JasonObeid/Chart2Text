@@ -1,0 +1,86 @@
+{
+   "title": "Importance in decision-making process when purchasing CE in the U.S. 2013",
+   "labels": [
+      "Response",
+      "18-49",
+      "50+"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the average cost of various male hair and beauty treatments in salons in the united kingdom from 2012 to 2017 . Over the last three period , the average price of male hair cuts dropped from 19 British pounds in 2012 to 12 British pounds in 2014 . The most expensive treatment that can be had for males in a beauty salon is the facial or massage , which both cost 33 British pounds in 2017 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Price",
+         "18-49": "83",
+         "50+": "95"
+      },
+      {
+         "Response": "Quality",
+         "18-49": "82",
+         "50+": "94"
+      },
+      {
+         "Response": "Product features",
+         "18-49": "81",
+         "50+": "91"
+      },
+      {
+         "Response": "Ease of use",
+         "18-49": "80",
+         "50+": "90"
+      },
+      {
+         "Response": "Product reviews",
+         "18-49": "73",
+         "50+": "75"
+      },
+      {
+         "Response": "Warranty",
+         "18-49": "70",
+         "50+": "83"
+      },
+      {
+         "Response": "Style of design",
+         "18-49": "70",
+         "50+": "65"
+      },
+      {
+         "Response": "Previous experience with brand",
+         "18-49": "67",
+         "50+": "78"
+      },
+      {
+         "Response": "Brand",
+         "18-49": "65",
+         "50+": "69"
+      },
+      {
+         "Response": "Friend/family member/co-worker recommendation",
+         "18-49": "54",
+         "50+": "51"
+      },
+      {
+         "Response": "Environmental friendliness of product",
+         "18-49": "41",
+         "50+": "35"
+      },
+      {
+         "Response": "Salesperson recommendation",
+         "18-49": "35",
+         "50+": "32"
+      },
+      {
+         "Response": "Family members have it",
+         "18-49": "32",
+         "50+": "28"
+      },
+      {
+         "Response": "Friends have it",
+         "18-49": "32",
+         "50+": "21"
+      }
+   ],
+   "gold": "This statistic shows the results of a 2013 survey regarding the decision-making process when purchasing CE in the U.S. in 2013 . The survey revealed that 83 percent of the respondents between the ages of 18 - 49 said the price is very or somewhat important to their decision-making process when buying consumer electronics .\n"
+}

@@ -1,0 +1,63 @@
+{
+   "title": "Southwest Airlines - available seat miles 2011 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "ASMs in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing ASMs in billions, with a total of 9 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2011.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2019 to 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "8"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "ASMs in billions": 157.25
+      },
+      {
+         "Year": "2018",
+         "ASMs in billions": 159.8
+      },
+      {
+         "Year": "2017",
+         "ASMs in billions": 153.81
+      },
+      {
+         "Year": "2016",
+         "ASMs in billions": 148.52
+      },
+      {
+         "Year": "2015",
+         "ASMs in billions": 140.5
+      },
+      {
+         "Year": "2014",
+         "ASMs in billions": 131.0
+      },
+      {
+         "Year": "2013",
+         "ASMs in billions": 130.34
+      },
+      {
+         "Year": "2012",
+         "ASMs in billions": 128.14
+      },
+      {
+         "Year": "2011",
+         "ASMs in billions": 120.58
+      }
+   ],
+   "gold": "Southwest Airlines grew its available seat miles ( ASMs ) from 120.58 billion in 2011 to 157.25 billion in 2019 . ASMs are calculated by the total number of seats multiplied by the total distance traveled . When describing the airline industry , people consider ASMs as a measure of capacity .\n"
+}

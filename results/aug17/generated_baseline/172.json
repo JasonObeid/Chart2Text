@@ -1,0 +1,40 @@
+{
+   "title": "Global distribution systems : company revenues 2017\n",
+   "xAxis": "Company",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Company, and a y axis representing Revenue in billion U.S. dollars.",
+      " The highest category is found at Amadeus where Revenue in billion U.S. dollars is 5.81.",
+      " The lowest category is found at Travelport where Revenue in billion U.S. dollars is 2.45."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Amadeus",
+         "Revenue in billion U.S. dollars": 5.81
+      },
+      {
+         "Company": "Sabre",
+         "Revenue in billion U.S. dollars": 3.6
+      },
+      {
+         "Company": "Travelport",
+         "Revenue in billion U.S. dollars": 2.45
+      }
+   ],
+   "gold": "This statistic shows the revenue of selected global distribution systems in 2017 . The global distribution system Amadeus generated a revenue of approximately 5.81 billion U.S. dollars ( 4.85 billion euros ) in 2017 . The revenue of Amadeus has been consistent over the last four years , remaining above 4.1 billion U.S. dollars .\n"
+}

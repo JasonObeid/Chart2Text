@@ -1,0 +1,32 @@
+{
+   "title": "Snapchat : distribution of global audiences 2020 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Share of active users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the distribution of Snapchat active worldwide as of 2020 , sorted by gender . ",
+      "During the survey period , 38 % of Snapchat audiences were Female and 61 % were Male ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1",
+         "11": "0",
+         "13": "0",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Share of active users": "61"
+      },
+      {
+         "Sex": "Male",
+         "Share of active users": "38"
+      }
+   ],
+   "gold": "This statistic gives information on the distribution of Snapchat users worldwide as of January 2020 , sorted by gender . During the survey period , 61 percent of Snapchat audiences were female and 38 percent were male .\n"
+}

@@ -1,0 +1,62 @@
+{
+   "title": "Consolidated sales of L'Or\u00e9al worldwide 2009 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Sales in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Sales in million euros with a total of 10 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2018 to 2009."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in million euros": 26937.0
+      },
+      {
+         "Year": "2017",
+         "Sales in million euros": 26024.0
+      },
+      {
+         "Year": "2016",
+         "Sales in million euros": 25837.0
+      },
+      {
+         "Year": "2015",
+         "Sales in million euros": 25257.0
+      },
+      {
+         "Year": "2014",
+         "Sales in million euros": 22532.0
+      },
+      {
+         "Year": "2013",
+         "Sales in million euros": 22124.0
+      },
+      {
+         "Year": "2012",
+         "Sales in million euros": 21638.0
+      },
+      {
+         "Year": "2011",
+         "Sales in million euros": 20343.0
+      },
+      {
+         "Year": "2010",
+         "Sales in million euros": 19496.0
+      },
+      {
+         "Year": "2009",
+         "Sales in million euros": 17473.0
+      }
+   ],
+   "gold": "This statistic depicts the consolidated sales of L'Oreal worldwide from 2009 to 2018 . In 2018 , L'Oreal 's consolidated sales worldwide amounted to about 27 billion euros . L'Oreal is the world 's largest cosmetics and beauty company , concentrating on hair color , skin care , sun protection , make-up , perfumes , and hair care .\n"
+}

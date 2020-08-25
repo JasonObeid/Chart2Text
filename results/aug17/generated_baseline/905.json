@@ -1,0 +1,66 @@
+{
+   "title": "Infant mortality rate in Malawi 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Deaths per 1,000 live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Deaths per 1,000 live births with a total of 11 data points. The chart has one significant trend.",
+      " This trend is negative which exists from 2018 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Deaths per 1,000 live births": 35.3
+      },
+      {
+         "Year": "2017",
+         "Deaths per 1,000 live births": 36.8
+      },
+      {
+         "Year": "2016",
+         "Deaths per 1,000 live births": 38.3
+      },
+      {
+         "Year": "2015",
+         "Deaths per 1,000 live births": 40.3
+      },
+      {
+         "Year": "2014",
+         "Deaths per 1,000 live births": 42.3
+      },
+      {
+         "Year": "2013",
+         "Deaths per 1,000 live births": 45.2
+      },
+      {
+         "Year": "2012",
+         "Deaths per 1,000 live births": 48.4
+      },
+      {
+         "Year": "2011",
+         "Deaths per 1,000 live births": 51.8
+      },
+      {
+         "Year": "2010",
+         "Deaths per 1,000 live births": 55.4
+      },
+      {
+         "Year": "2009",
+         "Deaths per 1,000 live births": 57.4
+      },
+      {
+         "Year": "2008",
+         "Deaths per 1,000 live births": 59.2
+      }
+   ],
+   "gold": "The statistic shows the infant mortality rate in Malawi from 2008 to 2018 . In 2018 , the infant mortality rate in Malawi was at about 35.3 deaths per 1,000 live births .\n"
+}

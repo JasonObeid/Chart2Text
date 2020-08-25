@@ -1,0 +1,216 @@
+{
+   "title": "Inflation rate in Zimbabwe 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points. The chart has 7 significant trends.",
+      " The longest trend is slightly negative which exists from 2014 to 2008.",
+      " On the other hand, the next significant trend is slightly negative which exists from 2024 to 2019.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2019 to 2014.",
+      " Also, the next significant trend is extremely positive which exists from 2008 to 2003.",
+      " Additionally, the next significant trend is moderately negative which exists from 2003 to 1998.",
+      " Contrarily, the next significant trend is moderately positive which exists from 1998 to 1993.",
+      " Correspondingly, the next significant trend is moderately positive which exists from 1993 to 1988."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "10",
+         "12": "16"
+      },
+      {
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "10"
+      },
+      {
+         "3": "16",
+         "14": "21"
+      },
+      {
+         "3": "21",
+         "14": "26"
+      },
+      {
+         "3": "26",
+         "14": "31"
+      },
+      {
+         "3": "31",
+         "14": "36"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inflation rate compared to previous year": 3.0
+      },
+      {
+         "Year": "2023",
+         "Inflation rate compared to previous year": 3.0
+      },
+      {
+         "Year": "2022",
+         "Inflation rate compared to previous year": 3.0
+      },
+      {
+         "Year": "2021",
+         "Inflation rate compared to previous year": 3.7
+      },
+      {
+         "Year": "2020",
+         "Inflation rate compared to previous year": 49.7
+      },
+      {
+         "Year": "2019",
+         "Inflation rate compared to previous year": 161.81
+      },
+      {
+         "Year": "2018",
+         "Inflation rate compared to previous year": 10.61
+      },
+      {
+         "Year": "2017",
+         "Inflation rate compared to previous year": 0.91
+      },
+      {
+         "Year": "2016",
+         "Inflation rate compared to previous year": 1.56
+      },
+      {
+         "Year": "2015",
+         "Inflation rate compared to previous year": 2.41
+      },
+      {
+         "Year": "2014",
+         "Inflation rate compared to previous year": 0.21
+      },
+      {
+         "Year": "2013",
+         "Inflation rate compared to previous year": 1.63
+      },
+      {
+         "Year": "2012",
+         "Inflation rate compared to previous year": 3.72
+      },
+      {
+         "Year": "2011",
+         "Inflation rate compared to previous year": 3.47
+      },
+      {
+         "Year": "2010",
+         "Inflation rate compared to previous year": 3.04
+      },
+      {
+         "Year": "2009",
+         "Inflation rate compared to previous year": 6.22
+      },
+      {
+         "Year": "2008",
+         "Inflation rate compared to previous year": 156.96
+      },
+      {
+         "Year": "2007",
+         "Inflation rate compared to previous year": 72.73
+      },
+      {
+         "Year": "2006",
+         "Inflation rate compared to previous year": 32.97
+      },
+      {
+         "Year": "2005",
+         "Inflation rate compared to previous year": 31.52
+      },
+      {
+         "Year": "2004",
+         "Inflation rate compared to previous year": 113.57
+      },
+      {
+         "Year": "2003",
+         "Inflation rate compared to previous year": 8.57
+      },
+      {
+         "Year": "2002",
+         "Inflation rate compared to previous year": 34.45
+      },
+      {
+         "Year": "2001",
+         "Inflation rate compared to previous year": 37.2
+      },
+      {
+         "Year": "2000",
+         "Inflation rate compared to previous year": 4.48
+      },
+      {
+         "Year": "1999",
+         "Inflation rate compared to previous year": 13.43
+      },
+      {
+         "Year": "1998",
+         "Inflation rate compared to previous year": 28.02
+      },
+      {
+         "Year": "1997",
+         "Inflation rate compared to previous year": 0.97
+      },
+      {
+         "Year": "1996",
+         "Inflation rate compared to previous year": 6.01
+      },
+      {
+         "Year": "1995",
+         "Inflation rate compared to previous year": 15.23
+      },
+      {
+         "Year": "1994",
+         "Inflation rate compared to previous year": 2.76
+      },
+      {
+         "Year": "1993",
+         "Inflation rate compared to previous year": 0.38
+      },
+      {
+         "Year": "1992",
+         "Inflation rate compared to previous year": 3.0
+      },
+      {
+         "Year": "1991",
+         "Inflation rate compared to previous year": 13.14
+      },
+      {
+         "Year": "1990",
+         "Inflation rate compared to previous year": 1.35
+      },
+      {
+         "Year": "1989",
+         "Inflation rate compared to previous year": 3.85
+      },
+      {
+         "Year": "1988",
+         "Inflation rate compared to previous year": 1.06
+      },
+      {
+         "Year": "1987",
+         "Inflation rate compared to previous year": 12.79
+      },
+      {
+         "Year": "1986",
+         "Inflation rate compared to previous year": 10.67
+      },
+      {
+         "Year": "1985",
+         "Inflation rate compared to previous year": 16.01
+      },
+      {
+         "Year": "1984",
+         "Inflation rate compared to previous year": 1.86
+      }
+   ],
+   "gold": "Inflation in Zimbabwe rose to 10.6 percent in 2018 , and is projected to jump dramatically to 161.81 percent in 2019 . After that , estimates predict a 3 percent equilibrium for now - however , given Zimbabwe 's history of poor monetary policy , including one of the worst instances of hyperinflation , this seems unrealistic . Inflation history Inflation depends significantly on economic expectations of it , making it hard to reduce inflation once it has hit higher levels .\n"
+}

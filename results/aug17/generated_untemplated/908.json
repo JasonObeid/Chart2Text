@@ -1,0 +1,83 @@
+{
+   "title": "Share of economic sectors in the global gross domestic product from 2007 to 2017",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "The statistic shows the distribution of employment in bhutan by economic sector from 2009 to 2018 . In 2019 , 1.36 percent of the employees in bhutan were active in the agricultural sector , 23.49 percent in industry and 33.81 percent in the service sector .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2007",
+         "Agriculture": "3.76",
+         "Industry": "28.59",
+         "Services": "61.64"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "3.74",
+         "Industry": "28.43",
+         "Services": "61.95"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "3.68",
+         "Industry": "26.72",
+         "Services": "63.89"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "3.66",
+         "Industry": "27.2",
+         "Services": "63.21"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "3.7",
+         "Industry": "27.39",
+         "Services": "62.92"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "3.64",
+         "Industry": "26.98",
+         "Services": "63.42"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "3.69",
+         "Industry": "26.61",
+         "Services": "63.71"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "3.59",
+         "Industry": "26.39",
+         "Services": "63.97"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "3.52",
+         "Industry": "25.56",
+         "Services": "64.86"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "3.52",
+         "Industry": "25.12",
+         "Services": "65.26"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "3.43",
+         "Industry": "25.44",
+         "Services": "65.03"
+      }
+   ],
+   "gold": "This statistic shows the share of economic sectors in the global gross domestic product ( GDP ) from 2007 to 2017 . In 2017 , agriculture contributed 3.43 percent , industry contributed approximately 25.44 percent and services contributed about 65.03 percent to the global gross domestic product . See global GDP for comparison .\n"
+}

@@ -1,0 +1,41 @@
+{
+   "title": "Preferred social login ID worldwide 2016\n",
+   "xAxis": "Platform",
+   "yAxis": "Share of logins",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic gives information on the average order value of online shopping orders worldwide in the second quarter of 2019 , differentiated by platform . During that period , online orders which were placed through android devices had an average value of 76.21 u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of logins": 53.1
+      },
+      {
+         "Platform": "GooglePlus",
+         "Share of logins": 44.8
+      },
+      {
+         "Platform": "Twitter",
+         "Share of logins": 1.01
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of logins": 0.56
+      },
+      {
+         "Platform": "Yahoo",
+         "Share of logins": 0.29
+      },
+      {
+         "Platform": "Vkontakte",
+         "Share of logins": 0.15
+      },
+      {
+         "Platform": "Live",
+         "Share of logins": 0.11
+      }
+   ],
+   "gold": "This statistic gives information on the preferred social login ID used by internet users worldwide . During the second quarter of 2016 , data analysis revealed that 53.1 percent of social logins were through a Facebook account . Approximately one percent of internet users used their Twitter account to login to a website .\n"
+}

@@ -1,0 +1,36 @@
+{
+   "title": "Brexit votes in the United Kingdom by social class 2016",
+   "labels": [
+      "Response",
+      "Remain",
+      "Leave"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the air travel frequency of citizens in the united as of 2015 , by ethnicity . During the survey , 8 percent of hispanic respondents labeled themselves as frequent air travelers .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Lower Working-Class (DE)",
+         "Remain": "36",
+         "Leave": "64"
+      },
+      {
+         "Response": "Upper Working-Class (C2)",
+         "Remain": "36",
+         "Leave": "64"
+      },
+      {
+         "Response": "Lower Middle-Class (C1)",
+         "Remain": "51",
+         "Leave": "49"
+      },
+      {
+         "Response": "Upper Middle-Class (AB)",
+         "Remain": "57",
+         "Leave": "43"
+      }
+   ],
+   "gold": "This statistic shows the result of a survey asking respondents how they voted in the Brexit referendum of 2016 , by social class . Of respondents , 57 percent of those in the AB social class advised they had voted to remain , while just 36 percent of C2 and DE respondents said they had voted to remain .\n"
+}

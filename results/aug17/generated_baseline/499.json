@@ -1,0 +1,88 @@
+{
+   "title": "Boston Bruins ' revenue 2005 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 14 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly positive which exists from 2012/13 to 2005/06.",
+      " Similarly, the next significant trend is moderately positive which exists from 2018/19 to 2014/15.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2014/15 to 2012/13."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "13"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 228.0
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 191.0
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 176.0
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 169.0
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 158.0
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": 164.0
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": 114.0
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": 129.0
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": 125.0
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": 110.0
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": 108.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": 97.0
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": 87.0
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": 86.0
+      }
+   ],
+   "gold": "The statistic shows the revenue of the Boston Bruins from the 2005/06 season to the 2018/19 season . The revenue of the Boston Bruins amounted to 228 million U.S. dollars in the 2018/19 season .\n"
+}

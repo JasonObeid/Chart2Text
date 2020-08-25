@@ -1,0 +1,33 @@
+{
+   "title": "Market share of streaming devices in the United States 2014\n",
+   "xAxis": "Streaming Device",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic displays the market share of smartphone models that have been sold in france as of 2017 . The apple iphone 7 had seen the most sales with a market share of 9 percent . Trailing by three percent was the iphone 7 plus with a total of a 6 percent market share .\n",
+   "trends": {},
+   "data": [
+      {
+         "Streaming Device": "Apple TV",
+         "Market share": 43.0
+      },
+      {
+         "Streaming Device": "Roku",
+         "Market share": 24.0
+      },
+      {
+         "Streaming Device": "Chromecast",
+         "Market share": 14.0
+      },
+      {
+         "Streaming Device": "Tivo",
+         "Market share": 6.0
+      },
+      {
+         "Streaming Device": "Other",
+         "Market share": 13.0
+      }
+   ],
+   "gold": "The statistic shows a breakdown of the U.S. American streaming devices market according to market share in 2014 . Google 's Chromecast held a market share of 14 percent in 2014 .\n"
+}

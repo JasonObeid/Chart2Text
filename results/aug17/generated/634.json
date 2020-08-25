@@ -1,0 +1,70 @@
+{
+   "title": "Number of students in upper secondary education in Denmark 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of students",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "In the fall semester 2018 , 148551 students were reported in universities and other higher education institutions in Denmark . ",
+      "Since 2000 , the Number of individuals in Denmark with an upper secondary education increased , while the individuals without decreased . ",
+      "In 2018 , 21.7 % of the female population had an upper secondary education degree of three years and 24.9 % of the male population ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "6": "0"
+      },
+      {},
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of students": "148551"
+      },
+      {
+         "Year": "2017",
+         "Number of students": "150608"
+      },
+      {
+         "Year": "2016",
+         "Number of students": "149788"
+      },
+      {
+         "Year": "2015",
+         "Number of students": "148144"
+      },
+      {
+         "Year": "2014",
+         "Number of students": "147760"
+      },
+      {
+         "Year": "2013",
+         "Number of students": "148051"
+      },
+      {
+         "Year": "2012",
+         "Number of students": "144791"
+      },
+      {
+         "Year": "2011",
+         "Number of students": "140259"
+      },
+      {
+         "Year": "2010",
+         "Number of students": "132619"
+      },
+      {
+         "Year": "2009",
+         "Number of students": "122837"
+      },
+      {
+         "Year": "2008",
+         "Number of students": "118217"
+      }
+   ],
+   "gold": "The statistic shows the number of students in upper secondary education in Denmark from 2008 to 2018 . The number increased from about 118 thousand upper secondary education students in 2008 to about 149 thousand students in 2018 .\n"
+}

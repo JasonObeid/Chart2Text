@@ -1,0 +1,106 @@
+{
+   "title": "Birth rate in Italy 2018 , by region",
+   "xAxis": "Month",
+   "yAxis": "Birth rate per thousand inhabitants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , the highest Birth rate was registered in the South of Italy . ",
+      "Trentino-South_Tyrol , Campania and Sicily , the three regions where the shares of citizens without a job exceeded 8.1 thousand , led in the ranking of Italian regions with the highest Birth rates . ",
+      "The disparities in Birth indicators can be observed not only on the regional level , but also among genders ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "2": "1",
+         "5": "2",
+         "19": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Trentino-South Tyrol",
+         "Birth rate per thousand inhabitants": "9.0"
+      },
+      {
+         "Month": "Campania",
+         "Birth rate per thousand inhabitants": "8.3"
+      },
+      {
+         "Month": "Sicily",
+         "Birth rate per thousand inhabitants": "8.1"
+      },
+      {
+         "Month": "Calabria",
+         "Birth rate per thousand inhabitants": "7.8"
+      },
+      {
+         "Month": "Lombardy",
+         "Birth rate per thousand inhabitants": "7.5"
+      },
+      {
+         "Month": "Emilia-Romagna",
+         "Birth rate per thousand inhabitants": "7.3"
+      },
+      {
+         "Month": "Lazio",
+         "Birth rate per thousand inhabitants": "7.2"
+      },
+      {
+         "Month": "Apulia",
+         "Birth rate per thousand inhabitants": "7.2"
+      },
+      {
+         "Month": "Aosta Valley",
+         "Birth rate per thousand inhabitants": "7.2"
+      },
+      {
+         "Month": "Veneto",
+         "Birth rate per thousand inhabitants": "7.2"
+      },
+      {
+         "Month": "Abruzzo",
+         "Birth rate per thousand inhabitants": "6.8"
+      },
+      {
+         "Month": "Piedmont",
+         "Birth rate per thousand inhabitants": "6.7"
+      },
+      {
+         "Month": "Tuscany",
+         "Birth rate per thousand inhabitants": "6.7"
+      },
+      {
+         "Month": "Marche",
+         "Birth rate per thousand inhabitants": "6.7"
+      },
+      {
+         "Month": "Umbria",
+         "Birth rate per thousand inhabitants": "6.6"
+      },
+      {
+         "Month": "Basilicata",
+         "Birth rate per thousand inhabitants": "6.6"
+      },
+      {
+         "Month": "Friuli-Venezia Giulia",
+         "Birth rate per thousand inhabitants": "6.4"
+      },
+      {
+         "Month": "Molise",
+         "Birth rate per thousand inhabitants": "6.2"
+      },
+      {
+         "Month": "Liguria",
+         "Birth rate per thousand inhabitants": "5.8"
+      },
+      {
+         "Month": "Sardinia",
+         "Birth rate per thousand inhabitants": "5.7"
+      }
+   ],
+   "gold": "In 2018 , Trentino-South Tyrol was the region in Italy with the highest birth rate nationwide , with nine births per every 1,000 inhabitants . The following three positions of the ranking were occupied by Southern regions : Campania , Sicily , and Calabria . Indeed , South-Italy was the macro-region with the largest birth-rate in Italy .\n"
+}

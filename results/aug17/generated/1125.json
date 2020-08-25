@@ -1,0 +1,61 @@
+{
+   "title": "Crude oil imports to Canada by region of origin 2018",
+   "xAxis": "Country",
+   "yAxis": "Imports in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Imports in the tons of oil million metric per liter in region origin for the period between 2018 and 2019 . ",
+      "In West_Africa , the oil million metric tons in South_and_Central_America was some 1.1 million lower than in 2018 . ",
+      "oil million metric The tons of oil million metric per liter has decreased in many origin ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "9": "6",
+         "12": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Imports in million metric tons": "18.8"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Imports in million metric tons": "5.6"
+      },
+      {
+         "Country": "West Africa",
+         "Imports in million metric tons": "1.1"
+      },
+      {
+         "Country": "Europe",
+         "Imports in million metric tons": "1.4"
+      },
+      {
+         "Country": "CIS (excluding Russia)",
+         "Imports in million metric tons": "1.1"
+      },
+      {
+         "Country": "North Africa",
+         "Imports in million metric tons": "0.5"
+      },
+      {
+         "Country": "South and Central America",
+         "Imports in million metric tons": "0.3"
+      },
+      {
+         "Country": "Russia",
+         "Imports in million metric tons": "0.2"
+      },
+      {
+         "Country": "Total",
+         "Imports in million metric tons": "29.1"
+      }
+   ],
+   "gold": "In 2018 , Canada imported 18.8 million metric tons of crude oil from the United States , which was the largest quantity Canada imported from of any country . Canadian crude oil In 1858 , the first oil deposit in North America was found in Ontario , Canada . Today , however , Canada 's largest volume of crude oil is produced in Alberta , where the Athabasca oil sands are located .\n"
+}

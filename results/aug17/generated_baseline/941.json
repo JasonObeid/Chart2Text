@@ -1,0 +1,68 @@
+{
+   "title": "Ultra-rich women in Europe in 2014 , by personal fortune value\n",
+   "xAxis": "Month",
+   "yAxis": "Value of wealth in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Value of wealth in billion euros.",
+      " The highest category is found at Liliane_Bettencourt_(L\u2019Or\u00e9al_France) where Value of wealth in billion euros is 25.1.",
+      " The lowest category is found at Elisabeth_Mohn_(Bertelsmann_Germany) where Value of wealth in billion euros is 4.3."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Liliane Bettencourt (L\u2019Or\u00e9al France)",
+         "Value of wealth in billion euros": 25.1
+      },
+      {
+         "Month": "Susanne Klatten (BMW Germany)",
+         "Value of wealth in billion euros": 13.1
+      },
+      {
+         "Month": "Johanna Quandt (BMW Germany)",
+         "Value of wealth in billion euros": 10.7
+      },
+      {
+         "Month": "Charlene Carvalho Heineken (Heineken Netherlands)",
+         "Value of wealth in billion euros": 8.1
+      },
+      {
+         "Month": "Margarita Louis Dreyfus (Louis Dreyfus Switzerland)",
+         "Value of wealth in billion euros": 5.6
+      },
+      {
+         "Month": "Antonia Axson Johnson (Axel Johnson Group Sweden)",
+         "Value of wealth in billion euros": 5.6
+      },
+      {
+         "Month": "Sandra Ortega Mera (Inditex Spain)",
+         "Value of wealth in billion euros": 5.2
+      },
+      {
+         "Month": "Daniela Herz (Mayfair Germany)",
+         "Value of wealth in billion euros": 4.6
+      },
+      {
+         "Month": "Kirsten Rausing (Tetra Sweden)",
+         "Value of wealth in billion euros": 4.5
+      },
+      {
+         "Month": "Elisabeth Mohn (Bertelsmann Germany)",
+         "Value of wealth in billion euros": 4.3
+      }
+   ],
+   "gold": "The statistic displays the ranking of ten wealthiest women in Europe as of July 2014 . At that time , the richest woman in Europe was Liliane Bettencourt , the heiress of the French cosmetics and beauty company L'Oreal , with personal fortune amounting to approximately 25 billion euros .\n"
+}

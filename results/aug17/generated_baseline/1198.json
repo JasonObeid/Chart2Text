@@ -1,0 +1,98 @@
+{
+   "title": "Edmonton Oilers ' revenue 2005 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 14 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly positive which exists from 2012/13 to 2008/09.",
+      " Additionally, the next significant trend is slightly positive which exists from 2008/09 to 2005/06.",
+      " Additionally, the next significant trend is slightly negative which exists from 2018/19 to 2016/17.",
+      " Contrarily, the next significant trend is extremely negative which exists from 2016/17 to 2014/15.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2014/15 to 2012/13."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "10"
+      },
+      {
+         "3": "10",
+         "14": "13"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 154.0
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 145.0
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 151.0
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 117.0
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 119.0
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": 119.0
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": 80.0
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": 106.0
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": 96.0
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": 87.0
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": 83.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": 85.0
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": 71.0
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": 75.0
+      }
+   ],
+   "gold": "This graph depicts the annual National Hockey League revenue of the Edmonton Oilers from the 2005/06 season to the 2018/19 season . The revenue of the Edmonton Oilers amounted to 154 million U.S. dollars in the 2018/19 season .\n"
+}

@@ -1,0 +1,21 @@
+{
+   "title": "Number of U.S. Pinterest users 2017 , by gender\n",
+   "xAxis": "Sex",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of twitter users in the united as of 2018 , sorted by gender . During the survey period , 43 percent of twitter audiences were female and 57 percent were male .\n",
+   "trends": {},
+   "data": [
+      {
+         "Sex": "Female",
+         "Number of users in millions": 58.9
+      },
+      {
+         "Sex": "Male",
+         "Number of users in millions": 32.6
+      }
+   ],
+   "gold": "This statistic shows the gender distribution of visitors to Pinterest.com , divided by visitors from the United States and from the United Kingom as of September 2013 . Pinterest 's usership in the United States is predominantly female as 67 percent of all users are women .\n"
+}

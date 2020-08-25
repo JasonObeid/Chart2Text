@@ -1,0 +1,46 @@
+{
+   "title": "Annual median salary in financial , insurance and real estate services in the UK 2019",
+   "xAxis": "Service In Uk",
+   "yAxis": "Median annual salary in GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the share of median into the Annual in 2019 , sorted financial Service Uk . ",
+      "In that year , the Financial_services_activities Uk was the leading salary median importer . ",
+      "Imported Activities_auxiliary_to_financial from this Uk were worth some 42066 million salary GBP ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      },
+      {
+         "1": "3",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Service In Uk": "Financial services activities",
+         "Median annual salary in GBP": "42066"
+      },
+      {
+         "Service In Uk": "Financial & insurance average all categories",
+         "Median annual salary in GBP": "38921"
+      },
+      {
+         "Service In Uk": "Insurance reinsurance pension funding",
+         "Median annual salary in GBP": "33822"
+      },
+      {
+         "Service In Uk": "Activities auxiliary to financial",
+         "Median annual salary in GBP": "36973"
+      },
+      {
+         "Service In Uk": "Real estate",
+         "Median annual salary in GBP": "25924"
+      }
+   ],
+   "gold": "This statistic illustrates the median annual gross salary for employees of the the financial and insurance sectors , as well as in real estate services in the United Kingdom ( UK ) in 2019 , in British pounds . In that year , the highest median annual gross salary was from the financial services activities sector , amounting with roughly 42.1 thousand British pounds . Among all sectors in this statistic , real estate services presented the lowest annual gross salary , with roughly 25.9 thousand British pounds .\n"
+}

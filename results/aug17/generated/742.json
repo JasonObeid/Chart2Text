@@ -1,0 +1,106 @@
+{
+   "title": "Leading 20 U.S. brands 2018 , by brand value",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "With a Brand value of approximately 187905 million U.S. dollars , the Amazon of the world 's Leading 20 Brand in 2018 . ",
+      "The Japanese Brand of Amazon was followed by Apple with 153634 million U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "12": "0"
+      },
+      {
+         "4": "0",
+         "8": "1",
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Amazon",
+         "Brand value in million U.S. dollars": "187905"
+      },
+      {
+         "Brand": "Apple",
+         "Brand value in million U.S. dollars": "153634"
+      },
+      {
+         "Brand": "Google",
+         "Brand value in million U.S. dollars": "142755"
+      },
+      {
+         "Brand": "Microsoft",
+         "Brand value in million U.S. dollars": "119595"
+      },
+      {
+         "Brand": "AT&T",
+         "Brand value in million U.S. dollars": "87005"
+      },
+      {
+         "Brand": "Facebook",
+         "Brand value in million U.S. dollars": "83202"
+      },
+      {
+         "Brand": "Verizon",
+         "Brand value in million U.S. dollars": "71154"
+      },
+      {
+         "Brand": "Walmart",
+         "Brand value in million U.S. dollars": "67867"
+      },
+      {
+         "Brand": "The Home Depot",
+         "Brand value in million U.S. dollars": "47056"
+      },
+      {
+         "Brand": "Walt Disney",
+         "Brand value in million U.S. dollars": "45750"
+      },
+      {
+         "Brand": "Wells Fargo",
+         "Brand value in million U.S. dollars": "39948"
+      },
+      {
+         "Brand": "Starbucks",
+         "Brand value in million U.S. dollars": "39268"
+      },
+      {
+         "Brand": "YouTube",
+         "Brand value in million U.S. dollars": "37847"
+      },
+      {
+         "Brand": "Bank of America",
+         "Brand value in million U.S. dollars": "36687"
+      },
+      {
+         "Brand": "Citi",
+         "Brand value in million U.S. dollars": "36407"
+      },
+      {
+         "Brand": "Chase",
+         "Brand value in million U.S. dollars": "36265"
+      },
+      {
+         "Brand": "Coca-Cola",
+         "Brand value in million U.S. dollars": "36188"
+      },
+      {
+         "Brand": "Marlboro",
+         "Brand value in million U.S. dollars": "33569"
+      },
+      {
+         "Brand": "IBM",
+         "Brand value in million U.S. dollars": "32854"
+      },
+      {
+         "Brand": "Nike",
+         "Brand value in million U.S. dollars": "32421"
+      }
+   ],
+   "gold": "Amazon.com is an international e-commerce company offering online retail , computing services , consumer electronics and digital content , as well as other local services such as daily deals and groceries . As of 2018 , Amazon was ranked as the most valuable U.S. brand , with a brand value of around 188 billion U.S. dollars . Apple , Google , and Microsoft were the next most valuable brands in the United States that year .\n"
+}

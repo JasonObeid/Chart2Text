@@ -1,0 +1,85 @@
+{
+   "title": "Average attendance in the National Football League 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 12 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly negative which exists from 2019 to 2016.",
+      " Conversely, the next significant trend is extremely negative which exists from 2016 to 2013.",
+      " But, the next significant trend is extremely positive which exists from 2013 to 2010.",
+      " Also, the next significant trend is moderately negative which exists from 2010 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "3",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "9"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": 66151.0
+      },
+      {
+         "Year": "2018",
+         "Average attendance": 67040.0
+      },
+      {
+         "Year": "2017",
+         "Average attendance": 67405.0
+      },
+      {
+         "Year": "2016",
+         "Average attendance": 69487.0
+      },
+      {
+         "Year": "2015",
+         "Average attendance": 68216.0
+      },
+      {
+         "Year": "2014",
+         "Average attendance": 68331.0
+      },
+      {
+         "Year": "2013",
+         "Average attendance": 68397.0
+      },
+      {
+         "Year": "2012",
+         "Average attendance": 67632.0
+      },
+      {
+         "Year": "2011",
+         "Average attendance": 67419.0
+      },
+      {
+         "Year": "2010",
+         "Average attendance": 66957.0
+      },
+      {
+         "Year": "2009",
+         "Average attendance": 67506.0
+      },
+      {
+         "Year": "2008",
+         "Average attendance": 68245.0
+      }
+   ],
+   "gold": "The average per game attendance during the 2019 NFL regular season was 66,151 , the league 's lowest figure across the entire decade . The Dallas Cowboys had the highest average attendance of all the 32 NFL teams , averaging 91,619 for their eight regular-season home games in 2019 . Cowboys in a league of their own Since moving to AT & T Stadium in 2009 , the Dallas Cowboys have led the NFL in average regular-season home attendance for ten consecutive seasons .\n"
+}

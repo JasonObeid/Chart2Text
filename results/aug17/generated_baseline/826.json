@@ -1,0 +1,56 @@
+{
+   "title": "Olympic Summer Games - revenue generated from domestic sponsorships 1996 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Domestic sponsorship revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Domestic sponsorship revenue in million U.S. dollars, with a total of 6 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2016_Rio to 2008_Beijing.",
+      " But, the next significant trend is slightly negative which exists from 2004_Athens to 1996_Atlanta.",
+      " Conversely, the next significant trend is extremely positive which exists from 2008_Beijing to 2004_Athens."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016 Rio",
+         "Domestic sponsorship revenue in million U.S. dollars": 848.0
+      },
+      {
+         "Year": "2012 London",
+         "Domestic sponsorship revenue in million U.S. dollars": 1150.0
+      },
+      {
+         "Year": "2008 Beijing",
+         "Domestic sponsorship revenue in million U.S. dollars": 1218.0
+      },
+      {
+         "Year": "2004 Athens",
+         "Domestic sponsorship revenue in million U.S. dollars": 302.0
+      },
+      {
+         "Year": "2000 Sydney",
+         "Domestic sponsorship revenue in million U.S. dollars": 492.0
+      },
+      {
+         "Year": "1996 Atlanta",
+         "Domestic sponsorship revenue in million U.S. dollars": 426.0
+      }
+   ],
+   "gold": "The statistic shows the revenue generated from domestic sponsorships at the Olympic Summer Games from 1996 to 2016 . The 2016 Olympic Games in Rio de Janeiro generated about 848 million U.S. dollars in sponsorship revenues .\n"
+}

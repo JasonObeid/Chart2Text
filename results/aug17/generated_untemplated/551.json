@@ -1,0 +1,89 @@
+{
+   "title": "Canada : total university enrollment 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of students in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the average annual wages in the united from 2000 to 2018 . According to the report , the u.s. production of honey amounted to approximately 3.9 trillion u.s. dollars in 2018 , down from 5.1 billion u.s. dollars in the previous year .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of students in thousands": 1341.35
+      },
+      {
+         "Year": "2017",
+         "Number of students in thousands": 1320.56
+      },
+      {
+         "Year": "2016",
+         "Number of students in thousands": 1306.04
+      },
+      {
+         "Year": "2015",
+         "Number of students in thousands": 1303.74
+      },
+      {
+         "Year": "2014",
+         "Number of students in thousands": 1298.96
+      },
+      {
+         "Year": "2013",
+         "Number of students in thousands": 1281.69
+      },
+      {
+         "Year": "2012",
+         "Number of students in thousands": 1260.22
+      },
+      {
+         "Year": "2011",
+         "Number of students in thousands": 1234.14
+      },
+      {
+         "Year": "2010",
+         "Number of students in thousands": 1199.45
+      },
+      {
+         "Year": "2009",
+         "Number of students in thousands": 1112.59
+      },
+      {
+         "Year": "2008",
+         "Number of students in thousands": 1072.9
+      },
+      {
+         "Year": "2007",
+         "Number of students in thousands": 1066.93
+      },
+      {
+         "Year": "2006",
+         "Number of students in thousands": 1050.83
+      },
+      {
+         "Year": "2005",
+         "Number of students in thousands": 1020.68
+      },
+      {
+         "Year": "2004",
+         "Number of students in thousands": 994.24
+      },
+      {
+         "Year": "2003",
+         "Number of students in thousands": 935.86
+      },
+      {
+         "Year": "2002",
+         "Number of students in thousands": 885.94
+      },
+      {
+         "Year": "2001",
+         "Number of students in thousands": 850.42
+      },
+      {
+         "Year": "2000",
+         "Number of students in thousands": 846.6
+      }
+   ],
+   "gold": "This statistic shows the total number of students enrolled in Canadian universities from 2000 to 2018 . In 2018 , around 1.34 million students were enrolled in Canadian universities .\n"
+}

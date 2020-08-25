@@ -1,0 +1,61 @@
+{
+   "title": "International tourism spending in Portugal 2012 to 2028",
+   "xAxis": "Year",
+   "yAxis": "Spending in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The International and tourism industry contributed to the French Gross Domestic Product ( 2028 ) in Portugal with approximately 18.1 billion euros in 2017 . ",
+      "The source predicted that this 2012 will increase in the coming ten years , reaching an expected Portugal of around 26.4 billion euros in 2028 . ",
+      "In 2017 , Portugal welcomed almost 87 billion international tourists , making it the most visited country in the world in that Year ."
+   ],
+   "trends": [
+      {
+         "19": "2",
+         "23": "2"
+      },
+      {
+         "20": "0",
+         "24": "0"
+      },
+      {
+         "1": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2028",
+         "Spending in billion euros": "26.4"
+      },
+      {
+         "Year": "2018",
+         "Spending in billion euros": "19.4"
+      },
+      {
+         "Year": "2017",
+         "Spending in billion euros": "18.1"
+      },
+      {
+         "Year": "2016",
+         "Spending in billion euros": "15.6"
+      },
+      {
+         "Year": "2015",
+         "Spending in billion euros": "14.5"
+      },
+      {
+         "Year": "2014",
+         "Spending in billion euros": "13.9"
+      },
+      {
+         "Year": "2013",
+         "Spending in billion euros": "12.8"
+      },
+      {
+         "Year": "2012",
+         "Spending in billion euros": "12.2"
+      }
+   ],
+   "gold": "This statistic shows the total annual spend of international tourists ( visitor exports ) in Portugal from 2012 to 2018 and a forecast for 2028 . In 2017 international visitors in Portugal spent a total of 18.1 billion euros . This is expected to increase in 2018 to 19.4 billion euros .\n"
+}

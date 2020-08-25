@@ -1,0 +1,81 @@
+{
+   "title": "Global PND and car navigation market size forecast 2005 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Market size in thousand units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Market size in thousand units, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly positive which exists from 2014 to 2009.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2008 to 2005.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2015 to 2014.",
+      " On the other hand, the next significant trend is slightly negative which exists from 2009 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "6"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "6",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Market size in thousand units": 51420.0
+      },
+      {
+         "Year": "2014",
+         "Market size in thousand units": 51600.0
+      },
+      {
+         "Year": "2013",
+         "Market size in thousand units": 51510.0
+      },
+      {
+         "Year": "2012",
+         "Market size in thousand units": 50485.0
+      },
+      {
+         "Year": "2011",
+         "Market size in thousand units": 49361.0
+      },
+      {
+         "Year": "2010",
+         "Market size in thousand units": 48306.0
+      },
+      {
+         "Year": "2009",
+         "Market size in thousand units": 44449.0
+      },
+      {
+         "Year": "2008",
+         "Market size in thousand units": 45502.0
+      },
+      {
+         "Year": "2007",
+         "Market size in thousand units": 34905.0
+      },
+      {
+         "Year": "2006",
+         "Market size in thousand units": 21103.0
+      },
+      {
+         "Year": "2005",
+         "Market size in thousand units": 12963.0
+      }
+   ],
+   "gold": "The statistic illustrates a market size forecast of the worldwide portable navigation device ( PND ) and car navigation market from 2005 to 2015 . The global PND and car navigation market size is projected to be 51 million units in 2015 .\n"
+}

@@ -1,0 +1,50 @@
+{
+   "title": "South Africa : number of internet users 2017 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of internet users in millions with a total of 7 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2023 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of internet users in millions": 49.0
+      },
+      {
+         "Year": "2022",
+         "Number of internet users in millions": 46.8
+      },
+      {
+         "Year": "2021",
+         "Number of internet users in millions": 44.4
+      },
+      {
+         "Year": "2020",
+         "Number of internet users in millions": 41.9
+      },
+      {
+         "Year": "2019",
+         "Number of internet users in millions": 39.3
+      },
+      {
+         "Year": "2018",
+         "Number of internet users in millions": 36.6
+      },
+      {
+         "Year": "2017",
+         "Number of internet users in millions": 33.9
+      }
+   ],
+   "gold": "This statistic provides information on the number of internet users in South Africa from 2017 to 2023 . In 2018 , South Africa had 36.6 million internet users . This figure is projected to grow to 49 million internet users in 2022 .\n"
+}

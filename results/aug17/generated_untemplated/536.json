@@ -1,0 +1,29 @@
+{
+   "title": "U.S. consumers who use marijuana 2019 , by age group\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the share of teenagers in the united states who were using facebook as of 2019 , sorted by age group . During that period of time , 79 percent of respondents between 30 and 49 years used the social networking site .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "18-29 years",
+         "Share of respondents": 22.0
+      },
+      {
+         "Year": "30-49 years",
+         "Share of respondents": 11.0
+      },
+      {
+         "Year": "50-64 years",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "65+ years",
+         "Share of respondents": 3.0
+      }
+   ],
+   "gold": "Eighteen to twenty-nine-year-olds were the largest group of current marijuana smokers in the United States in 2019 . Roughly a quarter of the age group were current smokers , with usage dipping among older age groups . Seniors were the least likely , with only three percent stating that they were current smokers .\n"
+}

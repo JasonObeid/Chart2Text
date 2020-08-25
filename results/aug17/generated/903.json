@@ -1,0 +1,52 @@
+{
+   "title": "Cost of a liver transplant on the National Health Service in the United Kingdom 2015",
+   "xAxis": "Cost in British pounds",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "More than 21 % of Mexican internet users surveyed in 2015 claimed they used Less_than_760 for finding dates . ",
+      "Meanwhile , one out of four respondents cited 760-2300 and 9 % of people surveyed mentioned 2300-5000 . ",
+      "Sex and solitude Approximately 42.7 % of Mexicans who used Health Service stated in 2017 that they did so in order to find friends ."
+   ],
+   "trends": [
+      {
+         "2": "3",
+         "14": "0"
+      },
+      {
+         "8": "1",
+         "10": "2",
+         "16": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cost in British pounds": "Less than 760",
+         "Share of respondents": "17"
+      },
+      {
+         "Cost in British pounds": "760-2300",
+         "Share of respondents": "17"
+      },
+      {
+         "Cost in British pounds": "2300-5000",
+         "Share of respondents": "9"
+      },
+      {
+         "Cost in British pounds": "5000-10000",
+         "Share of respondents": "21"
+      },
+      {
+         "Cost in British pounds": "10000-20000",
+         "Share of respondents": "19"
+      },
+      {
+         "Cost in British pounds": "More than 20000",
+         "Share of respondents": "18"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey asking individuals in the United Kingdom how much they think the unit cost is to have a liver transplant on the NHS in 2015 . The average cost of a liver transplant is estimated to be 12,279 British pounds . The majority of respondents , 64 percent , predicted the cost to be less than ten thousand British pounds .\n"
+}

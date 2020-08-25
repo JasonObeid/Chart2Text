@@ -1,0 +1,64 @@
+{
+   "title": "Main export partners of Germany 2017\n",
+   "xAxis": "Country",
+   "yAxis": "Share in total exports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Country, and a y axis representing Share in total exports.",
+      " The highest category is found at United_States where Share in total exports is 8.8.",
+      " The lowest category is found at Switzerland where Share in total exports is 4.2."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share in total exports": 8.8
+      },
+      {
+         "Country": "France",
+         "Share in total exports": 8.2
+      },
+      {
+         "Country": "China",
+         "Share in total exports": 6.8
+      },
+      {
+         "Country": "Netherlands",
+         "Share in total exports": 6.7
+      },
+      {
+         "Country": "United Kingdom",
+         "Share in total exports": 6.6
+      },
+      {
+         "Country": "Italy",
+         "Share in total exports": 5.1
+      },
+      {
+         "Country": "Austria",
+         "Share in total exports": 4.9
+      },
+      {
+         "Country": "Poland",
+         "Share in total exports": 4.7
+      },
+      {
+         "Country": "Switzerland",
+         "Share in total exports": 4.2
+      }
+   ],
+   "gold": "This statistic shows the main export partners of Germany as of 2017 . That year , Germany 's main export partner were the United States with a 8.8 percent share in Germany 's total exports .\n"
+}

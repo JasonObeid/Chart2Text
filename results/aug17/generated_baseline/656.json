@@ -1,0 +1,105 @@
+{
+   "title": "Top U.S. states based on milk production 2016 to 2018",
+   "labels": [
+      "State",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 10 categories for the x axis of State representing 2016, 2017, and 2018.",
+      " The highest category is found at California with a mean value of 40226.67.",
+      " The second highest category is found at Wisconsin with a mean value of 30340.67.",
+      " This represents a difference of 28.0%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "California",
+         "2016": "40469",
+         "2017": "39798",
+         "2018": "40413"
+      },
+      {
+         "State": "Wisconsin",
+         "2016": "30123",
+         "2017": "30320",
+         "2018": "30579"
+      },
+      {
+         "State": "Idaho",
+         "2016": "14665",
+         "2017": "14627",
+         "2018": "15149"
+      },
+      {
+         "State": "New York",
+         "2016": "14765",
+         "2017": "14912",
+         "2018": "14882"
+      },
+      {
+         "State": "Texas",
+         "2016": "10773",
+         "2017": "12054",
+         "2018": "12852"
+      },
+      {
+         "State": "Michigan",
+         "2016": "10876",
+         "2017": "11231",
+         "2018": "11168"
+      },
+      {
+         "State": "Pennsylvania",
+         "2016": "10820",
+         "2017": "10938",
+         "2018": "10665"
+      },
+      {
+         "State": "Minnesota",
+         "2016": "9666",
+         "2017": "9864",
+         "2018": "9868"
+      },
+      {
+         "State": "New Mexico",
+         "2016": "7711",
+         "2017": "8212",
+         "2018": "8285"
+      },
+      {
+         "State": "Washington",
+         "2016": "6650",
+         "2017": "6526",
+         "2018": "6736"
+      }
+   ],
+   "gold": "This statistic shows the ten U.S. states with the highest amount of milk production from 2016 to 2018 . California , was the leading producer , where 40.4 billion pounds of milk were produced in 2018 . Milk production Dairy farming is an agricultural business which is engaged in the long-term milk production within the dairy industry .\n"
+}

@@ -1,0 +1,81 @@
+{
+   "title": "Venezuela 's budget balance in relation to GDP 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Budget balance in relation to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Budget balance in relation to GDP, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately positive which exists from 2014 to 2010.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2018 to 2015.",
+      " In a similar manner, the next significant trend is moderately negative which exists from 2010 to 2008.",
+      " On the contrary, the next significant trend is slightly negative which exists from 2015 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "8"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "3",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Budget balance in relation to GDP": 30.56
+      },
+      {
+         "Year": "2017",
+         "Budget balance in relation to GDP": 16.61
+      },
+      {
+         "Year": "2016",
+         "Budget balance in relation to GDP": 10.83
+      },
+      {
+         "Year": "2015",
+         "Budget balance in relation to GDP": 10.65
+      },
+      {
+         "Year": "2014",
+         "Budget balance in relation to GDP": 15.55
+      },
+      {
+         "Year": "2013",
+         "Budget balance in relation to GDP": 11.27
+      },
+      {
+         "Year": "2012",
+         "Budget balance in relation to GDP": 10.45
+      },
+      {
+         "Year": "2011",
+         "Budget balance in relation to GDP": 8.24
+      },
+      {
+         "Year": "2010",
+         "Budget balance in relation to GDP": 4.74
+      },
+      {
+         "Year": "2009",
+         "Budget balance in relation to GDP": 8.69
+      },
+      {
+         "Year": "2008",
+         "Budget balance in relation to GDP": 3.46
+      }
+   ],
+   "gold": "The statistic shows Venezuela 's budget balance in relation to GDP between 2008 and 2017 , with projections up until 2018 . A positive value indicates a budget surplus , a negative value indicates a deficit . In 2017 , the budget deficit of Venezuela amounted to around 16.61 percent of GDP .\n"
+}

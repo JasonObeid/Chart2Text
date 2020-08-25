@@ -1,0 +1,47 @@
+{
+   "title": "Mexico : number of households 2005 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of households in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of households in the country number households as 2017 , 2005 2017 , or 2017 from 2005 to 2017 . ",
+      "In 2017 , 34.07 millions of adults surveyed stated they households as LGBT , while in 2017 , 34.07 millions of households said the same ."
+   ],
+   "trends": [
+      {
+         "22": "4",
+         "24": "0"
+      },
+      {
+         "1": "0",
+         "3": "0",
+         "16": "0",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of households in millions": "34.07"
+      },
+      {
+         "Year": "2016",
+         "Number of households in millions": "32.9"
+      },
+      {
+         "Year": "2015",
+         "Number of households in millions": "31.95"
+      },
+      {
+         "Year": "2010",
+         "Number of households in millions": "28.16"
+      },
+      {
+         "Year": "2005",
+         "Number of households in millions": "24.8"
+      }
+   ],
+   "gold": "The statistic presents a timeline with the number of households in Mexico between 2005 and 2017 . In 2017 , there were more than 34 million households in Mexico , up from nearly 33 million households a year earlier .\n"
+}

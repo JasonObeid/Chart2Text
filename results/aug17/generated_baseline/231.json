@@ -1,0 +1,94 @@
+{
+   "title": "Franchise value of the Boston Red Sox 2002 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars with a total of 18 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2019 to 2002."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "17"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": 3200.0
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": 2800.0
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": 2700.0
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": 2300.0
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": 2100.0
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": 1500.0
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": 1312.0
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": 1000.0
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": 912.0
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": 870.0
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": 833.0
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": 816.0
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": 724.0
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": 617.0
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": 563.0
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": 533.0
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": 488.0
+      },
+      {
+         "Year": "2002",
+         "Franchise value in million U.S. dollars": 426.0
+      }
+   ],
+   "gold": "This graph depicts the value of the Boston Red Sox franchise of Major League Baseball from 2002 to 2019 . In 2019 , the franchise had an estimated value of 3.2 billion U.S. dollars.The Boston Red Sox are owned by John Henry and Thomas Werner , who bought the franchise for 380 million U.S. dollars in 2002 .\n"
+}

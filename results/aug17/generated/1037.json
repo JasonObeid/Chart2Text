@@ -1,0 +1,105 @@
+{
+   "title": "Economic damage caused by floods in the U.S. 1995 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Damage in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Economic Damage caused by floods in the U.S. from 1995 to 2018 . ",
+      "In 2018 , floods resulted in approximately 1644 million U.S. dollars worth of Damage across the U.S. ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "15": "19"
+      },
+      {
+         "1": "19",
+         "7": "19"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1995",
+         "Damage in million U.S. dollars": "1251"
+      },
+      {
+         "Year": "2000",
+         "Damage in million U.S. dollars": "1255"
+      },
+      {
+         "Year": "2001",
+         "Damage in million U.S. dollars": "1220"
+      },
+      {
+         "Year": "2002",
+         "Damage in million U.S. dollars": "655"
+      },
+      {
+         "Year": "2003",
+         "Damage in million U.S. dollars": "2541"
+      },
+      {
+         "Year": "2004",
+         "Damage in million U.S. dollars": "1696"
+      },
+      {
+         "Year": "2005",
+         "Damage in million U.S. dollars": "1538"
+      },
+      {
+         "Year": "2006",
+         "Damage in million U.S. dollars": "3768"
+      },
+      {
+         "Year": "2007",
+         "Damage in million U.S. dollars": "1278"
+      },
+      {
+         "Year": "2008",
+         "Damage in million U.S. dollars": "3406"
+      },
+      {
+         "Year": "2009",
+         "Damage in million U.S. dollars": "1050"
+      },
+      {
+         "Year": "2010",
+         "Damage in million U.S. dollars": "3927"
+      },
+      {
+         "Year": "2011",
+         "Damage in million U.S. dollars": "7978"
+      },
+      {
+         "Year": "2012",
+         "Damage in million U.S. dollars": "494"
+      },
+      {
+         "Year": "2013",
+         "Damage in million U.S. dollars": "2172"
+      },
+      {
+         "Year": "2014",
+         "Damage in million U.S. dollars": "2626"
+      },
+      {
+         "Year": "2015",
+         "Damage in million U.S. dollars": "2749"
+      },
+      {
+         "Year": "2016",
+         "Damage in million U.S. dollars": "10907"
+      },
+      {
+         "Year": "2017",
+         "Damage in million U.S. dollars": "60700"
+      },
+      {
+         "Year": "2018",
+         "Damage in million U.S. dollars": "1644"
+      }
+   ],
+   "gold": "This statistic shows the economic damage caused by floods and flash floods in the United States from 1995 to 2018 . In 2018 , floods caused approximately 1.6 billion U.S. dollars worth of property and crop damage across the United States .\n"
+}

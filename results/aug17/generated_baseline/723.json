@@ -1,0 +1,68 @@
+{
+   "title": "Fastest supercomputers - number of computer cores 2019\n",
+   "xAxis": "Location",
+   "yAxis": "Number of cores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Location, and a y axis representing Number of cores.",
+      " The highest category is found at Sunway_TaihuLight__China where Number of cores is 10649600.0.",
+      " The lowest category is found at Lassen_United_States where Number of cores is 288288.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Location": "Summit United States",
+         "Number of cores": 2414592.0
+      },
+      {
+         "Location": "Sierra  United States",
+         "Number of cores": 1572480.0
+      },
+      {
+         "Location": "Sunway TaihuLight  China",
+         "Number of cores": 10649600.0
+      },
+      {
+         "Location": "Tianhe-2A China",
+         "Number of cores": 4981760.0
+      },
+      {
+         "Location": "Frontera United States",
+         "Number of cores": 448448.0
+      },
+      {
+         "Location": "Piz Daint  Switzerland",
+         "Number of cores": 387872.0
+      },
+      {
+         "Location": "Trinity  United States",
+         "Number of cores": 979072.0
+      },
+      {
+         "Location": "AI Bridging Cloud Infrastructure (ABCI) Japan",
+         "Number of cores": 391680.0
+      },
+      {
+         "Location": "SuperMUC-NG Germany",
+         "Number of cores": 305856.0
+      },
+      {
+         "Location": "Lassen United States",
+         "Number of cores": 288288.0
+      }
+   ],
+   "gold": "This ranking lists the number of computer cores of the 10 fastest supercomputers . The fastest supercomputer as of June 2019 , Summit , operated by the Oak Ridge National Laboratory in Tennessee , China , had 2.4 million computer cores .\n"
+}

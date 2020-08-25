@@ -1,0 +1,79 @@
+{
+   "title": "Volume of bottled water in the U.S. 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Sales volume in billion dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Sales volume in billion dollars, with a total of 13 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2009.",
+      " Similarly, the next significant trend is slightly negative which exists from 2009 to 2006."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "9"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales volume in billion dollars": 13.85
+      },
+      {
+         "Year": "2017",
+         "Sales volume in billion dollars": 13.2
+      },
+      {
+         "Year": "2016",
+         "Sales volume in billion dollars": 12.43
+      },
+      {
+         "Year": "2015",
+         "Sales volume in billion dollars": 11.52
+      },
+      {
+         "Year": "2014",
+         "Sales volume in billion dollars": 10.9
+      },
+      {
+         "Year": "2013",
+         "Sales volume in billion dollars": 10.2
+      },
+      {
+         "Year": "2012",
+         "Sales volume in billion dollars": 9.7
+      },
+      {
+         "Year": "2011",
+         "Sales volume in billion dollars": 9.11
+      },
+      {
+         "Year": "2010",
+         "Sales volume in billion dollars": 8.76
+      },
+      {
+         "Year": "2009",
+         "Sales volume in billion dollars": 8.45
+      },
+      {
+         "Year": "2008",
+         "Sales volume in billion dollars": 8.67
+      },
+      {
+         "Year": "2007",
+         "Sales volume in billion dollars": 8.76
+      },
+      {
+         "Year": "2006",
+         "Sales volume in billion dollars": 8.25
+      }
+   ],
+   "gold": "This timeline shows the sales volume of bottled water in the United States from 2006 to 2018 . According to the report , the volume of bottled water in the U.S. amounted to about 13.85 billion gallons in 2018 .\n"
+}

@@ -1,0 +1,108 @@
+{
+   "title": "Youth unemployment rate in Italy 2018 , by region\n",
+   "xAxis": "Month",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Month, and a y axis representing Unemployment rate.",
+      " The highest category is found at Sicily where Unemployment rate is 53.6.",
+      " The lowest category is found at Trentino-South_Tyrol where Unemployment rate is 11.9."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Sicily",
+         "Unemployment rate": 53.6
+      },
+      {
+         "Month": "Campania",
+         "Unemployment rate": 53.6
+      },
+      {
+         "Month": "Calabria",
+         "Unemployment rate": 52.7
+      },
+      {
+         "Month": "Apulia",
+         "Unemployment rate": 43.6
+      },
+      {
+         "Month": "Molise",
+         "Unemployment rate": 40.3
+      },
+      {
+         "Month": "Basilicata",
+         "Unemployment rate": 38.7
+      },
+      {
+         "Month": "Liguria",
+         "Unemployment rate": 36.3
+      },
+      {
+         "Month": "Sardinia",
+         "Unemployment rate": 35.7
+      },
+      {
+         "Month": "Lazio",
+         "Unemployment rate": 34.5
+      },
+      {
+         "Month": "Umbria",
+         "Unemployment rate": 31.1
+      },
+      {
+         "Month": "Piedmont",
+         "Unemployment rate": 30.0
+      },
+      {
+         "Month": "Abruzzo",
+         "Unemployment rate": 29.7
+      },
+      {
+         "Month": "Friuli-Venezia Giulia",
+         "Unemployment rate": 23.7
+      },
+      {
+         "Month": "Tuscany",
+         "Unemployment rate": 22.9
+      },
+      {
+         "Month": "Marche",
+         "Unemployment rate": 22.1
+      },
+      {
+         "Month": "Aosta Valley",
+         "Unemployment rate": 21.7
+      },
+      {
+         "Month": "Veneto",
+         "Unemployment rate": 21.0
+      },
+      {
+         "Month": "Lombardy",
+         "Unemployment rate": 20.8
+      },
+      {
+         "Month": "Emilia-Romagna",
+         "Unemployment rate": 17.8
+      },
+      {
+         "Month": "Trentino-South Tyrol",
+         "Unemployment rate": 11.9
+      }
+   ],
+   "gold": "The financial crisis that burst out in 2008 , alongside with the consequential problems on the labor market and high unemployment rates , affected in particular the south of Italy . Despite an overall improvement of the country 's economic situation over the last years , some significant differences between the regions still can be observed . When it comes to the unemployment rates , in 2018 Calabria , Sicily and Campania were the three regions where the share of inhabitants without a job exceeded 20 percent .\n"
+}

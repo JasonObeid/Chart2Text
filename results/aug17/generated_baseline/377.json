@@ -1,0 +1,80 @@
+{
+   "title": "Cost of an angioplasty in various countries 2019\n",
+   "xAxis": "Country",
+   "yAxis": "Cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 13 categories for the x axis representing Country, and a y axis representing Cost in U.S. dollars.",
+      " The highest category is found at United_States where Cost in U.S. dollars is 28200.0.",
+      " The lowest category is found at Thailand where Cost in U.S. dollars is 4200.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Cost in U.S. dollars": 28200.0
+      },
+      {
+         "Country": "South Korea",
+         "Cost in U.S. dollars": 17700.0
+      },
+      {
+         "Country": "Costa Rica",
+         "Cost in U.S. dollars": 13800.0
+      },
+      {
+         "Country": "Singapore",
+         "Cost in U.S. dollars": 13400.0
+      },
+      {
+         "Country": "Mexico",
+         "Cost in U.S. dollars": 10400.0
+      },
+      {
+         "Country": "Malaysia",
+         "Cost in U.S. dollars": 8000.0
+      },
+      {
+         "Country": "Israel",
+         "Cost in U.S. dollars": 7500.0
+      },
+      {
+         "Country": "Colombia",
+         "Cost in U.S. dollars": 7100.0
+      },
+      {
+         "Country": "India",
+         "Cost in U.S. dollars": 5700.0
+      },
+      {
+         "Country": "Poland",
+         "Cost in U.S. dollars": 5300.0
+      },
+      {
+         "Country": "Jordan",
+         "Cost in U.S. dollars": 5000.0
+      },
+      {
+         "Country": "Turkey",
+         "Cost in U.S. dollars": 4800.0
+      },
+      {
+         "Country": "Thailand",
+         "Cost in U.S. dollars": 4200.0
+      }
+   ],
+   "gold": "This statistic compares the cost of an angioplasty procedure in selected countries as of 2018 . In the United States , an angioplasty cost 28,200 U.S. dollars , while in Costa Rica such a procedure cost less than half of that price .\n"
+}

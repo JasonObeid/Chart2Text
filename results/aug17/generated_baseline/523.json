@@ -1,0 +1,109 @@
+{
+   "title": "Retail price for granulated sugar in the U.S. 2000 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Price per pound in U.S. cents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Price per pound in U.S. cents, with a total of 18 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2012 to 2004.",
+      " Likewise, the next significant trend is moderately negative which exists from 2004 to 2000.",
+      " Conversely, the next significant trend is slightly negative which exists from 2015 to 2012.",
+      " Contrarily, the next significant trend is slightly negative which exists from 2017 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "5",
+         "12": "13"
+      },
+      {
+         "3": "13",
+         "14": "17"
+      },
+      {
+         "3": "2",
+         "14": "5"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Price per pound in U.S. cents": 64.76
+      },
+      {
+         "Year": "2016",
+         "Price per pound in U.S. cents": 64.19
+      },
+      {
+         "Year": "2015",
+         "Price per pound in U.S. cents": 65.36
+      },
+      {
+         "Year": "2014",
+         "Price per pound in U.S. cents": 60.9
+      },
+      {
+         "Year": "2013",
+         "Price per pound in U.S. cents": 64.32
+      },
+      {
+         "Year": "2012",
+         "Price per pound in U.S. cents": 69.41
+      },
+      {
+         "Year": "2011",
+         "Price per pound in U.S. cents": 68.3
+      },
+      {
+         "Year": "2010",
+         "Price per pound in U.S. cents": 62.86
+      },
+      {
+         "Year": "2009",
+         "Price per pound in U.S. cents": 57.03
+      },
+      {
+         "Year": "2008",
+         "Price per pound in U.S. cents": 52.91
+      },
+      {
+         "Year": "2007",
+         "Price per pound in U.S. cents": 51.48
+      },
+      {
+         "Year": "2006",
+         "Price per pound in U.S. cents": 49.58
+      },
+      {
+         "Year": "2005",
+         "Price per pound in U.S. cents": 43.54
+      },
+      {
+         "Year": "2004",
+         "Price per pound in U.S. cents": 42.64
+      },
+      {
+         "Year": "2003",
+         "Price per pound in U.S. cents": 42.68
+      },
+      {
+         "Year": "2002",
+         "Price per pound in U.S. cents": 43.1
+      },
+      {
+         "Year": "2001",
+         "Price per pound in U.S. cents": 43.42
+      },
+      {
+         "Year": "2000",
+         "Price per pound in U.S. cents": 42.41
+      }
+   ],
+   "gold": "In the United States , the average retail price per pound of granulated sugar was roughly 65 U.S. cents in 2017 . The price of sugar has fluctuated considerably over the past seventeen years , peaking at almost 70 U.S. cents per pound in 2012 . Sugar production Within the 2018/2019 period , a total of just under 180 million metric tons of sugar was produced worldwide .\n"
+}

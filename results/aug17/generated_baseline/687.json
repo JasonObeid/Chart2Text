@@ -1,0 +1,42 @@
+{
+   "title": "Instagram : number of brand sponsored influencer posts 2016 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Annual posts in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Annual posts in millions with a total of 5 data points. The chart has one significant trend.",
+      " This trend is negative which exists from 2016 to 2020."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Annual posts in millions": 1.26
+      },
+      {
+         "Year": "2017",
+         "Annual posts in millions": 2.58
+      },
+      {
+         "Year": "2018",
+         "Annual posts in millions": 3.7
+      },
+      {
+         "Year": "2019",
+         "Annual posts in millions": 4.95
+      },
+      {
+         "Year": "2020",
+         "Annual posts in millions": 6.12
+      }
+   ],
+   "gold": "This statistic presents the number of brand sponsored influencer posts on Instagram from 2016 to 2020 . In 2018 , there were 3.7 million brand sponsored influencer posts on the social platform . The volume of sponsored content on Instagram is projected to amount to 4.95 million posts in 2019 .\n"
+}

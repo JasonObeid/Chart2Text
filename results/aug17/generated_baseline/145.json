@@ -1,0 +1,117 @@
+{
+   "title": "Population of Luxembourg 2019 , by age\n",
+   "xAxis": "Year",
+   "yAxis": "Number of inhabitants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of inhabitants, with a total of 20 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly positive which exists from 50-54_years to 95_years_and_older.",
+      " Also, the next significant trend is extremely negative which exists from 10-14_years to 35-39_years.",
+      " Contrarily, the next significant trend is slightly negative which exists from 35-39_years to 50-54_years.",
+      " On the contrary, the next significant trend is slightly positive which exists from 0-4_years to 10-14_years."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "10",
+         "12": "19"
+      },
+      {
+         "3": "2",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "0-4 years",
+         "Number of inhabitants": 32592.0
+      },
+      {
+         "Year": "5-9 years",
+         "Number of inhabitants": 33355.0
+      },
+      {
+         "Year": "10-14 years",
+         "Number of inhabitants": 32660.0
+      },
+      {
+         "Year": "15-19 years",
+         "Number of inhabitants": 33206.0
+      },
+      {
+         "Year": "20-24 years",
+         "Number of inhabitants": 38038.0
+      },
+      {
+         "Year": "25-29 years",
+         "Number of inhabitants": 46125.0
+      },
+      {
+         "Year": "30-34 years",
+         "Number of inhabitants": 47863.0
+      },
+      {
+         "Year": "35-39 years",
+         "Number of inhabitants": 48111.0
+      },
+      {
+         "Year": "40-44 years",
+         "Number of inhabitants": 46177.0
+      },
+      {
+         "Year": "45-49 years",
+         "Number of inhabitants": 46183.0
+      },
+      {
+         "Year": "50-54 years",
+         "Number of inhabitants": 46695.0
+      },
+      {
+         "Year": "55-59 years",
+         "Number of inhabitants": 41130.0
+      },
+      {
+         "Year": "60-64 years",
+         "Number of inhabitants": 33431.0
+      },
+      {
+         "Year": "65-69 years",
+         "Number of inhabitants": 26712.0
+      },
+      {
+         "Year": "70-74 years",
+         "Number of inhabitants": 21074.0
+      },
+      {
+         "Year": "75-79 years",
+         "Number of inhabitants": 16260.0
+      },
+      {
+         "Year": "80-84 years",
+         "Number of inhabitants": 12270.0
+      },
+      {
+         "Year": "85-89 years",
+         "Number of inhabitants": 8069.0
+      },
+      {
+         "Year": "90-94 years",
+         "Number of inhabitants": 3177.0
+      },
+      {
+         "Year": "95 years and older",
+         "Number of inhabitants": 766.0
+      }
+   ],
+   "gold": "In 2019 , the population of Luxembourg amounted to nearly 614,000 . The largest age groups were formed by those between 30 and 34 years old ( 47,863 people ) and between 35 and 39 years old ( 48,111 people ) . By comparison : only 766 people were 95 years or older .\n"
+}

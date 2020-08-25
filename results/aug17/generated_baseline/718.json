@@ -1,0 +1,95 @@
+{
+   "title": "Grocery market share in France 2008 to 2018",
+   "labels": [
+      "Year",
+      "\"Systeme A\"",
+      "Carrefour",
+      "Leclerc",
+      "Intermarche",
+      "Casino",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 6 lines.",
+      " The line representing \"Systeme A\" had the highest values across Year with a mean value of 21.5.",
+      " This peaked at 2013 with a value of 22.3. ",
+      " The line with the second highest values was Carrefour with a mean value of 20.8.",
+      " This line peaked at 2008 with a value of 22.9"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "9": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2008",
+         "\"Systeme A\"": "20.3",
+         "Carrefour": "22.9",
+         "Leclerc": "14.2",
+         "Intermarche": "15.2",
+         "Casino": "11.6",
+         "Other": "15.8"
+      },
+      {
+         "Year": "2013",
+         "\"Systeme A\"": "22.3",
+         "Carrefour": "19.9",
+         "Leclerc": "17.7",
+         "Intermarche": "13.6",
+         "Casino": "10.2",
+         "Other": "16.3"
+      },
+      {
+         "Year": "2018",
+         "\"Systeme A\"": "21.8",
+         "Carrefour": "19.5",
+         "Leclerc": "19.3",
+         "Intermarche": "15",
+         "Casino": "9.9",
+         "Other": "14.6"
+      }
+   ],
+   "gold": "This statistic shows the market share of grocery store brands in France for the years 2008 , 2013 and a forecast for 2018 . The leading three supermarkets based on market share in 2013 were `` Systeme A '' ( Auchan and System U partnership ) , Carrefour and Leclerc . Leclerc 's share of the market is forecast to increase again in 2018 , to 19.3 percent .\n"
+}

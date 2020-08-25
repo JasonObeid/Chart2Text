@@ -1,0 +1,42 @@
+{
+   "title": "Chains with the largest share of the U.S. burger restaurant market as of June 2014",
+   "xAxis": "Burger Restaurant Chains",
+   "yAxis": "Share of the burger restaurant market",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows burger of largest U.S. burger market in 2014 . ",
+      "In that year , burger of largest U.S. Burger_King McDonald's amounted to 15.4 million burger restaurant . ",
+      "Sonic_Drive-Ins burger largest were 34.3 million burger restaurant in 2011/2012.Hair Care Products MarketHair care is a dynamic and complex market , driven by the fundamental fact that people are always looking for hair that is more beautiful , healthier and easier to style ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "10": "0"
+      },
+      {
+         "0": "3"
+      }
+   ],
+   "data": [
+      {
+         "Burger Restaurant Chains": "McDonald's",
+         "Share of the burger restaurant market": "34.3"
+      },
+      {
+         "Burger Restaurant Chains": "Burger King",
+         "Share of the burger restaurant market": "15.4"
+      },
+      {
+         "Burger Restaurant Chains": "Wendy's",
+         "Share of the burger restaurant market": "13.9"
+      },
+      {
+         "Burger Restaurant Chains": "Sonic Drive-Ins",
+         "Share of the burger restaurant market": "8.2"
+      }
+   ],
+   "gold": "This statistic shows the restaurant chains with the largest share of the burger restaurant market in the United States as of June 2014 . McDonald 's comprised the largest share of the burger restaurant market at 34.3 percent .\n"
+}

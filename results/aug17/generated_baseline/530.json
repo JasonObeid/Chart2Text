@@ -1,0 +1,109 @@
+{
+   "title": "Perceived ROI level from digital marketing channels worldwide 2017",
+   "labels": [
+      "Response",
+      "Lowest ROI",
+      "Medium ROI",
+      "Highest ROI",
+      "Don't use or N/A"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 9 categories for the x axis of Response representing Lowest ROI, Medium ROI, Highest ROI, and Don't use or N/A.",
+      " The highest category is found at Display advertising including programmatic with a mean value of 25.0.",
+      " The second highest category is found at Online PR and outreach with a mean value of 25.0.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "8"
+         ],
+         "13": [
+            "4",
+            "8"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "7"
+         ],
+         "14": [
+            "4",
+            "7"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "SEO",
+         "Lowest ROI": "15",
+         "Medium ROI": "41",
+         "Highest ROI": "32",
+         "Don't use or N/A": "12"
+      },
+      {
+         "Response": "Content marketing",
+         "Lowest ROI": "17",
+         "Medium ROI": "40",
+         "Highest ROI": "30",
+         "Don't use or N/A": "13"
+      },
+      {
+         "Response": "E-mail marketing and marketing automation",
+         "Lowest ROI": "17",
+         "Medium ROI": "43",
+         "Highest ROI": "30",
+         "Don't use or N/A": "10"
+      },
+      {
+         "Response": "Paid search marketing (AdWords)",
+         "Lowest ROI": "19",
+         "Medium ROI": "37",
+         "Highest ROI": "20",
+         "Don't use or N/A": "24"
+      },
+      {
+         "Response": "Social media (organic)",
+         "Lowest ROI": "33",
+         "Medium ROI": "39",
+         "Highest ROI": "20",
+         "Don't use or N/A": "8"
+      },
+      {
+         "Response": "Socila media (paid ads)",
+         "Lowest ROI": "24",
+         "Medium ROI": "36",
+         "Highest ROI": "17",
+         "Don't use or N/A": "23"
+      },
+      {
+         "Response": "Website personalization",
+         "Lowest ROI": "18",
+         "Medium ROI": "26",
+         "Highest ROI": "16",
+         "Don't use or N/A": "40"
+      },
+      {
+         "Response": "Online PR and outreach",
+         "Lowest ROI": "28",
+         "Medium ROI": "37",
+         "Highest ROI": "15",
+         "Don't use or N/A": "20"
+      },
+      {
+         "Response": "Display advertising including programmatic",
+         "Lowest ROI": "26",
+         "Medium ROI": "31",
+         "Highest ROI": "10",
+         "Don't use or N/A": "33"
+      }
+   ],
+   "gold": "Among the many digital marketing channels to choose from , SEO , content marketing and e-mail marketing together with automation commanded the largest share of marketers claiming that they generated the highest return on investment . Roughly a third of surveyed industry professionals believed that these three tactics were highly beneficial . Consequently , more than half of global marketers declared an increase in their budgets on all three channels in the same period .\n"
+}

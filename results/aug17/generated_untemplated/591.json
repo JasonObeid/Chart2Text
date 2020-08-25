@@ -1,0 +1,41 @@
+{
+   "title": "Most popular crisps and savoury snack brands in the United Kingdom ( UK ) 2013\n",
+   "xAxis": "Snack Brand",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic displays the leading frozen dessert brands in the united kingdom ( uk ) , according to a survey conducted in 2013 . The leading six desserts were all ice cream products , with ben & Jerry 's ice cream ranking highest with 41 percent of respondents purchasing its products at the time of the survey . A majority of consumers eat desserts ( excluding cakes ) two to three times a month , with ready to eat desserts the most popular format .\n",
+   "trends": {},
+   "data": [
+      {
+         "Snack Brand": "Walkers",
+         "Share of respondents currently purchasing": 42.0
+      },
+      {
+         "Snack Brand": "Doritos",
+         "Share of respondents currently purchasing": 32.0
+      },
+      {
+         "Snack Brand": "Hula Hoops",
+         "Share of respondents currently purchasing": 26.0
+      },
+      {
+         "Snack Brand": "Pringles",
+         "Share of respondents currently purchasing": 26.0
+      },
+      {
+         "Snack Brand": "McCoys",
+         "Share of respondents currently purchasing": 25.0
+      },
+      {
+         "Snack Brand": "Own brand crisps",
+         "Share of respondents currently purchasing": 24.0
+      },
+      {
+         "Snack Brand": "KP nuts",
+         "Share of respondents currently purchasing": 22.0
+      }
+   ],
+   "gold": "This statistic displays the leading crisp and savory snack brands in the United Kingdom ( UK ) , ranked by most purchased . According to the survey conducted in November 2013 , the leading six products were all crisps . Walkers ranked highest with 42 percent of respondents purchasing their crisps at the time of survey , followed by Doritos at 32 percent .\n"
+}

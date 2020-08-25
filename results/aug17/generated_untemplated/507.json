@@ -1,0 +1,37 @@
+{
+   "title": "Forecast of nickel consumption worldwide 2015 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Consumption in thousand metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic represents the projected global m-commerce transaction value from 2015 to 2020 . In 2020 , global ip data traffic is expected to amount to 121694 petabytes per month .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2020",
+         "Consumption in thousand metric tons": 2376.0
+      },
+      {
+         "Year": "2019",
+         "Consumption in thousand metric tons": 2288.0
+      },
+      {
+         "Year": "2018",
+         "Consumption in thousand metric tons": 2199.0
+      },
+      {
+         "Year": "2017",
+         "Consumption in thousand metric tons": 2117.0
+      },
+      {
+         "Year": "2016",
+         "Consumption in thousand metric tons": 2050.0
+      },
+      {
+         "Year": "2015",
+         "Consumption in thousand metric tons": 1963.0
+      }
+   ],
+   "gold": "This statistic shows a forecast of the volume of nickel consumption globally from 2015 to 2020 . By 2020 , it is predicted that nickel consumption will reach nearly 2.4 million metric tons worldwide . Nickel is most commonly used for making steels , nonferrous alloys , and electroplating .\n"
+}

@@ -1,0 +1,196 @@
+{
+   "title": "Average number of minutes waiting in the emergency department in the UK 2011 to 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Number of minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 42 categories for the x axis representing Month, and a y axis representing Number of minutes.",
+      " The highest category is found at Mar_2016 where Number of minutes is 69.0.",
+      " The lowest category is found at Jan_2015 where Number of minutes is 46.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 12,
+         "12": 12
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Mar 2018",
+         "Number of minutes": 64.0
+      },
+      {
+         "Month": "Jan 2018",
+         "Number of minutes": 57.0
+      },
+      {
+         "Month": "Nov 2017",
+         "Number of minutes": 60.0
+      },
+      {
+         "Month": "Sep 2017",
+         "Number of minutes": 58.0
+      },
+      {
+         "Month": "Jul 2017",
+         "Number of minutes": 60.0
+      },
+      {
+         "Month": "May 2017",
+         "Number of minutes": 59.0
+      },
+      {
+         "Month": "Mar 2017",
+         "Number of minutes": 58.0
+      },
+      {
+         "Month": "Jan 2017",
+         "Number of minutes": 57.0
+      },
+      {
+         "Month": "Nov 2016",
+         "Number of minutes": 59.0
+      },
+      {
+         "Month": "Sep 2016",
+         "Number of minutes": 59.0
+      },
+      {
+         "Month": "Jul 2016",
+         "Number of minutes": 62.0
+      },
+      {
+         "Month": "May 2016",
+         "Number of minutes": 62.0
+      },
+      {
+         "Month": "Mar 2016",
+         "Number of minutes": 69.0
+      },
+      {
+         "Month": "Jan 2016",
+         "Number of minutes": 58.0
+      },
+      {
+         "Month": "Nov 2015",
+         "Number of minutes": 58.0
+      },
+      {
+         "Month": "Sep 2015",
+         "Number of minutes": 55.0
+      },
+      {
+         "Month": "Jul 2015",
+         "Number of minutes": 53.0
+      },
+      {
+         "Month": "May 2015",
+         "Number of minutes": 53.0
+      },
+      {
+         "Month": "Mar 2015",
+         "Number of minutes": 56.0
+      },
+      {
+         "Month": "Jan 2015",
+         "Number of minutes": 46.0
+      },
+      {
+         "Month": "Nov 2014",
+         "Number of minutes": 54.0
+      },
+      {
+         "Month": "Sep 2014",
+         "Number of minutes": 55.0
+      },
+      {
+         "Month": "Jul 2014",
+         "Number of minutes": 56.0
+      },
+      {
+         "Month": "May 2014",
+         "Number of minutes": 56.0
+      },
+      {
+         "Month": "Mar 2014",
+         "Number of minutes": 56.0
+      },
+      {
+         "Month": "Jan 2014",
+         "Number of minutes": 47.0
+      },
+      {
+         "Month": "Nov 2013",
+         "Number of minutes": 50.0
+      },
+      {
+         "Month": "Sep 2013",
+         "Number of minutes": 50.0
+      },
+      {
+         "Month": "Jul 2013",
+         "Number of minutes": 53.0
+      },
+      {
+         "Month": "May 2013",
+         "Number of minutes": 51.0
+      },
+      {
+         "Month": "Mar 2013",
+         "Number of minutes": 57.0
+      },
+      {
+         "Month": "Jan 2013",
+         "Number of minutes": 50.0
+      },
+      {
+         "Month": "Nov 2012",
+         "Number of minutes": 53.0
+      },
+      {
+         "Month": "Sep 2012",
+         "Number of minutes": 53.0
+      },
+      {
+         "Month": "Jul 2012",
+         "Number of minutes": 54.0
+      },
+      {
+         "Month": "May 2012",
+         "Number of minutes": 53.0
+      },
+      {
+         "Month": "Mar 2012",
+         "Number of minutes": 55.0
+      },
+      {
+         "Month": "Jan 2012",
+         "Number of minutes": 49.0
+      },
+      {
+         "Month": "Nov 2011",
+         "Number of minutes": 51.0
+      },
+      {
+         "Month": "Sep 2011",
+         "Number of minutes": 53.0
+      },
+      {
+         "Month": "Jul 2011",
+         "Number of minutes": 53.0
+      },
+      {
+         "Month": "May 2011",
+         "Number of minutes": 57.0
+      }
+   ],
+   "gold": "In March 2018 , a patient in Accident and Emergency in the United Kingdom would spend an average of 64 minutes waiting before treatment would begin . Since the start of the provided time interval in 2011 this is the second longest average waiting time recorded . The only time it was higher was the average waiting time in March 2016 , which rose to 69 minutes .\n"
+}

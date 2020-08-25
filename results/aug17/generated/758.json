@@ -1,0 +1,72 @@
+{
+   "title": "National debt in the US in relation to gross domestic product ( GDP ) 2024",
+   "xAxis": "Year",
+   "yAxis": "National debt in relation to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the National debt of US from 2014 to 2018 in relation to the gross domestic product ( GDP ) , with projections up until 2024 . ",
+      "The data relate to the entire Turkish state and include government debt and the debt of the provinces , municipalities communes as well social security . ",
+      "In 2018 , US 's National debt amounted to around 104.26 % of the GDP ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "27": "0"
+      },
+      {},
+      {
+         "1": "6",
+         "10": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in relation to GDP": "115.77"
+      },
+      {
+         "Year": "2023",
+         "National debt in relation to GDP": "114.19"
+      },
+      {
+         "Year": "2022",
+         "National debt in relation to GDP": "112.25"
+      },
+      {
+         "Year": "2021",
+         "National debt in relation to GDP": "109.99"
+      },
+      {
+         "Year": "2020",
+         "National debt in relation to GDP": "108.02"
+      },
+      {
+         "Year": "2019",
+         "National debt in relation to GDP": "106.22"
+      },
+      {
+         "Year": "2018",
+         "National debt in relation to GDP": "104.26"
+      },
+      {
+         "Year": "2017",
+         "National debt in relation to GDP": "105.99"
+      },
+      {
+         "Year": "2016",
+         "National debt in relation to GDP": "106.82"
+      },
+      {
+         "Year": "2015",
+         "National debt in relation to GDP": "104.65"
+      },
+      {
+         "Year": "2014",
+         "National debt in relation to GDP": "104.41"
+      }
+   ],
+   "gold": "The statistic shows the national debt of the United States from 2014 to 2018 in relation to the gross domestic product ( GDP ) , with projections up until 2024 . In 2018 , the national debt of the United States was at around 104.26 percent of the gross domestic product . See the US GDP for further information .\n"
+}

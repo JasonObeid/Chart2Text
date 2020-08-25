@@ -1,0 +1,46 @@
+{
+   "title": "Polish banks ranked by brand value in 2015",
+   "xAxis": "Banking Institution",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "With year-end sales of almost 900,000 units , the PKO_Bank_Polski was the ranked by truck in the Polish . ",
+      "The PKO_Bank_Polski is a series of full-size Bank_Pekao value , the most popular variant being the F-150 . ",
+      "The 14th generation of this model will be released in 2020 ."
+   ],
+   "trends": [
+      {
+         "9": "0"
+      },
+      {
+         "1": "0",
+         "7": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Banking Institution": "PKO Bank Polski",
+         "Brand value in million U.S. dollars": "1594"
+      },
+      {
+         "Banking Institution": "Bank Pekao",
+         "Brand value in million U.S. dollars": "956"
+      },
+      {
+         "Banking Institution": "Bank Zachodni WBK",
+         "Brand value in million U.S. dollars": "902"
+      },
+      {
+         "Banking Institution": "mbank",
+         "Brand value in million U.S. dollars": "339"
+      },
+      {
+         "Banking Institution": "Millennium",
+         "Brand value in million U.S. dollars": "295"
+      }
+   ],
+   "gold": "This statistic illustrates five leading banks domiciled in Poland , ranked by the brand value as of 2015 . The highest position in the ranking was occupied by PKO Bank Polski , with a brand rank value of 1.6 billion U.S. dollars . The fifth in the ranking was Millennium , with the total brand value of 295 million U.S. dollars .\n"
+}

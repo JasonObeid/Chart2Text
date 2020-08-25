@@ -1,0 +1,142 @@
+{
+   "title": "Cotton yield per harvested acre in the U.S. 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Yield per acre in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Yield per acre in pounds, with a total of 20 data points. The chart has 9 significant trends.",
+      " The longest trend is moderately negative which exists from 2007 to 2004.",
+      " On the contrary, the next significant trend is slightly negative which exists from 2019 to 2017.",
+      " Conversely, the next significant trend is extremely positive which exists from 2017 to 2015.",
+      " Correspondingly, the next significant trend is slightly positive which exists from 2015 to 2013.",
+      " Likewise, the next significant trend is moderately positive which exists from 2013 to 2011.",
+      " Similarly, the next significant trend is moderately positive which exists from 2011 to 2009.",
+      " Similarly, the next significant trend is slightly negative which exists from 2009 to 2007.",
+      " But, the next significant trend is extremely positive which exists from 2004 to 2002.",
+      " Likewise, the next significant trend is moderately negative which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "12",
+         "12": "15"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      },
+      {
+         "3": "15",
+         "14": "17"
+      },
+      {
+         "3": "17",
+         "14": "19"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Yield per acre in pounds": 817.0
+      },
+      {
+         "Year": "2018",
+         "Yield per acre in pounds": 864.0
+      },
+      {
+         "Year": "2017",
+         "Yield per acre in pounds": 905.0
+      },
+      {
+         "Year": "2016",
+         "Yield per acre in pounds": 855.0
+      },
+      {
+         "Year": "2015",
+         "Yield per acre in pounds": 766.0
+      },
+      {
+         "Year": "2014",
+         "Yield per acre in pounds": 838.0
+      },
+      {
+         "Year": "2013",
+         "Yield per acre in pounds": 821.0
+      },
+      {
+         "Year": "2012",
+         "Yield per acre in pounds": 892.0
+      },
+      {
+         "Year": "2011",
+         "Yield per acre in pounds": 790.0
+      },
+      {
+         "Year": "2010",
+         "Yield per acre in pounds": 812.0
+      },
+      {
+         "Year": "2009",
+         "Yield per acre in pounds": 776.0
+      },
+      {
+         "Year": "2008",
+         "Yield per acre in pounds": 813.0
+      },
+      {
+         "Year": "2007",
+         "Yield per acre in pounds": 879.0
+      },
+      {
+         "Year": "2006",
+         "Yield per acre in pounds": 814.0
+      },
+      {
+         "Year": "2005",
+         "Yield per acre in pounds": 831.0
+      },
+      {
+         "Year": "2004",
+         "Yield per acre in pounds": 855.0
+      },
+      {
+         "Year": "2003",
+         "Yield per acre in pounds": 730.0
+      },
+      {
+         "Year": "2002",
+         "Yield per acre in pounds": 665.0
+      },
+      {
+         "Year": "2001",
+         "Yield per acre in pounds": 705.0
+      },
+      {
+         "Year": "2000",
+         "Yield per acre in pounds": 632.0
+      }
+   ],
+   "gold": "This statistic shows the total cotton yield per harvested acre in the U.S. from 2000 to 2019 . In 2019 , the total cotton yield per harvested acre amounted to approximately 817 pounds .\n"
+}

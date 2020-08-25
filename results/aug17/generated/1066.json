@@ -1,0 +1,108 @@
+{
+   "title": "Number of M & A transactions in Asia 2015 - 2017 , by country",
+   "labels": [
+      "Quarter",
+      "Australia",
+      "China/Hong Kong",
+      "India",
+      "Japan"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the transactions of Asia 2015 2017 of the NBA franchise Number M A Warriors from Q3_2017 Q3_2015 to Q3_2017 . ",
+      "In Q3_2017 , the Asia page of the Number M A Warriors basketball team had around 328 % Australia ."
+   ],
+   "trends": [
+      {
+         "16": [
+            "0",
+            "0"
+         ],
+         "17": [
+            "8",
+            "0"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 2017",
+         "Australia": "328",
+         "China/Hong Kong": "983",
+         "India": "156",
+         "Japan": "492"
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Australia": "328",
+         "China/Hong Kong": "930",
+         "India": "173",
+         "Japan": "456"
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Australia": "321",
+         "China/Hong Kong": "771",
+         "India": "228",
+         "Japan": "446"
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Australia": "404",
+         "China/Hong Kong": "1059",
+         "India": "221",
+         "Japan": "445"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Australia": "364",
+         "China/Hong Kong": "916",
+         "India": "258",
+         "Japan": "437"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Australia": "358",
+         "China/Hong Kong": "732",
+         "India": "254",
+         "Japan": "394"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Australia": "362",
+         "China/Hong Kong": "746",
+         "India": "286",
+         "Japan": "425"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Australia": "402",
+         "China/Hong Kong": "932",
+         "India": "241",
+         "Japan": "384"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Australia": "394",
+         "China/Hong Kong": "896",
+         "India": "271",
+         "Japan": "381"
+      }
+   ],
+   "gold": "The statistic presents the number of merger and acquisition transactions in Asia from the third quarter of 2015 to the third quarter of 2017 , by country . In the third quarter of 2017 , there were 983 M & A deals in China and Hong Kong .\n"
+}

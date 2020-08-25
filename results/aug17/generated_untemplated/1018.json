@@ -1,0 +1,137 @@
+{
+   "title": "U.S. housing : Case Shiller National Home Price Index 2017 to 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Index value",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the annual earnings of the team managers of the participating national teams at the 2018 fifa world cup in russia . The manager of the German national team , joachim l\u00f6w , is the highest paid manager with earnings at around 3.85 million u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Month": "Aug 19",
+         "Index value": 212.06
+      },
+      {
+         "Month": "Jul 19",
+         "Index value": 211.63
+      },
+      {
+         "Month": "Jun 19",
+         "Index value": 210.87
+      },
+      {
+         "Month": "May 19",
+         "Index value": 209.65
+      },
+      {
+         "Month": "Apr 19",
+         "Index value": 207.96
+      },
+      {
+         "Month": "Mar 19",
+         "Index value": 206.06
+      },
+      {
+         "Month": "Feb 19",
+         "Index value": 204.72
+      },
+      {
+         "Month": "Jan 19",
+         "Index value": 204.46
+      },
+      {
+         "Month": "Dec 18",
+         "Index value": 204.94
+      },
+      {
+         "Month": "Nov 18",
+         "Index value": 205.34
+      },
+      {
+         "Month": "Oct 18",
+         "Index value": 205.59
+      },
+      {
+         "Month": "Sep 18",
+         "Index value": 205.6
+      },
+      {
+         "Month": "Aug 18",
+         "Index value": 205.55
+      },
+      {
+         "Month": "Jul 18",
+         "Index value": 205.18
+      },
+      {
+         "Month": "Jun 18",
+         "Index value": 204.27
+      },
+      {
+         "Month": "May 18",
+         "Index value": 202.66
+      },
+      {
+         "Month": "Apr 18",
+         "Index value": 200.8
+      },
+      {
+         "Month": "Mar 18",
+         "Index value": 198.76
+      },
+      {
+         "Month": "Feb 18",
+         "Index value": 197.08
+      },
+      {
+         "Month": "Jan 18",
+         "Index value": 196.29
+      },
+      {
+         "Month": "Dec 17",
+         "Index value": 196.02
+      },
+      {
+         "Month": "Nov 17",
+         "Index value": 195.61
+      },
+      {
+         "Month": "Oct 17",
+         "Index value": 195.24
+      },
+      {
+         "Month": "Sep 17",
+         "Index value": 194.97
+      },
+      {
+         "Month": "Aug 17",
+         "Index value": 194.5
+      },
+      {
+         "Month": "Jul 17",
+         "Index value": 193.66
+      },
+      {
+         "Month": "Jun 17",
+         "Index value": 192.4
+      },
+      {
+         "Month": "May 17",
+         "Index value": 190.65
+      },
+      {
+         "Month": "Apr 17",
+         "Index value": 188.65
+      },
+      {
+         "Month": "Mar 17",
+         "Index value": 186.64
+      },
+      {
+         "Month": "Feb 17",
+         "Index value": 185.14
+      }
+   ],
+   "gold": "This statistic presents the values of S & P Case Shiller U.S. National Home Price Index from February 2017 to August 2019 . The index value was equal to 100 as of January 2000 , so if the index value is equal to 130 in a given month , for example , it means that the house prices increased by 30 percent since 2000 . The value of the S & P Case Shiller National Home Price Index amounted to 212.06 in August 2019 .\n"
+}

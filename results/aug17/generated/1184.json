@@ -1,0 +1,52 @@
+{
+   "title": "Japan : number of internet users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "It is expected that by 2023 , around 117.5 millions Filipinos will become internet of a internet users . ",
+      "Considering the forecasted population of around 118 millions , it reflects the high popularity of internet media in the Japan . ",
+      "Current state of internet media in the Japan have been called the internet media capital of the world , because most of the internet media have an extraordinarily high usage time of about four hours per day ."
+   ],
+   "trends": [
+      {
+         "5": "0",
+         "8": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of internet users in millions": "117.5"
+      },
+      {
+         "Year": "2022",
+         "Number of internet users in millions": "117.7"
+      },
+      {
+         "Year": "2021",
+         "Number of internet users in millions": "117.9"
+      },
+      {
+         "Year": "2020",
+         "Number of internet users in millions": "117.9"
+      },
+      {
+         "Year": "2019",
+         "Number of internet users in millions": "117.9"
+      },
+      {
+         "Year": "2018",
+         "Number of internet users in millions": "117.6"
+      },
+      {
+         "Year": "2017",
+         "Number of internet users in millions": "115.8"
+      }
+   ],
+   "gold": "This statistic provides information on the number of internet users in Japan from 2017 to 2023 . In 2018 , Japan had approximately 117.6 million internet users . This figure is projected to decrease to about 117.5 million internet users in 2023 .\n"
+}

@@ -1,0 +1,41 @@
+{
+   "title": "Mexico : age distribution of internet users 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic displays the penetration of consuming books , newspapers or magazines almost daily in the united kingdom in 2014 , by age group . In 2014 , 67 percent of respondents over the age of 75 reported reading print media almost daily .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "6-11 years",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "12-17 years",
+         "Share of respondents": 14.0
+      },
+      {
+         "Year": "18-24 years",
+         "Share of respondents": 18.0
+      },
+      {
+         "Year": "25-34 years",
+         "Share of respondents": 22.0
+      },
+      {
+         "Year": "35-44 years",
+         "Share of respondents": 14.0
+      },
+      {
+         "Year": "45-54 years",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "Over 55 years",
+         "Share of respondents": 8.0
+      }
+   ],
+   "gold": "This statistic gives information on the age distribution of internet users in Mexico as of April 2019 . During this period of time , it was found that 22 percent of internet users in the Latin American country were aged between 25 and 34 years .\n"
+}

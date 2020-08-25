@@ -1,0 +1,94 @@
+{
+   "title": "Major League Baseball : average concession stand prices 2010 to 2019",
+   "labels": [
+      "Year",
+      "Beer",
+      "Soft drink",
+      "Hot dog"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the Major of the League Baseball in the Major League Baseball from 2010 to 2019 . ",
+      "In 2019 , the Major of the Major League Baseball franchise amounted to around 5.97 million ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "8",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "12": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Beer": "5.97",
+         "Soft drink": "4.6",
+         "Hot dog": "4.95"
+      },
+      {
+         "Year": "2018",
+         "Beer": "5.98",
+         "Soft drink": "4.65",
+         "Hot dog": "5.01"
+      },
+      {
+         "Year": "2016",
+         "Beer": "5.9",
+         "Soft drink": "4.19",
+         "Hot dog": "4.52"
+      },
+      {
+         "Year": "2015",
+         "Beer": "5.98",
+         "Soft drink": "4.07",
+         "Hot dog": "4.39"
+      },
+      {
+         "Year": "2014",
+         "Beer": "6.09",
+         "Soft drink": "4.02",
+         "Hot dog": "4.32"
+      },
+      {
+         "Year": "2013",
+         "Beer": "6.09",
+         "Soft drink": "3.67",
+         "Hot dog": "4.14"
+      },
+      {
+         "Year": "2012",
+         "Beer": "6.16",
+         "Soft drink": "3.71",
+         "Hot dog": "4.13"
+      },
+      {
+         "Year": "2011",
+         "Beer": "5.81",
+         "Soft drink": "3.59",
+         "Hot dog": "3.88"
+      },
+      {
+         "Year": "2010",
+         "Beer": "5.79",
+         "Soft drink": "3.47",
+         "Hot dog": "3.79"
+      }
+   ],
+   "gold": "The timeline depicts the average price of soft drinks , beers and hot dogs in Major League Baseball from 2010 to 2019 . The average price of a hot dog was 4.95 U.S. dollars in 2019 . Major League Baseball concession prices \u2013 additional information Hot dogs , soft drink and beer are food and beverage staples at Major League Baseball games .\n"
+}

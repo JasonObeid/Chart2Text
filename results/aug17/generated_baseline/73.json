@@ -1,0 +1,108 @@
+{
+   "title": "Top female table tennis players worldwide 2018\n",
+   "xAxis": "Table Tennis Players",
+   "yAxis": "Number of ranking points",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Table Tennis Players, and a y axis representing Number of ranking points.",
+      " The highest category is found at Yuling_Zhu_(China) where Number of ranking points is 16524.0.",
+      " The lowest category is found at Elizabeta_Samara_(Romania) where Number of ranking points is 10063.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Table Tennis Players": "Yuling Zhu (China)",
+         "Number of ranking points": 16524.0
+      },
+      {
+         "Table Tennis Players": "Shiwen Liu (China)",
+         "Number of ranking points": 15669.0
+      },
+      {
+         "Table Tennis Players": "Meng Chen (China)",
+         "Number of ranking points": 15294.0
+      },
+      {
+         "Table Tennis Players": "Kasumi Ishikawa (Japan)",
+         "Number of ranking points": 15135.0
+      },
+      {
+         "Table Tennis Players": "Manyu Wang (China)",
+         "Number of ranking points": 15105.0
+      },
+      {
+         "Table Tennis Players": "Ning Ding (China)",
+         "Number of ranking points": 14784.0
+      },
+      {
+         "Table Tennis Players": "Mima Ito (Japan)",
+         "Number of ranking points": 13910.0
+      },
+      {
+         "Table Tennis Players": "I-Ching Cheng (Chinese Taipei)",
+         "Number of ranking points": 13231.0
+      },
+      {
+         "Table Tennis Players": "Miu Hirano (Japan)",
+         "Number of ranking points": 13193.0
+      },
+      {
+         "Table Tennis Players": "Xingtong Chen (China)",
+         "Number of ranking points": 12708.0
+      },
+      {
+         "Table Tennis Players": "Tianwei Feng (Singapore)",
+         "Number of ranking points": 12565.0
+      },
+      {
+         "Table Tennis Players": "Hyowon Suh (Korea)",
+         "Number of ranking points": 11954.0
+      },
+      {
+         "Table Tennis Players": "Hoi Kem Doo (Hong Kong)",
+         "Number of ranking points": 11940.0
+      },
+      {
+         "Table Tennis Players": "Hitomi Sato (Japan)",
+         "Number of ranking points": 11898.0
+      },
+      {
+         "Table Tennis Players": "Yuting Gu (China)",
+         "Number of ranking points": 11607.0
+      },
+      {
+         "Table Tennis Players": "Saki Shibata (Japan)",
+         "Number of ranking points": 10851.0
+      },
+      {
+         "Table Tennis Players": "Sofia Polcanova (Austria)",
+         "Number of ranking points": 10618.0
+      },
+      {
+         "Table Tennis Players": "Jie Li (Netherlands)",
+         "Number of ranking points": 10406.0
+      },
+      {
+         "Table Tennis Players": "Ho Ching Lee (Hong Hong)",
+         "Number of ranking points": 10395.0
+      },
+      {
+         "Table Tennis Players": "Elizabeta Samara (Romania)",
+         "Number of ranking points": 10063.0
+      }
+   ],
+   "gold": "This graph depicts the top female professional table tennis players worldwide as of September 2018 , by number of ranking points . Top of the list was the Chinese table tennis player , Yuling Zhu , who had 16,524 ranking points worldwide as of September 2018 .\n"
+}

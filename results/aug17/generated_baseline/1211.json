@@ -1,0 +1,44 @@
+{
+   "title": "Most important export partner countries for Brazil in 2017\n",
+   "xAxis": "Country",
+   "yAxis": "Share in total export",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Country, and a y axis representing Share in total export.",
+      " The highest category is found at China where Share in total export is 21.8.",
+      " The lowest category is found at Netherlands where Share in total export is 4.3."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Share in total export": 21.8
+      },
+      {
+         "Country": "United States",
+         "Share in total export": 12.5
+      },
+      {
+         "Country": "Argentina",
+         "Share in total export": 8.1
+      },
+      {
+         "Country": "Netherlands",
+         "Share in total export": 4.3
+      }
+   ],
+   "gold": "This statistic shows the most important export partner countries for Brazil in 2017 . In 20167 the main export partner country of Brazil was China with a share of 21.8 percent in exports .\n"
+}

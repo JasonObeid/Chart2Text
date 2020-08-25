@@ -1,0 +1,97 @@
+{
+   "title": "Youth unemployment rate in Zambia in 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the youth unemployment rate in south africa from 1999 and 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated youth unemployment rate in south africa was at 53.18 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": 15.94
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": 16.09
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": 16.12
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": 16.39
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": 16.49
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": 16.92
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": 17.05
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": 17.03
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": 21.45
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": 26.83
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": 21.44
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": 16.02
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": 19.3
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": 23.17
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": 28.26
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": 26.75
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": 25.55
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": 24.6
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": 23.08
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": 21.34
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": 20.88
+      }
+   ],
+   "gold": "The statistic shows the youth unemployment rate in Zambia from 1999 and 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated youth unemployment rate in Zambia was at 15.94 percent .\n"
+}

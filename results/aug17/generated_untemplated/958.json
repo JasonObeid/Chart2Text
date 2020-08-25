@@ -1,0 +1,53 @@
+{
+   "title": "Volcanic eruptions - people affected worldwide up to 2016\n",
+   "xAxis": "Location and Date",
+   "yAxis": "Number of victims",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the number of persons , who were affected by major floods worldwide from 1900 to 2016 . Approximately 238,973,000 persons were affected by flood disasters in china on 1 , 1998 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Location and Date": "Volcanic eruption in the Philippines (June 9 1991)",
+         "Number of victims": 1036065.0
+      },
+      {
+         "Location and Date": "Volcano eruption in Ecuador (August 14 2015)",
+         "Number of victims": 800000.0
+      },
+      {
+         "Location and Date": "Volcanic eruption in Nicaragua (April 9 1992)",
+         "Number of victims": 300075.0
+      },
+      {
+         "Location and Date": "Volcano eruption in Ecuador (August 14 2006)",
+         "Number of victims": 300013.0
+      },
+      {
+         "Location and Date": "Volcano eruption in Indonesia (April 5 1982)",
+         "Number of victims": 300000.0
+      },
+      {
+         "Location and Date": "Volcano eruption in Indonesia (1969)",
+         "Number of victims": 250000.0
+      },
+      {
+         "Location and Date": "Volcanic eruption in Comoros (November 24 2005)",
+         "Number of victims": 245000.0
+      },
+      {
+         "Location and Date": "Volcanic eruption in the Philippines (Feb. 6 1993)",
+         "Number of victims": 165009.0
+      },
+      {
+         "Location and Date": "Volcanic eruption in Papua New Guinea (September 19 1994)",
+         "Number of victims": 152002.0
+      },
+      {
+         "Location and Date": "Volcanic eruption in Indonesia (October 24 2002)",
+         "Number of victims": 137140.0
+      }
+   ],
+   "gold": "The statistic shows the number of people , who were affected by the world 's most significant volcanic eruptions from 1900 to 2016  . In 1991 , total 1,036,035 were affected due to volcanic eruption in Philippines .\n"
+}

@@ -1,0 +1,114 @@
+{
+   "title": "Share of economic sectors in the GDP in Croatia 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Share of economic sectors in the gross domestic product ( GDP ) in Croatia from 2008 to 2018 . ",
+      "In 2018 , the Share of Agriculture in Croatia 's gross domestic product was 2.85 % , Industry contributed approximately 20.35 % and the Services sector contributed about 59.01 % ."
+   ],
+   "trends": [
+      {
+         "19": [
+            "10",
+            "0"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "0",
+            "1"
+         ],
+         "20": [
+            "0",
+            "2"
+         ],
+         "28": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "2.85",
+         "Industry": "20.35",
+         "Services": "59.01"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "2.94",
+         "Industry": "20.84",
+         "Services": "58.82"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "3.11",
+         "Industry": "21.26",
+         "Services": "58.51"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "3.01",
+         "Industry": "21.36",
+         "Services": "58.48"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "2.99",
+         "Industry": "21.6",
+         "Services": "58.82"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "3.5",
+         "Industry": "21.38",
+         "Services": "58.51"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "3.34",
+         "Industry": "21.99",
+         "Services": "58.9"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "3.68",
+         "Industry": "22.32",
+         "Services": "59.37"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "3.7",
+         "Industry": "22.17",
+         "Services": "59.02"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "4.04",
+         "Industry": "23.59",
+         "Services": "57.94"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "3.98",
+         "Industry": "23.6",
+         "Services": "57.1"
+      }
+   ],
+   "gold": "This statistic shows the share of economic sectors in the gross domestic product ( GDP ) in Croatia from 2008 to 2018 . In 2018 , the share of agriculture in Croatia 's gross domestic product was 2.85 percent , industry contributed approximately 20.35 percent and the services sector contributed about 59.01 percent .\n"
+}

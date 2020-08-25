@@ -1,0 +1,68 @@
+{
+   "title": "R & D expenditure of BP 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Expenditure in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Expenditure in million U.S. dollars, with a total of 9 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2017 to 2013.",
+      " On the contrary, the next significant trend is moderately positive which exists from 2013 to 2010.",
+      " Likewise, the next significant trend is extremely positive which exists from 2018 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "5"
+      },
+      {
+         "3": "5",
+         "14": "8"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Expenditure in million U.S. dollars": 429.0
+      },
+      {
+         "Year": "2017",
+         "Expenditure in million U.S. dollars": 391.0
+      },
+      {
+         "Year": "2016",
+         "Expenditure in million U.S. dollars": 400.0
+      },
+      {
+         "Year": "2015",
+         "Expenditure in million U.S. dollars": 418.0
+      },
+      {
+         "Year": "2014",
+         "Expenditure in million U.S. dollars": 663.0
+      },
+      {
+         "Year": "2013",
+         "Expenditure in million U.S. dollars": 707.0
+      },
+      {
+         "Year": "2012",
+         "Expenditure in million U.S. dollars": 674.0
+      },
+      {
+         "Year": "2011",
+         "Expenditure in million U.S. dollars": 636.0
+      },
+      {
+         "Year": "2010",
+         "Expenditure in million U.S. dollars": 780.0
+      }
+   ],
+   "gold": "This statistic depicts BP 's expenditure on research and development from 2010 to 2018 . In 2011 , the company 's R & D expenditure stood at approximately 636 million U.S. dollars . BP is a globally operating oil and gas company , and the eighth largest company generally worldwide as of 2017 , measured by revenue .\n"
+}

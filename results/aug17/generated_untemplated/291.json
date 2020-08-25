@@ -1,0 +1,65 @@
+{
+   "title": "BMW Group - shipments 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Automobile sales in units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the global earnings before interest and tax ( ebit ) of bmw group from 2006 to 2018 . In 2018 , bmw group had a global ebit of approximately 9.1 billion euros , representing an increase over the previous year .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Automobile sales in units": 2490664.0
+      },
+      {
+         "Year": "2017",
+         "Automobile sales in units": 2463526.0
+      },
+      {
+         "Year": "2016",
+         "Automobile sales in units": 2367603.0
+      },
+      {
+         "Year": "2015",
+         "Automobile sales in units": 2247485.0
+      },
+      {
+         "Year": "2014",
+         "Automobile sales in units": 2117965.0
+      },
+      {
+         "Year": "2013",
+         "Automobile sales in units": 1963798.0
+      },
+      {
+         "Year": "2012",
+         "Automobile sales in units": 1845186.0
+      },
+      {
+         "Year": "2011",
+         "Automobile sales in units": 1668982.0
+      },
+      {
+         "Year": "2010",
+         "Automobile sales in units": 1461166.0
+      },
+      {
+         "Year": "2009",
+         "Automobile sales in units": 1286310.0
+      },
+      {
+         "Year": "2008",
+         "Automobile sales in units": 1435876.0
+      },
+      {
+         "Year": "2007",
+         "Automobile sales in units": 1500678.0
+      },
+      {
+         "Year": "2006",
+         "Automobile sales in units": 1373970.0
+      }
+   ],
+   "gold": "This statistic shows BMW Group 's global vehicle sales between 2006 and 2018 . In 2018 , the Munich-based company shipped about 2.49 million vehicles worldwide . BMW 's major brands include BMW ( automobiles and motorcycles ) , MINI and Rolls Royce .\n"
+}

@@ -1,0 +1,54 @@
+{
+   "title": "Alzheimer 's in the U.S : lifetime risks , by age and gender",
+   "labels": [
+      "Country",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 2 categories for the x axis of Country representing Men, and Women.",
+      " The highest category is found at 65 years with a mean value of 20.3.",
+      " The second highest category is found at 45 years with a mean value of 10.95.",
+      " This represents a difference of 59.8%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "45 years",
+         "Men": "10.3",
+         "Women": "11.6"
+      },
+      {
+         "Country": "65 years",
+         "Men": "19.5",
+         "Women": "21.1"
+      }
+   ],
+   "gold": "This statistic depicts the estimated lifetime risk for getting Alzheimer 's disease in the United States as of 2015 , by age and gender . It is estimated that men aged 65 have a 11.6 percent risk of developing Alzheimer 's during their life .\n"
+}

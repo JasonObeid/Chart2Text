@@ -1,0 +1,101 @@
+{
+   "title": "Franchise value of the Toronto Blue Jays 2002 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the value of the Toronto Blue Jays franchise of Major League Baseball from 2002 to 2019 . ",
+      "In 2019 , the Franchise had an estimated value of 1500 million U.S. dollars . ",
+      "The Toronto Blue Jays are owned by Lewis Wolff and John Fisher , who bought the Franchise for 180 million U.S. dollars in 2005 ."
+   ],
+   "trends": [
+      {
+         "14": "17",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      },
+      {
+         "21": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": "1500"
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": "1350"
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": "1300"
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": "900"
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": "870"
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": "610"
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": "568"
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": "413"
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": "337"
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": "326"
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": "353"
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": "352"
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": "344"
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": "286"
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": "214"
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": "169"
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": "166"
+      },
+      {
+         "Year": "2002",
+         "Franchise value in million U.S. dollars": "182"
+      }
+   ],
+   "gold": "This graph depicts the value of the Toronto Blue Jays franchise of Major League Baseball from 2002 to 2019 . In 2019 , the franchise had an estimated value of 1.5 billion U.S. dollars . The Toronto Blue Jays are owned by Rogers Communications , who bought the franchise for 137 million U.S. dollars in 2000 .\n"
+}

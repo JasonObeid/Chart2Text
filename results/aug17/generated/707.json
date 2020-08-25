@@ -1,0 +1,49 @@
+{
+   "title": "Costs of external consequences of cyber attacks on businesses 2018",
+   "xAxis": "Category",
+   "yAxis": "Cost in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , Business_disruption million accounted for the largest U.S. of Costs consequences 2018 Revenue_loss , with a 5.9 million U.S.",
+      "5.9 million of the company consequences Cost Revenue_loss was made through Information_loss million that year . ",
+      "Information_loss million setting the pace strong growth of Costs consequences Information_loss segment \u2013 increased seven million since 2012 \u2013 has contributed towards the shrinking million U.S. of its Business_disruption Category ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "15": "3",
+         "19": "1"
+      },
+      {
+         "0": "1",
+         "7": "3",
+         "11": "1"
+      },
+      {
+         "0": "1",
+         "12": "1",
+         "30": "0"
+      }
+   ],
+   "data": [
+      {
+         "Category": "Business disruption",
+         "Cost in million U.S. dollars": "4.0"
+      },
+      {
+         "Category": "Information loss",
+         "Cost in million U.S. dollars": "5.9"
+      },
+      {
+         "Category": "Equipment damages",
+         "Cost in million U.S. dollars": "2.6"
+      },
+      {
+         "Category": "Revenue loss",
+         "Cost in million U.S. dollars": "0.5"
+      }
+   ],
+   "gold": "This statistic provides information on the average annual of costs for external consequences of targeted cyber attacks on companies in global markets in 2018 . During the survey period it was found that business disruption accumulated an average 5.9 million U.S. dollars in annual damages from a targeted cyber attack on a business .\n"
+}

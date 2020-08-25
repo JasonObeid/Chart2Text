@@ -1,0 +1,79 @@
+{
+   "title": "BMW Group - shipments 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Automobile sales in units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the total Automobile sales of kitchen and laundry shipments in the 2018 from 2006 to 2018 . ",
+      "In 2018 , BMW Group shipments global Automobile sales amounted to approximately 2490664 million units . ",
+      "BMW Group shipments - additional information BMW Group is a Japanese food chain headquartered in the world ."
+   ],
+   "trends": [
+      {
+         "16": "12",
+         "18": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Automobile sales in units": "2490664"
+      },
+      {
+         "Year": "2017",
+         "Automobile sales in units": "2463526"
+      },
+      {
+         "Year": "2016",
+         "Automobile sales in units": "2367603"
+      },
+      {
+         "Year": "2015",
+         "Automobile sales in units": "2247485"
+      },
+      {
+         "Year": "2014",
+         "Automobile sales in units": "2117965"
+      },
+      {
+         "Year": "2013",
+         "Automobile sales in units": "1963798"
+      },
+      {
+         "Year": "2012",
+         "Automobile sales in units": "1845186"
+      },
+      {
+         "Year": "2011",
+         "Automobile sales in units": "1668982"
+      },
+      {
+         "Year": "2010",
+         "Automobile sales in units": "1461166"
+      },
+      {
+         "Year": "2009",
+         "Automobile sales in units": "1286310"
+      },
+      {
+         "Year": "2008",
+         "Automobile sales in units": "1435876"
+      },
+      {
+         "Year": "2007",
+         "Automobile sales in units": "1500678"
+      },
+      {
+         "Year": "2006",
+         "Automobile sales in units": "1373970"
+      }
+   ],
+   "gold": "This statistic shows BMW Group 's global vehicle sales between 2006 and 2018 . In 2018 , the Munich-based company shipped about 2.49 million vehicles worldwide . BMW 's major brands include BMW ( automobiles and motorcycles ) , MINI and Rolls Royce .\n"
+}

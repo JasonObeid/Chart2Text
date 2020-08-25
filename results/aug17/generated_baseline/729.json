@@ -1,0 +1,84 @@
+{
+   "title": "Coca-Cola Company 's net operating revenues worldwide 2007 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenues in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, with a total of 13 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2019 to 2012.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2012 to 2009.",
+      " Also, the next significant trend is moderately negative which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "7"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenues in billion U.S. dollars": 37.27
+      },
+      {
+         "Year": "2018",
+         "Revenues in billion U.S. dollars": 34.3
+      },
+      {
+         "Year": "2017",
+         "Revenues in billion U.S. dollars": 36.21
+      },
+      {
+         "Year": "2016",
+         "Revenues in billion U.S. dollars": 41.86
+      },
+      {
+         "Year": "2015",
+         "Revenues in billion U.S. dollars": 44.29
+      },
+      {
+         "Year": "2014",
+         "Revenues in billion U.S. dollars": 46.0
+      },
+      {
+         "Year": "2013",
+         "Revenues in billion U.S. dollars": 46.85
+      },
+      {
+         "Year": "2012",
+         "Revenues in billion U.S. dollars": 48.02
+      },
+      {
+         "Year": "2011",
+         "Revenues in billion U.S. dollars": 46.54
+      },
+      {
+         "Year": "2010",
+         "Revenues in billion U.S. dollars": 35.12
+      },
+      {
+         "Year": "2009",
+         "Revenues in billion U.S. dollars": 30.99
+      },
+      {
+         "Year": "2008",
+         "Revenues in billion U.S. dollars": 31.94
+      },
+      {
+         "Year": "2007",
+         "Revenues in billion U.S. dollars": 28.86
+      }
+   ],
+   "gold": "This timeline depicts the Coca-Cola Company 's net operating revenues worldwide from 2007 to 2019 . In 2019 , the Coca-Cola Company 's net operating revenues worldwide amounted to around 37.27 billion U.S. dollars . The Coca-Cola Company is a producer , retailer and marketer of non-alcoholic beverages and is well-known for its soft drink Coca-Cola .\n"
+}

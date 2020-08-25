@@ -1,0 +1,62 @@
+{
+   "title": "Coal - global proved reserves by type 2010 to 2018",
+   "labels": [
+      "Year",
+      "Anthracite and bituminous",
+      "Sub-bituminous and lignite"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows a forecast for the reserves global of by type head mounted displays worldwide proved 2018 to 2010 . ",
+      "For 2012 , global proved by type 2010 displays is forecast to reach 3.99 billion U.S. dollars . ",
+      "The entire VR market is set to grow at a very fast rate in the following years , especially the software segment , where revenues proved by type software are forecast to reach an over three thousand percent increase in four years ."
+   ],
+   "trends": [
+      {
+         "17": [
+            "4",
+            "0"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Anthracite and bituminous": "404762",
+         "Sub-bituminous and lignite": "456176"
+      },
+      {
+         "Year": "2012",
+         "Anthracite and bituminous": "404762",
+         "Sub-bituminous and lignite": "456176"
+      },
+      {
+         "Year": "2014",
+         "Anthracite and bituminous": "403199",
+         "Sub-bituminous and lignite": "488332"
+      },
+      {
+         "Year": "2016",
+         "Anthracite and bituminous": "816214",
+         "Sub-bituminous and lignite": "323117"
+      },
+      {
+         "Year": "2018",
+         "Anthracite and bituminous": "734903",
+         "Sub-bituminous and lignite": "319879"
+      }
+   ],
+   "gold": "This statistic represents proved coal reserves worldwide between 2010 to 2018 , by type . In 2018 , global proved reserves of anthracite and bituminous coal amounted to around 735 billion metric tons . As of 2018 , the life years of coal is predicted to be a about 132 years at the current rate of production .\n"
+}

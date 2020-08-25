@@ -1,0 +1,41 @@
+{
+   "title": "Average living space of PRH tenants Hong Kong 2007 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average living space in square meters per person",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the number of orders in the united from 2012 to 2019 . In 2019 , the number of smartphone users in the united states amounted to approximately 108.54 million , up from 41.2 million in the previous year .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Average living space in square meters per person": 13.3
+      },
+      {
+         "Year": "2018",
+         "Average living space in square meters per person": 13.3
+      },
+      {
+         "Year": "2017",
+         "Average living space in square meters per person": 13.2
+      },
+      {
+         "Year": "2014",
+         "Average living space in square meters per person": 13.0
+      },
+      {
+         "Year": "2012",
+         "Average living space in square meters per person": 12.9
+      },
+      {
+         "Year": "2009",
+         "Average living space in square meters per person": 12.5
+      },
+      {
+         "Year": "2007",
+         "Average living space in square meters per person": 12.2
+      }
+   ],
+   "gold": "This statistic illustrates the average living space of public rental housing tenants in Hong Kong in selected years from 2007 to 2019 . As of March 2019 , the average living space in public rental housing in Hong Kong was around 13.3 square meters per person .\n"
+}

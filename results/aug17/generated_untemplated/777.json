@@ -1,0 +1,25 @@
+{
+   "title": "Popularity of Fidel Castro in Cuba 2015\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the survey on ad blocker usage in the united kingdom in 2018 . According to the survey , 41 percent of the respondents used an ad blocker , while 53 percent did not . 6 percent of respondents said they did n't know if they used ad blocking software .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Very/somewhat positive",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Very/somewhat negative",
+         "Share of respondents": 50.0
+      },
+      {
+         "Response": "Don't know / no answer",
+         "Share of respondents": 6.0
+      }
+   ],
+   "gold": "This statistic shows the results of a 2015 survey among adult Cubans living in Cuba on their opinion of Fidel Castro , their former President . 50 percent of respondents stated they have a very or somewhat negative opinion of Fidel Castro .\n"
+}

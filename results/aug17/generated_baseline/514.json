@@ -1,0 +1,47 @@
+{
+   "title": "NFL Monday Night Football average viewers 2015 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Viewers in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Viewers in millions, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2019 to 2017.",
+      " Similarly, the next significant trend is slightly negative which exists from 2017 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Viewers in millions": 12.6
+      },
+      {
+         "Year": "2018",
+         "Viewers in millions": 11.6
+      },
+      {
+         "Year": "2017",
+         "Viewers in millions": 10.76
+      },
+      {
+         "Year": "2016",
+         "Viewers in millions": 11.36
+      },
+      {
+         "Year": "2015",
+         "Viewers in millions": 12.9
+      }
+   ],
+   "gold": "Monday Night Football averaged 12.6 million viewers in the United States during the 2019 NFL season , an increase of around one million on the previous year . Although viewing figures have increased , they are still down on the 12.9 million viewers in 2015 . Sunday , Monday , happy nights The NFL has prime-time games that are broadcast across the entire United States by one major network on Thursday night , Sunday night , and Monday night \u2013 these games start at around 8:30 pm Eastern Time .\n"
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Comic book reading among young people in the UK 2015 , by demographic\n",
+   "xAxis": "Demographic",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the share of hot beverages consumed most often by individuals in the united kingdom ( uk ) in 2014 . Of respondents , 44 percent drink tea most often , followed by 21 percent who drink instant coffee . hot drinks have always played an important role in British culture , particularly in the case of tea , as seen in the high and rising market value of hot drinks .\n",
+   "trends": {},
+   "data": [
+      {
+         "Demographic": "Boys",
+         "Share of respondents": 34.0
+      },
+      {
+         "Demographic": "Girls",
+         "Share of respondents": 19.3
+      },
+      {
+         "Demographic": "KS2",
+         "Share of respondents": 29.3
+      },
+      {
+         "Demographic": "KS3",
+         "Share of respondents": 27.5
+      },
+      {
+         "Demographic": "KS4",
+         "Share of respondents": 17.6
+      },
+      {
+         "Demographic": "KS5",
+         "Share of respondents": 14.4
+      },
+      {
+         "Demographic": "White",
+         "Share of respondents": 26.2
+      },
+      {
+         "Demographic": "Mixed",
+         "Share of respondents": 30.8
+      },
+      {
+         "Demographic": "Asian",
+         "Share of respondents": 28.6
+      },
+      {
+         "Demographic": "Black",
+         "Share of respondents": 29.1
+      }
+   ],
+   "gold": "This statistic illustrates the proportion of young people reading comics at least once a month in the United Kingdom in 2015 , by demographic group . In 2015 , 30.8 percent of children from a Mixed ethnic background reported reading comics at least once a month .\n"
+}

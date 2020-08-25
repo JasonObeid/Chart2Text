@@ -1,0 +1,46 @@
+{
+   "title": "Quarterly average daily rate of hotels in New York 2016 to 2017",
+   "labels": [
+      "Quarter",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Quarterly average daily rate of hotels in New York 2016 and 2017 . ",
+      "In the first Quarter of 2017 , the average daily rate of hotels in New York the country was 257 U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": [
+            "3",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4",
+         "2016": "389",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2016": "350",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q2",
+         "2016": "351",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q1",
+         "2016": "260",
+         "2017": "257"
+      }
+   ],
+   "gold": "This statistic shows the quarterly average daily rate of hotels in New York in 2016 and 2017 . In the first quarter of 2017 , the average daily rate of hotels in New York in the United States was 257 U.S. dollars . Accommodation in New York - additional information The average daily rate of hotels in New York appears to be much higher in the fourth quarter of the year , reaching 389 U.S. dollars in 2016 .\n"
+}

@@ -1,0 +1,89 @@
+{
+   "title": "Electricity prices for households in Belgium 2010 - 2019 , semi-annually\n",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "electricity prices for households in italy saw an overall increase during this period , rising from 19.65 euro cents per kilowatt-hour to 23.01 euro cents . Between 2010 and 2015 , there was a gradual increase in cost , peaking at 24.5 euro cents per kilowatt-hour . The following years experienced a steady decline , falling to 20.67 euro cents by the first half of 2018 before starting to rise again .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019 S1",
+         "Euro cents per kilowatt-hour": 28.39
+      },
+      {
+         "Year": "2018 S2",
+         "Euro cents per kilowatt-hour": 29.37
+      },
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": 27.33
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": 28.77
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": 27.99
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": 27.45
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": 25.44
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": 23.52
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": 21.27
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": 20.43
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": 20.97
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": 22.15
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": 21.73
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": 22.23
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": 23.27
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": 21.19
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": 21.36
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": 19.74
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": 19.59
+      }
+   ],
+   "gold": "This statistic shows the electricity prices for household end users in Belgium semi-annually from 2010 to 2019 . In the second half of 2018 , the average electricity price for households was 29.37 euro cents per kWh . This was an increased from the previous period .\n"
+}

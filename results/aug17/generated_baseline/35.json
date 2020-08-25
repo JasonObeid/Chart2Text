@@ -1,0 +1,83 @@
+{
+   "title": "Bayer CropScience 's revenue 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenues in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenues in million euros, with a total of 14 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly positive which exists from 2015 to 2005.",
+      " Additionally, the next significant trend is extremely negative which exists from 2018 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "3",
+         "12": "13"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenues in million euros": 14266.0
+      },
+      {
+         "Year": "2017",
+         "Revenues in million euros": 9577.0
+      },
+      {
+         "Year": "2016",
+         "Revenues in million euros": 9915.0
+      },
+      {
+         "Year": "2015",
+         "Revenues in million euros": 10367.0
+      },
+      {
+         "Year": "2014",
+         "Revenues in million euros": 9494.0
+      },
+      {
+         "Year": "2013",
+         "Revenues in million euros": 8819.0
+      },
+      {
+         "Year": "2012",
+         "Revenues in million euros": 8383.0
+      },
+      {
+         "Year": "2011",
+         "Revenues in million euros": 7255.0
+      },
+      {
+         "Year": "2010",
+         "Revenues in million euros": 6830.0
+      },
+      {
+         "Year": "2009",
+         "Revenues in million euros": 6510.0
+      },
+      {
+         "Year": "2008",
+         "Revenues in million euros": 6382.0
+      },
+      {
+         "Year": "2007",
+         "Revenues in million euros": 5826.0
+      },
+      {
+         "Year": "2006",
+         "Revenues in million euros": 5700.0
+      },
+      {
+         "Year": "2005",
+         "Revenues in million euros": 5896.0
+      }
+   ],
+   "gold": "This statistic shows the revenue of Bayer CropScience from 2005 to 2018 . Bayer CropScience is a subgroup of the Bayer AG and produces products for crop protection and nonagricultural pest control . It is also active in seeds and plant traits .\n"
+}

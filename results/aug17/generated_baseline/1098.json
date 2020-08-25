@@ -1,0 +1,94 @@
+{
+   "title": "Fans of NHL hockey in Canada 2014 , by age group",
+   "labels": [
+      "Year",
+      "Yes",
+      "No"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Yes had the highest values across Year with a mean value of 52.3.",
+      " This peaked at 18-34_years with a value of 60.0. ",
+      " The line with the second highest values was No with a mean value of 47.7.",
+      " This line peaked at 65+_years with a value of 53.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "9": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "10": [
+            "5",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Total",
+         "Yes": "53",
+         "No": "47"
+      },
+      {
+         "Year": "18-34 years",
+         "Yes": "60",
+         "No": "40"
+      },
+      {
+         "Year": "35-44 years",
+         "Yes": "49",
+         "No": "51"
+      },
+      {
+         "Year": "45-54 years",
+         "Yes": "57",
+         "No": "43"
+      },
+      {
+         "Year": "55-64 years",
+         "Yes": "48",
+         "No": "52"
+      },
+      {
+         "Year": "65+ years",
+         "Yes": "47",
+         "No": "53"
+      }
+   ],
+   "gold": "The statistic shows the results of a survey which asked people in Canada if they consider themselves NHL hockey fans . During the survey , 60 percent of the respondents aged 18 - 34 years said that they are NHL hockey fans .\n"
+}

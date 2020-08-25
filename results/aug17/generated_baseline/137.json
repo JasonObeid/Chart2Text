@@ -1,0 +1,99 @@
+{
+   "title": "Boston Red Sox revenue 2001 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2009.",
+      " Correspondingly, the next significant trend is slightly positive which exists from 2009 to 2001."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "9"
+      },
+      {
+         "3": "9",
+         "14": "17"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 516.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 453.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 434.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 398.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 370.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 357.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 336.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 310.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 272.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 266.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 269.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 263.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 234.0
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 206.0
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 201.0
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 190.0
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 171.0
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 152.0
+      }
+   ],
+   "gold": "The statistic depicts the revenue of the Boston Red Sox from 2001 to 2018 . In 2018 , the revenue of the Major League Baseball franchise amounted to 516 million U.S. dollars.The Boston Red Sox are owned by John Henry and Thomas Werner , who bought the franchise for 380 million U.S. dollars in 2002 .\n"
+}

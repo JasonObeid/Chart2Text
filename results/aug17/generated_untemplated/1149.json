@@ -1,0 +1,33 @@
+{
+   "title": "Population of the Netherlands 2019 , by age\n",
+   "xAxis": "Year",
+   "yAxis": "Number of inhabitants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the population distribution in the united kingdom ( uk ) in 2018 , by age of victim . In this year , the total capital expenditure in the u.s. stood at 8.2 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "0 - 20 years",
+         "Number of inhabitants": 3791838.0
+      },
+      {
+         "Year": "20 - 40 years",
+         "Number of inhabitants": 4309987.0
+      },
+      {
+         "Year": "40 - 65 years",
+         "Number of inhabitants": 5866334.0
+      },
+      {
+         "Year": "65 - 80 years",
+         "Number of inhabitants": 2515184.0
+      },
+      {
+         "Year": "80 years and older",
+         "Number of inhabitants": 798820.0
+      }
+   ],
+   "gold": "This statistic shows the population of the Netherlands in 2019 , by age . On January 1 , 2019 there were approximately 3.8 million people younger than 20 years living in the Netherlands . The largest age group was formed by those between 40 and 65 years old .\n"
+}

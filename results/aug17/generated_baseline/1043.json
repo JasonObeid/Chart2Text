@@ -1,0 +1,128 @@
+{
+   "title": "New York - poverty rate 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points. The chart has 7 significant trends.",
+      " The longest trend is slightly negative which exists from 2018 to 2013.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2011 to 2008.",
+      " Additionally, the next significant trend is moderately negative which exists from 2013 to 2011.",
+      " On the other hand, the next significant trend is slightly negative which exists from 2008 to 2006.",
+      " On the other hand, the next significant trend is moderately negative which exists from 2006 to 2004.",
+      " Differently, the next significant trend is extremely positive which exists from 2004 to 2002.",
+      " In a similar manner, the next significant trend is moderately negative which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "5"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      },
+      {
+         "3": "14",
+         "14": "16"
+      },
+      {
+         "3": "16",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Percentage of population": 13.6
+      },
+      {
+         "Year": "2017",
+         "Percentage of population": 14.1
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": 14.7
+      },
+      {
+         "Year": "2015",
+         "Percentage of population": 15.4
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": 15.9
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": 16.0
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": 15.9
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": 16.0
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": 14.9
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": 14.2
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": 13.6
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": 13.7
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": 14.2
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": 13.8
+      },
+      {
+         "Year": "2004",
+         "Percentage of population": 14.2
+      },
+      {
+         "Year": "2003",
+         "Percentage of population": 13.5
+      },
+      {
+         "Year": "2002",
+         "Percentage of population": 13.1
+      },
+      {
+         "Year": "2001",
+         "Percentage of population": 13.4
+      },
+      {
+         "Year": "2000",
+         "Percentage of population": 13.1
+      }
+   ],
+   "gold": "This statistic shows the poverty rate in New York from 2000 to 2018 . 13.6 percent of New York 's population lived below the poverty line in 2018 .\n"
+}

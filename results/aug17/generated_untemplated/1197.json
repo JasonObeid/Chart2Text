@@ -1,0 +1,83 @@
+{
+   "title": "Age structure in Uganda 2018",
+   "labels": [
+      "Year",
+      "0-14 years",
+      "15-64 years",
+      "65 years and older"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the age structure in ghana from 2008 to 2018 . In 2018 , about 37.6 percent of ghana 's total population were aged 0 to 14 years .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "0-14 years": "46.93",
+         "15-64 years": "51.13",
+         "65 years and older": "1.94"
+      },
+      {
+         "Year": "2017",
+         "0-14 years": "47.32",
+         "15-64 years": "50.76",
+         "65 years and older": "1.92"
+      },
+      {
+         "Year": "2016",
+         "0-14 years": "47.67",
+         "15-64 years": "50.42",
+         "65 years and older": "1.9"
+      },
+      {
+         "Year": "2015",
+         "0-14 years": "47.99",
+         "15-64 years": "50.13",
+         "65 years and older": "1.88"
+      },
+      {
+         "Year": "2014",
+         "0-14 years": "48.26",
+         "15-64 years": "49.86",
+         "65 years and older": "1.88"
+      },
+      {
+         "Year": "2013",
+         "0-14 years": "48.51",
+         "15-64 years": "49.61",
+         "65 years and older": "1.88"
+      },
+      {
+         "Year": "2012",
+         "0-14 years": "48.73",
+         "15-64 years": "49.39",
+         "65 years and older": "1.88"
+      },
+      {
+         "Year": "2011",
+         "0-14 years": "48.93",
+         "15-64 years": "49.19",
+         "65 years and older": "1.87"
+      },
+      {
+         "Year": "2010",
+         "0-14 years": "49.09",
+         "15-64 years": "49.04",
+         "65 years and older": "1.87"
+      },
+      {
+         "Year": "2009",
+         "0-14 years": "49.25",
+         "15-64 years": "48.85",
+         "65 years and older": "1.89"
+      },
+      {
+         "Year": "2008",
+         "0-14 years": "49.4",
+         "15-64 years": "48.69",
+         "65 years and older": "1.91"
+      }
+   ],
+   "gold": "This statistic shows the age structure in Uganda from 2008 to 2018 . In 2018 , about 46.93 percent of Uganda 's total population were aged 0 to 14 years , 51.13 percent were aged 15 to 64 years and 1.94 percent were 65 years old and older .\n"
+}

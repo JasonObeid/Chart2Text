@@ -1,0 +1,80 @@
+{
+   "title": "Participants in paintball in the U.S. from 2006 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Number of participants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of participants in millions, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2013 to 2006.",
+      " Differently, the next significant trend is extremely positive which exists from 2017 to 2015.",
+      " Also, the next significant trend is moderately negative which exists from 2015 to 2013."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of participants in millions": 3.41
+      },
+      {
+         "Year": "2016",
+         "Number of participants in millions": 3.71
+      },
+      {
+         "Year": "2015",
+         "Number of participants in millions": 3.39
+      },
+      {
+         "Year": "2014",
+         "Number of participants in millions": 3.44
+      },
+      {
+         "Year": "2013",
+         "Number of participants in millions": 3.6
+      },
+      {
+         "Year": "2012",
+         "Number of participants in millions": 3.5
+      },
+      {
+         "Year": "2011",
+         "Number of participants in millions": 3.56
+      },
+      {
+         "Year": "2010",
+         "Number of participants in millions": 3.66
+      },
+      {
+         "Year": "2009",
+         "Number of participants in millions": 4.55
+      },
+      {
+         "Year": "2008",
+         "Number of participants in millions": 4.86
+      },
+      {
+         "Year": "2007",
+         "Number of participants in millions": 5.48
+      },
+      {
+         "Year": "2006",
+         "Number of participants in millions": 4.55
+      }
+   ],
+   "gold": "This statistic shows the number of participants in paintball in the United States from 2006 to 2017 . In 2017 , the number of participants ( aged six years and older ) in paintball amounted to approximately 3.41 million . Participation in paintball - additional information The number of participants in paintball in the United States increased significantly from 4.55 million in 2006 up to 5.48 million in 2007 .\n"
+}

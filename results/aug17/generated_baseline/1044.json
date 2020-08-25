@@ -1,0 +1,44 @@
+{
+   "title": "Singapore resident population as of June 2018 by ethnic group\n",
+   "xAxis": "Ethnicity",
+   "yAxis": "Population in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Ethnicity, and a y axis representing Population in thousands.",
+      " The highest category is found at Chinese where Population in thousands is 2969.28.",
+      " The lowest category is found at Others where Population in thousands is 128.65."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Ethnicity": "Chinese",
+         "Population in thousands": 2969.28
+      },
+      {
+         "Ethnicity": "Malays",
+         "Population in thousands": 535.82
+      },
+      {
+         "Ethnicity": "Indians",
+         "Population in thousands": 360.53
+      },
+      {
+         "Ethnicity": "Others",
+         "Population in thousands": 128.65
+      }
+   ],
+   "gold": "As of June 2017 , the population of Singaporeans who were ethnic Chinese was around 2.97 million . Singapore is a multi-ethnic and multi-religious society , with residents categorized into four main ethnic groups : Chinese , Malay , Indian , and Other ethnicities .\n"
+}

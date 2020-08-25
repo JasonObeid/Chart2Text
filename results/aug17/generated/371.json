@@ -1,0 +1,73 @@
+{
+   "title": "U.S. passenger-miles : Intercity/Amtrak 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "U.S. passenger-miles in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the U.S. of passenger-miles due to Intercity/Amtrak from 2007 to 2018 . ",
+      "In 2018 , a total U.S. of 6361 people were kidnapped as a result of Intercity/Amtrak ."
+   ],
+   "trends": [
+      {
+         "11": "11",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. passenger-miles in millions": "6361"
+      },
+      {
+         "Year": "2017",
+         "U.S. passenger-miles in millions": "6563"
+      },
+      {
+         "Year": "2016",
+         "U.S. passenger-miles in millions": "6520"
+      },
+      {
+         "Year": "2015",
+         "U.S. passenger-miles in millions": "6536"
+      },
+      {
+         "Year": "2014",
+         "U.S. passenger-miles in millions": "6675"
+      },
+      {
+         "Year": "2013",
+         "U.S. passenger-miles in millions": "7283"
+      },
+      {
+         "Year": "2012",
+         "U.S. passenger-miles in millions": "6752"
+      },
+      {
+         "Year": "2011",
+         "U.S. passenger-miles in millions": "6568"
+      },
+      {
+         "Year": "2010",
+         "U.S. passenger-miles in millions": "6420"
+      },
+      {
+         "Year": "2009",
+         "U.S. passenger-miles in millions": "5914"
+      },
+      {
+         "Year": "2008",
+         "U.S. passenger-miles in millions": "6179"
+      },
+      {
+         "Year": "2007",
+         "U.S. passenger-miles in millions": "5784"
+      }
+   ],
+   "gold": "This graph shows Amtrak/Intercity passenger-miles traveled in the United States from 2007 to 2018 . In 2018 , passengers traveled around 6.36 billion miles by Intercity/Amtrak . Amtrak , also known as the National Railroad Passenger Corporation , is a publicly funded service .\n"
+}

@@ -1,0 +1,93 @@
+{
+   "title": "Annual performance of the Dow Jones Composite Index 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Index value in points",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The year-end value of the S & P case shiller national home price index amounted to 212.59 in 2019 . The index value was equal to 100 as of 2000 , so if the index value is equal to 130 in a given year , for example , it means that the house prices increased by 30 percent since 2000 . S & P/Case shiller u.s. home indices \u2013 additional information The S & P case shiller national home price index is calculated on a monthly basis and is based on the prices of single-family homes in nine u.s. Census divisions : New England , Middle Atlantic , East North Central , West North Central , South Atlantic , East South Central , West South Central , Mountain and Pacific .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Index value in points": 9386.48
+      },
+      {
+         "Year": "2018",
+         "Index value in points": 7710.44
+      },
+      {
+         "Year": "2017",
+         "Index value in points": 8310.35
+      },
+      {
+         "Year": "2016",
+         "Index value in points": 6902.45
+      },
+      {
+         "Year": "2015",
+         "Index value in points": 5978.34
+      },
+      {
+         "Year": "2014",
+         "Index value in points": 6473.6
+      },
+      {
+         "Year": "2013",
+         "Index value in points": 5641.55
+      },
+      {
+         "Year": "2012",
+         "Index value in points": 4442.07
+      },
+      {
+         "Year": "2011",
+         "Index value in points": 4232.17
+      },
+      {
+         "Year": "2010",
+         "Index value in points": 4033.19
+      },
+      {
+         "Year": "2009",
+         "Index value in points": 3566.68
+      },
+      {
+         "Year": "2008",
+         "Index value in points": 3086.07
+      },
+      {
+         "Year": "2007",
+         "Index value in points": 4394.05
+      },
+      {
+         "Year": "2006",
+         "Index value in points": 4120.96
+      },
+      {
+         "Year": "2005",
+         "Index value in points": 3638.06
+      },
+      {
+         "Year": "2004",
+         "Index value in points": 3395.82
+      },
+      {
+         "Year": "2003",
+         "Index value in points": 3000.75
+      },
+      {
+         "Year": "2002",
+         "Index value in points": 2374.96
+      },
+      {
+         "Year": "2001",
+         "Index value in points": 2892.23
+      },
+      {
+         "Year": "2000",
+         "Index value in points": 3317.61
+      }
+   ],
+   "gold": "The Dow Jones Composite Index finished the year 2019 at 9,386.48 points . This is the highest point of the index in the past two decades . What is Dow Jones Composite Index ? The Dow Jones Composite Index is one of the indices from the Dow Jones index family .\n"
+}

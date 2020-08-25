@@ -1,0 +1,80 @@
+{
+   "title": "U.S. Millennials : most popular social network 2016 , by age group",
+   "labels": [
+      "Platform",
+      "18-24",
+      "25-29",
+      "30-34"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey on the U.S. Millennials popular in Millennials as of 2018 , sorted by age . ",
+      "During the survey , 36 % of respondents aged 18-24 to years stated that they used Gmail as their primary popular provider . ",
+      "Instagram was ranked second with 24 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "0": [
+            "1",
+            "0"
+         ],
+         "5": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "18-24": "36",
+         "25-29": "41",
+         "30-34": "50"
+      },
+      {
+         "Platform": "Instagram",
+         "18-24": "24",
+         "25-29": "17",
+         "30-34": "13"
+      },
+      {
+         "Platform": "YouTube",
+         "18-24": "12",
+         "25-29": "14",
+         "30-34": "11"
+      },
+      {
+         "Platform": "LinkedIn",
+         "18-24": "7",
+         "25-29": "10",
+         "30-34": "10"
+      },
+      {
+         "Platform": "Pinterest",
+         "18-24": "9",
+         "25-29": "8",
+         "30-34": "8"
+      },
+      {
+         "Platform": "Snapchat",
+         "18-24": "9",
+         "25-29": "9",
+         "30-34": "5"
+      },
+      {
+         "Platform": "Twitter",
+         "18-24": "3",
+         "25-29": "1",
+         "30-34": "2"
+      }
+   ],
+   "gold": "This statistic presents the most popular social network among Millennials in the United States as of August 2016 , by age group . During the survey period , 24 percent of respondents between 18 and 24 years old stated that they used Instagram the most .\n"
+}

@@ -1,0 +1,37 @@
+{
+   "title": "Leading cause of ransomware infection 2019\n",
+   "xAxis": "Cause of ransomware infection",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This survey illustrates the factors that are most important among adult u.s. consumers in regards to their healthcare purchasing decisions , as of 2014 . Some 42 percent of consumers reported that word-of-mouth recommendations from friends or family was important in making decisions about purchasing healthcare products or services . The healthcare industry is producing services and products that are available directly to the consumers such as wearable devices and mobile apps that meet patient demand for a more direct access to their own healthcare needs .\n",
+   "trends": {},
+   "data": [
+      {
+         "Cause of ransomware infection": "Spam/phishing emails",
+         "Percentage of respondents": 67.0
+      },
+      {
+         "Cause of ransomware infection": "Lack of cyber security training",
+         "Percentage of respondents": 36.0
+      },
+      {
+         "Cause of ransomware infection": "Weak passwords/access management",
+         "Percentage of respondents": 30.0
+      },
+      {
+         "Cause of ransomware infection": "Poor user practices/gullibility",
+         "Percentage of respondents": 25.0
+      },
+      {
+         "Cause of ransomware infection": "Malicious websites/web ads",
+         "Percentage of respondents": 16.0
+      },
+      {
+         "Cause of ransomware infection": "Report clickbait",
+         "Percentage of respondents": 16.0
+      }
+   ],
+   "gold": "This statistic depicts the leading causes of ransomware infections according to MSPs worldwide in 2019 . According to the survey , 67 percent of responding MSPs indicated that phishing scams were the most common cause of ransomware infection .\n"
+}

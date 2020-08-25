@@ -1,0 +1,57 @@
+{
+   "title": "Population of Michigan , by race and ethnicity 2018",
+   "xAxis": "Race",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Population of Michigan , distinguished by Some_other_race_alone and Hispanic_or_Latino_(of_any_race) origin in 2018 . ",
+      "In 2018 , about 223,300 people in Michigan were Hispanic_or_Latino_(of_any_race) or ."
+   ],
+   "trends": [
+      {
+         "10": "6",
+         "12": "2"
+      },
+      {
+         "9": "2",
+         "11": "2"
+      }
+   ],
+   "data": [
+      {
+         "Race": "White alone",
+         "Number of residents": "7476047"
+      },
+      {
+         "Race": "Black or African American alone",
+         "Number of residents": "1363183"
+      },
+      {
+         "Race": "Hispanic or Latino (of any race)",
+         "Number of residents": "517381"
+      },
+      {
+         "Race": "Asian alone",
+         "Number of residents": "324358"
+      },
+      {
+         "Race": "Two or more races",
+         "Number of residents": "250796"
+      },
+      {
+         "Race": "American Indian and Alaska Native alone",
+         "Number of residents": "46417"
+      },
+      {
+         "Race": "Some other race alone",
+         "Number of residents": "14443"
+      },
+      {
+         "Race": "Native Hawaiian and Other Pacific Islander alone",
+         "Number of residents": "3290"
+      }
+   ],
+   "gold": "This statistic shows the population of Michigan , distinguished by race and Hispanic origin in 2018 . In 2018 , about 1.36 million people in Michigan were Black or African American .\n"
+}

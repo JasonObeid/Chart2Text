@@ -1,0 +1,41 @@
+{
+   "title": "Number of vehicles imported into the United States by country 2012",
+   "xAxis": "Country",
+   "yAxis": "Imports in units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Imports of units United terrorists in 2010 United States . ",
+      "2.651 people were units hostage United terrorists in Japan ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Japan",
+         "Imports in units": "2441298"
+      },
+      {
+         "Country": "Canada",
+         "Imports in units": "2105848"
+      },
+      {
+         "Country": "Mexico",
+         "Imports in units": "1440116"
+      },
+      {
+         "Country": "Korea",
+         "Imports in units": "1032638"
+      },
+      {
+         "Country": "Germany",
+         "Imports in units": "796121"
+      }
+   ],
+   "gold": "This statistic shows the number of passenger vehicles imported into the United States in 2012 , with a breakdown by country . U.S. imports of passenger vehicles from Korea stood at around 1.03 million units in 2012 .\n"
+}

@@ -1,0 +1,104 @@
+{
+   "title": "Electricity prices for households in Denmark 2010 - 2019 , semi-annually",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Hungarian Electricity consumers have experienced a reduction in the price of Electricity over the past several years , with the price falling from 31.26 Euro cents per kilowatt hour ( kWh ) in the first half of 2010_S2 , to 29.84 cents per kWh in the first half of 2019_S1 . ",
+      "Energy in Denmark uses a diverse range of fuels to generate energy . ",
+      "Nuclear plays a significant role in the Hungarian energy mix , with energy derived from nuclear sources making up half of the country 's energy mix as of 2017_S2 ."
+   ],
+   "trends": [
+      {
+         "23": "2",
+         "37": "17",
+         "40": "0",
+         "49": "0"
+      },
+      {},
+      {
+         "28": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019 S1",
+         "Euro cents per kilowatt-hour": "29.84"
+      },
+      {
+         "Year": "2018 S2",
+         "Euro cents per kilowatt-hour": "31.23"
+      },
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": "31.26"
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": "30.1"
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": "30.49"
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": "30.84"
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": "30.88"
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": "30.42"
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": "30.68"
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": "30.35"
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": "30.42"
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": "29.36"
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": "30.0"
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": "29.72"
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": "29.97"
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": "29.75"
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": "29.08"
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": "27.08"
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": "26.7"
+      }
+   ],
+   "gold": "Between 2010 and the first half of 2018 , the overall household price for electricity in Denmark increased by approximately 4.53 euro cents per kilowatt-hour to 31.23 euro cents . This was the highest price during this period . Electricity prices per kilowatt-hour were at their lowest in the first half of 2010 at 26.7 euro cents .\n"
+}

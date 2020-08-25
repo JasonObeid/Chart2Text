@@ -1,0 +1,118 @@
+{
+   "title": "Gross domestic product in Catalonia and Spain 2003 to 2017",
+   "labels": [
+      "Year",
+      "Catalonia",
+      "Spain"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Gross of Catalonia product in Spain from 2017 to 2003 . ",
+      "In 2003 , there were 803472 Spain product in Catalonia and 156600 Catalonia product ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "14",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "5": [
+            "0",
+            "2"
+         ],
+         "11": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2003",
+         "Catalonia": "156600",
+         "Spain": "803472"
+      },
+      {
+         "Year": "2004",
+         "Catalonia": "169776",
+         "Spain": "861420"
+      },
+      {
+         "Year": "2005",
+         "Catalonia": "183507",
+         "Spain": "930566"
+      },
+      {
+         "Year": "2006",
+         "Catalonia": "199169",
+         "Spain": "1007974"
+      },
+      {
+         "Year": "2007",
+         "Catalonia": "212391",
+         "Spain": "1080807"
+      },
+      {
+         "Year": "2008",
+         "Catalonia": "216922",
+         "Spain": "1116225"
+      },
+      {
+         "Year": "2009",
+         "Catalonia": "208115",
+         "Spain": "1079052"
+      },
+      {
+         "Year": "2010",
+         "Catalonia": "209792",
+         "Spain": "1080935"
+      },
+      {
+         "Year": "2011",
+         "Catalonia": "209716",
+         "Spain": "1070449"
+      },
+      {
+         "Year": "2012",
+         "Catalonia": "203157",
+         "Spain": "1039815"
+      },
+      {
+         "Year": "2013",
+         "Catalonia": "202638",
+         "Spain": "1025693"
+      },
+      {
+         "Year": "2014",
+         "Catalonia": "207156",
+         "Spain": "1037820"
+      },
+      {
+         "Year": "2015",
+         "Catalonia": "215722",
+         "Spain": "1079998"
+      },
+      {
+         "Year": "2016",
+         "Catalonia": "224751",
+         "Spain": "1118255"
+      },
+      {
+         "Year": "2017",
+         "Catalonia": "234651",
+         "Spain": "1163662"
+      }
+   ],
+   "gold": "This statistic compares the gross domestic product ( GDP ) in Catalonia and the whole of Spain between 2003 and 2017 . GDP refers to the total market value of all goods and services that are produced within a country per year . It is an important indicator of the economic strength of a country .\n"
+}

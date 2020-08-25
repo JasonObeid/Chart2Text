@@ -1,0 +1,45 @@
+{
+   "title": "Share of population that uses a smartphone in North America 2011 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Share of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The population in sweden has been growing annually and reached 10.23 million in 2018 , and these individuals were living in almost 4.7 million households . As with the growing population , the number of households were growing annually as well , from 4.3 households in 2011 , up to the 4.7 in 2018 . Single household without children most common Most of the households in sweden in 2018 were single households without children and amounted to around 1.8 million .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Share of population": 66.5
+      },
+      {
+         "Year": "2017",
+         "Share of population": 64.0
+      },
+      {
+         "Year": "2016",
+         "Share of population": 60.5
+      },
+      {
+         "Year": "2015",
+         "Share of population": 56.7
+      },
+      {
+         "Year": "2014",
+         "Share of population": 51.3
+      },
+      {
+         "Year": "2013",
+         "Share of population": 45.1
+      },
+      {
+         "Year": "2012",
+         "Share of population": 37.9
+      },
+      {
+         "Year": "2011",
+         "Share of population": 29.3
+      }
+   ],
+   "gold": "The statistic depicts the smartphone user penetration rate in North America , as percentage of the total population , from 2011 to 2018 . The smartphone penetration rate is forecast to reach 64 percent by 2017 .\n"
+}

@@ -1,0 +1,69 @@
+{
+   "title": "Sexual orientation of Americans in 2013",
+   "labels": [
+      "Sexual Orientation",
+      "Women",
+      "Men"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "In 2013 , 97.8 % of Americans civilian Lesbian_/_Gay employees in the 2013 were Men . ",
+      "Only 0.4 % of Americans Lesbian_/_Gay officers were Men , while 0.9 % of Lesbian_/_Gay officers were Women . ",
+      "The Sexual divide Lesbian_/_Gay in the 2013 is an indisputably male-dominated profession , particularly in the Federal Bureau of Investigation ( FBI ) ."
+   ],
+   "trends": [
+      {
+         "3": [
+            "2",
+            "2"
+         ],
+         "8": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "2"
+         ],
+         "5": [
+            "0",
+            "0"
+         ],
+         "11": [
+            "1",
+            "1"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "3": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Sexual Orientation": "Lesbian / Gay",
+         "Women": "1.5",
+         "Men": "1.8"
+      },
+      {
+         "Sexual Orientation": "Bisexual",
+         "Women": "0.9",
+         "Men": "0.4"
+      },
+      {
+         "Sexual Orientation": "Straight",
+         "Women": "97.7",
+         "Men": "97.8"
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who identify as lesbian , gay , bisexual , or straight in 2013 . In 2013 , 1.5 percent of American adult women identify as lesbian , while 1.8 of American adult men identify as gay .\n"
+}

@@ -1,0 +1,26 @@
+{
+   "title": "Alzheimer 's in the U.S : lifetime risks , by age and gender",
+   "labels": [
+      "Country",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "In the brexit referendum that took place in the united kingdom on 23 , 2016 , 55 percent of men voted to leave the European Union , compared with 49 percent of women . The referendum itself was won by the leave side , after they won 51.9 percent of the vote overall . British youth back remain According to exit polls on the day of the referendum , almost three quarters of British people aged between 18 to 24 voted to remain in the European Union .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "45 years",
+         "Men": "10.3",
+         "Women": "11.6"
+      },
+      {
+         "Country": "65 years",
+         "Men": "19.5",
+         "Women": "21.1"
+      }
+   ],
+   "gold": "This statistic depicts the estimated lifetime risk for getting Alzheimer 's disease in the United States as of 2015 , by age and gender . It is estimated that men aged 65 have a 11.6 percent risk of developing Alzheimer 's during their life .\n"
+}

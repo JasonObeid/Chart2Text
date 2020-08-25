@@ -1,0 +1,56 @@
+{
+   "title": "Number of customer transactions at the Home Depot and Lowe 's worldwide 2011 to 2018",
+   "labels": [
+      "Year",
+      "Home Depot",
+      "Lowe's"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "In 2018 , there was a total of 80 domestic insurance companies operating in the austrian insurance market . The austrian insurance market employs over 29 thousand staff and paid out more than seven billion euros in life insurance benefits in 2017 . The latest figures show that the largest insurance group in Austria by market share was the Vien insurance Group .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Home Depot": "1621",
+         "Lowe's": "941"
+      },
+      {
+         "Year": "2017",
+         "Home Depot": "1579",
+         "Lowe's": "953"
+      },
+      {
+         "Year": "2016",
+         "Home Depot": "1544",
+         "Lowe's": "945"
+      },
+      {
+         "Year": "2015",
+         "Home Depot": "1501",
+         "Lowe's": "878"
+      },
+      {
+         "Year": "2014",
+         "Home Depot": "1442",
+         "Lowe's": "857"
+      },
+      {
+         "Year": "2013",
+         "Home Depot": "1391",
+         "Lowe's": "828"
+      },
+      {
+         "Year": "2012",
+         "Home Depot": "1364",
+         "Lowe's": "804"
+      },
+      {
+         "Year": "2011",
+         "Home Depot": "1318",
+         "Lowe's": "810"
+      }
+   ],
+   "gold": "This statistic depicts the number of customer transactions at the Home Depot and Lowe 's worldwide from 2011 to 2018 . In 2018 , the Home Depot carried out 1.62 billion customer transactions worldwide .\n"
+}

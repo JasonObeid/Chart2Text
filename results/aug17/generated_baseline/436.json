@@ -1,0 +1,64 @@
+{
+   "title": "Preferred online retail payment methods worldwide 2017\n",
+   "xAxis": "Payment Method",
+   "yAxis": "Share of online shoppers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Payment Method, and a y axis representing Share of online shoppers.",
+      " The highest category is found at Credit_cards where Share of online shoppers is 42.0.",
+      " The lowest category is found at Cryptocurrencies_(Bitcoin) where Share of online shoppers is 3.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Payment Method": "Credit cards",
+         "Share of online shoppers": 42.0
+      },
+      {
+         "Payment Method": "Electronic payment (PayPal if available)",
+         "Share of online shoppers": 39.0
+      },
+      {
+         "Payment Method": "Debit cards",
+         "Share of online shoppers": 28.0
+      },
+      {
+         "Payment Method": "Cash on delivery",
+         "Share of online shoppers": 23.0
+      },
+      {
+         "Payment Method": "Bank transfers",
+         "Share of online shoppers": 20.0
+      },
+      {
+         "Payment Method": "Gift cards or vouchers",
+         "Share of online shoppers": 15.0
+      },
+      {
+         "Payment Method": "Mobile payment",
+         "Share of online shoppers": 14.0
+      },
+      {
+         "Payment Method": "Cryptocurrencies (Bitcoin)",
+         "Share of online shoppers": 3.0
+      },
+      {
+         "Payment Method": "Other",
+         "Share of online shoppers": 3.0
+      }
+   ],
+   "gold": "Online shoppers have a wide range of payment methods to choose from and during a March 2017 survey of global online shoppers , 42 percent of respondents stated that they preferred to pay via credit card . Credit cards were the most popular payment method , ahead of electronic options such as PayPal . Digital payments Digital and mobile payments have been around for a while but not all shoppers have taken to them equally .\n"
+}

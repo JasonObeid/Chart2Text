@@ -1,0 +1,93 @@
+{
+   "title": "Sugar beet production in the U.S. 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the production volume of oranges in the united from 2000 to 2019 . According to the report , u.s. production of oranges amounted to approximately 3.9 million tons in 2019 , down from 5.1 million tons of the previous year .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Production in thousand tons": 28600.0
+      },
+      {
+         "Year": "2018",
+         "Production in thousand tons": 33282.0
+      },
+      {
+         "Year": "2017",
+         "Production in thousand tons": 35317.0
+      },
+      {
+         "Year": "2016",
+         "Production in thousand tons": 36920.0
+      },
+      {
+         "Year": "2015",
+         "Production in thousand tons": 35371.0
+      },
+      {
+         "Year": "2014",
+         "Production in thousand tons": 31285.0
+      },
+      {
+         "Year": "2013",
+         "Production in thousand tons": 32789.0
+      },
+      {
+         "Year": "2012",
+         "Production in thousand tons": 35224.0
+      },
+      {
+         "Year": "2011",
+         "Production in thousand tons": 28896.0
+      },
+      {
+         "Year": "2010",
+         "Production in thousand tons": 32034.0
+      },
+      {
+         "Year": "2009",
+         "Production in thousand tons": 29783.0
+      },
+      {
+         "Year": "2008",
+         "Production in thousand tons": 26881.0
+      },
+      {
+         "Year": "2007",
+         "Production in thousand tons": 31834.0
+      },
+      {
+         "Year": "2006",
+         "Production in thousand tons": 34064.0
+      },
+      {
+         "Year": "2005",
+         "Production in thousand tons": 27433.0
+      },
+      {
+         "Year": "2004",
+         "Production in thousand tons": 30021.0
+      },
+      {
+         "Year": "2003",
+         "Production in thousand tons": 30710.0
+      },
+      {
+         "Year": "2002",
+         "Production in thousand tons": 27707.0
+      },
+      {
+         "Year": "2001",
+         "Production in thousand tons": 25708.0
+      },
+      {
+         "Year": "2000",
+         "Production in thousand tons": 32541.0
+      }
+   ],
+   "gold": "This statistic shows the total U.S. sugar beet production from 2000 to 2019 . According to the report , approximately 28.6 million tons of sugar beet were produced in the United States in 2019 .\n"
+}

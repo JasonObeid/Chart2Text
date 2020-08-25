@@ -1,0 +1,46 @@
+{
+   "title": "Population of Greece 2016 , by gender",
+   "xAxis": "Gender",
+   "yAxis": "Total population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the Total of official Males at the Females Males in Brazil 2016 , gender sponsorship . ",
+      "At the Males in 2016 , 5224210 companies have the highest level of association ( Partner ) with Females . ",
+      "Females sponsorship structure \u2013 additional information The Females Males is one of the most effective international marketing platforms , reaching millions of people in over 200 countries throughout the Males ."
+   ],
+   "trends": [
+      {
+         "7": "1",
+         "10": "0",
+         "11": "1"
+      },
+      {
+         "2": "1",
+         "6": "1",
+         "18": "0"
+      },
+      {
+         "0": "0",
+         "7": "0",
+         "8": "1",
+         "29": "1"
+      }
+   ],
+   "data": [
+      {
+         "Gender": "Females",
+         "Total population": "5559538"
+      },
+      {
+         "Gender": "Males",
+         "Total population": "5224210"
+      },
+      {
+         "Gender": "Total",
+         "Total population": "10783748"
+      }
+   ],
+   "gold": "This statistic displays the population of Greece by gender in 2016 . In this year there were a total of 10.78 million inhabitants in Greece . There were almost 5.56 million female inhabitants , whereas there were less than 5.3 million male inhabitants .\n"
+}

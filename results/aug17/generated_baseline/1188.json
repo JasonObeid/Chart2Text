@@ -1,0 +1,97 @@
+{
+   "title": "Average ticket price Atlanta Hawks ( NBA ) games 2015/16\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points. The chart has 8 significant trends.",
+      " The longest trend is moderately negative which exists from 2008/09 to 2006/07.",
+      " But, the next significant trend is moderately positive which exists from 2015/16 to 2014/15.",
+      " Correspondingly, the next significant trend is moderately neutral which exists from 2014/15 to 2013/14.",
+      " Correspondingly, the next significant trend is moderately positive which exists from 2013/14 to 2012/13.",
+      " Additionally, the next significant trend is moderately negative which exists from 2012/13 to 2011/12.",
+      " Differently, the next significant trend is moderately neutral which exists from 2011/12 to 2010/11.",
+      " Differently, the next significant trend is slightly negative which exists from 2010/11 to 2009/10.",
+      " On the other hand, the next significant trend is extremely positive which exists from 2009/10 to 2008/09."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "7",
+         "12": "9"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      },
+      {
+         "3": "3",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": 36.82
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 35.26
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 35.26
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 34.75
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 36.13
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 36.13
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 51.78
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 36.9
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 38.0
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 42.18
+      }
+   ],
+   "gold": "This graph depicts the average ticket price for Atlanta Hawks games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 42.18 U.S. dollars .\n"
+}

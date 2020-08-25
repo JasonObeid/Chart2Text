@@ -1,0 +1,33 @@
+{
+   "title": "Forecast Google Glass unit sales 2014 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "Fast casual restaurant chain firehouse subs generated sales of 794 million u.s. dollars from its u.s. establishments in 2018 . This figure has risen by over 240 million in the past five years . Leading u.s. sandwich chains In terms of systemwide sales , firehouse subs placed fifth in a ranking of leading u.s. sandwich restaurant chains , including Subway , Arby 's and Jimmy John 's , in 2018 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Unit sales in millions": 21.15
+      },
+      {
+         "Year": "2017",
+         "Unit sales in millions": 10.62
+      },
+      {
+         "Year": "2016",
+         "Unit sales in millions": 3.74
+      },
+      {
+         "Year": "2015",
+         "Unit sales in millions": 2.47
+      },
+      {
+         "Year": "2014",
+         "Unit sales in millions": 0.83
+      }
+   ],
+   "gold": "Here you can see a forecast for the sale of Google Glasses from 2014 to 2018 . The source predicts that Google 's product will sell well and that by 2018 will sell more than 21 million units .\n"
+}

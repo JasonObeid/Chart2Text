@@ -1,0 +1,46 @@
+{
+   "title": "Organ donation rate in the United Kingdom 2018/19 , by country",
+   "xAxis": "Country",
+   "yAxis": "Rate of donation per million population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Rate donation in the Organ , England and Northern_Ireland in . ",
+      "A little over 23.0 million vehicles were produced in Northern_Ireland . ",
+      "In 2013 , Northern_Ireland edged past England to become North America 's second largest Rate producer ."
+   ],
+   "trends": [
+      {
+         "10": "2",
+         "12": "1"
+      },
+      {
+         "3": "1",
+         "9": "1"
+      },
+      {
+         "3": "1",
+         "6": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Scotland",
+         "Rate of donation per million population": "17.9"
+      },
+      {
+         "Country": "Northern Ireland",
+         "Rate of donation per million population": "23.0"
+      },
+      {
+         "Country": "England",
+         "Rate of donation per million population": "24.5"
+      },
+      {
+         "Country": "Wales",
+         "Rate of donation per million population": "30.7"
+      }
+   ],
+   "gold": "In 2018/19 , the organ donation rate in Wales was 30.7 per million population , the highest rate in the United Kingdom . With 24.5 organ donations per million population , England had the second highest rate . Scotland had the lowest rate of the countries of the UK .\n"
+}

@@ -1,0 +1,63 @@
+{
+   "title": "Academy Awards nominations in 2020 , by film",
+   "xAxis": "Year",
+   "yAxis": "Number of nominations",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the Number of nominations owned by households in the 2020 from Ford_v_Ferrari to Joker . ",
+      "In Joker , about 4 % of nominations were owned by American households . ",
+      "Thus , nominations made up the most popular pet category in the 2020 , with the total Number ."
+   ],
+   "trends": [
+      {
+         "15": "8",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "4": "8"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "Joker",
+         "Number of nominations": "11"
+      },
+      {
+         "Year": "The Irishman",
+         "Number of nominations": "10"
+      },
+      {
+         "Year": "1917",
+         "Number of nominations": "10"
+      },
+      {
+         "Year": "Once Upon a Time in Hollywood",
+         "Number of nominations": "10"
+      },
+      {
+         "Year": "Little Women",
+         "Number of nominations": "6"
+      },
+      {
+         "Year": "Jojo Rabbit",
+         "Number of nominations": "6"
+      },
+      {
+         "Year": "Parasite",
+         "Number of nominations": "6"
+      },
+      {
+         "Year": "Marriage Story",
+         "Number of nominations": "6"
+      },
+      {
+         "Year": "Ford v Ferrari",
+         "Number of nominations": "4"
+      }
+   ],
+   "gold": "In 2020 , the movie with the most Oscar nominations was 'Joker ' _ , with 11 in total . 'Joker ' was directed by Todd Philips , whose work includes movies within 'The Hangover ' franchise , 'Due Date ' _ , and 'War Dogs ' _ . Philips also produced major hit ' A Star is Born ' _ .\n"
+}

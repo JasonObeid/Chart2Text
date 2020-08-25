@@ -1,0 +1,54 @@
+{
+   "title": "Share of mobile banking users among mobile phone owners in the U.S. 2009 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Share of mobile banking users",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of mobile banking users with a total of 8 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2016 to 2009."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Share of mobile banking users": 51.0
+      },
+      {
+         "Year": "2015",
+         "Share of mobile banking users": 46.0
+      },
+      {
+         "Year": "2014",
+         "Share of mobile banking users": 42.0
+      },
+      {
+         "Year": "2013",
+         "Share of mobile banking users": 38.0
+      },
+      {
+         "Year": "2012",
+         "Share of mobile banking users": 33.0
+      },
+      {
+         "Year": "2011",
+         "Share of mobile banking users": 29.0
+      },
+      {
+         "Year": "2010",
+         "Share of mobile banking users": 19.0
+      },
+      {
+         "Year": "2009",
+         "Share of mobile banking users": 18.0
+      }
+   ],
+   "gold": "This statistic presents the share of mobile banking users among mobile phone owners in the United States from 2009 to 2011 and a forecast thereof until 2016 . In 2011 , 29 percent of the mobile phone owners accessed banking services on their mobile phones and this number was predicted to increase to 51 percent in 2016 . Mobile banking \u2013 additional information Mobile phones are one of the most popular devices owned , and are used for personal and business purposes by people worldwide .\n"
+}

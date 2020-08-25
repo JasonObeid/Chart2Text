@@ -1,0 +1,70 @@
+{
+   "title": "Ratio of government expenditure to gross domestic product ( GDP ) in Mexico 2024",
+   "xAxis": "Year",
+   "yAxis": "Ratio of government expenditure to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Ratio of government expenditure to gross domestic product ( GDP ) in Mexico from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , government expenditure in Mexico amounted to about 25.67 % of the country 's gross domestic product ."
+   ],
+   "trends": [
+      {
+         "18": "10",
+         "20": "6",
+         "26": "0"
+      },
+      {
+         "1": "6",
+         "10": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Ratio of government expenditure to GDP": "25.13"
+      },
+      {
+         "Year": "2023",
+         "Ratio of government expenditure to GDP": "24.93"
+      },
+      {
+         "Year": "2022",
+         "Ratio of government expenditure to GDP": "24.87"
+      },
+      {
+         "Year": "2021",
+         "Ratio of government expenditure to GDP": "24.67"
+      },
+      {
+         "Year": "2020",
+         "Ratio of government expenditure to GDP": "24.9"
+      },
+      {
+         "Year": "2019",
+         "Ratio of government expenditure to GDP": "25.66"
+      },
+      {
+         "Year": "2018",
+         "Ratio of government expenditure to GDP": "25.67"
+      },
+      {
+         "Year": "2017",
+         "Ratio of government expenditure to GDP": "25.75"
+      },
+      {
+         "Year": "2016",
+         "Ratio of government expenditure to GDP": "27.37"
+      },
+      {
+         "Year": "2015",
+         "Ratio of government expenditure to GDP": "27.53"
+      },
+      {
+         "Year": "2014",
+         "Ratio of government expenditure to GDP": "27.97"
+      }
+   ],
+   "gold": "The statistic shows the ratio of government expenditure to the gross domestic product ( GDP ) in Mexico from 2014 to 2018 , with projections up until 2024 . In 2018 , government expenditure in Mexico amounted to 25.67 percent of the gross domestic product .\n"
+}

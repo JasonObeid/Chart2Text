@@ -1,0 +1,51 @@
+{
+   "title": "Leading cause of ransomware infection 2019",
+   "xAxis": "Cause of ransomware infection",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey among American Poor_user_practices/gullibility owners on the Leading of cause they estimate to spend 2019 annum on their Poor_user_practices/gullibility . ",
+      "The survey was conducted in 2019 , and is sorted 2019 type of purchase/reason for Cause . ",
+      "The Percentage Leading ransomware on Lack_of_cyber_security_training for infection thus adds up to an Percentage mean Leading of approximately 36 respondents 2019 ."
+   ],
+   "trends": [
+      {
+         "10": "3",
+         "25": "3"
+      },
+      {},
+      {
+         "5": "1",
+         "18": "1"
+      }
+   ],
+   "data": [
+      {
+         "Cause of ransomware infection": "Spam/phishing emails",
+         "Percentage of respondents": "67"
+      },
+      {
+         "Cause of ransomware infection": "Lack of cyber security training",
+         "Percentage of respondents": "36"
+      },
+      {
+         "Cause of ransomware infection": "Weak passwords/access management",
+         "Percentage of respondents": "30"
+      },
+      {
+         "Cause of ransomware infection": "Poor user practices/gullibility",
+         "Percentage of respondents": "25"
+      },
+      {
+         "Cause of ransomware infection": "Malicious websites/web ads",
+         "Percentage of respondents": "16"
+      },
+      {
+         "Cause of ransomware infection": "Report clickbait",
+         "Percentage of respondents": "16"
+      }
+   ],
+   "gold": "This statistic depicts the leading causes of ransomware infections according to MSPs worldwide in 2019 . According to the survey , 67 percent of responding MSPs indicated that phishing scams were the most common cause of ransomware infection .\n"
+}

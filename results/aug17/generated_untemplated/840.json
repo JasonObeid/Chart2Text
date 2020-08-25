@@ -1,0 +1,105 @@
+{
+   "title": "Average player salary in MLS by team 2018\n",
+   "xAxis": "Team",
+   "yAxis": "Salary in thousand U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic shows a ranking of major league soccer teams according to their operating income/loss . atlanta united had an operating income of 7 million u.s. dollars in the 2019 MLS season .\n",
+   "trends": {},
+   "data": [
+      {
+         "Team": "Toronto FC",
+         "Salary in thousand U.S. dollars": 902.41
+      },
+      {
+         "Team": "LA Galaxy",
+         "Salary in thousand U.S. dollars": 648.15
+      },
+      {
+         "Team": "New York City FC",
+         "Salary in thousand U.S. dollars": 544.23
+      },
+      {
+         "Team": "Chicago Fire",
+         "Salary in thousand U.S. dollars": 492.86
+      },
+      {
+         "Team": "Los Angeles FC",
+         "Salary in thousand U.S. dollars": 479.64
+      },
+      {
+         "Team": "Seattle Sounders FC",
+         "Salary in thousand U.S. dollars": 421.48
+      },
+      {
+         "Team": "Portland Timbers",
+         "Salary in thousand U.S. dollars": 417.33
+      },
+      {
+         "Team": "Montreal Impact",
+         "Salary in thousand U.S. dollars": 383.55
+      },
+      {
+         "Team": "Colorado Rapids",
+         "Salary in thousand U.S. dollars": 366.67
+      },
+      {
+         "Team": "Atlanta United",
+         "Salary in thousand U.S. dollars": 364.94
+      },
+      {
+         "Team": "Sporting Kansas City",
+         "Salary in thousand U.S. dollars": 327.86
+      },
+      {
+         "Team": "Orlando City SC",
+         "Salary in thousand U.S. dollars": 309.66
+      },
+      {
+         "Team": "Philadelphia Union",
+         "Salary in thousand U.S. dollars": 307.59
+      },
+      {
+         "Team": "FC Dallas",
+         "Salary in thousand U.S. dollars": 300.97
+      },
+      {
+         "Team": "Real Salt Lake",
+         "Salary in thousand U.S. dollars": 299.33
+      },
+      {
+         "Team": "New England Revolution",
+         "Salary in thousand U.S. dollars": 272.8
+      },
+      {
+         "Team": "Minnesota United FC",
+         "Salary in thousand U.S. dollars": 271.67
+      },
+      {
+         "Team": "San Jose Earthquakes",
+         "Salary in thousand U.S. dollars": 268.62
+      },
+      {
+         "Team": "New York Red Bulls",
+         "Salary in thousand U.S. dollars": 265.17
+      },
+      {
+         "Team": "D.C. United",
+         "Salary in thousand U.S. dollars": 259.23
+      },
+      {
+         "Team": "Columbus Crew SC",
+         "Salary in thousand U.S. dollars": 258.15
+      },
+      {
+         "Team": "Vancouver Whitecaps FC",
+         "Salary in thousand U.S. dollars": 257.19
+      },
+      {
+         "Team": "Houston Dynamo",
+         "Salary in thousand U.S. dollars": 195.52
+      }
+   ],
+   "gold": "The statistic shows the average player salary in Major League Soccer by team in 2018 . The average player salary in Toronto FC amounted to about 902 thousand U.S. dollars .\n"
+}

@@ -1,0 +1,159 @@
+{
+   "title": "Rate of homicide in Canada and the United States 2000 to 2018",
+   "labels": [
+      "Year",
+      "Canada",
+      "United States"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing United States had the highest values across Year with a mean value of 5.3.",
+      " This peaked at 2007 with a value of 5.8. ",
+      " The line with the second highest values was Canada with a mean value of 1.8.",
+      " This line peaked at 2005 with a value of 2.06"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "18",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "7",
+            "1"
+         ],
+         "9": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "18",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "0"
+         ],
+         "10": [
+            "5",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Canada": "1.78",
+         "United States": "5.7"
+      },
+      {
+         "Year": "2001",
+         "Canada": "1.78",
+         "United States": "5.5"
+      },
+      {
+         "Year": "2002",
+         "Canada": "1.86",
+         "United States": "5.6"
+      },
+      {
+         "Year": "2003",
+         "Canada": "1.74",
+         "United States": "5.6"
+      },
+      {
+         "Year": "2004",
+         "Canada": "1.95",
+         "United States": "5.7"
+      },
+      {
+         "Year": "2005",
+         "Canada": "2.06",
+         "United States": "5.5"
+      },
+      {
+         "Year": "2006",
+         "Canada": "1.86",
+         "United States": "5.6"
+      },
+      {
+         "Year": "2007",
+         "Canada": "1.81",
+         "United States": "5.8"
+      },
+      {
+         "Year": "2008",
+         "Canada": "1.84",
+         "United States": "5.7"
+      },
+      {
+         "Year": "2009",
+         "Canada": "1.81",
+         "United States": "5.4"
+      },
+      {
+         "Year": "2010",
+         "Canada": "1.63",
+         "United States": "5.0"
+      },
+      {
+         "Year": "2011",
+         "Canada": "1.74",
+         "United States": "4.8"
+      },
+      {
+         "Year": "2012",
+         "Canada": "1.56",
+         "United States": "4.7"
+      },
+      {
+         "Year": "2013",
+         "Canada": "1.46",
+         "United States": "4.7"
+      },
+      {
+         "Year": "2014",
+         "Canada": "1.47",
+         "United States": "4.5"
+      },
+      {
+         "Year": "2015",
+         "Canada": "1.71",
+         "United States": "4.4"
+      },
+      {
+         "Year": "2016",
+         "Canada": "1.69",
+         "United States": "4.9"
+      },
+      {
+         "Year": "2017",
+         "Canada": "1.82",
+         "United States": "5.4"
+      },
+      {
+         "Year": "2018",
+         "Canada": "1.76",
+         "United States": "5.3"
+      }
+   ],
+   "gold": "This statistic shows the rate of homicides in Canada and the United States from 2000 to 2018 . There were roughly 5.3 homicides in the U.S. and 1.76 homicides in Canada per 100,000 residents in 2018 .\n"
+}

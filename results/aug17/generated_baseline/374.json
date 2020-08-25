@@ -1,0 +1,99 @@
+{
+   "title": "BMI : adult 's body mass index in England 2018 , by gender and age",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Men had the highest values across Year with a mean value of 27.5.",
+      " This peaked at 55-64_years with a value of 29.0. ",
+      " The line with the second highest values was Women with a mean value of 27.4.",
+      " This line peaked at 65-74_years with a value of 28.5"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "4",
+            "0"
+         ],
+         "9": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "10": [
+            "5",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "16-24 years",
+         "Men": "24.4",
+         "Women": "24.5"
+      },
+      {
+         "Year": "25-34 years",
+         "Men": "26.2",
+         "Women": "26.9"
+      },
+      {
+         "Year": "35-44 years",
+         "Men": "27.4",
+         "Women": "27.7"
+      },
+      {
+         "Year": "45-54 years",
+         "Men": "28.8",
+         "Women": "28.4"
+      },
+      {
+         "Year": "55-64 years",
+         "Men": "29.0",
+         "Women": "28.3"
+      },
+      {
+         "Year": "65-74 years",
+         "Men": "28.6",
+         "Women": "28.5"
+      },
+      {
+         "Year": "75 years and over",
+         "Men": "27.8",
+         "Women": "27.7"
+      }
+   ],
+   "gold": "In 2018 , men aged 55 to 64 years had an average body mass index ( BMI ) of 29 kg/m2 and women aged 65 to 74 years had a BMI of 28.3 kg/m2 , the highest mean BMI among both genders across all the age groups . Apart from individuals aged 16 to 24 years , every demographic in England had an average BMI which is classified as overweight , indicating there is a problem with overweightness in England . An increasing problem It is shown that the mean BMI of individuals for both men and women has been generally increasing year-on-year in England .\n"
+}

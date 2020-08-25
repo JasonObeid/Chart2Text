@@ -1,0 +1,53 @@
+{
+   "title": "U.S. consumer usage of mobile payments 2017\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows , according to survey respondents , the most important election issues that should be addressed in the run up to the 2015 United Kingdom ( uk ) General election ( as of 2014 ) . With 50 percent of respondents , immigration was considered to be the most important topic , followed by the National Health Service ( nhs ) and the european union ( EU ) .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Made a mobile payment",
+         "Share of respondents": 64.0
+      },
+      {
+         "Response": "Paid a bill",
+         "Share of respondents": 49.0
+      },
+      {
+         "Response": "Purchase in-app or online",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Received loyalty points",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Sent/received money (P2P)",
+         "Share of respondents": 23.0
+      },
+      {
+         "Response": "Paid in-store",
+         "Share of respondents": 19.0
+      },
+      {
+         "Response": "Paid for parking/taxi/transit",
+         "Share of respondents": 12.0
+      },
+      {
+         "Response": "Withdrew money from ATM",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Paid by text message",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Sent money internationally",
+         "Share of respondents": 2.0
+      }
+   ],
+   "gold": "This statistic gives information on the U.S. consumer usage of mobile payment offerings as of January 2017 . During a survey of smartphone owners , 49 percent of respondents stated they had paid a bill via mobile .\n"
+}

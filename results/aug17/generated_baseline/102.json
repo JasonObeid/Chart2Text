@@ -1,0 +1,60 @@
+{
+   "title": "Most popular multi-purpose cleaning products in the United Kingdom ( UK ) 2013\n",
+   "xAxis": "Product Type",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Product Type, and a y axis representing Share of respondents currently purchasing.",
+      " The highest category is found at Flash where Share of respondents currently purchasing is 38.0.",
+      " The lowest category is found at Cilit_bang where Share of respondents currently purchasing is 20.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Product Type": "Flash",
+         "Share of respondents currently purchasing": 38.0
+      },
+      {
+         "Product Type": "Mr Muscle",
+         "Share of respondents currently purchasing": 31.0
+      },
+      {
+         "Product Type": "Dettol",
+         "Share of respondents currently purchasing": 30.0
+      },
+      {
+         "Product Type": "Supermarket's own spray cleaner",
+         "Share of respondents currently purchasing": 28.0
+      },
+      {
+         "Product Type": "Cif",
+         "Share of respondents currently purchasing": 22.0
+      },
+      {
+         "Product Type": "Cif (cream)",
+         "Share of respondents currently purchasing": 22.0
+      },
+      {
+         "Product Type": "Dettol (wipes)",
+         "Share of respondents currently purchasing": 21.0
+      },
+      {
+         "Product Type": "Cilit bang",
+         "Share of respondents currently purchasing": 20.0
+      }
+   ],
+   "gold": "This statistic displays the leading surface and multi-purpose cleaning product brands in the United Kingdom , according to a survey conducted November 2013 . Flash surface sprays ranked highest with 38 percent of respondents purchasing their products at the time of survey .\n"
+}

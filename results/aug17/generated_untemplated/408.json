@@ -1,0 +1,97 @@
+{
+   "title": "Yelp : number of unique visitors 2010 to 2015\n",
+   "xAxis": "Quarter",
+   "yAxis": "Unique visitors in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic gives information on tmall 's total gross merchandise volume from the second quarter of 2011 to the second quarter of 2016 . As of the last reported quarter , the website 's total gmv amounted to 329 billion yuan .\n",
+   "trends": {},
+   "data": [
+      {
+         "Quarter": "Q1 '10",
+         "Unique visitors in millions": 29.82
+      },
+      {
+         "Quarter": "Q2 '10",
+         "Unique visitors in millions": 32.54
+      },
+      {
+         "Quarter": "Q3 '10",
+         "Unique visitors in millions": 37.5
+      },
+      {
+         "Quarter": "Q4 '10",
+         "Unique visitors in millions": 39.36
+      },
+      {
+         "Quarter": "Q1 '11",
+         "Unique visitors in millions": 46.82
+      },
+      {
+         "Quarter": "Q2 '11",
+         "Unique visitors in millions": 51.56
+      },
+      {
+         "Quarter": "Q3 '11",
+         "Unique visitors in millions": 61.1
+      },
+      {
+         "Quarter": "Q4 '11",
+         "Unique visitors in millions": 65.8
+      },
+      {
+         "Quarter": "Q1 '12",
+         "Unique visitors in millions": 71.4
+      },
+      {
+         "Quarter": "Q2 '12",
+         "Unique visitors in millions": 78.0
+      },
+      {
+         "Quarter": "Q3 '12",
+         "Unique visitors in millions": 84.0
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Unique visitors in millions": 86.3
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Unique visitors in millions": 102.1
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Unique visitors in millions": 108.0
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Unique visitors in millions": 117.0
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Unique visitors in millions": 120.0
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Unique visitors in millions": 132.0
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Unique visitors in millions": 138.0
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Unique visitors in millions": 139.0
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Unique visitors in millions": 135.0
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Unique visitors in millions": 142.0
+      }
+   ],
+   "gold": "The timeline shows the number of unique visitors per quarter of the website Yelp.com from 2010 to 2015 . The local search and review site 's visitor numbers have displayed a steady growth , reaching 142 million unique visitors in the first quarter of 2015 .\n"
+}

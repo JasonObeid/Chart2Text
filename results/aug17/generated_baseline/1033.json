@@ -1,0 +1,123 @@
+{
+   "title": "Per capita consumption of tree nuts in the U.S. 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Per capita consumption in pounds, with a total of 19 data points. The chart has 6 significant trends.",
+      " The longest trend is slightly positive which exists from 2005 to 2000.",
+      " Similarly, the next significant trend is extremely positive which exists from 2018 to 2015.",
+      " Additionally, the next significant trend is slightly positive which exists from 2011 to 2008.",
+      " Likewise, the next significant trend is extremely positive which exists from 2008 to 2005.",
+      " Similarly, the next significant trend is slightly positive which exists from 2015 to 2013.",
+      " In a similar manner, the next significant trend is slightly positive which exists from 2013 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "13",
+         "12": "18"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "13"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": 5.1
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": 5.0
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": 4.8
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": 4.1
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": 4.1
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": 4.0
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": 4.2
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": 3.8
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": 3.8
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": 3.7
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": 3.6
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": 3.6
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": 3.3
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": 2.69
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": 3.53
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": 3.52
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": 3.35
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": 2.88
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": 2.61
+      }
+   ],
+   "gold": "The timeline shows the per capita consumption of tree nuts ( shelled ) in the United States from 2000 to 2018 . The U.S. per capita consumption of tree nuts amounted to five pounds in 2017 .\n"
+}

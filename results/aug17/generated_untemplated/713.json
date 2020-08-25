@@ -1,0 +1,66 @@
+{
+   "title": "Number of vehicles in use worldwide 2006 to 2015",
+   "labels": [
+      "Year",
+      "Commercial vehicles",
+      "Passenger cars"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "Between 2011 and 2016 , the sales of smartphones in france have continuously been increasing , from about 11.5 million units to almost 22 million in 2018 . On the other hand , the sales of laptops have been stagnating since 2012 , while tablet sales peaked at 6.2 million units in 2014 . Moreover , we can see that wearables have appeared on the French market for mobile devices since 2014 : these body-borne devices are small computing devices which extend the performances of computing technologies .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2015",
+         "Commercial vehicles": "335190",
+         "Passenger cars": "947080"
+      },
+      {
+         "Year": "2014",
+         "Commercial vehicles": "327825",
+         "Passenger cars": "907062"
+      },
+      {
+         "Year": "2013",
+         "Commercial vehicles": "315845",
+         "Passenger cars": "869083"
+      },
+      {
+         "Year": "2012",
+         "Commercial vehicles": "306721",
+         "Passenger cars": "834916"
+      },
+      {
+         "Year": "2011",
+         "Commercial vehicles": "288618",
+         "Passenger cars": "808401"
+      },
+      {
+         "Year": "2010",
+         "Commercial vehicles": "280127",
+         "Passenger cars": "775573"
+      },
+      {
+         "Year": "2009",
+         "Commercial vehicles": "271957",
+         "Passenger cars": "747899"
+      },
+      {
+         "Year": "2008",
+         "Commercial vehicles": "264970",
+         "Passenger cars": "727405"
+      },
+      {
+         "Year": "2007",
+         "Commercial vehicles": "258538",
+         "Passenger cars": "701690"
+      },
+      {
+         "Year": "2006",
+         "Commercial vehicles": "247488",
+         "Passenger cars": "679154"
+      }
+   ],
+   "gold": "This statistic shows the number of passenger cars and commercial vehicles in use worldwide from 2006 to 2015 . In 2015 , around 947 million passenger cars and 335 million commercial vehicles were in operation worldwide .\n"
+}

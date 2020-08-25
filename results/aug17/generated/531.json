@@ -1,0 +1,50 @@
+{
+   "title": "Number of immigrants in Singapore 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of immigrants in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , 1711.0 thousand Italians were living in Singapore . ",
+      "Between 2015 and , the Number of immigrants thousands who lived in Singapore constantly increased . ",
+      "However , in 2010 and in 2019 the immigrants of Singapore experienced a decrease ."
+   ],
+   "trends": [
+      {
+         "2": "0",
+         "4": "4"
+      },
+      {
+         "1": "2",
+         "3": "2"
+      },
+      {
+         "3": "3",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of immigrants in thousands": "2155.65"
+      },
+      {
+         "Year": "2017",
+         "Number of immigrants in thousands": "2623.0"
+      },
+      {
+         "Year": "2015",
+         "Number of immigrants in thousands": "2544.0"
+      },
+      {
+         "Year": "2010",
+         "Number of immigrants in thousands": "2165.0"
+      },
+      {
+         "Year": "2005",
+         "Number of immigrants in thousands": "1711.0"
+      }
+   ],
+   "gold": "In 2019 , there were about 2.16 million immigrants ( here classified as people living in a country in which they were not born in ) in Singapore out of a total population of about 5.7 million . Immigrants made up a significant share of the population and play a crucial role in Singapore , where the birth rate was among the lowest in the world . Singapore 's immigrant population The immigrant population of Singapore made up slightly more than 40 percent of the total population of the country in 2018 .\n"
+}

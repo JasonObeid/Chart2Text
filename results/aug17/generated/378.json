@@ -1,0 +1,81 @@
+{
+   "title": "Teenage pregnancies in England and Wales resulting in maternities 2004 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of pregnancies resulting in maternity",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The total resulting of Number pregnancies , including fuel , reached a peak resulting of over 423 million British pounds in 2017 . ",
+      "This marked an increase of about 18 million British pounds on the previous Year . ",
+      "For the Number industry excluding fuel pregnancies , this figure similarly indicated a record resulting in 2017 with a significant rise on the Year prior ."
+   ],
+   "trends": [
+      {
+         "21": "0"
+      },
+      {},
+      {
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of pregnancies resulting in maternity": "28092"
+      },
+      {
+         "Year": "2016",
+         "Number of pregnancies resulting in maternity": "30518"
+      },
+      {
+         "Year": "2015",
+         "Number of pregnancies resulting in maternity": "32747"
+      },
+      {
+         "Year": "2014",
+         "Number of pregnancies resulting in maternity": "34977"
+      },
+      {
+         "Year": "2013",
+         "Number of pregnancies resulting in maternity": "37887"
+      },
+      {
+         "Year": "2012",
+         "Number of pregnancies resulting in maternity": "42688"
+      },
+      {
+         "Year": "2011",
+         "Number of pregnancies resulting in maternity": "48331"
+      },
+      {
+         "Year": "2010",
+         "Number of pregnancies resulting in maternity": "52470"
+      },
+      {
+         "Year": "2009",
+         "Number of pregnancies resulting in maternity": "56901"
+      },
+      {
+         "Year": "2008",
+         "Number of pregnancies resulting in maternity": "59488"
+      },
+      {
+         "Year": "2007",
+         "Number of pregnancies resulting in maternity": "61075"
+      },
+      {
+         "Year": "2006",
+         "Number of pregnancies resulting in maternity": "59951"
+      },
+      {
+         "Year": "2005",
+         "Number of pregnancies resulting in maternity": "61111"
+      },
+      {
+         "Year": "2004",
+         "Number of pregnancies resulting in maternity": "60682"
+      }
+   ],
+   "gold": "This statistic shows teenage conceptions in England and Wales leading to maternities from 2004 to 2017 . The figures show a general decrease in the number of teenage maternities , amounting to under 28.1 thousand in 2017 .\n"
+}

@@ -1,0 +1,135 @@
+{
+   "title": "Apple App Store : global category revenue share per business model 2014",
+   "labels": [
+      "Category",
+      "Free apps with in-app purchases",
+      "Paid apps without in-app purchases",
+      "Paid apps with in-app purchases"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the share of the various Category in the online computer game Category of as 2019 . ",
+      "Approximately 52.7 % of all global in Free apps were Finance . ",
+      "In terms of class Apple , in the same time period the majority of WoW players have chosen hunter as their character ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": [
+            "3",
+            "1"
+         ],
+         "10": [
+            "3",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category": "Catalogs",
+         "Free apps with in-app purchases": "35.4",
+         "Paid apps without in-app purchases": "63.7",
+         "Paid apps with in-app purchases": "0.9"
+      },
+      {
+         "Category": "Education",
+         "Free apps with in-app purchases": "47.6",
+         "Paid apps without in-app purchases": "50.6",
+         "Paid apps with in-app purchases": "1.9"
+      },
+      {
+         "Category": "Entertainment",
+         "Free apps with in-app purchases": "70.4",
+         "Paid apps without in-app purchases": "27.8",
+         "Paid apps with in-app purchases": "1.8"
+      },
+      {
+         "Category": "Finance",
+         "Free apps with in-app purchases": "52.7",
+         "Paid apps without in-app purchases": "43.1",
+         "Paid apps with in-app purchases": "4.2"
+      },
+      {
+         "Category": "Food & Drink",
+         "Free apps with in-app purchases": "41.3",
+         "Paid apps without in-app purchases": "55",
+         "Paid apps with in-app purchases": "3.7"
+      },
+      {
+         "Category": "Games",
+         "Free apps with in-app purchases": "92",
+         "Paid apps without in-app purchases": "6.1",
+         "Paid apps with in-app purchases": "2"
+      },
+      {
+         "Category": "Health & Fitness",
+         "Free apps with in-app purchases": "29.7",
+         "Paid apps without in-app purchases": "66.6",
+         "Paid apps with in-app purchases": "3.8"
+      },
+      {
+         "Category": "Kids",
+         "Free apps with in-app purchases": "39.2",
+         "Paid apps without in-app purchases": "59",
+         "Paid apps with in-app purchases": "1.8"
+      },
+      {
+         "Category": "Medical",
+         "Free apps with in-app purchases": "29.4",
+         "Paid apps without in-app purchases": "68.1",
+         "Paid apps with in-app purchases": "2.6"
+      },
+      {
+         "Category": "Music",
+         "Free apps with in-app purchases": "73.8",
+         "Paid apps without in-app purchases": "23.3",
+         "Paid apps with in-app purchases": "2.8"
+      },
+      {
+         "Category": "Navigation",
+         "Free apps with in-app purchases": "21",
+         "Paid apps without in-app purchases": "51",
+         "Paid apps with in-app purchases": "28"
+      },
+      {
+         "Category": "Newsstand",
+         "Free apps with in-app purchases": "99.6",
+         "Paid apps without in-app purchases": "0.2",
+         "Paid apps with in-app purchases": "0.2"
+      },
+      {
+         "Category": "Photo & Video",
+         "Free apps with in-app purchases": "37.6",
+         "Paid apps without in-app purchases": "57.4",
+         "Paid apps with in-app purchases": "5"
+      },
+      {
+         "Category": "Productivity",
+         "Free apps with in-app purchases": "41.6",
+         "Paid apps without in-app purchases": "56.5",
+         "Paid apps with in-app purchases": "2"
+      },
+      {
+         "Category": "Social Networking",
+         "Free apps with in-app purchases": "90.6",
+         "Paid apps without in-app purchases": "4.4",
+         "Paid apps with in-app purchases": "5"
+      },
+      {
+         "Category": "Sports",
+         "Free apps with in-app purchases": "68.9",
+         "Paid apps without in-app purchases": "27.9",
+         "Paid apps with in-app purchases": "3.1"
+      },
+      {
+         "Category": "Weather",
+         "Free apps with in-app purchases": "31.4",
+         "Paid apps without in-app purchases": "59.9",
+         "Paid apps with in-app purchases": "8.7"
+      }
+   ],
+   "gold": "This statistic presents the global revenue distribution of the ten most-grossing app categories in the Apple App Store , sorted by business model . In February 2014 , 92 percent of gaming app revenue was generated through freemium apps - free apps with in-app purchases . Only 6.1 percent of revenue came from paid-for gaming apps without in-app purchases .\n"
+}

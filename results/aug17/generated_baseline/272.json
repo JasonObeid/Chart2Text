@@ -1,0 +1,103 @@
+{
+   "title": "Per capita consumption of high fructose corn syrup in the U.S. 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Per capita consumption in pounds, with a total of 19 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly negative which exists from 2018 to 2002.",
+      " But, the next significant trend is extremely positive which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "16"
+      },
+      {
+         "3": "16",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": 37.6
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": 40.5
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": 41.4
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": 42.5
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": 43.4
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": 43.7
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": 45.8
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": 46.7
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": 48.4
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": 49.7
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": 52.7
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": 55.9
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": 57.8
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": 58.9
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": 59.6
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": 60.6
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": 62.5
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": 62.2
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": 62.5
+      }
+   ],
+   "gold": "The timeline shows the per capita consumption of high fructose corn syrup ( HFCS ) in the United States from 2000 to 2018 . The U.S. per capita consumption of high fructose corn syrup amounted to 37.6 pounds in 2018 .\n"
+}

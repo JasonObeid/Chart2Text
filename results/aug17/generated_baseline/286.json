@@ -1,0 +1,201 @@
+{
+   "title": "Gross domestic product ( GDP ) in the Philippines 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Gross domestic product in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2024 to 2009.",
+      " Additionally, the next significant trend is moderately positive which exists from 1996 to 1986.",
+      " Correspondingly, the next significant trend is moderately positive which exists from 2009 to 2001.",
+      " Additionally, the next significant trend is slightly negative which exists from 2001 to 1996."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "15"
+      },
+      {
+         "3": "28",
+         "14": "38"
+      },
+      {
+         "3": "15",
+         "14": "23"
+      },
+      {
+         "3": "23",
+         "14": "28"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Gross domestic product in billion U.S. dollars": 548.05
+      },
+      {
+         "Year": "2023",
+         "Gross domestic product in billion U.S. dollars": 499.61
+      },
+      {
+         "Year": "2022",
+         "Gross domestic product in billion U.S. dollars": 455.37
+      },
+      {
+         "Year": "2021",
+         "Gross domestic product in billion U.S. dollars": 415.24
+      },
+      {
+         "Year": "2020",
+         "Gross domestic product in billion U.S. dollars": 383.48
+      },
+      {
+         "Year": "2019",
+         "Gross domestic product in billion U.S. dollars": 356.81
+      },
+      {
+         "Year": "2018",
+         "Gross domestic product in billion U.S. dollars": 330.91
+      },
+      {
+         "Year": "2017",
+         "Gross domestic product in billion U.S. dollars": 313.62
+      },
+      {
+         "Year": "2016",
+         "Gross domestic product in billion U.S. dollars": 304.9
+      },
+      {
+         "Year": "2015",
+         "Gross domestic product in billion U.S. dollars": 292.77
+      },
+      {
+         "Year": "2014",
+         "Gross domestic product in billion U.S. dollars": 284.59
+      },
+      {
+         "Year": "2013",
+         "Gross domestic product in billion U.S. dollars": 271.84
+      },
+      {
+         "Year": "2012",
+         "Gross domestic product in billion U.S. dollars": 250.09
+      },
+      {
+         "Year": "2011",
+         "Gross domestic product in billion U.S. dollars": 224.14
+      },
+      {
+         "Year": "2010",
+         "Gross domestic product in billion U.S. dollars": 199.59
+      },
+      {
+         "Year": "2009",
+         "Gross domestic product in billion U.S. dollars": 168.49
+      },
+      {
+         "Year": "2008",
+         "Gross domestic product in billion U.S. dollars": 173.6
+      },
+      {
+         "Year": "2007",
+         "Gross domestic product in billion U.S. dollars": 149.36
+      },
+      {
+         "Year": "2006",
+         "Gross domestic product in billion U.S. dollars": 122.21
+      },
+      {
+         "Year": "2005",
+         "Gross domestic product in billion U.S. dollars": 103.07
+      },
+      {
+         "Year": "2004",
+         "Gross domestic product in billion U.S. dollars": 91.37
+      },
+      {
+         "Year": "2003",
+         "Gross domestic product in billion U.S. dollars": 83.91
+      },
+      {
+         "Year": "2002",
+         "Gross domestic product in billion U.S. dollars": 81.36
+      },
+      {
+         "Year": "2001",
+         "Gross domestic product in billion U.S. dollars": 76.26
+      },
+      {
+         "Year": "2000",
+         "Gross domestic product in billion U.S. dollars": 81.02
+      },
+      {
+         "Year": "1999",
+         "Gross domestic product in billion U.S. dollars": 83.0
+      },
+      {
+         "Year": "1998",
+         "Gross domestic product in billion U.S. dollars": 72.21
+      },
+      {
+         "Year": "1997",
+         "Gross domestic product in billion U.S. dollars": 91.23
+      },
+      {
+         "Year": "1996",
+         "Gross domestic product in billion U.S. dollars": 91.79
+      },
+      {
+         "Year": "1995",
+         "Gross domestic product in billion U.S. dollars": 82.12
+      },
+      {
+         "Year": "1994",
+         "Gross domestic product in billion U.S. dollars": 71.0
+      },
+      {
+         "Year": "1993",
+         "Gross domestic product in billion U.S. dollars": 60.24
+      },
+      {
+         "Year": "1992",
+         "Gross domestic product in billion U.S. dollars": 58.7
+      },
+      {
+         "Year": "1991",
+         "Gross domestic product in billion U.S. dollars": 50.32
+      },
+      {
+         "Year": "1990",
+         "Gross domestic product in billion U.S. dollars": 49.1
+      },
+      {
+         "Year": "1989",
+         "Gross domestic product in billion U.S. dollars": 47.29
+      },
+      {
+         "Year": "1988",
+         "Gross domestic product in billion U.S. dollars": 42.08
+      },
+      {
+         "Year": "1987",
+         "Gross domestic product in billion U.S. dollars": 36.87
+      },
+      {
+         "Year": "1986",
+         "Gross domestic product in billion U.S. dollars": 33.17
+      },
+      {
+         "Year": "1985",
+         "Gross domestic product in billion U.S. dollars": 34.0
+      },
+      {
+         "Year": "1984",
+         "Gross domestic product in billion U.S. dollars": 34.86
+      }
+   ],
+   "gold": "The Philippines has a steadily growing economy , with a gross domestic product ( GDP ) that reached over 330 billion U.S. dollars in 2018 . Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given year . GDP is an important indicator of a country 's economic power .\n"
+}

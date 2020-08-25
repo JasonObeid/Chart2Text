@@ -1,0 +1,35 @@
+{
+   "title": "U.S. Christmas lights energy costs",
+   "xAxis": "Lighting Type",
+   "yAxis": "Energy cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the number of Energy lights costs in the U.S. in , costs Lighting Type . ",
+      "In , 27.21 % Christmas Energy owned a Standard_incandescent_lights_(125_lights_4_watts_each) energy dryer . ",
+      "As of , almost 80 % of Christmas Energy had a energy dryer ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Lighting Type": "Standard incandescent lights (125 lights 4 watts each)",
+         "Energy cost in U.S. dollars": "27.21"
+      },
+      {
+         "Lighting Type": "Mini-incandescent lights (300 lights 0.4 watts each)",
+         "Energy cost in U.S. dollars": "6.53"
+      },
+      {
+         "Lighting Type": "LED lights (280 lights 0.04 watts each)",
+         "Energy cost in U.S. dollars": "0.06"
+      }
+   ],
+   "gold": "This statistic represents the energy costs of lighting a six-foot Christmas tree , lit 12 hours a day for 40 days , decorated with various light types . Americans choosing not to burn down their house during Christmas season should stay away from real candles anyway , and if they also prefer spending their money on Christmas presents instead of the Christmas tree decoration , LED lights are the best choice - decorating the tree with 280 LED lights for 40 days costs only 0.61 U.S. dollars .\n"
+}

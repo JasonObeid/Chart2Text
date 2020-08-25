@@ -1,0 +1,101 @@
+{
+   "title": "Number of U.S. households with broadband internet access 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of U.S. households with broadband internet access (in millions)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the total Number of the households broadband internet in the access from 2000 to 2018 . ",
+      "In 2018 , the households broadband internet of U.S. stood at 110.57 million households broadband ."
+   ],
+   "trends": [
+      {
+         "15": "18",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of U.S. households with broadband internet access (in millions)": "110.57"
+      },
+      {
+         "Year": "2017",
+         "Number of U.S. households with broadband internet access (in millions)": "108.19"
+      },
+      {
+         "Year": "2016",
+         "Number of U.S. households with broadband internet access (in millions)": "105.71"
+      },
+      {
+         "Year": "2015",
+         "Number of U.S. households with broadband internet access (in millions)": "102.21"
+      },
+      {
+         "Year": "2014",
+         "Number of U.S. households with broadband internet access (in millions)": "97.81"
+      },
+      {
+         "Year": "2013",
+         "Number of U.S. households with broadband internet access (in millions)": "96.03"
+      },
+      {
+         "Year": "2012",
+         "Number of U.S. households with broadband internet access (in millions)": "92.51"
+      },
+      {
+         "Year": "2011",
+         "Number of U.S. households with broadband internet access (in millions)": "88.32"
+      },
+      {
+         "Year": "2010",
+         "Number of U.S. households with broadband internet access (in millions)": "84.52"
+      },
+      {
+         "Year": "2009",
+         "Number of U.S. households with broadband internet access (in millions)": "79.99"
+      },
+      {
+         "Year": "2008",
+         "Number of U.S. households with broadband internet access (in millions)": "77.13"
+      },
+      {
+         "Year": "2007",
+         "Number of U.S. households with broadband internet access (in millions)": "71.7"
+      },
+      {
+         "Year": "2006",
+         "Number of U.S. households with broadband internet access (in millions)": "60.24"
+      },
+      {
+         "Year": "2005",
+         "Number of U.S. households with broadband internet access (in millions)": "51.16"
+      },
+      {
+         "Year": "2004",
+         "Number of U.S. households with broadband internet access (in millions)": "37.35"
+      },
+      {
+         "Year": "2003",
+         "Number of U.S. households with broadband internet access (in millions)": "27.74"
+      },
+      {
+         "Year": "2002",
+         "Number of U.S. households with broadband internet access (in millions)": "19.88"
+      },
+      {
+         "Year": "2001",
+         "Number of U.S. households with broadband internet access (in millions)": "12.79"
+      },
+      {
+         "Year": "2000",
+         "Number of U.S. households with broadband internet access (in millions)": "7.07"
+      }
+   ],
+   "gold": "This timeline shows the number of households in the United States with permanent internet access via broadband from 2000 to 2018 . In the most recently reported period , close to 110.57 million U.S. households had fixed broadband internet access , up from close to 80 million in 2009 . The United States are one of the biggest online markets worldwide .\n"
+}

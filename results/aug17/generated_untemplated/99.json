@@ -1,0 +1,85 @@
+{
+   "title": "Dentists : number practicing in Europe in 2017 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "As of 2019 , brazil had over 150 thousand employees . That is more than mexico and mexico combined combined , and the two ranking second and third respectively . Meanwhile , in the Caribbean , the Dominican Republic featured its second largest number in the country .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of employees": 70445.0
+      },
+      {
+         "Country": "Italy",
+         "Number of employees": 49552.0
+      },
+      {
+         "Country": "France",
+         "Number of employees": 43167.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of employees": 34760.0
+      },
+      {
+         "Country": "Poland",
+         "Number of employees": 13331.0
+      },
+      {
+         "Country": "Belgium",
+         "Number of employees": 8516.0
+      },
+      {
+         "Country": "Sweden",
+         "Number of employees": 8077.0
+      },
+      {
+         "Country": "Czechia",
+         "Number of employees": 7921.0
+      },
+      {
+         "Country": "Hungary",
+         "Number of employees": 6589.0
+      },
+      {
+         "Country": "Austria",
+         "Number of employees": 5009.0
+      },
+      {
+         "Country": "Norway",
+         "Number of employees": 4590.0
+      },
+      {
+         "Country": "Denmark",
+         "Number of employees": 4247.0
+      },
+      {
+         "Country": "Switzerland",
+         "Number of employees": 4217.0
+      },
+      {
+         "Country": "Lithuania",
+         "Number of employees": 2839.0
+      },
+      {
+         "Country": "Slovenia",
+         "Number of employees": 1455.0
+      },
+      {
+         "Country": "Latvia",
+         "Number of employees": 1380.0
+      },
+      {
+         "Country": "Estonia",
+         "Number of employees": 1265.0
+      },
+      {
+         "Country": "Luxembourg",
+         "Number of employees": 581.0
+      }
+   ],
+   "gold": "In 2017 , there were over 70 thousand practicing dentists in Germany , the highest number recorded in Europe . Followed by Italy with almost 50 thousand dentists and then France with around 43.1 thousand . As these countries have some of the highest populations in the European Union , it is follows that they have the highest number of practicing dentists .\n"
+}

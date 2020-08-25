@@ -1,0 +1,29 @@
+{
+   "title": "Consumer preference : fiction versus non-fiction books in England 2013\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the share of internet users in the united who have ever had any of their online accounts hacked . During the October 2018 survey , 14 percent of respondents stated that their online accounts had been hacked more than once .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Mixture of both",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Fiction",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Non-fiction",
+         "Share of respondents": 22.0
+      },
+      {
+         "Response": "Neither",
+         "Share of respondents": 8.0
+      }
+   ],
+   "gold": "This statistic displays the preferred book types ( fiction versus non-fiction ) among respondents in England in 2013 . Of respondents , 26 percent said they preferred fiction , while 44 percent reported liking a mixture of fiction and non-fiction .\n"
+}

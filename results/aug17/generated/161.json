@@ -1,0 +1,103 @@
+{
+   "title": "Old-age dependency ratio by state and union territory in India 2011",
+   "xAxis": "State And Union Territory",
+   "yAxis": "Old-age dependency ratio",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the India dependency ratio by according to the Old-age of dependency ratio in 2011 . ",
+      "In that year , Kerala was the Old-age dependency ratio Odisha brand in the world with an Old-age of 19.6 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "10": "5",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "State And Union Territory": "Kerala",
+         "Old-age dependency ratio": "19.6"
+      },
+      {
+         "State And Union Territory": "Punjab",
+         "Old-age dependency ratio": "16.1"
+      },
+      {
+         "State And Union Territory": "Tamil Nadu",
+         "Old-age dependency ratio": "15.8"
+      },
+      {
+         "State And Union Territory": "Maharashtra",
+         "Old-age dependency ratio": "15.7"
+      },
+      {
+         "State And Union Territory": "Andaman & Nicobar Islands",
+         "Old-age dependency ratio": "15.4"
+      },
+      {
+         "State And Union Territory": "Odisha",
+         "Old-age dependency ratio": "15.4"
+      },
+      {
+         "State And Union Territory": "Uttarakhand",
+         "Old-age dependency ratio": "14.9"
+      },
+      {
+         "State And Union Territory": "Karnataka",
+         "Old-age dependency ratio": "14.8"
+      },
+      {
+         "State And Union Territory": "Bihar",
+         "Old-age dependency ratio": "14.2"
+      },
+      {
+         "State And Union Territory": "Haryana",
+         "Old-age dependency ratio": "14.1"
+      },
+      {
+         "State And Union Territory": "Uttar Pradesh",
+         "Old-age dependency ratio": "13.9"
+      },
+      {
+         "State And Union Territory": "Madhya Pradesh",
+         "Old-age dependency ratio": "13.4"
+      },
+      {
+         "State And Union Territory": "West Bengal",
+         "Old-age dependency ratio": "13.2"
+      },
+      {
+         "State And Union Territory": "Chattisgarh",
+         "Old-age dependency ratio": "13.1"
+      },
+      {
+         "State And Union Territory": "Rajasthan",
+         "Old-age dependency ratio": "13"
+      },
+      {
+         "State And Union Territory": "Jharkhand",
+         "Old-age dependency ratio": "12.7"
+      },
+      {
+         "State And Union Territory": "Gujarat",
+         "Old-age dependency ratio": "12.6"
+      },
+      {
+         "State And Union Territory": "Jammu and Kashmir",
+         "Old-age dependency ratio": "12.5"
+      },
+      {
+         "State And Union Territory": "Assam",
+         "Old-age dependency ratio": "11"
+      },
+      {
+         "State And Union Territory": "Delhi",
+         "Old-age dependency ratio": "10.4"
+      }
+   ],
+   "gold": "The statistic illustrates the leading states and union territories in India with the highest old-age dependency ratio in 2011 . In that year , the state of Punjab had an old-age dependency ratio of just over 16 percent .\n"
+}

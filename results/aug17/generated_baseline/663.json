@@ -1,0 +1,84 @@
+{
+   "title": "Real GDP of New York , by industry 2018\n",
+   "xAxis": "Industry",
+   "yAxis": "Real value added in billion chained (2012) U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 14 categories for the x axis representing Industry, and a y axis representing Real value added in billion chained (2012) U.S. dollars.",
+      " The highest category is found at Finance_insurance_real_estate_rental_and_leasing where Real value added in billion chained (2012) U.S. dollars is 418.87.",
+      " The lowest category is found at Mining_quarrying_and_oil_and_gas_extraction where Real value added in billion chained (2012) U.S. dollars is 1.2."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Finance insurance real estate rental and leasing",
+         "Real value added in billion chained (2012) U.S. dollars": 418.87
+      },
+      {
+         "Industry": "Professional and business services",
+         "Real value added in billion chained (2012) U.S. dollars": 200.09
+      },
+      {
+         "Industry": "Government and government enterprises",
+         "Real value added in billion chained (2012) U.S. dollars": 151.94
+      },
+      {
+         "Industry": "Information",
+         "Real value added in billion chained (2012) U.S. dollars": 143.64
+      },
+      {
+         "Industry": "Educational services health care and social assistance",
+         "Real value added in billion chained (2012) U.S. dollars": 141.49
+      },
+      {
+         "Industry": "Wholesale trade",
+         "Real value added in billion chained (2012) U.S. dollars": 70.45
+      },
+      {
+         "Industry": "Retail trade",
+         "Real value added in billion chained (2012) U.S. dollars": 69.22
+      },
+      {
+         "Industry": "Manufacturing",
+         "Real value added in billion chained (2012) U.S. dollars": 65.79
+      },
+      {
+         "Industry": "Arts entertainment recreation accommodation and food services",
+         "Real value added in billion chained (2012) U.S. dollars": 61.7
+      },
+      {
+         "Industry": "Construction",
+         "Real value added in billion chained (2012) U.S. dollars": 39.87
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Real value added in billion chained (2012) U.S. dollars": 28.29
+      },
+      {
+         "Industry": "Utilities",
+         "Real value added in billion chained (2012) U.S. dollars": 20.17
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "Real value added in billion chained (2012) U.S. dollars": 3.3
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "Real value added in billion chained (2012) U.S. dollars": 1.2
+      }
+   ],
+   "gold": "This graph shows the real value added to the Gross Domestic Product ( GDP ) of New York in 2018 , by industry . In 2018 , the mining industry added 1.2 billion chained 2012 U.S. dollars of value to the state GDP . Total real GDP amounted to about 1.44 trillion chained 2012 U.S. dollars .\n"
+}

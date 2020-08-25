@@ -1,0 +1,76 @@
+{
+   "title": "Number of pet stores in Canada by region 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 categories for the x axis representing Month, and a y axis representing Number of stores.",
+      " The highest category is found at Ontario where Number of stores is 762.0.",
+      " The lowest category is found at Yukon where Number of stores is 3.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of stores": 762.0
+      },
+      {
+         "Month": "Quebec",
+         "Number of stores": 469.0
+      },
+      {
+         "Month": "British Columbia",
+         "Number of stores": 348.0
+      },
+      {
+         "Month": "Alberta",
+         "Number of stores": 278.0
+      },
+      {
+         "Month": "Manitoba",
+         "Number of stores": 63.0
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of stores": 55.0
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of stores": 49.0
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of stores": 39.0
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of stores": 22.0
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of stores": 7.0
+      },
+      {
+         "Month": "Yukon",
+         "Number of stores": 3.0
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of stores": 3.0
+      }
+   ],
+   "gold": "As of December 2019 , Ontario , Canada 's most populous province , was home to the most pet and pet supplies stores across the country . At that time , there were 762 such stores in Ontario . Quebec and British Columbia , the second and third most populous provinces , came next in the ranking with 469 and 348 stores respectively .\n"
+}

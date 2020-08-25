@@ -1,0 +1,64 @@
+{
+   "title": "U.S. consumer usage of mobile payments 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows , according to survey respondents , the U.S. consumer usage payments that should be addressed in the run up to the 2017 United Kingdom ( U.S. ) General usage ( as of 2014 ) . ",
+      "With 64 % of respondents , Made_a_mobile_payment was considered to be the U.S. consumer topic , followed by the National Health Service ( Paid_a_bill ) and the Purchase_in-app_or_online ( EU ) ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "6": "0",
+         "23": "1",
+         "27": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Made a mobile payment",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "Paid a bill",
+         "Share of respondents": "49"
+      },
+      {
+         "Response": "Purchase in-app or online",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Received loyalty points",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Sent/received money (P2P)",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "Paid in-store",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Paid for parking/taxi/transit",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Withdrew money from ATM",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Paid by text message",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Sent money internationally",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "This statistic gives information on the U.S. consumer usage of mobile payment offerings as of January 2017 . During a survey of smartphone owners , 49 percent of respondents stated they had paid a bill via mobile .\n"
+}

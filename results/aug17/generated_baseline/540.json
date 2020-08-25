@@ -1,0 +1,148 @@
+{
+   "title": "National Basketball Association all-time minutes leaders 1946 to 2020\n",
+   "xAxis": "NBA player",
+   "yAxis": "Number of minutes played",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 30 categories for the x axis representing NBA player, and a y axis representing Number of minutes played.",
+      " The highest category is found at Kareem_Abdul-Jabbar where Number of minutes played is 57446.0.",
+      " The lowest category is found at Bill_Russell where Number of minutes played is 40726.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 29,
+         "12": 29
+      },
+      {}
+   ],
+   "data": [
+      {
+         "NBA player": "Kareem Abdul-Jabbar",
+         "Number of minutes played": 57446.0
+      },
+      {
+         "NBA player": "Karl Malone",
+         "Number of minutes played": 54852.0
+      },
+      {
+         "NBA player": "Dirk Nowitzki",
+         "Number of minutes played": 51367.0
+      },
+      {
+         "NBA player": "Kevin Garnett",
+         "Number of minutes played": 50412.0
+      },
+      {
+         "NBA player": "Jason Kidd",
+         "Number of minutes played": 50116.0
+      },
+      {
+         "NBA player": "Elvin Hayes",
+         "Number of minutes played": 50000.0
+      },
+      {
+         "NBA player": "Kobe Bryant",
+         "Number of minutes played": 48643.0
+      },
+      {
+         "NBA player": "Wilt Chamberlain",
+         "Number of minutes played": 47859.0
+      },
+      {
+         "NBA player": "John Stockton",
+         "Number of minutes played": 47766.0
+      },
+      {
+         "NBA player": "Reggie Miller",
+         "Number of minutes played": 47620.0
+      },
+      {
+         "NBA player": "LeBron James",
+         "Number of minutes played": 47971.0
+      },
+      {
+         "NBA player": "Tim Duncan",
+         "Number of minutes played": 47367.0
+      },
+      {
+         "NBA player": "Gary Payton",
+         "Number of minutes played": 47117.0
+      },
+      {
+         "NBA player": "John Havlicek",
+         "Number of minutes played": 46471.0
+      },
+      {
+         "NBA player": "Ray Allen",
+         "Number of minutes played": 46350.0
+      },
+      {
+         "NBA player": "Vince Carter",
+         "Number of minutes played": 46234.0
+      },
+      {
+         "NBA player": "Paul Pierce",
+         "Number of minutes played": 45879.0
+      },
+      {
+         "NBA player": "Robert Parish",
+         "Number of minutes played": 45704.0
+      },
+      {
+         "NBA player": "Moses Malone",
+         "Number of minutes played": 45071.0
+      },
+      {
+         "NBA player": "Joe Johnson",
+         "Number of minutes played": 44233.0
+      },
+      {
+         "NBA player": "Hakeem Olajuwon",
+         "Number of minutes played": 44218.0
+      },
+      {
+         "NBA player": "Oscar Robertson",
+         "Number of minutes played": 43886.0
+      },
+      {
+         "NBA player": "Clifford Robinson",
+         "Number of minutes played": 42560.0
+      },
+      {
+         "NBA player": "Buck Williams",
+         "Number of minutes played": 42470.0
+      },
+      {
+         "NBA player": "Jason Terry",
+         "Number of minutes played": 42034.0
+      },
+      {
+         "NBA player": "Shaquille O'Neal",
+         "Number of minutes played": 41917.0
+      },
+      {
+         "NBA player": "Scottie Pippen",
+         "Number of minutes played": 41068.0
+      },
+      {
+         "NBA player": "Michael Jordan",
+         "Number of minutes played": 41010.0
+      },
+      {
+         "NBA player": "Pau Gasol",
+         "Number of minutes played": 41001.0
+      },
+      {
+         "NBA player": "Bill Russell",
+         "Number of minutes played": 40726.0
+      }
+   ],
+   "gold": "This statistic shows the NBA all-time minutes played leaders from 1946 to 2020 . As of February 2020 , Dirk Nowitzki was third on the list with a total of 51,367 minutes played in regular season NBA games . He became only the sixth player in NBA history to play more than 50,000 NBA regular season minutes in a game against the Los Angeles Clippers in February 2018 .\n"
+}

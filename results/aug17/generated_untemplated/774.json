@@ -1,0 +1,41 @@
+{
+   "title": "Percentage of U.S. population who are veterans in 2018 , by age and gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "In 2018 , there were about 5.16 million males and 5.07 million females between the ages of 25 and 44 living in canada , which was the most out of any age group . The next largest age group was between the ages of 45 and 64 , with 5.04 million males and 5.12 million females . Canadian demographics The average age of the Canadian resident population was about 40.8 years in 2019 , with Newfoundland and Labrador having the oldest average population , and Nunavut having the youngest average population .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "18 to 34 years",
+         "Male": "3.53",
+         "Female": "0.77"
+      },
+      {
+         "Year": "35 to 54 years",
+         "Male": "8.57",
+         "Female": "1.54"
+      },
+      {
+         "Year": "55 to 64 years",
+         "Male": "13.73",
+         "Female": "1.75"
+      },
+      {
+         "Year": "65 to 74 years",
+         "Male": "31.89",
+         "Female": "1.22"
+      },
+      {
+         "Year": "75 years and over",
+         "Male": "45.51",
+         "Female": "1.06"
+      }
+   ],
+   "gold": "This graph displays the percentage of Americans who were veterans in 2018 , distinguished by age and gender . In 2018 , 47.51 percent of the male Americans , aged 75 years and over , were veterans .\n"
+}

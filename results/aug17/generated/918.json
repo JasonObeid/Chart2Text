@@ -1,0 +1,70 @@
+{
+   "title": "Number of active physicians in Alabama 2019 , by specialty area",
+   "xAxis": "Specialty area",
+   "yAxis": "Number of physicians",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic depicts the Number of active physicians in Alabama as of 2019 , ordered by Total_specialty area . ",
+      "At that time , there were 602 Anesthesiologists active in Alabama . ",
+      "In Total_specialty , there were 6342 practicing Total_specialty physicians in Alabama at that time ."
+   ],
+   "trends": [
+      {
+         "16": "9"
+      },
+      {
+         "6": "2",
+         "7": "2"
+      },
+      {
+         "1": "9",
+         "5": "9",
+         "7": "9"
+      }
+   ],
+   "data": [
+      {
+         "Specialty area": "Psychiatry",
+         "Number of physicians": "506"
+      },
+      {
+         "Specialty area": "Surgery",
+         "Number of physicians": "754"
+      },
+      {
+         "Specialty area": "Anesthesiologists",
+         "Number of physicians": "602"
+      },
+      {
+         "Specialty area": "Emergency medicine",
+         "Number of physicians": "465"
+      },
+      {
+         "Specialty area": "Radiology",
+         "Number of physicians": "674"
+      },
+      {
+         "Specialty area": "Cardiology",
+         "Number of physicians": "410"
+      },
+      {
+         "Specialty area": "Oncology (cancer)",
+         "Number of physicians": "241"
+      },
+      {
+         "Specialty area": "Endocrinology diabetes & metabolism",
+         "Number of physicians": "71"
+      },
+      {
+         "Specialty area": "All other specialities",
+         "Number of physicians": "2619"
+      },
+      {
+         "Specialty area": "Total specialty",
+         "Number of physicians": "6342"
+      }
+   ],
+   "gold": "This statistic depicts the number of active physicians in Alabama as of March 2019 , sorted by specialty area . In that year , there were 602 anesthesiologists active in Alabama . Thus , this was one of the three largest specialty groups in Alabama .\n"
+}

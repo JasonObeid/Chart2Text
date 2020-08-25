@@ -1,0 +1,61 @@
+{
+   "title": "Average price for properties for sale in Rome , Italy 2019 , by area\n",
+   "xAxis": "Area",
+   "yAxis": "Price in euros per square meter",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "In 2011 , milan boasted some of the most expensive residential real estate properties in the country . A ranking of the priciest districts of the city for residential properties showed that home buyers could expect to pay on average almost 9 thousand euros per square meter in the district centro ( historical city center ) . In milan , renting a dwelling also comes at a cost .\n",
+   "trends": {},
+   "data": [
+      {
+         "Area": "Centro Storico",
+         "Price in euros per square meter": 7817.0
+      },
+      {
+         "Area": "Aventino San Saba Caracalla",
+         "Price in euros per square meter": 6910.0
+      },
+      {
+         "Area": "Parioli Flaminio",
+         "Price in euros per square meter": 5622.0
+      },
+      {
+         "Area": "Testaccio Trastevere",
+         "Price in euros per square meter": 5435.0
+      },
+      {
+         "Area": "Prati Borgo Mazzini Delle Vittorie",
+         "Price in euros per square meter": 5137.0
+      },
+      {
+         "Area": "Salario Trieste",
+         "Price in euros per square meter": 4884.0
+      },
+      {
+         "Area": "Bologna Policlinico",
+         "Price in euros per square meter": 4531.0
+      },
+      {
+         "Area": "Corso Francia Vigna Clara Fleming Ponte Milvio",
+         "Price in euros per square meter": 4289.0
+      },
+      {
+         "Area": "Termini Repubblica",
+         "Price in euros per square meter": 4107.0
+      },
+      {
+         "Area": "Camilluccia Cortina d'Ampezzo",
+         "Price in euros per square meter": 4099.0
+      },
+      {
+         "Area": "Balduina Medaglie d'Oro Degli Eroi",
+         "Price in euros per square meter": 4000.0
+      },
+      {
+         "Area": "Gregorio VII Baldo degli Ubaldi",
+         "Price in euros per square meter": 3972.0
+      }
+   ],
+   "gold": "The statistic shows the average price for houses , apartments and residential real estate for sale in selected areas of the Italian city of Rome as of December 2019 . According to the data , the sale price in the historic city center ( Centro Storico ) amounted to over 7.8 thousand euros per square meter .\n"
+}

@@ -1,0 +1,48 @@
+{
+   "title": "Daily added sugar intake in England in 2008 - 2012 , by age group\n",
+   "xAxis": "Age Group",
+   "yAxis": "Sugar intake in grams",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Age Group, and a y axis representing Sugar intake in grams.",
+      " The highest category is found at Teenagers_11-18_years where Sugar intake in grams is 74.2.",
+      " The lowest category is found at Children_1.5-3_years where Sugar intake in grams is 36.1."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age Group": "Children 1.5-3 years",
+         "Sugar intake in grams": 36.1
+      },
+      {
+         "Age Group": "Children 4-10 years",
+         "Sugar intake in grams": 60.8
+      },
+      {
+         "Age Group": "Teenagers 11-18 years",
+         "Sugar intake in grams": 74.2
+      },
+      {
+         "Age Group": "Adults 19-64 years",
+         "Sugar intake in grams": 58.8
+      },
+      {
+         "Age Group": "Adults 65 years and over",
+         "Sugar intake in grams": 51.6
+      }
+   ],
+   "gold": "This statistic displays the daily added sugar intake in England from 2008 to 2012 , by age group . In the four year period of investigation teenagers aged between 11 and 18 years old had the highest daily added intake of sugar with 74.2 grams of added sugar in their diet . The dietary intake of sugar for children in this age bracket was 15.4 percent of total energy intake .\n"
+}

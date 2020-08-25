@@ -1,0 +1,53 @@
+{
+   "title": "Ice cream : manufacturing sales volume in the United Kingdom ( UK ) 2009 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Sales volume in thousand liters",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The statistic presents the net sales of the bank of america from 2009 to 2018 . In 2018 , the net income of the bank of america amounted to approximately 28.15 billion u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Sales volume in thousand liters": 328055.0
+      },
+      {
+         "Year": "2017",
+         "Sales volume in thousand liters": 288292.0
+      },
+      {
+         "Year": "2016",
+         "Sales volume in thousand liters": 258484.0
+      },
+      {
+         "Year": "2015",
+         "Sales volume in thousand liters": 279630.0
+      },
+      {
+         "Year": "2014",
+         "Sales volume in thousand liters": 304972.0
+      },
+      {
+         "Year": "2013",
+         "Sales volume in thousand liters": 439485.0
+      },
+      {
+         "Year": "2012",
+         "Sales volume in thousand liters": 423158.0
+      },
+      {
+         "Year": "2011",
+         "Sales volume in thousand liters": 431035.0
+      },
+      {
+         "Year": "2010",
+         "Sales volume in thousand liters": 442961.0
+      },
+      {
+         "Year": "2009",
+         "Sales volume in thousand liters": 431696.0
+      }
+   ],
+   "gold": "During 2018 , the sales volume of ice cream manufactured in the UK amounted to approximately 328 million liters . From 2013 to 2014 , sales fell by over a hundred million liters and have not recovered since . Before this decline , sales were rather stable at over 420 million liters .\n"
+}

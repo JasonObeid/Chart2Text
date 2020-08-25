@@ -1,0 +1,125 @@
+{
+   "title": "Revenue of KPMG worldwide by region 2010 to 2019",
+   "labels": [
+      "Year",
+      "EMA",
+      "Americas",
+      "Asia Pacific"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing EMA had the highest values across Year with a mean value of 11.8.",
+      " This peaked at 2018 with a value of 12.9. ",
+      " The line with the second highest values was Americas with a mean value of 9.0.",
+      " This line peaked at 2019 with a value of 11.7"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "9",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "9": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "9",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "EMA": "12.89",
+         "Americas": "11.72",
+         "Asia Pacific": "5.14"
+      },
+      {
+         "Year": "2018",
+         "EMA": "12.98",
+         "Americas": "11.1",
+         "Asia Pacific": "4.88"
+      },
+      {
+         "Year": "2017",
+         "EMA": "11.5",
+         "Americas": "10.48",
+         "Asia Pacific": "4.42"
+      },
+      {
+         "Year": "2016",
+         "EMA": "11.34",
+         "Americas": "10.02",
+         "Asia Pacific": "4.06"
+      },
+      {
+         "Year": "2015",
+         "EMA": "11.31",
+         "Americas": "9.34",
+         "Asia Pacific": "3.79"
+      },
+      {
+         "Year": "2014",
+         "EMA": "12.45",
+         "Americas": "8.51",
+         "Asia Pacific": "3.86"
+      },
+      {
+         "Year": "2013",
+         "EMA": "11.64",
+         "Americas": "7.88",
+         "Asia Pacific": "3.9"
+      },
+      {
+         "Year": "2012",
+         "EMA": "11.51",
+         "Americas": "7.45",
+         "Asia Pacific": "4.07"
+      },
+      {
+         "Year": "2011",
+         "EMA": "11.66",
+         "Americas": "7.05",
+         "Asia Pacific": "4.0"
+      },
+      {
+         "Year": "2010",
+         "EMA": "10.83",
+         "Americas": "6.37",
+         "Asia Pacific": "3.43"
+      }
+   ],
+   "gold": "KPMG generated almost 12.9 billion U.S. dollars in revenue from Europe , the Middle East , Africa and India ( EMA ) in 2019 . The revenue from this region contributed to the accounting firm achieving a record annual revenue of 29.75 billion U.S. dollars worldwide in 2019 . Europe a key market for KPMG KPMG reported growth across all three geographic regions in 2019 , with income from the EMA and Americas accounting for more than 80 percent of the firm 's worldwide revenue .\n"
+}

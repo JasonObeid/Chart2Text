@@ -1,0 +1,70 @@
+{
+   "title": "Car rental in the U.S. - total cars in service 2002 to 2012",
+   "xAxis": "Year",
+   "yAxis": "Cars in service in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the total U.S. Cars in the global U.S. total from 2002 to 2006 and shows a forecast through to 2012 . ",
+      "In 2012 , global U.S. Cars amounted to 1857 thousands ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "15": "4",
+         "22": "10"
+      },
+      {
+         "1": "10",
+         "9": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2002",
+         "Cars in service in thousands": "1643"
+      },
+      {
+         "Year": "2003",
+         "Cars in service in thousands": "1617"
+      },
+      {
+         "Year": "2004",
+         "Cars in service in thousands": "1665"
+      },
+      {
+         "Year": "2005",
+         "Cars in service in thousands": "1714"
+      },
+      {
+         "Year": "2006",
+         "Cars in service in thousands": "1768"
+      },
+      {
+         "Year": "2007",
+         "Cars in service in thousands": "1861"
+      },
+      {
+         "Year": "2008",
+         "Cars in service in thousands": "1813"
+      },
+      {
+         "Year": "2009",
+         "Cars in service in thousands": "1637"
+      },
+      {
+         "Year": "2010",
+         "Cars in service in thousands": "1629"
+      },
+      {
+         "Year": "2011",
+         "Cars in service in thousands": "1761"
+      },
+      {
+         "Year": "2012",
+         "Cars in service in thousands": "1857"
+      }
+   ],
+   "gold": "This statistic represents the US rental car industry 's total number of cars in service between 2002 and 2012 . In 2012 , there were about 1.86 million rental cars in service , while the industry 's revenue grew to around 23.6 billion US dollars .\n"
+}

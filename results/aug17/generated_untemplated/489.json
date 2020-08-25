@@ -1,0 +1,57 @@
+{
+   "title": "Car rental in the U.S. - total cars in service 2002 to 2012\n",
+   "xAxis": "Year",
+   "yAxis": "Cars in service in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the growth of the labor force in the united kingdom from 2003 to 2016 . In the year 2016 , the largest amount of the board in the united kingdom was approximately 3 percent in 2006 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2002",
+         "Cars in service in thousands": 1643.0
+      },
+      {
+         "Year": "2003",
+         "Cars in service in thousands": 1617.0
+      },
+      {
+         "Year": "2004",
+         "Cars in service in thousands": 1665.0
+      },
+      {
+         "Year": "2005",
+         "Cars in service in thousands": 1714.0
+      },
+      {
+         "Year": "2006",
+         "Cars in service in thousands": 1768.0
+      },
+      {
+         "Year": "2007",
+         "Cars in service in thousands": 1861.0
+      },
+      {
+         "Year": "2008",
+         "Cars in service in thousands": 1813.0
+      },
+      {
+         "Year": "2009",
+         "Cars in service in thousands": 1637.0
+      },
+      {
+         "Year": "2010",
+         "Cars in service in thousands": 1629.0
+      },
+      {
+         "Year": "2011",
+         "Cars in service in thousands": 1761.0
+      },
+      {
+         "Year": "2012",
+         "Cars in service in thousands": 1857.0
+      }
+   ],
+   "gold": "This statistic represents the US rental car industry 's total number of cars in service between 2002 and 2012 . In 2012 , there were about 1.86 million rental cars in service , while the industry 's revenue grew to around 23.6 billion US dollars .\n"
+}

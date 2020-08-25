@@ -1,0 +1,49 @@
+{
+   "title": "Pork imports of selected countries worldwide 2020 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Import volume in thousand metric tones",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the per capita consumption volume of biscuits in selected countries in europe in 2015 . The united kingdom ( UK ) has the highest per capita consumption volume of biscuits at 13.6 kilograms per person per year , followed by italy at 10.5 kilograms . The united kingdom has an excessively high consumption level of biscuits with a value of almost double the amount of the country in third position , france , who consume a volume of approximately 7.6 kilograms .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "China",
+         "Import volume in thousand metric tones": 3700.0
+      },
+      {
+         "Country": "Japan",
+         "Import volume in thousand metric tones": 1490.0
+      },
+      {
+         "Country": "Mexico",
+         "Import volume in thousand metric tones": 1235.0
+      },
+      {
+         "Country": "Korea South",
+         "Import volume in thousand metric tones": 695.0
+      },
+      {
+         "Country": "United States",
+         "Import volume in thousand metric tones": 401.0
+      },
+      {
+         "Country": "Hong Kong",
+         "Import volume in thousand metric tones": 300.0
+      },
+      {
+         "Country": "Philippines",
+         "Import volume in thousand metric tones": 300.0
+      },
+      {
+         "Country": "Canada",
+         "Import volume in thousand metric tones": 260.0
+      },
+      {
+         "Country": "Others",
+         "Import volume in thousand metric tones": 1590.0
+      }
+   ],
+   "gold": "This statistic depicts import volume of pork worldwide in 2020 , by leading country . The pork imports of Japan are estimated to be about 1.49 million metric tons in 2020 .\n"
+}

@@ -1,0 +1,82 @@
+{
+   "title": "Cities with the most parkland per 1,000 residents in the U.S. 2018",
+   "xAxis": "City",
+   "yAxis": "Acres of parkland per 1,000 residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Cities most the largest number of per Acres parkland per 10,000 residents in the 2018 in . ",
+      "There were 3012.8 per Acres parkland per 100,000 1,000 in Scottsdale 2018 ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "0",
+         "10": "2"
+      }
+   ],
+   "data": [
+      {
+         "City": "Anchorage",
+         "Acres of parkland per 1,000 residents": "3012.8"
+      },
+      {
+         "City": "Chesapeake",
+         "Acres of parkland per 1,000 residents": "228.1"
+      },
+      {
+         "City": "Scottsdale",
+         "Acres of parkland per 1,000 residents": "126.4"
+      },
+      {
+         "City": "Fremont",
+         "Acres of parkland per 1,000 residents": "106.0"
+      },
+      {
+         "City": "Jacksonville",
+         "Acres of parkland per 1,000 residents": "74.9"
+      },
+      {
+         "City": "New Orleans",
+         "Acres of parkland per 1,000 residents": "70.8"
+      },
+      {
+         "City": "North Las Vegas",
+         "Acres of parkland per 1,000 residents": "68.7"
+      },
+      {
+         "City": "Honolulu",
+         "Acres of parkland per 1,000 residents": "65.8"
+      },
+      {
+         "City": "Virginia Beach",
+         "Acres of parkland per 1,000 residents": "54.0"
+      },
+      {
+         "City": "Nashville/Davidson",
+         "Acres of parkland per 1,000 residents": "49.6"
+      },
+      {
+         "City": "Albuquerque",
+         "Acres of parkland per 1,000 residents": "47.2"
+      },
+      {
+         "City": "El Paso",
+         "Acres of parkland per 1,000 residents": "44.0"
+      },
+      {
+         "City": "Irvine",
+         "Acres of parkland per 1,000 residents": "42.8"
+      },
+      {
+         "City": "Kansas City",
+         "Acres of parkland per 1,000 residents": "35.7"
+      },
+      {
+         "City": "Phoenix",
+         "Acres of parkland per 1,000 residents": "30.7"
+      }
+   ],
+   "gold": "This graph depicts the acres of parkland per 1,000 residents in the most populous cities in the United States in 2018 . In Scottsdale in 2018 , there were 126.4 acres of parkland per 1,000 residents .\n"
+}

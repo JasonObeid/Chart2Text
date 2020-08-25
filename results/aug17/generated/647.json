@@ -1,0 +1,49 @@
+{
+   "title": "Mexico : housing prices 2018 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Price in thousand Mexican pesos",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the housing prices Price in Mexico from Q1_2018 to Q2_2019 . ",
+      "In Q2_2019 , 800.98 thousand smartphones were shipped in Mexico ."
+   ],
+   "trends": [
+      {
+         "10": "5",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "3": "3"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q2 2019",
+         "Price in thousand Mexican pesos": "1070.65"
+      },
+      {
+         "Quarter": "Q1 2019",
+         "Price in thousand Mexican pesos": "1071.24"
+      },
+      {
+         "Quarter": "Q4 2018",
+         "Price in thousand Mexican pesos": "804.75"
+      },
+      {
+         "Quarter": "Q3 2018",
+         "Price in thousand Mexican pesos": "800.98"
+      },
+      {
+         "Quarter": "Q2 2018",
+         "Price in thousand Mexican pesos": "815.93"
+      },
+      {
+         "Quarter": "Q1 2018",
+         "Price in thousand Mexican pesos": "810.2"
+      }
+   ],
+   "gold": "This statistic shows the average housing price in Mexico from the first quarter of 2018 to the second quarter of 2019 . In the second quarter of 2019 , Mexicans paid on average 1.07 million Mexican pesos to acquire residential property . Compared to the same period of the previous year , the nominal price increased by more than 30 percent .\n"
+}

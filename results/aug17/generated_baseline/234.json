@@ -1,0 +1,59 @@
+{
+   "title": "Recovery from an eating disorder in the United Kingdom ( UK ) 2015 , by disorder",
+   "labels": [
+      "Category",
+      "Anorexia nervosa",
+      "Bulimia nervosa"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 3 categories for the x axis of Category representing Anorexia nervosa, and Bulimia nervosa.",
+      " The highest category is found at Full recovery with a mean value of 45.5.",
+      " The second highest category is found at Improvement with a mean value of 30.0.",
+      " This represents a difference of 41.1%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category": "Full recovery",
+         "Anorexia nervosa": "46",
+         "Bulimia nervosa": "45"
+      },
+      {
+         "Category": "Improvement",
+         "Anorexia nervosa": "33",
+         "Bulimia nervosa": "27"
+      },
+      {
+         "Category": "Chronically ill",
+         "Anorexia nervosa": "20",
+         "Bulimia nervosa": "23"
+      }
+   ],
+   "gold": "This statistic displays the recovery rate of individuals suffering from an eating disorder in the United Kingdom in 2015 . Approximately 46 percent of sufferers of anorexia nervosa and 45 percent of sufferers of bulimia nervosa make a full recovery .\n"
+}

@@ -1,0 +1,94 @@
+{
+   "title": "Average ticket price of the Los Angeles Chargers 2006 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly neutral which exists from 2016 to 2013.",
+      " Also, the next significant trend is slightly neutral which exists from 2011 to 2008.",
+      " Also, the next significant trend is extremely positive which exists from 2019 to 2016.",
+      " Similarly, the next significant trend is slightly neutral which exists from 2013 to 2011.",
+      " Similarly, the next significant trend is moderately positive which exists from 2008 to 2006."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "5"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": 165.77
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": 199.1
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": 84.55
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": 84.55
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": 84.55
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": 84.55
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": 80.3
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": 80.3
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": 81.39
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": 81.39
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": 81.39
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": 73.64
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": 62.82
+      }
+   ],
+   "gold": "This graph depicts the average ticket price for Los Angeles Chargers games in the National Football League from 2006 to 2019 . In 2019 , the average ticket price was at 165.77 U.S. dollars .\n"
+}

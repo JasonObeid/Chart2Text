@@ -1,0 +1,36 @@
+{
+   "title": "Number of U.S. Pinterest users 2017 , by gender\n",
+   "xAxis": "Sex",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Sex, and a y axis representing Number of users in millions.",
+      " The highest category is found at Female where Number of users in millions is 58.9.",
+      " The lowest category is found at Male where Number of users in millions is 32.6."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Number of users in millions": 58.9
+      },
+      {
+         "Sex": "Male",
+         "Number of users in millions": 32.6
+      }
+   ],
+   "gold": "This statistic shows the gender distribution of visitors to Pinterest.com , divided by visitors from the United States and from the United Kingom as of September 2013 . Pinterest 's usership in the United States is predominantly female as 67 percent of all users are women .\n"
+}

@@ -1,0 +1,81 @@
+{
+   "title": "Volvo car sales in Sweden 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Units sold, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2017 to 2012.",
+      " Likewise, the next significant trend is slightly negative which exists from 2019 to 2017.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2011 to 2009.",
+      " Additionally, the next significant trend is slightly negative which exists from 2012 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "7"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "7",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Units sold": 65282.0
+      },
+      {
+         "Year": "2018",
+         "Units sold": 69943.0
+      },
+      {
+         "Year": "2017",
+         "Units sold": 75506.0
+      },
+      {
+         "Year": "2016",
+         "Units sold": 71238.0
+      },
+      {
+         "Year": "2015",
+         "Units sold": 71221.0
+      },
+      {
+         "Year": "2014",
+         "Units sold": 61496.0
+      },
+      {
+         "Year": "2013",
+         "Units sold": 53939.0
+      },
+      {
+         "Year": "2012",
+         "Units sold": 52800.0
+      },
+      {
+         "Year": "2011",
+         "Units sold": 58862.0
+      },
+      {
+         "Year": "2010",
+         "Units sold": 53741.0
+      },
+      {
+         "Year": "2009",
+         "Units sold": 41808.0
+      }
+   ],
+   "gold": "In 2019 , over 65 thousand Volvo cars were sold in Sweden . This was a decrease of more than four thousand vehicles when compared to the previous year , and the second time since 2012 that the company did not experience a rise in sales . Nevertheless , Volvo was actually the leading passenger car brand in Sweden that year , surpassing Volkswagen by more than 16 thousand sold passenger cars .\n"
+}

@@ -1,0 +1,29 @@
+{
+   "title": "Number of outbound trips from China to Europe in 2018 , by region of destination\n",
+   "xAxis": "Europe European Union",
+   "yAxis": "Arrivals in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of outbound trips from the united to europe in 2018 , by region of destination . There were approximately 11.76 million trips from the u.s. to western europe in 2018 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Europe European Union": "Central/Eastern Europe",
+         "Arrivals in millions": 5.93
+      },
+      {
+         "Europe European Union": "Western Europe",
+         "Arrivals in millions": 5.9
+      },
+      {
+         "Europe European Union": "Northern Europe",
+         "Arrivals in millions": 1.15
+      },
+      {
+         "Europe European Union": "Southern/Mediterranean Europe",
+         "Arrivals in millions": 1.12
+      }
+   ],
+   "gold": "This statistic shows the number of outbound trips from China to Europe in 2018 , by region of destination . There were approximately 1.15 million trips from China to Northern Europe in 2018 .\n"
+}

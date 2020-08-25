@@ -1,0 +1,56 @@
+{
+   "title": "Number of Outback Steakhouse restaurants worldwide from 2011 to 2018 , by location",
+   "labels": [
+      "Year",
+      "United States",
+      "International"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the revenue of abbvie from 2012 to 2018 , by region . In 2018 , abbvie garnered revenue totaling nearly 24 billion U.S. dollars in the country . Abbot was a U.S.-based global pharmaceutical and healthcare products company , headquartered in Chicago , Illinois .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "United States": "733",
+         "International": "256"
+      },
+      {
+         "Year": "2017",
+         "United States": "740",
+         "International": "249"
+      },
+      {
+         "Year": "2016",
+         "United States": "755",
+         "International": "239"
+      },
+      {
+         "Year": "2015",
+         "United States": "755",
+         "International": "224"
+      },
+      {
+         "Year": "2014",
+         "United States": "753",
+         "International": "222"
+      },
+      {
+         "Year": "2013",
+         "United States": "768",
+         "International": "220"
+      },
+      {
+         "Year": "2012",
+         "United States": "771",
+         "International": "204"
+      },
+      {
+         "Year": "2011",
+         "United States": "776",
+         "International": "191"
+      }
+   ],
+   "gold": "In 2018 , Florida-based casual dining chain Outback Steakhouse operated a total of 989 restaurants worldwide . The largest share of the company 's restaurants was in its native country of the United States . Outback 's parent company is U.S.-based Bloomin ' Brands \u2013 other subsidiaries include Carrabba 's Italian Grill , Bonefish Grill and Fleming 's Prime Steakhouse & Wine Bar .\n"
+}

@@ -1,0 +1,61 @@
+{
+   "title": "U.S. passenger-miles : Intercity/Amtrak 2007 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "U.S. passenger-miles in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "assets under management ( AUM ) in europe have grown almost annually from 2008 to 2018 to an estimated 23.1 trillion euros . AUM , covers all client funds and assets that are managed on their behalf by a financial institute . These asset management companies include mutual fund , venture capital firms and brokers .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. passenger-miles in millions": 6361.0
+      },
+      {
+         "Year": "2017",
+         "U.S. passenger-miles in millions": 6563.0
+      },
+      {
+         "Year": "2016",
+         "U.S. passenger-miles in millions": 6520.0
+      },
+      {
+         "Year": "2015",
+         "U.S. passenger-miles in millions": 6536.0
+      },
+      {
+         "Year": "2014",
+         "U.S. passenger-miles in millions": 6675.0
+      },
+      {
+         "Year": "2013",
+         "U.S. passenger-miles in millions": 7283.0
+      },
+      {
+         "Year": "2012",
+         "U.S. passenger-miles in millions": 6752.0
+      },
+      {
+         "Year": "2011",
+         "U.S. passenger-miles in millions": 6568.0
+      },
+      {
+         "Year": "2010",
+         "U.S. passenger-miles in millions": 6420.0
+      },
+      {
+         "Year": "2009",
+         "U.S. passenger-miles in millions": 5914.0
+      },
+      {
+         "Year": "2008",
+         "U.S. passenger-miles in millions": 6179.0
+      },
+      {
+         "Year": "2007",
+         "U.S. passenger-miles in millions": 5784.0
+      }
+   ],
+   "gold": "This graph shows Amtrak/Intercity passenger-miles traveled in the United States from 2007 to 2018 . In 2018 , passengers traveled around 6.36 billion miles by Intercity/Amtrak . Amtrak , also known as the National Railroad Passenger Corporation , is a publicly funded service .\n"
+}

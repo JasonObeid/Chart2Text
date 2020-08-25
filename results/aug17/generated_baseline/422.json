@@ -1,0 +1,68 @@
+{
+   "title": "Ranking of the largest web shops in Sweden 2018 , by revenue\n",
+   "xAxis": "Web Shops",
+   "yAxis": "Revenue in thousand SEK",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Web Shops, and a y axis representing Revenue in thousand SEK.",
+      " The highest category is found at Dustin_/_Dustin_home where Revenue in thousand SEK is 8689669.0.",
+      " The lowest category is found at Bygghemma.se where Revenue in thousand SEK is 927830.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Web Shops": "Dustin / Dustin home",
+         "Revenue in thousand SEK": 8689669.0
+      },
+      {
+         "Web Shops": "Cdon.com",
+         "Revenue in thousand SEK": 1721072.0
+      },
+      {
+         "Web Shops": "Ellos",
+         "Revenue in thousand SEK": 1619359.0
+      },
+      {
+         "Web Shops": "Adlibris",
+         "Revenue in thousand SEK": 1449069.0
+      },
+      {
+         "Web Shops": "Boozt.com",
+         "Revenue in thousand SEK": 1407400.0
+      },
+      {
+         "Web Shops": "Nelly.com / NLY Man",
+         "Revenue in thousand SEK": 1195213.0
+      },
+      {
+         "Web Shops": "Komplett.se",
+         "Revenue in thousand SEK": 1110272.0
+      },
+      {
+         "Web Shops": "Apotea / Vitaminvaruhuset.se",
+         "Revenue in thousand SEK": 967620.0
+      },
+      {
+         "Web Shops": "MatHem",
+         "Revenue in thousand SEK": 961363.0
+      },
+      {
+         "Web Shops": "Bygghemma.se",
+         "Revenue in thousand SEK": 927830.0
+      }
+   ],
+   "gold": "The re-seller of IT-products and additional services Dustin and Dustin Home led in the ranking of largest web shops in Sweden in 2018 , by revenue . Dustin had a revenue of roughly 8.7 billion Swedish kronor that year . It was followed by Cdon.com which is a web shop with a variety of products within the sector of sport , fashion , electronics , groceries and other .\n"
+}

@@ -1,0 +1,114 @@
+{
+   "title": "Household rent to income ratio in the United Kingdom ( UK ) 2018 - 2019 , by region",
+   "labels": [
+      "Region",
+      "Oct' 18",
+      "Oct '19"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 14 categories for the x axis of Region representing Oct' 18, and Oct '19.",
+      " The highest category is found at London with a mean value of 36.1.",
+      " The second highest category is found at South West with a mean value of 32.15.",
+      " This represents a difference of 11.6%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "London",
+         "Oct' 18": "36.6",
+         "Oct '19": "35.6"
+      },
+      {
+         "Region": "South West",
+         "Oct' 18": "32.8",
+         "Oct '19": "31.5"
+      },
+      {
+         "Region": "South East",
+         "Oct' 18": "31.6",
+         "Oct '19": "31.6"
+      },
+      {
+         "Region": "UK Average",
+         "Oct' 18": "31",
+         "Oct '19": "30.6"
+      },
+      {
+         "Region": "East England",
+         "Oct' 18": "30.3",
+         "Oct '19": "30.3"
+      },
+      {
+         "Region": "UK Average (Excluding London)",
+         "Oct' 18": "29.4",
+         "Oct '19": "29.2"
+      },
+      {
+         "Region": "Wales",
+         "Oct' 18": "29",
+         "Oct '19": "29.3"
+      },
+      {
+         "Region": "East Midlands",
+         "Oct' 18": "28.7",
+         "Oct '19": "28.8"
+      },
+      {
+         "Region": "North West",
+         "Oct' 18": "28.6",
+         "Oct '19": "27.1"
+      },
+      {
+         "Region": "West Midlands",
+         "Oct' 18": "28.5",
+         "Oct '19": "29.2"
+      },
+      {
+         "Region": "Scotland",
+         "Oct' 18": "27.5",
+         "Oct '19": "27"
+      },
+      {
+         "Region": "Northern Ireland",
+         "Oct' 18": "26.6",
+         "Oct '19": "25.9"
+      },
+      {
+         "Region": "Yorkshire & Humber",
+         "Oct' 18": "26",
+         "Oct '19": "26.3"
+      },
+      {
+         "Region": "North East",
+         "Oct' 18": "24.4",
+         "Oct '19": "23.7"
+      }
+   ],
+   "gold": "The average cost of rent to household income ratio in the United Kingdom ( UK ) remained consistent between October 2018 and October 2019 . London had the highest household rent to income ratio despite a slight decrease between October 2018 and October 2019 . The North East of England saw the lowest rent to income ratio across the UK of 23.7 percent in October 2019 .\n"
+}

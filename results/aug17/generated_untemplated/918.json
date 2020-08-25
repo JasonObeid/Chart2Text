@@ -1,0 +1,53 @@
+{
+   "title": "Number of active physicians in Alabama 2019 , by specialty area\n",
+   "xAxis": "Specialty area",
+   "yAxis": "Number of physicians",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic depicts the number of active physicians in new jersey as of 2019 , ordered by specialty area . At that time , there were 1605 anesthesiologists active in new jersey . In total , there were 15668 practicing specialty physicians in new jersey at that time .\n",
+   "trends": {},
+   "data": [
+      {
+         "Specialty area": "Psychiatry",
+         "Number of physicians": 506.0
+      },
+      {
+         "Specialty area": "Surgery",
+         "Number of physicians": 754.0
+      },
+      {
+         "Specialty area": "Anesthesiologists",
+         "Number of physicians": 602.0
+      },
+      {
+         "Specialty area": "Emergency medicine",
+         "Number of physicians": 465.0
+      },
+      {
+         "Specialty area": "Radiology",
+         "Number of physicians": 674.0
+      },
+      {
+         "Specialty area": "Cardiology",
+         "Number of physicians": 410.0
+      },
+      {
+         "Specialty area": "Oncology (cancer)",
+         "Number of physicians": 241.0
+      },
+      {
+         "Specialty area": "Endocrinology diabetes & metabolism",
+         "Number of physicians": 71.0
+      },
+      {
+         "Specialty area": "All other specialities",
+         "Number of physicians": 2619.0
+      },
+      {
+         "Specialty area": "Total specialty",
+         "Number of physicians": 6342.0
+      }
+   ],
+   "gold": "This statistic depicts the number of active physicians in Alabama as of March 2019 , sorted by specialty area . In that year , there were 602 anesthesiologists active in Alabama . Thus , this was one of the three largest specialty groups in Alabama .\n"
+}

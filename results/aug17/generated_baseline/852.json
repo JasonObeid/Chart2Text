@@ -1,0 +1,101 @@
+{
+   "title": "Natural gas consumption in the United States : 1995 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Consumption in trillion cubic feet",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Consumption in trillion cubic feet, with a total of 16 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately positive which exists from 2016 to 2009.",
+      " Also, the next significant trend is moderately positive which exists from 2009 to 2006.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2006 to 1995.",
+      " Conversely, the next significant trend is extremely negative which exists from 2018 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "9"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "15"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Consumption in trillion cubic feet": 29.95
+      },
+      {
+         "Year": "2017",
+         "Consumption in trillion cubic feet": 27.13
+      },
+      {
+         "Year": "2016",
+         "Consumption in trillion cubic feet": 27.44
+      },
+      {
+         "Year": "2015",
+         "Consumption in trillion cubic feet": 27.24
+      },
+      {
+         "Year": "2014",
+         "Consumption in trillion cubic feet": 26.59
+      },
+      {
+         "Year": "2013",
+         "Consumption in trillion cubic feet": 26.16
+      },
+      {
+         "Year": "2012",
+         "Consumption in trillion cubic feet": 25.54
+      },
+      {
+         "Year": "2011",
+         "Consumption in trillion cubic feet": 24.48
+      },
+      {
+         "Year": "2010",
+         "Consumption in trillion cubic feet": 24.09
+      },
+      {
+         "Year": "2009",
+         "Consumption in trillion cubic feet": 22.91
+      },
+      {
+         "Year": "2008",
+         "Consumption in trillion cubic feet": 23.28
+      },
+      {
+         "Year": "2007",
+         "Consumption in trillion cubic feet": 23.1
+      },
+      {
+         "Year": "2006",
+         "Consumption in trillion cubic feet": 21.7
+      },
+      {
+         "Year": "2005",
+         "Consumption in trillion cubic feet": 22.01
+      },
+      {
+         "Year": "2000",
+         "Consumption in trillion cubic feet": 23.33
+      },
+      {
+         "Year": "1995",
+         "Consumption in trillion cubic feet": 22.21
+      }
+   ],
+   "gold": "Consumption of natural gas in the United States reached a record high of 29.95 trillion cubic feet in 2018 and has risen by roughly a third since 1995 . Natural gas consumption increased consistently from 2009 to 2016 , after over a decade of fluctuation from 1995 to 2008 . High demand for natural gas Natural gas is a colorless , odorless fossil fuel that comes from underground rock formations .\n"
+}

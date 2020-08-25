@@ -1,0 +1,51 @@
+{
+   "title": "Number of Qdoba restaurants from 2011 to 2017",
+   "labels": [
+      "Year",
+      "Franchise",
+      "Company-owned"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the number of Major League Baseball players in the united from 2014 to 2017 . In 2017 , the number of participants ( aged six years and older ) in the united kingdom ( uk ) and the number of individuals has been quite stable with a flu on the previous year .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2017",
+         "Franchise": "341",
+         "Company-owned": "385"
+      },
+      {
+         "Year": "2016",
+         "Franchise": "332",
+         "Company-owned": "367"
+      },
+      {
+         "Year": "2015",
+         "Franchise": "339",
+         "Company-owned": "322"
+      },
+      {
+         "Year": "2014",
+         "Franchise": "328",
+         "Company-owned": "310"
+      },
+      {
+         "Year": "2013",
+         "Franchise": "319",
+         "Company-owned": "296"
+      },
+      {
+         "Year": "2012",
+         "Franchise": "311",
+         "Company-owned": "316"
+      },
+      {
+         "Year": "2011",
+         "Franchise": "338",
+         "Company-owned": "245"
+      }
+   ],
+   "gold": "Fast casual restaurant chain Qdoba Mexican Eats had a total of 726 restaurants in 2017 . Of these , 385 were company-owned restaurants and 341 were franchised . This figure steadily increased over the course of the last four years , reaching its peak in 2017 .\n"
+}

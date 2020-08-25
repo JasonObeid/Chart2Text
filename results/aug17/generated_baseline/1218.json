@@ -1,0 +1,75 @@
+{
+   "title": "Foster care in the U.S. - number of children waiting for adoption 2007 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of children",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of children, with a total of 12 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2012.",
+      " Likewise, the next significant trend is slightly negative which exists from 2012 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "6"
+      },
+      {
+         "3": "6",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of children": 125422.0
+      },
+      {
+         "Year": "2017",
+         "Number of children": 123754.0
+      },
+      {
+         "Year": "2016",
+         "Number of children": 116654.0
+      },
+      {
+         "Year": "2015",
+         "Number of children": 109951.0
+      },
+      {
+         "Year": "2014",
+         "Number of children": 106636.0
+      },
+      {
+         "Year": "2013",
+         "Number of children": 102808.0
+      },
+      {
+         "Year": "2012",
+         "Number of children": 101945.0
+      },
+      {
+         "Year": "2011",
+         "Number of children": 106440.0
+      },
+      {
+         "Year": "2010",
+         "Number of children": 108746.0
+      },
+      {
+         "Year": "2009",
+         "Number of children": 113798.0
+      },
+      {
+         "Year": "2008",
+         "Number of children": 125712.0
+      },
+      {
+         "Year": "2007",
+         "Number of children": 133682.0
+      }
+   ],
+   "gold": "This statistic shows the number of children waiting for adoption in the United States from 2007 to 2018 . In 2018 , about 125,422 children in the U.S. were waiting to be adopted .\n"
+}

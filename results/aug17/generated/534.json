@@ -1,0 +1,105 @@
+{
+   "title": "Employees with zero hours contracts in the UK 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the zero Employees of the contracts UK of from 2000 to 2019 . ",
+      "The zero Employees of the Canadian UK was 896 thousands in 2016 ."
+   ],
+   "trends": [
+      {
+         "13": "19",
+         "15": "0"
+      },
+      {
+         "8": "0",
+         "11": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Employees in thousands": "896"
+      },
+      {
+         "Year": "2018",
+         "Employees in thousands": "780"
+      },
+      {
+         "Year": "2017",
+         "Employees in thousands": "883"
+      },
+      {
+         "Year": "2016",
+         "Employees in thousands": "903"
+      },
+      {
+         "Year": "2015",
+         "Employees in thousands": "747"
+      },
+      {
+         "Year": "2014",
+         "Employees in thousands": "624"
+      },
+      {
+         "Year": "2013",
+         "Employees in thousands": "585"
+      },
+      {
+         "Year": "2012",
+         "Employees in thousands": "252"
+      },
+      {
+         "Year": "2011",
+         "Employees in thousands": "190"
+      },
+      {
+         "Year": "2010",
+         "Employees in thousands": "168"
+      },
+      {
+         "Year": "2009",
+         "Employees in thousands": "189"
+      },
+      {
+         "Year": "2008",
+         "Employees in thousands": "143"
+      },
+      {
+         "Year": "2007",
+         "Employees in thousands": "166"
+      },
+      {
+         "Year": "2006",
+         "Employees in thousands": "147"
+      },
+      {
+         "Year": "2005",
+         "Employees in thousands": "119"
+      },
+      {
+         "Year": "2004",
+         "Employees in thousands": "108"
+      },
+      {
+         "Year": "2003",
+         "Employees in thousands": "124"
+      },
+      {
+         "Year": "2002",
+         "Employees in thousands": "156"
+      },
+      {
+         "Year": "2001",
+         "Employees in thousands": "176"
+      },
+      {
+         "Year": "2000",
+         "Employees in thousands": "225"
+      }
+   ],
+   "gold": "This statistic shows the number of people in thousands on a zero-hour contract in the United Kingdom from 2000 to 2019 . In 2000 , there were 225 thousand people on zero-hour contracts , with this number increasing to approximately 896 thousand by 2019 .\n"
+}

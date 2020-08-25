@@ -1,0 +1,64 @@
+{
+   "title": "Most popular leisure activities among adults in the U.S. 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Most popular leisure activities among U.S. in the 2013 as of 2013 . ",
+      "During the survey , 19 % of U.S. stated Spending_time_with_family_and_friends with and Spending_time_with_family_and_friends as a favorite leisure activity ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "2",
+         "9": "3",
+         "11": "3",
+         "13": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Watch TV",
+         "Share of respondents": "42"
+      },
+      {
+         "Response": "Reading",
+         "Share of respondents": "37"
+      },
+      {
+         "Response": "Computer/internet",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Spending time with family and friends",
+         "Share of respondents": "18"
+      },
+      {
+         "Response": "Watching/going to the movies",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "Exercise/working out",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Playing video games and computer/internet games",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Walking/running/jogging",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "Gardening",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Concerts/listening to/playing music",
+         "Share of respondents": "7"
+      }
+   ],
+   "gold": "This statistic shows the most popular leisure activities among adults in the United States as of September 2013 . During the survey , 42 percent of the respondents named watching TV as their most preferred activity during leisure time .\n"
+}

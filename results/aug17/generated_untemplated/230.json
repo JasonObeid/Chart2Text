@@ -1,0 +1,51 @@
+{
+   "title": "Number of Sears stores in the United States 2011 - 2017 , by type",
+   "labels": [
+      "Year",
+      "Full-line stores",
+      "Specialty stores"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the number of smartphone users in the united from 2009 to 2017 , by type . In 2017 , the coal-mining factory had approximately 25 million people in the united .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2017",
+         "Full-line stores": "547",
+         "Specialty stores": "23"
+      },
+      {
+         "Year": "2016",
+         "Full-line stores": "670",
+         "Specialty stores": "25"
+      },
+      {
+         "Year": "2015",
+         "Full-line stores": "705",
+         "Specialty stores": "26"
+      },
+      {
+         "Year": "2014",
+         "Full-line stores": "709",
+         "Specialty stores": "29"
+      },
+      {
+         "Year": "2013",
+         "Full-line stores": "778",
+         "Specialty stores": "50"
+      },
+      {
+         "Year": "2012",
+         "Full-line stores": "798",
+         "Specialty stores": "54"
+      },
+      {
+         "Year": "2011",
+         "Full-line stores": "867",
+         "Specialty stores": "1338"
+      }
+   ],
+   "gold": "Sears Domestic operated about 547 full-line stores throughout the Unites States in 2017 . Sears Holdings is an American retailer , which operates through two well-known retail brands , Kmart and Sears . Sears Holdings has a significant number of Kmart and Sears Domestic stores in operation around the world .\n"
+}

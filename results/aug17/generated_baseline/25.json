@@ -1,0 +1,75 @@
+{
+   "title": "Sales forecast for eye care product Restasis in U.S. 2014 to 2025\n",
+   "xAxis": "Year",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Sales in million U.S. dollars, with a total of 12 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely negative which exists from 2014 to 2023.",
+      " Conversely, the next significant trend is slightly positive which exists from 2023 to 2025."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "9"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Sales in million U.S. dollars": 1084.0
+      },
+      {
+         "Year": "2015",
+         "Sales in million U.S. dollars": 1217.0
+      },
+      {
+         "Year": "2016",
+         "Sales in million U.S. dollars": 1361.0
+      },
+      {
+         "Year": "2017",
+         "Sales in million U.S. dollars": 1524.0
+      },
+      {
+         "Year": "2018",
+         "Sales in million U.S. dollars": 1679.0
+      },
+      {
+         "Year": "2019",
+         "Sales in million U.S. dollars": 1830.0
+      },
+      {
+         "Year": "2020",
+         "Sales in million U.S. dollars": 1975.0
+      },
+      {
+         "Year": "2021",
+         "Sales in million U.S. dollars": 2115.0
+      },
+      {
+         "Year": "2022",
+         "Sales in million U.S. dollars": 2242.0
+      },
+      {
+         "Year": "2023",
+         "Sales in million U.S. dollars": 2332.0
+      },
+      {
+         "Year": "2024",
+         "Sales in million U.S. dollars": 1914.0
+      },
+      {
+         "Year": "2025",
+         "Sales in million U.S. dollars": 1650.0
+      }
+   ],
+   "gold": "This statistic represents a sales forecast for eye care product Restasis in the United States between 2014 and 2025 . It is expected that Restasis will generate around 2.3 billion U.S. dollars in 2023 .\n"
+}

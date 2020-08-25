@@ -1,0 +1,70 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Oman 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the growth in real GDP in Oman from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Oman 's real Gross domestic product increased by around 1.76 % compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "6",
+         "19": "0"
+      },
+      {
+         "1": "6",
+         "12": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": "1.63"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "-0.61"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "0.9"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "4.32"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "3.68"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "0.04"
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": "1.76"
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": "0.35"
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": "4.9"
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": "4.66"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "1.42"
+      }
+   ],
+   "gold": "The statistic shows the growth in real GDP in Oman from 2014 to 2024  . In 2018 , Oman 's real gross domestic product increased by around 1.76 percent compared to the previous year .\n"
+}

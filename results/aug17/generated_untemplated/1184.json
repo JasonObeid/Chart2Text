@@ -1,0 +1,41 @@
+{
+   "title": "Japan : number of internet users 2017 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "In 2018 , there were about 54.7 million internet users in vietnam . By 2023 , it was forecasted to be 75.7 million . The number of users rapidly increased after the adoption of the internet in vietnam in 1997 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2023",
+         "Number of internet users in millions": 117.5
+      },
+      {
+         "Year": "2022",
+         "Number of internet users in millions": 117.7
+      },
+      {
+         "Year": "2021",
+         "Number of internet users in millions": 117.9
+      },
+      {
+         "Year": "2020",
+         "Number of internet users in millions": 117.9
+      },
+      {
+         "Year": "2019",
+         "Number of internet users in millions": 117.9
+      },
+      {
+         "Year": "2018",
+         "Number of internet users in millions": 117.6
+      },
+      {
+         "Year": "2017",
+         "Number of internet users in millions": 115.8
+      }
+   ],
+   "gold": "This statistic provides information on the number of internet users in Japan from 2017 to 2023 . In 2018 , Japan had approximately 117.6 million internet users . This figure is projected to decrease to about 117.5 million internet users in 2023 .\n"
+}

@@ -1,0 +1,49 @@
+{
+   "title": "Number of committed crimes , by type U.S. 2018\n",
+   "xAxis": "Type of crime",
+   "yAxis": "Number of committed crimes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the most expensive prescription drugs in the united in 2013 , by type . In that year , there were a total of 114.7 billion u.s. dollars , followed by newport with 34.9 billion u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Type of crime": "Property crime  (total)",
+         "Number of committed crimes": 7196045.0
+      },
+      {
+         "Type of crime": "Larceny-theft",
+         "Number of committed crimes": 5217055.0
+      },
+      {
+         "Type of crime": "Burglary",
+         "Number of committed crimes": 1230149.0
+      },
+      {
+         "Type of crime": "Violent crime  (total)",
+         "Number of committed crimes": 1206836.0
+      },
+      {
+         "Type of crime": "Aggravated assault",
+         "Number of committed crimes": 807410.0
+      },
+      {
+         "Type of crime": "Motor vehicle theft",
+         "Number of committed crimes": 748841.0
+      },
+      {
+         "Type of crime": "Robbery",
+         "Number of committed crimes": 282061.0
+      },
+      {
+         "Type of crime": "Rape (revised definition)",
+         "Number of committed crimes": 139380.0
+      },
+      {
+         "Type of crime": "Murder and nonnegligent manslaughter",
+         "Number of committed crimes": 16214.0
+      }
+   ],
+   "gold": "This statistic shows the number of committed crimes in the United States in 2018 , by type of crime . In 2018 , the FBI recorded 139,380 cases of rape .\n"
+}

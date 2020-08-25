@@ -1,0 +1,70 @@
+{
+   "title": "Number of divorces in Sweden 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of divorces",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "In the fall semester 2018 , 24958 divorces were reported in universities and other higher education institutions in Sweden . ",
+      "Since 2000 , the Number of individuals in Sweden with an upper secondary education increased , while the individuals without decreased . ",
+      "In 2018 , 21.7 % of the female population had an upper secondary education degree of three years and 24.9 % of the male population ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "6": "0"
+      },
+      {},
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of divorces": "24958"
+      },
+      {
+         "Year": "2017",
+         "Number of divorces": "24210"
+      },
+      {
+         "Year": "2016",
+         "Number of divorces": "24258"
+      },
+      {
+         "Year": "2015",
+         "Number of divorces": "24876"
+      },
+      {
+         "Year": "2014",
+         "Number of divorces": "26143"
+      },
+      {
+         "Year": "2013",
+         "Number of divorces": "26933"
+      },
+      {
+         "Year": "2012",
+         "Number of divorces": "25005"
+      },
+      {
+         "Year": "2011",
+         "Number of divorces": "24884"
+      },
+      {
+         "Year": "2010",
+         "Number of divorces": "25151"
+      },
+      {
+         "Year": "2009",
+         "Number of divorces": "23534"
+      },
+      {
+         "Year": "2008",
+         "Number of divorces": "22580"
+      }
+   ],
+   "gold": "The number of divorces in Sweden peaked in 2013 , when almost 27 thousand couples got divorced . Since then the divorce number decreased until 2018 , when it again increased and amounted to almost 25 thousand divorces . A similar trend can be seen in the neighbor country Norway , where the number of divorces decreased for several years but increased again in 2017 .\n"
+}

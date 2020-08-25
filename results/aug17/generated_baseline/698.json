@@ -1,0 +1,92 @@
+{
+   "title": "Most valuable Swiss watch brands worldwide 2016\n",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million CHF",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 16 categories for the x axis representing Brand, and a y axis representing Brand value in million CHF.",
+      " The highest category is found at Rolex where Brand value in million CHF is 7387.0.",
+      " The lowest category is found at Rado where Brand value in million CHF is 335.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 15,
+         "12": 15
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Rolex",
+         "Brand value in million CHF": 7387.0
+      },
+      {
+         "Brand": "Omega",
+         "Brand value in million CHF": 3677.0
+      },
+      {
+         "Brand": "Patek Philippe",
+         "Brand value in million CHF": 1885.0
+      },
+      {
+         "Brand": "Chopard",
+         "Brand value in million CHF": 1098.0
+      },
+      {
+         "Brand": "Longines",
+         "Brand value in million CHF": 1089.0
+      },
+      {
+         "Brand": "Breguet",
+         "Brand value in million CHF": 1004.0
+      },
+      {
+         "Brand": "Audemars Piguet",
+         "Brand value in million CHF": 961.0
+      },
+      {
+         "Brand": "Tissot",
+         "Brand value in million CHF": 847.0
+      },
+      {
+         "Brand": "Vacheron Constantin",
+         "Brand value in million CHF": 809.0
+      },
+      {
+         "Brand": "Tag Heuer",
+         "Brand value in million CHF": 764.0
+      },
+      {
+         "Brand": "Swatch",
+         "Brand value in million CHF": 772.0
+      },
+      {
+         "Brand": "IWC",
+         "Brand value in million CHF": 779.0
+      },
+      {
+         "Brand": "Jaeger Lecoultre",
+         "Brand value in million CHF": 673.0
+      },
+      {
+         "Brand": "Hublot",
+         "Brand value in million CHF": 401.0
+      },
+      {
+         "Brand": "Breitling",
+         "Brand value in million CHF": 359.0
+      },
+      {
+         "Brand": "Rado",
+         "Brand value in million CHF": 335.0
+      }
+   ],
+   "gold": "This statistic presents the brand value of the most valuable Swiss watch brands in 2016 . In that year , Rolex was the most valuable Swiss watch brand at 7.25 billion Swiss francs ( CHF ) . Rolex is one of the worlds most powerful brands , and it has a long history within the watch making business .\n"
+}

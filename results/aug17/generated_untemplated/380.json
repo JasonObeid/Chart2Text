@@ -1,0 +1,81 @@
+{
+   "title": "Natural gas prices for households in Germany 2010 - 2018 , semi-annually\n",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the natural gas prices for household end users in italy semi-annually from 2010 to 2018 . In the first half of 2018 , the average natural gas price for households was 7.14 euro cents per kWh .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": 6.08
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": 6.09
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": 6.11
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": 6.42
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": 6.61
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": 6.81
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": 6.76
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": 6.81
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": 6.78
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": 6.89
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": 6.61
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": 6.48
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": 6.37
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": 6.4
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": 5.88
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": 5.71
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": 5.65
+      }
+   ],
+   "gold": "This statistic shows the natural gas prices for household end users in Germany semi-annually from 2010 to 2018 . In the first half of 2018 , the average natural gas price for households was 6.08 euro cents per kWh .\n"
+}

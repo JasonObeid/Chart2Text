@@ -1,0 +1,55 @@
+{
+   "title": "Companies on the Norwegian insurance market 2011 to 2015",
+   "labels": [
+      "Year",
+      "Domestic market",
+      "Total market"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the total Companies of Norwegian insurance market 2011 to 2015 , . ",
+      "In In , Norwegian generated Companies of about 1.3 billion U.S. dollars in Total ."
+   ],
+   "trends": [
+      {
+         "10": [
+            "4",
+            "0"
+         ],
+         "12": [
+            "0",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2014",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2013",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2012",
+         "Domestic market": "118",
+         "Total market": "118"
+      },
+      {
+         "Year": "2011",
+         "Domestic market": "117",
+         "Total market": "117"
+      }
+   ],
+   "gold": "The statistic shows the number of companies operating on the insurance market in Norway from 2011 to 2015 . Throughout the period the number of insurance companies on the domestic market remained stable at 119 companies between 2013 and 2015 .\n"
+}

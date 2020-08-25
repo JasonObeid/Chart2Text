@@ -1,0 +1,52 @@
+{
+   "title": "Deaths per day in West African countries with 2014 Ebola outbreak by disease\n",
+   "xAxis": "Diseases",
+   "yAxis": "Number of deaths per day",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Diseases, and a y axis representing Number of deaths per day.",
+      " The highest category is found at HIV/AIDS where Number of deaths per day is 685.0.",
+      " The lowest category is found at Ebola where Number of deaths per day is 4.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 5,
+         "12": 5
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Diseases": "Ebola",
+         "Number of deaths per day": 4.0
+      },
+      {
+         "Diseases": "Lassa fever",
+         "Number of deaths per day": 14.0
+      },
+      {
+         "Diseases": "Tuberculosis",
+         "Number of deaths per day": 110.0
+      },
+      {
+         "Diseases": "Diarrhoea",
+         "Number of deaths per day": 404.0
+      },
+      {
+         "Diseases": "Malaria",
+         "Number of deaths per day": 552.0
+      },
+      {
+         "Diseases": "HIV/AIDS",
+         "Number of deaths per day": 685.0
+      }
+   ],
+   "gold": "This statistic shows the number of deaths per day by selected diseases in West African countries that are suffering from the Ebola outbreak in 2014 . Malaria causes some 552 deaths per day in these countries , while Ebola causes around four deaths per day ( as of August 2014 ) . Ebola compared to other diseases Ebola first emerged in 1976 in Sudan and the Democratic Republic of Congo .\n"
+}

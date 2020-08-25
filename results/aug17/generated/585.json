@@ -1,0 +1,74 @@
+{
+   "title": "Average life expectancy at birth in Sweden 2008 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The Average life expectancy of Men on the road in the European Union was 80.55 years . ",
+      "Between 2008-2012 and 2014-2018 , the Average life in the Sweden was 80.55 years old for a Men Women ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "0"
+         ],
+         "3": [
+            "0",
+            "0"
+         ],
+         "12": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014-2018",
+         "Men": "80.55",
+         "Women": "84.1"
+      },
+      {
+         "Year": "2013-2017",
+         "Men": "80.41",
+         "Women": "83.99"
+      },
+      {
+         "Year": "2012-2016",
+         "Men": "80.24",
+         "Women": "83.88"
+      },
+      {
+         "Year": "2011-2015",
+         "Men": "80.08",
+         "Women": "83.79"
+      },
+      {
+         "Year": "2010-2014",
+         "Men": "79.93",
+         "Women": "83.69"
+      },
+      {
+         "Year": "2009-2013",
+         "Men": "79.72",
+         "Women": "83.55"
+      },
+      {
+         "Year": "2008-2012",
+         "Men": "79.52",
+         "Women": "83.43"
+      }
+   ],
+   "gold": "This statistic depicts the average life expectancy in Sweden from 2008 to 2018 , by gender . Women had a higher life expectancy than men in Sweden . In 2014 to 2018 the life expectancy for women was expected to be slightly more than 84 years old .\n"
+}

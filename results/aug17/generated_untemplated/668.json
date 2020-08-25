@@ -1,0 +1,216 @@
+{
+   "title": "Population of Europe 2016 , by country and gender",
+   "labels": [
+      "Country",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "In 2018 , south korea had the highest smartphone penetration in the world at 95 percent , and mobile phone use was nearly ubiquitous . In the majority of countries where more than 90 percent owned a mobile phone , smartphone penetration is higher than 70 percent , which is somewhat of an indicator for an advanced economy . smartphone user numbers are growing The number of global smartphone users has constantly been growing ever since the first smartphones hit the market , surpassing the three billion mark for the first time in 2019 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "Germany",
+         "Male": "40514123",
+         "Female": "41661561"
+      },
+      {
+         "Country": "France",
+         "Male": "32340016",
+         "Female": "34419934"
+      },
+      {
+         "Country": "United Kingdom",
+         "Male": "32224529",
+         "Female": "33158027"
+      },
+      {
+         "Country": "Italy",
+         "Male": "29456321",
+         "Female": "31209230"
+      },
+      {
+         "Country": "Spain",
+         "Male": "22807464",
+         "Female": "23632635"
+      },
+      {
+         "Country": "Ukraine",
+         "Male": "19717881",
+         "Female": "22872998"
+      },
+      {
+         "Country": "Poland",
+         "Male": "18377040",
+         "Female": "19590169"
+      },
+      {
+         "Country": "Romania",
+         "Male": "9649811",
+         "Female": "10110503"
+      },
+      {
+         "Country": "Netherlands",
+         "Male": "8417135",
+         "Female": "8561985"
+      },
+      {
+         "Country": "Belgium",
+         "Male": "5569264",
+         "Female": "5741853"
+      },
+      {
+         "Country": "Greece",
+         "Male": "5224210",
+         "Female": "5559538"
+      },
+      {
+         "Country": "Portugal",
+         "Male": "4901509",
+         "Female": "5439821"
+      },
+      {
+         "Country": "Czech Republic",
+         "Male": "5186330",
+         "Female": "5367513"
+      },
+      {
+         "Country": "Hungary",
+         "Male": "4688519",
+         "Female": "5141966"
+      },
+      {
+         "Country": "Belarus",
+         "Male": "4420842",
+         "Female": "5077522"
+      },
+      {
+         "Country": "Sweden",
+         "Male": "4930966",
+         "Female": "4920051"
+      },
+      {
+         "Country": "Austria",
+         "Male": "4265369",
+         "Female": "4424707"
+      },
+      {
+         "Country": "Switzerland",
+         "Male": "4121471",
+         "Female": "4205655"
+      },
+      {
+         "Country": "Bulgaria",
+         "Male": "3477177",
+         "Female": "3676607"
+      },
+      {
+         "Country": "Serbia",
+         "Male": "3446258",
+         "Female": "3630114"
+      },
+      {
+         "Country": "Denmark",
+         "Male": "2837887",
+         "Female": "2869364"
+      },
+      {
+         "Country": "Finland",
+         "Male": "2701490",
+         "Female": "2785818"
+      },
+      {
+         "Country": "Slovakia",
+         "Male": "2646082",
+         "Female": "2780170"
+      },
+      {
+         "Country": "Ireland",
+         "Male": "2335733",
+         "Female": "2388987"
+      },
+      {
+         "Country": "Croatia",
+         "Male": "2022797",
+         "Female": "2167872"
+      },
+      {
+         "Country": "Georgia",
+         "Male": "1779500",
+         "Female": "1940900"
+      },
+      {
+         "Country": "Armenia",
+         "Male": "1429042",
+         "Female": "1569535"
+      },
+      {
+         "Country": "Lithuania",
+         "Male": "1329607",
+         "Female": "1558951"
+      },
+      {
+         "Country": "Albania",
+         "Male": "1461326",
+         "Female": "1424700"
+      },
+      {
+         "Country": "Latvia",
+         "Male": "904299",
+         "Female": "1064658"
+      },
+      {
+         "Country": "Slovenia",
+         "Male": "1023333",
+         "Female": "1040855"
+      },
+      {
+         "Country": "Former Yugoslav Republic of Macedonia",
+         "Male": "1037601",
+         "Female": "1033677"
+      },
+      {
+         "Country": "Kosovo",
+         "Male": "883294",
+         "Female": "888310"
+      },
+      {
+         "Country": "Estonia",
+         "Male": "616708",
+         "Female": "699236"
+      },
+      {
+         "Country": "Cyprus",
+         "Male": "412692",
+         "Female": "435627"
+      },
+      {
+         "Country": "Montenegro",
+         "Male": "307734",
+         "Female": "314484"
+      },
+      {
+         "Country": "Luxembourg",
+         "Male": "289193",
+         "Female": "287056"
+      },
+      {
+         "Country": "Malta",
+         "Male": "217569",
+         "Female": "216834"
+      },
+      {
+         "Country": "Iceland",
+         "Male": "167270",
+         "Female": "165259"
+      },
+      {
+         "Country": "Liechtenstein",
+         "Male": "18660",
+         "Female": "18962"
+      }
+   ],
+   "gold": "This graph displays the population of Europe in 2015 , by gender and country . Germany was the largest population of both genders in Europe , with 41.4 million females and 39.8 million males . The majority of countries listed have a higher population of women .\n"
+}

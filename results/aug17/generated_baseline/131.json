@@ -1,0 +1,115 @@
+{
+   "title": "Electricity prices for households in Spain 2010 - 2018 , semi-annually\n",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 17 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely positive which exists from 2013_S1 to 2010_S1.",
+      " Similarly, the next significant trend is extremely negative which exists from 2018_S1 to 2017_S1.",
+      " On the other hand, the next significant trend is moderately positive which exists from 2017_S1 to 2016_S1.",
+      " Also, the next significant trend is slightly positive which exists from 2016_S1 to 2015_S1.",
+      " Likewise, the next significant trend is moderately positive which exists from 2015_S1 to 2014_S1.",
+      " Similarly, the next significant trend is slightly positive which exists from 2014_S1 to 2013_S1."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "10",
+         "12": "16"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": 23.83
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": 21.77
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": 22.96
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": 22.84
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": 21.85
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": 23.7
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": 23.09
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": 23.67
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": 21.65
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": 22.73
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": 22.28
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": 22.75
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": 21.9
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": 20.88
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": 19.81
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": 18.51
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": 17.28
+      }
+   ],
+   "gold": "This statistic presents the electricity prices for household end users in Spain semi-annually from 2010 to 2018 . In the first half of 2018 , the average electricity price for Spanish households was 23.83 euro cents per kWh .\n"
+}

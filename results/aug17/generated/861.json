@@ -1,0 +1,71 @@
+{
+   "title": "Ice cream : manufacturing sales volume in the United Kingdom ( UK ) 2009 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales volume in thousand liters",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the manufacturers ( Ice ) volume of sporting goods equipment , fitness equipment , sales apparel , athletic footwear , and sales licensed merchandise in the period from 2009 to 2018 . ",
+      "In 2018 , Ice volume amounted to about 328055 thousand liters . ",
+      "Sporting goods manufacturers Ice volume - additional information Ice volume of sporting goods in the liters reached 442961 thousand liters in 2010 , the highest figure to-date and a eight thousand liters dollar increase on the figure from 2014 ."
+   ],
+   "trends": [
+      {
+         "31": "9",
+         "33": "0"
+      },
+      {
+         "1": "0",
+         "8": "0"
+      },
+      {
+         "17": "8",
+         "22": "8",
+         "39": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales volume in thousand liters": "328055"
+      },
+      {
+         "Year": "2017",
+         "Sales volume in thousand liters": "288292"
+      },
+      {
+         "Year": "2016",
+         "Sales volume in thousand liters": "258484"
+      },
+      {
+         "Year": "2015",
+         "Sales volume in thousand liters": "279630"
+      },
+      {
+         "Year": "2014",
+         "Sales volume in thousand liters": "304972"
+      },
+      {
+         "Year": "2013",
+         "Sales volume in thousand liters": "439485"
+      },
+      {
+         "Year": "2012",
+         "Sales volume in thousand liters": "423158"
+      },
+      {
+         "Year": "2011",
+         "Sales volume in thousand liters": "431035"
+      },
+      {
+         "Year": "2010",
+         "Sales volume in thousand liters": "442961"
+      },
+      {
+         "Year": "2009",
+         "Sales volume in thousand liters": "431696"
+      }
+   ],
+   "gold": "During 2018 , the sales volume of ice cream manufactured in the UK amounted to approximately 328 million liters . From 2013 to 2014 , sales fell by over a hundred million liters and have not recovered since . Before this decline , sales were rather stable at over 420 million liters .\n"
+}

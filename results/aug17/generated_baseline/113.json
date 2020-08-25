@@ -1,0 +1,109 @@
+{
+   "title": "Global lemon and lime production 2000 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Production in million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in million metric tons, with a total of 18 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2010 to 2004.",
+      " Similarly, the next significant trend is moderately positive which exists from 2017 to 2012.",
+      " Also, the next significant trend is slightly positive which exists from 2004 to 2000.",
+      " Additionally, the next significant trend is slightly positive which exists from 2012 to 2010."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "7",
+         "12": "13"
+      },
+      {
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "13",
+         "14": "17"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Production in million metric tons": 17.22
+      },
+      {
+         "Year": "2016",
+         "Production in million metric tons": 17.35
+      },
+      {
+         "Year": "2015",
+         "Production in million metric tons": 16.99
+      },
+      {
+         "Year": "2014",
+         "Production in million metric tons": 16.25
+      },
+      {
+         "Year": "2013",
+         "Production in million metric tons": 15.23
+      },
+      {
+         "Year": "2012",
+         "Production in million metric tons": 15.01
+      },
+      {
+         "Year": "2011",
+         "Production in million metric tons": 15.07
+      },
+      {
+         "Year": "2010",
+         "Production in million metric tons": 14.85
+      },
+      {
+         "Year": "2009",
+         "Production in million metric tons": 17.23
+      },
+      {
+         "Year": "2008",
+         "Production in million metric tons": 17.18
+      },
+      {
+         "Year": "2007",
+         "Production in million metric tons": 16.25
+      },
+      {
+         "Year": "2006",
+         "Production in million metric tons": 13.66
+      },
+      {
+         "Year": "2005",
+         "Production in million metric tons": 12.33
+      },
+      {
+         "Year": "2004",
+         "Production in million metric tons": 12.3
+      },
+      {
+         "Year": "2003",
+         "Production in million metric tons": 12.62
+      },
+      {
+         "Year": "2002",
+         "Production in million metric tons": 12.3
+      },
+      {
+         "Year": "2001",
+         "Production in million metric tons": 12.16
+      },
+      {
+         "Year": "2000",
+         "Production in million metric tons": 11.38
+      }
+   ],
+   "gold": "This statistic depicts the production of lemons and limes worldwide from 2000 to 2017 . According to the report , global lemon and lime production amounted to approximately 17.22 million metric tons in 2017 .\n"
+}

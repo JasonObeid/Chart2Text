@@ -1,0 +1,132 @@
+{
+   "title": "Bottled water consumption per capita in Europe 2017 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Litres consumed per capita",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 26 categories for the x axis representing Country, and a y axis representing Litres consumed per capita.",
+      " The highest category is found at Italy where Litres consumed per capita is 188.0.",
+      " The lowest category is found at Sweden where Litres consumed per capita is 10.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 25,
+         "12": 25
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Italy",
+         "Litres consumed per capita": 188.0
+      },
+      {
+         "Country": "Germany",
+         "Litres consumed per capita": 175.0
+      },
+      {
+         "Country": "Hungary",
+         "Litres consumed per capita": 126.0
+      },
+      {
+         "Country": "Belgium",
+         "Litres consumed per capita": 130.0
+      },
+      {
+         "Country": "France",
+         "Litres consumed per capita": 125.0
+      },
+      {
+         "Country": "Spain",
+         "Litres consumed per capita": 126.0
+      },
+      {
+         "Country": "Portugal",
+         "Litres consumed per capita": 125.0
+      },
+      {
+         "Country": "EU Average",
+         "Litres consumed per capita": 117.0
+      },
+      {
+         "Country": "Poland",
+         "Litres consumed per capita": 99.0
+      },
+      {
+         "Country": "Austria",
+         "Litres consumed per capita": 92.0
+      },
+      {
+         "Country": "Greece",
+         "Litres consumed per capita": 93.0
+      },
+      {
+         "Country": "Romania",
+         "Litres consumed per capita": 90.0
+      },
+      {
+         "Country": "Bulgaria",
+         "Litres consumed per capita": 80.0
+      },
+      {
+         "Country": "Croatia",
+         "Litres consumed per capita": 74.0
+      },
+      {
+         "Country": "Slovakia",
+         "Litres consumed per capita": 67.0
+      },
+      {
+         "Country": "Slovenia",
+         "Litres consumed per capita": 61.0
+      },
+      {
+         "Country": "Latvia",
+         "Litres consumed per capita": 62.0
+      },
+      {
+         "Country": "Czech Republic",
+         "Litres consumed per capita": 50.0
+      },
+      {
+         "Country": "Lithuania",
+         "Litres consumed per capita": 48.0
+      },
+      {
+         "Country": "Ireland",
+         "Litres consumed per capita": 48.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Litres consumed per capita": 36.0
+      },
+      {
+         "Country": "Estonia",
+         "Litres consumed per capita": 32.0
+      },
+      {
+         "Country": "Netherlands",
+         "Litres consumed per capita": 25.0
+      },
+      {
+         "Country": "Denmark",
+         "Litres consumed per capita": 21.0
+      },
+      {
+         "Country": "Finland",
+         "Litres consumed per capita": 14.0
+      },
+      {
+         "Country": "Sweden",
+         "Litres consumed per capita": 10.0
+      }
+   ],
+   "gold": "This statistic shows the per capita consumption of bottled water in Europe in 2017 . In this year , Italy was the leading market for the consumption of bottled water with 188 liters of bottled water consumed per person and Germany was the second largest consumer of bottled water with 175 liters consumed per person . Bottled water in the European Union is predominantly made up of the natural mineral water category.Germany is the market with the largest amount of different mineral water brands .\n"
+}

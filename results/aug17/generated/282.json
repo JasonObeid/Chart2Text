@@ -1,0 +1,75 @@
+{
+   "title": "Defense spending breakdown of the United Kingdom ( UK ) 2017/18 - 2018/19",
+   "labels": [
+      "Defense Category",
+      "2017/18",
+      "2018/19"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The majority of Military_defense and United in the United Kingdom were listed as Foreign_military_aid oncologists in . ",
+      "Comparatively , the fewest Defense of oncologists were registered as Defense_(not_elsewhere_classified) oncologists at that time . ",
+      "With an aging population and workforce , the United Kingdom is predicted to face a serious shortage of Military_defense and United in the coming years ."
+   ],
+   "trends": [
+      {
+         "3": [
+            "0",
+            "0"
+         ],
+         "5": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "10": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "17": [
+            "0",
+            "0"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Defense Category": "Military defense",
+         "2017/18": "36409",
+         "2018/19": "37980"
+      },
+      {
+         "Defense Category": "Civil defense",
+         "2017/18": "140",
+         "2018/19": "44"
+      },
+      {
+         "Defense Category": "Foreign military aid",
+         "2017/18": "705",
+         "2018/19": "696"
+      },
+      {
+         "Defense Category": "R&D defense",
+         "2017/18": "1231",
+         "2018/19": "1339"
+      },
+      {
+         "Defense Category": "Defense (not elsewhere classified)",
+         "2017/18": "169",
+         "2018/19": "182"
+      }
+   ],
+   "gold": "This statistic shows public sector expenditure on defense in the United Kingdom ( UK ) from 2017/18 to 2018/19 , by type . The majority of spending was for military defense . In 2018/19 , research and development accounted for 1.3 billion British pounds of the total of approximately 32.4 billion British pound expenditure .\n"
+}

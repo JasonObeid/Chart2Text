@@ -1,0 +1,109 @@
+{
+   "title": "Natural gas production - United States 1998 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Production in billion cubic meters",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the total United States energy-related meters Production between 1998 and 2018 . ",
+      "In 2018 , around 831.8 billion cubic meters of CO2 Production were produced from energy consumption in the Natural . ",
+      "In 2015 , around 34.8 billion cubic meters of was emitted globally ."
+   ],
+   "trends": [
+      {
+         "11": "19",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      },
+      {
+         "1": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Production in billion cubic meters": "831.8"
+      },
+      {
+         "Year": "2017",
+         "Production in billion cubic meters": "745.8"
+      },
+      {
+         "Year": "2016",
+         "Production in billion cubic meters": "727.4"
+      },
+      {
+         "Year": "2015",
+         "Production in billion cubic meters": "740.3"
+      },
+      {
+         "Year": "2014",
+         "Production in billion cubic meters": "704.7"
+      },
+      {
+         "Year": "2013",
+         "Production in billion cubic meters": "655.7"
+      },
+      {
+         "Year": "2012",
+         "Production in billion cubic meters": "649.1"
+      },
+      {
+         "Year": "2011",
+         "Production in billion cubic meters": "617.4"
+      },
+      {
+         "Year": "2010",
+         "Production in billion cubic meters": "575.2"
+      },
+      {
+         "Year": "2009",
+         "Production in billion cubic meters": "557.6"
+      },
+      {
+         "Year": "2008",
+         "Production in billion cubic meters": "546.1"
+      },
+      {
+         "Year": "2007",
+         "Production in billion cubic meters": "521.9"
+      },
+      {
+         "Year": "2006",
+         "Production in billion cubic meters": "524.0"
+      },
+      {
+         "Year": "2005",
+         "Production in billion cubic meters": "511.1"
+      },
+      {
+         "Year": "2004",
+         "Production in billion cubic meters": "526.4"
+      },
+      {
+         "Year": "2003",
+         "Production in billion cubic meters": "540.8"
+      },
+      {
+         "Year": "2002",
+         "Production in billion cubic meters": "536.0"
+      },
+      {
+         "Year": "2001",
+         "Production in billion cubic meters": "555.5"
+      },
+      {
+         "Year": "2000",
+         "Production in billion cubic meters": "543.2"
+      },
+      {
+         "Year": "1998",
+         "Production in billion cubic meters": "538.7"
+      }
+   ],
+   "gold": "Production of natural gas in the United States has been increasing for the past decade and amounted to 831.8 billion cubic meters in 2018 . An increase in production corresponded with rising demand for natural gas in the United States , particularly after the 2008 Recession . Natural gas becomes competitive Since the early 2000s , the price of coal had been going up , and increased more rapidly following the 2008 Recession , which affected the cost of crude oil to an even greater degree .\n"
+}

@@ -1,0 +1,101 @@
+{
+   "title": "Participation in online gambling in the United Kingdom 2016 - 2018 , by age group",
+   "labels": [
+      "Year",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing 2018 had the highest values across Year with a mean value of 18.8.",
+      " This peaked at 25-34_year_olds with a value of 23.1. ",
+      " The line with the second highest values was 2017 with a mean value of 18.6.",
+      " This line peaked at 25-34_year_olds with a value of 24.4"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "5",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "4",
+            "2"
+         ],
+         "9": [
+            "4",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "4",
+            "1"
+         ],
+         "10": [
+            "4",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "65+ year olds",
+         "2016": "11.3",
+         "2017": "11.6",
+         "2018": "10.6"
+      },
+      {
+         "Year": "55-64 year olds",
+         "2016": "16.5",
+         "2017": "20.6",
+         "2018": "22.7"
+      },
+      {
+         "Year": "45-54 year olds",
+         "2016": "19.6",
+         "2017": "18.6",
+         "2018": "22"
+      },
+      {
+         "Year": "35-44 year olds",
+         "2016": "21.5",
+         "2017": "22.6",
+         "2018": "22"
+      },
+      {
+         "Year": "25-34 year olds",
+         "2016": "20.5",
+         "2017": "24.4",
+         "2018": "23.1"
+      },
+      {
+         "Year": "16-24 year olds",
+         "2016": "15.7",
+         "2017": "13.6",
+         "2018": "12.2"
+      }
+   ],
+   "gold": "The statistic displays the results of a survey on the proportion of people within different age groups who gamble online on a monthly basis in the United Kingdom ( UK ) from 2016 to 2018 . As of December 2018 , it was found that 23.1 percent of respondents between the age of 25 and 34 years stated that they took part in a form of online gambling in the past four weeks . This age group had the highest proportion of people who gamble online .\n"
+}

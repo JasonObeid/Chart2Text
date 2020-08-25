@@ -1,0 +1,51 @@
+{
+   "title": "Cars of the future - expectations",
+   "labels": [
+      "Race",
+      "I mostly agree",
+      "I totally agree"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic illustrates the herd immunity threshold of several select diseases worldwide as of 2013 . During this time , the herd immunity threshold of mumps was between 75 and 86 percent . The herd immunity threshold refers to the proportion of immune individuals within a population that can prevent the disease .\n",
+   "trends": {},
+   "data": [
+      {
+         "Race": "Maximal safety",
+         "I mostly agree": "17.3",
+         "I totally agree": "75.3"
+      },
+      {
+         "Race": "Economic mobility",
+         "I mostly agree": "25.1",
+         "I totally agree": "63.7"
+      },
+      {
+         "Race": "Highest comfortwhen travelling",
+         "I mostly agree": "34.1",
+         "I totally agree": "51.8"
+      },
+      {
+         "Race": "Sustainability andenvironmental friendliness",
+         "I mostly agree": "27.6",
+         "I totally agree": "58.1"
+      },
+      {
+         "Race": "That it is mainly functional",
+         "I mostly agree": "37.1",
+         "I totally agree": "41.6"
+      },
+      {
+         "Race": "Driving enjoyment -Driving should be fun",
+         "I mostly agree": "35",
+         "I totally agree": "40"
+      },
+      {
+         "Race": "Reflecting my socialstatus/my self-image",
+         "I mostly agree": "21.2",
+         "I totally agree": "13.7"
+      }
+   ],
+   "gold": "The statistic shows people 's expectations of cars in the future . 75.3 percent of respondents totally agree that cars of the future should be as save as possible .\n"
+}

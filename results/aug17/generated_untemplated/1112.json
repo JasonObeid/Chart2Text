@@ -1,0 +1,57 @@
+{
+   "title": "Number of homicides in Sweden 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of homicides",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "Between 2008 and 2018 , each year the netherlands produced between 712,000 and 887,800 kilograms of cheese . Production peaked in 2016 , after which it fell again slightly . In 2018 , the most recent available year , production was 880281 kilograms .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of homicides": 108.0
+      },
+      {
+         "Year": "2017",
+         "Number of homicides": 113.0
+      },
+      {
+         "Year": "2016",
+         "Number of homicides": 106.0
+      },
+      {
+         "Year": "2015",
+         "Number of homicides": 112.0
+      },
+      {
+         "Year": "2014",
+         "Number of homicides": 87.0
+      },
+      {
+         "Year": "2013",
+         "Number of homicides": 87.0
+      },
+      {
+         "Year": "2012",
+         "Number of homicides": 68.0
+      },
+      {
+         "Year": "2011",
+         "Number of homicides": 81.0
+      },
+      {
+         "Year": "2010",
+         "Number of homicides": 91.0
+      },
+      {
+         "Year": "2009",
+         "Number of homicides": 93.0
+      },
+      {
+         "Year": "2008",
+         "Number of homicides": 82.0
+      }
+   ],
+   "gold": "This statistic shows the number of confirmed homicides in Sweden from 2008 to 2018 . The number of homicides has fluctuated in this period . In 2017 , the number stood at 113 homicides which was relatively high considering the whole 10-year period .\n"
+}

@@ -1,0 +1,29 @@
+{
+   "title": "U.S. - average salary for graduates , by discipline 2020\n",
+   "xAxis": "Discipline",
+   "yAxis": "Average salary in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This graph shows the estimated major revenue sources for the islamic state ( isis ) in 2014 . According to the source , isis relies heavily on extortion and taxation . In 2014 , the islamic state took about 600 million u.s. dollars in extortion and taxation in iraq .\n",
+   "trends": {},
+   "data": [
+      {
+         "Discipline": "Computer Science",
+         "Average salary in U.S. dollars": 79793.0
+      },
+      {
+         "Discipline": "Math & Sciences",
+         "Average salary in U.S. dollars": 79717.0
+      },
+      {
+         "Discipline": "Engineering",
+         "Average salary in U.S. dollars": 77298.0
+      },
+      {
+         "Discipline": "Business",
+         "Average salary in U.S. dollars": 75197.0
+      }
+   ],
+   "gold": "In 2020 , it was found that people in the United States with a Master 's degree in Computer Science had the highest average starting salary , at 79,793 U.S. dollars . People who held a Master 's degree in Math and Sciences had the second highest starting salary , at 79,717 U.S. dollars . An abundance of Masters As higher education in the United States has become more common , and even expected , the number of Master 's degrees awarded has increased .\n"
+}

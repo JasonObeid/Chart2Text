@@ -1,0 +1,72 @@
+{
+   "title": "Per capita consumption of chewing gum in selected countries worldwide 2009 to 2012\n",
+   "xAxis": "Country",
+   "yAxis": "Index value",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Country, and a y axis representing Index value.",
+      " The highest category is found at United_States where Index value is 152.0.",
+      " The lowest category is found at India where Index value is 10.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Index value": 152.0
+      },
+      {
+         "Country": "Austria",
+         "Index value": 114.0
+      },
+      {
+         "Country": "Belgium",
+         "Index value": 112.0
+      },
+      {
+         "Country": "Germany",
+         "Index value": 100.0
+      },
+      {
+         "Country": "France",
+         "Index value": 96.0
+      },
+      {
+         "Country": "Great Britain",
+         "Index value": 89.0
+      },
+      {
+         "Country": "Spain",
+         "Index value": 85.0
+      },
+      {
+         "Country": "Russia",
+         "Index value": 84.0
+      },
+      {
+         "Country": "Poland",
+         "Index value": 70.0
+      },
+      {
+         "Country": "China",
+         "Index value": 31.0
+      },
+      {
+         "Country": "India",
+         "Index value": 10.0
+      }
+   ],
+   "gold": "The table shows the per capita consumption of chewing gum in selected countries worldwide from 2009 to 2012 . In 2010 , the United States ' index value of per capita consumption of chewing gum amounted to 152.Chewing gum marketChewing gum belongs to the snack and confectionery segment and is the smallest category besides chocolate and sugary products . Chewing gum has a chewy , easily formable texture and usually has \u2013 besides some exceptions \u2013 a sweet taste .\n"
+}

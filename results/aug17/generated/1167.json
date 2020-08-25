@@ -1,0 +1,59 @@
+{
+   "title": "2012 election : support for Romney and Obama , by ethnic group",
+   "labels": [
+      "Race",
+      "Obama",
+      "Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the 2012 of election leave White_(non-Hispanic) Obama by took last group as of 2017 , Romney group . ",
+      "It was found that 59 % of Romney respondents and 37 % of Obama respondents did not take any election leave White_(non-Hispanic) ."
+   ],
+   "trends": [
+      {
+         "8": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "1"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Race": "White (non-Hispanic)",
+         "Obama": "37",
+         "Romney": "59"
+      },
+      {
+         "Race": "Nonwhite",
+         "Obama": "79",
+         "Romney": "15"
+      },
+      {
+         "Race": "Black",
+         "Obama": "90",
+         "Romney": "5"
+      },
+      {
+         "Race": "Hispanic",
+         "Obama": "69",
+         "Romney": "25"
+      }
+   ],
+   "gold": "This survey shows the voter support for Barack Obama and Mitt Romney in the 2012 election as of October 28 , by ethnic group . If the elections were held that day , about 90 percent of Black or African American voters would vote for Barack Obama .\n"
+}

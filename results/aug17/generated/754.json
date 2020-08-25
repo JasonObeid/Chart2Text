@@ -1,0 +1,149 @@
+{
+   "title": "Number of choking-deaths in the U.S. 1945 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the Number of deaths caused in U.S. from 1945 to 2018 . ",
+      "In 2018 , a total of 5084 deaths in U.S.",
+      "The Number of deaths was in 2017 ."
+   ],
+   "trends": [
+      {
+         "11": "29",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "6": "0"
+      },
+      {
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of deaths": "5084"
+      },
+      {
+         "Year": "2017",
+         "Number of deaths": "5216"
+      },
+      {
+         "Year": "2016",
+         "Number of deaths": "4829"
+      },
+      {
+         "Year": "2015",
+         "Number of deaths": "5051"
+      },
+      {
+         "Year": "2014",
+         "Number of deaths": "4816"
+      },
+      {
+         "Year": "2013",
+         "Number of deaths": "4864"
+      },
+      {
+         "Year": "2012",
+         "Number of deaths": "4634"
+      },
+      {
+         "Year": "2011",
+         "Number of deaths": "4708"
+      },
+      {
+         "Year": "2010",
+         "Number of deaths": "4570"
+      },
+      {
+         "Year": "2009",
+         "Number of deaths": "4370"
+      },
+      {
+         "Year": "2008",
+         "Number of deaths": "4366"
+      },
+      {
+         "Year": "2007",
+         "Number of deaths": "4344"
+      },
+      {
+         "Year": "2006",
+         "Number of deaths": "4332"
+      },
+      {
+         "Year": "2005",
+         "Number of deaths": "4386"
+      },
+      {
+         "Year": "2004",
+         "Number of deaths": "4470"
+      },
+      {
+         "Year": "2003",
+         "Number of deaths": "4272"
+      },
+      {
+         "Year": "2002",
+         "Number of deaths": "4128"
+      },
+      {
+         "Year": "2001",
+         "Number of deaths": "4185"
+      },
+      {
+         "Year": "2000",
+         "Number of deaths": "4313"
+      },
+      {
+         "Year": "1995",
+         "Number of deaths": "3185"
+      },
+      {
+         "Year": "1990",
+         "Number of deaths": "3303"
+      },
+      {
+         "Year": "1985",
+         "Number of deaths": "3551"
+      },
+      {
+         "Year": "1980",
+         "Number of deaths": "3249"
+      },
+      {
+         "Year": "1975",
+         "Number of deaths": "3106"
+      },
+      {
+         "Year": "1970",
+         "Number of deaths": "2753"
+      },
+      {
+         "Year": "1965",
+         "Number of deaths": "1836"
+      },
+      {
+         "Year": "1960",
+         "Number of deaths": "2397"
+      },
+      {
+         "Year": "1955",
+         "Number of deaths": "1608"
+      },
+      {
+         "Year": "1950",
+         "Number of deaths": "1350"
+      },
+      {
+         "Year": "1945",
+         "Number of deaths": "897"
+      }
+   ],
+   "gold": "In 2018 , there were around 5,084 choking deaths in the United States . Death from choking is more common among the elderly with food most often responsible for such incidents . The use of abdominal thrusts , of the Heimlich Maneuver , is suggested to dislodge objects and prevent suffocation .\n"
+}

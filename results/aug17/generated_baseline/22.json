@@ -1,0 +1,123 @@
+{
+   "title": "U.S. per capita consumption of fresh lettuce ( romaine and leaf ) 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Per capita consumption in pounds, with a total of 19 data points. The chart has 6 significant trends.",
+      " The longest trend is moderately positive which exists from 2018 to 2014.",
+      " Similarly, the next significant trend is moderately negative which exists from 2010 to 2006.",
+      " Differently, the next significant trend is extremely positive which exists from 2004 to 2000.",
+      " Also, the next significant trend is slightly negative which exists from 2014 to 2012.",
+      " Conversely, the next significant trend is moderately negative which exists from 2012 to 2010.",
+      " Conversely, the next significant trend is moderately negative which exists from 2006 to 2004."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "8",
+         "14": "12"
+      },
+      {
+         "3": "14",
+         "14": "18"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": 12.3
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": 15.0
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": 14.5
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": 11.9
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": 10.8
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": 11.4
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": 11.9
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": 11.7
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": 12.0
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": 10.0
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": 10.4
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": 11.5
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": 12.0
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": 9.7
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": 12.0
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": 10.8
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": 9.6
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": 8.0
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": 8.4
+      }
+   ],
+   "gold": "The timeline shows the per capita consumption of fresh romaine and leaf lettuce in the United States from 2000 to 2018 . According to the report , the U.S. per capita consumption of fresh romaine and leaf lettuce amounted to approximately 12.3 pounds in 2018 .\n"
+}

@@ -1,0 +1,48 @@
+{
+   "title": "Number of missing persons files in the U.S. by race 2019",
+   "xAxis": "Race",
+   "yAxis": "Number of missing persons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , Indian White and were the Number missing Race files amongst people in the U.S. aged six years and older , accounting for a total of 359768 million missing . ",
+      "Another missing Race pastime for those in the U.S. was Asian , and Asian , with the second highest Number of missing ."
+   ],
+   "trends": [
+      {
+         "3": "4",
+         "5": "0",
+         "7": "0",
+         "30": "0"
+      },
+      {
+         "10": "3",
+         "12": "3",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Race": "White",
+         "Number of missing persons": "359768"
+      },
+      {
+         "Race": "Black",
+         "Number of missing persons": "205802"
+      },
+      {
+         "Race": "Unknown",
+         "Number of missing persons": "20587"
+      },
+      {
+         "Race": "Asian",
+         "Number of missing persons": "12671"
+      },
+      {
+         "Race": "Indian",
+         "Number of missing persons": "10447"
+      }
+   ],
+   "gold": "In 2019 , there were 359,768 cases filed by the NCIC where the race of the reported missing was white . In the same year , 20,587 people were missing whose race was unknown . What is the NCIC ? The National Crime Information Center ( NCIC ) is a digital database that stores crime data for the United States , so criminal justice agencies can access it .\n"
+}

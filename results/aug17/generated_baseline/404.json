@@ -1,0 +1,72 @@
+{
+   "title": "Revenue of Sonic Corporation in the U.S. from 2009 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 10 data points. The chart has 3 significant trends.",
+      " The longest trend is moderately negative which exists from 2013 to 2009.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2016 to 2013.",
+      " Additionally, the next significant trend is slightly negative which exists from 2018 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "5",
+         "12": "9"
+      },
+      {
+         "3": "2",
+         "14": "5"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 423.59
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 477.27
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 606.32
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 606.09
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 552.35
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 542.59
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 543.73
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 545.95
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 550.93
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 706.28
+      }
+   ],
+   "gold": "This statistic shows the revenue of Sonic Corporation in the United States from 2009 to 2018 . In 2018 , Sonic Corp. generated a revenue of 423.59 million U.S. dollars . Sonic Corporation , founded in Oklahoma , United States in 1953 , is a drive-in fast-food restaurant chain .\n"
+}

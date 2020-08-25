@@ -1,0 +1,133 @@
+{
+   "title": "Number of choking-deaths in the U.S. 1945 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "Since 1990 , the death rate of deaths in the united has stayed more or less steady . In 2018 , the female rate of deaths has been consistently decreased to live births per 100,000 people . Over the past few years , the number of deaths stood at 32.6 deaths per 100,000 persons in 2018 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of deaths": 5084.0
+      },
+      {
+         "Year": "2017",
+         "Number of deaths": 5216.0
+      },
+      {
+         "Year": "2016",
+         "Number of deaths": 4829.0
+      },
+      {
+         "Year": "2015",
+         "Number of deaths": 5051.0
+      },
+      {
+         "Year": "2014",
+         "Number of deaths": 4816.0
+      },
+      {
+         "Year": "2013",
+         "Number of deaths": 4864.0
+      },
+      {
+         "Year": "2012",
+         "Number of deaths": 4634.0
+      },
+      {
+         "Year": "2011",
+         "Number of deaths": 4708.0
+      },
+      {
+         "Year": "2010",
+         "Number of deaths": 4570.0
+      },
+      {
+         "Year": "2009",
+         "Number of deaths": 4370.0
+      },
+      {
+         "Year": "2008",
+         "Number of deaths": 4366.0
+      },
+      {
+         "Year": "2007",
+         "Number of deaths": 4344.0
+      },
+      {
+         "Year": "2006",
+         "Number of deaths": 4332.0
+      },
+      {
+         "Year": "2005",
+         "Number of deaths": 4386.0
+      },
+      {
+         "Year": "2004",
+         "Number of deaths": 4470.0
+      },
+      {
+         "Year": "2003",
+         "Number of deaths": 4272.0
+      },
+      {
+         "Year": "2002",
+         "Number of deaths": 4128.0
+      },
+      {
+         "Year": "2001",
+         "Number of deaths": 4185.0
+      },
+      {
+         "Year": "2000",
+         "Number of deaths": 4313.0
+      },
+      {
+         "Year": "1995",
+         "Number of deaths": 3185.0
+      },
+      {
+         "Year": "1990",
+         "Number of deaths": 3303.0
+      },
+      {
+         "Year": "1985",
+         "Number of deaths": 3551.0
+      },
+      {
+         "Year": "1980",
+         "Number of deaths": 3249.0
+      },
+      {
+         "Year": "1975",
+         "Number of deaths": 3106.0
+      },
+      {
+         "Year": "1970",
+         "Number of deaths": 2753.0
+      },
+      {
+         "Year": "1965",
+         "Number of deaths": 1836.0
+      },
+      {
+         "Year": "1960",
+         "Number of deaths": 2397.0
+      },
+      {
+         "Year": "1955",
+         "Number of deaths": 1608.0
+      },
+      {
+         "Year": "1950",
+         "Number of deaths": 1350.0
+      },
+      {
+         "Year": "1945",
+         "Number of deaths": 897.0
+      }
+   ],
+   "gold": "In 2018 , there were around 5,084 choking deaths in the United States . Death from choking is more common among the elderly with food most often responsible for such incidents . The use of abdominal thrusts , of the Heimlich Maneuver , is suggested to dislodge objects and prevent suffocation .\n"
+}

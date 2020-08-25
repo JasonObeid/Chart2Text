@@ -1,0 +1,103 @@
+{
+   "title": "Leading financial centers worldwide 2019",
+   "xAxis": "State",
+   "yAxis": "Points on the Global Financial Centres Index",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the 20 Leading financial centers in the worldwide according to the Global Peace Points 2018 . ",
+      "According to the Global Peace Points 2019 , New_York was the Leading financial State in the worldwide with an Points value of 1.072 . ",
+      "Additional information on the Global Peace Points The Global Peace Points is an effort by the Institute for Economics and Peace to measure the degree of peacefulness in centers across the global and rank them accordingly ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "New York",
+         "Points on the Global Financial Centres Index": "790"
+      },
+      {
+         "State": "London",
+         "Points on the Global Financial Centres Index": "773"
+      },
+      {
+         "State": "Hong Kong",
+         "Points on the Global Financial Centres Index": "771"
+      },
+      {
+         "State": "Singapore",
+         "Points on the Global Financial Centres Index": "762"
+      },
+      {
+         "State": "Shanghai",
+         "Points on the Global Financial Centres Index": "761"
+      },
+      {
+         "State": "Tokyo",
+         "Points on the Global Financial Centres Index": "757"
+      },
+      {
+         "State": "Beijing",
+         "Points on the Global Financial Centres Index": "748"
+      },
+      {
+         "State": "Dubai",
+         "Points on the Global Financial Centres Index": "740"
+      },
+      {
+         "State": "Shenzhen",
+         "Points on the Global Financial Centres Index": "739"
+      },
+      {
+         "State": "Sydney",
+         "Points on the Global Financial Centres Index": "738"
+      },
+      {
+         "State": "Toronto",
+         "Points on the Global Financial Centres Index": "737"
+      },
+      {
+         "State": "San Francisco",
+         "Points on the Global Financial Centres Index": "736"
+      },
+      {
+         "State": "Los Angeles",
+         "Points on the Global Financial Centres Index": "735"
+      },
+      {
+         "State": "Zurich",
+         "Points on the Global Financial Centres Index": "734"
+      },
+      {
+         "State": "Frankfurt",
+         "Points on the Global Financial Centres Index": "733"
+      },
+      {
+         "State": "Chicago",
+         "Points on the Global Financial Centres Index": "732"
+      },
+      {
+         "State": "Paris",
+         "Points on the Global Financial Centres Index": "728"
+      },
+      {
+         "State": "Boston",
+         "Points on the Global Financial Centres Index": "728"
+      },
+      {
+         "State": "Melbourne",
+         "Points on the Global Financial Centres Index": "720"
+      },
+      {
+         "State": "Montreal",
+         "Points on the Global Financial Centres Index": "716"
+      }
+   ],
+   "gold": "This statistic presents the most attractive financial centers worldwide as of September 2019 . The private institute Z/Yen has constructed an index for financial center rating , in which a multitude of factors are integrated . New York proved to be the most attractive financial center in 2019 , with 790 points assigned in the Z/Yen report .\n"
+}

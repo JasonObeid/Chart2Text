@@ -1,0 +1,144 @@
+{
+   "title": "Annual compensation earned by U.S. physicians by specialty 2019\n",
+   "xAxis": "Occupation",
+   "yAxis": "Annual compensation in thousand U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 29 categories for the x axis representing Occupation, and a y axis representing Annual compensation in thousand U.S. dollars.",
+      " The highest category is found at Orthopedics where Annual compensation in thousand U.S. dollars is 482.0.",
+      " The lowest category is found at Public_health/preventive_medicine where Annual compensation in thousand U.S. dollars is 209.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 28,
+         "12": 28
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Occupation": "Orthopedics",
+         "Annual compensation in thousand U.S. dollars": 482.0
+      },
+      {
+         "Occupation": "Plastic surgery",
+         "Annual compensation in thousand U.S. dollars": 471.0
+      },
+      {
+         "Occupation": "Otolaryngology",
+         "Annual compensation in thousand U.S. dollars": 461.0
+      },
+      {
+         "Occupation": "Cardiology",
+         "Annual compensation in thousand U.S. dollars": 430.0
+      },
+      {
+         "Occupation": "Dermatology",
+         "Annual compensation in thousand U.S. dollars": 419.0
+      },
+      {
+         "Occupation": "Radiology",
+         "Annual compensation in thousand U.S. dollars": 419.0
+      },
+      {
+         "Occupation": "Gastroenterology",
+         "Annual compensation in thousand U.S. dollars": 417.0
+      },
+      {
+         "Occupation": "Urology",
+         "Annual compensation in thousand U.S. dollars": 408.0
+      },
+      {
+         "Occupation": "Anesthesiology",
+         "Annual compensation in thousand U.S. dollars": 392.0
+      },
+      {
+         "Occupation": "Ophthalmology",
+         "Annual compensation in thousand U.S. dollars": 366.0
+      },
+      {
+         "Occupation": "General surgery",
+         "Annual compensation in thousand U.S. dollars": 362.0
+      },
+      {
+         "Occupation": "Oncology",
+         "Annual compensation in thousand U.S. dollars": 359.0
+      },
+      {
+         "Occupation": "Emergency medicine",
+         "Annual compensation in thousand U.S. dollars": 353.0
+      },
+      {
+         "Occupation": "Critical care",
+         "Annual compensation in thousand U.S. dollars": 349.0
+      },
+      {
+         "Occupation": "Pulmonology",
+         "Annual compensation in thousand U.S. dollars": 331.0
+      },
+      {
+         "Occupation": "Pathology",
+         "Annual compensation in thousand U.S. dollars": 308.0
+      },
+      {
+         "Occupation": "Physical medicine/rehabilitation",
+         "Annual compensation in thousand U.S. dollars": 306.0
+      },
+      {
+         "Occupation": "Nephrology",
+         "Annual compensation in thousand U.S. dollars": 305.0
+      },
+      {
+         "Occupation": "Obstetricians/gynecologists",
+         "Annual compensation in thousand U.S. dollars": 303.0
+      },
+      {
+         "Occupation": "Allergy/immunology",
+         "Annual compensation in thousand U.S. dollars": 275.0
+      },
+      {
+         "Occupation": "Neurology",
+         "Annual compensation in thousand U.S. dollars": 267.0
+      },
+      {
+         "Occupation": "Psychiatry",
+         "Annual compensation in thousand U.S. dollars": 260.0
+      },
+      {
+         "Occupation": "Rheumatology",
+         "Annual compensation in thousand U.S. dollars": 259.0
+      },
+      {
+         "Occupation": "Internal medicine",
+         "Annual compensation in thousand U.S. dollars": 243.0
+      },
+      {
+         "Occupation": "Infectious disease",
+         "Annual compensation in thousand U.S. dollars": 239.0
+      },
+      {
+         "Occupation": "Diabetes/endocrinology",
+         "Annual compensation in thousand U.S. dollars": 236.0
+      },
+      {
+         "Occupation": "Family medicine",
+         "Annual compensation in thousand U.S. dollars": 231.0
+      },
+      {
+         "Occupation": "Pediatrics",
+         "Annual compensation in thousand U.S. dollars": 225.0
+      },
+      {
+         "Occupation": "Public health/preventive medicine",
+         "Annual compensation in thousand U.S. dollars": 209.0
+      }
+   ],
+   "gold": "Orthopedic physicians earn an average annual compensation of around 482,000 U.S. dollars . This makes orthopedic physicians the most well-compensated physicians in the United States as of 2019 . An orthopaedic physician specializes in injuries and diseases involving bones , muscles , joints , nerves and other parts of the musculoskeletal system .\n"
+}

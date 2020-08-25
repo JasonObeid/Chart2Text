@@ -1,0 +1,49 @@
+{
+   "title": "Southwest Airlines - available seat miles 2011 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "ASMs in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the annual pre-tax profit of the British automotive company jaguar land rover from financial year 2011 to financial year 2019 in million British pounds . Between 2011 and 2018 , the company made a pre-tax profit higher than 1 billion British pounds in every year . However , the most recent financial year suggested a more difficult business climate , as the company recorded its first pre-tax loss in this period of consideration , at 3.6 billion British pounds .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "ASMs in billions": 157.25
+      },
+      {
+         "Year": "2018",
+         "ASMs in billions": 159.8
+      },
+      {
+         "Year": "2017",
+         "ASMs in billions": 153.81
+      },
+      {
+         "Year": "2016",
+         "ASMs in billions": 148.52
+      },
+      {
+         "Year": "2015",
+         "ASMs in billions": 140.5
+      },
+      {
+         "Year": "2014",
+         "ASMs in billions": 131.0
+      },
+      {
+         "Year": "2013",
+         "ASMs in billions": 130.34
+      },
+      {
+         "Year": "2012",
+         "ASMs in billions": 128.14
+      },
+      {
+         "Year": "2011",
+         "ASMs in billions": 120.58
+      }
+   ],
+   "gold": "Southwest Airlines grew its available seat miles ( ASMs ) from 120.58 billion in 2011 to 157.25 billion in 2019 . ASMs are calculated by the total number of seats multiplied by the total distance traveled . When describing the airline industry , people consider ASMs as a measure of capacity .\n"
+}

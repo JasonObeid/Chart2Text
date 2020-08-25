@@ -1,0 +1,201 @@
+{
+   "title": "Quarterly U.S. e-commerce retail sales 2009 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "E-commerce sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "How many iPhones have been sold in 2019 ? In the fourth Quarter of 2019 alone , U.S. sold 158049 million iPhones sales , a figure which slightly outpaced its sales from the corresponding Quarter of 2017 . ",
+      "In entire 2019 , 217.72 million iPhones were shipped sales . ",
+      "U.S. typically releases at least 37391 new version of its U.S. each year , a strategy which has helped the company consistently pull in quarterly sales figures in the tens of million ."
+   ],
+   "trends": [
+      {
+         "19": "0"
+      },
+      {},
+      {
+         "5": "41"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "E-commerce sales in million U.S. dollars": "158049"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "E-commerce sales in million U.S. dollars": "153976"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "E-commerce sales in million U.S. dollars": "147141"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "E-commerce sales in million U.S. dollars": "140346"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "E-commerce sales in million U.S. dollars": "134969"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "E-commerce sales in million U.S. dollars": "132819"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "E-commerce sales in million U.S. dollars": "129046"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "E-commerce sales in million U.S. dollars": "122534"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "E-commerce sales in million U.S. dollars": "118216"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "E-commerce sales in million U.S. dollars": "114186"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "E-commerce sales in million U.S. dollars": "110505"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "E-commerce sales in million U.S. dollars": "106207"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "E-commerce sales in million U.S. dollars": "101776"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "E-commerce sales in million U.S. dollars": "99875"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "E-commerce sales in million U.S. dollars": "96283"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "E-commerce sales in million U.S. dollars": "92182"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "E-commerce sales in million U.S. dollars": "88968"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "E-commerce sales in million U.S. dollars": "86569"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "E-commerce sales in million U.S. dollars": "83370"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "E-commerce sales in million U.S. dollars": "80344"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "E-commerce sales in million U.S. dollars": "77755"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "E-commerce sales in million U.S. dollars": "75883"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "E-commerce sales in million U.S. dollars": "73480"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "E-commerce sales in million U.S. dollars": "70492"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "E-commerce sales in million U.S. dollars": "68179"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "E-commerce sales in million U.S. dollars": "65804"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "E-commerce sales in million U.S. dollars": "63949"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "E-commerce sales in million U.S. dollars": "62025"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "E-commerce sales in million U.S. dollars": "60439"
+      },
+      {
+         "Quarter": "Q3 '12",
+         "E-commerce sales in million U.S. dollars": "58157"
+      },
+      {
+         "Quarter": "Q2 '12",
+         "E-commerce sales in million U.S. dollars": "56067"
+      },
+      {
+         "Quarter": "Q1 '12",
+         "E-commerce sales in million U.S. dollars": "54896"
+      },
+      {
+         "Quarter": "Q4 '11",
+         "E-commerce sales in million U.S. dollars": "52984"
+      },
+      {
+         "Quarter": "Q3 '11",
+         "E-commerce sales in million U.S. dollars": "49985"
+      },
+      {
+         "Quarter": "Q2 '11",
+         "E-commerce sales in million U.S. dollars": "48696"
+      },
+      {
+         "Quarter": "Q1 '11",
+         "E-commerce sales in million U.S. dollars": "46908"
+      },
+      {
+         "Quarter": "Q4 '10",
+         "E-commerce sales in million U.S. dollars": "45064"
+      },
+      {
+         "Quarter": "Q3 '10",
+         "E-commerce sales in million U.S. dollars": "43507"
+      },
+      {
+         "Quarter": "Q2 '10",
+         "E-commerce sales in million U.S. dollars": "41308"
+      },
+      {
+         "Quarter": "Q1 '10",
+         "E-commerce sales in million U.S. dollars": "39291"
+      },
+      {
+         "Quarter": "Q4 '09",
+         "E-commerce sales in million U.S. dollars": "38106"
+      },
+      {
+         "Quarter": "Q3 '09",
+         "E-commerce sales in million U.S. dollars": "37391"
+      },
+      {
+         "Quarter": "Q2 '09",
+         "E-commerce sales in million U.S. dollars": "35279"
+      },
+      {
+         "Quarter": "Q1 '09",
+         "E-commerce sales in million U.S. dollars": "34145"
+      }
+   ],
+   "gold": "In the fourth quarter of 2019 , adjusted U.S. retail e-commerce sales amounted to over 158 billion U.S. dollars . Retail e-commerce sales in the United States are estimated from samples used for the Monthly Retail Trade Survey and exclude online travel services , ticket sales agencies and financial brokers . Online retail sales currently account for one tenth of total retail and approximately 5 percent of annual e-commerce revenue in the United States .\n"
+}

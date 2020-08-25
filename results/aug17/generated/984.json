@@ -1,0 +1,46 @@
+{
+   "title": "Market share of streaming devices in the United States 2014",
+   "xAxis": "Streaming Device",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Market share of global share streaming devices segment as of 2014 , States Streaming . ",
+      "In this year , Roku Nephew held 24 % of the global Market for share streaming devices segment . ",
+      "Roku Nephew are a British-based Streaming that specializes in manufacturing medical equipment such as arthroscopy products and share streaming devices products ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "7": "1"
+      },
+      {
+         "0": "1"
+      }
+   ],
+   "data": [
+      {
+         "Streaming Device": "Apple TV",
+         "Market share": "43"
+      },
+      {
+         "Streaming Device": "Roku",
+         "Market share": "24"
+      },
+      {
+         "Streaming Device": "Chromecast",
+         "Market share": "14"
+      },
+      {
+         "Streaming Device": "Tivo",
+         "Market share": "6"
+      },
+      {
+         "Streaming Device": "Other",
+         "Market share": "13"
+      }
+   ],
+   "gold": "The statistic shows a breakdown of the U.S. American streaming devices market according to market share in 2014 . Google 's Chromecast held a market share of 14 percent in 2014 .\n"
+}

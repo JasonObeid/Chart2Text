@@ -1,0 +1,55 @@
+{
+   "title": "Number of oncology practices in the U.S. by region and size 2013",
+   "labels": [
+      "Country",
+      "1-2 physicians",
+      "3-6 physicians",
+      "7 or more physicians"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. of oncology practices U.S. by region size as of October 2013 , by Country . ",
+      "During the survey , 31 % of respondents from the Northeast said that official oncology classifications or star ratings were 1-2 physicians U.S. by a oncology ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "1",
+            "1"
+         ],
+         "10": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "Midwest",
+         "1-2 physicians": "33",
+         "3-6 physicians": "41",
+         "7 or more physicians": "55"
+      },
+      {
+         "Country": "Northeast",
+         "1-2 physicians": "31",
+         "3-6 physicians": "41",
+         "7 or more physicians": "40"
+      },
+      {
+         "Country": "South",
+         "1-2 physicians": "59",
+         "3-6 physicians": "29",
+         "7 or more physicians": "75"
+      },
+      {
+         "Country": "West",
+         "1-2 physicians": "24",
+         "3-6 physicians": "46",
+         "7 or more physicians": "52"
+      }
+   ],
+   "gold": "This survey displays the number of oncology practices in the United States based on the number of physicians , by region , in 2013 . In that year , there were 24 oncology practices in the western part of the United States with only one or two physicians . The size and demographic of medical professionals in oncology plays a significant role in the accessibility and quality of cancer care for patients in the United States .\n"
+}

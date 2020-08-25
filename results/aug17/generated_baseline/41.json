@@ -1,0 +1,48 @@
+{
+   "title": "Consumers with a newspaper or magazine subscriptions in the U.S. 2017 , by age group\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Retirees where Share of respondents is 54.0.",
+      " The lowest category is found at Millennials where Share of respondents is 33.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Total",
+         "Share of respondents": 41.0
+      },
+      {
+         "Response": "Millennials",
+         "Share of respondents": 33.0
+      },
+      {
+         "Response": "Gen X",
+         "Share of respondents": 35.0
+      },
+      {
+         "Response": "Boomers",
+         "Share of respondents": 45.0
+      },
+      {
+         "Response": "Retirees",
+         "Share of respondents": 54.0
+      }
+   ],
+   "gold": "This statistic provides information on the share of consumers with an active newspaper or magazine subscription in the United States as of January 2017 , sorted by age . According to the source , 54 percent of Retirees who subscribe to service subscriptions had a newspaper or magazine subscription as of January 2017 .\n"
+}

@@ -1,0 +1,117 @@
+{
+   "title": "Population age structure in metropolitan areas in the U.S .",
+   "labels": [
+      "Area",
+      "Under 18 years",
+      "18 to 44 years",
+      "45 to 64 years",
+      "65 to 74 years",
+      "75 years and over"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the age structure metropolitan in the Population in , areas Area . ",
+      "In , female employees working in Chicago_-_Naperville_-_Joliet_IL-IN-WI earned 2436723 U.S dollars per week on average , while their male counterparts earned 3654096 U.S dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "2",
+            "0"
+         ],
+         "9": [
+            "2",
+            "1"
+         ],
+         "22": [
+            "2",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Area": "New York - Northern New Jersey - Long Island NY-NJ-PA",
+         "Under 18 years": "4423734",
+         "18 to 44 years": "7135783",
+         "45 to 64 years": "5022623",
+         "65 to 74 years": "1293522",
+         "75 years and over": "1194134"
+      },
+      {
+         "Area": "Los Angeles - Long Beach - Santa Ana CA",
+         "Under 18 years": "3256354",
+         "18 to 44 years": "5163207",
+         "45 to 64 years": "3065350",
+         "65 to 74 years": "725875",
+         "75 years and over": "664011"
+      },
+      {
+         "Area": "Chicago - Naperville - Joliet IL-IN-WI",
+         "Under 18 years": "2436723",
+         "18 to 44 years": "3654096",
+         "45 to 64 years": "2415975",
+         "65 to 74 years": "572564",
+         "75 years and over": "501209"
+      },
+      {
+         "Area": "Dallas - Fort Worth - Arlington TX",
+         "Under 18 years": "1806339",
+         "18 to 44 years": "2598211",
+         "45 to 64 years": "1489928",
+         "65 to 74 years": "311959",
+         "75 years and over": "241178"
+      },
+      {
+         "Area": "Philadelphia - Camden - Wilmington PA-NJ-DE-MD",
+         "Under 18 years": "1399360",
+         "18 to 44 years": "2183443",
+         "45 to 64 years": "1593846",
+         "65 to 74 years": "396354",
+         "75 years and over": "395249"
+      },
+      {
+         "Area": "Houston - Sugar Land - Baytown TX",
+         "Under 18 years": "1673274",
+         "18 to 44 years": "2296708",
+         "45 to 64 years": "1401077",
+         "65 to 74 years": "285072",
+         "75 years and over": "211358"
+      },
+      {
+         "Area": "Miami - Fort Lauderdale - Pompano Beach FL",
+         "Under 18 years": "1251716",
+         "18 to 44 years": "1991118",
+         "45 to 64 years": "1420578",
+         "65 to 74 years": "404918",
+         "75 years and over": "478721"
+      },
+      {
+         "Area": "Washington - Arlington - Alexandria DC-VA-MD-WV",
+         "Under 18 years": "1337831",
+         "18 to 44 years": "2152100",
+         "45 to 64 years": "1436495",
+         "65 to 74 years": "310624",
+         "75 years and over": "239191"
+      },
+      {
+         "Area": "Atlanta - Sandy Springs - Marietta GA",
+         "Under 18 years": "1476554",
+         "18 to 44 years": "2185701",
+         "45 to 64 years": "1342201",
+         "65 to 74 years": "274841",
+         "75 years and over": "195916"
+      },
+      {
+         "Area": "Boston - Cambridge - Quincy MA-NH",
+         "Under 18 years": "993673",
+         "18 to 44 years": "1758176",
+         "45 to 64 years": "1245644",
+         "65 to 74 years": "300875",
+         "75 years and over": "290312"
+      }
+   ],
+   "gold": "This graph shows the age structure of the population in the 10 largest metropolitan areas in the U.S. in 2009 . 4.42 million people under 18 years of age were living in New York in 2009 .\n"
+}

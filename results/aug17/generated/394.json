@@ -1,0 +1,38 @@
+{
+   "title": "Market share of soft drink companies in South Africa 2010",
+   "xAxis": "Company",
+   "yAxis": "Market share in South Africa",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the share of global South Africa unit shipments by vendor in 2010 . ",
+      "PepsiCo_Inc 's share of South Africa shipments South stood at 49.8 % in 2010 ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "9": "3"
+      }
+   ],
+   "data": [
+      {
+         "Company": "PepsiCo Inc",
+         "Market share in South Africa": "5.5"
+      },
+      {
+         "Company": "Tiger Brands Ltd",
+         "Market share in South Africa": "9.4"
+      },
+      {
+         "Company": "Other",
+         "Market share in South Africa": "35.3"
+      },
+      {
+         "Company": "The Coca-Cola Co",
+         "Market share in South Africa": "49.8"
+      }
+   ],
+   "gold": "The statistic shows the market share of soft drink companies in South Africa in 2010 , based on sales value . In that year , Coca Cola 's market share in South Africa amounted to 49.8 percent . The leading 3 soft drink companies in South Africa had a market share of 64.7 percent .\n"
+}

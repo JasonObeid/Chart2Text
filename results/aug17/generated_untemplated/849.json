@@ -1,0 +1,33 @@
+{
+   "title": "Reactions to racist posts on social media in the U.S. 2017\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the percentage of teenage social media users in the united who have experienced peer pressure on social media as of 2015 . During the survey period , it was found that 21 percent of respondents felt worse about their own life because of something they saw from other friends on social media .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Ignore the post",
+         "Share of respondents": 40.0
+      },
+      {
+         "Response": "Unfollow/unfriend the poster",
+         "Share of respondents": 31.0
+      },
+      {
+         "Response": "Comment on/ reply to the post",
+         "Share of respondents": 17.0
+      },
+      {
+         "Response": "Discuss the content with the poster offline (e.g. on the phone in person etc.)",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Don't know",
+         "Share of respondents": 7.0
+      }
+   ],
+   "gold": "This statistic shows the most common reactions of online adults in the United States when encountering racist posts on social media . During the August 2017 survey , 40 percent of respondents stated they would ignore the content , whereas 31 percent would unfollow or unfriend the poster .\n"
+}

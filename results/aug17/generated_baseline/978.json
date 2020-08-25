@@ -1,0 +1,72 @@
+{
+   "title": "LINE : number of monthly active users 2014 to 2016\n",
+   "xAxis": "Quarter",
+   "yAxis": "Number of monthly users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Quarter, and a y axis representing Number of monthly users in millions.",
+      " The highest category is found at Q3_'16 where Number of monthly users in millions is 220.0.",
+      " The lowest category is found at Q2_'14 where Number of monthly users in millions is 170.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '16",
+         "Number of monthly users in millions": 217.0
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Number of monthly users in millions": 220.0
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Number of monthly users in millions": 220.0
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Number of monthly users in millions": 218.4
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Number of monthly users in millions": 215.0
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Number of monthly users in millions": 212.0
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Number of monthly users in millions": 211.0
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Number of monthly users in millions": 205.0
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Number of monthly users in millions": 190.0
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Number of monthly users in millions": 179.0
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Number of monthly users in millions": 170.0
+      }
+   ],
+   "gold": "This statistic shows a timeline with the amount of monthly active LINE users worldwide as of the fourth quarter of 2016 . As of that period , the mobile messaging app announced more than 217 million monthly active users . In October 2014 , LINE had also reported 560 million registered users worldwide .\n"
+}

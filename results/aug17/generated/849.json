@@ -1,0 +1,43 @@
+{
+   "title": "Reactions to racist posts on social media in the U.S. 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a 2017 survey among Americans aged 16 and older regarding the Reactions they are looking for in a close posts . ",
+      "This statistic only shows the top five answers to that question . ",
+      "40 % of the respondents stated a close posts has to be loyal ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Ignore the post",
+         "Share of respondents": "40"
+      },
+      {
+         "Response": "Unfollow/unfriend the poster",
+         "Share of respondents": "31"
+      },
+      {
+         "Response": "Comment on/ reply to the post",
+         "Share of respondents": "17"
+      },
+      {
+         "Response": "Discuss the content with the poster offline (e.g. on the phone in person etc.)",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Don't know",
+         "Share of respondents": "7"
+      }
+   ],
+   "gold": "This statistic shows the most common reactions of online adults in the United States when encountering racist posts on social media . During the August 2017 survey , 40 percent of respondents stated they would ignore the content , whereas 31 percent would unfollow or unfriend the poster .\n"
+}

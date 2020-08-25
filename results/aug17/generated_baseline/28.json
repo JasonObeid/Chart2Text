@@ -1,0 +1,106 @@
+{
+   "title": "Projected total revenue of Amazon 2002 to 2022\n",
+   "xAxis": "Year",
+   "yAxis": "Net revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars with a total of 21 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2022 to 2002."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "20"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2022",
+         "Net revenue in billion U.S. dollars": 356.0
+      },
+      {
+         "Year": "2021",
+         "Net revenue in billion U.S. dollars": 316.0
+      },
+      {
+         "Year": "2020",
+         "Net revenue in billion U.S. dollars": 276.0
+      },
+      {
+         "Year": "2019",
+         "Net revenue in billion U.S. dollars": 238.0
+      },
+      {
+         "Year": "2018",
+         "Net revenue in billion U.S. dollars": 201.0
+      },
+      {
+         "Year": "2017",
+         "Net revenue in billion U.S. dollars": 166.0
+      },
+      {
+         "Year": "2016",
+         "Net revenue in billion U.S. dollars": 136.0
+      },
+      {
+         "Year": "2015",
+         "Net revenue in billion U.S. dollars": 107.0
+      },
+      {
+         "Year": "2014",
+         "Net revenue in billion U.S. dollars": 89.0
+      },
+      {
+         "Year": "2013",
+         "Net revenue in billion U.S. dollars": 74.0
+      },
+      {
+         "Year": "2012",
+         "Net revenue in billion U.S. dollars": 61.0
+      },
+      {
+         "Year": "2011",
+         "Net revenue in billion U.S. dollars": 48.0
+      },
+      {
+         "Year": "2010",
+         "Net revenue in billion U.S. dollars": 34.0
+      },
+      {
+         "Year": "2009",
+         "Net revenue in billion U.S. dollars": 25.0
+      },
+      {
+         "Year": "2008",
+         "Net revenue in billion U.S. dollars": 19.0
+      },
+      {
+         "Year": "2007",
+         "Net revenue in billion U.S. dollars": 15.0
+      },
+      {
+         "Year": "2006",
+         "Net revenue in billion U.S. dollars": 11.0
+      },
+      {
+         "Year": "2005",
+         "Net revenue in billion U.S. dollars": 8.0
+      },
+      {
+         "Year": "2004",
+         "Net revenue in billion U.S. dollars": 7.0
+      },
+      {
+         "Year": "2003",
+         "Net revenue in billion U.S. dollars": 5.0
+      },
+      {
+         "Year": "2002",
+         "Net revenue in billion U.S. dollars": 4.0
+      }
+   ],
+   "gold": "The time series shows the projected net revenue of Amazon.com 's e-commerce and service from 2002 to 2022 , in billion US dollars . In the last measured year fiscal period , the multinational e-commerce company 's net revenue was 136 billion U.S. dollars , up from 107 billion U.S. dollars in 2015 . Amazon.com , an American electronic commerce company originally founded in 1994 , is the world 's largest online retailer of books , clothing , electronics , music and many more goods .\n"
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Infant mortality rate in the Philippines 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Deaths per 1,000 live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the infant mortality rate in south sudan from 2008 to 2018 . In 2018 , the infant mortality rate in south sudan was at about 63.7 deaths per 1,000 live births .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Deaths per 1,000 live births": 22.5
+      },
+      {
+         "Year": "2017",
+         "Deaths per 1,000 live births": 22.9
+      },
+      {
+         "Year": "2016",
+         "Deaths per 1,000 live births": 23.4
+      },
+      {
+         "Year": "2015",
+         "Deaths per 1,000 live births": 23.7
+      },
+      {
+         "Year": "2014",
+         "Deaths per 1,000 live births": 24.0
+      },
+      {
+         "Year": "2013",
+         "Deaths per 1,000 live births": 24.2
+      },
+      {
+         "Year": "2012",
+         "Deaths per 1,000 live births": 24.4
+      },
+      {
+         "Year": "2011",
+         "Deaths per 1,000 live births": 24.7
+      },
+      {
+         "Year": "2010",
+         "Deaths per 1,000 live births": 25.0
+      },
+      {
+         "Year": "2009",
+         "Deaths per 1,000 live births": 25.3
+      },
+      {
+         "Year": "2008",
+         "Deaths per 1,000 live births": 25.5
+      }
+   ],
+   "gold": "The statistic shows the infant mortality rate in the Philippines from 2008 to 2018 . In 2018 , the infant mortality rate in the Philippines was at about 22.5 deaths per 1,000 live births .\n"
+}

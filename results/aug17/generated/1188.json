@@ -1,0 +1,65 @@
+{
+   "title": "Average ticket price Atlanta Hawks ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Average ticket price for Atlanta Hawks games of the National Basketball Association from 2006/07 to 2015/16 . ",
+      "In the 2006/07 season , the Average ticket price was 51.78 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": "36.82"
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": "35.26"
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": "35.26"
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": "34.75"
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": "36.13"
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": "36.13"
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": "51.78"
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": "36.9"
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": "38.0"
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": "42.18"
+      }
+   ],
+   "gold": "This graph depicts the average ticket price for Atlanta Hawks games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 42.18 U.S. dollars .\n"
+}

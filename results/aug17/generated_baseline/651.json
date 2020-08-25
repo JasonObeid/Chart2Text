@@ -1,0 +1,147 @@
+{
+   "title": "Online search query market share worldwide 2017 , by search engine",
+   "labels": [
+      "Response",
+      "Google",
+      "Yahoo",
+      "Bing",
+      "AOL",
+      "Ask",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 11 categories for the x axis of Response representing Google, Yahoo, Bing, AOL, Ask, and Other.",
+      " The highest category is found at Total with a mean value of 16.67.",
+      " The second highest category is found at Ten or more words with a mean value of 16.67.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "10"
+         ],
+         "14": [
+            "6",
+            "10"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Total",
+         "Google": "15.77",
+         "Yahoo": "5.24",
+         "Bing": "66.77",
+         "AOL": "0.26",
+         "Ask": "3.4",
+         "Other": "8.57"
+      },
+      {
+         "Response": "One word",
+         "Google": "38.88",
+         "Yahoo": "3.17",
+         "Bing": "25.47",
+         "AOL": "0.22",
+         "Ask": "2.68",
+         "Other": "29.58"
+      },
+      {
+         "Response": "Two words",
+         "Google": "11.17",
+         "Yahoo": "7.52",
+         "Bing": "76.39",
+         "AOL": "0.68",
+         "Ask": "2.75",
+         "Other": "1.49"
+      },
+      {
+         "Response": "Three words",
+         "Google": "6.75",
+         "Yahoo": "5.22",
+         "Bing": "84.01",
+         "AOL": "0.1",
+         "Ask": "3.25",
+         "Other": "0.66"
+      },
+      {
+         "Response": "Four words",
+         "Google": "5.12",
+         "Yahoo": "5.28",
+         "Bing": "86.59",
+         "AOL": "0.09",
+         "Ask": "2.66",
+         "Other": "0.26"
+      },
+      {
+         "Response": "Five words",
+         "Google": "4.58",
+         "Yahoo": "5.18",
+         "Bing": "87.04",
+         "AOL": "0.21",
+         "Ask": "2.95",
+         "Other": "0.04"
+      },
+      {
+         "Response": "Six words",
+         "Google": "8.3",
+         "Yahoo": "6.96",
+         "Bing": "79.38",
+         "AOL": "0.36",
+         "Ask": "4.73",
+         "Other": "0.27"
+      },
+      {
+         "Response": "Seven words",
+         "Google": "7.65",
+         "Yahoo": "9.28",
+         "Bing": "73.29",
+         "AOL": "0.65",
+         "Ask": "8.96",
+         "Other": "0.16"
+      },
+      {
+         "Response": "Eight words",
+         "Google": "7.56",
+         "Yahoo": "7.84",
+         "Bing": "71.99",
+         "AOL": "0.84",
+         "Ask": "11.76",
+         "Other": "0"
+      },
+      {
+         "Response": "Nine words",
+         "Google": "6.4",
+         "Yahoo": "8.37",
+         "Bing": "75.86",
+         "AOL": "0.49",
+         "Ask": "8.87",
+         "Other": "0"
+      },
+      {
+         "Response": "Ten or more words",
+         "Google": "5.24",
+         "Yahoo": "9.42",
+         "Bing": "65.97",
+         "AOL": "0",
+         "Ask": "19.37",
+         "Other": "0"
+      }
+   ],
+   "gold": "This statistic shows the global search engine market share as of August 2017 , by search query size . During the survey period , it was found that Bing accounted for 25.47 percent of single-word search queries worldwide .\n"
+}

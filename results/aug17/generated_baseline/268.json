@@ -1,0 +1,143 @@
+{
+   "title": "Average retail price for ground beef in Canada 2015 to 2019",
+   "labels": [
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 12 categories for the x axis of Month representing 2015, 2016, 2017, 2018, and 2019.",
+      " The highest category is found at Apr with a mean value of 12.29.",
+      " The second highest category is found at Sep with a mean value of 12.29.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "8"
+         ],
+         "13": [
+            "5",
+            "8"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "5",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec",
+         "2015": "12.8",
+         "2016": "11.91",
+         "2017": "12.21",
+         "2018": "11.47",
+         "2019": "0"
+      },
+      {
+         "Month": "Nov",
+         "2015": "12.86",
+         "2016": "12.04",
+         "2017": "12.35",
+         "2018": "11.96",
+         "2019": "11.69"
+      },
+      {
+         "Month": "Oct",
+         "2015": "13.23",
+         "2016": "12.36",
+         "2017": "12.11",
+         "2018": "11.94",
+         "2019": "11.54"
+      },
+      {
+         "Month": "Sep",
+         "2015": "12.96",
+         "2016": "12.4",
+         "2017": "12.45",
+         "2018": "11.95",
+         "2019": "11.67"
+      },
+      {
+         "Month": "Aug",
+         "2015": "12.66",
+         "2016": "12.19",
+         "2017": "12.41",
+         "2018": "12.18",
+         "2019": "11.23"
+      },
+      {
+         "Month": "Jul",
+         "2015": "12.57",
+         "2016": "12.25",
+         "2017": "12.19",
+         "2018": "11.71",
+         "2019": "10.86"
+      },
+      {
+         "Month": "Jun",
+         "2015": "12.75",
+         "2016": "12.29",
+         "2017": "12.2",
+         "2018": "12.15",
+         "2019": "11.41"
+      },
+      {
+         "Month": "May",
+         "2015": "12.64",
+         "2016": "12.71",
+         "2017": "12.38",
+         "2018": "12.05",
+         "2019": "11.3"
+      },
+      {
+         "Month": "Apr",
+         "2015": "12.59",
+         "2016": "12.78",
+         "2017": "12.36",
+         "2018": "12.53",
+         "2019": "11.19"
+      },
+      {
+         "Month": "Mar",
+         "2015": "12.43",
+         "2016": "13.11",
+         "2017": "12.21",
+         "2018": "12.1",
+         "2019": "11.29"
+      },
+      {
+         "Month": "Feb",
+         "2015": "12.29",
+         "2016": "12.62",
+         "2017": "12.02",
+         "2018": "12.11",
+         "2019": "11.41"
+      },
+      {
+         "Month": "Jan",
+         "2015": "11.99",
+         "2016": "12.75",
+         "2017": "11.93",
+         "2018": "12.19",
+         "2019": "11.55"
+      }
+   ],
+   "gold": "In Canada , one kilogram of ground beef cost an average 11.69 Canadian dollars in November 2019 . This price has fluctuated throughout the year , with a high of 11.67 dollars in October 2019 . Ground , otherwise known as minced , beef is often considered a cheaper and more versatile alternative to other cuts of beef .\n"
+}

@@ -1,0 +1,33 @@
+{
+   "title": "Average price of wearable technology products in the United Kingdom ( UK ) 2014\n",
+   "xAxis": "Wearable Technology Products",
+   "yAxis": "Average price in GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the amount of money boat owners in the u.s. spent on boating in 2012 . 18.3 percent of the respondents stated that they spent between $ 1,000 and $ 1,999 on boating in 2012 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Wearable Technology Products": "Action cameras headsets and glasses",
+         "Average price in GBP": 220.0
+      },
+      {
+         "Wearable Technology Products": "Smart watches",
+         "Average price in GBP": 163.0
+      },
+      {
+         "Wearable Technology Products": "Total market",
+         "Average price in GBP": 120.0
+      },
+      {
+         "Wearable Technology Products": "Wrist sport computers",
+         "Average price in GBP": 82.0
+      },
+      {
+         "Wearable Technology Products": "Health and fitness trackers",
+         "Average price in GBP": 73.0
+      }
+   ],
+   "gold": "This statistic shows the average price of wearable technology products in the United Kingdom ( UK ) during the period from January to September 2014 , by product . Smart watches cost an average 163 British pounds in the UK , while wrist sport computers cost an average 82 British pounds .\n"
+}

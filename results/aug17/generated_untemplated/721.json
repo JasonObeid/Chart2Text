@@ -1,0 +1,57 @@
+{
+   "title": "BMW - motor vehicles produced worldwide 2006 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic represents the number of motor vehicles produced by the toyota motor Corporation from 2006 through 2016 . Globally , the world 's largest automaker produced about 10.2 million motor vehicles in 2016 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2016",
+         "Production in thousand units": 2359.76
+      },
+      {
+         "Year": "2015",
+         "Production in thousand units": 2279.5
+      },
+      {
+         "Year": "2014",
+         "Production in thousand units": 2165.57
+      },
+      {
+         "Year": "2013",
+         "Production in thousand units": 2006.37
+      },
+      {
+         "Year": "2012",
+         "Production in thousand units": 2065.48
+      },
+      {
+         "Year": "2011",
+         "Production in thousand units": 1738.16
+      },
+      {
+         "Year": "2010",
+         "Production in thousand units": 1481.25
+      },
+      {
+         "Year": "2009",
+         "Production in thousand units": 1258.42
+      },
+      {
+         "Year": "2008",
+         "Production in thousand units": 1439.92
+      },
+      {
+         "Year": "2007",
+         "Production in thousand units": 1541.5
+      },
+      {
+         "Year": "2006",
+         "Production in thousand units": 1366.84
+      }
+   ],
+   "gold": "This timeline represents the motor vehicle production of BMW worldwide from 2006 through 2016 . Globally , the manufacturer of automobiles and motorcycles produced a little over 2.3 million vehicles in 2016 .\n"
+}

@@ -1,0 +1,45 @@
+{
+   "title": "FIFA World Cup winner 's prize money 2018",
+   "xAxis": "Year",
+   "yAxis": "Prize money in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the FIFA of World Cup at the World Cup 's as of 2018 . ",
+      "According to the industry , approximately 38.0 million of the World Cup money were between the 2018_(Russia) and were 35.0 million in 2018_(Russia) ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "15": "0",
+         "17": "0",
+         "19": "1",
+         "22": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018 (Russia)",
+         "Prize money in million U.S. dollars": "38.0"
+      },
+      {
+         "Year": "2014 (Brazil)",
+         "Prize money in million U.S. dollars": "35.0"
+      },
+      {
+         "Year": "2010 (South Africa)",
+         "Prize money in million U.S. dollars": "30.0"
+      },
+      {
+         "Year": "2006 (Germany)",
+         "Prize money in million U.S. dollars": "19.56"
+      },
+      {
+         "Year": "2002 (Korea & Japan)",
+         "Prize money in million U.S. dollars": "7.99"
+      }
+   ],
+   "gold": "This statistic shows the prize money awarded to the winner of the FIFA World Cup from 2002 to 2018 . The winner of the 2014 World Cup was given 35 million U.S. dollars in prize money .\n"
+}

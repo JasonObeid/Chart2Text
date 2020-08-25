@@ -1,0 +1,126 @@
+{
+   "title": "Nokia 's net sales 1999 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Net sales in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net sales in billion euros, with a total of 21 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly negative which exists from 2016 to 2010.",
+      " On the contrary, the next significant trend is moderately negative which exists from 2019 to 2016.",
+      " On the other hand, the next significant trend is slightly negative which exists from 2010 to 2007.",
+      " But, the next significant trend is extremely positive which exists from 2007 to 2004.",
+      " Similarly, the next significant trend is moderately negative which exists from 2004 to 2001."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "3",
+         "12": "9"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "15"
+      },
+      {
+         "3": "15",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net sales in billion euros": 23.32
+      },
+      {
+         "Year": "2018",
+         "Net sales in billion euros": 22.56
+      },
+      {
+         "Year": "2017",
+         "Net sales in billion euros": 23.15
+      },
+      {
+         "Year": "2016",
+         "Net sales in billion euros": 23.64
+      },
+      {
+         "Year": "2015",
+         "Net sales in billion euros": 12.5
+      },
+      {
+         "Year": "2014",
+         "Net sales in billion euros": 11.76
+      },
+      {
+         "Year": "2013",
+         "Net sales in billion euros": 12.71
+      },
+      {
+         "Year": "2012",
+         "Net sales in billion euros": 30.18
+      },
+      {
+         "Year": "2011",
+         "Net sales in billion euros": 38.66
+      },
+      {
+         "Year": "2010",
+         "Net sales in billion euros": 42.45
+      },
+      {
+         "Year": "2009",
+         "Net sales in billion euros": 40.98
+      },
+      {
+         "Year": "2008",
+         "Net sales in billion euros": 50.71
+      },
+      {
+         "Year": "2007",
+         "Net sales in billion euros": 51.06
+      },
+      {
+         "Year": "2006",
+         "Net sales in billion euros": 41.12
+      },
+      {
+         "Year": "2005",
+         "Net sales in billion euros": 34.19
+      },
+      {
+         "Year": "2004",
+         "Net sales in billion euros": 29.37
+      },
+      {
+         "Year": "2003",
+         "Net sales in billion euros": 29.53
+      },
+      {
+         "Year": "2002",
+         "Net sales in billion euros": 30.02
+      },
+      {
+         "Year": "2001",
+         "Net sales in billion euros": 31.19
+      },
+      {
+         "Year": "2000",
+         "Net sales in billion euros": 30.38
+      },
+      {
+         "Year": "1999",
+         "Net sales in billion euros": 19.77
+      }
+   ],
+   "gold": "In 2018 , Nokia had 22.5 billion euros in net sales , which is a small decrease from the year before . In the past decade , the company has made several directional shifts from handheld devices to network infrastructure in order to keep up with the quickly evolving electronics and telecommunications industry . Focus on B2B markets and products After selling its mobile and devices segment to Microsoft in 2014 , Nokia has focused on its network infrastructure business .\n"
+}

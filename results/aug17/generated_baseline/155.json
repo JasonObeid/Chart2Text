@@ -1,0 +1,108 @@
+{
+   "title": "Chained consumer price index of all urban consumers 2000 to 2019\n",
+   "xAxis": "December value",
+   "yAxis": "Chained Consumer Price Index (1999=100)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing December value, and a y axis representing Chained Consumer Price Index (1999=100).",
+      " The highest category is found at 2019 where Chained Consumer Price Index (1999=100) is 144.73.",
+      " The lowest category is found at 2000 where Chained Consumer Price Index (1999=100) is 102.6."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "December value": "2019",
+         "Chained Consumer Price Index (1999=100)": 144.73
+      },
+      {
+         "December value": "2018",
+         "Chained Consumer Price Index (1999=100)": 141.7
+      },
+      {
+         "December value": "2017",
+         "Chained Consumer Price Index (1999=100)": 139.55
+      },
+      {
+         "December value": "2016",
+         "Chained Consumer Price Index (1999=100)": 137.22
+      },
+      {
+         "December value": "2015",
+         "Chained Consumer Price Index (1999=100)": 134.79
+      },
+      {
+         "December value": "2014",
+         "Chained Consumer Price Index (1999=100)": 134.21
+      },
+      {
+         "December value": "2013",
+         "Chained Consumer Price Index (1999=100)": 133.51
+      },
+      {
+         "December value": "2012",
+         "Chained Consumer Price Index (1999=100)": 131.77
+      },
+      {
+         "December value": "2011",
+         "Chained Consumer Price Index (1999=100)": 129.84
+      },
+      {
+         "December value": "2010",
+         "Chained Consumer Price Index (1999=100)": 126.14
+      },
+      {
+         "December value": "2009",
+         "Chained Consumer Price Index (1999=100)": 124.54
+      },
+      {
+         "December value": "2008",
+         "Chained Consumer Price Index (1999=100)": 121.56
+      },
+      {
+         "December value": "2007",
+         "Chained Consumer Price Index (1999=100)": 121.3
+      },
+      {
+         "December value": "2006",
+         "Chained Consumer Price Index (1999=100)": 117.0
+      },
+      {
+         "December value": "2005",
+         "Chained Consumer Price Index (1999=100)": 114.4
+      },
+      {
+         "December value": "2004",
+         "Chained Consumer Price Index (1999=100)": 111.2
+      },
+      {
+         "December value": "2003",
+         "Chained Consumer Price Index (1999=100)": 107.8
+      },
+      {
+         "December value": "2002",
+         "Chained Consumer Price Index (1999=100)": 106.0
+      },
+      {
+         "December value": "2001",
+         "Chained Consumer Price Index (1999=100)": 103.9
+      },
+      {
+         "December value": "2000",
+         "Chained Consumer Price Index (1999=100)": 102.6
+      }
+   ],
+   "gold": "This statistic shows the unadjusted chained Consumer Price Index in the United States from 2000 to 2019 , at year-end . In December 2019 , the chained consumer price index stood at 144.73 , reflecting a 44.73 percent increase from the base year of 1999 . The average wages garnered in select countries around the world based on purchasing power can be accessed here .\n"
+}

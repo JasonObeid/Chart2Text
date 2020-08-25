@@ -1,0 +1,111 @@
+{
+   "title": "Unemployment rate in Brunei Darussalam 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Unemployment rate in Brunei from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Brunei was at about 9.25 % . ",
+      "Employment and the economy in Brunei is one of the leading countries when it comes to economic key factors ; its Unemployment rate , for example , is lower than that of other major industrial and emerging countries ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "9.25"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "9.22"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "9.32"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "8.56"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "7.76"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "6.97"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "7.03"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "6.9"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "6.72"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "6.66"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "6.42"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "5.7"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "5.62"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "5.74"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "5.87"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "5.92"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "5.88"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "5.77"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "5.63"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "5.6"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "5.57"
+      }
+   ],
+   "gold": "This statistic shows the unemployment rate in Brunei Darussalam from 1999 to 2019 . In 2019 , the estimated unemployment rate in Brunei Darussalam was at approximately 9.25 percent .\n"
+}

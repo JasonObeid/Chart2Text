@@ -1,0 +1,63 @@
+{
+   "title": "Number of knife crimes in London 2010 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of offences (in 1,000s)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of offences (in 1,000s), with a total of 9 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2018/19 to 2014/15.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2014/15 to 2010/11."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "4",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Number of offences (in 1,000s)": 14.84
+      },
+      {
+         "Year": "2017/18",
+         "Number of offences (in 1,000s)": 14.77
+      },
+      {
+         "Year": "2016/17",
+         "Number of offences (in 1,000s)": 12.11
+      },
+      {
+         "Year": "2015/16",
+         "Number of offences (in 1,000s)": 9.74
+      },
+      {
+         "Year": "2014/15",
+         "Number of offences (in 1,000s)": 9.69
+      },
+      {
+         "Year": "2013/14",
+         "Number of offences (in 1,000s)": 10.08
+      },
+      {
+         "Year": "2012/13",
+         "Number of offences (in 1,000s)": 11.38
+      },
+      {
+         "Year": "2011/12",
+         "Number of offences (in 1,000s)": 14.17
+      },
+      {
+         "Year": "2010/11",
+         "Number of offences (in 1,000s)": 13.33
+      }
+   ],
+   "gold": "In 2018/19 the number of knife crime offences recorded in London reached almost 15 thousand , an increase of more than five thousand compared with 2015/16 . This rise reversed the trend of decreasing knife crime offences recorded between 2011/12 and 2014/15 , which saw a reduction of knife crime offences from just over 14 thousand to under 9.7 thousand . A wider trend The increase in knife crime witnessed in London has occurred alongside a general increase in overall knife crime throughout England and Wales .\n"
+}

@@ -1,0 +1,83 @@
+{
+   "title": "General Electric : number of employees 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic depicts the Number of General Electric employees 2005 from to 2018 worldwide . ",
+      "In 2018 , General Electric employed 283 people worldwide . ",
+      "General Electric is founded in 1890 Berlin as a transport and accident insurer ."
+   ],
+   "trends": [
+      {
+         "10": "13",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees in thousands": "283"
+      },
+      {
+         "Year": "2017",
+         "Number of employees in thousands": "313"
+      },
+      {
+         "Year": "2016",
+         "Number of employees in thousands": "295"
+      },
+      {
+         "Year": "2015",
+         "Number of employees in thousands": "333"
+      },
+      {
+         "Year": "2014",
+         "Number of employees in thousands": "305"
+      },
+      {
+         "Year": "2013",
+         "Number of employees in thousands": "307"
+      },
+      {
+         "Year": "2012",
+         "Number of employees in thousands": "305"
+      },
+      {
+         "Year": "2011",
+         "Number of employees in thousands": "301"
+      },
+      {
+         "Year": "2010",
+         "Number of employees in thousands": "287"
+      },
+      {
+         "Year": "2009",
+         "Number of employees in thousands": "304"
+      },
+      {
+         "Year": "2008",
+         "Number of employees in thousands": "323"
+      },
+      {
+         "Year": "2007",
+         "Number of employees in thousands": "327"
+      },
+      {
+         "Year": "2006",
+         "Number of employees in thousands": "319"
+      },
+      {
+         "Year": "2005",
+         "Number of employees in thousands": "316"
+      }
+   ],
+   "gold": "This statistic shows the approximate number of employees at General Electric each year from 2005 to 2018 . In 2018 , General Electric employed around 283,000 people worldwide . Total number of GE employees General Electric conducts business in virtually every part of the world , with over 180 countries served .\n"
+}

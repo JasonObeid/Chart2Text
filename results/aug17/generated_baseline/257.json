@@ -1,0 +1,84 @@
+{
+   "title": "Android app download ranges worldwide 2018\n",
+   "xAxis": "Number of downloads",
+   "yAxis": "Share of apps",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 14 categories for the x axis representing Number of downloads, and a y axis representing Share of apps.",
+      " The highest category is found at 100-500 where Share of apps is 21.12.",
+      " The lowest category is found at 5000000+ where Share of apps is 0.1."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Number of downloads": "1-5",
+         "Share of apps": 7.59
+      },
+      {
+         "Number of downloads": "5-10",
+         "Share of apps": 3.89
+      },
+      {
+         "Number of downloads": "10-50",
+         "Share of apps": 18.48
+      },
+      {
+         "Number of downloads": "50-100",
+         "Share of apps": 9.39
+      },
+      {
+         "Number of downloads": "100-500",
+         "Share of apps": 21.12
+      },
+      {
+         "Number of downloads": "500-1000",
+         "Share of apps": 7.5
+      },
+      {
+         "Number of downloads": "1000-5000",
+         "Share of apps": 14.11
+      },
+      {
+         "Number of downloads": "5000-10000",
+         "Share of apps": 4.51
+      },
+      {
+         "Number of downloads": "10000-50000",
+         "Share of apps": 7.41
+      },
+      {
+         "Number of downloads": "50000-100000",
+         "Share of apps": 1.93
+      },
+      {
+         "Number of downloads": "100000-500000",
+         "Share of apps": 2.66
+      },
+      {
+         "Number of downloads": "500000-1000000",
+         "Share of apps": 0.58
+      },
+      {
+         "Number of downloads": "1000000-5000000",
+         "Share of apps": 0.63
+      },
+      {
+         "Number of downloads": "5000000+",
+         "Share of apps": 0.1
+      }
+   ],
+   "gold": "The chart shows the distribution of Android apps per download range as of the first quarter 2018 . As of the measured period , 21.12 percent of apps in the Google Play Store had generated 100 to 500 downloads . Only 0.1 percent of apps managed to accumulate more than five million downloads .\n"
+}

@@ -1,0 +1,46 @@
+{
+   "title": "Casino visitors in the U.S. ordered by age group 2010",
+   "xAxis": "Age of casino visitors",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the visitors Age of ordered in the U.S. when purchasing Casino , according to a survey published 2014 . ",
+      "Of respondents , 33 percentage said they researched products Age_21-34 Age_50-64 visitors in Age_65_and_over , while 21 percentage said they shopped Age_35-49 ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "2",
+         "9": "0",
+         "10": "2",
+         "13": "3",
+         "16": "1",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Age of casino visitors": "Age 21-34",
+         "Percentage of respondents": "18"
+      },
+      {
+         "Age of casino visitors": "Age 35-49",
+         "Percentage of respondents": "21"
+      },
+      {
+         "Age of casino visitors": "Age 50-64",
+         "Percentage of respondents": "33"
+      },
+      {
+         "Age of casino visitors": "Age 65 and over",
+         "Percentage of respondents": "25"
+      },
+      {
+         "Age of casino visitors": "Don't know / refused",
+         "Percentage of respondents": "3"
+      }
+   ],
+   "gold": "The graph depicts the age group distribution of casino vistors in the U.S. in 2010 . 25 percent of casino visitors were aged 65 years or older .\n"
+}

@@ -1,0 +1,33 @@
+{
+   "title": "Reasons for eating fast food in the U.S. as of August 2014\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the percentage of online consumers in the united who are amazon prime members . During the most recent survey period in 2016 , it was found that 71 percent of responding Millennials had an amazon prime membership .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Convenient",
+         "Share of respondents": 67.2
+      },
+      {
+         "Response": "Cheap",
+         "Share of respondents": 31.7
+      },
+      {
+         "Response": "I just like it",
+         "Share of respondents": 30.6
+      },
+      {
+         "Response": "Lack of other options",
+         "Share of respondents": 13.2
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 5.6
+      }
+   ],
+   "gold": "This statistic shows the reasons for eating fast food in the United States as of August 2014 . During the survey , 13.2 percent of respondents said that they ate fast food because they lacked other options .\n"
+}

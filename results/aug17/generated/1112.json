@@ -1,0 +1,70 @@
+{
+   "title": "Number of homicides in Sweden 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of homicides",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "In the fall semester 2018 , 108 homicides were reported in universities and other higher education institutions in Sweden . ",
+      "Since 2000 , the Number of individuals in Sweden with an upper secondary education increased , while the individuals without decreased . ",
+      "In 2018 , 21.7 % of the female population had an upper secondary education degree of three years and 24.9 % of the male population ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "6": "0"
+      },
+      {},
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of homicides": "108"
+      },
+      {
+         "Year": "2017",
+         "Number of homicides": "113"
+      },
+      {
+         "Year": "2016",
+         "Number of homicides": "106"
+      },
+      {
+         "Year": "2015",
+         "Number of homicides": "112"
+      },
+      {
+         "Year": "2014",
+         "Number of homicides": "87"
+      },
+      {
+         "Year": "2013",
+         "Number of homicides": "87"
+      },
+      {
+         "Year": "2012",
+         "Number of homicides": "68"
+      },
+      {
+         "Year": "2011",
+         "Number of homicides": "81"
+      },
+      {
+         "Year": "2010",
+         "Number of homicides": "91"
+      },
+      {
+         "Year": "2009",
+         "Number of homicides": "93"
+      },
+      {
+         "Year": "2008",
+         "Number of homicides": "82"
+      }
+   ],
+   "gold": "This statistic shows the number of confirmed homicides in Sweden from 2008 to 2018 . The number of homicides has fluctuated in this period . In 2017 , the number stood at 113 homicides which was relatively high considering the whole 10-year period .\n"
+}

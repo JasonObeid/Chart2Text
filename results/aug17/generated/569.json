@@ -1,0 +1,79 @@
+{
+   "title": "Croatia : Number of road deaths 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Between 2006 and 2018 , Number fatalities in Croatia had seen a net decline of 27 % . ",
+      "The lowest figure of such fatalities was recorded in 2017 at 307 . ",
+      "These figures stand in contrast to an increase in the volume of passenger Number transport ."
+   ],
+   "trends": [
+      {
+         "1": "12",
+         "3": "0"
+      },
+      {
+         "9": "1",
+         "11": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": "317"
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": "331"
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": "307"
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": "348"
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": "308"
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": "368"
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": "393"
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": "418"
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": "426"
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": "548"
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": "664"
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": "619"
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": "614"
+      }
+   ],
+   "gold": "This statistic illustrates the number of road traffic fatalities per year in Croatia between 2006 and 2018 . In the period of consideration , road fatalities presented an overall trend of decline . The year with the lowest amount of fatalities was 2016 , with a total of 207 road traffic fatalities in Croatia .\n"
+}

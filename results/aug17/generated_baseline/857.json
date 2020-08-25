@@ -1,0 +1,94 @@
+{
+   "title": "Google : global corporate demography 2014 - 2019 , by gender",
+   "labels": [
+      "Year",
+      "Female",
+      "Male"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Male had the highest values across Year with a mean value of 69.2.",
+      " This peaked at 2014 with a value of 69.4. ",
+      " The line with the second highest values was Female with a mean value of 30.9.",
+      " This line peaked at 2019 with a value of 31.6"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "0"
+         ],
+         "10": [
+            "5",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Female": "30.6",
+         "Male": "69.4"
+      },
+      {
+         "Year": "2015",
+         "Female": "30.6",
+         "Male": "69.4"
+      },
+      {
+         "Year": "2016",
+         "Female": "30.6",
+         "Male": "69.4"
+      },
+      {
+         "Year": "2017",
+         "Female": "30.8",
+         "Male": "69.2"
+      },
+      {
+         "Year": "2018",
+         "Female": "30.9",
+         "Male": "69.1"
+      },
+      {
+         "Year": "2019",
+         "Female": "31.6",
+         "Male": "68.4"
+      }
+   ],
+   "gold": "This statistic illustrates the distribution of Google employees worldwide from 2014 to 2019 , sorted by gender . In the most recently measured period , 31.6 percent of the total number of global Google employees were female . The majority of employees were male .\n"
+}

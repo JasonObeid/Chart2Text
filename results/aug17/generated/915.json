@@ -1,0 +1,71 @@
+{
+   "title": "Budget balance in Greece 2024",
+   "xAxis": "Year",
+   "yAxis": "Budget balance in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Budget balance in Greece from 2014 to 2018 , with projections up until 2024 . ",
+      "A positive value indicates a state surplus ; a negative value , a state deficit . ",
+      "In 2018 , the state deficit of Greece was around 37.51 billion euros ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {},
+      {
+         "1": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Budget balance in billion euros": "-3.59"
+      },
+      {
+         "Year": "2023",
+         "Budget balance in billion euros": "-2.98"
+      },
+      {
+         "Year": "2022",
+         "Budget balance in billion euros": "-2.42"
+      },
+      {
+         "Year": "2021",
+         "Budget balance in billion euros": "-2.18"
+      },
+      {
+         "Year": "2020",
+         "Budget balance in billion euros": "-1.97"
+      },
+      {
+         "Year": "2019",
+         "Budget balance in billion euros": "-0.59"
+      },
+      {
+         "Year": "2018",
+         "Budget balance in billion euros": "1.77"
+      },
+      {
+         "Year": "2017",
+         "Budget balance in billion euros": "1.91"
+      },
+      {
+         "Year": "2016",
+         "Budget balance in billion euros": "0.98"
+      },
+      {
+         "Year": "2015",
+         "Budget balance in billion euros": "-4.91"
+      },
+      {
+         "Year": "2014",
+         "Budget balance in billion euros": "-7.27"
+      }
+   ],
+   "gold": "The statistic shows the budget balance in Greece from 2014 to 2018 , with projections until 2024 . A positive value indicates a state surplus ; a negative value , a budget deficit . In 2018 , the budget surplus of Greece was around 1.77 billion euros .\n"
+}

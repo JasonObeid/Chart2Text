@@ -1,0 +1,120 @@
+{
+   "title": "Number of dogs in the European Union 2018 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of dogs in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Number of European in the dogs thousands in Europe by selected 2018 in . ",
+      "The generic Number in the dogs industry 's thousands in Portugal exceeded 2100 thousands in 2018 . ",
+      "thousands Number of European is higher in newer EU member states due to low levels of intellectual property protection ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "7",
+         "13": "7"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of dogs in thousands": "9400"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of dogs in thousands": "9000"
+      },
+      {
+         "Country": "Poland",
+         "Number of dogs in thousands": "7600"
+      },
+      {
+         "Country": "Italy",
+         "Number of dogs in thousands": "7002"
+      },
+      {
+         "Country": "France",
+         "Number of dogs in thousands": "6950"
+      },
+      {
+         "Country": "Spain",
+         "Number of dogs in thousands": "6270"
+      },
+      {
+         "Country": "Romania",
+         "Number of dogs in thousands": "4000"
+      },
+      {
+         "Country": "Portugal",
+         "Number of dogs in thousands": "2100"
+      },
+      {
+         "Country": "Czechia",
+         "Number of dogs in thousands": "2000"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of dogs in thousands": "1520"
+      },
+      {
+         "Country": "Belgium",
+         "Number of dogs in thousands": "1315"
+      },
+      {
+         "Country": "Hungary",
+         "Number of dogs in thousands": "1180"
+      },
+      {
+         "Country": "Slovakia",
+         "Number of dogs in thousands": "900"
+      },
+      {
+         "Country": "Sweden",
+         "Number of dogs in thousands": "880"
+      },
+      {
+         "Country": "Austria",
+         "Number of dogs in thousands": "827"
+      },
+      {
+         "Country": "Finland",
+         "Number of dogs in thousands": "810"
+      },
+      {
+         "Country": "Bulgaria",
+         "Number of dogs in thousands": "740"
+      },
+      {
+         "Country": "Greece",
+         "Number of dogs in thousands": "660"
+      },
+      {
+         "Country": "Denmark",
+         "Number of dogs in thousands": "595"
+      },
+      {
+         "Country": "Lithuania",
+         "Number of dogs in thousands": "550"
+      },
+      {
+         "Country": "Ireland",
+         "Number of dogs in thousands": "450"
+      },
+      {
+         "Country": "Slovenia",
+         "Number of dogs in thousands": "290"
+      },
+      {
+         "Country": "Latvia",
+         "Number of dogs in thousands": "260"
+      },
+      {
+         "Country": "Estonia",
+         "Number of dogs in thousands": "210"
+      }
+   ],
+   "gold": "This statistic presents the number of pet dogs in the European Union by country , as of 2018 . Germany ranked highest with a dog population of approximately 9.4 million in 2018 , followed by the United Kingdom ( UK ) with nine million . The number of dogs in Europe has seen a notable increase since 2010 , with the number of dogs significantly increasing by more than eleven million from 2010 to 2018 .\n"
+}

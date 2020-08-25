@@ -1,0 +1,65 @@
+{
+   "title": "New York Rangers ( NHL ) average ticket price 2014/15",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Average ticket price for New York Rangers games of the National Basketball Association from 05/06 to 14/15 . ",
+      "In the 05/06 season , the Average ticket price was 45.83 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "14/15",
+         "Average ticket price in U.S. dollars": "77.87"
+      },
+      {
+         "Year": "13/14",
+         "Average ticket price in U.S. dollars": "74.89"
+      },
+      {
+         "Year": "12/13",
+         "Average ticket price in U.S. dollars": "72.04"
+      },
+      {
+         "Year": "11/12",
+         "Average ticket price in U.S. dollars": "66.2"
+      },
+      {
+         "Year": "10/11",
+         "Average ticket price in U.S. dollars": "58.57"
+      },
+      {
+         "Year": "09/10",
+         "Average ticket price in U.S. dollars": "58.57"
+      },
+      {
+         "Year": "08/09",
+         "Average ticket price in U.S. dollars": "58.57"
+      },
+      {
+         "Year": "07/08",
+         "Average ticket price in U.S. dollars": "54.96"
+      },
+      {
+         "Year": "06/07",
+         "Average ticket price in U.S. dollars": "50.33"
+      },
+      {
+         "Year": "05/06",
+         "Average ticket price in U.S. dollars": "45.83"
+      }
+   ],
+   "gold": "This graph depicts the average ticket price of New York Rangers games within the National Hockey League from 2005/06 to 2014/15 . In the 2005/06 season , the average ticket price was 45.83 U.S. dollars . The Rangers play their home games at the Madison Square Garden in New York City .\n"
+}

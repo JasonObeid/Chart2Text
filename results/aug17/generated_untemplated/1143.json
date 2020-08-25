@@ -1,0 +1,61 @@
+{
+   "title": "Number of earthquakes , by country 1900 to 2016\n",
+   "xAxis": "Country",
+   "yAxis": "Number of earthquakes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the percent share of gold as compared to the total central bank reserves of the countries with the largest gold holdings worldwide , as of the fourth quarter of 2018 . At that point , the united states central bank kept nearly 75 percent of its total monetary holdings as gold reserves .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "China",
+         "Number of earthquakes": 157.0
+      },
+      {
+         "Country": "Indonesia",
+         "Number of earthquakes": 113.0
+      },
+      {
+         "Country": "Iran (Islamic Republic of)",
+         "Number of earthquakes": 106.0
+      },
+      {
+         "Country": "Turkey",
+         "Number of earthquakes": 77.0
+      },
+      {
+         "Country": "Japan",
+         "Number of earthquakes": 61.0
+      },
+      {
+         "Country": "Peru",
+         "Number of earthquakes": 44.0
+      },
+      {
+         "Country": "United States of America",
+         "Number of earthquakes": 41.0
+      },
+      {
+         "Country": "Italy",
+         "Number of earthquakes": 33.0
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of earthquakes": 32.0
+      },
+      {
+         "Country": "India",
+         "Number of earthquakes": 32.0
+      },
+      {
+         "Country": "Greece",
+         "Number of earthquakes": 32.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of earthquakes": 32.0
+      }
+   ],
+   "gold": "From 1990 to 2016 , China was the country with highest amount of earthquakes . Between that time period , they reported 157 earthquakes . Indonesia , Iran , Turkey , and Japan rounded out the top five countries with the most earthquakes .\n"
+}

@@ -1,0 +1,96 @@
+{
+   "title": "Number of married people in Canada , by age group 2018",
+   "xAxis": "Age group",
+   "yAxis": "Number of people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of people in the U.S. in 2018 , by people of Canada to by . ",
+      "In that year , 636 people were employers murdered by an 95_to_99_years . ",
+      "A ranking of the total Number of murders by U.S. state can be found here ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "17",
+         "11": "16"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age group": "15 to 19 years",
+         "Number of people": "2793"
+      },
+      {
+         "Age group": "20 to 24 years",
+         "Number of people": "84864"
+      },
+      {
+         "Age group": "25 to 29 years",
+         "Number of people": "510931"
+      },
+      {
+         "Age group": "30 to 34 years",
+         "Number of people": "1076088"
+      },
+      {
+         "Age group": "35 to 39 years",
+         "Number of people": "1319123"
+      },
+      {
+         "Age group": "40 to 44 years",
+         "Number of people": "1347563"
+      },
+      {
+         "Age group": "45 to 49 years",
+         "Number of people": "1379171"
+      },
+      {
+         "Age group": "50 to 54 years",
+         "Number of people": "1475369"
+      },
+      {
+         "Age group": "55 to 59 years",
+         "Number of people": "1623642"
+      },
+      {
+         "Age group": "60 to 64 years",
+         "Number of people": "1526827"
+      },
+      {
+         "Age group": "65 to 69 years",
+         "Number of people": "1292505"
+      },
+      {
+         "Age group": "70 to 74 years",
+         "Number of people": "1011113"
+      },
+      {
+         "Age group": "75 to 79 years",
+         "Number of people": "639487"
+      },
+      {
+         "Age group": "80 to 84 years",
+         "Number of people": "373961"
+      },
+      {
+         "Age group": "85 to 89 years",
+         "Number of people": "182464"
+      },
+      {
+         "Age group": "90 to 94 years",
+         "Number of people": "53439"
+      },
+      {
+         "Age group": "95 to 99 years",
+         "Number of people": "8642"
+      },
+      {
+         "Age group": "100 years and over",
+         "Number of people": "636"
+      }
+   ],
+   "gold": "This statistic shows the number of married people in Canada in 2018 , distinguished by age group . In 2018 , 2,793 married Canadians were between 15 and 19 years of age .\n"
+}

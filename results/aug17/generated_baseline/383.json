@@ -1,0 +1,76 @@
+{
+   "title": "Number of hospitals in Finland 2007 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Number of hospitals",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of hospitals, with a total of 11 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2014 to 2007.",
+      " Differently, the next significant trend is slightly negative which exists from 2017 to 2015.",
+      " On the other hand, the next significant trend is extremely positive which exists from 2015 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "3",
+         "12": "10"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of hospitals": 247.0
+      },
+      {
+         "Year": "2016",
+         "Number of hospitals": 262.0
+      },
+      {
+         "Year": "2015",
+         "Number of hospitals": 268.0
+      },
+      {
+         "Year": "2014",
+         "Number of hospitals": 258.0
+      },
+      {
+         "Year": "2013",
+         "Number of hospitals": 259.0
+      },
+      {
+         "Year": "2012",
+         "Number of hospitals": 263.0
+      },
+      {
+         "Year": "2011",
+         "Number of hospitals": 275.0
+      },
+      {
+         "Year": "2010",
+         "Number of hospitals": 280.0
+      },
+      {
+         "Year": "2009",
+         "Number of hospitals": 298.0
+      },
+      {
+         "Year": "2008",
+         "Number of hospitals": 320.0
+      },
+      {
+         "Year": "2007",
+         "Number of hospitals": 325.0
+      }
+   ],
+   "gold": "The number of hospitals in Finland was down at the lowest point of the observed period in 2017 , when there were 247 hospitals . At the beginning of the observed period , in 2007 , the number of hospitals amounted to 325 .\n"
+}

@@ -1,0 +1,77 @@
+{
+   "title": "Number of pet stores in Canada by region 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , there were a total of 303 Canada stores across Canada . ",
+      "3 hundred and twenty-nine were in the province of Ontario . ",
+      "Quebec ranked in second place with 469 stores and British_Columbia in third with 348 stores in that year ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "10",
+         "9": "0"
+      },
+      {
+         "0": "1",
+         "6": "1",
+         "9": "2",
+         "13": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of stores": "762"
+      },
+      {
+         "Month": "Quebec",
+         "Number of stores": "469"
+      },
+      {
+         "Month": "British Columbia",
+         "Number of stores": "348"
+      },
+      {
+         "Month": "Alberta",
+         "Number of stores": "278"
+      },
+      {
+         "Month": "Manitoba",
+         "Number of stores": "63"
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of stores": "55"
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of stores": "49"
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of stores": "39"
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of stores": "22"
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of stores": "7"
+      },
+      {
+         "Month": "Yukon",
+         "Number of stores": "3"
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of stores": "3"
+      }
+   ],
+   "gold": "As of December 2019 , Ontario , Canada 's most populous province , was home to the most pet and pet supplies stores across the country . At that time , there were 762 such stores in Ontario . Quebec and British Columbia , the second and third most populous provinces , came next in the ranking with 469 and 348 stores respectively .\n"
+}

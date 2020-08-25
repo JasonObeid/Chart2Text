@@ -1,0 +1,56 @@
+{
+   "title": "Total number of gang-related homicides in the United States 2012\n",
+   "xAxis": "Year",
+   "yAxis": "Total number of homicides",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Total number of homicides, with a total of 6 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2011 to 2009.",
+      " Differently, the next significant trend is moderately positive which exists from 2009 to 2007.",
+      " Additionally, the next significant trend is extremely positive which exists from 2012 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "3"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Total number of homicides": 2363.0
+      },
+      {
+         "Year": "2011",
+         "Total number of homicides": 1824.0
+      },
+      {
+         "Year": "2010",
+         "Total number of homicides": 2020.0
+      },
+      {
+         "Year": "2009",
+         "Total number of homicides": 2083.0
+      },
+      {
+         "Year": "2008",
+         "Total number of homicides": 1659.0
+      },
+      {
+         "Year": "2007",
+         "Total number of homicides": 1975.0
+      }
+   ],
+   "gold": "Over 2,300 homicides were gang-related in the United States in 2012 . This was the highest amount since 2007 and a reversal of a negative trend from the previous two years . Violent crime Violent crime in the United States is not limited to gang violence , but the murders in this statistic compose a significant portion of the number of reported murders in those years .\n"
+}

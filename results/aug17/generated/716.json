@@ -1,0 +1,77 @@
+{
+   "title": "Average ticket price of the Los Angeles Chargers 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Average ticket price for Los Angeles Chargers games in the National Football League from 2006 to 2019 . ",
+      "In 2019 , the Average ticket price was at 165.77 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "16": "12",
+         "18": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": "165.77"
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": "199.1"
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": "84.55"
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": "84.55"
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": "84.55"
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": "84.55"
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": "80.3"
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": "80.3"
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": "81.39"
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": "81.39"
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": "81.39"
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": "73.64"
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": "62.82"
+      }
+   ],
+   "gold": "This graph depicts the average ticket price for Los Angeles Chargers games in the National Football League from 2006 to 2019 . In 2019 , the average ticket price was at 165.77 U.S. dollars .\n"
+}

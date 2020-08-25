@@ -1,0 +1,53 @@
+{
+   "title": "Usage of top level domains for websites 2019\n",
+   "xAxis": "DNS names",
+   "yAxis": "Share of global TLD",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents a ranking of the most-backed kickstarter projects in the united kingdom ( uk ) in 2014 , by number of speakers . The majority of 2018 , it was found that 13.4 percent of visits were directed to market leader zillow . A 2016 survey found online websites to be the most popular information channels consulted when looking for a house to purchase in the united , even ahead of real estate agents .\n",
+   "trends": {},
+   "data": [
+      {
+         "DNS names": ".com",
+         "Share of global TLD": 48.0
+      },
+      {
+         "DNS names": ".ru",
+         "Share of global TLD": 5.2
+      },
+      {
+         "DNS names": ".org",
+         "Share of global TLD": 4.9
+      },
+      {
+         "DNS names": ".net",
+         "Share of global TLD": 3.5
+      },
+      {
+         "DNS names": ".de",
+         "Share of global TLD": 2.7
+      },
+      {
+         "DNS names": ".br",
+         "Share of global TLD": 1.9
+      },
+      {
+         "DNS names": ".uk",
+         "Share of global TLD": 1.8
+      },
+      {
+         "DNS names": ".in",
+         "Share of global TLD": 1.5
+      },
+      {
+         "DNS names": ".au",
+         "Share of global TLD": 1.3
+      },
+      {
+         "DNS names": ".jp",
+         "Share of global TLD": 1.3
+      }
+   ],
+   "gold": "This statistic gives information on the distribution of worldwide top level domains as of November 2019 . As of that month , 48 percent of all global websites used a .com top-level domain . A further 3.5 percent used a .net TLD .\n"
+}

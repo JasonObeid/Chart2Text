@@ -1,0 +1,81 @@
+{
+   "title": "Global barley producers by country 2018/19\n",
+   "xAxis": "Country",
+   "yAxis": "Amount in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the annual consumption of fluid cow milk in 2019 , by country . The annual consumption of milk in india amounted to about 77.68 million metric tons in 2019 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "European Union",
+         "Amount in million metric tons": 56.34
+      },
+      {
+         "Country": "Russia",
+         "Amount in million metric tons": 16.6
+      },
+      {
+         "Country": "Others",
+         "Amount in million metric tons": 9.68
+      },
+      {
+         "Country": "Canada",
+         "Amount in million metric tons": 8.4
+      },
+      {
+         "Country": "Ukraine",
+         "Amount in million metric tons": 7.4
+      },
+      {
+         "Country": "Turkey",
+         "Amount in million metric tons": 7.4
+      },
+      {
+         "Country": "Australia",
+         "Amount in million metric tons": 7.3
+      },
+      {
+         "Country": "Argentina",
+         "Amount in million metric tons": 4.5
+      },
+      {
+         "Country": "Kazakhstan",
+         "Amount in million metric tons": 4.2
+      },
+      {
+         "Country": "United States",
+         "Amount in million metric tons": 3.33
+      },
+      {
+         "Country": "Iran",
+         "Amount in million metric tons": 3.1
+      },
+      {
+         "Country": "Morocco",
+         "Amount in million metric tons": 2.91
+      },
+      {
+         "Country": "Ethiopia",
+         "Amount in million metric tons": 2.17
+      },
+      {
+         "Country": "Algeria",
+         "Amount in million metric tons": 1.95
+      },
+      {
+         "Country": "China",
+         "Amount in million metric tons": 1.85
+      },
+      {
+         "Country": "India",
+         "Amount in million metric tons": 1.77
+      },
+      {
+         "Country": "Belarus",
+         "Amount in million metric tons": 1.7
+      }
+   ],
+   "gold": "This statistic provides a forecast of barley production volume worldwide in 2018/19 , by country . In that year , Argentina produced about 4.5 million metric tons of barley .\n"
+}

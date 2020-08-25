@@ -1,0 +1,57 @@
+{
+   "title": "Infant mortality rate in the Netherlands 2008 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Infant mortality per 1,000 live born children",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the percentage of the total population living in urban areas in uganda from 2008 to 2018 . In 2018 , 23.77 percent of the total population of uganda was living in cities and urban areas .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Infant mortality per 1,000 live born children": 3.5
+      },
+      {
+         "Year": "2017",
+         "Infant mortality per 1,000 live born children": 3.6
+      },
+      {
+         "Year": "2016",
+         "Infant mortality per 1,000 live born children": 3.5
+      },
+      {
+         "Year": "2015",
+         "Infant mortality per 1,000 live born children": 3.3
+      },
+      {
+         "Year": "2014",
+         "Infant mortality per 1,000 live born children": 3.6
+      },
+      {
+         "Year": "2013",
+         "Infant mortality per 1,000 live born children": 3.8
+      },
+      {
+         "Year": "2012",
+         "Infant mortality per 1,000 live born children": 3.7
+      },
+      {
+         "Year": "2011",
+         "Infant mortality per 1,000 live born children": 3.6
+      },
+      {
+         "Year": "2010",
+         "Infant mortality per 1,000 live born children": 3.8
+      },
+      {
+         "Year": "2009",
+         "Infant mortality per 1,000 live born children": 3.8
+      },
+      {
+         "Year": "2008",
+         "Infant mortality per 1,000 live born children": 3.8
+      }
+   ],
+   "gold": "In 2018 , the infant mortality rate in the Netherlands was 3.5 . This means that out of every 1,000 newborns , nearly four died before their first birthday . Infant mortality was lowest in 2015 , when the rate was 3.3 deaths per 1,000 live born children .\n"
+}

@@ -1,0 +1,102 @@
+{
+   "title": "Concussion rate in the U.S. 2010 to 2015 , by age\n",
+   "xAxis": "Year",
+   "yAxis": "Rate per 1,000 members",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Rate per 1,000 members, with a total of 15 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely negative which exists from <1_year to 15-17_years.",
+      " Conversely, the next significant trend is slightly positive which exists from 15-17_years to 30-34_years.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 30-34_years to 40-44_years.",
+      " Similarly, the next significant trend is moderately positive which exists from 40-44_years to 50-54_years.",
+      " In a similar manner, the next significant trend is moderately neutral which exists from 50-54_years to 60-64_years."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "4",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "<1 year",
+         "Rate per 1,000 members": 1.0
+      },
+      {
+         "Year": "1-4 years",
+         "Rate per 1,000 members": 2.7
+      },
+      {
+         "Year": "5-9 years",
+         "Rate per 1,000 members": 3.5
+      },
+      {
+         "Year": "10-14 years",
+         "Rate per 1,000 members": 10.7
+      },
+      {
+         "Year": "15-17 years",
+         "Rate per 1,000 members": 18.8
+      },
+      {
+         "Year": "18-19 years",
+         "Rate per 1,000 members": 10.1
+      },
+      {
+         "Year": "20-24 years",
+         "Rate per 1,000 members": 4.5
+      },
+      {
+         "Year": "25-29 years",
+         "Rate per 1,000 members": 2.5
+      },
+      {
+         "Year": "30-34 years",
+         "Rate per 1,000 members": 2.0
+      },
+      {
+         "Year": "35-39 years",
+         "Rate per 1,000 members": 2.0
+      },
+      {
+         "Year": "40-44 years",
+         "Rate per 1,000 members": 1.9
+      },
+      {
+         "Year": "45-49 years",
+         "Rate per 1,000 members": 1.9
+      },
+      {
+         "Year": "50-54 years",
+         "Rate per 1,000 members": 1.8
+      },
+      {
+         "Year": "55-59 years",
+         "Rate per 1,000 members": 1.8
+      },
+      {
+         "Year": "60-64 years",
+         "Rate per 1,000 members": 1.8
+      }
+   ],
+   "gold": "The highest rate of concussions among U.S. Blue Cross Blue Shield ( BCBS ) members from 2010 to 2015 was among those aged 15 - 17 years . Among that age group the rate of concussion was 18.8 per 1,000 members . Unsurprisingly , the age group with the lowest rate of concussion was those aged less than 1 year .\n"
+}

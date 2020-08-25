@@ -1,0 +1,122 @@
+{
+   "title": "Global revenue of Puma 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion euros, with a total of 20 data points. The chart has 5 significant trends.",
+      " The longest trend is moderately positive which exists from 2007 to 2000.",
+      " Likewise, the next significant trend is extremely positive which exists from 2019 to 2014.",
+      " Also, the next significant trend is moderately positive which exists from 2012 to 2009.",
+      " Also, the next significant trend is slightly negative which exists from 2014 to 2012.",
+      " Differently, the next significant trend is moderately positive which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "12",
+         "12": "19"
+      },
+      {
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in billion euros": 5.5
+      },
+      {
+         "Year": "2018",
+         "Revenue in billion euros": 4.65
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion euros": 4.14
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion euros": 3.63
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion euros": 3.39
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion euros": 2.97
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion euros": 2.99
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion euros": 3.27
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion euros": 3.01
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion euros": 2.71
+      },
+      {
+         "Year": "2009",
+         "Revenue in billion euros": 2.45
+      },
+      {
+         "Year": "2008",
+         "Revenue in billion euros": 2.52
+      },
+      {
+         "Year": "2007",
+         "Revenue in billion euros": 2.37
+      },
+      {
+         "Year": "2006",
+         "Revenue in billion euros": 2.37
+      },
+      {
+         "Year": "2005",
+         "Revenue in billion euros": 1.78
+      },
+      {
+         "Year": "2004",
+         "Revenue in billion euros": 1.53
+      },
+      {
+         "Year": "2003",
+         "Revenue in billion euros": 1.27
+      },
+      {
+         "Year": "2002",
+         "Revenue in billion euros": 0.91
+      },
+      {
+         "Year": "2001",
+         "Revenue in billion euros": 0.6
+      },
+      {
+         "Year": "2000",
+         "Revenue in billion euros": 0.46
+      }
+   ],
+   "gold": "This statistic shows data on the global revenue of sporting goods manufacturer Puma SE from 2000 to 2019 . In 2019 , Puma generated a global revenue of roughly 5.5 billion euros . Together with Nike and Adidas , Puma is one of the largest sporting goods manufacturers in the world .\n"
+}

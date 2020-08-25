@@ -1,0 +1,63 @@
+{
+   "title": "Premier League total broadcasting payments to clubs 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Broadcasting payments in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the Broadcasting of payments million owned by households in the broadcasting from 2010/11 to 2018/19 . ",
+      "In 2018/19 , about 2456.01 million payments were owned by American households . ",
+      "Thus , payments million made up the most popular pet category in the broadcasting , based on the total Broadcasting ."
+   ],
+   "trends": [
+      {
+         "15": "8",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Broadcasting payments in million GBP": "2456.01"
+      },
+      {
+         "Year": "2017/18",
+         "Broadcasting payments in million GBP": "2419.6"
+      },
+      {
+         "Year": "2016/17",
+         "Broadcasting payments in million GBP": "2398.5"
+      },
+      {
+         "Year": "2015/16",
+         "Broadcasting payments in million GBP": "1633.9"
+      },
+      {
+         "Year": "2014/15",
+         "Broadcasting payments in million GBP": "1605.3"
+      },
+      {
+         "Year": "2013/14",
+         "Broadcasting payments in million GBP": "1563.0"
+      },
+      {
+         "Year": "2012/13",
+         "Broadcasting payments in million GBP": "1061.0"
+      },
+      {
+         "Year": "2011/12",
+         "Broadcasting payments in million GBP": "1055.0"
+      },
+      {
+         "Year": "2010/11",
+         "Broadcasting payments in million GBP": "953.0"
+      }
+   ],
+   "gold": "The statistic depicts the broadcasting payments to Premier League clubs from 2010/11 to 2018/19 . In the 2018/19 season , all Premier League clubs combined received a total of 2.46 billion British Pounds in broadcasting payments .\n"
+}

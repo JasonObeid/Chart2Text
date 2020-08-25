@@ -1,0 +1,55 @@
+{
+   "title": "Prescription for glasses or contact lenses in the UK 2014 , by country",
+   "labels": [
+      "Country",
+      "Yes",
+      "No"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the UK of for glasses contact lenses UK 2014 as of October 2014 , by Country . ",
+      "During the survey , 66 % of respondents from the Wales said that official for classifications or star ratings were Yes contact lenses a for ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "1",
+            "1"
+         ],
+         "10": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "England",
+         "Yes": "78",
+         "No": "22"
+      },
+      {
+         "Country": "Wales",
+         "Yes": "66",
+         "No": "33"
+      },
+      {
+         "Country": "Scotland",
+         "Yes": "84",
+         "No": "16"
+      },
+      {
+         "Country": "Northern Ireland",
+         "Yes": "77",
+         "No": "23"
+      },
+      {
+         "Country": "United Kingdom",
+         "Yes": "77",
+         "No": "22"
+      }
+   ],
+   "gold": "This statistic depicts the share of respondents who have a prescription for glasses or contact lenses in the United Kingdom in 2014 , by country of the UK . Of respondents , 77 percent of individuals in the UK had a prescription for glasses or contact lenses .\n"
+}

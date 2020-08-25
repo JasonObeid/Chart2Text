@@ -1,0 +1,64 @@
+{
+   "title": "Important features of music streaming services in the U.S. 2018\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at The_variety_of_music_available where Share of respondents is 81.0.",
+      " The lowest category is found at Artist_exclusives where Share of respondents is 46.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "The variety of music available",
+         "Share of respondents": 81.0
+      },
+      {
+         "Response": "Low price point",
+         "Share of respondents": 80.0
+      },
+      {
+         "Response": "The ability to listen on multiple divices",
+         "Share of respondents": 68.0
+      },
+      {
+         "Response": "Clean user interface",
+         "Share of respondents": 66.0
+      },
+      {
+         "Response": "Good algorithms to find new music",
+         "Share of respondents": 58.0
+      },
+      {
+         "Response": "The ability to combine your music library with your streaming service library",
+         "Share of respondents": 64.0
+      },
+      {
+         "Response": "The ability to stream on smart home devices",
+         "Share of respondents": 57.0
+      },
+      {
+         "Response": "Curated playlists",
+         "Share of respondents": 52.0
+      },
+      {
+         "Response": "Artist exclusives",
+         "Share of respondents": 46.0
+      }
+   ],
+   "gold": "This statistic presents data on the most important features of music streaming services among adults in the United States as of March 2018 . During a survey , 81 percent of respondents stated that the variety of music available was the most important feature of music streaming services .\n"
+}

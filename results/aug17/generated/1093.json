@@ -1,0 +1,46 @@
+{
+   "title": "Election 2012 exit polls : percentage of votes by income",
+   "labels": [
+      "Year",
+      "Barack Obama",
+      "Mitt Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This graph shows the percentage of votes the 2012 presidential elections in the country on 6 , 2012 by income . ",
+      "According to the exit polls , about 63 percentage of 18 to 29 year-old voters nationwide have voted for Barack Obama ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Under 30000",
+         "Barack Obama": "63",
+         "Mitt Romney": "35"
+      },
+      {
+         "Year": "30000 to 49999",
+         "Barack Obama": "57",
+         "Mitt Romney": "42"
+      },
+      {
+         "Year": "50000 or more",
+         "Barack Obama": "45",
+         "Mitt Romney": "53"
+      },
+      {
+         "Year": "100000 or more",
+         "Barack Obama": "44",
+         "Mitt Romney": "54"
+      }
+   ],
+   "gold": "This graph shows the percentage of votes of the 2012 presidential elections in the United States on November 6 , 2012 , by income . According to the exit polls , about 63 percent of voters with an annual income of less than 30,000 U.S. dollars nationwide have voted for Barack Obama .\n"
+}

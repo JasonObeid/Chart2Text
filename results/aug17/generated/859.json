@@ -1,0 +1,76 @@
+{
+   "title": "U.S.- employment by industry 2019",
+   "xAxis": "Industry",
+   "yAxis": "Employment in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the U.S.- employment for Brazil Industry to . ",
+      "The Employment is based on a survey of approximately 2,500 companies . ",
+      "Figures above 2425 represent an optimistic outlook , while figures below 2425 show a pessimistic U.S.- employment ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "2": "11",
+         "11": "11"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Education and health services",
+         "Employment in thousands": "35894"
+      },
+      {
+         "Industry": "Wholesale and retail trade",
+         "Employment in thousands": "19742"
+      },
+      {
+         "Industry": "Professional and business services",
+         "Employment in thousands": "19606"
+      },
+      {
+         "Industry": "Manufacturing",
+         "Employment in thousands": "15741"
+      },
+      {
+         "Industry": "Leisure and hospitality",
+         "Employment in thousands": "14643"
+      },
+      {
+         "Industry": "Construction",
+         "Employment in thousands": "11373"
+      },
+      {
+         "Industry": "Financial activities",
+         "Employment in thousands": "10765"
+      },
+      {
+         "Industry": "Transportation and utilities",
+         "Employment in thousands": "8991"
+      },
+      {
+         "Industry": "Other services",
+         "Employment in thousands": "7617"
+      },
+      {
+         "Industry": "Public administration",
+         "Employment in thousands": "7225"
+      },
+      {
+         "Industry": "Information",
+         "Employment in thousands": "2766"
+      },
+      {
+         "Industry": "Agriculture and related",
+         "Employment in thousands": "2425"
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "Employment in thousands": "750"
+      }
+   ],
+   "gold": "In 2019 , the education and health services industry employed the largest number of people in the United States . That year , about 35.89 million people were employed in the education and health services industry . Education and Health Services Industry Despite being one of the wealthiest nations in the world , the United States has started to fall behind in both education and the health care industry .\n"
+}

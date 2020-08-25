@@ -1,0 +1,49 @@
+{
+   "title": "Population of regions in England in 2018\n",
+   "xAxis": "Region",
+   "yAxis": "Number of inhabitants (in millions)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the distribution of scottish imports in 2018 , by nature of disaster . In 2018 , there were 127 recorded floods across the world .\n",
+   "trends": {},
+   "data": [
+      {
+         "Region": "South East",
+         "Number of inhabitants (in millions)": 9.13
+      },
+      {
+         "Region": "London",
+         "Number of inhabitants (in millions)": 8.9
+      },
+      {
+         "Region": "North West",
+         "Number of inhabitants (in millions)": 7.29
+      },
+      {
+         "Region": "East",
+         "Number of inhabitants (in millions)": 6.2
+      },
+      {
+         "Region": "West Midlands",
+         "Number of inhabitants (in millions)": 5.9
+      },
+      {
+         "Region": "South West",
+         "Number of inhabitants (in millions)": 5.56
+      },
+      {
+         "Region": "Yorkshire And The Humber",
+         "Number of inhabitants (in millions)": 5.48
+      },
+      {
+         "Region": "East Midlands",
+         "Number of inhabitants (in millions)": 4.8
+      },
+      {
+         "Region": "North East",
+         "Number of inhabitants (in millions)": 2.66
+      }
+   ],
+   "gold": "In England , the region with the highest population was the South East at approximately 9.13 million people , followed by the London region which had around 8.9 million people . In the North of England the region with the highest population was the North West at 7.29 million inhabitants whereas the North East had the lowest population at 2.66 million inhabitants . Four countries of the UK Within the UK , England has the highest population of the four countries that compose the United Kingdom at over 55 million people , compared with Scotland ( 5.44 million ) Wales ( 3.14 million ) and Northern Ireland ( 1.88 million people ) which have comparatively small populations .\n"
+}

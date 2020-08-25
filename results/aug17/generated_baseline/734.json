@@ -1,0 +1,121 @@
+{
+   "title": "U.S. mining industry total employment 1998 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of employees in thousands, with a total of 21 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2009 to 2003.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2014 to 2009.",
+      " Additionally, the next significant trend is slightly negative which exists from 2018 to 2014.",
+      " Contrarily, the next significant trend is moderately positive which exists from 2003 to 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "9",
+         "12": "15"
+      },
+      {
+         "3": "4",
+         "14": "9"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "15",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees in thousands": 672.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees in thousands": 622.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees in thousands": 611.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees in thousands": 751.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees in thousands": 842.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees in thousands": 810.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees in thousands": 794.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees in thousands": 727.0
+      },
+      {
+         "Year": "2010",
+         "Number of employees in thousands": 649.0
+      },
+      {
+         "Year": "2009",
+         "Number of employees in thousands": 640.0
+      },
+      {
+         "Year": "2008",
+         "Number of employees in thousands": 717.0
+      },
+      {
+         "Year": "2007",
+         "Number of employees in thousands": 658.0
+      },
+      {
+         "Year": "2006",
+         "Number of employees in thousands": 615.0
+      },
+      {
+         "Year": "2005",
+         "Number of employees in thousands": 558.0
+      },
+      {
+         "Year": "2004",
+         "Number of employees in thousands": 523.0
+      },
+      {
+         "Year": "2003",
+         "Number of employees in thousands": 502.0
+      },
+      {
+         "Year": "2002",
+         "Number of employees in thousands": 509.0
+      },
+      {
+         "Year": "2001",
+         "Number of employees in thousands": 537.0
+      },
+      {
+         "Year": "2000",
+         "Number of employees in thousands": 521.0
+      },
+      {
+         "Year": "1999",
+         "Number of employees in thousands": 531.0
+      },
+      {
+         "Year": "1998",
+         "Number of employees in thousands": 570.0
+      }
+   ],
+   "gold": "This statistic shows the number of people employed in the United States mining industry from 1998 to 2018 . In 2018 , there were some 672,000 people employed by the U.S. mining industry . The U.S. mining industry has been active since colonial times , and continues to be an important industry .\n"
+}

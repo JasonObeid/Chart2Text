@@ -1,0 +1,81 @@
+{
+   "title": "Urbanization in Rwanda 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of urban population in total population, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2012.",
+      " Also, the next significant trend is slightly neutral which exists from 2010 to 2008.",
+      " Also, the next significant trend is slightly neutral which exists from 2012 to 2011.",
+      " Also, the next significant trend is slightly positive which exists from 2011 to 2010."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "6"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "6",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population in total population": 17.21
+      },
+      {
+         "Year": "2017",
+         "Share of urban population in total population": 17.13
+      },
+      {
+         "Year": "2016",
+         "Share of urban population in total population": 17.06
+      },
+      {
+         "Year": "2015",
+         "Share of urban population in total population": 17.0
+      },
+      {
+         "Year": "2014",
+         "Share of urban population in total population": 16.97
+      },
+      {
+         "Year": "2013",
+         "Share of urban population in total population": 16.95
+      },
+      {
+         "Year": "2012",
+         "Share of urban population in total population": 16.94
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": 16.94
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": 16.93
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": 16.93
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": 16.93
+      }
+   ],
+   "gold": "This statistic shows the degree of urbanization in Rwanda from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 17.21 percent of Rwanda 's total population lived in urban areas and cities .\n"
+}

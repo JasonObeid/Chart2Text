@@ -1,0 +1,57 @@
+{
+   "title": "Urbanization in Japan 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the degree of urbanization in nepal from 2008 to 2018 and details the percentage of the entire population , living in urban areas . In 2018 , 74.43 percent of the total population lived in Russian cities .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population": 91.62
+      },
+      {
+         "Year": "2017",
+         "Share of urban population": 91.54
+      },
+      {
+         "Year": "2016",
+         "Share of urban population": 91.46
+      },
+      {
+         "Year": "2015",
+         "Share of urban population": 91.38
+      },
+      {
+         "Year": "2014",
+         "Share of urban population": 91.3
+      },
+      {
+         "Year": "2013",
+         "Share of urban population": 91.23
+      },
+      {
+         "Year": "2012",
+         "Share of urban population": 91.15
+      },
+      {
+         "Year": "2011",
+         "Share of urban population": 91.07
+      },
+      {
+         "Year": "2010",
+         "Share of urban population": 90.81
+      },
+      {
+         "Year": "2009",
+         "Share of urban population": 89.99
+      },
+      {
+         "Year": "2008",
+         "Share of urban population": 89.1
+      }
+   ],
+   "gold": "In the past decade , Japan 's degree of urbanization has leveled off at around 91 percent . This means that less than 10 percent of Japan 's population of 126 million inhabitants do not live in an urban setting . Japan is well above the degree of urbanization worldwide , which is 55 percent .\n"
+}

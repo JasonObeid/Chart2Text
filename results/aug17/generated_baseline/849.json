@@ -1,0 +1,48 @@
+{
+   "title": "Reactions to racist posts on social media in the U.S. 2017\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Ignore_the_post where Share of respondents is 40.0.",
+      " The lowest category is found at Discuss_the_content_with_the_poster_offline_(e.g._on_the_phone_in_person_etc.) where Share of respondents is 6.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Ignore the post",
+         "Share of respondents": 40.0
+      },
+      {
+         "Response": "Unfollow/unfriend the poster",
+         "Share of respondents": 31.0
+      },
+      {
+         "Response": "Comment on/ reply to the post",
+         "Share of respondents": 17.0
+      },
+      {
+         "Response": "Discuss the content with the poster offline (e.g. on the phone in person etc.)",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Don't know",
+         "Share of respondents": 7.0
+      }
+   ],
+   "gold": "This statistic shows the most common reactions of online adults in the United States when encountering racist posts on social media . During the August 2017 survey , 40 percent of respondents stated they would ignore the content , whereas 31 percent would unfollow or unfriend the poster .\n"
+}

@@ -1,0 +1,106 @@
+{
+   "title": "U.S. air conditioners shipments 2001 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of shipments in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The U.S. air temperature in the U.S. ( ) has remained relatively stable since 2001 , with conditioners rarely straying below 4.9 Number shipments . ",
+      "In 2019 , the U.S. had and U.S. air temperature of 5.36 Number shipments . ",
+      "The highest U.S. air temperature during the period shown was recorded in 2014 at 6.47 Number shipments ."
+   ],
+   "trends": [
+      {
+         "15": "18",
+         "22": "3"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      },
+      {
+         "12": "5",
+         "14": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of shipments in millions": "5.36"
+      },
+      {
+         "Year": "2018",
+         "Number of shipments in millions": "5.4"
+      },
+      {
+         "Year": "2017",
+         "Number of shipments in millions": "5.19"
+      },
+      {
+         "Year": "2016",
+         "Number of shipments in millions": "4.9"
+      },
+      {
+         "Year": "2015",
+         "Number of shipments in millions": "4.55"
+      },
+      {
+         "Year": "2014",
+         "Number of shipments in millions": "4.5"
+      },
+      {
+         "Year": "2013",
+         "Number of shipments in millions": "4.2"
+      },
+      {
+         "Year": "2012",
+         "Number of shipments in millions": "3.92"
+      },
+      {
+         "Year": "2011",
+         "Number of shipments in millions": "3.75"
+      },
+      {
+         "Year": "2010",
+         "Number of shipments in millions": "3.42"
+      },
+      {
+         "Year": "2009",
+         "Number of shipments in millions": "3.52"
+      },
+      {
+         "Year": "2008",
+         "Number of shipments in millions": "3.97"
+      },
+      {
+         "Year": "2007",
+         "Number of shipments in millions": "4.51"
+      },
+      {
+         "Year": "2006",
+         "Number of shipments in millions": "4.95"
+      },
+      {
+         "Year": "2005",
+         "Number of shipments in millions": "6.47"
+      },
+      {
+         "Year": "2004",
+         "Number of shipments in millions": "5.52"
+      },
+      {
+         "Year": "2003",
+         "Number of shipments in millions": "5.18"
+      },
+      {
+         "Year": "2002",
+         "Number of shipments in millions": "5.26"
+      },
+      {
+         "Year": "2001",
+         "Number of shipments in millions": "4.84"
+      }
+   ],
+   "gold": "Around 5.4 million air conditioners ( A/Cs ) were shipped in the United States during 2019 . Total shipment figures fluctuate year to year , but generally fall between 3.5 and 6 million , with a few notable exceptions such as the 6.47 million sold in 2005 . Air conditioner market Having been invented over a century ago , air conditioner products comprise a mature and relatively stable market of the overall household appliance industry .\n"
+}

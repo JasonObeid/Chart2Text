@@ -1,0 +1,60 @@
+{
+   "title": "Number of cigarettes smoked daily in the United Kingdom ( UK ) 2015\n",
+   "xAxis": "Number of cigarettes",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Number of cigarettes, and a y axis representing Share of respondents.",
+      " The highest category is found at 6_to_10 where Share of respondents is 24.0.",
+      " The lowest category is found at 31_to_50 where Share of respondents is 2.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Number of cigarettes": "1 to 5",
+         "Share of respondents": 23.0
+      },
+      {
+         "Number of cigarettes": "6 to 10",
+         "Share of respondents": 24.0
+      },
+      {
+         "Number of cigarettes": "11 to 15",
+         "Share of respondents": 22.0
+      },
+      {
+         "Number of cigarettes": "16 to 20",
+         "Share of respondents": 19.0
+      },
+      {
+         "Number of cigarettes": "21 to 25",
+         "Share of respondents": 6.0
+      },
+      {
+         "Number of cigarettes": "26 to 30",
+         "Share of respondents": 4.0
+      },
+      {
+         "Number of cigarettes": "31 to 50",
+         "Share of respondents": 2.0
+      },
+      {
+         "Number of cigarettes": "51 and over",
+         "Share of respondents": 3.0
+      }
+   ],
+   "gold": "This statistic displays the number of cigarettes smoked per day in the United Kingdom ( UK ) in 2015 . Approximately 69 percent of respondents smoked between one and 15 cigarettes daily in that year .\n"
+}

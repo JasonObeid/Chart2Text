@@ -1,0 +1,80 @@
+{
+   "title": "BT Group : Adjusted revenues 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million GBP, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2015 to 2008.",
+      " On the contrary, the next significant trend is slightly negative which exists from 2019 to 2017.",
+      " Conversely, the next significant trend is extremely positive which exists from 2017 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million GBP": 24082.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million GBP": 23746.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million GBP": 24082.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million GBP": 18879.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million GBP": 17840.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million GBP": 18287.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million GBP": 18339.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million GBP": 19397.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million GBP": 20076.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million GBP": 20911.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million GBP": 21431.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million GBP": 20704.0
+      }
+   ],
+   "gold": "British Telecommunications ( BT ) Group generated 24.08 billion British pounds in 2019 , slightly up on the year prior , and 6.2 billion British pounds higher than the low of 17.84 billion British pounds recorded in 2015 . BT Group revenue mix BT Group have had to respond to the impact of the changing telecommunications landscape on their revenue streams . The volume of calls made in the United Kingdom ( UK ) has more than halved since the beginning of 2012 , affecting revenue , and revenue streams such as business network access have also decreased .\n"
+}

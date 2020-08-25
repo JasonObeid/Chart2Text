@@ -1,0 +1,78 @@
+{
+   "title": "Enrollment of postsecondary students in Canada , by age and gender 2017/18",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The Enrollment postsecondary students of Male on the road in the European Union was 227739 years . ",
+      "Between Not_reported and Less_than_20_years , the Enrollment postsecondary of the Female Male was 227739 years old for Male in Less_than_20_years ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "0"
+         ],
+         "3": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "0",
+            "1"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Less than 20 years",
+         "Male": "227739",
+         "Female": "279924"
+      },
+      {
+         "Year": "20 to 24 years",
+         "Male": "412731",
+         "Female": "498453"
+      },
+      {
+         "Year": "25 to 29 years",
+         "Male": "134769",
+         "Female": "164106"
+      },
+      {
+         "Year": "30 to 34 years",
+         "Male": "58491",
+         "Female": "82065"
+      },
+      {
+         "Year": "35 to 39 years",
+         "Male": "35760",
+         "Female": "57324"
+      },
+      {
+         "Year": "40 years and over",
+         "Male": "57366",
+         "Female": "98523"
+      },
+      {
+         "Year": "Not reported",
+         "Male": "1572",
+         "Female": "864"
+      }
+   ],
+   "gold": "This statistic shows the total number of students enrolled in postsecondary institutions in Canada in academic year 2017/18 , distinguished by age group and gender . In 2017/18 , a total of 498,453 female students aged between 20 and 24 years were enrolled in postsecondary institutions in Canada .\n"
+}

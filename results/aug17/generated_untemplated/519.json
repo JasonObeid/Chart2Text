@@ -1,0 +1,69 @@
+{
+   "title": "Average wine consumption per U.S. resident 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Consumption per resident in gallons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the total annual expenditure on veterinary and other services for pets in the United Kingdom from 2005 to 2018 , based on volume . In 2018 , households purchased over 5 billion British pounds worth of veterinary and other services for their pets .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Consumption per resident in gallons": 2.95
+      },
+      {
+         "Year": "2017",
+         "Consumption per resident in gallons": 2.94
+      },
+      {
+         "Year": "2016",
+         "Consumption per resident in gallons": 2.93
+      },
+      {
+         "Year": "2015",
+         "Consumption per resident in gallons": 2.86
+      },
+      {
+         "Year": "2014",
+         "Consumption per resident in gallons": 2.82
+      },
+      {
+         "Year": "2013",
+         "Consumption per resident in gallons": 2.83
+      },
+      {
+         "Year": "2012",
+         "Consumption per resident in gallons": 2.78
+      },
+      {
+         "Year": "2011",
+         "Consumption per resident in gallons": 2.72
+      },
+      {
+         "Year": "2010",
+         "Consumption per resident in gallons": 2.58
+      },
+      {
+         "Year": "2009",
+         "Consumption per resident in gallons": 2.54
+      },
+      {
+         "Year": "2008",
+         "Consumption per resident in gallons": 2.45
+      },
+      {
+         "Year": "2007",
+         "Consumption per resident in gallons": 2.47
+      },
+      {
+         "Year": "2006",
+         "Consumption per resident in gallons": 2.36
+      },
+      {
+         "Year": "2005",
+         "Consumption per resident in gallons": 2.32
+      }
+   ],
+   "gold": "Wine consumption has been increasing in the United States . Since 2005 , the average annual consumption per resident has increased by 27 percent to a high of 2.95 gallons in 2018 .\n"
+}

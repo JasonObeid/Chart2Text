@@ -1,0 +1,32 @@
+{
+   "title": "Share of households with Netflix in the U.S. 2017",
+   "xAxis": "Year",
+   "yAxis": "Share of TV households",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Share of Netflix cloud-based online service TV 2017 . ",
+      "In 2017 , approximately 54 million internet TV are projected to access households Netflix services , up from 28 million TV in 2011 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "4": "0",
+         "18": "1",
+         "22": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Share of TV households": "54"
+      },
+      {
+         "Year": "2011",
+         "Share of TV households": "28"
+      }
+   ],
+   "gold": "The statistic shows the share of TV households with a Netflix subscription in the United States in 2011 and 2017 . In the presented time period , the share of TV households with Netflix rose from 28 percent to 54 percent .\n"
+}

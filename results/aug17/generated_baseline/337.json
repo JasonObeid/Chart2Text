@@ -1,0 +1,98 @@
+{
+   "title": "UEFA ( Union of European Football Associations ) total revenue 2004 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million euros, with a total of 14 data points. The chart has 5 significant trends.",
+      " The longest trend is moderately positive which exists from 2008/09 to 2004/05.",
+      " Likewise, the next significant trend is extremely positive which exists from 2015/16 to 2012/13.",
+      " Also, the next significant trend is slightly negative which exists from 2017/18 to 2015/16.",
+      " Differently, the next significant trend is moderately positive which exists from 2012/13 to 2010/11.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 2010/11 to 2008/09."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "9",
+         "12": "13"
+      },
+      {
+         "3": "2",
+         "14": "5"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Revenue in million euros": 2789.8
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million euros": 2835.9
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million euros": 4579.8
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million euros": 2099.41
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million euros": 1730.4
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million euros": 1698.9
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million euros": 2795.7
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million euros": 1384.1
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million euros": 1394.7
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million euros": 907.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million euros": 1925.26
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million euros": 1151.6
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million euros": 700.45
+      },
+      {
+         "Year": "2004/05",
+         "Revenue in million euros": 659.2
+      }
+   ],
+   "gold": "This statistic shows the total revenue of the UEFA from the 2004/05 season to the 2017/18 season . The season runs from July 1 to June 30 of the following year . The revenue of the 2017/18 season was 2.79 billion euros .\n"
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Sales forecast for eye care product Restasis in U.S. 2014 to 2025",
+   "xAxis": "Year",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic above shows Restasis 's forecast for from the fiscal Year of 2014 to the fiscal Year of 2025 . ",
+      "In the fiscal Year of 2025 , the Swiss-based cement manufacturer generated forecast for of around 1650 million U.S. dollars ( or about 27.89 million U.S. dollars ) ."
+   ],
+   "trends": [
+      {
+         "13": "0",
+         "19": "11"
+      },
+      {
+         "5": "11",
+         "16": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Sales in million U.S. dollars": "1084"
+      },
+      {
+         "Year": "2015",
+         "Sales in million U.S. dollars": "1217"
+      },
+      {
+         "Year": "2016",
+         "Sales in million U.S. dollars": "1361"
+      },
+      {
+         "Year": "2017",
+         "Sales in million U.S. dollars": "1524"
+      },
+      {
+         "Year": "2018",
+         "Sales in million U.S. dollars": "1679"
+      },
+      {
+         "Year": "2019",
+         "Sales in million U.S. dollars": "1830"
+      },
+      {
+         "Year": "2020",
+         "Sales in million U.S. dollars": "1975"
+      },
+      {
+         "Year": "2021",
+         "Sales in million U.S. dollars": "2115"
+      },
+      {
+         "Year": "2022",
+         "Sales in million U.S. dollars": "2242"
+      },
+      {
+         "Year": "2023",
+         "Sales in million U.S. dollars": "2332"
+      },
+      {
+         "Year": "2024",
+         "Sales in million U.S. dollars": "1914"
+      },
+      {
+         "Year": "2025",
+         "Sales in million U.S. dollars": "1650"
+      }
+   ],
+   "gold": "This statistic represents a sales forecast for eye care product Restasis in the United States between 2014 and 2025 . It is expected that Restasis will generate around 2.3 billion U.S. dollars in 2023 .\n"
+}

@@ -1,0 +1,37 @@
+{
+   "title": "UK survey : when most consumers will start their Christmas shopping in the UK in 2013\n",
+   "xAxis": "Month",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the results of a 2012 survey among Americans on the proficiency of using chopsticks . The survey shows that 4 percent of Americans consider themselves experts at using chopsticks . 24 percent of Americans stated that they have not tried to use chopsticks .\n",
+   "trends": {},
+   "data": [
+      {
+         "Month": "November",
+         "Share of respondents": 31.0
+      },
+      {
+         "Month": "Alredy bought presents",
+         "Share of respondents": 25.0
+      },
+      {
+         "Month": "October",
+         "Share of respondents": 17.0
+      },
+      {
+         "Month": "December",
+         "Share of respondents": 17.0
+      },
+      {
+         "Month": "September",
+         "Share of respondents": 8.0
+      },
+      {
+         "Month": "The week before Christmas",
+         "Share of respondents": 2.0
+      }
+   ],
+   "gold": "When are consumers more likely to their Christmas shopping in the UK , September 2013 . The majority of the consumers in the UK plan to do their Christmas shopping in November . One in four had already bought presents while 2 percent of the consumers planed to go shopping in December or the week before Christmas .\n"
+}

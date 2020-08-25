@@ -1,0 +1,21 @@
+{
+   "title": "Distribution of global animal health care market by species 2018\n",
+   "xAxis": "Animal Type",
+   "yAxis": "Distribution of animal health care market volume",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the percentage of consumers who bought products on impulse when shopping online and in-store in the United Kingdom , as of a survey conducted between 2015 and 2016 . The survey showed that shoppers were more likely to buy on impulse or recommendation when shopping in-store than online , with 35 percent of consumers doing so during the survey period . Females are more likely to make impulse purchases on the internet , with 21.7 percent saying they come way with items they had not planned on buying .\n",
+   "trends": {},
+   "data": [
+      {
+         "Animal Type": "Food animal",
+         "Distribution of animal health care market volume": 62.0
+      },
+      {
+         "Animal Type": "Companion animal",
+         "Distribution of animal health care market volume": 38.0
+      }
+   ],
+   "gold": "This statistic shows the distribution of the global animal health care market volume in 2018 , by species . In that year , health products for companion animals generated some 38 percent of the total global animal health market volume .\n"
+}

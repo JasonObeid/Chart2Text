@@ -1,0 +1,86 @@
+{
+   "title": "Nuclear power plants : permanent shutdowns 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of shutdowns",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the number of plants passengers on Nuclear power between 2005 and 2019 . ",
+      "Nuclear power carried about 13 million passengers on plants flights across the Nuclear in 2019 2011 . "
+   ],
+   "trends": [
+      {
+         "12": "14",
+         "14": "0"
+      },
+      {
+         "4": "8",
+         "14": "0",
+         "15": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of shutdowns": "3"
+      },
+      {
+         "Year": "2018",
+         "Number of shutdowns": "7"
+      },
+      {
+         "Year": "2017",
+         "Number of shutdowns": "5"
+      },
+      {
+         "Year": "2016",
+         "Number of shutdowns": "4"
+      },
+      {
+         "Year": "2015",
+         "Number of shutdowns": "7"
+      },
+      {
+         "Year": "2014",
+         "Number of shutdowns": "1"
+      },
+      {
+         "Year": "2013",
+         "Number of shutdowns": "6"
+      },
+      {
+         "Year": "2012",
+         "Number of shutdowns": "3"
+      },
+      {
+         "Year": "2011",
+         "Number of shutdowns": "13"
+      },
+      {
+         "Year": "2010",
+         "Number of shutdowns": "1"
+      },
+      {
+         "Year": "2009",
+         "Number of shutdowns": "3"
+      },
+      {
+         "Year": "2008",
+         "Number of shutdowns": "2"
+      },
+      {
+         "Year": "2007",
+         "Number of shutdowns": "1"
+      },
+      {
+         "Year": "2006",
+         "Number of shutdowns": "8"
+      },
+      {
+         "Year": "2005",
+         "Number of shutdowns": "2"
+      }
+   ],
+   "gold": "This statistic represents the global number of permanent nuclear reactor shutdowns between 2005 and August 2019 . Following the nuclear accident in Japan in March 2011 , four reactors at Fukushima Daiichi nuclear power plant were shut down permanently . In total , there were seven permanent shutdowns in 2018 .\n"
+}

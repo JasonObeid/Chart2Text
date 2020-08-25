@@ -1,0 +1,64 @@
+{
+   "title": "Becton , Dickinson , and Company 's employees from 2011 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of employees, with a total of 8 data points. The chart has 3 significant trends.",
+      " The longest trend is moderately positive which exists from 2016 to 2011.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2018 to 2017.",
+      " Likewise, the next significant trend is slightly negative which exists from 2017 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "7"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": 76032.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees": 41900.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 50900.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 49500.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 30600.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 30000.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees": 29600.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 29400.0
+      }
+   ],
+   "gold": "The statistic shows the number of employees of Becton , Dickinson , and Company for the fiscal years 2011 to 2018 . The number of employees at Becton , Dickinson , and Company reached a high in 2016 with 50,900 employed at the company that year .\n"
+}

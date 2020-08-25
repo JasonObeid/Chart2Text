@@ -1,0 +1,33 @@
+{
+   "title": "Number of vehicles imported into the United States by country 2012\n",
+   "xAxis": "Country",
+   "yAxis": "Imports in units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of worldwide visitors to google.com in 2018 , sorted by country . It was found that 2.8 percent of global google.com visitors were from brazil , whereas approximately one quarter of visitors to the search platform came from the united states .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "Japan",
+         "Imports in units": 2441298.0
+      },
+      {
+         "Country": "Canada",
+         "Imports in units": 2105848.0
+      },
+      {
+         "Country": "Mexico",
+         "Imports in units": 1440116.0
+      },
+      {
+         "Country": "Korea",
+         "Imports in units": 1032638.0
+      },
+      {
+         "Country": "Germany",
+         "Imports in units": 796121.0
+      }
+   ],
+   "gold": "This statistic shows the number of passenger vehicles imported into the United States in 2012 , with a breakdown by country . U.S. imports of passenger vehicles from Korea stood at around 1.03 million units in 2012 .\n"
+}

@@ -1,0 +1,68 @@
+{
+   "title": "Net profit margin of the leading 10 consumer products companies in the U.S. 2013\n",
+   "xAxis": "Company",
+   "yAxis": "Net profit margin",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Company, and a y axis representing Net profit margin.",
+      " The highest category is found at Philip_Morris_International_Inc. where Net profit margin is 28.3.",
+      " The lowest category is found at Mars_Inc. where Net profit margin is 0.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 7,
+         "12": 7
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Apple Inc.",
+         "Net profit margin": 21.7
+      },
+      {
+         "Company": "The Procter & Gamble Company",
+         "Net profit margin": 14.2
+      },
+      {
+         "Company": "PepsiCo Inc.",
+         "Net profit margin": 10.2
+      },
+      {
+         "Company": "The Coca-Cola Company",
+         "Net profit margin": 18.4
+      },
+      {
+         "Company": "Mondel\u00e9z International",
+         "Net profit margin": 11.1
+      },
+      {
+         "Company": "Tyson Foods Inc.",
+         "Net profit margin": 2.3
+      },
+      {
+         "Company": "Mars Inc.",
+         "Net profit margin": 0.0
+      },
+      {
+         "Company": "Philip Morris International Inc.",
+         "Net profit margin": 28.3
+      },
+      {
+         "Company": "NIKE Inc.",
+         "Net profit margin": 9.7
+      },
+      {
+         "Company": "Kimberly-Clark Corporation",
+         "Net profit margin": 10.5
+      }
+   ],
+   "gold": "This statistic presents the net profit margin of the leading 10 consumer products companies in the United States in 2013 . In that year , the Coca-Cola Company had a net profit margin of 18.4 percent . The Coca-Cola Company , founded in 1892 , is headquartered in Atlanta , Georgia .\n"
+}

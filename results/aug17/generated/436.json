@@ -1,0 +1,60 @@
+{
+   "title": "Preferred online retail payment methods worldwide 2017",
+   "xAxis": "Payment Method",
+   "yAxis": "Share of online shoppers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the retail shoppers methods worldwide or 2017 Payment according to users in the Preferred as of 2017 . ",
+      "According to the findings , 42 % of users reported that they found Credit_cards to be shoppers , while in comparison only 14 % of users had reported the same for Mobile_payment ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "13": "0",
+         "22": "6",
+         "31": "6"
+      }
+   ],
+   "data": [
+      {
+         "Payment Method": "Credit cards",
+         "Share of online shoppers": "42"
+      },
+      {
+         "Payment Method": "Electronic payment (PayPal if available)",
+         "Share of online shoppers": "39"
+      },
+      {
+         "Payment Method": "Debit cards",
+         "Share of online shoppers": "28"
+      },
+      {
+         "Payment Method": "Cash on delivery",
+         "Share of online shoppers": "23"
+      },
+      {
+         "Payment Method": "Bank transfers",
+         "Share of online shoppers": "20"
+      },
+      {
+         "Payment Method": "Gift cards or vouchers",
+         "Share of online shoppers": "15"
+      },
+      {
+         "Payment Method": "Mobile payment",
+         "Share of online shoppers": "14"
+      },
+      {
+         "Payment Method": "Cryptocurrencies (Bitcoin)",
+         "Share of online shoppers": "3"
+      },
+      {
+         "Payment Method": "Other",
+         "Share of online shoppers": "3"
+      }
+   ],
+   "gold": "Online shoppers have a wide range of payment methods to choose from and during a March 2017 survey of global online shoppers , 42 percent of respondents stated that they preferred to pay via credit card . Credit cards were the most popular payment method , ahead of electronic options such as PayPal . Digital payments Digital and mobile payments have been around for a while but not all shoppers have taken to them equally .\n"
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Countries with the most affected people from earthquakes 1900 to 2016\n",
+   "xAxis": "Country",
+   "yAxis": "Number of affected people (in millions)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the top 10 countries worldwide based on uranium consumption in 2017 . In that year , the united states was the largest uranium consumer worldwide , using a total of almost 19000 metric tons of uranium . uranium consumption worldwide uranium is a heavy metal that occurs in many rocks as well as in sea water .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "China",
+         "Number of affected people (in millions)": 70.9
+      },
+      {
+         "Country": "India",
+         "Number of affected people (in millions)": 26.18
+      },
+      {
+         "Country": "Chile",
+         "Number of affected people (in millions)": 8.53
+      },
+      {
+         "Country": "Indonesia",
+         "Number of affected people (in millions)": 7.4
+      },
+      {
+         "Country": "Nepal",
+         "Number of affected people (in millions)": 6.31
+      },
+      {
+         "Country": "Peru",
+         "Number of affected people (in millions)": 5.8
+      },
+      {
+         "Country": "Philippines",
+         "Number of affected people (in millions)": 5.78
+      },
+      {
+         "Country": "Turkey",
+         "Number of affected people (in millions)": 5.63
+      },
+      {
+         "Country": "Guatemala",
+         "Number of affected people (in millions)": 5.19
+      },
+      {
+         "Country": "Haiti",
+         "Number of affected people (in millions)": 3.4
+      }
+   ],
+   "gold": "This statistic shows the Number of affected people in countries with the greatest earthquake occurrence from 1900 to 2016 . During this period , about 70.9 million people in China were affected by earthquakes .\n"
+}

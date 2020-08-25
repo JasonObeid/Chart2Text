@@ -1,0 +1,50 @@
+{
+   "title": "Indonesia social media user penetration 2017 to 2023\n",
+   "xAxis": "Year",
+   "yAxis": "Share of group",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of group with a total of 7 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2023 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Share of group": 37.0
+      },
+      {
+         "Year": "2022",
+         "Share of group": 36.0
+      },
+      {
+         "Year": "2021",
+         "Share of group": 35.0
+      },
+      {
+         "Year": "2020",
+         "Share of group": 34.0
+      },
+      {
+         "Year": "2019",
+         "Share of group": 32.0
+      },
+      {
+         "Year": "2018 ",
+         "Share of group": 30.0
+      },
+      {
+         "Year": "2017",
+         "Share of group": 28.0
+      }
+   ],
+   "gold": "This statistic presents the social networking reach in Indonesia from 2017 to 2023 . In 2017 , 28 percent of the population in the country accessed social media . In 2019 , this share is projected to reach 32 percent .\n"
+}

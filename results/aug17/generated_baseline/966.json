@@ -1,0 +1,106 @@
+{
+   "title": "Nissan car sales in Europe 2003 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of units sold",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of units sold, with a total of 16 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2011 to 2007.",
+      " Additionally, the next significant trend is slightly negative which exists from 2007 to 2003.",
+      " Differently, the next significant trend is extremely positive which exists from 2016 to 2013.",
+      " Similarly, the next significant trend is slightly positive which exists from 2018 to 2016.",
+      " Additionally, the next significant trend is slightly negative which exists from 2013 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "7",
+         "12": "11"
+      },
+      {
+         "3": "11",
+         "14": "15"
+      },
+      {
+         "3": "2",
+         "14": "5"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of units sold": 487017.0
+      },
+      {
+         "Year": "2017",
+         "Number of units sold": 560415.0
+      },
+      {
+         "Year": "2016",
+         "Number of units sold": 547343.0
+      },
+      {
+         "Year": "2015",
+         "Number of units sold": 554046.0
+      },
+      {
+         "Year": "2014",
+         "Number of units sold": 477703.0
+      },
+      {
+         "Year": "2013",
+         "Number of units sold": 421134.0
+      },
+      {
+         "Year": "2012",
+         "Number of units sold": 436169.0
+      },
+      {
+         "Year": "2011",
+         "Number of units sold": 470004.0
+      },
+      {
+         "Year": "2010",
+         "Number of units sold": 411084.0
+      },
+      {
+         "Year": "2009",
+         "Number of units sold": 372096.0
+      },
+      {
+         "Year": "2008",
+         "Number of units sold": 338169.0
+      },
+      {
+         "Year": "2007",
+         "Number of units sold": 313437.0
+      },
+      {
+         "Year": "2006",
+         "Number of units sold": 332150.0
+      },
+      {
+         "Year": "2005",
+         "Number of units sold": 387325.0
+      },
+      {
+         "Year": "2004",
+         "Number of units sold": 409717.0
+      },
+      {
+         "Year": "2003",
+         "Number of units sold": 409511.0
+      }
+   ],
+   "gold": "This statistic shows the number of cars sold by Nissan in Europe between 2003 and 2018 . European sales of the Nissan cars rose from 400 thousand units sold in 2003 to over 560 thousand units sold by 2017 . In 2018 , there were 487 thousand units of Nissan cars sold in Europe .\n"
+}

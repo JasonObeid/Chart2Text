@@ -1,0 +1,33 @@
+{
+   "title": "Share of people owning microwave ovens in Germany 2008 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the development of share of current account holders , who use mobile banking to communicate with their bank at least once a month in the united kingdom ( uk ) from 2008 to 2017 . By 2015 , it can be seen that 34 percent of respondents stated they used mobile banking at least once a month . The increases observed in mobile banking usage were steep over time : in 2010 , only 8 percent of current account holders on the British market turned monthly to mobile banking as a secure way of communicating with their bank .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2017",
+         "Share of respondents": 65.0
+      },
+      {
+         "Year": "2015",
+         "Share of respondents": 70.0
+      },
+      {
+         "Year": "2013",
+         "Share of respondents": 76.0
+      },
+      {
+         "Year": "2010",
+         "Share of respondents": 80.0
+      },
+      {
+         "Year": "2008",
+         "Share of respondents": 80.0
+      }
+   ],
+   "gold": "The figure shows the share of households owning microwave ovens in Germany from 2008 to 2017 . Over the time period under consideration , microwave oven ownership has decreased from 80 percent of respondents in 2008 to 65 percent in 2017 .\n"
+}

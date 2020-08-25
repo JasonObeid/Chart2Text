@@ -1,0 +1,151 @@
+{
+   "title": "U.S. government - Budget surplus or deficit 2000 to 2025\n",
+   "xAxis": "Year",
+   "yAxis": "Surplus/deficit in trillion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Surplus/deficit in trillion U.S. dollars, with a total of 26 data points. The chart has 6 significant trends.",
+      " The longest trend is slightly negative which exists from '25 to '20.",
+      " Contrarily, the next significant trend is moderately positive which exists from '20 to '15.",
+      " Correspondingly, the next significant trend is slightly negative which exists from '15 to '11.",
+      " Contrarily, the next significant trend is extremely positive which exists from '11 to '07.",
+      " In a similar manner, the next significant trend is moderately positive which exists from '04 to '00.",
+      " In a similar manner, the next significant trend is moderately negative which exists from '07 to '04."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "5"
+      },
+      {
+         "3": "5",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "14"
+      },
+      {
+         "3": "14",
+         "14": "18"
+      },
+      {
+         "3": "21",
+         "14": "25"
+      },
+      {
+         "3": "18",
+         "14": "21"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'25",
+         "Surplus/deficit in trillion U.S. dollars": 0.53
+      },
+      {
+         "Year": "'24",
+         "Surplus/deficit in trillion U.S. dollars": 0.55
+      },
+      {
+         "Year": "'23",
+         "Surplus/deficit in trillion U.S. dollars": 0.75
+      },
+      {
+         "Year": "'22",
+         "Surplus/deficit in trillion U.S. dollars": 0.92
+      },
+      {
+         "Year": "'21",
+         "Surplus/deficit in trillion U.S. dollars": 0.97
+      },
+      {
+         "Year": "'20",
+         "Surplus/deficit in trillion U.S. dollars": 1.08
+      },
+      {
+         "Year": "'19",
+         "Surplus/deficit in trillion U.S. dollars": 0.98
+      },
+      {
+         "Year": "'18",
+         "Surplus/deficit in trillion U.S. dollars": 0.78
+      },
+      {
+         "Year": "'17",
+         "Surplus/deficit in trillion U.S. dollars": 0.67
+      },
+      {
+         "Year": "'16",
+         "Surplus/deficit in trillion U.S. dollars": 0.58
+      },
+      {
+         "Year": "'15",
+         "Surplus/deficit in trillion U.S. dollars": 0.44
+      },
+      {
+         "Year": "'14",
+         "Surplus/deficit in trillion U.S. dollars": 0.48
+      },
+      {
+         "Year": "'13",
+         "Surplus/deficit in trillion U.S. dollars": 0.68
+      },
+      {
+         "Year": "'12",
+         "Surplus/deficit in trillion U.S. dollars": 1.08
+      },
+      {
+         "Year": "'11",
+         "Surplus/deficit in trillion U.S. dollars": 1.3
+      },
+      {
+         "Year": "'10",
+         "Surplus/deficit in trillion U.S. dollars": 1.29
+      },
+      {
+         "Year": "'09",
+         "Surplus/deficit in trillion U.S. dollars": 1.41
+      },
+      {
+         "Year": "'08",
+         "Surplus/deficit in trillion U.S. dollars": 0.46
+      },
+      {
+         "Year": "'07",
+         "Surplus/deficit in trillion U.S. dollars": 0.16
+      },
+      {
+         "Year": "'06",
+         "Surplus/deficit in trillion U.S. dollars": 0.25
+      },
+      {
+         "Year": "'05",
+         "Surplus/deficit in trillion U.S. dollars": 0.32
+      },
+      {
+         "Year": "'04",
+         "Surplus/deficit in trillion U.S. dollars": 0.41
+      },
+      {
+         "Year": "'03",
+         "Surplus/deficit in trillion U.S. dollars": 0.38
+      },
+      {
+         "Year": "'02",
+         "Surplus/deficit in trillion U.S. dollars": 0.16
+      },
+      {
+         "Year": "'01",
+         "Surplus/deficit in trillion U.S. dollars": 0.13
+      },
+      {
+         "Year": "'00",
+         "Surplus/deficit in trillion U.S. dollars": 0.24
+      }
+   ],
+   "gold": "In 2019 , the U.S. government had a budget deficit of 0.53 trillion U.S. dollars . This is compared to 2000 , when the government had a budget surplus of 0.24 trillion U.S. dollars . U.S. Government budget The government budget is a financial statement that demonstrates the government 's suggested revenues and spending for the financial year .\n"
+}

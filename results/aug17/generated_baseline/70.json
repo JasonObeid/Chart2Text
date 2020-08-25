@@ -1,0 +1,158 @@
+{
+   "title": "Poverty rate of black families in the U.S. 1990 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of poor black families",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of poor black families, with a total of 29 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly negative which exists from 2000 to 1993.",
+      " Differently, the next significant trend is moderately positive which exists from 2014 to 2008.",
+      " Additionally, the next significant trend is slightly negative which exists from 2018 to 2014.",
+      " On the contrary, the next significant trend is moderately negative which exists from 2008 to 2004.",
+      " On the other hand, the next significant trend is extremely positive which exists from 2004 to 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "18",
+         "12": "25"
+      },
+      {
+         "3": "4",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "10",
+         "14": "14"
+      },
+      {
+         "3": "14",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Percentage of poor black families": 17.7
+      },
+      {
+         "Year": "2017",
+         "Percentage of poor black families": 18.2
+      },
+      {
+         "Year": "2016",
+         "Percentage of poor black families": 19.0
+      },
+      {
+         "Year": "2015",
+         "Percentage of poor black families": 21.1
+      },
+      {
+         "Year": "2014",
+         "Percentage of poor black families": 22.9
+      },
+      {
+         "Year": "2013",
+         "Percentage of poor black families": 22.8
+      },
+      {
+         "Year": "2012",
+         "Percentage of poor black families": 23.7
+      },
+      {
+         "Year": "2011",
+         "Percentage of poor black families": 24.2
+      },
+      {
+         "Year": "2010",
+         "Percentage of poor black families": 24.1
+      },
+      {
+         "Year": "2009",
+         "Percentage of poor black families": 22.7
+      },
+      {
+         "Year": "2008",
+         "Percentage of poor black families": 22.0
+      },
+      {
+         "Year": "2007",
+         "Percentage of poor black families": 22.1
+      },
+      {
+         "Year": "2006",
+         "Percentage of poor black families": 21.6
+      },
+      {
+         "Year": "2005",
+         "Percentage of poor black families": 22.1
+      },
+      {
+         "Year": "2004",
+         "Percentage of poor black families": 22.8
+      },
+      {
+         "Year": "2003",
+         "Percentage of poor black families": 22.3
+      },
+      {
+         "Year": "2002",
+         "Percentage of poor black families": 21.5
+      },
+      {
+         "Year": "2001",
+         "Percentage of poor black families": 20.7
+      },
+      {
+         "Year": "2000",
+         "Percentage of poor black families": 19.3
+      },
+      {
+         "Year": "1999",
+         "Percentage of poor black families": 21.8
+      },
+      {
+         "Year": "1998",
+         "Percentage of poor black families": 23.4
+      },
+      {
+         "Year": "1997",
+         "Percentage of poor black families": 23.6
+      },
+      {
+         "Year": "1996",
+         "Percentage of poor black families": 26.1
+      },
+      {
+         "Year": "1995",
+         "Percentage of poor black families": 26.4
+      },
+      {
+         "Year": "1994",
+         "Percentage of poor black families": 27.3
+      },
+      {
+         "Year": "1993",
+         "Percentage of poor black families": 31.3
+      },
+      {
+         "Year": "1992",
+         "Percentage of poor black families": 31.1
+      },
+      {
+         "Year": "1991",
+         "Percentage of poor black families": 30.4
+      },
+      {
+         "Year": "1990",
+         "Percentage of poor black families": 29.3
+      }
+   ],
+   "gold": "This statistic shows the percentage of black families in the U.S. who live below the poverty level from 1990 to 2018 . In 2018 , 17.7 percent of black families were living below the poverty line in the United States . Poverty is the state of one who lacks a certain amount of material possessions or money .\n"
+}

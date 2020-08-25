@@ -1,0 +1,106 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Kenya 2024\n",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP growth compared to previous year, with a total of 11 data points. The chart has 9 significant trends.",
+      " The longest trend is moderately positive which exists from 2016 to 2014.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 2024 to 2023.",
+      " Additionally, the next significant trend is moderately neutral which exists from 2023 to 2022.",
+      " Additionally, the next significant trend is moderately positive which exists from 2022 to 2021.",
+      " Correspondingly, the next significant trend is moderately negative which exists from 2021 to 2020.",
+      " But, the next significant trend is moderately positive which exists from 2020 to 2019.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2019 to 2018.",
+      " But, the next significant trend is extremely positive which exists from 2018 to 2017.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2017 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "8",
+         "12": "10"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      },
+      {
+         "3": "3",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 5.85
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 5.84
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 5.84
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 5.82
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 6.05
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 5.6
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 6.32
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 4.86
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 5.88
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 5.72
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 5.36
+      }
+   ],
+   "gold": "The statistic shows the growth in real GDP in Kenya from 2014 to 2018 , with projections up until 2024 . In 2018 , Kenya 's real gross domestic product grew by around 6.32 percent compared to the previous year .\n"
+}

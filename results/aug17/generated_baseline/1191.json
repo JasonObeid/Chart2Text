@@ -1,0 +1,81 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Pakistan 2024 \n",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP growth compared to previous year, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2014.",
+      " Likewise, the next significant trend is extremely positive which exists from 2023 to 2020.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2020 to 2018.",
+      " Conversely, the next significant trend is moderately neutral which exists from 2024 to 2023."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "10"
+      },
+      {
+         "3": "1",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 5.02
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 5.02
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 4.53
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 3.0
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 2.35
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 3.29
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 5.53
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 5.22
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 4.56
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 4.06
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 4.05
+      }
+   ],
+   "gold": "Pakistan 's gross domestic product ( GDP ) growth was 5.53 percent in 2018 after adjusting for inflation . However , projections for the coming years predict that GDP will grow at a rate around 5 percent in the coming years . GDP in developing nations Gross domestic product measures value of all final goods and services produced within a country 's borders during a certain period of time .\n"
+}

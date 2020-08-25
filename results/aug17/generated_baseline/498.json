@@ -1,0 +1,148 @@
+{
+   "title": "Value of National Basketball Association franchises 2020\n",
+   "xAxis": "Nba Team",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 30 categories for the x axis representing Nba Team, and a y axis representing Franchise value in million U.S. dollars.",
+      " The highest category is found at New_York_Knicks where Franchise value in million U.S. dollars is 4600.0.",
+      " The lowest category is found at Memphis_Grizzlies where Franchise value in million U.S. dollars is 1300.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 29,
+         "12": 29
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Nba Team": "New York Knicks",
+         "Franchise value in million U.S. dollars": 4600.0
+      },
+      {
+         "Nba Team": "Los Angeles Lakers",
+         "Franchise value in million U.S. dollars": 4400.0
+      },
+      {
+         "Nba Team": "Golden State Warriors",
+         "Franchise value in million U.S. dollars": 4300.0
+      },
+      {
+         "Nba Team": "Chicago Bulls",
+         "Franchise value in million U.S. dollars": 3200.0
+      },
+      {
+         "Nba Team": "Boston Celtics",
+         "Franchise value in million U.S. dollars": 3100.0
+      },
+      {
+         "Nba Team": "Los Angeles Clippers",
+         "Franchise value in million U.S. dollars": 2600.0
+      },
+      {
+         "Nba Team": "Brooklyn Nets",
+         "Franchise value in million U.S. dollars": 2500.0
+      },
+      {
+         "Nba Team": "Houston Rockets",
+         "Franchise value in million U.S. dollars": 2475.0
+      },
+      {
+         "Nba Team": "Dallas Mavericks",
+         "Franchise value in million U.S. dollars": 2400.0
+      },
+      {
+         "Nba Team": "Toronto Raptors",
+         "Franchise value in million U.S. dollars": 2100.0
+      },
+      {
+         "Nba Team": "Philadelphia 76ers",
+         "Franchise value in million U.S. dollars": 2000.0
+      },
+      {
+         "Nba Team": "Miami Heat",
+         "Franchise value in million U.S. dollars": 1950.0
+      },
+      {
+         "Nba Team": "Portland Trail Blazers",
+         "Franchise value in million U.S. dollars": 1850.0
+      },
+      {
+         "Nba Team": "San Antonio Spurs",
+         "Franchise value in million U.S. dollars": 1800.0
+      },
+      {
+         "Nba Team": "Sacramento Kings",
+         "Franchise value in million U.S. dollars": 1775.0
+      },
+      {
+         "Nba Team": "Washington Wizards",
+         "Franchise value in million U.S. dollars": 1750.0
+      },
+      {
+         "Nba Team": "Phoenix Suns",
+         "Franchise value in million U.S. dollars": 1625.0
+      },
+      {
+         "Nba Team": "Denver Nuggets",
+         "Franchise value in million U.S. dollars": 1600.0
+      },
+      {
+         "Nba Team": "Milwaukee Bucks",
+         "Franchise value in million U.S. dollars": 1580.0
+      },
+      {
+         "Nba Team": "Oklahoma City Thunder",
+         "Franchise value in million U.S. dollars": 1575.0
+      },
+      {
+         "Nba Team": "Utah Jazz",
+         "Franchise value in million U.S. dollars": 1550.0
+      },
+      {
+         "Nba Team": "Indiana Pacers",
+         "Franchise value in million U.S. dollars": 1525.0
+      },
+      {
+         "Nba Team": "Atlanta Hawks",
+         "Franchise value in million U.S. dollars": 1520.0
+      },
+      {
+         "Nba Team": "Cleveland Cavaliers",
+         "Franchise value in million U.S. dollars": 1510.0
+      },
+      {
+         "Nba Team": "Charlotte Hornets",
+         "Franchise value in million U.S. dollars": 1500.0
+      },
+      {
+         "Nba Team": "Detroit Pistons",
+         "Franchise value in million U.S. dollars": 1450.0
+      },
+      {
+         "Nba Team": "Orlando Magic",
+         "Franchise value in million U.S. dollars": 1430.0
+      },
+      {
+         "Nba Team": "Minnesota Timberwolves",
+         "Franchise value in million U.S. dollars": 1375.0
+      },
+      {
+         "Nba Team": "New Orleans Pelicans",
+         "Franchise value in million U.S. dollars": 1350.0
+      },
+      {
+         "Nba Team": "Memphis Grizzlies",
+         "Franchise value in million U.S. dollars": 1300.0
+      }
+   ],
+   "gold": "The statistic depicts the franchise value of all National Basketball Association teams in 2020 . The New York Knicks franchise was valued at 4.6 billion U.S. dollars in 2020 . NBA franchise value \u2013 additional information For the 2018/19 season , all NBA teams generated combined revenues of almost 8.8 billion U.S. dollars \u2013 regular season ticketing accounted for over 22 percent of the total .\n"
+}

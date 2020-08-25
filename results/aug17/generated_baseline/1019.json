@@ -1,0 +1,167 @@
+{
+   "title": "Refugee admissions in the U.S. 1990 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of persons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of persons, with a total of 30 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely positive which exists from '11 to '06.",
+      " Additionally, the next significant trend is moderately positive which exists from '02 to '97.",
+      " Likewise, the next significant trend is slightly negative which exists from '97 to '92.",
+      " Conversely, the next significant trend is slightly positive which exists from '19 to '15.",
+      " Correspondingly, the next significant trend is extremely positive which exists from '15 to '11.",
+      " Also, the next significant trend is extremely positive which exists from '06 to '02."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "8",
+         "12": "13"
+      },
+      {
+         "3": "17",
+         "14": "22"
+      },
+      {
+         "3": "22",
+         "14": "27"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "8"
+      },
+      {
+         "3": "13",
+         "14": "17"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'19",
+         "Number of persons": 30000.0
+      },
+      {
+         "Year": "'18",
+         "Number of persons": 22491.0
+      },
+      {
+         "Year": "'17",
+         "Number of persons": 53716.0
+      },
+      {
+         "Year": "'16",
+         "Number of persons": 84994.0
+      },
+      {
+         "Year": "'15",
+         "Number of persons": 69933.0
+      },
+      {
+         "Year": "'14",
+         "Number of persons": 69987.0
+      },
+      {
+         "Year": "'13",
+         "Number of persons": 69926.0
+      },
+      {
+         "Year": "'12",
+         "Number of persons": 58238.0
+      },
+      {
+         "Year": "'11",
+         "Number of persons": 56424.0
+      },
+      {
+         "Year": "'10",
+         "Number of persons": 73311.0
+      },
+      {
+         "Year": "'09",
+         "Number of persons": 74654.0
+      },
+      {
+         "Year": "'08",
+         "Number of persons": 60191.0
+      },
+      {
+         "Year": "'07",
+         "Number of persons": 48282.0
+      },
+      {
+         "Year": "'06",
+         "Number of persons": 41223.0
+      },
+      {
+         "Year": "'05",
+         "Number of persons": 53813.0
+      },
+      {
+         "Year": "'04",
+         "Number of persons": 52873.0
+      },
+      {
+         "Year": "'03",
+         "Number of persons": 28403.0
+      },
+      {
+         "Year": "'02",
+         "Number of persons": 27131.0
+      },
+      {
+         "Year": "'01",
+         "Number of persons": 69886.0
+      },
+      {
+         "Year": "'00",
+         "Number of persons": 73147.0
+      },
+      {
+         "Year": "'99",
+         "Number of persons": 85525.0
+      },
+      {
+         "Year": "'98",
+         "Number of persons": 77080.0
+      },
+      {
+         "Year": "'97",
+         "Number of persons": 70488.0
+      },
+      {
+         "Year": "'96",
+         "Number of persons": 76403.0
+      },
+      {
+         "Year": "'95",
+         "Number of persons": 99974.0
+      },
+      {
+         "Year": "'94",
+         "Number of persons": 112981.0
+      },
+      {
+         "Year": "'93",
+         "Number of persons": 119448.0
+      },
+      {
+         "Year": "'92",
+         "Number of persons": 132531.0
+      },
+      {
+         "Year": "'91",
+         "Number of persons": 113389.0
+      },
+      {
+         "Year": "'90",
+         "Number of persons": 122066.0
+      }
+   ],
+   "gold": "This statistic shows the number of refugees admitted to the U.S. from the fiscal year of 1990 to the fiscal year of 2019 . During the fiscal year of 2019 , 30,000 refugees were admitted to the United States .\n"
+}

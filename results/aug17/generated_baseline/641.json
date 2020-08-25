@@ -1,0 +1,99 @@
+{
+   "title": "IT skill shortages facing IT leaders worldwide 2017 to 2019",
+   "labels": [
+      "IT category",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 9 categories for the x axis of IT category representing 2017, 2018, and 2019.",
+      " The highest category is found at Big data / analytics with a mean value of 44.0.",
+      " The second highest category is found at Enterprise architecture with a mean value of 34.33.",
+      " This represents a difference of 24.7%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "3",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "IT category": "Big data / analytics",
+         "2017": "42",
+         "2018": "46",
+         "2019": "44"
+      },
+      {
+         "IT category": "Artificial intelligence",
+         "2017": "0",
+         "2018": "0",
+         "2019": "39"
+      },
+      {
+         "IT category": "Cyber security",
+         "2017": "0",
+         "2018": "0",
+         "2019": "39"
+      },
+      {
+         "IT category": "Enterprise architecture",
+         "2017": "34",
+         "2018": "35",
+         "2019": "34"
+      },
+      {
+         "IT category": "Business analysis",
+         "2017": "34",
+         "2018": "31",
+         "2019": "31"
+      },
+      {
+         "IT category": "Development",
+         "2017": "25",
+         "2018": "24",
+         "2019": "0"
+      },
+      {
+         "IT category": "Project management",
+         "2017": "26",
+         "2018": "25",
+         "2019": "0"
+      },
+      {
+         "IT category": "Technical architecture",
+         "2017": "32",
+         "2018": "36",
+         "2019": "0"
+      },
+      {
+         "IT category": "Security and resilience",
+         "2017": "28",
+         "2018": "35",
+         "2019": "0"
+      }
+   ],
+   "gold": "The statistic reveals the IT functions with the greatest skill shortages , according to chief information officers ( CIOs ) worldwide from 2017 to 2019 . As of 2019 , 44 percent of respondents felt that big data and analytics functions were facing a skills shortage .\n"
+}

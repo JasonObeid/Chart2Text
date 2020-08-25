@@ -1,0 +1,53 @@
+{
+   "title": "Global leading fishing nations 2017\n",
+   "xAxis": "Country",
+   "yAxis": "Capture in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the global leading 10 countries based on coffee area harvested in 2017 . In that year , mexico harvested an area of 638.6 thousand hectares of green coffee and was ranked sixth among coffee-growing countries worldwide .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "China",
+         "Capture in million metric tons": 15.37
+      },
+      {
+         "Country": "Indonesia",
+         "Capture in million metric tons": 6.69
+      },
+      {
+         "Country": "India",
+         "Capture in million metric tons": 5.43
+      },
+      {
+         "Country": "United States",
+         "Capture in million metric tons": 5.04
+      },
+      {
+         "Country": "Russia",
+         "Capture in million metric tons": 4.87
+      },
+      {
+         "Country": "Peru",
+         "Capture in million metric tons": 4.16
+      },
+      {
+         "Country": "Vietnam",
+         "Capture in million metric tons": 3.28
+      },
+      {
+         "Country": "Japan",
+         "Capture in million metric tons": 3.2
+      },
+      {
+         "Country": "Norway",
+         "Capture in million metric tons": 2.37
+      },
+      {
+         "Country": "Myanmar",
+         "Capture in million metric tons": 2.15
+      }
+   ],
+   "gold": "This statistic shows the world 's leading fishing nations in 2017 , based on capture production . China caught about 15.37 million metric tons of fish in that year . Worldwide fishing The act of fishing dates back to thousands of years before the Common Era .\n"
+}

@@ -1,0 +1,115 @@
+{
+   "title": "Average retail price for butter in Canada 2015 to 2019",
+   "labels": [
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "The average retail price for one kilogram of bananas in canada was 1.55 Canadian dollars in 2019 . This price remained relatively stable in 2019 , staying between 1.54 and 1.57 Canadian dollars per kilogram . Prices were higher in 2015 , with an average monthly cost of 1.7 dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Month": "Dec",
+         "2015": "4.66",
+         "2016": "4.7",
+         "2017": "4.78",
+         "2018": "4.77",
+         "2019": "5.0"
+      },
+      {
+         "Month": "Nov",
+         "2015": "4.7",
+         "2016": "4.66",
+         "2017": "4.78",
+         "2018": "4.81",
+         "2019": "5.05"
+      },
+      {
+         "Month": "Oct",
+         "2015": "4.67",
+         "2016": "4.66",
+         "2017": "4.82",
+         "2018": "4.77",
+         "2019": "5.1"
+      },
+      {
+         "Month": "Sep",
+         "2015": "4.69",
+         "2016": "4.83",
+         "2017": "4.93",
+         "2018": "4.74",
+         "2019": "4.97"
+      },
+      {
+         "Month": "Aug",
+         "2015": "4.56",
+         "2016": "4.92",
+         "2017": "4.91",
+         "2018": "4.69",
+         "2019": "5.03"
+      },
+      {
+         "Month": "Jul",
+         "2015": "4.6",
+         "2016": "4.93",
+         "2017": "4.94",
+         "2018": "4.74",
+         "2019": "5.16"
+      },
+      {
+         "Month": "Jun",
+         "2015": "4.54",
+         "2016": "4.85",
+         "2017": "4.94",
+         "2018": "4.62",
+         "2019": "4.85"
+      },
+      {
+         "Month": "May",
+         "2015": "4.62",
+         "2016": "4.93",
+         "2017": "4.88",
+         "2018": "4.66",
+         "2019": "4.97"
+      },
+      {
+         "Month": "Apr",
+         "2015": "4.55",
+         "2016": "4.96",
+         "2017": "4.88",
+         "2018": "4.85",
+         "2019": "4.85"
+      },
+      {
+         "Month": "Mar",
+         "2015": "4.59",
+         "2016": "4.92",
+         "2017": "4.9",
+         "2018": "4.79",
+         "2019": "4.99"
+      },
+      {
+         "Month": "Feb",
+         "2015": "4.61",
+         "2016": "4.93",
+         "2017": "4.78",
+         "2018": "4.86",
+         "2019": "4.98"
+      },
+      {
+         "Month": "Jan",
+         "2015": "4.57",
+         "2016": "4.77",
+         "2017": "4.76",
+         "2018": "4.86",
+         "2019": "4.94"
+      }
+   ],
+   "gold": "The average retail price for butter in Canada was 5 Canadian dollars per 454 grams in December 2019 . This price has fluctuated between months , yet has gradually increased over the given period , with an average price of 4.99 Canadian dollars in 2019 and 4.61 Canadian dollars in 2015 . The Canadian butter market The volume of butter produced in Canada amounted to around 108.77 million kilograms in 2017 , an increase of over 30 million kilograms over the previous ten years .\n"
+}

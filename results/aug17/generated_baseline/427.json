@@ -1,0 +1,145 @@
+{
+   "title": "Passenger journeys on the Manchester Metrolink in the United Kingdom 1992 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Passenger journeys in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Passenger journeys in millions, with a total of 27 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2018/19 to 2010/11.",
+      " Also, the next significant trend is moderately positive which exists from 2006/07 to 1998/99.",
+      " Also, the next significant trend is moderately positive which exists from 1998/99 to 1992/93.",
+      " Also, the next significant trend is slightly positive which exists from 2010/11 to 2006/07."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "8"
+      },
+      {
+         "3": "12",
+         "14": "20"
+      },
+      {
+         "3": "20",
+         "14": "26"
+      },
+      {
+         "3": "8",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Passenger journeys in millions": 43.7
+      },
+      {
+         "Year": "2017/18",
+         "Passenger journeys in millions": 41.2
+      },
+      {
+         "Year": "2016/17",
+         "Passenger journeys in millions": 37.8
+      },
+      {
+         "Year": "2015/16",
+         "Passenger journeys in millions": 34.3
+      },
+      {
+         "Year": "2014/15",
+         "Passenger journeys in millions": 31.2
+      },
+      {
+         "Year": "2013/14",
+         "Passenger journeys in millions": 29.2
+      },
+      {
+         "Year": "2012/13",
+         "Passenger journeys in millions": 25.0
+      },
+      {
+         "Year": "2011/12",
+         "Passenger journeys in millions": 22.3
+      },
+      {
+         "Year": "2010/11",
+         "Passenger journeys in millions": 19.2
+      },
+      {
+         "Year": "2009/10",
+         "Passenger journeys in millions": 19.6
+      },
+      {
+         "Year": "2008/09",
+         "Passenger journeys in millions": 21.1
+      },
+      {
+         "Year": "2007/08",
+         "Passenger journeys in millions": 20.0
+      },
+      {
+         "Year": "2006/07",
+         "Passenger journeys in millions": 19.8
+      },
+      {
+         "Year": "2005/06",
+         "Passenger journeys in millions": 19.9
+      },
+      {
+         "Year": "2004/05",
+         "Passenger journeys in millions": 19.7
+      },
+      {
+         "Year": "2003/04",
+         "Passenger journeys in millions": 18.9
+      },
+      {
+         "Year": "2002/03",
+         "Passenger journeys in millions": 18.8
+      },
+      {
+         "Year": "2001/02",
+         "Passenger journeys in millions": 18.2
+      },
+      {
+         "Year": "2000/01",
+         "Passenger journeys in millions": 17.2
+      },
+      {
+         "Year": "1999/00",
+         "Passenger journeys in millions": 14.2
+      },
+      {
+         "Year": "1998/99",
+         "Passenger journeys in millions": 13.2
+      },
+      {
+         "Year": "1997/98",
+         "Passenger journeys in millions": 13.8
+      },
+      {
+         "Year": "1996/97",
+         "Passenger journeys in millions": 13.4
+      },
+      {
+         "Year": "1995/96",
+         "Passenger journeys in millions": 12.6
+      },
+      {
+         "Year": "1994/95",
+         "Passenger journeys in millions": 12.3
+      },
+      {
+         "Year": "1993/94",
+         "Passenger journeys in millions": 11.3
+      },
+      {
+         "Year": "1992/93",
+         "Passenger journeys in millions": 8.1
+      }
+   ],
+   "gold": "The Manchester Metrolink recorded 43.7 million passenger journeys in 2018/19 . Since beginning its operation in April 1992 as the United Kingdom 's first modern tram system , the Metrolink has grown to become an integral part of public transportation within the city . The Metrolink is one of currently nine light rail systems in the country , next to those in London 's docklands , Croydon , Birmingham , Sheffield , Newcastle , Nottingham , Blackpool and Edinburgh .\n"
+}

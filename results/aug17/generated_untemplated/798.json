@@ -1,0 +1,33 @@
+{
+   "title": "Average U.S. teen Twitter follower count 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the average network size of teenage instagram users in the united . During the 2015 survey , it was found that 11 percent of respondents had 101 to 200 followers on the social network . The u.s. teen average was 150 followers .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "0 to 100",
+         "Share of respondents": 29.0
+      },
+      {
+         "Year": "101 to 200",
+         "Share of respondents": 10.0
+      },
+      {
+         "Year": "201 to 300",
+         "Share of respondents": 5.0
+      },
+      {
+         "Year": "301 and more",
+         "Share of respondents": 10.0
+      },
+      {
+         "Year": "Don't know",
+         "Share of respondents": 44.0
+      }
+   ],
+   "gold": "This statistic presents the average network size of teenage Twitter users in the United States . During the March 2015 survey , it was found that 10 percent of respondents had 101 to 200 followers on the social network . The U.S. teen average was 95 followers .\n"
+}

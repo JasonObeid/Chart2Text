@@ -1,0 +1,54 @@
+{
+   "title": "Argentina : number of Facebook users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of Facebook users in Argentina from 2017 to 2023 . ",
+      "In 2023 , it is estimated that there will be around 28.0 millions Facebook users in Argentina , up from 24.5 millions in 2016 ."
+   ],
+   "trends": [
+      {
+         "12": "6",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "11": "0",
+         "21": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of users in millions": "28.0"
+      },
+      {
+         "Year": "2022",
+         "Number of users in millions": "27.4"
+      },
+      {
+         "Year": "2021",
+         "Number of users in millions": "26.8"
+      },
+      {
+         "Year": "2020",
+         "Number of users in millions": "26.2"
+      },
+      {
+         "Year": "2019",
+         "Number of users in millions": "25.6"
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": "25.0"
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": "24.5"
+      }
+   ],
+   "gold": "This statistic shows the number of Facebook users in Argentina in 2017 and 2018 with projections until 2023 . In 2023 , the number of Facebook users in Argentina is expected to reach 28 million , up from 24.5 million in 2017 .\n"
+}

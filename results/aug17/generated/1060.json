@@ -1,0 +1,145 @@
+{
+   "title": "U.S. Consumer Price Index excluding food and energy 1990 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Consumer Price Index (100=1982-1984)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Consumer Price Index in the U.S. from 1990 to 2019 . ",
+      "In 2019 , the average Consumer Price Index in the U.S. was at 263.21 (100=1982-1984) ."
+   ],
+   "trends": [
+      {
+         "11": "0",
+         "13": "29"
+      },
+      {
+         "1": "29",
+         "13": "29"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1990",
+         "Consumer Price Index (100=1982-1984)": "135.5"
+      },
+      {
+         "Year": "1991",
+         "Consumer Price Index (100=1982-1984)": "142.1"
+      },
+      {
+         "Year": "1992",
+         "Consumer Price Index (100=1982-1984)": "147.3"
+      },
+      {
+         "Year": "1993",
+         "Consumer Price Index (100=1982-1984)": "152.2"
+      },
+      {
+         "Year": "1994",
+         "Consumer Price Index (100=1982-1984)": "156.5"
+      },
+      {
+         "Year": "1995",
+         "Consumer Price Index (100=1982-1984)": "161.2"
+      },
+      {
+         "Year": "1996",
+         "Consumer Price Index (100=1982-1984)": "165.6"
+      },
+      {
+         "Year": "1997",
+         "Consumer Price Index (100=1982-1984)": "169.5"
+      },
+      {
+         "Year": "1998",
+         "Consumer Price Index (100=1982-1984)": "173.4"
+      },
+      {
+         "Year": "1999",
+         "Consumer Price Index (100=1982-1984)": "177.0"
+      },
+      {
+         "Year": "2000",
+         "Consumer Price Index (100=1982-1984)": "181.3"
+      },
+      {
+         "Year": "2001",
+         "Consumer Price Index (100=1982-1984)": "186.1"
+      },
+      {
+         "Year": "2002",
+         "Consumer Price Index (100=1982-1984)": "190.5"
+      },
+      {
+         "Year": "2003",
+         "Consumer Price Index (100=1982-1984)": "193.2"
+      },
+      {
+         "Year": "2004",
+         "Consumer Price Index (100=1982-1984)": "196.6"
+      },
+      {
+         "Year": "2005",
+         "Consumer Price Index (100=1982-1984)": "200.9"
+      },
+      {
+         "Year": "2006",
+         "Consumer Price Index (100=1982-1984)": "205.9"
+      },
+      {
+         "Year": "2007",
+         "Consumer Price Index (100=1982-1984)": "210.73"
+      },
+      {
+         "Year": "2008",
+         "Consumer Price Index (100=1982-1984)": "215.57"
+      },
+      {
+         "Year": "2009",
+         "Consumer Price Index (100=1982-1984)": "219.24"
+      },
+      {
+         "Year": "2010",
+         "Consumer Price Index (100=1982-1984)": "221.34"
+      },
+      {
+         "Year": "2011",
+         "Consumer Price Index (100=1982-1984)": "225.01"
+      },
+      {
+         "Year": "2012",
+         "Consumer Price Index (100=1982-1984)": "229.76"
+      },
+      {
+         "Year": "2013",
+         "Consumer Price Index (100=1982-1984)": "233.81"
+      },
+      {
+         "Year": "2014",
+         "Consumer Price Index (100=1982-1984)": "237.9"
+      },
+      {
+         "Year": "2015",
+         "Consumer Price Index (100=1982-1984)": "242.25"
+      },
+      {
+         "Year": "2016",
+         "Consumer Price Index (100=1982-1984)": "247.6"
+      },
+      {
+         "Year": "2017",
+         "Consumer Price Index (100=1982-1984)": "252.17"
+      },
+      {
+         "Year": "2018",
+         "Consumer Price Index (100=1982-1984)": "257.57"
+      },
+      {
+         "Year": "2019",
+         "Consumer Price Index (100=1982-1984)": "263.21"
+      }
+   ],
+   "gold": "This statistic shows the Consumer Price Index for all items , excluding food and energy , for urban consumers in the United States of America from 1990 to 2019 . This selection , also called Core CPI , excludes goods with high price volatility like food and energy , which are non-systemic . In 2019 , the CPI stood at 263.21 .\n"
+}

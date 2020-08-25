@@ -1,0 +1,88 @@
+{
+   "title": "Average U.S. brand response rate on social media 2017 , by vertical\n",
+   "xAxis": "Month",
+   "yAxis": "Average response rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 15 categories for the x axis representing Month, and a y axis representing Average response rate.",
+      " The highest category is found at Utilities where Average response rate is 18.0.",
+      " The lowest category is found at Media/Entertainment where Average response rate is 6.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Utilities",
+         "Average response rate": 18.0
+      },
+      {
+         "Month": "Retail",
+         "Average response rate": 16.0
+      },
+      {
+         "Month": "Consumer Goods",
+         "Average response rate": 14.0
+      },
+      {
+         "Month": "Banking/Finance",
+         "Average response rate": 13.0
+      },
+      {
+         "Month": "Travel/Hospitality",
+         "Average response rate": 12.0
+      },
+      {
+         "Month": "Internet/Technology",
+         "Average response rate": 11.0
+      },
+      {
+         "Month": "Marketing/Advertising",
+         "Average response rate": 11.0
+      },
+      {
+         "Month": "Automotive",
+         "Average response rate": 11.0
+      },
+      {
+         "Month": "Real Estate",
+         "Average response rate": 10.0
+      },
+      {
+         "Month": "Healthcare",
+         "Average response rate": 9.0
+      },
+      {
+         "Month": "Professional Services",
+         "Average response rate": 9.0
+      },
+      {
+         "Month": "Government",
+         "Average response rate": 8.0
+      },
+      {
+         "Month": "Education",
+         "Average response rate": 7.0
+      },
+      {
+         "Month": "Nonprofit",
+         "Average response rate": 7.0
+      },
+      {
+         "Month": "Media/Entertainment",
+         "Average response rate": 6.0
+      }
+   ],
+   "gold": "This statistic presents the average brand response rate on social media in the United States as of the third quarter of 2017 , by vertical . According to the findings , the retail industry had an average response rate of 16 percent to communicating back to their consumers on social media , while the consumer goods industry reported in 14 percent .\n"
+}

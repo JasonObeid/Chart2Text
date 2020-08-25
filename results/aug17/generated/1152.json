@@ -1,0 +1,62 @@
+{
+   "title": "Italy : largest rivers in 2018 , by length",
+   "xAxis": "Rivers In Italy",
+   "yAxis": "Lenght in kilometers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Italy largest rivers 2018 in the Italy by in 2018 . ",
+      "In that year , Po was the Italy by prescription kilometers in the 2018 at 652 million kilometers ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Rivers In Italy": "Po",
+         "Lenght in kilometers": "652"
+      },
+      {
+         "Rivers In Italy": "Adige",
+         "Lenght in kilometers": "410"
+      },
+      {
+         "Rivers In Italy": "Tevere",
+         "Lenght in kilometers": "405"
+      },
+      {
+         "Rivers In Italy": "Adda",
+         "Lenght in kilometers": "313"
+      },
+      {
+         "Rivers In Italy": "Oglio",
+         "Lenght in kilometers": "280"
+      },
+      {
+         "Rivers In Italy": "Tanaro",
+         "Lenght in kilometers": "276"
+      },
+      {
+         "Rivers In Italy": "Ticino",
+         "Lenght in kilometers": "248"
+      },
+      {
+         "Rivers In Italy": "Arno",
+         "Lenght in kilometers": "241"
+      },
+      {
+         "Rivers In Italy": "Piave",
+         "Lenght in kilometers": "220"
+      },
+      {
+         "Rivers In Italy": "Reno",
+         "Lenght in kilometers": "211"
+      }
+   ],
+   "gold": "The graph shows the largest rivers in Italy as of 2018 , by length ( in kilometers ) . According to data , the largest river in Italy is Po which is 652 kilometers long .\n"
+}

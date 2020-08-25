@@ -1,0 +1,51 @@
+{
+   "title": "Forecast of nickel consumption worldwide 2015 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Consumption in thousand metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the consumption of cyber nickel thousand from 2015 to 2020 . ",
+      "In 2020 , companies detected and reported 2376 thousand IT nickel breaches . ",
+      "This Consumption increased by 38 thousand in the following Year ."
+   ],
+   "trends": [
+      {
+         "11": "5",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "7": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Consumption in thousand metric tons": "2376"
+      },
+      {
+         "Year": "2019",
+         "Consumption in thousand metric tons": "2288"
+      },
+      {
+         "Year": "2018",
+         "Consumption in thousand metric tons": "2199"
+      },
+      {
+         "Year": "2017",
+         "Consumption in thousand metric tons": "2117"
+      },
+      {
+         "Year": "2016",
+         "Consumption in thousand metric tons": "2050"
+      },
+      {
+         "Year": "2015",
+         "Consumption in thousand metric tons": "1963"
+      }
+   ],
+   "gold": "This statistic shows a forecast of the volume of nickel consumption globally from 2015 to 2020 . By 2020 , it is predicted that nickel consumption will reach nearly 2.4 million metric tons worldwide . Nickel is most commonly used for making steels , nonferrous alloys , and electroplating .\n"
+}

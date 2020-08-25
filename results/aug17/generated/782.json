@@ -1,0 +1,54 @@
+{
+   "title": "Revenue per employee of leading tech companies 2018",
+   "xAxis": "Company",
+   "yAxis": "Revenue per employee in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the tech in the per with the highest employee gaming revenues in 2018 . ",
+      "The location with the highest leading Revenue in the employee was unsurprisingly the Netflix Strip , Netflix totaling 2224555 million employee U.S. in employee gaming Revenue in 2018 ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Netflix",
+         "Revenue per employee in U.S. dollars": "2224555"
+      },
+      {
+         "Company": "Apple",
+         "Revenue per employee in U.S. dollars": "2012083"
+      },
+      {
+         "Company": "Facebook",
+         "Revenue per employee in U.S. dollars": "1569056"
+      },
+      {
+         "Company": "Alphabet",
+         "Revenue per employee in U.S. dollars": "1385214"
+      },
+      {
+         "Company": "Microsoft",
+         "Revenue per employee in U.S. dollars": "873910"
+      },
+      {
+         "Company": "Twitter",
+         "Revenue per employee in U.S. dollars": "776112"
+      },
+      {
+         "Company": "Alibaba",
+         "Revenue per employee in U.S. dollars": "550737"
+      },
+      {
+         "Company": "Amazon",
+         "Revenue per employee in U.S. dollars": "359671"
+      }
+   ],
+   "gold": "This statistic shows the revenue per employee of selected tech companies in 2018 . Netflix was the most effective company , generating over 2.22 million U.S. dollars of revenue per employee . Apple ranked in second place with an annual revenue of 2.01 million U.S. dollars per employee .\n"
+}

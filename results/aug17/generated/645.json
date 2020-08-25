@@ -1,0 +1,130 @@
+{
+   "title": "United Kingdom HMRC tax receipts 2000 - 2019 : corporation tax",
+   "labels": [
+      "Year",
+      "Total",
+      "Offshore"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Kingdom HMRC tax of receipts 2000 in the United from 2018/19 to 2000/01 . ",
+      "The United Kingdom Kingdom HMRC tax of receipts 2000 amounted to 57202 Total in 2000 ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "18",
+            "0"
+         ]
+      },
+      {
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Total": "57202",
+         "Offshore": "1948"
+      },
+      {
+         "Year": "2017/18",
+         "Total": "54394",
+         "Offshore": "1757"
+      },
+      {
+         "Year": "2016/17",
+         "Total": "49534",
+         "Offshore": "295"
+      },
+      {
+         "Year": "2015/16",
+         "Total": "44410",
+         "Offshore": "560"
+      },
+      {
+         "Year": "2014/15",
+         "Total": "43005",
+         "Offshore": "2026"
+      },
+      {
+         "Year": "2013/14",
+         "Total": "40327",
+         "Offshore": "3556"
+      },
+      {
+         "Year": "2012/13",
+         "Total": "40482",
+         "Offshore": "4412"
+      },
+      {
+         "Year": "2011/12",
+         "Total": "43130",
+         "Offshore": "8840"
+      },
+      {
+         "Year": "2010/11",
+         "Total": "43040",
+         "Offshore": "6864"
+      },
+      {
+         "Year": "2009/10",
+         "Total": "31630",
+         "Offshore": "4998"
+      },
+      {
+         "Year": "2008/09",
+         "Total": "34101",
+         "Offshore": "9826"
+      },
+      {
+         "Year": "2007/08",
+         "Total": "41308",
+         "Offshore": "5728"
+      },
+      {
+         "Year": "2006/07",
+         "Total": "38166",
+         "Offshore": "6709"
+      },
+      {
+         "Year": "2005/06",
+         "Total": "35048",
+         "Offshore": "7307"
+      },
+      {
+         "Year": "2004/05",
+         "Total": "30200",
+         "Offshore": "3831"
+      },
+      {
+         "Year": "2003/04",
+         "Total": "25402",
+         "Offshore": "3057"
+      },
+      {
+         "Year": "2002/03",
+         "Total": "25826",
+         "Offshore": "3662"
+      },
+      {
+         "Year": "2001/02",
+         "Total": "28526",
+         "Offshore": "3515"
+      },
+      {
+         "Year": "2000/01",
+         "Total": "30092",
+         "Offshore": "2329"
+      }
+   ],
+   "gold": "This statistic shows the total United Kingdom ( UK ) HMRC corporation tax receipts from fiscal year 2000/01 to fiscal year 2018/19 . Offshore receipts peaked in 2008/09 with revenue of 9.8 billion British pounds ( GBP ) .\n"
+}

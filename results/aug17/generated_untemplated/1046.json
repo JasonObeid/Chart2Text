@@ -1,0 +1,33 @@
+{
+   "title": "Quantity of ice cream consumed in the United Kingdom ( UK ) 2008 - 2012 , by age\n",
+   "xAxis": "Year",
+   "yAxis": "Consumption in grams",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic displays the quantity of chocolate confectionery consumed per day in the united kingdom between 2008 and 2012 , by age . In this 4 year period , individuals aged between 11 and 18 years old consumed 12 grams of chocolate confectionery per day .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "1.5-3 years",
+         "Consumption in grams": 7.0
+      },
+      {
+         "Year": "4-10 years",
+         "Consumption in grams": 13.0
+      },
+      {
+         "Year": "11-18 years",
+         "Consumption in grams": 8.0
+      },
+      {
+         "Year": "19-64 years",
+         "Consumption in grams": 5.0
+      },
+      {
+         "Year": "65 years and over",
+         "Consumption in grams": 7.0
+      }
+   ],
+   "gold": "This statistic displays the quantity of ice cream consumed per day in the United Kingdom between 2008 and 2012 , by age . In this four year period , individuals aged between 4 and 10 years old consumed 13 grams of ice cream per day .\n"
+}

@@ -1,0 +1,83 @@
+{
+   "title": "Age structure in South Africa 2018",
+   "labels": [
+      "Year",
+      "0-14 years",
+      "15-64 years",
+      "65 years and older"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the age structure in ghana from 2008 to 2018 . In 2018 , about 37.6 percent of ghana 's total population were aged 0 to 14 years .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "0-14 years": "29.08",
+         "15-64 years": "65.6",
+         "65 years and older": "5.32"
+      },
+      {
+         "Year": "2017",
+         "0-14 years": "29.15",
+         "15-64 years": "65.63",
+         "65 years and older": "5.22"
+      },
+      {
+         "Year": "2016",
+         "0-14 years": "29.21",
+         "15-64 years": "65.66",
+         "65 years and older": "5.12"
+      },
+      {
+         "Year": "2015",
+         "0-14 years": "29.29",
+         "15-64 years": "65.68",
+         "65 years and older": "5.03"
+      },
+      {
+         "Year": "2014",
+         "0-14 years": "29.35",
+         "15-64 years": "65.7",
+         "65 years and older": "4.95"
+      },
+      {
+         "Year": "2013",
+         "0-14 years": "29.43",
+         "15-64 years": "65.68",
+         "65 years and older": "4.89"
+      },
+      {
+         "Year": "2012",
+         "0-14 years": "29.53",
+         "15-64 years": "65.63",
+         "65 years and older": "4.84"
+      },
+      {
+         "Year": "2011",
+         "0-14 years": "29.62",
+         "15-64 years": "65.58",
+         "65 years and older": "4.8"
+      },
+      {
+         "Year": "2010",
+         "0-14 years": "29.67",
+         "15-64 years": "65.58",
+         "65 years and older": "4.75"
+      },
+      {
+         "Year": "2009",
+         "0-14 years": "29.82",
+         "15-64 years": "65.43",
+         "65 years and older": "4.75"
+      },
+      {
+         "Year": "2008",
+         "0-14 years": "30",
+         "15-64 years": "65.27",
+         "65 years and older": "4.73"
+      }
+   ],
+   "gold": "This statistic shows the age structure in South Africa from 2008 to 2018 . In 2018 , about 29.08 percent of South Africa 's total population were aged 0 to 14 years .\n"
+}

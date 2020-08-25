@@ -1,0 +1,78 @@
+{
+   "title": "MINI - worldwide sales volume 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales in units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "MINI reported Sales units of 371881 million units in 2017 , a record high for the firm . ",
+      "After 2008 , its Sales units increased , consistently posted above 90 million units each Year . ",
+      "Why is Sales units important ? Sales units gives an idea of how much money a firm takes in , subtracting the cost of goods and services sold ."
+   ],
+   "trends": [
+      {
+         "5": "1",
+         "10": "1"
+      },
+      {
+         "1": "10"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in units": "361531"
+      },
+      {
+         "Year": "2017",
+         "Sales in units": "371881"
+      },
+      {
+         "Year": "2016",
+         "Sales in units": "360233"
+      },
+      {
+         "Year": "2015",
+         "Sales in units": "338466"
+      },
+      {
+         "Year": "2014",
+         "Sales in units": "302183"
+      },
+      {
+         "Year": "2013",
+         "Sales in units": "305030"
+      },
+      {
+         "Year": "2012",
+         "Sales in units": "301526"
+      },
+      {
+         "Year": "2011",
+         "Sales in units": "285060"
+      },
+      {
+         "Year": "2010",
+         "Sales in units": "234175"
+      },
+      {
+         "Year": "2009",
+         "Sales in units": "216538"
+      },
+      {
+         "Year": "2008",
+         "Sales in units": "232425"
+      },
+      {
+         "Year": "2007",
+         "Sales in units": "222875"
+      },
+      {
+         "Year": "2006",
+         "Sales in units": "188077"
+      }
+   ],
+   "gold": "Deliveries of BMW MINI-badged cars stood at about 361,500 units in 2018 . BMW has operated the MINI brand since 2000 and adapted the trademark compact style originally designed by Birmingham-based British Motor Corporation ( BMC ) to meet modern preferences . In the UK , the MINI brand was launched with great success .\n"
+}

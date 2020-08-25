@@ -1,0 +1,25 @@
+{
+   "title": "Public opinions on gay marriage in Italy 2016\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the results of a survey , conducted in 2013 , among adult Americans on the frequency of having dinner at home as a family . In 2013 , 53 percent of the respondents answered that their family eat dinner together at home on 6 to 7 nights a week .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "I don\u00b4t know",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "In favor",
+         "Share of respondents": 40.0
+      },
+      {
+         "Response": "Against",
+         "Share of respondents": 52.0
+      }
+   ],
+   "gold": "The statistic illustrates the public opinion on gay marriage among Italians in 2016 . According to the data , more than half of Italian adults were against same-sex marriage ( 52 percent ) . Italy recognized same-sex civil unions ( not marriage ) in June 2016 , granting to same-sex couples most of the rights of marriage except parenting ( stepchild or joint adoption ) .\n"
+}

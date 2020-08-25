@@ -1,0 +1,41 @@
+{
+   "title": "UK : length of wait for security screening in Luton Airport 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows a distribution of UK , length wait for times in the United Kingdom in 2018 . ",
+      "According to Thinkbox and Ipsos , 48 % of respondents reported typically waking for at approximately 6 - 7am ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "0 mins",
+         "Share of respondents": "14"
+      },
+      {
+         "Year": "1-5 mins",
+         "Share of respondents": "48"
+      },
+      {
+         "Year": "6-10 mins",
+         "Share of respondents": "25"
+      },
+      {
+         "Year": "11-20 mins",
+         "Share of respondents": "12"
+      },
+      {
+         "Year": "21-30 mins",
+         "Share of respondents": "1"
+      }
+   ],
+   "gold": "The greatest share of passengers at Luton Airport waited between one to five minutes to be security screened . Only 25 percent stated that they had queued for longer than six minutes , although none of the respondents waited for longer than 30 minutes . 85 percent of passengers at Luton airport were satisfied with their security screening experience .\n"
+}

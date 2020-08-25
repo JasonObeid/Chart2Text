@@ -1,0 +1,111 @@
+{
+   "title": "Rate of homicide in Canada and the United States 2000 to 2018",
+   "labels": [
+      "Year",
+      "Canada",
+      "United States"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the total number of imports and domestic exports of lemons in the united from 1999 to 2018 . According to the report , u.s. imports of lemons amounted to approximately 83851 metric tons in 2015 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2000",
+         "Canada": "1.78",
+         "United States": "5.7"
+      },
+      {
+         "Year": "2001",
+         "Canada": "1.78",
+         "United States": "5.5"
+      },
+      {
+         "Year": "2002",
+         "Canada": "1.86",
+         "United States": "5.6"
+      },
+      {
+         "Year": "2003",
+         "Canada": "1.74",
+         "United States": "5.6"
+      },
+      {
+         "Year": "2004",
+         "Canada": "1.95",
+         "United States": "5.7"
+      },
+      {
+         "Year": "2005",
+         "Canada": "2.06",
+         "United States": "5.5"
+      },
+      {
+         "Year": "2006",
+         "Canada": "1.86",
+         "United States": "5.6"
+      },
+      {
+         "Year": "2007",
+         "Canada": "1.81",
+         "United States": "5.8"
+      },
+      {
+         "Year": "2008",
+         "Canada": "1.84",
+         "United States": "5.7"
+      },
+      {
+         "Year": "2009",
+         "Canada": "1.81",
+         "United States": "5.4"
+      },
+      {
+         "Year": "2010",
+         "Canada": "1.63",
+         "United States": "5.0"
+      },
+      {
+         "Year": "2011",
+         "Canada": "1.74",
+         "United States": "4.8"
+      },
+      {
+         "Year": "2012",
+         "Canada": "1.56",
+         "United States": "4.7"
+      },
+      {
+         "Year": "2013",
+         "Canada": "1.46",
+         "United States": "4.7"
+      },
+      {
+         "Year": "2014",
+         "Canada": "1.47",
+         "United States": "4.5"
+      },
+      {
+         "Year": "2015",
+         "Canada": "1.71",
+         "United States": "4.4"
+      },
+      {
+         "Year": "2016",
+         "Canada": "1.69",
+         "United States": "4.9"
+      },
+      {
+         "Year": "2017",
+         "Canada": "1.82",
+         "United States": "5.4"
+      },
+      {
+         "Year": "2018",
+         "Canada": "1.76",
+         "United States": "5.3"
+      }
+   ],
+   "gold": "This statistic shows the rate of homicides in Canada and the United States from 2000 to 2018 . There were roughly 5.3 homicides in the U.S. and 1.76 homicides in Canada per 100,000 residents in 2018 .\n"
+}

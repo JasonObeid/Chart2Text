@@ -1,0 +1,66 @@
+{
+   "title": "Twitter : top mentioned hashtags of the Oscars 2017",
+   "labels": [
+      "Hashtags",
+      "Tweets",
+      "Retweets"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the trade weighted average of applied import tariffs between the European Union and the united , by sector in 2013 . The eu imposed an average 6.4 percent tariff on the importation of u.s. processed foods in 2013 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Hashtags": "#Oscars",
+         "Tweets": "793925",
+         "Retweets": "1987739"
+      },
+      {
+         "Hashtags": "#oscars",
+         "Tweets": "74804",
+         "Retweets": "98341"
+      },
+      {
+         "Hashtags": "#Oscars2017",
+         "Tweets": "86770",
+         "Retweets": "85934"
+      },
+      {
+         "Hashtags": "#Moonlight",
+         "Tweets": "12728",
+         "Retweets": "39728"
+      },
+      {
+         "Hashtags": "#WinnerIsDJT",
+         "Tweets": "855",
+         "Retweets": "42518"
+      },
+      {
+         "Hashtags": "#Maga",
+         "Tweets": "1644",
+         "Retweets": "41202"
+      },
+      {
+         "Hashtags": "#TrumpWins4USA",
+         "Tweets": "887",
+         "Retweets": "38055"
+      },
+      {
+         "Hashtags": "#HiddenFigures",
+         "Tweets": "3550",
+         "Retweets": "30263"
+      },
+      {
+         "Hashtags": "#LaLaLand",
+         "Tweets": "10370",
+         "Retweets": "31284"
+      },
+      {
+         "Hashtags": "#OSCARS",
+         "Tweets": "6404",
+         "Retweets": "26829"
+      }
+   ],
+   "gold": "The statistic presents the top mentioned hashtags on Twitter of the Academy Awards 2017 , broadcasted between February 26th and February 27th , 2017 . According to the source , the hashtag # Moonlight was tweeted around 12,700 times during the Oscar ceremony , while # LaLaLand appeared on Twitter 10,370 times during the same period .\n"
+}

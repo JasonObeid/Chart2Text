@@ -1,0 +1,46 @@
+{
+   "title": "Total assets of Royal Bank of Canada 2014 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Total assets in billion Canadian dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Total assets in billion Canadian dollars with a total of 6 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2019 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Total assets in billion Canadian dollars": 1428.94
+      },
+      {
+         "Year": "2018",
+         "Total assets in billion Canadian dollars": 1334.73
+      },
+      {
+         "Year": "2017",
+         "Total assets in billion Canadian dollars": 1212.85
+      },
+      {
+         "Year": "2016",
+         "Total assets in billion Canadian dollars": 1180.26
+      },
+      {
+         "Year": "2015",
+         "Total assets in billion Canadian dollars": 1074.21
+      },
+      {
+         "Year": "2014",
+         "Total assets in billion Canadian dollars": 940.55
+      }
+   ],
+   "gold": "Royal Bank of Canada ( RBC ) has been increasing its assets over the past few years . They stood at 1.43 trillion Canadian dollars in 2019 , up from 941 billion Canadian dollars in 2014 . How big is RBC ? The assets given in this statistic make RBC the largest bank in Canada , followed closely by Toronto-Dominion Bank ( TD Bank ) .\n"
+}

@@ -1,0 +1,84 @@
+{
+   "title": "Sales of the leading 15 optical retailers in the U.S. 2018",
+   "xAxis": "Optical retailer",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Sales of the Sales leading 15 optical retailers in the U.S. in 2018 . ",
+      "In that year , the Vision_Source ranked first with Sales of 2840.0 million U.S. dollars , followed by Luxottica_retail with 2470.0 million U.S. dollars in revenues ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "11": "0",
+         "18": "1",
+         "20": "1"
+      }
+   ],
+   "data": [
+      {
+         "Optical retailer": "Vision Source",
+         "Sales in million U.S. dollars": "2840.0"
+      },
+      {
+         "Optical retailer": "Luxottica retail",
+         "Sales in million U.S. dollars": "2470.0"
+      },
+      {
+         "Optical retailer": "Walmart stores",
+         "Sales in million U.S. dollars": "1762.0"
+      },
+      {
+         "Optical retailer": "National Vision",
+         "Sales in million U.S. dollars": "1537.0"
+      },
+      {
+         "Optical retailer": "Costco Wholesale",
+         "Sales in million U.S. dollars": "1129.8"
+      },
+      {
+         "Optical retailer": "Visionworks of America",
+         "Sales in million U.S. dollars": "947.4"
+      },
+      {
+         "Optical retailer": "MyEyeDr/Capital Vision Services LLC",
+         "Sales in million U.S. dollars": "602.0"
+      },
+      {
+         "Optical retailer": "Eyecare Partners",
+         "Sales in million U.S. dollars": "420.0"
+      },
+      {
+         "Optical retailer": "Warby Parker",
+         "Sales in million U.S. dollars": "315.0"
+      },
+      {
+         "Optical retailer": "Refac Optical Group",
+         "Sales in million U.S. dollars": "275.5"
+      },
+      {
+         "Optical retailer": "Eyemart Express",
+         "Sales in million U.S. dollars": "263.0"
+      },
+      {
+         "Optical retailer": "Now Optics LLC",
+         "Sales in million U.S. dollars": "155.0"
+      },
+      {
+         "Optical retailer": "Cohen's Fashion Optical",
+         "Sales in million U.S. dollars": "152.0"
+      },
+      {
+         "Optical retailer": "Texas State Optical",
+         "Sales in million U.S. dollars": "120.0"
+      },
+      {
+         "Optical retailer": "Emerging Vision Inc.",
+         "Sales in million U.S. dollars": "110.4"
+      }
+   ],
+   "gold": "This statistic depicts the sales of the leading 15 optical retailers in the United States in 2018 . In that year , Visionworks of America was the sixth ranked optical retailer in the United States , with sales that amounted to about 947.4 million U.S. dollars .\n"
+}

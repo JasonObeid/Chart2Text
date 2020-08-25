@@ -1,0 +1,164 @@
+{
+   "title": "Monthly average of heating degree days in the United Kingdom ( UK ) 2014 to 2019",
+   "labels": [
+      "Year",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 12 lines.",
+      " The line representing Jan had the highest values across Year with a mean value of 10.5.",
+      " This peaked at 2019 with a value of 11.3. ",
+      " The line with the second highest values was Feb with a mean value of 10.2.",
+      " This line peaked at 2018 with a value of 12.4"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "10": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Jan": "11.3",
+         "Feb": "8.6",
+         "Mar": "7.6",
+         "Apr": "6.4",
+         "May": "0",
+         "Jun": "0",
+         "Jul": "0",
+         "Aug": "0",
+         "Sep": "0",
+         "Oct": "0",
+         "Nov": "0",
+         "Dec": "0"
+      },
+      {
+         "Year": "2018",
+         "Jan": "10.2",
+         "Feb": "12.4",
+         "Mar": "10.6",
+         "Apr": "6.0",
+         "May": "2.8",
+         "Jun": "0.5",
+         "Jul": "0",
+         "Aug": "0.5",
+         "Sep": "2.1",
+         "Oct": "4.9",
+         "Nov": "7.3",
+         "Dec": "8.7"
+      },
+      {
+         "Year": "2017",
+         "Jan": "11.2",
+         "Feb": "9.3",
+         "Mar": "7.0",
+         "Apr": "6.5",
+         "May": "2.9",
+         "Jun": "0.7",
+         "Jul": "0.1",
+         "Aug": "0.5",
+         "Sep": "2.1",
+         "Oct": "3.2",
+         "Nov": "8.5",
+         "Dec": "10.4"
+      },
+      {
+         "Year": "2016",
+         "Jan": "9.8",
+         "Feb": "10.4",
+         "Mar": "9.4",
+         "Apr": "8.0",
+         "May": "3.4",
+         "Jun": "0.9",
+         "Jul": "0.4",
+         "Aug": "0.1",
+         "Sep": "0.7",
+         "Oct": "4.6",
+         "Nov": "9.7",
+         "Dec": "9"
+      },
+      {
+         "Year": "2015",
+         "Jan": "10.7",
+         "Feb": "11.2",
+         "Mar": "9.2",
+         "Apr": "6.4",
+         "May": "4.6",
+         "Jun": "1.9",
+         "Jul": "0.7",
+         "Aug": "0.4",
+         "Sep": "2.8",
+         "Oct": "4.6",
+         "Nov": "6",
+         "Dec": "6"
+      },
+      {
+         "Year": "2014",
+         "Jan": "9.9",
+         "Feb": "9.2",
+         "Mar": "7.9",
+         "Apr": "5.4",
+         "May": "3.3",
+         "Jun": "0.6",
+         "Jul": "0.1",
+         "Aug": "0.8",
+         "Sep": "0.9",
+         "Oct": "3.3",
+         "Nov": "7.1",
+         "Dec": "10"
+      }
+   ],
+   "gold": "During this period , the greatest number of heating degree days ( HDD 's ) in the UK were recorded in January and February . In 2019 , there were 11.3 HDD 's in January , which was an increase on the previous year . The most HDD 's in the period of consideration was in February 2018 , at 12.4 days .\n"
+}

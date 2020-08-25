@@ -1,0 +1,30 @@
+{
+   "title": "Circulation of the Arizona Republic 2018",
+   "xAxis": "Day",
+   "yAxis": "Circulation",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Circulation of Day Circulation of the 2018 Arizona presidential 2018 , as of Arizona Republic , 2018 . ",
+      "As of Arizona Republic , 2018 Sunday had approximately 378602 % Day Circulation ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Day": "Sunday",
+         "Circulation": "378602"
+      },
+      {
+         "Day": "Daily",
+         "Circulation": "130283"
+      }
+   ],
+   "gold": "This statistic shows the daily circulation of the Arizona Republic newspaper in the United States in 2018 . The newspaper had a Sunday circulation of just under 380 thousand in that year .\n"
+}

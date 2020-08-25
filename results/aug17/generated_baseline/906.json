@@ -1,0 +1,116 @@
+{
+   "title": "Red list : threatened species 2019\n",
+   "xAxis": "Threatened Species",
+   "yAxis": "Number of species",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 22 categories for the x axis representing Threatened Species, and a y axis representing Number of species.",
+      " The highest category is found at Flowering_Plants where Number of species is 14938.0.",
+      " The lowest category is found at Green_Algae where Number of species is 0.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 21,
+         "12": 21
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Threatened Species": "Flowering Plants",
+         "Number of species": 14938.0
+      },
+      {
+         "Threatened Species": "Fishes",
+         "Number of species": 2674.0
+      },
+      {
+         "Threatened Species": "Molluscs",
+         "Number of species": 2250.0
+      },
+      {
+         "Threatened Species": "Amphibians",
+         "Number of species": 2200.0
+      },
+      {
+         "Threatened Species": "Insects",
+         "Number of species": 1647.0
+      },
+      {
+         "Threatened Species": "Birds",
+         "Number of species": 1486.0
+      },
+      {
+         "Threatened Species": "Reptiles",
+         "Number of species": 1409.0
+      },
+      {
+         "Threatened Species": "Mammals",
+         "Number of species": 1244.0
+      },
+      {
+         "Threatened Species": "Crustaceans",
+         "Number of species": 733.0
+      },
+      {
+         "Threatened Species": "Gymnosperms",
+         "Number of species": 402.0
+      },
+      {
+         "Threatened Species": "Ferns and Allies",
+         "Number of species": 261.0
+      },
+      {
+         "Threatened Species": "Corals",
+         "Number of species": 237.0
+      },
+      {
+         "Threatened Species": "Arachnids",
+         "Number of species": 197.0
+      },
+      {
+         "Threatened Species": "Mosses",
+         "Number of species": 164.0
+      },
+      {
+         "Threatened Species": "Other invertebrates",
+         "Number of species": 146.0
+      },
+      {
+         "Threatened Species": "Mushrooms",
+         "Number of species": 140.0
+      },
+      {
+         "Threatened Species": "Lichens",
+         "Number of species": 24.0
+      },
+      {
+         "Threatened Species": "Velvet Worms",
+         "Number of species": 9.0
+      },
+      {
+         "Threatened Species": "Red Algae",
+         "Number of species": 9.0
+      },
+      {
+         "Threatened Species": "Brown Algae",
+         "Number of species": 6.0
+      },
+      {
+         "Threatened Species": "Horseshoe Crabs",
+         "Number of species": 2.0
+      },
+      {
+         "Threatened Species": "Green Algae",
+         "Number of species": 0.0
+      }
+   ],
+   "gold": "In 2019 , 14,938 flowering plants were considered to be threatened species . Flowering plants , more colloquially known as flowers , are the most diverse group of land plants . They are also the largest group within the plant kingdom as regards the number of described species .\n"
+}

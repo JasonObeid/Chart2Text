@@ -1,0 +1,317 @@
+{
+   "title": "Market share of smartphone brands in Germany 2011 to 2015",
+   "labels": [
+      "Month",
+      "Samsung",
+      "Apple",
+      "Sony",
+      "Nokia",
+      "HTC",
+      "Blackberry"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the market share held by the leading operating systems for smartphones in china from 2013 to 2018 . In 2018 the android operating system had a market share of 82.4 percent in china\n",
+   "trends": {},
+   "data": [
+      {
+         "Month": "Jul' 15",
+         "Samsung": "43.1",
+         "Apple": "20.8",
+         "Sony": "8",
+         "Nokia": "6",
+         "HTC": "5.9",
+         "Blackberry": "0"
+      },
+      {
+         "Month": "Mar' 15",
+         "Samsung": "44.9",
+         "Apple": "20.2",
+         "Sony": "7.8",
+         "Nokia": "7.1",
+         "HTC": "6.2",
+         "Blackberry": "0"
+      },
+      {
+         "Month": "Feb '15",
+         "Samsung": "44.2",
+         "Apple": "20.6",
+         "Sony": "8.2",
+         "Nokia": "7",
+         "HTC": "6.4",
+         "Blackberry": "0"
+      },
+      {
+         "Month": "Jun '14",
+         "Samsung": "43",
+         "Apple": "20",
+         "Sony": "8",
+         "Nokia": "8",
+         "HTC": "0",
+         "Blackberry": "0"
+      },
+      {
+         "Month": "Sep '13",
+         "Samsung": "41",
+         "Apple": "19.4",
+         "Sony": "8.3",
+         "Nokia": "10.4",
+         "HTC": "9",
+         "Blackberry": "1.6"
+      },
+      {
+         "Month": "Jul '13",
+         "Samsung": "40.2",
+         "Apple": "19.3",
+         "Sony": "8.2",
+         "Nokia": "11.4",
+         "HTC": "8.7",
+         "Blackberry": "1.5"
+      },
+      {
+         "Month": "Jun '13",
+         "Samsung": "39.9",
+         "Apple": "19.5",
+         "Sony": "8.4",
+         "Nokia": "11.4",
+         "HTC": "8.9",
+         "Blackberry": "1.7"
+      },
+      {
+         "Month": "May '13",
+         "Samsung": "39.6",
+         "Apple": "20",
+         "Sony": "8.6",
+         "Nokia": "11.6",
+         "HTC": "9.1",
+         "Blackberry": "1.7"
+      },
+      {
+         "Month": "Mar '13",
+         "Samsung": "36.7",
+         "Apple": "21.5",
+         "Sony": "8.6",
+         "Nokia": "12.7",
+         "HTC": "9.1",
+         "Blackberry": "1.6"
+      },
+      {
+         "Month": "Feb '13",
+         "Samsung": "35.3",
+         "Apple": "22.1",
+         "Sony": "8.1",
+         "Nokia": "13.3",
+         "HTC": "9.5",
+         "Blackberry": "1.8"
+      },
+      {
+         "Month": "Jan '13",
+         "Samsung": "34.3",
+         "Apple": "21.3",
+         "Sony": "8.2",
+         "Nokia": "14.2",
+         "HTC": "9.7",
+         "Blackberry": "2"
+      },
+      {
+         "Month": "Dec '12",
+         "Samsung": "33.7",
+         "Apple": "21.8",
+         "Sony": "7.9",
+         "Nokia": "15",
+         "HTC": "9.8",
+         "Blackberry": "1.9"
+      },
+      {
+         "Month": "Nov '12",
+         "Samsung": "32.7",
+         "Apple": "21.4",
+         "Sony": "8.2",
+         "Nokia": "16.2",
+         "HTC": "9.8",
+         "Blackberry": "2.1"
+      },
+      {
+         "Month": "Oct '12",
+         "Samsung": "32",
+         "Apple": "21.2",
+         "Sony": "8.1",
+         "Nokia": "16.9",
+         "HTC": "9.6",
+         "Blackberry": "2.2"
+      },
+      {
+         "Month": "Sep '12",
+         "Samsung": "30.7",
+         "Apple": "20.9",
+         "Sony": "8.3",
+         "Nokia": "17",
+         "HTC": "10",
+         "Blackberry": "2.4"
+      },
+      {
+         "Month": "Aug '12",
+         "Samsung": "30",
+         "Apple": "21",
+         "Sony": "8",
+         "Nokia": "18",
+         "HTC": "10",
+         "Blackberry": "2"
+      },
+      {
+         "Month": "Jul '12",
+         "Samsung": "28",
+         "Apple": "22",
+         "Sony": "8",
+         "Nokia": "19",
+         "HTC": "10",
+         "Blackberry": "2"
+      },
+      {
+         "Month": "Jun '12",
+         "Samsung": "26",
+         "Apple": "22",
+         "Sony": "8",
+         "Nokia": "20",
+         "HTC": "10",
+         "Blackberry": "2"
+      },
+      {
+         "Month": "Mai '12",
+         "Samsung": "26",
+         "Apple": "22",
+         "Sony": "8",
+         "Nokia": "21",
+         "HTC": "11",
+         "Blackberry": "3"
+      },
+      {
+         "Month": "Apr '12",
+         "Samsung": "25",
+         "Apple": "22",
+         "Sony": "8",
+         "Nokia": "22",
+         "HTC": "11",
+         "Blackberry": "3"
+      },
+      {
+         "Month": "May '12",
+         "Samsung": "24",
+         "Apple": "22.4",
+         "Sony": "8.2",
+         "Nokia": "21.6",
+         "HTC": "10.5",
+         "Blackberry": "2.8"
+      },
+      {
+         "Month": "Feb '12",
+         "Samsung": "22.3",
+         "Apple": "22.6",
+         "Sony": "8",
+         "Nokia": "23",
+         "HTC": "10.7",
+         "Blackberry": "3"
+      },
+      {
+         "Month": "Jan '12",
+         "Samsung": "20.7",
+         "Apple": "22.7",
+         "Sony": "8.2",
+         "Nokia": "24.3",
+         "HTC": "10.3",
+         "Blackberry": "3"
+      },
+      {
+         "Month": "Dec '11",
+         "Samsung": "20.3",
+         "Apple": "22.2",
+         "Sony": "7.9",
+         "Nokia": "25.1",
+         "HTC": "10.9",
+         "Blackberry": "3.3"
+      },
+      {
+         "Month": "Nov '11",
+         "Samsung": "19.1",
+         "Apple": "21.6",
+         "Sony": "7.8",
+         "Nokia": "26.6",
+         "HTC": "10.8",
+         "Blackberry": "3.3"
+      },
+      {
+         "Month": "Oct '11",
+         "Samsung": "18.2",
+         "Apple": "21.3",
+         "Sony": "7.8",
+         "Nokia": "27.6",
+         "HTC": "11.1",
+         "Blackberry": "3.4"
+      },
+      {
+         "Month": "Sep '11",
+         "Samsung": "16.3",
+         "Apple": "21.8",
+         "Sony": "7.3",
+         "Nokia": "29.6",
+         "HTC": "10.7",
+         "Blackberry": "3.5"
+      },
+      {
+         "Month": "Aug '11",
+         "Samsung": "15.3",
+         "Apple": "21.7",
+         "Sony": "7.1",
+         "Nokia": "31",
+         "HTC": "10.9",
+         "Blackberry": "3.5"
+      },
+      {
+         "Month": "Jul '11",
+         "Samsung": "13.9",
+         "Apple": "22",
+         "Sony": "7",
+         "Nokia": "32.1",
+         "HTC": "11",
+         "Blackberry": "3.7"
+      },
+      {
+         "Month": "Jun '11",
+         "Samsung": "12.9",
+         "Apple": "21.3",
+         "Sony": "7.6",
+         "Nokia": "33.1",
+         "HTC": "11.4",
+         "Blackberry": "3.6"
+      },
+      {
+         "Month": "May '11",
+         "Samsung": "11.9",
+         "Apple": "21",
+         "Sony": "7.6",
+         "Nokia": "34.4",
+         "HTC": "11",
+         "Blackberry": "4.2"
+      },
+      {
+         "Month": "Apr '11",
+         "Samsung": "11",
+         "Apple": "20.5",
+         "Sony": "7.3",
+         "Nokia": "36",
+         "HTC": "11.1",
+         "Blackberry": "4.2"
+      },
+      {
+         "Month": "Mar '11",
+         "Samsung": "11",
+         "Apple": "20.8",
+         "Sony": "6.6",
+         "Nokia": "37.1",
+         "HTC": "10.4",
+         "Blackberry": "4.5"
+      }
+   ],
+   "gold": "This statistic shows the market share of the most popular smartphone brands in Germany from June 2011 to July 2015 . In July 2015 , roughly 43 percent of smartphone owners used a Samsung phone , making it the brand with the highest market share in this ranking . In the same month , Apple 's iPhone had a market share of 20.8 percent .\n"
+}

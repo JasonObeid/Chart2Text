@@ -1,0 +1,29 @@
+{
+   "title": "Market share of soft drink companies in South Africa 2010\n",
+   "xAxis": "Company",
+   "yAxis": "Market share in South Africa",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the airport market share of major car rental companies in the united in 2013 . hertz global holdings had the largest share of the airport car rental market in 2013 at 36.1 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Company": "PepsiCo Inc",
+         "Market share in South Africa": 5.5
+      },
+      {
+         "Company": "Tiger Brands Ltd",
+         "Market share in South Africa": 9.4
+      },
+      {
+         "Company": "Other",
+         "Market share in South Africa": 35.3
+      },
+      {
+         "Company": "The Coca-Cola Co",
+         "Market share in South Africa": 49.8
+      }
+   ],
+   "gold": "The statistic shows the market share of soft drink companies in South Africa in 2010 , based on sales value . In that year , Coca Cola 's market share in South Africa amounted to 49.8 percent . The leading 3 soft drink companies in South Africa had a market share of 64.7 percent .\n"
+}

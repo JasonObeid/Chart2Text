@@ -1,0 +1,79 @@
+{
+   "title": "Liver cirrhosis deaths : Canada 2002 , 2012 , and 2016",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Male had the highest values across Year with a mean value of 10.6.",
+      " This peaked at 2016 with a value of 10.9. ",
+      " The line with the second highest values was Female with a mean value of 5.0.",
+      " This line peaked at 2016 with a value of 5.2"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "9": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "1"
+         ],
+         "10": [
+            "2",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2002",
+         "Male": "10.4",
+         "Female": "4.7"
+      },
+      {
+         "Year": "2012",
+         "Male": "10.6",
+         "Female": "5.1"
+      },
+      {
+         "Year": "2016",
+         "Male": "10.9",
+         "Female": "5.2"
+      }
+   ],
+   "gold": "This statistic shows the death rate from liver cirrhosis in Canada in 2002 , 2012 , and 2016 , by gender . In 2016 , there were 10.9 male deaths per 100,000 population , aged 15 years and over , resulting from cirrhosis of the liver in Canada .\n"
+}

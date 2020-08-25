@@ -1,0 +1,48 @@
+{
+   "title": "Religious diversity in Middle East/North Africa in 2010 , by religion\n",
+   "xAxis": "Religion",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Religion, and a y axis representing Percentage of population.",
+      " The highest category is found at Muslims where Percentage of population is 93.0.",
+      " The lowest category is found at Unaffiliated where Percentage of population is 1.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Religion": "Muslims",
+         "Percentage of population": 93.0
+      },
+      {
+         "Religion": "Christians",
+         "Percentage of population": 4.0
+      },
+      {
+         "Religion": "Jews",
+         "Percentage of population": 2.0
+      },
+      {
+         "Religion": "Unaffiliated",
+         "Percentage of population": 1.0
+      },
+      {
+         "Religion": "Hindus",
+         "Percentage of population": 1.0
+      }
+   ],
+   "gold": "This statistic shows religious diversity in Middle East and North Africa in 2010 , by share of religious population . In 2010 , about 93 percent of population in the Middle East and North Africa were Muslims .\n"
+}

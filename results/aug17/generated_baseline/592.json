@@ -1,0 +1,69 @@
+{
+   "title": "De Beers ' revenue 2011 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 8 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely negative which exists from 2011 to 2014.",
+      " On the other hand, the next significant trend is moderately positive which exists from 2016 to 2018.",
+      " Likewise, the next significant trend is slightly positive which exists from 2014 to 2015.",
+      " In a similar manner, the next significant trend is extremely negative which exists from 2015 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "3",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 3320.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 4028.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 6404.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 7114.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 4671.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 6068.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 5841.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 6082.0
+      }
+   ],
+   "gold": "In 2018 , the revenue of diamond mining company De Beers was about 6.1 billion U.S. dollars . De Beers De Beers was founded by Cecil Rhodes in 1888 , a British businessman and politician in Southern Africa . The company is now headquarted in London .\n"
+}

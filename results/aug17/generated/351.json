@@ -1,0 +1,52 @@
+{
+   "title": "Hotel / restaurant industry : percentage of female employees by region 2010",
+   "xAxis": "Country",
+   "yAxis": "Female employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The employees , followed female Caribbean , had the highest Female employees industry percentage to stay in a restaurant as of 2010 . ",
+      "At that time the restaurant costs industry percentage in the employees were on Female 58.5 employees . ",
+      "In comparison , the restaurant costs industry percentage in Average stood at an Female of 35.4 employees ."
+   ],
+   "trends": [
+      {
+         "5": "1"
+      },
+      {
+         "14": "0"
+      },
+      {
+         "9": "5",
+         "15": "4"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Latin America",
+         "Female employees": "58.5"
+      },
+      {
+         "Country": "Caribbean",
+         "Female employees": "55.4"
+      },
+      {
+         "Country": "Africa",
+         "Female employees": "47"
+      },
+      {
+         "Country": "Oceania",
+         "Female employees": "46.8"
+      },
+      {
+         "Country": "Asia",
+         "Female employees": "35.4"
+      },
+      {
+         "Country": "Average",
+         "Female employees": "48.62"
+      }
+   ],
+   "gold": "This graph shows the percentage of female employees in the hotel and restaurant industry in 2010 . Latin America has 58.5 percent female employees .\n"
+}

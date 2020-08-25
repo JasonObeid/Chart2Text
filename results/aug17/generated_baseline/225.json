@@ -1,0 +1,99 @@
+{
+   "title": "OLED panel fabrication : U.S. cost targets 2016 to 2025",
+   "labels": [
+      "Year",
+      "Depreciation",
+      "Labor",
+      "Organic materials",
+      "Inorganic materials",
+      "Other fixed costs"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 5 lines.",
+      " The line representing Depreciation had the highest values across Year with a mean value of 211.2.",
+      " This peaked at 2016 with a value of 600.0. ",
+      " The line with the second highest values was Inorganic materials with a mean value of 117.5.",
+      " This line peaked at 2016 with a value of 200.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "15": [
+            "3",
+            "3"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "3"
+         ],
+         "10": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Depreciation": "600",
+         "Labor": "100",
+         "Organic materials": "150",
+         "Inorganic materials": "200",
+         "Other fixed costs": "50"
+      },
+      {
+         "Year": "2018",
+         "Depreciation": "140",
+         "Labor": "25",
+         "Organic materials": "100",
+         "Inorganic materials": "140",
+         "Other fixed costs": "15"
+      },
+      {
+         "Year": "2020",
+         "Depreciation": "70",
+         "Labor": "15",
+         "Organic materials": "50",
+         "Inorganic materials": "100",
+         "Other fixed costs": "10"
+      },
+      {
+         "Year": "2025",
+         "Depreciation": "35",
+         "Labor": "5",
+         "Organic materials": "15",
+         "Inorganic materials": "30",
+         "Other fixed costs": "5"
+      }
+   ],
+   "gold": "This statistic shows the cost targets for organic light-emitting diode ( OLED ) panel fabrication in the United States from 2016 to 2025 , by cost area . The target for labor costs for 2025 is expected to reach decrease to 5 U.S. dollars per square meter of OLED panel produced .\n"
+}

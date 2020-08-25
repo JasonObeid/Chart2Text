@@ -1,0 +1,143 @@
+{
+   "title": "Crude oil export destination countries of the United Kingdom ( UK ) 2016 to 2018",
+   "labels": [
+      "Year",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic provides a comparison of the average amount of time spent sleeping by gender in oecd member countries as well as china , india and south africa . As of 2016 , Chinese women spent 540 minutes sleeping per day . This is significantly higher than the average Japanese woman who spent 456 minutes per day sleeping .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "Canada",
+         "2016": "418",
+         "2017": "315",
+         "2018": "570"
+      },
+      {
+         "Year": "China",
+         "2016": "4685",
+         "2017": "5675",
+         "2018": "6188"
+      },
+      {
+         "Year": "Denmark",
+         "2016": "114",
+         "2017": "188",
+         "2018": "78"
+      },
+      {
+         "Year": "Finland",
+         "2016": "0",
+         "2017": "0",
+         "2018": "56"
+      },
+      {
+         "Year": "France",
+         "2016": "1204",
+         "2017": "1257",
+         "2018": "728"
+      },
+      {
+         "Year": "Germany",
+         "2016": "5146",
+         "2017": "4345",
+         "2018": "3751"
+      },
+      {
+         "Year": "Greece",
+         "2016": "0",
+         "2017": "0",
+         "2018": "130"
+      },
+      {
+         "Year": "India",
+         "2016": "80",
+         "2017": "0",
+         "2018": "91"
+      },
+      {
+         "Year": "Italy",
+         "2016": "482",
+         "2017": "76",
+         "2018": "399"
+      },
+      {
+         "Year": "Martinique",
+         "2016": "79",
+         "2017": "129",
+         "2018": "0"
+      },
+      {
+         "Year": "Netherlands",
+         "2016": "12092",
+         "2017": "13980",
+         "2018": "16797"
+      },
+      {
+         "Year": "Norway",
+         "2016": "85",
+         "2017": "158",
+         "2018": "1144"
+      },
+      {
+         "Year": "Poland",
+         "2016": "78",
+         "2017": "40",
+         "2018": "589"
+      },
+      {
+         "Year": "Republic of Ireland",
+         "2016": "54",
+         "2017": "545",
+         "2018": "583"
+      },
+      {
+         "Year": "South Korea",
+         "2016": "3055",
+         "2017": "5187",
+         "2018": "3791"
+      },
+      {
+         "Year": "Spain",
+         "2016": "1390",
+         "2017": "764",
+         "2018": "552"
+      },
+      {
+         "Year": "Sweden",
+         "2016": "323",
+         "2017": "216",
+         "2018": "447"
+      },
+      {
+         "Year": "Turkey",
+         "2016": "157",
+         "2017": "38",
+         "2018": "0"
+      },
+      {
+         "Year": "USA",
+         "2016": "709",
+         "2017": "651",
+         "2018": "1821"
+      },
+      {
+         "Year": "UK refineries",
+         "2016": "13846",
+         "2017": "8178",
+         "2018": "6761"
+      },
+      {
+         "Year": "Unknown",
+         "2016": "79",
+         "2017": "331",
+         "2018": "908"
+      }
+   ],
+   "gold": "This statistic shows the main destination countries of crude oil disposal exports from the United Kingdom ( UK ) from 2016 to 2018 . In terms of exported crude oil , the Netherlands received the largest amount of crude oil of all countries shown here .\n"
+}

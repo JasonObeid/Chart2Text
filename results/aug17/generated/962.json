@@ -1,0 +1,48 @@
+{
+   "title": "Consumer Price Index of all urban consumers , by region 2019",
+   "xAxis": "Country",
+   "yAxis": "Consumer Price Index (100=1982-1984)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Index expensive Consumer all a monthly Price Index subscription by as of 2019 . ",
+      "The data reveals that U.S._city_average was the Index expensive place in the world to get Price Index , with a monthly subscription costing 237.78 Price Index . ",
+      "In Midwest , the monthly price all a Price Index subscription amounted to 237.78 Price Index , and Mexican subscribers paid 246.27 Price Index per month to use the streaming service ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "22": "2"
+      },
+      {
+         "1": "2",
+         "12": "2",
+         "20": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "U.S. city average",
+         "Consumer Price Index (100=1982-1984)": "255.66"
+      },
+      {
+         "Country": "Northeast",
+         "Consumer Price Index (100=1982-1984)": "269.39"
+      },
+      {
+         "Country": "Midwest",
+         "Consumer Price Index (100=1982-1984)": "237.78"
+      },
+      {
+         "Country": "South",
+         "Consumer Price Index (100=1982-1984)": "246.27"
+      },
+      {
+         "Country": "West",
+         "Consumer Price Index (100=1982-1984)": "270.35"
+      }
+   ],
+   "gold": "This statistic shows the annual average Consumer Price Index for urban consumers in the United States of America in 2019 , by region . In 2019 , the CPI in the Western United States amounted to 270.35 . The monthly inflation rate for the country can be accessed here and a projection of the annual inflation rate can be found here and the annual consumer price index for urban consumers in the U.S. can be accessed here .\n"
+}

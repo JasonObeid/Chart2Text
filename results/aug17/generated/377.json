@@ -1,0 +1,75 @@
+{
+   "title": "Cost of an angioplasty in various countries 2019",
+   "xAxis": "Country",
+   "yAxis": "Cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Cost of U.S. dollars in international Cost Eastern countries as of 2019 . ",
+      "The data reveals that United_States had the highest Cost of U.S. dollars , followed 2019 South_Korea with 28200 U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "15": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Cost in U.S. dollars": "28200"
+      },
+      {
+         "Country": "South Korea",
+         "Cost in U.S. dollars": "17700"
+      },
+      {
+         "Country": "Costa Rica",
+         "Cost in U.S. dollars": "13800"
+      },
+      {
+         "Country": "Singapore",
+         "Cost in U.S. dollars": "13400"
+      },
+      {
+         "Country": "Mexico",
+         "Cost in U.S. dollars": "10400"
+      },
+      {
+         "Country": "Malaysia",
+         "Cost in U.S. dollars": "8000"
+      },
+      {
+         "Country": "Israel",
+         "Cost in U.S. dollars": "7500"
+      },
+      {
+         "Country": "Colombia",
+         "Cost in U.S. dollars": "7100"
+      },
+      {
+         "Country": "India",
+         "Cost in U.S. dollars": "5700"
+      },
+      {
+         "Country": "Poland",
+         "Cost in U.S. dollars": "5300"
+      },
+      {
+         "Country": "Jordan",
+         "Cost in U.S. dollars": "5000"
+      },
+      {
+         "Country": "Turkey",
+         "Cost in U.S. dollars": "4800"
+      },
+      {
+         "Country": "Thailand",
+         "Cost in U.S. dollars": "4200"
+      }
+   ],
+   "gold": "This statistic compares the cost of an angioplasty procedure in selected countries as of 2018 . In the United States , an angioplasty cost 28,200 U.S. dollars , while in Costa Rica such a procedure cost less than half of that price .\n"
+}

@@ -1,0 +1,73 @@
+{
+   "title": "LINE app : quarterly revenue 2012 to 2015",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in billion yen",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Revenue of app billion in the LINE from the first Quarter of 2012 to the fourth Quarter of 2015 . ",
+      "In the fourth Quarter of 2015 , around 30.0 billion yen were shipped in the LINE ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '15",
+         "Revenue in billion yen": "30.0"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Revenue in billion yen": "29.9"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Revenue in billion yen": "25.3"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Revenue in billion yen": "25.4"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Revenue in billion yen": "23.6"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Revenue in billion yen": "20.9"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Revenue in billion yen": "17.7"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Revenue in billion yen": "14.6"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Revenue in billion yen": "12.2"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Revenue in billion yen": "10.2"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Revenue in billion yen": "7.4"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Revenue in billion yen": "4.5"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Revenue in billion yen": "2.2"
+      }
+   ],
+   "gold": "This statistic gives information on the quarterly revenue of the chat-app LINE . In the fourth quarter of 2015 , the Japanese chat app had generated 30 billion yen in revenues . This figure translates to approximately 247 million US dollars .\n"
+}

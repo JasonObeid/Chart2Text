@@ -1,0 +1,109 @@
+{
+   "title": "Franchise value of the Cleveland Cavaliers ( NBA ) 2003 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2012.",
+      " Additionally, the next significant trend is moderately positive which exists from 2009 to 2003.",
+      " Likewise, the next significant trend is slightly negative which exists from 2012 to 2009.",
+      " But, the next significant trend is moderately negative which exists from 2020 to 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "8"
+      },
+      {
+         "3": "11",
+         "14": "17"
+      },
+      {
+         "3": "8",
+         "14": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Franchise value in million U.S. dollars": 1510.0
+      },
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": 1275.0
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": 1325.0
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": 1200.0
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": 1100.0
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": 915.0
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": 515.0
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": 434.0
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": 329.0
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": 355.0
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": 476.0
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": 477.0
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": 455.0
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": 380.0
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": 356.0
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": 298.0
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": 258.0
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": 222.0
+      }
+   ],
+   "gold": "This graph depicts the value of the Cleveland Cavaliers franchise of the National Basketball Association from 2003 to 2020 . In 2020 , the franchise had an estimated value of 1.51 billion U.S. dollars .\n"
+}

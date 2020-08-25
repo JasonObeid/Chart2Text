@@ -1,0 +1,41 @@
+{
+   "title": "Consumers with a newspaper or magazine subscriptions in the U.S. 2017 , by age group",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Consumers newspaper magazine subscriptions in the U.S. ( ) as of October 2017 . ",
+      "Of respondents 54 % reported action or thriller ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "4"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Total",
+         "Share of respondents": "41"
+      },
+      {
+         "Response": "Millennials",
+         "Share of respondents": "33"
+      },
+      {
+         "Response": "Gen X",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Boomers",
+         "Share of respondents": "45"
+      },
+      {
+         "Response": "Retirees",
+         "Share of respondents": "54"
+      }
+   ],
+   "gold": "This statistic provides information on the share of consumers with an active newspaper or magazine subscription in the United States as of January 2017 , sorted by age . According to the source , 54 percent of Retirees who subscribe to service subscriptions had a newspaper or magazine subscription as of January 2017 .\n"
+}

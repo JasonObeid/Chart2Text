@@ -1,0 +1,33 @@
+{
+   "title": "U.S. states with state cyber bullying laws as of November 2018\n",
+   "xAxis": "Category Of Cyber Bullying Law",
+   "yAxis": "State totals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the distribution of distribution of global data breach incidents in the first half of 2018 , sorted by type . In that year , nuisance attacks accounted for 4 percent of data breaches that year . Identity theft accounted for 65 percent of data breaches worldwide .\n",
+   "trends": {},
+   "data": [
+      {
+         "Category Of Cyber Bullying Law": "Includes cyber bullying or online harassment",
+         "State totals": 48.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "Criminal Sanction for cyber bullying or electronic harassment",
+         "State totals": 44.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "School sanction for cyber bullying",
+         "State totals": 45.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "School policy",
+         "State totals": 49.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "Includes off-campus",
+         "State totals": 17.0
+      }
+   ],
+   "gold": "This statistic presents the number of US states with state cyber bullying laws , by policy implementation . As of November 2018 , 48 states had electronic harassment laws which explicitly included cyber bullying . A total of 44 states included criminal sanctions in their cyber bullying laws .\n"
+}

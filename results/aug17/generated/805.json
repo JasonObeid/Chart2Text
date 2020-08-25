@@ -1,0 +1,43 @@
+{
+   "title": "Share of U.S. travelers who have had items stolen or lost 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the travelers of U.S. developers who in 2015 , broken down had items . ",
+      "According to the survey findings , the majority of responding U.S. developers were between Credit_card to Smartphone old , while 8 % were in their 40s ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "1",
+         "16": "1",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Smartphone",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Credit card",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Debit card",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "License",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Passport",
+         "Share of respondents": "4"
+      }
+   ],
+   "gold": "The statistic shows the share of U.S. survey respondents who have had items with sensitive information lost or stolen , while traveling . 10 percent of respondents have lost or had a smartphone stolen whilst traveling .\n"
+}

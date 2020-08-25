@@ -1,0 +1,54 @@
+{
+   "title": "Election 2016 exit polls : percentage of votes by gender",
+   "labels": [
+      "Sex",
+      "Hillary Clinton",
+      "Donald Trump"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 2 categories for the x axis of Sex representing Hillary Clinton, and Donald Trump.",
+      " The highest category is found at Female with a mean value of 48.0.",
+      " The second highest category is found at Male with a mean value of 47.0.",
+      " This represents a difference of 2.1%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Hillary Clinton": "41",
+         "Donald Trump": "53"
+      },
+      {
+         "Sex": "Female",
+         "Hillary Clinton": "54",
+         "Donald Trump": "42"
+      }
+   ],
+   "gold": "This graph shows the percentage of votes of the 2016 presidential elections in the United States on November 9 , 2016 , by gender . According to the exit polls , about 54 percent of female voters nationwide voted for Hillary Clinton .\n"
+}

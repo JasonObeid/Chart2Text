@@ -1,0 +1,94 @@
+{
+   "title": "Smartphone ownership in the U.S. 2015 - 2018 , by age group",
+   "labels": [
+      "Year",
+      "18-29",
+      "30-49",
+      "50-64",
+      "65+"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 4 lines.",
+      " The line representing 18-29 had the highest values across Year with a mean value of 92.0.",
+      " This peaked at 2018 with a value of 96.0. ",
+      " The line with the second highest values was 30-49 with a mean value of 88.0.",
+      " This line peaked at 2018 with a value of 92.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "3",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "18-29": "96",
+         "30-49": "92",
+         "50-64": "79",
+         "65+": "53"
+      },
+      {
+         "Year": "2017",
+         "18-29": "94",
+         "30-49": "89",
+         "50-64": "73",
+         "65+": "46"
+      },
+      {
+         "Year": "2016",
+         "18-29": "92",
+         "30-49": "88",
+         "50-64": "74",
+         "65+": "42"
+      },
+      {
+         "Year": "2015",
+         "18-29": "86",
+         "30-49": "83",
+         "50-64": "58",
+         "65+": "30"
+      }
+   ],
+   "gold": "Here you can see a breakdown of adults who owned a smartphone in the United States from 2015 to 2018 , by age group . The survey found that 96 percent of those aged between 18 and 29 years old owned a smartphone in 2018 .\n"
+}

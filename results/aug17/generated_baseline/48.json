@@ -1,0 +1,133 @@
+{
+   "title": "U.S. per capita consumption of dried fruit 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Per capita consumption in pounds, with a total of 19 data points. The chart has 8 significant trends.",
+      " The longest trend is slightly negative which exists from 2018/19 to 2015/16.",
+      " Conversely, the next significant trend is moderately negative which exists from 2009/10 to 2006/07.",
+      " Contrarily, the next significant trend is extremely negative which exists from 2015/16 to 2013/14.",
+      " On the contrary, the next significant trend is extremely negative which exists from 2013/14 to 2011/12.",
+      " Differently, the next significant trend is extremely positive which exists from 2011/12 to 2009/10.",
+      " Also, the next significant trend is extremely negative which exists from 2006/07 to 2004/05.",
+      " But, the next significant trend is moderately negative which exists from 2004/05 to 2002/03.",
+      " But, the next significant trend is extremely positive which exists from 2002/03 to 2000/01."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      },
+      {
+         "3": "14",
+         "14": "16"
+      },
+      {
+         "3": "16",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Per capita consumption in pounds": 1.0
+      },
+      {
+         "Year": "2017/18",
+         "Per capita consumption in pounds": 2.34
+      },
+      {
+         "Year": "2016/17",
+         "Per capita consumption in pounds": 2.41
+      },
+      {
+         "Year": "2015/16",
+         "Per capita consumption in pounds": 2.42
+      },
+      {
+         "Year": "2014/15",
+         "Per capita consumption in pounds": 2.27
+      },
+      {
+         "Year": "2013/14",
+         "Per capita consumption in pounds": 2.44
+      },
+      {
+         "Year": "2012/13",
+         "Per capita consumption in pounds": 2.3
+      },
+      {
+         "Year": "2011/12",
+         "Per capita consumption in pounds": 2.31
+      },
+      {
+         "Year": "2010/11",
+         "Per capita consumption in pounds": 2.26
+      },
+      {
+         "Year": "2009/10",
+         "Per capita consumption in pounds": 2.14
+      },
+      {
+         "Year": "2008/09",
+         "Per capita consumption in pounds": 2.21
+      },
+      {
+         "Year": "2007/08",
+         "Per capita consumption in pounds": 2.25
+      },
+      {
+         "Year": "2006/07",
+         "Per capita consumption in pounds": 2.34
+      },
+      {
+         "Year": "2005/06",
+         "Per capita consumption in pounds": 2.29
+      },
+      {
+         "Year": "2004/05",
+         "Per capita consumption in pounds": 2.34
+      },
+      {
+         "Year": "2003/04",
+         "Per capita consumption in pounds": 2.32
+      },
+      {
+         "Year": "2002/03",
+         "Per capita consumption in pounds": 2.59
+      },
+      {
+         "Year": "2001/02",
+         "Per capita consumption in pounds": 2.43
+      },
+      {
+         "Year": "2000/01",
+         "Per capita consumption in pounds": 2.46
+      }
+   ],
+   "gold": "The timeline depicts the per capita consumption of dried fruit in the United States from 2000/2001 to 2018/2019 . According to the report , the U.S. per capita consumption of dried fruit amounted to about 2.34 pounds in 2017/18 . In contrast , Americans consumed 116.75 pounds of fresh fruit per capita in the same year .\n"
+}

@@ -1,0 +1,42 @@
+{
+   "title": "Most important export partner countries for Brazil in 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total export",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2017 , China was the leading producer of Most oranges in the Brazil ( EU28 ) , with over 21.8 % export of Most oranges produced . ",
+      "The Spanish export was more than two times the export of United_States , the second largest producer of oranges . ",
+      "The other three producers in the EU produced less than one percent export during this year ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "20": "0"
+      },
+      {
+         "11": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Share in total export": "21.8"
+      },
+      {
+         "Country": "United States",
+         "Share in total export": "12.5"
+      },
+      {
+         "Country": "Argentina",
+         "Share in total export": "8.1"
+      },
+      {
+         "Country": "Netherlands",
+         "Share in total export": "4.3"
+      }
+   ],
+   "gold": "This statistic shows the most important export partner countries for Brazil in 2017 . In 20167 the main export partner country of Brazil was China with a share of 21.8 percent in exports .\n"
+}

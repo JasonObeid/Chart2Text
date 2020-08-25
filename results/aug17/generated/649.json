@@ -1,0 +1,82 @@
+{
+   "title": "Type of tea most consumed in Great Britain 2014",
+   "xAxis": "Type of tea",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph presents data on the popularity of the versions of the Chai read in the consumed as of 2017 . ",
+      "During the survey , 52 % of the respondents stated they most often read the English_breakfast Version of the Chai . ",
+      "During the same survey , 32 % of respondents stated that they had never read the Chai , whilst 16 % stated that they read the Chai every day ."
+   ],
+   "trends": [
+      {
+         "12": "10"
+      },
+      {
+         "4": "0",
+         "15": "0",
+         "19": "10"
+      },
+      {
+         "16": "10",
+         "26": "10"
+      }
+   ],
+   "data": [
+      {
+         "Type of tea": "English breakfast",
+         "Share of respondents": "52"
+      },
+      {
+         "Type of tea": "Green",
+         "Share of respondents": "23"
+      },
+      {
+         "Type of tea": "Earl Grey",
+         "Share of respondents": "22"
+      },
+      {
+         "Type of tea": "Fruit",
+         "Share of respondents": "19"
+      },
+      {
+         "Type of tea": "Peppermint",
+         "Share of respondents": "16"
+      },
+      {
+         "Type of tea": "Herbal",
+         "Share of respondents": "15"
+      },
+      {
+         "Type of tea": "Camomile",
+         "Share of respondents": "11"
+      },
+      {
+         "Type of tea": "Decaffeinated",
+         "Share of respondents": "10"
+      },
+      {
+         "Type of tea": "Assam",
+         "Share of respondents": "9"
+      },
+      {
+         "Type of tea": "Darjeeling",
+         "Share of respondents": "8"
+      },
+      {
+         "Type of tea": "Chai",
+         "Share of respondents": "7"
+      },
+      {
+         "Type of tea": "Other",
+         "Share of respondents": "16"
+      },
+      {
+         "Type of tea": "Not applicable - I never drink tea",
+         "Share of respondents": "18"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey that asked British adults which types of tea , if any , they ever drink in Great Britain ( GB ) in 2014 . English breakfast tea ranked highest with a 52 percent share of respondents , followed by Green tea ( 23 percent ) and Earl Grey ( 22 percent ) . A majority of British consumers drink tea on a daily basis , with earlier times in the day the peak period for tea drinking .\n"
+}

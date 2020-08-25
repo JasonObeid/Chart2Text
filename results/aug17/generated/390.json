@@ -1,0 +1,46 @@
+{
+   "title": "Adults attending a classical music event in the past 12 months in the U.S. 1982 to 2012",
+   "xAxis": "Year",
+   "yAxis": "Share of adults",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the percentage of worldwide classical music event past in the 12 from 1982 to 2012 . ",
+      "In 2012 , 8.8 % of classical music event past were between 18 and 12.5 % were past ."
+   ],
+   "trends": [
+      {
+         "15": "0",
+         "17": "4"
+      },
+      {
+         "1": "4",
+         "3": "4",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1982",
+         "Share of adults": "13"
+      },
+      {
+         "Year": "1992",
+         "Share of adults": "12.5"
+      },
+      {
+         "Year": "2002",
+         "Share of adults": "11.6"
+      },
+      {
+         "Year": "2008",
+         "Share of adults": "9.3"
+      },
+      {
+         "Year": "2012",
+         "Share of adults": "8.8"
+      }
+   ],
+   "gold": "This statistic shows the share of adults attending a classical music event at least once in the past 12 months in the United States from 1982 to 2012 . In 2012 , 8.8 percent of U.S. adults had attended a classical music event at least once in the past year .\n"
+}

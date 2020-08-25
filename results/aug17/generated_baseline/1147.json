@@ -1,0 +1,44 @@
+{
+   "title": "Sexism in advertising in the U.S. 2016\n",
+   "xAxis": "Share of...",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Share of..., and a y axis representing Unnamed: 1.",
+      " The highest category is found at ...respondents_who_have_seen_ads_that_portay_women_as_dumb_helpless_or_incompetent where Unnamed: 1 is 85.0.",
+      " The lowest category is found at ...respondents_who_have_seen_advertising_they_deem_\"offensive\"_to_women where Unnamed: 1 is 76.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Share of...": "...respondents who have seen ads that portay women as dumb helpless or incompetent",
+         "Unnamed: 1": 85.0
+      },
+      {
+         "Share of...": "...female respondents who have been offended by sexism in advertising",
+         "Unnamed: 1": 84.0
+      },
+      {
+         "Share of...": "...respondents who have seen ads they find ridiculous in how they portray women",
+         "Unnamed: 1": 82.0
+      },
+      {
+         "Share of...": "...respondents who have seen advertising they deem \"offensive\" to women",
+         "Unnamed: 1": 76.0
+      }
+   ],
+   "gold": "The statistic shows data on sexism in advertising in the United States as of July 2016 . During a survey , 76 percent of respondents stated they had seen advertising they deemed `` offensive '' to women .\n"
+}

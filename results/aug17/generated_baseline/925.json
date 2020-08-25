@@ -1,0 +1,68 @@
+{
+   "title": "Countries with the fastest growing economies from 2001 to 2010\n",
+   "xAxis": "Country",
+   "yAxis": "Annual average GDP growth in percent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Annual average GDP growth in percent.",
+      " The highest category is found at Angola where Annual average GDP growth in percent is 11.1.",
+      " The lowest category is found at Rwanda where Annual average GDP growth in percent is 7.6."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Angola",
+         "Annual average GDP growth in percent": 11.1
+      },
+      {
+         "Country": "China",
+         "Annual average GDP growth in percent": 10.5
+      },
+      {
+         "Country": "Myanmar",
+         "Annual average GDP growth in percent": 10.3
+      },
+      {
+         "Country": "Nigeria",
+         "Annual average GDP growth in percent": 8.9
+      },
+      {
+         "Country": "Ethiopia",
+         "Annual average GDP growth in percent": 8.4
+      },
+      {
+         "Country": "Kazakhstan",
+         "Annual average GDP growth in percent": 8.2
+      },
+      {
+         "Country": "Chad",
+         "Annual average GDP growth in percent": 7.9
+      },
+      {
+         "Country": "Mozambique",
+         "Annual average GDP growth in percent": 7.9
+      },
+      {
+         "Country": "Cambodia",
+         "Annual average GDP growth in percent": 7.7
+      },
+      {
+         "Country": "Rwanda",
+         "Annual average GDP growth in percent": 7.6
+      }
+   ],
+   "gold": "This statistic shows the ten countries with the fastest growing economies in the world from 2001 to 2010 . Over the past decade , Angola has demonstrated the fastest economic growth rate with average annual GDP growth sitting as high as 11.1 percent . The overall quarterly GDP growth in the United States can be found here .\n"
+}

@@ -1,0 +1,121 @@
+{
+   "title": "Devices used to play video games in the United Kingdom ( UK ) 2009 to 2018",
+   "labels": [
+      "Year",
+      "Games console and TV",
+      "Computer",
+      "Mobile phone",
+      "Handheld games console",
+      "Tablet",
+      "Portable media player",
+      "Smart TV"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic presents the average penetration rate of cigarette brands in russia from 2012 to 2018 . In 2017 , the average daily rate of marriott brands in france was 202.75 U.S. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Games console and TV": "17",
+         "Computer": "12",
+         "Mobile phone": "22",
+         "Handheld games console": "6",
+         "Tablet": "11",
+         "Portable media player": "0",
+         "Smart TV": "2"
+      },
+      {
+         "Year": "2017",
+         "Games console and TV": "15",
+         "Computer": "9",
+         "Mobile phone": "21",
+         "Handheld games console": "5",
+         "Tablet": "12",
+         "Portable media player": "0",
+         "Smart TV": "2"
+      },
+      {
+         "Year": "2016",
+         "Games console and TV": "15",
+         "Computer": "11",
+         "Mobile phone": "19",
+         "Handheld games console": "5",
+         "Tablet": "12",
+         "Portable media player": "0",
+         "Smart TV": "1"
+      },
+      {
+         "Year": "2015",
+         "Games console and TV": "16",
+         "Computer": "14",
+         "Mobile phone": "26",
+         "Handheld games console": "6",
+         "Tablet": "13",
+         "Portable media player": "0",
+         "Smart TV": "1"
+      },
+      {
+         "Year": "2014",
+         "Games console and TV": "17",
+         "Computer": "16",
+         "Mobile phone": "26",
+         "Handheld games console": "7",
+         "Tablet": "15",
+         "Portable media player": "0",
+         "Smart TV": "1"
+      },
+      {
+         "Year": "2013",
+         "Games console and TV": "24",
+         "Computer": "17",
+         "Mobile phone": "19",
+         "Handheld games console": "12",
+         "Tablet": "10",
+         "Portable media player": "3",
+         "Smart TV": "1"
+      },
+      {
+         "Year": "2012",
+         "Games console and TV": "25",
+         "Computer": "15",
+         "Mobile phone": "13",
+         "Handheld games console": "12",
+         "Tablet": "5",
+         "Portable media player": "3",
+         "Smart TV": "0"
+      },
+      {
+         "Year": "2011",
+         "Games console and TV": "27",
+         "Computer": "13",
+         "Mobile phone": "12",
+         "Handheld games console": "12",
+         "Tablet": "2",
+         "Portable media player": "2",
+         "Smart TV": "0"
+      },
+      {
+         "Year": "2010",
+         "Games console and TV": "24",
+         "Computer": "11",
+         "Mobile phone": "9",
+         "Handheld games console": "13",
+         "Tablet": "1",
+         "Portable media player": "2",
+         "Smart TV": "0"
+      },
+      {
+         "Year": "2009",
+         "Games console and TV": "27",
+         "Computer": "14",
+         "Mobile phone": "6",
+         "Handheld games console": "16",
+         "Tablet": "0",
+         "Portable media player": "1",
+         "Smart TV": "0"
+      }
+   ],
+   "gold": "In an Ofcom survey looking into the use and attitudes towards media usage of UK adults , a total of 62 percent of respondents indicated that they played some form of game . Since 2014 , the popularity of mobile gaming overtook games consoles and TV for the first time . As of 2018 , 22 percent of respondents said that they played games in the home or elsewhere on their mobile phone .\n"
+}

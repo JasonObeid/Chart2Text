@@ -1,0 +1,61 @@
+{
+   "title": "Average regular season home attendance of the Cleveland Browns 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This graph depicts the average regular season home attendance of the seattle seahawks from 2008 to 2019 . In 2019 , the average attendance at home games of the seattle seahawks was 68990 . seattle seahawks average home attendance - additional information The seattle seahawks ' average regular season home attendance has remained relatively constant in recent years , with the average in the 2019 season standing at 68990 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": 67431.0
+      },
+      {
+         "Year": "2018",
+         "Average attendance": 65765.0
+      },
+      {
+         "Year": "2017",
+         "Average attendance": 63882.0
+      },
+      {
+         "Year": "2016",
+         "Average attendance": 64311.0
+      },
+      {
+         "Year": "2015",
+         "Average attendance": 66186.0
+      },
+      {
+         "Year": "2014",
+         "Average attendance": 67425.0
+      },
+      {
+         "Year": "2013",
+         "Average attendance": 71242.0
+      },
+      {
+         "Year": "2012",
+         "Average attendance": 66632.0
+      },
+      {
+         "Year": "2011",
+         "Average attendance": 65859.0
+      },
+      {
+         "Year": "2010",
+         "Average attendance": 66116.0
+      },
+      {
+         "Year": "2009",
+         "Average attendance": 68888.0
+      },
+      {
+         "Year": "2008",
+         "Average attendance": 72778.0
+      }
+   ],
+   "gold": "This graph depicts the average regular season home attendance of the Cleveland Browns from 2008 to 2019 . In 2019 , the average attendance at home games of the Cleveland Browns was 67,431 .\n"
+}

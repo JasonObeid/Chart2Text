@@ -1,0 +1,46 @@
+{
+   "title": "Red Bull 's number of cans sold worldwide 2011 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Number of cans in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of cans in billions with a total of 6 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2016 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Number of cans in billions": 6.06
+      },
+      {
+         "Year": "2015",
+         "Number of cans in billions": 5.96
+      },
+      {
+         "Year": "2014",
+         "Number of cans in billions": 5.61
+      },
+      {
+         "Year": "2013",
+         "Number of cans in billions": 5.39
+      },
+      {
+         "Year": "2012",
+         "Number of cans in billions": 5.23
+      },
+      {
+         "Year": "2011",
+         "Number of cans in billions": 4.08
+      }
+   ],
+   "gold": "The popular energy drink Red Bull sold 6.06 billion cans in 2016 worldwide , up from just over 4 billion cans in 2011 . Red Bull in the U.S. Red Bull is one of the most popular energy drinks in the United States , controlling about 26.4 percent of the market . Red Bull Sugar Free and Red Bull Blue Edition are also among the top ten energy drink brands in the United States , accounting for 6.8 and 1.9 percent of the total market , respectively .\n"
+}

@@ -1,0 +1,66 @@
+{
+   "title": "Total population of Bangladesh 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inhabitants in millions with a total of 11 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2024 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": 175.4
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": 173.6
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": 171.82
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": 170.06
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": 168.31
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": 166.59
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": 164.88
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": 163.19
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": 161.51
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": 159.86
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": 158.22
+      }
+   ],
+   "gold": "This statistic shows the total population of Bangladesh from 2014 to 2024  . In 2018 , the estimated total population of Bangladesh amounted to approximately 164.88 million inhabitants .\n"
+}

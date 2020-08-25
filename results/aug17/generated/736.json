@@ -1,0 +1,37 @@
+{
+   "title": "Banco Santander global operations : geographic diversification of profit 2019",
+   "xAxis": "Region",
+   "yAxis": "Share of attributable profit",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the Santander Share of North_America in the Banco in 2019 , profit Region . ",
+      "In 2019 , the Santander Share of South_America North_America amounted to 16 % profit in the Banco ."
+   ],
+   "trends": [
+      {
+         "7": "0"
+      },
+      {
+         "7": "1",
+         "8": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Region": "North America",
+         "Share of attributable profit": "16"
+      },
+      {
+         "Region": "South America",
+         "Share of attributable profit": "37"
+      },
+      {
+         "Region": "Europe",
+         "Share of attributable profit": "47"
+      }
+   ],
+   "gold": "This statistic shows the geographic diversification of Banco Santander operations as of the end of 2019 . Regions presented are ranked by their contribution to the total profit contribution of the Santander group . Europe attributed to almost half of all underlying attributable profit for Banco Santander .\n"
+}

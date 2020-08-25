@@ -1,0 +1,83 @@
+{
+   "title": "Employment by economic sector in South Africa 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "The statistic shows the distribution of employment in singapore by economic sector from 2009 to 2019 . In 2019 , 16.51 percent in industry and 83.02 percent in the service sector .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "5.09",
+         "Industry": "23.18",
+         "Services": "71.73"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "5.16",
+         "Industry": "23.24",
+         "Services": "71.6"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "5.22",
+         "Industry": "23.3",
+         "Services": "71.48"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "5.57",
+         "Industry": "23.33",
+         "Services": "71.1"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "5.61",
+         "Industry": "23.83",
+         "Services": "70.56"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "4.65",
+         "Industry": "23.42",
+         "Services": "71.93"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "4.98",
+         "Industry": "23.52",
+         "Services": "71.5"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "4.84",
+         "Industry": "23.45",
+         "Services": "71.72"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "4.6",
+         "Industry": "24.18",
+         "Services": "71.22"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "4.86",
+         "Industry": "24.4",
+         "Services": "70.74"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "5.07",
+         "Industry": "25.26",
+         "Services": "69.68"
+      }
+   ],
+   "gold": "The statistic shows the distribution of employment in South Africa by economic sector from 2009 to 2019 . In 2019 , 5.09 percent of the employees in South Africa were active in the agricultural sector , 23.18 percent in industry and 71.73 percent in the service sector .\n"
+}

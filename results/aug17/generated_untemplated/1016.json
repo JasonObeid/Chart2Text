@@ -1,0 +1,49 @@
+{
+   "title": "Attendance at Cineplex cinemas 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Attendance in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This graph shows the revenue distribution of the bank of china from 2010 to 2018 . In 2018 , the bank of china generated total assets worth approximately 21.27 trillion u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Attendance in millions": 69.27
+      },
+      {
+         "Year": "2017",
+         "Attendance in millions": 70.4
+      },
+      {
+         "Year": "2016",
+         "Attendance in millions": 74.6
+      },
+      {
+         "Year": "2015",
+         "Attendance in millions": 77.0
+      },
+      {
+         "Year": "2014",
+         "Attendance in millions": 73.6
+      },
+      {
+         "Year": "2013",
+         "Attendance in millions": 72.7
+      },
+      {
+         "Year": "2012",
+         "Attendance in millions": 71.2
+      },
+      {
+         "Year": "2011",
+         "Attendance in millions": 66.1
+      },
+      {
+         "Year": "2010",
+         "Attendance in millions": 67.0
+      }
+   ],
+   "gold": "The timeline presents the attendance figures at Cineplex from 2010 to 2018 . In 2018 , 69.27 million people attended movies at the Canadian movie theater chain , down from 70.4 million visitors a year earlier .\n"
+}

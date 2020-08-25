@@ -1,0 +1,72 @@
+{
+   "title": "Leading YouTube content categories of female U.S. Millennials 2016\n",
+   "xAxis": "Youtube Categories",
+   "yAxis": "Share of views",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Youtube Categories, and a y axis representing Share of views.",
+      " The highest category is found at Beauty_and_style where Share of views is 62.0.",
+      " The lowest category is found at Food_and_drink where Share of views is 1.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Youtube Categories": "Beauty and style",
+         "Share of views": 62.0
+      },
+      {
+         "Youtube Categories": "Health and fitness",
+         "Share of views": 6.0
+      },
+      {
+         "Youtube Categories": "Music",
+         "Share of views": 5.0
+      },
+      {
+         "Youtube Categories": "Shopping",
+         "Share of views": 4.0
+      },
+      {
+         "Youtube Categories": "Movies and tv",
+         "Share of views": 4.0
+      },
+      {
+         "Youtube Categories": "People",
+         "Share of views": 4.0
+      },
+      {
+         "Youtube Categories": "Gaming",
+         "Share of views": 3.0
+      },
+      {
+         "Youtube Categories": "Education and reference",
+         "Share of views": 2.0
+      },
+      {
+         "Youtube Categories": "Hobbies",
+         "Share of views": 2.0
+      },
+      {
+         "Youtube Categories": "Food and drink",
+         "Share of views": 1.0
+      },
+      {
+         "Youtube Categories": "Other",
+         "Share of views": 7.0
+      }
+   ],
+   "gold": "This statistic presents a ranking of the most popular YouTube video content categories of female Millennials in the United States . As of April 2016 , beauty and style content accounted for 62 percent of YouTube content views of that particular demographic group .\n"
+}

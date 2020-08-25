@@ -1,0 +1,109 @@
+{
+   "title": "Unemployment rate in Malawi 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Unemployment rate in Malawi from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Malawi was at approximately 5.38 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "5.38"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "5.43"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "5.47"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "5.71"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "5.79"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "5.88"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "5.95"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "6.18"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "6.37"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "6.32"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "6.43"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "6.18"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "6.46"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "7.09"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "7.8"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "8.09"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "8.23"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "8.31"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "8.32"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "8.4"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "8.43"
+      }
+   ],
+   "gold": "This statistic shows the unemployment rate in Malawi from 1999 to 2019 . In 2019 , the unemployment rate in Malawi was 5.38 percent .\n"
+}

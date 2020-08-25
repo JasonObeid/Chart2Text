@@ -1,0 +1,91 @@
+{
+   "title": "eBay Enterprise : annual net revenue 1999 to 2014\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 16 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely negative which exists from 1999 to 2010.",
+      " On the other hand, the next significant trend is slightly negative which exists from 2010 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "11"
+      },
+      {
+         "3": "11",
+         "14": "15"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1999",
+         "Revenue in million U.S. dollars": 5.5
+      },
+      {
+         "Year": "2000",
+         "Revenue in million U.S. dollars": 42.8
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 102.6
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 172.6
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 241.9
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 335.3
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 440.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 609.6
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 750.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 966.9
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 1004.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 1358.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 509.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 1083.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 1166.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 1238.0
+      }
+   ],
+   "gold": "This timeline represents eBay Enterprise 's , formerly known as GSI Commerce , annual net revenue from 1999 to 2014 , in million U.S. dollars . In 2010 , GSI Commerce reported a net revenue of 1.36 billion U.S. dollars before being acquired by eBay in June 2011 .\n"
+}

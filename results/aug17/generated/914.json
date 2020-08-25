@@ -1,0 +1,114 @@
+{
+   "title": "Employment by economic sector in Ireland 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the distribution of Employment in Ireland by economic sector from 2009 to 2019 . ",
+      "In 2019 , 4.98 % of the employees in Ireland were active in the agricultural sector , 18.27 % in Industry and 76.75 % in the Services sector ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "4.98",
+         "Industry": "18.27",
+         "Services": "76.75"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "5.02",
+         "Industry": "18.47",
+         "Services": "76.51"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "5.06",
+         "Industry": "18.83",
+         "Services": "76.12"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "5.33",
+         "Industry": "18.56",
+         "Services": "76.11"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "5.33",
+         "Industry": "18.1",
+         "Services": "76.57"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "5.43",
+         "Industry": "17.3",
+         "Services": "77.27"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "5.76",
+         "Industry": "17.23",
+         "Services": "77.01"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "5.77",
+         "Industry": "16.98",
+         "Services": "77.25"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "5.73",
+         "Industry": "17.45",
+         "Services": "76.82"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "5.75",
+         "Industry": "18.09",
+         "Services": "76.16"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "5.59",
+         "Industry": "19.85",
+         "Services": "74.56"
+      }
+   ],
+   "gold": "The statistic shows the distribution of employment in Ireland by economic sector from 2009 to 2019 . In 2019 , 4.98 percent of the employees in Ireland were active in the agricultural sector , 18.27 percent in industry and 76.75 percent in the service sector .\n"
+}

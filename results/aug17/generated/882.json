@@ -1,0 +1,81 @@
+{
+   "title": "Number of customer transactions at the Home Depot and Lowe 's worldwide 2011 to 2018",
+   "labels": [
+      "Year",
+      "Home Depot",
+      "Lowe's"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Lowe forecast for the Home customer transactions Depot in the United Kingdom ( Home Depot ) from 2011 to 2018 , . ",
+      "The estimated customer transactions Lowe 's of the defense and Lowe's Depot in 2018 is 941 million British pounds ( GBP ) . ",
+      "customer transactions , also often called IT transactions or computer transactions , is a vital part to any business ."
+   ],
+   "trends": [
+      {
+         "20": [
+            "7",
+            "0"
+         ],
+         "22": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "13": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Home Depot": "1621",
+         "Lowe's": "941"
+      },
+      {
+         "Year": "2017",
+         "Home Depot": "1579",
+         "Lowe's": "953"
+      },
+      {
+         "Year": "2016",
+         "Home Depot": "1544",
+         "Lowe's": "945"
+      },
+      {
+         "Year": "2015",
+         "Home Depot": "1501",
+         "Lowe's": "878"
+      },
+      {
+         "Year": "2014",
+         "Home Depot": "1442",
+         "Lowe's": "857"
+      },
+      {
+         "Year": "2013",
+         "Home Depot": "1391",
+         "Lowe's": "828"
+      },
+      {
+         "Year": "2012",
+         "Home Depot": "1364",
+         "Lowe's": "804"
+      },
+      {
+         "Year": "2011",
+         "Home Depot": "1318",
+         "Lowe's": "810"
+      }
+   ],
+   "gold": "This statistic depicts the number of customer transactions at the Home Depot and Lowe 's worldwide from 2011 to 2018 . In 2018 , the Home Depot carried out 1.62 billion customer transactions worldwide .\n"
+}

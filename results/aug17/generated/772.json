@@ -1,0 +1,58 @@
+{
+   "title": "U.S. teens : most frequently accessed social networks 2019",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents who use network most often",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Share of who in the teens use were most using social networks 2019 . ",
+      "During the 2019 survey period , 24 % of respondents stated that they had most accessed Facebook , either via desktop or mobile internet connection ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Instagram",
+         "Share of respondents who use network most often": "25"
+      },
+      {
+         "Platform": "Facebook",
+         "Share of respondents who use network most often": "24"
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents who use network most often": "22"
+      },
+      {
+         "Platform": "YouTube",
+         "Share of respondents who use network most often": "16"
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents who use network most often": "5"
+      },
+      {
+         "Platform": "WhatsApp",
+         "Share of respondents who use network most often": "4"
+      },
+      {
+         "Platform": "TikTok",
+         "Share of respondents who use network most often": "2"
+      },
+      {
+         "Platform": "Other",
+         "Share of respondents who use network most often": "1"
+      },
+      {
+         "Platform": "Don't know",
+         "Share of respondents who use network most often": "1"
+      }
+   ],
+   "gold": "During an September 2019 survey , it was found that 25 percent of teens in the United States used Instagram the most out of all social networks . This is hardly surprising , as U.S. teens rated Instagram among their favorite social network for the past few years . In spring 2019 , 35 percent of teenagers ranked the photo-sharing app as their most important social network .\n"
+}

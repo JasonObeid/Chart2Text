@@ -1,0 +1,70 @@
+{
+   "title": "Regular season average attendance of the Milwaukee Brewers 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Average Regular season home attendance of the Milwaukee Brewers from 2009 to 2019 . ",
+      "In 2019 , the Average Regular season home attendance of the Milwaukee Brewers was 36090 \u2022 Milwaukee Brewers total home attendance \u2022 Major League Baseball Average per game attendance \u2022 Major League Baseball total attendance . "
+   ],
+   "trends": [
+      {
+         "13": "10",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "13": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": "36090"
+      },
+      {
+         "Year": "2018",
+         "Average attendance": "35195"
+      },
+      {
+         "Year": "2017",
+         "Average attendance": "31589"
+      },
+      {
+         "Year": "2016",
+         "Average attendance": "28575"
+      },
+      {
+         "Year": "2015",
+         "Average attendance": "31389"
+      },
+      {
+         "Year": "2014",
+         "Average attendance": "34535"
+      },
+      {
+         "Year": "2013",
+         "Average attendance": "31248"
+      },
+      {
+         "Year": "2012",
+         "Average attendance": "34955"
+      },
+      {
+         "Year": "2011",
+         "Average attendance": "37918"
+      },
+      {
+         "Year": "2010",
+         "Average attendance": "34278"
+      },
+      {
+         "Year": "2009",
+         "Average attendance": "37499"
+      }
+   ],
+   "gold": "This graph depicts the average regular season home attendance of the Milwaukee Brewers from 2009 to 2019 . In 2019 , the average regular season home attendance of the Milwaukee Brewers was 36,090 . \u2022 Milwaukee Brewers total home attendance \u2022 Major League Baseball average per game attendance \u2022 Major League Baseball total attendance\n"
+}

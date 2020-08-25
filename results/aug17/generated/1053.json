@@ -1,0 +1,48 @@
+{
+   "title": "Spain : number of hotels and similar accommodation by number of rooms 2015",
+   "xAxis": "Year",
+   "yAxis": "Number of hotels",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of hotels number similar accommodation mopeds or motorcycles in Spain from Less_than_25_rooms until From_100_to_249_rooms . ",
+      "As can be seen in this statistic , in From_100_to_249_rooms the Number of by or number crime hotels number was almost 12170 thousand compared with only 1053 in From_25_to_99_rooms . ",
+      "The surge in by crime is one of the most widely reported aspects of increased crime in Spain recent years ."
+   ],
+   "trends": [
+      {
+         "17": "0",
+         "19": "3"
+      },
+      {
+         "9": "3",
+         "21": "0",
+         "28": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "Less than 25 rooms",
+         "Number of hotels": "12170"
+      },
+      {
+         "Year": "From 25 to 99 rooms",
+         "Number of hotels": "5111"
+      },
+      {
+         "Year": "100 rooms or more",
+         "Number of hotels": "2437"
+      },
+      {
+         "Year": "From 100 to 249 rooms",
+         "Number of hotels": "1758"
+      },
+      {
+         "Year": "250 rooms or more",
+         "Number of hotels": "679"
+      }
+   ],
+   "gold": "This statistic shows the number of hotels and similar accommodation in Spain in 2015 , by number of rooms . In 2015 there were over 12 thousand hotels with less than 25 rooms in Spain .\n"
+}

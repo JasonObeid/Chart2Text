@@ -1,0 +1,33 @@
+{
+   "title": "Boat ownership by age in the U.S. 2013\n",
+   "xAxis": "Age (in years)",
+   "yAxis": "Own a boat",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic depicts the boat ownership rate by household income in the u.s. in 2013 . 9.4 percent of the respondents with an annual household income of greater than 100,000 u.s. dollars own a boat .\n",
+   "trends": {},
+   "data": [
+      {
+         "Age (in years)": "Under 16",
+         "Own a boat": 7.1
+      },
+      {
+         "Age (in years)": "16 to 34",
+         "Own a boat": 8.2
+      },
+      {
+         "Age (in years)": "35 to 44",
+         "Own a boat": 7.6
+      },
+      {
+         "Age (in years)": "45 to 64",
+         "Own a boat": 7.5
+      },
+      {
+         "Age (in years)": "65+",
+         "Own a boat": 6.0
+      }
+   ],
+   "gold": "The statistic depicts the boat ownership rate by age in the U.S. in 2013 . 7.5 percent of the respondents aged 45 to 64 years own a boat .\n"
+}

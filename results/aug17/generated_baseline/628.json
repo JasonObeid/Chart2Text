@@ -1,0 +1,60 @@
+{
+   "title": "Skype usage reach in the United States 2018 , by age group\n",
+   "xAxis": "Year",
+   "yAxis": "Reach",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Reach, with a total of 7 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly positive which exists from 25-34 to 55-64.",
+      " Also, the next significant trend is extremely negative which exists from 55-64 to 75+.",
+      " Differently, the next significant trend is extremely negative which exists from 18-24 to 25-34."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-24",
+         "Reach": 51.0
+      },
+      {
+         "Year": "25-34",
+         "Reach": 52.0
+      },
+      {
+         "Year": "35-44",
+         "Reach": 42.0
+      },
+      {
+         "Year": "45-54",
+         "Reach": 33.0
+      },
+      {
+         "Year": "55-64",
+         "Reach": 25.0
+      },
+      {
+         "Year": "65-75",
+         "Reach": 26.0
+      },
+      {
+         "Year": "75+",
+         "Reach": 16.0
+      }
+   ],
+   "gold": "This statistic shows the share of internet users in the United States who were using Skype as of January 2018 , sorted by age group . We Are Flint found that 51 percent of internet users aged from 18 to 24 years old used the telecommunications application software .\n"
+}

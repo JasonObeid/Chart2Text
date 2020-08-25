@@ -1,0 +1,65 @@
+{
+   "title": "U.S.- employment by industry 2019\n",
+   "xAxis": "Industry",
+   "yAxis": "Employment in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This graph shows the real value added to the Gross Domestic Product ( gdp ) of washington in 2018 , by industry . In 2018 , the mining industry added 18.87 billion chained 2012 u.s. dollars of value to the state gdp .\n",
+   "trends": {},
+   "data": [
+      {
+         "Industry": "Education and health services",
+         "Employment in thousands": 35894.0
+      },
+      {
+         "Industry": "Wholesale and retail trade",
+         "Employment in thousands": 19742.0
+      },
+      {
+         "Industry": "Professional and business services",
+         "Employment in thousands": 19606.0
+      },
+      {
+         "Industry": "Manufacturing",
+         "Employment in thousands": 15741.0
+      },
+      {
+         "Industry": "Leisure and hospitality",
+         "Employment in thousands": 14643.0
+      },
+      {
+         "Industry": "Construction",
+         "Employment in thousands": 11373.0
+      },
+      {
+         "Industry": "Financial activities",
+         "Employment in thousands": 10765.0
+      },
+      {
+         "Industry": "Transportation and utilities",
+         "Employment in thousands": 8991.0
+      },
+      {
+         "Industry": "Other services",
+         "Employment in thousands": 7617.0
+      },
+      {
+         "Industry": "Public administration",
+         "Employment in thousands": 7225.0
+      },
+      {
+         "Industry": "Information",
+         "Employment in thousands": 2766.0
+      },
+      {
+         "Industry": "Agriculture and related",
+         "Employment in thousands": 2425.0
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "Employment in thousands": 750.0
+      }
+   ],
+   "gold": "In 2019 , the education and health services industry employed the largest number of people in the United States . That year , about 35.89 million people were employed in the education and health services industry . Education and Health Services Industry Despite being one of the wealthiest nations in the world , the United States has started to fall behind in both education and the health care industry .\n"
+}

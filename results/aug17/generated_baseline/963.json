@@ -1,0 +1,64 @@
+{
+   "title": "India 's petroleum imports by value 2010 to 2019\n",
+   "xAxis": "Years",
+   "yAxis": "Import value in billion Indian rupees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Years, and a y axis representing Import value in billion Indian rupees.",
+      " The highest category is found at FY_2014 where Import value in billion Indian rupees is 9978.85.",
+      " The lowest category is found at FY_2011 where Import value in billion Indian rupees is 4822.82."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 5,
+         "12": 5
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Years": "FY 2019",
+         "Import value in billion Indian rupees": 9860.2
+      },
+      {
+         "Years": "FY 2018",
+         "Import value in billion Indian rupees": 7003.2
+      },
+      {
+         "Years": "FY 2017",
+         "Import value in billion Indian rupees": 5832.2
+      },
+      {
+         "Years": "FY 2016",
+         "Import value in billion Indian rupees": 5405.0
+      },
+      {
+         "Years": "FY 2015",
+         "Import value in billion Indian rupees": 8428.74
+      },
+      {
+         "Years": "FY 2014",
+         "Import value in billion Indian rupees": 9978.85
+      },
+      {
+         "Years": "FY 2013",
+         "Import value in billion Indian rupees": 8918.71
+      },
+      {
+         "Years": "FY 2012",
+         "Import value in billion Indian rupees": 7430.75
+      },
+      {
+         "Years": "FY 2011",
+         "Import value in billion Indian rupees": 4822.82
+      }
+   ],
+   "gold": "India imported petroleum products worth over 9.8 trillion Indian rupees in fiscal year 2019 . Petroleum made up a share of over 27 percent of all imports into the country that year . The increasing trend in recent years was reflected in the price of fuel and its impact on various industries across the south Asian country .\n"
+}

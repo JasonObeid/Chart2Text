@@ -1,0 +1,66 @@
+{
+   "title": "Symbol groups ranked by number of convenience stores in the United Kingdom ( UK ) 2014",
+   "xAxis": "Symbol Groups",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , Premier boasted 2950 retail stores in United Kingdom . ",
+      "This figure made Premier the do-it-yourself brand with the highest Number of stores in the country . ",
+      "Due to its widespread presence , the company was able to reach a turnover of over 175 million euros in 2017 , which represented an increase of approximately ranked million euros compared to the previous year ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "5": "0"
+      },
+      {
+         "3": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Symbol Groups": "Premier",
+         "Number of stores": "2950"
+      },
+      {
+         "Symbol Groups": "Best-one",
+         "Number of stores": "2904"
+      },
+      {
+         "Symbol Groups": "Costcutter",
+         "Number of stores": "2547"
+      },
+      {
+         "Symbol Groups": "Spar",
+         "Number of stores": "2312"
+      },
+      {
+         "Symbol Groups": "Londis",
+         "Number of stores": "2018"
+      },
+      {
+         "Symbol Groups": "Lifestyle express",
+         "Number of stores": "1976"
+      },
+      {
+         "Symbol Groups": "The Co-operative",
+         "Number of stores": "1785"
+      },
+      {
+         "Symbol Groups": "Tesco Express",
+         "Number of stores": "1463"
+      },
+      {
+         "Symbol Groups": "Nisa",
+         "Number of stores": "1002"
+      },
+      {
+         "Symbol Groups": "McColl's",
+         "Number of stores": "719"
+      }
+   ],
+   "gold": "This statistic shows the leading ten symbol groups in the United Kingdom ( UK ) retail sector , ranked by number of convenience stores in 2014 . Premier ranked highest , with 2950 convenience stores , followed by Best-one , Costcutter , Spar and Londis .\n"
+}

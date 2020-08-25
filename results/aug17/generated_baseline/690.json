@@ -1,0 +1,56 @@
+{
+   "title": "Average YouTube video length 2018 , by category\n",
+   "xAxis": "Youtube Category",
+   "yAxis": "Average length in minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Youtube Category, and a y axis representing Average length in minutes.",
+      " The highest category is found at Gaming where Average length in minutes is 24.7.",
+      " The lowest category is found at Music where Average length in minutes is 6.8."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Youtube Category": "Gaming",
+         "Average length in minutes": 24.7
+      },
+      {
+         "Youtube Category": "Film and animation",
+         "Average length in minutes": 19.2
+      },
+      {
+         "Youtube Category": "Entertainment",
+         "Average length in minutes": 12.9
+      },
+      {
+         "Youtube Category": "Total",
+         "Average length in minutes": 11.7
+      },
+      {
+         "Youtube Category": "Other",
+         "Average length in minutes": 9.5
+      },
+      {
+         "Youtube Category": "People and blogs",
+         "Average length in minutes": 8.4
+      },
+      {
+         "Youtube Category": "Music",
+         "Average length in minutes": 6.8
+      }
+   ],
+   "gold": "This statistic presents the average length of YouTube videos as of December 2018 , sorted by category . According to the report , the average video length is at 11.7 minutes . Music content generally had the shortest video length among all categories on the platform , with an average length of 6.8 minutes per video .\n"
+}

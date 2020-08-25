@@ -1,0 +1,68 @@
+{
+   "title": "Countries with the highest rates of autism among children worldwide as of 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Number of children with autism per 10,000 children studied",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Number of children with autism per 10,000 children studied.",
+      " The highest category is found at United_States where Number of children with autism per 10,000 children studied is 168.0.",
+      " The lowest category is found at Portugal where Number of children with autism per 10,000 children studied is 9.2."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Number of children with autism per 10,000 children studied": 168.0
+      },
+      {
+         "Country": "Japan",
+         "Number of children with autism per 10,000 children studied": 161.0
+      },
+      {
+         "Country": "Canada",
+         "Number of children with autism per 10,000 children studied": 152.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of children with autism per 10,000 children studied": 100.0
+      },
+      {
+         "Country": "Ireland",
+         "Number of children with autism per 10,000 children studied": 100.0
+      },
+      {
+         "Country": "Denmark",
+         "Number of children with autism per 10,000 children studied": 69.0
+      },
+      {
+         "Country": "Australia",
+         "Number of children with autism per 10,000 children studied": 67.0
+      },
+      {
+         "Country": "Hong Kong (SAR of China)",
+         "Number of children with autism per 10,000 children studied": 49.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of children with autism per 10,000 children studied": 27.0
+      },
+      {
+         "Country": "Portugal",
+         "Number of children with autism per 10,000 children studied": 9.2
+      }
+   ],
+   "gold": "In 2018 , it was estimated that around 168 per 10,000 children in the United States had autism spectrum disorder , one of the highest prevalence rates in the world . Autism spectrum disorder ( ASD ) includes a variety of disorders . The `` spectrum '' denotes the range of symptoms as well as their severity .\n"
+}

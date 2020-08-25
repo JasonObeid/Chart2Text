@@ -1,0 +1,41 @@
+{
+   "title": "Average hours spent watching TV weekly in the United Kingdom ( UK ) in 2015",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows a distribution of Average , hours spent watching times in the United Kingdom in 2015 . ",
+      "According to Thinkbox and Ipsos , 39 % of respondents reported typically waking watching at approximately 6 - 7am ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "5 hours or less",
+         "Share of respondents": "9"
+      },
+      {
+         "Year": "6 to 10 hours",
+         "Share of respondents": "18"
+      },
+      {
+         "Year": "11 to 20 hours",
+         "Share of respondents": "31"
+      },
+      {
+         "Year": "More than 20 hours",
+         "Share of respondents": "39"
+      },
+      {
+         "Year": "I don't watch TV",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "This survey details a distribution of the average number of hours spent on watching TV in the United Kingdom ( UK ) in 2015 . During the survey , 18 percent of respondents said that they watched TV 6 to 10 hours per week .\n"
+}

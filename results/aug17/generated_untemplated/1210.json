@@ -1,0 +1,37 @@
+{
+   "title": "Share of the population who gave to charity in England 2019 , by age\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "Body modification , especially tattooing , has proven to be very popular over the last few years . In the united states alone , more than a quarter of the population is adorned with at least 1 tattoo , and less than 40 percent of Americans would rule out getting 1 completely . Most get their first in their twenties , and the vast majority never regrets that first prick of the needle .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "16 to 24",
+         "Share of respondents": 59.0
+      },
+      {
+         "Year": "25 to 34",
+         "Share of respondents": 69.0
+      },
+      {
+         "Year": "35 to 49",
+         "Share of respondents": 76.0
+      },
+      {
+         "Year": "50 to 64",
+         "Share of respondents": 79.0
+      },
+      {
+         "Year": "65 to 74",
+         "Share of respondents": 82.0
+      },
+      {
+         "Year": "75 and over",
+         "Share of respondents": 83.0
+      }
+   ],
+   "gold": "This statistic shows the share of the population who said they gave to charity in the last four weeks in 2018/19 , by age group . Proportionally , those aged 75 and more gave most to charity . At 59 percent , 16 to 24 year olds had the smallest proportion of charitable givers .\n"
+}

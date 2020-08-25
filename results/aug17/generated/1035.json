@@ -1,0 +1,70 @@
+{
+   "title": "Share of projected base oil demand worldwide by type 2015 to 2030",
+   "labels": [
+      "Year",
+      "Paraffinic Group I",
+      "Paraffinic Group II",
+      "Paraffinic Group III",
+      "Naphthenic",
+      "Synthetic",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the percentage of Share base oil demand from 2030 to 2015 , type 2015 . ",
+      "In 2015 , about 8 % of all Share base in Paraffinic and the Group were oil demand ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "2",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "4": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Paraffinic Group I": "54",
+         "Paraffinic Group II": "22",
+         "Paraffinic Group III": "8",
+         "Naphthenic": "10",
+         "Synthetic": "5",
+         "Other": "1"
+      },
+      {
+         "Year": "2020",
+         "Paraffinic Group I": "44",
+         "Paraffinic Group II": "25",
+         "Paraffinic Group III": "12",
+         "Naphthenic": "10",
+         "Synthetic": "5",
+         "Other": "2"
+      },
+      {
+         "Year": "2030",
+         "Paraffinic Group I": "39",
+         "Paraffinic Group II": "31",
+         "Paraffinic Group III": "16",
+         "Naphthenic": "7",
+         "Synthetic": "8",
+         "Other": "0"
+      }
+   ],
+   "gold": "This statistic outlines the distribution of the projected base oil demand worldwide in 2015 , 2020 , and 2030 , by type . Naphthenic base oils have a seven percent projected share of global base oil demand in 2030 , a slight decrease from the ten percent projected share of demand of naphthenic base oils in 2020 .\n"
+}

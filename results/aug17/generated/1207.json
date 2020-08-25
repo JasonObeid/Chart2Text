@@ -1,0 +1,48 @@
+{
+   "title": "Share of automobile sales in China in 2010 and 2025 , by segment",
+   "labels": [
+      "Year",
+      "Premium class passenger cars/ limousines (E/F)",
+      "medium-sized vehicles (C/D)",
+      "Compact and mini cars (A/B)"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the survey results concerned with the question wether the respondents 2010 at a 2025 in the past twelve months in 2025 and 2010 . ",
+      "58 % of the medium-sized respondents had done so ."
+   ],
+   "trends": [
+      {
+         "23": [
+            "0",
+            "0"
+         ],
+         "25": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "0": [
+            "1",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2025",
+         "Premium class passenger cars/ limousines (E/F)": "7",
+         "medium-sized vehicles (C/D)": "56",
+         "Compact and mini cars (A/B)": "37"
+      },
+      {
+         "Year": "2010",
+         "Premium class passenger cars/ limousines (E/F)": "6",
+         "medium-sized vehicles (C/D)": "58",
+         "Compact and mini cars (A/B)": "36"
+      }
+   ],
+   "gold": "This statistic shows the share of automobile sales in China in 2010 and 2025 , by segment . In 2010 , premium class automobiles and limousines generated a share of 6 percent in the total sales in China .\n"
+}

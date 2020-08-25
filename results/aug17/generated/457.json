@@ -1,0 +1,68 @@
+{
+   "title": "Children participating in cricket in England 2010 to 2018",
+   "labels": [
+      "Year",
+      "5-10 years",
+      "11-15 years"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "cricket is the most popular team sport in England across the board . ",
+      "Of Children aged 5 to 10 , roughly 5.3 % play cricket at least on a monthly basis , which is only surpassed by swimming . ",
+      "At age 11 to 15 cricket becomes even more popular with approximately 44 % in this age group playing ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": [
+            "0",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "5-10 years": "5.3",
+         "11-15 years": "12.6"
+      },
+      {
+         "Year": "2016/17",
+         "5-10 years": "5.2",
+         "11-15 years": "13.4"
+      },
+      {
+         "Year": "2015/16",
+         "5-10 years": "4",
+         "11-15 years": "18.8"
+      },
+      {
+         "Year": "2014/15",
+         "5-10 years": "4.6",
+         "11-15 years": "18.1"
+      },
+      {
+         "Year": "2013/14",
+         "5-10 years": "6.4",
+         "11-15 years": "21.3"
+      },
+      {
+         "Year": "2012/13",
+         "5-10 years": "4.7",
+         "11-15 years": "22.5"
+      },
+      {
+         "Year": "2011/12",
+         "5-10 years": "6.9",
+         "11-15 years": "17.6"
+      },
+      {
+         "Year": "2010/11",
+         "5-10 years": "6.6",
+         "11-15 years": "17.3"
+      }
+   ],
+   "gold": "The sport of cricket is on a slight decline in popularity among children in England . Especially among those aged 11 to 15 , whereas in 2013 a total of 22.5 percent played on a monthly basis , in 2018 it was only 12.6 percent . The most popular sport among 11 to 15 year olds was football with 44.7 percent playing at least monthly .\n"
+}

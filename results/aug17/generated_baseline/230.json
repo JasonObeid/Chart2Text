@@ -1,0 +1,99 @@
+{
+   "title": "Number of Sears stores in the United States 2011 - 2017 , by type",
+   "labels": [
+      "Year",
+      "Full-line stores",
+      "Specialty stores"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Full-line stores had the highest values across Year with a mean value of 724.9.",
+      " This peaked at 2011 with a value of 867.0. ",
+      " The line with the second highest values was Specialty stores with a mean value of 220.7.",
+      " This line peaked at 2011 with a value of 1338.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "0"
+         ],
+         "9": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "1"
+         ],
+         "10": [
+            "6",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Full-line stores": "547",
+         "Specialty stores": "23"
+      },
+      {
+         "Year": "2016",
+         "Full-line stores": "670",
+         "Specialty stores": "25"
+      },
+      {
+         "Year": "2015",
+         "Full-line stores": "705",
+         "Specialty stores": "26"
+      },
+      {
+         "Year": "2014",
+         "Full-line stores": "709",
+         "Specialty stores": "29"
+      },
+      {
+         "Year": "2013",
+         "Full-line stores": "778",
+         "Specialty stores": "50"
+      },
+      {
+         "Year": "2012",
+         "Full-line stores": "798",
+         "Specialty stores": "54"
+      },
+      {
+         "Year": "2011",
+         "Full-line stores": "867",
+         "Specialty stores": "1338"
+      }
+   ],
+   "gold": "Sears Domestic operated about 547 full-line stores throughout the Unites States in 2017 . Sears Holdings is an American retailer , which operates through two well-known retail brands , Kmart and Sears . Sears Holdings has a significant number of Kmart and Sears Domestic stores in operation around the world .\n"
+}

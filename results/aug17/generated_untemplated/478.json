@@ -1,0 +1,69 @@
+{
+   "title": "Mexico : religion affiliation share 2018 , by type\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the results of a survey about the penetration rate of several individual leisure activities in france in 2015 , phrased with the question : `` except reading books , which of the following leisure activities do you do in your free time ? '' . It was found that listening to music was the most practiced leisure activity with a penetration rate of 88 percent of respondents , followed very closely by 82 percent of respondents who stated that they go out with friends in their free time with . Even though music is a very popular activity , it seems that French people would probably not choose to listen to music if they had more free time .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Catholic",
+         "Share of respondents": 80.8
+      },
+      {
+         "Response": "Evangelist (unspecified)",
+         "Share of respondents": 1.3
+      },
+      {
+         "Response": "Jehova's witness",
+         "Share of respondents": 1.2
+      },
+      {
+         "Response": "Pentecostal evangelist",
+         "Share of respondents": 0.8
+      },
+      {
+         "Response": "Adventist",
+         "Share of respondents": 0.2
+      },
+      {
+         "Response": "Mormon",
+         "Share of respondents": 0.2
+      },
+      {
+         "Response": "Baptist evangelist",
+         "Share of respondents": 0.1
+      },
+      {
+         "Response": "None",
+         "Share of respondents": 10.6
+      },
+      {
+         "Response": "Believer without formal affiliation to any religion",
+         "Share of respondents": 2.8
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 0.8
+      },
+      {
+         "Response": "Do not know",
+         "Share of respondents": 0.5
+      },
+      {
+         "Response": "Do not answer",
+         "Share of respondents": 0.3
+      },
+      {
+         "Response": "Agnostic",
+         "Share of respondents": 0.2
+      },
+      {
+         "Response": "Atheist",
+         "Share of respondents": 0.2
+      }
+   ],
+   "gold": "Roman Catholic was the most common religion affiliation in Mexico in 2018 . In a survey carried out between July and August of 2018 , almost 81 percent of Mexican respondents claimed to be of catholic faith , whereas the second most chosen religion was evangelism , with only 1.3 percent of the people interviewed . More than 10 percent of respondents answered they did n't profess any religion and a total of 0.4 percent defined themselves either as atheists or agnostics .\n"
+}

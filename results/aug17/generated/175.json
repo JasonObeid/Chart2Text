@@ -1,0 +1,104 @@
+{
+   "title": "Leading automotive manufacturing countries in Europe 2018",
+   "labels": [
+      "Country",
+      "Passenger Cars",
+      "Commercial Vehicles",
+      "Total"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Europe automotive of manufacturing countries Europe 2018 from Germany to Romania , broken down 2018 . ",
+      "In France , the Europe automotive of manufacturing Passenger Spain Cars amounted to approximately 949365 million U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "12": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "9",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "9": [
+            "1",
+            "0"
+         ],
+         "14": [
+            "6",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Passenger Cars": "5645581",
+         "Commercial Vehicles": "505258",
+         "Total": "6150839"
+      },
+      {
+         "Country": "Spain",
+         "Passenger Cars": "2291492",
+         "Commercial Vehicles": "635574",
+         "Total": "2927066"
+      },
+      {
+         "Country": "France",
+         "Passenger Cars": "1674717",
+         "Commercial Vehicles": "601623",
+         "Total": "2276340"
+      },
+      {
+         "Country": "United Kingdom",
+         "Passenger Cars": "1671166",
+         "Commercial Vehicles": "73486",
+         "Total": "1744652"
+      },
+      {
+         "Country": "Czech Republic",
+         "Passenger Cars": "1413881",
+         "Commercial Vehicles": "6112",
+         "Total": "1419993"
+      },
+      {
+         "Country": "Italy",
+         "Passenger Cars": "742642",
+         "Commercial Vehicles": "342801",
+         "Total": "1085443"
+      },
+      {
+         "Country": "Slovakia",
+         "Passenger Cars": "949365",
+         "Commercial Vehicles": "0",
+         "Total": "949365"
+      },
+      {
+         "Country": "Poland",
+         "Passenger Cars": "514700",
+         "Commercial Vehicles": "175029",
+         "Total": "689729"
+      },
+      {
+         "Country": "Hungary",
+         "Passenger Cars": "472107",
+         "Commercial Vehicles": "0",
+         "Total": "472107"
+      },
+      {
+         "Country": "Romania",
+         "Passenger Cars": "364654",
+         "Commercial Vehicles": "0",
+         "Total": "364654"
+      }
+   ],
+   "gold": "This statistic illustrates the ten leading countries in terms of automotive manufacturers in Europe in 2018 , categorized per vehicle type . That year , Germany was the leading automobile manufacturer , with approximately 6.1 million vehicles produced . Of these , the majority were passenger cars .\n"
+}

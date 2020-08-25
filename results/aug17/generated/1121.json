@@ -1,0 +1,62 @@
+{
+   "title": "Solar PV capacity - new installations worldwide by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Percentage of newly installed capacity",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the percentage of worldwide denial of service newly installed between 2017 and 2018 , sorted by originating capacity . ",
+      "During that period of time , 45 percentage of PV newly installed originated from IP addresses in the China ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Percentage of newly installed capacity": "45"
+      },
+      {
+         "Country": "India",
+         "Percentage of newly installed capacity": "11"
+      },
+      {
+         "Country": "US",
+         "Percentage of newly installed capacity": "11"
+      },
+      {
+         "Country": "Japan",
+         "Percentage of newly installed capacity": "7"
+      },
+      {
+         "Country": "Australia",
+         "Percentage of newly installed capacity": "4"
+      },
+      {
+         "Country": "Germany",
+         "Percentage of newly installed capacity": "3"
+      },
+      {
+         "Country": "Mexico",
+         "Percentage of newly installed capacity": "3"
+      },
+      {
+         "Country": "Republic of Korea",
+         "Percentage of newly installed capacity": "2"
+      },
+      {
+         "Country": "Turkey",
+         "Percentage of newly installed capacity": "2"
+      },
+      {
+         "Country": "Netherlands",
+         "Percentage of newly installed capacity": "1"
+      }
+   ],
+   "gold": "This statistic shows the share of new installed solar PV capacity worldwide in 2018 , by country . In 2018 , new solar PV capacity installations in China accounted for around 45 percent of the world 's total new installed grid-connected PV capacity .\n"
+}

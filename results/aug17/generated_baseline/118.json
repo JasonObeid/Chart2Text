@@ -1,0 +1,48 @@
+{
+   "title": "Most popular Canadian product categories purchased by consumers in Canada 2015\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Food where Share of respondents is 87.0.",
+      " The lowest category is found at Wine where Share of respondents is 34.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Food",
+         "Share of respondents": 87.0
+      },
+      {
+         "Response": "Beer",
+         "Share of respondents": 46.0
+      },
+      {
+         "Response": "Clothing",
+         "Share of respondents": 45.0
+      },
+      {
+         "Response": "Furniture",
+         "Share of respondents": 38.0
+      },
+      {
+         "Response": "Wine",
+         "Share of respondents": 34.0
+      }
+   ],
+   "gold": "In 2015 , some 87 percent of Canadians stated that , out of any product category , they are most likely to purchase food from Canadian producers or brands as opposed to imported products . Beer and clothing were the next two most popular product segments , with 46 and 45 percent of respondents stating they would likely buy Canadian goods respectively . In the same survey , some 25 percent of consumers said that they always buy Canadian products .\n"
+}

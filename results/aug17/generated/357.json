@@ -1,0 +1,41 @@
+{
+   "title": "Average attendance of the main football leagues in Europe 2018 to 2019",
+   "xAxis": "League Name",
+   "yAxis": "Average attendance in thousands of people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the attendance of main attendance thousands in the Europe football on leagues in 2018 . ",
+      "22.1 thousands of the respondents stated that they football between $ 1,000 and $ 1,999 on leagues in 2018 ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "4"
+      }
+   ],
+   "data": [
+      {
+         "League Name": "Bundesliga (Germany)",
+         "Average attendance in thousands of people": "42.7"
+      },
+      {
+         "League Name": "Premier League (England)",
+         "Average attendance in thousands of people": "38.0"
+      },
+      {
+         "League Name": "La Liga (Spain)",
+         "Average attendance in thousands of people": "27.2"
+      },
+      {
+         "League Name": "Serie A (Italy)",
+         "Average attendance in thousands of people": "24.7"
+      },
+      {
+         "League Name": "Ligue 1 (France)",
+         "Average attendance in thousands of people": "22.1"
+      }
+   ],
+   "gold": "The graph shows the major football leagues in Europe ranked by average attendance per match in 2018 - 2019 . It appears that the German league ( Bundesliga ) had attracted 42,700 spectators in average per game as of February 2019 .\n"
+}

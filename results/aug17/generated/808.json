@@ -1,0 +1,62 @@
+{
+   "title": "Global leading fishing nations 2017",
+   "xAxis": "Country",
+   "yAxis": "Capture in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the countries worldwide with the most Capture of Global leading million in 2017 . ",
+      "China was the Country with the most Global leading worldwide with a total of 15.37 million Global , a share of 10 million of the global leading ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Capture in million metric tons": "15.37"
+      },
+      {
+         "Country": "Indonesia",
+         "Capture in million metric tons": "6.69"
+      },
+      {
+         "Country": "India",
+         "Capture in million metric tons": "5.43"
+      },
+      {
+         "Country": "United States",
+         "Capture in million metric tons": "5.04"
+      },
+      {
+         "Country": "Russia",
+         "Capture in million metric tons": "4.87"
+      },
+      {
+         "Country": "Peru",
+         "Capture in million metric tons": "4.16"
+      },
+      {
+         "Country": "Vietnam",
+         "Capture in million metric tons": "3.28"
+      },
+      {
+         "Country": "Japan",
+         "Capture in million metric tons": "3.2"
+      },
+      {
+         "Country": "Norway",
+         "Capture in million metric tons": "2.37"
+      },
+      {
+         "Country": "Myanmar",
+         "Capture in million metric tons": "2.15"
+      }
+   ],
+   "gold": "This statistic shows the world 's leading fishing nations in 2017 , based on capture production . China caught about 15.37 million metric tons of fish in that year . Worldwide fishing The act of fishing dates back to thousands of years before the Common Era .\n"
+}

@@ -1,0 +1,86 @@
+{
+   "title": "Unemployed persons worldwide until 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployed persons in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployed persons in millions, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2014 to 2010.",
+      " Additionally, the next significant trend is extremely positive which exists from 2020 to 2018.",
+      " Likewise, the next significant trend is slightly negative which exists from 2018 to 2016.",
+      " Differently, the next significant trend is extremely positive which exists from 2016 to 2015.",
+      " Correspondingly, the next significant trend is moderately negative which exists from 2015 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "10"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Unemployed persons in millions": 174.3
+      },
+      {
+         "Year": "2019",
+         "Unemployed persons in millions": 173.6
+      },
+      {
+         "Year": "2018",
+         "Unemployed persons in millions": 172.5
+      },
+      {
+         "Year": "2017",
+         "Unemployed persons in millions": 174.1
+      },
+      {
+         "Year": "2016",
+         "Unemployed persons in millions": 197.7
+      },
+      {
+         "Year": "2015",
+         "Unemployed persons in millions": 197.1
+      },
+      {
+         "Year": "2014",
+         "Unemployed persons in millions": 201.3
+      },
+      {
+         "Year": "2013",
+         "Unemployed persons in millions": 200.13
+      },
+      {
+         "Year": "2012",
+         "Unemployed persons in millions": 197.36
+      },
+      {
+         "Year": "2011",
+         "Unemployed persons in millions": 195.45
+      },
+      {
+         "Year": "2010",
+         "Unemployed persons in millions": 196.63
+      }
+   ],
+   "gold": "The statistic shows the number of unemployed persons worldwide from 2010 to 2017 and projections until 2020 . In 2017 , there were about 174.1 million unemployed persons worldwide .\n"
+}

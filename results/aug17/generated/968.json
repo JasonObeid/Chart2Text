@@ -1,0 +1,111 @@
+{
+   "title": "Youth unemployment rate in Saudi Arabia in 2019",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Youth unemployment rate in Saudi Arabia from 1999 and 2019 . ",
+      "According to the source , the data are ILO estimates . ",
+      "In 2019 , the estimated Youth unemployment rate in Saudi Arabia was at 25.55 % ."
+   ],
+   "trends": [
+      {
+         "10": "20",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": "25.55"
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": "25.77"
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": "25.25"
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": "24.5"
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": "28.98"
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": "30.12"
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": "28.97"
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": "27.84"
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": "28.77"
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": "29.09"
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": "29.46"
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": "28.82"
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": "29.6"
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": "33.82"
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": "32.59"
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": "30.67"
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": "28.8"
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": "27.46"
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": "24.93"
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": "24.34"
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": "23.18"
+      }
+   ],
+   "gold": "The statistic shows the youth unemployment rate in Saudi Arabia from 1999 and 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated youth unemployment rate in Saudi Arabia was at 25.55 percent .\n"
+}

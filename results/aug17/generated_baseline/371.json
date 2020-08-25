@@ -1,0 +1,85 @@
+{
+   "title": "U.S. passenger-miles : Intercity/Amtrak 2007 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "U.S. passenger-miles in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing U.S. passenger-miles in millions, with a total of 12 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2013 to 2009.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2016 to 2013.",
+      " Contrarily, the next significant trend is moderately positive which exists from 2018 to 2016.",
+      " Similarly, the next significant trend is moderately negative which exists from 2009 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "5",
+         "12": "9"
+      },
+      {
+         "3": "2",
+         "14": "5"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. passenger-miles in millions": 6361.0
+      },
+      {
+         "Year": "2017",
+         "U.S. passenger-miles in millions": 6563.0
+      },
+      {
+         "Year": "2016",
+         "U.S. passenger-miles in millions": 6520.0
+      },
+      {
+         "Year": "2015",
+         "U.S. passenger-miles in millions": 6536.0
+      },
+      {
+         "Year": "2014",
+         "U.S. passenger-miles in millions": 6675.0
+      },
+      {
+         "Year": "2013",
+         "U.S. passenger-miles in millions": 7283.0
+      },
+      {
+         "Year": "2012",
+         "U.S. passenger-miles in millions": 6752.0
+      },
+      {
+         "Year": "2011",
+         "U.S. passenger-miles in millions": 6568.0
+      },
+      {
+         "Year": "2010",
+         "U.S. passenger-miles in millions": 6420.0
+      },
+      {
+         "Year": "2009",
+         "U.S. passenger-miles in millions": 5914.0
+      },
+      {
+         "Year": "2008",
+         "U.S. passenger-miles in millions": 6179.0
+      },
+      {
+         "Year": "2007",
+         "U.S. passenger-miles in millions": 5784.0
+      }
+   ],
+   "gold": "This graph shows Amtrak/Intercity passenger-miles traveled in the United States from 2007 to 2018 . In 2018 , passengers traveled around 6.36 billion miles by Intercity/Amtrak . Amtrak , also known as the National Railroad Passenger Corporation , is a publicly funded service .\n"
+}

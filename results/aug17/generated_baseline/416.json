@@ -1,0 +1,46 @@
+{
+   "title": "Consumer spending in Pakistan 2013 - 2018 , per capita\n",
+   "xAxis": "Year",
+   "yAxis": "U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing U.S. dollars with a total of 6 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2018 to 2013."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. dollars": 1658.0
+      },
+      {
+         "Year": "2017",
+         "U.S. dollars": 1488.0
+      },
+      {
+         "Year": "2016",
+         "U.S. dollars": 1335.0
+      },
+      {
+         "Year": "2015",
+         "U.S. dollars": 1204.0
+      },
+      {
+         "Year": "2014",
+         "U.S. dollars": 1091.0
+      },
+      {
+         "Year": "2013",
+         "U.S. dollars": 995.0
+      }
+   ],
+   "gold": "This statistic depicts consumer spending in Pakistan from 2013 to 2018 , per capita . In 2013 , Pakistan 's consumer spending per capita was 995 U.S. dollars .\n"
+}

@@ -1,0 +1,60 @@
+{
+   "title": "Facebook : global penetration rage as of June 2017 , by region\n",
+   "xAxis": "Country",
+   "yAxis": "Share of population using Facebook",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Country, and a y axis representing Share of population using Facebook.",
+      " The highest category is found at North_America where Share of population using Facebook is 72.4.",
+      " The lowest category is found at Africa where Share of population using Facebook is 12.7."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "North America",
+         "Share of population using Facebook": 72.4
+      },
+      {
+         "Country": "Latin America / Caribbean",
+         "Share of population using Facebook": 57.3
+      },
+      {
+         "Country": "Oceania / Australia",
+         "Share of population using Facebook": 48.1
+      },
+      {
+         "Country": "Europe",
+         "Share of population using Facebook": 41.7
+      },
+      {
+         "Country": "Middle East",
+         "Share of population using Facebook": 34.6
+      },
+      {
+         "Country": "Worldwide",
+         "Share of population using Facebook": 26.3
+      },
+      {
+         "Country": "Asia",
+         "Share of population using Facebook": 13.8
+      },
+      {
+         "Country": "Africa",
+         "Share of population using Facebook": 12.7
+      }
+   ],
+   "gold": "This statistic provides information on the share of the global population using Facebook as of June 2017 , by region . As of that period , North America had the highest active Facebook usage rate with 72.4 percent of the population accessing the social network .\n"
+}

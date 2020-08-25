@@ -1,0 +1,104 @@
+{
+   "title": "Franchise value of the Washington Redskins ( NFL ) 2002 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly positive which exists from 2010 to 2002.",
+      " Additionally, the next significant trend is extremely positive which exists from 2017 to 2010.",
+      " Additionally, the next significant trend is moderately neutral which exists from 2019 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "9",
+         "12": "17"
+      },
+      {
+         "3": "2",
+         "14": "9"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": 3400.0
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": 3100.0
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": 3100.0
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": 2950.0
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": 2850.0
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": 2400.0
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": 1700.0
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": 1600.0
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": 1555.0
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": 1550.0
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": 1550.0
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": 1538.0
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": 1467.0
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": 1423.0
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": 1264.0
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": 1104.0
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": 952.0
+      },
+      {
+         "Year": "2002",
+         "Franchise value in million U.S. dollars": 845.0
+      }
+   ],
+   "gold": "This graph depicts the franchise value of the Washington Redskins of the National Football League from 2002 to 2019 . In 2019 , the franchise value came to around 3.4 billion U.S. dollars . The Washington Redskins are owned by Daniel Snyder who bought the franchise for 750 million U.S. dollars in 1999 .\n"
+}

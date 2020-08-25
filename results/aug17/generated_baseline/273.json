@@ -1,0 +1,52 @@
+{
+   "title": "Estimated decrease of GDP in Japan due to earthquake and tsunami 2011\n",
+   "xAxis": "Category Of Gdp",
+   "yAxis": "Decrease in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Category Of Gdp, and a y axis representing Decrease in billion euros.",
+      " The highest category is found at Total where Decrease in billion euros is 70.0.",
+      " The lowest category is found at Exports where Decrease in billion euros is 1.4."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category Of Gdp": "Total",
+         "Decrease in billion euros": 70.0
+      },
+      {
+         "Category Of Gdp": "Production",
+         "Decrease in billion euros": 45.4
+      },
+      {
+         "Category Of Gdp": "Private consumption",
+         "Decrease in billion euros": 18.2
+      },
+      {
+         "Category Of Gdp": "Power generation",
+         "Decrease in billion euros": 2.7
+      },
+      {
+         "Category Of Gdp": "Imports",
+         "Decrease in billion euros": 2.0
+      },
+      {
+         "Category Of Gdp": "Exports",
+         "Decrease in billion euros": 1.4
+      }
+   ],
+   "gold": "The statistic shows an estimate for the decrease of the gross domestic product ( GDP ) in Japan due to the effects of the earthquake and tsunami in 2011 by sector . Production in Japan is estimated to decrease by 45.4 billion euros due to the natural disaster .\n"
+}

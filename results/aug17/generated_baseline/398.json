@@ -1,0 +1,72 @@
+{
+   "title": "Urbanization in Cameroon 2008 to 2018\n",
+   "xAxis": "Share of total population",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Share of total population, and a y axis representing Unnamed: 1.",
+      " The highest category is found at 2018 where Unnamed: 1 is 56.37.",
+      " The lowest category is found at 2008 where Unnamed: 1 is 50.35."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Share of total population": "2018",
+         "Unnamed: 1": 56.37
+      },
+      {
+         "Share of total population": "2017",
+         "Unnamed: 1": 55.78
+      },
+      {
+         "Share of total population": "2016",
+         "Unnamed: 1": 55.18
+      },
+      {
+         "Share of total population": "2015",
+         "Unnamed: 1": 54.58
+      },
+      {
+         "Share of total population": "2014",
+         "Unnamed: 1": 53.98
+      },
+      {
+         "Share of total population": "2013",
+         "Unnamed: 1": 53.37
+      },
+      {
+         "Share of total population": "2012",
+         "Unnamed: 1": 52.77
+      },
+      {
+         "Share of total population": "2011",
+         "Unnamed: 1": 52.16
+      },
+      {
+         "Share of total population": "2010",
+         "Unnamed: 1": 51.56
+      },
+      {
+         "Share of total population": "2009",
+         "Unnamed: 1": 50.95
+      },
+      {
+         "Share of total population": "2008",
+         "Unnamed: 1": 50.35
+      }
+   ],
+   "gold": "This statistic shows the percentage of the total population living in urban areas in Cameroon from 2008 to 2018 . In 2018 , 56.37 percent of the total population of Cameroon was living in urban areas .\n"
+}

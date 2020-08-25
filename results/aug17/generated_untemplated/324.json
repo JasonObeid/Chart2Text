@@ -1,0 +1,49 @@
+{
+   "title": "Number of eSports games players worldwide 2017\n",
+   "xAxis": "Sport",
+   "yAxis": "Number of players in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "How many incorporated places are registered in the u.s. ? There were 19495 incorporated places registered in the united in 2018 . 16411 had a population under 10000 and in contrast , only 10 cities had a population of one million or more . Small-town America Suffice it to say , almost nothing is more idealized in the American imagination than small-town America .\n",
+   "trends": {},
+   "data": [
+      {
+         "Sport": "League of Legends",
+         "Number of players in millions": 100.0
+      },
+      {
+         "Sport": "Call of Duty",
+         "Number of players in millions": 28.1
+      },
+      {
+         "Sport": "Hearthstone",
+         "Number of players in millions": 23.9
+      },
+      {
+         "Sport": "DOTA 2",
+         "Number of players in millions": 12.6
+      },
+      {
+         "Sport": "World of Tanks",
+         "Number of players in millions": 12.3
+      },
+      {
+         "Sport": "FIFA 17",
+         "Number of players in millions": 12.3
+      },
+      {
+         "Sport": "Counter-Strike: Global Offensive",
+         "Number of players in millions": 11.9
+      },
+      {
+         "Sport": "PlayerUnknown's Battlegrounds",
+         "Number of players in millions": 6.8
+      },
+      {
+         "Sport": "StarCraft II",
+         "Number of players in millions": 2.4
+      }
+   ],
+   "gold": "The statistic presents information on the number of players of selected eSports games worldwide as of August 2017 . According to the data , League of Legends was a leader based on number of eSports players . In the presented period the game had a player base of 100 million , while World of Tanks ranked fifth with 12.3 million players in the measured period .\n"
+}

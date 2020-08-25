@@ -1,0 +1,39 @@
+{
+   "title": "U.S. - average salary for graduates , by discipline 2020",
+   "xAxis": "Discipline",
+   "yAxis": "Average salary in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2020 , the Computer_Science Average salary U.S. in was forecasted to amount about 79793 dollars , whereas salary U.S. pig Discipline Average was just at around 77298 kilogram . ",
+      "U.S. is a Muslim-majority country , and the Average of pig Discipline is forbidden for most of the population ."
+   ],
+   "trends": [
+      {
+         "4": "0",
+         "16": "0",
+         "29": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Discipline": "Computer Science",
+         "Average salary in U.S. dollars": "79793"
+      },
+      {
+         "Discipline": "Math & Sciences",
+         "Average salary in U.S. dollars": "79717"
+      },
+      {
+         "Discipline": "Engineering",
+         "Average salary in U.S. dollars": "77298"
+      },
+      {
+         "Discipline": "Business",
+         "Average salary in U.S. dollars": "75197"
+      }
+   ],
+   "gold": "In 2020 , it was found that people in the United States with a Master 's degree in Computer Science had the highest average starting salary , at 79,793 U.S. dollars . People who held a Master 's degree in Math and Sciences had the second highest starting salary , at 79,717 U.S. dollars . An abundance of Masters As higher education in the United States has become more common , and even expected , the number of Master 's degrees awarded has increased .\n"
+}

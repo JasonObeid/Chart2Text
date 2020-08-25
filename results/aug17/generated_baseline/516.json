@@ -1,0 +1,51 @@
+{
+   "title": "Brand value of Reebok 2012 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Brand value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Brand value in billion U.S. dollars, with a total of 6 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly negative which exists from 2016 to 2012.",
+      " On the other hand, the next significant trend is extremely neutral which exists from 2017 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "5"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Brand value in billion U.S. dollars": 0.8
+      },
+      {
+         "Year": "2016",
+         "Brand value in billion U.S. dollars": 0.8
+      },
+      {
+         "Year": "2015",
+         "Brand value in billion U.S. dollars": 0.83
+      },
+      {
+         "Year": "2014",
+         "Brand value in billion U.S. dollars": 0.88
+      },
+      {
+         "Year": "2013",
+         "Brand value in billion U.S. dollars": 1.1
+      },
+      {
+         "Year": "2012",
+         "Brand value in billion U.S. dollars": 1.2
+      }
+   ],
+   "gold": "The statistic shows the brand value of the sports company Reebok from 2012 to 2017 . Reebok had a brand value of 0.8 billion U.S. dollars in 2017 .\n"
+}

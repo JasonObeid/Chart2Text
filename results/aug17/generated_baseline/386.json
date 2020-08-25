@@ -1,0 +1,48 @@
+{
+   "title": "BASF 's planned capital expenditure by region 2020 to 2024\n",
+   "xAxis": "Region",
+   "yAxis": "Share of capital expenditure",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Region, and a y axis representing Share of capital expenditure.",
+      " The highest category is found at Asia_Pacific where Share of capital expenditure is 41.0.",
+      " The lowest category is found at South_America_Africa_Middle_East where Share of capital expenditure is 1.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "Asia Pacific",
+         "Share of capital expenditure": 41.0
+      },
+      {
+         "Region": "Europe",
+         "Share of capital expenditure": 34.0
+      },
+      {
+         "Region": "North America",
+         "Share of capital expenditure": 19.0
+      },
+      {
+         "Region": "South America Africa Middle East",
+         "Share of capital expenditure": 1.0
+      },
+      {
+         "Region": "Site alternatives currently being investigated",
+         "Share of capital expenditure": 5.0
+      }
+   ],
+   "gold": "This statistic shows BASF 's planned capital expenditure between 2020 and 2024 , by region . In that period , some 19 percent of the company 's planned capital expenditure are expected to be spent in North America .\n"
+}

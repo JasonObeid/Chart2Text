@@ -1,0 +1,71 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Lithuania 2024\n",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP growth compared to previous year, with a total of 11 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly negative which exists from 2024 to 2017.",
+      " But, the next significant trend is extremely positive which exists from 2017 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "7"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 2.29
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 2.3
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 2.39
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 2.46
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 2.72
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 3.41
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 3.49
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 4.14
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 2.35
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 2.02
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 3.54
+      }
+   ],
+   "gold": "The statistic shows the growth in real GDP in Lithuania from 2014 to 2018 , with projections up until 2024 . In 2018 , Lithuania 's real gross domestic product grew by around 3.49 percent compared to the previous year .\n"
+}

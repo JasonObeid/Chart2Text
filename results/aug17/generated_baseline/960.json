@@ -1,0 +1,108 @@
+{
+   "title": "Canada : Gross Domestic Product ( GDP ) by industry December 2019\n",
+   "xAxis": "Industry",
+   "yAxis": "GDP in million chained 2012 Canadian dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Industry, and a y axis representing GDP in million chained 2012 Canadian dollars.",
+      " The highest category is found at Real_estate_and_rental_and_leasing where GDP in million chained 2012 Canadian dollars is 254294.0.",
+      " The lowest category is found at Management_of_companies_and_enterprises where GDP in million chained 2012 Canadian dollars is 9303.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Real estate and rental and leasing",
+         "GDP in million chained 2012 Canadian dollars": 254294.0
+      },
+      {
+         "Industry": "Manufacturing",
+         "GDP in million chained 2012 Canadian dollars": 199234.0
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "GDP in million chained 2012 Canadian dollars": 145909.0
+      },
+      {
+         "Industry": "Construction",
+         "GDP in million chained 2012 Canadian dollars": 142530.0
+      },
+      {
+         "Industry": "Health care and social assistance",
+         "GDP in million chained 2012 Canadian dollars": 142028.0
+      },
+      {
+         "Industry": "Public administration",
+         "GDP in million chained 2012 Canadian dollars": 134370.0
+      },
+      {
+         "Industry": "Finance and insurance",
+         "GDP in million chained 2012 Canadian dollars": 133599.0
+      },
+      {
+         "Industry": "Professional scientific and technical services",
+         "GDP in million chained 2012 Canadian dollars": 120820.0
+      },
+      {
+         "Industry": "Educational services",
+         "GDP in million chained 2012 Canadian dollars": 104771.0
+      },
+      {
+         "Industry": "Wholesale trade",
+         "GDP in million chained 2012 Canadian dollars": 103082.0
+      },
+      {
+         "Industry": "Retail trade",
+         "GDP in million chained 2012 Canadian dollars": 102619.0
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "GDP in million chained 2012 Canadian dollars": 89599.0
+      },
+      {
+         "Industry": "Information and cultural industries",
+         "GDP in million chained 2012 Canadian dollars": 64323.0
+      },
+      {
+         "Industry": "Administrative and support waste management and remediation services",
+         "GDP in million chained 2012 Canadian dollars": 52649.0
+      },
+      {
+         "Industry": "Accommodation and food services",
+         "GDP in million chained 2012 Canadian dollars": 45160.0
+      },
+      {
+         "Industry": "Utilities",
+         "GDP in million chained 2012 Canadian dollars": 43668.0
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "GDP in million chained 2012 Canadian dollars": 40058.0
+      },
+      {
+         "Industry": "Other services (except public administration)",
+         "GDP in million chained 2012 Canadian dollars": 38127.0
+      },
+      {
+         "Industry": "Arts entertainment and recreation",
+         "GDP in million chained 2012 Canadian dollars": 15699.0
+      },
+      {
+         "Industry": "Management of companies and enterprises",
+         "GDP in million chained 2012 Canadian dollars": 9303.0
+      }
+   ],
+   "gold": "This statistic shows the Gross Domestic Product ( GDP ) of Canada in December 2019 , distinguished by major industry . In December 2019 , the construction industry of Canada contributed about 142.5 billion Canadian dollars to the total Canadian GDP .\n"
+}

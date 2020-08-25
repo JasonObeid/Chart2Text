@@ -1,0 +1,70 @@
+{
+   "title": "U.S . Gross Domestic Product - forecast 2019 to 2030\n",
+   "xAxis": "Year",
+   "yAxis": "GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP in billion U.S. dollars with a total of 12 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2030 to 2019."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2030",
+         "GDP in billion U.S. dollars": 32003.0
+      },
+      {
+         "Year": "2029",
+         "GDP in billion U.S. dollars": 30850.0
+      },
+      {
+         "Year": "2028",
+         "GDP in billion U.S. dollars": 29737.0
+      },
+      {
+         "Year": "2027",
+         "GDP in billion U.S. dollars": 28653.0
+      },
+      {
+         "Year": "2026",
+         "GDP in billion U.S. dollars": 27615.0
+      },
+      {
+         "Year": "2025",
+         "GDP in billion U.S. dollars": 26653.0
+      },
+      {
+         "Year": "2024",
+         "GDP in billion U.S. dollars": 25724.0
+      },
+      {
+         "Year": "2023",
+         "GDP in billion U.S. dollars": 24809.0
+      },
+      {
+         "Year": "2022",
+         "GDP in billion U.S. dollars": 23916.0
+      },
+      {
+         "Year": "2021",
+         "GDP in billion U.S. dollars": 23029.0
+      },
+      {
+         "Year": "2020",
+         "GDP in billion U.S. dollars": 22111.0
+      },
+      {
+         "Year": "2019",
+         "GDP in billion U.S. dollars": 21220.0
+      }
+   ],
+   "gold": "This graph shows a forecast of the Gross Domestic Product of the United States of America for fiscal years 2019 to 2030 . The Gross Domestic Product ( GDP ) refers to the market value of all final goods and services produced within a country in a given period . According to the CBO , the United States GDP will increase steadily over the next decade from 21.22 trillion U.S. dollars in 2019 to 32 trillion U.S. dollars in 2030 .\n"
+}

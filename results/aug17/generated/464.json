@@ -1,0 +1,192 @@
+{
+   "title": "Average number of minutes waiting in the emergency department in the UK 2011 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the monthly amount of cars minutes by UK number in the UK ( ) between 2016 and 2019 . ",
+      "Peaks in registration numbers were recorded in and of each year , which was due to the issuing of license plates by the Driver & Vehicle Licensing Agency ( DVLA ) in those months . ",
+      "In 2019 , 59 new UK number had been minutes , a decrease of roughly ten % in comparison to 53 Number as of 2018 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "3": "5",
+         "21": "17"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Mar 2018",
+         "Number of minutes": "64"
+      },
+      {
+         "Month": "Jan 2018",
+         "Number of minutes": "57"
+      },
+      {
+         "Month": "Nov 2017",
+         "Number of minutes": "60"
+      },
+      {
+         "Month": "Sep 2017",
+         "Number of minutes": "58"
+      },
+      {
+         "Month": "Jul 2017",
+         "Number of minutes": "60"
+      },
+      {
+         "Month": "May 2017",
+         "Number of minutes": "59"
+      },
+      {
+         "Month": "Mar 2017",
+         "Number of minutes": "58"
+      },
+      {
+         "Month": "Jan 2017",
+         "Number of minutes": "57"
+      },
+      {
+         "Month": "Nov 2016",
+         "Number of minutes": "59"
+      },
+      {
+         "Month": "Sep 2016",
+         "Number of minutes": "59"
+      },
+      {
+         "Month": "Jul 2016",
+         "Number of minutes": "62"
+      },
+      {
+         "Month": "May 2016",
+         "Number of minutes": "62"
+      },
+      {
+         "Month": "Mar 2016",
+         "Number of minutes": "69"
+      },
+      {
+         "Month": "Jan 2016",
+         "Number of minutes": "58"
+      },
+      {
+         "Month": "Nov 2015",
+         "Number of minutes": "58"
+      },
+      {
+         "Month": "Sep 2015",
+         "Number of minutes": "55"
+      },
+      {
+         "Month": "Jul 2015",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "May 2015",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "Mar 2015",
+         "Number of minutes": "56"
+      },
+      {
+         "Month": "Jan 2015",
+         "Number of minutes": "46"
+      },
+      {
+         "Month": "Nov 2014",
+         "Number of minutes": "54"
+      },
+      {
+         "Month": "Sep 2014",
+         "Number of minutes": "55"
+      },
+      {
+         "Month": "Jul 2014",
+         "Number of minutes": "56"
+      },
+      {
+         "Month": "May 2014",
+         "Number of minutes": "56"
+      },
+      {
+         "Month": "Mar 2014",
+         "Number of minutes": "56"
+      },
+      {
+         "Month": "Jan 2014",
+         "Number of minutes": "47"
+      },
+      {
+         "Month": "Nov 2013",
+         "Number of minutes": "50"
+      },
+      {
+         "Month": "Sep 2013",
+         "Number of minutes": "50"
+      },
+      {
+         "Month": "Jul 2013",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "May 2013",
+         "Number of minutes": "51"
+      },
+      {
+         "Month": "Mar 2013",
+         "Number of minutes": "57"
+      },
+      {
+         "Month": "Jan 2013",
+         "Number of minutes": "50"
+      },
+      {
+         "Month": "Nov 2012",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "Sep 2012",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "Jul 2012",
+         "Number of minutes": "54"
+      },
+      {
+         "Month": "May 2012",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "Mar 2012",
+         "Number of minutes": "55"
+      },
+      {
+         "Month": "Jan 2012",
+         "Number of minutes": "49"
+      },
+      {
+         "Month": "Nov 2011",
+         "Number of minutes": "51"
+      },
+      {
+         "Month": "Sep 2011",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "Jul 2011",
+         "Number of minutes": "53"
+      },
+      {
+         "Month": "May 2011",
+         "Number of minutes": "57"
+      }
+   ],
+   "gold": "In March 2018 , a patient in Accident and Emergency in the United Kingdom would spend an average of 64 minutes waiting before treatment would begin . Since the start of the provided time interval in 2011 this is the second longest average waiting time recorded . The only time it was higher was the average waiting time in March 2016 , which rose to 69 minutes .\n"
+}

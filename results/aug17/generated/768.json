@@ -1,0 +1,78 @@
+{
+   "title": "Total number of employees of the LVMH Group worldwide 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Total number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the total of employees and LVMH Group worldwide in Indonesian territorial waters from 2008 to 2019 . ",
+      "In 2019 , there were 156000 employees and LVMH Group worldwide in LVMH Group . ",
+      "Group worldwide in LVMH Group Group worldwide in Indonesian waters spiked in 2015 , when 156000 number were reported ."
+   ],
+   "trends": [
+      {
+         "17": "11",
+         "19": "0"
+      },
+      {
+         "1": "0",
+         "5": "0"
+      },
+      {
+         "11": "4",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Total number of employees": "156000"
+      },
+      {
+         "Year": "2018",
+         "Total number of employees": "136633"
+      },
+      {
+         "Year": "2017",
+         "Total number of employees": "128637"
+      },
+      {
+         "Year": "2016",
+         "Total number of employees": "116786"
+      },
+      {
+         "Year": "2015",
+         "Total number of employees": "125346"
+      },
+      {
+         "Year": "2014",
+         "Total number of employees": "121289"
+      },
+      {
+         "Year": "2013",
+         "Total number of employees": "114635"
+      },
+      {
+         "Year": "2012",
+         "Total number of employees": "106348"
+      },
+      {
+         "Year": "2011",
+         "Total number of employees": "97559"
+      },
+      {
+         "Year": "2010",
+         "Total number of employees": "83542"
+      },
+      {
+         "Year": "2009",
+         "Total number of employees": "77302"
+      },
+      {
+         "Year": "2008",
+         "Total number of employees": "77087"
+      }
+   ],
+   "gold": "This timeline shows the total number of employees of the LVMH Group worldwide from 2008 to 2019 . In 2019 , the total number of employees of the LVMH Group worldwide was 156,000 .\n"
+}

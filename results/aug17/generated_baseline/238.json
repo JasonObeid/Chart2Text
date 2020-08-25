@@ -1,0 +1,64 @@
+{
+   "title": "Domestic travel spending in France 2012 to 2028\n",
+   "xAxis": "Year",
+   "yAxis": "Spending in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Spending in billion euros, with a total of 8 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2028 to 2015.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 2014 to 2012.",
+      " Additionally, the next significant trend is slightly negative which exists from 2015 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2028",
+         "Spending in billion euros": 131.4
+      },
+      {
+         "Year": "2018",
+         "Spending in billion euros": 114.9
+      },
+      {
+         "Year": "2017",
+         "Spending in billion euros": 112.3
+      },
+      {
+         "Year": "2016",
+         "Spending in billion euros": 110.9
+      },
+      {
+         "Year": "2015",
+         "Spending in billion euros": 108.1
+      },
+      {
+         "Year": "2014",
+         "Spending in billion euros": 108.3
+      },
+      {
+         "Year": "2013",
+         "Spending in billion euros": 107.5
+      },
+      {
+         "Year": "2012",
+         "Spending in billion euros": 107.2
+      }
+   ],
+   "gold": "Domestic tourism expenditure is expected to reach 131.4 billion euros in 2028 . The spending of French tourists in their country has increased since the beginning of the 2010s and has already reached nearly 115 billion euros in 2018 . Similarly , the spending of international tourists in France is estimated to grow in the coming years .\n"
+}

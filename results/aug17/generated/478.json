@@ -1,0 +1,86 @@
+{
+   "title": "Mexico : religion affiliation share 2018 , by type",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey on the Mexico religion share in Mexico as of 2018 . ",
+      "The survey found that Catholic was Mexico 's loved Mexico princess with 0.1 out of 80.8 British adults choosing her as their favorite . ",
+      "Evangelist_(unspecified) and Jehova's_witness were second and third Mexico religion at 1.2 and 1.3 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "6",
+         "16": "0"
+      },
+      {
+         "0": "1",
+         "2": "2",
+         "10": "2",
+         "12": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Catholic",
+         "Share of respondents": "80.8"
+      },
+      {
+         "Response": "Evangelist (unspecified)",
+         "Share of respondents": "1.3"
+      },
+      {
+         "Response": "Jehova's witness",
+         "Share of respondents": "1.2"
+      },
+      {
+         "Response": "Pentecostal evangelist",
+         "Share of respondents": "0.8"
+      },
+      {
+         "Response": "Adventist",
+         "Share of respondents": "0.2"
+      },
+      {
+         "Response": "Mormon",
+         "Share of respondents": "0.2"
+      },
+      {
+         "Response": "Baptist evangelist",
+         "Share of respondents": "0.1"
+      },
+      {
+         "Response": "None",
+         "Share of respondents": "10.6"
+      },
+      {
+         "Response": "Believer without formal affiliation to any religion",
+         "Share of respondents": "2.8"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "0.8"
+      },
+      {
+         "Response": "Do not know",
+         "Share of respondents": "0.5"
+      },
+      {
+         "Response": "Do not answer",
+         "Share of respondents": "0.3"
+      },
+      {
+         "Response": "Agnostic",
+         "Share of respondents": "0.2"
+      },
+      {
+         "Response": "Atheist",
+         "Share of respondents": "0.2"
+      }
+   ],
+   "gold": "Roman Catholic was the most common religion affiliation in Mexico in 2018 . In a survey carried out between July and August of 2018 , almost 81 percent of Mexican respondents claimed to be of catholic faith , whereas the second most chosen religion was evangelism , with only 1.3 percent of the people interviewed . More than 10 percent of respondents answered they did n't profess any religion and a total of 0.4 percent defined themselves either as atheists or agnostics .\n"
+}

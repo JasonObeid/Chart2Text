@@ -1,0 +1,196 @@
+{
+   "title": "Gross domestic product ( GDP ) in current U.S. dollars in Puerto Rico 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Gross domestic product in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2014 to 1984.",
+      " In a similar manner, the next significant trend is slightly positive which exists from 2024 to 2019.",
+      " Correspondingly, the next significant trend is slightly positive which exists from 2019 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "10",
+         "12": "40"
+      },
+      {
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Gross domestic product in billion U.S. dollars": 101.52
+      },
+      {
+         "Year": "2023",
+         "Gross domestic product in billion U.S. dollars": 101.04
+      },
+      {
+         "Year": "2022",
+         "Gross domestic product in billion U.S. dollars": 100.62
+      },
+      {
+         "Year": "2021",
+         "Gross domestic product in billion U.S. dollars": 100.34
+      },
+      {
+         "Year": "2020",
+         "Gross domestic product in billion U.S. dollars": 100.17
+      },
+      {
+         "Year": "2019",
+         "Gross domestic product in billion U.S. dollars": 99.91
+      },
+      {
+         "Year": "2018",
+         "Gross domestic product in billion U.S. dollars": 101.13
+      },
+      {
+         "Year": "2017",
+         "Gross domestic product in billion U.S. dollars": 104.25
+      },
+      {
+         "Year": "2016",
+         "Gross domestic product in billion U.S. dollars": 104.34
+      },
+      {
+         "Year": "2015",
+         "Gross domestic product in billion U.S. dollars": 103.38
+      },
+      {
+         "Year": "2014",
+         "Gross domestic product in billion U.S. dollars": 102.45
+      },
+      {
+         "Year": "2013",
+         "Gross domestic product in billion U.S. dollars": 102.45
+      },
+      {
+         "Year": "2012",
+         "Gross domestic product in billion U.S. dollars": 101.57
+      },
+      {
+         "Year": "2011",
+         "Gross domestic product in billion U.S. dollars": 100.35
+      },
+      {
+         "Year": "2010",
+         "Gross domestic product in billion U.S. dollars": 98.38
+      },
+      {
+         "Year": "2009",
+         "Gross domestic product in billion U.S. dollars": 96.39
+      },
+      {
+         "Year": "2008",
+         "Gross domestic product in billion U.S. dollars": 93.64
+      },
+      {
+         "Year": "2007",
+         "Gross domestic product in billion U.S. dollars": 89.52
+      },
+      {
+         "Year": "2006",
+         "Gross domestic product in billion U.S. dollars": 87.28
+      },
+      {
+         "Year": "2005",
+         "Gross domestic product in billion U.S. dollars": 83.92
+      },
+      {
+         "Year": "2004",
+         "Gross domestic product in billion U.S. dollars": 80.32
+      },
+      {
+         "Year": "2003",
+         "Gross domestic product in billion U.S. dollars": 75.83
+      },
+      {
+         "Year": "2002",
+         "Gross domestic product in billion U.S. dollars": 72.55
+      },
+      {
+         "Year": "2001",
+         "Gross domestic product in billion U.S. dollars": 69.67
+      },
+      {
+         "Year": "2000",
+         "Gross domestic product in billion U.S. dollars": 61.7
+      },
+      {
+         "Year": "1999",
+         "Gross domestic product in billion U.S. dollars": 57.84
+      },
+      {
+         "Year": "1998",
+         "Gross domestic product in billion U.S. dollars": 54.09
+      },
+      {
+         "Year": "1997",
+         "Gross domestic product in billion U.S. dollars": 48.19
+      },
+      {
+         "Year": "1996",
+         "Gross domestic product in billion U.S. dollars": 45.34
+      },
+      {
+         "Year": "1995",
+         "Gross domestic product in billion U.S. dollars": 42.65
+      },
+      {
+         "Year": "1994",
+         "Gross domestic product in billion U.S. dollars": 39.69
+      },
+      {
+         "Year": "1993",
+         "Gross domestic product in billion U.S. dollars": 36.92
+      },
+      {
+         "Year": "1992",
+         "Gross domestic product in billion U.S. dollars": 34.63
+      },
+      {
+         "Year": "1991",
+         "Gross domestic product in billion U.S. dollars": 32.29
+      },
+      {
+         "Year": "1990",
+         "Gross domestic product in billion U.S. dollars": 30.6
+      },
+      {
+         "Year": "1989",
+         "Gross domestic product in billion U.S. dollars": 28.27
+      },
+      {
+         "Year": "1988",
+         "Gross domestic product in billion U.S. dollars": 26.18
+      },
+      {
+         "Year": "1987",
+         "Gross domestic product in billion U.S. dollars": 23.88
+      },
+      {
+         "Year": "1986",
+         "Gross domestic product in billion U.S. dollars": 21.97
+      },
+      {
+         "Year": "1985",
+         "Gross domestic product in billion U.S. dollars": 20.29
+      },
+      {
+         "Year": "1984",
+         "Gross domestic product in billion U.S. dollars": 19.16
+      }
+   ],
+   "gold": "The statistic shows gross domestic product ( GDP ) in current U.S. dollars in Puerto Rico from 1984 to 2018 , with projections up until 2024 . Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given year . GDP is an important indicator of a country 's economic power .\n"
+}

@@ -1,0 +1,42 @@
+{
+   "title": "U.S. automobile registrations 1999 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of passenger cars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Number of passenger cars in the 1999 from to 2017 . ",
+      "A declining tendency could be observed as the Number of passenger cars dropped from 127083019 in 2005 to 6,146 in 2017 ."
+   ],
+   "trends": [
+      {
+         "12": "3",
+         "14": "0"
+      },
+      {
+         "14": "3",
+         "16": "2",
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of passenger cars": "111177029"
+      },
+      {
+         "Year": "2011",
+         "Number of passenger cars": "126966714"
+      },
+      {
+         "Year": "2005",
+         "Number of passenger cars": "136568083"
+      },
+      {
+         "Year": "1999",
+         "Number of passenger cars": "127083019"
+      }
+   ],
+   "gold": "This statistic represents the number of registered automobiles in the United States from 1999 through 2017 . In 2017 , there were about 111 million automobiles registered in the United States . In 2017 , a total of around 272 million motor vehicles were registered in the U.S .\n"
+}

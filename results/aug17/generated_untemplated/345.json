@@ -1,0 +1,53 @@
+{
+   "title": "United Kingdom ( UK ) property market 2013 - 2016 , by submarket value",
+   "labels": [
+      "Submarket",
+      "2013",
+      "2014",
+      "2015",
+      "2016"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic presents the global revenue of yttrium from 2010 to 2013 , by type . In 2013 , china 's yttrium mine production amounted to approximately 7000 metric tons of yttrium-oxide . yttrium belongs to the group of transition metals , as well as to the so called rare earth elements .\n",
+   "trends": {},
+   "data": [
+      {
+         "Submarket": "Residential property: owner occupied & social housing",
+         "2013": "3831",
+         "2014": "4068",
+         "2015": "4460",
+         "2016": "4805"
+      },
+      {
+         "Submarket": "Residential property: privately rented",
+         "2013": "839",
+         "2014": "929",
+         "2015": "1015",
+         "2016": "1110"
+      },
+      {
+         "Submarket": "Infrastructure",
+         "2013": "0",
+         "2014": "960",
+         "2015": "1061",
+         "2016": "1102"
+      },
+      {
+         "Submarket": "Commercial property",
+         "2013": "683",
+         "2014": "787",
+         "2015": "871",
+         "2016": "883"
+      },
+      {
+         "Submarket": "Other non-domestic buildings",
+         "2013": "127",
+         "2014": "146",
+         "2015": "163",
+         "2016": "147"
+      }
+   ],
+   "gold": "This statistic shows the value of the real estate market in the United Kingdom ( UK ) from 2013 to 2016 , divided by the value of submarkets . It can be seen that during this period the commercial property market size increased by 200 billion British pounds to a value of 883 billion British pounds in 2016 .\n"
+}

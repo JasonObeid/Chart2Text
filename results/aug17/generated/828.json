@@ -1,0 +1,78 @@
+{
+   "title": "Breakdown of the Department of Homeland Security budget by organization 2020",
+   "xAxis": "Organisation",
+   "yAxis": "Budget authority in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Budget operating by authority on selected Department Homeland Security Department Homeland Security in 2020 . ",
+      "In that year , trucks had an Budget operating authority of just over 28708.82 million U.S. dollars in U.S._Coast_Guard , Florida ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "0",
+         "18": "2"
+      }
+   ],
+   "data": [
+      {
+         "Organisation": "Federal Emergency Management Agency",
+         "Budget authority in million U.S. dollars": "28708.82"
+      },
+      {
+         "Organisation": "U.S. Customs and Border Protection",
+         "Budget authority in million U.S. dollars": "20850.39"
+      },
+      {
+         "Organisation": "U.S. Coast Guard",
+         "Budget authority in million U.S. dollars": "11339.98"
+      },
+      {
+         "Organisation": "U.S. Immigration and Customs Enforcement",
+         "Budget authority in million U.S. dollars": "9308.59"
+      },
+      {
+         "Organisation": "Transportation Security Administration",
+         "Budget authority in million U.S. dollars": "7785.63"
+      },
+      {
+         "Organisation": "United States Citizenship and Immigration Services",
+         "Budget authority in million U.S. dollars": "4840.41"
+      },
+      {
+         "Organisation": "Cybersecurity and Infrastructure Security Agency",
+         "Budget authority in million U.S. dollars": "3168.08"
+      },
+      {
+         "Organisation": "U.S. Secret Service",
+         "Budget authority in million U.S. dollars": "2573.98"
+      },
+      {
+         "Organisation": "Management Directorate",
+         "Budget authority in million U.S. dollars": "1698.6"
+      },
+      {
+         "Organisation": "Science and Technology Directorate",
+         "Budget authority in million U.S. dollars": "582.12"
+      },
+      {
+         "Organisation": "Countering Weapons of Mass Destruction",
+         "Budget authority in million U.S. dollars": "423.16"
+      },
+      {
+         "Organisation": "Federal Law Enforcement Training Centers",
+         "Budget authority in million U.S. dollars": "350.94"
+      },
+      {
+         "Organisation": "Analysis and Operations",
+         "Budget authority in million U.S. dollars": "276.64"
+      },
+      {
+         "Organisation": "Office of Inspector General",
+         "Budget authority in million U.S. dollars": "170.19"
+      }
+   ],
+   "gold": "This statistic gives a breakdown of how the budget of the Department of Homeland is allocated amongst the various organizations administered by the agency in FY 2020 . The second budget of President Trump in FY 2020 saw funding for U.S. Customs and Border Protection increase by around 4.16 billion dollars from the 2018 figure to 20.85 billion U.S. dollars .\n"
+}

@@ -1,0 +1,60 @@
+{
+   "title": "Average annual consumer spending , by type U.S. 2018",
+   "xAxis": "Spending Type",
+   "yAxis": "Spending in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Being one of the largest offshoring destinations for different IT companies across the world , the business process management market in U.S. is of considerable importance . ",
+      "The information technology/business process management ( consumer ) sector had contributed a Spending of around 20091 billion to the U.S. of the country in Housing . ",
+      "BPM is more like a discipline than a process that incorporates methods to improve , analyze automate and improve business processes ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "0",
+         "24": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Spending Type": "Housing",
+         "Spending in U.S. dollars": "20091"
+      },
+      {
+         "Spending Type": "Transportation",
+         "Spending in U.S. dollars": "9761"
+      },
+      {
+         "Spending Type": "Food",
+         "Spending in U.S. dollars": "7923"
+      },
+      {
+         "Spending Type": "Personal insurance and pensions",
+         "Spending in U.S. dollars": "7296"
+      },
+      {
+         "Spending Type": "Healthcare",
+         "Spending in U.S. dollars": "4968"
+      },
+      {
+         "Spending Type": "Entertainment",
+         "Spending in U.S. dollars": "3226"
+      },
+      {
+         "Spending Type": "All other expenditures",
+         "Spending in U.S. dollars": "2030"
+      },
+      {
+         "Spending Type": "Cash contributions",
+         "Spending in U.S. dollars": "1888"
+      },
+      {
+         "Spending Type": "Apparel and services",
+         "Spending in U.S. dollars": "1866"
+      }
+   ],
+   "gold": "This statistic shows the average annual expenditures of consumer units in the United States in 2018 , by type . In 2018 , the average U.S. consumer unit spent about 7,923 U.S. dollars on food . The total average U.S. consumer spending amounted to 61,224 U.S. dollars .\n"
+}

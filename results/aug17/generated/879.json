@@ -1,0 +1,68 @@
+{
+   "title": "Important features of music streaming services in the U.S. 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "A survey conducted in 2018 reveals that the largest groups of Italian respondents cheated on U.S. The_ability_to_combine_your_music_library_with_your_streaming_service_library either features a The_variety_of_music_available or features a Low_price_point . ",
+      "In The_ability_to_listen_on_multiple_divices , 81 % of interviewees in Italy stated that they betrayed U.S. The_ability_to_combine_your_music_library_with_your_streaming_service_library features a The_variety_of_music_available , while 80 % did so features a Low_price_point . ",
+      "However , it was common to services features strangers as well ."
+   ],
+   "trends": [
+      {
+         "16": "5",
+         "20": "0",
+         "24": "1"
+      },
+      {
+         "1": "2",
+         "3": "0",
+         "14": "5",
+         "17": "0",
+         "20": "1",
+         "26": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "The variety of music available",
+         "Share of respondents": "81"
+      },
+      {
+         "Response": "Low price point",
+         "Share of respondents": "80"
+      },
+      {
+         "Response": "The ability to listen on multiple divices",
+         "Share of respondents": "68"
+      },
+      {
+         "Response": "Clean user interface",
+         "Share of respondents": "66"
+      },
+      {
+         "Response": "Good algorithms to find new music",
+         "Share of respondents": "58"
+      },
+      {
+         "Response": "The ability to combine your music library with your streaming service library",
+         "Share of respondents": "64"
+      },
+      {
+         "Response": "The ability to stream on smart home devices",
+         "Share of respondents": "57"
+      },
+      {
+         "Response": "Curated playlists",
+         "Share of respondents": "52"
+      },
+      {
+         "Response": "Artist exclusives",
+         "Share of respondents": "46"
+      }
+   ],
+   "gold": "This statistic presents data on the most important features of music streaming services among adults in the United States as of March 2018 . During a survey , 81 percent of respondents stated that the variety of music available was the most important feature of music streaming services .\n"
+}

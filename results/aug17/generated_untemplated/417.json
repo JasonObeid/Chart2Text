@@ -1,0 +1,71 @@
+{
+   "title": "Forecast : PaaS market share in 2011 - 2016 , by service",
+   "labels": [
+      "Cloud Service",
+      "2011",
+      "2016"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic presents the online or in-store shopping preference for selected product categories by consumers worldwide as of 2017 . During the survey period , 60 percent of respondents stated that they preferred to purchase books , movies , and video games online . The three biggest online stores ' revenue amounted to almost 100 billion US dollars in 2017 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Cloud Service": "Cloud Application platform services (aPaaS)",
+         "2011": "35",
+         "2016": "35"
+      },
+      {
+         "Cloud Service": "Cloud ALM Services (almPaaS)",
+         "2011": "12",
+         "2016": "11"
+      },
+      {
+         "Cloud Service": "Cloud BPM platform services (bpmPaaS)",
+         "2011": "11",
+         "2016": "10"
+      },
+      {
+         "Cloud Service": "Cloud Integration services (iPaaS)",
+         "2011": "11",
+         "2016": "14"
+      },
+      {
+         "Cloud Service": "Cloud Application Security Services",
+         "2011": "11",
+         "2016": "9"
+      },
+      {
+         "Cloud Service": "Cloud MFT Services",
+         "2011": "8",
+         "2016": "6"
+      },
+      {
+         "Cloud Service": "Cloud Application Services Governance",
+         "2011": "4",
+         "2016": "3"
+      },
+      {
+         "Cloud Service": "Cloud Business Analytics Services (baPaaS)",
+         "2011": "3",
+         "2016": "4"
+      },
+      {
+         "Cloud Service": "Cloud MOM Services",
+         "2011": "2",
+         "2016": "2"
+      },
+      {
+         "Cloud Service": "Cloud Database services (dbPaas)",
+         "2011": "2",
+         "2016": "4"
+      },
+      {
+         "Cloud Service": "Cloud Horizontal Portal Services (Portal PaaS)",
+         "2011": "1",
+         "2016": "2"
+      }
+   ],
+   "gold": "This statistic shows the market share of different Platform as a Service ( PaaS ) systems in 2011 and a forecast for 2016 . By 2016 , it is anticipated that almPaaS will account for 11 percent of the market . The source also estimates that the total value of the PaaS market will reach 2.9 billion U.S. by 2016 , up from 900 million in 2011 .\n"
+}

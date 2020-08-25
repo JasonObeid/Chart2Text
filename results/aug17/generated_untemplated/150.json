@@ -1,0 +1,37 @@
+{
+   "title": "Global mobile video traffic 2017 to 2022\n",
+   "xAxis": "Year",
+   "yAxis": "Traffic in PB per month",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows a forecast of global telecom services spending from 2017 to 2022 . About 1625 billion u.s. dollars is forecast to be spent globally in telecom services in 2019 . telecom services spending \u2013 additional information The telecommunication services industry , which includes fixed-network services and mobile and wireless services , is a trillion-dollar market projected to grow in the next few years .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2022",
+         "Traffic in PB per month": 60889.0
+      },
+      {
+         "Year": "2021",
+         "Traffic in PB per month": 42734.0
+      },
+      {
+         "Year": "2020",
+         "Traffic in PB per month": 29149.0
+      },
+      {
+         "Year": "2019",
+         "Traffic in PB per month": 19279.0
+      },
+      {
+         "Year": "2018",
+         "Traffic in PB per month": 12051.0
+      },
+      {
+         "Year": "2017",
+         "Traffic in PB per month": 6821.0
+      }
+   ],
+   "gold": "This statistic provides information on the level of global mobile video traffic from 2017 to 2022 . In 2018 , global mobile video traffic amounted to 12,051 petabytes per month and is expected to multiply to 60,889 PB per month in 2022 .\n"
+}

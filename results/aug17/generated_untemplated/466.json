@@ -1,0 +1,33 @@
+{
+   "title": "Vehicle sales in the United States 2019\n",
+   "xAxis": "Vehicles",
+   "yAxis": "Vehicle retail sales in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic presents the richest Peruvians in 2019 , broken down by wealth . In 2019 , the peruvian businessman carlos rodriguez-pastor had a fortune worth more than 4 billion u.s. dollars and was thus the richest person in the country , followed by vito rodriguez , with a fortune of 1.6 billion u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Vehicles": "Light vehicles (total)",
+         "Vehicle retail sales in thousands": 16965.2
+      },
+      {
+         "Vehicles": "Thereof light trucks",
+         "Vehicle retail sales in thousands": 12237.8
+      },
+      {
+         "Vehicles": "Thereof autos",
+         "Vehicle retail sales in thousands": 4727.3
+      },
+      {
+         "Vehicles": "Heavy trucks",
+         "Vehicle retail sales in thousands": 529.5
+      },
+      {
+         "Vehicles": "Motor vehicles (total)",
+         "Vehicle retail sales in thousands": 17494.6
+      }
+   ],
+   "gold": "In 2019 , a little under 17.5 million heavy trucks , light trucks , and cars were sold to customers in the United States . Light trucks accounted for about 70 percent of U.S. motor vehicle sales that year .\n"
+}

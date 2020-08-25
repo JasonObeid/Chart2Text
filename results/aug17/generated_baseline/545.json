@@ -1,0 +1,119 @@
+{
+   "title": "Daily internet usage per capita worldwide 2011 - 2021 , by device",
+   "labels": [
+      "Year",
+      "Desktop",
+      "Mobile"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Mobile had the highest values across Year with a mean value of 92.0.",
+      " This peaked at 2021 with a value of 155.0. ",
+      " The line with the second highest values was Desktop with a mean value of 42.1.",
+      " This line peaked at 2013 with a value of 49.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "9": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "10": [
+            "2",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "Desktop": "43",
+         "Mobile": "32"
+      },
+      {
+         "Year": "2012",
+         "Desktop": "47",
+         "Mobile": "36"
+      },
+      {
+         "Year": "2013",
+         "Desktop": "49",
+         "Mobile": "45"
+      },
+      {
+         "Year": "2014",
+         "Desktop": "47",
+         "Mobile": "63"
+      },
+      {
+         "Year": "2015",
+         "Desktop": "42",
+         "Mobile": "81"
+      },
+      {
+         "Year": "2016",
+         "Desktop": "40",
+         "Mobile": "94"
+      },
+      {
+         "Year": "2017",
+         "Desktop": "42",
+         "Mobile": "109"
+      },
+      {
+         "Year": "2018",
+         "Desktop": "39",
+         "Mobile": "122"
+      },
+      {
+         "Year": "2019 ",
+         "Desktop": "39",
+         "Mobile": "132"
+      },
+      {
+         "Year": "2020 ",
+         "Desktop": "38",
+         "Mobile": "143"
+      },
+      {
+         "Year": "2021",
+         "Desktop": "37",
+         "Mobile": "155"
+      }
+   ],
+   "gold": "This statistic presents the average daily time spent online by internet users worldwide from 2011 to 2021 , sorted by device . According to Zenith Optimedia , in 2018 , the average daily minutes of desktop internet consumption per capita amounted to 39 minutes and is projected to slowly decline until 2020 . However , daily mobile internet consumption is set to increase to 155 minutes in 2021 .\n"
+}

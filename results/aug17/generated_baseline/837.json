@@ -1,0 +1,92 @@
+{
+   "title": "Crucial problems in U.S. politics as of 2018\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 16 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Immigration where Share of respondents is 12.0.",
+      " The lowest category is found at Environment/_global_warming where Share of respondents is 2.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Immigration",
+         "Share of respondents": 12.0
+      },
+      {
+         "Response": "Race relations/ racism",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "Donald Trump",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "Parties/ gridlock/ divisions in country",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Economy (general) health care/costs/accessibility",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Unemployment/ lack of jobs",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Distribution of wealth / Inequality",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Education/ schools/ affording education",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Foreign policy (general)",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Crime/violence/judicial system",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Morality/ ethics/ family values",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Gun control/ too many guns",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Lack of humanity/ respect",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Environment/ global warming",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Dissatisfaction with government/ politics/ corruption",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Defense/ national security",
+         "Share of respondents": 2.0
+      }
+   ],
+   "gold": "In this 2018 survey , eight percent of respondents stated they think the biggest problem for the United States today is Donald Trump . In fact , most of the important problems mentioned are somehow related to the current POTUS \u2013 the most mentioned one being immigration and racism . A country divided Since Trump 's inauguration in January 2017 , political camps in the United States are deeply divided and global politics is in turmoil ; Trump 's job approval ratings are notoriously low , and in fact , they are lower than Reagan 's or Nixon 's averages ever were .\n"
+}

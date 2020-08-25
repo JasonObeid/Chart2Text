@@ -1,0 +1,53 @@
+{
+   "title": "FIFA World Cup : players with most matches 1930 to 2018\n",
+   "xAxis": "Player",
+   "yAxis": "Number of appearances",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The ashes is a historic Test cricket series held at least once every two years between England and Australia . The 2019 series was held in England , with pat cummins topping the list with 29 wickets , despite having not picked up a five-wicket haul .\n",
+   "trends": {},
+   "data": [
+      {
+         "Player": "Lothar Matth\u00e4us (Germany)",
+         "Number of appearances": 25.0
+      },
+      {
+         "Player": "Miroslav Klose (Germany)",
+         "Number of appearances": 24.0
+      },
+      {
+         "Player": "Paolo Maldini (Italy)",
+         "Number of appearances": 23.0
+      },
+      {
+         "Player": "Uwe Seeler (Germany)",
+         "Number of appearances": 21.0
+      },
+      {
+         "Player": "Diege Maradona (Argentina)",
+         "Number of appearances": 21.0
+      },
+      {
+         "Player": "W\u0142adys\u0142aw \u017bmuda (Poland)",
+         "Number of appearances": 21.0
+      },
+      {
+         "Player": "Cafu (Brazil)",
+         "Number of appearances": 20.0
+      },
+      {
+         "Player": "Bastian Schweinsteiger (Germany)",
+         "Number of appearances": 20.0
+      },
+      {
+         "Player": "Philipp Lahm (Germany)",
+         "Number of appearances": 20.0
+      },
+      {
+         "Player": "Grzegorz Lato (Poland)",
+         "Number of appearances": 20.0
+      }
+   ],
+   "gold": "This graph depicts the soccer players with the most appearances at the FIFA World Cup from 1930 to 2018 . The German midfielder , Lothar Matth\u00e4us , tops the list , having made 25 appearances at the World Cup between 1982 and 1998 .\n"
+}

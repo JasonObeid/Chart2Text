@@ -1,0 +1,66 @@
+{
+   "title": "Facebook : annual revenue 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars with a total of 11 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2019 to 2009."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": 70697.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 55838.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 40653.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 27638.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 17928.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 12466.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 7872.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 5089.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 3711.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 1974.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 777.0
+      }
+   ],
+   "gold": "In 2019 , Facebook 's revenue amounted to 70.7 billion US dollars , up from 55.8 billion U.S. dollars in the previous fiscal year . The social network 's main source of income is digital advertising . Facebook revenue and income \u2013 more information As a side effect from being the biggest social network worldwide , Facebook is the leading platform for social media advertising and marketing with 94 percent of global marketers utilizing Facebook in their marketing efforts .\n"
+}

@@ -1,0 +1,114 @@
+{
+   "title": "Employment by economic sector in Honduras 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the Employment of the by economic sector Honduras in from 2009 to 2019 . ",
+      "In 2019 , 31.84 % of the by in Honduras were employed in Agriculture , 20.32 % in Industry and 47.84 % in Services ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "10",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "0",
+            "2"
+         ],
+         "20": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "31.84",
+         "Industry": "20.32",
+         "Services": "47.84"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "31.91",
+         "Industry": "20.5",
+         "Services": "47.59"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "31.99",
+         "Industry": "20.68",
+         "Services": "47.33"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "27.35",
+         "Industry": "21.58",
+         "Services": "51.07"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "28.72",
+         "Industry": "21.81",
+         "Services": "49.47"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "28.83",
+         "Industry": "22.02",
+         "Services": "49.14"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "34.52",
+         "Industry": "19.04",
+         "Services": "46.45"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "37.01",
+         "Industry": "19.93",
+         "Services": "43.07"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "36.62",
+         "Industry": "19.36",
+         "Services": "44.02"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "37.81",
+         "Industry": "18.64",
+         "Services": "43.55"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "37.07",
+         "Industry": "20.34",
+         "Services": "42.59"
+      }
+   ],
+   "gold": "The statistic shows the distribution of employment in Honduras by economic sector from 2009 to 2019 . In 2019 , 31.84 percent of the employees in Honduras were active in the agricultural sector , 20.32 percent in industry and 47.84 percent in the service sector .\n"
+}

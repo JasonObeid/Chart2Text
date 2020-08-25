@@ -1,0 +1,41 @@
+{
+   "title": "Total sales of Olive Garden in the U.S. 2016 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Sales in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Olive Garden sales Olive Garden U.S. size 2016 from to 2019 . ",
+      "In 2016 , the Olive Garden sales Olive Garden U.S. had a size of 3.84 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "12": "3",
+         "14": "0"
+      },
+      {
+         "1": "3",
+         "13": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Sales in billion U.S. dollars": "4.29"
+      },
+      {
+         "Year": "2018",
+         "Sales in billion U.S. dollars": "4.08"
+      },
+      {
+         "Year": "2017",
+         "Sales in billion U.S. dollars": "3.94"
+      },
+      {
+         "Year": "2016",
+         "Sales in billion U.S. dollars": "3.84"
+      }
+   ],
+   "gold": "This statistic shows the total sales of Olive Garden in the United States from 2016 to 2019 . In 2019 , Olive Garden 's U.S. sales reached approximately 4.29 billion U.S. dollars , up from 4.08 billion in 2018 .\n"
+}

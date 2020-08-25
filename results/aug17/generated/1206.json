@@ -1,0 +1,122 @@
+{
+   "title": "World rankings of Men 's World Handball Championships 1938 to 2013",
+   "labels": [
+      "Year",
+      "World Champion",
+      "2nd",
+      "3rd"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows World rankings Men 1938 2013 in Men World Handball Championships from Sweden to Austria , 2013 . ",
+      "In Austria , 2 % of respondents aged 16 to 24 years old and 0 % were between 18 and 29 years old ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "12",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "12",
+            "0"
+         ],
+         "3": [
+            "5",
+            "1"
+         ],
+         "14": [
+            "12",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Sweden",
+         "World Champion": "4",
+         "2nd": "3",
+         "3rd": "4"
+      },
+      {
+         "Year": "France",
+         "World Champion": "4",
+         "2nd": "1",
+         "3rd": "3"
+      },
+      {
+         "Year": "Romania",
+         "World Champion": "4",
+         "2nd": "0",
+         "3rd": "2"
+      },
+      {
+         "Year": "Germany/GDR",
+         "World Champion": "3",
+         "2nd": "4",
+         "3rd": "3"
+      },
+      {
+         "Year": "Russia/USSR",
+         "World Champion": "3",
+         "2nd": "3",
+         "3rd": "0"
+      },
+      {
+         "Year": "Spain",
+         "World Champion": "2",
+         "2nd": "0",
+         "3rd": "1"
+      },
+      {
+         "Year": "Croatia",
+         "World Champion": "1",
+         "2nd": "3",
+         "3rd": "1"
+      },
+      {
+         "Year": "Czechoslovakia",
+         "World Champion": "1",
+         "2nd": "2",
+         "3rd": "2"
+      },
+      {
+         "Year": "Yugoslavia",
+         "World Champion": "1",
+         "2nd": "1",
+         "3rd": "4"
+      },
+      {
+         "Year": "Denmark",
+         "World Champion": "0",
+         "2nd": "3",
+         "3rd": "1"
+      },
+      {
+         "Year": "Poland",
+         "World Champion": "0",
+         "2nd": "1",
+         "3rd": "2"
+      },
+      {
+         "Year": "Hungary",
+         "World Champion": "0",
+         "2nd": "1",
+         "3rd": "0"
+      },
+      {
+         "Year": "Austria",
+         "World Champion": "0",
+         "2nd": "1",
+         "3rd": "0"
+      }
+   ],
+   "gold": "This statistic diplays world rankings of Men 's World Handball Championships from 1938 to 2013 , sorted by first three places . Croatia ranked sixth , with one World Championship won and three second places .\n"
+}

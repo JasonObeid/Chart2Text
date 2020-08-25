@@ -1,0 +1,55 @@
+{
+   "title": "Alzheimer 's in the U.S : lifetime risks , by age and gender",
+   "labels": [
+      "Country",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "In , around 10.3 % of inhabitants in U.S Men agreed with defining themselves as 45_years , while only 19.5 % considered themselves afro-descendants . ",
+      "In addition , 11.6 % thought of themselves as Women 45_years , and 21.1 % as Women 65_years . ",
+      "Relations between U.S and the country As neighboring North American countries , U.S 's relationship with the country has been a priority in both countries ' foreign policies ."
+   ],
+   "trends": [
+      {
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "3": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "1",
+            "2"
+         ],
+         "17": [
+            "1",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "45 years",
+         "Men": "10.3",
+         "Women": "11.6"
+      },
+      {
+         "Country": "65 years",
+         "Men": "19.5",
+         "Women": "21.1"
+      }
+   ],
+   "gold": "This statistic depicts the estimated lifetime risk for getting Alzheimer 's disease in the United States as of 2015 , by age and gender . It is estimated that men aged 65 have a 11.6 percent risk of developing Alzheimer 's during their life .\n"
+}

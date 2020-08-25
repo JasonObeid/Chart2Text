@@ -1,0 +1,79 @@
+{
+   "title": "Number of members of FC Bayern Munich 2005 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of members in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Number of members thousands in international elementary from 2000 to 2018 . ",
+      "291.0 people were killed in the Nov_2018 2017/18 in 2018 ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "6": "0",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Nov 2018",
+         "Number of members in thousands": "291.0"
+      },
+      {
+         "Month": "2017/18",
+         "Number of members in thousands": "290.0"
+      },
+      {
+         "Month": "2016/17",
+         "Number of members in thousands": "284.04"
+      },
+      {
+         "Month": "2015/16",
+         "Number of members in thousands": "270.33"
+      },
+      {
+         "Month": "2014/15",
+         "Number of members in thousands": "251.32"
+      },
+      {
+         "Month": "2013/14",
+         "Number of members in thousands": "233.43"
+      },
+      {
+         "Month": "2012/13",
+         "Number of members in thousands": "195.69"
+      },
+      {
+         "Month": "2011/12",
+         "Number of members in thousands": "187.87"
+      },
+      {
+         "Month": "2010/11",
+         "Number of members in thousands": "171.35"
+      },
+      {
+         "Month": "2009/10",
+         "Number of members in thousands": "162.18"
+      },
+      {
+         "Month": "2008/09",
+         "Number of members in thousands": "151.23"
+      },
+      {
+         "Month": "2007/08",
+         "Number of members in thousands": "147.07"
+      },
+      {
+         "Month": "2006/07",
+         "Number of members in thousands": "135.75"
+      },
+      {
+         "Month": "2005/06",
+         "Number of members in thousands": "121.12"
+      }
+   ],
+   "gold": "Over the past 10 years the number of members of the FC Bayern Munich , one of the most prominent football club of the German Bundesliga , the top tier football league of Germany , almost doubled . In 2008 there were roughly 151 thousand members of the club and in 2018 there were 291 thousand . In a survey based on public interest among Germans from 2018 , Bayern Munich lead in as the most popular club and the number of fan club members also came close to doubling in the last 10 years .\n"
+}

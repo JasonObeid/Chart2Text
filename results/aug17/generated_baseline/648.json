@@ -1,0 +1,147 @@
+{
+   "title": "Common share price of Royal Bank of Canada 1995 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Share price in Canadian dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share price in Canadian dollars, with a total of 25 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely positive which exists from 2005 to 2000.",
+      " Additionally, the next significant trend is extremely positive which exists from 2000 to 1995.",
+      " Likewise, the next significant trend is extremely positive which exists from 2019 to 2015.",
+      " Similarly, the next significant trend is extremely positive which exists from 2015 to 2011.",
+      " Similarly, the next significant trend is extremely positive which exists from 2011 to 2008.",
+      " Also, the next significant trend is slightly negative which exists from 2008 to 2005."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "14",
+         "12": "19"
+      },
+      {
+         "3": "19",
+         "14": "24"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "11"
+      },
+      {
+         "3": "11",
+         "14": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Share price in Canadian dollars": 102.75
+      },
+      {
+         "Year": "2018",
+         "Share price in Canadian dollars": 93.44
+      },
+      {
+         "Year": "2017",
+         "Share price in Canadian dollars": 102.65
+      },
+      {
+         "Year": "2016",
+         "Share price in Canadian dollars": 90.87
+      },
+      {
+         "Year": "2015",
+         "Share price in Canadian dollars": 74.15
+      },
+      {
+         "Year": "2014",
+         "Share price in Canadian dollars": 80.24
+      },
+      {
+         "Year": "2013",
+         "Share price in Canadian dollars": 71.41
+      },
+      {
+         "Year": "2012",
+         "Share price in Canadian dollars": 59.88
+      },
+      {
+         "Year": "2011",
+         "Share price in Canadian dollars": 51.98
+      },
+      {
+         "Year": "2010",
+         "Share price in Canadian dollars": 52.32
+      },
+      {
+         "Year": "2009",
+         "Share price in Canadian dollars": 56.4
+      },
+      {
+         "Year": "2008",
+         "Share price in Canadian dollars": 36.1
+      },
+      {
+         "Year": "2007",
+         "Share price in Canadian dollars": 50.74
+      },
+      {
+         "Year": "2006",
+         "Share price in Canadian dollars": 55.5
+      },
+      {
+         "Year": "2005",
+         "Share price in Canadian dollars": 90.81
+      },
+      {
+         "Year": "2004",
+         "Share price in Canadian dollars": 64.25
+      },
+      {
+         "Year": "2003",
+         "Share price in Canadian dollars": 61.8
+      },
+      {
+         "Year": "2002",
+         "Share price in Canadian dollars": 57.85
+      },
+      {
+         "Year": "2001",
+         "Share price in Canadian dollars": 51.83
+      },
+      {
+         "Year": "2000",
+         "Share price in Canadian dollars": 50.85
+      },
+      {
+         "Year": "1999",
+         "Share price in Canadian dollars": 63.5
+      },
+      {
+         "Year": "1998",
+         "Share price in Canadian dollars": 76.55
+      },
+      {
+         "Year": "1997",
+         "Share price in Canadian dollars": 75.6
+      },
+      {
+         "Year": "1996",
+         "Share price in Canadian dollars": 48.1
+      },
+      {
+         "Year": "1995",
+         "Share price in Canadian dollars": 31.13
+      }
+   ],
+   "gold": "This statistic presents the common share prices of Royal Bank of Canada from 1995 to 2019 . In 2019 , the common share price of the leading Canadian bank amounted to 102.75 Canadian dollars .\n"
+}

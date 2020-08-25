@@ -1,0 +1,65 @@
+{
+   "title": "Global electricity consumption 1980 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Net consumption in billion kilowatt hours",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the consumption of ice cream per capita in canada from 2004 to 2016 . ice cream consumption in canada amounted to approximately 4.44 liters per capita in 2016 , down from 4.52 liters the previous year . ice cream in canada - additional information ice cream , most often classed as a dairy product , comes in a variety of different flavors and is usually made from cream or milk , with added natural or artificial flavorings , sweeteners and colorings .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2016",
+         "Net consumption in billion kilowatt hours": 21801.0
+      },
+      {
+         "Year": "2015",
+         "Net consumption in billion kilowatt hours": 21192.0
+      },
+      {
+         "Year": "2014",
+         "Net consumption in billion kilowatt hours": 20761.0
+      },
+      {
+         "Year": "2013",
+         "Net consumption in billion kilowatt hours": 20340.0
+      },
+      {
+         "Year": "2012",
+         "Net consumption in billion kilowatt hours": 19713.0
+      },
+      {
+         "Year": "2011",
+         "Net consumption in billion kilowatt hours": 19324.0
+      },
+      {
+         "Year": "2010",
+         "Net consumption in billion kilowatt hours": 18643.0
+      },
+      {
+         "Year": "2005",
+         "Net consumption in billion kilowatt hours": 15717.0
+      },
+      {
+         "Year": "2000",
+         "Net consumption in billion kilowatt hours": 13253.0
+      },
+      {
+         "Year": "1995",
+         "Net consumption in billion kilowatt hours": 11486.0
+      },
+      {
+         "Year": "1990",
+         "Net consumption in billion kilowatt hours": 10395.0
+      },
+      {
+         "Year": "1985",
+         "Net consumption in billion kilowatt hours": 8657.0
+      },
+      {
+         "Year": "1980",
+         "Net consumption in billion kilowatt hours": 7323.0
+      }
+   ],
+   "gold": "This statistic represents worldwide electricity consumption between 1980 and 2016 . In 2016 , the world 's electricity consumption amounted to approximately 21.8 trillion kilowatt hours . One quadrillion watts is approximately equal to one petawatt .\n"
+}

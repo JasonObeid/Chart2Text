@@ -1,0 +1,73 @@
+{
+   "title": "World nuclear power consumption by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of nuclear power consumption",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the distribution of the total World Share consumption in 2018/2019 , broken down by Country . ",
+      "According to the report , the United_States was responsible for over a third of the world 's Share that year . ",
+      "Most of the U.S. Share is attributable to the World Belt , which is located in the Midwest of the United_States ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0"
+      },
+      {
+         "20": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of nuclear power consumption": "31.4"
+      },
+      {
+         "Country": "France",
+         "Share of nuclear power consumption": "15.3"
+      },
+      {
+         "Country": "China",
+         "Share of nuclear power consumption": "10.9"
+      },
+      {
+         "Country": "Russian Federation",
+         "Share of nuclear power consumption": "7.6"
+      },
+      {
+         "Country": "South Korea",
+         "Share of nuclear power consumption": "4.9"
+      },
+      {
+         "Country": "Canada",
+         "Share of nuclear power consumption": "3.7"
+      },
+      {
+         "Country": "Ukraine",
+         "Share of nuclear power consumption": "3.1"
+      },
+      {
+         "Country": "Germany",
+         "Share of nuclear power consumption": "2.8"
+      },
+      {
+         "Country": "UK",
+         "Share of nuclear power consumption": "2.4"
+      },
+      {
+         "Country": "Sweden",
+         "Share of nuclear power consumption": "2.5"
+      },
+      {
+         "Country": "Spain",
+         "Share of nuclear power consumption": "2.1"
+      },
+      {
+         "Country": "Japan",
+         "Share of nuclear power consumption": "1.8"
+      }
+   ],
+   "gold": "This statistic represents the percentage of world nuclear power consumption in 2018 , by country . That year , the United States accounted for more than one third of the total nuclear power consumption worldwide .\n"
+}

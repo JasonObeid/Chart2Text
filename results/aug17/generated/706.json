@@ -1,0 +1,46 @@
+{
+   "title": "Michelin - worldwide number of employees by region 2018",
+   "xAxis": "Region",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , Europe was the leading producer of Michelin oranges in the Michelin ( EU28 ) , with over 3.7 thousand employees . ",
+      "North_America ranked in second place in second place with 21541 employees . ",
+      "The Spanish Region of Michelin is the second largest country in the world and Region ."
+   ],
+   "trends": [
+      {
+         "3": "0"
+      },
+      {
+         "0": "1",
+         "9": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "Europe",
+         "Number of employees": "70599"
+      },
+      {
+         "Region": "North America",
+         "Number of employees": "21541"
+      },
+      {
+         "Region": "Asia (excl. India)",
+         "Number of employees": "15259"
+      },
+      {
+         "Region": "South America",
+         "Number of employees": "8166"
+      },
+      {
+         "Region": "Africa India Middle-East",
+         "Number of employees": "1848"
+      }
+   ],
+   "gold": "The statistic shows the worldwide number of Michelin 's employees in 2018 , by region . Michelin had 21,541 employees in North America in 2018 . In that same year , some 17.5 percent of their employees worldwide were women .\n"
+}

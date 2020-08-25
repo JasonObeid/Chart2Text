@@ -1,0 +1,61 @@
+{
+   "title": "U.S. cities with the highest annual temperatures\n",
+   "xAxis": "Us City",
+   "yAxis": "Average temperature in Fahrenheit per year",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the annual salaries of heads of in the hospitality and tourism sector in the United Kingdom ( uk ) in 2011 , by occupation . On average , restaurant and catering establishment managers were 39 years old .\n",
+   "trends": {},
+   "data": [
+      {
+         "Us City": "Phoenix Arizona",
+         "Average temperature in Fahrenheit per year": 87.2
+      },
+      {
+         "Us City": "Miami Florida",
+         "Average temperature in Fahrenheit per year": 84.3
+      },
+      {
+         "Us City": "Orlando Florida",
+         "Average temperature in Fahrenheit per year": 82.8
+      },
+      {
+         "Us City": "Riverside California",
+         "Average temperature in Fahrenheit per year": 80.9
+      },
+      {
+         "Us City": "Austin Texas",
+         "Average temperature in Fahrenheit per year": 79.8
+      },
+      {
+         "Us City": "Houston Texas",
+         "Average temperature in Fahrenheit per year": 79.7
+      },
+      {
+         "Us City": "San Antonio Texas",
+         "Average temperature in Fahrenheit per year": 80.3
+      },
+      {
+         "Us City": "Las Vegas Nevada",
+         "Average temperature in Fahrenheit per year": 80.1
+      },
+      {
+         "Us City": "Jacksonville Florida",
+         "Average temperature in Fahrenheit per year": 79.3
+      },
+      {
+         "Us City": "New Orleans Louisiana",
+         "Average temperature in Fahrenheit per year": 78.2
+      },
+      {
+         "Us City": "Tampa Florida",
+         "Average temperature in Fahrenheit per year": 81.7
+      },
+      {
+         "Us City": "Los Angeles California",
+         "Average temperature in Fahrenheit per year": 75.2
+      }
+   ],
+   "gold": "This statistic shows cities in the United States with the highest average annual temperatures . Data is based on recordings from 1971 to 2000 . In Houston , Texas the average temperature is 80 degreed fahrenheit .\n"
+}

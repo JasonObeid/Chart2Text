@@ -1,0 +1,72 @@
+{
+   "title": "Most commonly reported types of cyber crime 2018\n",
+   "xAxis": "Cyber Incidents",
+   "yAxis": "Number of complaints",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 categories for the x axis representing Cyber Incidents, and a y axis representing Number of complaints.",
+      " The highest category is found at Non-payment/Non-delivery where Number of complaints is 65116.0.",
+      " The lowest category is found at Spoofing where Number of complaints is 15569.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cyber Incidents": "Non-payment/Non-delivery",
+         "Number of complaints": 65116.0
+      },
+      {
+         "Cyber Incidents": "Extortion",
+         "Number of complaints": 51146.0
+      },
+      {
+         "Cyber Incidents": "Personal data breach",
+         "Number of complaints": 50642.0
+      },
+      {
+         "Cyber Incidents": "No lead value",
+         "Number of complaints": 36936.0
+      },
+      {
+         "Cyber Incidents": "Phishing/Vishing/Smishing/Pharming",
+         "Number of complaints": 26379.0
+      },
+      {
+         "Cyber Incidents": "BEC/EAC",
+         "Number of complaints": 20373.0
+      },
+      {
+         "Cyber Incidents": "Confidence fraud/romance",
+         "Number of complaints": 18493.0
+      },
+      {
+         "Cyber Incidents": "Harassment/threats of violence",
+         "Number of complaints": 18415.0
+      },
+      {
+         "Cyber Incidents": "Advance fee",
+         "Number of complaints": 16362.0
+      },
+      {
+         "Cyber Incidents": "Identity theft",
+         "Number of complaints": 16128.0
+      },
+      {
+         "Cyber Incidents": "Spoofing",
+         "Number of complaints": 15569.0
+      }
+   ],
+   "gold": "This statistic gives information on the most common types of cyber crime as reported to the U.S. Internet Crime Complaint Center in 2018 . In the reported period , 16,128 cases of online identity theft were reported to the IC3 . Non-payment or non-delivery fraud ranked first with 65,116 complaints .\n"
+}

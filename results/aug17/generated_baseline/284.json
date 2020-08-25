@@ -1,0 +1,114 @@
+{
+   "title": "Importance in decision-making process when purchasing CE in the U.S. 2013",
+   "labels": [
+      "Response",
+      "18-49",
+      "50+"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 14 categories for the x axis of Response representing 18-49, and 50+.",
+      " The highest category is found at Price with a mean value of 89.0.",
+      " The second highest category is found at Quality with a mean value of 88.0.",
+      " This represents a difference of 1.1%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Price",
+         "18-49": "83",
+         "50+": "95"
+      },
+      {
+         "Response": "Quality",
+         "18-49": "82",
+         "50+": "94"
+      },
+      {
+         "Response": "Product features",
+         "18-49": "81",
+         "50+": "91"
+      },
+      {
+         "Response": "Ease of use",
+         "18-49": "80",
+         "50+": "90"
+      },
+      {
+         "Response": "Product reviews",
+         "18-49": "73",
+         "50+": "75"
+      },
+      {
+         "Response": "Warranty",
+         "18-49": "70",
+         "50+": "83"
+      },
+      {
+         "Response": "Style of design",
+         "18-49": "70",
+         "50+": "65"
+      },
+      {
+         "Response": "Previous experience with brand",
+         "18-49": "67",
+         "50+": "78"
+      },
+      {
+         "Response": "Brand",
+         "18-49": "65",
+         "50+": "69"
+      },
+      {
+         "Response": "Friend/family member/co-worker recommendation",
+         "18-49": "54",
+         "50+": "51"
+      },
+      {
+         "Response": "Environmental friendliness of product",
+         "18-49": "41",
+         "50+": "35"
+      },
+      {
+         "Response": "Salesperson recommendation",
+         "18-49": "35",
+         "50+": "32"
+      },
+      {
+         "Response": "Family members have it",
+         "18-49": "32",
+         "50+": "28"
+      },
+      {
+         "Response": "Friends have it",
+         "18-49": "32",
+         "50+": "21"
+      }
+   ],
+   "gold": "This statistic shows the results of a 2013 survey regarding the decision-making process when purchasing CE in the U.S. in 2013 . The survey revealed that 83 percent of the respondents between the ages of 18 - 49 said the price is very or somewhat important to their decision-making process when buying consumer electronics .\n"
+}

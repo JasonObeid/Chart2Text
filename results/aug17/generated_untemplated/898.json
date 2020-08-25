@@ -1,0 +1,49 @@
+{
+   "title": "Average annual consumer spending , by type U.S. 2018\n",
+   "xAxis": "Spending Type",
+   "yAxis": "Spending in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the amount of radioactive imports in 2018 , by nature of disaster . In 2018 , there were 127 recorded floods across the world .\n",
+   "trends": {},
+   "data": [
+      {
+         "Spending Type": "Housing",
+         "Spending in U.S. dollars": 20091.0
+      },
+      {
+         "Spending Type": "Transportation",
+         "Spending in U.S. dollars": 9761.0
+      },
+      {
+         "Spending Type": "Food",
+         "Spending in U.S. dollars": 7923.0
+      },
+      {
+         "Spending Type": "Personal insurance and pensions",
+         "Spending in U.S. dollars": 7296.0
+      },
+      {
+         "Spending Type": "Healthcare",
+         "Spending in U.S. dollars": 4968.0
+      },
+      {
+         "Spending Type": "Entertainment",
+         "Spending in U.S. dollars": 3226.0
+      },
+      {
+         "Spending Type": "All other expenditures",
+         "Spending in U.S. dollars": 2030.0
+      },
+      {
+         "Spending Type": "Cash contributions",
+         "Spending in U.S. dollars": 1888.0
+      },
+      {
+         "Spending Type": "Apparel and services",
+         "Spending in U.S. dollars": 1866.0
+      }
+   ],
+   "gold": "This statistic shows the average annual expenditures of consumer units in the United States in 2018 , by type . In 2018 , the average U.S. consumer unit spent about 7,923 U.S. dollars on food . The total average U.S. consumer spending amounted to 61,224 U.S. dollars .\n"
+}

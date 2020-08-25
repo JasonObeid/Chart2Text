@@ -1,0 +1,57 @@
+{
+   "title": "Infant mortality rate in Yemen 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Deaths per 1,000 live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the infant mortality rate in south sudan from 2008 to 2018 . In 2018 , the infant mortality rate in south sudan was at about 63.7 deaths per 1,000 live births .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Deaths per 1,000 live births": 42.9
+      },
+      {
+         "Year": "2017",
+         "Deaths per 1,000 live births": 42.9
+      },
+      {
+         "Year": "2016",
+         "Deaths per 1,000 live births": 42.9
+      },
+      {
+         "Year": "2015",
+         "Deaths per 1,000 live births": 42.9
+      },
+      {
+         "Year": "2014",
+         "Deaths per 1,000 live births": 42.9
+      },
+      {
+         "Year": "2013",
+         "Deaths per 1,000 live births": 42.9
+      },
+      {
+         "Year": "2012",
+         "Deaths per 1,000 live births": 42.9
+      },
+      {
+         "Year": "2011",
+         "Deaths per 1,000 live births": 43.0
+      },
+      {
+         "Year": "2010",
+         "Deaths per 1,000 live births": 43.6
+      },
+      {
+         "Year": "2009",
+         "Deaths per 1,000 live births": 45.0
+      },
+      {
+         "Year": "2008",
+         "Deaths per 1,000 live births": 47.0
+      }
+   ],
+   "gold": "The statistic shows the infant mortality rate in Yemen from 2008 to 2018 . In 2018 , the infant mortality rate in Yemen was at about 42.9 deaths per 1,000 live births .\n"
+}

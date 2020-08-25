@@ -1,0 +1,84 @@
+{
+   "title": "Literacy rate in South Africa 2015",
+   "labels": [
+      "Year",
+      "Adult total",
+      "Adult male",
+      "Adult female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the Literacy rate in South Africa from 2007 to 2015 . ",
+      "The Literacy rate measures the percentage of people aged 15 and above who can read and write . ",
+      "In 2015 , South Africa 's Literacy rate was around 94.37 % ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "6",
+            "0"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {},
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Adult total": "94.37",
+         "Adult male": "95.4",
+         "Adult female": "93.41"
+      },
+      {
+         "Year": "2014",
+         "Adult total": "94.14",
+         "Adult male": "95.29",
+         "Adult female": "93.07"
+      },
+      {
+         "Year": "2012",
+         "Adult total": "93.73",
+         "Adult male": "94.96",
+         "Adult female": "92.59"
+      },
+      {
+         "Year": "2011",
+         "Adult total": "93.1",
+         "Adult male": "94.25",
+         "Adult female": "92.05"
+      },
+      {
+         "Year": "2010",
+         "Adult total": "92.88",
+         "Adult male": "94.14",
+         "Adult female": "91.71"
+      },
+      {
+         "Year": "2009",
+         "Adult total": "92.89",
+         "Adult male": "94.12",
+         "Adult female": "91.77"
+      },
+      {
+         "Year": "2007",
+         "Adult total": "88.72",
+         "Adult male": "90.72",
+         "Adult female": "87.04"
+      }
+   ],
+   "gold": "As of 2015 , South Africa 's total literacy rate was around 94.37 percent , which means almost 95 percent of all South Africans could read and write . There is literally no definition The literacy rate measures the percentage of people aged 15 and above who can read and write . There is no common definition for what counts as being literate ; individual countries use individual assessments and standards to define it .\n"
+}

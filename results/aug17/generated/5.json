@@ -1,0 +1,127 @@
+{
+   "title": "Average retail price for white sugar in Canada 2015 to 2019",
+   "labels": [
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "Average price of for white in Canada reached approximately 2.71 million Canadian dollars in 2019 . ",
+      "This figure has gradually increased over the given survey period \u2013 in 2015 the average price value was 2.79 billion dollars . ",
+      "Canadians prefer shopping in-store As of 2018 , there were over 15,600 for white located across Canada , signaling an ongoing demand for brick-and-mortar white , despite the rise of e-commerce in the Canadian retail sector ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "7",
+            "4"
+         ]
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec",
+         "2015": "2.57",
+         "2016": "2.64",
+         "2017": "2.69",
+         "2018": "2.56",
+         "2019": "2.41"
+      },
+      {
+         "Month": "Nov",
+         "2015": "2.76",
+         "2016": "2.68",
+         "2017": "2.66",
+         "2018": "2.55",
+         "2019": "2.45"
+      },
+      {
+         "Month": "Oct",
+         "2015": "2.77",
+         "2016": "2.72",
+         "2017": "2.68",
+         "2018": "2.67",
+         "2019": "2.44"
+      },
+      {
+         "Month": "Sep",
+         "2015": "2.83",
+         "2016": "2.8",
+         "2017": "2.74",
+         "2018": "2.61",
+         "2019": "2.52"
+      },
+      {
+         "Month": "Aug",
+         "2015": "2.81",
+         "2016": "2.88",
+         "2017": "2.76",
+         "2018": "2.7",
+         "2019": "2.49"
+      },
+      {
+         "Month": "Jul",
+         "2015": "2.81",
+         "2016": "2.84",
+         "2017": "2.79",
+         "2018": "2.67",
+         "2019": "2.5"
+      },
+      {
+         "Month": "Jun",
+         "2015": "2.79",
+         "2016": "2.75",
+         "2017": "2.77",
+         "2018": "2.58",
+         "2019": "2.5"
+      },
+      {
+         "Month": "May",
+         "2015": "2.81",
+         "2016": "2.76",
+         "2017": "2.94",
+         "2018": "2.71",
+         "2019": "2.56"
+      },
+      {
+         "Month": "Apr",
+         "2015": "2.78",
+         "2016": "2.78",
+         "2017": "2.78",
+         "2018": "2.71",
+         "2019": "2.53"
+      },
+      {
+         "Month": "Mar",
+         "2015": "2.81",
+         "2016": "2.69",
+         "2017": "2.83",
+         "2018": "2.58",
+         "2019": "2.59"
+      },
+      {
+         "Month": "Feb",
+         "2015": "2.81",
+         "2016": "2.73",
+         "2017": "2.75",
+         "2018": "2.69",
+         "2019": "2.48"
+      },
+      {
+         "Month": "Jan",
+         "2015": "2.88",
+         "2016": "2.77",
+         "2017": "2.82",
+         "2018": "2.7",
+         "2019": "2.61"
+      }
+   ],
+   "gold": "The average retail price for two kilograms of white sugar in Canada hit an all-time low of 2.41 Canadian dollars in December 2019 . This price has gradually decreased over time , from a monthly average of 2.79 dollars per two kilograms in 2015 . What is white sugar ? White sugar which we buy in stores is a refined sugar .\n"
+}

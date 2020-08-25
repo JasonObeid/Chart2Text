@@ -1,0 +1,59 @@
+{
+   "title": "Factors influencing U.S. consumers ' foods and beverages purchases 2012 to 2016",
+   "labels": [
+      "Year",
+      "Taste",
+      "Price",
+      "Healthfulness",
+      "Convenience",
+      "Sustainability"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the exercise habits of individuals aged 25 years and over in the united kingdom ( uk ) from 2011 to 2018 , by age . The survey was conducted in this survey period , and in this graph . The respondents with the highest number of respondents had a The highest number of people aged 65 and older .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2012",
+         "Taste": "87",
+         "Price": "73",
+         "Healthfulness": "61",
+         "Convenience": "53",
+         "Sustainability": "35"
+      },
+      {
+         "Year": "2013",
+         "Taste": "89",
+         "Price": "71",
+         "Healthfulness": "64",
+         "Convenience": "56",
+         "Sustainability": "36"
+      },
+      {
+         "Year": "2014",
+         "Taste": "90",
+         "Price": "73",
+         "Healthfulness": "71",
+         "Convenience": "51",
+         "Sustainability": "38"
+      },
+      {
+         "Year": "2015",
+         "Taste": "83",
+         "Price": "68",
+         "Healthfulness": "60",
+         "Convenience": "52",
+         "Sustainability": "35"
+      },
+      {
+         "Year": "2016",
+         "Taste": "84",
+         "Price": "71",
+         "Healthfulness": "64",
+         "Convenience": "52",
+         "Sustainability": "41"
+      }
+   ],
+   "gold": "The graph shows which factors are important to consumers in the U.S. when purchasing foods and beverages from 2012 to 2016 . In 2012 , 73 % of respondents say that the price has an impact on their decision to buy foods and beverages .\n"
+}

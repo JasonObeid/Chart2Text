@@ -1,0 +1,74 @@
+{
+   "title": "Yandex : annual revenue 2007 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion Russian rubles",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion Russian rubles with a total of 13 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2019 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in billion Russian rubles": 175.39
+      },
+      {
+         "Year": "2018",
+         "Revenue in billion Russian rubles": 127.66
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion Russian rubles": 94.1
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion Russian rubles": 75.9
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion Russian rubles": 59.8
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion Russian rubles": 50.77
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion Russian rubles": 39.5
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion Russian rubles": 28.77
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion Russian rubles": 20.03
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion Russian rubles": 12.5
+      },
+      {
+         "Year": "2009",
+         "Revenue in billion Russian rubles": 8.73
+      },
+      {
+         "Year": "2008",
+         "Revenue in billion Russian rubles": 7.65
+      },
+      {
+         "Year": "2007",
+         "Revenue in billion Russian rubles": 4.25
+      }
+   ],
+   "gold": "In 2019 , Yandex 's growth continued , and the Russian internet services company accounted for over 175 billion Russian rubles in revenues , which was approximately 37 percent greater than the figures over the previous year . Yandex : a snapshot Like Google , Yandex 's search engine is the primary contact point with the company , but the company 's services go well beyond search . Incorporated in the Netherlands and with offices around the world , Yandex offers services primarily to the Russian language market covering ecommerce , navigation , advertising , mobile development as well as a taxi/ride-sharing service and a car sharing service .\n"
+}

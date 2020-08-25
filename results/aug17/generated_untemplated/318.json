@@ -1,0 +1,51 @@
+{
+   "title": "Mobile phone usage : frequency of making mobile phone calls in the UK 2019 , by gender",
+   "labels": [
+      "Response",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the results of a survey among americans on their belief in the concepts of god , heaven and hell in 2014 . As of 2011 , about 75 percent of respondents believed in hell .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Several times a day",
+         "Male": "49",
+         "Female": "46"
+      },
+      {
+         "Response": "Every day",
+         "Male": "21",
+         "Female": "24"
+      },
+      {
+         "Response": "Several times a week",
+         "Male": "16",
+         "Female": "17"
+      },
+      {
+         "Response": "At least once a week",
+         "Male": "6",
+         "Female": "6"
+      },
+      {
+         "Response": "At least once a month",
+         "Male": "4",
+         "Female": "3"
+      },
+      {
+         "Response": "Less than once a month",
+         "Male": "2",
+         "Female": "2"
+      },
+      {
+         "Response": "Never",
+         "Male": "1",
+         "Female": "1"
+      }
+   ],
+   "gold": "Figures covering the frequency of mobile phone use show a relatively even split among genders in the United Kingdom ( UK ) during 2019 . Males were slightly more likely to use their mobile phones to make calls several times a day , while less than one percent of female respondents reported never using a mobile phone to make calls . Mobile call volume increasing The volume of calls made using mobile phones has increased over the past several years .\n"
+}

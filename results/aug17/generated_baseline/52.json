@@ -1,0 +1,86 @@
+{
+   "title": "Ratio of government expenditure to gross domestic product ( GDP ) in Malaysia 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Ratio of government expenditure to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly negative which exists from 2017 to 2014.",
+      " Differently, the next significant trend is moderately negative which exists from 2024 to 2022.",
+      " On the contrary, the next significant trend is slightly negative which exists from 2021 to 2019.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2019 to 2017.",
+      " Additionally, the next significant trend is moderately positive which exists from 2022 to 2021."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "7",
+         "12": "10"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Ratio of government expenditure to GDP": 20.35
+      },
+      {
+         "Year": "2023",
+         "Ratio of government expenditure to GDP": 20.37
+      },
+      {
+         "Year": "2022",
+         "Ratio of government expenditure to GDP": 20.46
+      },
+      {
+         "Year": "2021",
+         "Ratio of government expenditure to GDP": 20.41
+      },
+      {
+         "Year": "2020",
+         "Ratio of government expenditure to GDP": 20.54
+      },
+      {
+         "Year": "2019",
+         "Ratio of government expenditure to GDP": 22.97
+      },
+      {
+         "Year": "2018",
+         "Ratio of government expenditure to GDP": 22.7
+      },
+      {
+         "Year": "2017",
+         "Ratio of government expenditure to GDP": 21.58
+      },
+      {
+         "Year": "2016",
+         "Ratio of government expenditure to GDP": 22.7
+      },
+      {
+         "Year": "2015",
+         "Ratio of government expenditure to GDP": 24.71
+      },
+      {
+         "Year": "2014",
+         "Ratio of government expenditure to GDP": 25.96
+      }
+   ],
+   "gold": "The statistic shows the ratio of government expenditure to gross domestic product ( GDP ) in Malaysia from 2014 to 2018 , with projections up to 2024 . In 2018 , government expenditure in Malaysia amounted to about 22.7 percent of the country 's gross domestic product .\n"
+}

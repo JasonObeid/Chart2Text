@@ -1,0 +1,108 @@
+{
+   "title": "Spotify 's premium subscribers 2015 to 2019\n",
+   "xAxis": "Quarter",
+   "yAxis": "Paying subscribers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Quarter, and a y axis representing Paying subscribers in millions.",
+      " The highest category is found at Q4_2019 where Paying subscribers in millions is 124.0.",
+      " The lowest category is found at Q1_2015 where Paying subscribers in millions is 18.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 2019",
+         "Paying subscribers in millions": 124.0
+      },
+      {
+         "Quarter": "Q3 2019",
+         "Paying subscribers in millions": 113.0
+      },
+      {
+         "Quarter": "Q2 2019",
+         "Paying subscribers in millions": 108.0
+      },
+      {
+         "Quarter": "Q1 2019",
+         "Paying subscribers in millions": 100.0
+      },
+      {
+         "Quarter": "Q4 2018",
+         "Paying subscribers in millions": 96.0
+      },
+      {
+         "Quarter": "Q3 2018",
+         "Paying subscribers in millions": 87.0
+      },
+      {
+         "Quarter": "Q2 2018",
+         "Paying subscribers in millions": 83.0
+      },
+      {
+         "Quarter": "Q1 2018",
+         "Paying subscribers in millions": 75.0
+      },
+      {
+         "Quarter": "Q4 2017",
+         "Paying subscribers in millions": 71.0
+      },
+      {
+         "Quarter": "Q3 2017",
+         "Paying subscribers in millions": 62.0
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Paying subscribers in millions": 59.0
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Paying subscribers in millions": 52.0
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Paying subscribers in millions": 48.0
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Paying subscribers in millions": 40.0
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Paying subscribers in millions": 36.0
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Paying subscribers in millions": 30.0
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Paying subscribers in millions": 28.0
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Paying subscribers in millions": 24.0
+      },
+      {
+         "Quarter": "Q2 2015",
+         "Paying subscribers in millions": 22.0
+      },
+      {
+         "Quarter": "Q1 2015",
+         "Paying subscribers in millions": 18.0
+      }
+   ],
+   "gold": "How many paid subscribers does Spotify have ? As of the fourth quarter of 2019 , Spotify had 124 million premium subscribers worldwide , up from 96 million in the corresponding quarter of 2018 . Spotify 's subscriber base has increased dramatically in the last few years , more than doubling in just three years . Spotify and competitors Spotify is a music streaming service originally founded in 2006 in Sweden .\n"
+}

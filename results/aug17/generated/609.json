@@ -1,0 +1,50 @@
+{
+   "title": "Consumers who have purchased a meal from a food truck in the U.S. 2014 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Body modification , especially tattooing , has proven to be very popular over the last few years . ",
+      "In the U.S. alone , 65_years_and_over a quarter of the population is adorned with at least All_adults tattoo , and less 65_years_and_over 40 % of Americans would rule out getting All_adults completely . ",
+      "Most get their first in their twenties , and the vast majority never regrets that first prick of the needle ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "5",
+         "16": "0",
+         "21": "5",
+         "30": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "All adults",
+         "Share of respondents": "47"
+      },
+      {
+         "Year": "18 to 34 years",
+         "Share of respondents": "56"
+      },
+      {
+         "Year": "35 to 44 years",
+         "Share of respondents": "54"
+      },
+      {
+         "Year": "45 to 54 years",
+         "Share of respondents": "48"
+      },
+      {
+         "Year": "55 to 64 years",
+         "Share of respondents": "48"
+      },
+      {
+         "Year": "65 years and over",
+         "Share of respondents": "30"
+      }
+   ],
+   "gold": "This statistic shows the share of consumers who have purchased a meal from a food truck in the United States as of November 2014 , by age group . During the survey , 48 percent of respondents aged between 45 and 54 years said they had bought food from a food truck . In 2015 , the value of the food truck industry in the U.S. reached 856.7 million U.S. dollars .\n"
+}

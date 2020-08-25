@@ -1,0 +1,46 @@
+{
+   "title": "Smartphone ownership in the U.S. 2015 - 2018 , by age group",
+   "labels": [
+      "Year",
+      "18-29",
+      "30-49",
+      "50-64",
+      "65+"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "In 2018 , the average weekly expenditure by individuals in the united kingdom ( uk ) exhibited generational differences . The expenditure on grocery purchases of food tended to increase with age , reaching an average 55 British pounds a week in the ranking of respondents aged 45 to 54 years old . Younger consumers commonly spent more money on takeaways .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "18-29": "96",
+         "30-49": "92",
+         "50-64": "79",
+         "65+": "53"
+      },
+      {
+         "Year": "2017",
+         "18-29": "94",
+         "30-49": "89",
+         "50-64": "73",
+         "65+": "46"
+      },
+      {
+         "Year": "2016",
+         "18-29": "92",
+         "30-49": "88",
+         "50-64": "74",
+         "65+": "42"
+      },
+      {
+         "Year": "2015",
+         "18-29": "86",
+         "30-49": "83",
+         "50-64": "58",
+         "65+": "30"
+      }
+   ],
+   "gold": "Here you can see a breakdown of adults who owned a smartphone in the United States from 2015 to 2018 , by age group . The survey found that 96 percent of those aged between 18 and 29 years old owned a smartphone in 2018 .\n"
+}

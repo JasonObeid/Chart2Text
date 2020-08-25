@@ -1,0 +1,89 @@
+{
+   "title": "Average annual wages in Italy 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Average annual wages in euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the average annual wages in spain from 2000 to 2018 . Over this 18-year period , annual wages in spain have fluctuated greatly , peaking at approximately 30 thousand euros in 2009 and decreasing to approximately 28 thousand euros yearly in 2012 . The average annual wage stood at approximately 28 thousand euros in 2018 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Average annual wages in euros": 29601.0
+      },
+      {
+         "Year": "2017",
+         "Average annual wages in euros": 29558.0
+      },
+      {
+         "Year": "2016",
+         "Average annual wages in euros": 29843.0
+      },
+      {
+         "Year": "2015",
+         "Average annual wages in euros": 29634.0
+      },
+      {
+         "Year": "2014",
+         "Average annual wages in euros": 29390.0
+      },
+      {
+         "Year": "2013",
+         "Average annual wages in euros": 29277.0
+      },
+      {
+         "Year": "2012",
+         "Average annual wages in euros": 29231.0
+      },
+      {
+         "Year": "2011",
+         "Average annual wages in euros": 30140.0
+      },
+      {
+         "Year": "2010",
+         "Average annual wages in euros": 30620.0
+      },
+      {
+         "Year": "2009",
+         "Average annual wages in euros": 30330.0
+      },
+      {
+         "Year": "2008",
+         "Average annual wages in euros": 30179.0
+      },
+      {
+         "Year": "2007",
+         "Average annual wages in euros": 30148.0
+      },
+      {
+         "Year": "2006",
+         "Average annual wages in euros": 30176.0
+      },
+      {
+         "Year": "2005",
+         "Average annual wages in euros": 29970.0
+      },
+      {
+         "Year": "2004",
+         "Average annual wages in euros": 29636.0
+      },
+      {
+         "Year": "2003",
+         "Average annual wages in euros": 29042.0
+      },
+      {
+         "Year": "2002",
+         "Average annual wages in euros": 29073.0
+      },
+      {
+         "Year": "2001",
+         "Average annual wages in euros": 29272.0
+      },
+      {
+         "Year": "2000",
+         "Average annual wages in euros": 29125.0
+      }
+   ],
+   "gold": "Between 2000 and 2018 , the average wage in Italy was stable , remaining between 29 thousand and 30 thousand euros . In 2018 , male managers represented the group of people with the highest earnings . Their gross salary amounted to 102 thousand euros a year .\n"
+}

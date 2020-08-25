@@ -1,0 +1,68 @@
+{
+   "title": "Leading U.S. states based on the total number of active physicians 2019\n",
+   "xAxis": "State",
+   "yAxis": "Number of specialist physicians",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing State, and a y axis representing Number of specialist physicians.",
+      " The highest category is found at California where Number of specialist physicians is 112906.0.",
+      " The lowest category is found at New_Jersey where Number of specialist physicians is 30502.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Number of specialist physicians": 112906.0
+      },
+      {
+         "State": "New York",
+         "Number of specialist physicians": 89500.0
+      },
+      {
+         "State": "Texas",
+         "Number of specialist physicians": 64602.0
+      },
+      {
+         "State": "Florida",
+         "Number of specialist physicians": 56499.0
+      },
+      {
+         "State": "Pennsylvania",
+         "Number of specialist physicians": 51069.0
+      },
+      {
+         "State": "Illinois",
+         "Number of specialist physicians": 43377.0
+      },
+      {
+         "State": "Ohio",
+         "Number of specialist physicians": 42373.0
+      },
+      {
+         "State": "Michigan",
+         "Number of specialist physicians": 38819.0
+      },
+      {
+         "State": "Massachusetts",
+         "Number of specialist physicians": 36506.0
+      },
+      {
+         "State": "New Jersey",
+         "Number of specialist physicians": 30502.0
+      }
+   ],
+   "gold": "The states with the most active physicians include California , New York , Texas , and Florida . California currently has the most active physicians of any U.S. state , with around 112,906 physicians . In California , the specialty areas with the most physicians are psychiatry , anesthesiology , and emergency medicine .\n"
+}

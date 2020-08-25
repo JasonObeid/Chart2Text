@@ -1,0 +1,119 @@
+{
+   "title": "Government revenue and spending in Spain 2024",
+   "labels": [
+      "Year",
+      "Revenue",
+      "Spending"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Spending had the highest values across Year with a mean value of 519.2.",
+      " This peaked at 2024 with a value of 599.0. ",
+      " The line with the second highest values was Revenue with a mean value of 483.6.",
+      " This line peaked at 2024 with a value of 571.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Revenue": "571.76",
+         "Spending": "599.51"
+      },
+      {
+         "Year": "2023",
+         "Revenue": "553.49",
+         "Spending": "580.11"
+      },
+      {
+         "Year": "2022",
+         "Revenue": "536.22",
+         "Spending": "561.98"
+      },
+      {
+         "Year": "2021",
+         "Revenue": "519.18",
+         "Spending": "544.03"
+      },
+      {
+         "Year": "2020",
+         "Revenue": "503.69",
+         "Spending": "527.6"
+      },
+      {
+         "Year": "2019",
+         "Revenue": "487.28",
+         "Spending": "514.19"
+      },
+      {
+         "Year": "2018",
+         "Revenue": "469.54",
+         "Spending": "499.52"
+      },
+      {
+         "Year": "2017",
+         "Revenue": "442.22",
+         "Spending": "478.13"
+      },
+      {
+         "Year": "2016",
+         "Revenue": "422.16",
+         "Spending": "472.16"
+      },
+      {
+         "Year": "2015",
+         "Revenue": "415.74",
+         "Spending": "472.74"
+      },
+      {
+         "Year": "2014",
+         "Revenue": "403.48",
+         "Spending": "465.42"
+      }
+   ],
+   "gold": "This statistic shows the government revenue and spending in Spain from 2014 to 2018 , with projections up until 2024 . In 2018 , government revenue in Spain amounted to around 469.54 billion euros , while government spending came to around 499.52 billion euros . The Spanish economy The Spanish economy not only ranked as one of the largest economies in Europe , but also in the world .\n"
+}

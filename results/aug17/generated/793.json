@@ -1,0 +1,66 @@
+{
+   "title": "Most shazamed songs of all time worldwide 2018",
+   "xAxis": "Song Titles",
+   "yAxis": "Number of identifications in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Number of identifications millions in the most popular Song worldwide in 2018 . ",
+      "Wake_Me_Up_by_Avicii had the largest Number of identifications millions in 2018 with 23.77 millions . ",
+      "In 2018 , Wake_Me_Up_by_Avicii had the second most identifications millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "12": "0"
+      },
+      {
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Song Titles": "Wake Me Up by Avicii",
+         "Number of identifications in millions": "23.77"
+      },
+      {
+         "Song Titles": "Somebody That I Used To Know by Gotye feat. Kimbra",
+         "Number of identifications in millions": "21.63"
+      },
+      {
+         "Song Titles": "Lean On by Major Lazer Feat. M\u00d8 & DJ Snake",
+         "Number of identifications in millions": "21.38"
+      },
+      {
+         "Song Titles": "Let Her Go by Passenger",
+         "Number of identifications in millions": "21.29"
+      },
+      {
+         "Song Titles": "Thinking Out Loud by Ed Sheeran",
+         "Number of identifications in millions": "20.66"
+      },
+      {
+         "Song Titles": "Blurred Lines by Robin Thicke T.I. and Pharrell",
+         "Number of identifications in millions": "20.4"
+      },
+      {
+         "Song Titles": "Take Me To Church by Hozier",
+         "Number of identifications in millions": "20.13"
+      },
+      {
+         "Song Titles": "Rather Be by Clean Bandit feat. Jess Glynne",
+         "Number of identifications in millions": "19.82"
+      },
+      {
+         "Song Titles": "Cheerleader (Felix Jaehn Remix) by Omi",
+         "Number of identifications in millions": "19.77"
+      },
+      {
+         "Song Titles": "All of Me by John Legend",
+         "Number of identifications in millions": "17.58"
+      }
+   ],
+   "gold": "This statistic shows the most popular songs on Shazam ever worldwide as of August 2018 , ranked by the number of identifications . As of that month , the music identification app had identified the song Wake Me Up by Avicii almost 23.8 million times , making it the most shazamed song in history .\n"
+}

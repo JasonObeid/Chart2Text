@@ -1,0 +1,86 @@
+{
+   "title": "Annual net sales of Amazon 2004 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Net revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars with a total of 16 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2019 to 2004."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "15"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net revenue in billion U.S. dollars": 280.52
+      },
+      {
+         "Year": "2018",
+         "Net revenue in billion U.S. dollars": 232.89
+      },
+      {
+         "Year": "2017",
+         "Net revenue in billion U.S. dollars": 177.87
+      },
+      {
+         "Year": "2016",
+         "Net revenue in billion U.S. dollars": 135.99
+      },
+      {
+         "Year": "2015",
+         "Net revenue in billion U.S. dollars": 107.01
+      },
+      {
+         "Year": "2014",
+         "Net revenue in billion U.S. dollars": 88.99
+      },
+      {
+         "Year": "2013",
+         "Net revenue in billion U.S. dollars": 74.45
+      },
+      {
+         "Year": "2012",
+         "Net revenue in billion U.S. dollars": 61.09
+      },
+      {
+         "Year": "2011",
+         "Net revenue in billion U.S. dollars": 48.08
+      },
+      {
+         "Year": "2010",
+         "Net revenue in billion U.S. dollars": 34.2
+      },
+      {
+         "Year": "2009",
+         "Net revenue in billion U.S. dollars": 24.51
+      },
+      {
+         "Year": "2008",
+         "Net revenue in billion U.S. dollars": 19.17
+      },
+      {
+         "Year": "2007",
+         "Net revenue in billion U.S. dollars": 14.84
+      },
+      {
+         "Year": "2006",
+         "Net revenue in billion U.S. dollars": 10.71
+      },
+      {
+         "Year": "2005",
+         "Net revenue in billion U.S. dollars": 8.49
+      },
+      {
+         "Year": "2004",
+         "Net revenue in billion U.S. dollars": 6.92
+      }
+   ],
+   "gold": "The time series shows the net revenue of Amazon.com 's e-commerce and service sales from 2004 to 2019 , in billion US dollars . In the last reported year , the multinational e-commerce company 's net revenue was 280.5 billion U.S. dollars , up from 177.86 billion US dollars in 2017 . Amazon.com , an American electronic commerce company originally founded in 1994 , is the world 's largest online retailer of books , clothing , electronics , music and many more goods .\n"
+}

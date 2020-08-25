@@ -1,0 +1,102 @@
+{
+   "title": "Murder in the U.S. : number of victims by race/ethnicity and gender 2018",
+   "labels": [
+      "Race",
+      "Total",
+      "Male",
+      "Female",
+      "Unknown"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 8 categories for the x axis of Race representing Total, Male, Female, and Unknown.",
+      " The highest category is found at Total with a mean value of 7061.5.",
+      " The second highest category is found at Not Hispanic or Latino with a mean value of 4533.0.",
+      " This represents a difference of 43.6%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "6"
+         ],
+         "14": [
+            "4",
+            "6"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "Total",
+         "Total": "14123",
+         "Male": "10914",
+         "Female": "3180",
+         "Unknown": "29"
+      },
+      {
+         "Race": "White",
+         "Total": "6088",
+         "Male": "4255",
+         "Female": "1832",
+         "Unknown": "1"
+      },
+      {
+         "Race": "Black",
+         "Total": "7407",
+         "Male": "6237",
+         "Female": "1168",
+         "Unknown": "2"
+      },
+      {
+         "Race": "Other race",
+         "Total": "395",
+         "Male": "273",
+         "Female": "121",
+         "Unknown": "1"
+      },
+      {
+         "Race": "Unknown race",
+         "Total": "233",
+         "Male": "149",
+         "Female": "59",
+         "Unknown": "25"
+      },
+      {
+         "Race": "Hispanic or Latino",
+         "Total": "2173",
+         "Male": "1752",
+         "Female": "421",
+         "Unknown": "0"
+      },
+      {
+         "Race": "Not Hispanic or Latino",
+         "Total": "9066",
+         "Male": "7005",
+         "Female": "2058",
+         "Unknown": "3"
+      },
+      {
+         "Race": "Unknown",
+         "Total": "1840",
+         "Male": "1371",
+         "Female": "450",
+         "Unknown": "19"
+      }
+   ],
+   "gold": "This statistic displays the number of murder victims in the United States by race/ethnicity and gender in 2018 . In 2018 , 3,180 murder victims were female . Additional information on black/African American murder victims in the United StatesAccording to male deaths by firearm-related injuries by ethnicity , the amount of black victims has fallen by over half since 1970 in proportion to the population .\n"
+}

@@ -1,0 +1,126 @@
+{
+   "title": "Euro to U.S. dollar annual average exchange rate 1999 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Exchange rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Exchange rate, with a total of 21 data points. The chart has 5 significant trends.",
+      " The longest trend is moderately positive which exists from 2010 to 2005.",
+      " Likewise, the next significant trend is extremely positive which exists from 2005 to 2001.",
+      " Similarly, the next significant trend is moderately positive which exists from 2019 to 2016.",
+      " Additionally, the next significant trend is slightly neutral which exists from 2016 to 2013.",
+      " Additionally, the next significant trend is moderately positive which exists from 2013 to 2010."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "9",
+         "12": "14"
+      },
+      {
+         "3": "14",
+         "14": "18"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      },
+      {
+         "3": "3",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Exchange rate": 1.12
+      },
+      {
+         "Year": "2018",
+         "Exchange rate": 1.18
+      },
+      {
+         "Year": "2017",
+         "Exchange rate": 1.13
+      },
+      {
+         "Year": "2016",
+         "Exchange rate": 1.11
+      },
+      {
+         "Year": "2015",
+         "Exchange rate": 1.11
+      },
+      {
+         "Year": "2014",
+         "Exchange rate": 1.33
+      },
+      {
+         "Year": "2013",
+         "Exchange rate": 1.33
+      },
+      {
+         "Year": "2012",
+         "Exchange rate": 1.28
+      },
+      {
+         "Year": "2011",
+         "Exchange rate": 1.39
+      },
+      {
+         "Year": "2010",
+         "Exchange rate": 1.33
+      },
+      {
+         "Year": "2009",
+         "Exchange rate": 1.39
+      },
+      {
+         "Year": "2008",
+         "Exchange rate": 1.47
+      },
+      {
+         "Year": "2007",
+         "Exchange rate": 1.37
+      },
+      {
+         "Year": "2006",
+         "Exchange rate": 1.26
+      },
+      {
+         "Year": "2005",
+         "Exchange rate": 1.24
+      },
+      {
+         "Year": "2004",
+         "Exchange rate": 1.24
+      },
+      {
+         "Year": "2003",
+         "Exchange rate": 1.13
+      },
+      {
+         "Year": "2002",
+         "Exchange rate": 0.95
+      },
+      {
+         "Year": "2001",
+         "Exchange rate": 0.9
+      },
+      {
+         "Year": "2000",
+         "Exchange rate": 0.92
+      },
+      {
+         "Year": "1999",
+         "Exchange rate": 1.07
+      }
+   ],
+   "gold": "This statistic displays the annual exchange rate ( average or standardized measure ) of the euro to the U.S. dollar ( EUR USD ) , according to the data from the European Central Bank , which cover the period from the introduction of the euro in 1999 up until 2019 . The average ( standardized ) measure is based on the calculation of many observations throughout the period in question . It is therefore different than an annual measure at point in time , which reflects concrete values as of end of the year .\n"
+}

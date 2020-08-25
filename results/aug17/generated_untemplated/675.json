@@ -1,0 +1,33 @@
+{
+   "title": "Opinion on novel coronavirus COVID-19 as a health issue India 2020\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the results of a 2013 survey among Americans aged 16 and older regarding the qualities they are looking for in a close friend . This statistic only shows the top five answers to that question . 81 percent of the respondents stated a close friend has to be loyal .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Staying alert and taking precautions",
+         "Share of respondents": 72.0
+      },
+      {
+         "Response": "Don't believe it can impact us or Indians at large",
+         "Share of respondents": 16.0
+      },
+      {
+         "Response": "Can't say",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Don't know much about coronavirus",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Don't believe it can impact us",
+         "Share of respondents": 3.0
+      }
+   ],
+   "gold": "According to a survey conducted to understand the opinion among Indians on the issue of novel coronavirus COVID-19 , about 72 percent of respondents stated that they are staying alert and taking precautions . On the contrary , 16 percent said that they did not believe that the virus can impact them or Indians at large . As of February 2020 , India had three confirmed cases of COVID-19 .\n"
+}

@@ -1,0 +1,79 @@
+{
+   "title": "France : number of public primary schools 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of public schools",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Number of public schools in the France between 2005 and 2018 . ",
+      "In 2018 , around 44902 public schools were recorded in the France . ",
+      "France is the world with the third-most public schools and the sixth-most fatalities due to France worldwide ."
+   ],
+   "trends": [
+      {
+         "12": "12",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of public schools": "44902"
+      },
+      {
+         "Year": "2017",
+         "Number of public schools": "45401"
+      },
+      {
+         "Year": "2016",
+         "Number of public schools": "45877"
+      },
+      {
+         "Year": "2015",
+         "Number of public schools": "46435"
+      },
+      {
+         "Year": "2014",
+         "Number of public schools": "46962"
+      },
+      {
+         "Year": "2013",
+         "Number of public schools": "47306"
+      },
+      {
+         "Year": "2012",
+         "Number of public schools": "47672"
+      },
+      {
+         "Year": "2011",
+         "Number of public schools": "48139"
+      },
+      {
+         "Year": "2010",
+         "Number of public schools": "48522"
+      },
+      {
+         "Year": "2009",
+         "Number of public schools": "48975"
+      },
+      {
+         "Year": "2008",
+         "Number of public schools": "49498"
+      },
+      {
+         "Year": "2007",
+         "Number of public schools": "49928"
+      },
+      {
+         "Year": "2005",
+         "Number of public schools": "50668"
+      }
+   ],
+   "gold": "This graphic shows the total number of public primary schools in France from 2005 to 2018 . Over nine years , the number of public primary schools gradually diminished and reached 44,902 in 2018 .\n"
+}

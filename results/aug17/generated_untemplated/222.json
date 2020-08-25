@@ -1,0 +1,93 @@
+{
+   "title": "Total U.S. hay production 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the production volume of oranges in the united from 1999 to 2019 . According to the report , u.s. production of oranges amounted to approximately 3.9 million tons in 2000 . u.s. potato production decreased to about 465 million tons in 2012 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2000",
+         "Production in thousand tons": 153603.0
+      },
+      {
+         "Year": "2001",
+         "Production in thousand tons": 156416.0
+      },
+      {
+         "Year": "2002",
+         "Production in thousand tons": 149467.0
+      },
+      {
+         "Year": "2003",
+         "Production in thousand tons": 157390.0
+      },
+      {
+         "Year": "2004",
+         "Production in thousand tons": 158122.0
+      },
+      {
+         "Year": "2005",
+         "Production in thousand tons": 150461.0
+      },
+      {
+         "Year": "2006",
+         "Production in thousand tons": 140783.0
+      },
+      {
+         "Year": "2007",
+         "Production in thousand tons": 146901.0
+      },
+      {
+         "Year": "2008",
+         "Production in thousand tons": 146270.0
+      },
+      {
+         "Year": "2009",
+         "Production in thousand tons": 147700.0
+      },
+      {
+         "Year": "2010",
+         "Production in thousand tons": 145000.0
+      },
+      {
+         "Year": "2011",
+         "Production in thousand tons": 129880.0
+      },
+      {
+         "Year": "2012",
+         "Production in thousand tons": 117072.0
+      },
+      {
+         "Year": "2013",
+         "Production in thousand tons": 135002.0
+      },
+      {
+         "Year": "2014",
+         "Production in thousand tons": 139923.0
+      },
+      {
+         "Year": "2015",
+         "Production in thousand tons": 134502.0
+      },
+      {
+         "Year": "2016",
+         "Production in thousand tons": 134995.0
+      },
+      {
+         "Year": "2017",
+         "Production in thousand tons": 131455.0
+      },
+      {
+         "Year": "2018",
+         "Production in thousand tons": 123600.0
+      },
+      {
+         "Year": "2019",
+         "Production in thousand tons": 128864.0
+      }
+   ],
+   "gold": "This statistic shows the total hay production in the United States from 2000 to 2019 . According to the report , approximately 123.6 million tons of hay were produced in the country in 2018 .\n"
+}

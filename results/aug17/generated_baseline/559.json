@@ -1,0 +1,196 @@
+{
+   "title": "Fiat car sales in the United Kingdom ( UK ) 2016 to 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 42 categories for the x axis representing Month, and a y axis representing Units sold.",
+      " The highest category is found at Mar_17 where Units sold is 12930.0.",
+      " The lowest category is found at Aug_19 where Units sold is 881.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 33,
+         "12": 33
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Units sold": 1833.0
+      },
+      {
+         "Month": "Nov 19",
+         "Units sold": 1605.0
+      },
+      {
+         "Month": "Oct 19",
+         "Units sold": 1582.0
+      },
+      {
+         "Month": "Sep 19",
+         "Units sold": 4765.0
+      },
+      {
+         "Month": "Aug 19",
+         "Units sold": 881.0
+      },
+      {
+         "Month": "Jul 19",
+         "Units sold": 1475.0
+      },
+      {
+         "Month": "Jun 19",
+         "Units sold": 2404.0
+      },
+      {
+         "Month": "May 19",
+         "Units sold": 2497.0
+      },
+      {
+         "Month": "Apr 19",
+         "Units sold": 1892.0
+      },
+      {
+         "Month": "Mar 19",
+         "Units sold": 8325.0
+      },
+      {
+         "Month": "Feb 19",
+         "Units sold": 955.0
+      },
+      {
+         "Month": "Jan 19",
+         "Units sold": 1676.0
+      },
+      {
+         "Month": "Dec 18",
+         "Units sold": 1977.0
+      },
+      {
+         "Month": "Nov 18",
+         "Units sold": 2530.0
+      },
+      {
+         "Month": "Oct 18",
+         "Units sold": 1963.0
+      },
+      {
+         "Month": "Sep 18",
+         "Units sold": 5851.0
+      },
+      {
+         "Month": "Aug 18",
+         "Units sold": 1099.0
+      },
+      {
+         "Month": "Jul 18",
+         "Units sold": 2286.0
+      },
+      {
+         "Month": "Jun 18",
+         "Units sold": 3613.0
+      },
+      {
+         "Month": "May 18",
+         "Units sold": 2623.0
+      },
+      {
+         "Month": "Apr 18",
+         "Units sold": 2166.0
+      },
+      {
+         "Month": "Mar 18",
+         "Units sold": 8524.0
+      },
+      {
+         "Month": "Feb 18",
+         "Units sold": 1306.0
+      },
+      {
+         "Month": "Jan 18",
+         "Units sold": 1714.0
+      },
+      {
+         "Month": "Dec 17",
+         "Units sold": 1645.0
+      },
+      {
+         "Month": "Nov 17",
+         "Units sold": 1914.0
+      },
+      {
+         "Month": "Oct 17",
+         "Units sold": 2463.0
+      },
+      {
+         "Month": "Sep 17",
+         "Units sold": 6540.0
+      },
+      {
+         "Month": "Aug 17",
+         "Units sold": 1283.0
+      },
+      {
+         "Month": "Jul 17",
+         "Units sold": 1935.0
+      },
+      {
+         "Month": "Jun 17",
+         "Units sold": 5062.0
+      },
+      {
+         "Month": "May 17",
+         "Units sold": 4075.0
+      },
+      {
+         "Month": "Apr 17",
+         "Units sold": 1981.0
+      },
+      {
+         "Month": "Mar 17",
+         "Units sold": 12930.0
+      },
+      {
+         "Month": "Feb 17",
+         "Units sold": 1426.0
+      },
+      {
+         "Month": "Jan 17",
+         "Units sold": 3221.0
+      },
+      {
+         "Month": "Dec 16",
+         "Units sold": 3929.0
+      },
+      {
+         "Month": "Nov 16",
+         "Units sold": 3387.0
+      },
+      {
+         "Month": "Oct 16",
+         "Units sold": 3397.0
+      },
+      {
+         "Month": "Sep 16",
+         "Units sold": 11319.0
+      },
+      {
+         "Month": "Aug 16",
+         "Units sold": 1719.0
+      },
+      {
+         "Month": "Jul 16",
+         "Units sold": 3506.0
+      }
+   ],
+   "gold": "This statistic shows the monthly amount of cars sold by Fiat in the United Kingdom ( UK ) between July 2016 and December 2019 . Peaks in registration numbers were recorded in March and September of each year , which was due to the issuing of license plates by the Driver & Vehicle Licensing Agency ( DVLA ) in those months . In December 2019 , 1,833 new Fiat cars had been sold .\n"
+}

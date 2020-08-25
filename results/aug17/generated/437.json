@@ -1,0 +1,73 @@
+{
+   "title": "Average regular season home attendance of the Arizona Cardinals 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Average regular season home attendance of the Arizona Cardinals Cardinals from 2008 to 2019 . ",
+      "In 2019 , the Average attendance at home games of the Arizona Cardinals Cardinals was 61323 ."
+   ],
+   "trends": [
+      {
+         "14": "11",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": "61323"
+      },
+      {
+         "Year": "2018",
+         "Average attendance": "62013"
+      },
+      {
+         "Year": "2017",
+         "Average attendance": "64217"
+      },
+      {
+         "Year": "2016",
+         "Average attendance": "64831"
+      },
+      {
+         "Year": "2015",
+         "Average attendance": "64185"
+      },
+      {
+         "Year": "2014",
+         "Average attendance": "61979"
+      },
+      {
+         "Year": "2013",
+         "Average attendance": "61033"
+      },
+      {
+         "Year": "2012",
+         "Average attendance": "60890"
+      },
+      {
+         "Year": "2011",
+         "Average attendance": "61181"
+      },
+      {
+         "Year": "2010",
+         "Average attendance": "62774"
+      },
+      {
+         "Year": "2009",
+         "Average attendance": "63142"
+      },
+      {
+         "Year": "2008",
+         "Average attendance": "64096"
+      }
+   ],
+   "gold": "This graph depicts the average regular season home attendance of the Arizona Cardinals from 2008 to 2019 . In 2019 , the average attendance at home games of the Arizona Cardinals was 61,323 .\n"
+}

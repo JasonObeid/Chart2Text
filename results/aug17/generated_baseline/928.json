@@ -1,0 +1,46 @@
+{
+   "title": "Residential solar PV : U.S. market value 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Market value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Market value in billion U.S. dollars with a total of 6 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2016 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Market value in billion U.S. dollars": 4.7
+      },
+      {
+         "Year": "2015",
+         "Market value in billion U.S. dollars": 3.7
+      },
+      {
+         "Year": "2014",
+         "Market value in billion U.S. dollars": 2.9
+      },
+      {
+         "Year": "2013",
+         "Market value in billion U.S. dollars": 2.3
+      },
+      {
+         "Year": "2012",
+         "Market value in billion U.S. dollars": 1.7
+      },
+      {
+         "Year": "2011",
+         "Market value in billion U.S. dollars": 1.2
+      }
+   ],
+   "gold": "This statistic shows the projected residential solar PV market value in the United States from 2011 to 2016 . In 2012 , it is estimated that the residential solar PV industry will have a market value of around 2.3 billion U.S. dollars .\n"
+}

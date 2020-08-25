@@ -1,0 +1,41 @@
+{
+   "title": "Global basketball shoe sales 2012 - 2013 , by NBA player",
+   "labels": [
+      "Quarter",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows a projection of office rent growth in the united from second quarter of 2015 to fourth quarter of 2016 . During the fourth quarter of 2017 , it was found that social network accounted for 53 percent of paid mobile businesses .\n",
+   "trends": {},
+   "data": [
+      {
+         "Quarter": "Michael Jordan",
+         "2012": "2000",
+         "2013": "2500"
+      },
+      {
+         "Quarter": "Lebron James",
+         "2012": "300",
+         "2013": "300"
+      },
+      {
+         "Quarter": "Kevin Durant",
+         "2012": "35",
+         "2013": "175"
+      },
+      {
+         "Quarter": "Kobe Bryant",
+         "2012": "50",
+         "2013": "50"
+      },
+      {
+         "Quarter": "Derrick Rose",
+         "2012": "40",
+         "2013": "40"
+      }
+   ],
+   "gold": "This timeline depicts global basketball shoe sales in 2012 and 2013 , by NBA player . In 2013 , Michael Jordan and his shoe brand , Jordan , earned approximately 2.5 billion U.S. dollars .\n"
+}

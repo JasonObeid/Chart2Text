@@ -1,0 +1,75 @@
+{
+   "title": "Number of visitors to the World War II Memorial in the U.S. 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , World War II Memorial U.S. Park saw nearly 4.83 and a half millions visitors during the Year . ",
+      "In 2016 , the World War II Memorial U.S. saw its largest volume of visitors accounting for about 5.07 millions . ",
+      "World War II Memorial U.S. Park World War II Memorial U.S. is a large World War II Memorial U.S. forest located in central California ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "7": "0"
+      },
+      {
+         "1": "3",
+         "14": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": "4.83"
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": "4.65"
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": "4.88"
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": "4.86"
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": "5.07"
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": "4.23"
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": "3.93"
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": "4.16"
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": "3.75"
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": "3.96"
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": "4.12"
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": "4.15"
+      }
+   ],
+   "gold": "This statistic shows the number of recreational visitors to the World War II Memorial in the United States from 2008 to 2019 . The number of visitors to the World War II Memorial amounted to approximately 4.83 million in 2019 .\n"
+}

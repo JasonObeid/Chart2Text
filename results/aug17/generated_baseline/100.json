@@ -1,0 +1,64 @@
+{
+   "title": "Malaysia maternal mortality ratio 2011 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Maternal mortality ratio per hundred thousand live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Maternal mortality ratio per hundred thousand live births, with a total of 8 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2016 to 2013.",
+      " Additionally, the next significant trend is slightly negative which exists from 2018 to 2016.",
+      " Contrarily, the next significant trend is slightly negative which exists from 2013 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "5"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Maternal mortality ratio per hundred thousand live births": 23.5
+      },
+      {
+         "Year": "2017",
+         "Maternal mortality ratio per hundred thousand live births": 25.0
+      },
+      {
+         "Year": "2016",
+         "Maternal mortality ratio per hundred thousand live births": 29.1
+      },
+      {
+         "Year": "2015",
+         "Maternal mortality ratio per hundred thousand live births": 23.8
+      },
+      {
+         "Year": "2014",
+         "Maternal mortality ratio per hundred thousand live births": 22.3
+      },
+      {
+         "Year": "2013",
+         "Maternal mortality ratio per hundred thousand live births": 21.4
+      },
+      {
+         "Year": "2012",
+         "Maternal mortality ratio per hundred thousand live births": 23.2
+      },
+      {
+         "Year": "2011",
+         "Maternal mortality ratio per hundred thousand live births": 26.2
+      }
+   ],
+   "gold": "The statistic represents the maternal mortality ratio in Malaysia from 2011 to 2018 . In 2018 , the maternal mortality ratio in Malaysia was approximately 23.5 maternal deaths per one hundred thousand live births .\n"
+}

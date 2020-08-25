@@ -1,0 +1,131 @@
+{
+   "title": "Employment by economic sector in Latin America and the Caribbean 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 3 lines.",
+      " The line representing Services had the highest values across Year with a mean value of 63.6.",
+      " This peaked at 2019 with a value of 65.1. ",
+      " The line with the second highest values was Industry with a mean value of 21.3.",
+      " This line peaked at 2014 with a value of 21.8"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "10": [
+            "5",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "13.94",
+         "Industry": "20.95",
+         "Services": "65.11"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "14.02",
+         "Industry": "20.99",
+         "Services": "64.99"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "14.07",
+         "Industry": "21.04",
+         "Services": "64.89"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "14.16",
+         "Industry": "21.2",
+         "Services": "64.64"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "14.17",
+         "Industry": "21.64",
+         "Services": "64.19"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "14.36",
+         "Industry": "21.82",
+         "Services": "63.81"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "14.66",
+         "Industry": "21.65",
+         "Services": "63.69"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "15.01",
+         "Industry": "21.75",
+         "Services": "63.24"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "16.54",
+         "Industry": "21.36",
+         "Services": "62.1"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "16.85",
+         "Industry": "21.44",
+         "Services": "61.71"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "17.18",
+         "Industry": "21.48",
+         "Services": "61.34"
+      }
+   ],
+   "gold": "The statistic shows the distribution of employment in Latin America and the Caribbean by economic sector from 2009 to 2019 . In 2019 , approximately 13.94 percent of the employees in Latin America and the Caribbean were working in the agricultural sector , 20.95 percent in industry and about 65.11 percent in the service sector .\n"
+}

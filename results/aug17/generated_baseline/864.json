@@ -1,0 +1,36 @@
+{
+   "title": "Snapchat : distribution of global audiences 2020 , by gender\n",
+   "xAxis": "Sex",
+   "yAxis": "Share of active users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 2 categories for the x axis representing Sex, and a y axis representing Share of active users.",
+      " The highest category is found at Female where Share of active users is 61.0.",
+      " The lowest category is found at Male where Share of active users is 38.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Share of active users": 61.0
+      },
+      {
+         "Sex": "Male",
+         "Share of active users": 38.0
+      }
+   ],
+   "gold": "This statistic gives information on the distribution of Snapchat users worldwide as of January 2020 , sorted by gender . During the survey period , 61 percent of Snapchat audiences were female and 38 percent were male .\n"
+}

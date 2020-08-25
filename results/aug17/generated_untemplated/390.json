@@ -1,0 +1,33 @@
+{
+   "title": "Adults attending a classical music event in the past 12 months in the U.S. 1982 to 2012\n",
+   "xAxis": "Year",
+   "yAxis": "Share of adults",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic displays the share of adults in the united who use smartphones from 2008 to 2012 . In the most recent reported year , the percentage of dollars held by more than , reaching a share of more than 30000 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "1982",
+         "Share of adults": 13.0
+      },
+      {
+         "Year": "1992",
+         "Share of adults": 12.5
+      },
+      {
+         "Year": "2002",
+         "Share of adults": 11.6
+      },
+      {
+         "Year": "2008",
+         "Share of adults": 9.3
+      },
+      {
+         "Year": "2012",
+         "Share of adults": 8.8
+      }
+   ],
+   "gold": "This statistic shows the share of adults attending a classical music event at least once in the past 12 months in the United States from 1982 to 2012 . In 2012 , 8.8 percent of U.S. adults had attended a classical music event at least once in the past year .\n"
+}

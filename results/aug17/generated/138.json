@@ -1,0 +1,36 @@
+{
+   "title": "MSC - number of ships 2020",
+   "xAxis": "Ship Type",
+   "yAxis": "Number of ships",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic represents the Number of ONE ships as of 2 , 2020 . ",
+      "The Japanese transportation company had ships with a capacity of around 1.6 million twenty-foot-equivalent units in its fleet , which could be broken down to some 530,000 twenty-foot-equivalent units of Owned capacity and around one million twenty-foot equivalent units of Chartered capacity . ",
+      "Ocean Network Express ( ONE ) formed as a joint venture between Nippon Yusen Kaisa ( NYK Line ) , Mitsui O.S.K ."
+   ],
+   "trends": [
+      {},
+      {
+         "30": "1",
+         "40": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Ship Type": "Chartered",
+         "Number of ships": "397"
+      },
+      {
+         "Ship Type": "Owned",
+         "Number of ships": "177"
+      },
+      {
+         "Ship Type": "Orderbook",
+         "Number of ships": "13"
+      }
+   ],
+   "gold": "As of March 2 , 2020 , Mediterranean Shipping Company , had a total fleet size of 574 ships , of which roughly seven out of ten were chartered from lessors . Mediterranean Shipping Company is the world 's second largest container shipping operator and one of the leading cruise lines through its subsidiary MSC Cruises . New container ship orders Mediterranean Shipping Company had 17 additional haulers for containerized trade in its order book at the beginning of 2020 .\n"
+}

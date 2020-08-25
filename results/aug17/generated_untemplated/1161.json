@@ -1,0 +1,61 @@
+{
+   "title": "IT services : Major vendors , by revenue per employee\n",
+   "xAxis": "It Services Vendor",
+   "yAxis": "Revenue per employee in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the advertising and promotion costs for major united kingdom ( uk ) airline companies in 2014/2015 . british airways had the highest advertising and promotion costs at 134.5 million british pounds . Second and third were virgin atlantic and easyjet .\n",
+   "trends": {},
+   "data": [
+      {
+         "It Services Vendor": "IBM",
+         "Revenue per employee in U.S. dollars": 289474.0
+      },
+      {
+         "It Services Vendor": "ACN",
+         "Revenue per employee in U.S. dollars": 185784.0
+      },
+      {
+         "It Services Vendor": "Dell",
+         "Revenue per employee in U.S. dollars": 177953.0
+      },
+      {
+         "It Services Vendor": "CSC",
+         "Revenue per employee in U.S. dollars": 171628.0
+      },
+      {
+         "It Services Vendor": "HP",
+         "Revenue per employee in U.S. dollars": 165205.0
+      },
+      {
+         "It Services Vendor": "Atos Origin",
+         "Revenue per employee in U.S. dollars": 136838.0
+      },
+      {
+         "It Services Vendor": "XRX/ACS",
+         "Revenue per employee in U.S. dollars": 130230.0
+      },
+      {
+         "It Services Vendor": "Capgemini",
+         "Revenue per employee in U.S. dollars": 120911.0
+      },
+      {
+         "It Services Vendor": "Wipro",
+         "Revenue per employee in U.S. dollars": 54702.0
+      },
+      {
+         "It Services Vendor": "INFY",
+         "Revenue per employee in U.S. dollars": 43946.0
+      },
+      {
+         "It Services Vendor": "CTSH",
+         "Revenue per employee in U.S. dollars": 41485.0
+      },
+      {
+         "It Services Vendor": "TCS",
+         "Revenue per employee in U.S. dollars": 36350.0
+      }
+   ],
+   "gold": "The ranking shows the revenue per employee of major IT services vendors worldwide . As an example , Wipro had a revenue per employee of 54,702 U.S. dollars .\n"
+}

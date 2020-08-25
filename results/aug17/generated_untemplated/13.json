@@ -1,0 +1,49 @@
+{
+   "title": "University applicants in the United Kingdom ( UK ) 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of university applicants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the volume of jpmorgan chase from 2010 to 2018 . It was found that market capitalization of jpmorgan chase increased from approximately 165.88 billion u.s. dollars in 2010 to approximately 319.78 billion u.s. dollars in 2018 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of university applicants": 636960.0
+      },
+      {
+         "Year": "2017",
+         "Number of university applicants": 649700.0
+      },
+      {
+         "Year": "2016",
+         "Number of university applicants": 674890.0
+      },
+      {
+         "Year": "2015",
+         "Number of university applicants": 673040.0
+      },
+      {
+         "Year": "2014",
+         "Number of university applicants": 659030.0
+      },
+      {
+         "Year": "2013",
+         "Number of university applicants": 635910.0
+      },
+      {
+         "Year": "2012",
+         "Number of university applicants": 616700.0
+      },
+      {
+         "Year": "2011",
+         "Number of university applicants": 668150.0
+      },
+      {
+         "Year": "2010",
+         "Number of university applicants": 658560.0
+      }
+   ],
+   "gold": "This statistic shows the number of applicants to universities in the United Kingdom ( UK ) from 2010 to 2018 . The number of applicants peaked in 2016 . The lower figures in 2012 and 2013 may be connected to the rise of the tuition fee limit in 2012 to 9,000 British pounds per year .\n"
+}

@@ -1,0 +1,124 @@
+{
+   "title": "Number of available apps in the Apple App Store 2008 to 2017\n",
+   "xAxis": "Month",
+   "yAxis": "Number of available apps",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 24 categories for the x axis representing Month, and a y axis representing Number of available apps.",
+      " The highest category is found at Jan_'17 where Number of available apps is 2200000.0.",
+      " The lowest category is found at Jul_'08 where Number of available apps is 800.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 23,
+         "12": 23
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Jan '17",
+         "Number of available apps": 2200000.0
+      },
+      {
+         "Month": "Jun '16",
+         "Number of available apps": 2000000.0
+      },
+      {
+         "Month": "Jun '15",
+         "Number of available apps": 1500000.0
+      },
+      {
+         "Month": "Jan '15",
+         "Number of available apps": 1400000.0
+      },
+      {
+         "Month": "Sep '14",
+         "Number of available apps": 1300000.0
+      },
+      {
+         "Month": "Jun '14",
+         "Number of available apps": 1200000.0
+      },
+      {
+         "Month": "Oct '13",
+         "Number of available apps": 1000000.0
+      },
+      {
+         "Month": "Jun '13",
+         "Number of available apps": 900000.0
+      },
+      {
+         "Month": "May '13",
+         "Number of available apps": 850000.0
+      },
+      {
+         "Month": "Jan '13",
+         "Number of available apps": 800000.0
+      },
+      {
+         "Month": "Sep '12",
+         "Number of available apps": 700000.0
+      },
+      {
+         "Month": "Jun '12",
+         "Number of available apps": 650000.0
+      },
+      {
+         "Month": "Mar '12",
+         "Number of available apps": 585000.0
+      },
+      {
+         "Month": "Oct '11",
+         "Number of available apps": 500000.0
+      },
+      {
+         "Month": "Jun '11",
+         "Number of available apps": 425000.0
+      },
+      {
+         "Month": "Jan '11",
+         "Number of available apps": 350000.0
+      },
+      {
+         "Month": "Oct '10",
+         "Number of available apps": 300000.0
+      },
+      {
+         "Month": "Jun '10",
+         "Number of available apps": 225000.0
+      },
+      {
+         "Month": "Mar '10",
+         "Number of available apps": 150000.0
+      },
+      {
+         "Month": "Nov '09",
+         "Number of available apps": 100000.0
+      },
+      {
+         "Month": "Jul '09",
+         "Number of available apps": 65000.0
+      },
+      {
+         "Month": "Apr '09",
+         "Number of available apps": 35000.0
+      },
+      {
+         "Month": "Sep '08",
+         "Number of available apps": 3000.0
+      },
+      {
+         "Month": "Jul '08",
+         "Number of available apps": 800.0
+      }
+   ],
+   "gold": "This statistic gives information on the number of available apps in the Apple App Store since July 2008 . As of January 2017 , 2.2 million mobile apps were available to download for various iOS devices . Apple App Store \u2013 additional information The Apple App Store allows users to browse and download applications to their iPhone , iPod Touch , of iPad .\n"
+}

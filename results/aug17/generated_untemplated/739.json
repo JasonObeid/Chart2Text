@@ -1,0 +1,60 @@
+{
+   "title": "Share of Americans with at least one tattoo - by age 2003 to 2015",
+   "labels": [
+      "Country",
+      "2003",
+      "2008",
+      "2012",
+      "2015"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic depicts the leading types of individuals aged 25 years and over in the united in 2014 , as differentiated by their age group and also level of education . In 2008 , 81 percent of respondents in the united stated that they would have been a variety of the largest in the united kingdom .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "18 to 24",
+         "2003": "13",
+         "2008": "9",
+         "2012": "22",
+         "2015": "35"
+      },
+      {
+         "Country": "25 to 29",
+         "2003": "36",
+         "2008": "32",
+         "2012": "30",
+         "2015": "42"
+      },
+      {
+         "Country": "30 to 39",
+         "2003": "28",
+         "2008": "25",
+         "2012": "38",
+         "2015": "55"
+      },
+      {
+         "Country": "40 to 49",
+         "2003": "14",
+         "2008": "12",
+         "2012": "27",
+         "2015": "33"
+      },
+      {
+         "Country": "50 to 64",
+         "2003": "10",
+         "2008": "8",
+         "2012": "11",
+         "2015": "13"
+      },
+      {
+         "Country": "65 and older",
+         "2003": "7",
+         "2008": "9",
+         "2012": "5",
+         "2015": "11"
+      }
+   ],
+   "gold": "This statistic shows the share of Americans with at least one tattoo in selected years from 2003 through 2015 , by age group . In 2012 , 22 percent of respondents aged 18 to 24 years had one or more tattoos on their body .\n"
+}

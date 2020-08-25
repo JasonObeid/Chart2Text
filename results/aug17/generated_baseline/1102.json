@@ -1,0 +1,112 @@
+{
+   "title": "Number of lobbyists in the U.S. 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of lobbyists",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of lobbyists, with a total of 20 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2016 to 2007.",
+      " Conversely, the next significant trend is extremely positive which exists from 2007 to 2000.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 2019 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "3",
+         "12": "12"
+      },
+      {
+         "3": "12",
+         "14": "19"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of lobbyists": 11862.0
+      },
+      {
+         "Year": "2018",
+         "Number of lobbyists": 11656.0
+      },
+      {
+         "Year": "2017",
+         "Number of lobbyists": 11554.0
+      },
+      {
+         "Year": "2016",
+         "Number of lobbyists": 11188.0
+      },
+      {
+         "Year": "2015",
+         "Number of lobbyists": 11519.0
+      },
+      {
+         "Year": "2014",
+         "Number of lobbyists": 11789.0
+      },
+      {
+         "Year": "2013",
+         "Number of lobbyists": 12082.0
+      },
+      {
+         "Year": "2012",
+         "Number of lobbyists": 12171.0
+      },
+      {
+         "Year": "2011",
+         "Number of lobbyists": 12607.0
+      },
+      {
+         "Year": "2010",
+         "Number of lobbyists": 12912.0
+      },
+      {
+         "Year": "2009",
+         "Number of lobbyists": 13719.0
+      },
+      {
+         "Year": "2008",
+         "Number of lobbyists": 14132.0
+      },
+      {
+         "Year": "2007",
+         "Number of lobbyists": 14825.0
+      },
+      {
+         "Year": "2006",
+         "Number of lobbyists": 14488.0
+      },
+      {
+         "Year": "2005",
+         "Number of lobbyists": 14093.0
+      },
+      {
+         "Year": "2004",
+         "Number of lobbyists": 13215.0
+      },
+      {
+         "Year": "2003",
+         "Number of lobbyists": 12960.0
+      },
+      {
+         "Year": "2002",
+         "Number of lobbyists": 12149.0
+      },
+      {
+         "Year": "2001",
+         "Number of lobbyists": 11853.0
+      },
+      {
+         "Year": "2000",
+         "Number of lobbyists": 12540.0
+      }
+   ],
+   "gold": "This statistic shows the number of registered active lobbyists in the United States from 2000 to 2019 . In 2019 , the total number of unique , registered lobbyists who have actively lobbied amounted to 11,862 .\n"
+}

@@ -1,0 +1,56 @@
+{
+   "title": "Religious diversity in North America in 2010 , by religion\n",
+   "xAxis": "Religion",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Religion, and a y axis representing Percentage of population.",
+      " The highest category is found at Christians where Percentage of population is 77.0.",
+      " The lowest category is found at Muslims where Percentage of population is 1.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Religion": "Christians",
+         "Percentage of population": 77.0
+      },
+      {
+         "Religion": "Unaffiliated",
+         "Percentage of population": 17.0
+      },
+      {
+         "Religion": "Jews",
+         "Percentage of population": 2.0
+      },
+      {
+         "Religion": "Muslims",
+         "Percentage of population": 1.0
+      },
+      {
+         "Religion": "Other religions",
+         "Percentage of population": 1.0
+      },
+      {
+         "Religion": "Hindus",
+         "Percentage of population": 1.0
+      },
+      {
+         "Religion": "Buddhists",
+         "Percentage of population": 1.0
+      }
+   ],
+   "gold": "This statistic shows religious diversity in North America in 2010 , by share of religious population . In 2010 , about 77 percent of population were Christians .\n"
+}

@@ -1,0 +1,37 @@
+{
+   "title": "Total number of gang-related homicides in the United States 2012\n",
+   "xAxis": "Year",
+   "yAxis": "Total number of homicides",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the forecasted annual growth of the u.s. population of scotland from 2008 to 2030 . The average age of the population is predicted to rise to around 25 trillion u.s. dollars in 2012 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2012",
+         "Total number of homicides": 2363.0
+      },
+      {
+         "Year": "2011",
+         "Total number of homicides": 1824.0
+      },
+      {
+         "Year": "2010",
+         "Total number of homicides": 2020.0
+      },
+      {
+         "Year": "2009",
+         "Total number of homicides": 2083.0
+      },
+      {
+         "Year": "2008",
+         "Total number of homicides": 1659.0
+      },
+      {
+         "Year": "2007",
+         "Total number of homicides": 1975.0
+      }
+   ],
+   "gold": "Over 2,300 homicides were gang-related in the United States in 2012 . This was the highest amount since 2007 and a reversal of a negative trend from the previous two years . Violent crime Violent crime in the United States is not limited to gang violence , but the murders in this statistic compose a significant portion of the number of reported murders in those years .\n"
+}

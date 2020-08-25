@@ -1,0 +1,75 @@
+{
+   "title": "Vending machines : sales volume of vended products 2010\n",
+   "xAxis": "Year",
+   "yAxis": "Vended volume (in billion U.S. dollars)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Vended volume (in billion U.S. dollars), with a total of 12 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely negative which exists from 1999 to 2007.",
+      " On the contrary, the next significant trend is slightly positive which exists from 2007 to 2010."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "8"
+      },
+      {
+         "3": "8",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1999",
+         "Vended volume (in billion U.S. dollars)": 36.6
+      },
+      {
+         "Year": "2000",
+         "Vended volume (in billion U.S. dollars)": 38.7
+      },
+      {
+         "Year": "2001",
+         "Vended volume (in billion U.S. dollars)": 41.0
+      },
+      {
+         "Year": "2002",
+         "Vended volume (in billion U.S. dollars)": 41.1
+      },
+      {
+         "Year": "2003",
+         "Vended volume (in billion U.S. dollars)": 42.2
+      },
+      {
+         "Year": "2004",
+         "Vended volume (in billion U.S. dollars)": 44.2
+      },
+      {
+         "Year": "2005",
+         "Vended volume (in billion U.S. dollars)": 46.0
+      },
+      {
+         "Year": "2006",
+         "Vended volume (in billion U.S. dollars)": 46.8
+      },
+      {
+         "Year": "2007",
+         "Vended volume (in billion U.S. dollars)": 47.5
+      },
+      {
+         "Year": "2008",
+         "Vended volume (in billion U.S. dollars)": 45.6
+      },
+      {
+         "Year": "2009",
+         "Vended volume (in billion U.S. dollars)": 42.9
+      },
+      {
+         "Year": "2010",
+         "Vended volume (in billion U.S. dollars)": 42.2
+      }
+   ],
+   "gold": "This graph depicts the total sales volume of products sold through vending machines in the U.S. from 1999 to 2010 . In 1999 , the sales volume was 36.6 billion U.S. dollars .\n"
+}

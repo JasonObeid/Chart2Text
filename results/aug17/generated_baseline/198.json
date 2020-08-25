@@ -1,0 +1,89 @@
+{
+   "title": "Participants in tackle football in the U.S. from 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of participants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of participants in millions, with a total of 13 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly negative which exists from 2010 to 2006.",
+      " Conversely, the next significant trend is slightly negative which exists from 2018 to 2015.",
+      " Conversely, the next significant trend is extremely negative which exists from 2015 to 2012.",
+      " But, the next significant trend is moderately negative which exists from 2012 to 2010."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "8",
+         "12": "12"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      },
+      {
+         "3": "3",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of participants in millions": 5.16
+      },
+      {
+         "Year": "2017",
+         "Number of participants in millions": 5.22
+      },
+      {
+         "Year": "2016",
+         "Number of participants in millions": 5.48
+      },
+      {
+         "Year": "2015",
+         "Number of participants in millions": 6.22
+      },
+      {
+         "Year": "2014",
+         "Number of participants in millions": 5.98
+      },
+      {
+         "Year": "2013",
+         "Number of participants in millions": 6.17
+      },
+      {
+         "Year": "2012",
+         "Number of participants in millions": 6.45
+      },
+      {
+         "Year": "2011",
+         "Number of participants in millions": 5.99
+      },
+      {
+         "Year": "2010",
+         "Number of participants in millions": 6.91
+      },
+      {
+         "Year": "2009",
+         "Number of participants in millions": 6.79
+      },
+      {
+         "Year": "2008",
+         "Number of participants in millions": 7.69
+      },
+      {
+         "Year": "2007",
+         "Number of participants in millions": 7.94
+      },
+      {
+         "Year": "2006",
+         "Number of participants in millions": 8.4
+      }
+   ],
+   "gold": "The number of people over the age of six participating in tackle football in the United States amounted to approximately 5.16 million in 2018 . Tackle football vs flag football Football is a popular recreational sport in the United States - for adults , adolescents and children alike . Played with almost the same rules as professional football , children can start playing tackle football around the age of five .\n"
+}

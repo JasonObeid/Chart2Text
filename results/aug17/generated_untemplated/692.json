@@ -1,0 +1,49 @@
+{
+   "title": "Migration balance in Belgium 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Migration balance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows royal dutch shell 's exploration costs from 2010 through to 2018 . In 2018 , the company spent some 208 million u.s. dollars for such purposes . royal dutch shell is one of the top oil and gas companies worldwide , operating in every segment of the oil and gas industry .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Migration balance": 50180.0
+      },
+      {
+         "Year": "2017",
+         "Migration balance": 44536.0
+      },
+      {
+         "Year": "2016",
+         "Migration balance": 42239.0
+      },
+      {
+         "Year": "2015",
+         "Migration balance": 47682.0
+      },
+      {
+         "Year": "2014",
+         "Migration balance": 39954.0
+      },
+      {
+         "Year": "2013",
+         "Migration balance": 34843.0
+      },
+      {
+         "Year": "2012",
+         "Migration balance": 44365.0
+      },
+      {
+         "Year": "2011",
+         "Migration balance": 62157.0
+      },
+      {
+         "Year": "2010",
+         "Migration balance": 79446.0
+      }
+   ],
+   "gold": "In 2018 , the migration balance in Belgium was roughly 50,000 , meaning that the number of immigrants moving to Belgium outnumbered the number of people leaving the country by about 50,000 . This was an increase in comparison to the previous year , but significantly lower than for example in 2010 and 2011 , when the migration balance was 79,446 and 62,157 respectively . It was also considerably lower than in neighboring country the Netherlands , which in 2018 had a positive migration balance of over 86,000 .\n"
+}

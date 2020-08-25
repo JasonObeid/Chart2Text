@@ -1,0 +1,63 @@
+{
+   "title": "U.S. women who have given oral sex to a male in their lifetime , by age group",
+   "xAxis": "Age group",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Share of American women who have given oral sex at some point during male their , sorted lifetime Age group . ",
+      "The findings were acquired in early 2009 and published in the Journal of Sexual Medicine , a publication on sexual behavior in the U.S. , in 2010 . ",
+      "89 % of respondents aged 25 to 29 stated they have given oral sex at some point during male life ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "4"
+      }
+   ],
+   "data": [
+      {
+         "Age group": "14-15",
+         "Share of respondents": "13"
+      },
+      {
+         "Age group": "16-17",
+         "Share of respondents": "29"
+      },
+      {
+         "Age group": "18-19",
+         "Share of respondents": "61"
+      },
+      {
+         "Age group": "20-24",
+         "Share of respondents": "78"
+      },
+      {
+         "Age group": "25-29",
+         "Share of respondents": "89"
+      },
+      {
+         "Age group": "30-39",
+         "Share of respondents": "80"
+      },
+      {
+         "Age group": "40-49",
+         "Share of respondents": "83"
+      },
+      {
+         "Age group": "50-59",
+         "Share of respondents": "80"
+      },
+      {
+         "Age group": "60-69",
+         "Share of respondents": "73"
+      },
+      {
+         "Age group": "70 and older",
+         "Share of respondents": "43"
+      }
+   ],
+   "gold": "This statistic shows the share of American women who have ever given oral sex to a male in their lifetime , sorted by age group . The findings were acquired in early 2009 and published in the Journal of Sexual Medicine , a publication on sexual behavior in the United States , in 2010 . 89 percent of respondents aged 25 to 29 stated they have given oral sex to a male at some time during their life .\n"
+}

@@ -1,0 +1,98 @@
+{
+   "title": "Activision Blizzard 's net income/loss from 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net income in million U.S. dollars, with a total of 14 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2012 to 2008.",
+      " Additionally, the next significant trend is moderately positive which exists from 2008 to 2005.",
+      " Additionally, the next significant trend is extremely negative which exists from 2018 to 2016.",
+      " Conversely, the next significant trend is moderately positive which exists from 2016 to 2014.",
+      " Also, the next significant trend is slightly negative which exists from 2014 to 2012."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "10"
+      },
+      {
+         "3": "10",
+         "14": "13"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Net income in million U.S. dollars": 1813.0
+      },
+      {
+         "Year": "2017",
+         "Net income in million U.S. dollars": 273.0
+      },
+      {
+         "Year": "2016",
+         "Net income in million U.S. dollars": 966.0
+      },
+      {
+         "Year": "2015",
+         "Net income in million U.S. dollars": 892.0
+      },
+      {
+         "Year": "2014",
+         "Net income in million U.S. dollars": 835.0
+      },
+      {
+         "Year": "2013",
+         "Net income in million U.S. dollars": 1010.0
+      },
+      {
+         "Year": "2012",
+         "Net income in million U.S. dollars": 1149.0
+      },
+      {
+         "Year": "2011",
+         "Net income in million U.S. dollars": 1085.0
+      },
+      {
+         "Year": "2010",
+         "Net income in million U.S. dollars": 418.0
+      },
+      {
+         "Year": "2009",
+         "Net income in million U.S. dollars": 113.0
+      },
+      {
+         "Year": "2008",
+         "Net income in million U.S. dollars": 107.0
+      },
+      {
+         "Year": "2007",
+         "Net income in million U.S. dollars": 227.0
+      },
+      {
+         "Year": "2006",
+         "Net income in million U.S. dollars": 139.0
+      },
+      {
+         "Year": "2005",
+         "Net income in million U.S. dollars": 45.0
+      }
+   ],
+   "gold": "This statistic shows the annual net income/loss of Activision Blizzard worldwide from 2005 to 2018 . In 2018 , Activision Blizzard 's net income amounted to 1.8 billion U.S. dollars .\n"
+}

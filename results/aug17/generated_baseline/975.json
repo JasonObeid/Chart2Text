@@ -1,0 +1,82 @@
+{
+   "title": "Revenue earned from sports merchandise worldwide 2006 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Merchandising revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Merchandising revenue in billion U.S. dollars, with a total of 10 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2015 to 2011.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2008 to 2006.",
+      " Likewise, the next significant trend is extremely negative which exists from 2011 to 2010.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2010 to 2009.",
+      " Similarly, the next significant trend is slightly negative which exists from 2009 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Merchandising revenue in billion U.S. dollars": 20.07
+      },
+      {
+         "Year": "2014",
+         "Merchandising revenue in billion U.S. dollars": 19.57
+      },
+      {
+         "Year": "2013",
+         "Merchandising revenue in billion U.S. dollars": 18.55
+      },
+      {
+         "Year": "2012",
+         "Merchandising revenue in billion U.S. dollars": 18.0
+      },
+      {
+         "Year": "2011",
+         "Merchandising revenue in billion U.S. dollars": 17.57
+      },
+      {
+         "Year": "2010",
+         "Merchandising revenue in billion U.S. dollars": 17.62
+      },
+      {
+         "Year": "2009",
+         "Merchandising revenue in billion U.S. dollars": 17.59
+      },
+      {
+         "Year": "2008",
+         "Merchandising revenue in billion U.S. dollars": 21.26
+      },
+      {
+         "Year": "2007",
+         "Merchandising revenue in billion U.S. dollars": 20.41
+      },
+      {
+         "Year": "2006",
+         "Merchandising revenue in billion U.S. dollars": 19.43
+      }
+   ],
+   "gold": "This graph depicts the total revenue generated worldwide from sports merchandising rights from 2006 to 2010 and corresponding revenue forecasts for the years 2011 to 2015 . In 2006 , total revenues from merchandising were 19.43 billion U.S. dollars .\n"
+}

@@ -1,0 +1,79 @@
+{
+   "title": "Percentage of U.S. population who are veterans in 2018 , by age and gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , there were about 13.73 million males and 1.75 million females between the ages of 55_to_64_years and living in U.S. , which was the most out of any veterans 2018 . ",
+      "The next largest veterans 2018 was between the ages of 65_to_74_years and , with 31.89 % males and 1.22 % females . ",
+      "Canadian demographics The average veterans of the Canadian U.S. population was about 40.8 18_to_34_years in 2018 , with Newfoundland and Labrador having the oldest average population , and Nunavut having the youngest average population ."
+   ],
+   "trends": [
+      {
+         "6": [
+            "2",
+            "1"
+         ],
+         "10": [
+            "2",
+            "2"
+         ],
+         "17": [
+            "2",
+            "0"
+         ],
+         "19": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "10": [
+            "3",
+            "0"
+         ],
+         "12": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "13": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "18 to 34 years",
+         "Male": "3.53",
+         "Female": "0.77"
+      },
+      {
+         "Year": "35 to 54 years",
+         "Male": "8.57",
+         "Female": "1.54"
+      },
+      {
+         "Year": "55 to 64 years",
+         "Male": "13.73",
+         "Female": "1.75"
+      },
+      {
+         "Year": "65 to 74 years",
+         "Male": "31.89",
+         "Female": "1.22"
+      },
+      {
+         "Year": "75 years and over",
+         "Male": "45.51",
+         "Female": "1.06"
+      }
+   ],
+   "gold": "This graph displays the percentage of Americans who were veterans in 2018 , distinguished by age and gender . In 2018 , 47.51 percent of the male Americans , aged 75 years and over , were veterans .\n"
+}

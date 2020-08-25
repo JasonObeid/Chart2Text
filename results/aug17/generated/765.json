@@ -1,0 +1,49 @@
+{
+   "title": "Mexico : age distribution of internet users 2019",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the proportion of users 2019 who read comics outside of school in the Mexico in 2019 , group . ",
+      "In 2019 , 8 % of respondents over the 2019 of 75 reported Mexico age distribution internet users ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "6-11 years",
+         "Share of respondents": "12"
+      },
+      {
+         "Year": "12-17 years",
+         "Share of respondents": "14"
+      },
+      {
+         "Year": "18-24 years",
+         "Share of respondents": "18"
+      },
+      {
+         "Year": "25-34 years",
+         "Share of respondents": "22"
+      },
+      {
+         "Year": "35-44 years",
+         "Share of respondents": "14"
+      },
+      {
+         "Year": "45-54 years",
+         "Share of respondents": "12"
+      },
+      {
+         "Year": "Over 55 years",
+         "Share of respondents": "8"
+      }
+   ],
+   "gold": "This statistic gives information on the age distribution of internet users in Mexico as of April 2019 . During this period of time , it was found that 22 percent of internet users in the Latin American country were aged between 25 and 34 years .\n"
+}

@@ -1,0 +1,89 @@
+{
+   "title": "Omnicom Group 's revenue 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, with a total of 13 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2014 to 2009.",
+      " In a similar manner, the next significant trend is moderately positive which exists from 2009 to 2006.",
+      " Similarly, the next significant trend is slightly negative which exists from 2018 to 2016.",
+      " Conversely, the next significant trend is slightly negative which exists from 2016 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "9"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in billion U.S. dollars": 15.29
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion U.S. dollars": 15.27
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion U.S. dollars": 15.42
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": 15.13
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": 15.32
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion U.S. dollars": 14.58
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion U.S. dollars": 14.22
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion U.S. dollars": 13.87
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion U.S. dollars": 12.54
+      },
+      {
+         "Year": "2009",
+         "Revenue in billion U.S. dollars": 11.72
+      },
+      {
+         "Year": "2008",
+         "Revenue in billion U.S. dollars": 13.36
+      },
+      {
+         "Year": "2007",
+         "Revenue in billion U.S. dollars": 12.69
+      },
+      {
+         "Year": "2006",
+         "Revenue in billion U.S. dollars": 11.38
+      }
+   ],
+   "gold": "This statistic presents the global revenue of U.S. advertising network Omnicom from 2006 to 2018 . In 2018 , the Omnicom Group generated a global revenue of 15.29 billion U.S. dollars , slight increase from 15.27 billion a year earlier . Here you can find out which of Omnicom 's operating sectors generates the most revenue .\n"
+}

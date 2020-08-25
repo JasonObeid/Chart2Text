@@ -1,0 +1,72 @@
+{
+   "title": "Total population of Russia 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Total population of the Russia from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of the Russia was around 146.8 millions people . ",
+      "population of the Russia Despite its small size , the Russia is the twenty-third smallest nation in the European Union , and it is one of the most important nations in Europe and the world ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "6",
+         "18": "0"
+      },
+      {
+         "1": "6",
+         "11": "6"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "145.74"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "146.02"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "146.27"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "146.47"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "146.62"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "146.73"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "146.8"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "146.9"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "146.8"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "146.5"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "146.3"
+      }
+   ],
+   "gold": "This statistic shows the total population of Russia from 2014 to 2018 , with projections up until 2024 . In 2018 , the total population of Russia was around 146.8 million people . Only a fraction of them live in the major Russian cities .\n"
+}

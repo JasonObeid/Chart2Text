@@ -1,0 +1,104 @@
+{
+   "title": "Cotton yield per harvested acre in the U.S. 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Yield per acre in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Cotton yield of per acre of U.S. and 2000 from to 2019 . ",
+      "In 2019 , the Cotton yield of per acre of U.S. and 2000 amounted to 817 million per acre ."
+   ],
+   "trends": [
+      {
+         "15": "19",
+         "17": "0"
+      },
+      {
+         "1": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Yield per acre in pounds": "817"
+      },
+      {
+         "Year": "2018",
+         "Yield per acre in pounds": "864"
+      },
+      {
+         "Year": "2017",
+         "Yield per acre in pounds": "905"
+      },
+      {
+         "Year": "2016",
+         "Yield per acre in pounds": "855"
+      },
+      {
+         "Year": "2015",
+         "Yield per acre in pounds": "766"
+      },
+      {
+         "Year": "2014",
+         "Yield per acre in pounds": "838"
+      },
+      {
+         "Year": "2013",
+         "Yield per acre in pounds": "821"
+      },
+      {
+         "Year": "2012",
+         "Yield per acre in pounds": "892"
+      },
+      {
+         "Year": "2011",
+         "Yield per acre in pounds": "790"
+      },
+      {
+         "Year": "2010",
+         "Yield per acre in pounds": "812"
+      },
+      {
+         "Year": "2009",
+         "Yield per acre in pounds": "776"
+      },
+      {
+         "Year": "2008",
+         "Yield per acre in pounds": "813"
+      },
+      {
+         "Year": "2007",
+         "Yield per acre in pounds": "879"
+      },
+      {
+         "Year": "2006",
+         "Yield per acre in pounds": "814"
+      },
+      {
+         "Year": "2005",
+         "Yield per acre in pounds": "831"
+      },
+      {
+         "Year": "2004",
+         "Yield per acre in pounds": "855"
+      },
+      {
+         "Year": "2003",
+         "Yield per acre in pounds": "730"
+      },
+      {
+         "Year": "2002",
+         "Yield per acre in pounds": "665"
+      },
+      {
+         "Year": "2001",
+         "Yield per acre in pounds": "705"
+      },
+      {
+         "Year": "2000",
+         "Yield per acre in pounds": "632"
+      }
+   ],
+   "gold": "This statistic shows the total cotton yield per harvested acre in the U.S. from 2000 to 2019 . In 2019 , the total cotton yield per harvested acre amounted to approximately 817 pounds .\n"
+}

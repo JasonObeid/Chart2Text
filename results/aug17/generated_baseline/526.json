@@ -1,0 +1,77 @@
+{
+   "title": "Average ticket price Boston Celtics ( NBA ) games 2015/16\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly negative which exists from 2015/16 to 2012/13.",
+      " On the contrary, the next significant trend is moderately neutral which exists from 2011/12 to 2008/09.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2008/09 to 2006/07.",
+      " Additionally, the next significant trend is extremely positive which exists from 2012/13 to 2011/12."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "4",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      },
+      {
+         "3": "3",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": 66.49
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 70.79
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 72.64
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 72.96
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 68.55
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 68.55
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 68.55
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 68.55
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 65.43
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 57.04
+      }
+   ],
+   "gold": "This graph depicts the average ticket price for Boston Celtics games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 57.04 U.S. dollars . Boston Celtics The Boston Celtics are a professional basketball team of the National Basketball Association ( NBA ) playing in the Eastern Conference of the league .\n"
+}

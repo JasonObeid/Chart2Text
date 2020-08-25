@@ -1,0 +1,109 @@
+{
+   "title": "Upland spot cotton price in the U.S. 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Price per pound in U.S. cents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the average Upland Price per pound as cotton price U.S. 1990 from to 2018 . ",
+      "In the 1990 calendar Year , a U.S. Upland farmer cotton an average Price of 71.24 cents per one pound of upland ."
+   ],
+   "trends": [
+      {
+         "15": "20",
+         "17": "0"
+      },
+      {
+         "2": "20",
+         "15": "20"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Price per pound in U.S. cents": "94.55"
+      },
+      {
+         "Year": "2017",
+         "Price per pound in U.S. cents": "86.39"
+      },
+      {
+         "Year": "2016",
+         "Price per pound in U.S. cents": "64.17"
+      },
+      {
+         "Year": "2015",
+         "Price per pound in U.S. cents": "61.47"
+      },
+      {
+         "Year": "2014",
+         "Price per pound in U.S. cents": "73.37"
+      },
+      {
+         "Year": "2013",
+         "Price per pound in U.S. cents": "79.39"
+      },
+      {
+         "Year": "2012",
+         "Price per pound in U.S. cents": "74.4"
+      },
+      {
+         "Year": "2011",
+         "Price per pound in U.S. cents": "132.6"
+      },
+      {
+         "Year": "2010",
+         "Price per pound in U.S. cents": "87.93"
+      },
+      {
+         "Year": "2009",
+         "Price per pound in U.S. cents": "52.58"
+      },
+      {
+         "Year": "2008",
+         "Price per pound in U.S. cents": "57.97"
+      },
+      {
+         "Year": "2007",
+         "Price per pound in U.S. cents": "52.99"
+      },
+      {
+         "Year": "2006",
+         "Price per pound in U.S. cents": "48.51"
+      },
+      {
+         "Year": "2005",
+         "Price per pound in U.S. cents": "47.35"
+      },
+      {
+         "Year": "2004",
+         "Price per pound in U.S. cents": "52.47"
+      },
+      {
+         "Year": "2003",
+         "Price per pound in U.S. cents": "56.23"
+      },
+      {
+         "Year": "2002",
+         "Price per pound in U.S. cents": "36.99"
+      },
+      {
+         "Year": "2001",
+         "Price per pound in U.S. cents": "39.68"
+      },
+      {
+         "Year": "2000",
+         "Price per pound in U.S. cents": "57.47"
+      },
+      {
+         "Year": "1995",
+         "Price per pound in U.S. cents": "93.47"
+      },
+      {
+         "Year": "1990",
+         "Price per pound in U.S. cents": "71.24"
+      }
+   ],
+   "gold": "This statistic shows the upland spot cotton price per pound in the United States from 1990 to 2018 . In calendar year 2017 , the average spot price per one pound of upland cotton was about 86.4 U.S. cents .\n"
+}

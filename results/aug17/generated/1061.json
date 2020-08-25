@@ -1,0 +1,103 @@
+{
+   "title": "Countries with the largest gross domestic product ( GDP ) 2019",
+   "xAxis": "Country",
+   "yAxis": "GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the 20 GDP largest gross in the domestic according to the Global Peace GDP 2018 . ",
+      "According to the Global Peace GDP 2019 , United_States was the GDP largest Country in the domestic with an GDP value of 1.072 . ",
+      "Additional information on the Global Peace GDP The Global Peace GDP is an effort by the Institute for Economics and Peace to measure the degree of peacefulness in gross across the global and rank them accordingly ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "GDP in billion U.S. dollars": "21439.45"
+      },
+      {
+         "Country": "China",
+         "GDP in billion U.S. dollars": "14140.16"
+      },
+      {
+         "Country": "Japan",
+         "GDP in billion U.S. dollars": "5154.48"
+      },
+      {
+         "Country": "Germany",
+         "GDP in billion U.S. dollars": "3863.34"
+      },
+      {
+         "Country": "India",
+         "GDP in billion U.S. dollars": "2935.57"
+      },
+      {
+         "Country": "United Kingdom",
+         "GDP in billion U.S. dollars": "2743.59"
+      },
+      {
+         "Country": "France",
+         "GDP in billion U.S. dollars": "2707.07"
+      },
+      {
+         "Country": "Italy",
+         "GDP in billion U.S. dollars": "1988.64"
+      },
+      {
+         "Country": "Brazil",
+         "GDP in billion U.S. dollars": "1847.02"
+      },
+      {
+         "Country": "Canada",
+         "GDP in billion U.S. dollars": "1730.91"
+      },
+      {
+         "Country": "Russia",
+         "GDP in billion U.S. dollars": "1637.89"
+      },
+      {
+         "Country": "Korea",
+         "GDP in billion U.S. dollars": "1629.53"
+      },
+      {
+         "Country": "Spain",
+         "GDP in billion U.S. dollars": "1397.87"
+      },
+      {
+         "Country": "Australia",
+         "GDP in billion U.S. dollars": "1376.26"
+      },
+      {
+         "Country": "Mexico",
+         "GDP in billion U.S. dollars": "1274.18"
+      },
+      {
+         "Country": "Indonesia",
+         "GDP in billion U.S. dollars": "1111.71"
+      },
+      {
+         "Country": "Netherlands",
+         "GDP in billion U.S. dollars": "902.36"
+      },
+      {
+         "Country": "Saudi Arabia",
+         "GDP in billion U.S. dollars": "779.29"
+      },
+      {
+         "Country": "Turkey",
+         "GDP in billion U.S. dollars": "743.71"
+      },
+      {
+         "Country": "Switzerland",
+         "GDP in billion U.S. dollars": "715.36"
+      }
+   ],
+   "gold": "The statistic shows the 20 countries with the largest gross domestic product ( GDP ) in 2019 . In 2019 , Turkey ranked 19th with an estimated GDP of about 743.71 billion U.S. dollars . Global gross domestic product Global gross domestic product ( GDP ) amounts to almost 75 trillion U.S. dollars , with the United States making up more than 18 percent of it alone .\n"
+}

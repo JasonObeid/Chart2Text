@@ -1,0 +1,68 @@
+{
+   "title": "10 Countries in Asia Pacific with the largest number of Christians in 2010\n",
+   "xAxis": "Country",
+   "yAxis": "Estimated Christian population in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Estimated Christian population in millions.",
+      " The highest category is found at Philippines where Estimated Christian population in millions is 86.79.",
+      " The lowest category is found at Burma_(Myanmar) where Estimated Christian population in millions is 3.79."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Philippines",
+         "Estimated Christian population in millions": 86.79
+      },
+      {
+         "Country": "China",
+         "Estimated Christian population in millions": 67.07
+      },
+      {
+         "Country": "India",
+         "Estimated Christian population in millions": 31.85
+      },
+      {
+         "Country": "Indonesia",
+         "Estimated Christian population in millions": 21.16
+      },
+      {
+         "Country": "Australia",
+         "Estimated Christian population in millions": 16.03
+      },
+      {
+         "Country": "South Korea",
+         "Estimated Christian population in millions": 14.1
+      },
+      {
+         "Country": "Vietnam",
+         "Estimated Christian population in millions": 7.03
+      },
+      {
+         "Country": "Papua New Guinea",
+         "Estimated Christian population in millions": 6.8
+      },
+      {
+         "Country": "Kazakhstan",
+         "Estimated Christian population in millions": 4.19
+      },
+      {
+         "Country": "Burma (Myanmar)",
+         "Estimated Christian population in millions": 3.79
+      }
+   ],
+   "gold": "This statistic shows the 10 countries in Asia Pacific with the largest number of Christians in 2010 . 67.07 million Christians lived in China .\n"
+}

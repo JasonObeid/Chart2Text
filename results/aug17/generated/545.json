@@ -1,0 +1,105 @@
+{
+   "title": "Daily internet usage per capita worldwide 2011 - 2021 , by device",
+   "labels": [
+      "Year",
+      "Desktop",
+      "Mobile"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Daily of internet vs. usage per in the Daily from 2011 to 2021 . ",
+      "The Daily of heterosexual per shrank Desktop 2006 and 2018 , but saw an increase again in 2019_ to 2021 . ",
+      "In 2021 , there were nearly 63,000 internet per in the Daily ."
+   ],
+   "trends": [
+      {
+         "14": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "9": [
+            "7",
+            "0"
+         ],
+         "17": [
+            "8",
+            "0"
+         ],
+         "19": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "Desktop": "43",
+         "Mobile": "32"
+      },
+      {
+         "Year": "2012",
+         "Desktop": "47",
+         "Mobile": "36"
+      },
+      {
+         "Year": "2013",
+         "Desktop": "49",
+         "Mobile": "45"
+      },
+      {
+         "Year": "2014",
+         "Desktop": "47",
+         "Mobile": "63"
+      },
+      {
+         "Year": "2015",
+         "Desktop": "42",
+         "Mobile": "81"
+      },
+      {
+         "Year": "2016",
+         "Desktop": "40",
+         "Mobile": "94"
+      },
+      {
+         "Year": "2017",
+         "Desktop": "42",
+         "Mobile": "109"
+      },
+      {
+         "Year": "2018",
+         "Desktop": "39",
+         "Mobile": "122"
+      },
+      {
+         "Year": "2019 ",
+         "Desktop": "39",
+         "Mobile": "132"
+      },
+      {
+         "Year": "2020 ",
+         "Desktop": "38",
+         "Mobile": "143"
+      },
+      {
+         "Year": "2021",
+         "Desktop": "37",
+         "Mobile": "155"
+      }
+   ],
+   "gold": "This statistic presents the average daily time spent online by internet users worldwide from 2011 to 2021 , sorted by device . According to Zenith Optimedia , in 2018 , the average daily minutes of desktop internet consumption per capita amounted to 39 minutes and is projected to slowly decline until 2020 . However , daily mobile internet consumption is set to increase to 155 minutes in 2021 .\n"
+}

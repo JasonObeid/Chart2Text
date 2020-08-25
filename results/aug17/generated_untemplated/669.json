@@ -1,0 +1,73 @@
+{
+   "title": "Leading primetime TV programming genres viewed in the U.S. 2015\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the most popular movie genres among adults in the united as of 2018 . The findings reveal that 90 percent of respondents said that they had a very or somewhat favorable impression of comedy and adventure movies , making these genres the most popular among responding u.s. adults . The least favorable genres were horror and musicals .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Sitcoms or comedy",
+         "Share of respondents": 48.0
+      },
+      {
+         "Response": "Movies",
+         "Share of respondents": 43.0
+      },
+      {
+         "Response": "Drama",
+         "Share of respondents": 42.0
+      },
+      {
+         "Response": "Reality",
+         "Share of respondents": 34.0
+      },
+      {
+         "Response": "Action/adventure",
+         "Share of respondents": 32.0
+      },
+      {
+         "Response": "History or science",
+         "Share of respondents": 27.0
+      },
+      {
+         "Response": "News/public affairs",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Sports",
+         "Share of respondents": 22.0
+      },
+      {
+         "Response": "'How to\" or home-related",
+         "Share of respondents": 17.0
+      },
+      {
+         "Response": "Weather",
+         "Share of respondents": 13.0
+      },
+      {
+         "Response": "Talk or interview",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Children's",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Other type not listed",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Music videos",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Soap operas",
+         "Share of respondents": 4.0
+      }
+   ],
+   "gold": "This graph shows the leading genres of primetime TV programming viewed regularly in the United States as of May 2015 . During a survey , 48 percent of respondents stated they regularly watched sitcoms or comedy shows on TV during primetime . Movies , part of the billion-dollar film industry , are the second most common genre on primetime TV programming .\n"
+}

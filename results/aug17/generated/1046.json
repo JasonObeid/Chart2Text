@@ -1,0 +1,43 @@
+{
+   "title": "Quantity of ice cream consumed in the United Kingdom ( UK ) 2008 - 2012 , by age",
+   "xAxis": "Year",
+   "yAxis": "Consumption in grams",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Quantity of ice cream consumed per day in the United Kingdom between 2008 and 2012 , by . ",
+      "In this 5 Year period , individuals aged between 11 and 18 1.5-3_years old consumed 13 grams of ice cream per day ."
+   ],
+   "trends": [
+      {},
+      {
+         "2": "3",
+         "12": "0",
+         "15": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1.5-3 years",
+         "Consumption in grams": "7"
+      },
+      {
+         "Year": "4-10 years",
+         "Consumption in grams": "13"
+      },
+      {
+         "Year": "11-18 years",
+         "Consumption in grams": "8"
+      },
+      {
+         "Year": "19-64 years",
+         "Consumption in grams": "5"
+      },
+      {
+         "Year": "65 years and over",
+         "Consumption in grams": "7"
+      }
+   ],
+   "gold": "This statistic displays the quantity of ice cream consumed per day in the United Kingdom between 2008 and 2012 , by age . In this four year period , individuals aged between 4 and 10 years old consumed 13 grams of ice cream per day .\n"
+}

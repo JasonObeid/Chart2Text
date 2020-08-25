@@ -1,0 +1,48 @@
+{
+   "title": "Deaths of British tourists abroad 2009 to 2014",
+   "xAxis": "Year",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of deaths British tourists abroad 2009 mopeds or motorcycles in British from 2009/2010 until 2013/2014 . ",
+      "As can be seen in this statistic , in 2013/2014 the Number of 2014 or crime deaths British was almost 6237 thousand compared with only 1053 in 2012/2013 . ",
+      "The surge in 2014 crime is one of the most widely reported aspects of rising crime in British recent years ."
+   ],
+   "trends": [
+      {
+         "17": "4",
+         "19": "0"
+      },
+      {
+         "9": "0",
+         "21": "2",
+         "28": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2013/2014",
+         "Number of deaths": "4110"
+      },
+      {
+         "Year": "2012/2013",
+         "Number of deaths": "6193"
+      },
+      {
+         "Year": "2011/2012",
+         "Number of deaths": "6237"
+      },
+      {
+         "Year": "2010/2011",
+         "Number of deaths": "5972"
+      },
+      {
+         "Year": "2009/2010",
+         "Number of deaths": "5930"
+      }
+   ],
+   "gold": "This statistic shows the number of deaths of British ( UK ) tourists abroad from 2009 to 2014 . 5,930 deaths were recorded in 2009/2010 , with numbers rising during the following years . Though by 2013/2014 numbers had dropped to 4,110 deaths .\n"
+}

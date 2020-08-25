@@ -1,0 +1,127 @@
+{
+   "title": "EU car sales : share of diesel engines 2013 - 2017 , by brand",
+   "labels": [
+      "Brand",
+      "2013",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "Volvo cars were the most expensive automobiles sold in the EU in 2017 . ",
+      "With an share price tag of 79 euros , the car maker ranked ahead of fellow German manufacturer BMW . ",
+      "The only car by which had seen its diesel dropped since 2013 was Citroen ."
+   ],
+   "trends": [
+      {
+         "0": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "6": [
+            "0",
+            "2"
+         ],
+         "18": [
+            "1",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Volvo",
+         "2013": "87",
+         "2017": "79"
+      },
+      {
+         "Brand": "BMW",
+         "2013": "81",
+         "2017": "68"
+      },
+      {
+         "Brand": "Mercedes",
+         "2013": "71",
+         "2017": "68"
+      },
+      {
+         "Brand": "Audi",
+         "2013": "75",
+         "2017": "59"
+      },
+      {
+         "Brand": "Renault",
+         "2013": "60",
+         "2017": "49"
+      },
+      {
+         "Brand": "Peugeot",
+         "2013": "61",
+         "2017": "49"
+      },
+      {
+         "Brand": "Nissan",
+         "2013": "51",
+         "2017": "47"
+      },
+      {
+         "Brand": "Volkswagen",
+         "2013": "56",
+         "2017": "47"
+      },
+      {
+         "Brand": "Ford",
+         "2013": "45",
+         "2017": "44"
+      },
+      {
+         "Brand": "Citroen",
+         "2013": "64",
+         "2017": "43"
+      },
+      {
+         "Brand": "Skoda",
+         "2013": "46",
+         "2017": "41"
+      },
+      {
+         "Brand": "Dacia",
+         "2013": "52",
+         "2017": "39"
+      },
+      {
+         "Brand": "Kia",
+         "2013": "45",
+         "2017": "39"
+      },
+      {
+         "Brand": "Fiat",
+         "2013": "31",
+         "2017": "36"
+      },
+      {
+         "Brand": "Hyundai",
+         "2013": "39",
+         "2017": "32"
+      },
+      {
+         "Brand": "Opel",
+         "2013": "41",
+         "2017": "30"
+      },
+      {
+         "Brand": "Seat",
+         "2013": "44",
+         "2017": "29"
+      },
+      {
+         "Brand": "Toyota",
+         "2013": "26",
+         "2017": "8"
+      }
+   ],
+   "gold": "Volvo had the greatest share of diesel fueled passenger cars in Europe . Despite reducing its share of diesel cars in the past few years , 79 percent of all Volvo cars on European roads were fitted with a diesel engine in 2017 . This was followed by three German companies , BMW , Mercedes and Audi , while Fiat was the only automobile brand listed which had seen its share of diesel cars increase .\n"
+}

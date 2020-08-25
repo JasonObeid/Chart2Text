@@ -1,0 +1,84 @@
+{
+   "title": "Election 2012 exit polls : percentage of votes by income",
+   "labels": [
+      "Year",
+      "Barack Obama",
+      "Mitt Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has 2 lines.",
+      " The line representing Barack Obama had the highest values across Year with a mean value of 52.2.",
+      " This peaked at Under_30000 with a value of 63.0. ",
+      " The line with the second highest values was Mitt Romney with a mean value of 46.0.",
+      " This line peaked at 100000_or_more with a value of 54.0"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "3",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "1"
+         ],
+         "10": [
+            "3",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Under 30000",
+         "Barack Obama": "63",
+         "Mitt Romney": "35"
+      },
+      {
+         "Year": "30000 to 49999",
+         "Barack Obama": "57",
+         "Mitt Romney": "42"
+      },
+      {
+         "Year": "50000 or more",
+         "Barack Obama": "45",
+         "Mitt Romney": "53"
+      },
+      {
+         "Year": "100000 or more",
+         "Barack Obama": "44",
+         "Mitt Romney": "54"
+      }
+   ],
+   "gold": "This graph shows the percentage of votes of the 2012 presidential elections in the United States on November 6 , 2012 , by income . According to the exit polls , about 63 percent of voters with an annual income of less than 30,000 U.S. dollars nationwide have voted for Barack Obama .\n"
+}

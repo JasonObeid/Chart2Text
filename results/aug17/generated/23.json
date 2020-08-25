@@ -1,0 +1,60 @@
+{
+   "title": "Harley-Davidson - motorcycle sales by region 2017/2018",
+   "labels": [
+      "Year",
+      "U.S.",
+      "Canada",
+      "Europe, Middle East, Africa (EMEA)",
+      "Asia-Pacific",
+      "Latin America"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The motorcycle of sales and by in the Ultimate Fighting Championship ( Harley-Davidson ) has kept roughly the same proportions over recent years with 147972 sales and 10081 by in 2017 . ",
+      "This correlates with the motorcycle of fights taking place which also been close to same in since 2018 . ",
+      "The preferred type of submission move is the rear naked choke ."
+   ],
+   "trends": [
+      {
+         "24": [
+            "0",
+            "1"
+         ],
+         "27": [
+            "0",
+            "2"
+         ],
+         "30": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "17": [
+            "1",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "U.S.": "147972",
+         "Canada": "10081",
+         "Europe, Middle East, Africa (EMEA)": "44935",
+         "Asia-Pacific": "30348",
+         "Latin America": "9452"
+      },
+      {
+         "Year": "2018",
+         "U.S.": "132868",
+         "Canada": "9690",
+         "Europe, Middle East, Africa (EMEA)": "46602",
+         "Asia-Pacific": "28724",
+         "Latin America": "10167"
+      }
+   ],
+   "gold": "Globally , H-D shipped some 228,000 \u2018 hogs ' in 2018 . Worldwide retail sales of Harley-Davidson motorcycles declined by 6.1 percent between 2017 and 2018 . Sales are falling in key markets The slump was most severe in traditional Asian and Oceanian markets such as Japan , South Korea , Australia , and New Zealand , where retail sales dropped by almost 14 percent .\n"
+}

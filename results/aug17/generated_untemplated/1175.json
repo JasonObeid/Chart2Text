@@ -1,0 +1,41 @@
+{
+   "title": "Companies on the Norwegian insurance market 2011 to 2015",
+   "labels": [
+      "Year",
+      "Domestic market",
+      "Total market"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows a forecast for the number of amish people and amish settlements in the united states from 2010 to 2015 . By the year 2050 it is expected that the amish population will have approximately tripled and the total number will reach 912258 people .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2015",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2014",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2013",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2012",
+         "Domestic market": "118",
+         "Total market": "118"
+      },
+      {
+         "Year": "2011",
+         "Domestic market": "117",
+         "Total market": "117"
+      }
+   ],
+   "gold": "The statistic shows the number of companies operating on the insurance market in Norway from 2011 to 2015 . Throughout the period the number of insurance companies on the domestic market remained stable at 119 companies between 2013 and 2015 .\n"
+}

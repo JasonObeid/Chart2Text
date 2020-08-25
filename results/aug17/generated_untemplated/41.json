@@ -1,0 +1,33 @@
+{
+   "title": "Consumers with a newspaper or magazine subscriptions in the U.S. 2017 , by age group\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic provides information on the share of consumers with an active youtube or youtube red subscription in the united as of 2017 , sorted by age . According to the source , 27 percent of millennials who subscribe to online video or music had a youtube or youtube red subscription as of 2017 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Total",
+         "Share of respondents": 41.0
+      },
+      {
+         "Response": "Millennials",
+         "Share of respondents": 33.0
+      },
+      {
+         "Response": "Gen X",
+         "Share of respondents": 35.0
+      },
+      {
+         "Response": "Boomers",
+         "Share of respondents": 45.0
+      },
+      {
+         "Response": "Retirees",
+         "Share of respondents": 54.0
+      }
+   ],
+   "gold": "This statistic provides information on the share of consumers with an active newspaper or magazine subscription in the United States as of January 2017 , sorted by age . According to the source , 54 percent of Retirees who subscribe to service subscriptions had a newspaper or magazine subscription as of January 2017 .\n"
+}

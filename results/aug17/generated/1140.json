@@ -1,0 +1,68 @@
+{
+   "title": "U.S. consumer perception of Amazon as a company 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the 2017 ranking of the top 53 Amazon company 2017 perception by online buyers in Amazon . ",
+      "I_like_using_Amazon and With_Amazon_I_get_what_I_need were ranked first and second with 67 % and 57 % respectively . ",
+      "The search of lodging has consolidated as the main purpose for Spanish users ."
+   ],
+   "trends": [
+      {
+         "9": "2"
+      },
+      {
+         "0": "0",
+         "2": "1",
+         "9": "0",
+         "12": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "I like using Amazon",
+         "Share of respondents": "67"
+      },
+      {
+         "Response": "With Amazon I get what I need",
+         "Share of respondents": "57"
+      },
+      {
+         "Response": "I trust Amazon with my payment information",
+         "Share of respondents": "53"
+      },
+      {
+         "Response": "Amazon takes the interests of its customers seriously",
+         "Share of respondents": "38"
+      },
+      {
+         "Response": "Amazon assumes a pioneering role in this day and age",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Amazon is an integral part of my life",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Amazon respects my privacy",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "I would like to see more products and services from Amazon",
+         "Share of respondents": "27"
+      },
+      {
+         "Response": "There are no alternatives to Amazon",
+         "Share of respondents": "18"
+      },
+      {
+         "Response": "None of the above",
+         "Share of respondents": "12"
+      }
+   ],
+   "gold": "The statistic shows U.S. consumer opinions on Amazon in general as of March 2017 . As of the Statista survey , 67 percent of survey respondents stated that they liked using Amazon . A third of respondents also stated that Amazon was an integral part of their life .\n"
+}

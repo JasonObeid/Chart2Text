@@ -1,0 +1,33 @@
+{
+   "title": "Average hours spent watching TV weekly in the United Kingdom ( UK ) in 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the average network size of teenage instagram users in the united . During the 2015 survey , it was found that 11 percent of respondents had 101 to 200 followers on the social network . The u.s. teen average was 150 followers .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "5 hours or less",
+         "Share of respondents": 9.0
+      },
+      {
+         "Year": "6 to 10 hours",
+         "Share of respondents": 18.0
+      },
+      {
+         "Year": "11 to 20 hours",
+         "Share of respondents": 31.0
+      },
+      {
+         "Year": "More than 20 hours",
+         "Share of respondents": 39.0
+      },
+      {
+         "Year": "I don't watch TV",
+         "Share of respondents": 2.0
+      }
+   ],
+   "gold": "This survey details a distribution of the average number of hours spent on watching TV in the United Kingdom ( UK ) in 2015 . During the survey , 18 percent of respondents said that they watched TV 6 to 10 hours per week .\n"
+}

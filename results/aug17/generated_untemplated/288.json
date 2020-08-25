@@ -1,0 +1,95 @@
+{
+   "title": "Revenue of the leading telecommunications companies in Germany 2008 to 2018",
+   "labels": [
+      "Year",
+      "Deutsche Telekom",
+      "Vodafone Germany",
+      "Telef\u00f3nica Germany",
+      "E-Plus group"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "The statistic shows a comparison of apple Inc. 's , google Inc. 's / alphabet Inc. 's , and microsoft Corp. 's revenues during the fiscal years from 2008 to 2018 . In the fiscal year 2018 , hardware-focused apple 's 265.6 billion US dollar revenue was almost double the amount of online-based google 's 136.2 billion U.S. dollars , with microsoft generating 110.36 billion US dollars that same year . Whereas all of these companies have different market strengths , there are also overlaps and thus , competition .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Deutsche Telekom": "24.36",
+         "Vodafone Germany": "10.31",
+         "Telef\u00f3nica Germany": "7.32",
+         "E-Plus group": "0"
+      },
+      {
+         "Year": "2017",
+         "Deutsche Telekom": "24.58",
+         "Vodafone Germany": "10.26",
+         "Telef\u00f3nica Germany": "7.3",
+         "E-Plus group": "0"
+      },
+      {
+         "Year": "2016",
+         "Deutsche Telekom": "24.63",
+         "Vodafone Germany": "10.01",
+         "Telef\u00f3nica Germany": "7.5",
+         "E-Plus group": "0"
+      },
+      {
+         "Year": "2015",
+         "Deutsche Telekom": "25.06",
+         "Vodafone Germany": "10.63",
+         "Telef\u00f3nica Germany": "7.89",
+         "E-Plus group": "0"
+      },
+      {
+         "Year": "2014",
+         "Deutsche Telekom": "25.0",
+         "Vodafone Germany": "10.68",
+         "Telef\u00f3nica Germany": "5.52",
+         "E-Plus group": "0"
+      },
+      {
+         "Year": "2013",
+         "Deutsche Telekom": "25.38",
+         "Vodafone Germany": "9.82",
+         "Telef\u00f3nica Germany": "4.91",
+         "E-Plus group": "3.2"
+      },
+      {
+         "Year": "2012",
+         "Deutsche Telekom": "25.77",
+         "Vodafone Germany": "9.64",
+         "Telef\u00f3nica Germany": "5.21",
+         "E-Plus group": "3.4"
+      },
+      {
+         "Year": "2011",
+         "Deutsche Telekom": "26.4",
+         "Vodafone Germany": "9.55",
+         "Telef\u00f3nica Germany": "5.04",
+         "E-Plus group": "3.24"
+      },
+      {
+         "Year": "2010",
+         "Deutsche Telekom": "27.3",
+         "Vodafone Germany": "9.29",
+         "Telef\u00f3nica Germany": "4.83",
+         "E-Plus group": "3.24"
+      },
+      {
+         "Year": "2009",
+         "Deutsche Telekom": "28.0",
+         "Vodafone Germany": "9.04",
+         "Telef\u00f3nica Germany": "3.75",
+         "E-Plus group": "3.18"
+      },
+      {
+         "Year": "2008",
+         "Deutsche Telekom": "28.9",
+         "Vodafone Germany": "9.41",
+         "Telef\u00f3nica Germany": "3.6",
+         "E-Plus group": "3.22"
+      }
+   ],
+   "gold": "This statistic shows data on the revenues of the three ( four ) leading companies in the German telecommunications market from 2008 to 2018 . In 2018 , Vodafone generated a revenue of roughly 10.3 billion euros in Germany . In the same year , the revenue of Deutsche Telekom amounted to roughly 24.4 billion euros .\n"
+}

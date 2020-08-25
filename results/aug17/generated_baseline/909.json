@@ -1,0 +1,145 @@
+{
+   "title": "Gross domestic product ( GDP ) in Syria 2010\n",
+   "xAxis": "Year",
+   "yAxis": "Gross domestic product in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 27 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately positive which exists from 1998 to 1989.",
+      " Also, the next significant trend is extremely positive which exists from 2010 to 2003.",
+      " Correspondingly, the next significant trend is moderately positive which exists from 2003 to 1998.",
+      " Similarly, the next significant trend is slightly positive which exists from 1989 to 1984."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "12",
+         "12": "21"
+      },
+      {
+         "3": "0",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "12"
+      },
+      {
+         "3": "21",
+         "14": "26"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Gross domestic product in billion U.S. dollars": 60.04
+      },
+      {
+         "Year": "2009",
+         "Gross domestic product in billion U.S. dollars": 53.94
+      },
+      {
+         "Year": "2008",
+         "Gross domestic product in billion U.S. dollars": 52.63
+      },
+      {
+         "Year": "2007",
+         "Gross domestic product in billion U.S. dollars": 40.49
+      },
+      {
+         "Year": "2006",
+         "Gross domestic product in billion U.S. dollars": 33.82
+      },
+      {
+         "Year": "2005",
+         "Gross domestic product in billion U.S. dollars": 28.88
+      },
+      {
+         "Year": "2004",
+         "Gross domestic product in billion U.S. dollars": 25.2
+      },
+      {
+         "Year": "2003",
+         "Gross domestic product in billion U.S. dollars": 21.7
+      },
+      {
+         "Year": "2002",
+         "Gross domestic product in billion U.S. dollars": 22.76
+      },
+      {
+         "Year": "2001",
+         "Gross domestic product in billion U.S. dollars": 20.98
+      },
+      {
+         "Year": "2000",
+         "Gross domestic product in billion U.S. dollars": 19.86
+      },
+      {
+         "Year": "1999",
+         "Gross domestic product in billion U.S. dollars": 16.79
+      },
+      {
+         "Year": "1998",
+         "Gross domestic product in billion U.S. dollars": 16.14
+      },
+      {
+         "Year": "1997",
+         "Gross domestic product in billion U.S. dollars": 16.57
+      },
+      {
+         "Year": "1996",
+         "Gross domestic product in billion U.S. dollars": 17.76
+      },
+      {
+         "Year": "1995",
+         "Gross domestic product in billion U.S. dollars": 16.56
+      },
+      {
+         "Year": "1994",
+         "Gross domestic product in billion U.S. dollars": 15.11
+      },
+      {
+         "Year": "1993",
+         "Gross domestic product in billion U.S. dollars": 13.8
+      },
+      {
+         "Year": "1992",
+         "Gross domestic product in billion U.S. dollars": 13.26
+      },
+      {
+         "Year": "1991",
+         "Gross domestic product in billion U.S. dollars": 12.74
+      },
+      {
+         "Year": "1990",
+         "Gross domestic product in billion U.S. dollars": 12.3
+      },
+      {
+         "Year": "1989",
+         "Gross domestic product in billion U.S. dollars": 9.85
+      },
+      {
+         "Year": "1988",
+         "Gross domestic product in billion U.S. dollars": 16.54
+      },
+      {
+         "Year": "1987",
+         "Gross domestic product in billion U.S. dollars": 32.5
+      },
+      {
+         "Year": "1986",
+         "Gross domestic product in billion U.S. dollars": 25.43
+      },
+      {
+         "Year": "1985",
+         "Gross domestic product in billion U.S. dollars": 21.18
+      },
+      {
+         "Year": "1984",
+         "Gross domestic product in billion U.S. dollars": 19.17
+      }
+   ],
+   "gold": "The statistic shows gross domestic product ( GDP ) in Syria from 1984 to 2010 . Gross domestic product ( GDP ) denotes the aggregate value of all services and goods produced within a country in any given year . GDP is an important indicator of a country 's economic power .\n"
+}

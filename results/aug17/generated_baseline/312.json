@@ -1,0 +1,64 @@
+{
+   "title": "Cattle population worldwide 2012 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Cattle population in million head",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Cattle population in million head, with a total of 8 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2019 to 2015.",
+      " Additionally, the next significant trend is extremely positive which exists from 2014 to 2012.",
+      " Similarly, the next significant trend is slightly negative which exists from 2015 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Cattle population in million head": 1007.26
+      },
+      {
+         "Year": "2018",
+         "Cattle population in million head": 996.36
+      },
+      {
+         "Year": "2017",
+         "Cattle population in million head": 984.53
+      },
+      {
+         "Year": "2016",
+         "Cattle population in million head": 978.77
+      },
+      {
+         "Year": "2015",
+         "Cattle population in million head": 969.26
+      },
+      {
+         "Year": "2014",
+         "Cattle population in million head": 1008.57
+      },
+      {
+         "Year": "2013",
+         "Cattle population in million head": 1005.29
+      },
+      {
+         "Year": "2012",
+         "Cattle population in million head": 1001.72
+      }
+   ],
+   "gold": "How many cattle are in the world ? The global cattle population amounted to about 996.36 million head in 2018 , down from over one billion cattle in 2014 . Cows as livestock The domestication of cattle began as early as 10,000 to 5,000 years ago . From ancient times up to the present , cattle are bred to provide meat and dairy .\n"
+}

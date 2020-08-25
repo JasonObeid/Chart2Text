@@ -1,0 +1,68 @@
+{
+   "title": "Leading Youtubers from the Netherlands based on subscribers 2018\n",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Number of subscribers in thousands.",
+      " The highest category is found at Trap_City where Number of subscribers in thousands is 9333.53.",
+      " The lowest category is found at Ti\u00ebsto where Number of subscribers in thousands is 2485.82."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Trap City",
+         "Number of subscribers in thousands": 9333.53
+      },
+      {
+         "Month": "NikkieTutorials",
+         "Number of subscribers in thousands": 8883.0
+      },
+      {
+         "Month": "Martin Garrix",
+         "Number of subscribers in thousands": 8102.89
+      },
+      {
+         "Month": "Kwebbelkop",
+         "Number of subscribers in thousands": 7898.74
+      },
+      {
+         "Month": "Jelly",
+         "Number of subscribers in thousands": 7643.67
+      },
+      {
+         "Month": "Hardwell",
+         "Number of subscribers in thousands": 4084.03
+      },
+      {
+         "Month": "Armada Music",
+         "Number of subscribers in thousands": 3261.56
+      },
+      {
+         "Month": "saskiasdansschool",
+         "Number of subscribers in thousands": 3032.43
+      },
+      {
+         "Month": "NiceNienke",
+         "Number of subscribers in thousands": 2622.09
+      },
+      {
+         "Month": "Ti\u00ebsto",
+         "Number of subscribers in thousands": 2485.82
+      }
+   ],
+   "gold": "'Music channel Trap City had more than nine million subscriptions in April 2018 , making it the most subscribed YouTube channel that comes from the Netherlands . The ranking also suggests that Dutch EDM artists or channels are popular to subscribe to , with entries for DJs Martin Garrix ( 3rd in this ranking ) , Hardwell ( 6th ) and Ti\u00ebsto ( 10th ) , as well as dance label Armada Music ( 7th ) . Note , however , that the numbers provided here concern worldwide subscribers .\n"
+}

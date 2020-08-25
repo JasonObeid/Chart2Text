@@ -1,0 +1,69 @@
+{
+   "title": "Number of TV ads seen daily per person in the United Kingdom ( UK ) 2008 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Advertisements seen",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Advertisements seen, with a total of 8 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2011 to 2008.",
+      " Correspondingly, the next significant trend is moderately neutral which exists from 2013 to 2011.",
+      " Correspondingly, the next significant trend is moderately neutral which exists from 2015 to 2014.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2014 to 2013."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "7"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Advertisements seen": 45.0
+      },
+      {
+         "Year": "2014",
+         "Advertisements seen": 45.0
+      },
+      {
+         "Year": "2013",
+         "Advertisements seen": 47.0
+      },
+      {
+         "Year": "2012",
+         "Advertisements seen": 47.0
+      },
+      {
+         "Year": "2011",
+         "Advertisements seen": 47.0
+      },
+      {
+         "Year": "2010",
+         "Advertisements seen": 46.0
+      },
+      {
+         "Year": "2009",
+         "Advertisements seen": 43.0
+      },
+      {
+         "Year": "2008",
+         "Advertisements seen": 42.0
+      }
+   ],
+   "gold": "This statistic displays a timeline of the number of TV ads seen per individual per day in the United Kingdom from 2008 to 2015 . In 2012 , individuals saw on average 47 television commercials or advertisements per day .\n"
+}

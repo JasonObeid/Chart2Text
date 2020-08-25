@@ -1,0 +1,71 @@
+{
+   "title": "United Kingdom ( UK ) property market 2013 - 2016 , by submarket value",
+   "labels": [
+      "Submarket",
+      "2013",
+      "2014",
+      "2015",
+      "2016"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts the United Kingdom Submarket of 2013 and market 2016 property in the by from 2013 to 2016 . ",
+      "In 2016 , American 2013 2016 reckoned they spent a median amount of some 374 United Kingdom dollars on medical costs between Residential_property:_owner_occupied_&_social_housing and Commercial_property Residential_property:_owner_occupied_&_social_housing for their pet ."
+   ],
+   "trends": [
+      {},
+      {
+         "21": [
+            "0",
+            "0"
+         ],
+         "23": [
+            "3",
+            "0"
+         ],
+         "24": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Submarket": "Residential property: owner occupied & social housing",
+         "2013": "3831",
+         "2014": "4068",
+         "2015": "4460",
+         "2016": "4805"
+      },
+      {
+         "Submarket": "Residential property: privately rented",
+         "2013": "839",
+         "2014": "929",
+         "2015": "1015",
+         "2016": "1110"
+      },
+      {
+         "Submarket": "Infrastructure",
+         "2013": "0",
+         "2014": "960",
+         "2015": "1061",
+         "2016": "1102"
+      },
+      {
+         "Submarket": "Commercial property",
+         "2013": "683",
+         "2014": "787",
+         "2015": "871",
+         "2016": "883"
+      },
+      {
+         "Submarket": "Other non-domestic buildings",
+         "2013": "127",
+         "2014": "146",
+         "2015": "163",
+         "2016": "147"
+      }
+   ],
+   "gold": "This statistic shows the value of the real estate market in the United Kingdom ( UK ) from 2013 to 2016 , divided by the value of submarkets . It can be seen that during this period the commercial property market size increased by 200 billion British pounds to a value of 883 billion British pounds in 2016 .\n"
+}

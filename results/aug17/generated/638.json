@@ -1,0 +1,54 @@
+{
+   "title": "Global pork exports 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Export volume in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic illustrates the Export volume of Global pork in exports 2020 by in 2020 . ",
+      "That year , United_States accounted for some 3221 thousand of the world 's exports 2020 by and was ranked second . ",
+      "exports 2020 by Country In 2020 , EU topped the ranking of the largest exports 2020 producing pork worldwide ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "1",
+         "7": "1"
+      },
+      {
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "EU",
+         "Export volume in thousand metric tons": "3900"
+      },
+      {
+         "Country": "United States",
+         "Export volume in thousand metric tons": "3221"
+      },
+      {
+         "Country": "Canada",
+         "Export volume in thousand metric tons": "1400"
+      },
+      {
+         "Country": "Brazil",
+         "Export volume in thousand metric tons": "1000"
+      },
+      {
+         "Country": "Mexico",
+         "Export volume in thousand metric tons": "250"
+      },
+      {
+         "Country": "China",
+         "Export volume in thousand metric tons": "100"
+      },
+      {
+         "Country": "Others",
+         "Export volume in thousand metric tons": "476"
+      }
+   ],
+   "gold": "This statistic depicts the forecast export volume of pork worldwide in 2020 , by leading country . The estimated pork exports of the United States were amounted to approximately 3.22 million metric tons in 2020 .\n"
+}

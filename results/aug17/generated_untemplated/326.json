@@ -1,0 +1,89 @@
+{
+   "title": "American imports of corn 2001 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Imports in million bushels",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the percentage of adults who use the internet in the united from 2000 and 2019 . In the most recent measured year , 90 percent of u.s. adults were reported to use the internet at least occasionally , up from 76 percent in 2010 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Imports in million bushels": 28.0
+      },
+      {
+         "Year": "2018",
+         "Imports in million bushels": 36.0
+      },
+      {
+         "Year": "2017",
+         "Imports in million bushels": 57.0
+      },
+      {
+         "Year": "2016",
+         "Imports in million bushels": 57.0
+      },
+      {
+         "Year": "2015",
+         "Imports in million bushels": 68.0
+      },
+      {
+         "Year": "2014",
+         "Imports in million bushels": 32.0
+      },
+      {
+         "Year": "2013",
+         "Imports in million bushels": 36.0
+      },
+      {
+         "Year": "2012",
+         "Imports in million bushels": 160.0
+      },
+      {
+         "Year": "2011",
+         "Imports in million bushels": 29.0
+      },
+      {
+         "Year": "2010",
+         "Imports in million bushels": 28.0
+      },
+      {
+         "Year": "2009",
+         "Imports in million bushels": 8.0
+      },
+      {
+         "Year": "2008",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2007",
+         "Imports in million bushels": 20.0
+      },
+      {
+         "Year": "2006",
+         "Imports in million bushels": 12.0
+      },
+      {
+         "Year": "2005",
+         "Imports in million bushels": 9.0
+      },
+      {
+         "Year": "2004",
+         "Imports in million bushels": 11.0
+      },
+      {
+         "Year": "2003",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2002",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2001",
+         "Imports in million bushels": 10.0
+      }
+   ],
+   "gold": "This statistic shows imports of corn in the United States from 2001 to 2019 . According to the report , U.S. corn imports amounted to approximately 57 million bushels in 2016 , down from 68 million bushels the previous year .\n"
+}

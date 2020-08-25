@@ -1,0 +1,68 @@
+{
+   "title": "Forbes ranking of the 10 richest people in Italy 2019\n",
+   "xAxis": "Month",
+   "yAxis": "Wealth in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Month, and a y axis representing Wealth in billion U.S. dollars.",
+      " The highest category is found at Leonardo_Del_Vecchio where Wealth in billion U.S. dollars is 24.4.",
+      " The lowest category is found at Ennio_Doris where Wealth in billion U.S. dollars is 3.3."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Leonardo Del Vecchio",
+         "Wealth in billion U.S. dollars": 24.4
+      },
+      {
+         "Month": "Giovanni Ferrero",
+         "Wealth in billion U.S. dollars": 21.9
+      },
+      {
+         "Month": "Giorgio Armani",
+         "Wealth in billion U.S. dollars": 11.2
+      },
+      {
+         "Month": "Stefano Pessina",
+         "Wealth in billion U.S. dollars": 10.4
+      },
+      {
+         "Month": "Massimiliana Landini Aleotti",
+         "Wealth in billion U.S. dollars": 8.1
+      },
+      {
+         "Month": "Silvio Berlusconi",
+         "Wealth in billion U.S. dollars": 7.0
+      },
+      {
+         "Month": "Augusto e Giorgio Perfetti",
+         "Wealth in billion U.S. dollars": 6.9
+      },
+      {
+         "Month": "Paolo and Gianfelice Rocca",
+         "Wealth in billion U.S. dollars": 3.7
+      },
+      {
+         "Month": "Piero Ferrari",
+         "Wealth in billion U.S. dollars": 3.4
+      },
+      {
+         "Month": "Ennio Doris",
+         "Wealth in billion U.S. dollars": 3.3
+      }
+   ],
+   "gold": "Leonardo Del Vecchio , founder of the eyewear company Luxottica , podiumed in the yearly ranking of Italian billionaires , published by the American business magazine Forbes . With the total net worth estimated at 24.4 billion dollars , Del Vecchio put ahead other Italian entrepreneurs - Giovanni Ferrero , the CEO of the Italian confectionary company Ferrero and the fashion designer Giorgio Armani , whose fortunes reached respectively 21.9 and 11.2 billion dollars . Largest eyewear company in the world Luxottica is the largest company in the eyewear sector worldwide .\n"
+}

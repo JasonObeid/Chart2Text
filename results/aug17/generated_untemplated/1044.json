@@ -1,0 +1,29 @@
+{
+   "title": "Singapore resident population as of June 2018 by ethnic group\n",
+   "xAxis": "Ethnicity",
+   "yAxis": "Population in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The graph shows the population distribution in china in 2018 , by broad age group . In 2018 , about 64.0 percent of the population was between 16 and 59 years old . Apart from the information given on broad age groups in this statistic , some more information is provided by a timeline for the age distribution and a population breakdown by smaller age groups .\n",
+   "trends": {},
+   "data": [
+      {
+         "Ethnicity": "Chinese",
+         "Population in thousands": 2969.28
+      },
+      {
+         "Ethnicity": "Malays",
+         "Population in thousands": 535.82
+      },
+      {
+         "Ethnicity": "Indians",
+         "Population in thousands": 360.53
+      },
+      {
+         "Ethnicity": "Others",
+         "Population in thousands": 128.65
+      }
+   ],
+   "gold": "As of June 2017 , the population of Singaporeans who were ethnic Chinese was around 2.97 million . Singapore is a multi-ethnic and multi-religious society , with residents categorized into four main ethnic groups : Chinese , Malay , Indian , and Other ethnicities .\n"
+}

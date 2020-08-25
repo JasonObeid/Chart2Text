@@ -1,0 +1,40 @@
+{
+   "title": "Average spend of eating out for lunch in the U.S. 2015\n",
+   "xAxis": "Days",
+   "yAxis": "Average cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Days, and a y axis representing Average cost in U.S. dollars.",
+      " The highest category is found at Per_year where Average cost in U.S. dollars is 1043.0.",
+      " The lowest category is found at Per_day where Average cost in U.S. dollars is 11.14."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Days": "Per day",
+         "Average cost in U.S. dollars": 11.14
+      },
+      {
+         "Days": "Per week",
+         "Average cost in U.S. dollars": 20.05
+      },
+      {
+         "Days": "Per year",
+         "Average cost in U.S. dollars": 1043.0
+      }
+   ],
+   "gold": "The statistic shows the average cost of eating out for lunch in the United States in 2015 . The average cost of eating out for lunch in the U.S. was 11.14 U.S. dollars in 2015 . Eating out for lunch two times per week costs an average of 1,043 U.S. dollars per year .\n"
+}

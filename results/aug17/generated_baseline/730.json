@@ -1,0 +1,60 @@
+{
+   "title": "Ownership and personal use of laptop/netbook computers 2012 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Country, and a y axis representing Percentage of population.",
+      " The highest category is found at Italy where Percentage of population is 80.0.",
+      " The lowest category is found at United_States where Percentage of population is 68.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Italy",
+         "Percentage of population": 80.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Percentage of population": 75.0
+      },
+      {
+         "Country": "Germany",
+         "Percentage of population": 73.0
+      },
+      {
+         "Country": "Japan",
+         "Percentage of population": 72.0
+      },
+      {
+         "Country": "Australia",
+         "Percentage of population": 71.0
+      },
+      {
+         "Country": "Spain",
+         "Percentage of population": 71.0
+      },
+      {
+         "Country": "France",
+         "Percentage of population": 69.0
+      },
+      {
+         "Country": "United States",
+         "Percentage of population": 68.0
+      }
+   ],
+   "gold": "This statistic shows the percentage of laptop/netbook computer ownership and usage among the populations of selected countries as of September 2012 . In the U.S. laptop/netbook ownership and usage was found to be at 68 percent of the population .\n"
+}

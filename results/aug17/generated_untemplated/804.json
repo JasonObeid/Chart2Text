@@ -1,0 +1,33 @@
+{
+   "title": "Forecast CAGR global digital health market by major segment 2015 to 2020\n",
+   "xAxis": "Name",
+   "yAxis": "Compound annual growth rate 2015-2020",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the distribution of distribution of global data breach incidents in the first half of 2018 , sorted by type . That year , nuisance attacks accounted for 4 percent of data breaches that year . Identity theft accounted for 65 percent of data breaches worldwide .\n",
+   "trends": {},
+   "data": [
+      {
+         "Name": "Average",
+         "Compound annual growth rate 2015-2020": 21.0
+      },
+      {
+         "Name": "EHR/EMR",
+         "Compound annual growth rate 2015-2020": 4.0
+      },
+      {
+         "Name": "Telehealth",
+         "Compound annual growth rate 2015-2020": 15.0
+      },
+      {
+         "Name": "Wireless health",
+         "Compound annual growth rate 2015-2020": 23.0
+      },
+      {
+         "Name": "Mobile health",
+         "Compound annual growth rate 2015-2020": 41.0
+      }
+   ],
+   "gold": "This statistic displays a projection of the CAGR for the global digital health market from 2015 to 2020 , by segment . During this period , the mobile health market 's compound annual growth rate is expected to be around 41 percent . The digital health market is expected to reach over 200 billion U.S. dollars by 2020 driven particularly by the mobile health market .\n"
+}

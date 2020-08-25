@@ -1,0 +1,76 @@
+{
+   "title": "Under Armour 's total workforce worldwide from 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of employees, with a total of 11 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2017 to 2009.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2019 to 2018.",
+      " Also, the next significant trend is slightly negative which exists from 2018 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "10"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of employees": 16400.0
+      },
+      {
+         "Year": "2018",
+         "Number of employees": 15000.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees": 15800.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 15200.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 13400.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 10700.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 7800.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees": 5900.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 5400.0
+      },
+      {
+         "Year": "2010",
+         "Number of employees": 3900.0
+      },
+      {
+         "Year": "2009",
+         "Number of employees": 3000.0
+      }
+   ],
+   "gold": "Under Armour is an American sporting goods manufacturer , based in Baltimore , Maryland . In 2019 , Under Armour employed about 16,400 people around the world . Under Armour is one of the largest sportswear and sporting goods manufacturers in the world , however it is still far behind Nike and adidas who are the dominating companies within this industry .\n"
+}

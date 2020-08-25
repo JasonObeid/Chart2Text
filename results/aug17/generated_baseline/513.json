@@ -1,0 +1,108 @@
+{
+   "title": "Countries with the lowest national debt 2019\n",
+   "xAxis": "Country",
+   "yAxis": "National debt in relation to GDP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Country, and a y axis representing National debt in relation to GDP.",
+      " The highest category is found at Kiribati where National debt in relation to GDP is 22.62.",
+      " The lowest category is found at Hong_Kong_SAR where National debt in relation to GDP is 0.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 19,
+         "12": 19
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Hong Kong SAR",
+         "National debt in relation to GDP": 0.0
+      },
+      {
+         "Country": "Macao SAR",
+         "National debt in relation to GDP": 0.0
+      },
+      {
+         "Country": "Brunei Darussalam",
+         "National debt in relation to GDP": 2.8
+      },
+      {
+         "Country": "Afghanistan",
+         "National debt in relation to GDP": 7.55
+      },
+      {
+         "Country": "Estonia",
+         "National debt in relation to GDP": 8.2
+      },
+      {
+         "Country": "Solomon Islands",
+         "National debt in relation to GDP": 10.91
+      },
+      {
+         "Country": "Botswana",
+         "National debt in relation to GDP": 12.31
+      },
+      {
+         "Country": "Democratic Republic of the Congo",
+         "National debt in relation to GDP": 13.49
+      },
+      {
+         "Country": "Kuwait",
+         "National debt in relation to GDP": 15.25
+      },
+      {
+         "Country": "Russia",
+         "National debt in relation to GDP": 16.49
+      },
+      {
+         "Country": "Zimbabwe",
+         "National debt in relation to GDP": 17.67
+      },
+      {
+         "Country": "Kosovo",
+         "National debt in relation to GDP": 18.18
+      },
+      {
+         "Country": "Micronesia",
+         "National debt in relation to GDP": 18.49
+      },
+      {
+         "Country": "Bulgaria",
+         "National debt in relation to GDP": 19.16
+      },
+      {
+         "Country": "Azerbaijan",
+         "National debt in relation to GDP": 19.71
+      },
+      {
+         "Country": "United Arab Emirates",
+         "National debt in relation to GDP": 20.14
+      },
+      {
+         "Country": "Kazakhstan",
+         "National debt in relation to GDP": 20.76
+      },
+      {
+         "Country": "Luxembourg",
+         "National debt in relation to GDP": 21.34
+      },
+      {
+         "Country": "Tuvalu",
+         "National debt in relation to GDP": 22.6
+      },
+      {
+         "Country": "Kiribati",
+         "National debt in relation to GDP": 22.62
+      }
+   ],
+   "gold": "The statistic shows the 20 countries with the lowest national debt in 2019 in relation to the gross domestic product ( GDP ) . The data refer to the debts of the entire state , including the central government , the provinces , municipalities , local authorities and social insurance . In 2019 , Russia 's estimated level of national debt reached about 16.49 percent of the GDP , ranking 10th of the countries with the lowest national debt .\n"
+}

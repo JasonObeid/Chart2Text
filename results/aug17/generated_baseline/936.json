@@ -1,0 +1,60 @@
+{
+   "title": "Population in Sweden 2018 , by level of education\n",
+   "xAxis": "Level Of Education",
+   "yAxis": "Share of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Level Of Education, and a y axis representing Share of population.",
+      " The highest category is found at Upper_secondary_education_(3_years_or_more) where Share of population is 23.4.",
+      " The lowest category is found at Post-graduate_education where Share of population is 1.12."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Level Of Education": "Primary and lower education (less than 9 years)",
+         "Share of population": 4.1
+      },
+      {
+         "Level Of Education": "Lower secondary education (9 years)",
+         "Share of population": 13.1
+      },
+      {
+         "Level Of Education": "Upper secondary education (less than 3 years)",
+         "Share of population": 19.5
+      },
+      {
+         "Level Of Education": "Upper secondary education (3 years or more)",
+         "Share of population": 23.4
+      },
+      {
+         "Level Of Education": "Post-secondary education (less than 3 years)",
+         "Share of population": 14.5
+      },
+      {
+         "Level Of Education": "Post-secondary education (3 years or more)",
+         "Share of population": 21.7
+      },
+      {
+         "Level Of Education": "Post-graduate education",
+         "Share of population": 1.12
+      },
+      {
+         "Level Of Education": "No information about level of education",
+         "Share of population": 2.7
+      }
+   ],
+   "gold": "The number of Swedes with higher education , a post-secondary education of three years or more , increased since 2000 , while the number without decreased . In 2017 , around 37 percent of the population had at least some level of post-secondary education . Among them , 21.7 percent had an upper secondary education of three years or more .\n"
+}

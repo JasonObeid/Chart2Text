@@ -1,0 +1,99 @@
+{
+   "title": "Revenue of the Minnesota Vikings ( NFL ) 2001 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly positive which exists from 2011 to 2001.",
+      " Similarly, the next significant trend is extremely positive which exists from 2018 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "7",
+         "12": "17"
+      },
+      {
+         "3": "0",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 427.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 408.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 392.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 306.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 281.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 250.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 234.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 227.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 227.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 221.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 209.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 195.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 182.0
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 167.0
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 164.0
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 144.0
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 135.0
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 123.0
+      }
+   ],
+   "gold": "The statistic depicts the revenue of the Minnesota Vikings , a franchise of the National Football League , from 2001 to 2018 . In 2018 , the revenue of the Minnesota Vikings was 427 million U.S. dollars .\n"
+}

@@ -1,0 +1,58 @@
+{
+   "title": "Gasoline price per liter in selected countries - December 2019",
+   "xAxis": "Country",
+   "yAxis": "Price per liter in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In December 2019 , the Gasoline Price per liter in the Italy United_States stood at 0.807 U.S. dollars per liter . ",
+      "In the Italy in the same month , the Price stood at 1.704 U.S. dollars per liter . ",
+      "This data concerns the Price of automotive Gasoline ( for non-commercial use ) per liter in selected countries ."
+   ],
+   "trends": [
+      {
+         "11": "0",
+         "12": "7"
+      },
+      {
+         "2": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Italy",
+         "Price per liter in U.S. dollars": "1.76"
+      },
+      {
+         "Country": "France",
+         "Price per liter in U.S. dollars": "1.69"
+      },
+      {
+         "Country": "United Kingdom",
+         "Price per liter in U.S. dollars": "1.64"
+      },
+      {
+         "Country": "Germany",
+         "Price per liter in U.S. dollars": "1.54"
+      },
+      {
+         "Country": "Spain",
+         "Price per liter in U.S. dollars": "1.45"
+      },
+      {
+         "Country": "Japan",
+         "Price per liter in U.S. dollars": "1.36"
+      },
+      {
+         "Country": "Canada",
+         "Price per liter in U.S. dollars": "0.89"
+      },
+      {
+         "Country": "United States",
+         "Price per liter in U.S. dollars": "0.68"
+      }
+   ],
+   "gold": "This statistic shows the price of gasoline per liter in selected countries in December 2019 . The prices concern unleaded premium ( 95 RON ) for France , Germany , Italy , Spain , and the United Kingdom , and regular unleaded for Canada , Japan , and the United States . In December 2019 , the gasoline price per liter in the United States stood at 0.675 U.S. dollars per liter .\n"
+}

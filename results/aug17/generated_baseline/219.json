@@ -1,0 +1,69 @@
+{
+   "title": "Sporting goods industry : Revenue of Easton Bell Sports 2013\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue (in million U.S. dollars)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue (in million U.S. dollars), with a total of 8 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately negative which exists from 2013 to 2011.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2011 to 2009.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2008 to 2006.",
+      " Similarly, the next significant trend is slightly negative which exists from 2009 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Revenue (in million U.S. dollars)": 780.4
+      },
+      {
+         "Year": "2012",
+         "Revenue (in million U.S. dollars)": 827.2
+      },
+      {
+         "Year": "2011",
+         "Revenue (in million U.S. dollars)": 834.9
+      },
+      {
+         "Year": "2010",
+         "Revenue (in million U.S. dollars)": 772.8
+      },
+      {
+         "Year": "2009",
+         "Revenue (in million U.S. dollars)": 716.3
+      },
+      {
+         "Year": "2008",
+         "Revenue (in million U.S. dollars)": 775.5
+      },
+      {
+         "Year": "2007",
+         "Revenue (in million U.S. dollars)": 724.7
+      },
+      {
+         "Year": "2006",
+         "Revenue (in million U.S. dollars)": 639.0
+      }
+   ],
+   "gold": "This graph depicts the revenue of the sporting goods company Easton-Bell Sports from 2006 to 2013 . In 2006 , Easton-Bell Sports generated revenues of 639 million U.S. dollars . Easton-Bell Sports makes sports equipment and clothing under the brands Bell Sports , Blackburn , Easton , Giro , and Riddell .\n"
+}

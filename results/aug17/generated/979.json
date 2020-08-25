@@ -1,0 +1,119 @@
+{
+   "title": "Share of non-performing loans held by banks in the U.S. 1995 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Share of non-performing loans in total loans",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows Share non-performing loans in the held by 1995 to 2019 . ",
+      "In 2019 , non-performing Share loans amounted to about 0.89 % ."
+   ],
+   "trends": [
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "'19",
+         "Share of non-performing loans in total loans": "0.89"
+      },
+      {
+         "Year": "'18",
+         "Share of non-performing loans in total loans": "1.02"
+      },
+      {
+         "Year": "'17",
+         "Share of non-performing loans in total loans": "1.22"
+      },
+      {
+         "Year": "'16",
+         "Share of non-performing loans in total loans": "1.47"
+      },
+      {
+         "Year": "'15",
+         "Share of non-performing loans in total loans": "1.67"
+      },
+      {
+         "Year": "'14",
+         "Share of non-performing loans in total loans": "2.21"
+      },
+      {
+         "Year": "'13",
+         "Share of non-performing loans in total loans": "3.04"
+      },
+      {
+         "Year": "'12",
+         "Share of non-performing loans in total loans": "3.95"
+      },
+      {
+         "Year": "'11",
+         "Share of non-performing loans in total loans": "4.5"
+      },
+      {
+         "Year": "'10",
+         "Share of non-performing loans in total loans": "5.3"
+      },
+      {
+         "Year": "'09",
+         "Share of non-performing loans in total loans": "4.7"
+      },
+      {
+         "Year": "'08",
+         "Share of non-performing loans in total loans": "2.21"
+      },
+      {
+         "Year": "'07",
+         "Share of non-performing loans in total loans": "1.01"
+      },
+      {
+         "Year": "'06",
+         "Share of non-performing loans in total loans": "0.73"
+      },
+      {
+         "Year": "'05",
+         "Share of non-performing loans in total loans": "0.77"
+      },
+      {
+         "Year": "'04",
+         "Share of non-performing loans in total loans": "0.96"
+      },
+      {
+         "Year": "'03",
+         "Share of non-performing loans in total loans": "1.3"
+      },
+      {
+         "Year": "'02",
+         "Share of non-performing loans in total loans": "1.47"
+      },
+      {
+         "Year": "'01",
+         "Share of non-performing loans in total loans": "1.3"
+      },
+      {
+         "Year": "'00",
+         "Share of non-performing loans in total loans": "1.02"
+      },
+      {
+         "Year": "'99",
+         "Share of non-performing loans in total loans": "0.96"
+      },
+      {
+         "Year": "'98",
+         "Share of non-performing loans in total loans": "0.95"
+      },
+      {
+         "Year": "'97",
+         "Share of non-performing loans in total loans": "0.99"
+      },
+      {
+         "Year": "'96",
+         "Share of non-performing loans in total loans": "1.11"
+      },
+      {
+         "Year": "'95",
+         "Share of non-performing loans in total loans": "1.25"
+      }
+   ],
+   "gold": "In 2019 , 0.89 percent of the loans that banks in the United States held were non-performing . This means that 99 percent of loan recipients were repaying their bank back at that time , which is a significant improvement from the 5.3 percent of non-performing loans in the aftermath of the Financial Crisis . What are non-performing loans ? Banks do not expect all the loans they issue to be fully repaid .\n"
+}

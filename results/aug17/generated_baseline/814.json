@@ -1,0 +1,70 @@
+{
+   "title": "Number of Papa John 's restaurants worldwide 2007 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of restaurants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of restaurants with a total of 12 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2018 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of restaurants": 5303.0
+      },
+      {
+         "Year": "2017",
+         "Number of restaurants": 5199.0
+      },
+      {
+         "Year": "2016",
+         "Number of restaurants": 5097.0
+      },
+      {
+         "Year": "2015",
+         "Number of restaurants": 4893.0
+      },
+      {
+         "Year": "2014",
+         "Number of restaurants": 4663.0
+      },
+      {
+         "Year": "2013",
+         "Number of restaurants": 4428.0
+      },
+      {
+         "Year": "2012",
+         "Number of restaurants": 4163.0
+      },
+      {
+         "Year": "2011",
+         "Number of restaurants": 3883.0
+      },
+      {
+         "Year": "2010",
+         "Number of restaurants": 3646.0
+      },
+      {
+         "Year": "2009",
+         "Number of restaurants": 3469.0
+      },
+      {
+         "Year": "2008",
+         "Number of restaurants": 3380.0
+      },
+      {
+         "Year": "2007",
+         "Number of restaurants": 3208.0
+      }
+   ],
+   "gold": "In 2018 , pizza chain Papa John 's had a total of approximately 5,303 restaurants worldwide , up from 5,199 the previous year . This figure has been steadily growing for 12 years . Papa John 's place in the U.S. market Papa John 's ranked in fourth place in terms of U.S. sales when compared to competitors such as Domino 's Pizza , Pizza Hut and Little Caesars .\n"
+}

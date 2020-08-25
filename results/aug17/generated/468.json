@@ -1,0 +1,69 @@
+{
+   "title": "Life expectancy in North America 2019",
+   "labels": [
+      "Country",
+      "Males",
+      "Females"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "In 2019 , 81 % of North civilian North_America employees in the America were Females . ",
+      "Only 84 % of North North_America officers were Females , while 80 % of North_America officers were Males . ",
+      "The Life divide North_America in the America is an indisputably male-dominated profession , particularly in the Federal Bureau of Investigation ( FBI ) ."
+   ],
+   "trends": [
+      {
+         "3": [
+            "2",
+            "2"
+         ],
+         "8": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "2"
+         ],
+         "5": [
+            "0",
+            "0"
+         ],
+         "11": [
+            "1",
+            "1"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "3": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "North America",
+         "Males": "76",
+         "Females": "81"
+      },
+      {
+         "Country": "Canada",
+         "Males": "80",
+         "Females": "84"
+      },
+      {
+         "Country": "USA",
+         "Males": "76",
+         "Females": "81"
+      }
+   ],
+   "gold": "This statistic shows the average life expectancy in North America for those born in 2019 , by gender and region . In Canada , the average life expectancy was 80 years for males and 84 years for females in 2019 . Life expectancy in North America Of those considered in this statistic , the life expectancy of female Canadian infants born in 2019 was the longest , at 84 years .\n"
+}

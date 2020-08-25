@@ -1,0 +1,33 @@
+{
+   "title": "Number of earthquakes in Italy 2018 - 2019 , by magnitude\n",
+   "xAxis": "Magnitude",
+   "yAxis": "Number of earthquakes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic shows largest national tv advertisers in the united from 25 to 3 , 2019 . mcdonalds ranked first , having invested 6.9 million u.s. dollars on new creatives on u.s. national tv in the presented week .\n",
+   "trends": {},
+   "data": [
+      {
+         "Magnitude": "Magnitude 0+",
+         "Number of earthquakes": 21869.0
+      },
+      {
+         "Magnitude": "Magnitude 2+",
+         "Number of earthquakes": 2384.0
+      },
+      {
+         "Magnitude": "Magnitude 3+",
+         "Number of earthquakes": 226.0
+      },
+      {
+         "Magnitude": "Magnitude 4+",
+         "Number of earthquakes": 20.0
+      },
+      {
+         "Magnitude": "Magnitude 5.5+",
+         "Number of earthquakes": 0.0
+      }
+   ],
+   "gold": "The statistic shows the number of earthquakes in Italy from March 2018 to March 2019 , broken down by magnitude . According to data , no earthquakes with 5.5+ magnitude occurred in Italy over the period considered .\n"
+}

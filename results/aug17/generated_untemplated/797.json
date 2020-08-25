@@ -1,0 +1,37 @@
+{
+   "title": "Sales of streaming devices in the United States 2014\n",
+   "xAxis": "Streaming Brand",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "In the united , the most popular television programs are by far those within the drama category . A 2017 study showed that 33 percent of primetime tv programs were drama shows , almost double the share of comedy or reality programs . What affects genre preferences ? An interesting way in which the popularity of a genre can change is looking at data pertaining to a viewer 's age .\n",
+   "trends": {},
+   "data": [
+      {
+         "Streaming Brand": "Apple TV",
+         "Unit sales in millions": 8.8
+      },
+      {
+         "Streaming Brand": "Fire TV",
+         "Unit sales in millions": 5.8
+      },
+      {
+         "Streaming Brand": "Roku",
+         "Unit sales in millions": 5.0
+      },
+      {
+         "Streaming Brand": "Chromecast",
+         "Unit sales in millions": 4.0
+      },
+      {
+         "Streaming Brand": "Tivo",
+         "Unit sales in millions": 1.2
+      },
+      {
+         "Streaming Brand": "Other",
+         "Unit sales in millions": 2.8
+      }
+   ],
+   "gold": "The statistic shows the unit sales of streaming devices in the United States in 2014 . 8.8 million units of the Apple TV streaming device are forecast to be sold in the United States in 2014 .\n"
+}

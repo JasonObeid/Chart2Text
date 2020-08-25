@@ -1,0 +1,81 @@
+{
+   "title": "Boston Bruins ' revenue 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the annual National Hockey League Revenue of the Boston Bruins from the 2005/06 season to the 2018/19 season . ",
+      "The Revenue of the Boston Bruins amounted to 228 million U.S. dollars in the 2018/19 season ."
+   ],
+   "trends": [
+      {
+         "14": "13",
+         "18": "0"
+      },
+      {
+         "7": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": "228"
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": "191"
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": "176"
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": "169"
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": "158"
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": "164"
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": "114"
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": "129"
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": "125"
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": "110"
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": "108"
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": "97"
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": "87"
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": "86"
+      }
+   ],
+   "gold": "The statistic shows the revenue of the Boston Bruins from the 2005/06 season to the 2018/19 season . The revenue of the Boston Bruins amounted to 228 million U.S. dollars in the 2018/19 season .\n"
+}

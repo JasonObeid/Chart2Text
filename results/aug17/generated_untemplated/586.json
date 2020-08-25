@@ -1,0 +1,21 @@
+{
+   "title": "U.S. Amazon retail market share 2016 and 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the share of adults in the united who were snapchat users as of 2018 , sorted by age group . During that period of time , 43 percent of u.s. teens aged 15 to 17 years used the social networking app .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2020",
+         "Market share": 50.0
+      },
+      {
+         "Year": "2016",
+         "Market share": 34.0
+      }
+   ],
+   "gold": "This statistic presents a projection of Amazon 's retail market share in the United States in 2016 and 2020 , based on GMV . In 2016 , the online retail platform was estimated to account for 34 percent of the U.S. retail GMV . This share is set to increase to 50 percent in 2020 .\n"
+}

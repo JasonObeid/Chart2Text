@@ -1,0 +1,57 @@
+{
+   "title": "Toys and games market : market segmentation by value 2009",
+   "xAxis": "Name",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Other was the market Name with the largest Market share in Toys , as of 2020 . ",
+      "The Market share of Other made up 30.5 % of the total Market in Toys . ",
+      "Infant/Pre-school_toys , second in this list , had roughly 16.2 % of all Swedish page views ."
+   ],
+   "trends": [
+      {
+         "0": "0"
+      },
+      {
+         "4": "0",
+         "7": "0"
+      },
+      {
+         "0": "1",
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Name": "Other",
+         "Market share": "30.5"
+      },
+      {
+         "Name": "Infant/Pre-school toys",
+         "Market share": "16.2"
+      },
+      {
+         "Name": "Activity toys",
+         "Market share": "15.1"
+      },
+      {
+         "Name": "Dolls",
+         "Market share": "12.2"
+      },
+      {
+         "Name": "Ride-ons",
+         "Market share": "11.4"
+      },
+      {
+         "Name": "Games and puzzles",
+         "Market share": "9.5"
+      },
+      {
+         "Name": "Plush toys",
+         "Market share": "5.1"
+      }
+   ],
+   "gold": "This graph depicts the share of toy categories of the total market value in 2009 . Activity toys accounted for 15.1 percent of total toys and games market revenue .\n"
+}

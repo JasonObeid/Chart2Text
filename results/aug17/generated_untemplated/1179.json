@@ -1,0 +1,61 @@
+{
+   "title": "Argentina : poverty headcount ratio at 3.20 U.S. dollars per day 2005 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The poverty rate in uruguay has been decreasing recently . In 2017 , approximately 0.4 percent of Uruguayans was living on less than 3.20 u.s. dollars per day , down from 3.7 percent of the country 's population in 2006.Still , social inequality remains a challenge in Latin America as a whole .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2017",
+         "Percentage of population": 2.0
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": 2.4
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": 2.8
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": 2.4
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": 2.7
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": 2.6
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": 3.7
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": 6.0
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": 6.2
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": 6.9
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": 8.0
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": 10.0
+      }
+   ],
+   "gold": "The poverty rate in Argentina has been oscillating throughout recent years . In 2017 , two percent of the Argentine population were living on less than 3.20 U.S. dollars per day , down from ten percent of the population in 2005.In nominal terms , household income per capita in Argentina has shown a significant improvement in 2017 .\n"
+}

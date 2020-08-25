@@ -1,0 +1,81 @@
+{
+   "title": "Car rental in the U.S. - total cars in service 2002 to 2012\n",
+   "xAxis": "Year",
+   "yAxis": "Cars in service in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Cars in service in thousands, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately negative which exists from 2003 to 2007.",
+      " Contrarily, the next significant trend is slightly positive which exists from 2007 to 2010.",
+      " Likewise, the next significant trend is extremely negative which exists from 2010 to 2012.",
+      " On the other hand, the next significant trend is moderately positive which exists from 2002 to 2003."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "5"
+      },
+      {
+         "3": "5",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2002",
+         "Cars in service in thousands": 1643.0
+      },
+      {
+         "Year": "2003",
+         "Cars in service in thousands": 1617.0
+      },
+      {
+         "Year": "2004",
+         "Cars in service in thousands": 1665.0
+      },
+      {
+         "Year": "2005",
+         "Cars in service in thousands": 1714.0
+      },
+      {
+         "Year": "2006",
+         "Cars in service in thousands": 1768.0
+      },
+      {
+         "Year": "2007",
+         "Cars in service in thousands": 1861.0
+      },
+      {
+         "Year": "2008",
+         "Cars in service in thousands": 1813.0
+      },
+      {
+         "Year": "2009",
+         "Cars in service in thousands": 1637.0
+      },
+      {
+         "Year": "2010",
+         "Cars in service in thousands": 1629.0
+      },
+      {
+         "Year": "2011",
+         "Cars in service in thousands": 1761.0
+      },
+      {
+         "Year": "2012",
+         "Cars in service in thousands": 1857.0
+      }
+   ],
+   "gold": "This statistic represents the US rental car industry 's total number of cars in service between 2002 and 2012 . In 2012 , there were about 1.86 million rental cars in service , while the industry 's revenue grew to around 23.6 billion US dollars .\n"
+}

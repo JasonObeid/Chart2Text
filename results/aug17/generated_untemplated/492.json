@@ -1,0 +1,53 @@
+{
+   "title": "Grocery market share in France 2019\n",
+   "xAxis": "Grocery Stores",
+   "yAxis": "Market share of total grocers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the most popular corporate brands in the united kingdom ( uk ) , ranked by the share of consumers who have dined in them in the last 12 months , as of a survey published in 2016 . pizza hut was among the leading brands with 23 percent of respondents having visited in the last year .\n",
+   "trends": {},
+   "data": [
+      {
+         "Grocery Stores": "E. Leclerc Group",
+         "Market share of total grocers": 21.6
+      },
+      {
+         "Grocery Stores": "Carrefour Group",
+         "Market share of total grocers": 19.8
+      },
+      {
+         "Grocery Stores": "Intermarch\u00e9 Group",
+         "Market share of total grocers": 15.3
+      },
+      {
+         "Grocery Stores": "Syst\u00e8me U Group",
+         "Market share of total grocers": 10.7
+      },
+      {
+         "Grocery Stores": "Casino Group",
+         "Market share of total grocers": 10.6
+      },
+      {
+         "Grocery Stores": "Auchan Group",
+         "Market share of total grocers": 10.0
+      },
+      {
+         "Grocery Stores": "Lidl Group",
+         "Market share of total grocers": 6.2
+      },
+      {
+         "Grocery Stores": "Delhaize Group",
+         "Market share of total grocers": 2.8
+      },
+      {
+         "Grocery Stores": "Aldi Group",
+         "Market share of total grocers": 2.3
+      },
+      {
+         "Grocery Stores": "Other",
+         "Market share of total grocers": 0.7
+      }
+   ],
+   "gold": "This statistic shows the market share of grocery stores in France for the 12 weeks ending December 17 , 2019 . E. Leclerc holds the largest market share with 21.6 percent , followed by Carrefour with a 19.8 percent share . The grocery retail landscape in France has been dominated by the Leclerc Group and Carrefour group , who have been fighting neck in neck for the lead position .\n"
+}

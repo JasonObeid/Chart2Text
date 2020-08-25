@@ -1,0 +1,45 @@
+{
+   "title": "Net profits/loss of Italian company Dolce & Gabbana in 2014 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Net profits/loss in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Net of profits/loss million euros in Italian 2014 , 2018 . ",
+      "In 2018 , there were approximately -24.11 million profits/loss euros in Italian ."
+   ],
+   "trends": [
+      {
+         "13": "4",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Net profits/loss in million euros": "-24.11"
+      },
+      {
+         "Year": "2017",
+         "Net profits/loss in million euros": "27.55"
+      },
+      {
+         "Year": "2016",
+         "Net profits/loss in million euros": "-3.73"
+      },
+      {
+         "Year": "2015",
+         "Net profits/loss in million euros": "-20.89"
+      },
+      {
+         "Year": "2014",
+         "Net profits/loss in million euros": "13.71"
+      }
+   ],
+   "gold": "The Italian fashion Group Dolce & Gabbana S.r.l. , well known worldwide for designing , producing and distributing high-end clothing , leather goods , footwear , jewelry and accessories , reported a net loss of 24.11 million euros in 2018 . During the period considered , this number represented the highest net loss of the Group , which registered a net profit of 27.55 million euros in 2017 . Italian roots , global reach Due to a very distinctive Mediterranean look , Dolce & Gabbana started attracting the attention of artists and famous people around the world already in the 90s .\n"
+}

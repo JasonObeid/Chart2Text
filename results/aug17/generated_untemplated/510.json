@@ -1,0 +1,45 @@
+{
+   "title": "Leading industries targeted by DDoS attack traffic 2017\n",
+   "xAxis": "Industry",
+   "yAxis": "Percentage of attack traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the distribution of users in the united states who were using facebook as of 2019 , sorted by gender . During that period of time , 43 percent of respondents between 14 and 64 years used the social networking site .\n",
+   "trends": {},
+   "data": [
+      {
+         "Industry": "Gaming",
+         "Percentage of attack traffic": 79.0
+      },
+      {
+         "Industry": "Internet and telecom",
+         "Percentage of attack traffic": 6.0
+      },
+      {
+         "Industry": "Financial services",
+         "Percentage of attack traffic": 4.0
+      },
+      {
+         "Industry": "Software and technology",
+         "Percentage of attack traffic": 4.0
+      },
+      {
+         "Industry": "Education",
+         "Percentage of attack traffic": 3.0
+      },
+      {
+         "Industry": "Retail and consumer goods",
+         "Percentage of attack traffic": 3.0
+      },
+      {
+         "Industry": "Media and entertainment",
+         "Percentage of attack traffic": 1.0
+      },
+      {
+         "Industry": "Other",
+         "Percentage of attack traffic": 1.0
+      }
+   ],
+   "gold": "The statistic shows the percentage of worldwide denial of service attack traffic in the fourth quarter of 2017 , sorted by industry . During that period of time , 79 percent of DDoS attack traffic were directed towards the gaming industry . Internet and telecom ranked second with six percent of DDoS attack traffic .\n"
+}

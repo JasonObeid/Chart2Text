@@ -1,0 +1,116 @@
+{
+   "title": "U.S. airports - public and private 1990 to 2018",
+   "labels": [
+      "Year",
+      "Public use",
+      "Private use"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "The statistic shows the gender wage gap for the 20 most common occupations for men in the united in 2018 , by median weekly earnings . In 2018 , u.s. female software developers ( applications and system software ) earned on average 1644 u.s. dollars per year , while their male counterparts earned 1894 u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "18",
+         "Public use": "5087",
+         "Private use": "14549"
+      },
+      {
+         "Year": "17",
+         "Public use": "5104",
+         "Private use": "14263"
+      },
+      {
+         "Year": "16",
+         "Public use": "5136",
+         "Private use": "14112"
+      },
+      {
+         "Year": "14",
+         "Public use": "5145",
+         "Private use": "13863"
+      },
+      {
+         "Year": "13",
+         "Public use": "5155",
+         "Private use": "14009"
+      },
+      {
+         "Year": "12",
+         "Public use": "5171",
+         "Private use": "14269"
+      },
+      {
+         "Year": "11",
+         "Public use": "5172",
+         "Private use": "14339"
+      },
+      {
+         "Year": "10",
+         "Public use": "5175",
+         "Private use": "14353"
+      },
+      {
+         "Year": "9",
+         "Public use": "5178",
+         "Private use": "14298"
+      },
+      {
+         "Year": "8",
+         "Public use": "5202",
+         "Private use": "14451"
+      },
+      {
+         "Year": "7",
+         "Public use": "5221",
+         "Private use": "14839"
+      },
+      {
+         "Year": "6",
+         "Public use": "5233",
+         "Private use": "14757"
+      },
+      {
+         "Year": "5",
+         "Public use": "5270",
+         "Private use": "14584"
+      },
+      {
+         "Year": "4",
+         "Public use": "5288",
+         "Private use": "14532"
+      },
+      {
+         "Year": "3",
+         "Public use": "5286",
+         "Private use": "14295"
+      },
+      {
+         "Year": "2",
+         "Public use": "5286",
+         "Private use": "14286"
+      },
+      {
+         "Year": "1",
+         "Public use": "5294",
+         "Private use": "14062"
+      },
+      {
+         "Year": "0",
+         "Public use": "5317",
+         "Private use": "13964"
+      },
+      {
+         "Year": "95",
+         "Public use": "5415",
+         "Private use": "12809"
+      },
+      {
+         "Year": "90",
+         "Public use": "5589",
+         "Private use": "11901"
+      }
+   ],
+   "gold": "How many airports are in the U.S. ? While the number of public use airports in the United States has fallen since 1990 , the number of private use airports has increased in recent years . In 2018 , there were 5,087 public airports in the U.S. , a slight decrease from the 5,145 public airports operating in 2014 . Conversely , the number of private airports increased over this period from 13,863 to 14,549 .\n"
+}

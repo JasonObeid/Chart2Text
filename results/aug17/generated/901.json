@@ -1,0 +1,137 @@
+{
+   "title": "U.S. college students average study hours , by major 2011",
+   "xAxis": "Month",
+   "yAxis": "Number of hours spent studying per week",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the college students average in the U.S. in 2011 , study Number of hours . ",
+      "In that year , Architecture was the U.S. college students with a Number of 23.7 million hours ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Architecture",
+         "Number of hours spent studying per week": "23.7"
+      },
+      {
+         "Month": "Chemical Engineering",
+         "Number of hours spent studying per week": "21.6"
+      },
+      {
+         "Month": "Physics",
+         "Number of hours spent studying per week": "19.7"
+      },
+      {
+         "Month": "Chemistry",
+         "Number of hours spent studying per week": "18.4"
+      },
+      {
+         "Month": "Art",
+         "Number of hours spent studying per week": "18.1"
+      },
+      {
+         "Month": "Nursing",
+         "Number of hours spent studying per week": "18.0"
+      },
+      {
+         "Month": "Music",
+         "Number of hours spent studying per week": "17.5"
+      },
+      {
+         "Month": "Biology",
+         "Number of hours spent studying per week": "16.7"
+      },
+      {
+         "Month": "Mathematics",
+         "Number of hours spent studying per week": "16.4"
+      },
+      {
+         "Month": "Philosophy",
+         "Number of hours spent studying per week": "16.2"
+      },
+      {
+         "Month": "Theater",
+         "Number of hours spent studying per week": "16.0"
+      },
+      {
+         "Month": "Anthropology",
+         "Number of hours spent studying per week": "16.0"
+      },
+      {
+         "Month": "English",
+         "Number of hours spent studying per week": "15.9"
+      },
+      {
+         "Month": "Elementary Education",
+         "Number of hours spent studying per week": "15.2"
+      },
+      {
+         "Month": "Accounting",
+         "Number of hours spent studying per week": "15.1"
+      },
+      {
+         "Month": "History",
+         "Number of hours spent studying per week": "15.0"
+      },
+      {
+         "Month": "Computer Science",
+         "Number of hours spent studying per week": "14.7"
+      },
+      {
+         "Month": "Political Science",
+         "Number of hours spent studying per week": "14.6"
+      },
+      {
+         "Month": "Economics",
+         "Number of hours spent studying per week": "14.4"
+      },
+      {
+         "Month": "Psychology",
+         "Number of hours spent studying per week": "13.9"
+      },
+      {
+         "Month": "Sociology",
+         "Number of hours spent studying per week": "13.8"
+      },
+      {
+         "Month": "Finance",
+         "Number of hours spent studying per week": "13.3"
+      },
+      {
+         "Month": "Business Administration",
+         "Number of hours spent studying per week": "13.2"
+      },
+      {
+         "Month": "Journalism",
+         "Number of hours spent studying per week": "12.8"
+      },
+      {
+         "Month": "Communications",
+         "Number of hours spent studying per week": "12.5"
+      },
+      {
+         "Month": "Marketing",
+         "Number of hours spent studying per week": "12.1"
+      },
+      {
+         "Month": "Physical Education",
+         "Number of hours spent studying per week": "11.8"
+      },
+      {
+         "Month": "Leisure Studies",
+         "Number of hours spent studying per week": "11.1"
+      },
+      {
+         "Month": "Speech",
+         "Number of hours spent studying per week": "10.8"
+      }
+   ],
+   "gold": "This statistic shows the average number of hours that students spent studying per week in the United States in 2011 . The results are divided by major . On average an architecture major spent 23.7 hours per week studying .\n"
+}

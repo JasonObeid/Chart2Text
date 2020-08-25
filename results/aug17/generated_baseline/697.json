@@ -1,0 +1,79 @@
+{
+   "title": "Market share of leading smartphone brands in the Netherlands 2017 to 2018",
+   "labels": [
+      "Race",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 7 categories for the x axis of Race representing 2017, and 2018.",
+      " The highest category is found at Samsung with a mean value of 39.5.",
+      " The second highest category is found at Apple with a mean value of 33.0.",
+      " This represents a difference of 17.9%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "Samsung",
+         "2017": "41",
+         "2018": "38"
+      },
+      {
+         "Race": "Apple",
+         "2017": "32",
+         "2018": "34"
+      },
+      {
+         "Race": "Huawei",
+         "2017": "6",
+         "2018": "7"
+      },
+      {
+         "Race": "Sony",
+         "2017": "5",
+         "2018": "0"
+      },
+      {
+         "Race": "LG",
+         "2017": "4",
+         "2018": "0"
+      },
+      {
+         "Race": "Microsoft",
+         "2017": "3",
+         "2018": "0"
+      },
+      {
+         "Race": "Other",
+         "2017": "9",
+         "2018": "0"
+      }
+   ],
+   "gold": "In 2018 , Samsung was the biggest smartphone brand in the Netherlands with a market share of close to 40 percent . This is a decrease compared to the previous year . Second in the Netherlands was Apple .\n"
+}

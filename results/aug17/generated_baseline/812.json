@@ -1,0 +1,56 @@
+{
+   "title": "Coffee consumption in the U.S. 2013/14 - 2018/19\n",
+   "xAxis": "Year",
+   "yAxis": "Consumption in million 60-kilogram bags",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Consumption in million 60-kilogram bags, with a total of 6 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2018/2019 to 2016/2017.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2015/2016 to 2013/2014.",
+      " Similarly, the next significant trend is slightly negative which exists from 2016/2017 to 2015/2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/2019",
+         "Consumption in million 60-kilogram bags": 26.5
+      },
+      {
+         "Year": "2017/2018",
+         "Consumption in million 60-kilogram bags": 25.84
+      },
+      {
+         "Year": "2016/2017",
+         "Consumption in million 60-kilogram bags": 25.02
+      },
+      {
+         "Year": "2015/2016",
+         "Consumption in million 60-kilogram bags": 25.11
+      },
+      {
+         "Year": "2014/2015",
+         "Consumption in million 60-kilogram bags": 23.58
+      },
+      {
+         "Year": "2013/2014",
+         "Consumption in million 60-kilogram bags": 23.81
+      }
+   ],
+   "gold": "Coffee consumption in the United States amounted to nearly 26.5 million 60-kilogram bags in the 2018/2019 fiscal year . This is an increase from the total U.S. coffee consumption in the previous fiscal year , at 25.84 million 60-kilogram bags in the United States . Coffee production The coffee plant has its origins in Ethiopia and is now grown all over the world .\n"
+}

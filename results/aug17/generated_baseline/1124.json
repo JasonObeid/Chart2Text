@@ -1,0 +1,44 @@
+{
+   "title": "Frequency of internet use in Spain 2017\n",
+   "xAxis": "Duration",
+   "yAxis": "Share of individuals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 4 categories for the x axis representing Duration, and a y axis representing Share of individuals.",
+      " The highest category is found at Once_a_week_(including_every_day) where Share of individuals is 80.0.",
+      " The lowest category is found at Less_than_once_a_week where Share of individuals is 5.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Duration": "Once a week (including every day)",
+         "Share of individuals": 80.0
+      },
+      {
+         "Duration": "Daily",
+         "Share of individuals": 69.0
+      },
+      {
+         "Duration": "At least once a week (but not every day)",
+         "Share of individuals": 11.0
+      },
+      {
+         "Duration": "Less than once a week",
+         "Share of individuals": 5.0
+      }
+   ],
+   "gold": "This statistic shows the percentage of individuals using the internet by frequency in Spain in 2017 . In 2017 , 69 percent of individuals in Spain accessed the internet daily or more frequently .\n"
+}

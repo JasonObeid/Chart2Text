@@ -1,0 +1,57 @@
+{
+   "title": "Distribution of consumer transactions worldwide 2018 , by payment channel\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic reveals the IT functions most commonly outsourced by IT leaders worldwide , as of 2017 . In 2017 , software application development was outsourced by 64 percent of respondents .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "In-store",
+         "Share of respondents": 41.0
+      },
+      {
+         "Response": "Other online",
+         "Share of respondents": 14.0
+      },
+      {
+         "Response": "Buy buttons",
+         "Share of respondents": 9.0
+      },
+      {
+         "Response": "Other mobile transfers",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "P2P transfer",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Mobile messenger apps",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "QR codes",
+         "Share of respondents": 5.0
+      },
+      {
+         "Response": "Other in-app payments",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Smart home device",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Wearables / contactless",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 2.0
+      }
+   ],
+   "gold": "This statistic presents the most popular payment methods for everyday transactions according to internet users worldwide as of June 2018 . When asked to think about they payment methods for their ten most recent transactions , it was found that seven percent were made via P2P transfer . In-store still accounted for the single largest share of everyday transactions with 41 percent .\n"
+}

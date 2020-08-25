@@ -1,0 +1,52 @@
+{
+   "title": "Pet population in Europe 2018 , by animal type\n",
+   "xAxis": "Pet Type",
+   "yAxis": "Number of pets in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories for the x axis representing Pet Type, and a y axis representing Number of pets in thousands.",
+      " The highest category is found at Cat where Number of pets in thousands is 103828.0.",
+      " The lowest category is found at Reptiles where Number of pets in thousands is 7848.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Pet Type": "Cat",
+         "Number of pets in thousands": 103828.0
+      },
+      {
+         "Pet Type": "Dog",
+         "Number of pets in thousands": 85184.0
+      },
+      {
+         "Pet Type": "Ornamental bird",
+         "Number of pets in thousands": 50212.0
+      },
+      {
+         "Pet Type": "Small mammal",
+         "Number of pets in thousands": 26794.0
+      },
+      {
+         "Pet Type": "Aquaria",
+         "Number of pets in thousands": 15493.0
+      },
+      {
+         "Pet Type": "Reptiles",
+         "Number of pets in thousands": 7848.0
+      }
+   ],
+   "gold": "Cats and dogs are European households ' favorite animals to keep , although more unconventional choices such as reptiles and small mammals are chosen as pets in high numbers too . In 2018 , the population of pet cats in Europe was over 103 million . Germany and France were the two countries where the number of cats was the highest .\n"
+}

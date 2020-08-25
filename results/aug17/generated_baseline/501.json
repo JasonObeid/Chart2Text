@@ -1,0 +1,104 @@
+{
+   "title": "Operating income of the Walt Disney Company 2010 - 2019 , by region",
+   "labels": [
+      "Region",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 4 categories for the x axis of Region representing 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019.",
+      " The highest category is found at United States and Canada with a mean value of 9168.3.",
+      " The second highest category is found at Europe with a mean value of 1737.2.",
+      " This represents a difference of 136.3%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "10",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "10",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "Latin America and other",
+         "2010": "217",
+         "2011": "293",
+         "2012": "446",
+         "2013": "476",
+         "2014": "488",
+         "2015": "532",
+         "2016": "443",
+         "2017": "375",
+         "2018": "502",
+         "2019": "237"
+      },
+      {
+         "Region": "Asia Pacific",
+         "2010": "620",
+         "2011": "627",
+         "2012": "835",
+         "2013": "1016",
+         "2014": "1342",
+         "2015": "1365",
+         "2016": "1324",
+         "2017": "1326",
+         "2018": "1869",
+         "2019": "2167"
+      },
+      {
+         "Region": "Europe",
+         "2010": "1275",
+         "2011": "1517",
+         "2012": "1692",
+         "2013": "1361",
+         "2014": "1581",
+         "2015": "1964",
+         "2016": "1815",
+         "2017": "1812",
+         "2018": "1922",
+         "2019": "2433"
+      },
+      {
+         "Region": "United States and Canada",
+         "2010": "5474",
+         "2011": "6388",
+         "2012": "6991",
+         "2013": "7871",
+         "2014": "9594",
+         "2015": "10820",
+         "2016": "12139",
+         "2017": "10962",
+         "2018": "11413",
+         "2019": "10031"
+      }
+   ],
+   "gold": "The Walt Disney Company 's worldwide operating income amounted to 14.86 billion U.S. dollars in 2019 , of which 2.43 billion U.S. dollars were derived from operations in Europe . Operating income from Latin America and other areas came to 237 million U.S. dollars that year .\n"
+}

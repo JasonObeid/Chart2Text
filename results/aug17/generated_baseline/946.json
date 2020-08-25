@@ -1,0 +1,88 @@
+{
+   "title": "Number of cats in the U.S. 2000 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Number of cats in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of cats in millions, with a total of 9 data points. The chart has 7 significant trends.",
+      " The longest trend is extremely positive which exists from 2004 to 2000.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2017 to 2015.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2015 to 2013.",
+      " Differently, the next significant trend is extremely positive which exists from 2013 to 2011.",
+      " In a similar manner, the next significant trend is moderately negative which exists from 2011 to 2008.",
+      " On the other hand, the next significant trend is extremely positive which exists from 2008 to 2006.",
+      " Additionally, the next significant trend is moderately negative which exists from 2006 to 2004."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "8"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      },
+      {
+         "3": "3",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of cats in millions": 94.2
+      },
+      {
+         "Year": "2015",
+         "Number of cats in millions": 85.8
+      },
+      {
+         "Year": "2013",
+         "Number of cats in millions": 95.6
+      },
+      {
+         "Year": "2011",
+         "Number of cats in millions": 86.4
+      },
+      {
+         "Year": "2008",
+         "Number of cats in millions": 93.6
+      },
+      {
+         "Year": "2006",
+         "Number of cats in millions": 88.3
+      },
+      {
+         "Year": "2004",
+         "Number of cats in millions": 90.5
+      },
+      {
+         "Year": "2002",
+         "Number of cats in millions": 77.7
+      },
+      {
+         "Year": "2000",
+         "Number of cats in millions": 73.0
+      }
+   ],
+   "gold": "According to a national pet owners survey , there was a total of approximately 95.6 million cats living in households in the United States in 2017 . In the same year , some 68 percent of all U.S. households owned at least one pet . Increasing pet expenditure Whilst the number of households owning cats , and pets in general , has remained relatively consistent over the last few years , pet industry expenditure has steadily grown .\n"
+}

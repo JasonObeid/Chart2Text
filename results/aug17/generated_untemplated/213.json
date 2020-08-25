@@ -1,0 +1,53 @@
+{
+   "title": "Average ticket price Orlando Magic ( NBA ) games 2015/16\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This graph depicts the average ticket price for milwaukee bucks games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 46.03 u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": 39.4
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 39.4
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 39.4
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 41.18
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 43.65
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 43.0
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 40.3
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 40.3
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 38.46
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 35.29
+      }
+   ],
+   "gold": "This graph depicts the average ticket price for Orlando Magic games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 35.29 U.S. dollars .\n"
+}

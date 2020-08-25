@@ -1,0 +1,102 @@
+{
+   "title": "Density of the population of Finland in 2018 , by region",
+   "xAxis": "Finnish Region",
+   "yAxis": "Number of inhabitants per square kilometer",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Number of the population 20 European telecommunication 2018 in based on sales . ",
+      "In 2018 , the Uusimaa generated 183.7 million per in Number and was the population telecommunication operator in Finland . ",
+      "population Kanta-H\u00e4me Region - additional information The telecommunication services market , which includes both wireline and wireless services , is one of the most profitable segments of the IT industry ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "6": "0"
+      },
+      {
+         "1": "5"
+      }
+   ],
+   "data": [
+      {
+         "Finnish Region": "Uusimaa",
+         "Number of inhabitants per square kilometer": "183.7"
+      },
+      {
+         "Finnish Region": "Southwest Finland",
+         "Number of inhabitants per square kilometer": "44.9"
+      },
+      {
+         "Finnish Region": "Pirkanmaa",
+         "Number of inhabitants per square kilometer": "40.9"
+      },
+      {
+         "Finnish Region": "P\u00e4ij\u00e4t-H\u00e4me",
+         "Number of inhabitants per square kilometer": "39.2"
+      },
+      {
+         "Finnish Region": "Kymenlaakso",
+         "Number of inhabitants per square kilometer": "33.7"
+      },
+      {
+         "Finnish Region": "Kanta-H\u00e4me",
+         "Number of inhabitants per square kilometer": "33.0"
+      },
+      {
+         "Finnish Region": "Satakunta",
+         "Number of inhabitants per square kilometer": "28.0"
+      },
+      {
+         "Finnish Region": "South Karelia",
+         "Number of inhabitants per square kilometer": "24.2"
+      },
+      {
+         "Finnish Region": "Ostrobothnia",
+         "Number of inhabitants per square kilometer": "23.3"
+      },
+      {
+         "Finnish Region": "\u00c5land",
+         "Number of inhabitants per square kilometer": "19.2"
+      },
+      {
+         "Finnish Region": "Central Finland",
+         "Number of inhabitants per square kilometer": "16.5"
+      },
+      {
+         "Finnish Region": "North Savo",
+         "Number of inhabitants per square kilometer": "14.6"
+      },
+      {
+         "Finnish Region": "South Ostrobothnia",
+         "Number of inhabitants per square kilometer": "14.1"
+      },
+      {
+         "Finnish Region": "Central Ostrobothnia",
+         "Number of inhabitants per square kilometer": "13.6"
+      },
+      {
+         "Finnish Region": "North Ostrobothnia",
+         "Number of inhabitants per square kilometer": "11.2"
+      },
+      {
+         "Finnish Region": "South Savo",
+         "Number of inhabitants per square kilometer": "10.1"
+      },
+      {
+         "Finnish Region": "North Karelia",
+         "Number of inhabitants per square kilometer": "9.1"
+      },
+      {
+         "Finnish Region": "Kainuu",
+         "Number of inhabitants per square kilometer": "3.6"
+      },
+      {
+         "Finnish Region": "Lapland",
+         "Number of inhabitants per square kilometer": "1.9"
+      }
+   ],
+   "gold": "The statistic shows the population density of Finland in 2018 , by region . The most densely populated region was Uusimaa with a density of approximately 184 inhabitants per square kilometer . Lapland was the most scarcely populated with roughly two inhabitants per square kilometer .\n"
+}

@@ -1,0 +1,108 @@
+{
+   "title": "Countries with the lowest infant mortality rate 2017\n",
+   "xAxis": "Country",
+   "yAxis": "Child deaths in the first year of life per 1,000 live births",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Country, and a y axis representing Child deaths in the first year of life per 1,000 live births.",
+      " The highest category is found at Luxembourg where Child deaths in the first year of life per 1,000 live births is 3.4.",
+      " The lowest category is found at Monaco where Child deaths in the first year of life per 1,000 live births is 1.8."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 16,
+         "12": 16
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Monaco",
+         "Child deaths in the first year of life per 1,000 live births": 1.8
+      },
+      {
+         "Country": "Japan",
+         "Child deaths in the first year of life per 1,000 live births": 2.0
+      },
+      {
+         "Country": "Iceland",
+         "Child deaths in the first year of life per 1,000 live births": 2.1
+      },
+      {
+         "Country": "Singapore",
+         "Child deaths in the first year of life per 1,000 live births": 2.4
+      },
+      {
+         "Country": "Norway",
+         "Child deaths in the first year of life per 1,000 live births": 2.5
+      },
+      {
+         "Country": "Finland",
+         "Child deaths in the first year of life per 1,000 live births": 2.5
+      },
+      {
+         "Country": "Bermuda",
+         "Child deaths in the first year of life per 1,000 live births": 2.5
+      },
+      {
+         "Country": "Sweden",
+         "Child deaths in the first year of life per 1,000 live births": 2.6
+      },
+      {
+         "Country": "Czech Republic",
+         "Child deaths in the first year of life per 1,000 live births": 2.6
+      },
+      {
+         "Country": "Hong Kong",
+         "Child deaths in the first year of life per 1,000 live births": 2.7
+      },
+      {
+         "Country": "South Korea",
+         "Child deaths in the first year of life per 1,000 live births": 3.0
+      },
+      {
+         "Country": "Macau",
+         "Child deaths in the first year of life per 1,000 live births": 3.1
+      },
+      {
+         "Country": "France",
+         "Child deaths in the first year of life per 1,000 live births": 3.2
+      },
+      {
+         "Country": "Spain",
+         "Child deaths in the first year of life per 1,000 live births": 3.3
+      },
+      {
+         "Country": "Anguilla",
+         "Child deaths in the first year of life per 1,000 live births": 3.3
+      },
+      {
+         "Country": "Italy",
+         "Child deaths in the first year of life per 1,000 live births": 3.3
+      },
+      {
+         "Country": "Luxembourg",
+         "Child deaths in the first year of life per 1,000 live births": 3.4
+      },
+      {
+         "Country": "Austria",
+         "Child deaths in the first year of life per 1,000 live births": 3.4
+      },
+      {
+         "Country": "Belgium",
+         "Child deaths in the first year of life per 1,000 live births": 3.4
+      },
+      {
+         "Country": "Germany",
+         "Child deaths in the first year of life per 1,000 live births": 3.4
+      }
+   ],
+   "gold": "This statistic shows the 20 countries  with the lowest infant mortality rate in 2017 . Estimated 1.8 out of 1,000 live births died in the first year of life in Monaco in 2017 . Infant mortality Infant mortality rates are often used as an indicator of the health and well-being of a nation .\n"
+}

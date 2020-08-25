@@ -1,0 +1,107 @@
+{
+   "title": "Nuclear power plants : permanent shutdowns 2005 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of shutdowns",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of shutdowns, with a total of 15 data points. The chart has 6 significant trends.",
+      " The longest trend is moderately positive which exists from 2019 to 2016.",
+      " Additionally, the next significant trend is moderately positive which exists from 2010 to 2007.",
+      " Similarly, the next significant trend is extremely positive which exists from 2016 to 2014.",
+      " Additionally, the next significant trend is slightly positive which exists from 2014 to 2012.",
+      " Likewise, the next significant trend is extremely positive which exists from 2012 to 2010.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2007 to 2005."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2018",
+         "Number of shutdowns": 7.0
+      },
+      {
+         "Year": "2017",
+         "Number of shutdowns": 5.0
+      },
+      {
+         "Year": "2016",
+         "Number of shutdowns": 4.0
+      },
+      {
+         "Year": "2015",
+         "Number of shutdowns": 7.0
+      },
+      {
+         "Year": "2014",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2013",
+         "Number of shutdowns": 6.0
+      },
+      {
+         "Year": "2012",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2011",
+         "Number of shutdowns": 13.0
+      },
+      {
+         "Year": "2010",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2009",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2008",
+         "Number of shutdowns": 2.0
+      },
+      {
+         "Year": "2007",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2006",
+         "Number of shutdowns": 8.0
+      },
+      {
+         "Year": "2005",
+         "Number of shutdowns": 2.0
+      }
+   ],
+   "gold": "This statistic represents the global number of permanent nuclear reactor shutdowns between 2005 and August 2019 . Following the nuclear accident in Japan in March 2011 , four reactors at Fukushima Daiichi nuclear power plant were shut down permanently . In total , there were seven permanent shutdowns in 2018 .\n"
+}

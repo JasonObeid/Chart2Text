@@ -1,0 +1,91 @@
+{
+   "title": "Number of live births in the EU in 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of live births in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of live births in millions, with a total of 11 data points. The chart has 6 significant trends.",
+      " The longest trend is slightly negative which exists from 2013 to 2010.",
+      " Differently, the next significant trend is slightly negative which exists from 2018 to 2016.",
+      " Differently, the next significant trend is moderately neutral which exists from 2010 to 2008.",
+      " Differently, the next significant trend is extremely positive which exists from 2016 to 2015.",
+      " In a similar manner, the next significant trend is moderately negative which exists from 2015 to 2014.",
+      " Differently, the next significant trend is extremely positive which exists from 2014 to 2013."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "5",
+         "12": "8"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      },
+      {
+         "3": "3",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of live births in millions": 4.96
+      },
+      {
+         "Year": "2017",
+         "Number of live births in millions": 5.07
+      },
+      {
+         "Year": "2016",
+         "Number of live births in millions": 5.15
+      },
+      {
+         "Year": "2015",
+         "Number of live births in millions": 5.11
+      },
+      {
+         "Year": "2014",
+         "Number of live births in millions": 5.14
+      },
+      {
+         "Year": "2013",
+         "Number of live births in millions": 5.08
+      },
+      {
+         "Year": "2012",
+         "Number of live births in millions": 5.23
+      },
+      {
+         "Year": "2011",
+         "Number of live births in millions": 5.27
+      },
+      {
+         "Year": "2010",
+         "Number of live births in millions": 5.41
+      },
+      {
+         "Year": "2009",
+         "Number of live births in millions": 5.41
+      },
+      {
+         "Year": "2008",
+         "Number of live births in millions": 5.47
+      }
+   ],
+   "gold": "In 2017 , about 5.07 million babies were born in the European Union , a slight decrease from the year before . Of those 5.06 million , some 785,000 were born in Germany , the most of any EU member state . Live births are the births of children excluding stillbirths ; a key figure that can provide insight to demographic analyses , such as population growth .\n"
+}

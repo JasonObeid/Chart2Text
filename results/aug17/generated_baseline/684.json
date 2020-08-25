@@ -1,0 +1,80 @@
+{
+   "title": "Number of hospitals in Canada by province 2016\n",
+   "xAxis": "Month",
+   "yAxis": "Number of establishments",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 13 categories for the x axis representing Month, and a y axis representing Number of establishments.",
+      " The highest category is found at Ontario where Number of establishments is 492.0.",
+      " The lowest category is found at Yukon where Number of establishments is 1.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of establishments": 492.0
+      },
+      {
+         "Month": "Quebec",
+         "Number of establishments": 267.0
+      },
+      {
+         "Month": "British Columbia",
+         "Number of establishments": 206.0
+      },
+      {
+         "Month": "Alberta",
+         "Number of establishments": 169.0
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of establishments": 77.0
+      },
+      {
+         "Month": "Manitoba",
+         "Number of establishments": 73.0
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of establishments": 54.0
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of establishments": 46.0
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of establishments": 39.0
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of establishments": 19.0
+      },
+      {
+         "Month": "Nunavut",
+         "Number of establishments": 19.0
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of establishments": 4.0
+      },
+      {
+         "Month": "Yukon",
+         "Number of establishments": 1.0
+      }
+   ],
+   "gold": "Among Canadian provinces , Ontario had the largest number of hospitals with around 500 establishments , as of 2016 . Canada has a publicly funded health care system based on a system of taxation , fees and private funding . Current reports estimate that health care expenditures account for over 11 percent of Canada 's gross domestic product ( GDP ) .\n"
+}

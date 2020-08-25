@@ -1,0 +1,128 @@
+{
+   "title": "Electricity prices for households in Denmark 2010 - 2019 , semi-annually\n",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 19 data points. The chart has 7 significant trends.",
+      " The longest trend is moderately negative which exists from 2018_S1 to 2016_S1.",
+      " Differently, the next significant trend is extremely positive which exists from 2012_S1 to 2010_S1.",
+      " Likewise, the next significant trend is slightly negative which exists from 2019_S1 to 2018_S1.",
+      " On the contrary, the next significant trend is moderately negative which exists from 2016_S1 to 2015_S1.",
+      " Conversely, the next significant trend is moderately negative which exists from 2015_S1 to 2014_S1.",
+      " Differently, the next significant trend is moderately negative which exists from 2014_S1 to 2013_S1.",
+      " Contrarily, the next significant trend is moderately negative which exists from 2013_S1 to 2012_S1."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "6"
+      },
+      {
+         "3": "14",
+         "14": "18"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019 S1",
+         "Euro cents per kilowatt-hour": 29.84
+      },
+      {
+         "Year": "2018 S2",
+         "Euro cents per kilowatt-hour": 31.23
+      },
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": 31.26
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": 30.1
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": 30.49
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": 30.84
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": 30.88
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": 30.42
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": 30.68
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": 30.35
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": 30.42
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": 29.36
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": 30.0
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": 29.72
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": 29.97
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": 29.75
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": 29.08
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": 27.08
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": 26.7
+      }
+   ],
+   "gold": "Between 2010 and the first half of 2018 , the overall household price for electricity in Denmark increased by approximately 4.53 euro cents per kilowatt-hour to 31.23 euro cents . This was the highest price during this period . Electricity prices per kilowatt-hour were at their lowest in the first half of 2010 at 26.7 euro cents .\n"
+}

@@ -1,0 +1,98 @@
+{
+   "title": "Dividend per share of Daimler AG 2006 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Dividend per share in euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Dividend per share in euros, with a total of 14 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2015 to 2012.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2012 to 2009.",
+      " Correspondingly, the next significant trend is moderately negative which exists from 2009 to 2006.",
+      " On the other hand, the next significant trend is slightly negative which exists from 2019 to 2017.",
+      " On the contrary, the next significant trend is extremely neutral which exists from 2017 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "7"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "13"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Dividend per share in euros": 0.9
+      },
+      {
+         "Year": "2018",
+         "Dividend per share in euros": 3.25
+      },
+      {
+         "Year": "2017",
+         "Dividend per share in euros": 3.65
+      },
+      {
+         "Year": "2016",
+         "Dividend per share in euros": 3.25
+      },
+      {
+         "Year": "2015",
+         "Dividend per share in euros": 3.25
+      },
+      {
+         "Year": "2014",
+         "Dividend per share in euros": 2.45
+      },
+      {
+         "Year": "2013",
+         "Dividend per share in euros": 2.25
+      },
+      {
+         "Year": "2012",
+         "Dividend per share in euros": 2.2
+      },
+      {
+         "Year": "2011",
+         "Dividend per share in euros": 2.2
+      },
+      {
+         "Year": "2010",
+         "Dividend per share in euros": 1.85
+      },
+      {
+         "Year": "2009",
+         "Dividend per share in euros": 0.0
+      },
+      {
+         "Year": "2008",
+         "Dividend per share in euros": 0.6
+      },
+      {
+         "Year": "2007",
+         "Dividend per share in euros": 2.0
+      },
+      {
+         "Year": "2006",
+         "Dividend per share in euros": 1.5
+      }
+   ],
+   "gold": "The statistic shows the dividend per share of Daimler AG from the fiscal year of 2006 to the fiscal year of 2019 . In its 2019 fiscal year , Daimler AG paid out a dividend of approximately 0.9 euros per share .\n"
+}

@@ -1,0 +1,216 @@
+{
+   "title": "Inflation rate in Nicaragua 2024\n",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points. The chart has 7 significant trends.",
+      " The longest trend is moderately negative which exists from 2019 to 2011.",
+      " On the other hand, the next significant trend is moderately negative which exists from 2006 to 2000.",
+      " On the other hand, the next significant trend is moderately positive which exists from 2000 to 1994.",
+      " Also, the next significant trend is moderately negative which exists from 2024 to 2019.",
+      " On the contrary, the next significant trend is moderately positive which exists from 2011 to 2006.",
+      " Additionally, the next significant trend is slightly negative which exists from 1994 to 1989.",
+      " Conversely, the next significant trend is extremely positive which exists from 1989 to 1984."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "5",
+         "12": "13"
+      },
+      {
+         "3": "18",
+         "14": "24"
+      },
+      {
+         "3": "24",
+         "14": "30"
+      },
+      {
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "13",
+         "14": "18"
+      },
+      {
+         "3": "30",
+         "14": "35"
+      },
+      {
+         "3": "35",
+         "14": "40"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inflation rate compared to previous year": 5.04
+      },
+      {
+         "Year": "2023",
+         "Inflation rate compared to previous year": 4.94
+      },
+      {
+         "Year": "2022",
+         "Inflation rate compared to previous year": 4.79
+      },
+      {
+         "Year": "2021",
+         "Inflation rate compared to previous year": 4.67
+      },
+      {
+         "Year": "2020",
+         "Inflation rate compared to previous year": 4.19
+      },
+      {
+         "Year": "2019",
+         "Inflation rate compared to previous year": 5.63
+      },
+      {
+         "Year": "2018",
+         "Inflation rate compared to previous year": 4.97
+      },
+      {
+         "Year": "2017",
+         "Inflation rate compared to previous year": 3.85
+      },
+      {
+         "Year": "2016",
+         "Inflation rate compared to previous year": 3.52
+      },
+      {
+         "Year": "2015",
+         "Inflation rate compared to previous year": 4.0
+      },
+      {
+         "Year": "2014",
+         "Inflation rate compared to previous year": 6.04
+      },
+      {
+         "Year": "2013",
+         "Inflation rate compared to previous year": 7.14
+      },
+      {
+         "Year": "2012",
+         "Inflation rate compared to previous year": 7.19
+      },
+      {
+         "Year": "2011",
+         "Inflation rate compared to previous year": 8.08
+      },
+      {
+         "Year": "2010",
+         "Inflation rate compared to previous year": 5.46
+      },
+      {
+         "Year": "2009",
+         "Inflation rate compared to previous year": 3.69
+      },
+      {
+         "Year": "2008",
+         "Inflation rate compared to previous year": 19.83
+      },
+      {
+         "Year": "2007",
+         "Inflation rate compared to previous year": 11.13
+      },
+      {
+         "Year": "2006",
+         "Inflation rate compared to previous year": 9.14
+      },
+      {
+         "Year": "2005",
+         "Inflation rate compared to previous year": 9.6
+      },
+      {
+         "Year": "2004",
+         "Inflation rate compared to previous year": 8.47
+      },
+      {
+         "Year": "2003",
+         "Inflation rate compared to previous year": 5.3
+      },
+      {
+         "Year": "2002",
+         "Inflation rate compared to previous year": 3.75
+      },
+      {
+         "Year": "2001",
+         "Inflation rate compared to previous year": 7.36
+      },
+      {
+         "Year": "2000",
+         "Inflation rate compared to previous year": 11.55
+      },
+      {
+         "Year": "1999",
+         "Inflation rate compared to previous year": 11.21
+      },
+      {
+         "Year": "1998",
+         "Inflation rate compared to previous year": 13.05
+      },
+      {
+         "Year": "1997",
+         "Inflation rate compared to previous year": 9.19
+      },
+      {
+         "Year": "1996",
+         "Inflation rate compared to previous year": 11.65
+      },
+      {
+         "Year": "1995",
+         "Inflation rate compared to previous year": 11.12
+      },
+      {
+         "Year": "1994",
+         "Inflation rate compared to previous year": 3.7
+      },
+      {
+         "Year": "1993",
+         "Inflation rate compared to previous year": 13.5
+      },
+      {
+         "Year": "1992",
+         "Inflation rate compared to previous year": 21.9
+      },
+      {
+         "Year": "1991",
+         "Inflation rate compared to previous year": 116.6
+      },
+      {
+         "Year": "1990",
+         "Inflation rate compared to previous year": 3004.1
+      },
+      {
+         "Year": "1989",
+         "Inflation rate compared to previous year": 7428.7
+      },
+      {
+         "Year": "1988",
+         "Inflation rate compared to previous year": 4775.2
+      },
+      {
+         "Year": "1987",
+         "Inflation rate compared to previous year": 13109.5
+      },
+      {
+         "Year": "1986",
+         "Inflation rate compared to previous year": 885.2
+      },
+      {
+         "Year": "1985",
+         "Inflation rate compared to previous year": 571.4
+      },
+      {
+         "Year": "1984",
+         "Inflation rate compared to previous year": 141.3
+      }
+   ],
+   "gold": "This statistic shows the average inflation rate in Nicaragua from 1984 to 2018 , with projections up until 2024 . In 2018 , the average inflation rate in Nicaragua amounted to about 4.97 percent compared to the previous year . Nicaragua 's economy Nicaragua 's inflation rate has been on the decline since 2011 , but it is expected to rise again in 2016 .\n"
+}

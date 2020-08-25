@@ -1,0 +1,52 @@
+{
+   "title": "U.S. online shopping frequency 2014 to 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "More than 32 % of Mexican internet users surveyed in 2014 claimed they used At_least_once_a_week for finding dates . ",
+      "Meanwhile , one out of four respondents cited Once_or_more_per_month and 13 % of people surveyed mentioned 7-12_times_per_year . ",
+      "Sex and solitude Approximately 42.7 % of Mexicans who used 2014 2017 stated in 2017 that they did so in order to find friends ."
+   ],
+   "trends": [
+      {
+         "2": "1",
+         "14": "0"
+      },
+      {
+         "8": "1",
+         "10": "2",
+         "16": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "At least once a week",
+         "Share of respondents": "29"
+      },
+      {
+         "Response": "Once or more per month",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "7-12 times per year",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "4-6 times per year",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "1-3 times per year",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Never",
+         "Share of respondents": "4"
+      }
+   ],
+   "gold": "This statistic presents the online shopping frequency of internet users in the United States as of March 2017 . During the most recent survey period , 29 percent of respondents stated they purchased goods online at least once a week .\n"
+}

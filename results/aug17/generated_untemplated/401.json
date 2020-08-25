@@ -1,0 +1,56 @@
+{
+   "title": "Number of Carrabba 's Italian Grill restaurants in the U.S. from 2011 to 2018",
+   "labels": [
+      "Year",
+      "Company-owned",
+      "Franchised"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the restaurant sales of bonefish grill in the united from 2011 to 2018 , by ownership type . In 2018 , bonefish grill generated 14 million u.s. dollars in franchised restaurant sales . bonefish grill is owned by Bloomin ' Brands , Inc. , a U.S.-based restaurant company .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Company-owned": "224",
+         "Franchised": "3"
+      },
+      {
+         "Year": "2017",
+         "Company-owned": "225",
+         "Franchised": "3"
+      },
+      {
+         "Year": "2016",
+         "Company-owned": "242",
+         "Franchised": "2"
+      },
+      {
+         "Year": "2015",
+         "Company-owned": "244",
+         "Franchised": "3"
+      },
+      {
+         "Year": "2014",
+         "Company-owned": "242",
+         "Franchised": "1"
+      },
+      {
+         "Year": "2013",
+         "Company-owned": "239",
+         "Franchised": "1"
+      },
+      {
+         "Year": "2012",
+         "Company-owned": "234",
+         "Franchised": "1"
+      },
+      {
+         "Year": "2011",
+         "Company-owned": "231",
+         "Franchised": "1"
+      }
+   ],
+   "gold": "This statistic shows the number of Carrabba 's Italian Grill restaurants in the United States from 2011 to 2018 , by ownership type . In 2018 , there were 224 company-owned Carrabba 's Italian Grill restaurants in the United States . Carrabba 's Italian Grill is owned by Bloomin ' Brands , Inc. , a U.S.-based restaurant company .\n"
+}

@@ -1,0 +1,109 @@
+{
+   "title": "Unemployment rate in Belgium 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Unemployment rate in Belgium from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Belgium was at approximately 6.44 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "6.44"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "6.32"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "7.09"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "7.83"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "8.48"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "8.52"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "8.43"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "7.54"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "7.14"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "8.29"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "7.91"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "6.98"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "7.46"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "8.25"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "8.44"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "7.36"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "7.68"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "6.91"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "6.18"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "6.59"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "8.65"
+      }
+   ],
+   "gold": "This statistic shows the unemployment rate in Belgium from 1999 to 2019 . In 2019 , the unemployment rate in Belgium was at approximately 6.44 percent .\n"
+}

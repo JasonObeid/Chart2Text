@@ -1,0 +1,86 @@
+{
+   "title": "Average U.S. brand response rate on social media 2017 , by vertical",
+   "xAxis": "Month",
+   "yAxis": "Average response rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the U.S. brand in U.S. as of 2017 , based on social media . ",
+      "At that point in time , Education Utilities led the ranking with social media amounting to 18 % rate , followed rate Education Retail Healthcare Panam\u00e1 , with 16 % rate worth of media ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "12",
+         "7": "0",
+         "16": "0",
+         "23": "12",
+         "24": "1",
+         "25": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Utilities",
+         "Average response rate": "18"
+      },
+      {
+         "Month": "Retail",
+         "Average response rate": "16"
+      },
+      {
+         "Month": "Consumer Goods",
+         "Average response rate": "14"
+      },
+      {
+         "Month": "Banking/Finance",
+         "Average response rate": "13"
+      },
+      {
+         "Month": "Travel/Hospitality",
+         "Average response rate": "12"
+      },
+      {
+         "Month": "Internet/Technology",
+         "Average response rate": "11"
+      },
+      {
+         "Month": "Marketing/Advertising",
+         "Average response rate": "11"
+      },
+      {
+         "Month": "Automotive",
+         "Average response rate": "11"
+      },
+      {
+         "Month": "Real Estate",
+         "Average response rate": "10"
+      },
+      {
+         "Month": "Healthcare",
+         "Average response rate": "9"
+      },
+      {
+         "Month": "Professional Services",
+         "Average response rate": "9"
+      },
+      {
+         "Month": "Government",
+         "Average response rate": "8"
+      },
+      {
+         "Month": "Education",
+         "Average response rate": "7"
+      },
+      {
+         "Month": "Nonprofit",
+         "Average response rate": "7"
+      },
+      {
+         "Month": "Media/Entertainment",
+         "Average response rate": "6"
+      }
+   ],
+   "gold": "This statistic presents the average brand response rate on social media in the United States as of the third quarter of 2017 , by vertical . According to the findings , the retail industry had an average response rate of 16 percent to communicating back to their consumers on social media , while the consumer goods industry reported in 14 percent .\n"
+}

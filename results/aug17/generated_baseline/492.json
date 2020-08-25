@@ -1,0 +1,68 @@
+{
+   "title": "Grocery market share in France 2019\n",
+   "xAxis": "Grocery Stores",
+   "yAxis": "Market share of total grocers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Grocery Stores, and a y axis representing Market share of total grocers.",
+      " The highest category is found at E._Leclerc_Group where Market share of total grocers is 21.6.",
+      " The lowest category is found at Other where Market share of total grocers is 0.7."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Grocery Stores": "E. Leclerc Group",
+         "Market share of total grocers": 21.6
+      },
+      {
+         "Grocery Stores": "Carrefour Group",
+         "Market share of total grocers": 19.8
+      },
+      {
+         "Grocery Stores": "Intermarch\u00e9 Group",
+         "Market share of total grocers": 15.3
+      },
+      {
+         "Grocery Stores": "Syst\u00e8me U Group",
+         "Market share of total grocers": 10.7
+      },
+      {
+         "Grocery Stores": "Casino Group",
+         "Market share of total grocers": 10.6
+      },
+      {
+         "Grocery Stores": "Auchan Group",
+         "Market share of total grocers": 10.0
+      },
+      {
+         "Grocery Stores": "Lidl Group",
+         "Market share of total grocers": 6.2
+      },
+      {
+         "Grocery Stores": "Delhaize Group",
+         "Market share of total grocers": 2.8
+      },
+      {
+         "Grocery Stores": "Aldi Group",
+         "Market share of total grocers": 2.3
+      },
+      {
+         "Grocery Stores": "Other",
+         "Market share of total grocers": 0.7
+      }
+   ],
+   "gold": "This statistic shows the market share of grocery stores in France for the 12 weeks ending December 17 , 2019 . E. Leclerc holds the largest market share with 21.6 percent , followed by Carrefour with a 19.8 percent share . The grocery retail landscape in France has been dominated by the Leclerc Group and Carrefour group , who have been fighting neck in neck for the lead position .\n"
+}

@@ -1,0 +1,68 @@
+{
+   "title": "University applicants in the United Kingdom ( UK ) 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of university applicants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of university applicants, with a total of 9 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2016 to 2012.",
+      " Additionally, the next significant trend is slightly negative which exists from 2018 to 2016.",
+      " But, the next significant trend is slightly negative which exists from 2012 to 2010."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "6"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of university applicants": 636960.0
+      },
+      {
+         "Year": "2017",
+         "Number of university applicants": 649700.0
+      },
+      {
+         "Year": "2016",
+         "Number of university applicants": 674890.0
+      },
+      {
+         "Year": "2015",
+         "Number of university applicants": 673040.0
+      },
+      {
+         "Year": "2014",
+         "Number of university applicants": 659030.0
+      },
+      {
+         "Year": "2013",
+         "Number of university applicants": 635910.0
+      },
+      {
+         "Year": "2012",
+         "Number of university applicants": 616700.0
+      },
+      {
+         "Year": "2011",
+         "Number of university applicants": 668150.0
+      },
+      {
+         "Year": "2010",
+         "Number of university applicants": 658560.0
+      }
+   ],
+   "gold": "This statistic shows the number of applicants to universities in the United Kingdom ( UK ) from 2010 to 2018 . The number of applicants peaked in 2016 . The lower figures in 2012 and 2013 may be connected to the rise of the tuition fee limit in 2012 to 9,000 British pounds per year .\n"
+}

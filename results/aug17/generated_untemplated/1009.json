@@ -1,0 +1,33 @@
+{
+   "title": "Internet service provider market share in Australia fourth quarter 2013\n",
+   "xAxis": "Telecommunications Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic illustrates the market share of smartphone models that have been sold in france as of 2017 . The apple iphone 7 had seen the most sales with a market share of 9 percent . Trailing by three percent was the iphone 7 plus with a total of a 6 percent market share .\n",
+   "trends": {},
+   "data": [
+      {
+         "Telecommunications Company": "Telstra",
+         "Market share": 46.3
+      },
+      {
+         "Telecommunications Company": "Optus",
+         "Market share": 15.9
+      },
+      {
+         "Telecommunications Company": "iiNet",
+         "Market share": 15.1
+      },
+      {
+         "Telecommunications Company": "TPG",
+         "Market share": 11.6
+      },
+      {
+         "Telecommunications Company": "Australia Other",
+         "Market share": 11.0
+      }
+   ],
+   "gold": "The statistic depicts a breakdown of the internet service provider ( ISP ) market in Australia in the fourth quarter of 2013 . The internet service provider Telstra held a market share of 46.3 percent . The total number of internet service subscribers in Australia was at around 6.15 million in the fourth quarter of 2013 .\n"
+}

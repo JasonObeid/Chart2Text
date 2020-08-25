@@ -1,0 +1,38 @@
+{
+   "title": "Wearable technology market share in the United Kingdom ( UK ) 2014 , by product",
+   "xAxis": "Wearable technology products",
+   "yAxis": "Share of market",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the market of global United Kingdom unit shipments by vendor in 2014 . ",
+      "Health_and_fitness_trackers 's market of United Kingdom shipments Kingdom stood at 39 % in 2014 ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Wearable technology products": "Health and fitness trackers",
+         "Share of market": "39"
+      },
+      {
+         "Wearable technology products": "Wrist sport computers",
+         "Share of market": "26"
+      },
+      {
+         "Wearable technology products": "Action cameras headsets and glasses",
+         "Share of market": "24"
+      },
+      {
+         "Wearable technology products": "Smart watches",
+         "Share of market": "11"
+      }
+   ],
+   "gold": "This statistic shows the market share of wearable technology products in the United Kingdom ( UK ) between January and September 2014 . Health and fitness trackers held the largest share of the wearables market at 39 percent , following by wrist sport computers with a 26 percent share .\n"
+}

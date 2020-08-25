@@ -1,0 +1,182 @@
+{
+   "title": "Wage and salary workers in the U.S. : hourly earnings 1979 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Wage in current U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Wage in current U.S. dollars with a total of 40 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2018 to 1979."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "39"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Wage in current U.S. dollars": 14.99
+      },
+      {
+         "Year": "2017",
+         "Wage in current U.S. dollars": 14.63
+      },
+      {
+         "Year": "2016",
+         "Wage in current U.S. dollars": 14.0
+      },
+      {
+         "Year": "2015",
+         "Wage in current U.S. dollars": 13.44
+      },
+      {
+         "Year": "2014",
+         "Wage in current U.S. dollars": 13.14
+      },
+      {
+         "Year": "2013",
+         "Wage in current U.S. dollars": 12.93
+      },
+      {
+         "Year": "2012",
+         "Wage in current U.S. dollars": 12.8
+      },
+      {
+         "Year": "2011",
+         "Wage in current U.S. dollars": 12.71
+      },
+      {
+         "Year": "2010",
+         "Wage in current U.S. dollars": 12.5
+      },
+      {
+         "Year": "2009",
+         "Wage in current U.S. dollars": 12.44
+      },
+      {
+         "Year": "2008",
+         "Wage in current U.S. dollars": 12.23
+      },
+      {
+         "Year": "2007",
+         "Wage in current U.S. dollars": 11.95
+      },
+      {
+         "Year": "2006",
+         "Wage in current U.S. dollars": 11.76
+      },
+      {
+         "Year": "2005",
+         "Wage in current U.S. dollars": 11.19
+      },
+      {
+         "Year": "2004",
+         "Wage in current U.S. dollars": 11.0
+      },
+      {
+         "Year": "2003",
+         "Wage in current U.S. dollars": 10.85
+      },
+      {
+         "Year": "2002",
+         "Wage in current U.S. dollars": 10.47
+      },
+      {
+         "Year": "2001",
+         "Wage in current U.S. dollars": 10.19
+      },
+      {
+         "Year": "2000",
+         "Wage in current U.S. dollars": 9.91
+      },
+      {
+         "Year": "1999",
+         "Wage in current U.S. dollars": 9.53
+      },
+      {
+         "Year": "1998",
+         "Wage in current U.S. dollars": 9.1
+      },
+      {
+         "Year": "1997",
+         "Wage in current U.S. dollars": 8.75
+      },
+      {
+         "Year": "1996",
+         "Wage in current U.S. dollars": 8.4
+      },
+      {
+         "Year": "1995",
+         "Wage in current U.S. dollars": 8.17
+      },
+      {
+         "Year": "1994",
+         "Wage in current U.S. dollars": 8.01
+      },
+      {
+         "Year": "1993",
+         "Wage in current U.S. dollars": 7.87
+      },
+      {
+         "Year": "1992",
+         "Wage in current U.S. dollars": 7.72
+      },
+      {
+         "Year": "1991",
+         "Wage in current U.S. dollars": 7.5
+      },
+      {
+         "Year": "1990",
+         "Wage in current U.S. dollars": 7.23
+      },
+      {
+         "Year": "1989",
+         "Wage in current U.S. dollars": 6.99
+      },
+      {
+         "Year": "1988",
+         "Wage in current U.S. dollars": 6.73
+      },
+      {
+         "Year": "1987",
+         "Wage in current U.S. dollars": 6.47
+      },
+      {
+         "Year": "1986",
+         "Wage in current U.S. dollars": 6.2
+      },
+      {
+         "Year": "1985",
+         "Wage in current U.S. dollars": 6.03
+      },
+      {
+         "Year": "1984",
+         "Wage in current U.S. dollars": 5.83
+      },
+      {
+         "Year": "1983",
+         "Wage in current U.S. dollars": 5.59
+      },
+      {
+         "Year": "1982",
+         "Wage in current U.S. dollars": 5.4
+      },
+      {
+         "Year": "1981",
+         "Wage in current U.S. dollars": 5.15
+      },
+      {
+         "Year": "1980",
+         "Wage in current U.S. dollars": 4.82
+      },
+      {
+         "Year": "1979",
+         "Wage in current U.S. dollars": 4.44
+      }
+   ],
+   "gold": "In 2018 , the median hourly earnings of wage and salary workers in the United States was 14.99 U.S. dollars . This is an increase from 1979 , when median hourly earnings were at 4.44 U.S. dollars . Hourly Workers The United States national minimum wage is 7.25 U.S. dollars per hour , which has been the minimum wage since 2009 .\n"
+}

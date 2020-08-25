@@ -1,0 +1,71 @@
+{
+   "title": "Urbanization in Chile 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the degree of Urbanization in Chile from 2008 to 2018 . ",
+      "Urbanization means the Share of urban population in the total population of a country . ",
+      "In 2018 , 87.56 % of Chile 's total population lived in urban areas and cities ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population in total population": "87.56"
+      },
+      {
+         "Year": "2017",
+         "Share of urban population in total population": "87.49"
+      },
+      {
+         "Year": "2016",
+         "Share of urban population in total population": "87.42"
+      },
+      {
+         "Year": "2015",
+         "Share of urban population in total population": "87.36"
+      },
+      {
+         "Year": "2014",
+         "Share of urban population in total population": "87.3"
+      },
+      {
+         "Year": "2013",
+         "Share of urban population in total population": "87.25"
+      },
+      {
+         "Year": "2012",
+         "Share of urban population in total population": "87.19"
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": "87.13"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": "87.07"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": "87.02"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": "86.96"
+      }
+   ],
+   "gold": "This statistic shows the degree of urbanization in Chile from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 87.56 percent of Chile 's total population lived in urban areas and cities .\n"
+}

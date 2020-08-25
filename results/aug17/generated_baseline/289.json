@@ -1,0 +1,68 @@
+{
+   "title": "Leading games on Twitch as of July 2019 , by hours viewed\n",
+   "xAxis": "Video Game",
+   "yAxis": "Number of hours in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Video Game, and a y axis representing Number of hours in millions.",
+      " The highest category is found at Fortnite where Number of hours in millions is 24.8.",
+      " The lowest category is found at Apex_Legends where Number of hours in millions is 4.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Video Game": "Fortnite",
+         "Number of hours in millions": 24.8
+      },
+      {
+         "Video Game": "League of Legends",
+         "Number of hours in millions": 13.7
+      },
+      {
+         "Video Game": "GTA V",
+         "Number of hours in millions": 13.1
+      },
+      {
+         "Video Game": "Teamfight Tactics",
+         "Number of hours in millions": 12.2
+      },
+      {
+         "Video Game": "World of Warcraft",
+         "Number of hours in millions": 10.8
+      },
+      {
+         "Video Game": "Overwatch",
+         "Number of hours in millions": 7.3
+      },
+      {
+         "Video Game": "DOTA 2",
+         "Number of hours in millions": 6.7
+      },
+      {
+         "Video Game": "Counter-Strike: Global Offensive",
+         "Number of hours in millions": 5.2
+      },
+      {
+         "Video Game": "PUBG",
+         "Number of hours in millions": 5.1
+      },
+      {
+         "Video Game": "Apex Legends",
+         "Number of hours in millions": 4.0
+      }
+   ],
+   "gold": "This statistic presents the leading gaming content from July 22 to July 28 , 2019 , ranked by number of hours viewed . Fortnite had the longest viewing time that week , with 24.8 million hours viewed across the Twitch network .\n"
+}

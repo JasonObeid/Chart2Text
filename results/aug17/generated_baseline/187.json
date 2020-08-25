@@ -1,0 +1,51 @@
+{
+   "title": "Government spending for SNAP benefits ( Food Stamps ) in the U.S. 1995 to 2020\n",
+   "xAxis": "Year",
+   "yAxis": "Spending in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Spending in billion U.S. dollars, with a total of 6 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2015 to 1995.",
+      " Likewise, the next significant trend is slightly negative which exists from 2020 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "5"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Spending in billion U.S. dollars": 74.0
+      },
+      {
+         "Year": "2015",
+         "Spending in billion U.S. dollars": 80.0
+      },
+      {
+         "Year": "2010",
+         "Spending in billion U.S. dollars": 70.0
+      },
+      {
+         "Year": "2005",
+         "Spending in billion U.S. dollars": 33.0
+      },
+      {
+         "Year": "2000",
+         "Spending in billion U.S. dollars": 18.0
+      },
+      {
+         "Year": "1995",
+         "Spending in billion U.S. dollars": 26.0
+      }
+   ],
+   "gold": "The statistic shows total U.S. government spending for the Supplemental Nutrition Assistance Program ( SNAP , formerly called Food Stamps ) from 1995 to 2020 . In 2010 , about 70 billion U.S. dollars were spent for the Supplemental Nutrition Assistance Program .\n"
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Average per game attendance English Premier League 2018/19\n",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "manchester united had an average attendance of 74879 for their home games in the 2018/19 season , their lowest since 2009/10 . Despite the fall in numbers , manchester united had the highest average attendance of all 20 English Premier League clubs in 2018/19 . The Theatre of Dreams manchester united play their homes games at the largest stadium in the English Premier League : Old Trafford .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018/19",
+         "Average attendance": 38484.0
+      },
+      {
+         "Year": "2017/18",
+         "Average attendance": 38495.0
+      },
+      {
+         "Year": "2016/17",
+         "Average attendance": 35838.0
+      },
+      {
+         "Year": "2015/16",
+         "Average attendance": 36490.0
+      },
+      {
+         "Year": "2014/15",
+         "Average attendance": 36163.0
+      },
+      {
+         "Year": "2013/14",
+         "Average attendance": 36691.0
+      },
+      {
+         "Year": "2012/13",
+         "Average attendance": 35903.0
+      },
+      {
+         "Year": "2011/12",
+         "Average attendance": 34646.0
+      },
+      {
+         "Year": "2010/11",
+         "Average attendance": 35356.0
+      },
+      {
+         "Year": "2009/10",
+         "Average attendance": 34215.0
+      }
+   ],
+   "gold": "The statistic shows the average per game attendance at games of the English Premier League from the 2009/10 season to the 2018/19 season . In 2018/19 , the average attendance at the games was at 38,484 .\n"
+}

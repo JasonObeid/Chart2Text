@@ -1,0 +1,53 @@
+{
+   "title": "Reptile-ownership : household penetration rates 2007 to 2013",
+   "xAxis": "Year",
+   "yAxis": "Penetration rates",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Penetration of rates in the Olympic Reptile-ownership games from 2007 to 2013 . ",
+      "In the 2008 , 2.1 % of rates in the Olympic Reptile-ownership games were women ."
+   ],
+   "trends": [
+      {
+         "14": "0",
+         "16": "6"
+      },
+      {
+         "2": "1",
+         "4": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2007",
+         "Penetration rates": "2"
+      },
+      {
+         "Year": "2008",
+         "Penetration rates": "2.1"
+      },
+      {
+         "Year": "2009",
+         "Penetration rates": "1.5"
+      },
+      {
+         "Year": "2010",
+         "Penetration rates": "1.8"
+      },
+      {
+         "Year": "2011",
+         "Penetration rates": "1.7"
+      },
+      {
+         "Year": "2012",
+         "Penetration rates": "1.8"
+      },
+      {
+         "Year": "2013",
+         "Penetration rates": "2.7"
+      }
+   ],
+   "gold": "The statistic shows the household penetration rates for reptile-ownership in the United States from 2007 to 2013 . The household penetration rate for reptile-ownership amounted to about 2 percent in 2007 .\n"
+}

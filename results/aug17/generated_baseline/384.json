@@ -1,0 +1,64 @@
+{
+   "title": "21st Century Fox 's revenue 2011 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, with a total of 8 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely positive which exists from 2014 to 2011.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2018 to 2016.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2016 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "7"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in billion U.S. dollars": 30.4
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion U.S. dollars": 28.5
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion U.S. dollars": 27.33
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": 28.99
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": 31.87
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion U.S. dollars": 27.68
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion U.S. dollars": 25.05
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion U.S. dollars": 24.23
+      }
+   ],
+   "gold": "Mass media corporation 21st Century Fox generated 30.4 billion U.S. dollars in revenue in the fiscal year 2018 , up from 28.5 billion U.S. dollars in the previous year . The company made over half of its revenue in cable network programming in 2018 and a further 8.75 billion U.S. dollars was derived from its filmed entertainment segment . The acquisition of 21st Century Fox by Disney 21st Century Fox consisted of News Corporations 's former TV and film divisions after the split from the News Corp. in June 2013 .\n"
+}

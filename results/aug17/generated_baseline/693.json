@@ -1,0 +1,228 @@
+{
+   "title": "Leading 50 retailers worldwide based on retail revenue 2018\n",
+   "xAxis": "Company (Country of origin)",
+   "yAxis": "Retail revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 50 categories for the x axis representing Company (Country of origin), and a y axis representing Retail revenue in billion U.S. dollars.",
+      " The highest category is found at Wal-Mart_Stores_Inc_(United_States) where Retail revenue in billion U.S. dollars is 514.41.",
+      " The lowest category is found at Jer\u00f3nimo_Martins_SGPS_S.A._(Portugal) where Retail revenue in billion U.S. dollars is 20.45."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 49,
+         "12": 49
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company (Country of origin)": "Wal-Mart Stores Inc (United States)",
+         "Retail revenue in billion U.S. dollars": 514.41
+      },
+      {
+         "Company (Country of origin)": "Costco Wholesale Corporation (United States)",
+         "Retail revenue in billion U.S. dollars": 141.58
+      },
+      {
+         "Company (Country of origin)": "Amazon.com Inc. (United States)",
+         "Retail revenue in billion U.S. dollars": 140.21
+      },
+      {
+         "Company (Country of origin)": "Schwarz Group (Germany)",
+         "Retail revenue in billion U.S. dollars": 121.58
+      },
+      {
+         "Company (Country of origin)": "The Kroger Co. (United States)",
+         "Retail revenue in billion U.S. dollars": 117.53
+      },
+      {
+         "Company (Country of origin)": "Walgreens Boots Alliance Inc (United States)",
+         "Retail revenue in billion U.S. dollars": 110.67
+      },
+      {
+         "Company (Country of origin)": "The Home Depot Inc. (United States)",
+         "Retail revenue in billion U.S. dollars": 108.2
+      },
+      {
+         "Company (Country of origin)": "Aldi Einkauf GmbH & Co. oHG (Germany)",
+         "Retail revenue in billion U.S. dollars": 106.18
+      },
+      {
+         "Company (Country of origin)": "CVS Health Corporation (United States)",
+         "Retail revenue in billion U.S. dollars": 83.99
+      },
+      {
+         "Company (Country of origin)": "Tesco PLC (United Kingdom)",
+         "Retail revenue in billion U.S. dollars": 82.8
+      },
+      {
+         "Company (Country of origin)": "Target Corporation (United States)",
+         "Retail revenue in billion U.S. dollars": 74.43
+      },
+      {
+         "Company (Country of origin)": "Ahold Delhaize (Netherlands)",
+         "Retail revenue in billion U.S. dollars": 74.08
+      },
+      {
+         "Company (Country of origin)": "Aeon Co. Ltd. (Japan)",
+         "Retail revenue in billion U.S. dollars": 71.45
+      },
+      {
+         "Company (Country of origin)": "Lowe's Companies Inc. (United States)",
+         "Retail revenue in billion U.S. dollars": 71.31
+      },
+      {
+         "Company (Country of origin)": "JD.com Inc (China)",
+         "Retail revenue in billion U.S. dollars": 62.88
+      },
+      {
+         "Company (Country of origin)": "Edeka Group (Germany)",
+         "Retail revenue in billion U.S. dollars": 62.05
+      },
+      {
+         "Company (Country of origin)": "Albertsons Companies Inc. (United States)",
+         "Retail revenue in billion U.S. dollars": 60.54
+      },
+      {
+         "Company (Country of origin)": "Auchan Holding SA (France)",
+         "Retail revenue in billion U.S. dollars": 59.3
+      },
+      {
+         "Company (Country of origin)": "Seven & i Holdings Co. Ltd. (Japan)",
+         "Retail revenue in billion U.S. dollars": 59.1
+      },
+      {
+         "Company (Country of origin)": "Rewe Group (Germany)",
+         "Retail revenue in billion U.S. dollars": 56.44
+      },
+      {
+         "Company (Country of origin)": "Centres Distributeurs E. Leclerc (France)",
+         "Retail revenue in billion U.S. dollars": 44.48
+      },
+      {
+         "Company (Country of origin)": "Casino Guichard-Perrachon S.A. (France)",
+         "Retail revenue in billion U.S. dollars": 43.18
+      },
+      {
+         "Company (Country of origin)": "Best Buy Co. Inc. (United States)",
+         "Retail revenue in billion U.S. dollars": 42.88
+      },
+      {
+         "Company (Country of origin)": "Woolworths Limited (Australia)",
+         "Retail revenue in billion U.S. dollars": 41.69
+      },
+      {
+         "Company (Country of origin)": "The IKEA Group (INGKA Holding B.V.) (Netherlands)",
+         "Retail revenue in billion U.S. dollars": 41.47
+      },
+      {
+         "Company (Country of origin)": "The TJX Companies Inc. (United States)",
+         "Retail revenue in billion U.S. dollars": 38.97
+      },
+      {
+         "Company (Country of origin)": "LVMH Mo\u00ebt Hennessy-Louis Vuitton S.A. (France)",
+         "Retail revenue in billion U.S. dollars": 37.85
+      },
+      {
+         "Company (Country of origin)": "J Sainsbury plc (United Kingdom)",
+         "Retail revenue in billion U.S. dollars": 37.52
+      },
+      {
+         "Company (Country of origin)": "ITM D\u00e9veloppement International (Intermarch\u00e9) (France)",
+         "Retail revenue in billion U.S. dollars": 36.63
+      },
+      {
+         "Company (Country of origin)": "Publix Super Markets Inc. (United States)",
+         "Retail revenue in billion U.S. dollars": 36.4
+      },
+      {
+         "Company (Country of origin)": "Loblaw Companies Limited (Canada)",
+         "Retail revenue in billion U.S. dollars": 35.36
+      },
+      {
+         "Company (Country of origin)": "Suning.com Co. Ltd. (China)",
+         "Retail revenue in billion U.S. dollars": 35.16
+      },
+      {
+         "Company (Country of origin)": "Inditex S.A. (Spain)",
+         "Retail revenue in billion U.S. dollars": 30.67
+      },
+      {
+         "Company (Country of origin)": "Metro Ag (Germany)",
+         "Retail revenue in billion U.S. dollars": 28.72
+      },
+      {
+         "Company (Country of origin)": "Coles Group Limited",
+         "Retail revenue in billion U.S. dollars": 27.29
+      },
+      {
+         "Company (Country of origin)": "Mercadona S.A. (Spain)",
+         "Retail revenue in billion U.S. dollars": 26.26
+      },
+      {
+         "Company (Country of origin)": "Dollar General Corporation (United States)",
+         "Retail revenue in billion U.S. dollars": 25.63
+      },
+      {
+         "Company (Country of origin)": "Ceconomy AG (Germany)",
+         "Retail revenue in billion U.S. dollars": 25.48
+      },
+      {
+         "Company (Country of origin)": "Migros-Genossenschafts Bund (Switzerland) ",
+         "Retail revenue in billion U.S. dollars": 25.13
+      },
+      {
+         "Company (Country of origin)": "H.E. Butt Grocery Company (United States)",
+         "Retail revenue in billion U.S. dollars": 25.0
+      },
+      {
+         "Company (Country of origin)": "Macy's Inc. (United States)",
+         "Retail revenue in billion U.S. dollars": 24.97
+      },
+      {
+         "Company (Country of origin)": "X5 Retail Group N.V. (Russia)",
+         "Retail revenue in billion U.S. dollars": 24.39
+      },
+      {
+         "Company (Country of origin)": "H & M Hennes & Mauritz AB (Sweden)",
+         "Retail revenue in billion U.S. dollars": 24.32
+      },
+      {
+         "Company (Country of origin)": "Syst\u00e8me U Centrale Nationale (France)",
+         "Retail revenue in billion U.S. dollars": 23.57
+      },
+      {
+         "Company (Country of origin)": "Wm Morrison Supermarkets PLC (United Kingdom)",
+         "Retail revenue in billion U.S. dollars": 23.51
+      },
+      {
+         "Company (Country of origin)": "Coop Group (Switzerland)",
+         "Retail revenue in billion U.S. dollars": 23.47
+      },
+      {
+         "Company (Country of origin)": "Groupe Adeo SA (France)",
+         "Retail revenue in billion U.S. dollars": 23.16
+      },
+      {
+         "Company (Country of origin)": "Dollar Tree Inc. (United States)",
+         "Retail revenue in billion U.S. dollars": 22.82
+      },
+      {
+         "Company (Country of origin)": "A.S. Watson Group (Hong Kong SAR)",
+         "Retail revenue in billion U.S. dollars": 21.56
+      },
+      {
+         "Company (Country of origin)": "Jer\u00f3nimo Martins SGPS S.A. (Portugal)",
+         "Retail revenue in billion U.S. dollars": 20.45
+      }
+   ],
+   "gold": "The retail industry encompasses the journey of a good or service . This typically starts with the manufacture of a product and ends with said product being purchased by a consumer from a retailer . As a result of globalization and various trade agreements between markets and countries , many retailers are capable of doing business on a global scale .\n"
+}

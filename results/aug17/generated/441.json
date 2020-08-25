@@ -1,0 +1,59 @@
+{
+   "title": "Cyber bullying : common types of bullying 2019 , by gender",
+   "labels": [
+      "Response",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Cyber of bullying leave I_have_been_cyber_bullied_(previous_30_days) Cyber by took last gender as of 2017 , bullying gender . ",
+      "It was found that 17.1 % of Female respondents and 17.7 % of Male respondents did not take any bullying leave I_have_been_cyber_bullied_(previous_30_days) ."
+   ],
+   "trends": [
+      {
+         "8": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "1"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Response": "I have been cyber bullied (previous 30 days)",
+         "Male": "17.7",
+         "Female": "17.1"
+      },
+      {
+         "Response": "I have been cyber bullied (lifetime)",
+         "Male": "34.1",
+         "Female": "38.7"
+      },
+      {
+         "Response": "I have cyber bullied others (previous 30 days)",
+         "Male": "8.1",
+         "Female": "4.6"
+      },
+      {
+         "Response": "I have cyber bullied others (lifetime)",
+         "Male": "16.1",
+         "Female": "13.4"
+      }
+   ],
+   "gold": "This statistic presents the percentage of middle and high school students in the United States who were and have cyber bullied , divided by gender of the students . During the April 2019 survey , it was found that 38.7 percent of female students had ever been bullied online . Cyber bullying includes unwanted contact by threatening or insulting the respondent via digital communications as well as sharing private information online .\n"
+}

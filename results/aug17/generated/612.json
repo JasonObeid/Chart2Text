@@ -1,0 +1,54 @@
+{
+   "title": "Number of Starwood Hotels and Resorts hotels worldwide 2009 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Number of hotels",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of Starwood Hotels hotels from 2009 to 2015 . ",
+      "There were 1161 Starwood Hotels hotels as of 1 , 2014 up from 1121 at the same time the previous Year ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "12": "6"
+      },
+      {
+         "2": "5",
+         "10": "5",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2009",
+         "Number of hotels": "942"
+      },
+      {
+         "Year": "2010",
+         "Number of hotels": "979"
+      },
+      {
+         "Year": "2011",
+         "Number of hotels": "1041"
+      },
+      {
+         "Year": "2012",
+         "Number of hotels": "1077"
+      },
+      {
+         "Year": "2013",
+         "Number of hotels": "1121"
+      },
+      {
+         "Year": "2014",
+         "Number of hotels": "1161"
+      },
+      {
+         "Year": "2015",
+         "Number of hotels": "1207"
+      }
+   ],
+   "gold": "This statistic shows the number of Starwood Hotels and Resorts hotels worldwide from 2009 to 2015 . There were 1,161 Starwood Hotels and Resorts properties worldwide as of January 1 , 2014 , up from 1,121 in 2013 .\n"
+}

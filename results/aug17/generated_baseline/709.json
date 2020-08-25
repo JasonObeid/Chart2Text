@@ -1,0 +1,116 @@
+{
+   "title": "Unemployment rate in Cambodia 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2010 to 1999.",
+      " Differently, the next significant trend is moderately negative which exists from 2019 to 2013.",
+      " But, the next significant trend is extremely negative which exists from 2013 to 2010."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "9",
+         "12": "20"
+      },
+      {
+         "3": "0",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 1.02
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 1.05
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 1.06
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 1.13
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 1.2
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 1.23
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 1.32
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 1.38
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 1.15
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 1.17
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 1.47
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 1.56
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 1.57
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 1.63
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 1.64
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 2.45
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 2.55
+      }
+   ],
+   "gold": "This statistic shows the unemployment rate in Cambodia from 1999 to 2019 . In 2019 , the unemployment rate in Cambodia was 1.02 percent .\n"
+}

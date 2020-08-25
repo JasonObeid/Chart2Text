@@ -1,0 +1,64 @@
+{
+   "title": "Brexit votes in the United Kingdom by social class 2016",
+   "labels": [
+      "Response",
+      "Remain",
+      "Leave"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 4 categories for the x axis of Response representing Remain, and Leave.",
+      " The highest category is found at Upper Middle-Class (AB) with a mean value of 50.0.",
+      " The second highest category is found at Lower Middle-Class (C1) with a mean value of 50.0.",
+      " This represents a difference of 0.0%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "2",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Lower Working-Class (DE)",
+         "Remain": "36",
+         "Leave": "64"
+      },
+      {
+         "Response": "Upper Working-Class (C2)",
+         "Remain": "36",
+         "Leave": "64"
+      },
+      {
+         "Response": "Lower Middle-Class (C1)",
+         "Remain": "51",
+         "Leave": "49"
+      },
+      {
+         "Response": "Upper Middle-Class (AB)",
+         "Remain": "57",
+         "Leave": "43"
+      }
+   ],
+   "gold": "This statistic shows the result of a survey asking respondents how they voted in the Brexit referendum of 2016 , by social class . Of respondents , 57 percent of those in the AB social class advised they had voted to remain , while just 36 percent of C2 and DE respondents said they had voted to remain .\n"
+}

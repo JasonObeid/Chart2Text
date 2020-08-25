@@ -1,0 +1,108 @@
+{
+   "title": "Most miserable countries in the world 2018\n",
+   "xAxis": "Country",
+   "yAxis": "Misery index score",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories for the x axis representing Country, and a y axis representing Misery index score.",
+      " The highest category is found at Venezuela where Misery index score is 1746439.1.",
+      " The lowest category is found at Paraguay where Misery index score is 22.9."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Venezuela",
+         "Misery index score": 1746439.1
+      },
+      {
+         "Country": "Argentina",
+         "Misery index score": 105.6
+      },
+      {
+         "Country": "Iran",
+         "Misery index score": 75.7
+      },
+      {
+         "Country": "Brazil",
+         "Misery index score": 53.6
+      },
+      {
+         "Country": "Turkey",
+         "Misery index score": 53.3
+      },
+      {
+         "Country": "Nigeria",
+         "Misery index score": 43.0
+      },
+      {
+         "Country": "South Africa",
+         "Misery index score": 42.0
+      },
+      {
+         "Country": "Bosnia and Herzegovina",
+         "Misery index score": 38.2
+      },
+      {
+         "Country": "Egypt",
+         "Misery index score": 36.8
+      },
+      {
+         "Country": "Ukraine",
+         "Misery index score": 34.3
+      },
+      {
+         "Country": "Nicaragua",
+         "Misery index score": 31.2
+      },
+      {
+         "Country": "Jordan",
+         "Misery index score": 30.9
+      },
+      {
+         "Country": "Uruguay",
+         "Misery index score": 27.1
+      },
+      {
+         "Country": "Honduras",
+         "Misery index score": 26.8
+      },
+      {
+         "Country": "Macedonia",
+         "Misery index score": 26.4
+      },
+      {
+         "Country": "Armenia",
+         "Misery index score": 25.1
+      },
+      {
+         "Country": "Jamaica",
+         "Misery index score": 24.9
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Misery index score": 23.5
+      },
+      {
+         "Country": "Colombia",
+         "Misery index score": 23.2
+      },
+      {
+         "Country": "Paraguay",
+         "Misery index score": 22.9
+      }
+   ],
+   "gold": "This statistic shows the most miserable countries in the world as rated according to the misery index for 2018 . In 2018 , the most miserable country in the world was considered to be Venezuela with a misery index score of 1746439.1 . Quality of life around the world The economic indicator , misery index was created by Arthur Okun .\n"
+}

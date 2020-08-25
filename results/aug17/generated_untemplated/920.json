@@ -1,0 +1,41 @@
+{
+   "title": "Average price for a soak-off gel application in nail salons in the U.S. 2010 to 2016\n",
+   "xAxis": "Year",
+   "yAxis": "Average price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The average price of gel fills in the united increased moderately in the 2010 's , rising from 29.19 u.s. dollars in 2009 to 34.03 u.s. dollars in 2015 . gel fills A gel fill is a treatment for nails which already have a gel polish applied , and is designed to fill in the small gap that occurs between the cuticle and the base of the gel polish after several weeks of growth . gel polishes can either be \u2018 soft ' _ , where the treatment does not extend beyond the edge of the natural nail , or \u2018 hard ' _ , where a harder form of gel can be used to create nail extensions .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2010",
+         "Average price in U.S. dollars": 28.68
+      },
+      {
+         "Year": "2011",
+         "Average price in U.S. dollars": 31.74
+      },
+      {
+         "Year": "2012",
+         "Average price in U.S. dollars": 28.93
+      },
+      {
+         "Year": "2013",
+         "Average price in U.S. dollars": 35.54
+      },
+      {
+         "Year": "2014",
+         "Average price in U.S. dollars": 36.64
+      },
+      {
+         "Year": "2015",
+         "Average price in U.S. dollars": 30.03
+      },
+      {
+         "Year": "2016",
+         "Average price in U.S. dollars": 29.96
+      }
+   ],
+   "gold": "This statistic shows the average price for a soak-off gels application in nail salons in the United States from 2010 to 2016 . Nail salons charged an average price of 36.64 for an initial soak-off gel application in 2014 .\n"
+}

@@ -1,0 +1,68 @@
+{
+   "title": "Global leading kiwi producing countries 2017\n",
+   "xAxis": "Country",
+   "yAxis": "Production volume in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Production volume in thousand metric tons.",
+      " The highest category is found at China_mainland where Production volume in thousand metric tons is 2024.6.",
+      " The lowest category is found at United_States_of_America where Production volume in thousand metric tons is 30.48."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China mainland",
+         "Production volume in thousand metric tons": 2024.6
+      },
+      {
+         "Country": "Italy",
+         "Production volume in thousand metric tons": 541.15
+      },
+      {
+         "Country": "New Zealand",
+         "Production volume in thousand metric tons": 411.78
+      },
+      {
+         "Country": "Iran (Islamic Republic of)",
+         "Production volume in thousand metric tons": 311.31
+      },
+      {
+         "Country": "Greece",
+         "Production volume in thousand metric tons": 274.6
+      },
+      {
+         "Country": "Chile",
+         "Production volume in thousand metric tons": 224.92
+      },
+      {
+         "Country": "France",
+         "Production volume in thousand metric tons": 65.63
+      },
+      {
+         "Country": "Turkey",
+         "Production volume in thousand metric tons": 56.16
+      },
+      {
+         "Country": "Portugal",
+         "Production volume in thousand metric tons": 35.41
+      },
+      {
+         "Country": "United States of America",
+         "Production volume in thousand metric tons": 30.48
+      }
+   ],
+   "gold": "This statistic depicts the production volume of kiwis worldwide in 2017 , by leading country . According to the source , China was the main kiwi producer worldwide in 2017 , with production volume of some 2.02 million metric tons .\n"
+}

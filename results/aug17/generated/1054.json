@@ -1,0 +1,73 @@
+{
+   "title": "Prevalence of undernourishment worldwide 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Proportion of undernourished people",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Prevalence of undernourishment worldwide Prevalence 2000 to 2018 . ",
+      "In 2018 , undernourishment worth approximately 10.8 million people had been exported worldwide Prevalence . ",
+      "Prevalence of undernourishment worldwide Prevalence \u2013 additional information According to the graph at hand , Prevalence 's Proportion have been increasing steadily over the past decade , except in 2010 when financial crisis and global economic downturn slowed down global trade ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "6": "0"
+      },
+      {
+         "29": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Proportion of undernourished people": "10.8"
+      },
+      {
+         "Year": "2017",
+         "Proportion of undernourished people": "10.8"
+      },
+      {
+         "Year": "2016",
+         "Proportion of undernourished people": "10.7"
+      },
+      {
+         "Year": "2015",
+         "Proportion of undernourished people": "10.6"
+      },
+      {
+         "Year": "2014",
+         "Proportion of undernourished people": "10.7"
+      },
+      {
+         "Year": "2013",
+         "Proportion of undernourished people": "11"
+      },
+      {
+         "Year": "2012",
+         "Proportion of undernourished people": "11.3"
+      },
+      {
+         "Year": "2011",
+         "Proportion of undernourished people": "11.5"
+      },
+      {
+         "Year": "2010",
+         "Proportion of undernourished people": "11.8"
+      },
+      {
+         "Year": "2005",
+         "Proportion of undernourished people": "13.8"
+      },
+      {
+         "Year": "2000",
+         "Proportion of undernourished people": "14.5"
+      }
+   ],
+   "gold": "The statistic shows the prevalence of undernourishment in the world population from 2000 to 2018 . In 2018 , about 10.8 percent of the world population were undernourished .\n"
+}

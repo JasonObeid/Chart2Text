@@ -1,0 +1,68 @@
+{
+   "title": "Toronto Blue Jays all-time home run leaders 2019\n",
+   "xAxis": "Players",
+   "yAxis": "Number of home runs",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Players, and a y axis representing Number of home runs.",
+      " The highest category is found at Carlos_Delgado where Number of home runs is 336.0.",
+      " The lowest category is found at Ernie_Whitt where Number of home runs is 131.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Players": "Carlos Delgado",
+         "Number of home runs": 336.0
+      },
+      {
+         "Players": "Jose Bautista",
+         "Number of home runs": 288.0
+      },
+      {
+         "Players": "Edwin Encarnacion",
+         "Number of home runs": 239.0
+      },
+      {
+         "Players": "Vernon Wells",
+         "Number of home runs": 223.0
+      },
+      {
+         "Players": "Joe Carter",
+         "Number of home runs": 203.0
+      },
+      {
+         "Players": "George Bell",
+         "Number of home runs": 202.0
+      },
+      {
+         "Players": "Jesse Barfield",
+         "Number of home runs": 179.0
+      },
+      {
+         "Players": "Lloyd Moseby",
+         "Number of home runs": 149.0
+      },
+      {
+         "Players": "Adam Lind",
+         "Number of home runs": 146.0
+      },
+      {
+         "Players": "Ernie Whitt",
+         "Number of home runs": 131.0
+      }
+   ],
+   "gold": "This statistic shows the Toronto Blue Jays all-time home run leaders as of October 10 , 2019 . Carlos Delgado has hit the most home runs in Toronto Blue Jays franchise history with 336 home runs .\n"
+}

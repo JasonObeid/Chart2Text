@@ -1,0 +1,75 @@
+{
+   "title": "Brazil : poverty headcount ratio at 3.20 U.S. dollars a day 2005 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 12 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly negative which exists from 2014 to 2005.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2017 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "3",
+         "12": "11"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Percentage of population": 9.6
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": 9.3
+      },
+      {
+         "Year": "2015",
+         "Percentage of population": 8.0
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": 6.9
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": 8.2
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": 8.7
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": 10.3
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": 12.5
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": 13.5
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": 15.7
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": 17.1
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": 19.7
+      }
+   ],
+   "gold": "In 2017 , the poverty headcount ratio at 3.20 U.S. dollars a day in Brazil amounted to 9.6 percent , which means that almost 10 percent of the Brazilian population was living on less than 3.20 U.S. dollars per day . The poverty rate has increased since 2014 , when the headcount ratio was below seven percent .\n"
+}

@@ -1,0 +1,67 @@
+{
+   "title": "Facebook usage frequency in the United States 2018 , by ethnicity",
+   "labels": [
+      "Frequency",
+      "White",
+      "Hispanic",
+      "Black",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic depicts the results of a survey conducted in the country in 2017 , by channel . As of 2018 , 36 percent of male respondents were located in the country . The majority of employees were white .\n",
+   "trends": {},
+   "data": [
+      {
+         "Frequency": "At least once a day",
+         "White": "64",
+         "Hispanic": "56",
+         "Black": "53",
+         "Other": "49"
+      },
+      {
+         "Frequency": "A few times a week",
+         "White": "12",
+         "Hispanic": "15",
+         "Black": "15",
+         "Other": "14"
+      },
+      {
+         "Frequency": "At least once a week",
+         "White": "4",
+         "Hispanic": "4",
+         "Black": "7",
+         "Other": "3"
+      },
+      {
+         "Frequency": "A few times a month",
+         "White": "3",
+         "Hispanic": "6",
+         "Black": "3",
+         "Other": "7"
+      },
+      {
+         "Frequency": "At least once a month",
+         "White": "4",
+         "Hispanic": "5",
+         "Black": "4",
+         "Other": "6"
+      },
+      {
+         "Frequency": "Never",
+         "White": "11",
+         "Hispanic": "13",
+         "Black": "13",
+         "Other": "19"
+      },
+      {
+         "Frequency": "Don't know/No opinion",
+         "White": "2",
+         "Hispanic": "1",
+         "Black": "5",
+         "Other": "2"
+      }
+   ],
+   "gold": "This statistic presents the frequency of internet users in the United States accessing Facebook , sorted by ethnicity . As of February 2018 , it was found that 56 percent of Hispanic U.S. online users accessed Facebook at least once a day .\n"
+}

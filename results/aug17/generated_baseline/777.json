@@ -1,0 +1,40 @@
+{
+   "title": "Popularity of Fidel Castro in Cuba 2015\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 3 categories for the x axis representing Response, and a y axis representing Share of respondents.",
+      " The highest category is found at Very/somewhat_negative where Share of respondents is 50.0.",
+      " The lowest category is found at Don't_know_/_no_answer where Share of respondents is 6.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Very/somewhat positive",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Very/somewhat negative",
+         "Share of respondents": 50.0
+      },
+      {
+         "Response": "Don't know / no answer",
+         "Share of respondents": 6.0
+      }
+   ],
+   "gold": "This statistic shows the results of a 2015 survey among adult Cubans living in Cuba on their opinion of Fidel Castro , their former President . 50 percent of respondents stated they have a very or somewhat negative opinion of Fidel Castro .\n"
+}

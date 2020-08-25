@@ -1,0 +1,53 @@
+{
+   "title": "Leading airlines worldwide - based on total number of passengers 2018\n",
+   "xAxis": "Airlines",
+   "yAxis": "Number of passengers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic presents the most watched sports tv broadcasts in canada in 2015 , ranked by number of viewers . The 2015 curling brier final broadcasted in on TSN placed ninth , with 1.25 million viewers . nfl super bowl ranked first , with 8.26 million viewers .\n",
+   "trends": {},
+   "data": [
+      {
+         "Airlines": "American",
+         "Number of passengers in millions": 203.7
+      },
+      {
+         "Airlines": "Delta",
+         "Number of passengers in millions": 192.5
+      },
+      {
+         "Airlines": "Southwest",
+         "Number of passengers in millions": 163.6
+      },
+      {
+         "Airlines": "United Continental",
+         "Number of passengers in millions": 158.3
+      },
+      {
+         "Airlines": "Lufthansa",
+         "Number of passengers in millions": 142.3
+      },
+      {
+         "Airlines": "Ryanair",
+         "Number of passengers in millions": 142.1
+      },
+      {
+         "Airlines": "China Southern",
+         "Number of passengers in millions": 140.0
+      },
+      {
+         "Airlines": "China Eastern",
+         "Number of passengers in millions": 122.5
+      },
+      {
+         "Airlines": "IAG",
+         "Number of passengers in millions": 113.0
+      },
+      {
+         "Airlines": "Air China",
+         "Number of passengers in millions": 110.0
+      }
+   ],
+   "gold": "This statistic depicts the leading airline groups worldwide in 2018 , based on passenger traffic . In that year , the ranking was dominated by U.S.-based airlines : American Airlines topped the list , with 203.7 million passengers . Air passengers The rising middle classes in emerging economies are expected to help global air traffic grow at an average annual growth rate of four percent till 2034 .\n"
+}

@@ -1,0 +1,119 @@
+{
+   "title": "Esophageal cancer cases in England 2017 , by age and gender",
+   "labels": [
+      "Month",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 15 categories for the x axis of Month representing Men, and Women.",
+      " The highest category is found at 70-74 with a mean value of 704.5.",
+      " The second highest category is found at 65-69 with a mean value of 583.5.",
+      " This represents a difference of 18.8%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "10"
+         ],
+         "13": [
+            "2",
+            "10"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "9"
+         ],
+         "14": [
+            "2",
+            "9"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "20-24",
+         "Men": "4",
+         "Women": "1"
+      },
+      {
+         "Month": "25-29",
+         "Men": "7",
+         "Women": "1"
+      },
+      {
+         "Month": "30-34",
+         "Men": "10",
+         "Women": "1"
+      },
+      {
+         "Month": "35-39",
+         "Men": "18",
+         "Women": "7"
+      },
+      {
+         "Month": "40-44",
+         "Men": "34",
+         "Women": "9"
+      },
+      {
+         "Month": "45-49",
+         "Men": "124",
+         "Women": "30"
+      },
+      {
+         "Month": "50-54",
+         "Men": "248",
+         "Women": "72"
+      },
+      {
+         "Month": "55-59",
+         "Men": "433",
+         "Women": "106"
+      },
+      {
+         "Month": "60-64",
+         "Men": "616",
+         "Women": "203"
+      },
+      {
+         "Month": "65-69",
+         "Men": "850",
+         "Women": "317"
+      },
+      {
+         "Month": "70-74",
+         "Men": "1037",
+         "Women": "372"
+      },
+      {
+         "Month": "75-79",
+         "Men": "793",
+         "Women": "354"
+      },
+      {
+         "Month": "80-84",
+         "Men": "567",
+         "Women": "352"
+      },
+      {
+         "Month": "85-89",
+         "Men": "383",
+         "Women": "278"
+      },
+      {
+         "Month": "90 and over",
+         "Men": "156",
+         "Women": "186"
+      }
+   ],
+   "gold": "In 2017 , over 7.5 thousand people in England were diagnosed with esophageal cancer . The most affected age group was among those aged 70 to 74 years with 1,037 diagnoses in men of this age and 372 cases for women . The esophagus is also known as the gullet and is the tube that carries food to the stomach .\n"
+}

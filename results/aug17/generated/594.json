@@ -1,0 +1,70 @@
+{
+   "title": "Total population of Nepal 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Total population of Nepal from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of Nepal amounted to approximately 27.63 millions Inhabitants ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "30.36"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "29.97"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "29.59"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "29.2"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "28.83"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "28.46"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "28.09"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "27.63"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "27.26"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "27.02"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "26.91"
+      }
+   ],
+   "gold": "This statistic represents the total population of Nepal from 2014 to 2015 , with projections up until 2024 . In 2018 , the estimated total population of Nepal amounted to around 28.09 million people .\n"
+}

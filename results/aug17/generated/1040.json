@@ -1,0 +1,94 @@
+{
+   "title": "Percentage of U.S. population engaged in leisure and sports per day 2010 to 2018",
+   "labels": [
+      "Year",
+      "All",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the average percentage of the U.S. population participating in leisure , sports and recreational activities per day by gender from 2010 to 2018 . ",
+      "According to the source , 96.2 % of Men participated in leisure , sports and recreational activities every day in 2018 ."
+   ],
+   "trends": [
+      {
+         "23": [
+            "8",
+            "0"
+         ],
+         "25": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "5": [
+            "0",
+            "2"
+         ],
+         "20": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "All": "95.6",
+         "Men": "96.2",
+         "Women": "94.9"
+      },
+      {
+         "Year": "2017",
+         "All": "95.6",
+         "Men": "95.6",
+         "Women": "95.6"
+      },
+      {
+         "Year": "2016",
+         "All": "95.8",
+         "Men": "96.4",
+         "Women": "95.3"
+      },
+      {
+         "Year": "2015",
+         "All": "96.1",
+         "Men": "96.6",
+         "Women": "95.6"
+      },
+      {
+         "Year": "2014",
+         "All": "95.7",
+         "Men": "95.8",
+         "Women": "95.7"
+      },
+      {
+         "Year": "2013",
+         "All": "95.3",
+         "Men": "95.1",
+         "Women": "95.4"
+      },
+      {
+         "Year": "2012",
+         "All": "96.2",
+         "Men": "96.9",
+         "Women": "95.6"
+      },
+      {
+         "Year": "2011",
+         "All": "95.2",
+         "Men": "95.7",
+         "Women": "94.8"
+      },
+      {
+         "Year": "2010",
+         "All": "95.8",
+         "Men": "96.1",
+         "Women": "95.4"
+      }
+   ],
+   "gold": "This graph depicts the daily percentage of U.S. Americans engaged in leisure and sports activities from 2010 to 2018 . According to the source , 95.6 percent of all men were engaged in leisure and sports activities in 2018 .\n"
+}

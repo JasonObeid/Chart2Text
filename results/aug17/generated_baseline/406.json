@@ -1,0 +1,100 @@
+{
+   "title": "Average player salary in the Bundesliga 2019/20 , by team\n",
+   "xAxis": "Month",
+   "yAxis": "Average player salary in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 18 categories for the x axis representing Month, and a y axis representing Average player salary in million U.S. dollars.",
+      " The highest category is found at Bayern_Munich where Average player salary in million U.S. dollars is 8.12.",
+      " The lowest category is found at Paderborn where Average player salary in million U.S. dollars is 0.42."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Bayern Munich",
+         "Average player salary in million U.S. dollars": 8.12
+      },
+      {
+         "Month": "Borussia Dortmund",
+         "Average player salary in million U.S. dollars": 4.97
+      },
+      {
+         "Month": "Bayer Leverkusen",
+         "Average player salary in million U.S. dollars": 3.19
+      },
+      {
+         "Month": "RB Leipzig",
+         "Average player salary in million U.S. dollars": 2.42
+      },
+      {
+         "Month": "Wolfsburg",
+         "Average player salary in million U.S. dollars": 2.41
+      },
+      {
+         "Month": "Schalke",
+         "Average player salary in million U.S. dollars": 2.19
+      },
+      {
+         "Month": "Borussia Monchengladbach",
+         "Average player salary in million U.S. dollars": 1.92
+      },
+      {
+         "Month": "Hoffenheim",
+         "Average player salary in million U.S. dollars": 1.7
+      },
+      {
+         "Month": "Werder Bremen",
+         "Average player salary in million U.S. dollars": 1.57
+      },
+      {
+         "Month": "Eintracht Frankfurt",
+         "Average player salary in million U.S. dollars": 1.54
+      },
+      {
+         "Month": "Hertha Berlin",
+         "Average player salary in million U.S. dollars": 1.3
+      },
+      {
+         "Month": "FC Koln",
+         "Average player salary in million U.S. dollars": 1.22
+      },
+      {
+         "Month": "Augsburg",
+         "Average player salary in million U.S. dollars": 1.02
+      },
+      {
+         "Month": "Mainz",
+         "Average player salary in million U.S. dollars": 0.85
+      },
+      {
+         "Month": "Fortuna Dusseldorf",
+         "Average player salary in million U.S. dollars": 0.76
+      },
+      {
+         "Month": "SC Freiburg",
+         "Average player salary in million U.S. dollars": 0.73
+      },
+      {
+         "Month": "Union Berlin",
+         "Average player salary in million U.S. dollars": 0.68
+      },
+      {
+         "Month": "Paderborn",
+         "Average player salary in million U.S. dollars": 0.42
+      }
+   ],
+   "gold": "In the 2019/2020 season , Bayern Munich was the highest paying club in the German Bundesliga . The average annual player salary in that season was 8.12 million U.S. dollars , while in Paderborn , the lowest paying club in the Bundesliga , it was 0.42 million U.S. dollars . 18 clubs consistently play in the first Bundesliga in Germany .\n"
+}

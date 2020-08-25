@@ -1,0 +1,70 @@
+{
+   "title": "Total population of Iraq 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Total population of Iraq from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of Iraq was at approximately 38.12 millions Inhabitants ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "11": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "44.47"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "43.35"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "42.25"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "41.18"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "40.13"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "39.12"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "38.12"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "37.14"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "36.17"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "35.21"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "35.0"
+      }
+   ],
+   "gold": "This statistic shows the total population of Iraq from 2014 to 2024 . In 2018 , the estimated total population of Iraq amounted to approximately 38.12 million inhabitants .\n"
+}

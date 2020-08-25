@@ -1,0 +1,80 @@
+{
+   "title": "Countries with the lowest prevalence of condom use among its male population 2013",
+   "xAxis": "Country",
+   "yAxis": "Percentage of males aged 15-49",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Percentage of males first instance aged applications in condom of the Countries among in 2013 , broken down by Country . ",
+      "In 2013 , Niger males the largest Percentage of aged seekers with 24 . ",
+      "Madagascar and Mali males the second and third most respectively , with roughly 10.6 and 10 thousand 15-49 , respectively ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "12": "12"
+      },
+      {
+         "0": "1",
+         "2": "2",
+         "15": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Niger",
+         "Percentage of males aged 15-49": "4"
+      },
+      {
+         "Country": "Madagascar",
+         "Percentage of males aged 15-49": "7"
+      },
+      {
+         "Country": "Mali",
+         "Percentage of males aged 15-49": "10"
+      },
+      {
+         "Country": "Sierra Leone",
+         "Percentage of males aged 15-49": "13"
+      },
+      {
+         "Country": "Burundi",
+         "Percentage of males aged 15-49": "14"
+      },
+      {
+         "Country": "Ethiopia",
+         "Percentage of males aged 15-49": "16"
+      },
+      {
+         "Country": "DC Congo",
+         "Percentage of males aged 15-49": "16"
+      },
+      {
+         "Country": "East Timor",
+         "Percentage of males aged 15-49": "19"
+      },
+      {
+         "Country": "Uganda",
+         "Percentage of males aged 15-49": "19"
+      },
+      {
+         "Country": "Nigeria",
+         "Percentage of males aged 15-49": "20"
+      },
+      {
+         "Country": "Senegal",
+         "Percentage of males aged 15-49": "21"
+      },
+      {
+         "Country": "Benin",
+         "Percentage of males aged 15-49": "22"
+      },
+      {
+         "Country": "Liberia",
+         "Percentage of males aged 15-49": "24"
+      }
+   ],
+   "gold": "This statistic depicts the countries with lowest prevalence of condom use among its male population worldwide as of 2013 . As of that year , Niger had the lowest prevalence of condom use among men worldwide . Only four percent of its male population aged 15 - 49 years used condoms .\n"
+}

@@ -1,0 +1,82 @@
+{
+   "title": "Expenditure on beer in the United Kingdom 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Expenditure in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Petcare is one of United Kingdom 's many thriving industries where consistent growth is happening year-on-year . ",
+      "The most recent figures published by the Office for National Statistics revealed that Expenditure on beer and related products reached an annual value of 4.94 million British pounds in 2018 , representing an increase of about 3 million British pounds since 2009 . ",
+      "Dogs are United Kingdom households ' best friend The United Kingdom is host to over 50 million beer , although this number signifies a considerable drop since 2013 when the pet population in the United Kingdom peaked at 73 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "29": "0",
+         "41": "9"
+      },
+      {
+         "25": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Expenditure in million GBP": "5631"
+      },
+      {
+         "Year": "2017",
+         "Expenditure in million GBP": "5091"
+      },
+      {
+         "Year": "2016",
+         "Expenditure in million GBP": "4640"
+      },
+      {
+         "Year": "2015",
+         "Expenditure in million GBP": "4571"
+      },
+      {
+         "Year": "2014",
+         "Expenditure in million GBP": "4573"
+      },
+      {
+         "Year": "2013",
+         "Expenditure in million GBP": "4435"
+      },
+      {
+         "Year": "2012",
+         "Expenditure in million GBP": "4188"
+      },
+      {
+         "Year": "2011",
+         "Expenditure in million GBP": "4119"
+      },
+      {
+         "Year": "2010",
+         "Expenditure in million GBP": "3994"
+      },
+      {
+         "Year": "2009",
+         "Expenditure in million GBP": "4142"
+      },
+      {
+         "Year": "2008",
+         "Expenditure in million GBP": "3677"
+      },
+      {
+         "Year": "2007",
+         "Expenditure in million GBP": "3802"
+      },
+      {
+         "Year": "2006",
+         "Expenditure in million GBP": "3976"
+      },
+      {
+         "Year": "2005",
+         "Expenditure in million GBP": "3714"
+      }
+   ],
+   "gold": "In 2018 , consumers spent 5.6 billion British pounds on beer in the United Kingdom ( UK ) . This is the highest consumer spending recorded in the past thirteen years and the second time spending surpassed five billion pounds . Spending has generally grown since 2010 .\n"
+}

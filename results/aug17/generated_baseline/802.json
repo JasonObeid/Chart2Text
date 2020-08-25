@@ -1,0 +1,68 @@
+{
+   "title": "U.S. honey imports by country of origin 2017\n",
+   "xAxis": "Country",
+   "yAxis": "Imports in metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Country, and a y axis representing Imports in metric tons.",
+      " The highest category is found at India where Imports in metric tons is 45170.0.",
+      " The lowest category is found at Uruguay where Imports in metric tons is 4025.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "India",
+         "Imports in metric tons": 45170.0
+      },
+      {
+         "Country": "Vietnam",
+         "Imports in metric tons": 36288.0
+      },
+      {
+         "Country": "Argentina",
+         "Imports in metric tons": 35378.0
+      },
+      {
+         "Country": "Brazil",
+         "Imports in metric tons": 24031.0
+      },
+      {
+         "Country": "Ukraine",
+         "Imports in metric tons": 19363.0
+      },
+      {
+         "Country": "Canada",
+         "Imports in metric tons": 15786.0
+      },
+      {
+         "Country": "Mexico",
+         "Imports in metric tons": 4783.0
+      },
+      {
+         "Country": "Thailand",
+         "Imports in metric tons": 4490.0
+      },
+      {
+         "Country": "New  Zealand",
+         "Imports in metric tons": 4201.0
+      },
+      {
+         "Country": "Uruguay",
+         "Imports in metric tons": 4025.0
+      }
+   ],
+   "gold": "This statistic gives a ranking of the ten countries from which the U.S. imported the largest amount of honey in 2017 . More than 15,700 metric tons of honey were imported from Canada that year .\n"
+}

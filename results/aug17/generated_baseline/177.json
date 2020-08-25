@@ -1,0 +1,105 @@
+{
+   "title": "IC3 : total damage caused by reported cyber crime 2001 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Total damage in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Total damage in million U.S. dollars, with a total of 17 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly positive which exists from 2011 to 2004.",
+      " Likewise, the next significant trend is moderately positive which exists from 2016 to 2011.",
+      " In a similar manner, the next significant trend is slightly positive which exists from 2004 to 2001.",
+      " Similarly, the next significant trend is extremely negative which exists from 2018 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "7",
+         "12": "13"
+      },
+      {
+         "3": "2",
+         "14": "7"
+      },
+      {
+         "3": "13",
+         "14": "16"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Total damage in million U.S. dollars": 2710.0
+      },
+      {
+         "Year": "2017",
+         "Total damage in million U.S. dollars": 1418.7
+      },
+      {
+         "Year": "2016",
+         "Total damage in million U.S. dollars": 1450.7
+      },
+      {
+         "Year": "2015",
+         "Total damage in million U.S. dollars": 1070.71
+      },
+      {
+         "Year": "2014",
+         "Total damage in million U.S. dollars": 800.49
+      },
+      {
+         "Year": "2013",
+         "Total damage in million U.S. dollars": 781.84
+      },
+      {
+         "Year": "2012",
+         "Total damage in million U.S. dollars": 581.44
+      },
+      {
+         "Year": "2011",
+         "Total damage in million U.S. dollars": 485.25
+      },
+      {
+         "Year": "2009",
+         "Total damage in million U.S. dollars": 559.7
+      },
+      {
+         "Year": "2008",
+         "Total damage in million U.S. dollars": 264.6
+      },
+      {
+         "Year": "2007",
+         "Total damage in million U.S. dollars": 239.1
+      },
+      {
+         "Year": "2006",
+         "Total damage in million U.S. dollars": 198.4
+      },
+      {
+         "Year": "2005",
+         "Total damage in million U.S. dollars": 183.1
+      },
+      {
+         "Year": "2004",
+         "Total damage in million U.S. dollars": 68.1
+      },
+      {
+         "Year": "2003",
+         "Total damage in million U.S. dollars": 125.6
+      },
+      {
+         "Year": "2002",
+         "Total damage in million U.S. dollars": 54.0
+      },
+      {
+         "Year": "2001",
+         "Total damage in million U.S. dollars": 17.8
+      }
+   ],
+   "gold": "The statistic shows the amount of damages caused by cyber crime reported to the IC3 from 2001 to 2018 . In the last reported period , the annual loss of complaints referred to the IC3 amounted to 2.71 billion U.S. dollars , up from 1 billion U.S. dollars in 2015 .\n"
+}

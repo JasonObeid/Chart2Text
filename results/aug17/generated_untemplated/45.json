@@ -1,0 +1,57 @@
+{
+   "title": "U.S. per capita consumption of fresh fruit by fruit type 2018\n",
+   "xAxis": "Fruits",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The timeline shows the per capita consumption of corn and cereal products in the united in 2018 , by type . In that year , the u.s. per capita consumption of corn products amounted to 35.2 pounds .\n",
+   "trends": {},
+   "data": [
+      {
+         "Fruits": "Bananas",
+         "Per capita consumption in pounds": 28.2
+      },
+      {
+         "Fruits": "Apples",
+         "Per capita consumption in pounds": 16.9
+      },
+      {
+         "Fruits": "Oranges",
+         "Per capita consumption in pounds": 8.2
+      },
+      {
+         "Fruits": "Grapes",
+         "Per capita consumption in pounds": 8.1
+      },
+      {
+         "Fruits": "Avocados",
+         "Per capita consumption in pounds": 8.0
+      },
+      {
+         "Fruits": "Pineapples",
+         "Per capita consumption in pounds": 7.8
+      },
+      {
+         "Fruits": "Strawberries",
+         "Per capita consumption in pounds": 7.1
+      },
+      {
+         "Fruits": "Lemons",
+         "Per capita consumption in pounds": 4.2
+      },
+      {
+         "Fruits": "Pears",
+         "Per capita consumption in pounds": 2.9
+      },
+      {
+         "Fruits": "Peaches",
+         "Per capita consumption in pounds": 2.2
+      },
+      {
+         "Fruits": "Cherries",
+         "Per capita consumption in pounds": 1.3
+      }
+   ],
+   "gold": "This statistic highlights the per capita consumption of fresh fruit in the United States in 2018 , by single fruit type . Bananas and apples were the leading fruit types in the U.S. in 2018 , based on per capita consumption . The per capita consumption of fresh apples amounted to 16.9 pounds that year .\n"
+}

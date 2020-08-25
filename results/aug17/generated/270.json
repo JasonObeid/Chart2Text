@@ -1,0 +1,106 @@
+{
+   "title": "Share of economic sectors in the GDP in Ghana 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Share of the economic sectors GDP ( Ghana ) 2018 in Ghana from 2008 to 2018 . ",
+      "In 2018 , Agriculture contributed around 18.27 % to the Ghana of , 31.53 % came from the Industry and 43.01 % from the service sector ."
+   ],
+   "trends": [
+      {
+         "19": [
+            "10",
+            "0"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "18.27",
+         "Industry": "31.53",
+         "Services": "43.01"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "19.7",
+         "Industry": "30.78",
+         "Services": "42.35"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "20.98",
+         "Industry": "28.23",
+         "Services": "43.09"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "20.25",
+         "Industry": "31.68",
+         "Services": "39.54"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "20",
+         "Industry": "34.59",
+         "Services": "36.11"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "20.45",
+         "Industry": "34.86",
+         "Services": "39.15"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "22.13",
+         "Industry": "27.14",
+         "Services": "47.58"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "23.66",
+         "Industry": "23.86",
+         "Services": "45.84"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "28.04",
+         "Industry": "18.01",
+         "Services": "48.18"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "30.99",
+         "Industry": "18.51",
+         "Services": "47.94"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "29.41",
+         "Industry": "19.4",
+         "Services": "46.17"
+      }
+   ],
+   "gold": "This statistic shows the share of economic sectors in the gross domestic product ( GDP ) in Ghana from 2008 to 2018 . In 2018 , the share of agriculture in Ghana 's gross domestic product was 18.27 percent , industry contributed approximately 31.53 percent and the services sector contributed about 43.01 percent .\n"
+}

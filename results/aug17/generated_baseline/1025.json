@@ -1,0 +1,112 @@
+{
+   "title": "Unemployment rate in Northern Ireland ( UK ) 2000 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 20 data points. The chart has 3 significant trends.",
+      " The longest trend is moderately negative which exists from 2007 to 2000.",
+      " Contrarily, the next significant trend is slightly negative which exists from 2019 to 2013.",
+      " On the other hand, the next significant trend is extremely positive which exists from 2013 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "12",
+         "12": "19"
+      },
+      {
+         "3": "0",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 2.7
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 3.6
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 4.6
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 5.7
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 6.1
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 6.4
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 7.5
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 7.4
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 7.2
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 7.1
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 6.4
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 4.4
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 3.9
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 4.4
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 4.6
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 5.0
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 5.6
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 5.9
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 6.0
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 6.2
+      }
+   ],
+   "gold": "This statistic shows the unemployment rate in Northern Ireland from 2000 to 2019 . Unemployment in Northern Ireland peaked in 2013 when there were 7.5 percent of the population unemployed , compared with just 2.7 percent in the most recent reporting year of 2019 .\n"
+}

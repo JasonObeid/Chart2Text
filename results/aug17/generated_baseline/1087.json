@@ -1,0 +1,60 @@
+{
+   "title": "Profit of leading mutual property/casualty insurance companies 2018\n",
+   "xAxis": "Insurance Companies",
+   "yAxis": "Profit in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories for the x axis representing Insurance Companies, and a y axis representing Profit in million U.S. dollars.",
+      " The highest category is found at State_Farm_Insurance_Cos. where Profit in million U.S. dollars is 8788.4.",
+      " The lowest category is found at Farmers_Insurance_Exchange where Profit in million U.S. dollars is 70.5."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Insurance Companies": "State Farm Insurance Cos.",
+         "Profit in million U.S. dollars": 8788.4
+      },
+      {
+         "Insurance Companies": "Auto-Owners Insurance",
+         "Profit in million U.S. dollars": 754.5
+      },
+      {
+         "Insurance Companies": "Erie Insurance Group",
+         "Profit in million U.S. dollars": 686.3
+      },
+      {
+         "Insurance Companies": "Nationwide",
+         "Profit in million U.S. dollars": 512.6
+      },
+      {
+         "Insurance Companies": "Sentry Insurance Group",
+         "Profit in million U.S. dollars": 250.6
+      },
+      {
+         "Insurance Companies": "Country Financial",
+         "Profit in million U.S. dollars": 215.2
+      },
+      {
+         "Insurance Companies": "Amica Mutual Insurance",
+         "Profit in million U.S. dollars": 147.1
+      },
+      {
+         "Insurance Companies": "Farmers Insurance Exchange",
+         "Profit in million U.S. dollars": 70.5
+      }
+   ],
+   "gold": "This statistic displays the profits of leading mutual property and casualty insurance companies in the United States in 2018 . In that year , the profits of Nationwide amounted to approximately 512.6 million U.S. dollars .\n"
+}

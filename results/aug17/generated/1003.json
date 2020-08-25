@@ -1,0 +1,188 @@
+{
+   "title": "Time per day spent on leisure activities in OECD countries by gender , as of 2016",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic provides a comparison of the Time amount of time leisure on activities housework by gender in OECD member by as well Hungary_(1999-2000) , Norway_(2010) and Poland_(2003-04) . ",
+      "As of 2016 , Portuguese men leisure 351 per day spent on unpaid OECD on Time while for women the Time was 326 per ."
+   ],
+   "trends": [
+      {
+         "24": [
+            "21",
+            "0"
+         ],
+         "26": [
+            "2",
+            "0"
+         ],
+         "28": [
+            "12",
+            "0"
+         ]
+      },
+      {
+         "7": [
+            "3",
+            "1"
+         ],
+         "22": [
+            "3",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Finland (2009-10)",
+         "Male": "386",
+         "Female": "336"
+      },
+      {
+         "Year": "United Kingdom (2005)",
+         "Male": "382",
+         "Female": "339"
+      },
+      {
+         "Year": "Norway (2010)",
+         "Male": "364",
+         "Female": "355"
+      },
+      {
+         "Year": "Germany (2001-02)",
+         "Male": "351",
+         "Female": "326"
+      },
+      {
+         "Year": "Denmark (2001)",
+         "Male": "340",
+         "Female": "320"
+      },
+      {
+         "Year": "Belgium (2005)",
+         "Male": "350",
+         "Female": "307"
+      },
+      {
+         "Year": "Ireland (2005)",
+         "Male": "341",
+         "Female": "290"
+      },
+      {
+         "Year": "Canada (2010)",
+         "Male": "336",
+         "Female": "294"
+      },
+      {
+         "Year": "Estonia (2009-2010)",
+         "Male": "345",
+         "Female": "278"
+      },
+      {
+         "Year": "Slovenia (2000-01)",
+         "Male": "337",
+         "Female": "283"
+      },
+      {
+         "Year": "South Africa (2010)",
+         "Male": "334",
+         "Female": "282"
+      },
+      {
+         "Year": "New Zealand (2009-10)",
+         "Male": "306",
+         "Female": "295"
+      },
+      {
+         "Year": "Poland (2003-04)",
+         "Male": "323",
+         "Female": "273"
+      },
+      {
+         "Year": "Netherlands (2005-06)",
+         "Male": "301",
+         "Female": "290"
+      },
+      {
+         "Year": "United States (2014)",
+         "Male": "320",
+         "Female": "271"
+      },
+      {
+         "Year": "France (2009)",
+         "Male": "318",
+         "Female": "270"
+      },
+      {
+         "Year": "Sweden (2010)",
+         "Male": "314",
+         "Female": "272"
+      },
+      {
+         "Year": "Spain (2009-10)",
+         "Male": "310",
+         "Female": "273"
+      },
+      {
+         "Year": "Korea (2009)",
+         "Male": "314",
+         "Female": "268"
+      },
+      {
+         "Year": "Australia (2006)",
+         "Male": "297",
+         "Female": "269"
+      },
+      {
+         "Year": "Austria (2008-09)",
+         "Male": "299",
+         "Female": "262"
+      },
+      {
+         "Year": "Hungary (1999-2000)",
+         "Male": "303",
+         "Female": "255"
+      },
+      {
+         "Year": "Italy (2008)",
+         "Male": "309",
+         "Female": "248"
+      },
+      {
+         "Year": "Turkey (2006)",
+         "Male": "279",
+         "Female": "247"
+      },
+      {
+         "Year": "India (1999)",
+         "Male": "283",
+         "Female": "221"
+      },
+      {
+         "Year": "Portugal (1999)",
+         "Male": "289",
+         "Female": "200"
+      },
+      {
+         "Year": "Japan (2011)",
+         "Male": "240",
+         "Female": "244"
+      },
+      {
+         "Year": "China (2008)",
+         "Male": "248",
+         "Female": "211"
+      },
+      {
+         "Year": "Mexico (2009)",
+         "Male": "236",
+         "Female": "206"
+      }
+   ],
+   "gold": "This statistic provides a comparison of the average amount of time spent leisure activities by gender in OECD member countries as well as China , India and South Africa . As of 2016 , women in Portugal spent an average of 200 minutes per day on leisure activities rather low when compared with women from Norway who spent an average of 355 minutes .\n"
+}

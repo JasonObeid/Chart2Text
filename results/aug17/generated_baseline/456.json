@@ -1,0 +1,112 @@
+{
+   "title": "Alibaba : cumulative active online buyers Q4 2014-Q4 2019\n",
+   "xAxis": "Quarter",
+   "yAxis": "Active Alibaba online buyers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 21 categories for the x axis representing Quarter, and a y axis representing Active Alibaba online buyers in millions.",
+      " The highest category is found at Q4_'19 where Active Alibaba online buyers in millions is 711.0.",
+      " The lowest category is found at Q4_'14 where Active Alibaba online buyers in millions is 334.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 20,
+         "12": 20
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Active Alibaba online buyers in millions": 711.0
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Active Alibaba online buyers in millions": 693.0
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Active Alibaba online buyers in millions": 674.0
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Active Alibaba online buyers in millions": 654.0
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Active Alibaba online buyers in millions": 636.0
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Active Alibaba online buyers in millions": 601.0
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Active Alibaba online buyers in millions": 576.0
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Active Alibaba online buyers in millions": 552.0
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Active Alibaba online buyers in millions": 515.0
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Active Alibaba online buyers in millions": 488.0
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Active Alibaba online buyers in millions": 466.0
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Active Alibaba online buyers in millions": 454.0
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Active Alibaba online buyers in millions": 443.0
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Active Alibaba online buyers in millions": 439.0
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Active Alibaba online buyers in millions": 434.0
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Active Alibaba online buyers in millions": 423.0
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Active Alibaba online buyers in millions": 407.0
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Active Alibaba online buyers in millions": 386.0
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Active Alibaba online buyers in millions": 367.0
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Active Alibaba online buyers in millions": 350.0
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Active Alibaba online buyers in millions": 334.0
+      }
+   ],
+   "gold": "The largest Chinese company for e-commerce Alibaba had another strong quarter in 2019 . The annual active consumers on its online shopping properties in China reached 711 million by the end of December , increasing from 693 million at the end of September 2019 . Alibaba business Founded in 1999 , the Alibaba Group grew up to be the leading company providing all kinds of e-commerce services .\n"
+}

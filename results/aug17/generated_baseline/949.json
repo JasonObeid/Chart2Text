@@ -1,0 +1,56 @@
+{
+   "title": "Piracy - actual and attempted attacks worldwide by country 2019\n",
+   "xAxis": "Country",
+   "yAxis": "Number of incidents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 categories for the x axis representing Country, and a y axis representing Number of incidents.",
+      " The highest category is found at Nigeria where Number of incidents is 35.0.",
+      " The lowest category is found at Venezuela where Number of incidents is 6.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Nigeria",
+         "Number of incidents": 35.0
+      },
+      {
+         "Country": "Indonesia",
+         "Number of incidents": 25.0
+      },
+      {
+         "Country": "Singapore Staits",
+         "Number of incidents": 12.0
+      },
+      {
+         "Country": "Malaysia",
+         "Number of incidents": 11.0
+      },
+      {
+         "Country": "Peru",
+         "Number of incidents": 10.0
+      },
+      {
+         "Country": "Venezuela",
+         "Number of incidents": 6.0
+      },
+      {
+         "Country": "Cameroon",
+         "Number of incidents": 6.0
+      }
+   ],
+   "gold": "The statistic represents the total number of actual and attempted piracy attacks in the world 's most perilous territorial waters in 2019 . That year , there were six actual and attempted piracy attacks off the Venezuelan coast .\n"
+}

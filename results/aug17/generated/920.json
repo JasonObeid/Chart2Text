@@ -1,0 +1,55 @@
+{
+   "title": "Average price for a soak-off gel application in nail salons in the U.S. 2010 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Average price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Average price of soak-off gel in the salons increased moderately in the 2015 's , rising from 28.68 U.S. dollars in 2010 to 36.64 U.S. dollars in 2014 . ",
+      "soak-off gel A soak-off fill is a treatment for nails which already have a soak-off polish applied , and is designed to fill in the small gap that occurs between the cuticle and the base of the soak-off polish after several weeks of growth . ",
+      "soak-off polishes can either be \u2018 soft ' _ , where the treatment does not extend beyond the edge of the natural application , or \u2018 hard ' _ , where a harder form of soak-off can be used to create application extensions ."
+   ],
+   "trends": [
+      {
+         "13": "5",
+         "18": "0",
+         "22": "0",
+         "24": "4",
+         "28": "4"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Average price in U.S. dollars": "28.68"
+      },
+      {
+         "Year": "2011",
+         "Average price in U.S. dollars": "31.74"
+      },
+      {
+         "Year": "2012",
+         "Average price in U.S. dollars": "28.93"
+      },
+      {
+         "Year": "2013",
+         "Average price in U.S. dollars": "35.54"
+      },
+      {
+         "Year": "2014",
+         "Average price in U.S. dollars": "36.64"
+      },
+      {
+         "Year": "2015",
+         "Average price in U.S. dollars": "30.03"
+      },
+      {
+         "Year": "2016",
+         "Average price in U.S. dollars": "29.96"
+      }
+   ],
+   "gold": "This statistic shows the average price for a soak-off gels application in nail salons in the United States from 2010 to 2016 . Nail salons charged an average price of 36.64 for an initial soak-off gel application in 2014 .\n"
+}

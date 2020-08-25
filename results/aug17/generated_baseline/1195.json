@@ -1,0 +1,68 @@
+{
+   "title": "Best selling books in France 2018\n",
+   "xAxis": "Title",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories for the x axis representing Title, and a y axis representing Units sold.",
+      " The highest category is found at Un_appartement_\u00e0_ParisGuillaume_Musso where Units sold is 590000.0.",
+      " The lowest category is found at Couleurs_de_l'incendiePierre_Lemaitre where Units sold is 302300.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Title": "Un appartement \u00e0 ParisGuillaume Musso",
+         "Units sold": 590000.0
+      },
+      {
+         "Title": "Ta deuxi\u00e8me vie commence quand tu comprends que tu n'en as qu'uneR. Giordano",
+         "Units sold": 541000.0
+      },
+      {
+         "Title": "La jeune fille et la nuitGuillaume Musso",
+         "Units sold": 500500.0
+      },
+      {
+         "Title": "La disparition de Stephanie MailerJo\u00ebl Dicker",
+         "Units sold": 438300.0
+      },
+      {
+         "Title": "La tresseLaetitia Colomban",
+         "Units sold": 412600.0
+      },
+      {
+         "Title": "Famille parfaiteLisa Gardner",
+         "Units sold": 347400.0
+      },
+      {
+         "Title": "La derni\u00e8re des StanfieldMarc Levy",
+         "Units sold": 328000.0
+      },
+      {
+         "Title": "Lucky Luke 8 : Un cow-boy \u00e0 ParisJul Achd\u00e9",
+         "Units sold": 319300.0
+      },
+      {
+         "Title": "L'amie prodigieuse 3 : Celle qui fuit et celle qui resteElena Ferrante",
+         "Units sold": 303600.0
+      },
+      {
+         "Title": "Couleurs de l'incendiePierre Lemaitre",
+         "Units sold": 302300.0
+      }
+   ],
+   "gold": "In 2018 , 'Un appartement \u00e0 Paris ' from Guillaume Musso was the bestselling book title in France . Musso needs no introduction in France , a country where 24 percent of the inhabitants considered themselves as fervent readers . Guillaume Musso and Elena Ferrante : best sellers `` Ast\u00e9rix et la Transitalique '' was published in both print and digital formats and sold close to 1.6 million copies in 2017 in France .\n"
+}

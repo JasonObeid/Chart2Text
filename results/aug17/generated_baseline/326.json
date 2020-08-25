@@ -1,0 +1,133 @@
+{
+   "title": "American imports of corn 2001 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Imports in million bushels",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Imports in million bushels, with a total of 19 data points. The chart has 8 significant trends.",
+      " The longest trend is slightly negative which exists from 2015 to 2012.",
+      " Conversely, the next significant trend is extremely positive which exists from 2012 to 2009.",
+      " Likewise, the next significant trend is slightly negative which exists from 2019 to 2017.",
+      " Contrarily, the next significant trend is moderately negative which exists from 2017 to 2015.",
+      " On the other hand, the next significant trend is moderately negative which exists from 2009 to 2007.",
+      " Contrarily, the next significant trend is moderately positive which exists from 2007 to 2005.",
+      " Additionally, the next significant trend is moderately negative which exists from 2005 to 2003.",
+      " Conversely, the next significant trend is moderately neutral which exists from 2003 to 2001."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "7"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      },
+      {
+         "3": "14",
+         "14": "16"
+      },
+      {
+         "3": "16",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Imports in million bushels": 28.0
+      },
+      {
+         "Year": "2018",
+         "Imports in million bushels": 36.0
+      },
+      {
+         "Year": "2017",
+         "Imports in million bushels": 57.0
+      },
+      {
+         "Year": "2016",
+         "Imports in million bushels": 57.0
+      },
+      {
+         "Year": "2015",
+         "Imports in million bushels": 68.0
+      },
+      {
+         "Year": "2014",
+         "Imports in million bushels": 32.0
+      },
+      {
+         "Year": "2013",
+         "Imports in million bushels": 36.0
+      },
+      {
+         "Year": "2012",
+         "Imports in million bushels": 160.0
+      },
+      {
+         "Year": "2011",
+         "Imports in million bushels": 29.0
+      },
+      {
+         "Year": "2010",
+         "Imports in million bushels": 28.0
+      },
+      {
+         "Year": "2009",
+         "Imports in million bushels": 8.0
+      },
+      {
+         "Year": "2008",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2007",
+         "Imports in million bushels": 20.0
+      },
+      {
+         "Year": "2006",
+         "Imports in million bushels": 12.0
+      },
+      {
+         "Year": "2005",
+         "Imports in million bushels": 9.0
+      },
+      {
+         "Year": "2004",
+         "Imports in million bushels": 11.0
+      },
+      {
+         "Year": "2003",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2002",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2001",
+         "Imports in million bushels": 10.0
+      }
+   ],
+   "gold": "This statistic shows imports of corn in the United States from 2001 to 2019 . According to the report , U.S. corn imports amounted to approximately 57 million bushels in 2016 , down from 68 million bushels the previous year .\n"
+}

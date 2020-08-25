@@ -1,0 +1,56 @@
+{
+   "title": "Number of households in the U.S. 2015 , by age of householder",
+   "xAxis": "Age of householder",
+   "yAxis": "Number of households in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of 15_to_24_years_old in the households in 2015 , householder . ",
+      "In 2015 , about 23.57 millions 15_to_24_years_old were counted in the households ."
+   ],
+   "trends": [
+      {
+         "6": "0"
+      },
+      {
+         "4": "4",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Age of householder": "15 to 24 years old",
+         "Number of households in millions": "6.37"
+      },
+      {
+         "Age of householder": "25 to 29 years old",
+         "Number of households in millions": "9.35"
+      },
+      {
+         "Age of householder": "30 to 34 years old",
+         "Number of households in millions": "10.73"
+      },
+      {
+         "Age of householder": "35 to 44 years old",
+         "Number of households in millions": "21.12"
+      },
+      {
+         "Age of householder": "45 to 54 years old",
+         "Number of households in millions": "23.57"
+      },
+      {
+         "Age of householder": "55 to 64 years old",
+         "Number of households in millions": "23.51"
+      },
+      {
+         "Age of householder": "65 to 74 years old",
+         "Number of households in millions": "16.89"
+      },
+      {
+         "Age of householder": "75 years old and over",
+         "Number of households in millions": "13.06"
+      }
+   ],
+   "gold": "This graph shows the number of households in the U.S. by age of householder in 2015 . In 2015 , about 10.73 million households were led by a person between 30 and 34 years old .\n"
+}

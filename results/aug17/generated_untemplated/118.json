@@ -1,0 +1,33 @@
+{
+   "title": "Most popular Canadian product categories purchased by consumers in Canada 2015\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the results of a 2013 survey among Americans aged 16 and older regarding the qualities they are looking for in a close friend . This statistic only shows the top five answers to that question . 81 percent of the respondents stated a close friend has to be loyal .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Food",
+         "Share of respondents": 87.0
+      },
+      {
+         "Response": "Beer",
+         "Share of respondents": 46.0
+      },
+      {
+         "Response": "Clothing",
+         "Share of respondents": 45.0
+      },
+      {
+         "Response": "Furniture",
+         "Share of respondents": 38.0
+      },
+      {
+         "Response": "Wine",
+         "Share of respondents": 34.0
+      }
+   ],
+   "gold": "In 2015 , some 87 percent of Canadians stated that , out of any product category , they are most likely to purchase food from Canadian producers or brands as opposed to imported products . Beer and clothing were the next two most popular product segments , with 46 and 45 percent of respondents stating they would likely buy Canadian goods respectively . In the same survey , some 25 percent of consumers said that they always buy Canadian products .\n"
+}

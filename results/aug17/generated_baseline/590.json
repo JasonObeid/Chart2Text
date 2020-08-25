@@ -1,0 +1,48 @@
+{
+   "title": "Distribution of Instagram.com traffic 2019 , by country\n",
+   "xAxis": "Country",
+   "yAxis": "Share of desktop traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Country, and a y axis representing Share of desktop traffic.",
+      " The highest category is found at United_States where Share of desktop traffic is 17.77.",
+      " The lowest category is found at Turkey where Share of desktop traffic is 3.24."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of desktop traffic": 17.77
+      },
+      {
+         "Country": "Brazil",
+         "Share of desktop traffic": 8.22
+      },
+      {
+         "Country": "Russia",
+         "Share of desktop traffic": 7.06
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of desktop traffic": 3.6
+      },
+      {
+         "Country": "Turkey",
+         "Share of desktop traffic": 3.24
+      }
+   ],
+   "gold": "As of October 2019 , the United States generated 17.77 percent of Instagram desktop traffic , while visitors from the United Kingdom accounted for 3.6 percent of site visits . Instagram is one of the most popular social networks in the United States with a 31 percent membership reach among online adults in the United States . During a February 2019 survey , it was found that 93 percent of adults in the United States were aware of the photo sharing app .\n"
+}

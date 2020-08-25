@@ -1,0 +1,33 @@
+{
+   "title": "Domestic beer consumption in Canada by age group 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Share of beer consumption",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic presents a forecast of the share of mobile gamers in the united from 2020 to 2013 , sorted by age group . In 2015 , global gaming expenditure traffic is expected to increase to 44 percent . In 2035 , the percentage of the population above the age of 65 was forecasted to reach 22.8 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "12 to 17",
+         "Share of beer consumption": 1.0
+      },
+      {
+         "Year": "18 to 34",
+         "Share of beer consumption": 38.7
+      },
+      {
+         "Year": "35 to 49",
+         "Share of beer consumption": 29.9
+      },
+      {
+         "Year": "50 to 64",
+         "Share of beer consumption": 22.4
+      },
+      {
+         "Year": "65 and over",
+         "Share of beer consumption": 8.0
+      }
+   ],
+   "gold": "It was estimated that almost 39 percent of all beer sold in Canada was consumed by Canadians aged between 18 and 34 in 2019 . Those aged between 35 and 49 were the second biggest consumer group , drinking over almost 30 percent of all beer sold in Canada . What types of beer do Canadians prefer ? According to sales figures , canned beer is the most popular type of domestic beer across age groups in Canada .\n"
+}

@@ -1,0 +1,45 @@
+{
+   "title": "French households savings rate 2010 to 2017\n",
+   "xAxis": "Year",
+   "yAxis": "Savings rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "In 2017 , the average total volume of treasury securities traded per day was over 547 billion u.s. dollars . This means that every day the market was open , the average amount of u.s. government securities bought and sold amounted to half a trillion u.s. dollars in that year . What are treasury securities ? treasury securities are u.s. government debt , bonds sold to finance the united government .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2017",
+         "Savings rate": 14.6
+      },
+      {
+         "Year": "2016",
+         "Savings rate": 14.0
+      },
+      {
+         "Year": "2015",
+         "Savings rate": 14.5
+      },
+      {
+         "Year": "2014",
+         "Savings rate": 14.4
+      },
+      {
+         "Year": "2013",
+         "Savings rate": 14.3
+      },
+      {
+         "Year": "2012",
+         "Savings rate": 15.1
+      },
+      {
+         "Year": "2011",
+         "Savings rate": 15.6
+      },
+      {
+         "Year": "2010",
+         "Savings rate": 15.8
+      }
+   ],
+   "gold": "The statistic presents the personal savings rate in France from 2010 to 2017 . The personal savings rate amounted to 14.6 percent in the first quarter of 2017 in France . The savings rate refers to the amount of money , expressed as a percentage or ratio , that a person deducts from his disposable personal income .\n"
+}

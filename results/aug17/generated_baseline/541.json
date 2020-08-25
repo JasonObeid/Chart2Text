@@ -1,0 +1,90 @@
+{
+   "title": "Number of visitors to the World War II Memorial in the U.S. 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of visitors in millions, with a total of 12 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly negative which exists from 2011 to 2008.",
+      " But, the next significant trend is slightly negative which exists from 2019 to 2017.",
+      " Contrarily, the next significant trend is slightly negative which exists from 2017 to 2015.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2015 to 2013.",
+      " Additionally, the next significant trend is moderately positive which exists from 2013 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "8",
+         "12": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": 4.83
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": 4.65
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": 4.88
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": 4.86
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": 5.07
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": 4.23
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": 3.93
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": 4.16
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": 3.75
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": 3.96
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": 4.12
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": 4.15
+      }
+   ],
+   "gold": "This statistic shows the number of recreational visitors to the World War II Memorial in the United States from 2008 to 2019 . The number of visitors to the World War II Memorial amounted to approximately 4.83 million in 2019 .\n"
+}

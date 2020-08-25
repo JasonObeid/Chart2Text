@@ -1,0 +1,86 @@
+{
+   "title": "Global bauxite import and export 2005 to 2018",
+   "labels": [
+      "Year",
+      "Export",
+      "Import"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "The statistic presents the recorded number of data breaches and records exposed in the country between 2005 and 2018 . In the last measured period , the number of data breaches in the country amounted to 1244 with over 446.5 million records exposed . data breaches and exposed records \u2013 additional information data breaches have gained attention with the increasing use of digital files and users and users large reliance on digital data .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Export": "55968.7",
+         "Import": "108775.3"
+      },
+      {
+         "Year": "2017",
+         "Export": "45622.2",
+         "Import": "94101.9"
+      },
+      {
+         "Year": "2016",
+         "Export": "48752.7",
+         "Import": "78531.7"
+      },
+      {
+         "Year": "2015",
+         "Export": "71404.6",
+         "Import": "88653.6"
+      },
+      {
+         "Year": "2014",
+         "Export": "43256.4",
+         "Import": "69174.6"
+      },
+      {
+         "Year": "2013",
+         "Export": "91886.1",
+         "Import": "103475.2"
+      },
+      {
+         "Year": "2012",
+         "Export": "55652.9",
+         "Import": "72623.0"
+      },
+      {
+         "Year": "2011",
+         "Export": "65749.5",
+         "Import": "75092.9"
+      },
+      {
+         "Year": "2010",
+         "Export": "48278.3",
+         "Import": "57152.3"
+      },
+      {
+         "Year": "2009",
+         "Export": "29452.8",
+         "Import": "44580.8"
+      },
+      {
+         "Year": "2008",
+         "Export": "42525.4",
+         "Import": "62685.1"
+      },
+      {
+         "Year": "2007",
+         "Export": "38762.0",
+         "Import": "59961.2"
+      },
+      {
+         "Year": "2006",
+         "Export": "28678.0",
+         "Import": "42992.7"
+      },
+      {
+         "Year": "2005",
+         "Export": "24045.7",
+         "Import": "37427.3"
+      }
+   ],
+   "gold": "This statistic shows the sum of the imports and exports of bauxite worldwide from 2005 to 2018 . Total global bauxite exports increased from 24 million in 2005 to 55.97 million metric tons at the end of 2018 . Total global imports of bauxite reached around 108.8 million metric tons at end of 2018 .\n"
+}

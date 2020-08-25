@@ -1,0 +1,49 @@
+{
+   "title": "Number of people freelancing in U.S. 2014 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of people doing freelance work in million",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows a forecast for the freelancing caused by Number people in U.S. from 2014 until 2019 , in doing per month . ",
+      "In 2019 , Number people IP freelancing is expected to reach 57.0 doing per month ."
+   ],
+   "trends": [
+      {
+         "15": "5",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of people doing freelance work in million": "57.0"
+      },
+      {
+         "Year": "2018",
+         "Number of people doing freelance work in million": "56.7"
+      },
+      {
+         "Year": "2017",
+         "Number of people doing freelance work in million": "57.3"
+      },
+      {
+         "Year": "2016",
+         "Number of people doing freelance work in million": "55.0"
+      },
+      {
+         "Year": "2015",
+         "Number of people doing freelance work in million": "53.7"
+      },
+      {
+         "Year": "2014",
+         "Number of people doing freelance work in million": "53.0"
+      }
+   ],
+   "gold": "This statistic shows the number of freelance workers in the United States from 2014 to 2019 . In 2019 , there were 57 million people doing freelance work in the U.S .\n"
+}

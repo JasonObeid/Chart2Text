@@ -1,0 +1,75 @@
+{
+   "title": "Number of Boeing aircraft orders by airline 2019",
+   "xAxis": "Airline",
+   "yAxis": "Number of aircraft orders",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the Boeing Number aircraft orders of Number Emirates from 2018 to 2019 . ",
+      "During this time period , Emirates was the Number Airline in the Boeing , with a Number aircraft orders of 49 million , followed closely by Lufthansa Emirates . ",
+      "Boeing Emirates ' Number aircraft orders The passenger Korean_Air transportation aircraft is a thriving industry , taking individuals to locations around the globe ."
+   ],
+   "trends": [
+      {
+         "10": "0"
+      },
+      {
+         "5": "0",
+         "20": "10",
+         "26": "2",
+         "27": "0"
+      },
+      {
+         "1": "0",
+         "8": "1"
+      }
+   ],
+   "data": [
+      {
+         "Airline": "Emirates",
+         "Number of aircraft orders": "30"
+      },
+      {
+         "Airline": "Korean Air",
+         "Number of aircraft orders": "20"
+      },
+      {
+         "Airline": "Lufthansa",
+         "Number of aircraft orders": "20"
+      },
+      {
+         "Airline": "British Airways",
+         "Number of aircraft orders": "18"
+      },
+      {
+         "Airline": "BDS USAF Tanker Program",
+         "Number of aircraft orders": "15"
+      },
+      {
+         "Airline": "Bamboo Airways",
+         "Number of aircraft orders": "10"
+      },
+      {
+         "Airline": "BDS U.S. Navy (P-8A Poseidon)",
+         "Number of aircraft orders": "10"
+      },
+      {
+         "Airline": "SunExpress Airlines",
+         "Number of aircraft orders": "10"
+      },
+      {
+         "Airline": "Air New Zealand",
+         "Number of aircraft orders": "8"
+      },
+      {
+         "Airline": "FedEx Express",
+         "Number of aircraft orders": "7"
+      },
+      {
+         "Airline": "Unidentified",
+         "Number of aircraft orders": "49"
+      }
+   ],
+   "gold": "At 30 aircraft orders , Emirates was Boeing 's largest customer in 2019 . In November 2019 , the airline updated its order book , made some contractual changes , and placed an order for 30 Dreamliners . Boeing reported 246 gross orders in 2019 .\n"
+}

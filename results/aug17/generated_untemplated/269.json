@@ -1,0 +1,81 @@
+{
+   "title": "Travel and tourism 's direct contribution to employment worldwide 2016 - 2017 , by region",
+   "labels": [
+      "Region",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the total contribution of travel and tourism to gdp worldwide from 2016 to 2017 , by region . travel and tourism contributed approximately 1.79 trillion U.S. dollars in total to the north east Asian economy in 2017 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Region": "North East Asia",
+         "2016": "26.02",
+         "2017": "30.49"
+      },
+      {
+         "Region": "South Asia",
+         "2016": "28.66",
+         "2017": "29.76"
+      },
+      {
+         "Region": "South East Asia",
+         "2016": "11.16",
+         "2017": "14.46"
+      },
+      {
+         "Region": "European Union",
+         "2016": "11.41",
+         "2017": "11.89"
+      },
+      {
+         "Region": "North America",
+         "2016": "10.09",
+         "2017": "9.94"
+      },
+      {
+         "Region": "Sub Saharan Africa",
+         "2016": "6.17",
+         "2017": "6.79"
+      },
+      {
+         "Region": "Latin America",
+         "2016": "5.93",
+         "2017": "5.71"
+      },
+      {
+         "Region": "Other Europe",
+         "2016": "2.55",
+         "2017": "2.54"
+      },
+      {
+         "Region": "North Africa",
+         "2016": "2.19",
+         "2017": "2.51"
+      },
+      {
+         "Region": "Middle East",
+         "2016": "2.36",
+         "2017": "2.34"
+      },
+      {
+         "Region": "Oceania",
+         "2016": "0.92",
+         "2017": "0.89"
+      },
+      {
+         "Region": "Caribbean",
+         "2016": "0.73",
+         "2017": "0.76"
+      },
+      {
+         "Region": "Central Asia",
+         "2016": "0.57",
+         "2017": "0.38"
+      }
+   ],
+   "gold": "This statistic shows the direct contribution of travel and tourism to employment worldwide from 2016 to 2017 , by region . Travel and tourism directly contributed approximately 14.46 million jobs to the South East Asian economy in 2017 .\n"
+}

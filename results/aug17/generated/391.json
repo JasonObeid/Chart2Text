@@ -1,0 +1,104 @@
+{
+   "title": "Unemployment rate in Belgium 2008 - 2018 , by region",
+   "labels": [
+      "Year",
+      "Flemish Region",
+      "Brussels-Capital Region",
+      "Walloon Region"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "In 2018 , the Unemployment of Belgium numbered around 11.4 % . ",
+      "Most of these inhabitants lived in the Dutch-speaking Flemish by , which was home to nearly half of Belgium 's Unemployment . ",
+      "The Walloon by , broadly in line with the French-speaking part of Belgium , numbered roughly 8.5 million inhabitants , and another 13.4 million lived in Brussels and the surrounding areas ( which are bilingual ) ."
+   ],
+   "trends": [
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      },
+      {},
+      {
+         "16": [
+            "0",
+            "3"
+         ],
+         "22": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Flemish Region": "3.5",
+         "Brussels-Capital Region": "13.4",
+         "Walloon Region": "8.5"
+      },
+      {
+         "Year": "2017",
+         "Flemish Region": "4.4",
+         "Brussels-Capital Region": "15",
+         "Walloon Region": "9.8"
+      },
+      {
+         "Year": "2016",
+         "Flemish Region": "4.9",
+         "Brussels-Capital Region": "16.9",
+         "Walloon Region": "10.6"
+      },
+      {
+         "Year": "2015",
+         "Flemish Region": "5.2",
+         "Brussels-Capital Region": "17.5",
+         "Walloon Region": "12"
+      },
+      {
+         "Year": "2014",
+         "Flemish Region": "5.1",
+         "Brussels-Capital Region": "18.5",
+         "Walloon Region": "12"
+      },
+      {
+         "Year": "2013",
+         "Flemish Region": "5.1",
+         "Brussels-Capital Region": "19.3",
+         "Walloon Region": "11.4"
+      },
+      {
+         "Year": "2012",
+         "Flemish Region": "4.6",
+         "Brussels-Capital Region": "17.5",
+         "Walloon Region": "10.1"
+      },
+      {
+         "Year": "2011",
+         "Flemish Region": "4.3",
+         "Brussels-Capital Region": "17.1",
+         "Walloon Region": "9.5"
+      },
+      {
+         "Year": "2010",
+         "Flemish Region": "5.2",
+         "Brussels-Capital Region": "17.4",
+         "Walloon Region": "11.5"
+      },
+      {
+         "Year": "2009",
+         "Flemish Region": "5",
+         "Brussels-Capital Region": "15.9",
+         "Walloon Region": "11.2"
+      },
+      {
+         "Year": "2008",
+         "Flemish Region": "3.9",
+         "Brussels-Capital Region": "16",
+         "Walloon Region": "10.1"
+      }
+   ],
+   "gold": "In 2018 , the rate of unemployment in Belgium was six percent \u2013 the lowest it had been in a decade . There were real regional differences within the country though . The Flemish region did particularly well economically , with an unemployment rate of 3.5 percent in 2018 .\n"
+}

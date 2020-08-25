@@ -1,0 +1,73 @@
+{
+   "title": "Concussion rate in the U.S. 2010 to 2015 , by age\n",
+   "xAxis": "Year",
+   "yAxis": "Rate per 1,000 members",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the total motor insurance claims frequency in the united kingdom ( UK ) from 2002 to 2015 . Since 2002 the frequency has diminished . In 2002 , the total motor claims frequency was nearly 21 percent , whereas from 2012 to 2016 , it varied between 13.1 and 13.6 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "<1 year",
+         "Rate per 1,000 members": 1.0
+      },
+      {
+         "Year": "1-4 years",
+         "Rate per 1,000 members": 2.7
+      },
+      {
+         "Year": "5-9 years",
+         "Rate per 1,000 members": 3.5
+      },
+      {
+         "Year": "10-14 years",
+         "Rate per 1,000 members": 10.7
+      },
+      {
+         "Year": "15-17 years",
+         "Rate per 1,000 members": 18.8
+      },
+      {
+         "Year": "18-19 years",
+         "Rate per 1,000 members": 10.1
+      },
+      {
+         "Year": "20-24 years",
+         "Rate per 1,000 members": 4.5
+      },
+      {
+         "Year": "25-29 years",
+         "Rate per 1,000 members": 2.5
+      },
+      {
+         "Year": "30-34 years",
+         "Rate per 1,000 members": 2.0
+      },
+      {
+         "Year": "35-39 years",
+         "Rate per 1,000 members": 2.0
+      },
+      {
+         "Year": "40-44 years",
+         "Rate per 1,000 members": 1.9
+      },
+      {
+         "Year": "45-49 years",
+         "Rate per 1,000 members": 1.9
+      },
+      {
+         "Year": "50-54 years",
+         "Rate per 1,000 members": 1.8
+      },
+      {
+         "Year": "55-59 years",
+         "Rate per 1,000 members": 1.8
+      },
+      {
+         "Year": "60-64 years",
+         "Rate per 1,000 members": 1.8
+      }
+   ],
+   "gold": "The highest rate of concussions among U.S. Blue Cross Blue Shield ( BCBS ) members from 2010 to 2015 was among those aged 15 - 17 years . Among that age group the rate of concussion was 18.8 per 1,000 members . Unsurprisingly , the age group with the lowest rate of concussion was those aged less than 1 year .\n"
+}

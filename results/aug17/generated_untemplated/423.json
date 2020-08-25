@@ -1,0 +1,93 @@
+{
+   "title": "Countries with the highest inflation rate 2019\n",
+   "xAxis": "Country",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the inflation rate in the euro area countries in 2019 . inflation or currency devaluation ( drop in the value of money ) , is characterized by a steady rise in the prices of finished products ( consumer goods , capital goods ) . The consumer price index tracks price trends of private consumption expenditure , and shows an increase in the index 's current level of inflation .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "Venezuela",
+         "Inflation rate compared to previous year": 200000.0
+      },
+      {
+         "Country": "Zimbabwe",
+         "Inflation rate compared to previous year": 161.81
+      },
+      {
+         "Country": "Argentina",
+         "Inflation rate compared to previous year": 54.44
+      },
+      {
+         "Country": "Sudan",
+         "Inflation rate compared to previous year": 50.43
+      },
+      {
+         "Country": "Islamic Republic of Iran",
+         "Inflation rate compared to previous year": 35.68
+      },
+      {
+         "Country": "South Sudan",
+         "Inflation rate compared to previous year": 24.47
+      },
+      {
+         "Country": "Liberia",
+         "Inflation rate compared to previous year": 22.21
+      },
+      {
+         "Country": "Haiti",
+         "Inflation rate compared to previous year": 17.58
+      },
+      {
+         "Country": "Angola",
+         "Inflation rate compared to previous year": 17.21
+      },
+      {
+         "Country": "Sierra Leone",
+         "Inflation rate compared to previous year": 15.74
+      },
+      {
+         "Country": "Turkey",
+         "Inflation rate compared to previous year": 15.68
+      },
+      {
+         "Country": "Uzbekistan",
+         "Inflation rate compared to previous year": 14.74
+      },
+      {
+         "Country": "Yemen",
+         "Inflation rate compared to previous year": 14.7
+      },
+      {
+         "Country": "Ethiopia",
+         "Inflation rate compared to previous year": 14.6
+      },
+      {
+         "Country": "Egypt",
+         "Inflation rate compared to previous year": 13.87
+      },
+      {
+         "Country": "Turkmenistan",
+         "Inflation rate compared to previous year": 13.4
+      },
+      {
+         "Country": "Nigeria",
+         "Inflation rate compared to previous year": 11.32
+      },
+      {
+         "Country": "Zambia",
+         "Inflation rate compared to previous year": 9.95
+      },
+      {
+         "Country": "Ghana",
+         "Inflation rate compared to previous year": 9.26
+      },
+      {
+         "Country": "Mongolia",
+         "Inflation rate compared to previous year": 9.03
+      }
+   ],
+   "gold": "The statistic lists the 20 countries with the highest inflation rate in 2019 . In 2019 , Sudan ranked 4th with an estimated inflation rate of about 50.43 percent compared to the previous year . Inflation in industrialized and in emerging countries Higher inflation rates are more present in third world or developing countries , because they often lack a sufficient central bank , which in turn results in the manipulation of currency to achieve short term economic goals .\n"
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Migration balance in Belgium 2010 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Migration balance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Migration balance, with a total of 9 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly negative which exists from 2013 to 2010.",
+      " On the contrary, the next significant trend is extremely positive which exists from 2018 to 2016.",
+      " Also, the next significant trend is extremely positive which exists from 2015 to 2013.",
+      " Correspondingly, the next significant trend is moderately negative which exists from 2016 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "5",
+         "12": "8"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Migration balance": 50180.0
+      },
+      {
+         "Year": "2017",
+         "Migration balance": 44536.0
+      },
+      {
+         "Year": "2016",
+         "Migration balance": 42239.0
+      },
+      {
+         "Year": "2015",
+         "Migration balance": 47682.0
+      },
+      {
+         "Year": "2014",
+         "Migration balance": 39954.0
+      },
+      {
+         "Year": "2013",
+         "Migration balance": 34843.0
+      },
+      {
+         "Year": "2012",
+         "Migration balance": 44365.0
+      },
+      {
+         "Year": "2011",
+         "Migration balance": 62157.0
+      },
+      {
+         "Year": "2010",
+         "Migration balance": 79446.0
+      }
+   ],
+   "gold": "In 2018 , the migration balance in Belgium was roughly 50,000 , meaning that the number of immigrants moving to Belgium outnumbered the number of people leaving the country by about 50,000 . This was an increase in comparison to the previous year , but significantly lower than for example in 2010 and 2011 , when the migration balance was 79,446 and 62,157 respectively . It was also considerably lower than in neighboring country the Netherlands , which in 2018 had a positive migration balance of over 86,000 .\n"
+}

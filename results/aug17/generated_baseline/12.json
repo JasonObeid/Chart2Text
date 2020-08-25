@@ -1,0 +1,89 @@
+{
+   "title": "The Fast and the Furious : domestic and global box office revenue 2019",
+   "labels": [
+      "Movie",
+      "North America",
+      "Worldwide"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 9 categories for the x axis of Movie representing North America, and Worldwide.",
+      " The highest category is found at Furious 7 with a mean value of 934.5.",
+      " The second highest category is found at The Fate of the Furious with a mean value of 731.0.",
+      " This represents a difference of 24.4%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Movie": "Furious 7",
+         "North America": "353.01",
+         "Worldwide": "1516.0"
+      },
+      {
+         "Movie": "The Fate of the Furious",
+         "North America": "226.01",
+         "Worldwide": "1236.0"
+      },
+      {
+         "Movie": "Fast & Furious 6",
+         "North America": "238.68",
+         "Worldwide": "788.7"
+      },
+      {
+         "Movie": "Fast & Furious Presents: Hobbs & Shaw",
+         "North America": "164.34",
+         "Worldwide": "721.04"
+      },
+      {
+         "Movie": "Fast Five",
+         "North America": "209.84",
+         "Worldwide": "626.1"
+      },
+      {
+         "Movie": "Fast and Furious",
+         "North America": "155.06",
+         "Worldwide": "363.2"
+      },
+      {
+         "Movie": "2 Fast 2 Furious",
+         "North America": "127.15",
+         "Worldwide": "236.4"
+      },
+      {
+         "Movie": "The Fast and the Furious",
+         "North America": "144.53",
+         "Worldwide": "207.3"
+      },
+      {
+         "Movie": "The Fast and the Furious: Tokyo Drift",
+         "North America": "62.51",
+         "Worldwide": "158.5"
+      }
+   ],
+   "gold": "As of September 2019 , 'Furious 7 ' _ , the seventh installment in the series , reached a gross of 353.01 million U.S. dollars in cinemas across North America . The film had the highest grossing opening weekend of all of the films in the franchise , bringing in a box office gross of 147.2 million U.S. dollars when it was released in April 2015 .\n"
+}

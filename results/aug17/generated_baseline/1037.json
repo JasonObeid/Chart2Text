@@ -1,0 +1,127 @@
+{
+   "title": "Economic damage caused by floods in the U.S. 1995 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Damage in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Damage in million U.S. dollars, with a total of 20 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely negative which exists from 2011 to 2018.",
+      " But, the next significant trend is slightly positive which exists from 1995 to 2002.",
+      " In a similar manner, the next significant trend is slightly positive which exists from 2002 to 2005.",
+      " Also, the next significant trend is slightly positive which exists from 2005 to 2007.",
+      " Correspondingly, the next significant trend is slightly positive which exists from 2007 to 2009.",
+      " Additionally, the next significant trend is extremely negative which exists from 2009 to 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "12",
+         "12": "19"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      },
+      {
+         "3": "3",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1995",
+         "Damage in million U.S. dollars": 1251.0
+      },
+      {
+         "Year": "2000",
+         "Damage in million U.S. dollars": 1255.0
+      },
+      {
+         "Year": "2001",
+         "Damage in million U.S. dollars": 1220.0
+      },
+      {
+         "Year": "2002",
+         "Damage in million U.S. dollars": 655.0
+      },
+      {
+         "Year": "2003",
+         "Damage in million U.S. dollars": 2541.0
+      },
+      {
+         "Year": "2004",
+         "Damage in million U.S. dollars": 1696.0
+      },
+      {
+         "Year": "2005",
+         "Damage in million U.S. dollars": 1538.0
+      },
+      {
+         "Year": "2006",
+         "Damage in million U.S. dollars": 3768.0
+      },
+      {
+         "Year": "2007",
+         "Damage in million U.S. dollars": 1278.0
+      },
+      {
+         "Year": "2008",
+         "Damage in million U.S. dollars": 3406.0
+      },
+      {
+         "Year": "2009",
+         "Damage in million U.S. dollars": 1050.0
+      },
+      {
+         "Year": "2010",
+         "Damage in million U.S. dollars": 3927.0
+      },
+      {
+         "Year": "2011",
+         "Damage in million U.S. dollars": 7978.0
+      },
+      {
+         "Year": "2012",
+         "Damage in million U.S. dollars": 494.0
+      },
+      {
+         "Year": "2013",
+         "Damage in million U.S. dollars": 2172.0
+      },
+      {
+         "Year": "2014",
+         "Damage in million U.S. dollars": 2626.0
+      },
+      {
+         "Year": "2015",
+         "Damage in million U.S. dollars": 2749.0
+      },
+      {
+         "Year": "2016",
+         "Damage in million U.S. dollars": 10907.0
+      },
+      {
+         "Year": "2017",
+         "Damage in million U.S. dollars": 60700.0
+      },
+      {
+         "Year": "2018",
+         "Damage in million U.S. dollars": 1644.0
+      }
+   ],
+   "gold": "This statistic shows the economic damage caused by floods and flash floods in the United States from 1995 to 2018 . In 2018 , floods caused approximately 1.6 billion U.S. dollars worth of property and crop damage across the United States .\n"
+}

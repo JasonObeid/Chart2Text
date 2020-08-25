@@ -1,0 +1,21 @@
+{
+   "title": "Snapchat : distribution of global audiences 2020 , by gender\n",
+   "xAxis": "Sex",
+   "yAxis": "Share of active users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the share of adults in the united who were using social networks as of 2019 , sorted by gender . During that period of time , 43 percent of adult women and 65 percent of adult men used social networking sites .\n",
+   "trends": {},
+   "data": [
+      {
+         "Sex": "Female",
+         "Share of active users": 61.0
+      },
+      {
+         "Sex": "Male",
+         "Share of active users": 38.0
+      }
+   ],
+   "gold": "This statistic gives information on the distribution of Snapchat users worldwide as of January 2020 , sorted by gender . During the survey period , 61 percent of Snapchat audiences were female and 38 percent were male .\n"
+}

@@ -1,0 +1,118 @@
+{
+   "title": "U.S. arms exports 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Export value in TIV in million constant (1990) U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Export value in TIV in million constant (1990) U.S. dollars, with a total of 19 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2018 to 2013.",
+      " In a similar manner, the next significant trend is extremely positive which exists from 2013 to 2008.",
+      " Additionally, the next significant trend is moderately positive which exists from 2008 to 2005.",
+      " Also, the next significant trend is extremely positive which exists from 2005 to 2002.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "5"
+      },
+      {
+         "3": "5",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "13"
+      },
+      {
+         "3": "13",
+         "14": "16"
+      },
+      {
+         "3": "16",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Export value in TIV in million constant (1990) U.S. dollars": 10508.0
+      },
+      {
+         "Year": "2017",
+         "Export value in TIV in million constant (1990) U.S. dollars": 12485.0
+      },
+      {
+         "Year": "2016",
+         "Export value in TIV in million constant (1990) U.S. dollars": 9955.0
+      },
+      {
+         "Year": "2015",
+         "Export value in TIV in million constant (1990) U.S. dollars": 9931.0
+      },
+      {
+         "Year": "2014",
+         "Export value in TIV in million constant (1990) U.S. dollars": 9601.0
+      },
+      {
+         "Year": "2013",
+         "Export value in TIV in million constant (1990) U.S. dollars": 7571.0
+      },
+      {
+         "Year": "2012",
+         "Export value in TIV in million constant (1990) U.S. dollars": 9086.0
+      },
+      {
+         "Year": "2011",
+         "Export value in TIV in million constant (1990) U.S. dollars": 9022.0
+      },
+      {
+         "Year": "2010",
+         "Export value in TIV in million constant (1990) U.S. dollars": 8074.0
+      },
+      {
+         "Year": "2009",
+         "Export value in TIV in million constant (1990) U.S. dollars": 6913.0
+      },
+      {
+         "Year": "2008",
+         "Export value in TIV in million constant (1990) U.S. dollars": 6800.0
+      },
+      {
+         "Year": "2007",
+         "Export value in TIV in million constant (1990) U.S. dollars": 7850.0
+      },
+      {
+         "Year": "2006",
+         "Export value in TIV in million constant (1990) U.S. dollars": 7523.0
+      },
+      {
+         "Year": "2005",
+         "Export value in TIV in million constant (1990) U.S. dollars": 6772.0
+      },
+      {
+         "Year": "2004",
+         "Export value in TIV in million constant (1990) U.S. dollars": 6845.0
+      },
+      {
+         "Year": "2003",
+         "Export value in TIV in million constant (1990) U.S. dollars": 5665.0
+      },
+      {
+         "Year": "2002",
+         "Export value in TIV in million constant (1990) U.S. dollars": 4953.0
+      },
+      {
+         "Year": "2001",
+         "Export value in TIV in million constant (1990) U.S. dollars": 5615.0
+      },
+      {
+         "Year": "2000",
+         "Export value in TIV in million constant (1990) U.S. dollars": 7576.0
+      }
+   ],
+   "gold": "The statistic shows total U.S. arms exports in the years 2000 to 2018 expressed in TIV . The TIV is based on the known unit production costs of a core set of weapons and is intended to represent the transfer of military resources rather than the financial value of the transfer . The TIV is expressed here in million constant U.S. dollars as of 1990 .\n"
+}

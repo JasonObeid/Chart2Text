@@ -1,0 +1,45 @@
+{
+   "title": "Revenue per employee of leading tech companies 2018\n",
+   "xAxis": "Company",
+   "yAxis": "Revenue per employee in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the sales of baby products in u.s. supermarkets in the 52 weeks ending 29 , 2018 , by product category . In that year , sales of baby bath products amounted to around 75.82 million u.s. dollars .\n",
+   "trends": {},
+   "data": [
+      {
+         "Company": "Netflix",
+         "Revenue per employee in U.S. dollars": 2224555.0
+      },
+      {
+         "Company": "Apple",
+         "Revenue per employee in U.S. dollars": 2012083.0
+      },
+      {
+         "Company": "Facebook",
+         "Revenue per employee in U.S. dollars": 1569056.0
+      },
+      {
+         "Company": "Alphabet",
+         "Revenue per employee in U.S. dollars": 1385214.0
+      },
+      {
+         "Company": "Microsoft",
+         "Revenue per employee in U.S. dollars": 873910.0
+      },
+      {
+         "Company": "Twitter",
+         "Revenue per employee in U.S. dollars": 776112.0
+      },
+      {
+         "Company": "Alibaba",
+         "Revenue per employee in U.S. dollars": 550737.0
+      },
+      {
+         "Company": "Amazon",
+         "Revenue per employee in U.S. dollars": 359671.0
+      }
+   ],
+   "gold": "This statistic shows the revenue per employee of selected tech companies in 2018 . Netflix was the most effective company , generating over 2.22 million U.S. dollars of revenue per employee . Apple ranked in second place with an annual revenue of 2.01 million U.S. dollars per employee .\n"
+}

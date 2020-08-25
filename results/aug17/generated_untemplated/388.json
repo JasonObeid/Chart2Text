@@ -1,0 +1,29 @@
+{
+   "title": "Mass shootings in the U.S. : legality of shooter 's weapons , as of February 2020\n",
+   "xAxis": "Category Of The Weapon",
+   "yAxis": "Number of incidents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "Since the end of 2019 , there were 283 patients in england waiting for a lung transplant , while scotland had 28 individuals on the lung transplant waiting list , followed by 22 and 14 waiting in wales and northern ireland respectively . lung transplants carried out in the uk In the year to 2019 , 164 lung transplants were carried out in the united kingdom as a whole . This represented a 20 percent increase on the number of transplants from the previous year .\n",
+   "trends": {},
+   "data": [
+      {
+         "Category Of The Weapon": "Legally obtained",
+         "Number of incidents": 82.0
+      },
+      {
+         "Category Of The Weapon": "Illegally obtained",
+         "Number of incidents": 16.0
+      },
+      {
+         "Category Of The Weapon": "Unknown/to be determined",
+         "Number of incidents": 18.0
+      },
+      {
+         "Category Of The Weapon": "Some weapons were legally obtained others possibly illegally",
+         "Number of incidents": 1.0
+      }
+   ],
+   "gold": "82 of the mass shootings in the United States between 1982 and February 2020 involved weapons which were obtained legally ; a clear majority . Only 16 incidents involved guns that were obtained illegally . Legally owned firearms in the U.S .\n"
+}

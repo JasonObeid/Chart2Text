@@ -1,0 +1,114 @@
+{
+   "title": "Wage and salary of U.S. employees , by industry 2018",
+   "xAxis": "Industry",
+   "yAxis": "Wage and salary in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the U.S. Accommodation_and_food_services Industry by Utilities to Information , 2018 Wage salary . ",
+      "The largest ship Industry was Management_of_companies_and_enterprises 's Oasis III with a Wage salary of 130777 and an expected Industry date of 2016 ."
+   ],
+   "trends": [
+      {
+         "5": "21",
+         "10": "2",
+         "12": "1"
+      },
+      {
+         "5": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Industry": "Management of companies and enterprises",
+         "Wage and salary in U.S. dollars": "130777"
+      },
+      {
+         "Industry": "Information",
+         "Wage and salary in U.S. dollars": "123534"
+      },
+      {
+         "Industry": "Utilities",
+         "Wage and salary in U.S. dollars": "113665"
+      },
+      {
+         "Industry": "Finance and insurance",
+         "Wage and salary in U.S. dollars": "112335"
+      },
+      {
+         "Industry": "Mining",
+         "Wage and salary in U.S. dollars": "106279"
+      },
+      {
+         "Industry": "Professional scientific and technical services",
+         "Wage and salary in U.S. dollars": "102676"
+      },
+      {
+         "Industry": "Wholesale trade",
+         "Wage and salary in U.S. dollars": "81527"
+      },
+      {
+         "Industry": "Manufacturing",
+         "Wage and salary in U.S. dollars": "71281"
+      },
+      {
+         "Industry": "Government",
+         "Wage and salary in U.S. dollars": "68638"
+      },
+      {
+         "Industry": "Construction",
+         "Wage and salary in U.S. dollars": "65487"
+      },
+      {
+         "Industry": "Real estate and rental and leasing",
+         "Wage and salary in U.S. dollars": "65349"
+      },
+      {
+         "Industry": "Wages and salaries per full-time equivalent employee",
+         "Wage and salary in U.S. dollars": "64678"
+      },
+      {
+         "Industry": "Private industries",
+         "Wage and salary in U.S. dollars": "63305"
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Wage and salary in U.S. dollars": "59458"
+      },
+      {
+         "Industry": "Health care and social assistance",
+         "Wage and salary in U.S. dollars": "56061"
+      },
+      {
+         "Industry": "Arts entertainment and recreation",
+         "Wage and salary in U.S. dollars": "51204"
+      },
+      {
+         "Industry": "Educational services",
+         "Wage and salary in U.S. dollars": "48404"
+      },
+      {
+         "Industry": "Administrative and waste management services",
+         "Wage and salary in U.S. dollars": "45221"
+      },
+      {
+         "Industry": "Other services except government",
+         "Wage and salary in U.S. dollars": "45069"
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "Wage and salary in U.S. dollars": "38828"
+      },
+      {
+         "Industry": "Retail trade",
+         "Wage and salary in U.S. dollars": "38223"
+      },
+      {
+         "Industry": "Accommodation and food services",
+         "Wage and salary in U.S. dollars": "30403"
+      }
+   ],
+   "gold": "This statistic shows the annual wage and salary per full-time equivalent employee in the United States in 2018 , by industry . In 2018 , the average wage and salary per employee in the mining industry was at 106,279 U.S. dollars .\n"
+}

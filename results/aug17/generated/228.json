@@ -1,0 +1,46 @@
+{
+   "title": "Quarterly average daily rate of hotels in Atlanta 2016 to 2017",
+   "labels": [
+      "Quarter",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Quarterly average daily rate of hotels in Atlanta 2016 and 2017 . ",
+      "In the first Quarter of 2017 , the average daily rate of hotels in Atlanta the country was 170 U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "19": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q1",
+         "2016": "167",
+         "2017": "170"
+      },
+      {
+         "Quarter": "Q2",
+         "2016": "163",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2016": "165",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q4",
+         "2016": "161",
+         "2017": "0"
+      }
+   ],
+   "gold": "This statistic shows the quarterly average daily rate of hotels in Atlanta in 2016 and 2017 . In the first quarter of 2017 , the average daily rate of hotels in Atlanta was 170 U.S. dollars , up from 161 dollars the previous quarter .\n"
+}

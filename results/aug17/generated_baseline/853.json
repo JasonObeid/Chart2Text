@@ -1,0 +1,114 @@
+{
+   "title": "Inflation rate in Argentina 2024 \n",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 18 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly negative which exists from 2024 to 2019.",
+      " Differently, the next significant trend is extremely positive which exists from 2019 to 2011.",
+      " Similarly, the next significant trend is moderately negative which exists from 2009 to 2006.",
+      " Differently, the next significant trend is extremely positive which exists from 2011 to 2009.",
+      " Also, the next significant trend is extremely positive which exists from 2006 to 2004."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "5"
+      },
+      {
+         "3": "5",
+         "14": "10"
+      },
+      {
+         "3": "12",
+         "14": "15"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      },
+      {
+         "3": "15",
+         "14": "17"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inflation rate compared to previous year": 16.98
+      },
+      {
+         "Year": "2023",
+         "Inflation rate compared to previous year": 22.21
+      },
+      {
+         "Year": "2022",
+         "Inflation rate compared to previous year": 26.87
+      },
+      {
+         "Year": "2021",
+         "Inflation rate compared to previous year": 32.26
+      },
+      {
+         "Year": "2020",
+         "Inflation rate compared to previous year": 51.0
+      },
+      {
+         "Year": "2019",
+         "Inflation rate compared to previous year": 54.44
+      },
+      {
+         "Year": "2018",
+         "Inflation rate compared to previous year": 34.28
+      },
+      {
+         "Year": "2017",
+         "Inflation rate compared to previous year": 25.68
+      },
+      {
+         "Year": "2013",
+         "Inflation rate compared to previous year": 10.62
+      },
+      {
+         "Year": "2012",
+         "Inflation rate compared to previous year": 10.04
+      },
+      {
+         "Year": "2011",
+         "Inflation rate compared to previous year": 9.78
+      },
+      {
+         "Year": "2010",
+         "Inflation rate compared to previous year": 10.46
+      },
+      {
+         "Year": "2009",
+         "Inflation rate compared to previous year": 6.27
+      },
+      {
+         "Year": "2008",
+         "Inflation rate compared to previous year": 8.59
+      },
+      {
+         "Year": "2007",
+         "Inflation rate compared to previous year": 8.83
+      },
+      {
+         "Year": "2006",
+         "Inflation rate compared to previous year": 10.9
+      },
+      {
+         "Year": "2005",
+         "Inflation rate compared to previous year": 9.64
+      },
+      {
+         "Year": "2004",
+         "Inflation rate compared to previous year": 4.42
+      }
+   ],
+   "gold": "Inflation in Argentina was 34 percent in 2018 , expected to rise to nearly 44 percent the following year before declining to 6 percent by 2024 . A major factor in this is the legacy of poor fiscal discipline left by the economic depression from 1998 to 2002 . What causes inflation ? Inflation is a rise in price levels for all goods .\n"
+}

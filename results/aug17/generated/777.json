@@ -1,0 +1,36 @@
+{
+   "title": "Popularity of Fidel Castro in Cuba 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey , conducted in 2015 , among adult Americans on the Popularity of Cuba 2015 at as a family . ",
+      "In 2013 , 50 % of the respondents answered that their family eat 2015 at on Don't_know_/_no_answer to Very/somewhat_positive a week ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "1",
+         "18": "2",
+         "20": "2",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Very/somewhat positive",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Very/somewhat negative",
+         "Share of respondents": "50"
+      },
+      {
+         "Response": "Don't know / no answer",
+         "Share of respondents": "6"
+      }
+   ],
+   "gold": "This statistic shows the results of a 2015 survey among adult Cubans living in Cuba on their opinion of Fidel Castro , their former President . 50 percent of respondents stated they have a very or somewhat negative opinion of Fidel Castro .\n"
+}

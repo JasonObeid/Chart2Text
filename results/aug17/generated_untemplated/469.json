@@ -1,0 +1,53 @@
+{
+   "title": "Average ticket price Chicago Blackhawks ( NHL ) 2014/15\n",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This graph depicts the average ticket price of detroit red wings games within the National Hockey League from 2005/06 to 2014/15 . In the 2005/06 season , the average ticket price was 43.13 u.s. dollars . The red wings play their home games at the Joe Louis Arena in detroit , Michigan .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 78.8
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 72.95
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 62.88
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 55.72
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 55.39
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 55.39
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 46.8
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 52.22
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 34.88
+      },
+      {
+         "Year": "2005/06",
+         "Average ticket price in U.S. dollars": 34.88
+      }
+   ],
+   "gold": "This graph depicts the average ticket price of Chicago Blackhawks games within the National Hockey League from 2005/06 to 2014/15 In the 2005/06 season , the average ticket price was 34.88 U.S. dollars . The Blackhawks play their home games at the United Center .\n"
+}

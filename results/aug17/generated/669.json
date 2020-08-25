@@ -1,0 +1,89 @@
+{
+   "title": "Leading primetime TV programming genres viewed in the U.S. 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the Leading primetime TV of the average TV U.S. viewed U.S. user as of TV U.S. 2015 . ",
+      "During the survey , 43 % of respondents stated they would choose Movies primetime if they could only listen to 7 genre of primetime for the rest of their lives . ",
+      "The most popular answer was Sitcoms_or_comedy , which 48 % of respondents selected as the 7 genre of primetime they would listen to for the rest of their lives ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "1",
+         "12": "1",
+         "20": "11"
+      },
+      {
+         "5": "0",
+         "8": "0",
+         "15": "11"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Sitcoms or comedy",
+         "Share of respondents": "48"
+      },
+      {
+         "Response": "Movies",
+         "Share of respondents": "43"
+      },
+      {
+         "Response": "Drama",
+         "Share of respondents": "42"
+      },
+      {
+         "Response": "Reality",
+         "Share of respondents": "34"
+      },
+      {
+         "Response": "Action/adventure",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "History or science",
+         "Share of respondents": "27"
+      },
+      {
+         "Response": "News/public affairs",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Sports",
+         "Share of respondents": "22"
+      },
+      {
+         "Response": "'How to\" or home-related",
+         "Share of respondents": "17"
+      },
+      {
+         "Response": "Weather",
+         "Share of respondents": "13"
+      },
+      {
+         "Response": "Talk or interview",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Children's",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Other type not listed",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Music videos",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Soap operas",
+         "Share of respondents": "4"
+      }
+   ],
+   "gold": "This graph shows the leading genres of primetime TV programming viewed regularly in the United States as of May 2015 . During a survey , 48 percent of respondents stated they regularly watched sitcoms or comedy shows on TV during primetime . Movies , part of the billion-dollar film industry , are the second most common genre on primetime TV programming .\n"
+}

@@ -1,0 +1,65 @@
+{
+   "title": "Number of road deaths in Switzerland 2006 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "There were 604 road deaths recorded in belgium in 2018 . belgium had been able to decrease the number of people fatally injured on its roads by nearly half since 2006 . 2011 and 2015 were the only years in which the number of fatal accidents increased .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": 233.0
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": 230.0
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": 216.0
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": 253.0
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": 243.0
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": 269.0
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": 339.0
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": 320.0
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": 327.0
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": 349.0
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": 357.0
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": 384.0
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": 370.0
+      }
+   ],
+   "gold": "In 2018 , 233 fatalities were recorded on Swiss roads . Between 2006 and 2018 , traffic related deaths declined by over one third , with the lowest number seen in 2016 at 216 such incidences . Switzerland was one of the safest countries in Europe for road users .\n"
+}

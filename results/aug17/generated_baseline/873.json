@@ -1,0 +1,64 @@
+{
+   "title": "Malware types encountered during data compromise investigations 2018\n",
+   "xAxis": "Type Of Malware",
+   "yAxis": "Share of encounters",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories for the x axis representing Type Of Malware, and a y axis representing Share of encounters.",
+      " The highest category is found at Downloader where Share of encounters is 13.0.",
+      " The lowest category is found at Ransomware where Share of encounters is 0.7."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Type Of Malware": "Downloader",
+         "Share of encounters": 13.0
+      },
+      {
+         "Type Of Malware": "Remote administration tool (RAT)",
+         "Share of encounters": 10.0
+      },
+      {
+         "Type Of Malware": "Webshell",
+         "Share of encounters": 8.0
+      },
+      {
+         "Type Of Malware": "Memory scraper/dumper",
+         "Share of encounters": 8.0
+      },
+      {
+         "Type Of Malware": "Injector",
+         "Share of encounters": 5.0
+      },
+      {
+         "Type Of Malware": "Dropper",
+         "Share of encounters": 4.0
+      },
+      {
+         "Type Of Malware": "Coin miners",
+         "Share of encounters": 3.0
+      },
+      {
+         "Type Of Malware": "Formjacking",
+         "Share of encounters": 2.0
+      },
+      {
+         "Type Of Malware": "Ransomware",
+         "Share of encounters": 0.7
+      }
+   ],
+   "gold": "The ranking presents the most commonly encountered types of malware used in industrial cyber attacks worldwide in 2018 . During the survey period , downloaders were detected in 13 percent of malware attack investigations . A further three percent of detected malware were coin miners .\n"
+}

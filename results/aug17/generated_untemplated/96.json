@@ -1,0 +1,83 @@
+{
+   "title": "Employment by economic sector in Sweden 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "The statistic shows the distribution of employment in bhutan by economic sector from 2009 to 2019 . In 2019 , 33.5 percent of the employees in bhutan were active in the agricultural sector , 15.66 percent in industry and 67.94 percent in the service sector .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "1.79",
+         "Industry": "17.81",
+         "Services": "80.39"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "1.81",
+         "Industry": "17.98",
+         "Services": "80.21"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "1.83",
+         "Industry": "18.17",
+         "Services": "80.01"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "1.89",
+         "Industry": "18.2",
+         "Services": "79.91"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "2.04",
+         "Industry": "18.29",
+         "Services": "79.68"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "1.97",
+         "Industry": "18.6",
+         "Services": "79.42"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "2.03",
+         "Industry": "19.16",
+         "Services": "78.81"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "2.06",
+         "Industry": "19.61",
+         "Services": "78.33"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "1.99",
+         "Industry": "19.93",
+         "Services": "78.08"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "2.1",
+         "Industry": "19.88",
+         "Services": "78.02"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "2.18",
+         "Industry": "20.16",
+         "Services": "77.67"
+      }
+   ],
+   "gold": "The statistic shows the distribution of employment in Sweden by economic sector from 2009 to 2019 . In 2019 , 1.79 percent of the employees in Sweden were active in the agricultural sector , 17.81 percent in industry and 80.39 percent in the service sector .\n"
+}

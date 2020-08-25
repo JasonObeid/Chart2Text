@@ -1,0 +1,43 @@
+{
+   "title": "Crude suicide rate in Vietnam 2000 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Crude suicide rate per 100,000 inhabitants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Crude suicide rate per 100,000 inhabitants, with a total of 4 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly positive which exists from 2015 to 2000.",
+      " In a similar manner, the next significant trend is slightly negative which exists from 2015 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Crude suicide rate per 100,000 inhabitants": 7.4
+      },
+      {
+         "Year": "2010",
+         "Crude suicide rate per 100,000 inhabitants": 7.1
+      },
+      {
+         "Year": "2005",
+         "Crude suicide rate per 100,000 inhabitants": 6.5
+      },
+      {
+         "Year": "2000",
+         "Crude suicide rate per 100,000 inhabitants": 6.8
+      }
+   ],
+   "gold": "This statistic shows the crude suicide rate in Vietnam from 2000 to 2015 . In 2015 , the crude suicide rate in Vietnam was approximately 7.4 deaths per 100,000 inhabitants .\n"
+}

@@ -1,0 +1,73 @@
+{
+   "title": "U.S. household expenditure on soaps and detergents 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average annual expenditure in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Average annual expenditure on soaps detergents per consumer unit in the U.S. from 2007 to 2018 . ",
+      "In 2018 , the country 's Average annual expenditure on soaps detergents amounted to 92.05 U.S. dollars per consumer unit ."
+   ],
+   "trends": [
+      {
+         "17": "11",
+         "19": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average annual expenditure in U.S. dollars": "92.05"
+      },
+      {
+         "Year": "2017",
+         "Average annual expenditure in U.S. dollars": "89.43"
+      },
+      {
+         "Year": "2016",
+         "Average annual expenditure in U.S. dollars": "82.13"
+      },
+      {
+         "Year": "2015",
+         "Average annual expenditure in U.S. dollars": "84.24"
+      },
+      {
+         "Year": "2014",
+         "Average annual expenditure in U.S. dollars": "79.89"
+      },
+      {
+         "Year": "2013",
+         "Average annual expenditure in U.S. dollars": "82.68"
+      },
+      {
+         "Year": "2012",
+         "Average annual expenditure in U.S. dollars": "84.71"
+      },
+      {
+         "Year": "2011",
+         "Average annual expenditure in U.S. dollars": "78.49"
+      },
+      {
+         "Year": "2010",
+         "Average annual expenditure in U.S. dollars": "81.94"
+      },
+      {
+         "Year": "2009",
+         "Average annual expenditure in U.S. dollars": "85.66"
+      },
+      {
+         "Year": "2008",
+         "Average annual expenditure in U.S. dollars": "81.1"
+      },
+      {
+         "Year": "2007",
+         "Average annual expenditure in U.S. dollars": "75.68"
+      }
+   ],
+   "gold": "This statistic shows the average annual expenditure on soaps and detergents per consumer unit in the United States from 2007 to 2018 . In 2018 , the country 's average expenditure on soaps and detergents amounted to 92.05 U.S. dollars per consumer unit .\n"
+}

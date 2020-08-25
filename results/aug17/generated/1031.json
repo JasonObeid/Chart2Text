@@ -1,0 +1,71 @@
+{
+   "title": "Degree of urbanization in Australia 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the degree of in Australia from 2008 to 2018 . ",
+      "Degree means the Share of urban population in the total population of a country . ",
+      "In 2018 , 86.01 % of Australia 's total population lived in urban areas and cities ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population in total population": "86.01"
+      },
+      {
+         "Year": "2017",
+         "Share of urban population in total population": "85.9"
+      },
+      {
+         "Year": "2016",
+         "Share of urban population in total population": "85.8"
+      },
+      {
+         "Year": "2015",
+         "Share of urban population in total population": "85.7"
+      },
+      {
+         "Year": "2014",
+         "Share of urban population in total population": "85.6"
+      },
+      {
+         "Year": "2013",
+         "Share of urban population in total population": "85.5"
+      },
+      {
+         "Year": "2012",
+         "Share of urban population in total population": "85.4"
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": "85.3"
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": "85.18"
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": "85.06"
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": "84.94"
+      }
+   ],
+   "gold": "This statistic shows the degree of urbanization in Australia from 2008 to 2018 . In 2018 , 86.01 percent of Australia 's population lived in cities .\n"
+}

@@ -1,0 +1,52 @@
+{
+   "title": "Outbound visitor growth in Africa 2018 to 2022\n",
+   "xAxis": "Year",
+   "yAxis": "Year-over-year visitor growth",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Year-over-year visitor growth, with a total of 5 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2020 to 2018.",
+      " Contrarily, the next significant trend is slightly negative which exists from 2022 to 2021.",
+      " But, the next significant trend is extremely positive which exists from 2021 to 2020."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "4"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2022",
+         "Year-over-year visitor growth": 3.9
+      },
+      {
+         "Year": "2021",
+         "Year-over-year visitor growth": 4.9
+      },
+      {
+         "Year": "2020",
+         "Year-over-year visitor growth": 3.3
+      },
+      {
+         "Year": "2019",
+         "Year-over-year visitor growth": 4.8
+      },
+      {
+         "Year": "2018",
+         "Year-over-year visitor growth": 6.1
+      }
+   ],
+   "gold": "This statistic shows outbound visitor growth in Africa from 2018 to 2022 . In 2018 , outbound visitor numbers from Africa grew by 6.1 percent over the previous year . The visitor number was forecast to grow by approximately four percent in 2022 .\n"
+}

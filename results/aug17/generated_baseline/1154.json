@@ -1,0 +1,99 @@
+{
+   "title": "Chicago Cubs revenue 2001 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly positive which exists from 2013 to 2001.",
+      " Similarly, the next significant trend is extremely positive which exists from 2018 to 2013."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "5",
+         "12": "17"
+      },
+      {
+         "3": "0",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 452.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 457.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 434.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 340.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 302.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 266.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 274.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 266.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 258.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 246.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 239.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 214.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 197.0
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 179.0
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 170.0
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 156.0
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 143.0
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 131.0
+      }
+   ],
+   "gold": "The statistic depicts the revenue of the Chicago Cubs from 2001 to 2018 . In 2018 , the revenue of the Major League Baseball franchise amounted to 452 million U.S. dollars.The Chicago Cubs are owned by the Ricketts family , who bought the franchise for 700 million U.S. dollars in 2009 .\n"
+}

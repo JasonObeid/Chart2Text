@@ -1,0 +1,256 @@
+{
+   "title": "Public opinion on U.S. use of drone strikes , by country 2014",
+   "labels": [
+      "Country",
+      "Disapprove",
+      "Approve"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the number of U.S. charters and U.S. chapters strikes ( as of 2012 ) . ",
+      "Both use drone are frequently mentioned in the media with regard to organized crime . ",
+      "At the time data was collected , there were 92 U.S. charters and 4 U.S. chapters in the Venezuela ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "0",
+            "2"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "Venezuela",
+         "Disapprove": "92",
+         "Approve": "4"
+      },
+      {
+         "Country": "Jordan",
+         "Disapprove": "90",
+         "Approve": "5"
+      },
+      {
+         "Country": "Greece",
+         "Disapprove": "89",
+         "Approve": "8"
+      },
+      {
+         "Country": "Nicaragua",
+         "Disapprove": "88",
+         "Approve": "9"
+      },
+      {
+         "Country": "Egypt",
+         "Disapprove": "87",
+         "Approve": "4"
+      },
+      {
+         "Country": "Brazil",
+         "Disapprove": "87",
+         "Approve": "7"
+      },
+      {
+         "Country": "Argentina",
+         "Disapprove": "87",
+         "Approve": "5"
+      },
+      {
+         "Country": "Spain",
+         "Disapprove": "86",
+         "Approve": "12"
+      },
+      {
+         "Country": "Senegal",
+         "Disapprove": "86",
+         "Approve": "11"
+      },
+      {
+         "Country": "Colombia",
+         "Disapprove": "86",
+         "Approve": "9"
+      },
+      {
+         "Country": "Palestinian ter.",
+         "Disapprove": "84",
+         "Approve": "7"
+      },
+      {
+         "Country": "Turkey",
+         "Disapprove": "83",
+         "Approve": "7"
+      },
+      {
+         "Country": "Japan",
+         "Disapprove": "82",
+         "Approve": "12"
+      },
+      {
+         "Country": "Peru",
+         "Disapprove": "81",
+         "Approve": "10"
+      },
+      {
+         "Country": "Mexico",
+         "Disapprove": "80",
+         "Approve": "14"
+      },
+      {
+         "Country": "Malaysia",
+         "Disapprove": "80",
+         "Approve": "6"
+      },
+      {
+         "Country": "Thailand",
+         "Disapprove": "79",
+         "Approve": "12"
+      },
+      {
+         "Country": "Vietnam",
+         "Disapprove": "78",
+         "Approve": "12"
+      },
+      {
+         "Country": "Russia",
+         "Disapprove": "78",
+         "Approve": "7"
+      },
+      {
+         "Country": "Tunisia",
+         "Disapprove": "77",
+         "Approve": "17"
+      },
+      {
+         "Country": "South Korea",
+         "Disapprove": "75",
+         "Approve": "23"
+      },
+      {
+         "Country": "Italy",
+         "Disapprove": "74",
+         "Approve": "18"
+      },
+      {
+         "Country": "Indonesia",
+         "Disapprove": "74",
+         "Approve": "10"
+      },
+      {
+         "Country": "El Salvador",
+         "Disapprove": "73",
+         "Approve": "11"
+      },
+      {
+         "Country": "France",
+         "Disapprove": "72",
+         "Approve": "27"
+      },
+      {
+         "Country": "Lebanon",
+         "Disapprove": "71",
+         "Approve": "23"
+      },
+      {
+         "Country": "Bangladesh",
+         "Disapprove": "70",
+         "Approve": "22"
+      },
+      {
+         "Country": "Chile",
+         "Disapprove": "68",
+         "Approve": "15"
+      },
+      {
+         "Country": "Tanzania",
+         "Disapprove": "67",
+         "Approve": "27"
+      },
+      {
+         "Country": "Philippines",
+         "Disapprove": "67",
+         "Approve": "24"
+      },
+      {
+         "Country": "Germany",
+         "Disapprove": "67",
+         "Approve": "30"
+      },
+      {
+         "Country": "Ukraine",
+         "Disapprove": "66",
+         "Approve": "11"
+      },
+      {
+         "Country": "Pakistan",
+         "Disapprove": "66",
+         "Approve": "3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Disapprove": "59",
+         "Approve": "33"
+      },
+      {
+         "Country": "Uganda",
+         "Disapprove": "56",
+         "Approve": "36"
+      },
+      {
+         "Country": "Poland",
+         "Disapprove": "54",
+         "Approve": "32"
+      },
+      {
+         "Country": "China",
+         "Disapprove": "52",
+         "Approve": "35"
+      },
+      {
+         "Country": "Ghana",
+         "Disapprove": "47",
+         "Approve": "29"
+      },
+      {
+         "Country": "South Africa",
+         "Disapprove": "46",
+         "Approve": "27"
+      },
+      {
+         "Country": "United States",
+         "Disapprove": "41",
+         "Approve": "52"
+      },
+      {
+         "Country": "Nigeria",
+         "Disapprove": "39",
+         "Approve": "42"
+      },
+      {
+         "Country": "Kenya",
+         "Disapprove": "38",
+         "Approve": "53"
+      },
+      {
+         "Country": "India",
+         "Disapprove": "36",
+         "Approve": "28"
+      },
+      {
+         "Country": "Israel",
+         "Disapprove": "27",
+         "Approve": "65"
+      }
+   ],
+   "gold": "This statistic shows the opinion of respondents from different countries around the world in 2014 , on the use of drone strikes by the United States to target extremists . In Greece , 92 percent of respondents opposed America 's use of drone strikes .\n"
+}

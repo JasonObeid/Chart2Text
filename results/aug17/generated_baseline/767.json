@@ -1,0 +1,80 @@
+{
+   "title": "Average regular season home attendance of the Tennessee Titans 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly neutral which exists from 2015 to 2008.",
+      " Also, the next significant trend is slightly negative which exists from 2019 to 2017.",
+      " Conversely, the next significant trend is extremely positive which exists from 2017 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": 64509.0
+      },
+      {
+         "Year": "2018",
+         "Average attendance": 64520.0
+      },
+      {
+         "Year": "2017",
+         "Average attendance": 65651.0
+      },
+      {
+         "Year": "2016",
+         "Average attendance": 64659.0
+      },
+      {
+         "Year": "2015",
+         "Average attendance": 62304.0
+      },
+      {
+         "Year": "2014",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2013",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2012",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2011",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2010",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2009",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2008",
+         "Average attendance": 69143.0
+      }
+   ],
+   "gold": "This graph depicts the average regular season home attendance of the Tennessee Titans from 2008 to 2019 . In 2019 , the average attendance at home games of the Tennessee Titans was 64,509 .\n"
+}

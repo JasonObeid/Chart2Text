@@ -1,0 +1,97 @@
+{
+   "title": "Number of Burger King restaurants in the Asia Pacific region from 2012 to 2013",
+   "labels": [
+      "Country",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Burger Asia King restaurants in Burger King 2012 and 2013 . ",
+      "During the survey period in 2013 , it was found that 371 % of Asia shoppers King clothing and footwear Asia , followed from China category . ",
+      "which was ranked second with 190 % of the global Spanish Asia purchases ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": [
+            "0",
+            "2"
+         ],
+         "24": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "5": [
+            "1",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "Australia",
+         "2012": "357",
+         "2013": "371"
+      },
+      {
+         "Country": "China",
+         "2012": "86",
+         "2013": "190"
+      },
+      {
+         "Country": "South Korea",
+         "2012": "139",
+         "2013": "164"
+      },
+      {
+         "Country": "New Zealand",
+         "2012": "82",
+         "2013": "86"
+      },
+      {
+         "Country": "Japan",
+         "2012": "64",
+         "2013": "82"
+      },
+      {
+         "Country": "Malaysia",
+         "2012": "43",
+         "2013": "56"
+      },
+      {
+         "Country": "Indonesia",
+         "2012": "40",
+         "2013": "48"
+      },
+      {
+         "Country": "Singapore",
+         "2012": "41",
+         "2013": "43"
+      },
+      {
+         "Country": "Philippines",
+         "2012": "29",
+         "2013": "36"
+      },
+      {
+         "Country": "Taiwan",
+         "2012": "41",
+         "2013": "36"
+      },
+      {
+         "Country": "Thailand",
+         "2012": "29",
+         "2013": "34"
+      },
+      {
+         "Country": "Other",
+         "2012": "59",
+         "2013": "85"
+      }
+   ],
+   "gold": "The statistic shows the number of Burger King restaurants in the Asia Pacific region from 2012 to 2013 , by country . In 2013 , there were 371 Burger King restaurants in Australia , 190 restaurants in China and 164 restaurants in South Korea .\n"
+}

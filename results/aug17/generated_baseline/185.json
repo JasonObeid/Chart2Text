@@ -1,0 +1,69 @@
+{
+   "title": "Number of oncology practices in the U.S. by region and size 2013",
+   "labels": [
+      "Country",
+      "1-2 physicians",
+      "3-6 physicians",
+      "7 or more physicians"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 4 categories for the x axis of Country representing 1-2 physicians, 3-6 physicians, and 7 or more physicians.",
+      " The highest category is found at South with a mean value of 54.33.",
+      " The second highest category is found at Midwest with a mean value of 43.0.",
+      " This represents a difference of 23.3%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "3",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "3",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Midwest",
+         "1-2 physicians": "33",
+         "3-6 physicians": "41",
+         "7 or more physicians": "55"
+      },
+      {
+         "Country": "Northeast",
+         "1-2 physicians": "31",
+         "3-6 physicians": "41",
+         "7 or more physicians": "40"
+      },
+      {
+         "Country": "South",
+         "1-2 physicians": "59",
+         "3-6 physicians": "29",
+         "7 or more physicians": "75"
+      },
+      {
+         "Country": "West",
+         "1-2 physicians": "24",
+         "3-6 physicians": "46",
+         "7 or more physicians": "52"
+      }
+   ],
+   "gold": "This survey displays the number of oncology practices in the United States based on the number of physicians , by region , in 2013 . In that year , there were 24 oncology practices in the western part of the United States with only one or two physicians . The size and demographic of medical professionals in oncology plays a significant role in the accessibility and quality of cancer care for patients in the United States .\n"
+}

@@ -1,0 +1,29 @@
+{
+   "title": "Facebook usage reach in the United States 2019 , by gender",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey conducted in the country in 2017 on whether the respondents United in 2019 , or not . ",
+      "During the survey , some 75 % of respondents stated they United in States 2019 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Men",
+         "Share of respondents": "63"
+      },
+      {
+         "Response": "Women",
+         "Share of respondents": "75"
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who were using Facebook as of February 2019 , sorted by gender . During that period of time , 75 percent of female respondents stated that they used the social networking site .\n"
+}

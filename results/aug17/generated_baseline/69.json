@@ -1,0 +1,48 @@
+{
+   "title": "Casino visitors in the U.S. ordered by age group 2010\n",
+   "xAxis": "Age of casino visitors",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories for the x axis representing Age of casino visitors, and a y axis representing Percentage of respondents.",
+      " The highest category is found at Age_50-64 where Percentage of respondents is 33.0.",
+      " The lowest category is found at Don't_know_/_refused where Percentage of respondents is 3.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age of casino visitors": "Age 21-34",
+         "Percentage of respondents": 18.0
+      },
+      {
+         "Age of casino visitors": "Age 35-49",
+         "Percentage of respondents": 21.0
+      },
+      {
+         "Age of casino visitors": "Age 50-64",
+         "Percentage of respondents": 33.0
+      },
+      {
+         "Age of casino visitors": "Age 65 and over",
+         "Percentage of respondents": 25.0
+      },
+      {
+         "Age of casino visitors": "Don't know / refused",
+         "Percentage of respondents": 3.0
+      }
+   ],
+   "gold": "The graph depicts the age group distribution of casino vistors in the U.S. in 2010 . 25 percent of casino visitors were aged 65 years or older .\n"
+}

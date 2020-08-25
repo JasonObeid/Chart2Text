@@ -1,0 +1,66 @@
+{
+   "title": "Vending machines : Market share of product categories in the U.S. 2010",
+   "labels": [
+      "Food Type",
+      "2009",
+      "2010"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the trade weighted average of applied import tariffs between the European Union and the united , by sector in 2013 . The eu imposed an average 6.4 percent tariff on the importation of u.s. processed foods in 2013 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Food Type": "Packaged cold beverages",
+         "2009": "54.2",
+         "2010": "56.1"
+      },
+      {
+         "Food Type": "Snacks confections pastry",
+         "2009": "22.5",
+         "2010": "23"
+      },
+      {
+         "Food Type": "Hot drinks",
+         "2009": "8.4",
+         "2010": "6.8"
+      },
+      {
+         "Food Type": "Vended food",
+         "2009": "6.7",
+         "2010": "6.5"
+      },
+      {
+         "Food Type": "Ice cream",
+         "2009": "2",
+         "2010": "2.1"
+      },
+      {
+         "Food Type": "Milk",
+         "2009": "1.9",
+         "2010": "1.8"
+      },
+      {
+         "Food Type": "Bulk vending",
+         "2009": "1",
+         "2010": "1"
+      },
+      {
+         "Food Type": "Cold drinks (cup)",
+         "2009": "1",
+         "2010": "0.6"
+      },
+      {
+         "Food Type": "Cigarettes & Cigars",
+         "2009": "0.7",
+         "2010": "0.6"
+      },
+      {
+         "Food Type": "All other",
+         "2009": "1.6",
+         "2010": "1.5"
+      }
+   ],
+   "gold": "This graph depicts the markt share of products sold through vending machines in the U.S. in 2009 and 2010 . Hot drinks accounted for 8.4 percent of total products sold in vending machines in 2009 .\n"
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Tesla 's net loss attributable to common stockholders 2013 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Loss in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Loss of 's in Tesla from 2013 to 2019 , in million U.S. dollars . ",
+      "In 2019 , approximately -862 million U.S. dollars of 's were produced in Tesla ."
+   ],
+   "trends": [
+      {
+         "10": "6",
+         "12": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Loss in million U.S. dollars": "-862"
+      },
+      {
+         "Year": "2018",
+         "Loss in million U.S. dollars": "-976"
+      },
+      {
+         "Year": "2017",
+         "Loss in million U.S. dollars": "-1962"
+      },
+      {
+         "Year": "2016",
+         "Loss in million U.S. dollars": "-675"
+      },
+      {
+         "Year": "2015",
+         "Loss in million U.S. dollars": "-889"
+      },
+      {
+         "Year": "2014",
+         "Loss in million U.S. dollars": "-294"
+      },
+      {
+         "Year": "2013",
+         "Loss in million U.S. dollars": "-74"
+      }
+   ],
+   "gold": "Net loss attributable to Tesla 's common stockholders was 862 million U.S. dollars in 2019 . In the same year , the California-based company burnt through a total of about 775 million U.S. dollars of cash . Focus on innovation drives costs Net losses began to accelerate in 2014 and peaked in 2017 .\n"
+}

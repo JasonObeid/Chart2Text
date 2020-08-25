@@ -1,0 +1,36 @@
+{
+   "title": "Election 2016 exit polls : percentage of votes by gender",
+   "labels": [
+      "Sex",
+      "Hillary Clinton",
+      "Donald Trump"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the number of hours 2016 exit in polls percentage in the votes as of 2014 , gender school . ",
+      "During the survey , parents reported that their elementary school-aged 2016 spent an average of 53 hours on Donald percentage such as lessons , tutoring and non-school sports ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Hillary Clinton": "41",
+         "Donald Trump": "53"
+      },
+      {
+         "Sex": "Female",
+         "Hillary Clinton": "54",
+         "Donald Trump": "42"
+      }
+   ],
+   "gold": "This graph shows the percentage of votes of the 2016 presidential elections in the United States on November 9 , 2016 , by gender . According to the exit polls , about 54 percent of female voters nationwide voted for Hillary Clinton .\n"
+}

@@ -1,0 +1,43 @@
+{
+   "title": "India : mobile activities as of January 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a 2018 survey among Americans aged 16 and older regarding the India they are looking for in a close activities . ",
+      "This statistic only shows the top five answers to that question . ",
+      "21 % of the respondents stated a close activities has to be loyal ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "0": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Visit a social network",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "Watch videos",
+         "Share of respondents": "16"
+      },
+      {
+         "Response": "Use a search engine",
+         "Share of respondents": "15"
+      },
+      {
+         "Response": "Look for product information",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Play games",
+         "Share of respondents": "4"
+      }
+   ],
+   "gold": "This statistic presents the most popular smartphone activities in India as of January 2018 . During a survey , it was found that 21 percent of the respondents visited a social network , while 16 percent watched videos .\n"
+}

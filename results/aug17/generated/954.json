@@ -1,0 +1,37 @@
+{
+   "title": "Number of outbound trips from China to Europe in 2018 , by region of destination",
+   "xAxis": "Europe European Union",
+   "yAxis": "Arrivals in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the millions of in the Europe in 2018 , from Europe European . ",
+      "In 2018 , about 1.12 millions of the millions were living in the Europe ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "3"
+      }
+   ],
+   "data": [
+      {
+         "Europe European Union": "Central/Eastern Europe",
+         "Arrivals in millions": "5.93"
+      },
+      {
+         "Europe European Union": "Western Europe",
+         "Arrivals in millions": "5.9"
+      },
+      {
+         "Europe European Union": "Northern Europe",
+         "Arrivals in millions": "1.15"
+      },
+      {
+         "Europe European Union": "Southern/Mediterranean Europe",
+         "Arrivals in millions": "1.12"
+      }
+   ],
+   "gold": "This statistic shows the number of outbound trips from China to Europe in 2018 , by region of destination . There were approximately 1.15 million trips from China to Northern Europe in 2018 .\n"
+}

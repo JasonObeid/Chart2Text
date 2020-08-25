@@ -1,0 +1,33 @@
+{
+   "title": "Spain : number of hotels and similar accommodation by number of rooms 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Number of hotels",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the number of pubs , bars and nightclubs in the United Kingdom ( uk ) from 2010 to 2012 . There were 52000 of these establishments , compared to almost 61,000 in 2008 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "Less than 25 rooms",
+         "Number of hotels": 12170.0
+      },
+      {
+         "Year": "From 25 to 99 rooms",
+         "Number of hotels": 5111.0
+      },
+      {
+         "Year": "100 rooms or more",
+         "Number of hotels": 2437.0
+      },
+      {
+         "Year": "From 100 to 249 rooms",
+         "Number of hotels": 1758.0
+      },
+      {
+         "Year": "250 rooms or more",
+         "Number of hotels": 679.0
+      }
+   ],
+   "gold": "This statistic shows the number of hotels and similar accommodation in Spain in 2015 , by number of rooms . In 2015 there were over 12 thousand hotels with less than 25 rooms in Spain .\n"
+}

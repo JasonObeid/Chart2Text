@@ -1,0 +1,97 @@
+{
+   "title": "Microwaves ovens U.S. unit shipments 2005 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Unit shipments in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unit shipments in millions, with a total of 15 data points. The chart has 4 significant trends.",
+      " The longest trend is slightly negative which exists from 2010 to 2005.",
+      " Conversely, the next significant trend is extremely positive which exists from 2019 to 2016.",
+      " Correspondingly, the next significant trend is extremely positive which exists from 2016 to 2013.",
+      " Also, the next significant trend is moderately positive which exists from 2013 to 2010."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "9",
+         "12": "14"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      },
+      {
+         "3": "3",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unit shipments in millions": 13.45
+      },
+      {
+         "Year": "2018",
+         "Unit shipments in millions": 13.05
+      },
+      {
+         "Year": "2017",
+         "Unit shipments in millions": 12.56
+      },
+      {
+         "Year": "2016",
+         "Unit shipments in millions": 11.33
+      },
+      {
+         "Year": "2015",
+         "Unit shipments in millions": 11.94
+      },
+      {
+         "Year": "2014",
+         "Unit shipments in millions": 9.75
+      },
+      {
+         "Year": "2013",
+         "Unit shipments in millions": 9.15
+      },
+      {
+         "Year": "2012",
+         "Unit shipments in millions": 9.58
+      },
+      {
+         "Year": "2011",
+         "Unit shipments in millions": 9.52
+      },
+      {
+         "Year": "2010",
+         "Unit shipments in millions": 9.33
+      },
+      {
+         "Year": "2009",
+         "Unit shipments in millions": 9.63
+      },
+      {
+         "Year": "2008",
+         "Unit shipments in millions": 11.34
+      },
+      {
+         "Year": "2007",
+         "Unit shipments in millions": 11.85
+      },
+      {
+         "Year": "2006",
+         "Unit shipments in millions": 13.69
+      },
+      {
+         "Year": "2005",
+         "Unit shipments in millions": 13.86
+      }
+   ],
+   "gold": "Forecasts suggest that nearly 13.5 million microwave ovens will be shipped in the United States in 2019 , marking the product 's highest sales figure in years . Although quite a mature market , microwave oven shipments have fluctuated significantly over the past few decades . Between 2005 and 2013 total shipments fell from around 13.9 million to 9.2 million per year ; but in recent years the market has recovered to previous levels .\n"
+}

@@ -1,0 +1,64 @@
+{
+   "title": "Quarterly average daily rate in hotels in New Orleans 2016 to 2017",
+   "labels": [
+      "Quarter",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 4 categories for the x axis of Quarter representing 2016, and 2017.",
+      " The highest category is found at Q1 with a mean value of 186.5.",
+      " The second highest category is found at Q2 with a mean value of 97.0.",
+      " This represents a difference of 63.1%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q1",
+         "2016": "184",
+         "2017": "189"
+      },
+      {
+         "Quarter": "Q2",
+         "2016": "194",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2016": "145",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q4",
+         "2016": "183",
+         "2017": "0"
+      }
+   ],
+   "gold": "This statistic shows the quarterly average daily rate in hotels in New Orleans in 2016 and 2017 . In the first quarter of 2017 , the average daily rate for hotels in New Orleans in the United States was 189 U.S. dollars .\n"
+}

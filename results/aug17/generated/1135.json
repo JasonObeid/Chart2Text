@@ -1,0 +1,235 @@
+{
+   "title": "Burglary rate , by state U.S. 2018",
+   "xAxis": "State",
+   "yAxis": "Burglary rate per 100,000 inhabitants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The Montana with the highest rates of rate include New_Hampshire , New_York Virginia and Massachusetts . ",
+      "rate is more commonly known as whooping cough . ",
+      "It is a respiratory disease that causes uncontrollable coughing ."
+   ],
+   "trends": [
+      {
+         "1": "33",
+         "9": "51",
+         "11": "50",
+         "13": "49",
+         "15": "48"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "State": "New Mexico",
+         "Burglary rate per 100,000 inhabitants": "767.8"
+      },
+      {
+         "State": "Mississippi",
+         "Burglary rate per 100,000 inhabitants": "697.8"
+      },
+      {
+         "State": "Oklahoma",
+         "Burglary rate per 100,000 inhabitants": "681.1"
+      },
+      {
+         "State": "Louisiana",
+         "Burglary rate per 100,000 inhabitants": "668.1"
+      },
+      {
+         "State": "Arkansas",
+         "Burglary rate per 100,000 inhabitants": "636.8"
+      },
+      {
+         "State": "North Carolina",
+         "Burglary rate per 100,000 inhabitants": "599.9"
+      },
+      {
+         "State": "Alabama",
+         "Burglary rate per 100,000 inhabitants": "590.1"
+      },
+      {
+         "State": "Nevada",
+         "Burglary rate per 100,000 inhabitants": "584.7"
+      },
+      {
+         "State": "South Carolina",
+         "Burglary rate per 100,000 inhabitants": "579.7"
+      },
+      {
+         "State": "Alaska",
+         "Burglary rate per 100,000 inhabitants": "539.6"
+      },
+      {
+         "State": "Washington",
+         "Burglary rate per 100,000 inhabitants": "533.5"
+      },
+      {
+         "State": "Tennessee",
+         "Burglary rate per 100,000 inhabitants": "489.4"
+      },
+      {
+         "State": "Missouri",
+         "Burglary rate per 100,000 inhabitants": "444.9"
+      },
+      {
+         "State": "Arizona",
+         "Burglary rate per 100,000 inhabitants": "439.7"
+      },
+      {
+         "State": "Georgia",
+         "Burglary rate per 100,000 inhabitants": "431.3"
+      },
+      {
+         "State": "Kansas",
+         "Burglary rate per 100,000 inhabitants": "430.6"
+      },
+      {
+         "State": "California",
+         "Burglary rate per 100,000 inhabitants": "416.2"
+      },
+      {
+         "State": "Ohio",
+         "Burglary rate per 100,000 inhabitants": "412.2"
+      },
+      {
+         "State": "Texas",
+         "Burglary rate per 100,000 inhabitants": "410.8"
+      },
+      {
+         "State": "Hawaii",
+         "Burglary rate per 100,000 inhabitants": "396.4"
+      },
+      {
+         "State": "Oregon",
+         "Burglary rate per 100,000 inhabitants": "389.1"
+      },
+      {
+         "State": "Kentucky",
+         "Burglary rate per 100,000 inhabitants": "384.7"
+      },
+      {
+         "State": "Indiana",
+         "Burglary rate per 100,000 inhabitants": "377.6"
+      },
+      {
+         "State": "United States",
+         "Burglary rate per 100,000 inhabitants": "376.0"
+      },
+      {
+         "State": "Colorado",
+         "Burglary rate per 100,000 inhabitants": "375.2"
+      },
+      {
+         "State": "North Dakota",
+         "Burglary rate per 100,000 inhabitants": "358.4"
+      },
+      {
+         "State": "Iowa",
+         "Burglary rate per 100,000 inhabitants": "352.6"
+      },
+      {
+         "State": "Florida",
+         "Burglary rate per 100,000 inhabitants": "337.7"
+      },
+      {
+         "State": "Delaware",
+         "Burglary rate per 100,000 inhabitants": "326.5"
+      },
+      {
+         "State": "Michigan",
+         "Burglary rate per 100,000 inhabitants": "316.6"
+      },
+      {
+         "State": "Utah",
+         "Burglary rate per 100,000 inhabitants": "315.3"
+      },
+      {
+         "State": "Maryland",
+         "Burglary rate per 100,000 inhabitants": "312.6"
+      },
+      {
+         "State": "Illinois",
+         "Burglary rate per 100,000 inhabitants": "306.7"
+      },
+      {
+         "State": "Montana",
+         "Burglary rate per 100,000 inhabitants": "306.6"
+      },
+      {
+         "State": "West Virginia",
+         "Burglary rate per 100,000 inhabitants": "296.5"
+      },
+      {
+         "State": "South Dakota",
+         "Burglary rate per 100,000 inhabitants": "291.4"
+      },
+      {
+         "State": "Minnesota",
+         "Burglary rate per 100,000 inhabitants": "288.4"
+      },
+      {
+         "State": "Idaho",
+         "Burglary rate per 100,000 inhabitants": "281.6"
+      },
+      {
+         "State": "Nebraska",
+         "Burglary rate per 100,000 inhabitants": "271.9"
+      },
+      {
+         "State": "Rhode Island",
+         "Burglary rate per 100,000 inhabitants": "265.8"
+      },
+      {
+         "State": "Wyoming",
+         "Burglary rate per 100,000 inhabitants": "264.0"
+      },
+      {
+         "State": "District of Columbia",
+         "Burglary rate per 100,000 inhabitants": "254.5"
+      },
+      {
+         "State": "Wisconsin",
+         "Burglary rate per 100,000 inhabitants": "242.5"
+      },
+      {
+         "State": "Vermont",
+         "Burglary rate per 100,000 inhabitants": "234.2"
+      },
+      {
+         "State": "Connecticut",
+         "Burglary rate per 100,000 inhabitants": "222.5"
+      },
+      {
+         "State": "New Jersey",
+         "Burglary rate per 100,000 inhabitants": "215.9"
+      },
+      {
+         "State": "Pennsylvania",
+         "Burglary rate per 100,000 inhabitants": "211.6"
+      },
+      {
+         "State": "Maine",
+         "Burglary rate per 100,000 inhabitants": "202.7"
+      },
+      {
+         "State": "Massachusetts",
+         "Burglary rate per 100,000 inhabitants": "200.8"
+      },
+      {
+         "State": "Virginia",
+         "Burglary rate per 100,000 inhabitants": "182.8"
+      },
+      {
+         "State": "New York",
+         "Burglary rate per 100,000 inhabitants": "159.3"
+      },
+      {
+         "State": "New Hampshire",
+         "Burglary rate per 100,000 inhabitants": "136.2"
+      }
+   ],
+   "gold": "In 2017 , New Mexico had the highest burglary rate in the United States . That year , they had 767.8 occurrences per 100,000 residents . Mississippi followed with 697.8 incidents per 100,000 residents .\n"
+}

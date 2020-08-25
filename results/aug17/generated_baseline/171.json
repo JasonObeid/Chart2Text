@@ -1,0 +1,74 @@
+{
+   "title": "Global internet usage rate 2019 , by gender and region",
+   "labels": [
+      "Country",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 6 categories for the x axis of Country representing Male, and Female.",
+      " The highest category is found at Europe with a mean value of 82.6.",
+      " The second highest category is found at The Americas with a mean value of 77.2.",
+      " This represents a difference of 6.8%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Europe",
+         "Male": "84.9",
+         "Female": "80.3"
+      },
+      {
+         "Country": "The Americas",
+         "Male": "77.6",
+         "Female": "76.8"
+      },
+      {
+         "Country": "CIS",
+         "Male": "73.6",
+         "Female": "71"
+      },
+      {
+         "Country": "Arab States",
+         "Male": "58.5",
+         "Female": "44.2"
+      },
+      {
+         "Country": "Asia Pacific",
+         "Male": "54.6",
+         "Female": "41.3"
+      },
+      {
+         "Country": "Africa",
+         "Male": "33.8",
+         "Female": "22.6"
+      }
+   ],
+   "gold": "There are still vast disparities between the internet access rates of male and female online users in global regions worldwide . In 2019 , 22.6 percent of Africa 's female population had online access , compared to 33.8 percent of men . In the Americas , the share of female online access was 76.8 percent .\n"
+}

@@ -1,0 +1,76 @@
+{
+   "title": "Prevalence of undernourishment worldwide 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Proportion of undernourished people",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Proportion of undernourished people, with a total of 11 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly negative which exists from 2015 to 2000.",
+      " Differently, the next significant trend is extremely positive which exists from 2017 to 2015.",
+      " Similarly, the next significant trend is moderately neutral which exists from 2018 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "3",
+         "12": "10"
+      },
+      {
+         "3": "1",
+         "14": "3"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Proportion of undernourished people": 10.8
+      },
+      {
+         "Year": "2017",
+         "Proportion of undernourished people": 10.8
+      },
+      {
+         "Year": "2016",
+         "Proportion of undernourished people": 10.7
+      },
+      {
+         "Year": "2015",
+         "Proportion of undernourished people": 10.6
+      },
+      {
+         "Year": "2014",
+         "Proportion of undernourished people": 10.7
+      },
+      {
+         "Year": "2013",
+         "Proportion of undernourished people": 11.0
+      },
+      {
+         "Year": "2012",
+         "Proportion of undernourished people": 11.3
+      },
+      {
+         "Year": "2011",
+         "Proportion of undernourished people": 11.5
+      },
+      {
+         "Year": "2010",
+         "Proportion of undernourished people": 11.8
+      },
+      {
+         "Year": "2005",
+         "Proportion of undernourished people": 13.8
+      },
+      {
+         "Year": "2000",
+         "Proportion of undernourished people": 14.5
+      }
+   ],
+   "gold": "The statistic shows the prevalence of undernourishment in the world population from 2000 to 2018 . In 2018 , about 10.8 percent of the world population were undernourished .\n"
+}

@@ -1,0 +1,49 @@
+{
+   "title": "Number of Dollar Tree stores in Canada by province 2019",
+   "xAxis": "Province",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , Manitoba and the Saskatchewan were neck and with both province delivering Tree worth 107 and 102 million British pounds , respectively . ",
+      "The stores of coming from the Alberta during this time was about half of this . ",
+      "stores from British_Columbia and Ontario followed closely ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "6": "1"
+      },
+      {
+         "7": "2"
+      },
+      {
+         "2": "3",
+         "4": "4"
+      }
+   ],
+   "data": [
+      {
+         "Province": "Manitoba",
+         "Number of stores": "13"
+      },
+      {
+         "Province": "Saskatchewan",
+         "Number of stores": "16"
+      },
+      {
+         "Province": "Alberta",
+         "Number of stores": "37"
+      },
+      {
+         "Province": "British Columbia",
+         "Number of stores": "49"
+      },
+      {
+         "Province": "Ontario",
+         "Number of stores": "110"
+      }
+   ],
+   "gold": "As of February 2019 , Ontario was the Canadian province home to the most Dollar Tree stores in the whole of Canada , with 110 . British Columbia and Alberta ranked in second and third places , with 49 and 37 stores respectively . At that time , there were Dollar Tree stores located in five of Canada 's ten provinces .\n"
+}

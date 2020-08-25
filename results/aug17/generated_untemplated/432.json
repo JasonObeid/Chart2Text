@@ -1,0 +1,149 @@
+{
+   "title": "Sexual orientation : views on nature vs. nurture in the U.S. 1977 to 2018",
+   "labels": [
+      "Year",
+      "Born with",
+      "Upbringing/environment",
+      "Both"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the percentage of adults in england who held a full car driving license in 1975/76 , 1985/6 , 1989/91 , 1992/94 , 1995/97 , 1998/00 and between 2002 and 2017 . While the percentage of male driving license holders has always been greater than that of female driving license holders , the gap between the two decreased significantly from 40 percent to 11 percent between 1975/76 and 2018 . It is also worth noting that the percentage of all adults carrying driving licenses has basically remained stable since 2002 , with smaller variations , ranging from 70 to 75 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Born with": "50",
+         "Upbringing/environment": "30",
+         "Both": "10"
+      },
+      {
+         "Year": "2016",
+         "Born with": "46",
+         "Upbringing/environment": "33",
+         "Both": "12"
+      },
+      {
+         "Year": "2015",
+         "Born with": "51",
+         "Upbringing/environment": "30",
+         "Both": "8"
+      },
+      {
+         "Year": "2014",
+         "Born with": "42",
+         "Upbringing/environment": "37",
+         "Both": "9"
+      },
+      {
+         "Year": "2013",
+         "Born with": "47",
+         "Upbringing/environment": "33",
+         "Both": "9"
+      },
+      {
+         "Year": "2012",
+         "Born with": "40",
+         "Upbringing/environment": "35",
+         "Both": "11"
+      },
+      {
+         "Year": "2011",
+         "Born with": "40",
+         "Upbringing/environment": "42",
+         "Both": "6"
+      },
+      {
+         "Year": "2010",
+         "Born with": "36",
+         "Upbringing/environment": "37",
+         "Both": "12"
+      },
+      {
+         "Year": "2009",
+         "Born with": "35",
+         "Upbringing/environment": "42",
+         "Both": "12"
+      },
+      {
+         "Year": "2008",
+         "Born with": "41",
+         "Upbringing/environment": "38",
+         "Both": "9"
+      },
+      {
+         "Year": "2007",
+         "Born with": "42",
+         "Upbringing/environment": "35",
+         "Both": "11"
+      },
+      {
+         "Year": "2006",
+         "Born with": "42",
+         "Upbringing/environment": "37",
+         "Both": "11"
+      },
+      {
+         "Year": "2005",
+         "Born with": "38",
+         "Upbringing/environment": "44",
+         "Both": "10"
+      },
+      {
+         "Year": "2004",
+         "Born with": "37",
+         "Upbringing/environment": "41",
+         "Both": "11"
+      },
+      {
+         "Year": "2003",
+         "Born with": "38",
+         "Upbringing/environment": "44",
+         "Both": "11"
+      },
+      {
+         "Year": "2002",
+         "Born with": "40",
+         "Upbringing/environment": "36",
+         "Both": "12"
+      },
+      {
+         "Year": "2001",
+         "Born with": "40",
+         "Upbringing/environment": "39",
+         "Both": "9"
+      },
+      {
+         "Year": "1999",
+         "Born with": "34",
+         "Upbringing/environment": "44",
+         "Both": "13"
+      },
+      {
+         "Year": "1996",
+         "Born with": "31",
+         "Upbringing/environment": "40",
+         "Both": "13"
+      },
+      {
+         "Year": "1989",
+         "Born with": "19",
+         "Upbringing/environment": "48",
+         "Both": "12"
+      },
+      {
+         "Year": "1982",
+         "Born with": "17",
+         "Upbringing/environment": "52",
+         "Both": "13"
+      },
+      {
+         "Year": "1977",
+         "Born with": "13",
+         "Upbringing/environment": "56",
+         "Both": "14"
+      }
+   ],
+   "gold": "This statistic shows the shift in Americans ' views from 1977 to 2018 as to whether people are born gay or lesbian , or their sexual orientation develops due to upbringing and environmental factors . In 1977 , 13 percent of respondents stated that they believe people were born gay or lesbian . In 2018 , 50 percent of respondents believed people were born gay or lesbian .\n"
+}

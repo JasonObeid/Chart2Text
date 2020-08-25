@@ -1,0 +1,74 @@
+{
+   "title": "France : number of public primary schools 2005 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Number of public schools",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of public schools with a total of 13 data points. The chart has one significant trend.",
+      " This trend is negative which exists from 2018 to 2005."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of public schools": 44902.0
+      },
+      {
+         "Year": "2017",
+         "Number of public schools": 45401.0
+      },
+      {
+         "Year": "2016",
+         "Number of public schools": 45877.0
+      },
+      {
+         "Year": "2015",
+         "Number of public schools": 46435.0
+      },
+      {
+         "Year": "2014",
+         "Number of public schools": 46962.0
+      },
+      {
+         "Year": "2013",
+         "Number of public schools": 47306.0
+      },
+      {
+         "Year": "2012",
+         "Number of public schools": 47672.0
+      },
+      {
+         "Year": "2011",
+         "Number of public schools": 48139.0
+      },
+      {
+         "Year": "2010",
+         "Number of public schools": 48522.0
+      },
+      {
+         "Year": "2009",
+         "Number of public schools": 48975.0
+      },
+      {
+         "Year": "2008",
+         "Number of public schools": 49498.0
+      },
+      {
+         "Year": "2007",
+         "Number of public schools": 49928.0
+      },
+      {
+         "Year": "2005",
+         "Number of public schools": 50668.0
+      }
+   ],
+   "gold": "This graphic shows the total number of public primary schools in France from 2005 to 2018 . Over nine years , the number of public primary schools gradually diminished and reached 44,902 in 2018 .\n"
+}

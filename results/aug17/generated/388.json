@@ -1,0 +1,40 @@
+{
+   "title": "Mass shootings in the U.S. : legality of shooter 's weapons , as of February 2020",
+   "xAxis": "Category Of The Weapon",
+   "yAxis": "Number of incidents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows Number of shootings users in the Mass in 2020 , sorted 's annual weapons February . ",
+      "During the survey period , it was found that 1 % of the incidents with a weapons February of Legally_obtained 30,000 U.S. February dollars per year were shootings users . ",
+      "Overall , 90 % of the U.S. February incidents accessed the shootings ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "3",
+         "19": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category Of The Weapon": "Legally obtained",
+         "Number of incidents": "82"
+      },
+      {
+         "Category Of The Weapon": "Illegally obtained",
+         "Number of incidents": "16"
+      },
+      {
+         "Category Of The Weapon": "Unknown/to be determined",
+         "Number of incidents": "18"
+      },
+      {
+         "Category Of The Weapon": "Some weapons were legally obtained others possibly illegally",
+         "Number of incidents": "1"
+      }
+   ],
+   "gold": "82 of the mass shootings in the United States between 1982 and February 2020 involved weapons which were obtained legally ; a clear majority . Only 16 incidents involved guns that were obtained illegally . Legally owned firearms in the U.S .\n"
+}

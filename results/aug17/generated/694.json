@@ -1,0 +1,102 @@
+{
+   "title": "Number of U.S. patents held by tech companies in 2012",
+   "xAxis": "Company",
+   "yAxis": "Number of U.S. patents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the U.S. patents held according to the Number of U.S. patents in 2012 . ",
+      "Samsung had 47855 U.S. patents in 2012 ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "2": "0"
+      }
+   ],
+   "data": [
+      {
+         "Company": "Samsung",
+         "Number of U.S. patents": "47855"
+      },
+      {
+         "Company": "Canon",
+         "Number of U.S. patents": "46322"
+      },
+      {
+         "Company": "Sony",
+         "Number of U.S. patents": "36508"
+      },
+      {
+         "Company": "Hewlett-Packard",
+         "Number of U.S. patents": "23904"
+      },
+      {
+         "Company": "Xerox",
+         "Number of U.S. patents": "23603"
+      },
+      {
+         "Company": "Intel",
+         "Number of U.S. patents": "21153"
+      },
+      {
+         "Company": "Motorola",
+         "Number of U.S. patents": "21027"
+      },
+      {
+         "Company": "Microsoft",
+         "Number of U.S. patents": "19800"
+      },
+      {
+         "Company": "Ricoh",
+         "Number of U.S. patents": "14363"
+      },
+      {
+         "Company": "Lucent",
+         "Number of U.S. patents": "11713"
+      },
+      {
+         "Company": "Nokia",
+         "Number of U.S. patents": "9615"
+      },
+      {
+         "Company": "Cisco",
+         "Number of U.S. patents": "7208"
+      },
+      {
+         "Company": "Apple",
+         "Number of U.S. patents": "4649"
+      },
+      {
+         "Company": "Oracle",
+         "Number of U.S. patents": "3371"
+      },
+      {
+         "Company": "Dell",
+         "Number of U.S. patents": "2489"
+      },
+      {
+         "Company": "Google",
+         "Number of U.S. patents": "1124"
+      },
+      {
+         "Company": "Verizon",
+         "Number of U.S. patents": "1110"
+      },
+      {
+         "Company": "Yahoo",
+         "Number of U.S. patents": "1029"
+      },
+      {
+         "Company": "AOL",
+         "Number of U.S. patents": "533"
+      },
+      {
+         "Company": "Amazon",
+         "Number of U.S. patents": "448"
+      }
+   ],
+   "gold": "This statistic shows the number of U.S. patents held by selected tech companies . As of March 2012 , Samsung held 47,855 U.S. patents . Apple , one of Samsung 's main competitors , held 4,649 patents .\n"
+}

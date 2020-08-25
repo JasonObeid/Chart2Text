@@ -1,0 +1,46 @@
+{
+   "title": "Second division football leagues in Europe ranked by revenue 2011/12",
+   "xAxis": "Football League",
+   "yAxis": "Income (in million euros)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic depicts the number of division Income into the Second in , sorted leagues Football League . ",
+      "In that year , the Championship_(England) League was the leading million division importer . ",
+      "Imported Ligue_2_(France) from this League were worth some 213.7 million euros) ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0"
+      },
+      {
+         "1": "3",
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Football League": "Championship (England)",
+         "Income (in million euros)": "590.3"
+      },
+      {
+         "Football League": "2. Bundesliga (Germany)",
+         "Income (in million euros)": "361.7"
+      },
+      {
+         "Football League": "Serie B (Italy)",
+         "Income (in million euros)": "275.5"
+      },
+      {
+         "Football League": "Ligue 2 (France)",
+         "Income (in million euros)": "213.7"
+      },
+      {
+         "Football League": "Segunda Division (Spain)",
+         "Income (in million euros)": "201.1"
+      }
+   ],
+   "gold": "The statistic shows a ranking of selected second division European football leagues based on revenue in the 2011/12 season . The second division of German professional soccer had a total income of 361.7 million euros .\n"
+}

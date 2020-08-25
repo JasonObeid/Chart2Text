@@ -1,0 +1,33 @@
+{
+   "title": "Casino visitors in the U.S. ordered by age group 2010\n",
+   "xAxis": "Age of casino visitors",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the buying behaviour of shoppers in the united kingdom when purchasing clothing , according to a survey published 2014 . Of respondents , 30 percent said they researched products online before buying in store , while 11 percent said they shopped with friends .\n",
+   "trends": {},
+   "data": [
+      {
+         "Age of casino visitors": "Age 21-34",
+         "Percentage of respondents": 18.0
+      },
+      {
+         "Age of casino visitors": "Age 35-49",
+         "Percentage of respondents": 21.0
+      },
+      {
+         "Age of casino visitors": "Age 50-64",
+         "Percentage of respondents": 33.0
+      },
+      {
+         "Age of casino visitors": "Age 65 and over",
+         "Percentage of respondents": 25.0
+      },
+      {
+         "Age of casino visitors": "Don't know / refused",
+         "Percentage of respondents": 3.0
+      }
+   ],
+   "gold": "The graph depicts the age group distribution of casino vistors in the U.S. in 2010 . 25 percent of casino visitors were aged 65 years or older .\n"
+}

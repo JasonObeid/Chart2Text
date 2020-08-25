@@ -1,0 +1,34 @@
+{
+   "title": "Worldwide shipments of smart watches 2013 to 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Shipments in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Shipments in millions with a total of 3 data points. The chart has one significant trend.",
+      " This trend is positive which exists from 2015 to 2013."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Shipments in millions": 24.92
+      },
+      {
+         "Year": "2014",
+         "Shipments in millions": 7.44
+      },
+      {
+         "Year": "2013",
+         "Shipments in millions": 1.23
+      }
+   ],
+   "gold": "The statistic shows the projected worldwide smart watches shipments from 2013 to 2015 . Shipments of smart watches are forecast to total around 25 million units in 2015 .\n"
+}

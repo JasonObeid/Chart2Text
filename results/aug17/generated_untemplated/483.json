@@ -1,0 +1,61 @@
+{
+   "title": "Average regular season home attendance of the Chicago Bears 2008 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This graph depicts the average regular season home attendance of the seattle seahawks from 2008 to 2019 . In 2019 , the average attendance at home games of the seattle seahawks was 68990 . seattle seahawks average home attendance - additional information The seattle seahawks ' average regular season home attendance has remained relatively constant in recent years , with the average in the 2019 season standing at 68990 .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": 61916.0
+      },
+      {
+         "Year": "2018",
+         "Average attendance": 61815.0
+      },
+      {
+         "Year": "2017",
+         "Average attendance": 61142.0
+      },
+      {
+         "Year": "2016",
+         "Average attendance": 60368.0
+      },
+      {
+         "Year": "2015",
+         "Average attendance": 62035.0
+      },
+      {
+         "Year": "2014",
+         "Average attendance": 61681.0
+      },
+      {
+         "Year": "2013",
+         "Average attendance": 62358.0
+      },
+      {
+         "Year": "2012",
+         "Average attendance": 62329.0
+      },
+      {
+         "Year": "2011",
+         "Average attendance": 62145.0
+      },
+      {
+         "Year": "2010",
+         "Average attendance": 62195.0
+      },
+      {
+         "Year": "2009",
+         "Average attendance": 62250.0
+      },
+      {
+         "Year": "2008",
+         "Average attendance": 62034.0
+      }
+   ],
+   "gold": "This graph depicts the average regular season home attendance of the Chicago Bears from 2008 to 2019 . In 2019 , the average attendance at home games of the Chicago Bears was 61,916 .\n"
+}

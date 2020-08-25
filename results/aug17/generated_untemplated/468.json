@@ -1,0 +1,31 @@
+{
+   "title": "Life expectancy in North America 2019",
+   "labels": [
+      "Country",
+      "Males",
+      "Females"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": "This statistic shows the average life expectancy in the united states in 2018 , by gender . In 2018 , the average age rate in the united states was 61 years and older .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "North America",
+         "Males": "76",
+         "Females": "81"
+      },
+      {
+         "Country": "Canada",
+         "Males": "80",
+         "Females": "84"
+      },
+      {
+         "Country": "USA",
+         "Males": "76",
+         "Females": "81"
+      }
+   ],
+   "gold": "This statistic shows the average life expectancy in North America for those born in 2019 , by gender and region . In Canada , the average life expectancy was 80 years for males and 84 years for females in 2019 . Life expectancy in North America Of those considered in this statistic , the life expectancy of female Canadian infants born in 2019 was the longest , at 84 years .\n"
+}

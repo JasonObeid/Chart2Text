@@ -1,0 +1,46 @@
+{
+   "title": "Construction costs for selected airports up to 2012",
+   "xAxis": "Airport",
+   "yAxis": "Costs in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the most viewed Construction on Costs in Construction 2012 . ",
+      "Hong_Kong_(China) was the Airport with the highest for billion in 2012 with a for of 15.9 billion viewers ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Airport": "Hong Kong (China)",
+         "Costs in billion euros": "15.9"
+      },
+      {
+         "Airport": "Kansai/Osaka (Japan)",
+         "Costs in billion euros": "15.9"
+      },
+      {
+         "Airport": "Doha (Katar)",
+         "Costs in billion euros": "8.8"
+      },
+      {
+         "Airport": "Kobe (Japan)",
+         "Costs in billion euros": "6.9"
+      },
+      {
+         "Airport": "London-Heathrow (Terminal 5 GB)",
+         "Costs in billion euros": "5.6"
+      },
+      {
+         "Airport": "Berlin-Brandenburg (Germany)",
+         "Costs in billion euros": "3.0"
+      }
+   ],
+   "gold": "This statistic shows the construction costs for selected airports ( as of 2012  ) . The construction costs for the Berlin-Brandebug airport amounted to at least 3 billion euros . The costs for the airport Kobe ( Japan ) amounted to approximately 7 billion euros .\n"
+}

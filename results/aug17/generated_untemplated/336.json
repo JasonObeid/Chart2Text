@@ -1,0 +1,57 @@
+{
+   "title": "Urbanization in Tanzania 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the degree of urbanization in cambodia from 2008 to 2018 . urbanization means the share of urban population in the total population of a country . In 2018 , 36.63 percent of cambodia 's total population lived in urban areas and cities .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population in total population": 33.78
+      },
+      {
+         "Year": "2017",
+         "Share of urban population in total population": 33.05
+      },
+      {
+         "Year": "2016",
+         "Share of urban population in total population": 32.33
+      },
+      {
+         "Year": "2015",
+         "Share of urban population in total population": 31.62
+      },
+      {
+         "Year": "2014",
+         "Share of urban population in total population": 30.9
+      },
+      {
+         "Year": "2013",
+         "Share of urban population in total population": 30.2
+      },
+      {
+         "Year": "2012",
+         "Share of urban population in total population": 29.49
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": 28.8
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": 28.11
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": 27.44
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": 26.78
+      }
+   ],
+   "gold": "This statistic shows the degree of urbanization in Tanzania from 2008 to 2018 . Urbanization means the share of urban population in the total population of a country . In 2018 , 33.78 percent of Tanzania 's total population lived in urban areas and cities .\n"
+}

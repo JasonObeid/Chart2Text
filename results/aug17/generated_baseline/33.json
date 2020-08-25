@@ -1,0 +1,148 @@
+{
+   "title": "Number of operable nuclear reactor plants by country 2019\n",
+   "xAxis": "Country",
+   "yAxis": "Number of reactors",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 30 categories for the x axis representing Country, and a y axis representing Number of reactors.",
+      " The highest category is found at United_States where Number of reactors is 97.0.",
+      " The lowest category is found at Iran where Number of reactors is 1.0."
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 26,
+         "12": 26
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Number of reactors": 97.0
+      },
+      {
+         "Country": "France",
+         "Number of reactors": 58.0
+      },
+      {
+         "Country": "China",
+         "Number of reactors": 45.0
+      },
+      {
+         "Country": "Japan",
+         "Number of reactors": 37.0
+      },
+      {
+         "Country": "Russia",
+         "Number of reactors": 36.0
+      },
+      {
+         "Country": "South Korea",
+         "Number of reactors": 24.0
+      },
+      {
+         "Country": "India",
+         "Number of reactors": 22.0
+      },
+      {
+         "Country": "Canada",
+         "Number of reactors": 19.0
+      },
+      {
+         "Country": "Ukraine",
+         "Number of reactors": 15.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of reactors": 15.0
+      },
+      {
+         "Country": "Sweden",
+         "Number of reactors": 8.0
+      },
+      {
+         "Country": "Spain",
+         "Number of reactors": 7.0
+      },
+      {
+         "Country": "Belgium",
+         "Number of reactors": 7.0
+      },
+      {
+         "Country": "Germany",
+         "Number of reactors": 7.0
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of reactors": 6.0
+      },
+      {
+         "Country": "Switzerland",
+         "Number of reactors": 5.0
+      },
+      {
+         "Country": "Pakistan",
+         "Number of reactors": 5.0
+      },
+      {
+         "Country": "Slovakia",
+         "Number of reactors": 4.0
+      },
+      {
+         "Country": "Hungary",
+         "Number of reactors": 4.0
+      },
+      {
+         "Country": "Finland",
+         "Number of reactors": 4.0
+      },
+      {
+         "Country": "Argentina",
+         "Number of reactors": 3.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of reactors": 2.0
+      },
+      {
+         "Country": "Romania",
+         "Number of reactors": 2.0
+      },
+      {
+         "Country": "South Africa",
+         "Number of reactors": 2.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of reactors": 2.0
+      },
+      {
+         "Country": "Bulgaria",
+         "Number of reactors": 2.0
+      },
+      {
+         "Country": "Iran",
+         "Number of reactors": 1.0
+      },
+      {
+         "Country": "Netherlands",
+         "Number of reactors": 1.0
+      },
+      {
+         "Country": "Armenia",
+         "Number of reactors": 1.0
+      },
+      {
+         "Country": "Slovenia",
+         "Number of reactors": 1.0
+      }
+   ],
+   "gold": "The statistic shows the number of operable nuclear reactors as of June 2019 , by country . In the United Kingdom , 15 nuclear power reactors were in operation as of this time . Operable nuclear reactors are those connected to the grid .\n"
+}

@@ -1,0 +1,86 @@
+{
+   "title": "Regular season average attendance of the Milwaukee Brewers 2009 to 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2019 to 2016.",
+      " Correspondingly, the next significant trend is slightly negative which exists from 2016 to 2014.",
+      " On the other hand, the next significant trend is slightly negative which exists from 2013 to 2011.",
+      " Conversely, the next significant trend is moderately positive which exists from 2011 to 2009.",
+      " Similarly, the next significant trend is extremely positive which exists from 2014 to 2013."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "5",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": 36090.0
+      },
+      {
+         "Year": "2018",
+         "Average attendance": 35195.0
+      },
+      {
+         "Year": "2017",
+         "Average attendance": 31589.0
+      },
+      {
+         "Year": "2016",
+         "Average attendance": 28575.0
+      },
+      {
+         "Year": "2015",
+         "Average attendance": 31389.0
+      },
+      {
+         "Year": "2014",
+         "Average attendance": 34535.0
+      },
+      {
+         "Year": "2013",
+         "Average attendance": 31248.0
+      },
+      {
+         "Year": "2012",
+         "Average attendance": 34955.0
+      },
+      {
+         "Year": "2011",
+         "Average attendance": 37918.0
+      },
+      {
+         "Year": "2010",
+         "Average attendance": 34278.0
+      },
+      {
+         "Year": "2009",
+         "Average attendance": 37499.0
+      }
+   ],
+   "gold": "This graph depicts the average regular season home attendance of the Milwaukee Brewers from 2009 to 2019 . In 2019 , the average regular season home attendance of the Milwaukee Brewers was 36,090 . \u2022 Milwaukee Brewers total home attendance \u2022 Major League Baseball average per game attendance \u2022 Major League Baseball total attendance\n"
+}

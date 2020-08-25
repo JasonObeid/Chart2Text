@@ -1,0 +1,81 @@
+{
+   "title": "Monthly consumer Price Index ( CPI ) in India July 2019",
+   "labels": [
+      "Month",
+      "All India",
+      "Urban",
+      "Rural"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 6 categories for the x axis of Month representing All India, Urban, and Rural.",
+      " The highest category is found at June with a mean value of 142.87.",
+      " The second highest category is found at May with a mean value of 141.97.",
+      " This represents a difference of 0.6%."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "5"
+         ],
+         "13": [
+            "3",
+            "5"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "3",
+            "4"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "All India": "139.7",
+         "Urban": "138.0",
+         "Rural": "141.1"
+      },
+      {
+         "Month": "February",
+         "All India": "139.9",
+         "Urban": "138.6",
+         "Rural": "141.0"
+      },
+      {
+         "Month": "March",
+         "All India": "140.4",
+         "Urban": "139.5",
+         "Rural": "141.2"
+      },
+      {
+         "Month": "April",
+         "All India": "141.1",
+         "Urban": "140.5",
+         "Rural": "141.7"
+      },
+      {
+         "Month": "May",
+         "All India": "142.0",
+         "Urban": "141.5",
+         "Rural": "142.4"
+      },
+      {
+         "Month": "June",
+         "All India": "142.9",
+         "Urban": "142.1",
+         "Rural": "143.6"
+      }
+   ],
+   "gold": "The Consumer Price Index across India was 142.9 as of June 2019 . This means that the price index has increased by about 42.9 percent since the year 2012 . The index for urban and rural regions differed by about 1.5 percent in the stated time period .\n"
+}

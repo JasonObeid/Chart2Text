@@ -1,0 +1,25 @@
+{
+   "title": "Public opinion on adoption rights for same-sex couples in the U.S. 2014\n",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic shows the results of a survey conducted by the Hearth , Patio & Barbecue Association ( HPBA ) in and 2018 . During the survey , u.s. consumers were asked about which types of grills they owned . Approximately 64 percent of the respondents indicated ownership of a gas grill .\n",
+   "trends": {},
+   "data": [
+      {
+         "Response": "Yes should",
+         "Share of respondents": 63.0
+      },
+      {
+         "Response": "No should not",
+         "Share of respondents": 35.0
+      },
+      {
+         "Response": "No opinion",
+         "Share of respondents": 2.0
+      }
+   ],
+   "gold": "This statistic shows the results of a survey , conducted by Gallup in the United States in May 2014 , on adoption rights for gay and lesbian couples . During this survey , 63 percent of the respondents were in favor of adoption rights for gay and lesbian couples in the United States .\n"
+}

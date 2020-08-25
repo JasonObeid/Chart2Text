@@ -1,0 +1,118 @@
+{
+   "title": "U.S. sweet potato production 2000 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand cwt",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Production in thousand cwt, with a total of 19 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely positive which exists from 2011 to 2005.",
+      " Likewise, the next significant trend is moderately positive which exists from 2018 to 2013.",
+      " Likewise, the next significant trend is moderately positive which exists from 2005 to 2002.",
+      " Likewise, the next significant trend is slightly negative which exists from 2013 to 2011.",
+      " But, the next significant trend is slightly negative which exists from 2002 to 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "7",
+         "12": "13"
+      },
+      {
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "13",
+         "14": "16"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "16",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Production in thousand cwt": 27378.0
+      },
+      {
+         "Year": "2017",
+         "Production in thousand cwt": 35646.0
+      },
+      {
+         "Year": "2016",
+         "Production in thousand cwt": 31546.0
+      },
+      {
+         "Year": "2015",
+         "Production in thousand cwt": 31016.0
+      },
+      {
+         "Year": "2014",
+         "Production in thousand cwt": 29584.0
+      },
+      {
+         "Year": "2013",
+         "Production in thousand cwt": 24785.0
+      },
+      {
+         "Year": "2012",
+         "Production in thousand cwt": 26482.0
+      },
+      {
+         "Year": "2011",
+         "Production in thousand cwt": 26964.0
+      },
+      {
+         "Year": "2010",
+         "Production in thousand cwt": 23845.0
+      },
+      {
+         "Year": "2009",
+         "Production in thousand cwt": 19469.0
+      },
+      {
+         "Year": "2008",
+         "Production in thousand cwt": 18443.0
+      },
+      {
+         "Year": "2007",
+         "Production in thousand cwt": 18070.0
+      },
+      {
+         "Year": "2006",
+         "Production in thousand cwt": 16401.0
+      },
+      {
+         "Year": "2005",
+         "Production in thousand cwt": 15730.0
+      },
+      {
+         "Year": "2004",
+         "Production in thousand cwt": 16112.0
+      },
+      {
+         "Year": "2003",
+         "Production in thousand cwt": 15891.0
+      },
+      {
+         "Year": "2002",
+         "Production in thousand cwt": 12799.0
+      },
+      {
+         "Year": "2001",
+         "Production in thousand cwt": 14515.0
+      },
+      {
+         "Year": "2000",
+         "Production in thousand cwt": 13780.0
+      }
+   ],
+   "gold": "This statistic shows the production of sweet potatoes in the United States from 2000 to 2018 . According to the report , approximately 31.55 million cwt of potatoes were produced in the country in 2016 .\n"
+}

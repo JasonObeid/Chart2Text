@@ -1,0 +1,141 @@
+{
+   "title": "U.S. : reported motor vehicle theft rate 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Rate per 100,000 population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the reported motor vehicle Rate in the country from 1990 to 2018 . ",
+      "In 2018 , the nationwide Rate was 228.9 cases per 100,000 of the population ."
+   ],
+   "trends": [
+      {
+         "12": "28",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Rate per 100,000 population": "228.9"
+      },
+      {
+         "Year": "2017",
+         "Rate per 100,000 population": "237.7"
+      },
+      {
+         "Year": "2016",
+         "Rate per 100,000 population": "237.3"
+      },
+      {
+         "Year": "2015",
+         "Rate per 100,000 population": "222.2"
+      },
+      {
+         "Year": "2014",
+         "Rate per 100,000 population": "215.4"
+      },
+      {
+         "Year": "2013",
+         "Rate per 100,000 population": "221.3"
+      },
+      {
+         "Year": "2012",
+         "Rate per 100,000 population": "230.4"
+      },
+      {
+         "Year": "2011",
+         "Rate per 100,000 population": "230.0"
+      },
+      {
+         "Year": "2010",
+         "Rate per 100,000 population": "239.1"
+      },
+      {
+         "Year": "2009",
+         "Rate per 100,000 population": "259.2"
+      },
+      {
+         "Year": "2008",
+         "Rate per 100,000 population": "315.4"
+      },
+      {
+         "Year": "2007",
+         "Rate per 100,000 population": "364.9"
+      },
+      {
+         "Year": "2006",
+         "Rate per 100,000 population": "400.2"
+      },
+      {
+         "Year": "2005",
+         "Rate per 100,000 population": "416.8"
+      },
+      {
+         "Year": "2004",
+         "Rate per 100,000 population": "421.5"
+      },
+      {
+         "Year": "2003",
+         "Rate per 100,000 population": "433.7"
+      },
+      {
+         "Year": "2002",
+         "Rate per 100,000 population": "432.9"
+      },
+      {
+         "Year": "2001",
+         "Rate per 100,000 population": "430.6"
+      },
+      {
+         "Year": "2000",
+         "Rate per 100,000 population": "412.2"
+      },
+      {
+         "Year": "1999",
+         "Rate per 100,000 population": "422.5"
+      },
+      {
+         "Year": "1998",
+         "Rate per 100,000 population": "459.8"
+      },
+      {
+         "Year": "1997",
+         "Rate per 100,000 population": "505.8"
+      },
+      {
+         "Year": "1996",
+         "Rate per 100,000 population": "525.5"
+      },
+      {
+         "Year": "1995",
+         "Rate per 100,000 population": "560.4"
+      },
+      {
+         "Year": "1994",
+         "Rate per 100,000 population": "591.3"
+      },
+      {
+         "Year": "1993",
+         "Rate per 100,000 population": "606.1"
+      },
+      {
+         "Year": "1992",
+         "Rate per 100,000 population": "631.5"
+      },
+      {
+         "Year": "1991",
+         "Rate per 100,000 population": "658.9"
+      },
+      {
+         "Year": "1990",
+         "Rate per 100,000 population": "657.8"
+      }
+   ],
+   "gold": "This graph shows the reported motor vehicle theft rate in the United States from 1990 to 2018 . In 2018 , the nationwide rate was 228.9 cases per 100,000 population .\n"
+}

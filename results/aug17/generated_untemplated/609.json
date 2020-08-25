@@ -1,0 +1,37 @@
+{
+   "title": "Consumers who have purchased a meal from a food truck in the U.S. 2014 , by age\n",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "security screening at stansted airport had an average waiting time of 10 minutes . 36 percent of respondents from a 2018 survey reported queuing approximately 1 - 5 minutes . Only 1 percent of respondents stated that they had to wait more than 30 minutes before being able to continue to their gate .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "All adults",
+         "Share of respondents": 47.0
+      },
+      {
+         "Year": "18 to 34 years",
+         "Share of respondents": 56.0
+      },
+      {
+         "Year": "35 to 44 years",
+         "Share of respondents": 54.0
+      },
+      {
+         "Year": "45 to 54 years",
+         "Share of respondents": 48.0
+      },
+      {
+         "Year": "55 to 64 years",
+         "Share of respondents": 48.0
+      },
+      {
+         "Year": "65 years and over",
+         "Share of respondents": 30.0
+      }
+   ],
+   "gold": "This statistic shows the share of consumers who have purchased a meal from a food truck in the United States as of November 2014 , by age group . During the survey , 48 percent of respondents aged between 45 and 54 years said they had bought food from a food truck . In 2015 , the value of the food truck industry in the U.S. reached 856.7 million U.S. dollars .\n"
+}

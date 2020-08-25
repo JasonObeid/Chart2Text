@@ -1,0 +1,34 @@
+{
+   "title": "Global distribution systems : company revenues 2017",
+   "xAxis": "Company",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2017 , Amadeus made up 5.81 billion of Global 's Revenue . ",
+      "Global , owned 2017 the Kering Group , had revenues of approximately 1.17 billion euros in 2017 ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "6": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Amadeus",
+         "Revenue in billion U.S. dollars": "5.81"
+      },
+      {
+         "Company": "Sabre",
+         "Revenue in billion U.S. dollars": "3.6"
+      },
+      {
+         "Company": "Travelport",
+         "Revenue in billion U.S. dollars": "2.45"
+      }
+   ],
+   "gold": "This statistic shows the revenue of selected global distribution systems in 2017 . The global distribution system Amadeus generated a revenue of approximately 5.81 billion U.S. dollars ( 4.85 billion euros ) in 2017 . The revenue of Amadeus has been consistent over the last four years , remaining above 4.1 billion U.S. dollars .\n"
+}

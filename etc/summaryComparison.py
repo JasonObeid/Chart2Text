@@ -454,7 +454,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                 dataJson.append(dico)
             websiteInput = {"title": title.strip(), "labels": [' '.join(label) for label in labelArr], "columnType": "multi", \
                             "graphType": chartType, "summary": reversedSentences, "trends": cleanTemplates,
-                            "data": dataJson}
+                            "data": dataJson, "gold": gold}
             with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                 json.dump(websiteInput, websiteFile, indent=3)
             # data = {' '.join(xLabel):cleanXArr, ' '.join(yLabel):cleanYArr}
@@ -663,7 +663,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                 cleanTemplates.append(newSentence)
             dataJson = [{' '.join(xLabel):xVal, ' '.join(yLabel):yVal} for xVal, yVal in zip(cleanXArr, cleanYArr)]
             websiteInput = {"title":title.strip(), "xAxis":' '.join(xLabel), "yAxis":' '.join(yLabel), "columnType":"two", \
-                            "graphType":chartType, "summaryType":"nlp", "summary":reversedSentences, "trends":cleanTemplates, "data":dataJson}
+                            "graphType":chartType, "summaryType":"nlp", "summary":reversedSentences, "trends":cleanTemplates, "data":dataJson, "gold": gold}
             with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                 json.dump(websiteInput, websiteFile, indent=3)
             #data = {' '.join(xLabel):cleanXArr, ' '.join(yLabel):cleanYArr}

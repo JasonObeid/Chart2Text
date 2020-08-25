@@ -1,0 +1,57 @@
+{
+   "title": "Number of H-1B visas issued in U.S. , by countries with the most recipients 2011\n",
+   "xAxis": "Country",
+   "yAxis": "Number of visas issued",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": "This statistic presents the number of muslims in spain in 2018 , broken down by nationality . That year , there were a total of approximately two million muslims in spain . Almost 848 thousand had Spanish nationality , followed by muslims with a Moroccan nationality with figures that almost reached 770 thousand individuals .\n",
+   "trends": {},
+   "data": [
+      {
+         "Country": "India",
+         "Number of visas issued": 72438.0
+      },
+      {
+         "Country": "China-mainland",
+         "Number of visas issued": 10849.0
+      },
+      {
+         "Country": "U.K.",
+         "Number of visas issued": 3660.0
+      },
+      {
+         "Country": "South Korea",
+         "Number of visas issued": 3501.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of visas issued": 2647.0
+      },
+      {
+         "Country": "Philippines",
+         "Number of visas issued": 2369.0
+      },
+      {
+         "Country": "France",
+         "Number of visas issued": 2069.0
+      },
+      {
+         "Country": "Japan",
+         "Number of visas issued": 2054.0
+      },
+      {
+         "Country": "China-Taiwan",
+         "Number of visas issued": 1705.0
+      },
+      {
+         "Country": "Germany",
+         "Number of visas issued": 1627.0
+      },
+      {
+         "Country": "Other",
+         "Number of visas issued": 26215.0
+      }
+   ],
+   "gold": "This statistic shows the number of H-1B visas issued in the United States as of 2011 , in order of the countries with the most recipients . 72,438 H-1B visas had been issued to Indian workers for the United States as of 2011 .\n"
+}

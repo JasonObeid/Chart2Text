@@ -1,0 +1,111 @@
+{
+   "title": "Median age of the population in New Zealand 2015\n",
+   "xAxis": "Year",
+   "yAxis": "Median age in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Median age in years, with a total of 21 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely positive which exists from 2050 to 1970.",
+      " Also, the next significant trend is slightly negative which exists from 1970 to 1950."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "16"
+      },
+      {
+         "3": "16",
+         "14": "20"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2050",
+         "Median age in years": 43.7
+      },
+      {
+         "Year": "2045",
+         "Median age in years": 43.1
+      },
+      {
+         "Year": "2040",
+         "Median age in years": 42.3
+      },
+      {
+         "Year": "2035",
+         "Median age in years": 41.3
+      },
+      {
+         "Year": "2030",
+         "Median age in years": 40.0
+      },
+      {
+         "Year": "2025",
+         "Median age in years": 38.9
+      },
+      {
+         "Year": "2020",
+         "Median age in years": 38.0
+      },
+      {
+         "Year": "2015",
+         "Median age in years": 37.3
+      },
+      {
+         "Year": "2010",
+         "Median age in years": 36.6
+      },
+      {
+         "Year": "2005",
+         "Median age in years": 35.5
+      },
+      {
+         "Year": "2000",
+         "Median age in years": 34.3
+      },
+      {
+         "Year": "1995",
+         "Median age in years": 32.6
+      },
+      {
+         "Year": "1990",
+         "Median age in years": 31.1
+      },
+      {
+         "Year": "1985",
+         "Median age in years": 29.5
+      },
+      {
+         "Year": "1980",
+         "Median age in years": 27.9
+      },
+      {
+         "Year": "1975",
+         "Median age in years": 26.3
+      },
+      {
+         "Year": "1970",
+         "Median age in years": 25.6
+      },
+      {
+         "Year": "1965",
+         "Median age in years": 25.8
+      },
+      {
+         "Year": "1960",
+         "Median age in years": 27.4
+      },
+      {
+         "Year": "1955",
+         "Median age in years": 28.7
+      },
+      {
+         "Year": "1950",
+         "Median age in years": 29.4
+      }
+   ],
+   "gold": "This statistic shows the median age of the population in New Zealand from 1950 to 2050 . The median age is the age that divides a population into two numerically equal groups ; that is , half the people are younger than this age and half are older . It is a single index that summarizes the age distribution of a population .\n"
+}

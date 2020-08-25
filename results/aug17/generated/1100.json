@@ -1,0 +1,311 @@
+{
+   "title": "Monthly number of rain days in the United Kingdom ( UK ) 2014 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of days",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In the period between 2014 and 2019 , the wettest months tended to be at the start and ends of the year . ",
+      "The greatest measurement of rain recorded was in 2015 when there was approximately 23.4 days of . ",
+      "The lowest level was in 2014 , which experienced surprisingly minimal rain ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "71"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec '19",
+         "Number of days": "17.6"
+      },
+      {
+         "Month": "Nov '91",
+         "Number of days": "17.5"
+      },
+      {
+         "Month": "Oct '19",
+         "Number of days": "17.4"
+      },
+      {
+         "Month": "Sep '19",
+         "Number of days": "15.4"
+      },
+      {
+         "Month": "Aug '19",
+         "Number of days": "15.7"
+      },
+      {
+         "Month": "Jul '19",
+         "Number of days": "11.0"
+      },
+      {
+         "Month": "Jun '19",
+         "Number of days": "14.2"
+      },
+      {
+         "Month": "May '19",
+         "Number of days": "10.8"
+      },
+      {
+         "Month": "Apr '19",
+         "Number of days": "8.0"
+      },
+      {
+         "Month": "Mar '19",
+         "Number of days": "16.2"
+      },
+      {
+         "Month": "Feb '19",
+         "Number of days": "10.5"
+      },
+      {
+         "Month": "Jan '19",
+         "Number of days": "11.0"
+      },
+      {
+         "Month": "Dec '18",
+         "Number of days": "15.9"
+      },
+      {
+         "Month": "Nov '18",
+         "Number of days": "14.7"
+      },
+      {
+         "Month": "Oct '18",
+         "Number of days": "11.9"
+      },
+      {
+         "Month": "Sep '18",
+         "Number of days": "12.7"
+      },
+      {
+         "Month": "Aug '18",
+         "Number of days": "13.2"
+      },
+      {
+         "Month": "Jul '18",
+         "Number of days": "7.5"
+      },
+      {
+         "Month": "Jun '18",
+         "Number of days": "5.0"
+      },
+      {
+         "Month": "May '18",
+         "Number of days": "7.9"
+      },
+      {
+         "Month": "Apr '18",
+         "Number of days": "13.5"
+      },
+      {
+         "Month": "Mar '18",
+         "Number of days": "15.5"
+      },
+      {
+         "Month": "Feb '18",
+         "Number of days": "11.6"
+      },
+      {
+         "Month": "Jan '18",
+         "Number of days": "18.0"
+      },
+      {
+         "Month": "Dec '17",
+         "Number of days": "16.9"
+      },
+      {
+         "Month": "Nov '17",
+         "Number of days": "15.5"
+      },
+      {
+         "Month": "Oct '17",
+         "Number of days": "13.9"
+      },
+      {
+         "Month": "Sep '17",
+         "Number of days": "17.7"
+      },
+      {
+         "Month": "Aug '17",
+         "Number of days": "14.5"
+      },
+      {
+         "Month": "Jul '17",
+         "Number of days": "14.7"
+      },
+      {
+         "Month": "Jun '17",
+         "Number of days": "12.9"
+      },
+      {
+         "Month": "May '17",
+         "Number of days": "9.7"
+      },
+      {
+         "Month": "Apr '17",
+         "Number of days": "7.4"
+      },
+      {
+         "Month": "Mar '17",
+         "Number of days": "14.6"
+      },
+      {
+         "Month": "Feb '17",
+         "Number of days": "13.9"
+      },
+      {
+         "Month": "Jan '17",
+         "Number of days": "12.5"
+      },
+      {
+         "Month": "Dec '16",
+         "Number of days": "11.3"
+      },
+      {
+         "Month": "Nov '16",
+         "Number of days": "13.0"
+      },
+      {
+         "Month": "Oct '16",
+         "Number of days": "8.5"
+      },
+      {
+         "Month": "Sep '16",
+         "Number of days": "13.6"
+      },
+      {
+         "Month": "Aug '16",
+         "Number of days": "11.5"
+      },
+      {
+         "Month": "Jul '16",
+         "Number of days": "13.0"
+      },
+      {
+         "Month": "Jun '16",
+         "Number of days": "14.3"
+      },
+      {
+         "Month": "May '16",
+         "Number of days": "9.6"
+      },
+      {
+         "Month": "Apr '16",
+         "Number of days": "15.2"
+      },
+      {
+         "Month": "Mar '16",
+         "Number of days": "12.0"
+      },
+      {
+         "Month": "Feb '16",
+         "Number of days": "14.0"
+      },
+      {
+         "Month": "Jan '16",
+         "Number of days": "20.6"
+      },
+      {
+         "Month": "Dec '15",
+         "Number of days": "22.3"
+      },
+      {
+         "Month": "Nov '15",
+         "Number of days": "20.8"
+      },
+      {
+         "Month": "Oct '15",
+         "Number of days": "10.3"
+      },
+      {
+         "Month": "Sep '15",
+         "Number of days": "8.5"
+      },
+      {
+         "Month": "Aug '15",
+         "Number of days": "14.2"
+      },
+      {
+         "Month": "Jul '15",
+         "Number of days": "15.9"
+      },
+      {
+         "Month": "Jun '15",
+         "Number of days": "9.2"
+      },
+      {
+         "Month": "May '15",
+         "Number of days": "15.4"
+      },
+      {
+         "Month": "Apr '15",
+         "Number of days": "8.9"
+      },
+      {
+         "Month": "Mar '15",
+         "Number of days": "13.0"
+      },
+      {
+         "Month": "Feb '15",
+         "Number of days": "11.3"
+      },
+      {
+         "Month": "Jan '15",
+         "Number of days": "18.8"
+      },
+      {
+         "Month": "Dec '14",
+         "Number of days": "15.7"
+      },
+      {
+         "Month": "Nov '14",
+         "Number of days": "16.2"
+      },
+      {
+         "Month": "Oct '14",
+         "Number of days": "17.9"
+      },
+      {
+         "Month": "Sep '14",
+         "Number of days": "4.9"
+      },
+      {
+         "Month": "Aug '14",
+         "Number of days": "16.6"
+      },
+      {
+         "Month": "Jul '14",
+         "Number of days": "10.1"
+      },
+      {
+         "Month": "Jun '14",
+         "Number of days": "9.4"
+      },
+      {
+         "Month": "May '14",
+         "Number of days": "15.2"
+      },
+      {
+         "Month": "Apr '14",
+         "Number of days": "11.2"
+      },
+      {
+         "Month": "Mar '14",
+         "Number of days": "12.5"
+      },
+      {
+         "Month": "Feb '14",
+         "Number of days": "20.1"
+      },
+      {
+         "Month": "Jan '14",
+         "Number of days": "23.4"
+      }
+   ],
+   "gold": "Between January 2014 and December 2019 , the lowest number of monthly raindays occurred in September 2014 , when just 5 days recorded 1mm or more of rain . The highest number of raindays was recorded in January of the same year , at 23.4 . Fourth quarter the wettest The wettest periods of the year tend to be the start and the end .\n"
+}

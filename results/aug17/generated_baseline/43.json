@@ -1,0 +1,155 @@
+{
+   "title": "New York - Unemployment rate 1992 to 2018\n",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 27 data points. The chart has 6 significant trends.",
+      " The longest trend is slightly negative which exists from '18 to '12.",
+      " But, the next significant trend is extremely positive which exists from '12 to '06.",
+      " Also, the next significant trend is slightly negative which exists from '97 to '92.",
+      " Differently, the next significant trend is slightly negative which exists from '06 to '03.",
+      " Differently, the next significant trend is extremely positive which exists from '03 to '00.",
+      " Similarly, the next significant trend is moderately negative which exists from '00 to '97."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "6"
+      },
+      {
+         "3": "6",
+         "14": "12"
+      },
+      {
+         "3": "21",
+         "14": "26"
+      },
+      {
+         "3": "12",
+         "14": "15"
+      },
+      {
+         "3": "15",
+         "14": "18"
+      },
+      {
+         "3": "18",
+         "14": "21"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'18",
+         "Unemployment rate": 4.1
+      },
+      {
+         "Year": "'17",
+         "Unemployment rate": 4.7
+      },
+      {
+         "Year": "'16",
+         "Unemployment rate": 4.9
+      },
+      {
+         "Year": "'15",
+         "Unemployment rate": 5.3
+      },
+      {
+         "Year": "'14",
+         "Unemployment rate": 6.3
+      },
+      {
+         "Year": "'13",
+         "Unemployment rate": 7.7
+      },
+      {
+         "Year": "'12",
+         "Unemployment rate": 8.5
+      },
+      {
+         "Year": "'11",
+         "Unemployment rate": 8.3
+      },
+      {
+         "Year": "'10",
+         "Unemployment rate": 8.6
+      },
+      {
+         "Year": "'09",
+         "Unemployment rate": 8.3
+      },
+      {
+         "Year": "'08",
+         "Unemployment rate": 5.4
+      },
+      {
+         "Year": "'07",
+         "Unemployment rate": 4.6
+      },
+      {
+         "Year": "'06",
+         "Unemployment rate": 4.5
+      },
+      {
+         "Year": "'05",
+         "Unemployment rate": 5.0
+      },
+      {
+         "Year": "'04",
+         "Unemployment rate": 5.8
+      },
+      {
+         "Year": "'03",
+         "Unemployment rate": 6.4
+      },
+      {
+         "Year": "'02",
+         "Unemployment rate": 6.1
+      },
+      {
+         "Year": "'01",
+         "Unemployment rate": 4.8
+      },
+      {
+         "Year": "'00",
+         "Unemployment rate": 4.5
+      },
+      {
+         "Year": "'99",
+         "Unemployment rate": 5.2
+      },
+      {
+         "Year": "'98",
+         "Unemployment rate": 5.6
+      },
+      {
+         "Year": "'97",
+         "Unemployment rate": 6.4
+      },
+      {
+         "Year": "'96",
+         "Unemployment rate": 6.2
+      },
+      {
+         "Year": "'95",
+         "Unemployment rate": 6.3
+      },
+      {
+         "Year": "'94",
+         "Unemployment rate": 6.9
+      },
+      {
+         "Year": "'93",
+         "Unemployment rate": 7.9
+      },
+      {
+         "Year": "'92",
+         "Unemployment rate": 8.6
+      }
+   ],
+   "gold": "This statistic displays the unemployment rate in the state of New York from 1992 to 2018 . In 2018 , unemployment in New York was 4.1 percent .\n"
+}

@@ -1,0 +1,121 @@
+{
+   "title": "Gross domestic product ( GDP ) in Afghanistan 2024\n",
+   "xAxis": "Year",
+   "yAxis": "GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP in billion U.S. dollars, with a total of 21 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely positive which exists from 2013 to 2004.",
+      " Additionally, the next significant trend is moderately positive which exists from 2024 to 2019.",
+      " Similarly, the next significant trend is slightly positive which exists from 2019 to 2016.",
+      " Also, the next significant trend is slightly positive which exists from 2016 to 2013."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "11",
+         "12": "20"
+      },
+      {
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP in billion U.S. dollars": 25.19
+      },
+      {
+         "Year": "2023",
+         "GDP in billion U.S. dollars": 23.24
+      },
+      {
+         "Year": "2022",
+         "GDP in billion U.S. dollars": 21.54
+      },
+      {
+         "Year": "2021",
+         "GDP in billion U.S. dollars": 20.0
+      },
+      {
+         "Year": "2020",
+         "GDP in billion U.S. dollars": 18.86
+      },
+      {
+         "Year": "2019",
+         "GDP in billion U.S. dollars": 18.73
+      },
+      {
+         "Year": "2018",
+         "GDP in billion U.S. dollars": 19.63
+      },
+      {
+         "Year": "2017",
+         "GDP in billion U.S. dollars": 20.24
+      },
+      {
+         "Year": "2016",
+         "GDP in billion U.S. dollars": 19.43
+      },
+      {
+         "Year": "2015",
+         "GDP in billion U.S. dollars": 20.06
+      },
+      {
+         "Year": "2014",
+         "GDP in billion U.S. dollars": 20.62
+      },
+      {
+         "Year": "2013",
+         "GDP in billion U.S. dollars": 20.17
+      },
+      {
+         "Year": "2012",
+         "GDP in billion U.S. dollars": 20.29
+      },
+      {
+         "Year": "2011",
+         "GDP in billion U.S. dollars": 17.89
+      },
+      {
+         "Year": "2010",
+         "GDP in billion U.S. dollars": 15.33
+      },
+      {
+         "Year": "2009",
+         "GDP in billion U.S. dollars": 12.07
+      },
+      {
+         "Year": "2008",
+         "GDP in billion U.S. dollars": 10.3
+      },
+      {
+         "Year": "2007",
+         "GDP in billion U.S. dollars": 8.56
+      },
+      {
+         "Year": "2006",
+         "GDP in billion U.S. dollars": 6.93
+      },
+      {
+         "Year": "2005",
+         "GDP in billion U.S. dollars": 6.17
+      },
+      {
+         "Year": "2004",
+         "GDP in billion U.S. dollars": 5.15
+      }
+   ],
+   "gold": "This timeline shows the gross domestic product ( GDP ) in Afghanistan from 2004 to 2018 , with projections up until 2024 . In 2018 , Afghanistan 's gross domestic product amounted to 19.63 billion U.S. dollars . For comparison , global GDP was estimated at almost more than 75 trillion U.S. dollars that same year .\n"
+}

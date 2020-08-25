@@ -1,0 +1,97 @@
+{
+   "title": "Youth unemployment rate in Egypt in 2019\n",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": "The statistic shows the youth unemployment rate in south africa from 1999 and 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated youth unemployment rate in south africa was at 53.18 percent .\n",
+   "trends": {},
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": 32.43
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": 32.6
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": 32.95
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": 34.28
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": 34.68
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": 32.65
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": 34.37
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": 34.54
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": 29.44
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": 24.43
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": 25.44
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": 25.77
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": 25.04
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": 30.23
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": 31.18
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": 28.32
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": 29.15
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": 26.23
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": 27.49
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": 24.38
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": 20.13
+      }
+   ],
+   "gold": "The statistic shows the youth unemployment rate in Egypt from 1999 and 2019 . According to the source , the data are ILO estimates . In 2019 , the estimated youth unemployment rate in Egypt was at 32.43 percent .\n"
+}
