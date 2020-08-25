@@ -1,4 +1,6 @@
 import json
+import re
+
 import pandas as pd
 import os
 from sklearn import utils
@@ -46,26 +48,25 @@ for nlpFile in nlpPath:
                 multiLineList.append(nlpFile)
 
 twoBarListShuffled = utils.shuffle(
-    twoBarList, random_state=0)
+    twoBarList, random_state=1)
 
 multiBarListShuffled = utils.shuffle(
-    multiBarList, random_state=0)
+    multiBarList, random_state=1)
 
 twoLineListShuffled = utils.shuffle(
-    twoLineList, random_state=0)
+    twoLineList, random_state=1)
 
 multiLineListShuffled = utils.shuffle(
-    multiLineList, random_state=0)
+    multiLineList, random_state=1)
 
 csvPath = "../results/aug17/samples.csv"
-with open(csvPath, mode='a', newline='') as csvFile:
+with open(csvPath, mode='w', newline='') as csvFile:
     csvWriter = csv.writer(csvFile, quoting=csv.QUOTE_ALL)
     csvWriter.writerow(["imgPath", "generated", "generated_baseline", "generated_untemplated", "gold", "titles"])
-    # multiBar, twoLine, multiLine  , multiBarListShuffled[:25], twoLineListShuffled[:25], multiLineListShuffled[:25])
-    for twoBar in twoBarListShuffled[:25]:
+    for twoBar in twoBarListShuffled[:10]:
         with open('../results/aug17/generated/' + twoBar) as file1:
             document1 = json.loads(file1.read())
-            generated = ''.join(document1['summary']).strip().replace('_','')
+            generated = ''.join(document1['summary']).strip().replace('_',' ')
             gold = document1['gold'].strip()
             title = document1['title'].strip()
             webPath = 'https://chart2text.s3.amazonaws.com/' + twoBar[:-5] + '.png'
@@ -79,7 +80,7 @@ with open(csvPath, mode='a', newline='') as csvFile:
                 for n in df.columns[1:]:
                     for m in df.index:
                         value = df.at[m, n]
-                        df.at[m, n] = float(''.join(ch for ch in str(value) if ch.isdigit() or ch == '.'))
+                        df.at[m, n] = re.sub("[^\d\.]", "", value)
             df.set_index(df.columns[0], drop=True, inplace=True)
             ax = df.plot.bar()
             ax.set_ylabel(document1['yAxis'])
@@ -87,16 +88,16 @@ with open(csvPath, mode='a', newline='') as csvFile:
             plt.close()
         with open('../results/aug17/generated_baseline/' + twoBar) as file2:
             document2 = json.loads(file2.read())
-            generated_baseline = ''.join(document2['summary']).strip().replace('_','')
+            generated_baseline = ''.join(document2['summary']).strip().replace('_',' ')
         with open('../results/aug17/generated_untemplated/' + twoBar) as file3:
             document3 = json.loads(file3.read())
-            generated_untemplated = ''.join(document3['summary']).strip().replace('_','')
+            generated_untemplated = ''.join(document3['summary']).strip().replace('_',' ')
         csvWriter.writerow([webPath, generated, generated_baseline, generated_untemplated, gold, title])
 
-    for twoLine in twoLineListShuffled[:25]:
+    for twoLine in twoLineListShuffled[:10]:
         with open('../results/aug17/generated/' + twoLine) as file1:
             document1 = json.loads(file1.read())
-            generated = ''.join(document1['summary']).strip().replace('_','')
+            generated = ''.join(document1['summary']).strip().replace('_',' ')
             gold = document1['gold'].strip()
             title = document1['title'].strip()
 
@@ -111,7 +112,7 @@ with open(csvPath, mode='a', newline='') as csvFile:
                 for n in df.columns[1:]:
                     for m in df.index:
                         value = df.at[m, n]
-                        df.at[m, n] = float(''.join(ch for ch in str(value) if ch.isdigit() or ch == '.'))
+                        df.at[m, n] = re.sub("[^\d\.]", "", value)
             df.set_index(df.columns[0], drop=True, inplace=True)
             ax = df.plot.line()
             ax.set_ylabel(document1['yAxis'])
@@ -119,13 +120,13 @@ with open(csvPath, mode='a', newline='') as csvFile:
             plt.close()
         with open('../results/aug17/generated_baseline/' + twoLine) as file2:
             document2 = json.loads(file2.read())
-            generated_baseline = ''.join(document2['summary']).strip().replace('_','')
+            generated_baseline = ''.join(document2['summary']).strip().replace('_',' ')
         with open('../results/aug17/generated_untemplated/' + twoLine) as file3:
             document3 = json.loads(file3.read())
-            generated_untemplated = ''.join(document3['summary']).strip().replace('_','')
+            generated_untemplated = ''.join(document3['summary']).strip().replace('_',' ')
         csvWriter.writerow([webPath, generated, generated_baseline, generated_untemplated, gold, title])
 
-    for multiBar in multiBarListShuffled[:25]:
+    for multiBar in multiBarListShuffled[:10]:
         with open('../results/aug17/generated/' + multiBar) as file1:
             document1 = json.loads(file1.read())
             generated = ''.join(document1['summary']).strip()
@@ -143,29 +144,31 @@ with open(csvPath, mode='a', newline='') as csvFile:
                 for n in df.columns[1:]:
                     for m in df.index:
                         value = df.at[m, n]
-                        df.at[m, n] = float(''.join(ch for ch in str(value) if ch.isdigit() or ch == '.'))
+                        df.at[m, n] = re.sub("[^\d\.]", "", value)
             df.set_index(df.columns[0], drop=True, inplace=True)
             ax = df.plot.bar()
+            ax.set_xlabel(document1['labels'][0])
             plt.savefig(imgPath, bbox_inches="tight")
             plt.close()
         with open('../results/aug17/generated_baseline/' + multiBar) as file2:
             document2 = json.loads(file2.read())
-            generated_baseline = ''.join(document2['summary']).strip().replace('_','')
+            generated_baseline = ''.join(document2['summary']).strip().replace('_',' ')
         with open('../results/aug17/generated_untemplated/' + multiBar) as file3:
             document3 = json.loads(file3.read())
-            generated_untemplated = ''.join(document3['summary']).strip().replace('_','')
+            generated_untemplated = ''.join(document3['summary']).strip().replace('_',' ')
         csvWriter.writerow([webPath, generated, generated_baseline, generated_untemplated, gold, title])
 
-    for multiLine in multiLineListShuffled[:25]:
+    for multiLine in multiLineListShuffled[:10]:
         with open('../results/aug17/generated/' + multiLine) as file1:
             document1 = json.loads(file1.read())
-            generated = ''.join(document1['summary']).strip().replace('_','')
+            generated = ''.join(document1['summary']).strip().replace('_',' ')
             gold = document1['gold'].strip()
             title = document1['title'].strip()
 
             webPath = 'https://chart2text.s3.amazonaws.com/' + multiLine[:-5] + '.png'
             imgPath = '../results/aug17/samples/' + multiLine[:-5] + '.png'
             df = pd.DataFrame(document1['data'])
+            print(df)
             dico = {label: 'float32' for label in df.columns[1:]}
             try:
                 df = df.astype(dico)
@@ -174,14 +177,15 @@ with open(csvPath, mode='a', newline='') as csvFile:
                 for n in df.columns[1:]:
                     for m in df.index:
                         value = df.at[m, n]
-                        df.at[m, n] = float(''.join(ch for ch in str(value) if ch.isdigit() or ch == '.'))
+                        df.at[m, n] = re.sub("[^\d\.]", "", value)
             ax = df.plot.line()
+            ax.set_xlabel(document1['labels'][0])
             plt.savefig(imgPath, bbox_inches="tight")
             plt.close()
         with open('../results/aug17/generated_baseline/' + multiLine) as file2:
             document2 = json.loads(file2.read())
-            generated_baseline = ''.join(document2['summary']).strip().replace('_','')
+            generated_baseline = ''.join(document2['summary']).strip().replace('_',' ')
         with open('../results/aug17/generated_untemplated/' + multiLine) as file3:
             document3 = json.loads(file3.read())
-            generated_untemplated = ''.join(document3['summary']).strip().replace('_','')
+            generated_untemplated = ''.join(document3['summary']).strip().replace('_',' ')
         csvWriter.writerow([webPath, generated, generated_baseline, generated_untemplated, gold, title])
