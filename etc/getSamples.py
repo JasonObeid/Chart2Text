@@ -2,6 +2,7 @@ import json
 import re
 
 import pandas as pd
+import numpy as np
 import os
 from sklearn import utils
 import csv
@@ -178,7 +179,13 @@ with open(csvPath, mode='w', newline='') as csvFile:
                     for m in df.index:
                         value = df.at[m, n]
                         df.at[m, n] = re.sub("[^\d\.]", "", value)
+            xValues = df[df.columns[0]]
             ax = df.plot.line()
+            plt.xticks(np.arange(len(xValues)), xValues, rotation='vertical')
+            # Pad margins so that markers don't get clipped by the axes
+            plt.margins(0.05)
+            # Tweak spacing to prevent clipping of tick-labels
+            plt.subplots_adjust(bottom=0.1)
             ax.set_xlabel(document1['labels'][0])
             plt.savefig(imgPath, bbox_inches="tight")
             plt.close()
