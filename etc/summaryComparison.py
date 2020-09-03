@@ -4,7 +4,6 @@ import en_core_web_md
 import re
 import pandas as pd
 from fitbert.fitb import FitBert
-import scripts.tokenizer as tkn
 
 def askBert(masked_string, options):
     ranked_options = fb.rank(masked_string, options)

@@ -4,7 +4,7 @@ run preprocess.py to preprocess data and create split sets from scraped .csv and
 ----------------------------------------------------------------------------------
 !templated data
 
-cd scripts
+cd etc
 python3 extract_vocab.py --table ../data/valid/validData.txt --summary ../data/valid/validSummary.txt
 python3 extract_vocab.py --table ../data/test/testData.txt --summary ../data/test/testSummary.txt
 python3 extract_vocab.py --table ../data/train/trainData.txt --summary ../data/train/trainSummary.txt
@@ -22,7 +22,7 @@ python3 preprocess_summary_data.py --summary ../data/train/trainSummary.txt --su
 ----------------------------------------------------------------------------------
 !untemplated data
 
-cd scripts
+cd etc
 python3 extract_vocab.py --table ../data_untemplated/valid/validData.txt --summary ../data_untemplated/valid/validSummary.txt
 python3 extract_vocab.py --table ../data_untemplated/test/testData.txt --summary ../data_untemplated/test/testSummary.txt
 python3 extract_vocab.py --table ../data_untemplated/train/trainData.txt --summary ../data_untemplated/train/trainSummary.txt
