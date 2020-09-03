@@ -113,6 +113,7 @@ Use the following commands to generate from the above models:
 Download our trained model from: [link](https://drive.google.com/file/d/1BsRvnfJH5ObV8m2RU_Cl4uBB7TcPb8s8/view?usp=sharing) (with data variables)
 
 or our baseline model adapted from Li et al. https://github.com/gongliym/data2text-transformer:
+
 [link](https://drive.google.com/file/d/1-vNnCwFLkKsyC2f4AOVh6kkqIpAhhWlt/view?usp=sharing) (without data variables)
 
 ```
