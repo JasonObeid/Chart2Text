@@ -1,16 +1,6 @@
-#pip install spacy, nltk
-
-#python -m spacy download en_core_web_lg
-
-pytorch 1.5 breaks compatability with cuda 10.1. Use pytorch 1.4 on compute canada
 run preprocess.py to preprocess data and create split sets from scraped .csv and .txt files
 
-python3 extract_vocab.py --table ../data/fineTune/data.txt --summary ../data/fineTune/summary.txt
-
-python3 preprocess_table_data.py --table ../data/fineTune/data.txt --table_vocab ../data/fineTune/data.txt_vocab --table_label ../data/fineTune/dataLabel.txt
-
-python3 preprocess_summary_data.py --summary ../data/fineTune/summary.txt --summary_vocab ../data/fineTune/summary.txt_vocab --summary_label ../data/fineTune/summaryLabel.txt
-
+#if you get dictionary assertion error from loading dataOld: delete old .pth files in data subfolders
 ----------------------------------------------------------------------------------
 !templated data
 
@@ -46,47 +36,3 @@ python3 preprocess_table_data.py --table ../data_untemplated/train/trainData.txt
 python3 preprocess_summary_data.py --summary ../data_untemplated/valid/validSummary.txt --summary_vocab ../data_untemplated/valid/validSummary.txt_vocab --summary_label ../data_untemplated/valid/validSummaryLabel.txt
 python3 preprocess_summary_data.py --summary ../data_untemplated/test/testSummary.txt --summary_vocab ../data_untemplated/test/testSummary.txt_vocab --summary_label ../data_untemplated/test/testSummaryLabel.txt
 python3 preprocess_summary_data.py --summary ../data_untemplated/train/trainSummary.txt --summary_vocab ../data_untemplated/train/trainSummary.txt_vocab --summary_label ../data_untemplated/train/trainSummaryLabel.txt
-
-__________________________________________________________________________
-
-cd scripts
-extract vocab for each set: run xlm preprocess script for each file:
-python3 extract_vocab.py --table ../data/bar/valid/validData.txt --summary ../data/bar/valid/validSummary.txt
-python3 extract_vocab.py --table ../data/bar/test/testData.txt --summary ../data/bar/test/testSummary.txt
-python3 extract_vocab.py --table ../data/bar/train/trainData.txt --summary ../data/bar/train/trainSummary.txt
-
-
-cd ../model
-python3 preprocess_table_data.py --table ../data/bar/valid/validData.txt --table_vocab ../data/bar/valid/validData.txt_vocab --table_label ../data/bar/valid/validDataLabel.txt
-python3 preprocess_table_data.py --table ../data/bar/test/testData.txt --table_vocab ../data/bar/test/testData.txt_vocab --table_label ../data/bar/test/testDataLabel.txt
-python3 preprocess_table_data.py --table ../data/bar/train/trainData.txt --table_vocab ../data/bar/train/trainData.txt_vocab --table_label ../data/bar/train/trainDataLabel.txt
-
-
-python3 preprocess_summary_data.py --summary ../data/bar/valid/validSummary.txt --summary_vocab ../data/bar/valid/validSummary.txt_vocab --summary_label ../data/bar/valid/validSummaryLabel.txt
-python3 preprocess_summary_data.py --summary ../data/bar/test/testSummary.txt --summary_vocab ../data/bar/test/testSummary.txt_vocab --summary_label ../data/bar/test/testSummaryLabel.txt
-python3 preprocess_summary_data.py --summary ../data/bar/train/trainSummary.txt --summary_vocab ../data/bar/train/trainSummary.txt_vocab --summary_label ../data/bar/train/trainSummaryLabel.txt
-
-
-cd ../scripts
-python3 extract_vocab.py --table ../data/line/valid/validData.txt --summary ../data/line/valid/validSummary.txt
-python3 extract_vocab.py --table ../data/line/test/testData.txt --summary ../data/line/test/testSummary.txt
-python3 extract_vocab.py --table ../data/line/train/trainData.txt --summary ../data/line/train/trainSummary.txt
-
-
-
-cd ../model
-python3 preprocess_table_data.py --table ../data/line/valid/validData.txt --table_vocab ../data/line/valid/validData.txt_vocab --table_label ../data/line/valid/validDataLabel.txt
-python3 preprocess_table_data.py --table ../data/line/test/testData.txt --table_vocab ../data/line/test/testData.txt_vocab --table_label ../data/line/test/testDataLabel.txt
-python3 preprocess_table_data.py --table ../data/line/train/trainData.txt --table_vocab ../data/line/train/trainData.txt_vocab --table_label ../data/line/train/trainDataLabel.txt
-
-
-python3 preprocess_summary_data.py --summary ../data/line/valid/validSummary.txt --summary_vocab ../data/line/valid/validSummary.txt_vocab --summary_label ../data/line/valid/validSummaryLabel.txt
-python3 preprocess_summary_data.py --summary ../data/line/test/testSummary.txt --summary_vocab ../data/line/test/testSummary.txt_vocab --summary_label ../data/line/test/testSummaryLabel.txt
-python3 preprocess_summary_data.py --summary ../data/line/train/trainSummary.txt --summary_vocab ../data/line/train/trainSummary.txt_vocab --summary_label ../data/line/train/trainSummaryLabel.txt
-
-
-
-
-
-
-#if you get dictionary assertion error from loading dataOld: delete .pth files
