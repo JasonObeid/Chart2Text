@@ -110,9 +110,9 @@ python model/train.py \
 
 Use the following commands to generate from the above models:
 
-[Download our trained model (trained with data variables)](https://drive.google.com/file/d/1BsRvnfJH5ObV8m2RU_Cl4uBB7TcPb8s8/view?usp=sharing) 
+[Download our model (trained with data variables)](https://drive.google.com/file/d/1BsRvnfJH5ObV8m2RU_Cl4uBB7TcPb8s8/view?usp=sharing) 
 
-[or our baseline model adapted from Li et al. https://github.com/gongliym/data2text-transformer (trained without data variables)](https://drive.google.com/file/d/1-vNnCwFLkKsyC2f4AOVh6kkqIpAhhWlt/view?usp=sharing) 
+[Or our baseline model adapted from Li et al. https://github.com/gongliym/data2text-transformer (trained without data variables)](https://drive.google.com/file/d/1-vNnCwFLkKsyC2f4AOVh6kkqIpAhhWlt/view?usp=sharing) 
 
 ```
 python3 model/summarize.py 
