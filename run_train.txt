@@ -94,3 +94,13 @@ BLEU = 10.19, 49.0/18.1/8.6/5.2 (BP=0.722, ratio=0.755, hyp_len=12024, ref_len=1
 july 10th data remerged, multicolumn data + crowd labels added
 BLEU = 18.23, 47.6/22.1/14.7/11.0 (BP=0.898, ratio=0.903, hyp_len=52032, ref_len=57638)
 BLEU = 17.71, 48.1/21.9/14.5/11.0 (BP=0.875, ratio=0.882, hyp_len=50846, ref_len=57638)
+
+perl model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/aug17/generated-p80.txt
+Aug 17, final model
+BLEU = 18.54, 47.0/21.8/14.7/11.4 (BP=0.911, ratio=0.915, hyp_len=60868, ref_len=66547)
+
+untemplated
+BLEU = 17.06, 40.3/19.2/13.2/10.3 (BP=0.948, ratio=0.949, hyp_len=63182, ref_len=66547)
+
+baseline
+BLEU = 1.11, 15.7/1.7/0.5/0.1 (BP=1.000, ratio=1.186, hyp_len=78928, ref_len=66547)

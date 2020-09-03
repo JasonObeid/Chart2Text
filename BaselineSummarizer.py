@@ -13,17 +13,9 @@ dataPath = './data/test/testData.txt'
 titlePath = './data/test/testTitle.txt'
 
 websitePath = './results/aug17/generated_baseline'
+onePath = './results/aug17/generated_baseline.txt'
 
-dataArr = []
-dataLabelArr = []
-summaryArr = []
-summaryLabelArr = []
-labelList = []
-titleArr = []
-oldSummaryArr = []
-
-dataRatioArr = []
-captionRatioArr = []
+summaryList = []
 
 
 def getChartType(x):
@@ -79,7 +71,7 @@ def getMagnitude(normalizedSlope):
 scaler = preprocessing.MinMaxScaler()
 count = 0
 with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', encoding='utf-8') as dataFile, \
-        open(titlePath, 'r', encoding='utf-8') as titleFile:
+        open(titlePath, 'r', encoding='utf-8') as titleFile, open(onePath, 'w', encoding='utf-8') as oneFile:
     # assert len(goldFile.readlines()) == len(dataFile.readlines()) == len(titleFile.readlines())
     fileIterators = zip(goldFile.readlines(), dataFile.readlines(), titleFile.readlines())
     for gold, data, title in fileIterators:
@@ -166,6 +158,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                                 "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
+                oneFile.writelines(''.join(summaryArray)+'\n')
             elif (chartType == "line"):
                 # clean data
                 intData = []
@@ -221,6 +214,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                                 "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
+                oneFile.writelines(''.join(summaryArr)+'\n')
         else:
             xValueArr = []
             yValueArr = []
@@ -262,6 +256,7 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                                 "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
+                oneFile.writelines(''.join(summaryArray)+'\n')
             # run line
             elif (chartType == "line"):
                 trendArray = []
@@ -391,4 +386,5 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(dataPath, 'r', enco
                                 "data": dataJson, "gold": gold}
                 with open(f'{websitePath}/{count}.json', 'w', encoding='utf-8') as websiteFile:
                     json.dump(websiteInput, websiteFile, indent=3)
+                oneFile.writelines(''.join(summaryArray) + '\n')
         # print(summaryArray)
