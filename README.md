@@ -11,7 +11,7 @@ The dataset is stored in the dataset directory. There are individual csv files f
 
 ### Step1: Cleaning dataset
 
-Clean the chart title and caption text
+Clean the text within the chart titles and summaries
 
 ```
 python etc/refactorTitles.py
