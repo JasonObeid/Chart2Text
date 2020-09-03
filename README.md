@@ -27,11 +27,11 @@ python etc/templatePreprocess.py
 ```
 
 * Converts data tables into a sequence of records (taken as input by the model): `data/*split*/trainData.txt`
-* Clean summary tokens and substitute any possible tokens with data variables(e.g., **2018** -> **templateValue[0][0]**): `data/*split*/trainSummary.txt`
-* Clean title tokens: `data/*split*/trainTitle.txt`
-* Label the occurrences of records mentioned within the summary: `data/*split*/trainDataLabel.txt`
-* Label the summary tokens which match a record: `data/*split*/trainSummaryLabel.txt`
-* Save the gold summaries: `data/*split*/testOriginalSummary.txt`
+* Cleans summary tokens and substitutes any possible tokens with data variables(e.g., **2018** -> **templateValue[0][0]**): `data/*split*/trainSummary.txt`
+* Cleans the title tokens: `data/*split*/trainTitle.txt`
+* Labels the occurrences of records mentioned within the summary: `data/*split*/trainDataLabel.txt`
+* Labels the summary tokens which match a record: `data/*split*/trainSummaryLabel.txt`
+* Saves the gold summaries: `data/*split*/testOriginalSummary.txt`
 
 ### Step2: Extract vocabulary for each split
 
@@ -61,8 +61,8 @@ python preprocess_summary_data.py --summary ../data/train/trainSummary.txt --sum
 
 ```
 Outputs the training data:
-* Data Records: `data/train/trainData.txt.pth`
-* Summaries: `data/train/trainSummary.txt.pth`
+* Data Records: `data/*split*/trainData.txt.pth`
+* Summaries: `data/*split*/trainSummary.txt.pth`
 
 ## Model Training
 ```
@@ -112,7 +112,8 @@ Use the following commands to generate from the above models:
 
 Download our trained model from: [link](https://drive.google.com/file/d/1BsRvnfJH5ObV8m2RU_Cl4uBB7TcPb8s8/view?usp=sharing) (with data variables)
 
-or our baseline model adapted from Li et al. https://github.com/gongliym/data2text-transformer [link](https://drive.google.com/file/d/1-vNnCwFLkKsyC2f4AOVh6kkqIpAhhWlt/view?usp=sharing) (without data variables)
+or our baseline model adapted from Li et al. https://github.com/gongliym/data2text-transformer:
+[link](https://drive.google.com/file/d/1-vNnCwFLkKsyC2f4AOVh6kkqIpAhhWlt/view?usp=sharing) (without data variables)
 
 ```
 python3 model/summarize.py 
