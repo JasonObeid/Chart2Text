@@ -1,51 +1,68 @@
-# data2text-transformer
-Code for **Enhanced Transformer Model for Data-to-Text Generation** [\[PDF\]](https://www.aclweb.org/anthology/D19-5615/) (Gong, Crego, Senellart; WNGT2019).
-Much of this code is adapted from an earlier fork of [XLM](https://github.com/facebookresearch/XLM).
+# Chart-to-Text: Generating Natural Language Explanations for Charts by Adapting the Transformer Model
+Code for [\[PDF\]](https://www.aclweb.org/anthology/) (anonymized).
 
-**EMNLP-WNGT2019 [Evaluation Results](https://docs.google.com/spreadsheets/d/18ZYbK67uJ2yGlJ48IRWEIkVHN_fP135Ecg-BVPhJeXI/edit#gid=2090491847)** (SYSTRAN-AI & SYSTRAN-AI-detok)
+Much of the code is adapted from **Enhanced Transformer Model for Data-to-Text Generation** [\[PDF\]](https://www.aclweb.org/anthology/D19-5615/) (Gong, Crego, Senellart; WNGT2019). https://github.com/gongliym/data2text-transformer
 
-## Dataset and Preprocessing
+This project aims to automatically generate salient summaries from a chart's data table using a modified Transformer model.
 
-The boxscore-data json files can be downloaded from the [boxscore-data repo](https://github.com/harvardnlp/boxscore-data).
+## Dataset
 
-Assuming the RotoWire json files reside at `./rotowire`, the following commands will preprocess the data
+The dataset is stored in the dataset directory. There are individual csv files for each statistic's title, data, and caption in their respective folders. 
 
-### Step1: Data extraction 
+### Step1: Cleaning dataset
 
-```
-python scripts/data_extract.py -d rotowire/train.json -o rotowire/train
-```
-
-In this step, we:
-
-* Convert the tables into a sequence of records: `train.gtable`
-* Extract the summary and transform entity tokens (e.g., **Kobe Bryant** -> **Kobe_Bryant**): `train.summary`
-* Mark the occurrances of records in the summary: `train.gtable_label` and `train.summary_label`
-
-### Step2: Extract vocabulary
+Clean the chart title and caption text
 
 ```
-python scripts/extract_vocab.py -t rotowire/train.gtable -s rotowire/train.summary
+python etc/refactorTitles.py
+
+python etc/refactorCaptions.py
+
 ```
+
+### Step2: Preprocessing
+
+```
+python etc/templatePreprocess.py
+```
+
+* Converts data tables into a sequence of records (taken as input by the model): `data/*split*/trainData.txt`
+* Clean summary tokens and substitute any possible tokens with data variables(e.g., **2018** -> **templateValue[0][0]**): `data/*split*/trainSummary.txt`
+* Clean title tokens: `data/*split*/trainTitle.txt`
+* Label the occurrences of records mentioned within the summary: `data/*split*/trainDataLabel.txt`
+* Label the summary tokens which match a record: `data/*split*/trainSummaryLabel.txt`
+* Save the gold summaries: `data/*split*/testOriginalSummary.txt`
+
+### Step2: Extract vocabulary for each split
+
+```
+cd etc
+python extract_vocab.py --table ../data/valid/validData.txt --summary ../data/valid/validSummary.txt
+python extract_vocab.py --table ../data/test/testData.txt --summary ../data/test/testSummary.txt
+python extract_vocab.py --table ../data/train/trainData.txt --summary ../data/train/trainSummary.txt
+```
+
 It will generate vocabulary files for each of them:
 
-* `rotowire/train.gtable_vocab`
-* `rotowire/train.summary_vocab`
+* `data/*split*/trainData.txt_vocab`
+* `data/*split*/trainSummary.txt_vocab`
 
-### Step3: Binarize the data
+### Step3: Binarize the data for each split
 
 ```
-python model/preprocess_summary_data.py --summary rotowire/train.summary \
-                                        --summary_vocab rotowire/train.summary_vocab \
-                                        --summary_label rotowire/train.summary_label
-                                        
-python model/preprocess_table_data.py --table rotowire/train.gtable \
-                                      --table_label rotowire/train.gtable_label \
-                                      --table_vocab rotowire/train.gtable_vocab
+cd ../model
+python preprocess_table_data.py --table ../data/valid/validData.txt --table_vocab ../data/valid/validData.txt_vocab --table_label ../data/valid/validDataLabel.txt
+python preprocess_table_data.py --table ../data/test/testData.txt --table_vocab ../data/test/testData.txt_vocab --table_label ../data/test/testDataLabel.txt
+python preprocess_table_data.py --table ../data/train/trainData.txt --table_vocab ../data/train/trainData.txt_vocab --table_label ../data/train/trainDataLabel.txt
+
+python preprocess_summary_data.py --summary ../data/valid/validSummary.txt --summary_vocab ../data/valid/validSummary.txt_vocab --summary_label ../data/valid/validSummaryLabel.txt
+python preprocess_summary_data.py --summary ../data/test/testSummary.txt --summary_vocab ../data/test/testSummary.txt_vocab --summary_label ../data/test/testSummaryLabel.txt
+python preprocess_summary_data.py --summary ../data/train/trainSummary.txt --summary_vocab ../data/train/trainSummary.txt_vocab --summary_label ../data/train/trainSummaryLabel.txt
+
 ```
-And we finally get the training data:
-* Input record sequences: `train.gtable.pth`
-* Output summaries: `train.summary.pth`
+Outputs the training data:
+* Data Records: `data/train/trainData.txt.pth`
+* Summaries: `data/train/trainSummary.txt.pth`
 
 ## Model Training
 ```
@@ -55,105 +72,74 @@ export PYTHONPATH=$MODELPATH:$PYTHONPATH
 python $MODELPATH/train.py
 
 ## main parameters
---model_path "experiments"
---exp_name "baseline"
---exp_id "try1"
-
-## data location / training objective
---train_cs_table_path rotowire/train.gtable.pth        # record data for content selection (CS) training
---train_sm_table_path rotowire/train.gtable.pth        # record data for data2text summarization (SM) training
---train_sm_summary_path rotowire/train.summary.pth     # summary data for data2text summarization (SM) training
---valid_table_path rotowire/valid.gtable.pth           # input record data for validation
---valid_summary_path rotowire/valid.summary.pth        # output summary data for validation
---cs_step True                                         # enable content selection training objective
---lambda_cs "1"                                        # CS training coefficient
---sm_step True                                         # enable summarization objective
---lambda_sm "1"                                        # SM training coefficient
-    
-## transformer parameters
---label_smoothing 0.05                                 # label smoothing
---share_inout_emb True                                 # share the embedding and softmax weights in decoder
---emb_dim 512                                          # embedding size
---enc_n_layers 1                                       # number of encoder layers
---dec_n_layers 6                                       # number of decoder layers
---dropout 0.1                                          # dropout
-
-## optimization
---save_periodic 1                                      # save model every N epoches
---batch_size 6                                         # batch size (number of examples)
---beam_size 4                                          # beam search in generation
---epoch_size 1000                                      # number of examples per epoch
---eval_bleu True                                       # evaluate the BLEU score
---validation_metrics valid_mt_bleu                     # validation metrics
+python model/train.py \
+    --model_path "experiments" \
+    --exp_name "chart2text" \
+    --exp_id "run1" \
+    --train_cs_table_path data/train/trainData.txt.pth \
+    --train_sm_table_path data/train/trainData.txt.pth \
+    --train_sm_summary_path data/train/trainSummary.txt.pth \
+    --valid_table_path data/valid/validData.txt.pth \
+    --valid_summary_path data/valid/validSummary.txt.pth \
+    --cs_step True \
+    --lambda_cs "1" \
+    --sm_step True \
+    --lambda_sm "1" \
+    --label_smoothing 0.05 \
+    --sm_step_with_cc_loss False \
+    --sm_step_with_cs_proba False \
+    --share_inout_emb True \
+    --share_srctgt_emb False \
+    --emb_dim 512 \
+    --enc_n_layers 1 \
+    --dec_n_layers 6 \
+    --dropout 0.1 \
+    --save_periodic 40 \
+    --batch_size 6 \
+    --beam_size 4 \
+    --epoch_size 1000 \
+    --max_epoch 81 \
+    --eval_bleu True \
+    --sinusoidal_embeddings True \
+    --encoder_positional_emb True \
+    --gelu_activation True \
+    --validation_metrics valid_mt_bleu
 ```
 
 ## Generation
 
 Use the following commands to generate from the above models:
 
-Download the baseline model from: [link](https://drive.google.com/open?id=1o4kx0xJPbYser2RmpTHa-3aDlBl_M_uu)
+Download our trained model from: [link](https://drive.google.com/file/d/1BsRvnfJH5ObV8m2RU_Cl4uBB7TcPb8s8/view?usp=sharing) (with data variables)
+
+or our baseline model adapted from Li et al. https://github.com/gongliym/data2text-transformer [link](https://drive.google.com/file/d/1-vNnCwFLkKsyC2f4AOVh6kkqIpAhhWlt/view?usp=sharing) (without data variables)
 
 ```
-MODEL_PATH=experiments/baseline/try1/best-valid_mt_bleu.pth
-INPUT_TABLE=rotowire/valid.gtable
-OUTPUT_SUMMARY=rotowire/valid.gtable_out
-
-python model/summarize.py 
-    --model_path $MODEL_PATH
-    --table_path $INPUT_TABLE
-    --output_path $OUTPUT_SUMMARY
-    --beam_size 4
+python3 model/summarize.py 
+  --model_path aug17-80.pth 
+  --table_path data/test/testData.txt \
+  --output_path results/aug17/templateOutput-p80.txt \
+  --title_path data/test/testTitle.txt --beam_size 4 --batch_size 8
 ```
 
 ### Postprocessing after generation
-In the preprocessing step1 (data extraction), the entity tokens are transformed (e.g., **Kobe Bryant** -> **Kobe_Bryant**). Here we revert such transformation:
+Substitute any predicted data variables:
 
 ```
-cat ${OUTPUT_SUMMARY} | sed 's/_/ /g' > ${OUTPUT_SUMMARY}_txt
+python etc/summaryComparison.py
 ```
 
 ## Evaluation
 
-### Content-oriented evaluation
-
-We use the code in [https://github.com/ratishsp/data2text-1](https://github.com/ratishsp/data2text-1) for evaluation.
-
-Metrics of RG, CS, CO are computed using the below commands.
-
-#### Prepare dataset for the IE system
+### "Content Selection" evaluation
 ```
-~/anaconda2/bin/python data_utils.py 
-    -mode make_ie_data                      # mode
-    -input_path "../rotowire"               # rotowire data path
-    -output_fi "roto-ie.h5"                 # output filename
-```
-#### Generate h5 file for output summary
-```
-~/anaconda2/bin/python data_utils.py 
-    -mode prep_gen_data                     # mode 
-    -gen_fi ${OUTPUT_SUMMARY}_txt           # generated summary (postprocessed) 
-    -dict_pfx "roto-ie"                     # dict prefix of IE system
-    -output_fi ${OUTPUT_SUMMARY}_txt.h5     # output h5 filename
-    -input_path ../rotowire                 # rotowire data path
-```
-
-#### Evaluate RG metrics
-```
-th extractor.lua 
-    -gpuid 1 
-    -datafile roto-ie.h5                    # dataset of IE system
-    -preddata ${OUTPUT_SUMMARY}_txt.h5         # generated h5 file in the previous step
-    -dict_pfx roto-ie                       # dict prefix of IE system
-    -just_eval
-```
-#### Evaluate CS and CO metrics
-```
-~/anaconda2/bin/python non_rg_metrics.py roto-gold-val.h5-tuples.txt ${OUTPUT_SUMMARY}_txt.h5-tuples.txt
+python etc/automatedEvaluation.py
 ```
 
 ### BLEU evaluation
 
 The BLEU evaluation script can be obtained from [Moses](https://github.com/moses-smt/mosesdecoder/blob/master/scripts/generic/multi-bleu.perl):
+
 ```
-perl multi-bleu.perl ${reference_summary} < ${generated_summary}
+perl model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/aug17/generated-p80.txt
 ```
