@@ -1,0 +1,38 @@
+{
+   "title": "Internet service provider market share in Vietnam fourth quarter 2013",
+   "xAxis": "Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic illustrates the Market share breakdown of Internet service provider market share in 2013 . ",
+      "That year , VNPT held a Market share of 56.6 % of the service provider Company worldwide ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Company": "VNPT",
+         "Market share": "56.6"
+      },
+      {
+         "Company": "FPT Telecom",
+         "Market share": "27"
+      },
+      {
+         "Company": "Viettel",
+         "Market share": "9.8"
+      },
+      {
+         "Company": "Others",
+         "Market share": "6.6"
+      }
+   ],
+   "gold": "The statistic depicts a breakdown of the internet service provider ( ISP ) market in Vietnam in the fourth quarter of 2013 . The internet service provider VNPT held a market share of 56.6 percent . The total number of internet service subscribers in Vietnam was at around 5.1 million in the fourth quarter of 2013 .\n"
+}

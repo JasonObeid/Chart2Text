@@ -1,0 +1,61 @@
+{
+   "title": "Attendance at Cineplex cinemas 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Attendance in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the total Attendance of the Cineplex cinemas in the 2018 from 2010 to 2018 . ",
+      "In 2018 , the Cineplex cinemas had an estimated Attendance of 69.27 millions ."
+   ],
+   "trends": [
+      {
+         "14": "8",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Attendance in millions": "69.27"
+      },
+      {
+         "Year": "2017",
+         "Attendance in millions": "70.4"
+      },
+      {
+         "Year": "2016",
+         "Attendance in millions": "74.6"
+      },
+      {
+         "Year": "2015",
+         "Attendance in millions": "77.0"
+      },
+      {
+         "Year": "2014",
+         "Attendance in millions": "73.6"
+      },
+      {
+         "Year": "2013",
+         "Attendance in millions": "72.7"
+      },
+      {
+         "Year": "2012",
+         "Attendance in millions": "71.2"
+      },
+      {
+         "Year": "2011",
+         "Attendance in millions": "66.1"
+      },
+      {
+         "Year": "2010",
+         "Attendance in millions": "67.0"
+      }
+   ],
+   "gold": "The timeline presents the attendance figures at Cineplex from 2010 to 2018 . In 2018 , 69.27 million people attended movies at the Canadian movie theater chain , down from 70.4 million visitors a year earlier .\n"
+}

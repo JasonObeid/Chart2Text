@@ -1,0 +1,50 @@
+{
+   "title": "Brexit votes in the United Kingdom by social class 2016",
+   "labels": [
+      "Response",
+      "Remain",
+      "Leave"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "In the Brexit referendum that took place in the United Kingdom on 23 , 2016 36 % of men voted to Leave the European Union , compared with 43 % of women . ",
+      "The referendum itself was won by the Leave side , after they won 51.9 % of the vote overall ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "0",
+            "1"
+         ],
+         "28": [
+            "3",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Lower Working-Class (DE)",
+         "Remain": "36",
+         "Leave": "64"
+      },
+      {
+         "Response": "Upper Working-Class (C2)",
+         "Remain": "36",
+         "Leave": "64"
+      },
+      {
+         "Response": "Lower Middle-Class (C1)",
+         "Remain": "51",
+         "Leave": "49"
+      },
+      {
+         "Response": "Upper Middle-Class (AB)",
+         "Remain": "57",
+         "Leave": "43"
+      }
+   ],
+   "gold": "This statistic shows the result of a survey asking respondents how they voted in the Brexit referendum of 2016 , by social class . Of respondents , 57 percent of those in the AB social class advised they had voted to remain , while just 36 percent of C2 and DE respondents said they had voted to remain .\n"
+}

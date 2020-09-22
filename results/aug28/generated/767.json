@@ -1,0 +1,74 @@
+{
+   "title": "Average regular season home attendance of the Tennessee Titans 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Average regular season home attendance of the Tennessee Titans from 2008 to 2019 . ",
+      "In 2019 , the Average attendance at home games of the Tennessee Titans was 64509 . "
+   ],
+   "trends": [
+      {
+         "13": "11",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "13": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": "64509"
+      },
+      {
+         "Year": "2018",
+         "Average attendance": "64520"
+      },
+      {
+         "Year": "2017",
+         "Average attendance": "65651"
+      },
+      {
+         "Year": "2016",
+         "Average attendance": "64659"
+      },
+      {
+         "Year": "2015",
+         "Average attendance": "62304"
+      },
+      {
+         "Year": "2014",
+         "Average attendance": "69143"
+      },
+      {
+         "Year": "2013",
+         "Average attendance": "69143"
+      },
+      {
+         "Year": "2012",
+         "Average attendance": "69143"
+      },
+      {
+         "Year": "2011",
+         "Average attendance": "69143"
+      },
+      {
+         "Year": "2010",
+         "Average attendance": "69143"
+      },
+      {
+         "Year": "2009",
+         "Average attendance": "69143"
+      },
+      {
+         "Year": "2008",
+         "Average attendance": "69143"
+      }
+   ],
+   "gold": "This graph depicts the average regular season home attendance of the Tennessee Titans from 2008 to 2019 . In 2019 , the average attendance at home games of the Tennessee Titans was 64,509 .\n"
+}

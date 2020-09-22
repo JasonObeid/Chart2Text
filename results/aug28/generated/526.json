@@ -1,0 +1,65 @@
+{
+   "title": "Average ticket price Boston Celtics ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Average ticket price for Boston Celtics games of the National Basketball Association from 2006/07 to 2015/16 . ",
+      "In the 2006/07 season , the Average ticket price was 57.04 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": "66.49"
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": "70.79"
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": "72.64"
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": "72.96"
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": "68.55"
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": "68.55"
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": "68.55"
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": "68.55"
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": "65.43"
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": "57.04"
+      }
+   ],
+   "gold": "This graph depicts the average ticket price for Boston Celtics games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 57.04 U.S. dollars . Boston Celtics The Boston Celtics are a professional basketball team of the National Basketball Association ( NBA ) playing in the Eastern Conference of the league .\n"
+}

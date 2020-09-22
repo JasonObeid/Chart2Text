@@ -1,0 +1,40 @@
+{
+   "title": "Luxury retail segment growth in the United Kingdom ( UK ) 2008 to 2018",
+   "labels": [
+      "Year",
+      "Luxury segment",
+      "All retail"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic gives information on the percentage of retail the Luxury in 2008 , 2018 . ",
+      "During the survey period , it was found that 2008 2013-2018 accounted for 24.8 % of the Luxury in the United Kingdom ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013-2018",
+         "Luxury segment": "24.8",
+         "All retail": "11.9"
+      },
+      {
+         "Year": "2008-2013",
+         "Luxury segment": "24",
+         "All retail": "7.1"
+      }
+   ],
+   "gold": "This statistic presents the growth rate of the luxury retail segment compared to all retail segments in the United Kingdom ( UK ) from 2008 to 2013 and 2013 to 2018 . The luxury retail sector grew by 24 percent between 2008 to 2013 and is expected to grow at a similar rate over the following five years .\n"
+}

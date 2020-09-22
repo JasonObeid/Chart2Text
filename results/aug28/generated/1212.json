@@ -1,0 +1,46 @@
+{
+   "title": "Most important export partner countries for Bangladesh in 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total export",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Share total of the Most important Bangladesh in 2017 , Bangladesh Country . ",
+      "In 2017 , the Germany Share total of Bangladesh was 12.9 export ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Share in total export": "12.9"
+      },
+      {
+         "Country": "United States",
+         "Share in total export": "12.2"
+      },
+      {
+         "Country": "United Kingdom",
+         "Share in total export": "8.7"
+      },
+      {
+         "Country": "Spain",
+         "Share in total export": "5.3"
+      },
+      {
+         "Country": "France",
+         "Share in total export": "5.1"
+      },
+      {
+         "Country": "Italy",
+         "Share in total export": "4.1"
+      }
+   ],
+   "gold": "This statistic shows the most important export partner countries for Bangladesh in 2017 . In 2017 , the most important export partner of Bangladesh was Germany , with a share of 12.9 percent in exports .\n"
+}

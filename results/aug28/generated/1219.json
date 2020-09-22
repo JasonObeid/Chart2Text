@@ -1,0 +1,57 @@
+{
+   "title": "Global automotive industry : capacity and assembly volume 2015/2022",
+   "labels": [
+      "Country",
+      "North America",
+      "EU",
+      "Eastern Europe",
+      "Asia-Pacific",
+      "Middle East & Africa",
+      "South America"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Global automotive industry capacity assembly volume from 2015 to 2022 , 2015/2022 . ",
+      "In 2022 , the Global automotive for North America amounted to 68.1 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "1",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "2022",
+         "North America": "22.8",
+         "EU": "23.5",
+         "Eastern Europe": "7.0",
+         "Asia-Pacific": "77.0",
+         "Middle East & Africa": "4.4",
+         "South America": "6.4"
+      },
+      {
+         "Country": "2015",
+         "North America": "19.9",
+         "EU": "22.2",
+         "Eastern Europe": "5.9",
+         "Asia-Pacific": "68.1",
+         "Middle East & Africa": "3.7",
+         "South America": "5.8"
+      }
+   ],
+   "gold": "This statistic represents the capacity of the global automobile production industry in 2015 and 2022 , by region . In 2022 , the North American industry is projected to have capacity of about 22.8 million units .\n"
+}

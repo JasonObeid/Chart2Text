@@ -1,0 +1,71 @@
+{
+   "title": "Fertility rate in Brazil",
+   "xAxis": "Year",
+   "yAxis": "Number of children born per woman",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Fertility rate of Brazil from 2007 to 2017 . ",
+      "The Fertility rate is the average Number of children a woman will have during her child-bearing years . ",
+      "In 2017 , the Fertility rate of Brazil 's population was 1.74 children per woman ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of children born per woman": "1.74"
+      },
+      {
+         "Year": "2016",
+         "Number of children born per woman": "1.75"
+      },
+      {
+         "Year": "2015",
+         "Number of children born per woman": "1.75"
+      },
+      {
+         "Year": "2014",
+         "Number of children born per woman": "1.76"
+      },
+      {
+         "Year": "2013",
+         "Number of children born per woman": "1.76"
+      },
+      {
+         "Year": "2012",
+         "Number of children born per woman": "1.77"
+      },
+      {
+         "Year": "2011",
+         "Number of children born per woman": "1.78"
+      },
+      {
+         "Year": "2010",
+         "Number of children born per woman": "1.8"
+      },
+      {
+         "Year": "2009",
+         "Number of children born per woman": "1.82"
+      },
+      {
+         "Year": "2008",
+         "Number of children born per woman": "1.85"
+      },
+      {
+         "Year": "2007",
+         "Number of children born per woman": "1.88"
+      }
+   ],
+   "gold": "This statistic shows the fertility rate in Brazil from 2007 to 2017 . The fertility rate is the average number of children born by one woman while being of child-bearing age . In 2017 , the fertility rate among Brazil 's population amounted to 1.74 children per woman .\n"
+}

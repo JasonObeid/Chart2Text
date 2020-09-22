@@ -1,0 +1,42 @@
+{
+   "title": "Average hours spent watching TV weekly in the United Kingdom ( UK ) in 2015",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the spent of United Kingdom hours in the UK as of 2018 , broken down Kingdom UK . ",
+      "During the survey , it was found that 39 % of the respondents stated that they had United Kingdom spent I_don't_watch_TV ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "3",
+         "19": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "5 hours or less",
+         "Share of respondents": "9"
+      },
+      {
+         "Year": "6 to 10 hours",
+         "Share of respondents": "18"
+      },
+      {
+         "Year": "11 to 20 hours",
+         "Share of respondents": "31"
+      },
+      {
+         "Year": "More than 20 hours",
+         "Share of respondents": "39"
+      },
+      {
+         "Year": "I don't watch TV",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "This survey details a distribution of the average number of hours spent on watching TV in the United Kingdom ( UK ) in 2015 . During the survey , 18 percent of respondents said that they watched TV 6 to 10 hours per week .\n"
+}

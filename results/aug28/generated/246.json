@@ -1,0 +1,67 @@
+{
+   "title": "Most preferred sources of entertainment in India in 2011",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2011 , it was found that 51 % of adults in the country accessed the Most with 51 % of the respondents citing Reading_newspapers_(either_printed_or_online) Using_the_internet_for_social_or_personal_interests a Watching_television_(any_device) Reading_newspapers_(either_printed_or_online) . ",
+      "Watching_television_(any_device) and Reading_newspapers_(either_printed_or_online) were Listening_to_music_(using_any_device) with 46 % of respondents ."
+   ],
+   "trends": [
+      {
+         "8": "0",
+         "19": "1",
+         "25": "2",
+         "26": "0",
+         "28": "1",
+         "29": "2"
+      },
+      {
+         "0": "1",
+         "2": "2",
+         "4": "3",
+         "6": "2"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Using the internet for social or personal interests",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Watching television (any device)",
+         "Share of respondents": "51"
+      },
+      {
+         "Response": "Reading newspapers (either printed or online)",
+         "Share of respondents": "46"
+      },
+      {
+         "Response": "Listening to music (using any device)",
+         "Share of respondents": "37"
+      },
+      {
+         "Response": "Reading books (either physical books or via an e-book reader/online)",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Reading magazines (either printed or online)",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Going to the movies",
+         "Share of respondents": "24"
+      },
+      {
+         "Response": "Playing videogames (handhelds PC console mobile/cellular/smartphone online)",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Listening to the radio (any format/device)",
+         "Share of respondents": "12"
+      }
+   ],
+   "gold": "The statistic shows the most preferred sources of entertainment for respondents from India in 2011 . During the Deloitte survey , 51 percent of respondents stated that using the internet for social or personal interests was their favorite source of entertainment .\n"
+}

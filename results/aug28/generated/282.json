@@ -1,0 +1,60 @@
+{
+   "title": "Defense spending breakdown of the United Kingdom ( UK ) 2017/18 - 2018/19",
+   "labels": [
+      "Defense Category",
+      "2017/18",
+      "2018/19"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the percentage of UK in the Defense that 36409 % of 2017/18 Kingdom in , 2017/18 2018/19 . ",
+      "The survey revealed that 36409 % of 2017/18 were 140 % of the 2018/19 2017/18 ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "1"
+         ],
+         "11": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Defense Category": "Military defense",
+         "2017/18": "36409",
+         "2018/19": "37980"
+      },
+      {
+         "Defense Category": "Civil defense",
+         "2017/18": "140",
+         "2018/19": "44"
+      },
+      {
+         "Defense Category": "Foreign military aid",
+         "2017/18": "705",
+         "2018/19": "696"
+      },
+      {
+         "Defense Category": "R&D defense",
+         "2017/18": "1231",
+         "2018/19": "1339"
+      },
+      {
+         "Defense Category": "Defense (not elsewhere classified)",
+         "2017/18": "169",
+         "2018/19": "182"
+      }
+   ],
+   "gold": "This statistic shows public sector expenditure on defense in the United Kingdom ( UK ) from 2017/18 to 2018/19 , by type . The majority of spending was for military defense . In 2018/19 , research and development accounted for 1.3 billion British pounds of the total of approximately 32.4 billion British pound expenditure .\n"
+}

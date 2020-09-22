@@ -1,0 +1,66 @@
+{
+   "title": "Most popular product brands on Facebook 2020",
+   "xAxis": "Platform",
+   "yAxis": "Facebook fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the most popular Candy_Crush_Saga brands Facebook in 2020 . ",
+      "In that year , the photo sharing app Facebook had the largest Facebook of almost 214.62 millions fans , followed by Samsung with 160.05 millions fans ."
+   ],
+   "trends": [
+      {
+         "6": "5"
+      },
+      {
+         "8": "0",
+         "15": "0",
+         "21": "1",
+         "23": "1"
+      }
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Facebook fans in millions": "214.62"
+      },
+      {
+         "Platform": "Samsung",
+         "Facebook fans in millions": "160.05"
+      },
+      {
+         "Platform": "Coca-Cola",
+         "Facebook fans in millions": "107.11"
+      },
+      {
+         "Platform": "YouTube",
+         "Facebook fans in millions": "84.35"
+      },
+      {
+         "Platform": "McDonald's",
+         "Facebook fans in millions": "79.86"
+      },
+      {
+         "Platform": "Candy Crush Saga",
+         "Facebook fans in millions": "71.54"
+      },
+      {
+         "Platform": "Criminal Case",
+         "Facebook fans in millions": "65.88"
+      },
+      {
+         "Platform": "Texas HoldEm Poker",
+         "Facebook fans in millions": "63.66"
+      },
+      {
+         "Platform": "Instagram",
+         "Facebook fans in millions": "60.34"
+      },
+      {
+         "Platform": "KFC",
+         "Facebook fans in millions": "55.0"
+      }
+   ],
+   "gold": "Coca-Cola is one of the most recognizable brands worldwide , which in this case translates to over 107 million Facebook followers . Due its global reach , advertisers and marketers have recognized Facebook 's potential as a marketing tool to reach new and existing customers and as a result have come up with new and innovative ways of connecting with their target audiences .\n"
+}

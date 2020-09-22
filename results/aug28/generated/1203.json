@@ -1,0 +1,38 @@
+{
+   "title": "Average weekly working hours in Sweden 2019 , by type of employment",
+   "xAxis": "Form of Employment",
+   "yAxis": "Average number of working hours per week",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Average weekly working hours Sweden Average of Sweden in 2019 . ",
+      "Of the total Average weekly in Sweden was Self-employed , with a Average of 35.4 million hours per ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Form of Employment": "Self-employed",
+         "Average number of working hours per week": "35.4"
+      },
+      {
+         "Form of Employment": "Permanently employed",
+         "Average number of working hours per week": "30.4"
+      },
+      {
+         "Form of Employment": "Temporary employed",
+         "Average number of working hours per week": "25.5"
+      },
+      {
+         "Form of Employment": "Employed total",
+         "Average number of working hours per week": "30.2"
+      }
+   ],
+   "gold": "The ordinary weekly working hours in Sweden are stated to equal 40 hours . However , the actual average reported weekly working hours in Sweden fluctuated between 30 and 30.9 hours per week during the period from 2009 to 2019 . In 2019 , an actual working week amounted to 30.2 hours on average .\n"
+}

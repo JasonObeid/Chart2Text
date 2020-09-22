@@ -1,0 +1,46 @@
+{
+   "title": "Casino visitors in the U.S. ordered by age group 2010",
+   "xAxis": "Age of casino visitors",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "Among Age_21-34 2010 groups U.S. on the United Kingdom ( U.S. ) , with over 33 percentage of respondents that year . ",
+      "The most common result of a U.S. survey conducted in 2010 . ",
+      "Of respondents said that they had an average of more than 500 percentage of six percentage of 2010 tracking apps has increased significantly within recent Age_35-49 ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "15": "2"
+      },
+      {},
+      {
+         "25": "1"
+      }
+   ],
+   "data": [
+      {
+         "Age of casino visitors": "Age 21-34",
+         "Percentage of respondents": "18"
+      },
+      {
+         "Age of casino visitors": "Age 35-49",
+         "Percentage of respondents": "21"
+      },
+      {
+         "Age of casino visitors": "Age 50-64",
+         "Percentage of respondents": "33"
+      },
+      {
+         "Age of casino visitors": "Age 65 and over",
+         "Percentage of respondents": "25"
+      },
+      {
+         "Age of casino visitors": "Don't know / refused",
+         "Percentage of respondents": "3"
+      }
+   ],
+   "gold": "The graph depicts the age group distribution of casino vistors in the U.S. in 2010 . 25 percent of casino visitors were aged 65 years or older .\n"
+}

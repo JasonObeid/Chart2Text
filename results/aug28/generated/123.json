@@ -1,0 +1,66 @@
+{
+   "title": "Per capita consumption of chewing gum in selected countries worldwide 2009 to 2012",
+   "xAxis": "Country",
+   "yAxis": "Index value",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Index value of the member states gum Per in 2009 . ",
+      "In that year , the Index value of the United_States amounted to 152 ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Index value": "152"
+      },
+      {
+         "Country": "Austria",
+         "Index value": "114"
+      },
+      {
+         "Country": "Belgium",
+         "Index value": "112"
+      },
+      {
+         "Country": "Germany",
+         "Index value": "100"
+      },
+      {
+         "Country": "France",
+         "Index value": "96"
+      },
+      {
+         "Country": "Great Britain",
+         "Index value": "89"
+      },
+      {
+         "Country": "Spain",
+         "Index value": "85"
+      },
+      {
+         "Country": "Russia",
+         "Index value": "84"
+      },
+      {
+         "Country": "Poland",
+         "Index value": "70"
+      },
+      {
+         "Country": "China",
+         "Index value": "31"
+      },
+      {
+         "Country": "India",
+         "Index value": "10"
+      }
+   ],
+   "gold": "The table shows the per capita consumption of chewing gum in selected countries worldwide from 2009 to 2012 . In 2010 , the United States ' index value of per capita consumption of chewing gum amounted to 152.Chewing gum marketChewing gum belongs to the snack and confectionery segment and is the smallest category besides chocolate and sugary products . Chewing gum has a chewy , easily formable texture and usually has \u2013 besides some exceptions \u2013 a sweet taste .\n"
+}

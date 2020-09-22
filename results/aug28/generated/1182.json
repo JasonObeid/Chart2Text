@@ -1,0 +1,93 @@
+{
+   "title": "Number of homicide offences in England and Wales 2002 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of homicides offences",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number homicides of the offences in the Number from 2002/03 to 2018/19 . ",
+      "In 2018/19 , the Number homicides of the England amounted to 1047 offences ."
+   ],
+   "trends": [
+      {
+         "13": "16",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "11": "16"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Number of homicides offences": "701"
+      },
+      {
+         "Year": "2017/18",
+         "Number of homicides offences": "728"
+      },
+      {
+         "Year": "2016/17",
+         "Number of homicides offences": "721"
+      },
+      {
+         "Year": "2015/16",
+         "Number of homicides offences": "577"
+      },
+      {
+         "Year": "2014/15",
+         "Number of homicides offences": "539"
+      },
+      {
+         "Year": "2013/14",
+         "Number of homicides offences": "533"
+      },
+      {
+         "Year": "2012/13",
+         "Number of homicides offences": "558"
+      },
+      {
+         "Year": "2011/12",
+         "Number of homicides offences": "553"
+      },
+      {
+         "Year": "2010/11",
+         "Number of homicides offences": "639"
+      },
+      {
+         "Year": "2009/10",
+         "Number of homicides offences": "620"
+      },
+      {
+         "Year": "2008/09",
+         "Number of homicides offences": "664"
+      },
+      {
+         "Year": "2007/08",
+         "Number of homicides offences": "775"
+      },
+      {
+         "Year": "2006/07",
+         "Number of homicides offences": "758"
+      },
+      {
+         "Year": "2005/06",
+         "Number of homicides offences": "764"
+      },
+      {
+         "Year": "2004/05",
+         "Number of homicides offences": "868"
+      },
+      {
+         "Year": "2004/04",
+         "Number of homicides offences": "904"
+      },
+      {
+         "Year": "2002/03",
+         "Number of homicides offences": "1047"
+      }
+   ],
+   "gold": "How many homicides are registered in England and Wales ? There were 701 homicides recorded in England and Wales in 2018/19 , slightly fewer than in the previous reporting year of 2017/18 , when there were 728 homicides . Between 2002/03 and 2013/14 the number of homicides in England and Wales almost halved from over 1 thousand to just over 530 . The recent rise in the number of homicides has occurred alongside an increase in the overall number of crimes , with police officials linking this to long-term cuts to their manpower and resources .\n"
+}

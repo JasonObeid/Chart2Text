@@ -1,0 +1,45 @@
+{
+   "title": "Share of the population who gave to charity in England 2019 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Share population who gave charity England in as of 2015 . ",
+      "During the survey , it was found that 83 % of respondents stated that they had used the largest population in England who gave ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "16 to 24",
+         "Share of respondents": "59"
+      },
+      {
+         "Year": "25 to 34",
+         "Share of respondents": "69"
+      },
+      {
+         "Year": "35 to 49",
+         "Share of respondents": "76"
+      },
+      {
+         "Year": "50 to 64",
+         "Share of respondents": "79"
+      },
+      {
+         "Year": "65 to 74",
+         "Share of respondents": "82"
+      },
+      {
+         "Year": "75 and over",
+         "Share of respondents": "83"
+      }
+   ],
+   "gold": "This statistic shows the share of the population who said they gave to charity in the last four weeks in 2018/19 , by age group . Proportionally , those aged 75 and more gave most to charity . At 59 percent , 16 to 24 year olds had the smallest proportion of charitable givers .\n"
+}

@@ -1,0 +1,102 @@
+{
+   "title": "Farm value per liter of maple syrup in Ontario 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Farm value per liter in Canadian dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Farm value of the liter of Ontario from 2000 to 2018 . ",
+      "In 2018 , the average Farm value of Ontario was approximately 11.31 liter Canadian ."
+   ],
+   "trends": [
+      {
+         "12": "18",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "11": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Farm value per liter in Canadian dollars": "11.31"
+      },
+      {
+         "Year": "2017",
+         "Farm value per liter in Canadian dollars": "12.91"
+      },
+      {
+         "Year": "2016",
+         "Farm value per liter in Canadian dollars": "12.87"
+      },
+      {
+         "Year": "2015",
+         "Farm value per liter in Canadian dollars": "15.59"
+      },
+      {
+         "Year": "2014",
+         "Farm value per liter in Canadian dollars": "15.46"
+      },
+      {
+         "Year": "2013",
+         "Farm value per liter in Canadian dollars": "15.11"
+      },
+      {
+         "Year": "2012",
+         "Farm value per liter in Canadian dollars": "14.22"
+      },
+      {
+         "Year": "2011",
+         "Farm value per liter in Canadian dollars": "14.68"
+      },
+      {
+         "Year": "2010",
+         "Farm value per liter in Canadian dollars": "14.69"
+      },
+      {
+         "Year": "2009",
+         "Farm value per liter in Canadian dollars": "13.53"
+      },
+      {
+         "Year": "2008",
+         "Farm value per liter in Canadian dollars": "12.99"
+      },
+      {
+         "Year": "2007",
+         "Farm value per liter in Canadian dollars": "11.87"
+      },
+      {
+         "Year": "2006",
+         "Farm value per liter in Canadian dollars": "11.31"
+      },
+      {
+         "Year": "2005",
+         "Farm value per liter in Canadian dollars": "11.09"
+      },
+      {
+         "Year": "2004",
+         "Farm value per liter in Canadian dollars": "11.03"
+      },
+      {
+         "Year": "2003",
+         "Farm value per liter in Canadian dollars": "10.84"
+      },
+      {
+         "Year": "2002",
+         "Farm value per liter in Canadian dollars": "10.62"
+      },
+      {
+         "Year": "2001",
+         "Farm value per liter in Canadian dollars": "10.72"
+      },
+      {
+         "Year": "2000",
+         "Farm value per liter in Canadian dollars": "10.5"
+      }
+   ],
+   "gold": "In 2018 , the farm value of maple syrup in Ontario amounted to 11.31 Canadian dollars per liter . The farm gate value of one liter of maple syrup in Ontario has fluctuated over the past eighteen years , having hit a high of 15.59 Canadian dollars in 2015 . The volume of maple syrup produced in Ontario has also varied quite dramatically in the last few years .\n"
+}

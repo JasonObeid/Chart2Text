@@ -1,0 +1,106 @@
+{
+   "title": "FIFA World Cup : Number of goals scored at each tournament 1930 to 2018",
+   "xAxis": "Countries",
+   "yAxis": "Number of goals scored",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the FIFA scored of World Cup Number goals in the United Kingdom ( World Cup Number ) from 1930 to 2018 . ",
+      "It can be seen that Russia_2018 , with a FIFA of 171 scored ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Countries": "Russia 2018",
+         "Number of goals scored": "169"
+      },
+      {
+         "Countries": "Brazil 2014",
+         "Number of goals scored": "171"
+      },
+      {
+         "Countries": "South Africa 2010",
+         "Number of goals scored": "143"
+      },
+      {
+         "Countries": "Germany 2006",
+         "Number of goals scored": "147"
+      },
+      {
+         "Countries": "South Korea / Japan 2002",
+         "Number of goals scored": "161"
+      },
+      {
+         "Countries": "France 1998",
+         "Number of goals scored": "171"
+      },
+      {
+         "Countries": "USA 1994",
+         "Number of goals scored": "141"
+      },
+      {
+         "Countries": "Italy 1990",
+         "Number of goals scored": "115"
+      },
+      {
+         "Countries": "Mexico 1986",
+         "Number of goals scored": "132"
+      },
+      {
+         "Countries": "Spain 1982",
+         "Number of goals scored": "146"
+      },
+      {
+         "Countries": "Argentina 1978",
+         "Number of goals scored": "102"
+      },
+      {
+         "Countries": "Germany 1974",
+         "Number of goals scored": "97"
+      },
+      {
+         "Countries": "Mexico 1970",
+         "Number of goals scored": "95"
+      },
+      {
+         "Countries": "England 1966",
+         "Number of goals scored": "89"
+      },
+      {
+         "Countries": "Chile 1962",
+         "Number of goals scored": "89"
+      },
+      {
+         "Countries": "Sweden 1958",
+         "Number of goals scored": "126"
+      },
+      {
+         "Countries": "Switzerland 1954",
+         "Number of goals scored": "140"
+      },
+      {
+         "Countries": "Brazil 1950",
+         "Number of goals scored": "88"
+      },
+      {
+         "Countries": "France 1938",
+         "Number of goals scored": "84"
+      },
+      {
+         "Countries": "Italy 1934",
+         "Number of goals scored": "70"
+      },
+      {
+         "Countries": "Uruguay 1930",
+         "Number of goals scored": "70"
+      }
+   ],
+   "gold": "How many goals were scored in the 2014 FIFA World Cup ? A total of 171 goals were scored across the 2014 FIFA World Cup held in Brazil . This marked a joint record for the tournament along with France 1998 . The goal-fest in 2014 was thanks to some unusually high-scoring games , including Netherlands beating Spain 5 - 1 in the group stages and , most famously , Germany embarrassing Brazil 7 - 1 at the semi-final stage .\n"
+}

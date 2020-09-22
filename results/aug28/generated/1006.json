@@ -1,0 +1,36 @@
+{
+   "title": "Public opinions on gay marriage in Italy 2016",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , it was found that 52 % of people living in gay on the Italy 2016 in the Italy . ",
+      "A further 40 % of respondents claimed that they I_don\u00b4t_know on the social network ."
+   ],
+   "trends": [
+      {
+         "8": "2"
+      },
+      {
+         "2": "1",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "I don\u00b4t know",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "In favor",
+         "Share of respondents": "40"
+      },
+      {
+         "Response": "Against",
+         "Share of respondents": "52"
+      }
+   ],
+   "gold": "The statistic illustrates the public opinion on gay marriage among Italians in 2016 . According to the data , more than half of Italian adults were against same-sex marriage ( 52 percent ) . Italy recognized same-sex civil unions ( not marriage ) in June 2016 , granting to same-sex couples most of the rights of marriage except parenting ( stepchild or joint adoption ) .\n"
+}

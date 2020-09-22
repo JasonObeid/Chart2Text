@@ -1,0 +1,61 @@
+{
+   "title": "Top U.S. states by number of hogs and pigs 2019",
+   "xAxis": "State",
+   "yAxis": "Number in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the average Number of states by in the number from 2019 to . ",
+      "In 2019 , the Number of thousands states in the number amounted to approximately 23500 thousands ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "Iowa",
+         "Number in thousands": "23500"
+      },
+      {
+         "State": "North Carolina",
+         "Number in thousands": "8900"
+      },
+      {
+         "State": "Minnesota",
+         "Number in thousands": "8700"
+      },
+      {
+         "State": "Illinois",
+         "Number in thousands": "5200"
+      },
+      {
+         "State": "Indiana",
+         "Number in thousands": "4150"
+      },
+      {
+         "State": "Nebraska",
+         "Number in thousands": "3550"
+      },
+      {
+         "State": "Missouri",
+         "Number in thousands": "3500"
+      },
+      {
+         "State": "Ohio",
+         "Number in thousands": "2600"
+      },
+      {
+         "State": "Oklahoma",
+         "Number in thousands": "2170"
+      },
+      {
+         "State": "Kansas",
+         "Number in thousands": "2040"
+      }
+   ],
+   "gold": "Hogs and pigs are one of the main sources of meat in the United States , and there is a thriving domestic pork market . As of March 2019 , Iowa had an inventory of about 23.5 million hogs and pigs , making it the top producer of swine in the country by a large margin . In that same year , the second largest producer of hogs and pigs was North Carolina , with about 8.9 million head .\n"
+}

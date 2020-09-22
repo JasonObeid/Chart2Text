@@ -1,0 +1,46 @@
+{
+   "title": "Olympic Summer Games - revenue generated from domestic sponsorships 1996 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Domestic sponsorship revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey among a Olympic of people in Olympic Summer Games 1996 . ",
+      "It was found that the Olympic of people revenue generated of the country will be 2016_Rio , with a total of 1218 revenue million ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "0",
+         "21": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016 Rio",
+         "Domestic sponsorship revenue in million U.S. dollars": "848"
+      },
+      {
+         "Year": "2012 London",
+         "Domestic sponsorship revenue in million U.S. dollars": "1150"
+      },
+      {
+         "Year": "2008 Beijing",
+         "Domestic sponsorship revenue in million U.S. dollars": "1218"
+      },
+      {
+         "Year": "2004 Athens",
+         "Domestic sponsorship revenue in million U.S. dollars": "302"
+      },
+      {
+         "Year": "2000 Sydney",
+         "Domestic sponsorship revenue in million U.S. dollars": "492"
+      },
+      {
+         "Year": "1996 Atlanta",
+         "Domestic sponsorship revenue in million U.S. dollars": "426"
+      }
+   ],
+   "gold": "The statistic shows the revenue generated from domestic sponsorships at the Olympic Summer Games from 1996 to 2016 . The 2016 Olympic Games in Rio de Janeiro generated about 848 million U.S. dollars in sponsorship revenues .\n"
+}

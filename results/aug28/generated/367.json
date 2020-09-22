@@ -1,0 +1,62 @@
+{
+   "title": "Most expensive gTLD auction prices 2016",
+   "xAxis": "Top Level Domains",
+   "yAxis": "Sales price in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Most expensive gTLD employees in the gTLD in 2016 . ",
+      "The .web_(Jul_'16) is the Most Sales that divides the Most with over 135.0 million U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Top Level Domains": ".web (Jul '16)",
+         "Sales price in million U.S. dollars": "135.0"
+      },
+      {
+         "Top Level Domains": ".shop (Jan '16)",
+         "Sales price in million U.S. dollars": "41.5"
+      },
+      {
+         "Top Level Domains": ".app (Feb '15)",
+         "Sales price in million U.S. dollars": "25.0"
+      },
+      {
+         "Top Level Domains": ".tech (Sep '14)",
+         "Sales price in million U.S. dollars": "6.76"
+      },
+      {
+         "Top Level Domains": ".realty (Oct '14)",
+         "Sales price in million U.S. dollars": "5.59"
+      },
+      {
+         "Top Level Domains": ".salon (Oct '14)",
+         "Sales price in million U.S. dollars": "5.1"
+      },
+      {
+         "Top Level Domains": ".buy (Sep '14)",
+         "Sales price in million U.S. dollars": "4.59"
+      },
+      {
+         "Top Level Domains": ".mls (Dec '14)",
+         "Sales price in million U.S. dollars": "3.36"
+      },
+      {
+         "Top Level Domains": ".baby (Dec '14)",
+         "Sales price in million U.S. dollars": "3.09"
+      },
+      {
+         "Top Level Domains": ".vip (Sep '14)",
+         "Sales price in million U.S. dollars": "3.0"
+      }
+   ],
+   "gold": "The statistic presents a ranking of the most expensive generic top-level domains ( gTLD ) worldwide . In February 2015 , Google purchased the .app domain for 25 million U.S. dollars . Online retailer Amazon spent 4.59 million U.S. dollars for the gTLD .buy in September 2014 .\n"
+}

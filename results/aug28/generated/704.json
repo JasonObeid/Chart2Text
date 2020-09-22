@@ -1,0 +1,75 @@
+{
+   "title": "Number of pet stores in Canada by region 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the total Number of Canada stores in the Canada from Northwest_Territories to Ontario . ",
+      "In Ontario , there were a total of 762 Canada stores in the Canada . ",
+      "Canada is one of the most widespread pet in the world ."
+   ],
+   "trends": [
+      {
+         "13": "11",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "8": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of stores": "762"
+      },
+      {
+         "Month": "Quebec",
+         "Number of stores": "469"
+      },
+      {
+         "Month": "British Columbia",
+         "Number of stores": "348"
+      },
+      {
+         "Month": "Alberta",
+         "Number of stores": "278"
+      },
+      {
+         "Month": "Manitoba",
+         "Number of stores": "63"
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of stores": "55"
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of stores": "49"
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of stores": "39"
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of stores": "22"
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of stores": "7"
+      },
+      {
+         "Month": "Yukon",
+         "Number of stores": "3"
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of stores": "3"
+      }
+   ],
+   "gold": "As of December 2019 , Ontario , Canada 's most populous province , was home to the most pet and pet supplies stores across the country . At that time , there were 762 such stores in Ontario . Quebec and British Columbia , the second and third most populous provinces , came next in the ranking with 469 and 348 stores respectively .\n"
+}

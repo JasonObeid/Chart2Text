@@ -1,0 +1,53 @@
+{
+   "title": "Total number of employees of Kohl 's 2012 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of employees the Kohl between 2012 and 2018 . ",
+      "In 2018 , Kohl employed approximately 129 people around the world ."
+   ],
+   "trends": [
+      {
+         "11": "6",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees in thousands": "129"
+      },
+      {
+         "Year": "2017",
+         "Number of employees in thousands": "137"
+      },
+      {
+         "Year": "2016",
+         "Number of employees in thousands": "138"
+      },
+      {
+         "Year": "2015",
+         "Number of employees in thousands": "140"
+      },
+      {
+         "Year": "2014",
+         "Number of employees in thousands": "137"
+      },
+      {
+         "Year": "2013",
+         "Number of employees in thousands": "137"
+      },
+      {
+         "Year": "2012",
+         "Number of employees in thousands": "135"
+      }
+   ],
+   "gold": "This timeline depicts the total number of employees of the Kohl 's Corporation from 2012 to 2018 . In 2018 , the Kohl 's Corporation employed 129,000 associates .\n"
+}

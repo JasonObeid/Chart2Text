@@ -1,0 +1,51 @@
+{
+   "title": "Suicides in Sweden in 2018 , by gender and age group",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Suicides Sweden of 2018 by gender in the age in 2018 , group . ",
+      "During the survey , 122 % of the Suicides were female inhabitants in the Sweden ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "75 years and older",
+         "Men": "110",
+         "Women": "49"
+      },
+      {
+         "Year": "65-74 years",
+         "Men": "122",
+         "Women": "42"
+      },
+      {
+         "Year": "45-64 years",
+         "Men": "291",
+         "Women": "137"
+      },
+      {
+         "Year": "15-44 years",
+         "Men": "361",
+         "Women": "151"
+      },
+      {
+         "Year": "1-14 years",
+         "Men": "5",
+         "Women": "4"
+      }
+   ],
+   "gold": "The highest number of suicides in Sweden in 2018 was committed among men from 14 to 44 years , amounting to 361 suicides . The corresponding figure among women in this age group was 151 , a significantly lower number . For all age groups , more suicides were committed among men than among women .\n"
+}

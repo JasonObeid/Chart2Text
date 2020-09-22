@@ -1,0 +1,62 @@
+{
+   "title": "Leading cigarette brands in the United Kingdom ( UK ) 2016 , by sales value",
+   "xAxis": "Month",
+   "yAxis": "Sales value in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Leading cigarette Sales of the United Kingdom Kingdom UK in 2016 . ",
+      "According to the source , Sterling had the largest Leading cigarette of 1511.3 million GBP ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Sterling",
+         "Sales value in million GBP": "1511.3"
+      },
+      {
+         "Month": "Mayfair",
+         "Sales value in million GBP": "1046.1"
+      },
+      {
+         "Month": "Lambert and Butler",
+         "Sales value in million GBP": "787.7"
+      },
+      {
+         "Month": "Marlboro",
+         "Sales value in million GBP": "782.2"
+      },
+      {
+         "Month": "Richmond",
+         "Sales value in million GBP": "724.3"
+      },
+      {
+         "Month": "Players",
+         "Sales value in million GBP": "718.9"
+      },
+      {
+         "Month": "John Player Special",
+         "Sales value in million GBP": "677.2"
+      },
+      {
+         "Month": "Carlton",
+         "Sales value in million GBP": "540.6"
+      },
+      {
+         "Month": "Silk Cut",
+         "Sales value in million GBP": "503.5"
+      },
+      {
+         "Month": "Windsor",
+         "Sales value in million GBP": "461.9"
+      }
+   ],
+   "gold": "This statistic shows the leading cigarette brands in the United Kingdom ( UK ) in 2016 , by total value of sales . The Sterling cigarette brand was the top selling cigarette brand in 2016 , generating sales of approximately 1.51 billion British pounds . The most expensive country in which to purchase cigarettes in Europe is the United Kingdom ( UK ) .\n"
+}

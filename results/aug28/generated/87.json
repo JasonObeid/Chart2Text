@@ -1,0 +1,70 @@
+{
+   "title": "Most valuable Italian brands in 2019",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "With a Brand value of around 10711 million U.S. dollars , Eni was the leading Eni with a value of 10319 million U.S. dollars . ",
+      "This was followed by Enel , Gucci with 10192 million U.S. dollars , and TIM Eni ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "11": "0",
+         "15": "0",
+         "20": "1"
+      },
+      {
+         "4": "1",
+         "6": "2",
+         "8": "2",
+         "14": "3",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Eni",
+         "Brand value in million U.S. dollars": "10711"
+      },
+      {
+         "Brand": "Enel",
+         "Brand value in million U.S. dollars": "10319"
+      },
+      {
+         "Brand": "Gucci",
+         "Brand value in million U.S. dollars": "10192"
+      },
+      {
+         "Brand": "TIM",
+         "Brand value in million U.S. dollars": "8707"
+      },
+      {
+         "Brand": "Ferrari",
+         "Brand value in million U.S. dollars": "8327"
+      },
+      {
+         "Brand": "Poste Italiane Spa",
+         "Brand value in million U.S. dollars": "3120"
+      },
+      {
+         "Brand": "Generali",
+         "Brand value in million U.S. dollars": "7099"
+      },
+      {
+         "Brand": "Intesa Sanpaolo Group",
+         "Brand value in million U.S. dollars": "5466"
+      },
+      {
+         "Brand": "Prada",
+         "Brand value in million U.S. dollars": "4489"
+      },
+      {
+         "Brand": "Ray-Ban",
+         "Brand value in million U.S. dollars": "3897"
+      }
+   ],
+   "gold": "The multinational company Eni S.p.A. heads the ranking of the most valuable Italian brands , reaching a brand value of 10.7 billion U.S. dollars as of 2019 . The energy company outranks Enel and Gucci with brand values of roughly 10.3 and 10.1 billion dollars , respectively . TIM followed directly with an estimated brand equity of about 8.7 billion dollars .\n"
+}

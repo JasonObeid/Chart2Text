@@ -1,0 +1,39 @@
+{
+   "title": "Number of earthquakes in Italy 2018 - 2019 , by magnitude",
+   "xAxis": "Magnitude",
+   "yAxis": "Number of earthquakes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the Number of earthquakes in the Italy as of 2019 . ",
+      "The survey period , percentage of all Number earthquakes ."
+   ],
+   "trends": [
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Magnitude": "Magnitude 0+",
+         "Number of earthquakes": "21869"
+      },
+      {
+         "Magnitude": "Magnitude 2+",
+         "Number of earthquakes": "2384"
+      },
+      {
+         "Magnitude": "Magnitude 3+",
+         "Number of earthquakes": "226"
+      },
+      {
+         "Magnitude": "Magnitude 4+",
+         "Number of earthquakes": "20"
+      },
+      {
+         "Magnitude": "Magnitude 5.5+",
+         "Number of earthquakes": "0"
+      }
+   ],
+   "gold": "The statistic shows the number of earthquakes in Italy from March 2018 to March 2019 , broken down by magnitude . According to data , no earthquakes with 5.5+ magnitude occurred in Italy over the period considered .\n"
+}

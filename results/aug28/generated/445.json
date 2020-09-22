@@ -1,0 +1,136 @@
+{
+   "title": "Monthly retail sales of beer , wine and liquor stores in Canada 2015 to 2019",
+   "labels": [
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The Monthly retail sales beer one dozen , or 12 , wine in Canada was 1.85 Canadian dollars in 2019 . ",
+      "This sales has remained relatively stable over the given time period , not rising above 1.9 or below 1.81 Canadian dollars . ",
+      "The Canadian egg marketCanada produces an increasing number of wine each year ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "3",
+            "2"
+         ]
+      },
+      {
+         "15": [
+            "1",
+            "2"
+         ],
+         "18": [
+            "11",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec",
+         "2015": "1.82",
+         "2016": "1.86",
+         "2017": "1.94",
+         "2018": "1.98",
+         "2019": "0"
+      },
+      {
+         "Month": "Nov",
+         "2015": "1.81",
+         "2016": "1.9",
+         "2017": "1.91",
+         "2018": "1.98",
+         "2019": "0"
+      },
+      {
+         "Month": "Oct",
+         "2015": "1.77",
+         "2016": "1.88",
+         "2017": "1.93",
+         "2018": "2.01",
+         "2019": "0"
+      },
+      {
+         "Month": "Sep",
+         "2015": "1.84",
+         "2016": "1.85",
+         "2017": "1.91",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "Aug",
+         "2015": "1.84",
+         "2016": "1.85",
+         "2017": "1.89",
+         "2018": "2.02",
+         "2019": "0"
+      },
+      {
+         "Month": "Jul",
+         "2015": "1.8",
+         "2016": "1.83",
+         "2017": "1.93",
+         "2018": "1.98",
+         "2019": "0"
+      },
+      {
+         "Month": "Jun",
+         "2015": "1.77",
+         "2016": "1.86",
+         "2017": "1.91",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "May",
+         "2015": "1.73",
+         "2016": "1.9",
+         "2017": "1.9",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "Apr",
+         "2015": "1.77",
+         "2016": "1.85",
+         "2017": "1.87",
+         "2018": "1.97",
+         "2019": "0"
+      },
+      {
+         "Month": "Mar",
+         "2015": "1.77",
+         "2016": "1.88",
+         "2017": "1.87",
+         "2018": "1.94",
+         "2019": "0"
+      },
+      {
+         "Month": "Feb",
+         "2015": "1.73",
+         "2016": "1.87",
+         "2017": "1.89",
+         "2018": "1.93",
+         "2019": "2.01"
+      },
+      {
+         "Month": "Jan",
+         "2015": "1.71",
+         "2016": "1.81",
+         "2017": "1.87",
+         "2018": "1.95",
+         "2019": "2.02"
+      }
+   ],
+   "gold": "Retail sales of beer , wine and liquor stores reached approximately 2.01 billion Canadian dollars in February 2019 , an increase of around 80 million Canadian dollars compared to February in the previous year . Monthly sales have witnessed a steady increase over the past five years . Of these beverages , wine is the most popular among Canadians , followed by domestic and imported beer .\n"
+}

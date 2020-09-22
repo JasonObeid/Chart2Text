@@ -1,0 +1,101 @@
+{
+   "title": "U.S. wind power generation 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Net generation in billion kilowatt hours",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Net generation of the development of wind power generation 2000 2018 from 2000 to 2018 . ",
+      "In 2018 , the Net generation of the U.S. was 274.95 billion kilowatt ."
+   ],
+   "trends": [
+      {
+         "16": "18",
+         "18": "0"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Net generation in billion kilowatt hours": "274.95"
+      },
+      {
+         "Year": "2017",
+         "Net generation in billion kilowatt hours": "254.3"
+      },
+      {
+         "Year": "2016",
+         "Net generation in billion kilowatt hours": "226.99"
+      },
+      {
+         "Year": "2015",
+         "Net generation in billion kilowatt hours": "190.72"
+      },
+      {
+         "Year": "2014",
+         "Net generation in billion kilowatt hours": "181.66"
+      },
+      {
+         "Year": "2013",
+         "Net generation in billion kilowatt hours": "167.84"
+      },
+      {
+         "Year": "2012",
+         "Net generation in billion kilowatt hours": "140.82"
+      },
+      {
+         "Year": "2011",
+         "Net generation in billion kilowatt hours": "120.18"
+      },
+      {
+         "Year": "2010",
+         "Net generation in billion kilowatt hours": "94.65"
+      },
+      {
+         "Year": "2009",
+         "Net generation in billion kilowatt hours": "73.89"
+      },
+      {
+         "Year": "2008",
+         "Net generation in billion kilowatt hours": "55.36"
+      },
+      {
+         "Year": "2007",
+         "Net generation in billion kilowatt hours": "34.45"
+      },
+      {
+         "Year": "2006",
+         "Net generation in billion kilowatt hours": "26.59"
+      },
+      {
+         "Year": "2005",
+         "Net generation in billion kilowatt hours": "17.81"
+      },
+      {
+         "Year": "2004",
+         "Net generation in billion kilowatt hours": "14.14"
+      },
+      {
+         "Year": "2003",
+         "Net generation in billion kilowatt hours": "11.19"
+      },
+      {
+         "Year": "2002",
+         "Net generation in billion kilowatt hours": "10.35"
+      },
+      {
+         "Year": "2001",
+         "Net generation in billion kilowatt hours": "6.74"
+      },
+      {
+         "Year": "2000",
+         "Net generation in billion kilowatt hours": "5.59"
+      }
+   ],
+   "gold": "In 2018 , around 275 terawatt hours of wind electricity were generated in the United States . That year , wind power was by far the largest non-hydroelectric renewable energy source used in the United States , followed by solar and thermal . Clean energy on the rise The highest increase in clean energy investments came in the years leading up to the 2008 financial crisis .\n"
+}

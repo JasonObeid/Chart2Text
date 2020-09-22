@@ -1,0 +1,46 @@
+{
+   "title": "UK survey : when most consumers will start their Christmas shopping in the UK in 2013",
+   "xAxis": "Month",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic illustrates the results of a survey about the leading UK survey when most in the UK ( ) in 2013 , shopping UK . ",
+      "During the survey , it was found that 31 % of the respondents who had a November ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "November",
+         "Share of respondents": "31"
+      },
+      {
+         "Month": "Alredy bought presents",
+         "Share of respondents": "25"
+      },
+      {
+         "Month": "October",
+         "Share of respondents": "17"
+      },
+      {
+         "Month": "December",
+         "Share of respondents": "17"
+      },
+      {
+         "Month": "September",
+         "Share of respondents": "8"
+      },
+      {
+         "Month": "The week before Christmas",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "When are consumers more likely to their Christmas shopping in the UK , September 2013 . The majority of the consumers in the UK plan to do their Christmas shopping in November . One in four had already bought presents while 2 percent of the consumers planed to go shopping in December or the week before Christmas .\n"
+}

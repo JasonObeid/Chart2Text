@@ -1,0 +1,97 @@
+{
+   "title": "Rate of recidivism among sentenced prisoner 2006 - 2013 , by number of sentences",
+   "labels": [
+      "Year",
+      "One sentence",
+      "Two sentences",
+      "Three to five sentences",
+      "Six or more sentences"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Rate of recidivism in the United Kingdom ( Rate ) from 2006 to 2013 , by number . ",
+      "The Rate of recidivism in Rate stood at 20 to 68 % in 2013 ."
+   ],
+   "trends": [
+      {
+         "15": [
+            "7",
+            "0"
+         ],
+         "17": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "10": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "One sentence": "38",
+         "Two sentences": "60",
+         "Three to five sentences": "68",
+         "Six or more sentences": "73"
+      },
+      {
+         "Year": "2012",
+         "One sentence": "36",
+         "Two sentences": "57",
+         "Three to five sentences": "69",
+         "Six or more sentences": "74"
+      },
+      {
+         "Year": "2011",
+         "One sentence": "41",
+         "Two sentences": "59",
+         "Three to five sentences": "68",
+         "Six or more sentences": "75"
+      },
+      {
+         "Year": "2010",
+         "One sentence": "41",
+         "Two sentences": "60",
+         "Three to five sentences": "66",
+         "Six or more sentences": "73"
+      },
+      {
+         "Year": "2009",
+         "One sentence": "39",
+         "Two sentences": "57",
+         "Three to five sentences": "64",
+         "Six or more sentences": "75"
+      },
+      {
+         "Year": "2008",
+         "One sentence": "45",
+         "Two sentences": "60",
+         "Three to five sentences": "69",
+         "Six or more sentences": "75"
+      },
+      {
+         "Year": "2007",
+         "One sentence": "47",
+         "Two sentences": "63",
+         "Three to five sentences": "68",
+         "Six or more sentences": "79"
+      },
+      {
+         "Year": "2006",
+         "One sentence": "49",
+         "Two sentences": "63",
+         "Three to five sentences": "72",
+         "Six or more sentences": "78"
+      }
+   ],
+   "gold": "This statistic shows the rate of recidivism of sentenced prisoners in Finland from 2006 to 2013 , broken down by the number of prison sentences . 73 percent of sentenced prisoners with six or more previous prison sentences released in 2013 returned to prison within a five-year period .\n"
+}

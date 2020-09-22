@@ -1,0 +1,44 @@
+{
+   "title": "Spain : number of hotels and similar accommodation by number of rooms 2015",
+   "xAxis": "Year",
+   "yAxis": "Number of hotels",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of Spain hotels similar from 250_rooms_or_more to Less_than_25_rooms . ",
+      "As of the third quarter of 2015 , there were 12170 hotels worldwide ."
+   ],
+   "trends": [
+      {
+         "10": "4",
+         "12": "0"
+      },
+      {
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "Less than 25 rooms",
+         "Number of hotels": "12170"
+      },
+      {
+         "Year": "From 25 to 99 rooms",
+         "Number of hotels": "5111"
+      },
+      {
+         "Year": "100 rooms or more",
+         "Number of hotels": "2437"
+      },
+      {
+         "Year": "From 100 to 249 rooms",
+         "Number of hotels": "1758"
+      },
+      {
+         "Year": "250 rooms or more",
+         "Number of hotels": "679"
+      }
+   ],
+   "gold": "This statistic shows the number of hotels and similar accommodation in Spain in 2015 , by number of rooms . In 2015 there were over 12 thousand hotels with less than 25 rooms in Spain .\n"
+}

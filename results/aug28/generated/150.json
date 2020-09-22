@@ -1,0 +1,48 @@
+{
+   "title": "Global mobile video traffic 2017 to 2022",
+   "xAxis": "Year",
+   "yAxis": "Traffic in PB per month",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Traffic of per month of the mobile video traffic 2017 from to 2022 . ",
+      "According to the source , the Global of the Global was 6821 million per month ."
+   ],
+   "trends": [
+      {
+         "15": "5",
+         "17": "0"
+      },
+      {
+         "11": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2022",
+         "Traffic in PB per month": "60889"
+      },
+      {
+         "Year": "2021",
+         "Traffic in PB per month": "42734"
+      },
+      {
+         "Year": "2020",
+         "Traffic in PB per month": "29149"
+      },
+      {
+         "Year": "2019",
+         "Traffic in PB per month": "19279"
+      },
+      {
+         "Year": "2018",
+         "Traffic in PB per month": "12051"
+      },
+      {
+         "Year": "2017",
+         "Traffic in PB per month": "6821"
+      }
+   ],
+   "gold": "This statistic provides information on the level of global mobile video traffic from 2017 to 2022 . In 2018 , global mobile video traffic amounted to 12,051 petabytes per month and is expected to multiply to 60,889 PB per month in 2022 .\n"
+}

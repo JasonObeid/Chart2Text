@@ -1,0 +1,89 @@
+{
+   "title": "Alibaba : quarterly gross merchandise volume Q2 2012-Q2 2016",
+   "xAxis": "Quarter",
+   "yAxis": "Total GMV in billion yuan",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on Alibaba 's Total gross merchandise volume from the second Quarter of 2011 to the second Quarter of 2016 . ",
+      "As of the last reported Quarter , the website 's Total GMV amounted to 837.0 billion yuan ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Quarter": "Q2 '16",
+         "Total GMV in billion yuan": "837.0"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Total GMV in billion yuan": "741.94"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Total GMV in billion yuan": "964.0"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Total GMV in billion yuan": "713.0"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Total GMV in billion yuan": "673.0"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Total GMV in billion yuan": "600.0"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Total GMV in billion yuan": "787.0"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Total GMV in billion yuan": "556.0"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Total GMV in billion yuan": "501.0"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Total GMV in billion yuan": "430.0"
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Total GMV in billion yuan": "529.0"
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Total GMV in billion yuan": "374.0"
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Total GMV in billion yuan": "345.0"
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Total GMV in billion yuan": "294.0"
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Total GMV in billion yuan": "346.0"
+      },
+      {
+         "Quarter": "Q3 '12",
+         "Total GMV in billion yuan": "228.0"
+      },
+      {
+         "Quarter": "Q2 '12",
+         "Total GMV in billion yuan": "209.0"
+      }
+   ],
+   "gold": "This statistic gives information on Alibaba 's total gross merchandise volume from the second quarter of 2012 to the second quarter of 2016 . As of the last reported quarter , the website 's total GMV amounted to 837 billion yuan with 75 percent of gross merchandise sales being generated via mobile .\n"
+}

@@ -38,8 +38,8 @@ python3 model/summarize.py --model_path june9line-40.pth --table_path data/line/
 --output_path results/june9line/templateOutput_609gp40_beam=4_batch=8.txt \
 --title_path data/line/test/testTitle.txt --beam_size 4 --batch_size 8
 
-python3 model/summarize.py --model_path aug17_untemplated-80.pth --table_path data/test/testData.txt \
---output_path results/aug17/templateOutput_untemplated-p80.txt \
+python3 model/summarize.py --model_path aug28-80.pth --table_path data/test/testData.txt \
+--output_path results/aug28/templateOutput-p80.txt \
 --title_path data/test/testTitle.txt --beam_size 4 --batch_size 8
 
 perl model/src/evaluation/multi-bleu.perl data/test/testOriginalSummary.txt < results/july6/generated-p80.txt
@@ -104,3 +104,6 @@ BLEU = 17.06, 40.3/19.2/13.2/10.3 (BP=0.948, ratio=0.949, hyp_len=63182, ref_len
 
 baseline
 BLEU = 1.11, 15.7/1.7/0.5/0.1 (BP=1.000, ratio=1.186, hyp_len=78928, ref_len=66547)
+
+Aug 28, trained without posi embeddings for ablation study
+BLEU = 18.12, 57.8/29.2/19.9/15.2 (BP=0.678, ratio=0.720, hyp_len=47933, ref_len=66547)

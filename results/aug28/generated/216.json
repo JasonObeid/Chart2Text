@@ -1,0 +1,31 @@
+{
+   "title": "Fifty Shades of Grey : U.S. sales figures in 2012 , by platform",
+   "xAxis": "Copy Type",
+   "yAxis": "Number of copies in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the Fifty Shades Grey of copies in the sales as of 2017 . ",
+      "During the survey period , it was found that millions of copies stated that they had between Digital and Print ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": "1",
+         "20": "1",
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Copy Type": "Print",
+         "Number of copies in millions": "29"
+      },
+      {
+         "Copy Type": "Digital",
+         "Number of copies in millions": "15"
+      }
+   ],
+   "gold": "The statistic presents U.S. sales figures of the 'Fifty Shades of Grey ' trilogy in 2012 , broken down by platform . The book sold 29 million print and 15 million digital copies in 2012 . It topped the 2012 best-seller lists in the categories adult fiction and romance .\n"
+}

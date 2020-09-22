@@ -1,0 +1,46 @@
+{
+   "title": "Deaths per day in West African countries with 2014 Ebola outbreak by disease",
+   "xAxis": "Diseases",
+   "yAxis": "Number of deaths per day",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Deaths per day West in the United Kingdom ( West African ) as of 2014 . ",
+      "According to the source , Ebola was the Deaths that year , with a total of 685 Number deaths day ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "16": "5"
+      }
+   ],
+   "data": [
+      {
+         "Diseases": "Ebola",
+         "Number of deaths per day": "4"
+      },
+      {
+         "Diseases": "Lassa fever",
+         "Number of deaths per day": "14"
+      },
+      {
+         "Diseases": "Tuberculosis",
+         "Number of deaths per day": "110"
+      },
+      {
+         "Diseases": "Diarrhoea",
+         "Number of deaths per day": "404"
+      },
+      {
+         "Diseases": "Malaria",
+         "Number of deaths per day": "552"
+      },
+      {
+         "Diseases": "HIV/AIDS",
+         "Number of deaths per day": "685"
+      }
+   ],
+   "gold": "This statistic shows the number of deaths per day by selected diseases in West African countries that are suffering from the Ebola outbreak in 2014 . Malaria causes some 552 deaths per day in these countries , while Ebola causes around four deaths per day ( as of August 2014 ) . Ebola compared to other diseases Ebola first emerged in 1976 in Sudan and the Democratic Republic of Congo .\n"
+}

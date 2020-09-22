@@ -1,0 +1,49 @@
+{
+   "title": "Total number of gang-related homicides in the United States 2012",
+   "xAxis": "Year",
+   "yAxis": "Total number of homicides",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Total number of the homicides worldwide from 2007 to 2012 . ",
+      "In 2007 , the Total number of the United States gang-related homicides amounted to 1975 million homicides ."
+   ],
+   "trends": [
+      {
+         "12": "5",
+         "14": "0"
+      },
+      {
+         "1": "5",
+         "13": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Total number of homicides": "2363"
+      },
+      {
+         "Year": "2011",
+         "Total number of homicides": "1824"
+      },
+      {
+         "Year": "2010",
+         "Total number of homicides": "2020"
+      },
+      {
+         "Year": "2009",
+         "Total number of homicides": "2083"
+      },
+      {
+         "Year": "2008",
+         "Total number of homicides": "1659"
+      },
+      {
+         "Year": "2007",
+         "Total number of homicides": "1975"
+      }
+   ],
+   "gold": "Over 2,300 homicides were gang-related in the United States in 2012 . This was the highest amount since 2007 and a reversal of a negative trend from the previous two years . Violent crime Violent crime in the United States is not limited to gang violence , but the murders in this statistic compose a significant portion of the number of reported murders in those years .\n"
+}

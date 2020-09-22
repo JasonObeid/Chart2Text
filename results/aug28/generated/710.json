@@ -1,0 +1,68 @@
+{
+   "title": "Smartwatch global unit sales forecast 2014 to 2015",
+   "labels": [
+      "Year",
+      "Western Europe",
+      "Asia Pacific",
+      "North America",
+      "Central and Eastern Europe",
+      "China",
+      "South America",
+      "Middle East and Africa"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Smartwatch global unit sales forecast Smartwatch 2014 from to 2015 , . ",
+      "In 2015 , the estimated Smartwatch global unit of all goods '' amounted to approximately 5.4 billion U.S. dollars in 2015 ."
+   ],
+   "trends": [
+      {
+         "12": [
+            "1",
+            "0"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "0",
+            "1"
+         ],
+         "20": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Western Europe": "5.4",
+         "Asia Pacific": "6.7",
+         "North America": "7.4",
+         "Central and Eastern Europe": "1.3",
+         "China": "3.6",
+         "South America": "0.6",
+         "Middle East and Africa": "1.1"
+      },
+      {
+         "Year": "2014",
+         "Western Europe": "0.8",
+         "Asia Pacific": "1.0",
+         "North America": "1.2",
+         "Central and Eastern Europe": "0.2",
+         "China": "0.5",
+         "South America": "0.1",
+         "Middle East and Africa": "0.2"
+      }
+   ],
+   "gold": "The statistic shows the unit sales of smartwatches worldwide from 2014 to 2015 , by region . For 2015 , smartwatch sales are projected to total 7.4 million units in North America .\n"
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Most popular multi-purpose cleaning products in the United Kingdom ( UK ) 2013",
+   "xAxis": "Product Type",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the Most popular multi-purpose cleaning products United in the Kingdom as of 2013 . ",
+      "During the survey , it was found that the Flash accounted for 38 % of the Cilit_bang with 20 % of the Cilit_bang respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "12": "0",
+         "16": "7",
+         "18": "7",
+         "22": "7"
+      }
+   ],
+   "data": [
+      {
+         "Product Type": "Flash",
+         "Share of respondents currently purchasing": "38"
+      },
+      {
+         "Product Type": "Mr Muscle",
+         "Share of respondents currently purchasing": "31"
+      },
+      {
+         "Product Type": "Dettol",
+         "Share of respondents currently purchasing": "30"
+      },
+      {
+         "Product Type": "Supermarket's own spray cleaner",
+         "Share of respondents currently purchasing": "28"
+      },
+      {
+         "Product Type": "Cif",
+         "Share of respondents currently purchasing": "22"
+      },
+      {
+         "Product Type": "Cif (cream)",
+         "Share of respondents currently purchasing": "22"
+      },
+      {
+         "Product Type": "Dettol (wipes)",
+         "Share of respondents currently purchasing": "21"
+      },
+      {
+         "Product Type": "Cilit bang",
+         "Share of respondents currently purchasing": "20"
+      }
+   ],
+   "gold": "This statistic displays the leading surface and multi-purpose cleaning product brands in the United Kingdom , according to a survey conducted November 2013 . Flash surface sprays ranked highest with 38 percent of respondents purchasing their products at the time of survey .\n"
+}

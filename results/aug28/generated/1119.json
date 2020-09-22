@@ -1,0 +1,33 @@
+{
+   "title": "Share of households with Netflix in the U.S. 2017",
+   "xAxis": "Year",
+   "yAxis": "Share of TV households",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Share of the households Netflix U.S. in Netflix 2011 and 2017 . ",
+      "In 2017 , the Share of Netflix U.S. in Netflix was at 54 TV households ."
+   ],
+   "trends": [
+      {
+         "13": "1",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Share of TV households": "54"
+      },
+      {
+         "Year": "2011",
+         "Share of TV households": "28"
+      }
+   ],
+   "gold": "The statistic shows the share of TV households with a Netflix subscription in the United States in 2011 and 2017 . In the presented time period , the share of TV households with Netflix rose from 28 percent to 54 percent .\n"
+}

@@ -1,0 +1,89 @@
+{
+   "title": "Super Bowl - monetary compensation for players playing in the game 2011 to 2020",
+   "labels": [
+      "Year",
+      "Winning team",
+      "Loosing team"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This graph shows the number of people that finding the Super Bowl monetary compensation for in Super Bowl from 2011 to 2020 . ",
+      "In 2015 , there were 130 Winning monetary compensation for in the players ."
+   ],
+   "trends": [
+      {
+         "18": [
+            "9",
+            "0"
+         ],
+         "20": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "0"
+         ],
+         "5": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Winning team": "130",
+         "Loosing team": "65"
+      },
+      {
+         "Year": "2019",
+         "Winning team": "124",
+         "Loosing team": "62"
+      },
+      {
+         "Year": "2018",
+         "Winning team": "118",
+         "Loosing team": "59"
+      },
+      {
+         "Year": "2017",
+         "Winning team": "112",
+         "Loosing team": "56"
+      },
+      {
+         "Year": "2016",
+         "Winning team": "107",
+         "Loosing team": "53"
+      },
+      {
+         "Year": "2015",
+         "Winning team": "102",
+         "Loosing team": "51"
+      },
+      {
+         "Year": "2014",
+         "Winning team": "97",
+         "Loosing team": "49"
+      },
+      {
+         "Year": "2013",
+         "Winning team": "92",
+         "Loosing team": "46"
+      },
+      {
+         "Year": "2012",
+         "Winning team": "88",
+         "Loosing team": "44"
+      },
+      {
+         "Year": "2011",
+         "Winning team": "88",
+         "Loosing team": "44"
+      }
+   ],
+   "gold": "This graph depicts the amount a NFL player will be paid for playing in the Super Bowl from 2011 to 2020 . In 2015 , a player on the winnning team in the Super Bowl would receive 102,000 U.S. dollars for winning the Super Bowl . The Pittsburgh Steelers have the most Super Bowl wins of all NFL teams .\n"
+}

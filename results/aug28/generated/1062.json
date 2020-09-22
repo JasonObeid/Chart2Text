@@ -1,0 +1,104 @@
+{
+   "title": "Average monthly salary in Sweden 2018 , by industry",
+   "xAxis": "Industry",
+   "yAxis": "Average salary in SEK",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , it was Financial_institutions_and_insurance_companies , with over 51700 million SEK of employees , making it the Average of the Professional_scientific_and_technical_companies with , and Professional_scientific_and_technical_companies were Manufacturing_industry or Professional_scientific_and_technical_companies . ",
+      "According to the survey , the Average of all time . ",
+      "What is the people of ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "10": "0",
+         "23": "2",
+         "27": "2",
+         "29": "7",
+         "31": "2"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Financial institutions and insurance companies",
+         "Average salary in SEK": "51700"
+      },
+      {
+         "Industry": "Information and communication companies",
+         "Average salary in SEK": "45100"
+      },
+      {
+         "Industry": "Professional scientific and technical companies",
+         "Average salary in SEK": "42800"
+      },
+      {
+         "Industry": "Electricity gas steam and hot water plants",
+         "Average salary in SEK": "42600"
+      },
+      {
+         "Industry": "Mines and quarries",
+         "Average salary in SEK": "39900"
+      },
+      {
+         "Industry": "Real estate companies",
+         "Average salary in SEK": "37200"
+      },
+      {
+         "Industry": "Public authorities and national defence",
+         "Average salary in SEK": "37000"
+      },
+      {
+         "Industry": "Manufacturing industry",
+         "Average salary in SEK": "36600"
+      },
+      {
+         "Industry": "Construction industry",
+         "Average salary in SEK": "35500"
+      },
+      {
+         "Industry": "Trade; repair establishments for motor vehicles and motorcycles",
+         "Average salary in SEK": "34100"
+      },
+      {
+         "Industry": "Water works; sewage plants waste-disposal plants",
+         "Average salary in SEK": "33800"
+      },
+      {
+         "Industry": "Other service companies",
+         "Average salary in SEK": "32200"
+      },
+      {
+         "Industry": "Human health and social work establishments",
+         "Average salary in SEK": "31800"
+      },
+      {
+         "Industry": "Educational establishments",
+         "Average salary in SEK": "31800"
+      },
+      {
+         "Industry": "Transport and storage companies",
+         "Average salary in SEK": "31300"
+      },
+      {
+         "Industry": "Administrative and support service companies",
+         "Average salary in SEK": "30100"
+      },
+      {
+         "Industry": "Establishments for culture entertainment and recreation",
+         "Average salary in SEK": "29800"
+      },
+      {
+         "Industry": "Companies in agriculture forestry and fishing",
+         "Average salary in SEK": "28200"
+      },
+      {
+         "Industry": "Hotels and restaurants",
+         "Average salary in SEK": "26100"
+      }
+   ],
+   "gold": "The highest average monthly salary in Sweden in 2018 was found within the sector of financial institutions and insurance companies . The average monthly salary for employees at companies within this sector amounted to almost 52 thousand Swedish kronor in 2018 , which is significantly higher than the average monthly salary for individuals with a tertiary education in Sweden . Increasing insurance companies and employees The number of insurance companies at the market in Sweden was decreasing for several years , but increased again in 2017 , and almost 21 thousand individuals in Sweden were employed within insurance companies during 2017 .\n"
+}

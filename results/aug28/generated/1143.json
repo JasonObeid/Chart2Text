@@ -1,0 +1,70 @@
+{
+   "title": "Number of earthquakes , by country 1900 to 2016",
+   "xAxis": "Country",
+   "yAxis": "Number of earthquakes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of earthquakes in the Number and earthquakes in 1900 , 2016 Country . ",
+      "From 1974 to the source , 157 earthquakes were recorded in China ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of earthquakes": "157"
+      },
+      {
+         "Country": "Indonesia",
+         "Number of earthquakes": "113"
+      },
+      {
+         "Country": "Iran (Islamic Republic of)",
+         "Number of earthquakes": "106"
+      },
+      {
+         "Country": "Turkey",
+         "Number of earthquakes": "77"
+      },
+      {
+         "Country": "Japan",
+         "Number of earthquakes": "61"
+      },
+      {
+         "Country": "Peru",
+         "Number of earthquakes": "44"
+      },
+      {
+         "Country": "United States of America",
+         "Number of earthquakes": "41"
+      },
+      {
+         "Country": "Italy",
+         "Number of earthquakes": "33"
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of earthquakes": "32"
+      },
+      {
+         "Country": "India",
+         "Number of earthquakes": "32"
+      },
+      {
+         "Country": "Greece",
+         "Number of earthquakes": "32"
+      },
+      {
+         "Country": "Mexico",
+         "Number of earthquakes": "32"
+      }
+   ],
+   "gold": "From 1990 to 2016 , China was the country with highest amount of earthquakes . Between that time period , they reported 157 earthquakes . Indonesia , Iran , Turkey , and Japan rounded out the top five countries with the most earthquakes .\n"
+}

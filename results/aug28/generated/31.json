@@ -1,0 +1,105 @@
+{
+   "title": "Unemployment rate in Scotland 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Unemployment rate in Scotland from 2000 to 2019 . ",
+      "In 2019 , the Unemployment rate in Scotland was at approximately 3.6 % ."
+   ],
+   "trends": [
+      {
+         "9": "0",
+         "11": "19"
+      },
+      {
+         "1": "19",
+         "11": "19"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Unemployment rate": "6.8"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "6.4"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "6.3"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "5.7"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "5.7"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "5.4"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "5.3"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "4.8"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "4.7"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "7"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "8.2"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "8.1"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "8"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "7.3"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "6"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "5.8"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "5.2"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "4.2"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "Year": "2019",
+         "Unemployment rate": "3.6"
+      }
+   ],
+   "gold": "This statistic shows the unemployment rate in Scotland between 2000 and 2019 . The unemployment rate was at its lowest in the most recent period , in 2019 , having fallen to 3.6 percentage points since the peak of 8.2 percent in 2010 .\n"
+}

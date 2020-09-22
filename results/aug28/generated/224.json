@@ -1,0 +1,71 @@
+{
+   "title": "Global youth unemployment rate until 2019",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Youth unemployment rate in Global from 2009 and 2019 . ",
+      "According to the source , the data are ILO estimates . ",
+      "In 2019 , the estimated Youth unemployment rate in Global was at 13.2 % ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": "13.2"
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": "13.2"
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": "13.2"
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": "13.2"
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": "13.1"
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": "13"
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": "13"
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": "12.9"
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": "12.8"
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": "12.9"
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": "12.9"
+      }
+   ],
+   "gold": "The statistic shows the global youth unemployment rate from 2009 to 2014 with a forecast up to 2019 . The global youth unemployment rate was at 12.9 percent in 2012 . Youth unemployment Just like the general unemployment rate , youth unemployment is recorded and monitored to gauge the job market situation in a country and worldwide .\n"
+}

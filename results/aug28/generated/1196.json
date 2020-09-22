@@ -1,0 +1,45 @@
+{
+   "title": "Streaming service subscribers in India 2017",
+   "xAxis": "Video-on-demand Service",
+   "yAxis": "Number of subscribers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the distribution of service subscribers of 2017 on India in the fiscal year of 2017 . ",
+      "According to the source , there were just over 63.0 millions subscribers in India ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Video-on-demand Service": "Hotstar",
+         "Number of subscribers in millions": "63.0"
+      },
+      {
+         "Video-on-demand Service": "Voot",
+         "Number of subscribers in millions": "13.2"
+      },
+      {
+         "Video-on-demand Service": "Amazon Video",
+         "Number of subscribers in millions": "9.5"
+      },
+      {
+         "Video-on-demand Service": "Sony LIV",
+         "Number of subscribers in millions": "4.6"
+      },
+      {
+         "Video-on-demand Service": "Netflix",
+         "Number of subscribers in millions": "4.2"
+      },
+      {
+         "Video-on-demand Service": "Ozee TV",
+         "Number of subscribers in millions": "2.4"
+      }
+   ],
+   "gold": "The graph shows the number of subscribers to selected video streaming services in India as of January 2017 . According to the source , Netflix had 4.2 million subscribers in India as of January 2017 .\n"
+}

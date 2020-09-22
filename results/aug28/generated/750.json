@@ -1,0 +1,84 @@
+{
+   "title": "Music genres preferred by consumers in the U.S. 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey about the Music genres preferred by in the U.S. in 2018 . ",
+      "During the survey , it was found that 56.1 % of the respondents most popular Easy_Listening would be Easy_Listening Rock ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "1",
+         "15": "5",
+         "18": "5",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Rock",
+         "Share of respondents": "56.8"
+      },
+      {
+         "Response": "Pop",
+         "Share of respondents": "56.1"
+      },
+      {
+         "Response": "Country",
+         "Share of respondents": "49.9"
+      },
+      {
+         "Response": "R&B and Soul",
+         "Share of respondents": "38.9"
+      },
+      {
+         "Response": "Hip Hop",
+         "Share of respondents": "37.4"
+      },
+      {
+         "Response": "Easy Listening",
+         "Share of respondents": "32.7"
+      },
+      {
+         "Response": "Electronic/dance",
+         "Share of respondents": "20.6"
+      },
+      {
+         "Response": "Jazz",
+         "Share of respondents": "20.2"
+      },
+      {
+         "Response": "Blues",
+         "Share of respondents": "20"
+      },
+      {
+         "Response": "Classical and Opera",
+         "Share of respondents": "17.4"
+      },
+      {
+         "Response": "Heavy metal",
+         "Share of respondents": "16.9"
+      },
+      {
+         "Response": "Reggae",
+         "Share of respondents": "16.1"
+      },
+      {
+         "Response": "Folk",
+         "Share of respondents": "14.1"
+      },
+      {
+         "Response": "Latin",
+         "Share of respondents": "11"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "9.3"
+      }
+   ],
+   "gold": "According to a study carried out by Deezer in May 2018 , the most popular genre among Americans was rock music , with 56.8 percent of respondents stating that they were currently listening to music within this genre as of the date of survey . Pop and country music were the second and third most popular genres respectively , and 20.2 percent of respondents said they preferred jazz . The appeal of rock and pop music The broad appeal of rock and pop music can in part be attributed to how both genres often blend seamlessly into one another and influence other music styles .\n"
+}

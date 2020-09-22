@@ -1,0 +1,85 @@
+{
+   "title": "Murder in the US - number of victims by weapon 2018",
+   "xAxis": "Weapon Used",
+   "yAxis": "Number of murder victims",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Number of victims in the number by murder victims in 2018 . ",
+      "At that time , Handguns had victims in the highest Number of victims during that year ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Weapon Used": "Handguns",
+         "Number of murder victims": "6603"
+      },
+      {
+         "Weapon Used": "Firearms type not stated",
+         "Number of murder victims": "2963"
+      },
+      {
+         "Weapon Used": "Knives or cutting instruments",
+         "Number of murder victims": "1515"
+      },
+      {
+         "Weapon Used": "Other weapons or weapons not stated",
+         "Number of murder victims": "900"
+      },
+      {
+         "Weapon Used": "Personal weapons (hands fists feet etc.)",
+         "Number of murder victims": "672"
+      },
+      {
+         "Weapon Used": "Blunt objects (clubs hammers etc.)",
+         "Number of murder victims": "443"
+      },
+      {
+         "Weapon Used": "Rifles",
+         "Number of murder victims": "297"
+      },
+      {
+         "Weapon Used": "Shotguns",
+         "Number of murder victims": "235"
+      },
+      {
+         "Weapon Used": "Other guns",
+         "Number of murder victims": "167"
+      },
+      {
+         "Weapon Used": "Asphyxiation",
+         "Number of murder victims": "90"
+      },
+      {
+         "Weapon Used": "Narcotics",
+         "Number of murder victims": "78"
+      },
+      {
+         "Weapon Used": "Fire",
+         "Number of murder victims": "72"
+      },
+      {
+         "Weapon Used": "Strangulation",
+         "Number of murder victims": "70"
+      },
+      {
+         "Weapon Used": "Drowning",
+         "Number of murder victims": "9"
+      },
+      {
+         "Weapon Used": "Poison",
+         "Number of murder victims": "5"
+      },
+      {
+         "Weapon Used": "Explosives",
+         "Number of murder victims": "4"
+      }
+   ],
+   "gold": "Which weapon is predominantly used in murder cases ? In the United States , handguns are predominantly used in murder cases , with 6,603 cases in 2018 alone . This is followed by firearms ( type not stated ) and knives or cutting instruments with 2,963 and 1,515 cases respectively in 2018 . Murder in the U.S .\n"
+}

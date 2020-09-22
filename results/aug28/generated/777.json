@@ -1,0 +1,34 @@
+{
+   "title": "Popularity of Fidel Castro in Cuba 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the percentage of online consumers in the Popularity who are Cuba Castro members . ",
+      "During the most recent survey period in 2016 , it was found that 6 % of responding Millennials had an Cuba Castro Very/somewhat_positive ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "2",
+         "22": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Very/somewhat positive",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Very/somewhat negative",
+         "Share of respondents": "50"
+      },
+      {
+         "Response": "Don't know / no answer",
+         "Share of respondents": "6"
+      }
+   ],
+   "gold": "This statistic shows the results of a 2015 survey among adult Cubans living in Cuba on their opinion of Fidel Castro , their former President . 50 percent of respondents stated they have a very or somewhat negative opinion of Fidel Castro .\n"
+}

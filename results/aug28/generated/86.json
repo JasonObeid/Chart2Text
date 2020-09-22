@@ -1,0 +1,98 @@
+{
+   "title": "Health spending as percent of GDP in South Korea 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Percentage of GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Recent figures tell us that the Health spent 7.33 percentage of its gross domestic product on spending care in 2016 . ",
+      "Projections show us that in the subsequent two years the spending in the South Korea ."
+   ],
+   "trends": [
+      {
+         "8": "2",
+         "19": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Percentage of GDP": "8.1"
+      },
+      {
+         "Year": "2017",
+         "Percentage of GDP": "7.6"
+      },
+      {
+         "Year": "2016",
+         "Percentage of GDP": "7.33"
+      },
+      {
+         "Year": "2015",
+         "Percentage of GDP": "7.05"
+      },
+      {
+         "Year": "2014",
+         "Percentage of GDP": "6.81"
+      },
+      {
+         "Year": "2013",
+         "Percentage of GDP": "6.58"
+      },
+      {
+         "Year": "2012",
+         "Percentage of GDP": "6.44"
+      },
+      {
+         "Year": "2011",
+         "Percentage of GDP": "6.29"
+      },
+      {
+         "Year": "2010",
+         "Percentage of GDP": "6.22"
+      },
+      {
+         "Year": "2009",
+         "Percentage of GDP": "6.09"
+      },
+      {
+         "Year": "2008",
+         "Percentage of GDP": "5.68"
+      },
+      {
+         "Year": "2007",
+         "Percentage of GDP": "5.38"
+      },
+      {
+         "Year": "2006",
+         "Percentage of GDP": "5.18"
+      },
+      {
+         "Year": "2005",
+         "Percentage of GDP": "4.84"
+      },
+      {
+         "Year": "2004",
+         "Percentage of GDP": "4.58"
+      },
+      {
+         "Year": "2003",
+         "Percentage of GDP": "4.6"
+      },
+      {
+         "Year": "2002",
+         "Percentage of GDP": "4.32"
+      },
+      {
+         "Year": "2001",
+         "Percentage of GDP": "4.58"
+      },
+      {
+         "Year": "2000",
+         "Percentage of GDP": "4"
+      }
+   ],
+   "gold": "The total health expenditure in South Korea in 2018 accounted for approximately 8.1 percent of Korea 's Gross Domestic Product ( GDP ) that year . This was the result of the steepest increase in the past ten years and was the first time health spending as a share of the GDP exceeded eight percent . This share saw a continuous increase over the past decade , indicating that as the GDP grew , health spending grew at an even faster rate .\n"
+}

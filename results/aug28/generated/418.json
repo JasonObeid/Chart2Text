@@ -1,0 +1,34 @@
+{
+   "title": "Leading deodorant brands ranked by sales value in the United Kingdom ( UK ) 2014",
+   "xAxis": "Brand",
+   "yAxis": "Sales in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic provides information on the Leading deodorant the brands ranked in the United Kingdom ( United Kingdom ) as of 2019 , sorted value Sales . ",
+      "According to the survey period , Male_Lynx was the Leading deodorant Brand in the United Kingdom , with a total Sales of 98.0 million British pounds ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "22": "0"
+      }
+   ],
+   "data": [
+      {
+         "Brand": "Male Lynx",
+         "Sales in million GBP": "98.0"
+      },
+      {
+         "Brand": "Female Sure",
+         "Sales in million GBP": "73.6"
+      },
+      {
+         "Brand": "Female Dove",
+         "Sales in million GBP": "57.6"
+      }
+   ],
+   "gold": "This statistic shows the leading 3 brands of deodorant sold in the United Kingdom ( UK ) ranked by their total sales in the year to December 2014 . Male Lynx and female Sure deodorant brands ranked as the highest selling brands in the United Kingdom over that period , reaching 98 and 73.6 million British pounds in sales respectively .\n"
+}

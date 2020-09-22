@@ -1,0 +1,41 @@
+{
+   "title": "Boat ownership by age in the U.S. 2013",
+   "xAxis": "Age (in years)",
+   "yAxis": "Own a boat",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the distribution of Boat ownership by in the U.S. in 2013 , sorted 2013 Age . ",
+      "According to the source , it was found that 6 % of the boat in the U.S. used 2013 group ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "4"
+      }
+   ],
+   "data": [
+      {
+         "Age (in years)": "Under 16",
+         "Own a boat": "7.1"
+      },
+      {
+         "Age (in years)": "16 to 34",
+         "Own a boat": "8.2"
+      },
+      {
+         "Age (in years)": "35 to 44",
+         "Own a boat": "7.6"
+      },
+      {
+         "Age (in years)": "45 to 64",
+         "Own a boat": "7.5"
+      },
+      {
+         "Age (in years)": "65+",
+         "Own a boat": "6"
+      }
+   ],
+   "gold": "The statistic depicts the boat ownership rate by age in the U.S. in 2013 . 7.5 percent of the respondents aged 45 to 64 years own a boat .\n"
+}

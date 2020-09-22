@@ -1,0 +1,30 @@
+{
+   "title": "Distribution of global animal health care market by species 2018",
+   "xAxis": "Animal Type",
+   "yAxis": "Distribution of animal health care market volume",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the Distribution global rate Distribution of people health care as of 2019 . ",
+      "During the survey period , it was found that Food_animal accounted for 62 % of all health care ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Animal Type": "Food animal",
+         "Distribution of animal health care market volume": "62"
+      },
+      {
+         "Animal Type": "Companion animal",
+         "Distribution of animal health care market volume": "38"
+      }
+   ],
+   "gold": "This statistic shows the distribution of the global animal health care market volume in 2018 , by species . In that year , health products for companion animals generated some 38 percent of the total global animal health market volume .\n"
+}

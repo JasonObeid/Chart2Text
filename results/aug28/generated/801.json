@@ -1,0 +1,103 @@
+{
+   "title": "Top media publishers in the U.S. 2017 , by online traffic",
+   "xAxis": "Media Publisher",
+   "yAxis": "Page views in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the distribution of Top employees in the U.S. as of 2019 , based on msn.com . ",
+      "According to the source , it was found that 618.3 millions of people ."
+   ],
+   "trends": [
+      {
+         "17": "0"
+      },
+      {
+         "9": "7"
+      }
+   ],
+   "data": [
+      {
+         "Media Publisher": "msn.com",
+         "Page views in millions": "1810.3"
+      },
+      {
+         "Media Publisher": "drudgereport.com",
+         "Page views in millions": "1256.2"
+      },
+      {
+         "Media Publisher": "news.google.com",
+         "Page views in millions": "1236.8"
+      },
+      {
+         "Media Publisher": "espn.com",
+         "Page views in millions": "1179.1"
+      },
+      {
+         "Media Publisher": "cnn.com",
+         "Page views in millions": "853.9"
+      },
+      {
+         "Media Publisher": "finance.yahoo.com",
+         "Page views in millions": "838.8"
+      },
+      {
+         "Media Publisher": "foxnews.com",
+         "Page views in millions": "663.3"
+      },
+      {
+         "Media Publisher": "sports.yahoo.com",
+         "Page views in millions": "618.3"
+      },
+      {
+         "Media Publisher": "nytimes.com",
+         "Page views in millions": "603.6"
+      },
+      {
+         "Media Publisher": "washingtonpost.com",
+         "Page views in millions": "497.6"
+      },
+      {
+         "Media Publisher": "buzzfeed.com",
+         "Page views in millions": "472.7"
+      },
+      {
+         "Media Publisher": "businessinsider.com",
+         "Page views in millions": "335.3"
+      },
+      {
+         "Media Publisher": "huffingtonpost.com",
+         "Page views in millions": "328.5"
+      },
+      {
+         "Media Publisher": "bbc.com",
+         "Page views in millions": "262.6"
+      },
+      {
+         "Media Publisher": "usatoday.com",
+         "Page views in millions": "249.6"
+      },
+      {
+         "Media Publisher": "cnet.com",
+         "Page views in millions": "249.2"
+      },
+      {
+         "Media Publisher": "forbes.com",
+         "Page views in millions": "232.6"
+      },
+      {
+         "Media Publisher": "nbcnews.com",
+         "Page views in millions": "226.7"
+      },
+      {
+         "Media Publisher": "dailymail.co.uk",
+         "Page views in millions": "224.8"
+      },
+      {
+         "Media Publisher": "news.yahoo.com",
+         "Page views in millions": "185.1"
+      }
+   ],
+   "gold": "The graph shows the ranking of the top media publishers in the United States in May 2017 , by total online traffic . During the measured period , MSN received the maximum views from desktop and mobile web users combined , surpassing 1.81 billion combined pageviews .\n"
+}

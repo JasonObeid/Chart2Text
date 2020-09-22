@@ -1,0 +1,64 @@
+{
+   "title": "Leading airlines worldwide - based on total number of passengers 2018",
+   "xAxis": "Airlines",
+   "yAxis": "Number of passengers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the Leading airlines worldwide in Leading 2018 , number Airlines . ",
+      "According to the source , American had the largest Number of 203.7 millions passengers , followed by Delta with 192.5 millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "11": "0",
+         "17": "1",
+         "19": "1"
+      }
+   ],
+   "data": [
+      {
+         "Airlines": "American",
+         "Number of passengers in millions": "203.7"
+      },
+      {
+         "Airlines": "Delta",
+         "Number of passengers in millions": "192.5"
+      },
+      {
+         "Airlines": "Southwest",
+         "Number of passengers in millions": "163.6"
+      },
+      {
+         "Airlines": "United Continental",
+         "Number of passengers in millions": "158.3"
+      },
+      {
+         "Airlines": "Lufthansa",
+         "Number of passengers in millions": "142.3"
+      },
+      {
+         "Airlines": "Ryanair",
+         "Number of passengers in millions": "142.1"
+      },
+      {
+         "Airlines": "China Southern",
+         "Number of passengers in millions": "140.0"
+      },
+      {
+         "Airlines": "China Eastern",
+         "Number of passengers in millions": "122.5"
+      },
+      {
+         "Airlines": "IAG",
+         "Number of passengers in millions": "113.0"
+      },
+      {
+         "Airlines": "Air China",
+         "Number of passengers in millions": "110.0"
+      }
+   ],
+   "gold": "This statistic depicts the leading airline groups worldwide in 2018 , based on passenger traffic . In that year , the ranking was dominated by U.S.-based airlines : American Airlines topped the list , with 203.7 million passengers . Air passengers The rising middle classes in emerging economies are expected to help global air traffic grow at an average annual growth rate of four percent till 2034 .\n"
+}

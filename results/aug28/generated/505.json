@@ -1,0 +1,38 @@
+{
+   "title": "U.S. - average salary for graduates , by discipline 2020",
+   "xAxis": "Discipline",
+   "yAxis": "Average salary in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the projected Average starting salaries for graduates by discipline 2020 in the U.S. in 2020 . ",
+      "In 2020 , Computer_Science had the largest U.S. of 79793 % of all U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Discipline": "Computer Science",
+         "Average salary in U.S. dollars": "79793"
+      },
+      {
+         "Discipline": "Math & Sciences",
+         "Average salary in U.S. dollars": "79717"
+      },
+      {
+         "Discipline": "Engineering",
+         "Average salary in U.S. dollars": "77298"
+      },
+      {
+         "Discipline": "Business",
+         "Average salary in U.S. dollars": "75197"
+      }
+   ],
+   "gold": "In 2020 , it was found that people in the United States with a Master 's degree in Computer Science had the highest average starting salary , at 79,793 U.S. dollars . People who held a Master 's degree in Math and Sciences had the second highest starting salary , at 79,717 U.S. dollars . An abundance of Masters As higher education in the United States has become more common , and even expected , the number of Master 's degrees awarded has increased .\n"
+}

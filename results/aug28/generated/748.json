@@ -1,0 +1,49 @@
+{
+   "title": "Amount spent on smartphone accessories by U.S. consumers 2010",
+   "labels": [
+      "Response",
+      "Under $50",
+      "$50 - $100",
+      "$100 - $200",
+      "$200 and up"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among the leading spent smartphone accessories in the United Kingdom ( U.S. ) in 2010 . ",
+      "The survey shows that 60 % of the respondents of the people in 2010 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Response": "Android owners",
+         "Under $50": "60",
+         "$50 - $100": "19",
+         "$100 - $200": "8",
+         "$200 and up": "6"
+      },
+      {
+         "Response": "iPhone owners",
+         "Under $50": "33",
+         "$50 - $100": "33",
+         "$100 - $200": "19",
+         "$200 and up": "9"
+      },
+      {
+         "Response": "BlackBerry owners",
+         "Under $50": "47",
+         "$50 - $100": "31",
+         "$100 - $200": "15",
+         "$200 and up": "1"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey conducted in 2010 in the United States asking smartphone users how much they have spent on accessories for their cell phone . The survey revealed that 60 percent of Android owners spent under 50 U.S. dollars on accessories for their mobile phone .\n"
+}

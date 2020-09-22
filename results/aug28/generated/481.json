@@ -1,0 +1,108 @@
+{
+   "title": "Median age of the population in Saudi Arabia 2015",
+   "xAxis": "Year",
+   "yAxis": "Age median in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Age median of the population in Saudi Arabia from 1950 to 2050 . ",
+      "The Age median is the median that divides a population into two numerically equal groups ; that is , half the people are younger than this median and half are older . ",
+      "It is a single index that summarizes the median distribution of a population ."
+   ],
+   "trends": [
+      {
+         "12": "20",
+         "14": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2050",
+         "Age median in years": "40.2"
+      },
+      {
+         "Year": "2045",
+         "Age median in years": "38.9"
+      },
+      {
+         "Year": "2040",
+         "Age median in years": "37.6"
+      },
+      {
+         "Year": "2035",
+         "Age median in years": "36.3"
+      },
+      {
+         "Year": "2030",
+         "Age median in years": "35.0"
+      },
+      {
+         "Year": "2025",
+         "Age median in years": "33.3"
+      },
+      {
+         "Year": "2020",
+         "Age median in years": "31.8"
+      },
+      {
+         "Year": "2015",
+         "Age median in years": "30.0"
+      },
+      {
+         "Year": "2010",
+         "Age median in years": "26.0"
+      },
+      {
+         "Year": "2005",
+         "Age median in years": "23.7"
+      },
+      {
+         "Year": "2000",
+         "Age median in years": "21.3"
+      },
+      {
+         "Year": "1995",
+         "Age median in years": "19.4"
+      },
+      {
+         "Year": "1990",
+         "Age median in years": "19.5"
+      },
+      {
+         "Year": "1985",
+         "Age median in years": "19.3"
+      },
+      {
+         "Year": "1980",
+         "Age median in years": "18.4"
+      },
+      {
+         "Year": "1975",
+         "Age median in years": "18.0"
+      },
+      {
+         "Year": "1970",
+         "Age median in years": "18.0"
+      },
+      {
+         "Year": "1965",
+         "Age median in years": "18.2"
+      },
+      {
+         "Year": "1960",
+         "Age median in years": "18.5"
+      },
+      {
+         "Year": "1955",
+         "Age median in years": "18.8"
+      },
+      {
+         "Year": "1950",
+         "Age median in years": "19.0"
+      }
+   ],
+   "gold": "This statistic shows the median age of the population in Saudi Arabia from 1950 to 2050 . The median age of a population is an index that divides the population into two equal groups : half of the population is older than the median age and the other half younger . In 2015 , the median age of Saudi Arabia 's population was 30 years .\n"
+}

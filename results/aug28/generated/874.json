@@ -1,0 +1,38 @@
+{
+   "title": "Uber users in the United States 2017 , by device",
+   "xAxis": "Device",
+   "yAxis": "Number of visits",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Uber of the users United States in United States 2017 , device . ",
+      "According to the source , the Smartphone accounted for approximately 17.7 % of all visits ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Device": "Smartphone",
+         "Number of visits": "17.7"
+      },
+      {
+         "Device": "Tablet",
+         "Number of visits": "1.2"
+      },
+      {
+         "Device": "Desktop",
+         "Number of visits": "6.8"
+      },
+      {
+         "Device": "Mobile-only",
+         "Number of visits": "16.6"
+      }
+   ],
+   "gold": "By far the most common method to access the ride-sharing platform Uber in the United States is via smartphone ; around 17.7 million U.S. adults had accessed Uber via smartphone as of April 2017 \u2013 significantly higher than the next most popular platform , desktop computers , with 6.8 million users . The U.S. ride sharing market Uber is the largest ride-sharing platform in the United States , accounting for just under 70 percent of the total market as of October 2018 . However Lyft , the next-largest ride sharing platform in the U.S. , has seen significant growth in ridership over the last five years , narrowing the gap between it and Uber .\n"
+}

@@ -1,0 +1,114 @@
+{
+   "title": "Distribution of gross domestic product ( GDP ) across economic sectors Cuba 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the distribution of in Cuba gross domestic product from 2008 to 2018 . ",
+      "In 2018 , 3.78 % of the employees in Cuba were active in the agricultural product , 25.12 % in Industry and 69.97 % in the service product ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "3.78",
+         "Industry": "25.12",
+         "Services": "69.97"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "3.8",
+         "Industry": "24.36",
+         "Services": "70.82"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "3.94",
+         "Industry": "22.94",
+         "Services": "72.05"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "3.84",
+         "Industry": "22.35",
+         "Services": "72.76"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "3.94",
+         "Industry": "22.15",
+         "Services": "72.88"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "3.92",
+         "Industry": "23.15",
+         "Services": "71.77"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "3.85",
+         "Industry": "23.37",
+         "Services": "71.66"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "3.6",
+         "Industry": "22.26",
+         "Services": "73.01"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "3.61",
+         "Industry": "22.89",
+         "Services": "72.47"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "3.93",
+         "Industry": "22.6",
+         "Services": "72.45"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "3.82",
+         "Industry": "22.39",
+         "Services": "72.32"
+      }
+   ],
+   "gold": "This statistic shows the distribution of the gross domestic product ( GDP ) across economic sectors in Cuba from 2008 to 2018 . In 2018 , agriculture contributed around 3.78 percent to the GDP of Cuba , 25.12 percent came from the industry and 69.97 percent from the services sector .\n"
+}

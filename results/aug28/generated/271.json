@@ -1,0 +1,121 @@
+{
+   "title": "Volume of homeowner equity in the U.S. 1960 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Homeowner equity in trillion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Between 1960 and 2018 , the Homeowner equity of U.S. has increased to 15.54 trillion U.S. dollars in 2018 , up from 14.51 trillion U.S. in the previous Year . ",
+      "Between 1960 and 2018 , the Volume Homeowner equity of U.S. was 15.54 trillion U.S. ."
+   ],
+   "trends": [
+      {
+         "1": "22",
+         "3": "0",
+         "13": "0",
+         "18": "0",
+         "22": "1"
+      },
+      {
+         "1": "22",
+         "3": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Homeowner equity in trillion U.S. dollars": "15.54"
+      },
+      {
+         "Year": "2017",
+         "Homeowner equity in trillion U.S. dollars": "14.51"
+      },
+      {
+         "Year": "2016",
+         "Homeowner equity in trillion U.S. dollars": "13.24"
+      },
+      {
+         "Year": "2015",
+         "Homeowner equity in trillion U.S. dollars": "12.03"
+      },
+      {
+         "Year": "2014",
+         "Homeowner equity in trillion U.S. dollars": "10.83"
+      },
+      {
+         "Year": "2013",
+         "Homeowner equity in trillion U.S. dollars": "9.74"
+      },
+      {
+         "Year": "2012",
+         "Homeowner equity in trillion U.S. dollars": "7.78"
+      },
+      {
+         "Year": "2011",
+         "Homeowner equity in trillion U.S. dollars": "6.27"
+      },
+      {
+         "Year": "2010",
+         "Homeowner equity in trillion U.S. dollars": "6.16"
+      },
+      {
+         "Year": "2009",
+         "Homeowner equity in trillion U.S. dollars": "6.24"
+      },
+      {
+         "Year": "2008",
+         "Homeowner equity in trillion U.S. dollars": "6.48"
+      },
+      {
+         "Year": "2007",
+         "Homeowner equity in trillion U.S. dollars": "9.99"
+      },
+      {
+         "Year": "2006",
+         "Homeowner equity in trillion U.S. dollars": "12.73"
+      },
+      {
+         "Year": "2005",
+         "Homeowner equity in trillion U.S. dollars": "13.27"
+      },
+      {
+         "Year": "2004",
+         "Homeowner equity in trillion U.S. dollars": "11.2"
+      },
+      {
+         "Year": "2003",
+         "Homeowner equity in trillion U.S. dollars": "9.59"
+      },
+      {
+         "Year": "2002",
+         "Homeowner equity in trillion U.S. dollars": "8.83"
+      },
+      {
+         "Year": "2001",
+         "Homeowner equity in trillion U.S. dollars": "8.22"
+      },
+      {
+         "Year": "2000",
+         "Homeowner equity in trillion U.S. dollars": "7.39"
+      },
+      {
+         "Year": "1990",
+         "Homeowner equity in trillion U.S. dollars": "4.32"
+      },
+      {
+         "Year": "1980",
+         "Homeowner equity in trillion U.S. dollars": "2.02"
+      },
+      {
+         "Year": "1970",
+         "Homeowner equity in trillion U.S. dollars": "0.59"
+      },
+      {
+         "Year": "1960",
+         "Homeowner equity in trillion U.S. dollars": "0.35"
+      }
+   ],
+   "gold": "The statistic presents the value of homeowner equity in the United States from 1960 to 2018 . Home equity value is calculated by subtracting the value of remaining mortgage debt from the market value of the real estate property . That means that the value of home equity increases as the debtor pays off the mortgage .\n"
+}

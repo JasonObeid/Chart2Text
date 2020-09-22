@@ -1,0 +1,198 @@
+Example 13:
+titleEntities: {'Subject': ['United Kingdom', 'UK'], 'Date': ['2010', '2018']}
+title: University applicants in the United Kingdom ( UK ) 2010 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010']
+Y_Axis['Number', 'of', 'university', 'applicants']: ['636960', '649700', '674890', '673040', '659030', '635910', '616700', '668150', '658560']
+
+gold: This statistic shows the number of applicants to universities in the United Kingdom ( UK ) from 2010 to 2018 . The number of applicants peaked in 2016 . The lower figures in 2012 and 2013 may be connected to the rise of the tuition fee limit in 2012 to 9,000 British pounds per year .
+gold_template: This statistic shows the templateYLabel[0] of templateYLabel[2] to universities in the templateTitleSubject[0] ( templateTitleSubject[1] ) from templateXValue[min] to templateXValue[max] . The templateYLabel[0] of templateYLabel[2] peaked in templateXValue[2] . The lower figures in templateXValue[6] and templateXValue[5] may be connected to the rise of the tuition fee limit in templateXValue[6] to 9,000 British pounds per templateXLabel[0] .
+
+generated_template: This statistic shows the templateYLabel[0] of the templateYLabel[1] of the templateYLabel[2] templateTitle[4] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateTitle[0] of the templateYLabel[1] of templateTitleSubject[0] amounted to templateYValue[idxmax(X)] templateYLabel[2] templateYLabel[3] .
+generated: This statistic shows the Number of the university of the applicants UK from 2010 to 2018 .  In 2018 , the University of the university of United Kingdom amounted to 636960 applicants .
+
+Example 49:
+titleEntities: {'Subject': ['LVMH Group'], 'Date': ['2008', '2019']}
+title: Total number of stores of the LVMH Group worldwide 2008 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008']
+Y_Axis['Total', 'number', 'of', 'stores']: ['4915', '4592', '4374', '3948', '3860', '3708', '3384', '3204', '3040', '2545', '2423', '2314']
+
+gold: LVMH had a total of 4,915 stores in operation around the world as of 2019 , up from 2,314 in 2008 . LVMH , an amalgamation of Louis Vuitton , Moët , and Hennessy , is the top selling luxury personal goods companies in the world . The company operates globally selling a diverse range of products .
+gold_template: templateTitleSubject[0] had a templateYLabel[0] of templateYValue[max] templateYLabel[2] in operation around the world as of templateXValue[idxmax(Y)] , up from templateYValue[min] in templateXValue[idxmin(Y)] . templateTitleSubject[0] , an amalgamation of Louis Vuitton , Moët , and Hennessy , is the top selling luxury personal goods companies in the world . The company operates globally selling a diverse range of products .
+
+generated_template: This statistic shows the templateYLabel[0] templateYLabel[1] of the templateYLabel[3] templateTitle[4] of templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateTitle[0] of templateTitleSubject[0] employees was templateYValue[idxmax(X)] templateYLabel[2] templateYLabel[3] .
+generated: This statistic shows the Total number of the stores Group of LVMH Group from 2008 to 2019 .  In 2019 , the Total of LVMH Group employees was 4915 stores .
+
+Example 52:
+titleEntities: {'Subject': ['Malaysia'], 'Date': ['2024']}
+title: Ratio of government expenditure to gross domestic product ( GDP ) in Malaysia 2024
+X_Axis['Year']: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014']
+Y_Axis['Ratio', 'of', 'government', 'expenditure', 'to', 'GDP']: ['20.35', '20.37', '20.46', '20.41', '20.54', '22.97', '22.7', '21.58', '22.7', '24.71', '25.96']
+
+gold: The statistic shows the ratio of government expenditure to gross domestic product ( GDP ) in Malaysia from 2014 to 2018 , with projections up to 2024 . In 2018 , government expenditure in Malaysia amounted to about 22.7 percent of the country 's gross domestic product .
+gold_template: The statistic shows the templateYLabel[0] of templateYLabel[1] templateYLabel[2] to templateTitle[3] templateTitle[4] templateTitle[5] ( templateYLabel[3] ) in templateTitleSubject[0] from templateXValue[min] to templateXValue[6] , with projections up to templateXValue[max] . In templateXValue[6] , templateYLabel[1] templateYLabel[2] in templateTitleSubject[0] amounted to about templateYValue[6] templateScale of the country 's templateTitle[3] templateTitle[4] templateTitle[5] .
+
+generated_template: The statistic shows the templateYLabel[0] of templateYLabel[1] templateYLabel[2] to the templateTitle[3] templateTitle[4] templateTitle[5] ( templateYLabel[3] ) in templateTitleSubject[0] from templateXValue[min] to templateXValue[6] , with projections up until templateXValue[max] . In templateXValue[6] , templateYLabel[1] templateYLabel[2] in templateTitleSubject[0] amounted to about templateYValue[6] templateScale of the templateTitle[3] templateTitle[4] templateTitle[5] .
+generated: The statistic shows the Ratio of government expenditure to the gross domestic product ( GDP ) in Malaysia from 2014 to 2018 , with projections up until 2024 .  In 2018 , government expenditure in Malaysia amounted to about 22.7 % of the gross domestic product .
+
+Example 112:
+titleEntities: {'Subject': ['Alphabet'], 'Date': ['2016']}
+title: Alphabet : number of full-time employees 2016 , by department
+Data:
+                                0      1      2      3      4      5     6     7     8
+Year                         2016   2015   2014   2013   2012   2011  2010  2009  2008
+Research and development    27169  23336  20832  18593  19746  11665  9508  7443  7254
+Sales and marketing         20902  19082  17621  15348  15306  11933  8778  7338  8002
+General and administrative   9695   8452   7510   6563   6214   4651  3346  2941  3109
+Operations                  14287  10944   7637   7252  12595   4218  2768  2113  1857 
+
+gold: This statistic shows the number of Alphabet employees between 2008 and 2016 . As of that year , out of Alphabet 's total number of employees , 27,169 were working in the research and development department . Up until Alphabet 's creation in 2015 , these figures were reported as Google employees .
+gold_template: This statistic shows the templateTitle[1] of templateTitleSubject[0] templateTitle[3] between templateValue[0][last] and templateValue[0][0] . As of that templateLabel[0][0] , out of templateTitleSubject[0] 's total templateTitle[1] of templateTitle[3] , templateValue[1][0] were working in the templateLabel[1][0] and templateLabel[1][1] templateTitle[6] . Up until templateTitleSubject[0] 's creation in templateValue[0][1] , these figures were reported as Google templateTitle[3] .
+
+generated_template: This statistic gives information on the templateTitleSubject[0] templateTitle[1] templateTitle[2] in the templateTitle[0] from templateValue[0][last] to templateValue[0][0] , sorted templateTitle[5] templateTitle[6] . In templateValue[0][0] , the templateTitle[1] of templateTitle[2] in the templateTitle[0] amounted to templateValue[1][0] templateScale templateYLabel[2] templateYLabel[3] , up from templateValue[1][last] templateScale of the previous templateLabel[0][0] .
+generated: This statistic gives information on the Alphabet number full-time in the Alphabet from 2008 to 2016 , sorted by department .  In 2016 , the number of full-time in the Alphabet amounted to 27169 % , up from 7254 % of the previous Year .
+
+Example 151:
+titleEntities: {'Subject': ['Grand Teton National Park'], 'Date': ['2008', '2019']}
+title: Number of visitors to Grand Teton National Park in the U.S. 2008 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008']
+Y_Axis['Number', 'of', 'visitors', 'in', 'millions']: ['3.41', '3.49', '3.32', '3.27', '3.15', '2.79', '2.69', '2.71', '2.59', '2.67', '2.58', '2.49']
+
+gold: This statistic shows the number of recreational visitors to Grand Teton National Park in the United States from 2008 to 2019 . The number of visitors to Grand Teton National Park amounted to approximately 3.41 million in 2019 .
+gold_template: This statistic shows the templateYLabel[0] of recreational templateYLabel[1] to templateTitleSubject[0] National templateTitleSubject[0] in the templateTitle[6] from templateXValue[min] to templateXValue[max] . The templateYLabel[0] of templateYLabel[1] to templateTitleSubject[0] National templateTitleSubject[0] amounted to approximately templateYValue[0] templateYValue[idxmax(X)] in templateXValue[max] .
+
+generated_template: This statistic shows the templateYLabel[0] of recreational templateYLabel[1] to the templateTitleSubject[0] Memorial in the templateTitle[5] from templateXValue[min] to templateXValue[max] . The templateYLabel[0] of templateYLabel[1] to the templateTitleSubject[0] Memorial amounted to approximately templateYValue[0] templateYValue[idxmax(X)] in templateXValue[max] .
+generated: This statistic shows the Number of recreational visitors to the Grand Teton National Park Memorial in the Park from 2008 to 2019 .  The Number of visitors to the Grand Teton National Park Memorial amounted to approximately 3.41 in 2019 .
+
+Example 202:
+titleEntities: {'Subject': ['Switzerland'], 'Date': ['2006', '2018']}
+title: Number of road deaths in Switzerland 2006 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006']
+Y_Axis['Number', 'of', 'fatalities']: ['233', '230', '216', '253', '243', '269', '339', '320', '327', '349', '357', '384', '370']
+
+gold: In 2018 , 233 fatalities were recorded on Swiss roads . Between 2006 and 2018 , traffic related deaths declined by over one third , with the lowest number seen in 2016 at 216 such incidences . Switzerland was one of the safest countries in Europe for road users .
+gold_template: In templateXValue[max] , templateYValue[idxmax(X)] templateYLabel[1] were recorded on Swiss roads . Between templateXValue[min] and templateXValue[max] , traffic related templateTitle[2] declined by over one third , with the lowest templateYLabel[0] seen in templateXValue[2] at templateYValue[min] such incidences . templateTitleSubject[0] was one of the safest countries in Europe for templateTitle[1] users .
+
+generated_template: The statistic shows the templateYLabel[0] of templateYLabel[1] due to templateTitle[0] in the templateTitle[1] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , there were a total of templateYValue[idxmax(X)] templateYLabel[1] reported due to templateTitle[0] in the templateTitle[1] .
+generated: The statistic shows the Number of fatalities due to Number in the road from 2006 to 2018 .  In 2018 , there were a total of 233 fatalities reported due to Number in the road .
+
+Example 316:
+titleEntities: {'Subject': ['National Hockey League Chicago'], 'Date': ['2005', '2019']}
+title: National Hockey League - Chicago Blackhawks home attendance 2005 to 2019
+Data:
+                          0        1        2        3        4        5        6        7        8        9       10       11       12       13
+Year                2018/19  2017/18  2016/17  2015/16  2014/15  2013/!4  2012/13  2011/12  2010/11  2009/10  2008/09  2007/08  2006/07  2005/06
+Total attendance     932098   887794   891827   896240   892532   927545   522619   882874   878356   875596   912155   689377   521809   546075
+Average attendance    22734    21653    21751    21859    21769    22623    21775    21533    21423    21356    22247    16814    12727    13318 
+
+gold: This graph depicts the total/average regular season home attendance of the Chicago Blackhawks franchise of the National Hockey League from the 2005/06 season to the 2018/19 season . In 2018/19 , the total regular season home attendance of the franchise was 932,098 .
+gold_template: This graph depicts the total/average regular season templateTitle[5] templateTitle[6] of the templateTitleSubject[0] templateTitle[4] franchise of the templateTitleSubject[0] League from the templateValue[0][last] season to the templateValue[0][0] season . In templateValue[0][0] , the templateLabel[1][0] regular season templateTitle[5] templateTitle[6] of the franchise was templateValue[1][0] .
+
+generated_template: This graph depicts the total/average regular season templateTitle[5] templateTitle[6] of the templateTitleSubject[0] templateTitle[4] franchise of the templateTitleSubject[0] League from the templateValue[0][last] season to the templateValue[0][0] season . In templateValue[0][0] , the templateLabel[1][0] regular season templateTitle[5] templateTitle[6] of the franchise was templateValue[1][0] .
+generated: This graph depicts the total/average regular season home attendance of the National Hockey League Chicago Blackhawks franchise of the National Hockey League Chicago League from the 2005/06 season to the 2018/19 season .  In 2018/19 , the Total regular season home attendance of the franchise was 932098 .
+
+Example 492:
+titleEntities: {'Subject': ['France'], 'Date': ['2019']}
+title: Grocery market share in France 2019
+X_Axis['Grocery', 'Stores']: ['E._Leclerc_Group', 'Carrefour_Group', 'Intermarché_Group', 'Système_U_Group', 'Casino_Group', 'Auchan_Group', 'Lidl_Group', 'Delhaize_Group', 'Aldi_Group', 'Other']
+Y_Axis['Market', 'share', 'of', 'total', 'grocers']: ['21.6', '19.8', '15.3', '10.7', '10.6', '10', '6.2', '2.8', '2.3', '0.7']
+
+gold: This statistic shows the market share of grocery stores in France for the 12 weeks ending December 17 , 2019 . E. Leclerc holds the largest market share with 21.6 percent , followed by Carrefour with a 19.8 percent share . The grocery retail landscape in France has been dominated by the Leclerc Group and Carrefour group , who have been fighting neck in neck for the lead position .
+gold_template: This statistic shows the templateYLabel[0] templateYLabel[1] of templateXLabel[0] templateXLabel[1] in templateTitleSubject[0] for the 12 weeks ending 17 , templateTitleDate[0] . templateXValue[0] holds the largest templateYLabel[0] templateYLabel[1] with templateYValue[max] templateScale , followed by templateXValue[1] with a templateYValue[1] templateScale templateYLabel[1] . The templateXLabel[0] retail landscape in templateTitleSubject[0] has been dominated by the templateXValue[0] and templateXValue[1] templateXValue[0] , who have been fighting neck in neck for the lead position .
+
+generated_template: This statistic illustrates the templateTitle[0] templateTitle[1] templateYLabel[0] of the United Kingdom ( templateTitleSubject[0] ) . The templateTitle[0] templateTitle[1] templateTitle[2] in the United Kingdom was templateXValue[0] , with over templateYValue[max] templateScale of the templateYLabel[1] , followed by templateXValue[1] with templateYValue[1] templateScale of the templateYLabel[1] .
+generated: This statistic illustrates the Grocery market of the United Kingdom ( France ) .  The Grocery market share in the United Kingdom was E._Leclerc_Group , with over 21.6 % of the share , followed by Carrefour_Group with 19.8 % of the share .
+
+Example 499:
+titleEntities: {'Subject': ['Boston Bruins'], 'Date': ['2005', '2019']}
+title: Boston Bruins ' revenue 2005 to 2019
+X_Axis['Year']: ['2018/19', '2017/18', '2016/17', '2015/16', '2014/15', '2013/14', '2012/13', '2011/12', '2010/11', '2009/10', '2008/09', '2007/08', '2006/07', '2005/06']
+Y_Axis['Revenue', 'in', 'million', 'U.S.', 'dollars']: ['228', '191', '176', '169', '158', '164', '114', '129', '125', '110', '108', '97', '87', '86']
+
+gold: The statistic shows the revenue of the Boston Bruins from the 2005/06 season to the 2018/19 season . The revenue of the Boston Bruins amounted to 228 million U.S. dollars in the 2018/19 season .
+gold_template: The statistic shows the templateYLabel[0] of the templateTitleSubject[0] from the templateXValue[last] season to the templateXValue[0] season . The templateYLabel[0] of the templateTitleSubject[0] amounted to templateYValue[max] templateScale templateYLabel[2] templateYLabel[3] in the templateXValue[idxmax(Y)] season .
+
+generated_template: This graph depicts the annual National Hockey League templateYLabel[0] of the templateTitleSubject[0] from the templateXValue[last] season to the templateXValue[0] season . The templateYLabel[0] of the templateTitleSubject[0] amounted to templateYValue[0] templateScale templateYLabel[2] templateYLabel[3] in the templateXValue[0] season .
+generated: This graph depicts the annual National Hockey League Revenue of the Boston Bruins from the 2005/06 season to the 2018/19 season .  The Revenue of the Boston Bruins amounted to 228 million U.S. dollars in the 2018/19 season .
+
+Example 528:
+titleEntities: {'Subject': ['Premier League England'], 'Date': ['2019']}
+title: Brand value of Premier League ( England ) football teams 2019
+Data:
+                      0     1     2     3     4     5     6     7     8
+Year               2011  2012  2013  2014  2015  2016  2017  2018  2019
+Manchester United   661   853   837   739  1206  1170  1733  1895  1651
+Chelsea             314   398   418   502   795   776  1248  1195  1085
+Manchester City     170   302   332   510   800   905  1021  1331  1407
+Arsenal             301   388   410   505   703   858   941  1083   993
+Liverpool           250   367   361   469   577   748   908  1204  1336
+Tottenham Hotspur   127   255   219   248   360   441   696   764   850 
+
+gold: The statistic depicts the brand value of the most valuable English football teams from 2011 to 2019 . Manchester United had a brand value of 1.65 billion U.S. dollars in 2019 . A brand is defined here as the trademark and associated intellectual property .
+gold_template: The statistic depicts the templateTitle[0] templateTitle[1] of the most valuable English templateTitle[5] templateTitle[6] from templateValue[0][0] to templateValue[0][last] . templateLabel[1][0] templateLabel[1][1] had a templateTitle[0] templateTitle[1] of 1.65 templateScale U.S. dollars in templateValue[0][last] . A templateTitle[0] is defined here as the trademark and associated intellectual property .
+
+generated_template: The timeline shows the templateTitle[0] of templateTitle[1] templateTitle[2] and templateTitle[4] templateTitle[5] in the templateTitle[0] from templateValue[0][last] to templateValue[0][0] . In templateValue[0][0] , about templateValue[1][last] templateScale of templateTitleSubject[0] templateTitle[0] on templateTitle[2] .
+generated: The timeline shows the Brand of value Premier and England football in the Brand from 2019 to 2011 .  In 2011 , about 1651 % of Premier League England Brand on Premier .
+
+Example 662:
+titleEntities: {'Subject': ['Paris'], 'Date': ['2010', '2018']}
+title: International visitor spending in Paris 2010 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010']
+Y_Axis['International', 'visitor', 'spending', 'in', 'billion', 'U.S.', 'dollars']: ['14.06', '13.05', '12.03', '13.41', '16.42', '19.5', '17.25', '14.95', '13.1']
+
+gold: In 2018 , international visitor spending in Paris amounted to 14.06 billion U.S. dollars , up from 13.05 billion the previous year .
+gold_template: In templateXValue[max] , templateYLabel[0] templateYLabel[1] templateYLabel[2] in templateTitleSubject[0] amounted to templateYValue[idxmax(X)] templateScale templateYLabel[4] templateYLabel[5] , up from templateYValue[1] templateScale the previous templateXLabel[0] .
+
+generated_template: In templateXValue[max] , the average templateYLabel[0] of templateYLabel[1] templateYLabel[2] in the templateTitleSubject[0] amounted to templateYValue[0] templateScale templateYLabel[4] templateYLabel[5] . According to the source , the templateYLabel[0] of templateYLabel[1] templateYLabel[2] is defined as the total market value of all goods and services . It is considered to be a very important indicator of the economic strength of a country .
+generated: In 2018 , the average International of visitor spending in the Paris amounted to 14.06 billion U.S. dollars .  According to the source , the International of visitor spending is defined as the total market value of all goods and services .  It is considered to be a very important indicator of the economic strength of a country .
+
+Example 734:
+titleEntities: {'Subject': ['U.S.'], 'Date': ['1998', '2018']}
+title: U.S. mining industry total employment 1998 to 2018
+X_Axis['Year']: ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998']
+Y_Axis['Number', 'of', 'employees', 'in', 'thousands']: ['672', '622', '611', '751', '842', '810', '794', '727', '649', '640', '717', '658', '615', '558', '523', '502', '509', '537', '521', '531', '570']
+
+gold: This statistic shows the number of people employed in the United States mining industry from 1998 to 2018 . In 2018 , there were some 672,000 people employed by the U.S. mining industry . The U.S. mining industry has been active since colonial times , and continues to be an important industry .
+gold_template: This statistic shows the templateYLabel[0] of people employed in the templateTitle[0] templateTitle[1] templateTitle[2] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , there were some templateYValue[0] people employed by the templateTitleSubject[0] templateTitle[1] templateTitle[2] . The templateTitleSubject[0] templateTitle[1] templateTitle[2] has been active since colonial times , and continues to be an important templateTitle[2] .
+
+generated_template: This statistic shows the templateYLabel[0] of templateYLabel[1] in the templateTitleSubject[0] templateTitle[3] templateTitle[4] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , there were templateYValue[idxmax(X)] people employed in the templateTitleSubject[0] . Employment in the templateTitle[4] .
+generated: This statistic shows the Number of employees in the U.S. total employment from 1998 to 2018 .  In 2018 , there were 672 people employed in the U.S. Employment in the employment .
+
+Example 767:
+titleEntities: {'Subject': ['Tennessee Titans'], 'Date': ['2019']}
+title: Average regular season home attendance of the Tennessee Titans 2008 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008']
+Y_Axis['Average', 'attendance']: ['64509', '64520', '65651', '64659', '62304', '69143', '69143', '69143', '69143', '69143', '69143', '69143']
+
+gold: This graph depicts the average regular season home attendance of the Tennessee Titans from 2008 to 2019 . In 2019 , the average attendance at home games of the Tennessee Titans was 64,509 .
+gold_template: This graph depicts the templateYLabel[0] templateTitle[1] templateTitle[2] templateTitle[3] templateYLabel[1] of the templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] templateYLabel[1] at templateTitle[3] games of the templateTitleSubject[0] was templateYValue[0] templateYValue[idxmax(X)]
+
+generated_template: This graph depicts the templateYLabel[0] templateTitle[1] templateTitle[2] templateTitle[3] templateYLabel[1] of the templateTitleSubject[0] from templateXValue[min] to templateXValue[max] . In templateXValue[max] , the templateYLabel[0] templateYLabel[1] at templateTitle[3] games of the templateTitleSubject[0] was templateYValue[0] templateYValue[idxmax(X)]
+generated: This graph depicts the Average regular season home attendance of the Tennessee Titans from 2008 to 2019 .  In 2019 , the Average attendance at home games of the Tennessee Titans was 64509 . 
+
+Example 816:
+titleEntities: {'Subject': ['UK'], 'Date': ['2019', '2023']}
+title: Output gap forecast comparison UK from 2019 to 2023
+Data:
+         0     1     2     3     4
+Year  2023  2022  2021  2020  2019
+OBR      0     0  -0.1  -0.2  -0.1
+IMF      0     0     0     0     0 
+
+gold: This statistic shows a comparison of output gap predictions in the United Kingdom ( UK ) from 2019 to 2023 . In 2019 , the Office for Budget Responsibility ( OBR ) estimated a negative output gap of 0.1 percent .
+gold_template: This statistic shows a templateTitle[3] of templateTitle[0] templateTitle[1] predictions in the United Kingdom ( templateTitleSubject[0] ) templateTitle[5] templateValue[0][last] to templateValue[0][0] . In templateValue[0][last] , the Office for Budget Responsibility ( templateLabel[1][0] ) estimated a negative templateTitle[0] templateTitle[1] of 0.1 templateScale .
+
+generated_template: This statistic shows the templateTitle[0] of templateTitle[1] templateTitle[2] and templateTitle[3] templateTitle[4] in the United Kingdom ( templateTitleSubject[0] ) from templateValue[0][last] to templateValue[0][0] . In templateValue[0][last] , the number of templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in the templateTitleSubject[0] amounted to templateValue[1][last] templateScale U.S. dollars .
+generated: This statistic shows the Output of gap forecast and comparison UK in the United Kingdom ( UK ) from 2019 to 2023 .  In 2019 , the number of Output gap forecast comparison UK in the UK amounted to -0.1 billion U.S. dollars .
+
+Example 829:
+titleEntities: {'Subject': ['BT Group Adjusted'], 'Date': ['2008', '2019']}
+title: BT Group : Adjusted revenues 2008 to 2019
+X_Axis['Year']: ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008']
+Y_Axis['Revenue', 'in', 'million', 'GBP']: ['24082£', '23746£', '24082£', '18879£', '17840£', '18287£', '18339£', '19397£', '20076£', '20911£', '21431£', '20704£']
+
+gold: British Telecommunications ( BT ) Group generated 24.08 billion British pounds in 2019 , slightly up on the year prior , and 6.2 billion British pounds higher than the low of 17.84 billion British pounds recorded in 2015 . BT Group revenue mix BT Group have had to respond to the impact of the changing telecommunications landscape on their revenue streams . The volume of calls made in the United Kingdom ( UK ) has more than halved since the beginning of 2012 , affecting revenue , and revenue streams such as business network access have also decreased .
+gold_template: British Telecommunications ( templateTitleSubject[0] ) templateTitleSubject[0] generated 24.08 templateScale British pounds in templateXValue[max] , slightly up on the templateXLabel[0] prior , and 6.2 templateScale British pounds higher than the low of 17.84 templateScale British pounds recorded in templateXValue[4] . templateTitleSubject[0] revenue mix templateTitleSubject[0] have had to respond to the impact of the changing telecommunications landscape on their templateYLabel[0] streams . The volume of calls made in the United Kingdom ( UK ) has more than halved since the beginning of templateXValue[7] , affecting templateYLabel[0] , and templateYLabel[0] streams such as business network access have also templateNegativeTrend .
+
+generated_template: This statistic shows the total templateYLabel[0] of the templateTitle[0] employees in the templateTitleSubject[0] from templateXValue[min] to templateXValue[max] , from templateXValue[min] to templateXValue[max] . In templateXValue[min] , the templateTitle[0] of the templateTitleSubject[0] templateTitle[2] templateYLabel[0] templatePositiveTrend by templateYValue[idxmin(X)] templateScale , compared to the previous templateXLabel[0] .
+generated: This statistic shows the total Revenue of the BT employees in the BT Group Adjusted from 2008 to 2019 , from 2008 to 2019 .  In 2008 , the BT of the BT Group Adjusted Adjusted Revenue increase by 20704£ million , compared to the previous Year .
+

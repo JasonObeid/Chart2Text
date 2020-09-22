@@ -1,0 +1,103 @@
+{
+   "title": "Mexico : internet penetration 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Percentage of individuals using internet",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic gives information on the internet penetration in Mexico from 2000 to 2018 . ",
+      "In 2018 , 65.8 percentage of the Brazilian population accessed the internet , up from 12.9 percentage in 2002 ."
+   ],
+   "trends": [
+      {
+         "11": "18",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "3": "0",
+         "15": "15",
+         "18": "16"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Percentage of individuals using internet": "65.8"
+      },
+      {
+         "Year": "2017",
+         "Percentage of individuals using internet": "63.9"
+      },
+      {
+         "Year": "2016",
+         "Percentage of individuals using internet": "59.54"
+      },
+      {
+         "Year": "2015",
+         "Percentage of individuals using internet": "57.43"
+      },
+      {
+         "Year": "2014",
+         "Percentage of individuals using internet": "44.39"
+      },
+      {
+         "Year": "2013",
+         "Percentage of individuals using internet": "43.46"
+      },
+      {
+         "Year": "2012",
+         "Percentage of individuals using internet": "39.75"
+      },
+      {
+         "Year": "2011",
+         "Percentage of individuals using internet": "37.18"
+      },
+      {
+         "Year": "2010",
+         "Percentage of individuals using internet": "31.05"
+      },
+      {
+         "Year": "2009",
+         "Percentage of individuals using internet": "26.34"
+      },
+      {
+         "Year": "2008",
+         "Percentage of individuals using internet": "21.71"
+      },
+      {
+         "Year": "2007",
+         "Percentage of individuals using internet": "20.81"
+      },
+      {
+         "Year": "2006",
+         "Percentage of individuals using internet": "19.52"
+      },
+      {
+         "Year": "2005",
+         "Percentage of individuals using internet": "17.21"
+      },
+      {
+         "Year": "2004",
+         "Percentage of individuals using internet": "14.1"
+      },
+      {
+         "Year": "2003",
+         "Percentage of individuals using internet": "12.9"
+      },
+      {
+         "Year": "2002",
+         "Percentage of individuals using internet": "11.9"
+      },
+      {
+         "Year": "2001",
+         "Percentage of individuals using internet": "7.04"
+      },
+      {
+         "Year": "2000",
+         "Percentage of individuals using internet": "5.08"
+      }
+   ],
+   "gold": "This statistic presents a timeline of the internet penetration in Mexico from 2000 to 2018 . In 2018 , 65.8 percent of the Mexican population used the internet , up from 7.04 percent in 2001 .\n"
+}

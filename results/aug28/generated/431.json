@@ -1,0 +1,53 @@
+{
+   "title": "Merck KGaA 's revenue by segment 2014 to 2018",
+   "labels": [
+      "Health Segment",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the Merck KGaA 's in the Merck KGaA between 2014 and 2018 , with a forecast for 2018 . ",
+      "In 2018 , the Merck KGaA 's in the Merck KGaA stood at 2511 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": [
+            "2",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Health Segment": "Healthcare",
+         "2014": "6621",
+         "2015": "6934",
+         "2016": "6855",
+         "2017": "6999",
+         "2018": "6246"
+      },
+      {
+         "Health Segment": "Life Science",
+         "2014": "2683",
+         "2015": "3355",
+         "2016": "5658",
+         "2017": "5882",
+         "2018": "6185"
+      },
+      {
+         "Health Segment": "Performance Materials",
+         "2014": "2060",
+         "2015": "2556",
+         "2016": "2511",
+         "2017": "2446",
+         "2018": "2406"
+      }
+   ],
+   "gold": "The statistic depicts the revenue of pharmaceutical and chemical company Merck KGaA ( EMD ) from 2014 to 2018 , distributed by segment . During 2015 , Merck KGaA 's healthcare division generated some 6.63 billion euros of revenue . In the United States , Merck KGaA is also known as `` EMD Chemicals '' or `` German Merck '' .\n"
+}

@@ -1,0 +1,65 @@
+{
+   "title": "Southwest Airlines - available seat miles 2011 to 2019",
+   "xAxis": "Year",
+   "yAxis": "ASMs in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the ASMs of people employed by the Southwest since 2011 and 2019 . ",
+      "As of 2019 , the billions of the employees were generated in Southwest Airlines . ",
+      "In 2019 , the Southwest of Southwest Airlines amounted to 157.25 billions ."
+   ],
+   "trends": [
+      {
+         "12": "8",
+         "14": "0"
+      },
+      {
+         "2": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "ASMs in billions": "157.25"
+      },
+      {
+         "Year": "2018",
+         "ASMs in billions": "159.8"
+      },
+      {
+         "Year": "2017",
+         "ASMs in billions": "153.81"
+      },
+      {
+         "Year": "2016",
+         "ASMs in billions": "148.52"
+      },
+      {
+         "Year": "2015",
+         "ASMs in billions": "140.5"
+      },
+      {
+         "Year": "2014",
+         "ASMs in billions": "131.0"
+      },
+      {
+         "Year": "2013",
+         "ASMs in billions": "130.34"
+      },
+      {
+         "Year": "2012",
+         "ASMs in billions": "128.14"
+      },
+      {
+         "Year": "2011",
+         "ASMs in billions": "120.58"
+      }
+   ],
+   "gold": "Southwest Airlines grew its available seat miles ( ASMs ) from 120.58 billion in 2011 to 157.25 billion in 2019 . ASMs are calculated by the total number of seats multiplied by the total distance traveled . When describing the airline industry , people consider ASMs as a measure of capacity .\n"
+}

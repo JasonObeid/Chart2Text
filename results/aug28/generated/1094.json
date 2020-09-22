@@ -1,0 +1,76 @@
+{
+   "title": "Dallas Mavericks concession stand prices ( beer , soft drink , hot dog ) 2010 to 2016",
+   "labels": [
+      "Year",
+      "Beer",
+      "Soft drink",
+      "Hot dog"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic depicts the concession stand prices at games of the Mavericks Thunder ( NBA ) from 2010/11 to 2015/16 . ",
+      "In the 2012/13 season , a 16 ounce beer cost 6 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "17": [
+            "5",
+            "0"
+         ],
+         "19": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "3",
+            "0"
+         ],
+         "10": [
+            "5",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Beer": "5",
+         "Soft drink": "3",
+         "Hot dog": "3.5"
+      },
+      {
+         "Year": "2014/15",
+         "Beer": "6",
+         "Soft drink": "4",
+         "Hot dog": "4.0"
+      },
+      {
+         "Year": "2013/14",
+         "Beer": "6",
+         "Soft drink": "4",
+         "Hot dog": "4.0"
+      },
+      {
+         "Year": "2012/13",
+         "Beer": "6",
+         "Soft drink": "4",
+         "Hot dog": "4.0"
+      },
+      {
+         "Year": "2011/12",
+         "Beer": "6",
+         "Soft drink": "4",
+         "Hot dog": "4.0"
+      },
+      {
+         "Year": "2010/11",
+         "Beer": "6",
+         "Soft drink": "4",
+         "Hot dog": "4.0"
+      }
+   ],
+   "gold": "The statistic depicts the concession stand prices at games of the Dallas Mavericks ( NBA ) from 2010/11 to 2015/16 . In the 2012/13 season , a 18 ounce beer cost six U.S. dollars .\n"
+}

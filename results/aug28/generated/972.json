@@ -1,0 +1,73 @@
+{
+   "title": "Brazil : poverty headcount ratio at 3.20 U.S. dollars a day 2005 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the poverty headcount in Brazil from 2005 to 2017 . ",
+      "In 2017 , about 9.6 percentage of Brazil 's population lived below the poverty line ."
+   ],
+   "trends": [
+      {
+         "9": "11",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Percentage of population": "9.6"
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": "9.3"
+      },
+      {
+         "Year": "2015",
+         "Percentage of population": "8"
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": "6.9"
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": "8.2"
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": "8.7"
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": "10.3"
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": "12.5"
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": "13.5"
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": "15.7"
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": "17.1"
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": "19.7"
+      }
+   ],
+   "gold": "In 2017 , the poverty headcount ratio at 3.20 U.S. dollars a day in Brazil amounted to 9.6 percent , which means that almost 10 percent of the Brazilian population was living on less than 3.20 U.S. dollars per day . The poverty rate has increased since 2014 , when the headcount ratio was below seven percent .\n"
+}

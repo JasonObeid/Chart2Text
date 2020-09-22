@@ -1,0 +1,62 @@
+{
+   "title": "European cities ranked worst for over-tourism 2017",
+   "xAxis": "Tourist Places",
+   "yAxis": "Overtourism score (1-10)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the European cities ranked worst the United Kingdom ( European ) of European as of 2019 , based on the end of that month . ",
+      "In that year , Barcelona_Spain had the European other worst for , with a score of 3.61 (1-10) ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "16": "9"
+      }
+   ],
+   "data": [
+      {
+         "Tourist Places": "Barcelona Spain",
+         "Overtourism score (1-10)": "2.05"
+      },
+      {
+         "Tourist Places": "Amsterdam Netherlands",
+         "Overtourism score (1-10)": "2.18"
+      },
+      {
+         "Tourist Places": "Venice Italy",
+         "Overtourism score (1-10)": "2.19"
+      },
+      {
+         "Tourist Places": "Milan Italy",
+         "Overtourism score (1-10)": "2.66"
+      },
+      {
+         "Tourist Places": "Budapest Hungary",
+         "Overtourism score (1-10)": "2.89"
+      },
+      {
+         "Tourist Places": "Bucharest Romania",
+         "Overtourism score (1-10)": "3.22"
+      },
+      {
+         "Tourist Places": "Reykjavik Iceland",
+         "Overtourism score (1-10)": "3.26"
+      },
+      {
+         "Tourist Places": "Moscow Russia",
+         "Overtourism score (1-10)": "3.27"
+      },
+      {
+         "Tourist Places": "Athens Greece",
+         "Overtourism score (1-10)": "3.45"
+      },
+      {
+         "Tourist Places": "Nantes France",
+         "Overtourism score (1-10)": "3.61"
+      }
+   ],
+   "gold": "Barcelona in Spain ranked as the worst city for overtourism in Europe . It was followed by Amsterdam in the Netherlands and Venice in Italy . All three have faced issues associated with mass tourism and have been forced to implement measures to tackle problems with overtourism .\n"
+}

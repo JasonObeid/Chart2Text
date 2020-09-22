@@ -1,0 +1,91 @@
+{
+   "title": "Ebola cases and deaths in West African outbreak by country 2016",
+   "labels": [
+      "Country",
+      "Cases",
+      "Deaths"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic displays the number of Cases and Deaths West African outbreak related to the 2014 - 2016 Ebola in West African ( and the DR Congo ) . ",
+      "As of 4 , 2016 there have been 10675 Cases deaths West African outbreak in Liberia , resulting in 4809 Deaths . ",
+      "The Ebola virus causes extremely severe hemorrhagic fever and is considered a Risk Group 4 Pathogen 2016 the World West Organization ( WHO ) ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": [
+            "1",
+            "1"
+         ],
+         "16": [
+            "1",
+            "0"
+         ],
+         "20": [
+            "1",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Guinea",
+         "Cases": "3811",
+         "Deaths": "2543"
+      },
+      {
+         "Country": "Liberia",
+         "Cases": "10675",
+         "Deaths": "4809"
+      },
+      {
+         "Country": "Sierra Leone",
+         "Cases": "14124",
+         "Deaths": "3956"
+      },
+      {
+         "Country": "Nigeria",
+         "Cases": "20",
+         "Deaths": "8"
+      },
+      {
+         "Country": "Senegal",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Spain",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "United States",
+         "Cases": "4",
+         "Deaths": "1"
+      },
+      {
+         "Country": "Mali",
+         "Cases": "8",
+         "Deaths": "6"
+      },
+      {
+         "Country": "United Kingdom",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Italy",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Total",
+         "Cases": "28646",
+         "Deaths": "11323"
+      }
+   ],
+   "gold": "This statistic displays the number of cases and deaths due to Ebola from the outbreak in West Africa which lasts since 2014 . As of March 30 , 2016 , there have been 10,675 cases in Liberia , resulting in 4,809 deaths . The Ebola virus causes extremely severe hemorrhagic fever and is considered a Risk Group 4 Pathogen by the World Health Organization ( WHO ) .\n"
+}

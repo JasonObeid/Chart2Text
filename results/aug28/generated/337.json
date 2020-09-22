@@ -1,0 +1,81 @@
+{
+   "title": "UEFA ( Union of European Football Associations ) total revenue 2004 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the total Revenue of the UEFA from the 2004/05 to 2017/18 . ",
+      "According to the source , the 2017/18 season the Revenue of the UEFA was 659.2 million euros ."
+   ],
+   "trends": [
+      {
+         "12": "13",
+         "14": "0"
+      },
+      {
+         "6": "0",
+         "14": "13"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Revenue in million euros": "2789.8"
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million euros": "2835.9"
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million euros": "4579.8"
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million euros": "2099.41"
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million euros": "1730.4"
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million euros": "1698.9"
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million euros": "2795.7"
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million euros": "1384.1"
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million euros": "1394.7"
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million euros": "907.0"
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million euros": "1925.26"
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million euros": "1151.6"
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million euros": "700.45"
+      },
+      {
+         "Year": "2004/05",
+         "Revenue in million euros": "659.2"
+      }
+   ],
+   "gold": "This statistic shows the total revenue of the UEFA from the 2004/05 season to the 2017/18 season . The season runs from July 1 to June 30 of the following year . The revenue of the 2017/18 season was 2.79 billion euros .\n"
+}

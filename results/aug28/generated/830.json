@@ -1,0 +1,58 @@
+{
+   "title": "Pork imports of selected countries worldwide 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Import volume in thousand metric tones",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the 20 Pork imports the selected countries in 2020 , worldwide Country . ",
+      "In that year , the China was ranked first with a Import of 3700 thousand metric ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Import volume in thousand metric tones": "3700"
+      },
+      {
+         "Country": "Japan",
+         "Import volume in thousand metric tones": "1490"
+      },
+      {
+         "Country": "Mexico",
+         "Import volume in thousand metric tones": "1235"
+      },
+      {
+         "Country": "Korea South",
+         "Import volume in thousand metric tones": "695"
+      },
+      {
+         "Country": "United States",
+         "Import volume in thousand metric tones": "401"
+      },
+      {
+         "Country": "Hong Kong",
+         "Import volume in thousand metric tones": "300"
+      },
+      {
+         "Country": "Philippines",
+         "Import volume in thousand metric tones": "300"
+      },
+      {
+         "Country": "Canada",
+         "Import volume in thousand metric tones": "260"
+      },
+      {
+         "Country": "Others",
+         "Import volume in thousand metric tones": "1590"
+      }
+   ],
+   "gold": "This statistic depicts import volume of pork worldwide in 2020 , by leading country . The pork imports of Japan are estimated to be about 1.49 million metric tons in 2020 .\n"
+}

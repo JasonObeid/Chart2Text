@@ -1,0 +1,50 @@
+{
+   "title": "Gannett 's revenue 2013 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Gannett generated some 2.92 billion U.S. dollars in Revenue figures in 2018 , down from 3.15 billion a Year earlier . ",
+      "The company generated Revenue of 2.92 billion U.S. dollars in 2013 ."
+   ],
+   "trends": [
+      {
+         "3": "0",
+         "11": "0",
+         "15": "1"
+      },
+      {
+         "5": "0",
+         "10": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in billion U.S. dollars": "2.92"
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion U.S. dollars": "3.15"
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion U.S. dollars": "3.05"
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": "2.89"
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": "3.17"
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion U.S. dollars": "3.32"
+      }
+   ],
+   "gold": "This statistic presents Gannett Company 's annual revenue from 2013 to 2018 . In 2018 , the publisher of USA Today generated a total revenue of 2.92 billion U.S. dollars .\n"
+}

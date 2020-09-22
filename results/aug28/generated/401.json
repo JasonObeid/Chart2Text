@@ -1,0 +1,81 @@
+{
+   "title": "Number of Carrabba 's Italian Grill restaurants in the U.S. from 2011 to 2018",
+   "labels": [
+      "Year",
+      "Company-owned",
+      "Franchised"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Number Carrabba of in the Grill restaurants 2011 to 2018 , by ownership type . ",
+      "In 2018 , Carrabba generated 3 billion U.S. dollars in Franchised Number Carrabba . ",
+      "Carrabba is owned by Bloomin ' Brands , Inc. a U.S.-based Number company ."
+   ],
+   "trends": [
+      {
+         "12": [
+            "7",
+            "0"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "5": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Company-owned": "224",
+         "Franchised": "3"
+      },
+      {
+         "Year": "2017",
+         "Company-owned": "225",
+         "Franchised": "3"
+      },
+      {
+         "Year": "2016",
+         "Company-owned": "242",
+         "Franchised": "2"
+      },
+      {
+         "Year": "2015",
+         "Company-owned": "244",
+         "Franchised": "3"
+      },
+      {
+         "Year": "2014",
+         "Company-owned": "242",
+         "Franchised": "1"
+      },
+      {
+         "Year": "2013",
+         "Company-owned": "239",
+         "Franchised": "1"
+      },
+      {
+         "Year": "2012",
+         "Company-owned": "234",
+         "Franchised": "1"
+      },
+      {
+         "Year": "2011",
+         "Company-owned": "231",
+         "Franchised": "1"
+      }
+   ],
+   "gold": "This statistic shows the number of Carrabba 's Italian Grill restaurants in the United States from 2011 to 2018 , by ownership type . In 2018 , there were 224 company-owned Carrabba 's Italian Grill restaurants in the United States . Carrabba 's Italian Grill is owned by Bloomin ' Brands , Inc. , a U.S.-based restaurant company .\n"
+}

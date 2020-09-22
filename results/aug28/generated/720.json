@@ -1,0 +1,61 @@
+{
+   "title": "Driver satisfaction with Uber U.S. 2017 to 2019",
+   "labels": [
+      "Response",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the percentage of online consumers in the Driver who are using 2019 as of 2019 . ",
+      "During the survey period , it was found that 43.4 % of all Strongly_disagree accessed the Driver ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": [
+            "3",
+            "2"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Response": "Strongly disagree",
+         "2017": "10.8",
+         "2018": "8.2",
+         "2019": "13.9"
+      },
+      {
+         "Response": "Somewhat disagree",
+         "2017": "25.4",
+         "2018": "17.3",
+         "2019": "22.5"
+      },
+      {
+         "Response": "Neither agree nor disagree",
+         "2017": "14.4",
+         "2018": "16.3",
+         "2019": "19.1"
+      },
+      {
+         "Response": "Somewhat agree",
+         "2017": "39.7",
+         "2018": "43.4",
+         "2019": "34.1"
+      },
+      {
+         "Response": "Strongly agree",
+         "2017": "9.7",
+         "2018": "14.8",
+         "2019": "10.5"
+      }
+   ],
+   "gold": "This statistic shows the driver satisfaction with Uber in the United States from 2017 to 2019 . During the 2019 survey , 34.1 percent of the respondents agreed that they are somewhat satisfied with Uber .\n"
+}

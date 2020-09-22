@@ -1,0 +1,62 @@
+{
+   "title": "Global pineapple production by leading countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Production in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the ranking of the pineapple leading worldwide in 2018 , leading . ",
+      "Costa_Rica produced a reported 3418.16 thousand metric tons of Global pineapple ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Costa Rica",
+         "Production in thousand metric tons": "3418.16"
+      },
+      {
+         "Country": "Philippines",
+         "Production in thousand metric tons": "2730.99"
+      },
+      {
+         "Country": "Brazil",
+         "Production in thousand metric tons": "2650.48"
+      },
+      {
+         "Country": "Thailand",
+         "Production in thousand metric tons": "2113.38"
+      },
+      {
+         "Country": "Indonesia",
+         "Production in thousand metric tons": "1805.51"
+      },
+      {
+         "Country": "India",
+         "Production in thousand metric tons": "1706.0"
+      },
+      {
+         "Country": "Nigeria",
+         "Production in thousand metric tons": "1664.51"
+      },
+      {
+         "Country": "China mainland",
+         "Production in thousand metric tons": "1573.47"
+      },
+      {
+         "Country": "Mexico",
+         "Production in thousand metric tons": "999.59"
+      },
+      {
+         "Country": "Colombia",
+         "Production in thousand metric tons": "900.4"
+      }
+   ],
+   "gold": "In 2018 , Costa Rica , Philippines , and Brazil were the top three pineapple producers worldwide . Costa Rica generated 3.42 million metric tons of pineapples in that year . Overall pineapple production in that year amounted to 27.92 million metric tons .\n"
+}

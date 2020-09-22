@@ -1,0 +1,50 @@
+{
+   "title": "Commercial property market value in the United Kingdom ( UK ) 2012 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Market value in billion GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the total annual value of the Commercial property Market in the United Kingdom from 2012 , with a Commercial up to 2016 . ",
+      "In 2015 , the Commercial property Market was valued at 650 billion British pounds . ",
+      "This is Commercial to grow annually , with a total Market value of 883 billion by 2015 ."
+   ],
+   "trends": [
+      {
+         "16": "4",
+         "23": "0"
+      },
+      {
+         "1": "1",
+         "10": "5"
+      },
+      {
+         "13": "0",
+         "16": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Market value in billion GBP": "883"
+      },
+      {
+         "Year": "2015",
+         "Market value in billion GBP": "926"
+      },
+      {
+         "Year": "2014",
+         "Market value in billion GBP": "788"
+      },
+      {
+         "Year": "2013",
+         "Market value in billion GBP": "687"
+      },
+      {
+         "Year": "2012",
+         "Market value in billion GBP": "650"
+      }
+   ],
+   "gold": "This statistic illustrates the value of the commercial property market in the United Kingdom ( UK ) from 2012 to 2016 . It can be seen that in 2016 the commercial property market reached a value of 883 billion British pounds .\n"
+}

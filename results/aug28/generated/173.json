@@ -1,0 +1,105 @@
+{
+   "title": "Year-to-year percentage of change in holiday retail sales in the U.S. 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Percentage change in retail sales",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Percentage change of the retail sales of the Year-to-year from 2000 to 2019 . ",
+      "In 2019 , the average Percentage change of a sales of 6.8 retail sales ."
+   ],
+   "trends": [
+      {
+         "14": "19",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "11": "15"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Percentage change in retail sales": "4"
+      },
+      {
+         "Year": "2018",
+         "Percentage change in retail sales": "2.1"
+      },
+      {
+         "Year": "2017",
+         "Percentage change in retail sales": "5.2"
+      },
+      {
+         "Year": "2016",
+         "Percentage change in retail sales": "3.2"
+      },
+      {
+         "Year": "2015",
+         "Percentage change in retail sales": "3.1"
+      },
+      {
+         "Year": "2014",
+         "Percentage change in retail sales": "5.1"
+      },
+      {
+         "Year": "2013",
+         "Percentage change in retail sales": "2.9"
+      },
+      {
+         "Year": "2012",
+         "Percentage change in retail sales": "2.6"
+      },
+      {
+         "Year": "2011",
+         "Percentage change in retail sales": "4.6"
+      },
+      {
+         "Year": "2010",
+         "Percentage change in retail sales": "5.2"
+      },
+      {
+         "Year": "2009",
+         "Percentage change in retail sales": "0.2"
+      },
+      {
+         "Year": "2008",
+         "Percentage change in retail sales": "-4.7"
+      },
+      {
+         "Year": "2007",
+         "Percentage change in retail sales": "2.7"
+      },
+      {
+         "Year": "2006",
+         "Percentage change in retail sales": "3.2"
+      },
+      {
+         "Year": "2005",
+         "Percentage change in retail sales": "6.2"
+      },
+      {
+         "Year": "2004",
+         "Percentage change in retail sales": "6.8"
+      },
+      {
+         "Year": "2003",
+         "Percentage change in retail sales": "5.1"
+      },
+      {
+         "Year": "2002",
+         "Percentage change in retail sales": "2.1"
+      },
+      {
+         "Year": "2001",
+         "Percentage change in retail sales": "2.07"
+      },
+      {
+         "Year": "2000",
+         "Percentage change in retail sales": "3.4"
+      }
+   ],
+   "gold": "This statistic shows the year-over-year growth of holiday retail sales in the United States from 2000 to 2019 . In 2019 , holiday retail sales were forecast to grow by approximately four percent compared to the previous year . Holiday Season in the United States The holiday season is just around the corner and it 's truly the best time of the year for both consumers and retailers of all shapes and sizes .\n"
+}

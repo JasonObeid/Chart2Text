@@ -1,0 +1,101 @@
+{
+   "title": "West Virginia - poverty rate from 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Virginia poverty in West Virginia from 2000 to 2018 . ",
+      "In 2018 , about 17.8 percentage of West Virginia 's population lived below the Virginia line ."
+   ],
+   "trends": [
+      {
+         "9": "18",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Percentage of population": "17.8"
+      },
+      {
+         "Year": "2017",
+         "Percentage of population": "19.1"
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": "17.9"
+      },
+      {
+         "Year": "2015",
+         "Percentage of population": "17.9"
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": "18.3"
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": "18.5"
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": "17.8"
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": "18.6"
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": "18.1"
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": "17.7"
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": "17"
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": "16.9"
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": "17.3"
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": "18"
+      },
+      {
+         "Year": "2004",
+         "Percentage of population": "17.9"
+      },
+      {
+         "Year": "2003",
+         "Percentage of population": "18.5"
+      },
+      {
+         "Year": "2002",
+         "Percentage of population": "17.2"
+      },
+      {
+         "Year": "2001",
+         "Percentage of population": "17.2"
+      },
+      {
+         "Year": "2000",
+         "Percentage of population": "18.6"
+      }
+   ],
+   "gold": "This graph shows the poverty rate in West Virginia from 2000 to 2018 . In 2018 , 17.8 percent of West Virginia 's population lived below the poverty line .\n"
+}

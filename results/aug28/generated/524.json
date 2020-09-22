@@ -1,0 +1,95 @@
+{
+   "title": "Manchester City revenue by stream 2018/19",
+   "labels": [
+      "Year",
+      "Matchday",
+      "Broadcasting",
+      "Commercial"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "Broadcasting is the largest source of revenue for Manchester City . ",
+      "In 2018/2019 , the club earned approximately 287.2 million euros from Broadcasting , more than double in 2010/2011 . ",
+      "The second biggest revenue stream is the Commercial stream ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": [
+            "0",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Matchday": "62.4",
+         "Broadcasting": "287.2",
+         "Commercial": "261.0"
+      },
+      {
+         "Year": "2017/18",
+         "Matchday": "63.9",
+         "Broadcasting": "238.8",
+         "Commercial": "265.7"
+      },
+      {
+         "Year": "2016/17",
+         "Matchday": "60.4",
+         "Broadcasting": "236.8",
+         "Commercial": "230.5"
+      },
+      {
+         "Year": "2015/16",
+         "Matchday": "70.2",
+         "Broadcasting": "215.8",
+         "Commercial": "238.9"
+      },
+      {
+         "Year": "2014/15",
+         "Matchday": "57.0",
+         "Broadcasting": "178.0",
+         "Commercial": "228.5"
+      },
+      {
+         "Year": "2013/14",
+         "Matchday": "56.8",
+         "Broadcasting": "159.3",
+         "Commercial": "198.3"
+      },
+      {
+         "Year": "2012/13",
+         "Matchday": "46.2",
+         "Broadcasting": "103.1",
+         "Commercial": "166.9"
+      },
+      {
+         "Year": "2011/12",
+         "Matchday": "38.1",
+         "Broadcasting": "109.0",
+         "Commercial": "138.5"
+      },
+      {
+         "Year": "2010/11",
+         "Matchday": "29.5",
+         "Broadcasting": "76.1",
+         "Commercial": "64.0"
+      },
+      {
+         "Year": "2009/10",
+         "Matchday": "29.8",
+         "Broadcasting": "66.0",
+         "Commercial": "57.0"
+      },
+      {
+         "Year": "2008/09",
+         "Matchday": "24.4",
+         "Broadcasting": "56.7",
+         "Commercial": "21.1"
+      }
+   ],
+   "gold": "The commercial revenue stream is the largest source of revenue for Manchester City . In 2018/2019 , the football club earned approximately 261 million euros from sponsorship , merchandising , stadium tours and other commercial operations , broadcasting , more than four times more than in 2010/2011 . The biggest revenue stream was broadcasting .\n"
+}

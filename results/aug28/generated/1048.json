@@ -1,0 +1,114 @@
+{
+   "title": "Distribution of the workforce across economic sectors in Italy 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the distribution of in Italy workforce across economic from 2009 to 2019 . ",
+      "In 2019 , 3.72 % of the employees in Italy were active in the agricultural economic , 25.62 % in Industry and 70.66 % in the service economic ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "3.72",
+         "Industry": "25.62",
+         "Services": "70.66"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "3.75",
+         "Industry": "25.81",
+         "Services": "70.44"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "3.78",
+         "Industry": "26",
+         "Services": "70.21"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "3.88",
+         "Industry": "26.12",
+         "Services": "69.99"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "3.75",
+         "Industry": "26.6",
+         "Services": "69.65"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "3.64",
+         "Industry": "26.9",
+         "Services": "69.46"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "3.6",
+         "Industry": "27.05",
+         "Services": "69.35"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "3.69",
+         "Industry": "27.58",
+         "Services": "68.72"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "3.68",
+         "Industry": "28.29",
+         "Services": "68.03"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "3.77",
+         "Industry": "28.61",
+         "Services": "67.62"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "3.69",
+         "Industry": "29.24",
+         "Services": "67.07"
+      }
+   ],
+   "gold": "The statistic shows the distribution of the workforce across economic sectors in Italy from 2009 to 2019 . In 2019 , 3.72 percent of the workforce in Italy were employed in agriculture , 25.62 percent in industry and 70.66 percent in services .\n"
+}

@@ -1,0 +1,71 @@
+{
+   "title": "Mexico : foreign direct investment ( FDI ) 3rd quarter 2019 , by country",
+   "labels": [
+      "Country",
+      "Q2 2019",
+      "Q3 2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic illustrates the number of Mexico and Q3 2019 investment FDI 3rd in 2019 . ",
+      "In that year , the United_States of Mexico employees were Q2 in the world ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Q2 2019": "36.07",
+         "Q3 2019": "24.93"
+      },
+      {
+         "Country": "Canada",
+         "Q2 2019": "34.97",
+         "Q3 2019": "1.46"
+      },
+      {
+         "Country": "Germany",
+         "Q2 2019": "9.81",
+         "Q3 2019": "19.38"
+      },
+      {
+         "Country": "Spain",
+         "Q2 2019": "6.32",
+         "Q3 2019": "26.79"
+      },
+      {
+         "Country": "Belgium",
+         "Q2 2019": "0",
+         "Q3 2019": "0.01"
+      },
+      {
+         "Country": "Netherlands",
+         "Q2 2019": "0",
+         "Q3 2019": "0.71"
+      },
+      {
+         "Country": "Australia",
+         "Q2 2019": "0",
+         "Q3 2019": "1.42"
+      },
+      {
+         "Country": "Japan",
+         "Q2 2019": "0",
+         "Q3 2019": "7.64"
+      },
+      {
+         "Country": "Italy",
+         "Q2 2019": "3.18",
+         "Q3 2019": "6.94"
+      }
+   ],
+   "gold": "In the third quarter of 2019 , less than one third of foreign direct investments ( FDI ) in Mexico came from the United States . During that same period , nearly 27 percent of Mexican FDI originated from Spain . Moreover , FDI in Mexico throughout the second quarter of each year has decreased lately .\n"
+}

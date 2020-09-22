@@ -1,0 +1,58 @@
+{
+   "title": "Most popular cheese brands in the United Kingdom ( UK ) 2013",
+   "xAxis": "Cheese Brands",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic provides information on the Most popular cheese in the United as of 2017 . ",
+      "According to the survey , it was found that 51 % of the people who were living in the United Kingdom users . ",
+      "The Most Cheese in Cathedral_City was ranked first with 42 % of respondents ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      },
+      {
+         "4": "0",
+         "9": "1"
+      }
+   ],
+   "data": [
+      {
+         "Cheese Brands": "Cathedral City",
+         "Share of respondents currently purchasing": "51"
+      },
+      {
+         "Cheese Brands": "Supermarket own label cheese",
+         "Share of respondents currently purchasing": "42"
+      },
+      {
+         "Cheese Brands": "Philadelphia",
+         "Share of respondents currently purchasing": "27"
+      },
+      {
+         "Cheese Brands": "Pilgrims Choice",
+         "Share of respondents currently purchasing": "26"
+      },
+      {
+         "Cheese Brands": "Dairylea",
+         "Share of respondents currently purchasing": "25"
+      },
+      {
+         "Cheese Brands": "Philadelphia Light",
+         "Share of respondents currently purchasing": "23"
+      },
+      {
+         "Cheese Brands": "Seriously Strong Cheddar",
+         "Share of respondents currently purchasing": "20"
+      },
+      {
+         "Cheese Brands": "Babybel",
+         "Share of respondents currently purchasing": "17"
+      }
+   ],
+   "gold": "This statistic displays the leading cheese brands in the United Kingdom ( UK ) , according to a survey conducted in November 2013 . Cathedral city and supermarket own label cheeses ranked highest , with the greatest percentage of respondents purchasing their cheese products at the time of survey . Retail sales volumes of cheese have increased year on year , with cheddar cheese the most popular type of hard cheese in the United Kingdom , mature cheddar in particular .\n"
+}

@@ -1,0 +1,54 @@
+{
+   "title": "Population in Sweden 2018 , by level of education",
+   "xAxis": "Level Of Education",
+   "yAxis": "Share of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic provides information on the Sweden 2018 of Population in Sweden as of 2018 , sorted by Level . ",
+      "During the survey period , it was found that 13.1 % of internet users in the Sweden accessed the No_information_about_level_of_education of Sweden ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "19": "7"
+      }
+   ],
+   "data": [
+      {
+         "Level Of Education": "Primary and lower education (less than 9 years)",
+         "Share of population": "4.1"
+      },
+      {
+         "Level Of Education": "Lower secondary education (9 years)",
+         "Share of population": "13.1"
+      },
+      {
+         "Level Of Education": "Upper secondary education (less than 3 years)",
+         "Share of population": "19.5"
+      },
+      {
+         "Level Of Education": "Upper secondary education (3 years or more)",
+         "Share of population": "23.4"
+      },
+      {
+         "Level Of Education": "Post-secondary education (less than 3 years)",
+         "Share of population": "14.5"
+      },
+      {
+         "Level Of Education": "Post-secondary education (3 years or more)",
+         "Share of population": "21.7"
+      },
+      {
+         "Level Of Education": "Post-graduate education",
+         "Share of population": "1.12"
+      },
+      {
+         "Level Of Education": "No information about level of education",
+         "Share of population": "2.7"
+      }
+   ],
+   "gold": "The number of Swedes with higher education , a post-secondary education of three years or more , increased since 2000 , while the number without decreased . In 2017 , around 37 percent of the population had at least some level of post-secondary education . Among them , 21.7 percent had an upper secondary education of three years or more .\n"
+}

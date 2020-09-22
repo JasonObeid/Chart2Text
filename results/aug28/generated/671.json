@@ -1,0 +1,59 @@
+{
+   "title": "Becton , Dickinson , and Company 's employees from 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the Number of employees the Becton employees from 2011 to 2018 . ",
+      "In 2016 , the company employed some 50900 million people employed in the world . ",
+      "Becton is a United States-based multinational oil and gas corporation , headquartered in Chicago , Illinois ."
+   ],
+   "trends": [
+      {
+         "12": "7",
+         "14": "0"
+      },
+      {
+         "1": "2",
+         "7": "2"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": "76032"
+      },
+      {
+         "Year": "2017",
+         "Number of employees": "41900"
+      },
+      {
+         "Year": "2016",
+         "Number of employees": "50900"
+      },
+      {
+         "Year": "2015",
+         "Number of employees": "49500"
+      },
+      {
+         "Year": "2014",
+         "Number of employees": "30600"
+      },
+      {
+         "Year": "2013",
+         "Number of employees": "30000"
+      },
+      {
+         "Year": "2012",
+         "Number of employees": "29600"
+      },
+      {
+         "Year": "2011",
+         "Number of employees": "29400"
+      }
+   ],
+   "gold": "The statistic shows the number of employees of Becton , Dickinson , and Company for the fiscal years 2011 to 2018 . The number of employees at Becton , Dickinson , and Company reached a high in 2016 with 50,900 employed at the company that year .\n"
+}

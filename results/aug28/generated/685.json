@@ -1,0 +1,49 @@
+{
+   "title": "Canada retail e-commerce sales growth 2018 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Year-over-year change",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Year-over-year change of the e-commerce sales growth 2018 in Canada from 2018 to 2023 . ",
+      "According to the source , the change of the total amount to around 10.1 % change in 2019 ."
+   ],
+   "trends": [
+      {
+         "15": "5",
+         "17": "0"
+      },
+      {
+         "13": "4",
+         "18": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Year-over-year change": "3.1"
+      },
+      {
+         "Year": "2022",
+         "Year-over-year change": "4.7"
+      },
+      {
+         "Year": "2021",
+         "Year-over-year change": "6.9"
+      },
+      {
+         "Year": "2020",
+         "Year-over-year change": "9.1"
+      },
+      {
+         "Year": "2019",
+         "Year-over-year change": "10.1"
+      },
+      {
+         "Year": "2018",
+         "Year-over-year change": "9.1"
+      }
+   ],
+   "gold": "This statistic gives information on retail e-commerce sales growth in Canada from 2018 to 2023 . In 2018 , retail e-commerce sales grew by 9.1 percent compared to the previous year . In 2022 , retail e-commerce sales are expected to grow 4.7 percent from the previous year .\n"
+}

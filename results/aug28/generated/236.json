@@ -1,0 +1,60 @@
+{
+   "title": "Mobile devices used by U.S. students 2015 , by type and frequency",
+   "labels": [
+      "Response",
+      "Never",
+      "A few times a month or less",
+      "2-3 times per week or more"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among U.S. adult Laptop_notebook_or_Chromebook in the United Kingdom ( U.S. ) as of 2015 . ",
+      "According to the survey , 17 % of respondents reported that they had used Laptop_notebook_or_Chromebook in a ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "5": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Response": "Laptop notebook or Chromebook",
+         "Never": "17",
+         "A few times a month or less": "22",
+         "2-3 times per week or more": "61"
+      },
+      {
+         "Response": "Smartphone",
+         "Never": "42",
+         "A few times a month or less": "16",
+         "2-3 times per week or more": "41"
+      },
+      {
+         "Response": "Tablet",
+         "Never": "42",
+         "A few times a month or less": "21",
+         "2-3 times per week or more": "37"
+      },
+      {
+         "Response": "Hybrid or 2 in 1 computer",
+         "Never": "84",
+         "A few times a month or less": "5",
+         "2-3 times per week or more": "10"
+      }
+   ],
+   "gold": "This statistic presents information on the frequency of mobile device usage for school work according to students in the United States as of March 2015 , by type of the mobile device used . During the survey period , it was found that 41 percent of the students used smartphones 2 - 3 times per week or more for school work .\n"
+}

@@ -1,0 +1,74 @@
+{
+   "title": "Share of IT budgets spent on IT security FY2005-FY2016",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Share of total IT budget",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , the Share budgets spent in IT IT FY2005-FY2016 was FY2005 with a Share total of 10.6 budget . ",
+      "This statistic gives over 70 % of the employees who were using the spent in IT IT FY2005-FY2016 ."
+   ],
+   "trends": [
+      {
+         "11": "0",
+         "17": "12"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fiscal Year": "FY2005",
+         "Share of total IT budget": "7.5"
+      },
+      {
+         "Fiscal Year": "FY2006",
+         "Share of total IT budget": "7.2"
+      },
+      {
+         "Fiscal Year": "FY2007",
+         "Share of total IT budget": "7.5"
+      },
+      {
+         "Fiscal Year": "FY2008",
+         "Share of total IT budget": "7.9"
+      },
+      {
+         "Fiscal Year": "FY2009",
+         "Share of total IT budget": "9.1"
+      },
+      {
+         "Fiscal Year": "FY2010",
+         "Share of total IT budget": "8.6"
+      },
+      {
+         "Fiscal Year": "FY2011",
+         "Share of total IT budget": "8.8"
+      },
+      {
+         "Fiscal Year": "FY2012",
+         "Share of total IT budget": "9.1"
+      },
+      {
+         "Fiscal Year": "FY2013",
+         "Share of total IT budget": "9.9"
+      },
+      {
+         "Fiscal Year": "FY2014",
+         "Share of total IT budget": "9.2"
+      },
+      {
+         "Fiscal Year": "FY2015",
+         "Share of total IT budget": "10"
+      },
+      {
+         "Fiscal Year": "FY2016",
+         "Share of total IT budget": "10.2"
+      },
+      {
+         "Fiscal Year": "FY2017",
+         "Share of total IT budget": "10.6"
+      }
+   ],
+   "gold": "The statistic shows the average share of IT budgets that is put towards IT security , from FY2005 to FY2017 . As of January 2018 , according to respondents , enterprises currently spend an average of 10.6 percent of their overall IT budgets on IT security . This figure has risen relatively steadily since 2005 .\n"
+}

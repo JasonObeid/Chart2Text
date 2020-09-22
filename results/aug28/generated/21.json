@@ -1,0 +1,100 @@
+{
+   "title": "Leading fast food restaurants in the United Kingdom 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey among United Kingdom adult fast . ",
+      "The survey was fielded Burger_King by Harris Interactive in 2014 , 57 % of respondents stated that they used McDonald's a KFC fast ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "3",
+         "11": "0",
+         "19": "0",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "McDonald's",
+         "Share of respondents": "57"
+      },
+      {
+         "Response": "KFC",
+         "Share of respondents": "42"
+      },
+      {
+         "Response": "Subway",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Burger King",
+         "Share of respondents": "33"
+      },
+      {
+         "Response": "Pizza Hut",
+         "Share of respondents": "28"
+      },
+      {
+         "Response": "Domino's",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Nando's",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "Pizza Express",
+         "Share of respondents": "22"
+      },
+      {
+         "Response": "None",
+         "Share of respondents": "19"
+      },
+      {
+         "Response": "Pret A Manger",
+         "Share of respondents": "12"
+      },
+      {
+         "Response": "Krispy Kreme",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Wimpy",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Harry Ramsden's",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Chicken Cottage",
+         "Share of respondents": "5"
+      },
+      {
+         "Response": "Perfect Pizza",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Dixy chicken",
+         "Share of respondents": "4"
+      },
+      {
+         "Response": "Quiznos",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Prefer not to say",
+         "Share of respondents": "1"
+      }
+   ],
+   "gold": "This statistic shows the leading fast food ( quick service ) restaurants in the United Kingdom ( UK ) in 2015 . During the survey , 57 percent of respondents said they went to McDonald 's , while 42 percent chose KFC . Despite the popularity McDonald 's enjoy in the United Kingdom , there are far fewer McDonald 's restaurants per million people in the United Kingdom , than in similar nations .\n"
+}

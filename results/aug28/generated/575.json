@@ -1,0 +1,104 @@
+{
+   "title": "Top countries by pharmaceutical industry employment 2014",
+   "xAxis": "Country",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of employees the Top countries in 2014 , industry Country . ",
+      "According to the source , China had over 2301534 million of the largest Top , followed employment India with 567469 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "8": "0",
+         "17": "1",
+         "19": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of employees": "2301534"
+      },
+      {
+         "Country": "India",
+         "Number of employees": "567469"
+      },
+      {
+         "Country": "United States",
+         "Number of employees": "251995"
+      },
+      {
+         "Country": "Germany",
+         "Number of employees": "128000"
+      },
+      {
+         "Country": "Brazil",
+         "Number of employees": "105253"
+      },
+      {
+         "Country": "Japan",
+         "Number of employees": "91529"
+      },
+      {
+         "Country": "Russian Federation",
+         "Number of employees": "66523"
+      },
+      {
+         "Country": "Indonesia",
+         "Number of employees": "64059"
+      },
+      {
+         "Country": "Italy",
+         "Number of employees": "59300"
+      },
+      {
+         "Country": "Mexico",
+         "Number of employees": "51125"
+      },
+      {
+         "Country": "Thailand",
+         "Number of employees": "48000"
+      },
+      {
+         "Country": "Egypt",
+         "Number of employees": "47753"
+      },
+      {
+         "Country": "France",
+         "Number of employees": "47000"
+      },
+      {
+         "Country": "Spain",
+         "Number of employees": "43723"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of employees": "43258"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of employees": "41690"
+      },
+      {
+         "Country": "Vietnam",
+         "Number of employees": "39749"
+      },
+      {
+         "Country": "Poland",
+         "Number of employees": "38000"
+      },
+      {
+         "Country": "Pakistan",
+         "Number of employees": "36336"
+      },
+      {
+         "Country": "Turkey",
+         "Number of employees": "35100"
+      }
+   ],
+   "gold": "This statistic displays the top 20 countries worldwide based on the number of people employed in the pharmaceutical industry as of 2014 . The pharmaceutical industry in Japan counted over 91,500 employees that year .\n"
+}

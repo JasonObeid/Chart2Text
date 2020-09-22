@@ -1,0 +1,53 @@
+{
+   "title": "Reptile-ownership : household penetration rates 2007 to 2013",
+   "xAxis": "Year",
+   "yAxis": "Penetration rates",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Reptile-ownership Penetration rates of the rates household in Reptile-ownership from 2007 to 2013 . ",
+      "In 2013 , the Reptile-ownership Penetration rates in Reptile-ownership was at 2.7 rates ."
+   ],
+   "trends": [
+      {
+         "14": "0",
+         "16": "6"
+      },
+      {
+         "1": "6",
+         "11": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2007",
+         "Penetration rates": "2"
+      },
+      {
+         "Year": "2008",
+         "Penetration rates": "2.1"
+      },
+      {
+         "Year": "2009",
+         "Penetration rates": "1.5"
+      },
+      {
+         "Year": "2010",
+         "Penetration rates": "1.8"
+      },
+      {
+         "Year": "2011",
+         "Penetration rates": "1.7"
+      },
+      {
+         "Year": "2012",
+         "Penetration rates": "1.8"
+      },
+      {
+         "Year": "2013",
+         "Penetration rates": "2.7"
+      }
+   ],
+   "gold": "The statistic shows the household penetration rates for reptile-ownership in the United States from 2007 to 2013 . The household penetration rate for reptile-ownership amounted to about 2 percent in 2007 .\n"
+}

@@ -1,0 +1,78 @@
+{
+   "title": "Mobile phone usage : frequency of making mobile phone calls in the UK 2019 , by gender",
+   "labels": [
+      "Response",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic presents the distribution of Several_times_a_day in the Mobile who were using Mobile as of 2019 , sorted phone calls . ",
+      "During that period of time , 49 % of making and 46 % of respondents stated that they accessed the Several_times_a_day making accessed the Several_times_a_day ."
+   ],
+   "trends": [
+      {
+         "6": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "6": [
+            "0",
+            "1"
+         ],
+         "11": [
+            "0",
+            "2"
+         ],
+         "20": [
+            "0",
+            "0"
+         ],
+         "24": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Response": "Several times a day",
+         "Male": "49",
+         "Female": "46"
+      },
+      {
+         "Response": "Every day",
+         "Male": "21",
+         "Female": "24"
+      },
+      {
+         "Response": "Several times a week",
+         "Male": "16",
+         "Female": "17"
+      },
+      {
+         "Response": "At least once a week",
+         "Male": "6",
+         "Female": "6"
+      },
+      {
+         "Response": "At least once a month",
+         "Male": "4",
+         "Female": "3"
+      },
+      {
+         "Response": "Less than once a month",
+         "Male": "2",
+         "Female": "2"
+      },
+      {
+         "Response": "Never",
+         "Male": "1",
+         "Female": "1"
+      }
+   ],
+   "gold": "Figures covering the frequency of mobile phone use show a relatively even split among genders in the United Kingdom ( UK ) during 2019 . Males were slightly more likely to use their mobile phones to make calls several times a day , while less than one percent of female respondents reported never using a mobile phone to make calls . Mobile call volume increasing The volume of calls made using mobile phones has increased over the past several years .\n"
+}

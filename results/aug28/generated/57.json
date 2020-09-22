@@ -1,0 +1,46 @@
+{
+   "title": "Revenue share by geographic region of delivery for Christian Dior December 2018",
+   "xAxis": "Country",
+   "yAxis": "Revenue share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the share by of Christian Dior December share as of 2018 , region Revenue from Christian Dior December . ",
+      "During that year , it was found that Other_markets accounted for 29 % of all share ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "11": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Other markets",
+         "Revenue share": "11"
+      },
+      {
+         "Country": "Asia (excluding Japan)",
+         "Revenue share": "29"
+      },
+      {
+         "Country": "Japan",
+         "Revenue share": "7"
+      },
+      {
+         "Country": "United States",
+         "Revenue share": "24"
+      },
+      {
+         "Country": "Europe (excluding France)",
+         "Revenue share": "19"
+      },
+      {
+         "Country": "France",
+         "Revenue share": "10"
+      }
+   ],
+   "gold": "Christian Dior SE , or simply known as Dior , is one of France 's most emblematic luxury goods company . As of December 2016 , 26 percent of its revenue came from Asian countries ( excluding Japan ) , seven percent of its revenue came from Japan , 26 percent from the United States , 19 percent from Europe ( excluding France ) . France was responsible for 10 percent of its revenue and other markets such as South Africa , Brazil and countries from the Arabian Gulf accounted for 12 percent of its revenue .\n"
+}

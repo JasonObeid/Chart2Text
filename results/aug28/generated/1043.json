@@ -1,0 +1,101 @@
+{
+   "title": "New York - poverty rate 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the York poverty in New York from 2000 to 2018 . ",
+      "In 2018 , about 13.6 percentage of New York 's population lived below the York line ."
+   ],
+   "trends": [
+      {
+         "9": "18",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Percentage of population": "13.6"
+      },
+      {
+         "Year": "2017",
+         "Percentage of population": "14.1"
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": "14.7"
+      },
+      {
+         "Year": "2015",
+         "Percentage of population": "15.4"
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": "15.9"
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": "16"
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": "15.9"
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": "16"
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": "14.9"
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": "14.2"
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": "13.6"
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": "13.7"
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": "14.2"
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": "13.8"
+      },
+      {
+         "Year": "2004",
+         "Percentage of population": "14.2"
+      },
+      {
+         "Year": "2003",
+         "Percentage of population": "13.5"
+      },
+      {
+         "Year": "2002",
+         "Percentage of population": "13.1"
+      },
+      {
+         "Year": "2001",
+         "Percentage of population": "13.4"
+      },
+      {
+         "Year": "2000",
+         "Percentage of population": "13.1"
+      }
+   ],
+   "gold": "This statistic shows the poverty rate in New York from 2000 to 2018 . 13.6 percent of New York 's population lived below the poverty line in 2018 .\n"
+}

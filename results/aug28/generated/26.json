@@ -1,0 +1,81 @@
+{
+   "title": "Top-selling DVDs in the U.S. in 2019",
+   "xAxis": "Movies",
+   "yAxis": "Number of units sold in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the Top-selling DVDs U.S. Movies in DVDs U.S. as of 2019 , based on goods The_Goonies . ",
+      "During the survey period , it was found that the thousands of the units sold will be the goods and services ."
+   ],
+   "trends": [
+      {
+         "19": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Movies": "The Goonies",
+         "Number of units sold in thousands": "903.47"
+      },
+      {
+         "Movies": "Aquaman",
+         "Number of units sold in thousands": "868.93"
+      },
+      {
+         "Movies": "Bohemian Rhapsody",
+         "Number of units sold in thousands": "855.06"
+      },
+      {
+         "Movies": "Avengers: Endgame",
+         "Number of units sold in thousands": "848.49"
+      },
+      {
+         "Movies": "Captain Marvel",
+         "Number of units sold in thousands": "840.92"
+      },
+      {
+         "Movies": "A Star is Born",
+         "Number of units sold in thousands": "832.1"
+      },
+      {
+         "Movies": "How to Train Your Dragon: The Hidden World",
+         "Number of units sold in thousands": "686.49"
+      },
+      {
+         "Movies": "Hocus Pocus",
+         "Number of units sold in thousands": "656.63"
+      },
+      {
+         "Movies": "Matilda",
+         "Number of units sold in thousands": "569.92"
+      },
+      {
+         "Movies": "John Wick: Chapter 3 - Parabellum",
+         "Number of units sold in thousands": "567.68"
+      },
+      {
+         "Movies": "Fantastic Beasts: The Crimes of Grindelwald",
+         "Number of units sold in thousands": "542.02"
+      },
+      {
+         "Movies": "Bumblebee",
+         "Number of units sold in thousands": "531.96"
+      },
+      {
+         "Movies": "Dr. Seuss' The Grinch",
+         "Number of units sold in thousands": "529.48"
+      },
+      {
+         "Movies": "Pokemon: Detective Pikachu",
+         "Number of units sold in thousands": "509.33"
+      },
+      {
+         "Movies": "Aladdin",
+         "Number of units sold in thousands": "506.52"
+      }
+   ],
+   "gold": "In 2019 , the top-selling DVD in the United States was 1985 movie 'The Goonies ' _ , which sold approximately 903.5 thousand copies in the U.S. that year . In second place was 'Aquaman ' with 868.93 thousand copies sold . The movie also ranked fourth in the 2019 DVD sales list based on consumer spending .\n"
+}

@@ -1,0 +1,39 @@
+{
+   "title": "Consumer preference : fiction versus non-fiction books in England 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey among England adult Americans on the Consumer of preference in the England as of 2019 . ",
+      "During the survey , it was found Fiction 8 % of respondents stated that they were Neither ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "1",
+         "8": "3",
+         "16": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Mixture of both",
+         "Share of respondents": "44"
+      },
+      {
+         "Response": "Fiction",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Non-fiction",
+         "Share of respondents": "22"
+      },
+      {
+         "Response": "Neither",
+         "Share of respondents": "8"
+      }
+   ],
+   "gold": "This statistic displays the preferred book types ( fiction versus non-fiction ) among respondents in England in 2013 . Of respondents , 26 percent said they preferred fiction , while 44 percent reported liking a mixture of fiction and non-fiction .\n"
+}

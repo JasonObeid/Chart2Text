@@ -1,0 +1,138 @@
+{
+   "title": "Computer tomography scanner density by country 2017",
+   "xAxis": "Country",
+   "yAxis": "CT scanners per million population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the CT scanners of the scanner density by country in 2017 . ",
+      "In that year , the scanner density by in Australia was the world with a CT value of 64.35 per million of population ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Australia",
+         "CT scanners per million population": "64.35"
+      },
+      {
+         "Country": "Iceland",
+         "CT scanners per million population": "44.33"
+      },
+      {
+         "Country": "United States",
+         "CT scanners per million population": "42.64"
+      },
+      {
+         "Country": "Denmark",
+         "CT scanners per million population": "39.83"
+      },
+      {
+         "Country": "Switzerland",
+         "CT scanners per million population": "38.93"
+      },
+      {
+         "Country": "South Korea",
+         "CT scanners per million population": "38.18"
+      },
+      {
+         "Country": "Greece",
+         "CT scanners per million population": "36.66"
+      },
+      {
+         "Country": "Latvia",
+         "CT scanners per million population": "36.23"
+      },
+      {
+         "Country": "Germany",
+         "CT scanners per million population": "35.17"
+      },
+      {
+         "Country": "Italy",
+         "CT scanners per million population": "34.29"
+      },
+      {
+         "Country": "Austria",
+         "CT scanners per million population": "29.07"
+      },
+      {
+         "Country": "Chile",
+         "CT scanners per million population": "24.27"
+      },
+      {
+         "Country": "Finland",
+         "CT scanners per million population": "24.2"
+      },
+      {
+         "Country": "Ireland",
+         "CT scanners per million population": "19.23"
+      },
+      {
+         "Country": "Spain",
+         "CT scanners per million population": "18.26"
+      },
+      {
+         "Country": "New Zealand",
+         "CT scanners per million population": "17.9"
+      },
+      {
+         "Country": "Estonia",
+         "CT scanners per million population": "17.48"
+      },
+      {
+         "Country": "Poland",
+         "CT scanners per million population": "17.33"
+      },
+      {
+         "Country": "France",
+         "CT scanners per million population": "17.33"
+      },
+      {
+         "Country": "Slovak Rep.",
+         "CT scanners per million population": "17.31"
+      },
+      {
+         "Country": "Luxembourg",
+         "CT scanners per million population": "16.77"
+      },
+      {
+         "Country": "Czech Rep.",
+         "CT scanners per million population": "15.52"
+      },
+      {
+         "Country": "Canada",
+         "CT scanners per million population": "15.28"
+      },
+      {
+         "Country": "Slovenia",
+         "CT scanners per million population": "15.01"
+      },
+      {
+         "Country": "Turkey",
+         "CT scanners per million population": "14.53"
+      },
+      {
+         "Country": "Netherlands",
+         "CT scanners per million population": "13.04"
+      },
+      {
+         "Country": "Israel",
+         "CT scanners per million population": "9.65"
+      },
+      {
+         "Country": "Hungary",
+         "CT scanners per million population": "8.86"
+      },
+      {
+         "Country": "Mexico",
+         "CT scanners per million population": "6.12"
+      }
+   ],
+   "gold": "Computer tomography ( CT ) scanners are vital medical technology used in the diagnosis and monitoring of various medical conditions . CT scanner utilize x-ray technology to make images of bones , vessels and other internal organs . As of 2017 , Australia had the largest number of CT scanners per one million population with 64.35 scanners per million people .\n"
+}

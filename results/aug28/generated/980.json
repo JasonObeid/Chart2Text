@@ -1,0 +1,141 @@
+{
+   "title": "Full-time weekly hours of work , by gender 2000 - 2019 | UK Statistic",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The Full-time weekly at hours work in UK increased among both Men and Women during the period from 2000 to 2019 . ",
+      "The Full-time weekly at hours work among Women increased 2019 1.5 years during the ten-year period and was 34.5 years in 2019 . ",
+      "Among Men , the weekly increase was not as large for Women ."
+   ],
+   "trends": [
+      {
+         "18": [
+            "19",
+            "0"
+         ],
+         "20": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "18": [
+            "0",
+            "2"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Men": "39.0",
+         "Women": "34.5"
+      },
+      {
+         "Year": "2018",
+         "Men": "39.0",
+         "Women": "34.1"
+      },
+      {
+         "Year": "2017",
+         "Men": "39.3",
+         "Women": "34.2"
+      },
+      {
+         "Year": "2016",
+         "Men": "39.3",
+         "Women": "34.3"
+      },
+      {
+         "Year": "2015",
+         "Men": "39.3",
+         "Women": "34.2"
+      },
+      {
+         "Year": "2014",
+         "Men": "39.4",
+         "Women": "34.5"
+      },
+      {
+         "Year": "2013",
+         "Men": "39.5",
+         "Women": "34.2"
+      },
+      {
+         "Year": "2012",
+         "Men": "39.3",
+         "Women": "34.0"
+      },
+      {
+         "Year": "2011",
+         "Men": "39.0",
+         "Women": "33.7"
+      },
+      {
+         "Year": "2010",
+         "Men": "39.0",
+         "Women": "33.8"
+      },
+      {
+         "Year": "2009",
+         "Men": "38.5",
+         "Women": "33.7"
+      },
+      {
+         "Year": "2008",
+         "Men": "38.9",
+         "Women": "33.8"
+      },
+      {
+         "Year": "2007",
+         "Men": "39.0",
+         "Women": "33.9"
+      },
+      {
+         "Year": "2006",
+         "Men": "38.9",
+         "Women": "34.0"
+      },
+      {
+         "Year": "2005",
+         "Men": "39.1",
+         "Women": "34.0"
+      },
+      {
+         "Year": "2004",
+         "Men": "39.2",
+         "Women": "33.9"
+      },
+      {
+         "Year": "2003",
+         "Men": "39.2",
+         "Women": "34.0"
+      },
+      {
+         "Year": "2002",
+         "Men": "39.3",
+         "Women": "34.1"
+      },
+      {
+         "Year": "2001",
+         "Men": "39.7",
+         "Women": "34.3"
+      },
+      {
+         "Year": "2000",
+         "Men": "39.8",
+         "Women": "34.2"
+      }
+   ],
+   "gold": "In 2019 , male full-time employees in the United Kingdom worked an average of 39 hours a week , with women working an average of 34.5 hours a week . During the period between 2000 and 2019 , the year with the highest average weekly hours for men was 2000 when it was 39.8 hours , and for women it was 2014 and 2019 at 34.5 hours .\n"
+}

@@ -1,0 +1,101 @@
+{
+   "title": "Canada : violent crime rate 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Violent crime rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Violent of the rate 2000 between and 2018 . ",
+      "In 2018 , the data from the Canada of the Canada was 1143.5 rate ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "14": "18"
+      },
+      {
+         "1": "18",
+         "12": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Violent crime rate": "1494.21"
+      },
+      {
+         "Year": "2001",
+         "Violent crime rate": "1473.43"
+      },
+      {
+         "Year": "2002",
+         "Violent crime rate": "1440.77"
+      },
+      {
+         "Year": "2003",
+         "Violent crime rate": "1434.79"
+      },
+      {
+         "Year": "2004",
+         "Violent crime rate": "1404.21"
+      },
+      {
+         "Year": "2005",
+         "Violent crime rate": "1388.91"
+      },
+      {
+         "Year": "2006",
+         "Violent crime rate": "1386.69"
+      },
+      {
+         "Year": "2007",
+         "Violent crime rate": "1353.85"
+      },
+      {
+         "Year": "2008",
+         "Violent crime rate": "1334.33"
+      },
+      {
+         "Year": "2009",
+         "Violent crime rate": "1321.89"
+      },
+      {
+         "Year": "2010",
+         "Violent crime rate": "1291.62"
+      },
+      {
+         "Year": "2011",
+         "Violent crime rate": "1235.72"
+      },
+      {
+         "Year": "2012",
+         "Violent crime rate": "1198.78"
+      },
+      {
+         "Year": "2013",
+         "Violent crime rate": "1095.65"
+      },
+      {
+         "Year": "2014",
+         "Violent crime rate": "1044.23"
+      },
+      {
+         "Year": "2015",
+         "Violent crime rate": "1070.26"
+      },
+      {
+         "Year": "2016",
+         "Violent crime rate": "1076.07"
+      },
+      {
+         "Year": "2017",
+         "Violent crime rate": "1112.82"
+      },
+      {
+         "Year": "2018",
+         "Violent crime rate": "1143.5"
+      }
+   ],
+   "gold": "This statistic shows the reported rate of violent crime in Canada from 2000 to 2018 . There were roughly 1,143.5 violent crimes reported per 100,000 residents in Canada in 2018 .\n"
+}

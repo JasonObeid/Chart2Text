@@ -1,0 +1,69 @@
+{
+   "title": "Cement consumption volume in India 2008 to 2019",
+   "xAxis": "Fiscal Annually",
+   "yAxis": "Consumption in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In fiscal year 2008 , the Cement consumption volume in the India across was FY_2019 , with a total of 328 metric tons . ",
+      "It was followed by FY_2018 , with 269 metric tons that year ."
+   ],
+   "trends": [
+      {
+         "15": "0",
+         "21": "0"
+      },
+      {
+         "4": "1",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Fiscal Annually": "FY 2019",
+         "Consumption in million metric tons": "328"
+      },
+      {
+         "Fiscal Annually": "FY 2018",
+         "Consumption in million metric tons": "269"
+      },
+      {
+         "Fiscal Annually": "FY 2017",
+         "Consumption in million metric tons": "272"
+      },
+      {
+         "Fiscal Annually": "FY 2016",
+         "Consumption in million metric tons": "269"
+      },
+      {
+         "Fiscal Annually": "FY 2015",
+         "Consumption in million metric tons": "256"
+      },
+      {
+         "Fiscal Annually": "FY 2014",
+         "Consumption in million metric tons": "245"
+      },
+      {
+         "Fiscal Annually": "FY 2013",
+         "Consumption in million metric tons": "239"
+      },
+      {
+         "Fiscal Annually": "FY 2012",
+         "Consumption in million metric tons": "221"
+      },
+      {
+         "Fiscal Annually": "FY 2011",
+         "Consumption in million metric tons": "166"
+      },
+      {
+         "Fiscal Annually": "FY 2010",
+         "Consumption in million metric tons": "206"
+      },
+      {
+         "Fiscal Annually": "FY 2009",
+         "Consumption in million metric tons": "193"
+      }
+   ],
+   "gold": "In 2018 , India was the second largest producer of cement in the world . The country had about eight percent of the global installed capacity that year . Consumption of cement at this time stood at around 270 million metric tons .\n"
+}

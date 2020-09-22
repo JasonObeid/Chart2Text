@@ -1,0 +1,42 @@
+{
+   "title": "Expenditure of affluent U.S. households on fees for social , recreation , health club",
+   "xAxis": "Year",
+   "yAxis": "Amount spent in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Amount of the affluent U.S. from 2013 to 2016 . ",
+      "In 2016 , the U.S. affluent Amount amounted to approximately 56.15 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "12": "3"
+      },
+      {
+         "1": "3",
+         "10": "3",
+         "11": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Amount spent in U.S. dollars": "46.58"
+      },
+      {
+         "Year": "2014",
+         "Amount spent in U.S. dollars": "47.39"
+      },
+      {
+         "Year": "2015",
+         "Amount spent in U.S. dollars": "51.52"
+      },
+      {
+         "Year": "2016",
+         "Amount spent in U.S. dollars": "56.15"
+      }
+   ],
+   "gold": "The statistic shows the expenditure of affluent households , or the so-called highest quintile , in the United States on fees and admissions for social , recreation , health club membership from 2013 to 2016 . In 2016 , affluent Americans spent some 56 U.S. dollars on fees and admissions for social , recreation , health club membership .\n"
+}

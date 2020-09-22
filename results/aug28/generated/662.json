@@ -1,0 +1,60 @@
+{
+   "title": "International visitor spending in Paris 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "International visitor spending in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , the average International of visitor spending in the Paris amounted to 14.06 billion U.S. dollars . ",
+      "According to the source , the International of visitor spending is defined as the total market value of all goods and services . ",
+      "It is considered to be a very important indicator of the economic strength of a country ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "14": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "International visitor spending in billion U.S. dollars": "14.06"
+      },
+      {
+         "Year": "2017",
+         "International visitor spending in billion U.S. dollars": "13.05"
+      },
+      {
+         "Year": "2016",
+         "International visitor spending in billion U.S. dollars": "12.03"
+      },
+      {
+         "Year": "2015",
+         "International visitor spending in billion U.S. dollars": "13.41"
+      },
+      {
+         "Year": "2014",
+         "International visitor spending in billion U.S. dollars": "16.42"
+      },
+      {
+         "Year": "2013",
+         "International visitor spending in billion U.S. dollars": "19.5"
+      },
+      {
+         "Year": "2012",
+         "International visitor spending in billion U.S. dollars": "17.25"
+      },
+      {
+         "Year": "2011",
+         "International visitor spending in billion U.S. dollars": "14.95"
+      },
+      {
+         "Year": "2010",
+         "International visitor spending in billion U.S. dollars": "13.1"
+      }
+   ],
+   "gold": "In 2018 , international visitor spending in Paris amounted to 14.06 billion U.S. dollars , up from 13.05 billion the previous year .\n"
+}

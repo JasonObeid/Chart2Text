@@ -1,0 +1,61 @@
+{
+   "title": "Annual net income/loss of Zalando 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Net income/loss in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Net income/loss of the development of Zalando from 2010 to 2018 . ",
+      "In 2018 , the company employed approximately 51.2 million euros ."
+   ],
+   "trends": [
+      {
+         "12": "8",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Net income/loss in million euros": "51.2"
+      },
+      {
+         "Year": "2017",
+         "Net income/loss in million euros": "101.6"
+      },
+      {
+         "Year": "2016",
+         "Net income/loss in million euros": "120.5"
+      },
+      {
+         "Year": "2015",
+         "Net income/loss in million euros": "121.5"
+      },
+      {
+         "Year": "2014",
+         "Net income/loss in million euros": "47.1"
+      },
+      {
+         "Year": "2013",
+         "Net income/loss in million euros": "-116.6"
+      },
+      {
+         "Year": "2012",
+         "Net income/loss in million euros": "-85.07"
+      },
+      {
+         "Year": "2011",
+         "Net income/loss in million euros": "-59.74"
+      },
+      {
+         "Year": "2010",
+         "Net income/loss in million euros": "-23.1"
+      }
+   ],
+   "gold": "Berlin-based online fashion retailer Zalando is one of the fastest-growing companies not just in Germany , but in Europe . While its active customer base expands with each year , Zalando 's annual net income suffered a major blow in the financial year 2018 , going from 101.6 million to 51.2 million euros between 2017 and 2018 . A great turnaround in 2014 Zalando delivered its sunniest results in 2015 , when its net income equaled 121.5 million euros as displayed in this chart .\n"
+}

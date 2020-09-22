@@ -1,0 +1,83 @@
+{
+   "title": "Red Lobster restaurants in the U.S. and Canada 2013",
+   "xAxis": "Year",
+   "yAxis": "Number of restaurants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of The Red Lobster restaurants from 2000 to 2013 . ",
+      "In 2013 , U.S.-based restaurant chain The Red Lobster had 705 , up from 661 the previous Year ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "12": "13"
+      },
+      {
+         "1": "13",
+         "9": "13",
+         "10": "13",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Number of restaurants": "654"
+      },
+      {
+         "Year": "2001",
+         "Number of restaurants": "661"
+      },
+      {
+         "Year": "2002",
+         "Number of restaurants": "667"
+      },
+      {
+         "Year": "2003",
+         "Number of restaurants": "673"
+      },
+      {
+         "Year": "2004",
+         "Number of restaurants": "680"
+      },
+      {
+         "Year": "2005",
+         "Number of restaurants": "679"
+      },
+      {
+         "Year": "2006",
+         "Number of restaurants": "682"
+      },
+      {
+         "Year": "2007",
+         "Number of restaurants": "680"
+      },
+      {
+         "Year": "2008",
+         "Number of restaurants": "680"
+      },
+      {
+         "Year": "2009",
+         "Number of restaurants": "690"
+      },
+      {
+         "Year": "2010",
+         "Number of restaurants": "694"
+      },
+      {
+         "Year": "2011",
+         "Number of restaurants": "698"
+      },
+      {
+         "Year": "2012",
+         "Number of restaurants": "704"
+      },
+      {
+         "Year": "2013",
+         "Number of restaurants": "705"
+      }
+   ],
+   "gold": "The statistic shows the number of Red Lobster restaurants in the United States and Canada from 2000 to 2013 . In 2013 , there were 705 Red Lobster restaurants in North America .\n"
+}

@@ -1,0 +1,38 @@
+{
+   "title": "Peak online shopping hours of U.S. consumers 2015",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the percentage of online consumers in the Peak who are U.S. shopping members . ",
+      "During the 2017 survey period , it was found that 48 % of respondents had between 10 and thousands of respondents stated that they used the social network ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "2",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "7-11 AM",
+         "Share of respondents": "10"
+      },
+      {
+         "Year": "11 AM - 4 PM",
+         "Share of respondents": "28"
+      },
+      {
+         "Year": "4-9 PM",
+         "Share of respondents": "48"
+      },
+      {
+         "Year": "9 PM - 2 AM",
+         "Share of respondents": "14"
+      }
+   ],
+   "gold": "This statistic presents the preferred time of the day for consumers in the United States to shop online . During the April 2015 survey , 48 percent of survey respondents stated that their peak online shopping hours were between 4 and 9 PM .\n"
+}

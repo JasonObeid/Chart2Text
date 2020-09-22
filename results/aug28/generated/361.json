@@ -1,0 +1,40 @@
+{
+   "title": "Election 2016 exit polls : percentage of votes by gender",
+   "labels": [
+      "Sex",
+      "Hillary Clinton",
+      "Donald Trump"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the percentage of adults in the Election who were using Election as of 2019 , sorted by gender . ",
+      "During that period of time , 41 percentage of Female respondents stated that they used the social networking site ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Hillary Clinton": "41",
+         "Donald Trump": "53"
+      },
+      {
+         "Sex": "Female",
+         "Hillary Clinton": "54",
+         "Donald Trump": "42"
+      }
+   ],
+   "gold": "This graph shows the percentage of votes of the 2016 presidential elections in the United States on November 9 , 2016 , by gender . According to the exit polls , about 54 percent of female voters nationwide voted for Hillary Clinton .\n"
+}

@@ -1,0 +1,67 @@
+{
+   "title": "Life expectancy in Asia in 2019",
+   "labels": [
+      "Region",
+      "Males",
+      "Females"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the average Life expectancy in East_Asia for those born in 2019 , by gender and Region . ",
+      "The average Life expectancy in the whole continent was 71 years for Males and 75 years for Females . ",
+      "The average Life expectancy globally was 70 years for Males and 75 years for Females in 2019 ."
+   ],
+   "trends": [
+      {
+         "8": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "9": [
+            "2",
+            "1"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "East Asia",
+         "Males": "75",
+         "Females": "80"
+      },
+      {
+         "Region": "Western Asia",
+         "Males": "72",
+         "Females": "77"
+      },
+      {
+         "Region": "Asia (total)",
+         "Males": "71",
+         "Females": "75"
+      },
+      {
+         "Region": "Central Asia",
+         "Males": "70",
+         "Females": "76"
+      },
+      {
+         "Region": "Southeast Asia",
+         "Males": "69",
+         "Females": "75"
+      },
+      {
+         "Region": "South Asia",
+         "Males": "68",
+         "Females": "71"
+      }
+   ],
+   "gold": "This statistic shows the average life expectancy in Asia for those born in 2019 , by gender and region . In East Asia , the average life expectancy was 75 years for males and 80 years for females in 2019 . Life expectancy Life expectancy is , in the statistical sense , the number of years to be lived .\n"
+}

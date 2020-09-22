@@ -1,0 +1,65 @@
+{
+   "title": "Average ticket price Miami Heat ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Average ticket price for Miami Heat games of the National Basketball Association from 2006/07 to 2015/16 . ",
+      "In the 2006/07 season , the Average ticket price was 56.55 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "16": "9",
+         "18": "0"
+      },
+      {
+         "2": "9",
+         "10": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": "76.73"
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": "78.3"
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": "78.3"
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": "72.5"
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": "67.0"
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": "60.5"
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": "58.55"
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": "58.55"
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": "58.55"
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": "56.55"
+      }
+   ],
+   "gold": "This graph depicts the average ticket price for Miami Heat games of the National Basketball Association from 2006/07 to 2015/16 . In the 2006/07 season , the average ticket price was 56.55 U.S. dollars . Miami Heat - additional information The Miami Heat are an American professional basketball team playing in the National Basketball Association 's ( NBA ) Southeast Division of the Eastern Conference .\n"
+}

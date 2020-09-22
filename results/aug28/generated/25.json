@@ -1,0 +1,74 @@
+{
+   "title": "Sales forecast for eye care product Restasis in U.S. 2014 to 2025",
+   "xAxis": "Year",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Sales of the forecast for eye from 2014 to 2020 , with projections up until 2025 . ",
+      "In 2020 , the Sales of the forecast for in Restasis amounted to about 1975 million U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "11": "0",
+         "13": "6",
+         "19": "11"
+      },
+      {
+         "1": "6",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Sales in million U.S. dollars": "1084"
+      },
+      {
+         "Year": "2015",
+         "Sales in million U.S. dollars": "1217"
+      },
+      {
+         "Year": "2016",
+         "Sales in million U.S. dollars": "1361"
+      },
+      {
+         "Year": "2017",
+         "Sales in million U.S. dollars": "1524"
+      },
+      {
+         "Year": "2018",
+         "Sales in million U.S. dollars": "1679"
+      },
+      {
+         "Year": "2019",
+         "Sales in million U.S. dollars": "1830"
+      },
+      {
+         "Year": "2020",
+         "Sales in million U.S. dollars": "1975"
+      },
+      {
+         "Year": "2021",
+         "Sales in million U.S. dollars": "2115"
+      },
+      {
+         "Year": "2022",
+         "Sales in million U.S. dollars": "2242"
+      },
+      {
+         "Year": "2023",
+         "Sales in million U.S. dollars": "2332"
+      },
+      {
+         "Year": "2024",
+         "Sales in million U.S. dollars": "1914"
+      },
+      {
+         "Year": "2025",
+         "Sales in million U.S. dollars": "1650"
+      }
+   ],
+   "gold": "This statistic represents a sales forecast for eye care product Restasis in the United States between 2014 and 2025 . It is expected that Restasis will generate around 2.3 billion U.S. dollars in 2023 .\n"
+}

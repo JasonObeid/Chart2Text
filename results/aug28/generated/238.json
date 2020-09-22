@@ -1,0 +1,58 @@
+{
+   "title": "Domestic travel spending in France 2012 to 2028",
+   "xAxis": "Year",
+   "yAxis": "Spending in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the total annual spend of Domestic tourists ( 'visitor exports ' _ ) in France from 2012 to 2013 , with a forecast for 2028 . ",
+      "Inbound travel expenditure in France reached around 108.3 billion euros in 2014 ."
+   ],
+   "trends": [
+      {
+         "19": "7",
+         "21": "6",
+         "27": "0"
+      },
+      {
+         "7": "5",
+         "11": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2028",
+         "Spending in billion euros": "131.4"
+      },
+      {
+         "Year": "2018",
+         "Spending in billion euros": "114.9"
+      },
+      {
+         "Year": "2017",
+         "Spending in billion euros": "112.3"
+      },
+      {
+         "Year": "2016",
+         "Spending in billion euros": "110.9"
+      },
+      {
+         "Year": "2015",
+         "Spending in billion euros": "108.1"
+      },
+      {
+         "Year": "2014",
+         "Spending in billion euros": "108.3"
+      },
+      {
+         "Year": "2013",
+         "Spending in billion euros": "107.5"
+      },
+      {
+         "Year": "2012",
+         "Spending in billion euros": "107.2"
+      }
+   ],
+   "gold": "Domestic tourism expenditure is expected to reach 131.4 billion euros in 2028 . The spending of French tourists in their country has increased since the beginning of the 2010s and has already reached nearly 115 billion euros in 2018 . Similarly , the spending of international tourists in France is estimated to grow in the coming years .\n"
+}

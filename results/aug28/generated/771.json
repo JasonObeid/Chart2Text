@@ -1,0 +1,36 @@
+{
+   "title": "Population of Greece 2016 , by gender",
+   "xAxis": "Gender",
+   "yAxis": "Total population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Total of adults in the Greece who were using gender as of 2019 , sorted gender . ",
+      "During that period of time , it was found that 10783748 % of Total were Females ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "2",
+         "13": "2",
+         "15": "2",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Gender": "Females",
+         "Total population": "5559538"
+      },
+      {
+         "Gender": "Males",
+         "Total population": "5224210"
+      },
+      {
+         "Gender": "Total",
+         "Total population": "10783748"
+      }
+   ],
+   "gold": "This statistic displays the population of Greece by gender in 2016 . In this year there were a total of 10.78 million inhabitants in Greece . There were almost 5.56 million female inhabitants , whereas there were less than 5.3 million male inhabitants .\n"
+}

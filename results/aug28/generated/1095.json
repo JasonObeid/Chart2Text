@@ -1,0 +1,41 @@
+{
+   "title": "Share of global net sales of Luxottica by geographical area 2018",
+   "xAxis": "Geographical area",
+   "yAxis": "Share of net sales",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Share of the global net sales Luxottica in the United Kingdom ( Luxottica ) in 2018 . ",
+      "In this year , the Share net of the global net sales with a total of 58 million sales ."
+   ],
+   "trends": [
+      {},
+      {
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "Geographical area": "North America",
+         "Share of net sales": "58"
+      },
+      {
+         "Geographical area": "Europe",
+         "Share of net sales": "21"
+      },
+      {
+         "Geographical area": "Asia-Pacific",
+         "Share of net sales": "13"
+      },
+      {
+         "Geographical area": "Latin America",
+         "Share of net sales": "6"
+      },
+      {
+         "Geographical area": "Rest of the world",
+         "Share of net sales": "2"
+      }
+   ],
+   "gold": "This statistic depicts the share of net sales of Luxottica worldwide in 2018 , by geographical area . In that year , 58 percent of Luxottica 's global net sales came from North America . Founded in 1961 in Agordo , Italy , the Luxottica Group S.p.A. is the world 's largest eyewear company .\n"
+}

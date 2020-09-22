@@ -1,0 +1,77 @@
+{
+   "title": "Canadian snowmobile registrations by province 2018",
+   "xAxis": "Province",
+   "yAxis": "Number of registrations",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , the Province Quebec , with the highest Number registrations in Saskatchewan . ",
+      "That year , Quebec had a total of 201732 million registrations ."
+   ],
+   "trends": [
+      {
+         "6": "0",
+         "14": "7"
+      },
+      {
+         "3": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Province": "Quebec",
+         "Number of registrations": "201732"
+      },
+      {
+         "Province": "Ontario",
+         "Number of registrations": "155000"
+      },
+      {
+         "Province": "Alberta",
+         "Number of registrations": "73000"
+      },
+      {
+         "Province": "New Foundland",
+         "Number of registrations": "58700"
+      },
+      {
+         "Province": "British Columbia",
+         "Number of registrations": "44500"
+      },
+      {
+         "Province": "Manitoba",
+         "Number of registrations": "35354"
+      },
+      {
+         "Province": "New Brunswick",
+         "Number of registrations": "19550"
+      },
+      {
+         "Province": "Saskatchewan",
+         "Number of registrations": "16175"
+      },
+      {
+         "Province": "Nunavut",
+         "Number of registrations": "14200"
+      },
+      {
+         "Province": "North West Territory",
+         "Number of registrations": "9800"
+      },
+      {
+         "Province": "Nova Scotia",
+         "Number of registrations": "7200"
+      },
+      {
+         "Province": "Prince Edward Island",
+         "Number of registrations": "2180"
+      },
+      {
+         "Province": "Yukon",
+         "Number of registrations": "1805"
+      }
+   ],
+   "gold": "In the winter of 2019 , about 14,200 snowmobiles were registered in Nunavut . At some 200,000 , most snowmobile registrations took place in Quebec . In total , the International Snowmobile Manufacturers Association ( ISMA ) reported over 600,000 snowmobile registrations throughout Canada .\n"
+}

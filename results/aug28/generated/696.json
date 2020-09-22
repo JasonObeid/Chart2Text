@@ -1,0 +1,65 @@
+{
+   "title": "Amadeus : distribution market share 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the global Market share of the distribution market share 2010 from to 2019 . ",
+      "In 2019 , the global Market share of Amadeus share 2010 is estimated to be 44 % ."
+   ],
+   "trends": [
+      {
+         "14": "9",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Market share": "44"
+      },
+      {
+         "Year": "2018",
+         "Market share": "43.7"
+      },
+      {
+         "Year": "2017",
+         "Market share": "43.9"
+      },
+      {
+         "Year": "2016",
+         "Market share": "43.2"
+      },
+      {
+         "Year": "2015",
+         "Market share": "42.5"
+      },
+      {
+         "Year": "2014",
+         "Market share": "40.7"
+      },
+      {
+         "Year": "2013",
+         "Market share": "40.1"
+      },
+      {
+         "Year": "2012",
+         "Market share": "38.6"
+      },
+      {
+         "Year": "2011",
+         "Market share": "37.7"
+      },
+      {
+         "Year": "2010",
+         "Market share": "36.7"
+      }
+   ],
+   "gold": "This statistic shows the Amadeus distribution platform market share of global air travel distribution systems from 2010 to 2019 . In 2019 , the Amadeus held 44 percent of the global air travel distribution systems market . In 2019 , the revenue of Amadeus was 6.25 billion U.S. dollars .\n"
+}

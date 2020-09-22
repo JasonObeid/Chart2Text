@@ -1,0 +1,141 @@
+{
+   "title": "NFL teams ranked by number of Super Bowl appearances all time 2020",
+   "xAxis": "Team",
+   "yAxis": "Number of Super Bowl appearances",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The New_England_Patriots had the highest number Super of 11 Bowl appearances in 2019 . ",
+      "The ranked by with a total of 11 . ",
+      "It was followed by Pittsburgh_Steelers , with 8 ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "9": "0"
+      },
+      {
+         "7": "0"
+      },
+      {
+         "4": "1",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Team": "New England Patriots",
+         "Number of Super Bowl appearances": "11"
+      },
+      {
+         "Team": "Pittsburgh Steelers",
+         "Number of Super Bowl appearances": "8"
+      },
+      {
+         "Team": "Dallas Cowboys",
+         "Number of Super Bowl appearances": "8"
+      },
+      {
+         "Team": "Denver Broncos",
+         "Number of Super Bowl appearances": "8"
+      },
+      {
+         "Team": "San Francisco 49ers",
+         "Number of Super Bowl appearances": "7"
+      },
+      {
+         "Team": "Washington Redskins",
+         "Number of Super Bowl appearances": "5"
+      },
+      {
+         "Team": "Green Bay Packers",
+         "Number of Super Bowl appearances": "5"
+      },
+      {
+         "Team": "Miami Dolphins",
+         "Number of Super Bowl appearances": "5"
+      },
+      {
+         "Team": "New York Giants",
+         "Number of Super Bowl appearances": "5"
+      },
+      {
+         "Team": "Oakland Raiders",
+         "Number of Super Bowl appearances": "5"
+      },
+      {
+         "Team": "Buffalo Bills",
+         "Number of Super Bowl appearances": "4"
+      },
+      {
+         "Team": "Minnesota Vikings",
+         "Number of Super Bowl appearances": "4"
+      },
+      {
+         "Team": "Indianapolis Colts",
+         "Number of Super Bowl appearances": "4"
+      },
+      {
+         "Team": "Los Angeles Rams",
+         "Number of Super Bowl appearances": "4"
+      },
+      {
+         "Team": "Philadelphia Eagles",
+         "Number of Super Bowl appearances": "3"
+      },
+      {
+         "Team": "Kansas City Chiefs",
+         "Number of Super Bowl appearances": "3"
+      },
+      {
+         "Team": "Seattle Seahawks",
+         "Number of Super Bowl appearances": "3"
+      },
+      {
+         "Team": "Carolina Panthers",
+         "Number of Super Bowl appearances": "2"
+      },
+      {
+         "Team": "Atlanta Falcons",
+         "Number of Super Bowl appearances": "2"
+      },
+      {
+         "Team": "Baltimore Ravens",
+         "Number of Super Bowl appearances": "2"
+      },
+      {
+         "Team": "Cincinnati Bengals",
+         "Number of Super Bowl appearances": "2"
+      },
+      {
+         "Team": "Chicago Bears",
+         "Number of Super Bowl appearances": "2"
+      },
+      {
+         "Team": "New Orleans Saints",
+         "Number of Super Bowl appearances": "1"
+      },
+      {
+         "Team": "Arizona Cardinals",
+         "Number of Super Bowl appearances": "1"
+      },
+      {
+         "Team": "Tennessee Titans",
+         "Number of Super Bowl appearances": "1"
+      },
+      {
+         "Team": "Tampa Bay Buccaneers",
+         "Number of Super Bowl appearances": "1"
+      },
+      {
+         "Team": "Los Angeles Chargers",
+         "Number of Super Bowl appearances": "1"
+      },
+      {
+         "Team": "New York Jets",
+         "Number of Super Bowl appearances": "1"
+      }
+   ],
+   "gold": "Which team has appeared most often in the Super Bowl ? The New England Patriots have appeared in the National Football League 's annual championship game a record 11 times , winning the Super Bowl six times . The Patriots and the Pittsburgh Steelers share the honor of winning the Super Bowl the highest number of times ( six wins each ) . All of the Patriots six Super Bowl wins have come with Bill Belichick as the head coach and Tom Brady under center at the quarterback position .\n"
+}

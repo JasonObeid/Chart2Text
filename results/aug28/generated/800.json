@@ -1,0 +1,64 @@
+{
+   "title": "Highest earning eSports countries in 2018 , by prize winnings",
+   "xAxis": "Country",
+   "yAxis": "Prize money in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Prize money of Highest earning in selected countries in 2018 . ",
+      "In that year , United_States had the highest Prize money of 28.07 million U.S. dollars , followed by China with 16.02 million U.S. dollars on Prize money ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "11": "0",
+         "18": "1",
+         "20": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Prize money in million U.S. dollars": "28.07"
+      },
+      {
+         "Country": "China",
+         "Prize money in million U.S. dollars": "16.02"
+      },
+      {
+         "Country": "South Korea",
+         "Prize money in million U.S. dollars": "13.54"
+      },
+      {
+         "Country": "Denmark",
+         "Prize money in million U.S. dollars": "10.4"
+      },
+      {
+         "Country": "Finland",
+         "Prize money in million U.S. dollars": "7.31"
+      },
+      {
+         "Country": "Russia",
+         "Prize money in million U.S. dollars": "6.86"
+      },
+      {
+         "Country": "Sweden",
+         "Prize money in million U.S. dollars": "6.29"
+      },
+      {
+         "Country": "France",
+         "Prize money in million U.S. dollars": "6.04"
+      },
+      {
+         "Country": "Canada",
+         "Prize money in million U.S. dollars": "4.68"
+      },
+      {
+         "Country": "Germany",
+         "Prize money in million U.S. dollars": "4.16"
+      }
+   ],
+   "gold": "The graph shows the highest earning eSports countries worldwide in 2018 , ranked by prize money won . According to the estimates , Chinese eSports gamers brought home over 16 million U.S. dollars of winnings from eSports competitions in 2018 . The U.S ranked first with 28 million U.S dollars in prize money won .\n"
+}

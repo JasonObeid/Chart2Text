@@ -1,0 +1,192 @@
+{
+   "title": "Subaru car sales in the United Kingdom ( UK ) 2016 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Units sold",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the monthly amount of cars sold by Subaru car in the United Kingdom ( UK ) between 2016 and 2019 . ",
+      "Peaks in registration numbers were recorded in and of each year , which was due to the issuing of license plates by the Driver & Vehicle Licensing Agency ( DVLA ) in those months . ",
+      "In 2019 , 103 new Subaru car Units had been sold , a decrease of roughly ten percent in comparison to 112 Units as of 2018 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "3": "5",
+         "21": "17"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Units sold": "708"
+      },
+      {
+         "Month": "Nov 19",
+         "Units sold": "157"
+      },
+      {
+         "Month": "Oct 19",
+         "Units sold": "88"
+      },
+      {
+         "Month": "Sep 19",
+         "Units sold": "526"
+      },
+      {
+         "Month": "Aug 19",
+         "Units sold": "52"
+      },
+      {
+         "Month": "Jul 19",
+         "Units sold": "103"
+      },
+      {
+         "Month": "Jun 19",
+         "Units sold": "244"
+      },
+      {
+         "Month": "May 19",
+         "Units sold": "138"
+      },
+      {
+         "Month": "Apr 19",
+         "Units sold": "101"
+      },
+      {
+         "Month": "Mar 19",
+         "Units sold": "632"
+      },
+      {
+         "Month": "Feb 19",
+         "Units sold": "74"
+      },
+      {
+         "Month": "Jan 19",
+         "Units sold": "174"
+      },
+      {
+         "Month": "Dec 18",
+         "Units sold": "193"
+      },
+      {
+         "Month": "Nov 18",
+         "Units sold": "145"
+      },
+      {
+         "Month": "Oct 18",
+         "Units sold": "135"
+      },
+      {
+         "Month": "Sep 18",
+         "Units sold": "829"
+      },
+      {
+         "Month": "Aug 18",
+         "Units sold": "100"
+      },
+      {
+         "Month": "Jul 18",
+         "Units sold": "112"
+      },
+      {
+         "Month": "Jun 18",
+         "Units sold": "265"
+      },
+      {
+         "Month": "May 18",
+         "Units sold": "231"
+      },
+      {
+         "Month": "Apr 18",
+         "Units sold": "153"
+      },
+      {
+         "Month": "Mar 18",
+         "Units sold": "761"
+      },
+      {
+         "Month": "Feb 18",
+         "Units sold": "62"
+      },
+      {
+         "Month": "Jan 18",
+         "Units sold": "155"
+      },
+      {
+         "Month": "Dec 17",
+         "Units sold": "246"
+      },
+      {
+         "Month": "Nov 17",
+         "Units sold": "216"
+      },
+      {
+         "Month": "Oct 17",
+         "Units sold": "99"
+      },
+      {
+         "Month": "Sep 17",
+         "Units sold": "510"
+      },
+      {
+         "Month": "Aug 17",
+         "Units sold": "44"
+      },
+      {
+         "Month": "Jul 17",
+         "Units sold": "152"
+      },
+      {
+         "Month": "Jun 17",
+         "Units sold": "202"
+      },
+      {
+         "Month": "May 17",
+         "Units sold": "155"
+      },
+      {
+         "Month": "Apr 17",
+         "Units sold": "123"
+      },
+      {
+         "Month": "Mar 17",
+         "Units sold": "706"
+      },
+      {
+         "Month": "Feb 17",
+         "Units sold": "48"
+      },
+      {
+         "Month": "Jan 17",
+         "Units sold": "178"
+      },
+      {
+         "Month": "Dec 16",
+         "Units sold": "330"
+      },
+      {
+         "Month": "Nov 16",
+         "Units sold": "219"
+      },
+      {
+         "Month": "Oct 16",
+         "Units sold": "256"
+      },
+      {
+         "Month": "Sep 16",
+         "Units sold": "762"
+      },
+      {
+         "Month": "Aug 16",
+         "Units sold": "69"
+      },
+      {
+         "Month": "Jul 16",
+         "Units sold": "148"
+      }
+   ],
+   "gold": "This statistic shows the monthly amount of cars sold by Subaru in the United Kingdom ( UK ) between July 2016 and December 2019 . Peaks in registration numbers were recorded in March and September of each year , which was due to the issuing of license plates by the Driver & Vehicle Licensing Agency ( DVLA ) in those months . In December 2019 , 708 new Subaru cars had been sold .\n"
+}

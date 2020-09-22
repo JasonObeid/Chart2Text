@@ -1,0 +1,34 @@
+{
+   "title": "MSC - number of TEUs 2020",
+   "xAxis": "Ownership Type",
+   "yAxis": "Number of TEUs",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the Number of TEUs the top Ownership Type worldwide in 2020 . ",
+      "The Chartered had the highest Number TEUs of 2771795 million TEUs in 2020 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Ownership Type": "Chartered",
+         "Number of TEUs": "2771795"
+      },
+      {
+         "Ownership Type": "Owned",
+         "Number of TEUs": "1044800"
+      },
+      {
+         "Ownership Type": "Orderbook",
+         "Number of TEUs": "217500"
+      }
+   ],
+   "gold": "This statistic represents MSC 's number of TEUs as of March 2 , 2020 . Switzerland-based Mediterranean Shipping Company chartered ships with a capacity of approximately 2.8 million twenty-foot equivalent units in March 2019 .\n"
+}

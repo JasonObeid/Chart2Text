@@ -1,0 +1,63 @@
+{
+   "title": "Leading IPOs in the U.S. 2019",
+   "xAxis": "Company (Offer date)",
+   "yAxis": "Deal size in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Leading IPOs average Deal of people in the U.S. in 2019 . ",
+      "According to the source , Uber_Technologies_(May_9) Avantor_(May_16) , with 2898 million U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "7": "1",
+         "10": "1"
+      }
+   ],
+   "data": [
+      {
+         "Company (Offer date)": "Uber Technologies (May 9)",
+         "Deal size in million U.S. dollars": "8100"
+      },
+      {
+         "Company (Offer date)": "Avantor (May 16)",
+         "Deal size in million U.S. dollars": "2898"
+      },
+      {
+         "Company (Offer date)": "Lyft (Mar 28)",
+         "Deal size in million U.S. dollars": "2340"
+      },
+      {
+         "Company (Offer date)": "XP (Dec 10)",
+         "Deal size in million U.S. dollars": "1958"
+      },
+      {
+         "Company (Offer date)": "Pinterest (Apr 17)",
+         "Deal size in million U.S. dollars": "1425"
+      },
+      {
+         "Company (Offer date)": "SmileDirectClub (Sep 11)",
+         "Deal size in million U.S. dollars": "1346"
+      },
+      {
+         "Company (Offer date)": "Peloton Interactive (Sep 25)",
+         "Deal size in million U.S. dollars": "1160"
+      },
+      {
+         "Company (Offer date)": "Tradeweb Markets (Apr 3)",
+         "Deal size in million U.S. dollars": "1080"
+      },
+      {
+         "Company (Offer date)": "Chewy (Jun 13)",
+         "Deal size in million U.S. dollars": "1023"
+      },
+      {
+         "Company (Offer date)": "DouYu International Holdings (Jul 16)",
+         "Deal size in million U.S. dollars": "775"
+      }
+   ],
+   "gold": "Uber Technologies went public on May 9 , 2019 . This was the largest initial public offering ( IPO ) in the United States in 2019 , raising 8.1 billion U.S. dollars . As shown in this statistic , the ten largest IPOs that year each raised over a billion dollars in capital .\n"
+}

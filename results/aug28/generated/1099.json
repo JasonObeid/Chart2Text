@@ -1,0 +1,109 @@
+{
+   "title": "National Hockey League - Florida Panthers home attendance 2005 to 2019",
+   "labels": [
+      "Year",
+      "Total attendance",
+      "Average attendance"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This graph depicts the total/average regular season home attendance of the National Hockey League Panthers franchise of the National Hockey League League from the 2005/06 season to the 2018/19 season . ",
+      "In 2018/19 , the Total regular season home attendance of the franchise was 543734 ."
+   ],
+   "trends": [
+      {
+         "20": [
+            "13",
+            "0"
+         ],
+         "24": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Total attendance": "543734",
+         "Average attendance": "13261"
+      },
+      {
+         "Year": "2017/18",
+         "Total attendance": "567897",
+         "Average attendance": "13851"
+      },
+      {
+         "Year": "2016/17",
+         "Total attendance": "599447",
+         "Average attendance": "14620"
+      },
+      {
+         "Year": "2015/16",
+         "Total attendance": "630746",
+         "Average attendance": "15384"
+      },
+      {
+         "Year": "2014/15",
+         "Total attendance": "461877",
+         "Average attendance": "11265"
+      },
+      {
+         "Year": "2013/14",
+         "Total attendance": "581286",
+         "Average attendance": "14177"
+      },
+      {
+         "Year": "2012/13",
+         "Total attendance": "407806",
+         "Average attendance": "16991"
+      },
+      {
+         "Year": "2011/12",
+         "Total attendance": "681763",
+         "Average attendance": "16628"
+      },
+      {
+         "Year": "2010/11",
+         "Total attendance": "643116",
+         "Average attendance": "15685"
+      },
+      {
+         "Year": "2009/10",
+         "Total attendance": "620986",
+         "Average attendance": "15146"
+      },
+      {
+         "Year": "2008/09",
+         "Total attendance": "640496",
+         "Average attendance": "15621"
+      },
+      {
+         "Year": "2007/08",
+         "Total attendance": "632881",
+         "Average attendance": "15436"
+      },
+      {
+         "Year": "2006/07",
+         "Total attendance": "630183",
+         "Average attendance": "15370"
+      },
+      {
+         "Year": "2005/06",
+         "Total attendance": "656587",
+         "Average attendance": "16014"
+      }
+   ],
+   "gold": "This graph depicts the total/average regular season home attendance of the Florida Panthers franchise of the National Hockey League from the 2005/06 season to the 2018/19 season . In 2018/19 , the total regular season home attendance of the franchise was 543,734 .\n"
+}

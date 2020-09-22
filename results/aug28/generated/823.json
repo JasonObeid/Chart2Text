@@ -1,0 +1,36 @@
+{
+   "title": "Ethnicity distribution of acting winners at the Academy Awards 1928 to 2015",
+   "labels": [
+      "Award",
+      "White",
+      "Other Ethnicities"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Ethnicity distribution acting winners of Academy Awards Awards in 1928 and 2015 . ",
+      "The Ethnicity distribution acting winners in Academy Awards amounted to about 98.9 million U.S. dollars in 1928 ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Award": "Best Actress",
+         "White": "98.9",
+         "Other Ethnicities": "1.1"
+      },
+      {
+         "Award": "Best Actor",
+         "White": "93.2",
+         "Other Ethnicities": "6.8"
+      }
+   ],
+   "gold": "The statistic presents distribution of winners from the best acting categories at the Academy Awards from 1928 to 2015 , by ethnicity . It was found 98.9 percent of all `` Best Actress '' winners have been white , the one percent of all winners from other ethnicities is represented by Halle Berry who won the `` Best Actress '' award in 2002 .\n"
+}

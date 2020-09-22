@@ -1,0 +1,29 @@
+{
+   "title": "Survey on regretting tattoos in the U.S. 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey in the country in 2015 on one-night-stands . ",
+      "77 % of respondents in the country stated they U.S. 2015 a before ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "1"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes",
+         "Share of respondents": "23"
+      },
+      {
+         "Response": "No",
+         "Share of respondents": "77"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey among adult Americans who have one or more tattoos . The survey was conducted in 2015 , asking the respondents whether they ever regret getting any of their tattoos , or not . 77 percent of respondents stated they do not regret getting any of their tattoos .\n"
+}

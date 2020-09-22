@@ -1,0 +1,48 @@
+{
+   "title": "Number of Spotify employees 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of employees Spotify worldwide from 2011 to 2018 . ",
+      "The company had a total of 4165 employees globally ."
+   ],
+   "trends": [
+      {
+         "11": "5",
+         "13": "0"
+      },
+      {
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": "4165"
+      },
+      {
+         "Year": "2016",
+         "Number of employees": "2162"
+      },
+      {
+         "Year": "2015",
+         "Number of employees": "1581"
+      },
+      {
+         "Year": "2014",
+         "Number of employees": "1365"
+      },
+      {
+         "Year": "2013",
+         "Number of employees": "958"
+      },
+      {
+         "Year": "2011",
+         "Number of employees": "311"
+      }
+   ],
+   "gold": "This statistic gives information on the number of Spotify employees from 2011 to 2018 . In the most recently reported period , the total number of employees at the music streaming service was 4,165 . In 2011 , Spotify employed 311 workers .\n"
+}

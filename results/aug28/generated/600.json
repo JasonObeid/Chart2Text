@@ -1,0 +1,57 @@
+{
+   "title": "Ice hockey players in Finland 2010/11 - 2017/18",
+   "xAxis": "Year",
+   "yAxis": "Number of players",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistics depicts the Number of registered Ice hockey players in Finland from 2010/11 to 2017/18 . ",
+      "In the 2017/18 season , there were a total of 73374 registered Ice hockey players in Finland according to the International Ice hockey Federation ."
+   ],
+   "trends": [
+      {
+         "13": "7",
+         "15": "0"
+      },
+      {
+         "2": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Number of players": "73374"
+      },
+      {
+         "Year": "2016/17",
+         "Number of players": "76387"
+      },
+      {
+         "Year": "2015/16",
+         "Number of players": "74150"
+      },
+      {
+         "Year": "2014/15",
+         "Number of players": "75871"
+      },
+      {
+         "Year": "2013/14",
+         "Number of players": "73682"
+      },
+      {
+         "Year": "2012/13",
+         "Number of players": "66636"
+      },
+      {
+         "Year": "2011/12",
+         "Number of players": "56626"
+      },
+      {
+         "Year": "2010/11",
+         "Number of players": "65251"
+      }
+   ],
+   "gold": "The statistics shows the number of registered ice hockey players in Finland from 2010/11 to 2017/18 . The number of registered ice hockey players in 2017/18 amounted to nearly 73.4 thousand . The highest player number was reported in the previous season ( 2016/17 ) with over 76 thousand players .\n"
+}

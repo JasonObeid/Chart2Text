@@ -1,0 +1,61 @@
+{
+   "title": "Migration balance in Belgium 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Migration balance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Migration of balance Belgium 2018 from 2010 to 2018 . ",
+      "According to the source , it is expected that the balance will reach some 50180 million balance in 2018 ."
+   ],
+   "trends": [
+      {
+         "11": "8",
+         "13": "0"
+      },
+      {
+         "14": "0",
+         "19": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Migration balance": "50180"
+      },
+      {
+         "Year": "2017",
+         "Migration balance": "44536"
+      },
+      {
+         "Year": "2016",
+         "Migration balance": "42239"
+      },
+      {
+         "Year": "2015",
+         "Migration balance": "47682"
+      },
+      {
+         "Year": "2014",
+         "Migration balance": "39954"
+      },
+      {
+         "Year": "2013",
+         "Migration balance": "34843"
+      },
+      {
+         "Year": "2012",
+         "Migration balance": "44365"
+      },
+      {
+         "Year": "2011",
+         "Migration balance": "62157"
+      },
+      {
+         "Year": "2010",
+         "Migration balance": "79446"
+      }
+   ],
+   "gold": "In 2018 , the migration balance in Belgium was roughly 50,000 , meaning that the number of immigrants moving to Belgium outnumbered the number of people leaving the country by about 50,000 . This was an increase in comparison to the previous year , but significantly lower than for example in 2010 and 2011 , when the migration balance was 79,446 and 62,157 respectively . It was also considerably lower than in neighboring country the Netherlands , which in 2018 had a positive migration balance of over 86,000 .\n"
+}

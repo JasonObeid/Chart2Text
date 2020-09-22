@@ -1,0 +1,54 @@
+{
+   "title": "Ownership and personal use of tablet computers 2012 , by country",
+   "xAxis": "Country",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the personal Percentage of Ownership 's population as of 2012 . ",
+      "During the survey period , 24 percentage of Ownership population lived in the Spain ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Spain",
+         "Percentage of population": "24"
+      },
+      {
+         "Country": "Australia",
+         "Percentage of population": "24"
+      },
+      {
+         "Country": "Italy",
+         "Percentage of population": "23"
+      },
+      {
+         "Country": "United States",
+         "Percentage of population": "20"
+      },
+      {
+         "Country": "United Kingdom",
+         "Percentage of population": "19"
+      },
+      {
+         "Country": "France",
+         "Percentage of population": "15"
+      },
+      {
+         "Country": "Japan",
+         "Percentage of population": "12"
+      },
+      {
+         "Country": "Germany",
+         "Percentage of population": "10"
+      }
+   ],
+   "gold": "This statistic shows the percentage of tablet computer ownership and usage among the populations of selected countries as of September 2012 . In the U.S. tablet ownership and usage was found to be at 20 percent of the population .\n"
+}

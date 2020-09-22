@@ -1,0 +1,70 @@
+{
+   "title": "Unemployed persons worldwide until 2020",
+   "xAxis": "Year",
+   "yAxis": "Unemployed persons in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Unemployed of millions the 2020 distribution of Unemployed from 2010 to 2020 . ",
+      "The Unemployed Unemployed of the Unemployed of employees amounted to approximately 174.3 millions in 2020 ."
+   ],
+   "trends": [
+      {
+         "15": "10",
+         "17": "0"
+      },
+      {
+         "12": "0",
+         "13": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Unemployed persons in millions": "174.3"
+      },
+      {
+         "Year": "2019",
+         "Unemployed persons in millions": "173.6"
+      },
+      {
+         "Year": "2018",
+         "Unemployed persons in millions": "172.5"
+      },
+      {
+         "Year": "2017",
+         "Unemployed persons in millions": "174.1"
+      },
+      {
+         "Year": "2016",
+         "Unemployed persons in millions": "197.7"
+      },
+      {
+         "Year": "2015",
+         "Unemployed persons in millions": "197.1"
+      },
+      {
+         "Year": "2014",
+         "Unemployed persons in millions": "201.3"
+      },
+      {
+         "Year": "2013",
+         "Unemployed persons in millions": "200.13"
+      },
+      {
+         "Year": "2012",
+         "Unemployed persons in millions": "197.36"
+      },
+      {
+         "Year": "2011",
+         "Unemployed persons in millions": "195.45"
+      },
+      {
+         "Year": "2010",
+         "Unemployed persons in millions": "196.63"
+      }
+   ],
+   "gold": "The statistic shows the number of unemployed persons worldwide from 2010 to 2017 and projections until 2020 . In 2017 , there were about 174.1 million unemployed persons worldwide .\n"
+}

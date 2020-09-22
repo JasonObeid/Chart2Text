@@ -1,0 +1,70 @@
+{
+   "title": "National debt of Ireland 2024",
+   "xAxis": "Year",
+   "yAxis": "National debt in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the National debt of the Ireland from 2014 to 2018 , with projections up until 2024 . ",
+      "The amount of the debt of the Ireland amounted to around 226.92 billion U.S. dollars in 2018 ."
+   ],
+   "trends": [
+      {
+         "10": "10",
+         "12": "6",
+         "18": "0"
+      },
+      {
+         "11": "6",
+         "16": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in billion U.S. dollars": "224.31"
+      },
+      {
+         "Year": "2023",
+         "National debt in billion U.S. dollars": "228.22"
+      },
+      {
+         "Year": "2022",
+         "National debt in billion U.S. dollars": "230.52"
+      },
+      {
+         "Year": "2021",
+         "National debt in billion U.S. dollars": "231.85"
+      },
+      {
+         "Year": "2020",
+         "National debt in billion U.S. dollars": "227.68"
+      },
+      {
+         "Year": "2019",
+         "National debt in billion U.S. dollars": "229.83"
+      },
+      {
+         "Year": "2018",
+         "National debt in billion U.S. dollars": "226.92"
+      },
+      {
+         "Year": "2017",
+         "National debt in billion U.S. dollars": "221.59"
+      },
+      {
+         "Year": "2016",
+         "National debt in billion U.S. dollars": "220.87"
+      },
+      {
+         "Year": "2015",
+         "National debt in billion U.S. dollars": "221.87"
+      },
+      {
+         "Year": "2014",
+         "National debt in billion U.S. dollars": "223.78"
+      }
+   ],
+   "gold": "This statistic shows the national debt of Ireland from 2014 to 2018 , with projections up until 2024 . In 2018 , the national debt of Ireland was around 226.92 billion U.S. dollars . For comparison , the Greek debt amounted to approximately 303 billion euros that same year .\n"
+}

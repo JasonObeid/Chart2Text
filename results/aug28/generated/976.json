@@ -1,0 +1,97 @@
+{
+   "title": "Airbus - worldwide aircraft deliveries 2002 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of aircraft deliveries",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number aircraft of the 2019 distribution of Airbus from 2002 to 2019 . ",
+      "In 2019 , the Airbus Number aircraft of Airbus amounted to approximately 863 deliveries ."
+   ],
+   "trends": [
+      {
+         "13": "17",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of aircraft deliveries": "863"
+      },
+      {
+         "Year": "2018",
+         "Number of aircraft deliveries": "800"
+      },
+      {
+         "Year": "2017",
+         "Number of aircraft deliveries": "718"
+      },
+      {
+         "Year": "2016",
+         "Number of aircraft deliveries": "688"
+      },
+      {
+         "Year": "2015",
+         "Number of aircraft deliveries": "635"
+      },
+      {
+         "Year": "2014",
+         "Number of aircraft deliveries": "629"
+      },
+      {
+         "Year": "2013",
+         "Number of aircraft deliveries": "626"
+      },
+      {
+         "Year": "2012",
+         "Number of aircraft deliveries": "588"
+      },
+      {
+         "Year": "2011",
+         "Number of aircraft deliveries": "534"
+      },
+      {
+         "Year": "2010",
+         "Number of aircraft deliveries": "510"
+      },
+      {
+         "Year": "2009",
+         "Number of aircraft deliveries": "498"
+      },
+      {
+         "Year": "2008",
+         "Number of aircraft deliveries": "483"
+      },
+      {
+         "Year": "2007",
+         "Number of aircraft deliveries": "453"
+      },
+      {
+         "Year": "2006",
+         "Number of aircraft deliveries": "434"
+      },
+      {
+         "Year": "2005",
+         "Number of aircraft deliveries": "378"
+      },
+      {
+         "Year": "2004",
+         "Number of aircraft deliveries": "320"
+      },
+      {
+         "Year": "2003",
+         "Number of aircraft deliveries": "305"
+      },
+      {
+         "Year": "2002",
+         "Number of aircraft deliveries": "303"
+      }
+   ],
+   "gold": "Airbus delivered 863 aircraft to 99 customers worldwide in 2019 , representing their highest delivery total in the company 's existence . This figure puts Airbus on track to surpass its closest rival , Boeing .\n"
+}

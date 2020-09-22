@@ -1,0 +1,42 @@
+{
+   "title": "Most popular Canadian product categories purchased by consumers in Canada 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey among Canadian adult popular . ",
+      "The survey was fielded Furniture by Harris Interactive in 2014 , 87 % of the respondents stated that they used Canadian the social network ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "3",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Food",
+         "Share of respondents": "87"
+      },
+      {
+         "Response": "Beer",
+         "Share of respondents": "46"
+      },
+      {
+         "Response": "Clothing",
+         "Share of respondents": "45"
+      },
+      {
+         "Response": "Furniture",
+         "Share of respondents": "38"
+      },
+      {
+         "Response": "Wine",
+         "Share of respondents": "34"
+      }
+   ],
+   "gold": "In 2015 , some 87 percent of Canadians stated that , out of any product category , they are most likely to purchase food from Canadian producers or brands as opposed to imported products . Beer and clothing were the next two most popular product segments , with 46 and 45 percent of respondents stating they would likely buy Canadian goods respectively . In the same survey , some 25 percent of consumers said that they always buy Canadian products .\n"
+}

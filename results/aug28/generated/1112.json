@@ -1,0 +1,70 @@
+{
+   "title": "Number of homicides in Sweden 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of homicides",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , the Number of Sweden reported criminal offences fluctuated in recent years . ",
+      "In 2018 , the Number stood at close to 499 thousand crimes , and among them there were 113 homicides reported . ",
+      "According to the Danish Penal Code , the penalty for homicide ranges from a minimum of a five-year prison sentence to imprisonment for life ."
+   ],
+   "trends": [
+      {
+         "1": "0"
+      },
+      {
+         "1": "0",
+         "18": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of homicides": "108"
+      },
+      {
+         "Year": "2017",
+         "Number of homicides": "113"
+      },
+      {
+         "Year": "2016",
+         "Number of homicides": "106"
+      },
+      {
+         "Year": "2015",
+         "Number of homicides": "112"
+      },
+      {
+         "Year": "2014",
+         "Number of homicides": "87"
+      },
+      {
+         "Year": "2013",
+         "Number of homicides": "87"
+      },
+      {
+         "Year": "2012",
+         "Number of homicides": "68"
+      },
+      {
+         "Year": "2011",
+         "Number of homicides": "81"
+      },
+      {
+         "Year": "2010",
+         "Number of homicides": "91"
+      },
+      {
+         "Year": "2009",
+         "Number of homicides": "93"
+      },
+      {
+         "Year": "2008",
+         "Number of homicides": "82"
+      }
+   ],
+   "gold": "This statistic shows the number of confirmed homicides in Sweden from 2008 to 2018 . The number of homicides has fluctuated in this period . In 2017 , the number stood at 113 homicides which was relatively high considering the whole 10-year period .\n"
+}

@@ -1,0 +1,62 @@
+{
+   "title": "Brazil : most valuable soccer players at the 2018 FIFA World Cup",
+   "xAxis": "Month",
+   "yAxis": "Market value in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the Market of the Brazil of players in . ",
+      "Neymar had the highest Market of about 180 million euros ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Neymar",
+         "Market value in million euros": "180"
+      },
+      {
+         "Month": "Philippe Coutinho",
+         "Market value in million euros": "100"
+      },
+      {
+         "Month": "Roberto Firmino",
+         "Market value in million euros": "80"
+      },
+      {
+         "Month": "Gabriel Jesus",
+         "Market value in million euros": "80"
+      },
+      {
+         "Month": "Casemiro",
+         "Market value in million euros": "60"
+      },
+      {
+         "Month": "Marcelo",
+         "Market value in million euros": "60"
+      },
+      {
+         "Month": "Alisson",
+         "Market value in million euros": "60"
+      },
+      {
+         "Month": "Douglas Costa",
+         "Market value in million euros": "55"
+      },
+      {
+         "Month": "Marquinhos",
+         "Market value in million euros": "55"
+      },
+      {
+         "Month": "Ederson",
+         "Market value in million euros": "50"
+      }
+   ],
+   "gold": "The statistic presents a ranking of Brazilian soccer players participating in the 2018 FIFA World Cup in Russia , based on market value . As of June 2018 , Neymar was the most valuable player , with a market value of 180 million euros . Philippe Coutinho ranked second , with a value of 100 million euros .\n"
+}

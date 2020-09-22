@@ -1,0 +1,104 @@
+{
+   "title": "Annual performance of the Dow Jones Composite Index 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Index value in points",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Index of the performance Dow points in the Annual from 2000 to 2019 . ",
+      "According to the report , there were a total of 8310.35 percentage points in the Annual ."
+   ],
+   "trends": [
+      {
+         "14": "19",
+         "16": "0"
+      },
+      {
+         "10": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Index value in points": "9386.48"
+      },
+      {
+         "Year": "2018",
+         "Index value in points": "7710.44"
+      },
+      {
+         "Year": "2017",
+         "Index value in points": "8310.35"
+      },
+      {
+         "Year": "2016",
+         "Index value in points": "6902.45"
+      },
+      {
+         "Year": "2015",
+         "Index value in points": "5978.34"
+      },
+      {
+         "Year": "2014",
+         "Index value in points": "6473.6"
+      },
+      {
+         "Year": "2013",
+         "Index value in points": "5641.55"
+      },
+      {
+         "Year": "2012",
+         "Index value in points": "4442.07"
+      },
+      {
+         "Year": "2011",
+         "Index value in points": "4232.17"
+      },
+      {
+         "Year": "2010",
+         "Index value in points": "4033.19"
+      },
+      {
+         "Year": "2009",
+         "Index value in points": "3566.68"
+      },
+      {
+         "Year": "2008",
+         "Index value in points": "3086.07"
+      },
+      {
+         "Year": "2007",
+         "Index value in points": "4394.05"
+      },
+      {
+         "Year": "2006",
+         "Index value in points": "4120.96"
+      },
+      {
+         "Year": "2005",
+         "Index value in points": "3638.06"
+      },
+      {
+         "Year": "2004",
+         "Index value in points": "3395.82"
+      },
+      {
+         "Year": "2003",
+         "Index value in points": "3000.75"
+      },
+      {
+         "Year": "2002",
+         "Index value in points": "2374.96"
+      },
+      {
+         "Year": "2001",
+         "Index value in points": "2892.23"
+      },
+      {
+         "Year": "2000",
+         "Index value in points": "3317.61"
+      }
+   ],
+   "gold": "The Dow Jones Composite Index finished the year 2019 at 9,386.48 points . This is the highest point of the index in the past two decades . What is Dow Jones Composite Index ? The Dow Jones Composite Index is one of the indices from the Dow Jones index family .\n"
+}

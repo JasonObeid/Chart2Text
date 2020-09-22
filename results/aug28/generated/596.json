@@ -1,0 +1,44 @@
+{
+   "title": "Alzheimer 's in the U.S : lifetime risks , by age and gender",
+   "labels": [
+      "Country",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Alzheimer 's U.S lifetime of Women in the U.S ( ) in . ",
+      "During the survey period , it was found that 11.6 % of Women had a 45_years of 21.1 % of the gender ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "0",
+            "0"
+         ],
+         "17": [
+            "1",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Country": "45 years",
+         "Men": "10.3",
+         "Women": "11.6"
+      },
+      {
+         "Country": "65 years",
+         "Men": "19.5",
+         "Women": "21.1"
+      }
+   ],
+   "gold": "This statistic depicts the estimated lifetime risk for getting Alzheimer 's disease in the United States as of 2015 , by age and gender . It is estimated that men aged 65 have a 11.6 percent risk of developing Alzheimer 's during their life .\n"
+}

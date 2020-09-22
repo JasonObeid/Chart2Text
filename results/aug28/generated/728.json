@@ -1,0 +1,53 @@
+{
+   "title": "MoviePass subscribers in the U.S. 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of MoviePass the U.S. 2019 as of 2018 , 2019 Number of April_2019 . ",
+      "According to the source , there were 3000 thousands subscribers U.S. on the platform , followed 2019 June_2018 with 3000 thousands subscribers ."
+   ],
+   "trends": [
+      {
+         "18": "0"
+      },
+      {
+         "7": "1",
+         "18": "1",
+         "20": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "April 2019",
+         "Number of subscribers in thousands": "225"
+      },
+      {
+         "Month": "June 2018",
+         "Number of subscribers in thousands": "3000"
+      },
+      {
+         "Month": "March 2018",
+         "Number of subscribers in thousands": "2000"
+      },
+      {
+         "Month": "January 2018",
+         "Number of subscribers in thousands": "1500"
+      },
+      {
+         "Month": "September 2017",
+         "Number of subscribers in thousands": "500"
+      },
+      {
+         "Month": "August 2017",
+         "Number of subscribers in thousands": "150"
+      },
+      {
+         "Month": "December 2016",
+         "Number of subscribers in thousands": "20"
+      }
+   ],
+   "gold": "As of April 2019 , it was estimated that MoviePass had just 225 thousand subscribers in the United States , a significant drop from the three million recorded in June 2018 . MoviePass is no stranger to media attention , but after the recent claims from a source that they had obtained internal data about MoviePass 's floundering subscriber base , the company is once again in the spotlight . What is MoviePass ? MoviePass is a subscription-based movie ticketing service , designed to allow subscribers to buy a select amount of movie tickets each month for a single fee .\n"
+}

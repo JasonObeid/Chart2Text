@@ -1,0 +1,40 @@
+{
+   "title": "Number of outbound trips from China to Europe in 2018 , by region of destination",
+   "xAxis": "Europe European Union",
+   "yAxis": "Arrivals in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of outbound trips from the China to Central/Eastern_Europe in 2018 , by region . ",
+      "According to the source , Central/Eastern_Europe generated approximately 5.93 millions in 2018 ."
+   ],
+   "trends": [
+      {
+         "12": "0"
+      },
+      {
+         "5": "0",
+         "8": "0"
+      }
+   ],
+   "data": [
+      {
+         "Europe European Union": "Central/Eastern Europe",
+         "Arrivals in millions": "5.93"
+      },
+      {
+         "Europe European Union": "Western Europe",
+         "Arrivals in millions": "5.9"
+      },
+      {
+         "Europe European Union": "Northern Europe",
+         "Arrivals in millions": "1.15"
+      },
+      {
+         "Europe European Union": "Southern/Mediterranean Europe",
+         "Arrivals in millions": "1.12"
+      }
+   ],
+   "gold": "This statistic shows the number of outbound trips from China to Europe in 2018 , by region of destination . There were approximately 1.15 million trips from China to Northern Europe in 2018 .\n"
+}

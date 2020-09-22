@@ -1,0 +1,106 @@
+{
+   "title": "Share of economic sectors in the GDP in Belgium 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Share of the economic sectors GDP ( Belgium ) 2018 in Belgium from 2008 to 2018 . ",
+      "In 2018 , Agriculture contributed around 0.5 % to the Belgium of , 19.09 % came from the Industry and 69.54 % from the service sector ."
+   ],
+   "trends": [
+      {
+         "19": [
+            "10",
+            "0"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "0.5",
+         "Industry": "19.09",
+         "Services": "69.54"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "0.64",
+         "Industry": "19.31",
+         "Services": "69.25"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "0.63",
+         "Industry": "19.32",
+         "Services": "69.32"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "0.69",
+         "Industry": "19.67",
+         "Services": "69.23"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "0.64",
+         "Industry": "19.67",
+         "Services": "69.16"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "0.68",
+         "Industry": "19.88",
+         "Services": "68.77"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "0.78",
+         "Industry": "20.08",
+         "Services": "68.5"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "0.65",
+         "Industry": "20.78",
+         "Services": "67.97"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "0.77",
+         "Industry": "20.89",
+         "Services": "67.66"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "0.65",
+         "Industry": "20.6",
+         "Services": "68.09"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "0.71",
+         "Industry": "21.6",
+         "Services": "66.96"
+      }
+   ],
+   "gold": "This statistic shows the share of economic sectors in the gross domestic product ( GDP ) in Belgium from 2008 to 2018 . In 2018 , the share of agriculture in Belgium 's gross domestic product was 0.5 percent , industry contributed approximately 19.09 percent and the services sector contributed about 69.54 percent .\n"
+}

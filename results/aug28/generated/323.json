@@ -1,0 +1,76 @@
+{
+   "title": "Canada 's biodiesel production 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in million liters",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2019 , Canada produced 375 million liters of 's . ",
+      "In that Year , 70 million of that Production was destined to exports . ",
+      "'s is made from the agave plant ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "5": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in million liters": "375"
+      },
+      {
+         "Year": "2018",
+         "Production in million liters": "300"
+      },
+      {
+         "Year": "2017",
+         "Production in million liters": "397"
+      },
+      {
+         "Year": "2016",
+         "Production in million liters": "463"
+      },
+      {
+         "Year": "2015",
+         "Production in million liters": "307"
+      },
+      {
+         "Year": "2014",
+         "Production in million liters": "351"
+      },
+      {
+         "Year": "2013",
+         "Production in million liters": "159"
+      },
+      {
+         "Year": "2012",
+         "Production in million liters": "100"
+      },
+      {
+         "Year": "2011",
+         "Production in million liters": "120"
+      },
+      {
+         "Year": "2010",
+         "Production in million liters": "115"
+      },
+      {
+         "Year": "2009",
+         "Production in million liters": "110"
+      },
+      {
+         "Year": "2008",
+         "Production in million liters": "95"
+      },
+      {
+         "Year": "2007",
+         "Production in million liters": "70"
+      }
+   ],
+   "gold": "This statistic shows the annual production of biodiesel in Canada from 2007 to 2017 , with an estimated figure for 2018 , and a forecast for 2019 . The Canadian biodiesel production volume increased from 70 million liters in 2007 , to 397 million liters in 2017 . It is forecast that Canada 's production of biodiesel in 2019 will be 375 million liters .\n"
+}

@@ -1,0 +1,56 @@
+{
+   "title": "Nuclear energy - global market size by segment through 2030",
+   "labels": [
+      "Power Type",
+      "2011",
+      "2030"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the distribution of energy in the Nuclear in 2030 and , through 2030 . ",
+      "According to the survey , 69 % of the people in the country were living in the world ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Power Type": "Nuclear generation",
+         "2011": "133",
+         "2030": "300"
+      },
+      {
+         "Power Type": "Radiation management",
+         "2011": "69",
+         "2030": "267"
+      },
+      {
+         "Power Type": "Nuclear power plant construction",
+         "2011": "31",
+         "2030": "53"
+      },
+      {
+         "Power Type": "Service",
+         "2011": "18",
+         "2030": "22"
+      },
+      {
+         "Power Type": "Front end of fuel cycle",
+         "2011": "17",
+         "2030": "26"
+      },
+      {
+         "Power Type": "Spent nuclear fuel reprocessing and secondary fuel",
+         "2011": "3",
+         "2030": "9"
+      }
+   ],
+   "gold": "The global nuclear energy market is expected to grow over the next years , with the nuclear generation segment reaching 300 billion U.S. dollars . In addition to the already operable nuclear reactors all over the world , there are also nuclear reactors currently under construction , most notably in China , Russia , and India . In these countries , there are also several reactors being planned and in various stages of approval , funding , or major commitments already in place .\n"
+}

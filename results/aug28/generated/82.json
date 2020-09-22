@@ -1,0 +1,55 @@
+{
+   "title": "Vietnam : number of social network users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of Vietnam users in the Vietnam from 2017 to 2023 . ",
+      "In 2018 , it is estimated that there will be around 46.2 millions social network users in the country , up from 43.8 millions in 2017 ."
+   ],
+   "trends": [
+      {
+         "12": "6",
+         "14": "0"
+      },
+      {
+         "1": "5",
+         "11": "5",
+         "22": "6",
+         "25": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of users in millions": "52.8"
+      },
+      {
+         "Year": "2022",
+         "Number of users in millions": "51.9"
+      },
+      {
+         "Year": "2021",
+         "Number of users in millions": "50.9"
+      },
+      {
+         "Year": "2020",
+         "Number of users in millions": "49.6"
+      },
+      {
+         "Year": "2019",
+         "Number of users in millions": "48.0"
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": "46.2"
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": "43.8"
+      }
+   ],
+   "gold": "This statistic shows the number of social network users in Vietnam from 2017 to 2023 . In 2021 , it is estimated that there will be around 50.9 million social network users in the country , up from 52.8 million in 2017 .\n"
+}

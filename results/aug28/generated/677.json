@@ -1,0 +1,60 @@
+{
+   "title": "U.S. drone strikes in Yemen 2011 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of drone strikes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Number of U.S. drone in Yemen from 2011 to 2019 . ",
+      "It is estimated that the drone of the drone strikes into two numerically equal groups ; that is , there were 8 drone 1,000 strikes ."
+   ],
+   "trends": [
+      {
+         "12": "8",
+         "14": "0"
+      },
+      {
+         "21": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of drone strikes": "8"
+      },
+      {
+         "Year": "2018",
+         "Number of drone strikes": "36"
+      },
+      {
+         "Year": "2017",
+         "Number of drone strikes": "127"
+      },
+      {
+         "Year": "2016",
+         "Number of drone strikes": "37"
+      },
+      {
+         "Year": "2015",
+         "Number of drone strikes": "21"
+      },
+      {
+         "Year": "2014",
+         "Number of drone strikes": "17"
+      },
+      {
+         "Year": "2013",
+         "Number of drone strikes": "22"
+      },
+      {
+         "Year": "2012",
+         "Number of drone strikes": "37"
+      },
+      {
+         "Year": "2011",
+         "Number of drone strikes": "11"
+      }
+   ],
+   "gold": "The statistic shows the number of U.S. drone strikes in Yemen from 2011 to November 5 , 2019 . In 2018 , the U.S. carried out a total of 36 drone strikes in Yemen .\n"
+}

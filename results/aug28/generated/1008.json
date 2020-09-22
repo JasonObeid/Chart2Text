@@ -1,0 +1,58 @@
+{
+   "title": "Smartphone user penetration in Argentina 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Share of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Smartphone networking reach in Argentina from 2017 to 2023 . ",
+      "In 2017 , 48 % of the population in the country accessed Smartphone user . ",
+      "In 2019 , this Share is projected to reach 55 % ."
+   ],
+   "trends": [
+      {
+         "10": "6",
+         "12": "0"
+      },
+      {
+         "1": "6",
+         "3": "6"
+      },
+      {
+         "1": "4",
+         "9": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Share of population": "61"
+      },
+      {
+         "Year": "2022",
+         "Share of population": "60"
+      },
+      {
+         "Year": "2021",
+         "Share of population": "59"
+      },
+      {
+         "Year": "2020",
+         "Share of population": "57"
+      },
+      {
+         "Year": "2019",
+         "Share of population": "55"
+      },
+      {
+         "Year": "2018",
+         "Share of population": "52"
+      },
+      {
+         "Year": "2017",
+         "Share of population": "48"
+      }
+   ],
+   "gold": "The statistic shows the smartphone user penetration in Argentina as share of the population from 2017 to 2023 . In 2018 , 52 percent of the population in Argentina used a smartphone .\n"
+}

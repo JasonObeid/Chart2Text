@@ -1,0 +1,46 @@
+{
+   "title": "Election 2012 exit polls : percentage of votes by ethnicity",
+   "labels": [
+      "Race",
+      "Barack Obama",
+      "Mitt Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This graph shows the percentage of Barack Obama and Romney in the Election in 2012 , by ethnicity . ",
+      "During the survey period , 39 percentage of Barack Obama were Barack Obama ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Race": "White",
+         "Barack Obama": "39",
+         "Mitt Romney": "59"
+      },
+      {
+         "Race": "Black",
+         "Barack Obama": "93",
+         "Mitt Romney": "6"
+      },
+      {
+         "Race": "Hispanic",
+         "Barack Obama": "71",
+         "Mitt Romney": "27"
+      },
+      {
+         "Race": "Asian",
+         "Barack Obama": "73",
+         "Mitt Romney": "26"
+      }
+   ],
+   "gold": "This graph shows the percentage of votes of the 2012 presidential elections in the United States on November 6 , 2012 , by ethnicity . According to the exit polls , about 71 percent of Hispanic voters nationwide have voted for Barack Obama . Elections in the U.S .\n"
+}

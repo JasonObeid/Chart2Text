@@ -1,0 +1,97 @@
+{
+   "title": "Personal income in California - income per capita 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Income in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Personal of income in California from 2000 to 2018 . ",
+      "In 2018 , the Personal of income in California was 33364 % . ",
+      "Personal Income is one of the world ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "'18",
+         "Income in U.S. dollars": "63557"
+      },
+      {
+         "Year": "'17",
+         "Income in U.S. dollars": "60156"
+      },
+      {
+         "Year": "'16",
+         "Income in U.S. dollars": "57739"
+      },
+      {
+         "Year": "'15",
+         "Income in U.S. dollars": "55758"
+      },
+      {
+         "Year": "'14",
+         "Income in U.S. dollars": "52324"
+      },
+      {
+         "Year": "'13",
+         "Income in U.S. dollars": "49277"
+      },
+      {
+         "Year": "'12",
+         "Income in U.S. dollars": "48798"
+      },
+      {
+         "Year": "'11",
+         "Income in U.S. dollars": "46170"
+      },
+      {
+         "Year": "'10",
+         "Income in U.S. dollars": "43634"
+      },
+      {
+         "Year": "'09",
+         "Income in U.S. dollars": "42044"
+      },
+      {
+         "Year": "'08",
+         "Income in U.S. dollars": "43890"
+      },
+      {
+         "Year": "'07",
+         "Income in U.S. dollars": "43629"
+      },
+      {
+         "Year": "'06",
+         "Income in U.S. dollars": "42088"
+      },
+      {
+         "Year": "'05",
+         "Income in U.S. dollars": "39279"
+      },
+      {
+         "Year": "'04",
+         "Income in U.S. dollars": "37369"
+      },
+      {
+         "Year": "'03",
+         "Income in U.S. dollars": "35415"
+      },
+      {
+         "Year": "'02",
+         "Income in U.S. dollars": "34214"
+      },
+      {
+         "Year": "'01",
+         "Income in U.S. dollars": "34043"
+      },
+      {
+         "Year": "'00",
+         "Income in U.S. dollars": "33364"
+      }
+   ],
+   "gold": "This statistic shows the per capita personal income in California from 2000 to 2018 . In 2018 , the per capita personal income in California was 63,557 U.S. dollars . Personal income is the income that is received by persons from all sources .\n"
+}

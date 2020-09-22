@@ -1,0 +1,47 @@
+{
+   "title": "Inner London ( UK ) : population 2011 , by ethnic group",
+   "xAxis": "Ethnic Groups",
+   "yAxis": "Share of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic illustrates the distribution of Inner London UK in the London in 2011 , broken down group . ",
+      "In White , there were around 57.3 % of the Gypsy/Traveller/Irish_traveller population in London ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "6": "0",
+         "10": "5"
+      }
+   ],
+   "data": [
+      {
+         "Ethnic Groups": "White",
+         "Share of population": "57.3"
+      },
+      {
+         "Ethnic Groups": "Black / African / Caribbean / Black British",
+         "Share of population": "16.8"
+      },
+      {
+         "Ethnic Groups": "Asian / Asian British",
+         "Share of population": "16"
+      },
+      {
+         "Ethnic Groups": "Mixed / Multiple ethnic groups",
+         "Share of population": "5.9"
+      },
+      {
+         "Ethnic Groups": "Other",
+         "Share of population": "4.2"
+      },
+      {
+         "Ethnic Groups": "Gypsy/Traveller/Irish traveller",
+         "Share of population": "0.1"
+      }
+   ],
+   "gold": "This statistic shows the distribution of ethnic groups of Inner London , United Kingdom ( UK ) at the time of the 2011 National Census . 'White ' is the largest group , at 57.2 percent of the population , followed by 'Black / African / Caribbean / Black British , ' and Asian / Asian British . '\n"
+}

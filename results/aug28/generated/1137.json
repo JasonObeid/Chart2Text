@@ -1,0 +1,114 @@
+{
+   "title": "Distribution of gross domestic product ( GDP ) across economic sectors Germany 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Distribution of the gross domestic product ( GDP ) across economic sectors in Germany from 2008 to 2018 . ",
+      "In 2018 , Agriculture contributed around 0.77 % to the GDP of Germany , 27.46 % came from the Industry and 61.84 % from the Services sector ."
+   ],
+   "trends": [
+      {
+         "19": [
+            "10",
+            "0"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "0",
+            "2"
+         ],
+         "21": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "0.77",
+         "Industry": "27.46",
+         "Services": "61.84"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "0.83",
+         "Industry": "27.44",
+         "Services": "61.78"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "0.7",
+         "Industry": "27.5",
+         "Services": "61.84"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "0.68",
+         "Industry": "27.06",
+         "Services": "62.21"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "0.9",
+         "Industry": "27.01",
+         "Services": "62.11"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "0.94",
+         "Industry": "26.78",
+         "Services": "62.19"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "0.85",
+         "Industry": "27.28",
+         "Services": "61.69"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "0.91",
+         "Industry": "27.07",
+         "Services": "61.79"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "0.8",
+         "Industry": "26.85",
+         "Services": "62.26"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "0.7",
+         "Industry": "24.74",
+         "Services": "64.23"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "0.84",
+         "Industry": "26.85",
+         "Services": "62.22"
+      }
+   ],
+   "gold": "The services sector is the largest in Germany and has been generating a steady share of around 60 percent of gross domestic product since 2007 . Following the financial crisis , the services sector grew to just over 64 percent in 2009 , but otherwise has made up a consistent share of GDP . Industry was hit the hardest in 2009 , dropping just below a quarter of total GDP , while agriculture has been below one percent since the early 2000s .\n"
+}

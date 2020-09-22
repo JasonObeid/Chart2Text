@@ -1,0 +1,99 @@
+{
+   "title": "Digital and print advertising revenue of U.S. newspapers 2003 to 2014",
+   "labels": [
+      "Year",
+      "Print",
+      "Digital"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Digital of print in the Digital from 2014 to 2003 , 2014 . ",
+      "In 2003 , the Digital of employees in the Digital was 44.94 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "11",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "12": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2003",
+         "Print": "44.94",
+         "Digital": "1.22"
+      },
+      {
+         "Year": "2004",
+         "Print": "46.7",
+         "Digital": "1.54"
+      },
+      {
+         "Year": "2005",
+         "Print": "47.41",
+         "Digital": "2.03"
+      },
+      {
+         "Year": "2006",
+         "Print": "46.61",
+         "Digital": "2.66"
+      },
+      {
+         "Year": "2007",
+         "Print": "42.21",
+         "Digital": "3.17"
+      },
+      {
+         "Year": "2008",
+         "Print": "34.74",
+         "Digital": "3.11"
+      },
+      {
+         "Year": "2009",
+         "Print": "24.82",
+         "Digital": "2.74"
+      },
+      {
+         "Year": "2010",
+         "Print": "22.8",
+         "Digital": "3.04"
+      },
+      {
+         "Year": "2011",
+         "Print": "20.69",
+         "Digital": "3.25"
+      },
+      {
+         "Year": "2012",
+         "Print": "18.9",
+         "Digital": "3.34"
+      },
+      {
+         "Year": "2013",
+         "Print": "17.3",
+         "Digital": "3.42"
+      },
+      {
+         "Year": "2014",
+         "Print": "16.4",
+         "Digital": "3.5"
+      }
+   ],
+   "gold": "The statistic shows annual digital and print advertising revenue of U.S. newspapers from 2003 to 2014 . In 2014 , newspapers generated 3.5 billion U.S. dollars selling online advertising space and 16.4 billion U.S. dollars selling print ad space . In 2015 , newspaper publishers in the United States generated an estimated revenue of 14.87 billion U.S. dollars from advertising space .\n"
+}

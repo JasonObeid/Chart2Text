@@ -1,0 +1,62 @@
+{
+   "title": "Largest Ecuadorian-American population groups in the U.S. , by county 2010",
+   "xAxis": "Population Group",
+   "yAxis": "Population number",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the Largest Ecuadorian-American Population in different counties across the U.S. as of 2010 . ",
+      "At this time there were around 98512 % of all number in Queens_County_NY ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Population Group": "Queens County NY",
+         "Population number": "98512"
+      },
+      {
+         "Population Group": "Kings County NJ",
+         "Population number": "28684"
+      },
+      {
+         "Population Group": "Hudson County NJ",
+         "Population number": "26650"
+      },
+      {
+         "Population Group": "Essex County NJ",
+         "Population number": "25169"
+      },
+      {
+         "Population Group": "Bronx County NY",
+         "Population number": "23206"
+      },
+      {
+         "Population Group": "Westchester County NY",
+         "Population number": "22460"
+      },
+      {
+         "Population Group": "Miami-Dade County FL",
+         "Population number": "19832"
+      },
+      {
+         "Population Group": "Los Angeles County CA",
+         "Population number": "19588"
+      },
+      {
+         "Population Group": "Cook County IL",
+         "Population number": "19450"
+      },
+      {
+         "Population Group": "Suffolk County NY",
+         "Population number": "17638"
+      }
+   ],
+   "gold": "This statistic depicts the largest Ecuadorian-American population groups living in different counties across the United States as of 2010 . At this time there were 98,512 people of Ecuadorian origin living in Queens County in New York .\n"
+}

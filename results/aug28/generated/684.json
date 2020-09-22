@@ -1,0 +1,77 @@
+{
+   "title": "Number of hospitals in Canada by province 2016",
+   "xAxis": "Month",
+   "yAxis": "Number of establishments",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number establishments of the Number hospitals Canada UK from Yukon to Ontario . ",
+      "In Ontario , the highest Number establishments of Canada stood at 492 establishments ."
+   ],
+   "trends": [
+      {
+         "13": "12",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of establishments": "492"
+      },
+      {
+         "Month": "Quebec",
+         "Number of establishments": "267"
+      },
+      {
+         "Month": "British Columbia",
+         "Number of establishments": "206"
+      },
+      {
+         "Month": "Alberta",
+         "Number of establishments": "169"
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of establishments": "77"
+      },
+      {
+         "Month": "Manitoba",
+         "Number of establishments": "73"
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of establishments": "54"
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of establishments": "46"
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of establishments": "39"
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of establishments": "19"
+      },
+      {
+         "Month": "Nunavut",
+         "Number of establishments": "19"
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of establishments": "4"
+      },
+      {
+         "Month": "Yukon",
+         "Number of establishments": "1"
+      }
+   ],
+   "gold": "Among Canadian provinces , Ontario had the largest number of hospitals with around 500 establishments , as of 2016 . Canada has a publicly funded health care system based on a system of taxation , fees and private funding . Current reports estimate that health care expenditures account for over 11 percent of Canada 's gross domestic product ( GDP ) .\n"
+}

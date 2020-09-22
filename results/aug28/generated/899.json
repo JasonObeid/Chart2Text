@@ -1,0 +1,97 @@
+{
+   "title": "Global papaya production 2000 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Million metric of the 2000 2017 of Global from 2000 to 2017 . ",
+      "In 2017 , the average Million metric of Global was 13.02 tons ."
+   ],
+   "trends": [
+      {
+         "13": "17",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Million metric tons": "13.02"
+      },
+      {
+         "Year": "2016",
+         "Million metric tons": "13.05"
+      },
+      {
+         "Year": "2015",
+         "Million metric tons": "12.08"
+      },
+      {
+         "Year": "2014",
+         "Million metric tons": "12.67"
+      },
+      {
+         "Year": "2013",
+         "Million metric tons": "12.36"
+      },
+      {
+         "Year": "2012",
+         "Million metric tons": "12.01"
+      },
+      {
+         "Year": "2011",
+         "Million metric tons": "11.3"
+      },
+      {
+         "Year": "2010",
+         "Million metric tons": "11.19"
+      },
+      {
+         "Year": "2009",
+         "Million metric tons": "10.73"
+      },
+      {
+         "Year": "2008",
+         "Million metric tons": "10.02"
+      },
+      {
+         "Year": "2007",
+         "Million metric tons": "9.53"
+      },
+      {
+         "Year": "2006",
+         "Million metric tons": "8.91"
+      },
+      {
+         "Year": "2005",
+         "Million metric tons": "8.03"
+      },
+      {
+         "Year": "2004",
+         "Million metric tons": "8.67"
+      },
+      {
+         "Year": "2003",
+         "Million metric tons": "8.16"
+      },
+      {
+         "Year": "2002",
+         "Million metric tons": "8.42"
+      },
+      {
+         "Year": "2001",
+         "Million metric tons": "8.55"
+      },
+      {
+         "Year": "2000",
+         "Million metric tons": "7.25"
+      }
+   ],
+   "gold": "This statistic depicts the production of papaya worldwide from 2000 to 2017 . According to the report , global papaya production amounted to approximately 12.67 million metric tons in 2014 .\n"
+}

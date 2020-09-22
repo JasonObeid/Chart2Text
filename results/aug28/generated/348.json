@@ -1,0 +1,45 @@
+{
+   "title": "Reach of fashion blog websites in Great Britain as of August 2013 , by age and gender",
+   "xAxis": "Sex",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2013 , it was found that 7 % of Reach fashion blog in the websites were Male and 2 % of the respondents in the Great Britain . ",
+      "This means that 2 % of the internet users in the blog ."
+   ],
+   "trends": [
+      {
+         "7": "2",
+         "17": "0",
+         "19": "0"
+      },
+      {
+         "3": "4"
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Share of respondents": "2"
+      },
+      {
+         "Sex": "Female",
+         "Share of respondents": "6"
+      },
+      {
+         "Sex": "Under 35",
+         "Share of respondents": "7"
+      },
+      {
+         "Sex": "35 to 49",
+         "Share of respondents": "3"
+      },
+      {
+         "Sex": "50 to 64",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "This statistic displays the reach of fashion blog websites in Great Britain in 2013 , by demographic group . Among female respondents , 6 percent reported regularly visiting fashion websites or blogs as of August 2013 .\n"
+}

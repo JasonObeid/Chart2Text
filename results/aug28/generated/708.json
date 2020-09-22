@@ -1,0 +1,57 @@
+{
+   "title": "Number of TV ads seen daily per person in the United Kingdom ( UK ) 2008 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Advertisements seen",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Advertisements seen of the seen worldwide from 2008 to 2015 . ",
+      "In 2015 , the seen of United Kingdom amounted to 45 seen ."
+   ],
+   "trends": [
+      {
+         "11": "7",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Advertisements seen": "45"
+      },
+      {
+         "Year": "2014",
+         "Advertisements seen": "45"
+      },
+      {
+         "Year": "2013",
+         "Advertisements seen": "47"
+      },
+      {
+         "Year": "2012",
+         "Advertisements seen": "47"
+      },
+      {
+         "Year": "2011",
+         "Advertisements seen": "47"
+      },
+      {
+         "Year": "2010",
+         "Advertisements seen": "46"
+      },
+      {
+         "Year": "2009",
+         "Advertisements seen": "43"
+      },
+      {
+         "Year": "2008",
+         "Advertisements seen": "42"
+      }
+   ],
+   "gold": "This statistic displays a timeline of the number of TV ads seen per individual per day in the United Kingdom from 2008 to 2015 . In 2012 , individuals saw on average 47 television commercials or advertisements per day .\n"
+}

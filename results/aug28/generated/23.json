@@ -1,0 +1,54 @@
+{
+   "title": "Harley-Davidson - motorcycle sales by region 2017/2018",
+   "labels": [
+      "Year",
+      "U.S.",
+      "Canada",
+      "Europe, Middle East, Africa (EMEA)",
+      "Asia-Pacific",
+      "Latin America"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic gives information on the percentage of Harley-Davidson 's employees region from 2018 to 2017 , sorted 2017/2018 . ",
+      "As of 2019 , it was found that 10081 % of people in the state deficit ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "1",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "8": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "U.S.": "147972",
+         "Canada": "10081",
+         "Europe, Middle East, Africa (EMEA)": "44935",
+         "Asia-Pacific": "30348",
+         "Latin America": "9452"
+      },
+      {
+         "Year": "2018",
+         "U.S.": "132868",
+         "Canada": "9690",
+         "Europe, Middle East, Africa (EMEA)": "46602",
+         "Asia-Pacific": "28724",
+         "Latin America": "10167"
+      }
+   ],
+   "gold": "Globally , H-D shipped some 228,000 \u2018 hogs ' in 2018 . Worldwide retail sales of Harley-Davidson motorcycles declined by 6.1 percent between 2017 and 2018 . Sales are falling in key markets The slump was most severe in traditional Asian and Oceanian markets such as Japan , South Korea , Australia , and New Zealand , where retail sales dropped by almost 14 percent .\n"
+}

@@ -1,0 +1,97 @@
+{
+   "title": "Number of snow sports ( skier/snowboard ) visits in the United States 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of skier visits in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number skier of the skier/snowboard United States visits from the 2001/02 season to the 2018/19 season . ",
+      "In 2018/19 , the average Number skier of the United States was 60.54 visits millions ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18/19",
+         "Number of skier visits in millions": "59.0"
+      },
+      {
+         "Year": "17/18",
+         "Number of skier visits in millions": "53.3"
+      },
+      {
+         "Year": "16/17",
+         "Number of skier visits in millions": "54.7"
+      },
+      {
+         "Year": "15/16",
+         "Number of skier visits in millions": "52.8"
+      },
+      {
+         "Year": "14/15",
+         "Number of skier visits in millions": "53.6"
+      },
+      {
+         "Year": "13/14",
+         "Number of skier visits in millions": "56.49"
+      },
+      {
+         "Year": "12/13",
+         "Number of skier visits in millions": "56.9"
+      },
+      {
+         "Year": "11/12",
+         "Number of skier visits in millions": "50.97"
+      },
+      {
+         "Year": "10/11",
+         "Number of skier visits in millions": "60.54"
+      },
+      {
+         "Year": "09/10",
+         "Number of skier visits in millions": "59.79"
+      },
+      {
+         "Year": "08/09",
+         "Number of skier visits in millions": "57.35"
+      },
+      {
+         "Year": "07/08",
+         "Number of skier visits in millions": "60.5"
+      },
+      {
+         "Year": "06/07",
+         "Number of skier visits in millions": "55.07"
+      },
+      {
+         "Year": "05/06",
+         "Number of skier visits in millions": "58.9"
+      },
+      {
+         "Year": "04/05",
+         "Number of skier visits in millions": "56.88"
+      },
+      {
+         "Year": "03/04",
+         "Number of skier visits in millions": "57.07"
+      },
+      {
+         "Year": "02/03",
+         "Number of skier visits in millions": "57.59"
+      },
+      {
+         "Year": "01/02",
+         "Number of skier visits in millions": "54.41"
+      },
+      {
+         "Year": "00/01",
+         "Number of skier visits in millions": "57.34"
+      }
+   ],
+   "gold": "This graph depicts the estimated number of skier and snowboard visits in the U.S. during the winter seasons between 2000 and 2019 . During the 2018/2019 season , the U.S. had about 59 million snow sports visits in total .\n"
+}

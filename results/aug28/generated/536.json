@@ -1,0 +1,38 @@
+{
+   "title": "U.S. consumers who use marijuana 2019 , by age group",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the distribution of consumers the U.S. who use times in 2019 , group respondents . ",
+      "According to the survey , 22 % of the respondents reported accessing the age group 18-29_years ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-29 years",
+         "Share of respondents": "22"
+      },
+      {
+         "Year": "30-49 years",
+         "Share of respondents": "11"
+      },
+      {
+         "Year": "50-64 years",
+         "Share of respondents": "12"
+      },
+      {
+         "Year": "65+ years",
+         "Share of respondents": "3"
+      }
+   ],
+   "gold": "Eighteen to twenty-nine-year-olds were the largest group of current marijuana smokers in the United States in 2019 . Roughly a quarter of the age group were current smokers , with usage dipping among older age groups . Seniors were the least likely , with only three percent stating that they were current smokers .\n"
+}

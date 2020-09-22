@@ -1,0 +1,63 @@
+{
+   "title": "R & D expenditure of BP 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Expenditure in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Expenditure of pharmaceutical company BP for D and expenditure from 2010 to 2018 . ",
+      "BP Pharmaceutical Industries is one of the largest generic drug manufacturers in the world . ",
+      "In 2018 , the company invested about 429 million U.S. dollars in D expenditure ."
+   ],
+   "trends": [
+      {
+         "14": "8",
+         "16": "0"
+      },
+      {},
+      {
+         "1": "0",
+         "7": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Expenditure in million U.S. dollars": "429"
+      },
+      {
+         "Year": "2017",
+         "Expenditure in million U.S. dollars": "391"
+      },
+      {
+         "Year": "2016",
+         "Expenditure in million U.S. dollars": "400"
+      },
+      {
+         "Year": "2015",
+         "Expenditure in million U.S. dollars": "418"
+      },
+      {
+         "Year": "2014",
+         "Expenditure in million U.S. dollars": "663"
+      },
+      {
+         "Year": "2013",
+         "Expenditure in million U.S. dollars": "707"
+      },
+      {
+         "Year": "2012",
+         "Expenditure in million U.S. dollars": "674"
+      },
+      {
+         "Year": "2011",
+         "Expenditure in million U.S. dollars": "636"
+      },
+      {
+         "Year": "2010",
+         "Expenditure in million U.S. dollars": "780"
+      }
+   ],
+   "gold": "This statistic depicts BP 's expenditure on research and development from 2010 to 2018 . In 2011 , the company 's R & D expenditure stood at approximately 636 million U.S. dollars . BP is a globally operating oil and gas company , and the eighth largest company generally worldwide as of 2017 , measured by revenue .\n"
+}

@@ -1,0 +1,86 @@
+{
+   "title": "Daily computer usage penetration in Great Britain 2006 - 2017 , by age",
+   "labels": [
+      "Year",
+      "2006",
+      "2013",
+      "2014",
+      "2015",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic displays the percentage of individuals in selected 65+ who were using Daily computer in the 2006 from to 2017 , by . ",
+      "In 2017 , 63 % of respondents stated that they had their most common in 65+ using a computer ."
+   ],
+   "trends": [
+      {
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "3": [
+            "5",
+            "1"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "65+",
+         "2006": "9",
+         "2013": "37",
+         "2014": "42",
+         "2015": "45",
+         "2017": "51"
+      },
+      {
+         "Year": "55-64",
+         "2006": "36",
+         "2013": "67",
+         "2014": "74",
+         "2015": "72",
+         "2017": "76"
+      },
+      {
+         "Year": "45-54",
+         "2006": "56",
+         "2013": "76",
+         "2014": "83",
+         "2015": "76",
+         "2017": "83"
+      },
+      {
+         "Year": "35-44",
+         "2006": "63",
+         "2013": "80",
+         "2014": "86",
+         "2015": "84",
+         "2017": "82"
+      },
+      {
+         "Year": "25-34",
+         "2006": "61",
+         "2013": "84",
+         "2014": "86",
+         "2015": "78",
+         "2017": "81"
+      },
+      {
+         "Year": "16-24",
+         "2006": "63",
+         "2013": "88",
+         "2014": "79",
+         "2015": "82",
+         "2017": "79"
+      }
+   ],
+   "gold": "This statistic displays daily computer usage penetration in Great Britain , by age , in 2006 and in the years from 2013 to 2017 excluding 2016 . In 2017 , 79 percent of 16 to 24 year olds used the computer daily , up from 63 percent in 2006 .\n"
+}

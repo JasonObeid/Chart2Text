@@ -1,0 +1,108 @@
+{
+   "title": "Most followed EPL team in the U.S. 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey among EPL adult followed . ",
+      "The survey was fielded Arsenal by Harris Interactive in 2014 , asking the respondents where they usually team their shampoo and/or 2019 . ",
+      "During the survey , 32 % of respondents stated that they use Manchester_City at Arsenal 6 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "3"
+      },
+      {
+         "4": "0",
+         "12": "2",
+         "14": "3",
+         "15": "3"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Manchester United",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Liverpool",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Manchester City",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Arsenal",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Chelsea",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Crystal Palace",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Newcastle United",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Tottenham Hostpur",
+         "Share of respondents": "2"
+      },
+      {
+         "Response": "Aston Villa",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Brighton & Hove Albion",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Burnley",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Everton",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Leicester City",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Norwich City",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Sheffield United",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Southampton",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Watford",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "West Ham United",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Wolverhamption Wanderers",
+         "Share of respondents": "1"
+      },
+      {
+         "Response": "Bournemouth",
+         "Share of respondents": "0"
+      }
+   ],
+   "gold": "Despite being one of the most popular sports in the world , the level of interest in soccer in the United States still remains relatively low . The English Premier League is nevertheless keenly followed by some fans in the states and 32 percent of respondents stated that record league title winners , Manchester United , were their favorite team to follow .\n"
+}

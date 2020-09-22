@@ -1,0 +1,73 @@
+{
+   "title": "Number of homicides by firearm in the U.S. 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of homicides",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the total Number of homicides in U.S. from 2006 to 2017 . ",
+      "In 2017 , the Number of U.S. at homicides in U.S. increased by about 11006 % ."
+   ],
+   "trends": [
+      {
+         "11": "11",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of homicides": "11006"
+      },
+      {
+         "Year": "2016",
+         "Number of homicides": "10372"
+      },
+      {
+         "Year": "2015",
+         "Number of homicides": "9103"
+      },
+      {
+         "Year": "2014",
+         "Number of homicides": "7803"
+      },
+      {
+         "Year": "2013",
+         "Number of homicides": "8454"
+      },
+      {
+         "Year": "2012",
+         "Number of homicides": "8897"
+      },
+      {
+         "Year": "2011",
+         "Number of homicides": "8653"
+      },
+      {
+         "Year": "2010",
+         "Number of homicides": "8874"
+      },
+      {
+         "Year": "2009",
+         "Number of homicides": "9199"
+      },
+      {
+         "Year": "2008",
+         "Number of homicides": "9528"
+      },
+      {
+         "Year": "2007",
+         "Number of homicides": "10129"
+      },
+      {
+         "Year": "2006",
+         "Number of homicides": "10225"
+      }
+   ],
+   "gold": "The statistic shows the number of homicides by firearm in the United States from 2006 to 2018 . In 2018 , about 11,006 homicides in the United States were committed by firearm .\n"
+}

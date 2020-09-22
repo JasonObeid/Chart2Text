@@ -1,0 +1,64 @@
+{
+   "title": "U.S. price difference between legal and illegal cannabis as of January 2016 , by state",
+   "labels": [
+      "State",
+      "Dispensary price",
+      "Street price"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. of the price difference between in the legal in 2016 , January 2016 . ",
+      "According to the source , the U.S. of Arizona , 290$ million of Dispensary price were 254$ million in Arizona ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "1"
+         ],
+         "20": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "State": "Arizona",
+         "Dispensary price": "290$",
+         "Street price": "254$"
+      },
+      {
+         "State": "California",
+         "Dispensary price": "299$",
+         "Street price": "218$"
+      },
+      {
+         "State": "Colorado",
+         "Dispensary price": "223$",
+         "Street price": "219$"
+      },
+      {
+         "State": "Michigan",
+         "Dispensary price": "301$",
+         "Street price": "274$"
+      },
+      {
+         "State": "Oregon",
+         "Dispensary price": "214$",
+         "Street price": "191$"
+      },
+      {
+         "State": "Washington",
+         "Dispensary price": "238$",
+         "Street price": "210$"
+      }
+   ],
+   "gold": "This statistic presents the U.S. states with the biggest difference between legal dispensary and illegal street prices for an ounce of marijuana as of January 2016 . California had the biggest price difference between legal and illegal marijuana with an ounce of marijuana from a legal dispensary costing 299 U.S. dollars compared to 218 dollars for illegal street bought marijuana .\n"
+}

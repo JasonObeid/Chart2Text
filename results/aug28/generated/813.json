@@ -1,0 +1,125 @@
+{
+   "title": "European football clubs average attendance 2013/14",
+   "xAxis": "Club Name",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Average football clubs average attendance in the European from Rangers_FC to Boussia_Dortmund . ",
+      "In Boussia_Dortmund , the Average attendance at the 71565 % ."
+   ],
+   "trends": [
+      {
+         "13": "24",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "8": "3"
+      }
+   ],
+   "data": [
+      {
+         "Club Name": "Boussia Dortmund",
+         "Average attendance": "80295"
+      },
+      {
+         "Club Name": "Manchester United",
+         "Average attendance": "75205"
+      },
+      {
+         "Club Name": "Barcelona",
+         "Average attendance": "72115"
+      },
+      {
+         "Club Name": "Real Madrid",
+         "Average attendance": "71565"
+      },
+      {
+         "Club Name": "Bayern Munich",
+         "Average attendance": "71000"
+      },
+      {
+         "Club Name": "Schalke 04",
+         "Average attendance": "61750"
+      },
+      {
+         "Club Name": "Arsenal",
+         "Average attendance": "60015"
+      },
+      {
+         "Club Name": "Borussia M\u00f6nchengladbach",
+         "Average attendance": "52240"
+      },
+      {
+         "Club Name": "Hertha BSC",
+         "Average attendance": "51890"
+      },
+      {
+         "Club Name": "Hamburger SV",
+         "Average attendance": "51825"
+      },
+      {
+         "Club Name": "Ajax Amsterdam",
+         "Average attendance": "50905"
+      },
+      {
+         "Club Name": "VfB Stuttgart",
+         "Average attendance": "50500"
+      },
+      {
+         "Club Name": "Newcastle United",
+         "Average attendance": "50395"
+      },
+      {
+         "Club Name": "Manchester City",
+         "Average attendance": "47075"
+      },
+      {
+         "Club Name": "Eintracht Frankfurt",
+         "Average attendance": "47055"
+      },
+      {
+         "Club Name": "Celtic FC",
+         "Average attendance": "46810"
+      },
+      {
+         "Club Name": "FC Internazionale",
+         "Average attendance": "46245"
+      },
+      {
+         "Club Name": "Atletico Madrid",
+         "Average attendance": "46245"
+      },
+      {
+         "Club Name": "FC K\u00f6ln",
+         "Average attendance": "46235"
+      },
+      {
+         "Club Name": "Feyenoord",
+         "Average attendance": "45755"
+      },
+      {
+         "Club Name": "Hannover 96",
+         "Average attendance": "45635"
+      },
+      {
+         "Club Name": "Paris Saint Germain",
+         "Average attendance": "45420"
+      },
+      {
+         "Club Name": "Liverpool",
+         "Average attendance": "44670"
+      },
+      {
+         "Club Name": "SL Benfica",
+         "Average attendance": "43615"
+      },
+      {
+         "Club Name": "Rangers FC",
+         "Average attendance": "42935"
+      }
+   ],
+   "gold": "The statistic shows the European football clubs with the highest average per game attendance in the 2013/14 season . Germany 's Borussia Dortmund had the highest average attendance throughout Europe , with an average of over 80,000 fans attending each of their home games .\n"
+}

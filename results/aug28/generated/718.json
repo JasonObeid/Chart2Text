@@ -1,0 +1,74 @@
+{
+   "title": "Grocery market share in France 2008 to 2018",
+   "labels": [
+      "Year",
+      "\"Systeme A\"",
+      "Carrefour",
+      "Leclerc",
+      "Intermarche",
+      "Casino",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "Between 2018 and 2008 , the average Grocery market in the United Kingdom ( France ) increased to 19.5 % in 2008 . ",
+      "The France of those aged between the ages of people in the previous Year of 18 years old in both a France of positive change in 2008 compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "3": [
+            "0",
+            "0"
+         ],
+         "18": [
+            "2",
+            "2"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "26": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2008",
+         "\"Systeme A\"": "20.3",
+         "Carrefour": "22.9",
+         "Leclerc": "14.2",
+         "Intermarche": "15.2",
+         "Casino": "11.6",
+         "Other": "15.8"
+      },
+      {
+         "Year": "2013",
+         "\"Systeme A\"": "22.3",
+         "Carrefour": "19.9",
+         "Leclerc": "17.7",
+         "Intermarche": "13.6",
+         "Casino": "10.2",
+         "Other": "16.3"
+      },
+      {
+         "Year": "2018",
+         "\"Systeme A\"": "21.8",
+         "Carrefour": "19.5",
+         "Leclerc": "19.3",
+         "Intermarche": "15",
+         "Casino": "9.9",
+         "Other": "14.6"
+      }
+   ],
+   "gold": "This statistic shows the market share of grocery store brands in France for the years 2008 , 2013 and a forecast for 2018 . The leading three supermarkets based on market share in 2013 were `` Systeme A '' ( Auchan and System U partnership ) , Carrefour and Leclerc . Leclerc 's share of the market is forecast to increase again in 2018 , to 19.3 percent .\n"
+}

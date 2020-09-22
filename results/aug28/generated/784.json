@@ -1,0 +1,102 @@
+{
+   "title": "Average costs for a wedding in the United States in 2017 , by item",
+   "xAxis": "Category",
+   "yAxis": "Costs in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Costs of Average costs U.S. in the United States as of 2019 . ",
+      "During that period , it was found that Overall_Wedding_(with_ring accounted for over 33391 % of all dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Category": "Overall Wedding (with ring",
+         "Costs in U.S. dollars": "33391"
+      },
+      {
+         "Category": "Venue (reception hall)",
+         "Costs in U.S. dollars": "15163"
+      },
+      {
+         "Category": "Engagement ring",
+         "Costs in U.S. dollars": "5764"
+      },
+      {
+         "Category": "Reception band",
+         "Costs in U.S. dollars": "4019"
+      },
+      {
+         "Category": "Photographer",
+         "Costs in U.S. dollars": "2630"
+      },
+      {
+         "Category": "Florist/d\u00e9cor",
+         "Costs in U.S. dollars": "2379"
+      },
+      {
+         "Category": "Ceremony site",
+         "Costs in U.S. dollars": "2311"
+      },
+      {
+         "Category": "Wedding/event planner",
+         "Costs in U.S. dollars": "1988"
+      },
+      {
+         "Category": "Videographer",
+         "Costs in U.S. dollars": "1912"
+      },
+      {
+         "Category": "Wedding Dress",
+         "Costs in U.S. dollars": "1509"
+      },
+      {
+         "Category": "Rehearsal dinner",
+         "Costs in U.S. dollars": "1285"
+      },
+      {
+         "Category": "Reception DJ",
+         "Costs in U.S. dollars": "1231"
+      },
+      {
+         "Category": "Transportation",
+         "Costs in U.S. dollars": "830"
+      },
+      {
+         "Category": "Ceremony musicians",
+         "Costs in U.S. dollars": "761"
+      },
+      {
+         "Category": "Wedding cake",
+         "Costs in U.S. dollars": "540"
+      },
+      {
+         "Category": "Invitations",
+         "Costs in U.S. dollars": "408"
+      },
+      {
+         "Category": "Groom\u2019s attire and accessories",
+         "Costs in U.S. dollars": "286"
+      },
+      {
+         "Category": "Officiant",
+         "Costs in U.S. dollars": "284"
+      },
+      {
+         "Category": "Favors",
+         "Costs in U.S. dollars": "252"
+      },
+      {
+         "Category": "Catering (price per person)",
+         "Costs in U.S. dollars": "70"
+      }
+   ],
+   "gold": "This statistic shows the average costs for selected wedding items in the United States as of 2017 , sorted by item . According to the source , average costs for a wedding in the United States amounted to about 33,391 U.S. dollars in 2017 .\n"
+}

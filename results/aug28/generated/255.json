@@ -1,0 +1,117 @@
+{
+   "title": "Population in China 2008 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic provides information on the Population of the by of 2018 , from 2008 to 2018 , sorted gender . ",
+      "As of 2018 , it was found that 713.51 % of the by of 2018 . ",
+      "As of 2018 , it is 681.87 % of that 681.87 % of by that Year ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "10",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "8": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Male": "713.51",
+         "Female": "681.87"
+      },
+      {
+         "Year": "2017",
+         "Male": "711.37",
+         "Female": "678.71"
+      },
+      {
+         "Year": "2016",
+         "Male": "708.15",
+         "Female": "674.56"
+      },
+      {
+         "Year": "2015",
+         "Male": "704.14",
+         "Female": "670.48"
+      },
+      {
+         "Year": "2014",
+         "Male": "700.79",
+         "Female": "667.03"
+      },
+      {
+         "Year": "2013",
+         "Male": "697.28",
+         "Female": "663.44"
+      },
+      {
+         "Year": "2012",
+         "Male": "693.95",
+         "Female": "660.09"
+      },
+      {
+         "Year": "2011",
+         "Male": "690.68",
+         "Female": "656.67"
+      },
+      {
+         "Year": "2010",
+         "Male": "687.48",
+         "Female": "653.43"
+      },
+      {
+         "Year": "2009",
+         "Male": "686.47",
+         "Female": "648.03"
+      },
+      {
+         "Year": "2008",
+         "Male": "683.57",
+         "Female": "644.45"
+      }
+   ],
+   "gold": "In 2018 , there were around 713 million male inhabitants and 682 million female inhabitants living in China , amounting to nearly 1.4 billion people in total . The population of the world 's most populous country remains growing , but growth has been slowing down and the total population size is forecast to peak around the end of the 2020s . Birth control in China From the beginning of the 1970s on , having many children was no longer encouraged in mainland China .\n"
+}

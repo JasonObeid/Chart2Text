@@ -1,0 +1,72 @@
+{
+   "title": "IT services : Major vendors , by revenue per employee",
+   "xAxis": "It Services Vendor",
+   "yAxis": "Revenue per employee in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey among the services employees in the United Kingdom ( Major ) from TCS to IBM . ",
+      "The services of employee U.S. at IBM , however with a day of 120911 % U.S. ."
+   ],
+   "trends": [
+      {
+         "20": "11",
+         "22": "0"
+      },
+      {
+         "6": "0"
+      }
+   ],
+   "data": [
+      {
+         "It Services Vendor": "IBM",
+         "Revenue per employee in U.S. dollars": "289474"
+      },
+      {
+         "It Services Vendor": "ACN",
+         "Revenue per employee in U.S. dollars": "185784"
+      },
+      {
+         "It Services Vendor": "Dell",
+         "Revenue per employee in U.S. dollars": "177953"
+      },
+      {
+         "It Services Vendor": "CSC",
+         "Revenue per employee in U.S. dollars": "171628"
+      },
+      {
+         "It Services Vendor": "HP",
+         "Revenue per employee in U.S. dollars": "165205"
+      },
+      {
+         "It Services Vendor": "Atos Origin",
+         "Revenue per employee in U.S. dollars": "136838"
+      },
+      {
+         "It Services Vendor": "XRX/ACS",
+         "Revenue per employee in U.S. dollars": "130230"
+      },
+      {
+         "It Services Vendor": "Capgemini",
+         "Revenue per employee in U.S. dollars": "120911"
+      },
+      {
+         "It Services Vendor": "Wipro",
+         "Revenue per employee in U.S. dollars": "54702"
+      },
+      {
+         "It Services Vendor": "INFY",
+         "Revenue per employee in U.S. dollars": "43946"
+      },
+      {
+         "It Services Vendor": "CTSH",
+         "Revenue per employee in U.S. dollars": "41485"
+      },
+      {
+         "It Services Vendor": "TCS",
+         "Revenue per employee in U.S. dollars": "36350"
+      }
+   ],
+   "gold": "The ranking shows the revenue per employee of major IT services vendors worldwide . As an example , Wipro had a revenue per employee of 54,702 U.S. dollars .\n"
+}

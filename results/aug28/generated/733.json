@@ -1,0 +1,46 @@
+{
+   "title": "France : public debt 2017 to 2022",
+   "xAxis": "Year",
+   "yAxis": "Share of GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2022 , the GDP of the gross domestic product ( Share ) of France stood at around 91.4 % . ",
+      "This is a slight increase from the previous Year , and in the country 's Share of the GDP were on the rise ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "18": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2022",
+         "Share of GDP": "91.4"
+      },
+      {
+         "Year": "2021",
+         "Share of GDP": "94.2"
+      },
+      {
+         "Year": "2020",
+         "Share of GDP": "96.1"
+      },
+      {
+         "Year": "2019",
+         "Share of GDP": "97.1"
+      },
+      {
+         "Year": "2018",
+         "Share of GDP": "96.8"
+      },
+      {
+         "Year": "2017",
+         "Share of GDP": "96.8"
+      }
+   ],
+   "gold": "In 2018 , public debt in France represented 96.8 percent of the country 's GDP . According to the source , public debt in France is supposed to decrease in the upcoming years , while staying at a high level . The French Ministry of Economy has stated that the French public debt will normally reach 91.4 percent in 2022 , compared to 96.8 percent in 2017 .\n"
+}

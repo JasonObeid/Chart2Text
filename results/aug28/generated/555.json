@@ -1,0 +1,64 @@
+{
+   "title": "Inbound tourism in Qatar from 2013 to 2022",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Qatar arrivals at from establishments in Qatar have been steadily increasing each Year since the start of the decade . ",
+      "In 2022 , a record 3.7 millions tourists ( including residents and non-residents ) arrived at from in Qatar . ",
+      "Tourism in Qatar line with trends across Europe , tourism in Qatar has experienced a boost in the last ten years ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "9",
+         "5": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Number of arrivals in millions": "1.0"
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in millions": "1.2"
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in millions": "1.4"
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in millions": "1.6"
+      },
+      {
+         "Year": "2017",
+         "Number of arrivals in millions": "1.8"
+      },
+      {
+         "Year": "2018",
+         "Number of arrivals in millions": "2.1"
+      },
+      {
+         "Year": "2019",
+         "Number of arrivals in millions": "2.4"
+      },
+      {
+         "Year": "2020",
+         "Number of arrivals in millions": "2.8"
+      },
+      {
+         "Year": "2021",
+         "Number of arrivals in millions": "3.2"
+      },
+      {
+         "Year": "2022",
+         "Number of arrivals in millions": "3.7"
+      }
+   ],
+   "gold": "This statistic shows inbound tourism in Qatar from 2013 to 2022 . In 2013 , the number of inbound tourists in Qatar was one million . This figure was forecasted to increase to 3.7 million by 2022 .\n"
+}

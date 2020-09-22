@@ -1,0 +1,97 @@
+{
+   "title": "Number of connected wearable devices worldwide by region 2015 to 2022",
+   "labels": [
+      "Year",
+      "Asia Pacific",
+      "Central and Eastern Europe",
+      "Latin America",
+      "Middle East and Africa",
+      "North America",
+      "Western Europe"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic gives information on the Number connected wearable devices from 2015 to 2022 , sorted by region . ",
+      "In 2021 , the Number connected wearable of online wearable in Middle amounted to about 49.0 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "11": [
+            "5",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "15": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2022",
+         "Asia Pacific": "311.0",
+         "Central and Eastern Europe": "68.0",
+         "Latin America": "49.0",
+         "Middle East and Africa": "46.0",
+         "North America": "439.0",
+         "Western Europe": "192.0"
+      },
+      {
+         "Year": "2021",
+         "Asia Pacific": "258.2",
+         "Central and Eastern Europe": "55.6",
+         "Latin America": "39.0",
+         "Middle East and Africa": "37.5",
+         "North America": "378.8",
+         "Western Europe": "159.7"
+      },
+      {
+         "Year": "2020",
+         "Asia Pacific": "194.67",
+         "Central and Eastern Europe": "45.85",
+         "Latin America": "26.08",
+         "Middle East and Africa": "25.42",
+         "North America": "180.96",
+         "Western Europe": "127.64"
+      },
+      {
+         "Year": "2017",
+         "Asia Pacific": "155.0",
+         "Central and Eastern Europe": "28.0",
+         "Latin America": "18.0",
+         "Middle East and Africa": "21.0",
+         "North America": "217.0",
+         "Western Europe": "88.0"
+      },
+      {
+         "Year": "2016",
+         "Asia Pacific": "99.8",
+         "Central and Eastern Europe": "17.5",
+         "Latin America": "12.6",
+         "Middle East and Africa": "14.0",
+         "North America": "127.1",
+         "Western Europe": "54.3"
+      },
+      {
+         "Year": "2015",
+         "Asia Pacific": "30.4",
+         "Central and Eastern Europe": "5.0",
+         "Latin America": "1.83",
+         "Middle East and Africa": "4.09",
+         "North America": "38.65",
+         "Western Europe": "16.75"
+      }
+   ],
+   "gold": "North America is forecast to be the region with the most 5G connections made using wearable devices in 2022 . The 439 million connections in North America would be 222 million more than those made to 4G networks in 2017 . Wearables used in North America and Asia Pacific are together forecast to account for around 70 percent of the wearable 5G connections worldwide in 2022 .\n"
+}

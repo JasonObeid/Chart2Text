@@ -1,0 +1,70 @@
+{
+   "title": "World nuclear power consumption by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of nuclear power consumption",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the World of the nuclear power consumption by in 2018 . ",
+      "In that year , the United_States had the highest Share nuclear of 31.4 power consumption ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of nuclear power consumption": "31.4"
+      },
+      {
+         "Country": "France",
+         "Share of nuclear power consumption": "15.3"
+      },
+      {
+         "Country": "China",
+         "Share of nuclear power consumption": "10.9"
+      },
+      {
+         "Country": "Russian Federation",
+         "Share of nuclear power consumption": "7.6"
+      },
+      {
+         "Country": "South Korea",
+         "Share of nuclear power consumption": "4.9"
+      },
+      {
+         "Country": "Canada",
+         "Share of nuclear power consumption": "3.7"
+      },
+      {
+         "Country": "Ukraine",
+         "Share of nuclear power consumption": "3.1"
+      },
+      {
+         "Country": "Germany",
+         "Share of nuclear power consumption": "2.8"
+      },
+      {
+         "Country": "UK",
+         "Share of nuclear power consumption": "2.4"
+      },
+      {
+         "Country": "Sweden",
+         "Share of nuclear power consumption": "2.5"
+      },
+      {
+         "Country": "Spain",
+         "Share of nuclear power consumption": "2.1"
+      },
+      {
+         "Country": "Japan",
+         "Share of nuclear power consumption": "1.8"
+      }
+   ],
+   "gold": "This statistic represents the percentage of world nuclear power consumption in 2018 , by country . That year , the United States accounted for more than one third of the total nuclear power consumption worldwide .\n"
+}

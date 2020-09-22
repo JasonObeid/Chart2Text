@@ -1,0 +1,33 @@
+{
+   "title": "Global revenue of Birkenstock 2012 to 2013",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the euros Revenue of the revenue Birkenstock Global in the Birkenstock from 2012 to 2013 . ",
+      "According to the source , the euros Revenue for the revenue Birkenstock is expected to increase by 14109.4 million euros in 2013 ."
+   ],
+   "trends": [
+      {
+         "15": "1",
+         "17": "0"
+      },
+      {
+         "17": "1",
+         "22": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Revenue in million euros": "14525.69"
+      },
+      {
+         "Year": "2012",
+         "Revenue in million euros": "14109.4"
+      }
+   ],
+   "gold": "Between 2012 and 2013 the global revenue of Birkenstock & Co. increased from 14.11 billion euros to 14.53 billion euros . Birkenstock & Co. Birkenstock & Co. is a shoe manufacturer founded and based in Germany which is known for producing comfortable and high-quality sandals for men , women , and children . Their product line also includes sneakers , boots , and clogs .\n"
+}

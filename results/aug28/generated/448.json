@@ -1,0 +1,90 @@
+{
+   "title": "Political stability - countries",
+   "xAxis": "Country",
+   "yAxis": "Index Value",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the 20 Political stability the countries in . ",
+      "In , the Australia had the highest Index Value of a Value of 3.9 Value ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "14": "13"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Australia",
+         "Index Value": "3.6"
+      },
+      {
+         "Country": "Austria",
+         "Index Value": "3.6"
+      },
+      {
+         "Country": "Canada",
+         "Index Value": "2.8"
+      },
+      {
+         "Country": "Costa Rica",
+         "Index Value": "3.5"
+      },
+      {
+         "Country": "Czech Republic",
+         "Index Value": "3.7"
+      },
+      {
+         "Country": "Denmark",
+         "Index Value": "2.2"
+      },
+      {
+         "Country": "Finland",
+         "Index Value": "3.2"
+      },
+      {
+         "Country": "Germany",
+         "Index Value": "3.8"
+      },
+      {
+         "Country": "Japan",
+         "Index Value": "3.8"
+      },
+      {
+         "Country": "Luxembourg",
+         "Index Value": "3.6"
+      },
+      {
+         "Country": "Mauritius",
+         "Index Value": "3.5"
+      },
+      {
+         "Country": "New Zealand",
+         "Index Value": "3.6"
+      },
+      {
+         "Country": "Norway",
+         "Index Value": "1.2"
+      },
+      {
+         "Country": "Oman",
+         "Index Value": "3.9"
+      },
+      {
+         "Country": "Slovenia",
+         "Index Value": "3.8"
+      },
+      {
+         "Country": "Sweden",
+         "Index Value": "3.2"
+      },
+      {
+         "Country": "Switzerland",
+         "Index Value": "3.4"
+      }
+   ],
+   "gold": "The statistic shows countries with the highest political stability in the period 2009/2010 . With an index value of 1.2 , Norway was the country with the world 's highest political stability in 2009/2010 .\n"
+}

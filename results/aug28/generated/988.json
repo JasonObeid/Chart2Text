@@ -1,0 +1,57 @@
+{
+   "title": "Branch numbers of Banco Santander globally 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of branches",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the Number of branches the Banco Santander worldwide from 2012 to 2019 . ",
+      "As of the most recently reported period , the Number of the Banco Santander was 14392 11952 branches ."
+   ],
+   "trends": [
+      {
+         "12": "7",
+         "14": "0"
+      },
+      {
+         "14": "7",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of branches": "11952"
+      },
+      {
+         "Year": "2018",
+         "Number of branches": "13217"
+      },
+      {
+         "Year": "2017",
+         "Number of branches": "13697"
+      },
+      {
+         "Year": "2016",
+         "Number of branches": "12235"
+      },
+      {
+         "Year": "2015",
+         "Number of branches": "13030"
+      },
+      {
+         "Year": "2014",
+         "Number of branches": "12951"
+      },
+      {
+         "Year": "2013",
+         "Number of branches": "13781"
+      },
+      {
+         "Year": "2012",
+         "Number of branches": "14392"
+      }
+   ],
+   "gold": "The number of bank branches for the Banco Santander Group decreased with some fluctuation globally between 2012 and 2019 . The Spanish bank employs approximately 196 thousand staff and has a customer base that grew by one million between 2018 and 2019 . As of the end of 2019 , the number of Banco Santander branches in Spain fell by more than one thousand .\n"
+}

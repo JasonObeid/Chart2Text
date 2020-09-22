@@ -1,0 +1,70 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Singapore 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the growth in real GDP in Singapore from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Singapore 's real Gross domestic product increased by around 3.14 % compared to the previous Year ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "6",
+         "19": "0"
+      },
+      {
+         "1": "6",
+         "12": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": "2.5"
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": "2.35"
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": "2.22"
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": "1.57"
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": "0.99"
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": "0.55"
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": "3.14"
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": "3.7"
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": "2.96"
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": "2.89"
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": "3.9"
+      }
+   ],
+   "gold": "Singapore posted a gross domestic product ( GDP ) growth rate of 3.7 percent in 2017 , after adjusting for inflation . While up from the previous two years , this number is expected to decline in 2018 , settling around 3.14 percent . What is GDP ? GDP is a measure of a country 's income , and most economists agree that slow but steady GDP growth is best for a developed economy .\n"
+}

@@ -1,0 +1,51 @@
+{
+   "title": "Luxury goods market worldwide by segment share in 2007 and 2012",
+   "labels": [
+      "Race",
+      "2007",
+      "2012"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the percentage of goods in the Luxury and market worldwide by segment in 2007 and 2012 . ",
+      "During the survey period , it was found that 44.3 % of 2007 ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Race": "Fashion / Apparel",
+         "2007": "44.3",
+         "2012": "41.9"
+      },
+      {
+         "Race": "Perfume & Cosmetics",
+         "2007": "18.4",
+         "2012": "17.7"
+      },
+      {
+         "Race": "Watches & Jewelry",
+         "2007": "16.2",
+         "2012": "18.2"
+      },
+      {
+         "Race": "Accessories",
+         "2007": "11.1",
+         "2012": "12.1"
+      },
+      {
+         "Race": "Other",
+         "2007": "10",
+         "2012": "10.1"
+      }
+   ],
+   "gold": "The statistic shows the luxury goods market worldwide in 2007 and 2012 , by segment share . Watches and jewelry had a share of 16.2 percent in the global luxury goods market in 2007 . This segment is estimated to increase to 18.2 percent by 2012 .\n"
+}

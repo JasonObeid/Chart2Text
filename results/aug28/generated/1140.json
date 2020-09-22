@@ -1,0 +1,62 @@
+{
+   "title": "U.S. consumer perception of Amazon as a company 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the distribution of U.S. consumer users in the company as of 2019 . ",
+      "During the survey , 67 % of the respondents stated that they used I_like_using_Amazon on the social network ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "I like using Amazon",
+         "Share of respondents": "67"
+      },
+      {
+         "Response": "With Amazon I get what I need",
+         "Share of respondents": "57"
+      },
+      {
+         "Response": "I trust Amazon with my payment information",
+         "Share of respondents": "53"
+      },
+      {
+         "Response": "Amazon takes the interests of its customers seriously",
+         "Share of respondents": "38"
+      },
+      {
+         "Response": "Amazon assumes a pioneering role in this day and age",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "Amazon is an integral part of my life",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "Amazon respects my privacy",
+         "Share of respondents": "32"
+      },
+      {
+         "Response": "I would like to see more products and services from Amazon",
+         "Share of respondents": "27"
+      },
+      {
+         "Response": "There are no alternatives to Amazon",
+         "Share of respondents": "18"
+      },
+      {
+         "Response": "None of the above",
+         "Share of respondents": "12"
+      }
+   ],
+   "gold": "The statistic shows U.S. consumer opinions on Amazon in general as of March 2017 . As of the Statista survey , 67 percent of survey respondents stated that they liked using Amazon . A third of respondents also stated that Amazon was an integral part of their life .\n"
+}

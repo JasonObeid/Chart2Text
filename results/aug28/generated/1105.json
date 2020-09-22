@@ -1,0 +1,109 @@
+{
+   "title": "Unemployment rate in Fiji 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Unemployment rate in Fiji from 1999 to 2019 . ",
+      "In 2019 , the Unemployment rate in Fiji was at approximately 4.15 % ."
+   ],
+   "trends": [
+      {
+         "9": "20",
+         "11": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": "4.15"
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": "4.15"
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": "4.14"
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": "4.32"
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": "4.55"
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": "4.53"
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": "4.36"
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": "4.52"
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": "4.41"
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": "4.35"
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": "4.16"
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": "3.62"
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": "3.76"
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": "3.83"
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": "3.89"
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": "4.06"
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": "4.07"
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": "4.16"
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": "4.15"
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": "4.15"
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": "4.12"
+      }
+   ],
+   "gold": "This statistic shows the unemployment rate in Fiji from 1999 to 2019 . In 2019 , the unemployment rate in Fiji was at approximately 4.15 percent .\n"
+}

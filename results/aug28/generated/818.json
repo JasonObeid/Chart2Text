@@ -1,0 +1,125 @@
+{
+   "title": "Average retail price for regular , unleaded gasoline in Canada 2015 to 2019",
+   "labels": [
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the Average retail price for regular unleaded in Canada from 2015 to 2019 . ",
+      "In 2019 , the Average retail price for regular unleaded in Canada was 114.5 Canadian dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": [
+            "0",
+            "5"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Month": "Dec",
+         "2015": "99.1",
+         "2016": "104.9",
+         "2017": "116.9",
+         "2018": "106.4",
+         "2019": "114.5"
+      },
+      {
+         "Month": "Nov",
+         "2015": "103.7",
+         "2016": "101.0",
+         "2017": "120.8",
+         "2018": "113.8",
+         "2019": "115.0"
+      },
+      {
+         "Month": "Oct",
+         "2015": "103.9",
+         "2016": "106.7",
+         "2017": "112.4",
+         "2018": "125.9",
+         "2019": "117.2"
+      },
+      {
+         "Month": "Sep",
+         "2015": "105.8",
+         "2016": "102.8",
+         "2017": "116.0",
+         "2018": "130.4",
+         "2019": "116.9"
+      },
+      {
+         "Month": "Aug",
+         "2015": "115.0",
+         "2016": "101.9",
+         "2017": "109.7",
+         "2018": "131.8",
+         "2019": "117.9"
+      },
+      {
+         "Month": "Jul",
+         "2015": "119.1",
+         "2016": "102.1",
+         "2017": "107.0",
+         "2018": "133.9",
+         "2019": "124.4"
+      },
+      {
+         "Month": "Jun",
+         "2015": "118.8",
+         "2016": "108.6",
+         "2017": "106.5",
+         "2018": "132.9",
+         "2019": "119.9"
+      },
+      {
+         "Month": "May",
+         "2015": "112.4",
+         "2016": "104.1",
+         "2017": "110.9",
+         "2018": "135.9",
+         "2019": "130.7"
+      },
+      {
+         "Month": "Apr",
+         "2015": "106.0",
+         "2016": "100.0",
+         "2017": "116.1",
+         "2018": "131.6",
+         "2019": "129.5"
+      },
+      {
+         "Month": "Mar",
+         "2015": "106.4",
+         "2016": "91.9",
+         "2017": "106.0",
+         "2018": "123.1",
+         "2019": "117.7"
+      },
+      {
+         "Month": "Feb",
+         "2015": "100.2",
+         "2016": "86.7",
+         "2017": "106.5",
+         "2018": "119.7",
+         "2019": "105.1"
+      },
+      {
+         "Month": "Jan",
+         "2015": "90.6",
+         "2016": "92.6",
+         "2017": "112.2",
+         "2018": "120.6",
+         "2019": "103.1"
+      }
+   ],
+   "gold": "The average retail price for regular , unleaded gasoline at self-service stations in Canada was 114.5 Canadian cents per liter in December 2019 . Prices hitt a high of 1.3 dollars per liter in May 2019 . The average price in 2018 was around 1.26 dollars per liter , a substantial increase from an average of 1.07 dollars in 2015 .\n"
+}

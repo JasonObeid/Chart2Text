@@ -1,0 +1,102 @@
+{
+   "title": "Government revenue and spending in Greece 2024",
+   "labels": [
+      "Year",
+      "Revenue",
+      "Spending"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Government revenue and spending in the Greece from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , Government revenue in the Greece amounted to around 88.06 million euros , while Government spending came to around 86.29 million euros ."
+   ],
+   "trends": [
+      {
+         "12": [
+            "10",
+            "0"
+         ],
+         "14": [
+            "6",
+            "0"
+         ],
+         "20": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "0"
+         ],
+         "11": [
+            "6",
+            "1"
+         ],
+         "21": [
+            "6",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Revenue": "96.93",
+         "Spending": "100.51"
+      },
+      {
+         "Year": "2023",
+         "Revenue": "96.14",
+         "Spending": "99.12"
+      },
+      {
+         "Year": "2022",
+         "Revenue": "94.39",
+         "Spending": "96.81"
+      },
+      {
+         "Year": "2021",
+         "Revenue": "92.87",
+         "Spending": "95.05"
+      },
+      {
+         "Year": "2020",
+         "Revenue": "91.31",
+         "Spending": "93.27"
+      },
+      {
+         "Year": "2019",
+         "Revenue": "90.66",
+         "Spending": "91.25"
+      },
+      {
+         "Year": "2018",
+         "Revenue": "88.06",
+         "Spending": "86.29"
+      },
+      {
+         "Year": "2017",
+         "Revenue": "87.14",
+         "Spending": "85.23"
+      },
+      {
+         "Year": "2016",
+         "Revenue": "87.28",
+         "Spending": "86.3"
+      },
+      {
+         "Year": "2015",
+         "Revenue": "84.77",
+         "Spending": "89.68"
+      },
+      {
+         "Year": "2014",
+         "Revenue": "82.39",
+         "Spending": "89.67"
+      }
+   ],
+   "gold": "This statistic shows the government revenue and spending in Greece from 2014 to 2018 , with projections up until 2024 . In 2018 , the government revenue in Greece amounted to around 88.06 billion euros , while government spending came to around 86.29 billion euros .\n"
+}

@@ -1,0 +1,114 @@
+{
+   "title": "Distribution of the workforce across economic sectors in China 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic shows the distribution of in China workforce across economic from 2008 to 2018 . ",
+      "In 2018 , 26.1 % of the employees in China were active in the agricultural economic , 27.6 % in Industry and 46.3 % in the service economic ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "10",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "17": [
+            "0",
+            "2"
+         ],
+         "22": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "26.1",
+         "Industry": "27.6",
+         "Services": "46.3"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "27",
+         "Industry": "28.1",
+         "Services": "44.9"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "27.7",
+         "Industry": "28.8",
+         "Services": "43.5"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "28.3",
+         "Industry": "29.3",
+         "Services": "42.4"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "29.5",
+         "Industry": "29.9",
+         "Services": "40.6"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "31.4",
+         "Industry": "30.1",
+         "Services": "38.5"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "33.6",
+         "Industry": "30.3",
+         "Services": "36.1"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "34.8",
+         "Industry": "29.5",
+         "Services": "35.7"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "36.7",
+         "Industry": "28.7",
+         "Services": "34.6"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "38.1",
+         "Industry": "27.8",
+         "Services": "34.1"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "39.6",
+         "Industry": "27.2",
+         "Services": "33.2"
+      }
+   ],
+   "gold": "The statistic shows the distribution of the workforce across economic sectors in China from 2008 to 2018 . In 2018 , 26.1 percent of the workforce were employed in agriculture , 27.6 percent in industry and 46.3 percent in services . Distribution of workforce in China \u2013 additional information In 2012 , China was the largest exporting country worldwide with an export value of about two trillion U.S. dollars .\n"
+}

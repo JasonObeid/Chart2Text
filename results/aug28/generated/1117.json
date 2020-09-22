@@ -1,0 +1,55 @@
+{
+   "title": "Construction cost per kilometer of high-speed line in France 2014",
+   "xAxis": "High-speed Line",
+   "yAxis": "Construction cost per kilometer in millions of euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic illustrates the Construction cost of the kilometer of high-speed line in 2014 , Line . ",
+      "It was found that the average Construction cost of students at LGV_Paris-Lyon LGV_Mediterranean , at 19.7 millions kilometer ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "12": "7",
+         "15": "7"
+      }
+   ],
+   "data": [
+      {
+         "High-speed Line": "LGV Paris-Lyon",
+         "Construction cost per kilometer in millions of euros": "5.5"
+      },
+      {
+         "High-speed Line": "LGV Atlantic",
+         "Construction cost per kilometer in millions of euros": "10.4"
+      },
+      {
+         "High-speed Line": "LGV North",
+         "Construction cost per kilometer in millions of euros": "10.8"
+      },
+      {
+         "High-speed Line": "LGV Rh\u00f4ne-Alpes",
+         "Construction cost per kilometer in millions of euros": "13.4"
+      },
+      {
+         "High-speed Line": "North-South interconnection",
+         "Construction cost per kilometer in millions of euros": "15.5"
+      },
+      {
+         "High-speed Line": "LGV East",
+         "Construction cost per kilometer in millions of euros": "15.7"
+      },
+      {
+         "High-speed Line": "LGV Rhine-Rhone",
+         "Construction cost per kilometer in millions of euros": "17.5"
+      },
+      {
+         "High-speed Line": "LGV Mediterranean",
+         "Construction cost per kilometer in millions of euros": "19.7"
+      }
+   ],
+   "gold": "Here is a statistic about the construction cost per kilometer of high-speed lines ( HSL ) in France in 2014 ( in millions of euros ) . It shows that the construction of the Mediterranean high-speed line , which links the Provence-Alpes-C\u00f4te d'Azur and Languedoc-Roussillon regions , cost around 20 million euros per kilometer .\n"
+}

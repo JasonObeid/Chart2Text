@@ -1,0 +1,40 @@
+{
+   "title": "Number of assaults by weapon U.S. 2018",
+   "xAxis": "Weapon used",
+   "yAxis": "Number of assaults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , it was found that over 223997 % of assaults U.S. 2018 users in U.S.",
+      "Firearm was the second largest Number that year , with a Number of 185437 % assaults ."
+   ],
+   "trends": [
+      {
+         "9": "0"
+      },
+      {
+         "0": "1",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Weapon used": "Other weapon",
+         "Number of assaults": "223997"
+      },
+      {
+         "Weapon used": "Firearm",
+         "Number of assaults": "185437"
+      },
+      {
+         "Weapon used": "Personal weapons",
+         "Number of assaults": "179008"
+      },
+      {
+         "Weapon used": "Knife or cutting instrument",
+         "Number of assaults": "123253"
+      }
+   ],
+   "gold": "In 2018 , there were 185,437 aggravated assaults where firearms were used . In comparison , there were 123,253 aggravated assaults where knives or other cutting instruments were used . What are firearms ? Firearms are portable weapons used to shoot bullets .\n"
+}

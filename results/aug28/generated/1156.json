@@ -1,0 +1,44 @@
+{
+   "title": "Forecast Google Glass unit sales 2014 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "In 2018 , the sales for smartwatches are expected to reach around 21.15 millions units unit , nearly doubling the sales total millions . ",
+      "Apple produces one of the most popular devices in the world , the Apple Watch , which gives the company one of the highest market shares among all Forecast Google Glass manufacturers . ",
+      "Wearables The wearable electronic device subsector of the broader consumer electronics industry consists of everything from fitness trackers , to smart watches , to smart fabrics ."
+   ],
+   "trends": [
+      {
+         "1": "0",
+         "12": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Unit sales in millions": "21.15"
+      },
+      {
+         "Year": "2017",
+         "Unit sales in millions": "10.62"
+      },
+      {
+         "Year": "2016",
+         "Unit sales in millions": "3.74"
+      },
+      {
+         "Year": "2015",
+         "Unit sales in millions": "2.47"
+      },
+      {
+         "Year": "2014",
+         "Unit sales in millions": "0.83"
+      }
+   ],
+   "gold": "Here you can see a forecast for the sale of Google Glasses from 2014 to 2018 . The source predicts that Google 's product will sell well and that by 2018 will sell more than 21 million units .\n"
+}

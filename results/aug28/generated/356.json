@@ -1,0 +1,58 @@
+{
+   "title": "Maximum discipline for selected player offenses in the NFL 2011/2012",
+   "xAxis": "Fine Types",
+   "yAxis": "Maximum fine (in U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic gives information on the Maximum discipline for U.S. player in NFL , 2011/2012 . ",
+      "According to the source , Unexcused_late_reporting_foror_absence_from_preseason_training was ranked first with over 30000 million U.S. dollars) of people U.S. dollars) in ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Fine Types": "Unexcused late reporting foror absence from preseason training",
+         "Maximum fine (in U.S. dollars)": "30000"
+      },
+      {
+         "Fine Types": "Ejection from game",
+         "Maximum fine (in U.S. dollars)": "25000"
+      },
+      {
+         "Fine Types": "Unexcused missed team transportation",
+         "Maximum fine (in U.S. dollars)": "9440"
+      },
+      {
+         "Fine Types": "Loss of playbook scouting reportor game plan",
+         "Maximum fine (in U.S. dollars)": "9440"
+      },
+      {
+         "Fine Types": "Throwing football into stands",
+         "Maximum fine (in U.S. dollars)": "1770"
+      },
+      {
+         "Fine Types": "Losing damaging or alteringClub-provided equipment",
+         "Maximum fine (in U.S. dollars)": "1770"
+      },
+      {
+         "Fine Types": "Failure to promptly report injury",
+         "Maximum fine (in U.S. dollars)": "1770"
+      },
+      {
+         "Fine Types": "Unexcused late reportingfor team activity",
+         "Maximum fine (in U.S. dollars)": "1770"
+      },
+      {
+         "Fine Types": "Being overweight (per lb.)",
+         "Maximum fine (in U.S. dollars)": "470"
+      }
+   ],
+   "gold": "This graph depicts the maximum amount a NFL player can be fined for selected offenses in the 2011/2012 season . Throwing a football into the stands can be amerced with a maximum fine of 1,770 U.S. dollars .\n"
+}

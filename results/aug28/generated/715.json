@@ -1,0 +1,57 @@
+{
+   "title": "Qdoba company-owned restaurant sales from 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the U.S. Sales of the from 2011 to 2018 . ",
+      "In 2016 , the U.S. Sales of the Qdoba amounted to 415.5 million U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "10": "7",
+         "12": "0"
+      },
+      {
+         "1": "2",
+         "11": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in million U.S. dollars": "192.62"
+      },
+      {
+         "Year": "2017",
+         "Sales in million U.S. dollars": "436.56"
+      },
+      {
+         "Year": "2016",
+         "Sales in million U.S. dollars": "415.5"
+      },
+      {
+         "Year": "2015",
+         "Sales in million U.S. dollars": "374.34"
+      },
+      {
+         "Year": "2014",
+         "Sales in million U.S. dollars": "338.45"
+      },
+      {
+         "Year": "2013",
+         "Sales in million U.S. dollars": "293.27"
+      },
+      {
+         "Year": "2012",
+         "Sales in million U.S. dollars": "239.49"
+      },
+      {
+         "Year": "2011",
+         "Sales in million U.S. dollars": "168.8"
+      }
+   ],
+   "gold": "This statistic shows the sales made by Qdoba company-owned restaurants from 2011 to 2018 . Qdoba , owned by Jack in the Box Inc. , generated restaurant sales of approximately 192.62 million U.S. dollars in 2018 .\n"
+}

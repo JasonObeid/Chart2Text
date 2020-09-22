@@ -1,0 +1,51 @@
+{
+   "title": "Cost of a liver transplant on the National Health Service in the United Kingdom 2015",
+   "xAxis": "Cost in British pounds",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "According to a 2015 survey , it was found that 21 % of respondents felt that Less_than_760 a quarter United Kingdom Less_than_760 or liver transplant in the National Health Service . ",
+      "A further 17 % of respondents claimed that they used 760-2300 on a 760-2300 basis ."
+   ],
+   "trends": [
+      {
+         "10": "3",
+         "16": "0",
+         "20": "0"
+      },
+      {
+         "2": "1",
+         "10": "1",
+         "13": "1"
+      }
+   ],
+   "data": [
+      {
+         "Cost in British pounds": "Less than 760",
+         "Share of respondents": "17"
+      },
+      {
+         "Cost in British pounds": "760-2300",
+         "Share of respondents": "17"
+      },
+      {
+         "Cost in British pounds": "2300-5000",
+         "Share of respondents": "9"
+      },
+      {
+         "Cost in British pounds": "5000-10000",
+         "Share of respondents": "21"
+      },
+      {
+         "Cost in British pounds": "10000-20000",
+         "Share of respondents": "19"
+      },
+      {
+         "Cost in British pounds": "More than 20000",
+         "Share of respondents": "18"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey asking individuals in the United Kingdom how much they think the unit cost is to have a liver transplant on the NHS in 2015 . The average cost of a liver transplant is estimated to be 12,279 British pounds . The majority of respondents , 64 percent , predicted the cost to be less than ten thousand British pounds .\n"
+}

@@ -1,0 +1,79 @@
+{
+   "title": "Hanjin Shipping - number of TEUs 2016",
+   "labels": [
+      "Month",
+      "Owned",
+      "Chartered",
+      "Orderbook"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic gives information on the Shipping TEUs Shipping number 2016 as of 2019 , sorted 2016 . ",
+      "According to the survey , it was found that 292311 % of respondents stated that 318250 % of people living ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Month": "September 7 2016",
+         "Owned": "292311",
+         "Chartered": "318250",
+         "Orderbook": "30400"
+      },
+      {
+         "Month": "August 15 2016",
+         "Owned": "292311",
+         "Chartered": "318843",
+         "Orderbook": "30400"
+      },
+      {
+         "Month": "July 12 2016",
+         "Owned": "274078",
+         "Chartered": "342284",
+         "Orderbook": "0"
+      },
+      {
+         "Month": "June 13 2016",
+         "Owned": "274078",
+         "Chartered": "351338",
+         "Orderbook": "0"
+      },
+      {
+         "Month": "May 18 2016",
+         "Owned": "274078",
+         "Chartered": "339733",
+         "Orderbook": "9030"
+      },
+      {
+         "Month": "April 20 2016",
+         "Owned": "274078",
+         "Chartered": "339315",
+         "Orderbook": "9030"
+      },
+      {
+         "Month": "March 21 2016",
+         "Owned": "274078",
+         "Chartered": "347165",
+         "Orderbook": "9030"
+      },
+      {
+         "Month": "February 9 2016",
+         "Owned": "274078",
+         "Chartered": "346692",
+         "Orderbook": "18060"
+      }
+   ],
+   "gold": "The statistic shows Hanjin Shipping 's number of twenty-foot equivalent units between February 9 and September 7 , 2016 . Hanjin Shipping owned ships with a capacity of around 274,000 TEUs in May 2016 . The abbreviation TEU stands for twenty-foot equivalent units .\n"
+}

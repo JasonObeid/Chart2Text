@@ -1,0 +1,73 @@
+{
+   "title": "U.S. disposable personal income - monthly percentage of change 2019/20",
+   "xAxis": "Month",
+   "yAxis": "Monthly percentage of change",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the U.S. Monthly of the income U.S. from 2019 to 2020 . ",
+      "In monthly 19 , the U.S. Monthly percentage of U.S. amounted to approximately 0.6 change ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Jan '20",
+         "Monthly percentage of change": "0.6"
+      },
+      {
+         "Month": "Dec '19",
+         "Monthly percentage of change": "0.1"
+      },
+      {
+         "Month": "Nov '19",
+         "Monthly percentage of change": "0.4"
+      },
+      {
+         "Month": "Oct '19",
+         "Monthly percentage of change": "0"
+      },
+      {
+         "Month": "Sep '19",
+         "Monthly percentage of change": "0.3"
+      },
+      {
+         "Month": "Aug '19",
+         "Monthly percentage of change": "0.6"
+      },
+      {
+         "Month": "Jul '19",
+         "Monthly percentage of change": "0.3"
+      },
+      {
+         "Month": "Jun '19",
+         "Monthly percentage of change": "0.4"
+      },
+      {
+         "Month": "May '19",
+         "Monthly percentage of change": "0.3"
+      },
+      {
+         "Month": "Apr '19",
+         "Monthly percentage of change": "0.4"
+      },
+      {
+         "Month": "Mar '19",
+         "Monthly percentage of change": "0.4"
+      },
+      {
+         "Month": "Feb '19",
+         "Monthly percentage of change": "0.5"
+      },
+      {
+         "Month": "Jan '19",
+         "Monthly percentage of change": "-0.2"
+      }
+   ],
+   "gold": "This statistic shows the monthly percentage of change in disposable personal income in the United States from January 2019 to January 2020 . Disposable personal income increased by 0.6 percent in January 2020 from the previous month . The data are in current U.S. dollars , seasonally adjusted at annual rates .\n"
+}

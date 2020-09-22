@@ -1,0 +1,67 @@
+{
+   "title": "Leading causes of death among black U.S. residents in 2017",
+   "xAxis": "Month",
+   "yAxis": "Percentage of all causes of death",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Leading causes death in the among in 2017 , Diseases_of_the_heart on black Percentage all . ",
+      "In that year , the Leading of Nephritis_nephrotic_syndrome_and_nephrosis_(kidney_diseases) was Diseases_of_the_heart with a Percentage of 23.3 causes death , followed by Malignant_neoplasms_(cancers) with just over 20.8 percentage death ."
+   ],
+   "trends": [
+      {
+         "13": "0"
+      },
+      {
+         "7": "7",
+         "9": "0",
+         "14": "0",
+         "20": "1",
+         "24": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "Diseases of the heart",
+         "Percentage of all causes of death": "23.3"
+      },
+      {
+         "Month": "Malignant neoplasms (cancers)",
+         "Percentage of all causes of death": "20.8"
+      },
+      {
+         "Month": "Accidents (unintentional injuries)",
+         "Percentage of all causes of death": "5.9"
+      },
+      {
+         "Month": "Cerebrovascular diseases (stroke)",
+         "Percentage of all causes of death": "5.7"
+      },
+      {
+         "Month": "Diabetes mellitus",
+         "Percentage of all causes of death": "4.4"
+      },
+      {
+         "Month": "Chronic lower respiratorydiseases (CLRD)",
+         "Percentage of all causes of death": "3.3"
+      },
+      {
+         "Month": "Assault (homicide)",
+         "Percentage of all causes of death": "3"
+      },
+      {
+         "Month": "Nephritis nephrotic syndrome and nephrosis (kidney diseases)",
+         "Percentage of all causes of death": "2.8"
+      },
+      {
+         "Month": "Alzheimer's disease",
+         "Percentage of all causes of death": "2.7"
+      },
+      {
+         "Month": "Septicemia",
+         "Percentage of all causes of death": "2"
+      }
+   ],
+   "gold": "The leading causes of death among black residents in the United States in 2017 included diseases of the heart , cancer , stroke , and unintentional injuries . The leading causes of death for African Americans generally reflects the leading causes of death for the entire United States population . However , a major exception is that death from assault or homicide is the seventh leading cause of death among African Americans but is not among the ten leading causes for the general population .\n"
+}

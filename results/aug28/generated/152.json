@@ -1,0 +1,72 @@
+{
+   "title": "Regional distribution of social network users worldwide 2017",
+   "xAxis": "Country",
+   "yAxis": "Share of social media users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Share of the distribution social network users in 2017 , Country . ",
+      "According to the source , the people , the East_Asia was the social , with a total of 33 social , followed by Southeast_Asia with 11 million ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "18": "0",
+         "23": "1",
+         "25": "1"
+      }
+   ],
+   "data": [
+      {
+         "Country": "East Asia",
+         "Share of social media users": "33"
+      },
+      {
+         "Country": "Southeast Asia",
+         "Share of social media users": "11"
+      },
+      {
+         "Country": "South America",
+         "Share of social media users": "9"
+      },
+      {
+         "Country": "South Asia",
+         "Share of social media users": "9"
+      },
+      {
+         "Country": "North America",
+         "Share of social media users": "8"
+      },
+      {
+         "Country": "Western Europe",
+         "Share of social media users": "8"
+      },
+      {
+         "Country": "Eastern Europe",
+         "Share of social media users": "7"
+      },
+      {
+         "Country": "Africa",
+         "Share of social media users": "6"
+      },
+      {
+         "Country": "Central America",
+         "Share of social media users": "4"
+      },
+      {
+         "Country": "Middle East",
+         "Share of social media users": "3"
+      },
+      {
+         "Country": "Central Asia",
+         "Share of social media users": "1"
+      },
+      {
+         "Country": "Oceania",
+         "Share of social media users": "1"
+      }
+   ],
+   "gold": "This statistic gives information on the distribution of worldwide social media users as of January 2017 , by global region . During that period of time , 33 percent of worldwide social media users were located in East Asia , followed by 11 percent of users in Southeast Asia . Social media worldwide \u2013 additional information Social media is a global phenomenon .\n"
+}

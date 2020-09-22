@@ -1,0 +1,64 @@
+{
+   "title": "Game developer distribution worldwide 2014 - 2017 , by gender",
+   "labels": [
+      "Year",
+      "Men",
+      "Women",
+      "Transgender/Androgynous/Other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Game developer of Game worldwide 2014 2017 by from 2014 to 2017 . ",
+      "In 2017 , 74 % of the employees in the Game were Women ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "3",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Men": "74",
+         "Women": "21",
+         "Transgender/Androgynous/Other": "5"
+      },
+      {
+         "Year": "2016",
+         "Men": "72",
+         "Women": "23",
+         "Transgender/Androgynous/Other": "4.7"
+      },
+      {
+         "Year": "2015",
+         "Men": "75",
+         "Women": "22",
+         "Transgender/Androgynous/Other": "3"
+      },
+      {
+         "Year": "2014",
+         "Men": "76",
+         "Women": "22",
+         "Transgender/Androgynous/Other": "2"
+      }
+   ],
+   "gold": "The statistic shows the distribution of game developers worldwide from 2014 to 2017 , broken down by gender . In 2017 , 74 percent of responding game developers were men , while 21 percent were women .\n"
+}

@@ -1,0 +1,54 @@
+{
+   "title": "Smartphone penetration as share of population in Indonesia 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Share of population with a smartphone",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic depicts the smartphone penetration as a Share of the population in Indonesia from 2017 to 2018 , smartphone a forecast up to 2023 . ",
+      "In 2018 , around 26 % of the population in Indonesia used a smartphone ."
+   ],
+   "trends": [
+      {
+         "15": "6",
+         "17": "5",
+         "24": "0"
+      },
+      {
+         "1": "5",
+         "4": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Share of population with a smartphone": "33"
+      },
+      {
+         "Year": "2022",
+         "Share of population with a smartphone": "32"
+      },
+      {
+         "Year": "2021",
+         "Share of population with a smartphone": "31"
+      },
+      {
+         "Year": "2020",
+         "Share of population with a smartphone": "30"
+      },
+      {
+         "Year": "2019",
+         "Share of population with a smartphone": "28"
+      },
+      {
+         "Year": "2018",
+         "Share of population with a smartphone": "26"
+      },
+      {
+         "Year": "2017",
+         "Share of population with a smartphone": "24"
+      }
+   ],
+   "gold": "The statistic depicts the smartphone penetration in Indonesia as share of the population from 2017 to 2023 . In 2017 , 24 percent of the population in Indonesia used a smartphone .\n"
+}

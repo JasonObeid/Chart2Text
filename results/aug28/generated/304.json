@@ -1,0 +1,122 @@
+{
+   "title": "Leading car brand sales in Italy 2016 to 2019",
+   "labels": [
+      "Response",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "In 2019 , Fiat was the most popular Fiat employees in the United Kingdom . ",
+      "At that time , Fiat accounted for 134124 % of all Fiat employees , compared to the country . ",
+      "The Fiat is the leader among the world 's overall ."
+   ],
+   "trends": [
+      {
+         "3": [
+            "0",
+            "0"
+         ],
+         "8": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "4": [
+            "0",
+            "0"
+         ],
+         "7": [
+            "2",
+            "2"
+         ],
+         "11": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Response": "Fiat",
+         "2016": "385798",
+         "2017": "402430",
+         "2018": "323342",
+         "2019": "285888"
+      },
+      {
+         "Response": "Volkswagen",
+         "2016": "139168",
+         "2017": "144885",
+         "2018": "162850",
+         "2019": "176813"
+      },
+      {
+         "Response": "Ford",
+         "2016": "124328",
+         "2017": "134124",
+         "2018": "129615",
+         "2019": "122527"
+      },
+      {
+         "Response": "Renault",
+         "2016": "118303",
+         "2017": "133715",
+         "2018": "125143",
+         "2019": "113924"
+      },
+      {
+         "Response": "Peugeot",
+         "2016": "94132",
+         "2017": "104274",
+         "2018": "108502",
+         "2019": "110034"
+      },
+      {
+         "Response": "Opel",
+         "2016": "95056",
+         "2017": "98979",
+         "2018": "95317",
+         "2019": "96559"
+      },
+      {
+         "Response": "Toyota",
+         "2016": "71934",
+         "2017": "85245",
+         "2018": "87956",
+         "2019": "90052"
+      },
+      {
+         "Response": "Citroen",
+         "2016": "60511",
+         "2017": "78225",
+         "2018": "82850",
+         "2019": "86468"
+      },
+      {
+         "Response": "Dacia",
+         "2016": "47979",
+         "2017": "58011",
+         "2018": "61628",
+         "2019": "84087"
+      },
+      {
+         "Response": "Jeep/Dodge",
+         "2016": "40456",
+         "2017": "49503",
+         "2018": "84551",
+         "2019": "81510"
+      }
+   ],
+   "gold": "Which brand sold the most cars in Italy in 2019 ? Perhaps unsurprisingly , Fiat topped the country 's sales ranking with sales of nearly 286 thousand cars that year . The Italian car brand was followed by Volkswagen ( roughly 177 thousand passenger cars sold ) and Ford ( approximately 123 thousand units ) . Small cars drive passenger car sales in Italy ... Overall car sales in Italy showed a positive trend in recent years until 2018 , when a decrease of about three percent on the previous year was observed .\n"
+}

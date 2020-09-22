@@ -1,0 +1,58 @@
+{
+   "title": "Stadium construction/renovation costs UEFA EURO 2016",
+   "xAxis": "Stadiums",
+   "yAxis": "Construction/renovation costs in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Stadium construction/renovation Stadiums UEFA of the EURO UEFA EURO in 2016 . ",
+      "The Stade_des_Lumi\u00e8res_Lyon_(new_stadium) of UEFA EURO with a Construction/renovation costs of 381 million euros ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Stadiums": "Stade des Lumi\u00e8res Lyon (new stadium)",
+         "Construction/renovation costs in million euros": "381"
+      },
+      {
+         "Stadiums": "Grand Stade LMCU Lille (new stadium)",
+         "Construction/renovation costs in million euros": "324"
+      },
+      {
+         "Stadiums": "Stade V\u00e9lodrome Marseille (major renovation)",
+         "Construction/renovation costs in million euros": "267"
+      },
+      {
+         "Stadiums": "Nice Stadium Nice (new stadium)",
+         "Construction/renovation costs in million euros": "204"
+      },
+      {
+         "Stadiums": "Nouveau Stade Bordeaux (new stadium)",
+         "Construction/renovation costs in million euros": "184"
+      },
+      {
+         "Stadiums": "Parc des Princes Paris (major renovation)",
+         "Construction/renovation costs in million euros": "100"
+      },
+      {
+         "Stadiums": "Stade Bollaert Lens (major renovation)",
+         "Construction/renovation costs in million euros": "75"
+      },
+      {
+         "Stadiums": "Stade Geoffroy Guichard Saint-Etienne (major renovation)",
+         "Construction/renovation costs in million euros": "75"
+      },
+      {
+         "Stadiums": "Stadium Municipal Toulouse (major renovation)",
+         "Construction/renovation costs in million euros": "60"
+      }
+   ],
+   "gold": "The statistic shows the projected stadium construction/renovation costs for the UEFA EURO 2016 in France . The Parc des Princes stadium in Paris will undergo major renovations that will cost about 100 million euros .\n"
+}

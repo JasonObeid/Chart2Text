@@ -1,0 +1,55 @@
+{
+   "title": "Number of committed crimes , by type U.S. 2018",
+   "xAxis": "Type of crime",
+   "yAxis": "Number of committed crimes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of the Number employees in the U.S. in 2018 , crime . ",
+      "It was that the average Number of people crimes ."
+   ],
+   "trends": [
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Type of crime": "Property crime  (total)",
+         "Number of committed crimes": "7196045"
+      },
+      {
+         "Type of crime": "Larceny-theft",
+         "Number of committed crimes": "5217055"
+      },
+      {
+         "Type of crime": "Burglary",
+         "Number of committed crimes": "1230149"
+      },
+      {
+         "Type of crime": "Violent crime  (total)",
+         "Number of committed crimes": "1206836"
+      },
+      {
+         "Type of crime": "Aggravated assault",
+         "Number of committed crimes": "807410"
+      },
+      {
+         "Type of crime": "Motor vehicle theft",
+         "Number of committed crimes": "748841"
+      },
+      {
+         "Type of crime": "Robbery",
+         "Number of committed crimes": "282061"
+      },
+      {
+         "Type of crime": "Rape (revised definition)",
+         "Number of committed crimes": "139380"
+      },
+      {
+         "Type of crime": "Murder and nonnegligent manslaughter",
+         "Number of committed crimes": "16214"
+      }
+   ],
+   "gold": "This statistic shows the number of committed crimes in the United States in 2018 , by type of crime . In 2018 , the FBI recorded 139,380 cases of rape .\n"
+}

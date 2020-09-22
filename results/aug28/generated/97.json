@@ -1,0 +1,103 @@
+{
+   "title": "Driving theory test pass rates in the United Kingdom 2007 - 2019 by gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic provides a comparison of the average amount of time rates on United housework by gender in United Kingdom member 2019 as well 2007/08 , 2016/17 and 2007/08 . ",
+      "As of 2007 , Portuguese men rates 47.7 theory test pass on unpaid Kingdom on Driving while for women the Driving was 51 theory ."
+   ],
+   "trends": [
+      {
+         "24": [
+            "11",
+            "0"
+         ],
+         "26": [
+            "2",
+            "0"
+         ],
+         "28": [
+            "11",
+            "0"
+         ]
+      },
+      {
+         "7": [
+            "3",
+            "1"
+         ],
+         "22": [
+            "3",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Male": "45.7",
+         "Female": "49.2"
+      },
+      {
+         "Year": "2017/18",
+         "Male": "46.8",
+         "Female": "50.7"
+      },
+      {
+         "Year": "2016/17",
+         "Male": "46.8",
+         "Female": "50.7"
+      },
+      {
+         "Year": "2015/16",
+         "Male": "47.7",
+         "Female": "51"
+      },
+      {
+         "Year": "2014/15",
+         "Male": "48.7",
+         "Female": "53.6"
+      },
+      {
+         "Year": "2013/14",
+         "Male": "48.8",
+         "Female": "54.7"
+      },
+      {
+         "Year": "2012/13",
+         "Male": "56.2",
+         "Female": "62.3"
+      },
+      {
+         "Year": "2011/12",
+         "Male": "58.1",
+         "Female": "63.7"
+      },
+      {
+         "Year": "2010/11",
+         "Male": "60.4",
+         "Female": "66"
+      },
+      {
+         "Year": "2009/10",
+         "Male": "61.1",
+         "Female": "66.9"
+      },
+      {
+         "Year": "2008/09",
+         "Male": "62.6",
+         "Female": "68.7"
+      },
+      {
+         "Year": "2007/08",
+         "Male": "62.3",
+         "Female": "68.9"
+      }
+   ],
+   "gold": "This statistic compares the pass rates for men and women in driving theory tests in the United Kingdom ( UK ) between 2007/08 and 2018/19 . Women consistently performed better than men at the theory tests by around six percent . Although the pass rates have been falling , the most recent drop can possibly be attributed , in part , to new , previously unpublished questions being used in the new tests .\n"
+}

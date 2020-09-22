@@ -1,0 +1,49 @@
+{
+   "title": "Costco membership worldwide 2014 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Total number of card holders",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Total of number the Costco worldwide from 2014 to 2019 . ",
+      "In 2019 , the Total of Costco employees amounted to approximately 98.5 million holders , down from 81.3 million holders in the previous Year ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "14": "5"
+      },
+      {
+         "1": "5",
+         "11": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Total number of card holders": "76.4"
+      },
+      {
+         "Year": "2015",
+         "Total number of card holders": "81.3"
+      },
+      {
+         "Year": "2016",
+         "Total number of card holders": "86.7"
+      },
+      {
+         "Year": "2017",
+         "Total number of card holders": "90.3"
+      },
+      {
+         "Year": "2018",
+         "Total number of card holders": "94.3"
+      },
+      {
+         "Year": "2019",
+         "Total number of card holders": "98.5"
+      }
+   ],
+   "gold": "This statistic presents the total number of Costco card holders worldwide from 2014 to 2019 . For the 52 weeks ended on September 1 , 2019 , there were approximately 98.5 million Costco cardholders all over the world .\n"
+}

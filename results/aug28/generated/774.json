@@ -1,0 +1,59 @@
+{
+   "title": "Percentage of U.S. population who are veterans in 2018 , by age and gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "The statistic provides a comparison of the average amount of Percentage who are and veterans age gender in the U.S. member by in 2018 , by age gender . ",
+      "In 18_to_34_years , the Percentage of the population who are had amounted to 0.77 and 3.53 per 100,000 inhabitants ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "18 to 34 years",
+         "Male": "3.53",
+         "Female": "0.77"
+      },
+      {
+         "Year": "35 to 54 years",
+         "Male": "8.57",
+         "Female": "1.54"
+      },
+      {
+         "Year": "55 to 64 years",
+         "Male": "13.73",
+         "Female": "1.75"
+      },
+      {
+         "Year": "65 to 74 years",
+         "Male": "31.89",
+         "Female": "1.22"
+      },
+      {
+         "Year": "75 years and over",
+         "Male": "45.51",
+         "Female": "1.06"
+      }
+   ],
+   "gold": "This graph displays the percentage of Americans who were veterans in 2018 , distinguished by age and gender . In 2018 , 47.51 percent of the male Americans , aged 75 years and over , were veterans .\n"
+}

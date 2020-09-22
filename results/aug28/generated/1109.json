@@ -1,0 +1,62 @@
+{
+   "title": "Leading gaming content on Twitch H1 2019 , by hours watched",
+   "xAxis": "Games",
+   "yAxis": "Number of hours watched",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the distribution of Twitch H1 gaming content Twitch in 2019 , based on hours Number . ",
+      "According to the source , the Leading of all time was League_of_Legends , with a 512.3 million watched ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "Games": "League of Legends",
+         "Number of hours watched": "512.3"
+      },
+      {
+         "Games": "Fortnite",
+         "Number of hours watched": "465.0"
+      },
+      {
+         "Games": "Just Chatting",
+         "Number of hours watched": "372.5"
+      },
+      {
+         "Games": "Grand Theft Auto V",
+         "Number of hours watched": "269.1"
+      },
+      {
+         "Games": "Dota 2",
+         "Number of hours watched": "237.1"
+      },
+      {
+         "Games": "Apex Legends",
+         "Number of hours watched": "181.4"
+      },
+      {
+         "Games": "Counter-Strike: Global Offensive",
+         "Number of hours watched": "178.0"
+      },
+      {
+         "Games": "Overwatch",
+         "Number of hours watched": "127.3"
+      },
+      {
+         "Games": "Hearthstone",
+         "Number of hours watched": "120.7"
+      },
+      {
+         "Games": "World of Warcraft",
+         "Number of hours watched": "118.5"
+      }
+   ],
+   "gold": "The statistic presents the leading gaming content on Twitch from January 1 , 2019 to June 30 , 2019 , ranked by number of hours watched . League of Legends topped the charts with a combined 512.3 million hours watched on Twitch in the first half of 2019 .\n"
+}

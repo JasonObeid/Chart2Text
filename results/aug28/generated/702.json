@@ -1,0 +1,101 @@
+{
+   "title": "Hispanic population of the U.S. 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Population in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Hispanic population in the Hispanic from 2000 to 2018 . ",
+      "In 2018 , approximately 59.87 millions people were living in the U.S. in the Hispanic ."
+   ],
+   "trends": [
+      {
+         "11": "18",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "4": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Population in millions": "59.87"
+      },
+      {
+         "Year": "2017",
+         "Population in millions": "58.95"
+      },
+      {
+         "Year": "2016",
+         "Population in millions": "57.47"
+      },
+      {
+         "Year": "2015",
+         "Population in millions": "56.59"
+      },
+      {
+         "Year": "2014",
+         "Population in millions": "55.39"
+      },
+      {
+         "Year": "2013",
+         "Population in millions": "54.24"
+      },
+      {
+         "Year": "2012",
+         "Population in millions": "53.09"
+      },
+      {
+         "Year": "2011",
+         "Population in millions": "51.95"
+      },
+      {
+         "Year": "2010",
+         "Population in millions": "50.76"
+      },
+      {
+         "Year": "2009",
+         "Population in millions": "49.33"
+      },
+      {
+         "Year": "2008",
+         "Population in millions": "47.79"
+      },
+      {
+         "Year": "2007",
+         "Population in millions": "46.2"
+      },
+      {
+         "Year": "2006",
+         "Population in millions": "44.61"
+      },
+      {
+         "Year": "2005",
+         "Population in millions": "43.02"
+      },
+      {
+         "Year": "2004",
+         "Population in millions": "41.5"
+      },
+      {
+         "Year": "2003",
+         "Population in millions": "40.05"
+      },
+      {
+         "Year": "2002",
+         "Population in millions": "38.62"
+      },
+      {
+         "Year": "2001",
+         "Population in millions": "37.14"
+      },
+      {
+         "Year": "2000",
+         "Population in millions": "35.66"
+      }
+   ],
+   "gold": "The graph shows the Hispanic population in the United States from 2000 to 2018 . In 2018 , about 59.87 million people of Hispanic origin were living in the United States .\n"
+}

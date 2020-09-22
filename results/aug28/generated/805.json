@@ -1,0 +1,46 @@
+{
+   "title": "Share of U.S. travelers who have had items stolen or lost 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey among U.S. adult . ",
+      "The survey was fielded License by Harris Interactive in 2014 , asking the respondents from U.S.",
+      "Some 8 % of respondents stated that they had a Smartphone ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "3"
+      },
+      {
+         "1": "2",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Smartphone",
+         "Share of respondents": "10"
+      },
+      {
+         "Response": "Credit card",
+         "Share of respondents": "9"
+      },
+      {
+         "Response": "Debit card",
+         "Share of respondents": "8"
+      },
+      {
+         "Response": "License",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Passport",
+         "Share of respondents": "4"
+      }
+   ],
+   "gold": "The statistic shows the share of U.S. survey respondents who have had items with sensitive information lost or stolen , while traveling . 10 percent of respondents have lost or had a smartphone stolen whilst traveling .\n"
+}

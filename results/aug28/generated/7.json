@@ -1,0 +1,59 @@
+{
+   "title": "Total workforce of Red Bull worldwide 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic outlines the Number of employees Red Bull worldwide from 2011 to 2018 . ",
+      "In 2018 , the company employed a total of 12239 people . ",
+      "The company is one of the largest oil and gas corporation ."
+   ],
+   "trends": [
+      {
+         "11": "7",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": "12239"
+      },
+      {
+         "Year": "2017",
+         "Number of employees": "11886"
+      },
+      {
+         "Year": "2016",
+         "Number of employees": "11865"
+      },
+      {
+         "Year": "2015",
+         "Number of employees": "10997"
+      },
+      {
+         "Year": "2014",
+         "Number of employees": "10410"
+      },
+      {
+         "Year": "2013",
+         "Number of employees": "9694"
+      },
+      {
+         "Year": "2012",
+         "Number of employees": "8966"
+      },
+      {
+         "Year": "2011",
+         "Number of employees": "8294"
+      }
+   ],
+   "gold": "This statistic depicts the total number of Red Bull employees worldwide from 2011 to 2018 . According to the report , Red Bull had employed approximately 12,239 people in 171 countries at the end of 2018 .\n"
+}

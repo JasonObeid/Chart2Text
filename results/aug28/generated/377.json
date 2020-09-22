@@ -1,0 +1,80 @@
+{
+   "title": "Cost of an angioplasty in various countries 2019",
+   "xAxis": "Country",
+   "yAxis": "Cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Cost of monthly price in the Cost subscription 2019 as of 2019 . ",
+      "The data reveals that United_States was the various expensive place in the world to get Cost , with a monthly subscription costing 4200 U.S. dollars . ",
+      "In Costa_Rica , the monthly price countries a Cost subscription amounted to 13800 U.S. dollars , and Mexican subscribers paid 13400 U.S. dollars per month to use the streaming service ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "22": "12"
+      },
+      {
+         "1": "2",
+         "12": "2",
+         "20": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Cost in U.S. dollars": "28200"
+      },
+      {
+         "Country": "South Korea",
+         "Cost in U.S. dollars": "17700"
+      },
+      {
+         "Country": "Costa Rica",
+         "Cost in U.S. dollars": "13800"
+      },
+      {
+         "Country": "Singapore",
+         "Cost in U.S. dollars": "13400"
+      },
+      {
+         "Country": "Mexico",
+         "Cost in U.S. dollars": "10400"
+      },
+      {
+         "Country": "Malaysia",
+         "Cost in U.S. dollars": "8000"
+      },
+      {
+         "Country": "Israel",
+         "Cost in U.S. dollars": "7500"
+      },
+      {
+         "Country": "Colombia",
+         "Cost in U.S. dollars": "7100"
+      },
+      {
+         "Country": "India",
+         "Cost in U.S. dollars": "5700"
+      },
+      {
+         "Country": "Poland",
+         "Cost in U.S. dollars": "5300"
+      },
+      {
+         "Country": "Jordan",
+         "Cost in U.S. dollars": "5000"
+      },
+      {
+         "Country": "Turkey",
+         "Cost in U.S. dollars": "4800"
+      },
+      {
+         "Country": "Thailand",
+         "Cost in U.S. dollars": "4200"
+      }
+   ],
+   "gold": "This statistic compares the cost of an angioplasty procedure in selected countries as of 2018 . In the United States , an angioplasty cost 28,200 U.S. dollars , while in Costa Rica such a procedure cost less than half of that price .\n"
+}

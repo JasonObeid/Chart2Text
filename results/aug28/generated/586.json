@@ -1,0 +1,32 @@
+{
+   "title": "U.S. Amazon retail market share 2016 and 2020",
+   "xAxis": "Year",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the global Amazon retail share of the share 2016 2020 from 2016 to 2020 . ",
+      "In 2016 , the Amazon retail Market is estimated to be 34 % ."
+   ],
+   "trends": [
+      {
+         "15": "1",
+         "17": "0"
+      },
+      {
+         "1": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Market share": "50"
+      },
+      {
+         "Year": "2016",
+         "Market share": "34"
+      }
+   ],
+   "gold": "This statistic presents a projection of Amazon 's retail market share in the United States in 2016 and 2020 , based on GMV . In 2016 , the online retail platform was estimated to account for 34 percent of the U.S. retail GMV . This share is set to increase to 50 percent in 2020 .\n"
+}

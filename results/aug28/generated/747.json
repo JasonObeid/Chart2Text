@@ -1,0 +1,42 @@
+{
+   "title": "Average price of wearable technology products in the United Kingdom ( UK ) 2014",
+   "xAxis": "Wearable Technology Products",
+   "yAxis": "Average price in GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Average price wearable technology of the United Kingdom ( United Kingdom ) in 2014 , UK Technology . ",
+      "The Action_cameras_headsets_and_glasses of amounted to over 220 million GBP in 2014 ."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "3": "0"
+      }
+   ],
+   "data": [
+      {
+         "Wearable Technology Products": "Action cameras headsets and glasses",
+         "Average price in GBP": "220"
+      },
+      {
+         "Wearable Technology Products": "Smart watches",
+         "Average price in GBP": "163"
+      },
+      {
+         "Wearable Technology Products": "Total market",
+         "Average price in GBP": "120"
+      },
+      {
+         "Wearable Technology Products": "Wrist sport computers",
+         "Average price in GBP": "82"
+      },
+      {
+         "Wearable Technology Products": "Health and fitness trackers",
+         "Average price in GBP": "73"
+      }
+   ],
+   "gold": "This statistic shows the average price of wearable technology products in the United Kingdom ( UK ) during the period from January to September 2014 , by product . Smart watches cost an average 163 British pounds in the UK , while wrist sport computers cost an average 82 British pounds .\n"
+}

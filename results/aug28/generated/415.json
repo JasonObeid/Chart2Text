@@ -1,0 +1,122 @@
+{
+   "title": "Gross domestic product of the Arab world in 2018",
+   "xAxis": "Country",
+   "yAxis": "GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows Gross domestic product ( GDP ) of the Arab world in 2018 . ",
+      "The Arab region in North Africa and the Middle East comprises the world Morocco , Yemen Qatar , United_Arab_Emirates_ Algeria , Iraq_ Tunisia_ , Oman Libya_ , Bahrain Lebanon_ , Jordan Kuwait_ , Saudi_Arabia Syria , Sudan_ Egypt Emirates and Comoros . ",
+      "In 2018 , GDP of Morocco amounted to approximately 118.53 billion U.S. dollars ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "7",
+         "15": "15",
+         "17": "4",
+         "19": "1",
+         "21": "5",
+         "23": "3",
+         "25": "12",
+         "27": "8",
+         "29": "11",
+         "31": "13",
+         "33": "9",
+         "35": "10",
+         "37": "6",
+         "39": "0",
+         "43": "14",
+         "45": "2",
+         "48": "19"
+      },
+      {
+         "5": "7",
+         "9": "7"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Saudi Arabia",
+         "GDP in billion U.S. dollars": "786.52"
+      },
+      {
+         "Country": "United Arab Emirates ",
+         "GDP in billion U.S. dollars": "414.18"
+      },
+      {
+         "Country": "Egypt",
+         "GDP in billion U.S. dollars": "249.56"
+      },
+      {
+         "Country": "Iraq ",
+         "GDP in billion U.S. dollars": "224.23"
+      },
+      {
+         "Country": "Qatar",
+         "GDP in billion U.S. dollars": "191.36"
+      },
+      {
+         "Country": "Algeria",
+         "GDP in billion U.S. dollars": "173.76"
+      },
+      {
+         "Country": "Kuwait ",
+         "GDP in billion U.S. dollars": "141.65"
+      },
+      {
+         "Country": "Morocco",
+         "GDP in billion U.S. dollars": "118.53"
+      },
+      {
+         "Country": "Oman",
+         "GDP in billion U.S. dollars": "79.28"
+      },
+      {
+         "Country": "Lebanon ",
+         "GDP in billion U.S. dollars": "56.37"
+      },
+      {
+         "Country": "Jordan",
+         "GDP in billion U.S. dollars": "42.29"
+      },
+      {
+         "Country": "Libya ",
+         "GDP in billion U.S. dollars": "40.95"
+      },
+      {
+         "Country": "Tunisia ",
+         "GDP in billion U.S. dollars": "39.9"
+      },
+      {
+         "Country": "Bahrain",
+         "GDP in billion U.S. dollars": "37.75"
+      },
+      {
+         "Country": "Sudan ",
+         "GDP in billion U.S. dollars": "34.28"
+      },
+      {
+         "Country": "Yemen",
+         "GDP in billion U.S. dollars": "27.59"
+      },
+      {
+         "Country": "Mauritania ",
+         "GDP in billion U.S. dollars": "5.24"
+      },
+      {
+         "Country": "Somalia",
+         "GDP in billion U.S. dollars": "4.72"
+      },
+      {
+         "Country": "Djibouti",
+         "GDP in billion U.S. dollars": "2.92"
+      },
+      {
+         "Country": "Comoros",
+         "GDP in billion U.S. dollars": "1.18"
+      }
+   ],
+   "gold": "This statistic shows gross domestic product ( GDP ) of the Arab world in 2018 . In 2018 , GDP of Algeria amounted to approximately 173.76 billion U.S. dollars .\n"
+}

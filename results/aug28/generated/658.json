@@ -1,0 +1,101 @@
+{
+   "title": "Arizona - real GDP 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Real GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the development of the Real GDP of the billion of Arizona from 2000 to 2018 . ",
+      "In 2018 , the Real GDP of Arizona was at 309.07 billion U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "15": "18",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Real GDP in billion U.S. dollars": "309.07"
+      },
+      {
+         "Year": "2017",
+         "Real GDP in billion U.S. dollars": "297.21"
+      },
+      {
+         "Year": "2016",
+         "Real GDP in billion U.S. dollars": "288.68"
+      },
+      {
+         "Year": "2015",
+         "Real GDP in billion U.S. dollars": "279.43"
+      },
+      {
+         "Year": "2014",
+         "Real GDP in billion U.S. dollars": "273.41"
+      },
+      {
+         "Year": "2013",
+         "Real GDP in billion U.S. dollars": "270.15"
+      },
+      {
+         "Year": "2012",
+         "Real GDP in billion U.S. dollars": "268.29"
+      },
+      {
+         "Year": "2011",
+         "Real GDP in billion U.S. dollars": "263.21"
+      },
+      {
+         "Year": "2010",
+         "Real GDP in billion U.S. dollars": "257.48"
+      },
+      {
+         "Year": "2009",
+         "Real GDP in billion U.S. dollars": "255.08"
+      },
+      {
+         "Year": "2008",
+         "Real GDP in billion U.S. dollars": "277.48"
+      },
+      {
+         "Year": "2007",
+         "Real GDP in billion U.S. dollars": "284.91"
+      },
+      {
+         "Year": "2006",
+         "Real GDP in billion U.S. dollars": "277.29"
+      },
+      {
+         "Year": "2005",
+         "Real GDP in billion U.S. dollars": "263.06"
+      },
+      {
+         "Year": "2004",
+         "Real GDP in billion U.S. dollars": "243.25"
+      },
+      {
+         "Year": "2003",
+         "Real GDP in billion U.S. dollars": "233.34"
+      },
+      {
+         "Year": "2002",
+         "Real GDP in billion U.S. dollars": "219.31"
+      },
+      {
+         "Year": "2001",
+         "Real GDP in billion U.S. dollars": "212.66"
+      },
+      {
+         "Year": "2000",
+         "Real GDP in billion U.S. dollars": "207.79"
+      }
+   ],
+   "gold": "This statistic shows the development of Arizona 's real GDP from 2000 to 2018 . In 2018 , the GDP of Arizona amounted to 309.07 billion U.S. dollars .\n"
+}

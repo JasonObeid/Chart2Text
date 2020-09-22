@@ -1,0 +1,70 @@
+{
+   "title": "Lead reserves worldwide by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Reserves in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Reserves million of worldwide by Lead worldwide in 2019 , country . ",
+      "In that year , the Australia had the largest Reserves million of 36.0 metric tons ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Australia",
+         "Reserves in million metric tons": "36.0"
+      },
+      {
+         "Country": "China",
+         "Reserves in million metric tons": "18.0"
+      },
+      {
+         "Country": "Russia",
+         "Reserves in million metric tons": "6.4"
+      },
+      {
+         "Country": "Peru",
+         "Reserves in million metric tons": "6.3"
+      },
+      {
+         "Country": "Mexico",
+         "Reserves in million metric tons": "5.6"
+      },
+      {
+         "Country": "United States",
+         "Reserves in million metric tons": "5.0"
+      },
+      {
+         "Country": "India",
+         "Reserves in million metric tons": "2.5"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Reserves in million metric tons": "2.0"
+      },
+      {
+         "Country": "Bolivia",
+         "Reserves in million metric tons": "1.6"
+      },
+      {
+         "Country": "Sweden",
+         "Reserves in million metric tons": "1.1"
+      },
+      {
+         "Country": "Turkey",
+         "Reserves in million metric tons": "0.86"
+      },
+      {
+         "Country": "Other countries",
+         "Reserves in million metric tons": "0.0"
+      }
+   ],
+   "gold": "Australia had the world 's largest reserves of lead reserves as of 2019 , amounting to 36 million metric tons that year . Lead and its uses Lead is a naturally occurring element that is soft and malleable . It is a post-transition metal that is very dense and is easily tarnished to a dull grey color .\n"
+}

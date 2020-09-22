@@ -1,0 +1,74 @@
+{
+   "title": "U.S. TV viewership selected games 2014 FIFA World Cup in Brazil",
+   "labels": [
+      "2014 World Cup Matches",
+      "ESPN/ABC",
+      "Univision"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the distribution of U.S. TV viewership selected the games in 2014 , World Cup . ",
+      "The survey shows that 4.4 % of the people between the Opening_match_-_Brazil_vs._Croatia_(06/12/14)(Univision_&_ESPN) to ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "0",
+            "1"
+         ],
+         "11": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "2014 World Cup Matches": "Opening match - Brazil vs. Croatia (06/12/14)(Univision & ESPN)",
+         "ESPN/ABC": "4.4",
+         "Univision": "5.1"
+      },
+      {
+         "2014 World Cup Matches": "Group match - USA vs. Ghana (06/17/14)(Univision & ESPN)",
+         "ESPN/ABC": "11.1",
+         "Univision": "4.8"
+      },
+      {
+         "2014 World Cup Matches": "Group match - USA vs. Portugal (06/22/14)(Univision & ESPN)",
+         "ESPN/ABC": "18.2",
+         "Univision": "6.5"
+      },
+      {
+         "2014 World Cup Matches": "Group match - USA vs. Germany (06/22/14)(Univision & ESPN)",
+         "ESPN/ABC": "10.8",
+         "Univision": "3.4"
+      },
+      {
+         "2014 World Cup Matches": "Round of 16 - USA vs. Belgium (07/01/14)(Univision & ESPN)",
+         "ESPN/ABC": "16.5",
+         "Univision": "5.1"
+      },
+      {
+         "2014 World Cup Matches": "Semifinal - Brazil vs. Germany (07/08/14)(Univision & ESPN)",
+         "ESPN/ABC": "6.6",
+         "Univision": "5.8"
+      },
+      {
+         "2014 World Cup Matches": "Semifinal - Argentina vs. Netherlands (07/09/14)(Univision & ESPN)",
+         "ESPN/ABC": "6.8",
+         "Univision": "5.4"
+      },
+      {
+         "2014 World Cup Matches": "World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC)",
+         "ESPN/ABC": "17.3",
+         "Univision": "9.2"
+      }
+   ],
+   "gold": "The graph shows the TV viewership of selected games at the 2014 FIFA World Cup in Brazil . The opening match on June 12 between Brazil and Croatia had a total TV viewership of 9.5 million viewers in the United States .\n"
+}

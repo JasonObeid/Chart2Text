@@ -1,0 +1,43 @@
+{
+   "title": "Forecast CAGR global digital health market by major segment 2015 to 2020",
+   "xAxis": "Name",
+   "yAxis": "Compound annual growth rate 2015-2020",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey among the Forecast CAGR global digital health in CAGR 2015 . ",
+      "The survey results were Average with a Mobile_health of 41 % of annual growth rate ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "7": "4",
+         "9": "4"
+      }
+   ],
+   "data": [
+      {
+         "Name": "Average",
+         "Compound annual growth rate 2015-2020": "21"
+      },
+      {
+         "Name": "EHR/EMR",
+         "Compound annual growth rate 2015-2020": "4"
+      },
+      {
+         "Name": "Telehealth",
+         "Compound annual growth rate 2015-2020": "15"
+      },
+      {
+         "Name": "Wireless health",
+         "Compound annual growth rate 2015-2020": "23"
+      },
+      {
+         "Name": "Mobile health",
+         "Compound annual growth rate 2015-2020": "41"
+      }
+   ],
+   "gold": "This statistic displays a projection of the CAGR for the global digital health market from 2015 to 2020 , by segment . During this period , the mobile health market 's compound annual growth rate is expected to be around 41 percent . The digital health market is expected to reach over 200 billion U.S. dollars by 2020 driven particularly by the mobile health market .\n"
+}

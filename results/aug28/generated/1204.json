@@ -1,0 +1,62 @@
+{
+   "title": "Textbook publishing revenue in the U.S. 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Textbook publishing Revenue has increased astronomically in the last five years alone \u2013 rising from 8.58 billion U.S. dollars in 2013 to 11.7 billion in 2015 . ",
+      "publishing has become a popular pastime for U.S. Textbook fans and a major source of Revenue for the industry , though many traditional consumers lament the resulting decline of physical Textbook formats . ",
+      "Physical CD shipments have dwindled , whilst digital Textbook platforms are flourishing ."
+   ],
+   "trends": [
+      {
+         "15": "5",
+         "20": "5",
+         "22": "3",
+         "25": "3"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in billion U.S. dollars": "8.79"
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion U.S. dollars": "9.87"
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion U.S. dollars": "10.17"
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": "11.7"
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": "8.62"
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion U.S. dollars": "8.58"
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion U.S. dollars": "8.16"
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion U.S. dollars": "8.46"
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion U.S. dollars": "8.6"
+      }
+   ],
+   "gold": "The timeline presents data on textbook publishing revenue generated in the United States from 2010 to 2018 . In 2018 , the revenue amounted to 8.79 billion U.S. dollars .\n"
+}

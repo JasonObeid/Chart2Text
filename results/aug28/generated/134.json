@@ -1,0 +1,74 @@
+{
+   "title": "Rolls-Royce - Worldwide sales volume of automobiles 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of sold automobiles",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number sold of the 2018 of the Worldwide from 2007 to 2018 . ",
+      "In 2018 , the average Number sold of Worldwide amounted to 4107 automobiles ."
+   ],
+   "trends": [
+      {
+         "13": "11",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "11": "0",
+         "12": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of sold automobiles": "4107"
+      },
+      {
+         "Year": "2017",
+         "Number of sold automobiles": "3362"
+      },
+      {
+         "Year": "2016",
+         "Number of sold automobiles": "4011"
+      },
+      {
+         "Year": "2015",
+         "Number of sold automobiles": "3785"
+      },
+      {
+         "Year": "2014",
+         "Number of sold automobiles": "4063"
+      },
+      {
+         "Year": "2013",
+         "Number of sold automobiles": "3630"
+      },
+      {
+         "Year": "2012",
+         "Number of sold automobiles": "3575"
+      },
+      {
+         "Year": "2011",
+         "Number of sold automobiles": "3538"
+      },
+      {
+         "Year": "2010",
+         "Number of sold automobiles": "2711"
+      },
+      {
+         "Year": "2009",
+         "Number of sold automobiles": "1002"
+      },
+      {
+         "Year": "2008",
+         "Number of sold automobiles": "1212"
+      },
+      {
+         "Year": "2007",
+         "Number of sold automobiles": "1010"
+      }
+   ],
+   "gold": "Rolls-Royce Motor Cars delivered approximately 4,100 automobiles in 2018 , representing a 22.2 percent increase from the previous year . The luxury auto brand is a wholly owned subsidiary of BMW . Record sales took place in 2018 thanks to the successful release of the Phantom VIII in July 2017 .\n"
+}

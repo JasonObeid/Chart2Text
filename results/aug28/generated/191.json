@@ -1,0 +1,58 @@
+{
+   "title": "Indonesia : mobile phone internet users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of mobile phone internet users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Number of mobile internet users in Indonesia from 2017 to 2023 . ",
+      "In 2017 , 72.5 millions people accessed the internet through their mobile phone . ",
+      "In 2023 , this figure is projected to amount 100.4 millions mobile phone internet users ."
+   ],
+   "trends": [
+      {
+         "12": "6",
+         "14": "0"
+      },
+      {
+         "1": "6",
+         "3": "6"
+      },
+      {
+         "1": "0",
+         "10": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of mobile phone internet users in millions": "100.4"
+      },
+      {
+         "Year": "2022",
+         "Number of mobile phone internet users in millions": "97.6"
+      },
+      {
+         "Year": "2021",
+         "Number of mobile phone internet users in millions": "94.3"
+      },
+      {
+         "Year": "2020",
+         "Number of mobile phone internet users in millions": "90.3"
+      },
+      {
+         "Year": "2019",
+         "Number of mobile phone internet users in millions": "85.2"
+      },
+      {
+         "Year": "2018",
+         "Number of mobile phone internet users in millions": "79.7"
+      },
+      {
+         "Year": "2017",
+         "Number of mobile phone internet users in millions": "72.5"
+      }
+   ],
+   "gold": "The statistic shows the number of mobile internet users in Indonesia from 2017 to 2027 . In 2017 , 72.5 million people accessed the internet through their mobile phone . In 2023 , this figure is projected to amount to 100.4 million mobile phone internet users .\n"
+}

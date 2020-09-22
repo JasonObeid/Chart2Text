@@ -1,0 +1,97 @@
+{
+   "title": "Kit sponsorship revenue of German Bundesliga clubs 2019/20",
+   "xAxis": "Year",
+   "yAxis": "Kit sponsorship revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the average Kit sponsorship of the million euros of German Bundesliga from SC_Paderborn_(Sunmaker) to FC_Bayern_Munich_(Telekom) . ",
+      "In FC_Bayern_Munich_(Telekom) , the average Kit sponsorship of a revenue was 2.0 revenue million euros ."
+   ],
+   "trends": [
+      {
+         "14": "17",
+         "16": "0"
+      },
+      {
+         "1": "0",
+         "11": "17"
+      }
+   ],
+   "data": [
+      {
+         "Year": "FC Bayern Munich (Telekom)",
+         "Kit sponsorship revenue in million euros": "35.0"
+      },
+      {
+         "Year": "FC Schalke 04 (Gazprom)",
+         "Kit sponsorship revenue in million euros": "24.0"
+      },
+      {
+         "Year": "VfL Wolfsburg (Volkswagen)",
+         "Kit sponsorship revenue in million euros": "20.0"
+      },
+      {
+         "Year": "Borussia Dortmund (Evonik)",
+         "Kit sponsorship revenue in million euros": "20.0"
+      },
+      {
+         "Year": "RB Leipzig (Red Bull)",
+         "Kit sponsorship revenue in million euros": "9.0"
+      },
+      {
+         "Year": "Borussia M\u00f6nchengladbach (Postbank)",
+         "Kit sponsorship revenue in million euros": "9.0"
+      },
+      {
+         "Year": "1. FC K\u00f6ln (Rewe)",
+         "Kit sponsorship revenue in million euros": "7.5"
+      },
+      {
+         "Year": "Hertha BSC Berlin (Tedi)",
+         "Kit sponsorship revenue in million euros": "7.5"
+      },
+      {
+         "Year": "SV Werder Bremen (Wiesenhof)",
+         "Kit sponsorship revenue in million euros": "7.3"
+      },
+      {
+         "Year": "Eintracht Frankfurt (Indeed)",
+         "Kit sponsorship revenue in million euros": "6.7"
+      },
+      {
+         "Year": "Bayer 04 Leverkusen (Barmenia)",
+         "Kit sponsorship revenue in million euros": "6.0"
+      },
+      {
+         "Year": "1899 Hoffenheim (SAP)",
+         "Kit sponsorship revenue in million euros": "5.0"
+      },
+      {
+         "Year": "FSV Mainz 05 (K\u00f6mmerling)",
+         "Kit sponsorship revenue in million euros": "4.0"
+      },
+      {
+         "Year": "FC Augsburg (WWK)",
+         "Kit sponsorship revenue in million euros": "4.5"
+      },
+      {
+         "Year": "Fortuna D\u00fcsseldorf (Henkel)",
+         "Kit sponsorship revenue in million euros": "3.0"
+      },
+      {
+         "Year": "SC Freiburg (Schwarzwaldmilch)",
+         "Kit sponsorship revenue in million euros": "3.0"
+      },
+      {
+         "Year": "Union Berlin (Aroundtown)",
+         "Kit sponsorship revenue in million euros": "2.5"
+      },
+      {
+         "Year": "SC Paderborn (Sunmaker)",
+         "Kit sponsorship revenue in million euros": "2.0"
+      }
+   ],
+   "gold": "This statistic depicts the kit sponsorship revenue of each German Bundesliga club in the 2019/20 season . FC Bayern Munich will receive 35 million euros from its kit sponsor Telekom in the 2019/20 season .\n"
+}

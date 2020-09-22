@@ -1,0 +1,50 @@
+{
+   "title": "U.S. opinion poll : sexiest musical instrument 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of the third quarter of 2014 , it was found that 26 % of U.S. users in the U.S. accessed the social platform Guitar a . ",
+      "A further 25 % of respondents claimed that they used U.S. on Flute ."
+   ],
+   "trends": [
+      {
+         "12": "0",
+         "24": "0",
+         "26": "0"
+      },
+      {
+         "2": "1",
+         "12": "5"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Guitar",
+         "Share of respondents": "26"
+      },
+      {
+         "Response": "Saxophone",
+         "Share of respondents": "25"
+      },
+      {
+         "Response": "Piano",
+         "Share of respondents": "21"
+      },
+      {
+         "Response": "Violin",
+         "Share of respondents": "14"
+      },
+      {
+         "Response": "Drums",
+         "Share of respondents": "7"
+      },
+      {
+         "Response": "Flute",
+         "Share of respondents": "5"
+      }
+   ],
+   "gold": "This statistic reveals the sexiest musical instrument according to adults in the United States in 2014 . During a survey , 26 percent of adults found the guitar to be the sexiest musical instrument to play .\n"
+}

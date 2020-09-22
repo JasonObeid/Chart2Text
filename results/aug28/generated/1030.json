@@ -1,0 +1,42 @@
+{
+   "title": "U.S. states with state cyber bullying laws as of November 2018",
+   "xAxis": "Category Of Cyber Bullying Law",
+   "yAxis": "State totals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the State of totals in the U.S. in 2018 , . ",
+      "According to the survey , it was found that 44 % of totals in the bullying group stood at Criminal_Sanction_for_cyber_bullying_or_electronic_harassment ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "1",
+         "21": "1"
+      }
+   ],
+   "data": [
+      {
+         "Category Of Cyber Bullying Law": "Includes cyber bullying or online harassment",
+         "State totals": "48"
+      },
+      {
+         "Category Of Cyber Bullying Law": "Criminal Sanction for cyber bullying or electronic harassment",
+         "State totals": "44"
+      },
+      {
+         "Category Of Cyber Bullying Law": "School sanction for cyber bullying",
+         "State totals": "45"
+      },
+      {
+         "Category Of Cyber Bullying Law": "School policy",
+         "State totals": "49"
+      },
+      {
+         "Category Of Cyber Bullying Law": "Includes off-campus",
+         "State totals": "17"
+      }
+   ],
+   "gold": "This statistic presents the number of US states with state cyber bullying laws , by policy implementation . As of November 2018 , 48 states had electronic harassment laws which explicitly included cyber bullying . A total of 44 states included criminal sanctions in their cyber bullying laws .\n"
+}

@@ -1,0 +1,45 @@
+{
+   "title": "Opinion on novel coronavirus COVID-19 as a health issue India 2020",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the percentage of online consumers in the Opinion who are India coronavirus Don't_believe_it_can_impact_us as of 2017 . ",
+      "During the survey period , it was found that 16 % of respondents stated that they used Don't_believe_it_can_impact_us_or_Indians_at_large Staying_alert_and_taking_precautions on the social networking site ."
+   ],
+   "trends": [
+      {
+         "15": "4"
+      },
+      {
+         "9": "1",
+         "17": "1",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Staying alert and taking precautions",
+         "Share of respondents": "72"
+      },
+      {
+         "Response": "Don't believe it can impact us or Indians at large",
+         "Share of respondents": "16"
+      },
+      {
+         "Response": "Can't say",
+         "Share of respondents": "6"
+      },
+      {
+         "Response": "Don't know much about coronavirus",
+         "Share of respondents": "3"
+      },
+      {
+         "Response": "Don't believe it can impact us",
+         "Share of respondents": "3"
+      }
+   ],
+   "gold": "According to a survey conducted to understand the opinion among Indians on the issue of novel coronavirus COVID-19 , about 72 percent of respondents stated that they are staying alert and taking precautions . On the contrary , 16 percent said that they did not believe that the virus can impact them or Indians at large . As of February 2020 , India had three confirmed cases of COVID-19 .\n"
+}

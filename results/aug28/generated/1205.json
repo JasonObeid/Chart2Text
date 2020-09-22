@@ -1,0 +1,62 @@
+{
+   "title": "FIFA World Cup : players with most matches 1930 to 2018",
+   "xAxis": "Player",
+   "yAxis": "Number of appearances",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic presents the World Cup the most popular Player most appearances in 1930 . ",
+      "25 % of appearances were Lothar_Matth\u00e4us_(Germany) ."
+   ],
+   "trends": [
+      {},
+      {
+         "0": "0",
+         "5": "0"
+      }
+   ],
+   "data": [
+      {
+         "Player": "Lothar Matth\u00e4us (Germany)",
+         "Number of appearances": "25"
+      },
+      {
+         "Player": "Miroslav Klose (Germany)",
+         "Number of appearances": "24"
+      },
+      {
+         "Player": "Paolo Maldini (Italy)",
+         "Number of appearances": "23"
+      },
+      {
+         "Player": "Uwe Seeler (Germany)",
+         "Number of appearances": "21"
+      },
+      {
+         "Player": "Diege Maradona (Argentina)",
+         "Number of appearances": "21"
+      },
+      {
+         "Player": "W\u0142adys\u0142aw \u017bmuda (Poland)",
+         "Number of appearances": "21"
+      },
+      {
+         "Player": "Cafu (Brazil)",
+         "Number of appearances": "20"
+      },
+      {
+         "Player": "Bastian Schweinsteiger (Germany)",
+         "Number of appearances": "20"
+      },
+      {
+         "Player": "Philipp Lahm (Germany)",
+         "Number of appearances": "20"
+      },
+      {
+         "Player": "Grzegorz Lato (Poland)",
+         "Number of appearances": "20"
+      }
+   ],
+   "gold": "This graph depicts the soccer players with the most appearances at the FIFA World Cup from 1930 to 2018 . The German midfielder , Lothar Matth\u00e4us , tops the list , having made 25 appearances at the World Cup between 1982 and 1998 .\n"
+}

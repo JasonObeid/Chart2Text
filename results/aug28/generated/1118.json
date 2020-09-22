@@ -1,0 +1,85 @@
+{
+   "title": "Projected annual inflation rate in the United States 2010 to 2024",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the average Inflation rate in United States from 2010 to 2018 , with projections up until 2024 . ",
+      "The Inflation rate is calculated using the price increase of a defined product basket . ",
+      "This product basket contains products and services , on which the average consumer spends money throughout the Year ."
+   ],
+   "trends": [
+      {
+         "10": "14",
+         "12": "6",
+         "18": "0"
+      },
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inflation rate": "2.24"
+      },
+      {
+         "Year": "2023",
+         "Inflation rate": "2.23"
+      },
+      {
+         "Year": "2022",
+         "Inflation rate": "2.23"
+      },
+      {
+         "Year": "2021",
+         "Inflation rate": "2.27"
+      },
+      {
+         "Year": "2020",
+         "Inflation rate": "2.73"
+      },
+      {
+         "Year": "2019",
+         "Inflation rate": "2"
+      },
+      {
+         "Year": "2018",
+         "Inflation rate": "2.44"
+      },
+      {
+         "Year": "2017",
+         "Inflation rate": "2.14"
+      },
+      {
+         "Year": "2016",
+         "Inflation rate": "1.27"
+      },
+      {
+         "Year": "2015",
+         "Inflation rate": "0.12"
+      },
+      {
+         "Year": "2014",
+         "Inflation rate": "1.62"
+      },
+      {
+         "Year": "2013",
+         "Inflation rate": "1.47"
+      },
+      {
+         "Year": "2012",
+         "Inflation rate": "2.07"
+      },
+      {
+         "Year": "2011",
+         "Inflation rate": "3.14"
+      },
+      {
+         "Year": "2010",
+         "Inflation rate": "1.64"
+      }
+   ],
+   "gold": "This statistic shows the annual inflation rate in the U.S. from 2010 to 2018 with additional projections up to 2024 . The data represents U.S. city averages . The base period was 1982 - 84 .\n"
+}

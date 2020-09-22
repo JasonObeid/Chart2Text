@@ -1,0 +1,289 @@
+{
+   "title": "U.S. wildfires - number of fires and acres burned 2019",
+   "labels": [
+      "State",
+      "Number of fires",
+      "Number of acres burned"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the U.S. of Alabama in the number fires in 2019 , acres State . ",
+      "In 2019 , the U.S. of in Alabama was , with 1107 U.S. dollars in Number ."
+   ],
+   "trends": [
+      {
+         "6": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "8": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "State": "Alabama",
+         "Number of fires": "1107",
+         "Number of acres burned": "22158"
+      },
+      {
+         "State": "Alaska",
+         "Number of fires": "720",
+         "Number of acres burned": "2498159"
+      },
+      {
+         "State": "Arizona",
+         "Number of fires": "1869",
+         "Number of acres burned": "384942"
+      },
+      {
+         "State": "Arkansas",
+         "Number of fires": "660",
+         "Number of acres burned": "8602"
+      },
+      {
+         "State": "California",
+         "Number of fires": "8194",
+         "Number of acres burned": "259148"
+      },
+      {
+         "State": "Colorado",
+         "Number of fires": "857",
+         "Number of acres burned": "40392"
+      },
+      {
+         "State": "Connecticut",
+         "Number of fires": "88",
+         "Number of acres burned": "72"
+      },
+      {
+         "State": "Delaware",
+         "Number of fires": "0",
+         "Number of acres burned": "0"
+      },
+      {
+         "State": "Florida",
+         "Number of fires": "2121",
+         "Number of acres burned": "122500"
+      },
+      {
+         "State": "Georgia",
+         "Number of fires": "3158",
+         "Number of acres burned": "12407"
+      },
+      {
+         "State": "Hawaii",
+         "Number of fires": "155",
+         "Number of acres burned": "10710"
+      },
+      {
+         "State": "Idaho",
+         "Number of fires": "960",
+         "Number of acres burned": "284026"
+      },
+      {
+         "State": "Illinois",
+         "Number of fires": "2",
+         "Number of acres burned": "41"
+      },
+      {
+         "State": "Indiana",
+         "Number of fires": "38",
+         "Number of acres burned": "523"
+      },
+      {
+         "State": "Iowa",
+         "Number of fires": "153",
+         "Number of acres burned": "2020"
+      },
+      {
+         "State": "Kansas",
+         "Number of fires": "19",
+         "Number of acres burned": "21167"
+      },
+      {
+         "State": "Kentucky",
+         "Number of fires": "755",
+         "Number of acres burned": "11714"
+      },
+      {
+         "State": "Louisiana",
+         "Number of fires": "361",
+         "Number of acres burned": "3059"
+      },
+      {
+         "State": "Maine",
+         "Number of fires": "355",
+         "Number of acres burned": "142"
+      },
+      {
+         "State": "Maryland",
+         "Number of fires": "140",
+         "Number of acres burned": "1498"
+      },
+      {
+         "State": "Massachusetts",
+         "Number of fires": "289",
+         "Number of acres burned": "248"
+      },
+      {
+         "State": "Michigan",
+         "Number of fires": "361",
+         "Number of acres burned": "1128"
+      },
+      {
+         "State": "Minnesota",
+         "Number of fires": "1021",
+         "Number of acres burned": "5862"
+      },
+      {
+         "State": "Mississippi",
+         "Number of fires": "959",
+         "Number of acres burned": "5473"
+      },
+      {
+         "State": "Missouri",
+         "Number of fires": "67",
+         "Number of acres burned": "5091"
+      },
+      {
+         "State": "Montana",
+         "Number of fires": "1474",
+         "Number of acres burned": "64835"
+      },
+      {
+         "State": "Nebraska",
+         "Number of fires": "15",
+         "Number of acres burned": "9478"
+      },
+      {
+         "State": "Nevada",
+         "Number of fires": "562",
+         "Number of acres burned": "82282"
+      },
+      {
+         "State": "New Hampshire",
+         "Number of fires": "16",
+         "Number of acres burned": "25"
+      },
+      {
+         "State": "New Jersey",
+         "Number of fires": "727",
+         "Number of acres burned": "11346"
+      },
+      {
+         "State": "New Mexico",
+         "Number of fires": "859",
+         "Number of acres burned": "79887"
+      },
+      {
+         "State": "New York",
+         "Number of fires": "79",
+         "Number of acres burned": "221"
+      },
+      {
+         "State": "North Carolina",
+         "Number of fires": "3872",
+         "Number of acres burned": "14548"
+      },
+      {
+         "State": "North Dakota",
+         "Number of fires": "488",
+         "Number of acres burned": "4454"
+      },
+      {
+         "State": "Ohio",
+         "Number of fires": "498",
+         "Number of acres burned": "1038"
+      },
+      {
+         "State": "Oklahoma",
+         "Number of fires": "1104",
+         "Number of acres burned": "67142"
+      },
+      {
+         "State": "Oregon",
+         "Number of fires": "2293",
+         "Number of acres burned": "79732"
+      },
+      {
+         "State": "Pennsylvania",
+         "Number of fires": "547",
+         "Number of acres burned": "691"
+      },
+      {
+         "State": "Rhode Island",
+         "Number of fires": "45",
+         "Number of acres burned": "33"
+      },
+      {
+         "State": "South Carolina",
+         "Number of fires": "992",
+         "Number of acres burned": "5939"
+      },
+      {
+         "State": "South Dakota",
+         "Number of fires": "346",
+         "Number of acres burned": "2261"
+      },
+      {
+         "State": "Tennessee",
+         "Number of fires": "571",
+         "Number of acres burned": "5478"
+      },
+      {
+         "State": "Texas",
+         "Number of fires": "6892",
+         "Number of acres burned": "215493"
+      },
+      {
+         "State": "Utah",
+         "Number of fires": "1025",
+         "Number of acres burned": "92380"
+      },
+      {
+         "State": "Vermont",
+         "Number of fires": "19",
+         "Number of acres burned": "22"
+      },
+      {
+         "State": "Virginia",
+         "Number of fires": "364",
+         "Number of acres burned": "2643"
+      },
+      {
+         "State": "Washington",
+         "Number of fires": "1394",
+         "Number of acres burned": "169742"
+      },
+      {
+         "State": "West Virginia",
+         "Number of fires": "593",
+         "Number of acres burned": "7653"
+      },
+      {
+         "State": "Wisconsin",
+         "Number of fires": "710",
+         "Number of acres burned": "1198"
+      },
+      {
+         "State": "Wyoming",
+         "Number of fires": "486",
+         "Number of acres burned": "41857"
+      }
+   ],
+   "gold": "This statistic shows the number of fires and acres burned due to U.S. wildfires in 2019 , by state . In that year , 88 wildfires occurred in Connecticut , which accounted for 72 acres of burned land . In total , there were 50,477 wildfires reported in the United States , burning about 4.66 million acres of land .\n"
+}

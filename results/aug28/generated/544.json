@@ -1,0 +1,69 @@
+{
+   "title": "Life expectancy at birth in Germany 2017",
+   "xAxis": "Year",
+   "yAxis": "Life expectancy at birth in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Life expectancy of birth in Germany from 2007 to 2017 . ",
+      "In 2017 , the average Life expectancy of women at birth in Germany was about 81.09 years ."
+   ],
+   "trends": [
+      {
+         "11": "10",
+         "13": "0"
+      },
+      {
+         "1": "0",
+         "15": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Life expectancy at birth in years": "80.99"
+      },
+      {
+         "Year": "2016",
+         "Life expectancy at birth in years": "80.99"
+      },
+      {
+         "Year": "2015",
+         "Life expectancy at birth in years": "80.64"
+      },
+      {
+         "Year": "2014",
+         "Life expectancy at birth in years": "81.09"
+      },
+      {
+         "Year": "2013",
+         "Life expectancy at birth in years": "80.49"
+      },
+      {
+         "Year": "2012",
+         "Life expectancy at birth in years": "80.54"
+      },
+      {
+         "Year": "2011",
+         "Life expectancy at birth in years": "80.44"
+      },
+      {
+         "Year": "2010",
+         "Life expectancy at birth in years": "79.99"
+      },
+      {
+         "Year": "2009",
+         "Life expectancy at birth in years": "79.84"
+      },
+      {
+         "Year": "2008",
+         "Life expectancy at birth in years": "79.74"
+      },
+      {
+         "Year": "2007",
+         "Life expectancy at birth in years": "79.53"
+      }
+   ],
+   "gold": "This statistic shows the average life expectancy at birth in Germany from 2007 to 2017 . A child born in the year 2017 had an average life expectancy of 80.99 years .\n"
+}

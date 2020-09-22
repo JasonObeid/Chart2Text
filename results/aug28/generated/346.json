@@ -1,0 +1,61 @@
+{
+   "title": "Number of pet birds in the U.S. 2000 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of birds in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number birds of the Number U.S. from 2000 to 2017 . ",
+      "In 2017 , the average Number birds of U.S. was 20.6 millions ."
+   ],
+   "trends": [
+      {
+         "12": "8",
+         "14": "0"
+      },
+      {
+         "1": "0",
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of birds in millions": "20.6"
+      },
+      {
+         "Year": "2015",
+         "Number of birds in millions": "14.3"
+      },
+      {
+         "Year": "2014",
+         "Number of birds in millions": "20.6"
+      },
+      {
+         "Year": "2012",
+         "Number of birds in millions": "16.2"
+      },
+      {
+         "Year": "2008",
+         "Number of birds in millions": "15.0"
+      },
+      {
+         "Year": "2006",
+         "Number of birds in millions": "16.0"
+      },
+      {
+         "Year": "2004",
+         "Number of birds in millions": "16.6"
+      },
+      {
+         "Year": "2002",
+         "Number of birds in millions": "17.3"
+      },
+      {
+         "Year": "2000",
+         "Number of birds in millions": "19.0"
+      }
+   ],
+   "gold": "According to a national pet owners survey , the number of birds owned as a pet by households in the United States reached 20.6 million in 2017 . The number of pet birds has fluctuated over the past few years , hitting a low of 14.3 million in 2015 . Americans love their pets Some 68 percent of all households in the United States owned at least one pet in 2017 , this is an increase of over 10 percent since 1988 .\n"
+}

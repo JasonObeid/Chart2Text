@@ -1,0 +1,106 @@
+{
+   "title": "Share of economic sectors in the GDP in Portugal 2008 to 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the Share of the economic sectors GDP ( Portugal ) 2008 2018 in Portugal from 2008 to 2018 . ",
+      "In 2018 , Agriculture contributed around 2.05 % to the Portugal of , 19.16 % came from the Industry and 65.26 % from the service sector ."
+   ],
+   "trends": [
+      {
+         "19": [
+            "10",
+            "0"
+         ],
+         "21": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "6": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "2.05",
+         "Industry": "19.16",
+         "Services": "65.26"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "2.1",
+         "Industry": "19.12",
+         "Services": "65.36"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "2.07",
+         "Industry": "19.33",
+         "Services": "65.47"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "2.1",
+         "Industry": "19.46",
+         "Services": "65.53"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "2.08",
+         "Industry": "18.94",
+         "Services": "66.32"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "2.1",
+         "Industry": "18.87",
+         "Services": "66.9"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "1.92",
+         "Industry": "19.11",
+         "Services": "66.44"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "1.83",
+         "Industry": "19.34",
+         "Services": "66.35"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "1.94",
+         "Industry": "19.95",
+         "Services": "66.06"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "1.95",
+         "Industry": "19.86",
+         "Services": "66.87"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "1.96",
+         "Industry": "20.39",
+         "Services": "64.84"
+      }
+   ],
+   "gold": "This statistic shows the share of economic sectors in gross domestic product ( GDP ) in Portugal from 2007 to 2018 . In 2018 , the share of agriculture in Portugal 's gross domestic product was 2.05 percent , industry contributed approximately 19.16 percent and the services sector contributed about 65.26 percent .\n"
+}

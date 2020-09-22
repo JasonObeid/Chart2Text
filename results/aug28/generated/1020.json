@@ -1,0 +1,34 @@
+{
+   "title": "Public opinion on adoption rights for same-sex couples in the U.S. 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the results of a survey among U.S. regarding their adoption . ",
+      "During the survey period , it was found that 63 % of the respondents stated that they are Yes_should of the Public ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "18": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Yes should",
+         "Share of respondents": "63"
+      },
+      {
+         "Response": "No should not",
+         "Share of respondents": "35"
+      },
+      {
+         "Response": "No opinion",
+         "Share of respondents": "2"
+      }
+   ],
+   "gold": "This statistic shows the results of a survey , conducted by Gallup in the United States in May 2014 , on adoption rights for gay and lesbian couples . During this survey , 63 percent of the respondents were in favor of adoption rights for gay and lesbian couples in the United States .\n"
+}

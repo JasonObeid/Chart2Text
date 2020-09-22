@@ -1,0 +1,62 @@
+{
+   "title": "Companies on the Norwegian insurance market 2011 to 2015",
+   "labels": [
+      "Year",
+      "Domestic market",
+      "Total market"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "In 2015 , there was a Total of 118 Domestic insurance Companies operating in the Norwegian insurance market . ",
+      "The Norwegian insurance market employs over 29 thousand staff and paid out more than seven billion euros in life insurance benefits in 2014 . ",
+      "The latest figures show that the largest insurance group in Austria by market share was the Vien insurance Group ."
+   ],
+   "trends": [
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "8": [
+            "3",
+            "1"
+         ]
+      },
+      {
+         "22": [
+            "1",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2014",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2013",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2012",
+         "Domestic market": "118",
+         "Total market": "118"
+      },
+      {
+         "Year": "2011",
+         "Domestic market": "117",
+         "Total market": "117"
+      }
+   ],
+   "gold": "The statistic shows the number of companies operating on the insurance market in Norway from 2011 to 2015 . Throughout the period the number of insurance companies on the domestic market remained stable at 119 companies between 2013 and 2015 .\n"
+}

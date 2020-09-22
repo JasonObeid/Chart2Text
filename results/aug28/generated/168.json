@@ -1,0 +1,96 @@
+{
+   "title": "Gender distribution of newspaper journalists in the U.S. 2017 , by publication",
+   "labels": [
+      "Newspaper",
+      "Female",
+      "Male"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "The statistic shows the 2017 of adults in the U.S. who have used distribution newspaper 2017 , U.S. Newspaper . ",
+      "According to the survey period , it was found that 31 % of Male respondents said that they had a Male ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Newspaper": "USA Today",
+         "Female": "31",
+         "Male": "69"
+      },
+      {
+         "Newspaper": "Chicago Sun Times",
+         "Female": "32",
+         "Male": "68"
+      },
+      {
+         "Newspaper": "The Wall Street Journal",
+         "Female": "36",
+         "Male": "64"
+      },
+      {
+         "Newspaper": "Houston Chronicle",
+         "Female": "38",
+         "Male": "62"
+      },
+      {
+         "Newspaper": "San Jose Mercury News",
+         "Female": "38",
+         "Male": "62"
+      },
+      {
+         "Newspaper": "The New York Times",
+         "Female": "41",
+         "Male": "59"
+      },
+      {
+         "Newspaper": "Chicago Tribune",
+         "Female": "42",
+         "Male": "58"
+      },
+      {
+         "Newspaper": "New York Post",
+         "Female": "42",
+         "Male": "58"
+      },
+      {
+         "Newspaper": "Los Angeles Times",
+         "Female": "43",
+         "Male": "57"
+      },
+      {
+         "Newspaper": "Newsday",
+         "Female": "43",
+         "Male": "57"
+      },
+      {
+         "Newspaper": "The Washington Post",
+         "Female": "44",
+         "Male": "56"
+      },
+      {
+         "Newspaper": "The Dallas Morning News",
+         "Female": "44",
+         "Male": "56"
+      },
+      {
+         "Newspaper": "The Arizona Republic",
+         "Female": "46",
+         "Male": "54"
+      },
+      {
+         "Newspaper": "The Philadelphia Inquirer",
+         "Female": "48",
+         "Male": "52"
+      }
+   ],
+   "gold": "The statistic shows the gender breakdown of journalists employed at selected newspapers in the Unites States as of November 2017 . According to the report , 41 percent of the journalists reporting for the New York Times were female as of the date of survey , and 48 percent of journalists at The Philadelphia Inquirer were women . The publication with the lowest share of female journalists was USA Today with 31 percent of women working for the newspaper in that role .\n"
+}

@@ -1,0 +1,92 @@
+{
+   "title": "Mercedes : market share of new car registrations in the EU 2019",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic illustrates the monthly Market share of the market manufacturer Mercedes in the EU ( UK ) between 2016 and 2019 . ",
+      "The company 's Market share has gradually decreased from in this time period from 4.6 % in 2016 to 5.9 % in 2019 . ",
+      "Mercedes is one of the leading market manufacturers in the UK ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "29",
+         "19": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Market share": "5.9"
+      },
+      {
+         "Month": "Nov 19",
+         "Market share": "6.2"
+      },
+      {
+         "Month": "Oct 19",
+         "Market share": "6.4"
+      },
+      {
+         "Month": "Sep 19",
+         "Market share": "6.9"
+      },
+      {
+         "Month": "Aug 19",
+         "Market share": "5.7"
+      },
+      {
+         "Month": "Jul 19",
+         "Market share": "5.6"
+      },
+      {
+         "Month": "Jun 19",
+         "Market share": "4.9"
+      },
+      {
+         "Month": "May 19",
+         "Market share": "5.3"
+      },
+      {
+         "Month": "Apr 19",
+         "Market share": "5.5"
+      },
+      {
+         "Month": "Mar 19",
+         "Market share": "4.9"
+      },
+      {
+         "Month": "Feb 19",
+         "Market share": "5.3"
+      },
+      {
+         "Month": "Jan 19",
+         "Market share": "5.3"
+      },
+      {
+         "Month": "Dec 18",
+         "Market share": "6.6"
+      },
+      {
+         "Month": "Nov 18",
+         "Market share": "6.4"
+      },
+      {
+         "Month": "Oct 18",
+         "Market share": "6.8"
+      },
+      {
+         "Month": "Sep 18",
+         "Market share": "7.2"
+      },
+      {
+         "Month": "Aug 18",
+         "Market share": "4.6"
+      }
+   ],
+   "gold": "This statistic shows Mercedes 's share of new car registrations in the EU between August 2018 and December 2019 . In December 2019 , Mercedes had a market share of 5.9 percent in the EU . At 71,300 units , the brand 's vehicle sales were about 8.5 percent above the same month one year earlier , mainly thanks to increased demand from German customers .\n"
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Sexual orientation of Americans in 2013",
+   "labels": [
+      "Sexual Orientation",
+      "Women",
+      "Men"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic depicts the distribution of Sexual orientation Americans in the Americans ( ) in 2013 , . ",
+      "It was found that 1.5 % of the Lesbian_/_Gay and 1.8 % of all Lesbian_/_Gay ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": [
+            "0",
+            "1"
+         ],
+         "8": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Sexual Orientation": "Lesbian / Gay",
+         "Women": "1.5",
+         "Men": "1.8"
+      },
+      {
+         "Sexual Orientation": "Bisexual",
+         "Women": "0.9",
+         "Men": "0.4"
+      },
+      {
+         "Sexual Orientation": "Straight",
+         "Women": "97.7",
+         "Men": "97.8"
+      }
+   ],
+   "gold": "This statistic shows the share of adults in the United States who identify as lesbian , gay , bisexual , or straight in 2013 . In 2013 , 1.5 percent of American adult women identify as lesbian , while 1.8 of American adult men identify as gay .\n"
+}

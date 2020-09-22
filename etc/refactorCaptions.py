@@ -1,4 +1,4 @@
-import scripts.tokenizer as tkn
+import etc.tokenizer as tkn
 import os
 
 summaryPaths = os.listdir('../dataset/captions_old/')

@@ -1,0 +1,38 @@
+{
+   "title": "Organ donation rate in the United Kingdom 2018/19 , by country",
+   "xAxis": "Country",
+   "yAxis": "Rate of donation per million population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Rate donation of the Organ donation in . ",
+      "In , the Scotland had the highest Rate donation of United Kingdom was 30.7 per million ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "13": "3"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Scotland",
+         "Rate of donation per million population": "17.9"
+      },
+      {
+         "Country": "Northern Ireland",
+         "Rate of donation per million population": "23.0"
+      },
+      {
+         "Country": "England",
+         "Rate of donation per million population": "24.5"
+      },
+      {
+         "Country": "Wales",
+         "Rate of donation per million population": "30.7"
+      }
+   ],
+   "gold": "In 2018/19 , the organ donation rate in Wales was 30.7 per million population , the highest rate in the United Kingdom . With 24.5 organ donations per million population , England had the second highest rate . Scotland had the lowest rate of the countries of the UK .\n"
+}

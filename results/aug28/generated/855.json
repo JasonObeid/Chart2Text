@@ -1,0 +1,231 @@
+{
+   "title": "Hispanic high school graduation rate , by state U.S. 2017",
+   "xAxis": "State",
+   "yAxis": "Graduation rate of the class of 2016",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the 20 Hispanic of high in the graduation in 2017 , rate State . ",
+      "In that year , the West_Virginia of had the highest Graduation rate of approximately 92 class 2016 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "7": "0",
+         "15": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "West Virginia",
+         "Graduation rate of the class of 2016": "92"
+      },
+      {
+         "State": "Vermont",
+         "Graduation rate of the class of 2016": "90"
+      },
+      {
+         "State": "Maine",
+         "Graduation rate of the class of 2016": "89"
+      },
+      {
+         "State": "Alabama",
+         "Graduation rate of the class of 2016": "88"
+      },
+      {
+         "State": "Texas",
+         "Graduation rate of the class of 2016": "87.7"
+      },
+      {
+         "State": "Arkansas",
+         "Graduation rate of the class of 2016": "85.7"
+      },
+      {
+         "State": "Missouri",
+         "Graduation rate of the class of 2016": "84.4"
+      },
+      {
+         "State": "New Jersey",
+         "Graduation rate of the class of 2016": "84.3"
+      },
+      {
+         "State": "Kentucky",
+         "Graduation rate of the class of 2016": "84"
+      },
+      {
+         "State": "Tennessee",
+         "Graduation rate of the class of 2016": "83.8"
+      },
+      {
+         "State": "Illinois",
+         "Graduation rate of the class of 2016": "83.5"
+      },
+      {
+         "State": "Iowa",
+         "Graduation rate of the class of 2016": "82.4"
+      },
+      {
+         "State": "Delaware",
+         "Graduation rate of the class of 2016": "82"
+      },
+      {
+         "State": "Nebraska",
+         "Graduation rate of the class of 2016": "81.6"
+      },
+      {
+         "State": "Florida",
+         "Graduation rate of the class of 2016": "81.3"
+      },
+      {
+         "State": "Kansas",
+         "Graduation rate of the class of 2016": "81.1"
+      },
+      {
+         "State": "Mississippi",
+         "Graduation rate of the class of 2016": "81"
+      },
+      {
+         "State": "North Carolina",
+         "Graduation rate of the class of 2016": "80.6"
+      },
+      {
+         "State": "South Carolina",
+         "Graduation rate of the class of 2016": "80.5"
+      },
+      {
+         "State": "California",
+         "Graduation rate of the class of 2016": "80.3"
+      },
+      {
+         "State": "Wisconsin",
+         "Graduation rate of the class of 2016": "80.3"
+      },
+      {
+         "State": "Wyoming",
+         "Graduation rate of the class of 2016": "80"
+      },
+      {
+         "State": "U.S. average",
+         "Graduation rate of the class of 2016": "80"
+      },
+      {
+         "State": "Montana",
+         "Graduation rate of the class of 2016": "80"
+      },
+      {
+         "State": "Hawaii",
+         "Graduation rate of the class of 2016": "80"
+      },
+      {
+         "State": "Nevada",
+         "Graduation rate of the class of 2016": "79.7"
+      },
+      {
+         "State": "Oklahoma",
+         "Graduation rate of the class of 2016": "79.3"
+      },
+      {
+         "State": "Connecticut",
+         "Graduation rate of the class of 2016": "77.7"
+      },
+      {
+         "State": "Utah",
+         "Graduation rate of the class of 2016": "77.3"
+      },
+      {
+         "State": "Alaska",
+         "Graduation rate of the class of 2016": "77"
+      },
+      {
+         "State": "Rhode Island",
+         "Graduation rate of the class of 2016": "76"
+      },
+      {
+         "State": "North Dakota",
+         "Graduation rate of the class of 2016": "76"
+      },
+      {
+         "State": "New Hampshire",
+         "Graduation rate of the class of 2016": "76"
+      },
+      {
+         "State": "Indiana",
+         "Graduation rate of the class of 2016": "75.8"
+      },
+      {
+         "State": "Idaho",
+         "Graduation rate of the class of 2016": "74.8"
+      },
+      {
+         "State": "Arizona",
+         "Graduation rate of the class of 2016": "74.5"
+      },
+      {
+         "State": "Massachusetts",
+         "Graduation rate of the class of 2016": "74.4"
+      },
+      {
+         "State": "Maryland",
+         "Graduation rate of the class of 2016": "74"
+      },
+      {
+         "State": "Pennsylvania",
+         "Graduation rate of the class of 2016": "73.9"
+      },
+      {
+         "State": "Ohio",
+         "Graduation rate of the class of 2016": "73.6"
+      },
+      {
+         "State": "Georgia",
+         "Graduation rate of the class of 2016": "73.6"
+      },
+      {
+         "State": "Michigan",
+         "Graduation rate of the class of 2016": "73.3"
+      },
+      {
+         "State": "Virginia",
+         "Graduation rate of the class of 2016": "73"
+      },
+      {
+         "State": "Washington",
+         "Graduation rate of the class of 2016": "72.7"
+      },
+      {
+         "State": "Oregon",
+         "Graduation rate of the class of 2016": "72.5"
+      },
+      {
+         "State": "District of Columbia",
+         "Graduation rate of the class of 2016": "72"
+      },
+      {
+         "State": "New York",
+         "Graduation rate of the class of 2016": "71.2"
+      },
+      {
+         "State": "Colorado",
+         "Graduation rate of the class of 2016": "71.1"
+      },
+      {
+         "State": "South Dakota",
+         "Graduation rate of the class of 2016": "71"
+      },
+      {
+         "State": "New Mexico",
+         "Graduation rate of the class of 2016": "70.5"
+      },
+      {
+         "State": "Louisiana",
+         "Graduation rate of the class of 2016": "67"
+      },
+      {
+         "State": "Minnesota",
+         "Graduation rate of the class of 2016": "66.3"
+      }
+   ],
+   "gold": "This statistic shows the high school graduation rate of Hispanic ( Latino ) students in the United States of the class of 2017 . Data is distinguished by state . In 2017 , West Virginia had the highest graduation rate for Hispanic students in the U.S. at 92 percent .\n"
+}

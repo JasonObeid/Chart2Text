@@ -1,0 +1,146 @@
+{
+   "title": "Number of operable nuclear reactor plants by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Number of reactors",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , there were 52 nuclear reactors plants by worldwide , with the majority being built in United_States . ",
+      "Comparatively , there were 186 nuclear reactors shut down permanently as of that year . ",
+      "The Japan United_Kingdom had permanently shut down 37 nuclear facilities as of 2020 ."
+   ],
+   "trends": [
+      {
+         "19": "0"
+      },
+      {},
+      {
+         "1": "3",
+         "2": "9"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Number of reactors": "97"
+      },
+      {
+         "Country": "France",
+         "Number of reactors": "58"
+      },
+      {
+         "Country": "China",
+         "Number of reactors": "45"
+      },
+      {
+         "Country": "Japan",
+         "Number of reactors": "37"
+      },
+      {
+         "Country": "Russia",
+         "Number of reactors": "36"
+      },
+      {
+         "Country": "South Korea",
+         "Number of reactors": "24"
+      },
+      {
+         "Country": "India",
+         "Number of reactors": "22"
+      },
+      {
+         "Country": "Canada",
+         "Number of reactors": "19"
+      },
+      {
+         "Country": "Ukraine",
+         "Number of reactors": "15"
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of reactors": "15"
+      },
+      {
+         "Country": "Sweden",
+         "Number of reactors": "8"
+      },
+      {
+         "Country": "Spain",
+         "Number of reactors": "7"
+      },
+      {
+         "Country": "Belgium",
+         "Number of reactors": "7"
+      },
+      {
+         "Country": "Germany",
+         "Number of reactors": "7"
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of reactors": "6"
+      },
+      {
+         "Country": "Switzerland",
+         "Number of reactors": "5"
+      },
+      {
+         "Country": "Pakistan",
+         "Number of reactors": "5"
+      },
+      {
+         "Country": "Slovakia",
+         "Number of reactors": "4"
+      },
+      {
+         "Country": "Hungary",
+         "Number of reactors": "4"
+      },
+      {
+         "Country": "Finland",
+         "Number of reactors": "4"
+      },
+      {
+         "Country": "Argentina",
+         "Number of reactors": "3"
+      },
+      {
+         "Country": "Mexico",
+         "Number of reactors": "2"
+      },
+      {
+         "Country": "Romania",
+         "Number of reactors": "2"
+      },
+      {
+         "Country": "South Africa",
+         "Number of reactors": "2"
+      },
+      {
+         "Country": "Brazil",
+         "Number of reactors": "2"
+      },
+      {
+         "Country": "Bulgaria",
+         "Number of reactors": "2"
+      },
+      {
+         "Country": "Iran",
+         "Number of reactors": "1"
+      },
+      {
+         "Country": "Netherlands",
+         "Number of reactors": "1"
+      },
+      {
+         "Country": "Armenia",
+         "Number of reactors": "1"
+      },
+      {
+         "Country": "Slovenia",
+         "Number of reactors": "1"
+      }
+   ],
+   "gold": "The statistic shows the number of operable nuclear reactors as of June 2019 , by country . In the United Kingdom , 15 nuclear power reactors were in operation as of this time . Operable nuclear reactors are those connected to the grid .\n"
+}

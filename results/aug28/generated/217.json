@@ -1,0 +1,49 @@
+{
+   "title": "U.S. students who have used hallucinogenic drugs 2017",
+   "labels": [
+      "Sex",
+      "All races / ethnicities",
+      "White (non-Hispanic)",
+      "Black (non-Hispanic)",
+      "Hispanic"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summary": [
+      "This statistic shows the results of a survey among American students who have in the U.S. in 2017 , hallucinogenic drugs . ",
+      "According to the survey , 5.5 % of the students who used were hallucinogenic drugs 2017 2015 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "All races / ethnicities": "5.5",
+         "White (non-Hispanic)": "6.4",
+         "Black (non-Hispanic)": "1.4",
+         "Hispanic": "5.8"
+      },
+      {
+         "Sex": "Male",
+         "All races / ethnicities": "7.6",
+         "White (non-Hispanic)": "7.9",
+         "Black (non-Hispanic)": "4.8",
+         "Hispanic": "8.2"
+      },
+      {
+         "Sex": "Total",
+         "All races / ethnicities": "6.6",
+         "White (non-Hispanic)": "7.2",
+         "Black (non-Hispanic)": "3.3",
+         "Hispanic": "7.1"
+      }
+   ],
+   "gold": "This statistic shows the share of American high school students in grades 9 to 12 who stated they have used hallucinogenic drugs at least once in their life as of 2017 , by gender and ethnicity . According to the survey , 7.9 percent of male student respondents with a white , non-Hispanic background stated they have used hallucinogenic drugs ( e.g . LSD , acid , PCP , angel dust , mescaline , or mushrooms ) one or more times during their life .\n"
+}

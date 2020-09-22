@@ -1,0 +1,74 @@
+{
+   "title": "Number of visitors to Grand Teton National Park in the U.S. 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Number of recreational visitors to the Grand Teton National Park Memorial in the Park from 2008 to 2019 . ",
+      "The Number of visitors to the Grand Teton National Park Memorial amounted to approximately 3.41 in 2019 ."
+   ],
+   "trends": [
+      {
+         "16": "11",
+         "18": "0"
+      },
+      {
+         "11": "0",
+         "12": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": "3.41"
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": "3.49"
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": "3.32"
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": "3.27"
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": "3.15"
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": "2.79"
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": "2.69"
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": "2.71"
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": "2.59"
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": "2.67"
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": "2.58"
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": "2.49"
+      }
+   ],
+   "gold": "This statistic shows the number of recreational visitors to Grand Teton National Park in the United States from 2008 to 2019 . The number of visitors to Grand Teton National Park amounted to approximately 3.41 million in 2019 .\n"
+}

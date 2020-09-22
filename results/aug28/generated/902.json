@@ -1,0 +1,103 @@
+{
+   "title": "Average price of cut flowers sold in auctions in the Netherlands 2018 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Average price per flower in eurocent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Average of price Average flowers on Netherlands from 2016 to 2019 . ",
+      "In 2019 , the Average of price was valued at 35 per flower eurocent . ",
+      "The Average price is based on the prices ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "0"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec '19",
+         "Average price per flower in eurocent": "35"
+      },
+      {
+         "Month": "Nov '19",
+         "Average price per flower in eurocent": "36"
+      },
+      {
+         "Month": "Oct '19",
+         "Average price per flower in eurocent": "33"
+      },
+      {
+         "Month": "Sep '19",
+         "Average price per flower in eurocent": "28"
+      },
+      {
+         "Month": "Aug '19",
+         "Average price per flower in eurocent": "25"
+      },
+      {
+         "Month": "Jul '19",
+         "Average price per flower in eurocent": "22"
+      },
+      {
+         "Month": "Jun '19",
+         "Average price per flower in eurocent": "25"
+      },
+      {
+         "Month": "May '19",
+         "Average price per flower in eurocent": "35"
+      },
+      {
+         "Month": "Apr '19",
+         "Average price per flower in eurocent": "24"
+      },
+      {
+         "Month": "Mar '19",
+         "Average price per flower in eurocent": "24"
+      },
+      {
+         "Month": "Feb '19",
+         "Average price per flower in eurocent": "28"
+      },
+      {
+         "Month": "Jan '19",
+         "Average price per flower in eurocent": "26"
+      },
+      {
+         "Month": "Dec '18",
+         "Average price per flower in eurocent": "35"
+      },
+      {
+         "Month": "Nov '18",
+         "Average price per flower in eurocent": "34"
+      },
+      {
+         "Month": "Oct '18",
+         "Average price per flower in eurocent": "31"
+      },
+      {
+         "Month": "Sep '18",
+         "Average price per flower in eurocent": "28"
+      },
+      {
+         "Month": "Aug '18",
+         "Average price per flower in eurocent": "27"
+      },
+      {
+         "Month": "Jul '18",
+         "Average price per flower in eurocent": "21"
+      },
+      {
+         "Month": "Jun '18",
+         "Average price per flower in eurocent": "28"
+      },
+      {
+         "Month": "May '18",
+         "Average price per flower in eurocent": "30"
+      }
+   ],
+   "gold": "This statistic displays the average price of cut flowers sold in auctions in the Netherlands from May 2018 to December 2019 ( in eurocent per flower ) . In December 2019 , the average price of a flower sold on an auction in the Netherlands was 35 eurocent .\n"
+}

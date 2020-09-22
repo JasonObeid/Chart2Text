@@ -240,12 +240,12 @@ goldTemplatePath = '../data/test/testSummary.txt'
 dataPath = '../data/test/testData.txt'
 titlePath = '../data/test/testTitle.txt'
 
-analysisPath = '../results/aug17/analysis-p80.txt'
-generatedPath = '../results/aug17/templateOutput-p80.txt'
-comparisonPath = '../results/aug17/summaryComparison-p80.txt'
-outputPath = '../results/aug17/generated-p80.txt'
-websitePath = '../results/aug17/generated'
-newDataPath = '../results/aug17/data'
+analysisPath = '../results/aug28/analysis-p80.txt'
+generatedPath = '../results/aug28/templateOutput-p80.txt'
+comparisonPath = '../results/aug28/summaryComparison-p80.txt'
+outputPath = '../results/aug28/generated-p80.txt'
+websitePath = '../results/aug28/generated'
+newDataPath = '../results/aug28/data'
 
 nlp = spacy.load('en_core_web_md')
 fb = FitBert()
@@ -326,11 +326,12 @@ with open(goldPath, 'r', encoding='utf-8') as goldFile, open(generatedPath, 'r',
                                 idxType = 'max'
                             if 'min' in token:
                                 idxType = 'min'
-                            parallelColumnIndex = int(token[-3:-2])
-                            valueIndex = mapParallelIndex(valueArr[parallelColumnIndex], idxType)
                             try:
+                                parallelColumnIndex = int(token[-3:-2])
+                                valueIndex = mapParallelIndex(valueArr[parallelColumnIndex], idxType)
                                 replacedToken = valueArr[parallelColumnIndex][valueIndex]
                             except:
+                                parallelColumnIndex = 0
                                 print(f'{idxType} error at {index} in {title}')
                                 replacedToken = valueArr[parallelColumnIndex][rowLength]
                         elif token == 'templateScale':

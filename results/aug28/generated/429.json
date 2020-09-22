@@ -1,0 +1,106 @@
+{
+   "title": "Share of ethnic minorities in the China 's minority autonomous regions 2018",
+   "xAxis": "Province",
+   "yAxis": "Share of ethnic minorities",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Share ethnic of the Share ethnic minorities China 's in China 2018 , regions Province . ",
+      "In 2018 , the Share of Tibet had the highest Share ethnic of 90.05 minorities ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "13": "0"
+      }
+   ],
+   "data": [
+      {
+         "Province": "Tibet",
+         "Share of ethnic minorities": "90.05"
+      },
+      {
+         "Province": "Hunan",
+         "Share of ethnic minorities": "83.5"
+      },
+      {
+         "Province": "Chongqing",
+         "Share of ethnic minorities": "74.39"
+      },
+      {
+         "Province": "Qinghai",
+         "Share of ethnic minorities": "67.57"
+      },
+      {
+         "Province": "Hebei",
+         "Share of ethnic minorities": "63.75"
+      },
+      {
+         "Province": "Sichuan",
+         "Share of ethnic minorities": "63.03"
+      },
+      {
+         "Province": "Gansu",
+         "Share of ethnic minorities": "62.69"
+      },
+      {
+         "Province": "Xinjiang",
+         "Share of ethnic minorities": "60.22"
+      },
+      {
+         "Province": "Guizhou",
+         "Share of ethnic minorities": "60.14"
+      },
+      {
+         "Province": "Yunnan",
+         "Share of ethnic minorities": "58.87"
+      },
+      {
+         "Province": "Hubei",
+         "Share of ethnic minorities": "56.78"
+      },
+      {
+         "Province": "Liaoning",
+         "Share of ethnic minorities": "54.49"
+      },
+      {
+         "Province": "Hainan",
+         "Share of ethnic minorities": "51.69"
+      },
+      {
+         "Province": "National total",
+         "Share of ethnic minorities": "51.07"
+      },
+      {
+         "Province": "Guangxi",
+         "Share of ethnic minorities": "44.75"
+      },
+      {
+         "Province": "Guangdong",
+         "Share of ethnic minorities": "38.7"
+      },
+      {
+         "Province": "Ningxia",
+         "Share of ethnic minorities": "37.39"
+      },
+      {
+         "Province": "Jilin",
+         "Share of ethnic minorities": "34.49"
+      },
+      {
+         "Province": "Inner Mongolia",
+         "Share of ethnic minorities": "22.16"
+      },
+      {
+         "Province": "Heilongjiang",
+         "Share of ethnic minorities": "21.87"
+      },
+      {
+         "Province": "Zhejiang",
+         "Share of ethnic minorities": "11.81"
+      }
+   ],
+   "gold": "The graph shows the share of ethnic minorities in the population of China 's minority autonomous regions by province . In 2018 , about 60.22 percent of the population in minority areas in Xinjiang belonged to ethnic minorities .\n"
+}

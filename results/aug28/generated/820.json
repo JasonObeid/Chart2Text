@@ -1,0 +1,74 @@
+{
+   "title": "Total population of Myanmar 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Total population of Myanmar from 2014 to 2018 , with projections up until 2024 . ",
+      "In 2018 , the Total population of Myanmar was around 52.83 millions Inhabitants . ",
+      "population of Myanmar After a subtle year-over-year increase from 2004 to 2011 , the population of Myanmar has experienced a slight drop from 2011 until 2014 ."
+   ],
+   "trends": [
+      {
+         "9": "10",
+         "11": "6",
+         "17": "0"
+      },
+      {
+         "1": "6",
+         "10": "6"
+      },
+      {
+         "25": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": "54.65"
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": "54.36"
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": "54.05"
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": "53.72"
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": "53.38"
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": "53.02"
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": "52.83"
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": "52.65"
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": "52.25"
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": "51.85"
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": "51.42"
+      }
+   ],
+   "gold": "This statistic shows the total population of Myanmar , also known as Burma , from 2014 to 2024 . All figures after 2015 are estimates . In 2015 , the total population of Myanmar was at approximately 51.85 million inhabitants .\n"
+}

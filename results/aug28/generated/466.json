@@ -1,0 +1,43 @@
+{
+   "title": "Vehicle sales in the United States 2019",
+   "xAxis": "Vehicles",
+   "yAxis": "Vehicle retail sales in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "As of 2019 , it was found that 17494.6 thousands of people thousands on Light_vehicles_(total) accounted for up to 12237.8 thousands of the retail 2019 . ",
+      "The Vehicle of all sales thousands can be linked to various statistic on the platform ."
+   ],
+   "trends": [
+      {
+         "8": "4",
+         "14": "0",
+         "19": "1"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Vehicles": "Light vehicles (total)",
+         "Vehicle retail sales in thousands": "16965.2"
+      },
+      {
+         "Vehicles": "Thereof light trucks",
+         "Vehicle retail sales in thousands": "12237.8"
+      },
+      {
+         "Vehicles": "Thereof autos",
+         "Vehicle retail sales in thousands": "4727.3"
+      },
+      {
+         "Vehicles": "Heavy trucks",
+         "Vehicle retail sales in thousands": "529.5"
+      },
+      {
+         "Vehicles": "Motor vehicles (total)",
+         "Vehicle retail sales in thousands": "17494.6"
+      }
+   ],
+   "gold": "In 2019 , a little under 17.5 million heavy trucks , light trucks , and cars were sold to customers in the United States . Light trucks accounted for about 70 percent of U.S. motor vehicle sales that year .\n"
+}

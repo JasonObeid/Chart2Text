@@ -1,0 +1,62 @@
+{
+   "title": "Countries with the largest number of cosmetic procedures 2018",
+   "xAxis": "Country",
+   "yAxis": "Number of procedures",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows the Number of the largest number Countries procedures in 2018 , . ",
+      "According to the source , there were over 1043247 procedures of people in Mexico ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "2",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Number of procedures": "4361867"
+      },
+      {
+         "Country": "Brazil",
+         "Number of procedures": "2267405"
+      },
+      {
+         "Country": "Mexico",
+         "Number of procedures": "1043247"
+      },
+      {
+         "Country": "Germany",
+         "Number of procedures": "922056"
+      },
+      {
+         "Country": "India",
+         "Number of procedures": "895896"
+      },
+      {
+         "Country": "Italy",
+         "Number of procedures": "854208"
+      },
+      {
+         "Country": "Argentina",
+         "Number of procedures": "608960"
+      },
+      {
+         "Country": "Colombia",
+         "Number of procedures": "408789"
+      },
+      {
+         "Country": "Australia",
+         "Number of procedures": "202642"
+      },
+      {
+         "Country": "Thailand",
+         "Number of procedures": "140123"
+      }
+   ],
+   "gold": "Cosmetic procedures are popular among people that want to enhance select features of their body through surgical and nonsurgical methods . As of 2018 , the United States had the largest number of cosmetic procedures during that year with over 4.3 million procedures . Brazil had the second largest number of cosmetic procedures with almost 2.3 million procedures during that year .\n"
+}

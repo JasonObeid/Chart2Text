@@ -1,0 +1,77 @@
+{
+   "title": "Average ticket price of the Tampa Bay Buccaneers 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph depicts the Average ticket price for Tampa Bay Buccaneers games in Major League Baseball from 2006 to 2019 . ",
+      "In 2019 , the Average ticket price was at 82.59 U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "15": "12",
+         "17": "0"
+      },
+      {
+         "1": "0",
+         "9": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": "82.59"
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": "85.07"
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": "74.11"
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": "63.59"
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": "63.59"
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": "63.59"
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": "69.72"
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": "71.47"
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": "72.1"
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": "74.25"
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": "90.13"
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": "72.44"
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": "67.97"
+      }
+   ],
+   "gold": "This graph depicts the average ticket price for Tampa Bay Buccaneers games in the National Football League from 2006 to 2019 . In 2019 , the average ticket price was at 82.59 U.S. dollars .\n"
+}

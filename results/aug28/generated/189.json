@@ -1,0 +1,83 @@
+{
+   "title": "CVS Health 's revenue 2010 - 2017 by segment",
+   "labels": [
+      "Year",
+      "Pharmacy services",
+      "Retail pharmacy"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summary": [
+      "This statistic shows the CVS of Health the CVS Health revenue 2010 from to 2017 . ",
+      "In 2017 , 130.6 % of the employees were employed in the CVS Health , 79.4 million U.S. dollars ."
+   ],
+   "trends": [
+      {
+         "13": [
+            "7",
+            "0"
+         ],
+         "15": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "3": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Pharmacy services": "130.6",
+         "Retail pharmacy": "79.4"
+      },
+      {
+         "Year": "2016",
+         "Pharmacy services": "119.96",
+         "Retail pharmacy": "81.1"
+      },
+      {
+         "Year": "2015",
+         "Pharmacy services": "100.36",
+         "Retail pharmacy": "72.01"
+      },
+      {
+         "Year": "2014",
+         "Pharmacy services": "88.44",
+         "Retail pharmacy": "67.8"
+      },
+      {
+         "Year": "2013",
+         "Pharmacy services": "76.21",
+         "Retail pharmacy": "65.62"
+      },
+      {
+         "Year": "2012",
+         "Pharmacy services": "73.44",
+         "Retail pharmacy": "63.65"
+      },
+      {
+         "Year": "2011",
+         "Pharmacy services": "56.87",
+         "Retail pharmacy": "59.6"
+      },
+      {
+         "Year": "2010",
+         "Pharmacy services": "47.15",
+         "Retail pharmacy": "57.35"
+      }
+   ],
+   "gold": "This statistic depicts CVS Health 's revenue from 2010 to 2017 , by segment . The CVS Health Corporation is a U.S. drug retailing company , with three major segments : Pharmacy Services , Retail/LTC and Corporate . CVS Health is headquartered in Woonsocket , Rhode Island .\n"
+}

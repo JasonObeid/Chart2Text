@@ -1,0 +1,62 @@
+{
+   "title": "Financial cyber crime losses in the U.S. 2018 , by victim state",
+   "xAxis": "State",
+   "yAxis": "Annual loss in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Annual of the cyber crime in the Financial in 2018 , U.S. State . ",
+      "According to the source , the California had the highest Annual loss of a U.S. of 450.48 million U.S. ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "0",
+         "16": "0"
+      }
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Annual loss in million U.S. dollars": "450.48"
+      },
+      {
+         "State": "New York",
+         "Annual loss in million U.S. dollars": "201.09"
+      },
+      {
+         "State": "Texas",
+         "Annual loss in million U.S. dollars": "195.61"
+      },
+      {
+         "State": "Florida",
+         "Annual loss in million U.S. dollars": "178.14"
+      },
+      {
+         "State": "North Carolina",
+         "Annual loss in million U.S. dollars": "137.23"
+      },
+      {
+         "State": "Ohio",
+         "Annual loss in million U.S. dollars": "97.73"
+      },
+      {
+         "State": "Illinois",
+         "Annual loss in million U.S. dollars": "82.85"
+      },
+      {
+         "State": "Michigan",
+         "Annual loss in million U.S. dollars": "80.93"
+      },
+      {
+         "State": "New Jersey",
+         "Annual loss in million U.S. dollars": "79.71"
+      },
+      {
+         "State": "Massachusetts",
+         "Annual loss in million U.S. dollars": "68.24"
+      }
+   ],
+   "gold": "This statistic gives information on the U.S. states with the largest losses through reported cyber crime in 2018 . That year , California reported a loss of more than 450 million U.S. dollars through cyber crime , more than double the amount of second-placed New York , which reported 201 million U.S. dollars of losses to the IC3 .\n"
+}

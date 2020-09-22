@@ -1,0 +1,39 @@
+{
+   "title": "Singapore resident population as of June 2018 by ethnic group",
+   "xAxis": "Ethnicity",
+   "yAxis": "Population in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the distribution of thousands in Ethnicity 2018 in , by ethnic . ",
+      "According to the survey findings , it was found that Others had a resident of 128.65 thousands in the Others ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "3",
+         "15": "3",
+         "19": "5"
+      }
+   ],
+   "data": [
+      {
+         "Ethnicity": "Chinese",
+         "Population in thousands": "2969.28"
+      },
+      {
+         "Ethnicity": "Malays",
+         "Population in thousands": "535.82"
+      },
+      {
+         "Ethnicity": "Indians",
+         "Population in thousands": "360.53"
+      },
+      {
+         "Ethnicity": "Others",
+         "Population in thousands": "128.65"
+      }
+   ],
+   "gold": "As of June 2017 , the population of Singaporeans who were ethnic Chinese was around 2.97 million . Singapore is a multi-ethnic and multi-religious society , with residents categorized into four main ethnic groups : Chinese , Malay , Indian , and Other ethnicities .\n"
+}

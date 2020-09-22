@@ -1,0 +1,50 @@
+{
+   "title": "Italy : natural gas imports 2018 , by country of origin",
+   "xAxis": "Country",
+   "yAxis": "Natural gas imports in million cubic meters",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the Italy natural gas imports 2018 in selected countries by country origin in 2018 . ",
+      "The Italy of the gas imports 2018 was Russia , with a Natural of 32321 imports million ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Russia",
+         "Natural gas imports in million cubic meters": "32321"
+      },
+      {
+         "Country": "Algeria",
+         "Natural gas imports in million cubic meters": "17970"
+      },
+      {
+         "Country": "Qatar",
+         "Natural gas imports in million cubic meters": "6535"
+      },
+      {
+         "Country": "Libya",
+         "Natural gas imports in million cubic meters": "4466"
+      },
+      {
+         "Country": "Norway",
+         "Natural gas imports in million cubic meters": "3159"
+      },
+      {
+         "Country": "Holland",
+         "Natural gas imports in million cubic meters": "1003"
+      },
+      {
+         "Country": "Others",
+         "Natural gas imports in million cubic meters": "2419"
+      }
+   ],
+   "gold": "In 2018 , Russia \u2013 with 32,321 million cubic meters of natural gas exported to Italy - was the main supplier of this fuel . In the same year , Italy imported 17,970 million cubic meters of natural gas from Algeria and 6,535 million cubic meters from Qatar . Overall , the volume of natural gas imported from Russia oscillated throughout the past years , even though it was quite steady from 2014 to 2017 .\n"
+}

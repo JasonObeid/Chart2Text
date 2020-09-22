@@ -1,0 +1,59 @@
+{
+   "title": "French households savings rate 2010 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Savings rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the French Savings rate of French from 2010 to 2017 . ",
+      "The French of was 15.8 14.6 rate in 2010 , up from 14 the previous Year ."
+   ],
+   "trends": [
+      {
+         "10": "7",
+         "12": "0"
+      },
+      {
+         "5": "7",
+         "6": "0",
+         "10": "7",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Savings rate": "14.6"
+      },
+      {
+         "Year": "2016",
+         "Savings rate": "14"
+      },
+      {
+         "Year": "2015",
+         "Savings rate": "14.5"
+      },
+      {
+         "Year": "2014",
+         "Savings rate": "14.4"
+      },
+      {
+         "Year": "2013",
+         "Savings rate": "14.3"
+      },
+      {
+         "Year": "2012",
+         "Savings rate": "15.1"
+      },
+      {
+         "Year": "2011",
+         "Savings rate": "15.6"
+      },
+      {
+         "Year": "2010",
+         "Savings rate": "15.8"
+      }
+   ],
+   "gold": "The statistic presents the personal savings rate in France from 2010 to 2017 . The personal savings rate amounted to 14.6 percent in the first quarter of 2017 in France . The savings rate refers to the amount of money , expressed as a percentage or ratio , that a person deducts from his disposable personal income .\n"
+}

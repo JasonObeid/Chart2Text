@@ -1,0 +1,129 @@
+{
+   "title": "Georgia - unemployment rate 1992 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Unemployment rate in Georgia from 1992 to 2018 . ",
+      "In 2018 , the Unemployment rate in Georgia was at 3.6 % ."
+   ],
+   "trends": [
+      {},
+      {
+         "10": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'18",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "Year": "'17",
+         "Unemployment rate": "4.7"
+      },
+      {
+         "Year": "'16",
+         "Unemployment rate": "5.4"
+      },
+      {
+         "Year": "'15",
+         "Unemployment rate": "6"
+      },
+      {
+         "Year": "'14",
+         "Unemployment rate": "7.1"
+      },
+      {
+         "Year": "'13",
+         "Unemployment rate": "8.2"
+      },
+      {
+         "Year": "'12",
+         "Unemployment rate": "9.2"
+      },
+      {
+         "Year": "'11",
+         "Unemployment rate": "10.2"
+      },
+      {
+         "Year": "'10",
+         "Unemployment rate": "10.5"
+      },
+      {
+         "Year": "'09",
+         "Unemployment rate": "9.9"
+      },
+      {
+         "Year": "'08",
+         "Unemployment rate": "6.2"
+      },
+      {
+         "Year": "'07",
+         "Unemployment rate": "4.5"
+      },
+      {
+         "Year": "'06",
+         "Unemployment rate": "4.7"
+      },
+      {
+         "Year": "'05",
+         "Unemployment rate": "5.3"
+      },
+      {
+         "Year": "'04",
+         "Unemployment rate": "4.8"
+      },
+      {
+         "Year": "'03",
+         "Unemployment rate": "4.8"
+      },
+      {
+         "Year": "'02",
+         "Unemployment rate": "5"
+      },
+      {
+         "Year": "'01",
+         "Unemployment rate": "4"
+      },
+      {
+         "Year": "'00",
+         "Unemployment rate": "3.6"
+      },
+      {
+         "Year": "'99",
+         "Unemployment rate": "3.9"
+      },
+      {
+         "Year": "'98",
+         "Unemployment rate": "4.3"
+      },
+      {
+         "Year": "'97",
+         "Unemployment rate": "4.6"
+      },
+      {
+         "Year": "'96",
+         "Unemployment rate": "4.7"
+      },
+      {
+         "Year": "'95",
+         "Unemployment rate": "4.8"
+      },
+      {
+         "Year": "'94",
+         "Unemployment rate": "5.2"
+      },
+      {
+         "Year": "'93",
+         "Unemployment rate": "6"
+      },
+      {
+         "Year": "'92",
+         "Unemployment rate": "6.9"
+      }
+   ],
+   "gold": "This statistic displays the unemployment rate in Georgia from 1992 to 2018 . In 2018 , the unemployment rate in Georgia was at 3.9 percent .\n"
+}

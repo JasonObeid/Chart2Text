@@ -1,0 +1,141 @@
+{
+   "title": "Payroll taxes in EU countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Payroll taxes of 100 euros gross earnings",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic displays the Payroll taxes of EU countries in selected countries 2018 in . ",
+      "The Payroll of the EU countries with a total population of 48 100 euros ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0"
+      }
+   ],
+   "data": [
+      {
+         "Country": "Sweden",
+         "Payroll taxes of 100 euros gross earnings": "48"
+      },
+      {
+         "Country": "France",
+         "Payroll taxes of 100 euros gross earnings": "45"
+      },
+      {
+         "Country": "Lithuania",
+         "Payroll taxes of 100 euros gross earnings": "43"
+      },
+      {
+         "Country": "Italy",
+         "Payroll taxes of 100 euros gross earnings": "40"
+      },
+      {
+         "Country": "Austria",
+         "Payroll taxes of 100 euros gross earnings": "38"
+      },
+      {
+         "Country": "Czech Republic",
+         "Payroll taxes of 100 euros gross earnings": "37"
+      },
+      {
+         "Country": "Belgium",
+         "Payroll taxes of 100 euros gross earnings": "37"
+      },
+      {
+         "Country": "Slowakia",
+         "Payroll taxes of 100 euros gross earnings": "37"
+      },
+      {
+         "Country": "Estonia",
+         "Payroll taxes of 100 euros gross earnings": "35"
+      },
+      {
+         "Country": "Spain",
+         "Payroll taxes of 100 euros gross earnings": "35"
+      },
+      {
+         "Country": "Euro area",
+         "Payroll taxes of 100 euros gross earnings": "34"
+      },
+      {
+         "Country": "Greece",
+         "Payroll taxes of 100 euros gross earnings": "33"
+      },
+      {
+         "Country": "Netherlands",
+         "Payroll taxes of 100 euros gross earnings": "30"
+      },
+      {
+         "Country": "EU",
+         "Payroll taxes of 100 euros gross earnings": "30"
+      },
+      {
+         "Country": "Latvia",
+         "Payroll taxes of 100 euros gross earnings": "29"
+      },
+      {
+         "Country": "Germany",
+         "Payroll taxes of 100 euros gross earnings": "27"
+      },
+      {
+         "Country": "Portugal",
+         "Payroll taxes of 100 euros gross earnings": "26"
+      },
+      {
+         "Country": "Finland",
+         "Payroll taxes of 100 euros gross earnings": "25"
+      },
+      {
+         "Country": "Hungary",
+         "Payroll taxes of 100 euros gross earnings": "25"
+      },
+      {
+         "Country": "Poland",
+         "Payroll taxes of 100 euros gross earnings": "22"
+      },
+      {
+         "Country": "United Kingdom",
+         "Payroll taxes of 100 euros gross earnings": "20"
+      },
+      {
+         "Country": "Slovenia",
+         "Payroll taxes of 100 euros gross earnings": "19"
+      },
+      {
+         "Country": "Croatia",
+         "Payroll taxes of 100 euros gross earnings": "19"
+      },
+      {
+         "Country": "Bulgaria",
+         "Payroll taxes of 100 euros gross earnings": "19"
+      },
+      {
+         "Country": "Ireland",
+         "Payroll taxes of 100 euros gross earnings": "18"
+      },
+      {
+         "Country": "Cyprus",
+         "Payroll taxes of 100 euros gross earnings": "16"
+      },
+      {
+         "Country": "Denmark",
+         "Payroll taxes of 100 euros gross earnings": "16"
+      },
+      {
+         "Country": "Luxembourg",
+         "Payroll taxes of 100 euros gross earnings": "13"
+      },
+      {
+         "Country": "Malta",
+         "Payroll taxes of 100 euros gross earnings": "8"
+      },
+      {
+         "Country": "Romania",
+         "Payroll taxes of 100 euros gross earnings": "0"
+      }
+   ],
+   "gold": "The statistic shows payroll taxes of 100 euros gross earnings in member states of the European Union in 2018 . Payroll taxes include social contributions , the cost of professional education and training , the taxes on payroll or number of employees , and other special expenses . In 2018 , payroll taxes of 100 euros gross earning amounted to 30 euros in the European Union .\n"
+}

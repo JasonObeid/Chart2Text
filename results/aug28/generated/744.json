@@ -1,0 +1,42 @@
+{
+   "title": "Reasons for eating fast food in the U.S. as of August 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic presents the distribution of for eating fast food in the U.S. as of 2019 . ",
+      "During the survey , it was found that 67.2 % of the respondents stated that they used Convenient on a daily basis ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "17": "0"
+      }
+   ],
+   "data": [
+      {
+         "Response": "Convenient",
+         "Share of respondents": "67.2"
+      },
+      {
+         "Response": "Cheap",
+         "Share of respondents": "31.7"
+      },
+      {
+         "Response": "I just like it",
+         "Share of respondents": "30.6"
+      },
+      {
+         "Response": "Lack of other options",
+         "Share of respondents": "13.2"
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": "5.6"
+      }
+   ],
+   "gold": "This statistic shows the reasons for eating fast food in the United States as of August 2014 . During the survey , 13.2 percent of respondents said that they ate fast food because they lacked other options .\n"
+}

@@ -1,0 +1,49 @@
+{
+   "title": "Skype usage reach in the United States 2018 , by age group",
+   "xAxis": "Year",
+   "yAxis": "Reach",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This statistic shows the share of internet users in the United States who were using Google Plus as of 2018 , sorted by age . ",
+      "We Are Flint found that 52 % of internet users aged from 25 to 34 years old used the social networking site ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-24",
+         "Reach": "51"
+      },
+      {
+         "Year": "25-34",
+         "Reach": "52"
+      },
+      {
+         "Year": "35-44",
+         "Reach": "42"
+      },
+      {
+         "Year": "45-54",
+         "Reach": "33"
+      },
+      {
+         "Year": "55-64",
+         "Reach": "25"
+      },
+      {
+         "Year": "65-75",
+         "Reach": "26"
+      },
+      {
+         "Year": "75+",
+         "Reach": "16"
+      }
+   ],
+   "gold": "This statistic shows the share of internet users in the United States who were using Skype as of January 2018 , sorted by age group . We Are Flint found that 51 percent of internet users aged from 18 to 24 years old used the telecommunications application software .\n"
+}

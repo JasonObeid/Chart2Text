@@ -1,0 +1,74 @@
+{
+   "title": "Average regular season home attendance of the Cleveland Browns 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Average regular season home attendance of the Cleveland Browns from 2008 to 2019 . ",
+      "In 2019 , the Average attendance at home games of the Cleveland Browns was 67431 . "
+   ],
+   "trends": [
+      {
+         "13": "11",
+         "15": "0"
+      },
+      {
+         "1": "0",
+         "13": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": "67431"
+      },
+      {
+         "Year": "2018",
+         "Average attendance": "65765"
+      },
+      {
+         "Year": "2017",
+         "Average attendance": "63882"
+      },
+      {
+         "Year": "2016",
+         "Average attendance": "64311"
+      },
+      {
+         "Year": "2015",
+         "Average attendance": "66186"
+      },
+      {
+         "Year": "2014",
+         "Average attendance": "67425"
+      },
+      {
+         "Year": "2013",
+         "Average attendance": "71242"
+      },
+      {
+         "Year": "2012",
+         "Average attendance": "66632"
+      },
+      {
+         "Year": "2011",
+         "Average attendance": "65859"
+      },
+      {
+         "Year": "2010",
+         "Average attendance": "66116"
+      },
+      {
+         "Year": "2009",
+         "Average attendance": "68888"
+      },
+      {
+         "Year": "2008",
+         "Average attendance": "72778"
+      }
+   ],
+   "gold": "This graph depicts the average regular season home attendance of the Cleveland Browns from 2008 to 2019 . In 2019 , the average attendance at home games of the Cleveland Browns was 67,431 .\n"
+}
