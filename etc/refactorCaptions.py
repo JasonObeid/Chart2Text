@@ -100,7 +100,7 @@ for summaryPath in summaryPaths:
                 summary = summaryFile.read()
                 cleanCaption = word_tokenize(summary)
                 newSummaryPath = '../dataset/captions/'+summaryPath
-                with open(newSummaryPath, "w") as outf:
+                with open(newSummaryPath, "w", encoding='utf-8') as outf:
                     cleanCaption = ' '.join(cleanCaption).replace('*','')
                     outf.write("{}\n".format(cleanCaption))
                 outf.close()

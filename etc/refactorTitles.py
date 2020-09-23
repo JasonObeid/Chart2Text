@@ -48,7 +48,7 @@ for summaryPath in titlePaths:
                 if lastTokens[1] == '-' and lastTokens[0].isnumeric() and lastTokens[2].isnumeric():
                         cleanTitle[-2] = 'to'
                 newTitlePath = '../dataset/titles/' + summaryPath
-                with open(newTitlePath, "w") as outf:
+                with open(newTitlePath, "w", encoding='utf-8') as outf:
                         # remove asterisks
                         cleanTitle = ' '.join(cleanTitle).replace('*', '')
                         outf.write("{}\n".format(cleanTitle))
