@@ -1,4 +1,6 @@
 import os
+from statistics import mean
+
 import pandas as pd
 
 punctuation = [';',':', '-', '(', ')', ',']
@@ -68,3 +70,19 @@ for complexDataPath in complexDataList:
     cellCount += (df.size - len(df.columns))
 
 print(cellCount)
+
+with open('../results/aug17/generated-p80.txt', encoding='utf-8') as templated, \
+open('../results/aug17/generated_untemplated-p80.txt', encoding='utf-8') as untemplated, \
+open('../results/aug17/generated_baseline.txt', encoding='utf-8') as baseline:
+    tmp = templated.readlines()
+    untmp = untemplated.readlines()
+    base = baseline.readlines()
+    templatedSentences = mean([len(line.split(' . ')) for line in tmp])
+    templatedTokens = mean([len(line.split(' ')) for line in tmp])
+    untemplatedSentences = mean([len(line.split(' . ')) for line in untmp])
+    untemplatedTokens = mean([len(line.split(' ')) for line in untmp])
+    baselineSentences = mean([len(line.split('. ')) for line in base])
+    baselineTokens = mean([len(line.split(' ')) for line in base])
+    print(f'templated: {templatedSentences}, {templatedTokens}')
+    print(f'untemplated: {untemplatedSentences}, {untemplatedTokens}')
+    print(f'baseline: {baselineSentences}, {baselineTokens}')

@@ -467,7 +467,7 @@ dataRatioArr = []
 captionRatioArr = []
 
 assert len(captionFiles) == len(dataFiles) == len(titleFiles)
-
+print(len(captionFiles), len(dataFiles), len(titleFiles))
 # may implemented seperately to avoid accidentally ignoring the word rather than month
 months = ['january', 'february', 'march', 'april', 'june', 'july', 'august', 'september', 'november', 'december']
 
