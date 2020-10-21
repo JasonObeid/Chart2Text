@@ -3,7 +3,7 @@ from statistics import mean
 import pandas as pd
 import csv
 from collections import Counter
-
+from statistics import stdev
 """Created on Aug 1, 2016
 @author: skarumbaiah
 Computes Fleiss' Kappa 
@@ -63,8 +63,9 @@ def getMeanScore(df):
     for col in df.iteritems():
         score = col[1].to_list().index(True) + 1
         scores.append(score)
-    meanScore = round(sum(scores) / len(scores),2)
-    return meanScore, scores
+    meanScore = round(sum(scores) / len(scores), 2)
+    stdevScore = round(stdev(scores), 2)
+    return meanScore, stdevScore, scores
 
 #def getSentencePercentages(sentences):
 
@@ -122,11 +123,11 @@ def getKappaScore(scores):
     kappa4 = fleissKappa(q4, 3)
     return [kappa1,kappa2,kappa3,kappa4]
 
+fileNames = ['OurModel','Baseline']
 
-def readData(filePath):
+def readData(filePath, count):
     line = []
-    line.append(filePath[-8:-5])
-
+    line.append(fileNames[count])
     df = pd.read_csv(filePath)
     dataOrder.append(df["Input.imgPath"].tolist())
 
@@ -151,11 +152,12 @@ def readData(filePath):
     items = []
     print(question1)
     for question in [question1, question2, question3, question4]:
-        meanScore, scores = getMeanScore(question)
+        meanScore, stdevScore, scores = getMeanScore(question)
         line.append(meanScore)
         items.append(scores)
         print(', '.join([str(score) for score in scores]))
-        print(f'Question {questionCount}: {meanScore}')
+        print(f'Question {questionCount} mean: {meanScore}')
+        print(f'Question {questionCount} stdev: {stdevScore}')
         questionCount += 1
     #print(len(items))
     kappaScores = getKappaScore(items)
@@ -215,14 +217,14 @@ def readData(filePath):
     print(line)
     csvwriter.writerow(line)
 
-paths = ['../results_ours.csv', '../results_untemplated.csv', '../results_baseline.csv']
+paths = ['../results_ours.csv', '../results_untemplated.csv']
 
 dataOrder = []
-with open('test1.csv', 'w', newline='') as csvfile:
+with open('../studyOutcome/studyStats.csv', 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     csvwriter.writerow(labels)
-    for path in paths:
-        readData(path)
+    for path, count in zip(paths, range(len(paths))):
+        readData(path, count)
     #check order is correct for kappa score validity
     assert dataOrder[0] == dataOrder[1]
 

@@ -1,5 +1,6 @@
+import csv
 import json
-from statistics import mean
+from statistics import mean, stdev
 from pyxdameraulevenshtein import normalized_damerau_levenshtein_distance
 import sys
 """
@@ -83,22 +84,22 @@ with open(labelPath, 'r', encoding='utf-8') as labelFile, open(summaryPath, 'r',
                 list2.remove(token.lower())
                 untemplatedList.append(token.lower())
 
-        baselineList = []
+        """baselineList = []
         with open(baselinePath + str(count) + '.json') as baselineFile:
             document3 = json.loads(baselineFile.read())
             summary3 = ''.join(document3['summary'])
         for token in summary3.split():
             if token.lower() in list3:
                 list3.remove(token.lower())
-                baselineList.append(token.lower())
+                baselineList.append(token.lower())"""
         count += 1
 
         generatedRatio = len(generatedList) / recordLength
-        baselineRatio = len(baselineList) / recordLength
+        #baselineRatio = len(baselineList) / recordLength
         untemplatedRatio = len(untemplatedList) / recordLength
 
         generatedScores.append(generatedRatio)
-        baselineScores.append(baselineRatio)
+        #baselineScores.append(baselineRatio)
         untemplatedScores.append(untemplatedRatio)
 
         """
@@ -127,6 +128,38 @@ print(f'untemplated CO: {round(mean(untemplatedDLDs)*100,2)}%')
 
 print('\n')
 """
-print(f'generated CS: {round(mean(generatedScores)*100,2)}%')
-print(f'baseline CS: {round(mean(baselineScores)*100,2)}%')
-print(f'untemplated CS: {round(mean(untemplatedScores)*100,2)}%')
+
+"""print(f'generated CS stdev: {(stdev(generatedScores))}')
+#print(f'baseline CS stdev: {(stdev(baselineScores))}')
+print(f'baseline CS stdev: {(stdev(untemplatedScores))}')
+print()
+print(f'generated CS mean: {mean(generatedScores)}')
+#print(f'baseline CS mean: {mean(baselineScores)}')
+print(f'baseline CS mean: {mean(untemplatedScores)}')
+
+print('\n')"""
+
+print(f'generated CS stdev: {round(stdev(generatedScores)*100,2)}%')
+#print(f'baseline CS stdev: {round(stdev(baselineScores)*100,2)}%')
+print(f'baseline CS stdev: {round(stdev(untemplatedScores)*100,2)}%')
+print()
+print(f'generated CS mean: {round(mean(generatedScores)*100,2)}%')
+#print(f'baseline CS mean: {round(mean(baselineScores)*100,2)}%')
+print(f'baseline CS mean: {round(mean(untemplatedScores)*100,2)}%')
+print()
+print(f'generated CS RSD: {round((stdev(generatedScores)*100) / abs(mean(generatedScores)),2)}%')
+#print(f'baseline CS RSD: {round((stdev(baselineScores)*100) / abs(mean(baselineScores)),2)}%')
+print(f'baseline CS RSD: {round((stdev(untemplatedScores)*100) / abs(mean(untemplatedScores)),2)}%')
+
+labels = ['generated CS stdev', 'generated CS mean', 'generated CS RSD', 'baseline CS stdev', 'baseline CS mean', 'baseline CS RSD']
+values = [f'{round(stdev(generatedScores)*100,2)}%',
+          f'{round(mean(generatedScores)*100,2)}%',
+          f'{round((stdev(generatedScores)*100) / abs(mean(generatedScores)),2)}%',
+          f'{round(stdev(untemplatedScores)*100,2)}%',
+          f'{round(mean(untemplatedScores)*100,2)}%',
+          f'{round((stdev(untemplatedScores)*100) / abs(mean(untemplatedScores)),2)}%']
+
+with open('../results/automatedEvaluation.csv', 'w', newline='') as csvfile:
+    csvwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    csvwriter.writerow(labels)
+    csvwriter.writerow(values)
