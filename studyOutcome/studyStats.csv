@@ -1,0 +1,3 @@
+System,Informativeness,Conciseness,Coherence,Fluency,Sentence 1 yes,Sentence 1 no,Sentence 1 partial,Sentence 1 other,Sentence 2 yes,Sentence 2 no,Sentence 2 partial,Sentence 2 other,Sentence 3 yes,Sentence 3 no,Sentence 3 partial,Sentence 3 other
+OurModel,3.42,3.58,3.32,3.73,55.833%,20.833%,18.333%,5.0%,54.167%,27.5%,11.667%,6.667%,43.056%,30.556%,16.667%,9.722%
+Baseline,2.13,2.4,2.27,3.78,28.333%,63.333%,6.667%,1.667%,21.008%,68.067%,6.723%,4.202%,18.75%,66.667%,8.333%,6.25%
