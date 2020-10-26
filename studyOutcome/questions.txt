@@ -1,0 +1,20 @@
+For each sentence in summary:
+    Given sentence #i: "sentence i"
+        Are the fact(s) mentioned in this sentence supported by the chart?
+        Yes, No, Partially, Can't Decide (Please justify below)
+
+How informative is the summary of the chart?
+    Not informative at all, Uninformative, Neutral, Informative, Very informative
+        Why did you choose this answer?
+
+How concise is the summary of the chart?
+    Too verbose, Verbose, Neutral, Concise, Very concise
+        Why did you choose this answer?
+
+How coherent is the summary (connections between sentences) of the chart?
+    Very incoherent, Slightly incoherent, Neutral, Coherent, Very coherent
+        Why did you choose this answer?
+
+How fluent / grammatically correct are the sentences in the summary of the chart?
+    Not fluent at all, Non-fluent, Neutral, Fluent, Very fluent
+        Why did you choose this answer?
