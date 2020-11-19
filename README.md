@@ -1,5 +1,5 @@
 # Chart-to-Text: Generating Natural Language Explanations for Charts by Adapting the Transformer Model
-Code for [\[PDF\]](https://www.aclweb.org/anthology/) (anonymized).
+Code for [Chart-to-Text: Generating Natural Language Explanations for Charts by Adapting the Transformer Model](https://arxiv.org/abs/2010.09142).
 
 Much of the code is adapted from **Enhanced Transformer Model for Data-to-Text Generation** [\[PDF\]](https://www.aclweb.org/anthology/D19-5615/) (Gong, Crego, Senellart; WNGT2019). https://github.com/gongliym/data2text-transformer
 
