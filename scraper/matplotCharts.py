@@ -4,9 +4,6 @@ import re
 import pandas as pd
 import numpy as np
 import os
-from sklearn import utils
-import csv
-import weasyprint as wsp
 import PIL as pil
 import matplotlib.pyplot as plt
 
@@ -99,7 +96,6 @@ for complexDataPath in complexDataList:
                 ax = df.plot.bar()
             else:
                 ax = df.plot.line()
-                print(df.index.values)
                 plt.xticks(rotation='vertical')
                 # Pad margins so that markers don't get clipped by the axes
                 plt.margins(0.05)
