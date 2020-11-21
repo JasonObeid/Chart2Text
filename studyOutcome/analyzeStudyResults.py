@@ -217,7 +217,7 @@ def readData(filePath, count):
     print(line)
     csvwriter.writerow(line)
 
-paths = ['../results_ours.csv', '../results_untemplated.csv']
+paths = ['./results_ours.csv', './results_untemplated.csv']
 
 dataOrder = []
 with open('../studyOutcome/studyStats.csv', 'w', newline='') as csvfile:

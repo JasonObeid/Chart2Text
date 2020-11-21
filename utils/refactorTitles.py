@@ -1,4 +1,4 @@
-import scripts.tokenizer as tkn
+import utils.tokenizer as tkn
 import os
 
 def groupSequence(lst):

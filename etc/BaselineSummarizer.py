@@ -8,12 +8,12 @@ from sklearn import preprocessing
 import pandas as pd
 import numpy as np
 
-goldPath = './data/test/testOriginalSummary.txt'
-dataPath = './data/test/testData.txt'
-titlePath = './data/test/testTitle.txt'
+goldPath = '../data/test/testOriginalSummary.txt'
+dataPath = '../data/test/testData.txt'
+titlePath = '../data/test/testTitle.txt'
 
-websitePath = './results/aug17/generated_baseline'
-onePath = './results/aug17/generated_baseline.txt'
+websitePath = '../results/aug17/generated_baseline'
+onePath = '../results/aug17/generated_baseline.txt'
 
 summaryList = []
 

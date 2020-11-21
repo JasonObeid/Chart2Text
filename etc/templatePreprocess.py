@@ -13,6 +13,11 @@ import nltk
 import pandas as pd
 from text_to_num import text2num
 
+"""
+templatePreprocess.py: Run this to generate the preprocessed dataset.
+                       Substitutes the summaries' instances of data with data variables.
+"""
+
 # import random
 nlp = spacy.load('en_core_web_md')
 nltk.download('punkt')

@@ -64,6 +64,7 @@ Outputs the training data:
 * Data Records: `data/*split*/trainData.txt.pth`
 * Summaries: `data/*split*/trainSummary.txt.pth`
 
+Note: if you get a dictionary assertion error, then delete the old .pth files in data subfolders and try again
 ## Model Training
 ```
 MODELPATH=$PWD/model
@@ -115,7 +116,7 @@ Use the following commands to generate from the above models:
 [Or our baseline model adapted from Li et al. https://github.com/gongliym/data2text-transformer (trained without data variables)](https://drive.google.com/file/d/1-vNnCwFLkKsyC2f4AOVh6kkqIpAhhWlt/view?usp=sharing) 
 
 ```
-python3 model/summarize.py 
+python model/summarize.py 
   --model_path aug17-80.pth 
   --table_path data/test/testData.txt \
   --output_path results/aug17/templateOutput-p80.txt \
