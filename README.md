@@ -21,6 +21,8 @@ Chart type breakdown:
 | Complex |  902 |  640 |  1542  |
 |  Total: | 4466 | 3839 |        |
 
+Images available seperately at https://github.com/JasonObeid/Chart2TextImages due to large size ~1GB
+
 ### Step1: Cleaning dataset
 
 Clean the text within the chart titles and summaries
