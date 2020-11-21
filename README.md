@@ -7,7 +7,19 @@ This project aims to automatically generate salient summaries from a chart's dat
 
 ## Dataset
 
-The dataset is stored in the dataset directory. There are individual csv files for each statistic's title, data, and caption in their respective folders. 
+The dataset is stored in the dataset directory. There are individual files for each statistic's title, data, and caption in their respective folders.
+
+Statistics which only contains two columns i.e simple bar or line charts are found in the dataset folder, and statistics with more than two columns i.e grouped bar or multi-line charts are found in the dataset/multiColumn folder.
+
+There are also uncleaned versions found in the _old folders.
+
+Chart type breakdown:
+
+|         | Line |  Bar | Total: |
+|---------|:----:|:----:|:------:|
+|  Simple | 3564 | 3199 |  6763  |
+| Complex |  902 |  640 |  1542  |
+|  Total: | 4466 | 3839 |        |
 
 ### Step1: Cleaning dataset
 
