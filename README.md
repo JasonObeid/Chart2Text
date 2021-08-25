@@ -28,9 +28,9 @@ Images available seperately at https://github.com/JasonObeid/Chart2TextImages du
 Clean the text within the chart titles and summaries
 
 ```
-python etc/refactorTitles.py
+python utils/refactorTitles.py
 
-python etc/refactorCaptions.py
+python utils/refactorCaptions.py
 
 ```
 
@@ -148,7 +148,7 @@ python etc/summaryComparison.py
 
 ### "Content Selection" evaluation
 ```
-python etc/automatedEvaluation.py
+python studyOutcome/automatedEvaluation.py
 ```
 
 ### BLEU evaluation
