@@ -5,6 +5,10 @@ Much of the code is adapted from **Enhanced Transformer Model for Data-to-Text G
 
 This project aims to automatically generate salient summaries from a chart's data table using a modified Transformer model.
 
+## 2022 Update
+
+Visit [SciCap: Scientific Figures Dataset](https://github.com/tingyaohsu/SciCap) for a related project with a larger and more detailed dataset.
+
 ## Dataset
 
 The dataset is stored in the dataset directory. There are individual files for each statistic's title, data, and caption in their respective folders.
