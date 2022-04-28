@@ -7,7 +7,9 @@ This project aims to automatically generate salient summaries from a chart's dat
 
 ## 2022 Update
 
-Visit [SciCap: Scientific Figures Dataset](https://github.com/tingyaohsu/SciCap) for a related project with a larger and more detailed dataset.
+Newer paper + dataset on this topic: [Chart-to-Text: A Large-Scale Benchmark for Chart Summarization](https://github.com/vis-nlp/Chart-to-text) [(Paper on arXiv)](https://arxiv.org/abs/2203.06486)
+
+Also visit [SciCap: Scientific Figures Dataset](https://github.com/tingyaohsu/SciCap) for a related project with a larger and more detailed dataset.
 
 ## Dataset
 
