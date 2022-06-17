@@ -9,7 +9,7 @@ sacremoses==0.0.43
 scipy==1.5.0
 nltk==3.5
 en_core_web_lg==2.2.5
-Scrapy==2.1.0
+Scrapy==2.6.1
 numpy==1.18.4
 matplotlib==3.2.1
 pandas==1.0.3
