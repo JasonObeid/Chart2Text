@@ -7,7 +7,7 @@ selenium==3.141.0
 pyxDamerauLevenshtein==1.6.1
 sacremoses==0.0.43
 scipy==1.5.0
-nltk==3.5
+nltk==3.6.6
 en_core_web_lg==2.2.5
 Scrapy==2.1.0
 numpy==1.18.4
